@@ -1,0 +1,20 @@
+[Adblock Plus 1.1]
+! abp_indo without element hiding 
+! Last modified: %timestamp%
+! Expires: 5 days (update frequency)
+! Licence: https://../COPYING
+!
+! Please report any unblocked adverts or problems
+! in the forums (http://)
+! or via e-mail (hermawanadhis@gmail.com).
+!
+!-----------------General advert blocking filters-----------------!
+%include abpindo_general_block.txt%
+!-----------------Third-party advertisers-----------------!
+%include abpindo_adservers.txt%
+!-----------------Third-party adverts-----------------!
+%include abpindo_thirdparty.txt%
+!-----------------Specific advert blocking filters-----------------!
+%include abpindo_specific_block.txt%
+!-----------------Whitelists-----------------!
+%include abpindo_whitelist.txt%
