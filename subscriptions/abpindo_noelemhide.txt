@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: YJj2/c62bqTCQeUqHWqGZQ
+! Checksum: Hji/Vni51osBazFereVfxw
 ! abp_indo without element hiding 
-! Last modified: 05:29:25  Sabtu 06 Nopember 2010
+! Last modified:  Sabtu 06 Nopember 2010, 18:45:47 WIB
 ! Expires: 7 days (update frequency)
 !
 ! Please report any unblocked adverts or problems
@@ -202,20 +202,12 @@
 ||ratubola.com^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||swfcabin.com^$domain=krucil.com
-||tinypic.com^$domain=bb18.org
-||tinypic.com^$domain=bluefame.com
-||tinypic.com^$domain=indobokepz.com
-||tinypic.com^$domain=kikil.org
-||tinypic.com^$domain=krucil.com
-||tinypic.com^$domain=masterporn.me
-||tinypic.com^$domain=perawan.us
+||tinypic.com^$domain=bb18.org|domain=bluefame.com|domain=indobokepz.com|domain=kikil.org|krucil.com|masterporn.me|perawan.us
 ||us.openx.detik.com^$~third-party
 ||vivanews.com^$domain=indowebster.com
 ||web-indonesia.com^$third-party
 !-----------------Specific advert blocking filters-----------------!
 ! *** abpindo_specific_block.txt ***
-||202.93.17.147/includea/bannerforum.
-||202.93.17.147/includea/headerforum.php
 ||cashburners.biz/banners/
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
@@ -252,6 +244,7 @@
 ||kompas.com/data/banner/
 ||krucil.com/bb17-iklan.php
 ||krucil.com/pop.js
+||lintasberita.com/public/images/bannermidlecenter.jpg
 ||liquidweb.com/banners/
 ||lytogame.com/images/partner/
 ||lytogame.com/partner/
@@ -264,6 +257,5 @@
 ||suarabola.com/banners/
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
-||lintasberita.com/public/images/bannermidlecenter.jpg
 !-----------------Whitelists-----------------!
 ! *** abpindo_whitelist.txt ***
