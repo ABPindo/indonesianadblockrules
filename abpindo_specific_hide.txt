@@ -67,7 +67,11 @@ kapanlagi.com###v5-showcase3
 kapanlagi.com###v5-topframe
 kaskus.us###BannerAts
 kaskus.us###BannerBwh
+kaskus.us###Conho01Left
+kaskus.us###Conho01right
+kaskus.us###MidGaris
 kaskus.us###MidGaris1
+kaskus.us###Middbawhome
 kaskus.us###MiddleBanner03
 kaskus.us###MiddleBanner1
 kaskus.us###Middle_blue
@@ -77,6 +81,7 @@ kaskus.us###Textatas
 kaskus.us###cntysm
 kaskus.us###exp
 kaskus.us##[href="http://kad.kaskus.us"]
+kaskus.us##[href="http://kad.kaskus.us/"]
 kaskus.us##[style="height: 30px;"]
 kaskus.us##[style="height:30px"]
 kikil.org###iklanpersegi
@@ -94,6 +99,7 @@ m.detik.com##.adtext03
 masterporn.me##[align="center"]
 mediaindonesia.com###topbanner
 mediaindonesia.com##.minitext
+megindo.net###aft
 okezone.com##.d300.p3.fl
 okezone.com##[style="width: 300px; height: 250px; float: left; padding: 0pt;"]
 perawan.us###fly
@@ -104,11 +110,6 @@ stafaband.info###bottom
 suarabola.com###bannertop
 tempointeraktif.com###banner-kanan
 tempointeraktif.com##.block.iklan
+vivanews.com##.reset10
 wap.vivanews.com##[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 warungbebas.com##.ads-sponsors
-kaskus.us###Middbawhome
-kaskus.us###MidGaris
-kaskus.us###Conho01right
-kaskus.us###Conho01Left
-kaskus.us##[href="http://kad.kaskus.us/"]
-vivanews.com##.reset10
