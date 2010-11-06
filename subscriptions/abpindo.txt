@@ -1,13 +1,12 @@
 [Adblock Plus 1.1]
-! Checksum: KbWxVIzOlVwxZPvwg7f2IQ
+! Checksum: SAEAe5D3g4vJuMTIZ/0oxQ
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified: 09:46:16  Sabtu Nopember 06 2010
+! Last modified: 05:03:27  Sabtu 06 Nopember 2010
 ! Expires: 7 days (update frequency)
-! Licence: https://../COPYING
 !
 ! Please report any unblocked adverts or problems
-! in the forums (http://)
-! (http://code.google.com/p/indonesianadblockrules/)
+! in the forums (http://www.kaskus.us/showthread.php?t=3646917)
+! in the blog(http://indonesianfilter.blogspot.com)
 ! or via e-mail (hermawanadhis@gmail.com).
 !
 !-----------------General advert blocking filters-----------------!
