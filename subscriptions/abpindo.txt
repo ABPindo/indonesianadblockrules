@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: SAEAe5D3g4vJuMTIZ/0oxQ
+! Checksum: rJFBX9SPoWQtaO3sQrSqKA
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified: 05:03:27  Sabtu 06 Nopember 2010
+! Last modified: 05:29:25  Sabtu 06 Nopember 2010
 ! Expires: 7 days (update frequency)
 !
 ! Please report any unblocked adverts or problems
@@ -326,6 +326,7 @@
 ||suarabola.com/banners/
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
+||lintasberita.com/public/images/bannermidlecenter.jpg
 !-----------------Specific element hiding rules-----------------!
 ! *** abpindo_specific_hide.txt ***
 blogdetik.com##.bannerA
