@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!C:\strawberry\perl\bin -w
 #Originally written by Wladimir Palant
 #Adapted for the EasyList repository by Michael
 #Adapted for the abp_indo repository by hermawanadhis
@@ -114,8 +114,7 @@ sub resolveIncludes
 
   my $failures = 0;
   $data =~ s/^\s*%include\s+(.*)%\s*$/my $include = resolveInclude($1, $level);$include ? $include : $failures++/gem;
-
-  my $timestamp = strftime("%e %b %Y %R UTC", gmtime);
+  my $timestamp = strftime("%I:%M:%S %p %A %B %d %Y", gmtime);
   $data =~ s/%timestamp%/$timestamp/g;
 
   return ($failures ? undef : $data);
