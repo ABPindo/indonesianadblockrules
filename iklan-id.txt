@@ -1,0 +1,12 @@
+[Adblock Plus 1.1]
+! Iklan_Id - supplement for abpindo
+! Last modified %timestamp%
+! Expires: 7 days (update frequency)
+!
+! Please report any unblocked adverts or problems
+! in the forums (http://www.kaskus.us/showthread.php?t=3646917)
+! in the blog(http://indonesianfilter.blogspot.com)
+! or via e-mail (hermawanadhis@gmail.com).
+!
+%include abpindo_beta_filter.txt%
+%include abpindo_iklan_id.txt%

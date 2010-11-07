@@ -1,0 +1,12 @@
+[Adblock Plus 1.1]
+! JBet - Jebakan Betmen
+! Last modified %timestamp%
+! Expires: 7 days (update frequency)
+!
+! Please report any unblocked adverts or problems
+! in the forums (http://www.kaskus.us/showthread.php?t=3646917)
+! in the blog(http://indonesianfilter.blogspot.com)
+! or via e-mail (hermawanadhis@gmail.com).
+!
+%include abpindo_computer_prank.txt%
+%include abpindo_longcat.txt%
