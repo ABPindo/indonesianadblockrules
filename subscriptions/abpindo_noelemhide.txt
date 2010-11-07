@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: mHREc8l41reN9x3Aa/bkPg
+! Checksum: 47mbraZbMxIgoUeCsZnh5g
 ! abp_indo without element hiding 
-! Last modified  Minggu 07 Nopember 2010, 19:00:00 WIB
+! Last modified  Senin 08 Nopember 2010, 05:25:50 WIB
 ! Expires: 7 days (update frequency)
 !
 ! Please report any unblocked adverts or problems
@@ -202,7 +202,7 @@
 ||ratubola.com^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||swfcabin.com^$domain=krucil.com
-||tinypic.com^$domain=bb18.org|domain=bluefame.com|domain=indobokepz.com|domain=kikil.org|krucil.com|masterporn.me|perawan.us
+||tinypic.com^$domain=bb18.org|bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
 ||us.openx.detik.com^$~third-party
 ||vivanews.com^$domain=indowebster.com
 ||web-indonesia.com^$third-party
@@ -215,6 +215,7 @@
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
 ||imagedum.com/images/457_Arenabola.png
+||imagedum.com/images/774_Tangkasbet.gif
 ||imagedum.com/images/928_Ratubola.gif
 ||img.kaskus.us/banner/kaspay-banner.png
 ||img.kaskus.us/banner/link-kaspay.gif
@@ -253,6 +254,8 @@
 ||megindo.net/megindo2/data/affiliates/
 ||megindo.net/megindo2/images/banner-
 ||oprekpc.com/banner/
+||perawan.us/images/banner/*
+||perawan.us/javascript/pop.js
 ||stafaband.info/tb.swf
 ||stat.k.kidsklik.com/js/tekno/tekno-ads.php?s=wp&0610101038
 ||suarabola.com/banners/
