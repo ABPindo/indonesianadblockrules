@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: No7RVIXZ2u31g7h7SaHCRQ
+! Checksum: cMjH+S07EQmcNpgVnjZahw
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified  Sabtu 06 Nopember 2010, 20:32:51 WIB
+! Last modified  Minggu 07 Nopember 2010, 15:16:37 WIB
 ! Expires: 7 days (update frequency)
 !
 ! Please report any unblocked adverts or problems
@@ -9,7 +9,6 @@
 ! in the blog(http://indonesianfilter.blogspot.com)
 ! or via e-mail (hermawanadhis@gmail.com).
 !
-!-----------------General advert blocking filters-----------------!
 ! *** abpindo_general_block.txt ***
 .com/iklan/*
 .id/ads/*
@@ -23,7 +22,6 @@
 |http://adv.
 |http://banners-id.
 |http://iklan.
-!-----------------General element hiding rules-----------------!
 ! *** abpindo_general_hide.txt ***
 ###AdContainer
 ###AdHeader
@@ -85,7 +83,6 @@
 ##.textlinkads
 ##.top-banner
 ##.topad
-!-----------------Third-party advertisers-----------------!
 ! *** abpindo_adservers.txt ***
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
@@ -245,7 +242,6 @@
 ||valueclick.net^$third-party
 ||vizu.com^$third-party
 ||yesads.com^third-party
-!-----------------Third-party adverts-----------------!
 ! *** abpindo_thirdparty.txt ***
 ||arenabola.com^$domain=krucil.com
 ||asiafriendfinder.com^$domain=indowebster.com
@@ -268,8 +264,8 @@
 ||us.openx.detik.com^$~third-party
 ||vivanews.com^$domain=indowebster.com
 ||web-indonesia.com^$third-party
-!-----------------Specific advert blocking filters-----------------!
 ! *** abpindo_specific_block.txt ***
+||admin.ads.indowebster.com/image/*
 ||cashburners.biz/banners/
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
@@ -319,7 +315,6 @@
 ||suarabola.com/banners/
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
-!-----------------Specific element hiding rules-----------------!
 ! *** abpindo_specific_hide.txt ***
 blogdetik.com##.bannerA
 bluefame.com##CENTER
@@ -434,5 +429,4 @@ tempointeraktif.com##.block.iklan
 vivanews.com##.reset10
 wap.vivanews.com##[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 warungbebas.com##.ads-sponsors
-!-----------------Whitelists-----------------!
 ! *** abpindo_whitelist.txt ***

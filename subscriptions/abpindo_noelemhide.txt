@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 2rJR0gk0Q/ogz1MOXAup6g
+! Checksum: IeFaFsAGtY0duoP/y4J3dQ
 ! abp_indo without element hiding 
-! Last modified  Sabtu 06 Nopember 2010, 20:32:51 WIB
+! Last modified  Minggu 07 Nopember 2010, 15:16:37 WIB
 ! Expires: 7 days (update frequency)
 !
 ! Please report any unblocked adverts or problems
@@ -208,6 +208,7 @@
 ||web-indonesia.com^$third-party
 !-----------------Specific advert blocking filters-----------------!
 ! *** abpindo_specific_block.txt ***
+||admin.ads.indowebster.com/image/*
 ||cashburners.biz/banners/
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
