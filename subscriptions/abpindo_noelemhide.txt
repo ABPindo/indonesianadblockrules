@@ -1,8 +1,9 @@
 [Adblock Plus 1.1]
-! Checksum: TBZgJhCpfofnHmsFG4X9+Q
+! Checksum: EbGRhy8pxDNnUJaUunq3aA
 ! abp_indo without element hiding 
-! Last modified  Senin 08 Nopember 2010, 08:25:16 WIB
+! Last modified  Senin 08 Nopember 2010, 09:34:36 WIB
 ! Expires: 7 days (update frequency)
+! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
 ! Please report any unblocked adverts or problems
 ! in the forums (http://www.kaskus.us/showthread.php?t=3646917)
@@ -11,12 +12,16 @@
 !
 !-----------------General advert blocking filters-----------------!
 ! *** abpindo_general_block.txt ***
+-iklan-
 .com/iklan/*
 .id/ads/*
 .id/iklan/*
 .or.id/banner/*
 /adscorner.
+/iklan.html
+/iklan.js
 /images/iklan/*
+/img-iklan/*
 /img/header_iklan/*
 /uploads/iklan/*
 /uploads/warung_iklan/*
@@ -185,12 +190,11 @@
 ||yesads.com^third-party
 !-----------------Third-party adverts-----------------!
 ! *** abpindo_thirdparty.txt ***
+||affiliate.godaddy.com^
 ||arenabola.com^$domain=krucil.com
-||asiafriendfinder.com^$domain=indowebster.com
-||asiafriendfinder.com^$domain=maknyos.com
+||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
 ||bebaspikiran.com^$third-party
 ||bekas.com^$third-party
-||bloggerfiles.com^$domain=gudanglagu.com
 ||bolaketangkasan.com^$third-party
 ||carasukses.com^$third-party
 ||drowle.com^
@@ -210,6 +214,7 @@
 ! *** abpindo_specific_block.txt ***
 ||admin.ads.indowebster.com/image/*
 ||cashburners.biz/banners/
+||cdn.bloggerfiles.com/img/promo/*
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
 ||idblognetwork.com/images/banner468x60/
@@ -226,7 +231,7 @@
 ||indomp3z.us/images/hotfile.jpg
 ||indomp3z.us/images/imzupload.gif
 ||indonesiapaypal.com/banners/flash/Banner250x250.swf
-||jawapos.co.id/advcontent/
+||jawapos.co.id/advcontent/*
 ||jawapos.co.id/img_env/banner_
 ||jawapos.co.id/imgs/banner_
 ||jogjastreamers.com/images/banner/
