@@ -1,9 +1,13 @@
+-iklan-
 .com/iklan/*
 .id/ads/*
 .id/iklan/*
 .or.id/banner/*
 /adscorner.
+/iklan.html
+/iklan.js
 /images/iklan/*
+/img-iklan/*
 /img/header_iklan/*
 /uploads/iklan/*
 /uploads/warung_iklan/*
