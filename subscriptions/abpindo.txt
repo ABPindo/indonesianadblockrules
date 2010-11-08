@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: uiSmBeNvfgEWkQJ9oBWMiA
+! Checksum: kLhvaSUwp+ThPMlXqMOWZg
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified  Senin 08 Nopember 2010, 10:00:39 WIB
+! Last modified  Senin 08 Nopember 2010, 10:06:53 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -103,7 +103,6 @@
 ||adsentra.com^$third-party
 ||adservingdaddy.com^$third-party
 ||adsindo.net^$third-party
-||adsomega.com^$third-party
 ||adspeedy.com^$third-party
 ||adv-adserver.com^$third-party
 ||advercash.net^$third-party
