@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 0E3ZNmZNuos4/cs8tBlbEQ
+! Checksum: uiSmBeNvfgEWkQJ9oBWMiA
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified  Senin 08 Nopember 2010, 09:54:52 WIB
+! Last modified  Senin 08 Nopember 2010, 10:00:39 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -23,7 +23,6 @@
 /img/header_iklan/*
 /uploads/iklan/*
 /uploads/warung_iklan/*
-|http://adv.
 |http://banners-id.
 |http://iklan.
 ! *** abpindo_general_hide.txt ***
