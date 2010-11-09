@@ -4,7 +4,9 @@
 .or.id/banner/*
 /adscorner.
 /iklan.html
+/iklan.jpg
 /iklan.js
+/iklan.php
 /images/iklan/*
 /img-iklan/*
 /img/header_iklan/*

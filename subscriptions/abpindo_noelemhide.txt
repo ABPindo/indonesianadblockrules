@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: a/rXsQui7eBkuG/gAybZcA
+! Checksum: VLV1VsJ/ExDEsycyJWVkvg
 ! abp_indo without element hiding 
-! Last modified  Senin 08 Nopember 2010, 10:06:53 WIB
+! Last modified  Rabu 10 Nopember 2010, 06:42:41 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -18,7 +18,9 @@
 .or.id/banner/*
 /adscorner.
 /iklan.html
+/iklan.jpg
 /iklan.js
+/iklan.php
 /images/iklan/*
 /img-iklan/*
 /img/header_iklan/*

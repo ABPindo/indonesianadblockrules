@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: kLhvaSUwp+ThPMlXqMOWZg
+! Checksum: C8I3lWepmCz1m6l0iemn8A
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified  Senin 08 Nopember 2010, 10:06:53 WIB
+! Last modified  Rabu 10 Nopember 2010, 06:42:41 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -17,7 +17,9 @@
 .or.id/banner/*
 /adscorner.
 /iklan.html
+/iklan.jpg
 /iklan.js
+/iklan.php
 /images/iklan/*
 /img-iklan/*
 /img/header_iklan/*
@@ -316,6 +318,7 @@
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
 ! *** abpindo_specific_hide.txt ***
+indobokepz.com##A[style="position:absolute; bottom:20px; left:170px;color:#674c4c; font-weight:bold; text-decoration:none; padding:10px 20px; border:5px solid #674c4c; -moz-border-radius:5px; background-color:#f1e5d3;"]
 blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard
