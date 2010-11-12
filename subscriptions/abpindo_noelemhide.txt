@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: VLV1VsJ/ExDEsycyJWVkvg
+! Checksum: j5fh455PeOoUVTbR6mnGUA
 ! abp_indo without element hiding 
-! Last modified  Rabu 10 Nopember 2010, 06:42:41 WIB
+! Last modified  Jumat 12 Nopember 2010, 08:33:59 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -27,7 +27,6 @@
 /uploads/iklan/*
 /uploads/warung_iklan/*
 |http://banners-id.
-|http://iklan.
 !-----------------Third-party advertisers-----------------!
 ! *** abpindo_adservers.txt ***
 ||adcenter2u.com^$third-party
@@ -211,14 +210,18 @@
 ||web-indonesia.com^$third-party
 !-----------------Specific advert blocking filters-----------------!
 ! *** abpindo_specific_block.txt ***
-||image.bloggerfiles.com/img/promo/*$domain=gudanglagu.com
+||adf.ly/js/link-converter.js
 ||admin.ads.indowebster.com/image/*
+||ads.indowebster.com^
+||adsbox.detik.com/iklanbaris/*
 ||cashburners.biz/banners/
 ||cdn.bloggerfiles.com/img/promo/*
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
+||iklan.indowebster.com^
+||image.bloggerfiles.com/img/promo/*$domain=gudanglagu.com
 ||imagedum.com/images/457_Arenabola.png
 ||imagedum.com/images/774_Tangkasbet.gif
 ||imagedum.com/images/928_Ratubola.gif

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: C8I3lWepmCz1m6l0iemn8A
+! Checksum: KiOPnA54G4M77njDBjc8KA
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified  Rabu 10 Nopember 2010, 06:42:41 WIB
+! Last modified  Jumat 12 Nopember 2010, 08:33:59 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -26,7 +26,6 @@
 /uploads/iklan/*
 /uploads/warung_iklan/*
 |http://banners-id.
-|http://iklan.
 ! *** abpindo_general_hide.txt ***
 ###AdContainer
 ###AdHeader
@@ -268,14 +267,18 @@
 ||vivanews.com^$domain=indowebster.com
 ||web-indonesia.com^$third-party
 ! *** abpindo_specific_block.txt ***
-||image.bloggerfiles.com/img/promo/*$domain=gudanglagu.com
+||adf.ly/js/link-converter.js
 ||admin.ads.indowebster.com/image/*
+||ads.indowebster.com^
+||adsbox.detik.com/iklanbaris/*
 ||cashburners.biz/banners/
 ||cdn.bloggerfiles.com/img/promo/*
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
+||iklan.indowebster.com^
+||image.bloggerfiles.com/img/promo/*$domain=gudanglagu.com
 ||imagedum.com/images/457_Arenabola.png
 ||imagedum.com/images/774_Tangkasbet.gif
 ||imagedum.com/images/928_Ratubola.gif
@@ -318,22 +321,26 @@
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
 ! *** abpindo_specific_hide.txt ***
-indobokepz.com##A[style="position:absolute; bottom:20px; left:170px;color:#674c4c; font-weight:bold; text-decoration:none; padding:10px 20px; border:5px solid #674c4c; -moz-border-radius:5px; background-color:#f1e5d3;"]
 blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard
 detik.com###arena-musik
+detik.com###footerbanner
 detik.com###pemenang
 detik.com###promo02
 detik.com##.bannerD1
 detik.com##.bannerD3
 detik.com##.bannertengah
+detik.com##.iklanbaris.col280
 detikfinance.com###adpoint-article
 detikfinance.com###adtext
 detikfinance.com###adtext-info
 detikfinance.com###bannerE
 detikfinance.com##.bannerBCD
 detikfood.com###adpoint-article
+detikhot.com###adtext-info
+detikhot.com###bannerE
+detikhot.com###footerbanner
 detikhot.com##.bannerB2
 detikinet.com###adpoint-article
 detikinet.com###adtext
@@ -345,6 +352,7 @@ detiknews.com###adpoint-article
 detiknews.com###adtext
 detiknews.com###adtext-info
 detiknews.com###bannerE
+detiknews.com###footerbanner
 detiknews.com##.bannerBCD
 detiksport.com###adtext
 detiksport.com###adtext-info
@@ -355,7 +363,9 @@ foto.detik.com##.bannerbcd
 google.co.id##TABLE[style="border: 1px solid #11593c"]
 hai-online.com###fixme
 hai-online.com###fixmetoo
+indobokepz.com##A[style="position:absolute; bottom:20px; left:170px;color:#674c4c; font-weight:bold; text-decoration:none; padding:10px 20px; border:5px solid #674c4c; -moz-border-radius:5px; background-color:#f1e5d3;"]
 indobokepz.com##[style="clear:both;text-align:center; padding:15px 5px;"]
+indosiar.com##[style="margin:0 auto;width:940px;height:50px;background:#fff;text-align:center;"]
 indowebster.com###AdsAtas
 indowebster.com###AdsSearchAtas
 indowebster.com###Ads_fileinfo
@@ -412,6 +422,8 @@ kompas.com##.wp_games
 krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
 krucil.com##CENTER
+liputan6.com###ads_lb
+liputan6.com##.ybox
 m.detik.com##.adtext01
 m.detik.com##.adtext02
 m.detik.com##.adtext03
@@ -425,6 +437,7 @@ perawan.us###fly
 perawan.us##TD[width="960"]
 republika.co.id##[align="center"]
 republika.co.id##[style="width: 300px; height: 100px; margin-bottom: 10px;"]
+sctv.co.id##[style="padding: 5px;"]
 stafaband.info###bottom
 suarabola.com###bannertop
 tempointeraktif.com###banner-kanan
