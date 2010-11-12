@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ExqSAqiX2OnPc+I+tjqnpA
+! Checksum: U7rbZz4vQKjEYEVeK2v9uw
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified  Jumat 12 Nopember 2010, 08:38:54 WIB
+! Last modified  Jumat 12 Nopember 2010, 17:21:59 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -282,8 +282,7 @@
 ||imagedum.com/images/457_Arenabola.png
 ||imagedum.com/images/774_Tangkasbet.gif
 ||imagedum.com/images/928_Ratubola.gif
-||img.kaskus.us/banner/kaspay-banner.png
-||img.kaskus.us/banner/link-kaspay.gif
+||img.ads.kompas.com/bannerlink/*
 ||indobokepz.com/images/banner-slideshow.jpg
 ||indomp3z.us/banner/banner.fileserve.gif
 ||indomp3z.us/images/ITZ-launch.jpg
@@ -295,7 +294,7 @@
 ||jawapos.co.id/img_env/banner_
 ||jawapos.co.id/imgs/banner_
 ||jogjastreamers.com/images/banner/
-||kad.kaskus.us^
+||kad.kaskus.us/banner/
 ||kapanlagi.com/partner/js/
 ||kaskus.us/adv/
 ||kaskus.us/banner/Kas_In-House-Banner_120x240_alt-2.jpg
@@ -398,22 +397,13 @@ kapanlagi.com###v5-showcase3
 kapanlagi.com###v5-topframe
 kaskus.us###BannerAts
 kaskus.us###BannerBwh
-kaskus.us###Conho01Left
-kaskus.us###Conho01right
-kaskus.us###MidGaris
-kaskus.us###MidGaris1
-kaskus.us###Middbawhome
-kaskus.us###MiddleBanner03
 kaskus.us###MiddleBanner1
 kaskus.us###Middle_blue
-kaskus.us###Middlehome021
 kaskus.us###Middlenahome1
-kaskus.us###Textatas
 kaskus.us###cntysm
 kaskus.us###exp
 kaskus.us##[href="http://kad.kaskus.us"]
 kaskus.us##[href="http://kad.kaskus.us/"]
-kaskus.us##[style="height: 30px;"]
 kaskus.us##[style="height:30px"]
 kikil.org###iklanpersegi
 kikil.org##CENTER

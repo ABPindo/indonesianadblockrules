@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: t1OR2hOEiYljJFNOKL1+kw
+! Checksum: pCad1HH08ZGif1fNo0qyMw
 ! abp_indo without element hiding 
-! Last modified  Jumat 12 Nopember 2010, 08:38:54 WIB
+! Last modified  Jumat 12 Nopember 2010, 17:21:59 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -225,8 +225,7 @@
 ||imagedum.com/images/457_Arenabola.png
 ||imagedum.com/images/774_Tangkasbet.gif
 ||imagedum.com/images/928_Ratubola.gif
-||img.kaskus.us/banner/kaspay-banner.png
-||img.kaskus.us/banner/link-kaspay.gif
+||img.ads.kompas.com/bannerlink/*
 ||indobokepz.com/images/banner-slideshow.jpg
 ||indomp3z.us/banner/banner.fileserve.gif
 ||indomp3z.us/images/ITZ-launch.jpg
@@ -238,7 +237,7 @@
 ||jawapos.co.id/img_env/banner_
 ||jawapos.co.id/imgs/banner_
 ||jogjastreamers.com/images/banner/
-||kad.kaskus.us^
+||kad.kaskus.us/banner/
 ||kapanlagi.com/partner/js/
 ||kaskus.us/adv/
 ||kaskus.us/banner/Kas_In-House-Banner_120x240_alt-2.jpg
