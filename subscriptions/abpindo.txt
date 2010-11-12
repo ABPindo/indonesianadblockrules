@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: KiOPnA54G4M77njDBjc8KA
+! Checksum: ExqSAqiX2OnPc+I+tjqnpA
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified  Jumat 12 Nopember 2010, 08:33:59 WIB
+! Last modified  Jumat 12 Nopember 2010, 08:38:54 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -267,7 +267,7 @@
 ||vivanews.com^$domain=indowebster.com
 ||web-indonesia.com^$third-party
 ! *** abpindo_specific_block.txt ***
-||adf.ly/js/link-converter.js
+||adf.ly/js/link-converter.js$domain=indowebster.web.id
 ||admin.ads.indowebster.com/image/*
 ||ads.indowebster.com^
 ||adsbox.detik.com/iklanbaris/*
