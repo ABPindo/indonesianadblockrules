@@ -12,12 +12,7 @@
 ###adbox
 ###ads
 ###advertissement
-###banner
-###bannerTop
-###banner_box
-###bannerku
 ###bottom_player_adv
-###center_banner
 ###header_ad
 ###rightAds
 ###side-ads
@@ -27,8 +22,6 @@
 ###top_ad
 ###top_player_adv
 ###topad
-###topbanner
-###topbar
 ##.AdBox
 ##.Ads
 ##.adContainer
@@ -46,15 +39,11 @@
 ##.advertisement
 ##.advertising
 ##.adwrapper
-##.banner
 ##.bgads
 ##.gbcontent
 ##.gpcontent
 ##.nav_ad
 ##.skyscraper
 ##.story_right_adv
-##.superbanner
-##.teaserbanner
 ##.textlinkads
-##.top-banner
 ##.topad

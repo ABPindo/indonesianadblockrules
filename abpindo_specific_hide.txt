@@ -1,7 +1,12 @@
 blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard
+ceriwis.us###message-box
+ceriwis.us###message-box-bot
+ceriwis.us##B
+ceriwis.us##[src="http://static.escavern.com/750rb.jpg"]
 detik.com###arena-musik
+detik.com###bannerE
 detik.com###footerbanner
 detik.com###pemenang
 detik.com###promo02
@@ -92,19 +97,20 @@ krucil.com##.fixmeInner
 krucil.com##CENTER
 liputan6.com###ads_lb
 liputan6.com##.ybox
-m.detik.com##.adtext01
-m.detik.com##.adtext02
-m.detik.com##.adtext03
+m.detik.com###top
 masterporn.me##[align="center"]
 mediaindonesia.com###topbanner
 mediaindonesia.com##.minitext
 megindo.net###aft
 okezone.com##.d300.p3.fl
 okezone.com##[style="width: 300px; height: 250px; float: left; padding: 0pt;"]
+oktavita.com##.banner-zone
 perawan.us###fly
 perawan.us##TD[width="960"]
+republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
 republika.co.id##[align="center"]
 republika.co.id##[style="width: 300px; height: 100px; margin-bottom: 10px;"]
+republika.co.id##[style="width:300px; height:100px; margin-bottom:10px;"]
 sctv.co.id##[style="padding: 5px;"]
 stafaband.info###bottom
 suarabola.com###bannertop
