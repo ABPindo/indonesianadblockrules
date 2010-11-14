@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: MyUCun27uJghHVRS6FI3mQ
+! Checksum: gCMrqSevqnzpF1lp5HcLJg
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified  Minggu 14 Nopember 2010, 08:38:45 WIB
+! Last modified  Minggu 14 Nopember 2010, 08:45:15 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -162,7 +162,6 @@
 ||jadibos.com^$third-party
 ||jingkrak.com^$third-party
 ||jituiklan.com^$third-party
-||kebunemas.com^$third-party
 ||klikabadi.com^$third-party
 ||klikajadeh.com^$third-party
 ||klikrupiah.com^$third-party
@@ -294,6 +293,7 @@
 ||kapanlagi.com/partner/js/
 ||kaskus.us/adv/
 ||kaskus.us/banner/Kas_In-House-Banner_120x240_alt-2.jpg
+||kebunemas.com/banner/*
 ||ketawa.com/img-iklan/*
 ||kikil.org/ads3.php
 ||kikil.org/adsbahenol.html
