@@ -62,6 +62,7 @@
 ||hiddenbux.com^$third-party
 ||iaiamedia.com^$third-party
 ||idr-clickit.com^$third-party
+||iklan-jaya.com/images/*$third-party
 ||iklanperklik.com^$third-party
 ||indo-solusta.com^$third-party
 ||indoadpro.com^$third-party
@@ -80,6 +81,7 @@
 ||infodahsyat.com^$third-party
 ||inmobi.com^$third-party
 ||innity.net^$third-party
+||investasiceria.net/images/*$third-party
 ||jadibos.com^$third-party
 ||jingkrak.com^$third-party
 ||jituiklan.com^$third-party

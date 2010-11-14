@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: xW8OHwGIMeywKpbAOVowag
+! Checksum: dVIwHaKP8tbUBKAJawCaUQ
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified  Senin 15 Nopember 2010, 06:05:24 WIB
+! Last modified  Senin 15 Nopember 2010, 06:08:10 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -42,6 +42,7 @@
 ###ads
 ###advertissement
 ###bottom_player_adv
+###desaiklan
 ###header_ad
 ###rightAds
 ###side-ads
@@ -141,6 +142,7 @@
 ||hiddenbux.com^$third-party
 ||iaiamedia.com^$third-party
 ||idr-clickit.com^$third-party
+||iklan-jaya.com/images/*$third-party
 ||iklanperklik.com^$third-party
 ||indo-solusta.com^$third-party
 ||indoadpro.com^$third-party
@@ -159,6 +161,7 @@
 ||infodahsyat.com^$third-party
 ||inmobi.com^$third-party
 ||innity.net^$third-party
+||investasiceria.net/images/*$third-party
 ||jadibos.com^$third-party
 ||jingkrak.com^$third-party
 ||jituiklan.com^$third-party
@@ -416,6 +419,7 @@ kompas.com##.wp_games
 krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
 krucil.com##CENTER
+lintasberita.com###ads300-250
 liputan6.com###ads_lb
 liputan6.com##.ybox
 m.detik.com###top
