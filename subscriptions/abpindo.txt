@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: dVIwHaKP8tbUBKAJawCaUQ
+! Checksum: LbFX0M1rDYXADwwzkcxs5A
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified  Senin 15 Nopember 2010, 06:08:10 WIB
+! Last modified  Selasa 16 Nopember 2010, 11:21:52 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -245,6 +245,7 @@
 ||bolaketangkasan.com^$third-party
 ||carasukses.com^$third-party
 ||drowle.com^
+||formulabisnis.com/images/*$third-party
 ||indowebster.com/ajax/iklan/*$xmlhttprequest
 ||ipicture.ru^$third-party
 ||jeruknipis.com^$domain=indowebster.com
@@ -293,7 +294,6 @@
 ||jawapos.co.id/imgs/banner_
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
-||kapanlagi.com/partner/js/
 ||kaskus.us/adv/
 ||kaskus.us/banner/Kas_In-House-Banner_120x240_alt-2.jpg
 ||kebunemas.com/banner/*
@@ -366,6 +366,7 @@ detiksport.com###bannerE
 detiksport.com##.bannerB2
 forum.detik.com###adsmiddle
 foto.detik.com##.bannerbcd
+google.co.id##TABLE[style="border: 1px solid #0000CC"]
 google.co.id##TABLE[style="border: 1px solid #11593c"]
 hai-online.com###fixme
 hai-online.com###fixmetoo
@@ -394,7 +395,6 @@ indowebster.com##[style="height:42px;"]
 indowebster.com##[style="height:62px;"]
 indowebster.web.id###ad_global_below_navbar
 inilah.com##.head_banner
-kapanlagi.com###v5-bottomframe
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v5-marcommpromotion
 kapanlagi.com###v5-mobilepromotion

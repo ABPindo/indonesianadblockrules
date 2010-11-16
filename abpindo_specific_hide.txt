@@ -42,6 +42,7 @@ detiksport.com###bannerE
 detiksport.com##.bannerB2
 forum.detik.com###adsmiddle
 foto.detik.com##.bannerbcd
+google.co.id##TABLE[style="border: 1px solid #0000CC"]
 google.co.id##TABLE[style="border: 1px solid #11593c"]
 hai-online.com###fixme
 hai-online.com###fixmetoo
@@ -70,7 +71,6 @@ indowebster.com##[style="height:42px;"]
 indowebster.com##[style="height:62px;"]
 indowebster.web.id###ad_global_below_navbar
 inilah.com##.head_banner
-kapanlagi.com###v5-bottomframe
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v5-marcommpromotion
 kapanlagi.com###v5-mobilepromotion

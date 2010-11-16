@@ -6,6 +6,7 @@
 ||bolaketangkasan.com^$third-party
 ||carasukses.com^$third-party
 ||drowle.com^
+||formulabisnis.com/images/*$third-party
 ||indowebster.com/ajax/iklan/*$xmlhttprequest
 ||ipicture.ru^$third-party
 ||jeruknipis.com^$domain=indowebster.com

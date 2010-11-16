@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: +9Gbmho8fm7VITU6RzFOvA
+! Checksum: e4jYAbTP6KX3K9uE0LIkMA
 ! abp_indo without element hiding 
-! Last modified  Senin 15 Nopember 2010, 06:08:10 WIB
+! Last modified  Selasa 16 Nopember 2010, 11:21:52 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -197,6 +197,7 @@
 ||bolaketangkasan.com^$third-party
 ||carasukses.com^$third-party
 ||drowle.com^
+||formulabisnis.com/images/*$third-party
 ||indowebster.com/ajax/iklan/*$xmlhttprequest
 ||ipicture.ru^$third-party
 ||jeruknipis.com^$domain=indowebster.com
@@ -246,7 +247,6 @@
 ||jawapos.co.id/imgs/banner_
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
-||kapanlagi.com/partner/js/
 ||kaskus.us/adv/
 ||kaskus.us/banner/Kas_In-House-Banner_120x240_alt-2.jpg
 ||kebunemas.com/banner/*
