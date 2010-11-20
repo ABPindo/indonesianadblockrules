@@ -44,6 +44,7 @@ forum.detik.com###adsmiddle
 foto.detik.com##.bannerbcd
 google.co.id##TABLE[style="border: 1px solid #0000CC"]
 google.co.id##TABLE[style="border: 1px solid #11593c"]
+google.com###rhs_block
 hai-online.com###fixme
 hai-online.com###fixmetoo
 indobokepz.com##A[style="position:absolute; bottom:20px; left:170px;color:#674c4c; font-weight:bold; text-decoration:none; padding:10px 20px; border:5px solid #674c4c; -moz-border-radius:5px; background-color:#f1e5d3;"]

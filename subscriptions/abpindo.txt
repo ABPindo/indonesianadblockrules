@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: +wlT1tXYdrYcqIHnpT7nFQ
+! Checksum: SU+dBiNO9y9KpXHa0djmMQ
 ! Indonesian AdBlockRules (ABP_Indo) - supplement for indonesian website
-! Last modified  Rabu 17 Nopember 2010, 20:24:34 WIB
+! Last modified  Sabtu 20 Nopember 2010, 11:28:14 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -368,6 +368,7 @@ forum.detik.com###adsmiddle
 foto.detik.com##.bannerbcd
 google.co.id##TABLE[style="border: 1px solid #0000CC"]
 google.co.id##TABLE[style="border: 1px solid #11593c"]
+google.com###rhs_block
 hai-online.com###fixme
 hai-online.com###fixmetoo
 indobokepz.com##A[style="position:absolute; bottom:20px; left:170px;color:#674c4c; font-weight:bold; text-decoration:none; padding:10px 20px; border:5px solid #674c4c; -moz-border-radius:5px; background-color:#f1e5d3;"]
