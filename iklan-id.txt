@@ -5,9 +5,8 @@
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
 ! Please report any unblocked adverts or problems
-! in the forums (http://www.kaskus.us/showthread.php?t=3646917)
-! in the blog(http://indonesianfilter.blogspot.com)
-! or via e-mail (hermawanadhis@gmail.com).
+! via e-mail (hermawanadhis@gmail.com)
+! http://indonesianfilter.blogspot.com
 !
 %include abpindo_beta_filter.txt%
 %include abpindo_iklan_id.txt%
