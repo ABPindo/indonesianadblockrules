@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: G9OzZxrEw0YXmK54xFPMEQ
+! Checksum: m7OAuqI9Z2k8t3UMjOrVQQ
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Selasa 23 Nopember 2010, 08:37:20 WIB
+! Last modified  Rabu 24 Nopember 2010, 16:01:03 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -77,7 +77,6 @@
 ##.textlinkads
 ##.topad
 ! *** abpindo_adservers.txt ***
-||clickbet88.com/banner/*$third-party
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
 ||adform.net^$third-party
@@ -237,6 +236,7 @@
 ||vizu.com^$third-party
 ||yesads.com^third-party
 ! *** abpindo_thirdparty.txt ***
+||clickbet88.com/banner/*$third-party
 ||affiliate.godaddy.com^
 ||arenabola.com^$domain=krucil.com
 ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
@@ -259,6 +259,7 @@
 ||vivanews.com^$domain=indowebster.com
 ||web-indonesia.com^$third-party
 ! *** abpindo_specific_block.txt ***
+||modemku.com/image-banner/*
 ||96.30.27.60/~p3r4w4n/images/banner/*
 ||21cineplex.com/data/videoad/*
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
