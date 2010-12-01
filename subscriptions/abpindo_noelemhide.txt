@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 6lL7/pCKqc9wvV0owQiH/A
+! Checksum: z2Ep8UuRLg1yl8LqhlZy5Q
 ! abp_indo without element hiding 
-! Last modified  Rabu 01 Desember 2010, 20:31:51 WIB
+! Last modified  Rabu 01 Desember 2010, 21:39:47 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -9,7 +9,6 @@
 ! via e-mail (hermawanadhis@gmail.com)
 ! http://indonesianfilter.blogspot.com
 !
-!-----------------General advert blocking filters-----------------!
 ! *** abpindo_general_block.txt ***
 .com/iklan/*
 .id/ads/*
@@ -26,7 +25,6 @@
 /uploads/iklan/*
 /uploads/warung_iklan/*
 |http://banners-id.
-!-----------------Third-party advertisers-----------------!
 ! *** abpindo_adservers.txt ***
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
@@ -186,7 +184,6 @@
 ||valueclick.net^$third-party
 ||vizu.com^$third-party
 ||yesads.com^third-party
-!-----------------Third-party adverts-----------------!
 ! *** abpindo_thirdparty.txt ***
 ||bebaspikiran.com^$third-party
 ||bekas.com^$third-party
@@ -200,7 +197,6 @@
 ||ratubola.com^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||web-indonesia.com^$third-party
-!-----------------Specific advert blocking filters-----------------!
 ! *** abpindo_specific_block.txt ***
 ||21cineplex.com/data/videoad/*
 ||96.30.27.60/~p3r4w4n/images/banner/*
@@ -282,5 +278,4 @@
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
 ||vivanews.com^$domain=indowebster.com
-!-----------------Whitelists-----------------!
 ! *** abpindo_whitelist.txt ***

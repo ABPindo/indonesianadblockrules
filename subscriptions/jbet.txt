@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 4mr/0xNS4zYZpU3Uf1XmYw
+! Checksum: 3f0N9ejDd5FtYf/2Ldj+nA
 ! JBet - Jebakan Betmen
-! Last modified  Rabu 01 Desember 2010, 20:31:51 WIB
+! Last modified  Rabu 01 Desember 2010, 21:39:47 WIB
 ! Expires: 14 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -9,7 +9,7 @@
 ! via e-mail (hermawanadhis@gmail.com)
 ! http://indonesianfilter.blogspot.com
 !
-! *** abpindo_computer_prank.txt ***
+! *** _computer_prank.txt ***
 ||1227.com^
 ||17ebook.com^
 ||1guy1mudpie.com^
@@ -196,7 +196,7 @@
 ||youjizz.com^
 ||yourmom.org^
 ||yt118.com^
-! *** abpindo_longcat.txt ***
+! *** _longcat.txt ***
 |http://1.bp.blogspot.com/_SwbWgcTbw4A/SnkXsdrkM3I/AAAAAAAAAIw/_MefnBG4_Ac/s320/*
 |http://2.bp.blogspot.com/_my5OGIJd4kM/Sher-0wV0FI/AAAAAAAAFZ8/qsCTA0eoo_o/s400/*
 |http://3.bp.blogspot.com/_1xq6U5umLhc/Sn6tbm7ASVI/AAAAAAAAACE/k-6SstR1xwA/s400/*

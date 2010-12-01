@@ -1,11 +1,11 @@
 @echo off
+../Sorting/SortFilters.exe _beta_filter.txt
+../Sorting/SortFilters.exe _computer_prank.txt
+../Sorting/SortFilters.exe _iklan_id.txt
+../Sorting/SortFilters.exe _longcat.txt
 ../Sorting/SortFilters.exe abpindo_adservers.txt
-../Sorting/SortFilters.exe abpindo_beta_filter.txt
-../Sorting/SortFilters.exe abpindo_computer_prank.txt
 ../Sorting/SortFilters.exe abpindo_general_block.txt
 ../Sorting/SortFilters.exe abpindo_general_hide.txt
-../Sorting/SortFilters.exe abpindo_iklan_id.txt
-../Sorting/SortFilters.exe abpindo_longcat.txt
 ../Sorting/SortFilters.exe abpindo_specific_block.txt
 ../Sorting/SortFilters.exe abpindo_specific_hide.txt
 ../Sorting/SortFilters.exe abpindo_thirdparty.txt

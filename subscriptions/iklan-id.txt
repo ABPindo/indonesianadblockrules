@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: k/D8nfo8KzULFU3fZDBI9A
+! Checksum: +y4EgD/J76FKLpt/Qr/M7A
 ! Iklan_Id - supplement for abpindo
-! Last modified  Rabu 01 Desember 2010, 20:31:51 WIB
+! Last modified  Rabu 01 Desember 2010, 21:39:47 WIB
 ! Expires: 14 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -9,7 +9,7 @@
 ! via e-mail (hermawanadhis@gmail.com)
 ! http://indonesianfilter.blogspot.com
 !
-! *** abpindo_beta_filter.txt ***
+! *** _beta_filter.txt ***
 ###ad
 ###ad-300x250
 ###ad-banner
@@ -207,7 +207,7 @@ _banner.jpg
 |http://get-banner.
 |http://iklan.
 |http://img.ads.
-! *** abpindo_iklan_id.txt ***
+! *** _iklan_id.txt ***
 ||1bisnisonline.com^$third-party
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
