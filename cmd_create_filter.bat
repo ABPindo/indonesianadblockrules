@@ -1,4 +1,3 @@
-echo off
-cls
+@echo off
 C:\strawberry\perl\bin\perl generate_subscriptions.pl
 hgtk commit

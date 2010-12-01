@@ -8,5 +8,5 @@
 ! via e-mail (hermawanadhis@gmail.com)
 ! http://indonesianfilter.blogspot.com
 !
-%include abpindo_computer_prank.txt%
-%include abpindo_longcat.txt%
+%include _computer_prank.txt%
+%include _longcat.txt%

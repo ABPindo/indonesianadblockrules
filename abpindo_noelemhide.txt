@@ -8,13 +8,8 @@
 ! via e-mail (hermawanadhis@gmail.com)
 ! http://indonesianfilter.blogspot.com
 !
-!-----------------General advert blocking filters-----------------!
 %include abpindo_general_block.txt%
-!-----------------Third-party advertisers-----------------!
 %include abpindo_adservers.txt%
-!-----------------Third-party adverts-----------------!
 %include abpindo_thirdparty.txt%
-!-----------------Specific advert blocking filters-----------------!
 %include abpindo_specific_block.txt%
-!-----------------Whitelists-----------------!
 %include abpindo_whitelist.txt%

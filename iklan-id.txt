@@ -8,5 +8,5 @@
 ! via e-mail (hermawanadhis@gmail.com)
 ! http://indonesianfilter.blogspot.com
 !
-%include abpindo_beta_filter.txt%
-%include abpindo_iklan_id.txt%
+%include _beta_filter.txt%
+%include _iklan_id.txt%

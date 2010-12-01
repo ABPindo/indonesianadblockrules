@@ -3,8 +3,8 @@ bluefame.com##CENTER
 bola.net###top_leaderboard
 ceriwis.us###message-box
 ceriwis.us###message-box-bot
-ceriwis.us##B
 ceriwis.us##[src="http://static.escavern.com/750rb.jpg"]
+ceriwis.us##B
 detik.com###arena-musik
 detik.com###bannerE
 detik.com###footerbanner
@@ -50,20 +50,20 @@ google.com###rhs_block
 hai-online.com###fixme
 hai-online.com###fixmetoo
 indobokepz.com###feed
-indobokepz.com##A[style="position:absolute; bottom:20px; left:170px;color:#674c4c; font-weight:bold; text-decoration:none; padding:10px 20px; border:5px solid #674c4c; -moz-border-radius:5px; background-color:#f1e5d3;"]
 indobokepz.com##[style="clear:both;text-align:center; padding:15px 5px;"]
+indobokepz.com##A[style="position:absolute; bottom:20px; left:170px;color:#674c4c; font-weight:bold; text-decoration:none; padding:10px 20px; border:5px solid #674c4c; -moz-border-radius:5px; background-color:#f1e5d3;"]
 indosiar.com##[style="margin:0 auto;width:940px;height:50px;background:#fff;text-align:center;"]
+indowebster.com###Ads_fileinfo
 indowebster.com###AdsAtas
 indowebster.com###AdsSearchAtas
-indowebster.com###Ads_fileinfo
+indowebster.com###ban_cont1
+indowebster.com###ban_cont2
 indowebster.com###Bingkai_DL_160x600
+indowebster.com###dl_cont
+indowebster.com###fixed-top-ads
 indowebster.com###H_tab1
 indowebster.com###H_tab2
 indowebster.com###H_tab3
-indowebster.com###ban_cont1
-indowebster.com###ban_cont2
-indowebster.com###dl_cont
-indowebster.com###fixed-top-ads
 indowebster.com###iklan_atas
 indowebster.com###iklankiri
 indowebster.com###showpaper
@@ -87,11 +87,11 @@ kapanlagi.com###v5-topframe
 kapanlagi.com##IMG[src="http://202.6.233.52/partner/media/966x50/DMASIV-966x50.gif"]
 kaskus.us###BannerAts
 kaskus.us###BannerBwh
-kaskus.us###MiddleBanner1
-kaskus.us###Middle_blue
-kaskus.us###Middlenahome1
 kaskus.us###cntysm
 kaskus.us###exp
+kaskus.us###Middle_blue
+kaskus.us###MiddleBanner1
+kaskus.us###Middlenahome1
 kaskus.us##[href="http://kad.kaskus.us"]
 kaskus.us##[href="http://kad.kaskus.us/"]
 kaskus.us##[style="height: 30px;"]
@@ -118,10 +118,10 @@ okezone.com##[style="width: 300px; height: 250px; float: left; padding: 0pt;"]
 oktavita.com##.banner-zone
 perawan.us###fly
 perawan.us##TD[width="960"]
-republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
 republika.co.id##[align="center"]
 republika.co.id##[style="width: 300px; height: 100px; margin-bottom: 10px;"]
 republika.co.id##[style="width:300px; height:100px; margin-bottom:10px;"]
+republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
 sctv.co.id##[style="padding: 5px;"]
 stafaband.info###bottom
 suarabola.com###bannertop

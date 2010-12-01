@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 8iknKerlXR0u+ztz/+hUvA
+! Checksum: 6lL7/pCKqc9wvV0owQiH/A
 ! abp_indo without element hiding 
-! Last modified  Rabu 01 Desember 2010, 17:39:19 WIB
+! Last modified  Rabu 01 Desember 2010, 20:31:51 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -192,14 +192,14 @@
 ||bekas.com^$third-party
 ||bolaketangkasan.com^$third-party
 ||carasukses.com^$third-party
-||mesiniklan.andipublisher.com^$third-party
-||my.blueadvertise.com^$third-party
-||sebar.idblognetwork.com^$third-party
-||web-indonesia.com^$third-party
-||ratubola.com^$third-party
-||kebunemas.com/banner/*$third-party
 ||clickbet88.com/banner/*$third-party
 ||formulabisnis.com/images/*$third-party
+||kebunemas.com/banner/*$third-party
+||mesiniklan.andipublisher.com^$third-party
+||my.blueadvertise.com^$third-party
+||ratubola.com^$third-party
+||sebar.idblognetwork.com^$third-party
+||web-indonesia.com^$third-party
 !-----------------Specific advert blocking filters-----------------!
 ! *** abpindo_specific_block.txt ***
 ||21cineplex.com/data/videoad/*
@@ -237,10 +237,10 @@
 ||img7.uploadhouse.com/fileuploads/6944/69444773bf87af9d201f0bf2f81c7c083529805.jpg
 ||indobokepz.com/images/banner-slideshow.jpg
 ||indomp3z.us/banner/banner.fileserve.gif
-||indomp3z.us/images/ITZ-launch.jpg
 ||indomp3z.us/images/fileserverpromote.gif
 ||indomp3z.us/images/hotfile.jpg
 ||indomp3z.us/images/imzupload.gif
+||indomp3z.us/images/ITZ-launch.jpg
 ||indonesiapaypal.com/banners/flash/Banner250x250.swf
 ||indowebster.com/ajax/iklan/*
 ||javapic.com/ikelan/*
