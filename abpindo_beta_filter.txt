@@ -8,8 +8,6 @@
 ###ad-banner
 ###ad-frame
 ###ad-top
-###ad1
-###ad2
 ###ad3
 ###adB
 ###adBanner
@@ -18,7 +16,6 @@
 ###ad_text
 ###adbanner
 ###adbox
-###ads
 ###ads2
 ###ads7
 ###ads_top
@@ -86,7 +83,6 @@
 ##.AdBox
 ##.AdSense
 ##.Ads
-##.ad-banner
 ##.ad-section
 ##.ad1
 ##.ad160
@@ -102,10 +98,8 @@
 ##.ad_right
 ##.ad_space
 ##.ad_top
-##.adcolumn_wrapper
 ##.addiv
 ##.adlist
-##.ads
 ##.ads2
 ##.adsense
 ##.adtag
@@ -120,7 +114,6 @@
 ##.banner_728x90
 ##.bgads
 ##.content_ad
-##.g3rtn-ad-site
 ##.gbcontent
 ##.gpcontent
 ##.header_ad
@@ -138,7 +131,6 @@
 ##.teaserbanner
 ##.textlinkads
 ##.top-banner
-##.topad
 ##a[href*="-AD/"]
 ##a[href*="-ads-"]
 ##a[href*="/AD_"]
@@ -162,7 +154,6 @@
 .com/banner/*
 .com/banner_
 .com/banners/$image,object,subdocument
-.com/iklan/*
 .com/pop.js
 .com/upload/adv/*
 .id/ads/*
@@ -200,9 +191,9 @@
 /img/adv/*
 /img/banners/*
 /img/header_iklan/*
-/media/ads/*$image
+/media/ads/*
 /mobileads.png
-/partner/js/
+/partner/js/*
 /partner/media/*
 /partners/ads/*
 /pasangads.png

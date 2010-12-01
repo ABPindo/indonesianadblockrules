@@ -1,4 +1,3 @@
-indobokepz.com###feed
 blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard
@@ -48,6 +47,7 @@ google.co.id##TABLE[style="border: 1px solid #11593c"]
 google.com###rhs_block
 hai-online.com###fixme
 hai-online.com###fixmetoo
+indobokepz.com###feed
 indobokepz.com##A[style="position:absolute; bottom:20px; left:170px;color:#674c4c; font-weight:bold; text-decoration:none; padding:10px 20px; border:5px solid #674c4c; -moz-border-radius:5px; background-color:#f1e5d3;"]
 indobokepz.com##[style="clear:both;text-align:center; padding:15px 5px;"]
 indosiar.com##[style="margin:0 auto;width:940px;height:50px;background:#fff;text-align:center;"]
@@ -102,6 +102,8 @@ krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
 krucil.com##CENTER
 lintasberita.com###ads300-250
+lintasberita.com###popupBanner
+lintasberita.com##[style="width:300px; height:250px; margin:0 0 20px 0; padding:0px; float:left;"]
 liputan6.com###ads_lb
 liputan6.com##.ybox
 m.detik.com###top

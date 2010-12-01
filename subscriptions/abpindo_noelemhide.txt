@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: DeBcPjDBLmQAMvfPO7+JbQ
+! Checksum: XatuLoJsuxdepUVbacbBUw
 ! abp_indo without element hiding 
-! Last modified  Rabu 01 Desember 2010, 14:55:04 WIB
+! Last modified  Rabu 01 Desember 2010, 15:28:33 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -217,9 +217,11 @@
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
 ||admin.ads.indowebster.com/image/*
+||ads.antaranews.com^
 ||ads.djawirlabs.com^
 ||ads.indowebster.com^
 ||adsbox.detik.com/iklanbaris/*
+||adultfriendfinder.com/images/banners/*
 ||cashburners.biz/banners/
 ||cdn.bloggerfiles.com/img/promo/*
 ||ceriwis.info/338x30.swf
@@ -227,6 +229,7 @@
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
 ||ebsoft.web.id/wp-content/banners/*
+||harianjogja.com/img/Bnr/*
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
 ||iklan.indowebster.com^
