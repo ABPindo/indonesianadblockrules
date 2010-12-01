@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: fZHux3VLpLvug6ShiwdI2A
+! Checksum: WmodqCEEADDglcycxDKHqw
 ! Iklan_Id - supplement for abpindo
-! Last modified  Rabu 01 Desember 2010, 15:32:12 WIB
+! Last modified  Rabu 01 Desember 2010, 17:39:19 WIB
 ! Expires: 14 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -61,25 +61,14 @@
 ###topbar
 ###vertical_ads
 ##*[class$="-ads"]
-##*[class$="-pr"]
 ##*[class$="_ad"]
-##*[class$="_pr"]
 ##*[class*="-ad-"]
-##*[class*="sponsor"]
 ##*[class^="ad-"]
 ##*[class^="ads-"]
-##*[class^="pr_"]
 ##*[id$="_ad"]
 ##*[id$="_ads"]
-##*[id$="_pr"]
-##*[id*="AdSense"]
 ##*[id*="_ad_"]
 ##*[id*="_ads_"]
-##*[id*="_pr_"]
-##*[id*="adsense"]
-##*[id*="affiliate"]
-##*[id*="overture"]
-##*[id*="sponsor"]
 ##*[id^="ads_"]
 ##*[src*="-ad-"]
 ##*[src*="/AD/"]
@@ -104,7 +93,6 @@
 ##.adMkt2Colw
 ##.adModule
 ##.adText
-##.ad_160x600
 ##.ad_frame
 ##.ad_leaderboard
 ##.ad_right
@@ -126,8 +114,6 @@
 ##.banner_728x90
 ##.bgads
 ##.content_ad
-##.gbcontent
-##.gpcontent
 ##.header_ad
 ##.leaderboardAd
 ##.leftad
@@ -136,7 +122,6 @@
 ##.sidead
 ##.skyscraper
 ##.sponsored_by
-##.story_right_adv
 ##.story_right_adv
 ##.superbanner
 ##.teaserbanner
@@ -149,7 +134,6 @@
 ##a[href*="/ad."]
 ##a[href*="/ads/"]
 ##a[href*="/advertise."]
-##a[href*="/pr_"]
 ##a[href*="_ad."]
 *banner.gif
 *banner2.gif
