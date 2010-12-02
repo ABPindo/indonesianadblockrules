@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: TUxsU+3d6yaAXjrdULR5rw
+! Checksum: 060DZoLpHVbe/R+iKx6T4A
 ! Iklan_Id - supplement for abpindo
-! Last modified  Kamis 02 Desember 2010, 16:17:14 WIB
+! Last modified  Kamis 02 Desember 2010, 19:55:44 WIB
 ! Expires: 14 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -19,9 +19,7 @@
 ###ads2
 ###ads7
 ###ads_top
-###banner-ad
 ###bottomad
-###center_banner
 ###first_ad_unit
 ###footer_ad
 ###footerAd
@@ -34,27 +32,6 @@
 ###topAd
 ###topbar
 ###vertical_ads
-##*[class$="-ads"]
-##*[class$="_ad"]
-##*[class*="-ad-"]
-##*[class^="ad-"]
-##*[class^="ads-"]
-##*[id$="_ad"]
-##*[id$="_ads"]
-##*[id*="_ad_"]
-##*[id*="_ads_"]
-##*[id^="ads_"]
-##*[src*="-ad-"]
-##*[src*="/ad-"]
-##*[src*="/ad."]
-##*[src*="/AD/"]
-##*[src*="/ad/"]
-##*[src*="/ad_"]
-##*[src*="/ads."]
-##*[src*="/ads/"]
-##*[src*="_ad."]
-##*[src*="_ads."]
-##*[src*="_ads_"]
 ##.ad-section
 ##.ad1
 ##.ad160
@@ -64,7 +41,6 @@
 ##.adMkt2Colw
 ##.ads2
 ##.AdSense
-##.adsense
 ##.adtag
 ##.adText
 ##.article_ad
@@ -75,13 +51,6 @@
 ##.rightad
 ##.sidead
 ##.sponsored_by
-##a[href*="-AD/"]
-##a[href*="-ads-"]
-##a[href*="/ad."]
-##a[href*="/AD_"]
-##a[href*="/ads/"]
-##a[href*="/advertise."]
-##a[href*="_ad."]
 -iklan-
 .com/adv/*
 .com/affiliate/*
