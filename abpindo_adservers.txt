@@ -36,6 +36,7 @@
 ||cashviews.com^$third-party
 ||chainbux.com^$third-party
 ||chartbeat.com^$third-party
+||clickdbs.com^$third-party
 ||clicklifter.com^$third-party
 ||clickmedia.co.id^$third-party
 ||clicksia.com^$third-party
@@ -104,6 +105,7 @@
 ||neorupiah.com^$third-party
 ||omnibux.com^$third-party
 ||onedollarptc.com^$third-party
+||optmd.com^$third-party
 ||paid-to-promote.net^$third-party
 ||paidforfree.com^$third-party
 ||paidtoclick.com^$third-party

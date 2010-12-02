@@ -1,3 +1,4 @@
+||banner.autosubmit.web.id^$third-party
 ||bebaspikiran.com^$third-party
 ||bekas.com^$third-party
 ||bolaketangkasan.com^$third-party
@@ -10,3 +11,4 @@
 ||ratubola.com^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||web-indonesia.com^$third-party
+||ziddu.com/banners/images/*$third-party

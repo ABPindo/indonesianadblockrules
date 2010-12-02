@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: rQnHaK/VX4uFyaCzopEOpQ
+! Checksum: fmRVU4Fhm7o76HTs8YyAxw
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Kamis 02 Desember 2010, 10:26:48 WIB
+! Last modified  Kamis 02 Desember 2010, 16:17:14 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -115,6 +115,7 @@
 ||cashviews.com^$third-party
 ||chainbux.com^$third-party
 ||chartbeat.com^$third-party
+||clickdbs.com^$third-party
 ||clicklifter.com^$third-party
 ||clickmedia.co.id^$third-party
 ||clicksia.com^$third-party
@@ -183,6 +184,7 @@
 ||neorupiah.com^$third-party
 ||omnibux.com^$third-party
 ||onedollarptc.com^$third-party
+||optmd.com^$third-party
 ||paid-to-promote.net^$third-party
 ||paidforfree.com^$third-party
 ||paidtoclick.com^$third-party
@@ -236,6 +238,7 @@
 ||vizu.com^$third-party
 ||yesads.com^third-party
 ! *** abpindo_thirdparty.txt ***
+||banner.autosubmit.web.id^$third-party
 ||bebaspikiran.com^$third-party
 ||bekas.com^$third-party
 ||bolaketangkasan.com^$third-party
@@ -248,6 +251,7 @@
 ||ratubola.com^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||web-indonesia.com^$third-party
+||ziddu.com/banners/images/*$third-party
 ! *** abpindo_specific_block.txt ***
 ||21cineplex.com/data/videoad/*
 ||96.30.27.60/~p3r4w4n/images/banner/*
@@ -271,7 +275,14 @@
 ||dewamabuk.com/images/banner/
 ||drowle.com^
 ||ebsoft.web.id/wp-content/banners/*
+||endonesia.com/banner1/dbc-kantorku.jpg
+||endonesia.com/en1.gif
+||endonesia.com/images/banner-rodadua-net.gif
+||endonesia.com/images/modis-shop.gif
+||endonesia.com/images/officialweb.gif
+||freewebs.com/peluang-bisnis/kaya23.gif
 ||harianjogja.com/img/Bnr/*
+||howsanindo.com/website/bisnisparfum/bisnisparfum_dijual.gif
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
 ||iklan.indowebster.com^
@@ -284,10 +295,10 @@
 ||img7.uploadhouse.com/fileuploads/6944/69444773bf87af9d201f0bf2f81c7c083529805.jpg
 ||indobokepz.com/images/banner-slideshow.jpg
 ||indomp3z.us/banner/banner.fileserve.gif
+||indomp3z.us/images/ITZ-launch.jpg
 ||indomp3z.us/images/fileserverpromote.gif
 ||indomp3z.us/images/hotfile.jpg
 ||indomp3z.us/images/imzupload.gif
-||indomp3z.us/images/ITZ-launch.jpg
 ||indonesiapaypal.com/banners/flash/Banner250x250.swf
 ||indowebster.com/ajax/iklan/*
 ||javapic.com/ikelan/*
@@ -314,6 +325,8 @@
 ||megindo.net/megindo2/data/affiliates/
 ||megindo.net/megindo2/images/banner-
 ||modemku.com/image-banner/*
+||modifikasi.com/images/banner/close.gif
+||modifikasi.com/images/banner_
 ||oprekpc.com/banner/
 ||perawan.us/images/banner/*
 ||perawan.us/javascript/pop.js
@@ -321,6 +334,7 @@
 ||stafaband.info/tb.swf
 ||stat.k.kidsklik.com/js/tekno/tekno-ads.php?s=wp&0610101038
 ||static.escavern.com/tokomaya.gif
+||static.kaskus.us/images/statusicon/user_offline.gif
 ||suarabola.com/banners/
 ||swfcabin.com^$domain=krucil.com
 ||tinypic.com^$domain=bb18.org|bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
@@ -335,8 +349,8 @@ bluefame.com##CENTER
 bola.net###top_leaderboard
 ceriwis.us###message-box
 ceriwis.us###message-box-bot
-ceriwis.us##[src="http://static.escavern.com/750rb.jpg"]
 ceriwis.us##B
+ceriwis.us##[src="http://static.escavern.com/750rb.jpg"]
 detik.com###arena-musik
 detik.com###bannerE
 detik.com###footerbanner
@@ -383,20 +397,20 @@ google.com###rhs_block
 hai-online.com###fixme
 hai-online.com###fixmetoo
 indobokepz.com###feed
-indobokepz.com##[style="clear:both;text-align:center; padding:15px 5px;"]
 indobokepz.com##A[style="position:absolute; bottom:20px; left:170px;color:#674c4c; font-weight:bold; text-decoration:none; padding:10px 20px; border:5px solid #674c4c; -moz-border-radius:5px; background-color:#f1e5d3;"]
+indobokepz.com##[style="clear:both;text-align:center; padding:15px 5px;"]
 indosiar.com##[style="margin:0 auto;width:940px;height:50px;background:#fff;text-align:center;"]
-indowebster.com###Ads_fileinfo
 indowebster.com###AdsAtas
 indowebster.com###AdsSearchAtas
-indowebster.com###ban_cont1
-indowebster.com###ban_cont2
+indowebster.com###Ads_fileinfo
 indowebster.com###Bingkai_DL_160x600
-indowebster.com###dl_cont
-indowebster.com###fixed-top-ads
 indowebster.com###H_tab1
 indowebster.com###H_tab2
 indowebster.com###H_tab3
+indowebster.com###ban_cont1
+indowebster.com###ban_cont2
+indowebster.com###dl_cont
+indowebster.com###fixed-top-ads
 indowebster.com###iklan_atas
 indowebster.com###iklankiri
 indowebster.com###showpaper
@@ -420,11 +434,11 @@ kapanlagi.com###v5-topframe
 kapanlagi.com##IMG[src="http://202.6.233.52/partner/media/966x50/DMASIV-966x50.gif"]
 kaskus.us###BannerAts
 kaskus.us###BannerBwh
+kaskus.us###MiddleBanner1
+kaskus.us###Middle_blue
+kaskus.us###Middlenahome1
 kaskus.us###cntysm
 kaskus.us###exp
-kaskus.us###Middle_blue
-kaskus.us###MiddleBanner1
-kaskus.us###Middlenahome1
 kaskus.us##[href="http://kad.kaskus.us"]
 kaskus.us##[href="http://kad.kaskus.us/"]
 kaskus.us##[style="height: 30px;"]
@@ -451,15 +465,17 @@ okezone.com##[style="width: 300px; height: 250px; float: left; padding: 0pt;"]
 oktavita.com##.banner-zone
 perawan.us###fly
 perawan.us##TD[width="960"]
+republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
 republika.co.id##[align="center"]
 republika.co.id##[style="width: 300px; height: 100px; margin-bottom: 10px;"]
 republika.co.id##[style="width:300px; height:100px; margin-bottom:10px;"]
-republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
 sctv.co.id##[style="padding: 5px;"]
 stafaband.info###bottom
 suarabola.com###bannertop
 tempointeraktif.com###banner-kanan
 tempointeraktif.com##.block.iklan
+thehack3r.com###topbar
+thehack3r.com##CENTER
 vivanews.com##.reset10
 wap.vivanews.com##[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 warungbebas.com##.ads-sponsors
