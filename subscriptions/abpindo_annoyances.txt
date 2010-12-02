@@ -1,0 +1,15 @@
+[Adblock Plus 1.1]
+! Checksum: pzd4rKD7JMU6Fb17sREnvw
+! ABPIndo annoyances
+! Last modified  Kamis 02 Desember 2010, 20:06:48 WIB
+! Expires: 7 days (update frequency)
+! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
+!
+! Please report any unblocked adverts or problems
+! via e-mail (hermawanadhis@gmail.com)
+! http://indonesianfilter.blogspot.com
+!
+! this filter only supplement from fanboy-annoyances, i hope it's work well in indonesian sites
+!%include https://secure.fanboy.co.nz/fanboy-addon.txt%
+! *** _annoyances.txt ***
+kaskus.us##[style="clear:both;"]
