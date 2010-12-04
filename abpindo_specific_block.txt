@@ -2,12 +2,10 @@
 ||96.30.27.60/~p3r4w4n/images/banner/*
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
-||admin.ads.indowebster.com/image/*
 ||ads.antaranews.com^
 ||ads.djawirlabs.com^
-||ads.indowebster.com^
+||ads.indowebster.com^$image
 ||adsbox.detik.com/iklanbaris/*
-||adsbox.detik.com^
 ||adultfriendfinder.com/images/banners/*
 ||affiliate.godaddy.com^
 ||arenabola.com^$domain=krucil.com

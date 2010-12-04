@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ioqIQfPpIAifQQDwU48WFA
+! Checksum: H86oYNS0Z5qjnYl1a8f33w
 ! abp_indo without element hiding 
-! Last modified  Sabtu 04 Desember 2010, 17:06:37 WIB
+! Last modified  Sabtu 04 Desember 2010, 17:22:06 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -19,7 +19,6 @@
 /iklan.js
 /iklan.php
 /images/iklan/*
-/img-iklan/*
 /img/header_iklan/*
 /uploads/iklan/*
 /uploads/warung_iklan/*
@@ -27,7 +26,6 @@
 ! *** abpindo_adservers.txt ***
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
-||adform.net^$third-party
 ||adlegend.com^$third-party
 ||admarvel.com^$third-party
 ||admaxserver.com^third-party
@@ -193,12 +191,10 @@
 ||96.30.27.60/~p3r4w4n/images/banner/*
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
-||admin.ads.indowebster.com/image/*
 ||ads.antaranews.com^
 ||ads.djawirlabs.com^
-||ads.indowebster.com^
+||ads.indowebster.com^$image
 ||adsbox.detik.com/iklanbaris/*
-||adsbox.detik.com^
 ||adultfriendfinder.com/images/banners/*
 ||affiliate.godaddy.com^
 ||arenabola.com^$domain=krucil.com
