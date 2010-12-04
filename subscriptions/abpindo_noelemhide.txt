@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: eEy7aREs3phiJ2Nu7ORxfQ
+! Checksum: ioqIQfPpIAifQQDwU48WFA
 ! abp_indo without element hiding 
-! Last modified  Kamis 02 Desember 2010, 20:18:44 WIB
+! Last modified  Sabtu 04 Desember 2010, 17:06:37 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -14,7 +14,6 @@
 .id/ads/*
 .id/iklan/*
 .or.id/banner/*
-/adscorner.
 /iklan.html
 /iklan.jpg
 /iklan.js
@@ -48,13 +47,11 @@
 ||advertspeed.com^$third-party
 ||affiliatesfreedom.com^$third-party
 ||arisanvip.com^$third-party
-||arisensurf.com^$third-party
 ||awsurveys.com^$third-party
 ||axverta.com^third-party
 ||baliadv.com^$third-party
 ||bannerbux.com^$third-party
 ||bannerhp.com^$third-party
-||bayumukti.com^$third-party
 ||biindit.com^$third-party
 ||bubuads.com^$third-party
 ||buildvertical.com^$third-party
@@ -85,8 +82,6 @@
 ||flexterkita.com^$third-party
 ||fox-bux.com^$third-party
 ||funds4cash.com^$third-party
-||galaxybola.com^$third-party
-||goldbet88.com^$third-party
 ||hiddenbux.com^$third-party
 ||iaiamedia.com^$third-party
 ||idr-clickit.com^$third-party
@@ -99,21 +94,18 @@
 ||indobuysell.com^$third-party
 ||indofad.com^$third-party
 ||indoglobe.com^$third-party
-||indonesia-dating.com^$third-party
 ||indonesiaptc.com^$third-party
 ||indoptc.com^$third-party
-||indorp.com^$third-party
 ||indostats.com^$third-party
 ||indovertiser.com^$third-party
 ||infinityads.com^third-party
-||infodahsyat.com^$third-party
 ||inmobi.com^$third-party
 ||innity.net^$third-party
 ||investasiceria.net/images/*$third-party
-||jadibos.com^$third-party
 ||jingkrak.com^$third-party
 ||jituiklan.com^$third-party
 ||klikabadi.com^$third-party
+||klikabadi.net^$third-party
 ||klikajadeh.com^$third-party
 ||klikrupiah.com^$third-party
 ||kliksaya.com^$third-party
@@ -122,11 +114,9 @@
 ||kumpulblogger.com^$third-party
 ||kumpulnet.com^$third-party
 ||ladanguang.com^$third-party
-||manasuka.com^$third-party
-||marketiva.com^$third-party
-||maxblogpress.com^$third-party
+||manasuka.com/gbr_banner_link/*$third-party
 ||medyaklik.com^$third-party
-||muktiplaza.com^$third-party
+||mractionclub.com/banner/*$third-party
 ||mybannermaker.com^$third-party
 ||negeriads.com^$third-party
 ||neobux.com^$third-party
@@ -146,9 +136,6 @@
 ||ppcklik.com^$third-party
 ||premiertrafficptc.info^$third-party
 ||profiadvert.com^$third-party
-||profiburner.com^$third-party
-||profiledough.com^$third-party
-||profitmart.com^$third-party
 ||promoteburner.com^$third-party
 ||publish.web.id^$third-party
 ||pusatmarketing.com^$third-party
@@ -178,13 +165,11 @@
 ||tokobagus.com^$third-party
 ||topklik.com^$third-party
 ||topsurfer.com^$third-party
-||tpnads.com^$third-party
 ||tynt.com^$third-party
 ||uangklik.com^$third-party
 ||unobux.com^$third-party
 ||urlcash.net^$third-party
 ||valueclick.net^$third-party
-||vizu.com^$third-party
 ||yesads.com^third-party
 ! *** abpindo_thirdparty.txt ***
 ||banner.autosubmit.web.id^$third-party
@@ -194,6 +179,8 @@
 ||carasukses.com^$third-party
 ||clickbet88.com/banner/*$third-party
 ||formulabisnis.com/images/*$third-party
+||galaxybola.com^$third-party
+||goldbet88.com^$third-party
 ||kebunemas.com/banner/*$third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||my.blueadvertise.com^$third-party

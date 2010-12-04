@@ -2,7 +2,6 @@
 .id/ads/*
 .id/iklan/*
 .or.id/banner/*
-/adscorner.
 /iklan.html
 /iklan.jpg
 /iklan.js
