@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: nw61IrxvJdXbazYoWacJXQ
+! Checksum: j32aezapWathGHjNmCF43w
 ! JBet - Jebakan Betmen
-! Last modified  Sabtu 04 Desember 2010, 17:22:06 WIB
+! Last modified  Selasa 07 Desember 2010, 08:48:54 WIB
 ! Expires: 14 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -24,7 +24,6 @@
 ||4girlsfingerpaint.com^
 ||aladel.net^
 ||asianthumbx.com^
-||asylum626.com^
 ||bagslap.com^
 ||biblecamp.info^
 ||blink-182.com^
@@ -71,7 +70,6 @@
 ||goatsegirl.org^
 ||goatsemarathon.com^
 ||goobel.50webs.com^
-||googlehammer.com^
 ||gooork.com^
 ||goplaysee.com^
 ||goregasm.com^
@@ -143,7 +141,6 @@
 ||purplehoodie.com^
 ||qsng.cn^
 ||ratemyshocker.com^
-||redtube.com^
 ||removed.us^
 ||rotten.com^
 ||sajjadali.com^
@@ -193,9 +190,44 @@
 ||yellaface.com^
 ||yenimports.co.uk^
 ||youaresogay.com^
-||youjizz.com^
 ||yourmom.org^
 ||yt118.com^
+||[yourname].rickrolling.com^
+||apaaaantuh.co.cc^
+||bangun3.com/admin
+||bit.ly/4ZibPJ
+||bmpclub.bravehost.com/Toturial_BUG_PB.html
+||coryna.com^
+||d1gdo.com/admin/*
+||d1gdo.com/images
+||dennyastrada.co.cc^
+||elektroav1.do.am/wIEmF3PX.html
+||epustakawan.co.cc^
+||esc-creation.com/scream
+||faojand-injector.blogspot.com^^
+||forum.gemscool.com/thread-59378.html
+||fuck.org^
+||gigihweb.com/unik
+||googlehammer.com^
+||hipperz-injector.blogspot.com^
+||hwehe3x.blogspot.com^
+||jewdiamonds.com^
+||kenapa-ini.blogspot.com^
+||killerijo.com^
+||killerijo.net^
+||kiwil-curhat.page.tl/Jangan-Di-Klik.htm
+||kombre.co.cc^
+||members.home.nl/saen/Special/Zoeken.swf
+||nopic-hoax.blogspot.com^
+||reinaldi.com^
+||rumdesign.com/wrong/*
+||sinthaistudio.com/thehouse2/*
+||stainedass.com^
+||stuff.pyzam.com/toys/tictacscare.swf
+||urangsunda.50webs.com/NoClick.html
+||warnetips.blogspot.com^
+||youjizz.com^
+||yoznews.blogspot.com^
 ! *** _longcat.txt ***
 |http://1.bp.blogspot.com/_SwbWgcTbw4A/SnkXsdrkM3I/AAAAAAAAAIw/_MefnBG4_Ac/s320/*
 |http://2.bp.blogspot.com/_my5OGIJd4kM/Sher-0wV0FI/AAAAAAAAFZ8/qsCTA0eoo_o/s400/*

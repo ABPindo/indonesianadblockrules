@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: H86oYNS0Z5qjnYl1a8f33w
+! Checksum: nmovD5PVXF6PwRrPeuAPYw
 ! abp_indo without element hiding 
-! Last modified  Sabtu 04 Desember 2010, 17:22:06 WIB
+! Last modified  Selasa 07 Desember 2010, 08:48:54 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -197,6 +197,7 @@
 ||adsbox.detik.com/iklanbaris/*
 ||adultfriendfinder.com/images/banners/*
 ||affiliate.godaddy.com^
+||anymanga.com/adv.js
 ||arenabola.com^$domain=krucil.com
 ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
 ||cashburners.biz/banners/
@@ -263,6 +264,7 @@
 ||perawan.us/images/banner/*
 ||perawan.us/javascript/pop.js
 ||poems.web.id/poemspromo/*
+||readbud.com/images/125_125_banner.jpg
 ||stafaband.info/tb.swf
 ||stat.k.kidsklik.com/js/tekno/tekno-ads.php?s=wp&0610101038
 ||static.escavern.com/tokomaya.gif
