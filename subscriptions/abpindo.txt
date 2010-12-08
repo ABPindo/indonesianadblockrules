@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: u/GBk4TlZ1TH3k2AAnHGPw
+! Checksum: 1e/2xwvrcYWSgLxPd2QwRg
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Selasa 07 Desember 2010, 08:51:45 WIB
+! Last modified  Rabu 08 Desember 2010, 21:33:54 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -25,95 +25,52 @@
 |http://banners-id.
 ! *** abpindo_general_hide.txt ***
 ###AdContainer
-###AdHeader
 ###Box-Banner-ads
-###FooterAdContainer
 ###RadAd_Skyscraper
-###ad
-###ad-300x250
-###ad-banner
 ###ad-frame
 ###ad-top
-###ad1
 ###ad3
 ###adB
 ###adBanner
 ###adTop
 ###ad_space
 ###ad_text
-###adbanner
 ###adbox
 ###ads
-###ads2
-###ads7
-###ads_top
 ###advertissement
 ###bottom_player_adv
-###bottomad
 ###desaiklan
-###first_ad_unit
-###footerAd
-###footer_ad
-###header-ads
 ###header_ad
 ###promo-ad
 ###rightAds
 ###side-ads
-###side_ads
-###sidead
 ###sidebar-ads
-###sponsored
 ###sponsoredads
-###textad
-###topAd
 ###top_ad
 ###top_player_adv
 ###topad
-###topbar
-###vertical_ads
 ##.AdBox
-##.AdSense
 ##.Ads
-##.ad-section
-##.ad1
-##.ad160
-##.ad2
 ##.adContainer
 ##.adHolder
-##.adMkt2Colw
 ##.adModule
 ##.adText
 ##.ad_frame
-##.ad_leaderboard
-##.ad_right
 ##.ad_space
-##.ad_top
 ##.addiv
 ##.adlist
 ##.ads
-##.ads2
-##.adtag
 ##.advIdentifier
 ##.adv_right
 ##.advertise
-##.advertisement
 ##.advertising
 ##.adwrapper
-##.article_ad
 ##.bgads
-##.content_ad
 ##.gbcontent
 ##.gpcontent
-##.header_ad
-##.leaderboardAd
-##.leftad
-##.nav_ad
 ##.rightad
-##.sidead
-##.skyscraper
 ##.story_right_adv
 ##.textlinkads
-##.topad
 ! *** abpindo_adservers.txt ***
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
@@ -359,7 +316,6 @@
 ||stafaband.info/tb.swf
 ||stat.k.kidsklik.com/js/tekno/tekno-ads.php?s=wp&0610101038
 ||static.escavern.com/tokomaya.gif
-||static.kaskus.us/images/statusicon/user_offline.gif
 ||suarabola.com/banners/
 ||swfcabin.com^$domain=krucil.com
 ||tinypic.com^$domain=bb18.org|bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: AdXz6/MnAgpoy4C2IWoDNA
+! Checksum: gCfntf012w1krr6dw/owkg
 ! abp_indo without element hiding 
-! Last modified  Selasa 07 Desember 2010, 08:51:45 WIB
+! Last modified  Rabu 08 Desember 2010, 21:33:54 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -268,7 +268,6 @@
 ||stafaband.info/tb.swf
 ||stat.k.kidsklik.com/js/tekno/tekno-ads.php?s=wp&0610101038
 ||static.escavern.com/tokomaya.gif
-||static.kaskus.us/images/statusicon/user_offline.gif
 ||suarabola.com/banners/
 ||swfcabin.com^$domain=krucil.com
 ||tinypic.com^$domain=bb18.org|bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
