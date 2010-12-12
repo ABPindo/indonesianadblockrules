@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: UZOnWT5DReI5cbv7bzfAaw
+! Checksum: EmWYoPwAZ1ytdasIhI00Dg
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Jumat 10 Desember 2010, 22:01:24 WIB
+! Last modified  Minggu 12 Desember 2010, 07:05:23 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -311,6 +311,7 @@
 ||perawan.us/images/banner/*
 ||perawan.us/javascript/pop.js
 ||poems.web.id/poemspromo/*
+||primbon.com/banner/*
 ||readbud.com/images/125_125_banner.jpg
 ||stafaband.info/tb.swf
 ||stat.k.kidsklik.com/js/tekno/tekno-ads.php?s=wp&0610101038
@@ -328,6 +329,7 @@ blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard
 boleh.com##.bannersmall
+ceriwis.us###hoho-wrapsubmenu2
 ceriwis.us###message-box
 ceriwis.us###message-box-bot
 ceriwis.us##B
