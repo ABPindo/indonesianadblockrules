@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: AKUTGjMHu3OuLXoIvt7k1g
+! Checksum: +bMWaJCIDixpdAc4Oaq39g
 ! abp_indo without element hiding 
-! Last modified  Selasa 14 Desember 2010, 05:41:00 WIB
+! Last modified  Selasa 14 Desember 2010, 06:27:18 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -188,6 +188,8 @@
 ||web-indonesia.com^$third-party
 ||ziddu.com/banners/images/*$third-party
 ! *** abpindo_specific_block.txt ***
+||koranlokal.com/point1.php
+||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/iklan_baru/*
 ||koranlokal.com/iklan
 ||21cineplex.com/data/videoad/*
