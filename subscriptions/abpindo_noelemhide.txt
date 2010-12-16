@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: +bMWaJCIDixpdAc4Oaq39g
+! Checksum: 16yNqDeF43ORT3/oSuy9ww
 ! abp_indo without element hiding 
-! Last modified  Selasa 14 Desember 2010, 06:27:18 WIB
+! Last modified  Kamis 16 Desember 2010, 09:15:29 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -34,7 +34,6 @@
 ||adsbingo.com^$third-party
 ||adsenblogger.com^$third-party
 ||adsense-id.com^$third-party
-||adsenseblackmagic.com^$third-party
 ||adsensemu.com^$third-party
 ||adsentra.com^$third-party
 ||adservingdaddy.com^$third-party
@@ -45,7 +44,6 @@
 ||advertspeed.com^$third-party
 ||affiliatesfreedom.com^$third-party
 ||arisanvip.com^$third-party
-||awsurveys.com^$third-party
 ||axverta.com^third-party
 ||baliadv.com^$third-party
 ||bannerbux.com^$third-party
@@ -53,7 +51,6 @@
 ||biindit.com^$third-party
 ||bubuads.com^$third-party
 ||buildvertical.com^$third-party
-||bursalaris.com^$third-party
 ||buxrupiah.com^$third-party
 ||buyiads.com^$third-party
 ||cashviews.com^$third-party
@@ -69,7 +66,6 @@
 ||desaiklan.com^$third-party
 ||doremibet.com^$third-party
 ||doubleclick.com^$third-party
-||doublepimp.com^$third-party
 ||drumcash.com^$third-party
 ||duitbux.com^$third-party
 ||duitmu.com^$third-party
@@ -151,7 +147,6 @@
 ||situsbet.com^$third-party
 ||skycpm.com^$third-party
 ||sogoplaza.com^$third-party
-||spacash.com^$third-party
 ||springfund.com^$third-party
 ||spyonad.com^$third-party
 ||suryabanner.com^$third-party
@@ -188,10 +183,6 @@
 ||web-indonesia.com^$third-party
 ||ziddu.com/banners/images/*$third-party
 ! *** abpindo_specific_block.txt ***
-||koranlokal.com/point1.php
-||koranlokal.com/newstickerpartai.php
-||koranlokal.com/iklan_baru/*
-||koranlokal.com/iklan
 ||21cineplex.com/data/videoad/*
 ||96.30.27.60/~p3r4w4n/images/banner/*
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
@@ -209,6 +200,7 @@
 ||cdn.bloggerfiles.com/img/promo/*
 ||ceriwis.info/338x30.swf
 ||ceriwis.us/338x30.swf
+||chip.co.id/microsite/frame/index.html
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
 ||drowle.com^
@@ -253,6 +245,10 @@
 ||kikil.org/adsbahenol.html
 ||kikil.org/network/uploaded_banners/
 ||kompas.com/data/banner/
+||koranlokal.com/iklan
+||koranlokal.com/iklan_baru/*
+||koranlokal.com/newstickerpartai.php
+||koranlokal.com/point1.php
 ||krucil.com/bb17-iklan.php
 ||krucil.com/pop.js
 ||lintasberita.com/public/images/bannermidlecenter.jpg

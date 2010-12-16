@@ -1,7 +1,3 @@
-||koranlokal.com/point1.php
-||koranlokal.com/newstickerpartai.php
-||koranlokal.com/iklan_baru/*
-||koranlokal.com/iklan
 ||21cineplex.com/data/videoad/*
 ||96.30.27.60/~p3r4w4n/images/banner/*
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
@@ -19,6 +15,7 @@
 ||cdn.bloggerfiles.com/img/promo/*
 ||ceriwis.info/338x30.swf
 ||ceriwis.us/338x30.swf
+||chip.co.id/microsite/frame/index.html
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
 ||drowle.com^
@@ -63,6 +60,10 @@
 ||kikil.org/adsbahenol.html
 ||kikil.org/network/uploaded_banners/
 ||kompas.com/data/banner/
+||koranlokal.com/iklan
+||koranlokal.com/iklan_baru/*
+||koranlokal.com/newstickerpartai.php
+||koranlokal.com/point1.php
 ||krucil.com/bb17-iklan.php
 ||krucil.com/pop.js
 ||lintasberita.com/public/images/bannermidlecenter.jpg
