@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 7zBZq6JoPo6wRRZxwQBzVg
+! Checksum: rQKp9+4zASGIzUIIGUmAcg
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Kamis 16 Desember 2010, 09:15:29 WIB
+! Last modified  Sabtu 18 Desember 2010, 08:16:32 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -10,19 +10,37 @@
 ! http://indonesianfilter.blogspot.com
 !
 ! *** abpindo_general_block.txt ***
+-iklan-
+.com/Flash/Adv_*
+.com/adv/*
 .com/iklan/*
+.com/upload/adv/*
 .id/ads/*
 .id/iklan/*
 .or.id/banner/*
+/ad.asp
+/ad.php
 /iklan.html
 /iklan.jpg
 /iklan.js
 /iklan.php
+/iklan2.jpg
+/images/adv/*
+/images/bnrad/*
 /images/iklan/*
+/images_ad/*
+/img/adv/*
 /img/header_iklan/*
+/mobileads.png
+/partner/media/*
+/pasangads.png
+/pasangiklan.jpg
+/server/ads/*
 /uploads/iklan/*
 /uploads/warung_iklan/*
 |http://banners-id.
+|http://iklan.
+|http://img.ads.
 ! *** abpindo_general_hide.txt ***
 ###AdContainer
 ###Box-Banner-ads
@@ -84,12 +102,10 @@
 ||adsensemu.com^$third-party
 ||adsentra.com^$third-party
 ||adservingdaddy.com^$third-party
-||adsindo.net^$third-party
 ||adspeedy.com^$third-party
 ||adv-adserver.com^$third-party
 ||advercash.net^$third-party
 ||advertspeed.com^$third-party
-||affiliatesfreedom.com^$third-party
 ||arisanvip.com^$third-party
 ||axverta.com^third-party
 ||baliadv.com^$third-party
@@ -237,7 +253,6 @@
 ||ads.antaranews.com^
 ||ads.djawirlabs.com^
 ||ads.indowebster.com^$image
-||adsbox.detik.com/iklanbaris/*
 ||adultfriendfinder.com/images/banners/*
 ||affiliate.godaddy.com^
 ||anymanga.com/adv.js
@@ -292,7 +307,6 @@
 ||kikil.org/adsbahenol.html
 ||kikil.org/network/uploaded_banners/
 ||kompas.com/data/banner/
-||koranlokal.com/iklan
 ||koranlokal.com/iklan_baru/*
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
