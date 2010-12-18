@@ -6,8 +6,6 @@
 .id/ads/*
 .id/iklan/*
 .or.id/banner/*
-/ad.asp
-/ad.php
 /iklan.html
 /iklan.jpg
 /iklan.js
