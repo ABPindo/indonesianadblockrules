@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: MgqZjNd97v4QxEmlPn6Y7Q
+! Checksum: xak4+ULgSlUwzAwtXg7ugw
 ! abp_indo without element hiding 
-! Last modified  Selasa 21 Desember 2010, 09:51:20 WIB
+! Last modified  Selasa 21 Desember 2010, 21:58:32 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -179,13 +179,14 @@
 ||valueclick.net^$third-party
 ||yesads.com^third-party
 ! *** abpindo_thirdparty.txt ***
-||easy-hit-counter.com^$third-party
+||asianbrain.com/banner/*$third-party
 ||banner.autosubmit.web.id^$third-party
 ||bebaspikiran.com^$third-party
 ||bekas.com^$third-party
 ||bolaketangkasan.com^$third-party
 ||carasukses.com^$third-party
 ||clickbet88.com/banner/*$third-party
+||easy-hit-counter.com^$third-party
 ||formulabisnis.com/images/*$third-party
 ||galaxybola.com^$third-party
 ||goldbet88.com^$third-party

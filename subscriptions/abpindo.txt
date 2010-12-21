@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 1VyLd8GfqOJQHF1wjPGFkw
+! Checksum: Vd5+9ugiC66gXFSDKZJ/5w
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Selasa 21 Desember 2010, 21:27:32 WIB
+! Last modified  Selasa 21 Desember 2010, 21:58:32 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -185,13 +185,14 @@
 ||valueclick.net^$third-party
 ||yesads.com^third-party
 ! *** abpindo_thirdparty.txt ***
-||easy-hit-counter.com^$third-party
+||asianbrain.com/banner/*$third-party
 ||banner.autosubmit.web.id^$third-party
 ||bebaspikiran.com^$third-party
 ||bekas.com^$third-party
 ||bolaketangkasan.com^$third-party
 ||carasukses.com^$third-party
 ||clickbet88.com/banner/*$third-party
+||easy-hit-counter.com^$third-party
 ||formulabisnis.com/images/*$third-party
 ||galaxybola.com^$third-party
 ||goldbet88.com^$third-party
@@ -295,6 +296,7 @@
 ||vivanews.com/indowebster
 ! *** abpindo_specific_hide.txt ***
 blogdetik.com##.bannerA
+bluefame.com##CENTER
 bola.net###top_leaderboard
 boleh.com##.bannersmall
 ceriwis.us###hoho-wrapsubmenu2
@@ -340,6 +342,7 @@ detiksport.com###bannerE
 detiksport.com##.bannerB2
 forum.detik.com###adsmiddle
 forumbebas.com###topbar
+forumbebas.com##CENTER
 foto.detik.com##.bannerbcd
 google.co.id###rhs_block
 google.co.id##TABLE[style="border: 1px solid #0000CC"]
@@ -386,10 +389,12 @@ kaskus.us###exp
 kaskus.us##A[href="http://kad.kaskus.us/"]
 kaskus.us##DIV[style="height:30px"]
 kikil.org###iklanpersegi
+kikil.org##CENTER
 kompas.com##.left.w317.wp_gs.font11.c_black
 kompas.com##.wp_games
 krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
+krucil.com##TABLE[width="900"]
 lintasberita.com###ads300-250
 lintasberita.com###popupBanner
 lintasberita.com##DIV[style="width:300px; height:250px; margin:0 0 20px 0; padding:0px; float:left;"]
@@ -397,6 +402,7 @@ liputan6.com###ads_lb
 liputan6.com##.ybox
 m.detik.com###top
 masterporn.me##FONT[size="1"]
+masterporn.me##TABLE[align="center"]
 mediaindonesia.com###topbanner
 mediaindonesia.com##.minitext
 megindo.net###aft
@@ -414,7 +420,9 @@ suarabola.com###bannertop
 tempointeraktif.com###banner-kanan
 tempointeraktif.com##.block.iklan
 tempointeraktif.com##.closebanner1
+thehack3r.com###mta_bar
 thehack3r.com###topbar
+thehack3r.com##CENTER
 vivanews.com##.reset10
 wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 warungbebas.com##.ads-sponsors
