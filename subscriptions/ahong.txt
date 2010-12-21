@@ -1,0 +1,18 @@
+[Adblock Plus 1.1]
+! Checksum: UpO1LzGfNnUovWQTyZ5h7A
+! Ahong - remduce pics from aha.co.id
+! Last modified  Selasa 21 Desember 2010, 07:07:20 WIB
+! Expires: 14 days (update frequency)
+! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
+!
+! Please report any unblocked adverts or problems
+! via e-mail (hermawanadhis@gmail.com)
+! http://indonesianfilter.blogspot.com
+!
+! *** _ahong.txt ***
+||aha.co.id/Style%20Library/masterpage/images/aha_footer_superdeal.jpg
+||aha.co.id/Style%20Library/masterpage/images/footer_icons.png
+||aha.co.id/Style%20Library/masterpage/images/customer_login_models.png
+||aha.co.id/Style%20Library/masterpage/images/bg.png
+||aha.co.id/Style%20Library/masterpage/images/customer_login_top_bar.png
+||aha.co.id/Style%20Library/masterpage/images/header_main_menu.png
