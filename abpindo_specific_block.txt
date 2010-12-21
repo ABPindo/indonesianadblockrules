@@ -44,11 +44,8 @@
 ||indomp3z.us/images/hotfile.jpg
 ||indomp3z.us/images/imzupload.gif
 ||indonesiapaypal.com/banners/flash/Banner250x250.swf
-||indowebster.com/ajax/iklan/*
+||indowebster.com/ajax/iklan/*$xmlhttprequest
 ||javapic.com/ikelan/*
-||jawapos.co.id/advcontent/*
-||jawapos.co.id/img_env/banner_
-||jawapos.co.id/imgs/banner_
 ||jeruknipis.com^$domain=indowebster.com
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
@@ -90,4 +87,4 @@
 ||us.openx.detik.com^$~third-party
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
-||vivanews.com^$domain=indowebster.com
+||vivanews.com/indowebster
