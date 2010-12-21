@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: /kJMn2YBSHyzoS1WZjvj9w
+! Checksum: 1VyLd8GfqOJQHF1wjPGFkw
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Selasa 21 Desember 2010, 19:32:41 WIB
+! Last modified  Selasa 21 Desember 2010, 21:27:32 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -294,15 +294,13 @@
 ||vivanews.com/appaux/ads/
 ||vivanews.com/indowebster
 ! *** abpindo_specific_hide.txt ***
-forumbebas.com##CENTER
-forumbebas.com###topbar
 blogdetik.com##.bannerA
-bluefame.com##CENTER
 bola.net###top_leaderboard
 boleh.com##.bannersmall
 ceriwis.us###hoho-wrapsubmenu2
 ceriwis.us###message-box
 ceriwis.us###message-box-bot
+ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
 detik.com###arena-musik
 detik.com###bannerE
 detik.com###footerbanner
@@ -341,6 +339,7 @@ detiksport.com###adtext-info
 detiksport.com###bannerE
 detiksport.com##.bannerB2
 forum.detik.com###adsmiddle
+forumbebas.com###topbar
 foto.detik.com##.bannerbcd
 google.co.id###rhs_block
 google.co.id##TABLE[style="border: 1px solid #0000CC"]
@@ -365,6 +364,7 @@ indowebster.com###iklankiri
 indowebster.com###showpaper
 indowebster.com###tr_iklanbaris2
 indowebster.com###warn
+indowebster.com##DIV[style="height:62px;"]
 indowebster.web.id###ad_global_below_navbar
 inilah.com##.head_banner
 kapanlagi.com###middle_showcase
@@ -383,31 +383,39 @@ kaskus.us###Middle_blue
 kaskus.us###Middlenahome1
 kaskus.us###cntysm
 kaskus.us###exp
+kaskus.us##A[href="http://kad.kaskus.us/"]
+kaskus.us##DIV[style="height:30px"]
 kikil.org###iklanpersegi
-kikil.org##CENTER
 kompas.com##.left.w317.wp_gs.font11.c_black
 kompas.com##.wp_games
 krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
-krucil.com##CENTER
 lintasberita.com###ads300-250
 lintasberita.com###popupBanner
+lintasberita.com##DIV[style="width:300px; height:250px; margin:0 0 20px 0; padding:0px; float:left;"]
 liputan6.com###ads_lb
 liputan6.com##.ybox
 m.detik.com###top
+masterporn.me##FONT[size="1"]
 mediaindonesia.com###topbanner
 mediaindonesia.com##.minitext
 megindo.net###aft
 okezone.com##.d300.p3.fl
 oktavita.com##.banner-zone
 perawan.us###fly
+perawan.us##TABLE[width="99%"]
+republika.co.id###header
+republika.co.id##DIV[style="width:300px; height:100px; margin-bottom:10px;"]
+republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
+sctv.co.id##TD[background="http://www.sctv.co.id/tpls/website/img/bg_banner-728x90.gif"]
+sctv.co.id##TD[style="padding: 5px;"]
 stafaband.info###bottom
 suarabola.com###bannertop
 tempointeraktif.com###banner-kanan
 tempointeraktif.com##.block.iklan
 tempointeraktif.com##.closebanner1
 thehack3r.com###topbar
-thehack3r.com##CENTER
 vivanews.com##.reset10
+wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 warungbebas.com##.ads-sponsors
 ! *** abpindo_whitelist.txt ***
