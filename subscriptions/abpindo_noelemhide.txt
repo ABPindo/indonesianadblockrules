@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: xak4+ULgSlUwzAwtXg7ugw
+! Checksum: GFR7AAVQEj4Lv3lTnCYMlw
 ! abp_indo without element hiding 
-! Last modified  Selasa 21 Desember 2010, 21:58:32 WIB
+! Last modified  Jumat 24 Desember 2010, 18:03:59 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -10,35 +10,6 @@
 ! http://indonesianfilter.blogspot.com
 !
 ! *** abpindo_general_block.txt ***
--iklan-
-.com/Flash/Adv_*
-.com/adv/*
-.com/iklan/*
-.com/upload/adv/*
-.id/ads/*
-.id/iklan/*
-.or.id/banner/*
-/iklan.html
-/iklan.jpg
-/iklan.js
-/iklan.php
-/iklan2.jpg
-/images/adv/*
-/images/bnrad/*
-/images/iklan/*
-/images_ad/*
-/img/adv/*
-/img/header_iklan/*
-/mobileads.png
-/partner/media/*
-/pasangads.png
-/pasangiklan.jpg
-/server/ads/*
-/uploads/iklan/*
-/uploads/warung_iklan/*
-|http://banners-id.
-|http://iklan.
-|http://img.ads.
 ! *** abpindo_adservers.txt ***
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
@@ -199,7 +170,6 @@
 ||ziddu.com/banners/images/*$third-party
 ! *** abpindo_specific_block.txt ***
 ||21cineplex.com/data/videoad/*
-||96.30.27.60/~p3r4w4n/images/banner/*
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
 ||ads.antaranews.com^
