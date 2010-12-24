@@ -8,6 +8,5 @@
 ! via e-mail (hermawanadhis@gmail.com)
 ! http://indonesianfilter.blogspot.com
 !
-! this filter only supplement from fanboy-annoyances, i hope it's work well in indonesian sites
-%include https://secure.fanboy.co.nz/fanboy-addon.txt%
+! only for personal purpose, it will block annoyances at web
 %include _annoyances.txt%
