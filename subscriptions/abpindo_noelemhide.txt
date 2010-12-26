@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: cj6GoF0mK4lhaAsFXpZFWA
+! Checksum: 4n6eqUTQjvW6edRHEP1/Vg
 ! abp_indo without element hiding 
-! Last modified  Sabtu 25 Desember 2010, 12:12:16 WIB
+! Last modified  Minggu 26 Desember 2010, 12:10:22 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -11,6 +11,13 @@
 !
 ! *** abpindo_general_block.txt ***
 ! *** abpindo_adservers.txt ***
+||klikptc.com^$third-party
+||pundibux.net^$third-party
+||supbux.com^$third-party
+||dbclix.com^$third-party
+||tekbux.com^$third-party
+||shbux.com^$third-party
+||vistaclix.com^$third-party
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
 ||adlegend.com^$third-party
@@ -56,7 +63,6 @@
 ||duitmu.com^$third-party
 ||earneasycash.info^$third-party
 ||easyad.us^$third-party
-||easycounter.com^$third-party
 ||enjoybux.com^$third-party
 ||flexterkita.com^$third-party
 ||fox-bux.com^$third-party
@@ -118,8 +124,6 @@
 ||promoteburner.com^$third-party
 ||publish.web.id^$third-party
 ||pusatmarketing.com^$third-party
-||quantserve.com^$third-party
-||radarurl.com^$third-party
 ||referral-secrets.com^$third-party
 ||revenueburner.com^$third-party
 ||revolvermaps.com^$third-party

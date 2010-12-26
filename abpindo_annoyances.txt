@@ -9,4 +9,5 @@
 ! http://indonesianfilter.blogspot.com
 !
 ! only for personal purpose, it will block annoyances at web
+%include https://fanboy-adblock-list.googlecode.com/hg/fanboy-adblocklist-addon.txt%
 %include _annoyances.txt%

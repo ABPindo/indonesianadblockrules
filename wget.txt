@@ -1,0 +1,1 @@
+"C:\Program Files\GnuWin32\bin\wget" --no-check-certificate -nd -nc -q https://fanboy-adblock-list.googlecode.com/hg/fanboy-adblocklist-addon.txt
