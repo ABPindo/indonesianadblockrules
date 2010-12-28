@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 6pE2vK7wx639Y3171kPGlw
+! Checksum: +JYy7QEDzFOGF1Ga04mspA
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Minggu 26 Desember 2010, 12:10:22 WIB
+! Last modified  Selasa 28 Desember 2010, 20:25:17 WIB
 ! Expires: 7 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -268,7 +268,6 @@
 ||vivanews.com/appaux/ads/
 ||vivanews.com/indowebster
 ! *** abpindo_specific_hide.txt ***
-kaskus.us###MidGaris1
 blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard
@@ -358,6 +357,8 @@ kaskus.us###BannerBwh
 kaskus.us###Conho01Left
 kaskus.us###Conho01midd
 kaskus.us###Conho01right
+kaskus.us###MidGaris
+kaskus.us###MidGaris1
 kaskus.us###MiddleBanner1
 kaskus.us###Middle_blue
 kaskus.us###Middlehome021
