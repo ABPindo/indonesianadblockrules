@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ZtZTSY3s6s2okPVdpIvn/A
+! Checksum: nn/hDu8sSkMiauCvPsxnrg
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Rabu 29 Desember 2010, 11:00:45 WIB
+! Last modified  Jumat 31 Desember 2010, 21:55:02 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -249,6 +249,7 @@
 ||modemku.com/image-banner/*
 ||modifikasi.com/images/banner/close.gif
 ||modifikasi.com/images/banner_
+||obengware.com/admaxads.htm
 ||oprekpc.com/banner/
 ||perawan.us/images/banner/*
 ||perawan.us/javascript/pop.js
@@ -266,6 +267,7 @@
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
 ||vivanews.com/indowebster
+||webiihost.com/aff/banner/*$third-party
 ! *** abpindo_specific_hide.txt ***
 blogdetik.com##.bannerA
 bluefame.com##CENTER
@@ -323,6 +325,9 @@ google.com###rhs_block
 hai-online.com###fixme
 hai-online.com###fixmetoo
 indobokepz.com###feed
+indosiar.com###headerbanner
+indosiar.com##DIV[style="height:50px"]
+indosiar.com##DIV[style="margin:0 auto;width:940px;height:50px;background:#fff;text-align:center;"]
 indowebster.com###AdsAtas
 indowebster.com###AdsSearchAtas
 indowebster.com###Ads_fileinfo
@@ -389,6 +394,7 @@ okezone.com##.d300.p3.fl
 oktavita.com##.banner-zone
 perawan.us###fly
 perawan.us##TABLE[width="99%"]
+perawan.us##TD[width="960"]
 republika.co.id###header
 republika.co.id##DIV[style="width:300px; height:100px; margin-bottom:10px;"]
 republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
