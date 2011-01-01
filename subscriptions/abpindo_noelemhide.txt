@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: /BY7LMttY63N5NlpRc/BbA
+! Checksum: lnue4PqXPL/90R5OGz5Adg
 ! abp_indo without element hiding 
-! Last modified  Jumat 31 Desember 2010, 21:55:02 WIB
+! Last modified  Sabtu 01 Januari 2011, 21:11:22 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -151,62 +151,62 @@
 ||valueclick.net^$third-party
 ||yesads.com^third-party
 ! *** abpindo_thirdparty.txt ***
-||asianbrain.com/banner/*$third-party
+||asianbrain.com/banner/$third-party
 ||banner.autosubmit.web.id^$third-party
 ||bebaspikiran.com^$third-party
 ||bekas.com^$third-party
 ||bolaketangkasan.com^$third-party
 ||carasukses.com^$third-party
-||clickbet88.com/banner/*$third-party
+||clickbet88.com/banner/$third-party
 ||easy-hit-counter.com^$third-party
-||formulabisnis.com/images/*$third-party
+||formulabisnis.com/images/$third-party
 ||galaxybola.com^$third-party
 ||goldbet88.com^$third-party
-||kebunemas.com/banner/*$third-party
+||kebunemas.com/banner/$third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||my.blueadvertise.com^$third-party
 ||ratubola.com^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||web-indonesia.com^$third-party
-||ziddu.com/banners/images/*$third-party
+||ziddu.com/banners/images/$third-party
 ||bannerhp.com^$third-party
 ! *** abpindo_specific_block.txt ***
-||21cineplex.com/data/videoad/*
+||21cineplex.com/data/videoad/
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
 ||ads.antaranews.com^
 ||ads.djawirlabs.com^
 ||ads.indowebster.com^$image
-||adultfriendfinder.com/images/banners/*
+||adultfriendfinder.com/images/banners/
 ||affiliate.godaddy.com^
 ||anymanga.com/adv.js
 ||arenabola.com^$domain=krucil.com
 ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
 ||cashburners.biz/banners/
-||cdn.bloggerfiles.com/img/promo/*
+||cdn.bloggerfiles.com/img/promo/
 ||ceriwis.info/338x30.swf
 ||ceriwis.us/338x30.swf
 ||chip.co.id/microsite/frame/index.html
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
 ||drowle.com^
-||ebsoft.web.id/wp-content/banners/*
+||ebsoft.web.id/wp-content/banners/
 ||endonesia.com/banner1/dbc-kantorku.jpg
 ||endonesia.com/en1.gif
 ||endonesia.com/images/banner-rodadua-net.gif
 ||endonesia.com/images/modis-shop.gif
 ||endonesia.com/images/officialweb.gif
 ||freewebs.com/peluang-bisnis/kaya23.gif
-||harianjogja.com/img/Bnr/*
+||harianjogja.com/img/Bnr/
 ||howsanindo.com/website/bisnisparfum/bisnisparfum_dijual.gif
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
 ||iklan.indowebster.com^
-||image.bloggerfiles.com/img/promo/*$domain=gudanglagu.com
+||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 ||imagedum.com/images/457_Arenabola.png
 ||imagedum.com/images/774_Tangkasbet.gif
 ||imagedum.com/images/928_Ratubola.gif
-||img.ads.kompas.com/bannerlink/*
+||img.ads.kompas.com/bannerlink/
 ||img6.uploadhouse.com/fileuploads/6946/6946586ec80b6e1318c82b46fe31274e46bae48.jpg
 ||img7.uploadhouse.com/fileuploads/6944/69444773bf87af9d201f0bf2f81c7c083529805.jpg
 ||indobokepz.com/images/banner-slideshow.jpg
@@ -216,19 +216,19 @@
 ||indomp3z.us/images/hotfile.jpg
 ||indomp3z.us/images/imzupload.gif
 ||indonesiapaypal.com/banners/flash/Banner250x250.swf
-||indowebster.com/ajax/iklan/*$xmlhttprequest
-||javapic.com/ikelan/*
+||indowebster.com/ajax/iklan/$xmlhttprequest
+||javapic.com/ikelan/
 ||jeruknipis.com^$domain=indowebster.com
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
 ||kaskus.us/adv/
 ||kaskus.us/banner/Kas_In-House-Banner_120x240_alt-2.jpg
-||ketawa.com/img-iklan/*
+||ketawa.com/img-iklan/
 ||kikil.org/ads3.php
 ||kikil.org/adsbahenol.html
 ||kikil.org/network/uploaded_banners/
 ||kompas.com/data/banner/
-||koranlokal.com/iklan_baru/*
+||koranlokal.com/iklan_baru/
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
 ||krucil.com/bb17-iklan.php
@@ -240,15 +240,15 @@
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/data/affiliates/
 ||megindo.net/megindo2/images/banner-
-||modemku.com/image-banner/*
+||modemku.com/image-banner/
 ||modifikasi.com/images/banner/close.gif
 ||modifikasi.com/images/banner_
 ||obengware.com/admaxads.htm
 ||oprekpc.com/banner/
-||perawan.us/images/banner/*
+||perawan.us/images/banner/
 ||perawan.us/javascript/pop.js
-||poems.web.id/poemspromo/*
-||primbon.com/banner/*
+||poems.web.id/poemspromo/
+||primbon.com/banner/
 ||readbud.com/images/125_125_banner.jpg
 ||stafaband.info/tb.swf
 ||stat.k.kidsklik.com/js/tekno/tekno-ads.php?s=wp&0610101038
@@ -261,7 +261,7 @@
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
 ||vivanews.com/indowebster
-||webiihost.com/aff/banner/*$third-party
+||webiihost.com/aff/banner/$third-party
 ! *** abpindo_iklan_id.txt ***
 ||1bisnisonline.com^$third-party
 ||1iklanbaris.com^$third-party
