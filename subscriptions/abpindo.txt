@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 0FINTS+jpZ9jtMUhOi7O2g
+! Checksum: 4RUGAS5I8AckkR4LTR01lg
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Senin 03 Januari 2011, 09:57:26 WIB
+! Last modified  Kamis 06 Januari 2011, 09:24:34 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -176,6 +176,11 @@
 ||ziddu.com/banners/images/$third-party
 ||bannerhp.com^$third-party
 ! *** abpindo_specific_block.txt ***
+||syadiashare.com/usaha-berhasil-728.gif
+||uploadhouse.com/*.gif$domain=krucil.com,third-party
+||img5.uploadhouse.com/fileuploads/7341/7341275e70e126e6020b7970749f1517cddfa57.jpg
+||img5.uploadhouse.com/fileuploads/7341/734124591c261b70951dfd979b37074530dcd6b.jpg
+||resep.web.id/banner/
 ||gudeg.net/images/banner/
 ||21cineplex.com/data/videoad/
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
@@ -269,6 +274,7 @@
 ||vivanews.com/indowebster
 ||webiihost.com/aff/banner/$third-party
 ! *** abpindo_specific_hide.txt ***
+resep.web.id###googlebox
 blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard

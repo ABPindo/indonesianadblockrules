@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: lnue4PqXPL/90R5OGz5Adg
+! Checksum: 3UjuNkxdXOGMIXUeK8/NQQ
 ! abp_indo without element hiding 
-! Last modified  Sabtu 01 Januari 2011, 21:11:22 WIB
+! Last modified  Kamis 06 Januari 2011, 09:24:35 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -125,7 +125,6 @@
 ||referral-secrets.com^$third-party
 ||revenueburner.com^$third-party
 ||revolvermaps.com^$third-party
-||revsci.net^$third-party
 ||rupiahbux.com^$third-party
 ||sanglah.com^$third-party
 ||scorecardresearch.com^$third-party
@@ -171,6 +170,12 @@
 ||ziddu.com/banners/images/$third-party
 ||bannerhp.com^$third-party
 ! *** abpindo_specific_block.txt ***
+||syadiashare.com/usaha-berhasil-728.gif
+||uploadhouse.com/*.gif$domain=krucil.com,third-party
+||img5.uploadhouse.com/fileuploads/7341/7341275e70e126e6020b7970749f1517cddfa57.jpg
+||img5.uploadhouse.com/fileuploads/7341/734124591c261b70951dfd979b37074530dcd6b.jpg
+||resep.web.id/banner/
+||gudeg.net/images/banner/
 ||21cineplex.com/data/videoad/
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
