@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 4RUGAS5I8AckkR4LTR01lg
+! Checksum: nKdlszua3zzgKo4s7p4gAA
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Kamis 06 Januari 2011, 09:24:34 WIB
+! Last modified  Jumat 07 Januari 2011, 11:41:40 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -157,9 +157,7 @@
 ||yesads.com^third-party
 ! *** abpindo_thirdparty.txt ***
 ||asianbrain.com/banner/$third-party
-||banner.autosubmit.web.id^$third-party
 ||bebaspikiran.com^$third-party
-||bekas.com^$third-party
 ||bolaketangkasan.com^$third-party
 ||carasukses.com^$third-party
 ||clickbet88.com/banner/$third-party
@@ -173,15 +171,9 @@
 ||ratubola.com^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||web-indonesia.com^$third-party
+||webiihost.com/aff/banner/$third-party
 ||ziddu.com/banners/images/$third-party
-||bannerhp.com^$third-party
 ! *** abpindo_specific_block.txt ***
-||syadiashare.com/usaha-berhasil-728.gif
-||uploadhouse.com/*.gif$domain=krucil.com,third-party
-||img5.uploadhouse.com/fileuploads/7341/7341275e70e126e6020b7970749f1517cddfa57.jpg
-||img5.uploadhouse.com/fileuploads/7341/734124591c261b70951dfd979b37074530dcd6b.jpg
-||resep.web.id/banner/
-||gudeg.net/images/banner/
 ||21cineplex.com/data/videoad/
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
@@ -193,6 +185,9 @@
 ||anymanga.com/adv.js
 ||arenabola.com^$domain=krucil.com
 ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
+||banner.autosubmit.web.id^$third-party
+||bannerhp.com^$third-party||resep.web.id/banner/
+||bekas.com^$third-party
 ||cashburners.biz/banners/
 ||cdn.bloggerfiles.com/img/promo/
 ||ceriwis.info/338x30.swf
@@ -208,6 +203,7 @@
 ||endonesia.com/images/modis-shop.gif
 ||endonesia.com/images/officialweb.gif
 ||freewebs.com/peluang-bisnis/kaya23.gif
+||gudeg.net/images/banner/
 ||harianjogja.com/img/Bnr/
 ||howsanindo.com/website/bisnisparfum/bisnisparfum_dijual.gif
 ||idblognetwork.com/images/banner468x60/
@@ -217,7 +213,10 @@
 ||imagedum.com/images/457_Arenabola.png
 ||imagedum.com/images/774_Tangkasbet.gif
 ||imagedum.com/images/928_Ratubola.gif
+||imageshack.us^*.gif$domain=bb18.org
 ||img.ads.kompas.com/bannerlink/
+||img5.uploadhouse.com/fileuploads/7341/734124591c261b70951dfd979b37074530dcd6b.jpg
+||img5.uploadhouse.com/fileuploads/7341/7341275e70e126e6020b7970749f1517cddfa57.jpg
 ||img6.uploadhouse.com/fileuploads/6946/6946586ec80b6e1318c82b46fe31274e46bae48.jpg
 ||img7.uploadhouse.com/fileuploads/6944/69444773bf87af9d201f0bf2f81c7c083529805.jpg
 ||indobokepz.com/images/banner-slideshow.jpg
@@ -266,13 +265,14 @@
 ||static.escavern.com/tokomaya.gif
 ||suarabola.com/banners/
 ||swfcabin.com^$domain=krucil.com
-||tinypic.com^$domain=bb18.org|bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
+||syadiashare.com/usaha-berhasil-728.gif
+||tinypic.com^*gif$domain=bb18.org|bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
 ||uki.ac.id/images/samkokbet.swf
+||uploadhouse.com^*.gif$domain=krucil.com
 ||us.openx.detik.com^$~third-party
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
 ||vivanews.com/indowebster
-||webiihost.com/aff/banner/$third-party
 ! *** abpindo_specific_hide.txt ***
 resep.web.id###googlebox
 blogdetik.com##.bannerA
