@@ -4,13 +4,12 @@
 ||ads.antaranews.com^
 ||ads.djawirlabs.com^
 ||ads.indowebster.com^$image
-||adultfriendfinder.com/images/banners/
 ||affiliate.godaddy.com^
 ||anymanga.com/adv.js
 ||arenabola.com^$domain=krucil.com
 ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
-||banner.autosubmit.web.id^$third-party
-||bannerhp.com^$third-party||resep.web.id/banner/
+||bannerhp.com^$third-party
+||resep.web.id/banner/
 ||bekas.com^$third-party
 ||cashburners.biz/banners/
 ||cdn.bloggerfiles.com/img/promo/
@@ -37,7 +36,6 @@
 ||imagedum.com/images/457_Arenabola.png
 ||imagedum.com/images/774_Tangkasbet.gif
 ||imagedum.com/images/928_Ratubola.gif
-||imageshack.us^*.gif$domain=bb18.org
 ||img.ads.kompas.com/bannerlink/
 ||img5.uploadhouse.com/fileuploads/7341/734124591c261b70951dfd979b37074530dcd6b.jpg
 ||img5.uploadhouse.com/fileuploads/7341/7341275e70e126e6020b7970749f1517cddfa57.jpg
@@ -90,7 +88,7 @@
 ||suarabola.com/banners/
 ||swfcabin.com^$domain=krucil.com
 ||syadiashare.com/usaha-berhasil-728.gif
-||tinypic.com^*gif$domain=bb18.org|bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
+||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
 ||uki.ac.id/images/samkokbet.swf
 ||uploadhouse.com^*.gif$domain=krucil.com
 ||us.openx.detik.com^$~third-party

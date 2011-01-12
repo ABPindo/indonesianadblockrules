@@ -1,4 +1,3 @@
-resep.web.id###googlebox
 blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard
@@ -110,6 +109,7 @@ krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
 krucil.com##TABLE[width="900"]
 lintasberita.com###popupBanner
+lintasberita.com##DIV[style="width:300px; height:250px; margin:0 0 10px 0; padding:0px; float:left;"]
 lintasberita.com##DIV[style="width:300px; height:250px; margin:0 0 20px 0; padding:0px; float:left;"]
 liputan6.com###ads_lb
 liputan6.com##.ybox
@@ -127,10 +127,12 @@ perawan.us##TD[width="960"]
 republika.co.id###header
 republika.co.id##DIV[style="width:300px; height:100px; margin-bottom:10px;"]
 republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
+resep.web.id###googlebox
 sctv.co.id##TD[background="http://www.sctv.co.id/tpls/website/img/bg_banner-728x90.gif"]
 sctv.co.id##TD[style="padding: 5px;"]
 stafaband.info###bottom
 suarabola.com###bannertop
+suarapembaruan.com###topbanner
 tempointeraktif.com###banner-kanan
 tempointeraktif.com##.block.iklan
 tempointeraktif.com##.closebanner1
