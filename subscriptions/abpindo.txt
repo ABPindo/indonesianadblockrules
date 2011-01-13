@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: C2MPB0lbYqYgN9/BK4O2mQ
+! Checksum: BB/EFzvq1c7ugW3ITnZg4Q
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Kamis 13 Januari 2011, 09:41:35 WIB
+! Last modified  Kamis 13 Januari 2011, 14:09:19 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -277,13 +277,6 @@
 ||vivanews.com/appaux/ads/
 ||vivanews.com/indowebster
 ! *** abpindo_specific_hide.txt ***
-4chan.org##[style="width: 300px; position: absolute;left: 5%; border:1px solid black;"]
-4chan.org##[width="468"]
-4chan.org##[width="728"]
-mangafox.com##[style="width:186px;height:90px;border:#dadada solid 1px;padding:2px;background:#fff;"]
-mangafox.com##[style="width:930px;padding-bottom:10px;padding-right:10px;padding-left:10px;"]
-mediafire.com###modal_window_popup
-mediafire.com###page_screen
 m.iklanbaris.detik.com##.adtext01
 blogdetik.com##.bannerA
 bluefame.com##CENTER
