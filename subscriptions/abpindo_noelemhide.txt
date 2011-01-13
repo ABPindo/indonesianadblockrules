@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 1t44vkfpKJiRGuam6CsHPA
+! Checksum: RDXmd5uesrNxNkBJQQiJ4A
 ! abp_indo without element hiding 
-! Last modified  Rabu 12 Januari 2011, 10:14:11 WIB
+! Last modified  Kamis 13 Januari 2011, 09:41:35 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -39,13 +39,11 @@
 ||buyiads.com^$third-party
 ||cashviews.com^$third-party
 ||chainbux.com^$third-party
-||chartbeat.com^$third-party
 ||clickdbs.com^$third-party
 ||clicklifter.com^$third-party
 ||clickmedia.co.id^$third-party
 ||clicksia.com^$third-party
 ||clickxchange.com^$third-party
-||clickzs.com^$third-party
 ||clixsense.com^$third-party
 ||dbclix.com^$third-party
 ||desaiklan.com^$third-party
@@ -116,7 +114,6 @@
 ||pusatmarketing.com^$third-party
 ||referral-secrets.com^$third-party
 ||revenueburner.com^$third-party
-||revolvermaps.com^$third-party
 ||rupiahbux.com^$third-party
 ||sanglah.com^$third-party
 ||sharepointads.com^$third-party
@@ -156,12 +153,12 @@
 ||formulabisnis.com/images/$third-party
 ||galaxybola.com^$third-party
 ||goldbet88.com^$third-party
-||iklan-jaya.com/images/*$third-party
-||investasiceria.net/images/*$third-party
+||iklan-jaya.com/images/$third-party
+||investasiceria.net/images/$third-party
 ||kebunemas.com/banner/$third-party
-||manasuka.com/gbr_banner_link/*$third-party
+||manasuka.com/gbr_banner_link/$third-party
 ||mesiniklan.andipublisher.com^$third-party
-||mractionclub.com/banner/*$third-party
+||mractionclub.com/banner/$third-party
 ||my.blueadvertise.com^$third-party
 ||plazalowongan.com/bnr/$third-party
 ||ratubola.com^$third-party
@@ -169,14 +166,20 @@
 ||web-indonesia.com^$third-party
 ||webiihost.com/aff/banner/$third-party
 ||ziddu.com/banners/images/$third-party
+||ziphentai.com^$third-party
 ! *** abpindo_specific_block.txt ***
+||ad.mangareader.net^
+||ads.buzzcity.net^
+||ads.digitalpoint.com^
+||aeesy.com^
+||affiliate.dtiserv.com^
+||xclicks.net^
 ||21cineplex.com/data/videoad/
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
 ||ads.antaranews.com^
 ||ads.djawirlabs.com^
 ||ads.indowebster.com^$image
-||affiliate.godaddy.com^
 ||anymanga.com/adv.js
 ||arenabola.com^$domain=krucil.com
 ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com

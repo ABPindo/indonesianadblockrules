@@ -9,12 +9,12 @@
 ||formulabisnis.com/images/$third-party
 ||galaxybola.com^$third-party
 ||goldbet88.com^$third-party
-||iklan-jaya.com/images/*$third-party
-||investasiceria.net/images/*$third-party
+||iklan-jaya.com/images/$third-party
+||investasiceria.net/images/$third-party
 ||kebunemas.com/banner/$third-party
-||manasuka.com/gbr_banner_link/*$third-party
+||manasuka.com/gbr_banner_link/$third-party
 ||mesiniklan.andipublisher.com^$third-party
-||mractionclub.com/banner/*$third-party
+||mractionclub.com/banner/$third-party
 ||my.blueadvertise.com^$third-party
 ||plazalowongan.com/bnr/$third-party
 ||ratubola.com^$third-party
@@ -22,3 +22,4 @@
 ||web-indonesia.com^$third-party
 ||webiihost.com/aff/banner/$third-party
 ||ziddu.com/banners/images/$third-party
+||ziphentai.com^$third-party
