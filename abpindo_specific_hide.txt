@@ -1,4 +1,4 @@
-m.iklanbaris.detik.com##.adtext01
+4chan.org##DIV[style="width: 300px; position: absolute;left: 5%; border:1px solid black;"]
 blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard
@@ -115,6 +115,7 @@ lintasberita.com##DIV[style="width:300px; height:250px; margin:0 0 20px 0; paddi
 liputan6.com###ads_lb
 liputan6.com##.ybox
 m.detik.com###top
+m.iklanbaris.detik.com##.adtext01
 masterporn.me##FONT[size="1"]
 masterporn.me##TABLE[align="center"]
 mediaindonesia.com###topbanner
@@ -134,6 +135,7 @@ sctv.co.id##TD[style="padding: 5px;"]
 stafaband.info###bottom
 suarabola.com###bannertop
 suarapembaruan.com###topbanner
+tekno.kompas.com##.mt_10.mb_15
 tempointeraktif.com###banner-kanan
 tempointeraktif.com##.block.iklan
 tempointeraktif.com##.closebanner1

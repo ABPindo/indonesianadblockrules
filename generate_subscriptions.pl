@@ -1,7 +1,7 @@
 #!C:\strawberry\perl\bin -w
 #Originally written by Wladimir Palant
 #Adapted for the EasyList repository by Michael
-#Adapted for the abp_indo repository by hermawanadhis
+#Adapted for the ABPindo repository by hermawanadhis
 
 use strict;
 use Digest::MD5 qw(md5_base64);
