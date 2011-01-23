@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 7I00tL4FD3EQbPr5MRDyGg
+! Checksum: XvHDUgYQlTo21LwEE/g4xQ
 ! abp_indo without element hiding 
-! Last modified  Selasa 18 Januari 2011, 08:27:30 WIB
+! Last modified  Minggu 23 Januari 2011, 17:53:40 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -159,7 +159,6 @@
 ||manasuka.com/gbr_banner_link/$third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||mractionclub.com/banner/$third-party
-||my.blueadvertise.com^$third-party
 ||plazalowongan.com/bnr/$third-party
 ||ratubola.com^$third-party
 ||sebar.idblognetwork.com^$third-party
@@ -174,7 +173,6 @@
 ||ads.digitalpoint.com^
 ||aeesy.com^
 ||affiliate.dtiserv.com^
-||xclicks.net^
 ||21cineplex.com/data/videoad/
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
