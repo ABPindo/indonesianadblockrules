@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 0zwUy6APg8KjYRNGqdA+YA
+! Checksum: PFtcVPg16d90GB8tBKtq6Q
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Minggu 23 Januari 2011, 17:53:40 WIB
+! Last modified  Kamis 27 Januari 2011, 18:02:30 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -90,7 +90,6 @@
 ||klikrupiah.com^$third-party
 ||kliksaya.com^$third-party
 ||komisigratis.com^$third-party
-||kompasads.com^$third-party
 ||kumpulblogger.com^$third-party
 ||kumpulnet.com^$third-party
 ||ladanguang.com^$third-party
@@ -413,7 +412,6 @@ sctv.co.id##TD[style="padding: 5px;"]
 stafaband.info###bottom
 suarabola.com###bannertop
 suarapembaruan.com###topbanner
-tekno.kompas.com##.mt_10.mb_15
 tempointeraktif.com###banner-kanan
 tempointeraktif.com##.block.iklan
 tempointeraktif.com##.closebanner1
