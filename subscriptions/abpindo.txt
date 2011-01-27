@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: PFtcVPg16d90GB8tBKtq6Q
+! Checksum: bayNE5sBviTxQUSUL6X4Sw
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Kamis 27 Januari 2011, 18:02:30 WIB
+! Last modified  Kamis 27 Januari 2011, 19:51:33 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -381,7 +381,6 @@ kaskus.us##A[href="http://kad.kaskus.us/"]
 kaskus.us##DIV[style="height:30px"]
 kikil.org###iklanpersegi
 kikil.org##CENTER
-kompas.com##.left.w317.wp_gs.font11.c_black
 kompas.com##.wp_games
 krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
@@ -398,7 +397,6 @@ masterporn.me##TABLE[align="center"]
 mediaindonesia.com###topbanner
 mediaindonesia.com##.minitext
 megindo.net###aft
-okezone.com##.d300.p3.fl
 oktavita.com##.banner-zone
 perawan.us###fly
 perawan.us##TABLE[width="99%"]
