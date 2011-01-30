@@ -1,6 +1,3 @@
-detikhealth.com##.banner_art
-detikhealth.com###bannerE
-detikhealth.com##.bannerf1
 4chan.org##DIV[style="width: 300px; position: absolute;left: 5%; border:1px solid black;"]
 blogdetik.com##.bannerA
 bluefame.com##CENTER
@@ -10,6 +7,8 @@ ceriwis.us###hoho-wrapsubmenu2
 ceriwis.us###message-box
 ceriwis.us###message-box-bot
 ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
+chip.co.id##.Break.AdsBottom
+chip.co.id##.SectionAds
 detik.com###arena-musik
 detik.com###bannerE
 detik.com###footerbanner
@@ -26,6 +25,9 @@ detikfinance.com###adtext-info
 detikfinance.com###bannerE
 detikfinance.com##.bannerBCD
 detikfood.com###adpoint-article
+detikhealth.com###bannerE
+detikhealth.com##.banner_art
+detikhealth.com##.bannerf1
 detikhot.com###adtext-info
 detikhot.com###bannerE
 detikhot.com###footerbanner

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: gIsy2YNuOXed+6Xatp3o/w
+! Checksum: R/GqW3ld0XT7PnvdYvGpIA
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Sabtu 29 Januari 2011, 17:21:54 WIB
+! Last modified  Minggu 30 Januari 2011, 11:31:25 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -271,9 +271,6 @@
 ||vivanews.com/appaux/ads/
 ||vivanews.com/indowebster
 ! *** abpindo_specific_hide.txt ***
-detikhealth.com##.banner_art
-detikhealth.com###bannerE
-detikhealth.com##.bannerf1
 4chan.org##DIV[style="width: 300px; position: absolute;left: 5%; border:1px solid black;"]
 blogdetik.com##.bannerA
 bluefame.com##CENTER
@@ -283,6 +280,8 @@ ceriwis.us###hoho-wrapsubmenu2
 ceriwis.us###message-box
 ceriwis.us###message-box-bot
 ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
+chip.co.id##.Break.AdsBottom
+chip.co.id##.SectionAds
 detik.com###arena-musik
 detik.com###bannerE
 detik.com###footerbanner
@@ -299,6 +298,9 @@ detikfinance.com###adtext-info
 detikfinance.com###bannerE
 detikfinance.com##.bannerBCD
 detikfood.com###adpoint-article
+detikhealth.com###bannerE
+detikhealth.com##.banner_art
+detikhealth.com##.bannerf1
 detikhot.com###adtext-info
 detikhot.com###bannerE
 detikhot.com###footerbanner
