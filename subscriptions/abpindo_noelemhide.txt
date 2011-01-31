@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 0E43Vpn6mjpyMlufQfTHYQ
+! Checksum: CBhvWorPLVQqG2Asq3sQxg
 ! abp_indo without element hiding 
-! Last modified  Sabtu 29 Januari 2011, 17:21:54 WIB
+! Last modified  Selasa 01 Februari 2011, 05:55:08 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -167,6 +167,7 @@
 ||ziphentai.com^$third-party
 ||syadiashare.com^$third-party
 ! *** abpindo_specific_block.txt ***
+||musisi.com/musifile/images_banner/*
 ||ad.mangareader.net^
 ||ads.buzzcity.net^
 ||ads.digitalpoint.com^
