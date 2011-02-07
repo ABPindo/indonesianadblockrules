@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: EVyftAxYZfpvEwAqPOlR7w
+! Checksum: R2ec2ce6W8dV2zjc/ZSw5Q
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Sabtu 05 Februari 2011, 12:31:41 WIB
+! Last modified  Selasa 08 Februari 2011, 02:51:28 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -273,6 +273,7 @@
 ||vivanews.com/appaux/ads/
 ||vivanews.com/indowebster
 ! *** abpindo_specific_hide.txt ***
+indowebster.web.id##CENTER
 jombangan.com##CENTER
 ansav.com##IMG[style="width: 251px; height: 100px;"]
 index-of-mp3.com###logo
