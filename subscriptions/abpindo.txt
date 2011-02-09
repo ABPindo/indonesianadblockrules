@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: kA+MpX8A/8Aq1SW+Izx4uw
+! Checksum: bMGvmdX0QuOSZm5Olc5S2Q
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Selasa 08 Februari 2011, 16:03:02 WIB
+! Last modified  Rabu 09 Februari 2011, 13:33:40 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -173,6 +173,7 @@
 ||ziphentai.com^$third-party
 ||syadiashare.com^$third-party
 ! *** abpindo_specific_block.txt ***
+||cloudfront.net/bisnis/images/banners/
 ||tribunnews.com//iklan/*
 ||musisi.com/musifile/images_banner/*
 ||ad.mangareader.net^
@@ -273,6 +274,7 @@
 ||vivanews.com/appaux/ads/
 ||vivanews.com/indowebster
 ! *** abpindo_specific_hide.txt ***
+metrotvnews.com###fixme
 detikfinance.com##.bannejual
 indowebster.web.id##CENTER
 jombangan.com##CENTER
