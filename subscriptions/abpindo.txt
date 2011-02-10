@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: bMGvmdX0QuOSZm5Olc5S2Q
+! Checksum: yeWCD+rZ3mDAT+2WWxX2/g
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Rabu 09 Februari 2011, 13:33:40 WIB
+! Last modified  Kamis 10 Februari 2011, 09:13:43 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -17,14 +17,10 @@
 ##.gpcontent
 ##.textlinkads
 ! *** abpindo_adservers.txt ***
-||onbux.com^$third-party
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
-||adlegend.com^$third-party
 ||admarvel.com^$third-party
-||admaxserver.com^third-party
 ||adreviewcamp.com^$third-party
-||adrevolver.com^$third-party
 ||adsbingo.com^$third-party
 ||adsenblogger.com^$third-party
 ||adsense-id.com^$third-party
@@ -51,7 +47,6 @@
 ||clickmedia.co.id^$third-party
 ||clicksia.com^$third-party
 ||clickxchange.com^$third-party
-||clixsense.com^$third-party
 ||dbclix.com^$third-party
 ||desaiklan.com^$third-party
 ||doremibet.com^$third-party
@@ -99,8 +94,8 @@
 ||neobux.com^$third-party
 ||neorupiah.com^$third-party
 ||omnibux.com^$third-party
+||onbux.com^$third-party
 ||onedollarptc.com^$third-party
-||paid-to-promote.net^$third-party
 ||paidforfree.com^$third-party
 ||paidtoclick.com^$third-party
 ||paneniklan.com^$third-party
@@ -146,11 +141,11 @@
 ||vistaclix.com^$third-party
 ||yesads.com^third-party
 ! *** abpindo_thirdparty.txt ***
-||bekas.com^$third-party
 ||adultfriendfinder.com/images/banners/$third-party
 ||asianbrain.com/banner/$third-party
 ||banner.autosubmit.web.id^$third-party
 ||bebaspikiran.com^$third-party
+||bekas.com^$third-party
 ||bolaketangkasan.com^$third-party
 ||carasukses.com^$third-party
 ||clickbet88.com/banner/$third-party
@@ -167,39 +162,29 @@
 ||plazalowongan.com/bnr/$third-party
 ||ratubola.com^$third-party
 ||sebar.idblognetwork.com^$third-party
+||syadiashare.com^$third-party
 ||web-indonesia.com^$third-party
 ||webiihost.com/aff/banner/$third-party
 ||ziddu.com/banners/images/$third-party
-||ziphentai.com^$third-party
-||syadiashare.com^$third-party
 ! *** abpindo_specific_block.txt ***
-||cloudfront.net/bisnis/images/banners/
-||tribunnews.com//iklan/*
-||musisi.com/musifile/images_banner/*
-||ad.mangareader.net^
-||ads.buzzcity.net^
-||ads.digitalpoint.com^
-||aeesy.com^
-||affiliate.dtiserv.com^
 ||21cineplex.com/data/videoad/
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
 ||ads.antaranews.com^
+||ads.buzzcity.net^
 ||ads.djawirlabs.com^
 ||ads.indowebster.com^$image
-||anymanga.com/adv.js
 ||arenabola.com^$domain=krucil.com
 ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
 ||bannerhp.com^$third-party
-||resep.web.id/banner/
 ||cashburners.biz/banners/
 ||cdn.bloggerfiles.com/img/promo/
 ||ceriwis.info/338x30.swf
 ||ceriwis.us/338x30.swf
 ||chip.co.id/microsite/frame/index.html
+||cloudfront.net/bisnis/images/banners/
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
-||drowle.com^
 ||ebsoft.web.id/wp-content/banners/
 ||endonesia.com/banner1/dbc-kantorku.jpg
 ||endonesia.com/en1.gif
@@ -244,7 +229,6 @@
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
 ||krucil.com/bb17-iklan.php
-||krucil.com/pop.js
 ||lintasberita.com/public/images/bannermidlecenter.jpg
 ||liquidweb.com/banners/
 ||lytogame.com/images/partner/
@@ -255,6 +239,7 @@
 ||modemku.com/image-banner/
 ||modifikasi.com/images/banner/close.gif
 ||modifikasi.com/images/banner_
+||musisi.com/musifile/images_banner/*
 ||obengware.com/admaxads.htm
 ||oprekpc.com/banner/
 ||perawan.us/images/banner/
@@ -262,11 +247,13 @@
 ||poems.web.id/poemspromo/
 ||primbon.com/banner/
 ||readbud.com/images/125_125_banner.jpg
+||resep.web.id/banner/
 ||stafaband.info/tb.swf
 ||static.escavern.com/tokomaya.gif
 ||suarabola.com/banners/
 ||swfcabin.com^$domain=krucil.com
 ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
+||tribunnews.com//iklan/*
 ||uki.ac.id/images/samkokbet.swf
 ||uploadhouse.com^*.gif$domain=krucil.com
 ||us.openx.detik.com^$~third-party
@@ -274,13 +261,8 @@
 ||vivanews.com/appaux/ads/
 ||vivanews.com/indowebster
 ! *** abpindo_specific_hide.txt ***
-metrotvnews.com###fixme
-detikfinance.com##.bannejual
-indowebster.web.id##CENTER
-jombangan.com##CENTER
-ansav.com##IMG[style="width: 251px; height: 100px;"]
-index-of-mp3.com###logo
 4chan.org##DIV[style="width: 300px; position: absolute;left: 5%; border:1px solid black;"]
+ansav.com##IMG[style="width: 251px; height: 100px;"]
 blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard
@@ -305,6 +287,7 @@ detikfinance.com###adpoint-article
 detikfinance.com###adtext
 detikfinance.com###adtext-info
 detikfinance.com###bannerE
+detikfinance.com##.bannejual
 detikfinance.com##.bannerBCD
 detikfood.com###adpoint-article
 detikhealth.com###bannerE
@@ -341,6 +324,7 @@ google.co.id##TABLE[style="border: 1px solid #11593c"]
 google.com###rhs_block
 hai-online.com###fixme
 hai-online.com###fixmetoo
+index-of-mp3.com###logo
 indobokepz.com###feed
 indosiar.com###headerbanner
 indosiar.com##DIV[style="height:50px"]
@@ -363,7 +347,9 @@ indowebster.com###tr_iklanbaris2
 indowebster.com###warn
 indowebster.com##DIV[style="height:62px;"]
 indowebster.web.id###ad_global_below_navbar
+indowebster.web.id##CENTER
 inilah.com##.head_banner
+jombangan.com##CENTER
 kapanlagi.com###middle_showcase
 kapanlagi.com###top_showcase
 kapanlagi.com###v5-leaderboard
@@ -404,6 +390,7 @@ masterporn.me##TABLE[align="center"]
 mediaindonesia.com###topbanner
 mediaindonesia.com##.minitext
 megindo.net###aft
+metrotvnews.com###fixme
 oktavita.com##.banner-zone
 perawan.us###fly
 perawan.us##TABLE[width="99%"]
@@ -470,8 +457,6 @@ warungbebas.com##.ads-sponsors
 ||iklanbaris.co.id^$third-party
 ||iklanbaris.im^$third-party
 ||iklanbaris.ws^$third-party
-||klikabadi.com^$third-party
-||klikabadi.net^$third-party
 ||iklanbarisaceh.com^$third-party
 ||iklanbarisgratis.co.uk^$third-party
 ||iklanbarisgratis.info^$third-party
@@ -564,6 +549,8 @@ warungbebas.com##.ads-sponsors
 ||ketikiklan.com^$third-party
 ||kiosiklanbaris.com^$third-party
 ||kiospromo.com^$third-party
+||klikabadi.com^$third-party
+||klikabadi.net^$third-party
 ||kolamiklan.com^$third-party
 ||komisiiklan.com^$third-party
 ||ladangiklan.com^$third-party
@@ -601,7 +588,6 @@ warungbebas.com##.ads-sponsors
 ||pasariklanbaris.com^$third-party
 ||paypalbisnis.com^$third-party
 ||peluangbisnis.org^$third-party
-||plugrush.com^$third-party
 ||pondokiklan.com^$third-party
 ||portaliklan.com^$third-party
 ||promobagus.com^$third-party

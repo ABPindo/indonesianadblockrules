@@ -1,10 +1,5 @@
-metrotvnews.com###fixme
-detikfinance.com##.bannejual
-indowebster.web.id##CENTER
-jombangan.com##CENTER
-ansav.com##IMG[style="width: 251px; height: 100px;"]
-index-of-mp3.com###logo
 4chan.org##DIV[style="width: 300px; position: absolute;left: 5%; border:1px solid black;"]
+ansav.com##IMG[style="width: 251px; height: 100px;"]
 blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard
@@ -29,6 +24,7 @@ detikfinance.com###adpoint-article
 detikfinance.com###adtext
 detikfinance.com###adtext-info
 detikfinance.com###bannerE
+detikfinance.com##.bannejual
 detikfinance.com##.bannerBCD
 detikfood.com###adpoint-article
 detikhealth.com###bannerE
@@ -65,6 +61,7 @@ google.co.id##TABLE[style="border: 1px solid #11593c"]
 google.com###rhs_block
 hai-online.com###fixme
 hai-online.com###fixmetoo
+index-of-mp3.com###logo
 indobokepz.com###feed
 indosiar.com###headerbanner
 indosiar.com##DIV[style="height:50px"]
@@ -87,7 +84,9 @@ indowebster.com###tr_iklanbaris2
 indowebster.com###warn
 indowebster.com##DIV[style="height:62px;"]
 indowebster.web.id###ad_global_below_navbar
+indowebster.web.id##CENTER
 inilah.com##.head_banner
+jombangan.com##CENTER
 kapanlagi.com###middle_showcase
 kapanlagi.com###top_showcase
 kapanlagi.com###v5-leaderboard
@@ -128,6 +127,7 @@ masterporn.me##TABLE[align="center"]
 mediaindonesia.com###topbanner
 mediaindonesia.com##.minitext
 megindo.net###aft
+metrotvnews.com###fixme
 oktavita.com##.banner-zone
 perawan.us###fly
 perawan.us##TABLE[width="99%"]

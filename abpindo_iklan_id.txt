@@ -41,8 +41,6 @@
 ||iklanbaris.co.id^$third-party
 ||iklanbaris.im^$third-party
 ||iklanbaris.ws^$third-party
-||klikabadi.com^$third-party
-||klikabadi.net^$third-party
 ||iklanbarisaceh.com^$third-party
 ||iklanbarisgratis.co.uk^$third-party
 ||iklanbarisgratis.info^$third-party
@@ -135,6 +133,8 @@
 ||ketikiklan.com^$third-party
 ||kiosiklanbaris.com^$third-party
 ||kiospromo.com^$third-party
+||klikabadi.com^$third-party
+||klikabadi.net^$third-party
 ||kolamiklan.com^$third-party
 ||komisiiklan.com^$third-party
 ||ladangiklan.com^$third-party
@@ -172,7 +172,6 @@
 ||pasariklanbaris.com^$third-party
 ||paypalbisnis.com^$third-party
 ||peluangbisnis.org^$third-party
-||plugrush.com^$third-party
 ||pondokiklan.com^$third-party
 ||portaliklan.com^$third-party
 ||promobagus.com^$third-party

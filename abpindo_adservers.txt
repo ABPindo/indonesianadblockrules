@@ -1,11 +1,7 @@
-||onbux.com^$third-party
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
-||adlegend.com^$third-party
 ||admarvel.com^$third-party
-||admaxserver.com^third-party
 ||adreviewcamp.com^$third-party
-||adrevolver.com^$third-party
 ||adsbingo.com^$third-party
 ||adsenblogger.com^$third-party
 ||adsense-id.com^$third-party
@@ -32,7 +28,6 @@
 ||clickmedia.co.id^$third-party
 ||clicksia.com^$third-party
 ||clickxchange.com^$third-party
-||clixsense.com^$third-party
 ||dbclix.com^$third-party
 ||desaiklan.com^$third-party
 ||doremibet.com^$third-party
@@ -80,8 +75,8 @@
 ||neobux.com^$third-party
 ||neorupiah.com^$third-party
 ||omnibux.com^$third-party
+||onbux.com^$third-party
 ||onedollarptc.com^$third-party
-||paid-to-promote.net^$third-party
 ||paidforfree.com^$third-party
 ||paidtoclick.com^$third-party
 ||paneniklan.com^$third-party
