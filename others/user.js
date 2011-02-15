@@ -22,6 +22,7 @@ user_pref("security.dialog_enable_delay",0);
 user_pref("browser.tabs.animate",false);
 user_pref("browser.panorama.animate_zoom",false);
 user_pref("browser.preferences.animateFadeIn",false);
+user_pref("browser.block.target_new_window", true);
 // firefox 4
 user_pref("gfx.direct2d.force-enabled",true);
 user_pref("gfx.font_rendering.directwrite.enabled",true);

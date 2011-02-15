@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: kdFnZlcb7GWWtFIeHt84ng
+! Checksum: AsH5UPpAxDSKLFmg/r8zkg
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Kamis 10 Februari 2011, 14:17:48 WIB
+! Last modified  Selasa 15 Februari 2011, 07:51:03 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -15,6 +15,7 @@
 ##.bgads
 ##.gbcontent
 ##.gpcontent
+##.pasangiklan
 ##.textlinkads
 ! *** abpindo_adservers.txt ***
 ||adcenter2u.com^$third-party
