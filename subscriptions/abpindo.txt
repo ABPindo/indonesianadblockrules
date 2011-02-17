@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: p/Ytx9G8TLlcNlGMrSHeLA
+! Checksum: 4lscjBCoovacTsptP17cPw
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Kamis 17 Februari 2011, 13:38:17 WIB
+! Last modified  Kamis 17 Februari 2011, 13:53:38 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -384,6 +384,8 @@ liputan6.com###ads_lb
 liputan6.com##.ybox
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
+mangafox.com##[style="width:186px;height:90px;border:#dadada solid 1px;padding:2px;background:#fff;"]
+mangafox.com##[style="width:930px;padding-bottom:10px;padding-right:10px;padding-left:10px;"]
 masterporn.me##FONT[size="1"]
 masterporn.me##TABLE[align="center"]
 mediaindonesia.com###topbanner
