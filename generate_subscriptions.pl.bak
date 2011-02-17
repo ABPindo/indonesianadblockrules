@@ -4,13 +4,12 @@
 #Adapted for the ABPindo repository by hermawanadhis
 
 use strict;
-use File::Basename;
 use Digest::MD5 qw(md5_base64);
 use Compress::Zlib;
 use POSIX qw(strftime);
 require Encode;
 
-my $rootdir = dirname($0);
+my $rootdir = ".";
 my $sourcedir = "$rootdir";
 my $subsdir = "$rootdir/subscriptions";
 my %verbatim = map {$_ => 1} qw(COPYING);
@@ -86,29 +85,9 @@ foreach my $file (readdir(SOURCE))
 
   unlink("$subsdir/$file.gz");
   system("7za", "a", "-tgzip", "-mx=9", "-mpass=15", "$subsdir/$file.gz", "$subsdir/$file") && warn "Failed to compress file $subsdir/$file. Please ensure that p7zip is installed on the system.";
+
 }
 closedir(SOURCE);
-
-opendir(local *TARGET, $subsdir) || die "Could not open directory $subsdir.";
-foreach my $file (readdir(TARGET))
-{
-  next if $file =~ /^\./ || $file !~ /\.txt$/;
-
-  my $data = readFile("$subsdir/$file");
-  $file =~ s/\.txt$/.tpl/;
-  $exists{$file} = 1;
-
-  my $converted = convertToTPL($data);
-  if (-f "$subsdir/$file")
-  {
-    my $cmp = readFile("$subsdir/$file");
-    next if $cmp eq $converted;
-  }
-  writeFile("$subsdir/$file", $converted);
-
-  unlink("$subsdir/$file.gz");
-  system("7za", "a", "-tgzip", "-mx=9", "-mpass=15", "$subsdir/$file.gz", "$subsdir/$file") && warn "Failed to compress file $subsdir/$file. Please ensure that p7zip is installed on the system.";
-}
 
 opendir(local *TARGET, $subsdir) || die "Could not open directory $subsdir.";
 foreach my $file (readdir(TARGET))
@@ -135,7 +114,6 @@ sub resolveIncludes
 
   my $failures = 0;
   $data =~ s/^\s*%include\s+(.*)%\s*$/my $include = resolveInclude($1, $level);$include ? $include : $failures++/gem;
-
   my $timestamp = strftime("%p %A %d %B %Y, %H:%M:%S WIB", localtime);
   $data =~ s/%timestamp%/$timestamp/g;
 
@@ -146,7 +124,7 @@ sub resolveInclude
 {
   my ($file, $level) = @_;
 
-  if ($file =~ /^[\w\-\+][\w\.\-\+]*(?:\/[\w\-\+][\w\.\-\+]*)*$/ && -f "$sourcedir/$file")
+  if ($file !~ /[^\w\.\-\+]/ && -f "$sourcedir/$file")
   {
     my $data = readFile("$sourcedir/$file");
     $data =~ s/\r//g;
@@ -180,105 +158,6 @@ sub resolveInclude
     return $data;
   }
   return undef;
-}
-
-sub convertToTPL
-{
-  my $data = shift;
-
-  my @result;
-
-  #Add necessary definitions
-  push @result, "msFilterList";
-  push @result, ": Expires=5";
-
-  foreach my $line (split(/\n/, $data))
-  {
-    my $original = $line;
-    #Translate comments, not including Adblock Plus specific values
-    if ($line =~m/\[.*?\]/i)
-    {
-    }
-    elsif ($line =~ m/^!/)
-    {
-      if ($line =~m/Expires/i)
-      {
-        #Eventually use this for the : Expires= value
-      }
-      elsif ($line !~ m/\!\s*checksum/i)
-      {
-        $line =~ tr/\!/#/;
-        push @result, $line;
-      }
-    }
-    else
-    {
-      #Remove lone third party options
-      $line =~ s/\$third-party$//;
-
-      #Translate domain blocks
-      if ($line =~ /^(|@@)\|\|.*?\^/)
-      {
-        $line =~ s/\^/ /;
-      }
-      elsif ($line =~ /^(|@@)\|\|.*?\//)
-      {
-        $line =~ s/\// \//;
-      }
-      #Remove unnecessary asterisks
-      $line =~ s/\*$//;
-      $line =~ s/ \*/ /;
-      #Remove unnecessary slashes and spaces
-      $line =~ s/ \/$//;
-      $line =~ s/ $//;
-		
-      #Remove beginning and end anchors
-      unless ($line =~ m/^\|\|/)
-      {
-        $line =~ s/^\|//;
-      }
-      $line =~ s/\|($|\$)//;
-		
-      #Translate the script option to "*.js"
-      $line =~ s/\$script$/\*\.js/;
-		
-      #Translate whitelists, making them wider if necessary
-      if ($line =~ m/^@@\|\|.*?(^|\/)/)
-      {
-        $line =~ s/@@\|\|/\+d /;
-        #Remove all options
-        $line =~ s/\$.*?$//;
-      }
-      #Comment out all other whitelists, as a domain must be specified in Internet Explorer
-      elsif ($line =~ m/^@@/)
-      {
-        $line = "# " . $original;
-      }
-      #Comment out all filters with options or element hiding rules, as this functionality is not available in Internet Explorer
-      elsif ($line =~ m/(\$|##)/)
-      {
-        $line = "# " . $original;
-      }
-      #Translate all domain filters
-      elsif ($line =~ m/^\|\|.*?(^|\/)/)
-      {
-        $line =~ s/^\|\|/\-d /;
-      }
-      #Translate all other double anchored filters
-      elsif ($line =~ m/^\|\|/)
-      {
-        $line =~ s/^\|\|/\- http:\/\//;
-      }
-      #Translate all remaining filters as general
-      else
-      {
-        $line = "- " . $line;
-      }
-      push @result, $line;
-    }
-  }
-
-  return join("\n", @result) . "\n";
 }
 
 sub readFile

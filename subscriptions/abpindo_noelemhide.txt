@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: toW0P6zt9DsnqkuJ42mkBw
+! Checksum: VdD/LTh6YEDnCS+kZwpz4w
 ! abp_indo without element hiding 
-! Last modified  Kamis 10 Februari 2011, 09:13:43 WIB
+! Last modified  Kamis 17 Februari 2011, 13:38:17 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -237,7 +237,6 @@
 ||obengware.com/admaxads.htm
 ||oprekpc.com/banner/
 ||perawan.us/images/banner/
-||perawan.us/javascript/pop.js
 ||poems.web.id/poemspromo/
 ||primbon.com/banner/
 ||readbud.com/images/125_125_banner.jpg
