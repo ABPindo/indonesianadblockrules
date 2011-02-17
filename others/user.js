@@ -36,7 +36,7 @@ user_pref("network.http.max-persistent-connections-per-server",8);
 user_pref("network.http.pipelining",true);
 user_pref("network.http.pipelining.maxrequests",8);
 user_pref("network.http.proxy.pipelining",true);
-user_pref("network.http.request.max-start-delay",5);
+user_pref("network.http.request.max-start-delay",10);
 // performance browser
 user_pref("browser.cache.disk.capacity",0);
 user_pref("browser.cache.disk.enable",true);
