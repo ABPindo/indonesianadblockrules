@@ -13,7 +13,7 @@
 ||advercash.net^$third-party
 ||advertspeed.com^$third-party
 ||arisanvip.com^$third-party
-||axverta.com^third-party
+||axverta.com^$third-party
 ||baliadv.com^$third-party
 ||bannerbux.com^$third-party
 ||biindit.com^$third-party
@@ -48,7 +48,7 @@
 ||indo-solusta.com^$third-party
 ||indoadpro.com^$third-party
 ||indobanner.com^$third-party
-||indobets.com^third-party
+||indobets.com^$third-party
 ||indobuysell.com^$third-party
 ||indofad.com^$third-party
 ||indoglobe.com^$third-party
@@ -56,7 +56,7 @@
 ||indoptc.com^$third-party
 ||indostats.com^$third-party
 ||indovertiser.com^$third-party
-||infinityads.com^third-party
+||infinityads.com^$third-party
 ||inmobi.com^$third-party
 ||innity.net^$third-party
 ||jingkrak.com^$third-party
@@ -81,7 +81,7 @@
 ||paidtoclick.com^$third-party
 ||paneniklan.com^$third-party
 ||paypopup.com^$third-party
-||popupmoney.com^third-party
+||popupmoney.com^$third-party
 ||ppcinbox.com^$third-party
 ||ppcindo.com^$third-party
 ||ppcindonesia.net^$third-party
@@ -108,7 +108,7 @@
 ||suryabanner.com^$third-party
 ||tekbux.com^$third-party
 ||teliad.com^$third-party
-||textlinksdepot.com^third-party
+||textlinksdepot.com^$third-party
 ||textspace.net^$third-party
 ||theclickers.net^$third-party
 ||tinggalklik.com^$third-party
@@ -120,4 +120,4 @@
 ||urlcash.net^$third-party
 ||valueclick.net^$third-party
 ||vistaclix.com^$third-party
-||yesads.com^third-party
+||yesads.com^$third-party

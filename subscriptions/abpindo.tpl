@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Kamis 17 Februari 2011, 13:38:17 WIB
+# Last modified  Kamis 17 Februari 2011, 14:07:14 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -32,7 +32,7 @@ msFilterList
 - http://advercash.net
 - http://advertspeed.com
 - http://arisanvip.com
-- http://axverta.com third-party
+- http://axverta.com
 - http://baliadv.com
 - http://bannerbux.com
 - http://biindit.com
@@ -67,7 +67,7 @@ msFilterList
 - http://indo-solusta.com
 - http://indoadpro.com
 - http://indobanner.com
-- http://indobets.com third-party
+- http://indobets.com
 - http://indobuysell.com
 - http://indofad.com
 - http://indoglobe.com
@@ -75,7 +75,7 @@ msFilterList
 - http://indoptc.com
 - http://indostats.com
 - http://indovertiser.com
-- http://infinityads.com third-party
+- http://infinityads.com
 - http://inmobi.com
 - http://innity.net
 - http://jingkrak.com
@@ -100,7 +100,7 @@ msFilterList
 - http://paidtoclick.com
 - http://paneniklan.com
 - http://paypopup.com
-- http://popupmoney.com third-party
+- http://popupmoney.com
 - http://ppcinbox.com
 - http://ppcindo.com
 - http://ppcindonesia.net
@@ -127,7 +127,7 @@ msFilterList
 - http://suryabanner.com
 - http://tekbux.com
 - http://teliad.com
-- http://textlinksdepot.com third-party
+- http://textlinksdepot.com
 - http://textspace.net
 - http://theclickers.net
 - http://tinggalklik.com
@@ -139,7 +139,7 @@ msFilterList
 - http://urlcash.net
 - http://valueclick.net
 - http://vistaclix.com
-- http://yesads.com third-party
+- http://yesads.com
 # *** abpindo_thirdparty.txt ***
 -d adultfriendfinder.com /images/banners/
 -d asianbrain.com /banner/
@@ -492,7 +492,7 @@ msFilterList
 - http://iklanlisting.com
 - http://iklanlowongan.com
 - http://iklanmarket.com
-# ||iklanmobil.org^$third-party$
+- http://iklanmobil.org
 - http://iklanmotor.org
 - http://iklanoke.com
 - http://iklanonlinemu.com
