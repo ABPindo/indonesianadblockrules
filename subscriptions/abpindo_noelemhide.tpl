@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Kamis 17 Februari 2011, 14:07:14 WIB
+# Last modified  Kamis 17 Februari 2011, 15:22:38 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -257,11 +257,14 @@ msFilterList
 - http://1iklanbaris.com
 - http://1jutarupiah.com
 - http://1st-iklan.com
+- http://adindonesia.com
 - http://ads-iklan.net
+- http://ads.hermawan.net
 - http://agenpromosi.com
 - http://ajangiklangratis.com
 - http://alamatemail.com
 - http://anekaiklan.com
+- http://antariklan.com
 - http://barisiklangratis.com
 - http://belajar-bisnis.com
 - http://bincangbisnis.com
@@ -270,26 +273,42 @@ msFilterList
 - http://bisnisgratis.net
 - http://bisnishandal.com
 - http://bisnisinternetmu.com
+- http://bisnisniaga.com
 - http://bisnisok.com
 - http://bisnistransportasi.com
 - http://bisnisurl.web.id
 - http://blogiklanbaris.com
 - http://bursapromo.com
+- http://classified.web.id
 - http://cyberpromo.biz
+- http://daniklan.com
 - http://dewa-bisnis.com
 - http://direktori-iklan.com
 - http://dunia-bisnis.com
+- http://duniaiklangratis.com
 - http://dutawebiklan.com
+- http://entryad.com
 - http://folderbisnis.com
+- http://forum-iklan.com
 - http://forumiklan.com
+- http://freeads.web.id
+- http://gadget-ads.com
+- http://gratis-iklan-baris.com
 - http://gratisiklanpasang.com
 - http://gratisiklanpasang.net
 - http://groupiklan.com
 - http://iklan-baris.org
 - http://iklan-global.com
+- http://iklan-iklan.com
 - http://iklan-laris.com
 - http://iklan-sukses.com
+- http://iklan-super.com
+- http://iklan.terpopuler.com
+- http://iklan.tipsntrik.com
+- http://iklan2009.com
+- http://iklanad.com
 - http://iklanads.com
+- http://iklanasional.com
 - http://iklanbaliku.com
 - http://iklanbaris-gratis.com
 - http://iklanbaris.biz
@@ -324,9 +343,11 @@ msFilterList
 - http://iklanekstra.com
 - http://iklaner.com
 - http://iklanfun.com
+- http://iklangoogle.com
 - http://iklangra-tis.com
 - http://iklangratis.co.uk
 - http://iklangratis.info
+- http://iklangratis.us
 - http://iklangratis88.com
 - http://iklangratisindonesia.com
 - http://iklangratisindonesia.net
@@ -340,6 +361,7 @@ msFilterList
 - http://iklangratispasang.net
 - http://iklangratispasang.org
 - http://iklangratispro.com
+- http://iklanhemat.com
 - http://iklanhoki.com
 - http://iklanhouse.com
 - http://iklanjago.com
@@ -357,6 +379,7 @@ msFilterList
 - http://iklanmobil.org
 - http://iklanmotor.org
 - http://iklanoke.com
+- http://iklanonlinegratis.com
 - http://iklanonlinemu.com
 - http://iklanpasanggratis.com
 - http://iklanpedia.com
@@ -366,8 +389,10 @@ msFilterList
 - http://iklanprima.com
 - http://iklanprima.info
 - http://iklanprimaku.com
+- http://iklanprime.com
 - http://iklanpromo.com
 - http://iklanshop.com
+- http://iklansilver.com
 - http://iklantanpadaftar.com
 - http://iklanteks.com
 - http://iklantelevisi.com
@@ -378,6 +403,7 @@ msFilterList
 - http://iklanvip.net
 - http://iklanvoucher.com
 - http://iklanwebid.com
+- http://indofreeads.com
 - http://istanaiklan.com
 - http://jagoiklan.com
 - http://jaringaniklan.com
@@ -397,6 +423,7 @@ msFilterList
 - http://masteriklan.net
 - http://mauiklangratis.com
 - http://medaniklan.com
+- http://media-gratis.com
 - http://mediaiklan.info
 - http://mediaiklanpapua.com
 - http://mediapromosi.co.id
@@ -405,7 +432,9 @@ msFilterList
 - http://metodebaru.com
 - http://modaliklan.com
 - http://mpnrs.com
+- http://networkadonline.com
 - http://nspmotion.com
+- http://okepromo.com
 - http://papan-iklan.com
 - http://pasang-iklan.com
 - http://pasang-iklanbaris.com
@@ -427,6 +456,7 @@ msFilterList
 - http://pasariklanbaris.com
 - http://paypalbisnis.com
 - http://peluangbisnis.org
+- http://plusberita.com
 - http://pondokiklan.com
 - http://portaliklan.com
 - http://promobagus.com
@@ -445,15 +475,21 @@ msFilterList
 - http://rahasiapanas.com
 - http://ruangbisnis.com
 - http://sentra-iklan.com
+- http://sentrapromosi.com
 - http://serbaiklan.com
+- http://sexiklan.com
 - http://sinusbux.com
 - http://sitipromo.web.id
 - http://situsiklan.web.id
 - http://situsiklanbaris.com
+- http://smart-iklan.com
 - http://spotiklan.net
+- http://submitforall.com
+- http://sukagratis.com
 - http://sumberiklan.com
 - http://super-iklan.com
 - http://superiklantop.com
+- http://surgapromo.com
 - http://suryaiklan.com
 - http://tagiklan.com
 - http://teknikbisnis.com
@@ -462,6 +498,8 @@ msFilterList
 - http://tipsiklan.com
 - http://trekpay.com
 - http://trendiklan.com
+- http://triklan.com
+- http://updateiklan.com
 - http://webiklan.com
 - http://weblogiklan.com
 - http://zonaiklan.info
