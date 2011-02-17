@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Kamis 17 Februari 2011, 15:22:38 WIB
+# Last modified  Jumat 18 Februari 2011, 06:06:00 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -9,6 +9,7 @@ msFilterList
 # http://indonesianfilter.blogspot.com
 #
 # *** abpindo_general_block.txt ***
+- /images/iklan/
 # *** abpindo_adservers.txt ***
 - http://adcenter2u.com
 - http://addesigner.com
@@ -28,6 +29,7 @@ msFilterList
 - http://axverta.com
 - http://baliadv.com
 - http://bannerbux.com
+- http://bigextracash.com
 - http://biindit.com
 - http://bubuads.com
 - http://buildvertical.com

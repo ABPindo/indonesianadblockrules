@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Kamis 17 Februari 2011, 15:22:38 WIB
+# Last modified  Jumat 18 Februari 2011, 06:06:00 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -9,6 +9,7 @@ msFilterList
 # http://indonesianfilter.blogspot.com
 #
 # *** abpindo_general_block.txt ***
+- /images/iklan/
 # *** abpindo_general_hide.txt ***
 # ###desaiklan
 # ##.bgads
@@ -35,6 +36,7 @@ msFilterList
 - http://axverta.com
 - http://baliadv.com
 - http://bannerbux.com
+- http://bigextracash.com
 - http://biindit.com
 - http://bubuads.com
 - http://buildvertical.com
@@ -362,6 +364,7 @@ msFilterList
 # kaskus.us###Middlenahome1
 # kaskus.us###cntysm
 # kaskus.us###exp
+# keluargacemara.com###head-banner468
 # kikil.org###iklanpersegi
 # kikil.org##CENTER
 # kompas.com##.wp_games
