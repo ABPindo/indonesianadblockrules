@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: OcBIBIQmXkQTbD8e7eEuaw
+! Checksum: Ip77oCAoQ3Sz5kcRHOh+yQ
 ! abp_indo without element hiding 
-! Last modified  Jumat 18 Februari 2011, 08:23:25 WIB
+! Last modified  Jumat 18 Februari 2011, 09:39:48 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -15,6 +15,7 @@
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
 ||admarvel.com^$third-party
+||adptc.com^$third-party
 ||adreviewcamp.com^$third-party
 ||adsbingo.com^$third-party
 ||adsenblogger.com^$third-party
@@ -26,21 +27,26 @@
 ||adv-adserver.com^$third-party
 ||advercash.net^$third-party
 ||advertspeed.com^$third-party
+||alertpay.com/banners/*$third-party
 ||arisanvip.com^$third-party
 ||axverta.com^$third-party
+||ayoburuanklik.com^$third-party
 ||baliadv.com^$third-party
 ||bannerbux.com^$third-party
 ||bigextracash.com^$third-party
 ||biindit.com^$third-party
 ||bubuads.com^$third-party
 ||buildvertical.com^$third-party
+||bux-matrix.com^$third-party
 ||buxrupiah.com^$third-party
 ||buyiads.com^$third-party
+||cash-harvest.com^$third-party
 ||cashviews.com^$third-party
 ||chainbux.com^$third-party
 ||clickdbs.com^$third-party
 ||clicklifter.com^$third-party
 ||clickmedia.co.id^$third-party
+||clicks4cents.com^$third-party
 ||clicksia.com^$third-party
 ||clickxchange.com^$third-party
 ||dbclix.com^$third-party
@@ -60,6 +66,8 @@
 ||iaiamedia.com^$third-party
 ||idr-clickit.com^$third-party
 ||iklanperklik.com^$third-party
+||incentria.com^$third-party
+||incrasebux.com^$third-party
 ||indo-solusta.com^$third-party
 ||indoadpro.com^$third-party
 ||indobanner.com^$third-party
@@ -74,8 +82,10 @@
 ||infinityads.com^$third-party
 ||inmobi.com^$third-party
 ||innity.net^$third-party
+||jillsclickcorner.com^$third-party
 ||jingkrak.com^$third-party
 ||jituiklan.com^$third-party
+||klik11.com^$third-party
 ||klikajadeh.com^$third-party
 ||klikptc.com^$third-party
 ||klikrupiah.com^$third-party
@@ -111,8 +121,10 @@
 ||revenueburner.com^$third-party
 ||rupiahbux.com^$third-party
 ||sanglah.com^$third-party
+||scarlet-clicks.info^$third-party
 ||sharepointads.com^$third-party
 ||shbux.com^$third-party
+||siapakaya.com^$third-party
 ||sitti.co.id^$third-party
 ||situsbet.com^$third-party
 ||skycpm.com^$third-party
@@ -135,6 +147,7 @@
 ||urlcash.net^$third-party
 ||valueclick.net^$third-party
 ||vistaclix.com^$third-party
+||y-bux.com^$third-party
 ||yesads.com^$third-party
 ! *** abpindo_thirdparty.txt ***
 ||adultfriendfinder.com/images/banners/$third-party
@@ -261,16 +274,21 @@
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
 ||1st-iklan.com^$third-party
+||abadiklan.com^$third-party
+||adbusinessfree.com^$third-party
 ||adindonesia.com^$third-party
 ||ads-iklan.net^$third-party
 ||ads.hermawan.net^$third-party
+||adsrelease.com^$third-party
 ||agenpromosi.com^$third-party
 ||ajangiklangratis.com^$third-party
 ||alamatemail.com^$third-party
+||anadvertorial.com^$third-party
 ||anekaiklan.com^$third-party
 ||antariklan.com^$third-party
 ||barisiklangratis.com^$third-party
 ||belajar-bisnis.com^$third-party
+||benangmerah.com^$third-party
 ||bincangbisnis.com^$third-party
 ||biroiklangratis.com^$third-party
 ||biropromosi.com^$third-party
@@ -288,18 +306,22 @@
 ||daniklan.com^$third-party
 ||dewa-bisnis.com^$third-party
 ||direktori-iklan.com^$third-party
+||disinigratis.com^$third-party
 ||dunia-bisnis.com^$third-party
 ||duniaiklangratis.com^$third-party
 ||dutawebiklan.com^$third-party
 ||entryad.com^$third-party
 ||folderbisnis.com^$third-party
+||forexpose.com^$third-party
 ||forum-iklan.com^$third-party
 ||forumiklan.com^$third-party
+||freeads-iklan.com^$third-party
 ||freeads.web.id^$third-party
 ||gadget-ads.com^$third-party
 ||gratis-iklan-baris.com^$third-party
 ||gratisiklanpasang.com^$third-party
 ||gratisiklanpasang.net^$third-party
+||gratispromo.com^$third-party
 ||groupiklan.com^$third-party
 ||iklan-baris.org^$third-party
 ||iklan-global.com^$third-party
@@ -307,6 +329,7 @@
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
 ||iklan-super.com^$third-party
+||iklan.net^$third-party
 ||iklan.terpopuler.com^$third-party
 ||iklan.tipsntrik.com^$third-party
 ||iklan2009.com^$third-party
@@ -328,6 +351,7 @@
 ||iklanbarisgratispasang.net^$third-party
 ||iklanbariskusuma.com^$third-party
 ||iklanbarislaris.com^$third-party
+||iklanbarismandiri.com^$third-party
 ||iklanbarismu.com^$third-party
 ||iklanbarisplus.com^$third-party
 ||iklanbarispro.com^$third-party
@@ -344,6 +368,7 @@
 ||iklandenpasar.com^$third-party
 ||iklandiweb.com^$third-party
 ||iklandunia.com^$third-party
+||iklanebook.com^$third-party
 ||iklanekstra.com^$third-party
 ||iklaner.com^$third-party
 ||iklanfun.com^$third-party
@@ -380,11 +405,13 @@
 ||iklanlisting.com^$third-party
 ||iklanlowongan.com^$third-party
 ||iklanmarket.com^$third-party
+||iklanmini.co.id^$third-party
 ||iklanmobil.org^$third-party
 ||iklanmotor.org^$third-party
 ||iklanoke.com^$third-party
 ||iklanonlinegratis.com^$third-party
 ||iklanonlinemu.com^$third-party
+||iklanpartai.com^$third-party
 ||iklanpasanggratis.com^$third-party
 ||iklanpedia.com^$third-party
 ||iklanplaza.com^$third-party
@@ -407,9 +434,11 @@
 ||iklanvip.net^$third-party
 ||iklanvoucher.com^$third-party
 ||iklanwebid.com^$third-party
+||iklanyahoo.com^$third-party
 ||indofreeads.com^$third-party
 ||istanaiklan.com^$third-party
 ||jagoiklan.com^$third-party
+||jagopromo.com^$third-party
 ||jaringaniklan.com^$third-party
 ||jasaiklan.com^$third-party
 ||javaiklan.com^$third-party
@@ -424,6 +453,8 @@
 ||komisiiklan.com^$third-party
 ||ladangiklan.com^$third-party
 ||lokeriklan.com^$third-party
+||malaysianad.com^$third-party
+||maripromosi.com^$third-party
 ||masteriklan.net^$third-party
 ||mauiklangratis.com^$third-party
 ||medaniklan.com^$third-party
@@ -435,6 +466,7 @@
 ||mesinuangku.com^$third-party
 ||metodebaru.com^$third-party
 ||modaliklan.com^$third-party
+||motoriklan.com^$third-party
 ||mpnrs.com^$third-party
 ||networkadonline.com^$third-party
 ||nspmotion.com^$third-party
@@ -473,14 +505,19 @@
 ||promoneysystem.com^$third-party
 ||promosiiklan.com^$third-party
 ||promotioncamp.com^$third-party
+||promoviaweb.com^$third-party
+||propertitop.com^$third-party
 ||prophetofdoom.net^$third-party
 ||pusatiklan.com^$third-party
 ||pusatpromosiiklan.com^$third-party
 ||rahasiapanas.com^$third-party
 ||ruangbisnis.com^$third-party
+||salesgratis.com^$third-party
+||sebarmedia.com^$third-party
 ||sentra-iklan.com^$third-party
 ||sentrapromosi.com^$third-party
 ||serbaiklan.com^$third-party
+||serbapromo.com^$third-party
 ||sexiklan.com^$third-party
 ||sinusbux.com^$third-party
 ||sitipromo.web.id^$third-party
@@ -489,6 +526,7 @@
 ||smart-iklan.com^$third-party
 ||spotiklan.net^$third-party
 ||submitforall.com^$third-party
+||submitfull.com^$third-party
 ||sukagratis.com^$third-party
 ||sumberiklan.com^$third-party
 ||super-iklan.com^$third-party
@@ -499,12 +537,14 @@
 ||teknikbisnis.com^$third-party
 ||tempatiklan.com^$third-party
 ||texasptc.com^$third-party
+||the-freeads.com^$third-party
 ||tipsiklan.com^$third-party
 ||trekpay.com^$third-party
 ||trendiklan.com^$third-party
 ||triklan.com^$third-party
 ||updateiklan.com^$third-party
 ||webiklan.com^$third-party
+||webjualbeli.com^$third-party
 ||weblogiklan.com^$third-party
 ||zonaiklan.info^$third-party
 ! *** abpindo_whitelist.txt ***

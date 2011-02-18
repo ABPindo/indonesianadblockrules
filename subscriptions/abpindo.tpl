@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Jumat 18 Februari 2011, 08:23:25 WIB
+# Last modified  Jumat 18 Februari 2011, 09:39:48 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -24,6 +24,7 @@ msFilterList
 - http://adcenter2u.com
 - http://addesigner.com
 - http://admarvel.com
+- http://adptc.com
 - http://adreviewcamp.com
 - http://adsbingo.com
 - http://adsenblogger.com
@@ -35,21 +36,26 @@ msFilterList
 - http://adv-adserver.com
 - http://advercash.net
 - http://advertspeed.com
+-d alertpay.com /banners/
 - http://arisanvip.com
 - http://axverta.com
+- http://ayoburuanklik.com
 - http://baliadv.com
 - http://bannerbux.com
 - http://bigextracash.com
 - http://biindit.com
 - http://bubuads.com
 - http://buildvertical.com
+- http://bux-matrix.com
 - http://buxrupiah.com
 - http://buyiads.com
+- http://cash-harvest.com
 - http://cashviews.com
 - http://chainbux.com
 - http://clickdbs.com
 - http://clicklifter.com
 - http://clickmedia.co.id
+- http://clicks4cents.com
 - http://clicksia.com
 - http://clickxchange.com
 - http://dbclix.com
@@ -69,6 +75,8 @@ msFilterList
 - http://iaiamedia.com
 - http://idr-clickit.com
 - http://iklanperklik.com
+- http://incentria.com
+- http://incrasebux.com
 - http://indo-solusta.com
 - http://indoadpro.com
 - http://indobanner.com
@@ -83,8 +91,10 @@ msFilterList
 - http://infinityads.com
 - http://inmobi.com
 - http://innity.net
+- http://jillsclickcorner.com
 - http://jingkrak.com
 - http://jituiklan.com
+- http://klik11.com
 - http://klikajadeh.com
 - http://klikptc.com
 - http://klikrupiah.com
@@ -120,8 +130,10 @@ msFilterList
 - http://revenueburner.com
 - http://rupiahbux.com
 - http://sanglah.com
+- http://scarlet-clicks.info
 - http://sharepointads.com
 - http://shbux.com
+- http://siapakaya.com
 - http://sitti.co.id
 - http://situsbet.com
 - http://skycpm.com
@@ -144,6 +156,7 @@ msFilterList
 - http://urlcash.net
 - http://valueclick.net
 - http://vistaclix.com
+- http://y-bux.com
 - http://yesads.com
 # *** abpindo_thirdparty.txt ***
 -d adultfriendfinder.com /images/banners/
@@ -397,16 +410,21 @@ msFilterList
 - http://1iklanbaris.com
 - http://1jutarupiah.com
 - http://1st-iklan.com
+- http://abadiklan.com
+- http://adbusinessfree.com
 - http://adindonesia.com
 - http://ads-iklan.net
 - http://ads.hermawan.net
+- http://adsrelease.com
 - http://agenpromosi.com
 - http://ajangiklangratis.com
 - http://alamatemail.com
+- http://anadvertorial.com
 - http://anekaiklan.com
 - http://antariklan.com
 - http://barisiklangratis.com
 - http://belajar-bisnis.com
+- http://benangmerah.com
 - http://bincangbisnis.com
 - http://biroiklangratis.com
 - http://biropromosi.com
@@ -424,18 +442,22 @@ msFilterList
 - http://daniklan.com
 - http://dewa-bisnis.com
 - http://direktori-iklan.com
+- http://disinigratis.com
 - http://dunia-bisnis.com
 - http://duniaiklangratis.com
 - http://dutawebiklan.com
 - http://entryad.com
 - http://folderbisnis.com
+- http://forexpose.com
 - http://forum-iklan.com
 - http://forumiklan.com
+- http://freeads-iklan.com
 - http://freeads.web.id
 - http://gadget-ads.com
 - http://gratis-iklan-baris.com
 - http://gratisiklanpasang.com
 - http://gratisiklanpasang.net
+- http://gratispromo.com
 - http://groupiklan.com
 - http://iklan-baris.org
 - http://iklan-global.com
@@ -443,6 +465,7 @@ msFilterList
 - http://iklan-laris.com
 - http://iklan-sukses.com
 - http://iklan-super.com
+- http://iklan.net
 - http://iklan.terpopuler.com
 - http://iklan.tipsntrik.com
 - http://iklan2009.com
@@ -464,6 +487,7 @@ msFilterList
 - http://iklanbarisgratispasang.net
 - http://iklanbariskusuma.com
 - http://iklanbarislaris.com
+- http://iklanbarismandiri.com
 - http://iklanbarismu.com
 - http://iklanbarisplus.com
 - http://iklanbarispro.com
@@ -480,6 +504,7 @@ msFilterList
 - http://iklandenpasar.com
 - http://iklandiweb.com
 - http://iklandunia.com
+- http://iklanebook.com
 - http://iklanekstra.com
 - http://iklaner.com
 - http://iklanfun.com
@@ -516,11 +541,13 @@ msFilterList
 - http://iklanlisting.com
 - http://iklanlowongan.com
 - http://iklanmarket.com
+- http://iklanmini.co.id
 - http://iklanmobil.org
 - http://iklanmotor.org
 - http://iklanoke.com
 - http://iklanonlinegratis.com
 - http://iklanonlinemu.com
+- http://iklanpartai.com
 - http://iklanpasanggratis.com
 - http://iklanpedia.com
 - http://iklanplaza.com
@@ -543,9 +570,11 @@ msFilterList
 - http://iklanvip.net
 - http://iklanvoucher.com
 - http://iklanwebid.com
+- http://iklanyahoo.com
 - http://indofreeads.com
 - http://istanaiklan.com
 - http://jagoiklan.com
+- http://jagopromo.com
 - http://jaringaniklan.com
 - http://jasaiklan.com
 - http://javaiklan.com
@@ -560,6 +589,8 @@ msFilterList
 - http://komisiiklan.com
 - http://ladangiklan.com
 - http://lokeriklan.com
+- http://malaysianad.com
+- http://maripromosi.com
 - http://masteriklan.net
 - http://mauiklangratis.com
 - http://medaniklan.com
@@ -571,6 +602,7 @@ msFilterList
 - http://mesinuangku.com
 - http://metodebaru.com
 - http://modaliklan.com
+- http://motoriklan.com
 - http://mpnrs.com
 - http://networkadonline.com
 - http://nspmotion.com
@@ -609,14 +641,19 @@ msFilterList
 - http://promoneysystem.com
 - http://promosiiklan.com
 - http://promotioncamp.com
+- http://promoviaweb.com
+- http://propertitop.com
 - http://prophetofdoom.net
 - http://pusatiklan.com
 - http://pusatpromosiiklan.com
 - http://rahasiapanas.com
 - http://ruangbisnis.com
+- http://salesgratis.com
+- http://sebarmedia.com
 - http://sentra-iklan.com
 - http://sentrapromosi.com
 - http://serbaiklan.com
+- http://serbapromo.com
 - http://sexiklan.com
 - http://sinusbux.com
 - http://sitipromo.web.id
@@ -625,6 +662,7 @@ msFilterList
 - http://smart-iklan.com
 - http://spotiklan.net
 - http://submitforall.com
+- http://submitfull.com
 - http://sukagratis.com
 - http://sumberiklan.com
 - http://super-iklan.com
@@ -635,12 +673,14 @@ msFilterList
 - http://teknikbisnis.com
 - http://tempatiklan.com
 - http://texasptc.com
+- http://the-freeads.com
 - http://tipsiklan.com
 - http://trekpay.com
 - http://trendiklan.com
 - http://triklan.com
 - http://updateiklan.com
 - http://webiklan.com
+- http://webjualbeli.com
 - http://weblogiklan.com
 - http://zonaiklan.info
 # *** abpindo_whitelist.txt ***
