@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: g76Ig26g87R+D05Dk2IZjg
+! Checksum: lSf079+qzX6LZ9VQmpcIAA
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Jumat 18 Februari 2011, 08:14:00 WIB
+! Last modified  Jumat 18 Februari 2011, 08:23:25 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -176,10 +176,10 @@
 ||21cineplex.com/data/videoad/
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
-||ads.antaranews.com^
-||ads.buzzcity.net^
-||ads.djawirlabs.com^
-||ads.indowebster.com^$image
+||ads.antaranews.com^$image,subdocument
+||ads.buzzcity.net^$image,subdocument
+||ads.djawirlabs.com^$image,subdocument
+||ads.indowebster.com^$image,subdocument
 ||arenabola.com^$domain=krucil.com
 ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
 ||bannerhp.com^$third-party
@@ -203,6 +203,7 @@
 ||howsanindo.com/website/bisnisparfum/bisnisparfum_dijual.gif
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
+||iklan.indowebster.com^$image,subdocument
 ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 ||imagedum.com/images/457_Arenabola.png
 ||imagedum.com/images/774_Tangkasbet.gif
