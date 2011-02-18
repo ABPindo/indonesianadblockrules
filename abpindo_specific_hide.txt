@@ -8,8 +8,6 @@ ceriwis.us###hoho-wrapsubmenu2
 ceriwis.us###message-box
 ceriwis.us###message-box-bot
 ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
-chip.co.id##.Break.AdsBottom
-chip.co.id##.SectionAds
 detik.com###arena-musik
 detik.com###bannerE
 detik.com###footerbanner
@@ -51,7 +49,6 @@ detiksport.com###adtext
 detiksport.com###adtext-info
 detiksport.com###bannerE
 detiksport.com##.bannerB2
-forum.detik.com###adsmiddle
 forumbebas.com###topbar
 forumbebas.com##CENTER
 foto.detik.com##.bannerbcd
@@ -83,8 +80,6 @@ indowebster.com###showpaper
 indowebster.com###tr_iklanbaris2
 indowebster.com###warn
 indowebster.com##DIV[style="height:62px;"]
-indowebster.web.id###ad_global_below_navbar
-indowebster.web.id##CENTER
 inilah.com##.head_banner
 jombangan.com##CENTER
 kapanlagi.com###middle_showcase
@@ -122,8 +117,8 @@ liputan6.com###ads_lb
 liputan6.com##.ybox
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
-mangafox.com##[style="width:186px;height:90px;border:#dadada solid 1px;padding:2px;background:#fff;"]
-mangafox.com##[style="width:930px;padding-bottom:10px;padding-right:10px;padding-left:10px;"]
+mangafox.com##DIV[style="width:186px;height:90px;border:#dadada solid 1px;padding:2px;background:#fff;"]
+mangafox.com##DIV[style="width:930px;padding-bottom:10px;padding-right:10px;padding-left:10px;"]
 masterporn.me##FONT[size="1"]
 masterporn.me##TABLE[align="center"]
 mediaindonesia.com###topbanner

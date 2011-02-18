@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Jumat 18 Februari 2011, 06:06:00 WIB
+# Last modified  Jumat 18 Februari 2011, 08:14:00 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -11,7 +11,10 @@ msFilterList
 # *** abpindo_general_block.txt ***
 - /images/iklan/
 # *** abpindo_general_hide.txt ***
+# ###adsmiddle
 # ###desaiklan
+# ##.Break.AdsBottom
+# ##.SectionAds
 # ##.bgads
 # ##.gbcontent
 # ##.gpcontent
@@ -269,8 +272,6 @@ msFilterList
 # ceriwis.us###hoho-wrapsubmenu2
 # ceriwis.us###message-box
 # ceriwis.us###message-box-bot
-# chip.co.id##.Break.AdsBottom
-# chip.co.id##.SectionAds
 # detik.com###arena-musik
 # detik.com###bannerE
 # detik.com###footerbanner
@@ -312,7 +313,6 @@ msFilterList
 # detiksport.com###adtext-info
 # detiksport.com###bannerE
 # detiksport.com##.bannerB2
-# forum.detik.com###adsmiddle
 # forumbebas.com###topbar
 # forumbebas.com##CENTER
 # foto.detik.com##.bannerbcd
@@ -339,8 +339,6 @@ msFilterList
 # indowebster.com###showpaper
 # indowebster.com###tr_iklanbaris2
 # indowebster.com###warn
-# indowebster.web.id###ad_global_below_navbar
-# indowebster.web.id##CENTER
 # inilah.com##.head_banner
 # jombangan.com##CENTER
 # kapanlagi.com###middle_showcase
