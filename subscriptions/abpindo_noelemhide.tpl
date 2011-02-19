@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Jumat 18 Februari 2011, 09:39:48 WIB
+# Last modified  Sabtu 19 Februari 2011, 21:15:03 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -181,7 +181,7 @@ msFilterList
 # ||ads.antaranews.com^$image,subdocument
 # ||ads.buzzcity.net^$image,subdocument
 # ||ads.djawirlabs.com^$image,subdocument
-# ||ads.indowebster.com^$image,subdocument
+# ||ads.indowebster.com^$script,image,subdocument
 # ||arenabola.com^$domain=krucil.com
 # ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
 - http://bannerhp.com
@@ -205,7 +205,7 @@ msFilterList
 -d howsanindo.com /website/bisnisparfum/bisnisparfum_dijual.gif
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
-# ||iklan.indowebster.com^$image,subdocument
+# ||iklan.indowebster.com^$script,image,subdocument
 # ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 -d imagedum.com /images/457_Arenabola.png
 -d imagedum.com /images/774_Tangkasbet.gif
