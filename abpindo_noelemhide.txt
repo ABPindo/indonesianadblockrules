@@ -10,7 +10,5 @@
 !
 %include abpindo_general_block.txt%
 %include abpindo_adservers.txt%
-%include abpindo_thirdparty.txt%
 %include abpindo_specific_block.txt%
-%include abpindo_iklan_id.txt%
 %include abpindo_whitelist.txt%
