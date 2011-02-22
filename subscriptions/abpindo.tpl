@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Sabtu 19 Februari 2011, 22:27:44 WIB
+# Last modified  Selasa 22 Februari 2011, 17:43:51 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -582,6 +582,7 @@ msFilterList
 # detikhot.com###bannerE
 # detikhot.com###footerbanner
 # detikhot.com##.bannerB2
+# detikhot.com##.bannerEtop
 # detikinet.com###adpoint-article
 # detikinet.com###adtext
 # detikinet.com###adtext-info

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 0S0vz2igELbdum3wkqhakw
+! Checksum: WDgMJSC7IESMp5i1/gKivQ
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Sabtu 19 Februari 2011, 22:27:44 WIB
+! Last modified  Selasa 22 Februari 2011, 17:43:51 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -586,6 +586,7 @@ detikhot.com###adtext-info
 detikhot.com###bannerE
 detikhot.com###footerbanner
 detikhot.com##.bannerB2
+detikhot.com##.bannerEtop
 detikinet.com###adpoint-article
 detikinet.com###adtext
 detikinet.com###adtext-info
