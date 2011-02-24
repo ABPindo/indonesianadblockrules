@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # JBet - Jebakan Betmen
-# Last modified  Sabtu 19 Februari 2011, 22:27:44 WIB
+# Last modified  Kamis 24 Februari 2011, 10:04:30 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -36,7 +36,6 @@ msFilterList
 - http://bpwhamburgorchardpark.org
 - http://charonboat.com
 - http://cherrycake.org
-- http://cleangirls.org
 - http://clicnews.com
 - http://clownsong.com
 - http://cupchicks.com
@@ -45,7 +44,6 @@ msFilterList
 - http://dfwdiesel.net
 - http://divineenterprises.net
 - http://doesthatwork.co.uk
-- http://doujin-moe.us
 - http://drewpickles.com
 - http://eatingcream.com
 - http://eelsoup.net
@@ -78,14 +76,11 @@ msFilterList
 - http://hdvideoforums.org
 - http://hell.jidatbaok.com
 - http://hihanin.com
-- http://hiphopparkiran.tk
 - http://homewares.org
 - http://homo.com
-- http://infoslash.com
 - http://infoslash.net
 - http://japscat.org
 - http://jewsnip.com
-- http://jodi.org
 - http://joyangeles.com
 - http://k-k-k.com
 - http://kids-in-sandbox.com
@@ -127,10 +122,8 @@ msFilterList
 - http://oranggila.com
 - http://ouchmyeyes.com
 - http://out.ihang.org
-- http://outube.com
 - http://phonejapan.com
 - http://phonetrace.org
-- http://piepra.talk4fun.net
 - http://podrido.com
 - http://poobutton.com
 - http://porkspin.com
@@ -141,7 +134,6 @@ msFilterList
 - http://qsng.cn
 - http://ratemyshocker.com
 - http://removed.us
-- http://rotten.com
 - http://sajjadali.com
 - http://salahkamar.com
 - http://salsasnack.com
@@ -160,7 +152,6 @@ msFilterList
 - http://swollentip.com
 - http://tathli.com
 - http://teamclouds.com
-- http://teenschoolgirlsex.com
 - http://texaswhitetailfever.com
 - http://thatshot.org
 - http://thatsnotsexy.com
@@ -169,7 +160,6 @@ msFilterList
 - http://thepounder.com
 - http://theshithole.com
 - http://thewillpower.org
-- http://titanime.com
 - http://truth.mcdonalds-revealed.com
 - http://tubgirl.com
 - http://turdgasm.com
@@ -193,7 +183,6 @@ msFilterList
 - http://yt118.com
 - http://apaaaantuh.co.cc
 -d bangun3.com /admin
--d bit.ly /4ZibPJ
 -d bmpclub.bravehost.com /Toturial_BUG_PB.html
 - http://coryna.com
 -d d1gdo.com /admin/
@@ -202,9 +191,8 @@ msFilterList
 -d elektroav1.do.am /wIEmF3PX.html
 - http://epustakawan.co.cc
 -d esc-creation.com /scream
-- http://faojand-injector.blogspot.com ^
+- http://faojand-injector.blogspot.com
 -d forum.gemscool.com /thread-59378.html
-- http://fuck.org
 -d gigihweb.com /unik
 - http://googlehammer.com
 - http://hipperz-injector.blogspot.com
@@ -216,7 +204,6 @@ msFilterList
 -d kiwil-curhat.page.tl /Jangan-Di-Klik.htm
 - http://kombre.co.cc
 -d members.home.nl /saen/Special/Zoeken.swf
-- http://nopic-hoax.blogspot.com
 - http://reinaldi.com
 -d rumdesign.com /wrong/
 -d sinthaistudio.com /thehouse2/
@@ -224,7 +211,6 @@ msFilterList
 -d stuff.pyzam.com /toys/tictacscare.swf
 -d urangsunda.50webs.com /NoClick.html
 - http://warnetips.blogspot.com
-- http://youjizz.com
 - http://yoznews.blogspot.com
 # *** _longcat.txt ***
 - http://1.bp.blogspot.com/_SwbWgcTbw4A/SnkXsdrkM3I/AAAAAAAAAIw/_MefnBG4_Ac/s320/
@@ -265,7 +251,6 @@ msFilterList
 - http://i33.tinypic.com/kahiso.jpg
 - http://i34.tinypic.com/152zz1i.jpg
 - http://i34.tinypic.com/x11269.jpg
-- http://i35.tinypic.com/24wah4h.jpg
 - http://i35.tinypic.com/2a0114.jpg
 - http://i35.tinypic.com/mkw0us.jpg
 - http://i36.tinypic.com/211jdp3.jpg
@@ -278,23 +263,8 @@ msFilterList
 - http://images.encyclopediadramatica.com/images/9/91/
 - http://images.longc.at/local/
 - http://img.photobucket.com/albums/v47/pyrobolt/
-- http://img143.imageshack.us/img143/8922/
-- http://img16.imageshack.us/img16/1404/
-- http://img197.imageshack.us/img197/7950/
-- http://img199.imageshack.us/img199/699/ilikethelongness.png
-- http://img200.imageshack.us/img200/5430/longcat7.png
-- http://img203.imageshack.us/img203/3285/
-- http://img243.imageshack.us/img243/7025/
-- http://img28.imageshack.us/img28/9831/gayinisraelibeach.jpg
-- http://img411.imageshack.us/img411/9026/
-- http://img412.imageshack.us/img412/4869/
-- http://img43.imageshack.us/img43/1686/whyisthiscatsolong.png
-- http://img688.imageshack.us/img688/5870/
-- http://img708.imageshack.us/img708/692/
-- http://img80.imageshack.us/img80/9508/
 - http://imgur.com/zJTeX.jpg
 - http://ipac.jpl.nasa.gov/media_images/
-- http://killerjo. net/
 - http://knowyourmeme.com/i/000/038/312/original/
 - http://lh3.ggpht.com/_JOsdm6LltKw/Rsi-l4nfvNI/AAAAAAAAAis/cXZFAx9CBsI/
 - http://lh3.ggpht.com/_soU13jb30eQ/RzMZr4ZgctI/AAAAAAAAACE/WxedUEQJllo/
@@ -310,48 +280,7 @@ msFilterList
 - http://s95077276.onlinehome.us/Public/HighRes/
 - http://spydernation.com/piktarz/
 - http://sutikno.blog.uns.ac.id/files/2009/04/
-- http://u.kaskus.us/10/1d0umqhh.jpg
-- http://u.kaskus.us/10/2einy3mq.jpeg
-- http://u.kaskus.us/10/bjmunx1f.jpeg
-- http://u.kaskus.us/10/brxudo6i.jpeg
-- http://u.kaskus.us/10/ejc0uwag.jpeg
-- http://u.kaskus.us/10/euvakcqf.jpg
-- http://u.kaskus.us/10/kjr5xc6f.jpeg
-- http://u.kaskus.us/10/mdxrdesf.jpeg
-- http://u.kaskus.us/10/momx5bum.jpg
-- http://u.kaskus.us/10/ol5dnjqo.jpg
-- http://u.kaskus.us/10/weq8rxsq.jpeg
-- http://u.kaskus.us/12/90fpcgxw.jpg
-- http://u.kaskus.us/12/ojt4vecl.jpg
-- http://u.kaskus.us/3/1kuj9dmq.jpg
-- http://u.kaskus.us/3/4ay3zypt.jpg
-- http://u.kaskus.us/3/6b0dyclu.jpg
-- http://u.kaskus.us/3/cr8dhe7r.jpg
-- http://u.kaskus.us/3/cxmo1qds.jpg
-- http://u.kaskus.us/3/dmjd2ju4.jpg
-- http://u.kaskus.us/3/dxz8ryky.jpg
-- http://u.kaskus.us/3/evnk9lsa.jpg
-- http://u.kaskus.us/3/hnjlw6jl.jpg
-- http://u.kaskus.us/3/hwqo7foo.jpg
-- http://u.kaskus.us/3/kpp5saru.jpg
-- http://u.kaskus.us/3/krz8wlie.jpg
-- http://u.kaskus.us/3/lfajxiwg.jpg
-- http://u.kaskus.us/3/lvvcmoli.jpg
-- http://u.kaskus.us/3/m4tc4gvd.jpg
-- http://u.kaskus.us/3/mirlr5ix.jpg
-- http://u.kaskus.us/3/rg7axvl9.jpg
-- http://u.kaskus.us/3/ryzss3cv.jpg
-- http://u.kaskus.us/3/sy9be9b5.jpg
-- http://u.kaskus.us/3/tdprjg5j.jpg
-- http://u.kaskus.us/3/upnfgzrs.jpg
-- http://u.kaskus.us/3/x0plzy8i.jpg
-- http://u.kaskus.us/8/mxn5kux6.jpg
 - http://underground.bananachan.net/worms/maps/
-- http://upload.wikimedia.org/wikipedia/commons/1/1c/
-- http://upload.wikimedia.org/wikipedia/commons/2/22/
-- http://upload.wikimedia.org/wikipedia/commons/b/b7/
-- http://upload.wikimedia.org/wikipedia/commons/c/ce/Monas_view_from_Gambir_station.JPG
-- http://upload.wikimedia.org/wikipedia/commons/e/e0/
 - http://vigor.wustl.edu/mtpeposter/images/
 - http://winchell.org/Kai/
 - http://wiresmash.com/wp-content/imagescaler/
@@ -363,9 +292,6 @@ msFilterList
 - http://www.csc.kth.se/~leihuang/
 - http://www.emediawire.com/prfiles/2005/10/06/294883/
 - http://www.krimzon.net/pics/
-- http://www.motifake.com/demotivational-poster/0807/
-- http://www.motifake.com/demotivational-poster/0808/
-- http://www.motifake.com/image/demotivational-poster/0807/
 - http://www.nhc.noaa.gov/gifs/
 - http://www.noao.edu/image_gallery/images/d3/
 - http://www.pics24h.com/img/fun/
