@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Jumat 25 Februari 2011, 14:51:25 WIB
+# Last modified  Sabtu 26 Februari 2011, 22:39:41 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -12,7 +12,6 @@ msFilterList
 - .com/iklan/
 - .id/iklan/
 - /images/iklan/
-- /img-iklan/
 - /uploads/iklan/
 - http://banners-id.
 - http://iklan.
@@ -21,12 +20,14 @@ msFilterList
 # ###desaiklan
 # ##.Break.AdsBottom
 # ##.SectionAds
+# ##.ads-sponsors
 # ##.bgads
 # ##.gbcontent
 # ##.gpcontent
 # ##.pasangiklan
 # ##.textlinkads
 # *** abpindo_adservers.txt ***
+- http://bannerhp.com
 - http://1bisnisonline.com
 - http://1iklanbaris.com
 - http://1jutarupiah.com
@@ -467,13 +468,11 @@ msFilterList
 -d 21cineplex.com /data/videoad/
 # ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 # ||adf.ly/js/link-converter.js$domain=indowebster.web.id
-# ||ads.antaranews.com^$image,subdocument
-# ||ads.buzzcity.net^$image,subdocument
-# ||ads.djawirlabs.com^$image,subdocument
 # ||ads.indowebster.com^$script,image,subdocument
+# ||ads.kompas.com^$script,image,subdocument
+-d anymanga.com /adv.js
 # ||arenabola.com^$domain=krucil.com
 # ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
-- http://bannerhp.com
 -d cashburners.biz /banners/
 -d cdn.bloggerfiles.com /img/promo/
 -d ceriwis.info /338x30.swf
@@ -499,7 +498,6 @@ msFilterList
 -d imagedum.com /images/457_Arenabola.png
 -d imagedum.com /images/774_Tangkasbet.gif
 -d imagedum.com /images/928_Ratubola.gif
--d img.ads.kompas.com /bannerlink/
 -d img5.uploadhouse.com /fileuploads/7341/734124591c261b70951dfd979b37074530dcd6b.jpg
 -d img5.uploadhouse.com /fileuploads/7341/7341275e70e126e6020b7970749f1517cddfa57.jpg
 -d img6.uploadhouse.com /fileuploads/6946/6946586ec80b6e1318c82b46fe31274e46bae48.jpg
@@ -681,5 +679,4 @@ msFilterList
 # thehack3r.com###topbar
 # thehack3r.com##CENTER
 # vivanews.com##.reset10
-# warungbebas.com##.ads-sponsors
 # *** abpindo_whitelist.txt ***
