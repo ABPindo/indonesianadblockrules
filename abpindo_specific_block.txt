@@ -1,13 +1,11 @@
 ||21cineplex.com/data/videoad/
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
-||ads.antaranews.com^$image,subdocument
-||ads.buzzcity.net^$image,subdocument
-||ads.djawirlabs.com^$image,subdocument
 ||ads.indowebster.com^$script,image,subdocument
+||ads.kompas.com^$script,image,subdocument
+||anymanga.com/adv.js
 ||arenabola.com^$domain=krucil.com
 ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
-||bannerhp.com^$third-party
 ||cashburners.biz/banners/
 ||cdn.bloggerfiles.com/img/promo/
 ||ceriwis.info/338x30.swf
@@ -33,7 +31,6 @@
 ||imagedum.com/images/457_Arenabola.png
 ||imagedum.com/images/774_Tangkasbet.gif
 ||imagedum.com/images/928_Ratubola.gif
-||img.ads.kompas.com/bannerlink/
 ||img5.uploadhouse.com/fileuploads/7341/734124591c261b70951dfd979b37074530dcd6b.jpg
 ||img5.uploadhouse.com/fileuploads/7341/7341275e70e126e6020b7970749f1517cddfa57.jpg
 ||img6.uploadhouse.com/fileuploads/6946/6946586ec80b6e1318c82b46fe31274e46bae48.jpg
