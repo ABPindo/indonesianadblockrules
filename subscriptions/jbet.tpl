@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # JBet - Jebakan Betmen
-# Last modified  Sabtu 26 Februari 2011, 22:39:41 WIB
+# Last modified  Minggu 27 Februari 2011, 20:23:54 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -10,10 +10,8 @@ msFilterList
 #
 # *** _computer_prank.txt ***
 - http://1227.com
-- http://17ebook.com
 - http://1guy1mudpie.com
 - http://1Priest1Nun.com
-- http://2girls1cup.com
 - http://2girls1finger.com
 - http://2girls1fleshlight.com
 - http://2girls1kracker.com
@@ -49,7 +47,6 @@ msFilterList
 - http://eelsoup.net
 - http://fadebook.com
 - http://fanbangho.com
-- http://fantasticfilms.ru
 - http://festered.com
 - http://fingerslam.com
 - http://fishermen.ytmnd.com
@@ -66,7 +63,6 @@ msFilterList
 - http://goatse.cz
 - http://goatsegirl.org
 - http://goatsemarathon.com
-- http://goobel.50webs.com
 - http://gooork.com
 - http://goplaysee.com
 - http://goregasm.com
@@ -74,7 +70,6 @@ msFilterList
 - http://gurochan.net
 - http://hai2u.com
 - http://hdvideoforums.org
-- http://hell.jidatbaok.com
 - http://hihanin.com
 - http://homewares.org
 - http://homo.com
@@ -105,7 +100,6 @@ msFilterList
 - http://meatspin.com
 - http://melondude.com
 - http://milkfountain.com
-- http://miyabi-movies.co.tv
 - http://moldymen.com
 - http://motherman.com
 - http://mrshands.com
@@ -159,8 +153,6 @@ msFilterList
 - http://thepounder.com
 - http://theshithole.com
 - http://thewillpower.org
-- http://truth.mcdonalds-revealed.com
-- http://tubgirl.com
 - http://turdgasm.com
 - http://ugly.blerp.org
 - http://utube.com
@@ -186,16 +178,11 @@ msFilterList
 - http://coryna.com
 -d d1gdo.com /admin/
 -d d1gdo.com /images
-- http://dennyastrada.co.cc
--d elektroav1.do.am /wIEmF3PX.html
 - http://epustakawan.co.cc
 -d esc-creation.com /scream
 - http://faojand-injector.blogspot.com
--d forum.gemscool.com /thread-59378.html
 -d gigihweb.com /unik
 - http://googlehammer.com
-- http://hipperz-injector.blogspot.com
-- http://hwehe3x.blogspot.com
 - http://jewdiamonds.com
 - http://kenapa-ini.blogspot.com
 - http://killerijo.com
@@ -209,8 +196,6 @@ msFilterList
 - http://stainedass.com
 -d stuff.pyzam.com /toys/tictacscare.swf
 -d urangsunda.50webs.com /NoClick.html
-- http://warnetips.blogspot.com
-- http://yoznews.blogspot.com
 # *** _longcat.txt ***
 - http://1.bp.blogspot.com/_SwbWgcTbw4A/SnkXsdrkM3I/AAAAAAAAAIw/_MefnBG4_Ac/s320/
 - http://2.bp.blogspot.com/_my5OGIJd4kM/Sher-0wV0FI/AAAAAAAAFZ8/qsCTA0eoo_o/s400/
