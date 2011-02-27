@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: yo5LkK1w5yNVenj3IAhh+w
+! Checksum: qsZDCb+Fs1D/kWy70eOOtA
 ! JBet - Jebakan Betmen
-! Last modified  Sabtu 26 Februari 2011, 22:39:41 WIB
+! Last modified  Minggu 27 Februari 2011, 20:23:54 WIB
 ! Expires: 14 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -11,10 +11,8 @@
 !
 ! *** _computer_prank.txt ***
 ||1227.com^
-||17ebook.com^
 ||1guy1mudpie.com^
 ||1Priest1Nun.com^
-||2girls1cup.com^
 ||2girls1finger.com^
 ||2girls1fleshlight.com^
 ||2girls1kracker.com^
@@ -50,7 +48,6 @@
 ||eelsoup.net^
 ||fadebook.com^
 ||fanbangho.com^
-||fantasticfilms.ru^
 ||festered.com^
 ||fingerslam.com^
 ||fishermen.ytmnd.com^
@@ -67,7 +64,6 @@
 ||goatse.cz^
 ||goatsegirl.org^
 ||goatsemarathon.com^
-||goobel.50webs.com^
 ||gooork.com^
 ||goplaysee.com^
 ||goregasm.com^
@@ -75,7 +71,6 @@
 ||gurochan.net^
 ||hai2u.com^
 ||hdvideoforums.org^
-||hell.jidatbaok.com^
 ||hihanin.com^
 ||homewares.org^
 ||homo.com^
@@ -106,7 +101,6 @@
 ||meatspin.com^
 ||melondude.com^
 ||milkfountain.com^
-||miyabi-movies.co.tv^
 ||moldymen.com^
 ||motherman.com^
 ||mrshands.com^
@@ -160,8 +154,6 @@
 ||thepounder.com^
 ||theshithole.com^
 ||thewillpower.org^
-||truth.mcdonalds-revealed.com^
-||tubgirl.com^
 ||turdgasm.com^
 ||ugly.blerp.org^
 ||utube.com^
@@ -181,23 +173,17 @@
 ||youaresogay.com^
 ||yourmom.org^
 ||yt118.com^
-||[yourname].rickrolling.com^
 ||apaaaantuh.co.cc^
 ||bangun3.com/admin
 ||bmpclub.bravehost.com/Toturial_BUG_PB.html
 ||coryna.com^
 ||d1gdo.com/admin/
 ||d1gdo.com/images
-||dennyastrada.co.cc^
-||elektroav1.do.am/wIEmF3PX.html
 ||epustakawan.co.cc^
 ||esc-creation.com/scream
 ||faojand-injector.blogspot.com^
-||forum.gemscool.com/thread-59378.html
 ||gigihweb.com/unik
 ||googlehammer.com^
-||hipperz-injector.blogspot.com^
-||hwehe3x.blogspot.com^
 ||jewdiamonds.com^
 ||kenapa-ini.blogspot.com^
 ||killerijo.com^
@@ -211,8 +197,6 @@
 ||stainedass.com^
 ||stuff.pyzam.com/toys/tictacscare.swf
 ||urangsunda.50webs.com/NoClick.html
-||warnetips.blogspot.com^
-||yoznews.blogspot.com^
 ! *** _longcat.txt ***
 |http://1.bp.blogspot.com/_SwbWgcTbw4A/SnkXsdrkM3I/AAAAAAAAAIw/_MefnBG4_Ac/s320/*
 |http://2.bp.blogspot.com/_my5OGIJd4kM/Sher-0wV0FI/AAAAAAAAFZ8/qsCTA0eoo_o/s400/*
