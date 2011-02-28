@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: qsZDCb+Fs1D/kWy70eOOtA
+! Checksum: XHPGIrT53hpHe/fYZZXF/w
 ! JBet - Jebakan Betmen
-! Last modified  Minggu 27 Februari 2011, 20:23:54 WIB
+! Last modified  Senin 28 Februari 2011, 08:26:39 WIB
 ! Expires: 14 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -32,17 +32,14 @@
 ||bottleguy.com^
 ||bouncecup.com^
 ||bowlgirl.com^
-||bpwhamburgorchardpark.org^
 ||charonboat.com^
 ||cherrycake.org^
-||clicnews.com^
 ||clownsong.com^
 ||cupchicks.com^
 ||dadparty.com^
 ||denial.be^
 ||dfwdiesel.net^
 ||divineenterprises.net^
-||doesthatwork.co.uk^
 ||drewpickles.com^
 ||eatingcream.com^
 ||eelsoup.net^
@@ -56,7 +53,6 @@
 ||fudgepipe.com^
 ||funnelchair.com^
 ||gandhi.isgreat.org^
-||gardensrestaurantandcatering.com^
 ||geryadrian.com^
 ||ghostboy.co.uk^
 ||ginedis.com^
