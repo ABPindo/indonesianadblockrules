@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # JBet - Jebakan Betmen
-# Last modified  Minggu 27 Februari 2011, 20:23:54 WIB
+# Last modified  Senin 28 Februari 2011, 08:26:39 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -31,17 +31,14 @@ msFilterList
 - http://bottleguy.com
 - http://bouncecup.com
 - http://bowlgirl.com
-- http://bpwhamburgorchardpark.org
 - http://charonboat.com
 - http://cherrycake.org
-- http://clicnews.com
 - http://clownsong.com
 - http://cupchicks.com
 - http://dadparty.com
 - http://denial.be
 - http://dfwdiesel.net
 - http://divineenterprises.net
-- http://doesthatwork.co.uk
 - http://drewpickles.com
 - http://eatingcream.com
 - http://eelsoup.net
@@ -55,7 +52,6 @@ msFilterList
 - http://fudgepipe.com
 - http://funnelchair.com
 - http://gandhi.isgreat.org
-- http://gardensrestaurantandcatering.com
 - http://geryadrian.com
 - http://ghostboy.co.uk
 - http://ginedis.com
