@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Sabtu 26 Februari 2011, 22:39:41 WIB
+# Last modified  Selasa 01 Maret 2011, 04:55:20 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -21,12 +21,15 @@ msFilterList
 # ##.Break.AdsBottom
 # ##.SectionAds
 # ##.ads-sponsors
+# ##.banner-adv
 # ##.bgads
 # ##.gbcontent
 # ##.gpcontent
 # ##.pasangiklan
 # ##.textlinkads
 # *** abpindo_adservers.txt ***
+- http://onclinic24.com
+- http://bintangbola.net
 - http://bannerhp.com
 - http://1bisnisonline.com
 - http://1iklanbaris.com
@@ -465,6 +468,7 @@ msFilterList
 -d ziddu.com /banners/images/
 - http://zonaiklan.info
 # *** abpindo_specific_block.txt ***
+# ||javapic.com/images/*.gif$domain=krucil.com
 -d 21cineplex.com /data/videoad/
 # ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 # ||adf.ly/js/link-converter.js$domain=indowebster.web.id
@@ -554,6 +558,7 @@ msFilterList
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/ads/
 # *** abpindo_specific_hide.txt ***
+# bisnis.com##.banner-user8
 # blogdetik.com##.bannerA
 # bluefame.com##CENTER
 # bola.net###top_leaderboard
