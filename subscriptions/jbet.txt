@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: XHPGIrT53hpHe/fYZZXF/w
+! Checksum: kB6mCUqIYp530EJfkXqDNA
 ! JBet - Jebakan Betmen
-! Last modified  Senin 28 Februari 2011, 08:26:39 WIB
+! Last modified  Minggu 06 Maret 2011, 17:21:21 WIB
 ! Expires: 14 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -109,7 +109,6 @@
 ||nutsindaass.com^
 ||octopusgirl.com^
 ||ogrish.com^
-||omglol.tk^
 ||oranggila.com^
 ||ouchmyeyes.com^
 ||out.ihang.org^

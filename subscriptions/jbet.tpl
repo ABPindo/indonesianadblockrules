@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # JBet - Jebakan Betmen
-# Last modified  Senin 28 Februari 2011, 08:26:39 WIB
+# Last modified  Minggu 06 Maret 2011, 17:21:21 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -108,7 +108,6 @@ msFilterList
 - http://nutsindaass.com
 - http://octopusgirl.com
 - http://ogrish.com
-- http://omglol.tk
 - http://oranggila.com
 - http://ouchmyeyes.com
 - http://out.ihang.org
