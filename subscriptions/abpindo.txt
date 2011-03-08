@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 4SrPPY6c8g4N9+af5vBg/g
+! Checksum: AgiOxInCUKjXyZE7g2H2ZQ
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Selasa 01 Maret 2011, 04:55:20 WIB
+! Last modified  Selasa 08 Maret 2011, 15:47:23 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -11,6 +11,7 @@
 !
 ! *** abpindo_general_block.txt ***
 .com/iklan/*
+.id/ads/*
 .id/iklan/*
 /images/iklan/*
 /uploads/iklan/*
@@ -469,7 +470,6 @@
 ||ziddu.com/banners/images/$third-party
 ||zonaiklan.info^$third-party
 ! *** abpindo_specific_block.txt ***
-||javapic.com/images/*.gif$domain=krucil.com
 ||21cineplex.com/data/videoad/
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
@@ -516,6 +516,7 @@
 ||indonesiapaypal.com/banners/flash/Banner250x250.swf
 ||indowebster.com/ajax/iklan/$xmlhttprequest
 ||javapic.com/ikelan/
+||javapic.com/images/*.gif$domain=krucil.com
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
 ||kaskus.us/adv/
@@ -559,6 +560,7 @@
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
 ! *** abpindo_specific_hide.txt ***
+surya.co.id##.midbanner-box
 bisnis.com##.banner-user8
 4chan.org##DIV[style="width: 300px; position: absolute;left: 5%; border:1px solid black;"]
 ansav.com##IMG[style="width: 251px; height: 100px;"]

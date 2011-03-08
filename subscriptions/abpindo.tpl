@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Selasa 01 Maret 2011, 04:55:20 WIB
+# Last modified  Selasa 08 Maret 2011, 15:47:23 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -10,6 +10,7 @@ msFilterList
 #
 # *** abpindo_general_block.txt ***
 - .com/iklan/
+- .id/ads/
 - .id/iklan/
 - /images/iklan/
 - /uploads/iklan/
@@ -468,7 +469,6 @@ msFilterList
 -d ziddu.com /banners/images/
 - http://zonaiklan.info
 # *** abpindo_specific_block.txt ***
-# ||javapic.com/images/*.gif$domain=krucil.com
 -d 21cineplex.com /data/videoad/
 # ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 # ||adf.ly/js/link-converter.js$domain=indowebster.web.id
@@ -515,6 +515,7 @@ msFilterList
 -d indonesiapaypal.com /banners/flash/Banner250x250.swf
 # ||indowebster.com/ajax/iklan/$xmlhttprequest
 -d javapic.com /ikelan/
+# ||javapic.com/images/*.gif$domain=krucil.com
 -d jogjastreamers.com /images/banner/
 -d kad.kaskus.us /banner/
 -d kaskus.us /adv/
@@ -558,6 +559,7 @@ msFilterList
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/ads/
 # *** abpindo_specific_hide.txt ***
+# surya.co.id##.midbanner-box
 # bisnis.com##.banner-user8
 # blogdetik.com##.bannerA
 # bluefame.com##CENTER

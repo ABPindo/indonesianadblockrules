@@ -1,4 +1,3 @@
-||javapic.com/images/*.gif$domain=krucil.com
 ||21cineplex.com/data/videoad/
 ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
@@ -45,6 +44,7 @@
 ||indonesiapaypal.com/banners/flash/Banner250x250.swf
 ||indowebster.com/ajax/iklan/$xmlhttprequest
 ||javapic.com/ikelan/
+||javapic.com/images/*.gif$domain=krucil.com
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
 ||kaskus.us/adv/
