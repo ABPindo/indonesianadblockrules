@@ -1,4 +1,5 @@
 .com/iklan/*
+.id/ads/*
 .id/iklan/*
 /images/iklan/*
 /uploads/iklan/*
