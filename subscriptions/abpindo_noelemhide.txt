@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: T3Ss2HYSrrivDPqUwFTpTw
+! Checksum: NxLlpS9+hNxZrDh0IY3lQg
 ! abp_indo without element hiding 
-! Last modified  Selasa 08 Maret 2011, 15:47:23 WIB
+! Last modified  Rabu 09 Maret 2011, 13:15:01 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -18,9 +18,6 @@
 |http://banners-id.
 |http://iklan.
 ! *** abpindo_adservers.txt ***
-||onclinic24.com^$third-party
-||bintangbola.net^$third-party
-||bannerhp.com^$third-party
 ||1bisnisonline.com^$third-party
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
@@ -60,6 +57,7 @@
 ||baliadv.com^$third-party
 ||banner.autosubmit.web.id^$third-party
 ||bannerbux.com^$third-party
+||bannerhp.com^$third-party
 ||barisiklangratis.com^$third-party
 ||bebaspikiran.com^$third-party
 ||bekas.com^$third-party
@@ -68,6 +66,7 @@
 ||bigextracash.com^$third-party
 ||biindit.com^$third-party
 ||bincangbisnis.com^$third-party
+||bintangbola.net^$third-party
 ||biroiklangratis.com^$third-party
 ||biropromosi.com^$third-party
 ||bisnisgratis.net^$third-party
@@ -324,9 +323,11 @@
 ||neorupiah.com^$third-party
 ||networkadonline.com^$third-party
 ||nspmotion.com^$third-party
+||numpanglewat.com^$third-party
 ||okepromo.com^$third-party
 ||omnibux.com^$third-party
 ||onbux.com^$third-party
+||onclinic24.com^$third-party
 ||onedollarptc.com^$third-party
 ||paidforfree.com^$third-party
 ||paidtoclick.com^$third-party

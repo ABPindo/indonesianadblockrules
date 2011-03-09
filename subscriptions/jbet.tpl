@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # JBet - Jebakan Betmen
-# Last modified  Minggu 06 Maret 2011, 17:21:21 WIB
+# Last modified  Rabu 09 Maret 2011, 13:15:01 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -10,8 +10,8 @@ msFilterList
 #
 # *** _computer_prank.txt ***
 - http://1227.com
-- http://1guy1mudpie.com
 - http://1Priest1Nun.com
+- http://1guy1mudpie.com
 - http://2girls1finger.com
 - http://2girls1fleshlight.com
 - http://2girls1kracker.com
@@ -20,12 +20,15 @@ msFilterList
 - http://4girls1mouth.com
 - http://4girlsfingerpaint.com
 - http://aladel.net
+- http://apaaaantuh.co.cc
 - http://asianthumbx.com
 - http://bagslap.com
+-d bangun3.com /admin
 - http://biblecamp.info
 - http://blink-182.com
 - http://bluewaffle.com
 - http://bmepainolympics2.com
+-d bmpclub.bravehost.com /Toturial_BUG_PB.html
 - http://boi.netai.net
 - http://bokre.com
 - http://bottleguy.com
@@ -34,7 +37,10 @@ msFilterList
 - http://charonboat.com
 - http://cherrycake.org
 - http://clownsong.com
+- http://coryna.com
 - http://cupchicks.com
+-d d1gdo.com /admin/
+-d d1gdo.com /images
 - http://dadparty.com
 - http://denial.be
 - http://dfwdiesel.net
@@ -42,8 +48,11 @@ msFilterList
 - http://drewpickles.com
 - http://eatingcream.com
 - http://eelsoup.net
+- http://epustakawan.co.cc
+-d esc-creation.com /scream
 - http://fadebook.com
 - http://fanbangho.com
+- http://faojand-injector.blogspot.com
 - http://festered.com
 - http://fingerslam.com
 - http://fishermen.ytmnd.com
@@ -54,11 +63,13 @@ msFilterList
 - http://gandhi.isgreat.org
 - http://geryadrian.com
 - http://ghostboy.co.uk
+-d gigihweb.com /unik
 - http://ginedis.com
 - http://gncr.org
 - http://goatse.cz
 - http://goatsegirl.org
 - http://goatsemarathon.com
+- http://googlehammer.com
 - http://gooork.com
 - http://goplaysee.com
 - http://goregasm.com
@@ -71,15 +82,22 @@ msFilterList
 - http://homo.com
 - http://infoslash.net
 - http://japscat.org
+- http://jewdiamonds.com
 - http://jewsnip.com
 - http://joyangeles.com
 - http://k-k-k.com
+- http://kenapa-ini.blogspot.com
 - http://kids-in-sandbox.com
+- http://killerijo.com
+- http://killerijo.net
 - http://killerjo.net
 - http://kingfamilyphotoalbum.com
+-d kiwil-curhat.page.tl /Jangan-Di-Klik.htm
+- http://kombre.co.cc
 - http://krnacjalneg.info
 - http://l33thaxor.tk
 - http://landslide.nu
+- http://lemonparty.org
 - http://lemonparty.org
 - http://likaraoke.com
 - http://lolhello.com
@@ -95,6 +113,7 @@ msFilterList
 - http://meatrolled.com
 - http://meatspin.com
 - http://melondude.com
+-d members.home.nl /saen/Special/Zoeken.swf
 - http://milkfountain.com
 - http://moldymen.com
 - http://motherman.com
@@ -122,16 +141,21 @@ msFilterList
 - http://purplehoodie.com
 - http://qsng.cn
 - http://ratemyshocker.com
+- http://reinaldi.com
+-d rumdesign.com /wrong/
 - http://sajjadali.com
 - http://salahkamar.com
 - http://salsasnack.com
 - http://seksburada.net
 - http://shitpassion.com
+-d sinthaistudio.com /thehouse2/
 - http://skindroop.com
 - http://sourpatch.org
 - http://sportsmansclub.net
 - http://stagparty.us
+- http://stainedass.com
 - http://stock888.cn
+-d stuff.pyzam.com /toys/tictacscare.swf
 - http://subang.co.tv
 - http://subangtv.co.tv
 - http://suckdude.com
@@ -149,7 +173,9 @@ msFilterList
 - http://theshithole.com
 - http://thewillpower.org
 - http://turdgasm.com
+- http://tutorialbloganda.blogspot.com
 - http://ugly.blerp.org
+-d urangsunda.50webs.com /NoClick.html
 - http://utube.com
 - http://vomitgirl.org
 - http://wadefamilytree.org
@@ -167,30 +193,6 @@ msFilterList
 - http://youaresogay.com
 - http://yourmom.org
 - http://yt118.com
-- http://apaaaantuh.co.cc
--d bangun3.com /admin
--d bmpclub.bravehost.com /Toturial_BUG_PB.html
-- http://coryna.com
--d d1gdo.com /admin/
--d d1gdo.com /images
-- http://epustakawan.co.cc
--d esc-creation.com /scream
-- http://faojand-injector.blogspot.com
--d gigihweb.com /unik
-- http://googlehammer.com
-- http://jewdiamonds.com
-- http://kenapa-ini.blogspot.com
-- http://killerijo.com
-- http://killerijo.net
--d kiwil-curhat.page.tl /Jangan-Di-Klik.htm
-- http://kombre.co.cc
--d members.home.nl /saen/Special/Zoeken.swf
-- http://reinaldi.com
--d rumdesign.com /wrong/
--d sinthaistudio.com /thehouse2/
-- http://stainedass.com
--d stuff.pyzam.com /toys/tictacscare.swf
--d urangsunda.50webs.com /NoClick.html
 # *** _longcat.txt ***
 - http://1.bp.blogspot.com/_SwbWgcTbw4A/SnkXsdrkM3I/AAAAAAAAAIw/_MefnBG4_Ac/s320/
 - http://2.bp.blogspot.com/_my5OGIJd4kM/Sher-0wV0FI/AAAAAAAAFZ8/qsCTA0eoo_o/s400/
