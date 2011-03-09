@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Selasa 08 Maret 2011, 15:47:23 WIB
+# Last modified  Rabu 09 Maret 2011, 13:15:01 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -29,9 +29,6 @@ msFilterList
 # ##.pasangiklan
 # ##.textlinkads
 # *** abpindo_adservers.txt ***
-- http://onclinic24.com
-- http://bintangbola.net
-- http://bannerhp.com
 - http://1bisnisonline.com
 - http://1iklanbaris.com
 - http://1jutarupiah.com
@@ -71,6 +68,7 @@ msFilterList
 - http://baliadv.com
 - http://banner.autosubmit.web.id
 - http://bannerbux.com
+- http://bannerhp.com
 - http://barisiklangratis.com
 - http://bebaspikiran.com
 - http://bekas.com
@@ -79,6 +77,7 @@ msFilterList
 - http://bigextracash.com
 - http://biindit.com
 - http://bincangbisnis.com
+- http://bintangbola.net
 - http://biroiklangratis.com
 - http://biropromosi.com
 - http://bisnisgratis.net
@@ -335,9 +334,11 @@ msFilterList
 - http://neorupiah.com
 - http://networkadonline.com
 - http://nspmotion.com
+- http://numpanglewat.com
 - http://okepromo.com
 - http://omnibux.com
 - http://onbux.com
+- http://onclinic24.com
 - http://onedollarptc.com
 - http://paidforfree.com
 - http://paidtoclick.com
