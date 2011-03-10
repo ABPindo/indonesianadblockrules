@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Rabu 09 Maret 2011, 13:15:01 WIB
+# Last modified  Kamis 10 Maret 2011, 08:07:50 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -328,6 +328,7 @@ msFilterList
 - http://onbux.com
 - http://onclinic24.com
 - http://onedollarptc.com
+- http://paid-to-promote.net
 - http://paidforfree.com
 - http://paidtoclick.com
 - http://paneniklan.com

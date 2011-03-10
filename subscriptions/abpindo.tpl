@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Rabu 09 Maret 2011, 13:15:01 WIB
+# Last modified  Kamis 10 Maret 2011, 08:07:50 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -340,6 +340,7 @@ msFilterList
 - http://onbux.com
 - http://onclinic24.com
 - http://onedollarptc.com
+- http://paid-to-promote.net
 - http://paidforfree.com
 - http://paidtoclick.com
 - http://paneniklan.com
@@ -560,7 +561,6 @@ msFilterList
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/ads/
 # *** abpindo_specific_hide.txt ***
-# surya.co.id##.midbanner-box
 # bisnis.com##.banner-user8
 # blogdetik.com##.bannerA
 # bluefame.com##CENTER
@@ -572,6 +572,7 @@ msFilterList
 # detik.com###arena-musik
 # detik.com###bannerE
 # detik.com###footerbanner
+# detik.com###headerbanner
 # detik.com###pemenang
 # detik.com###promo02
 # detik.com##.bannerB3
@@ -680,6 +681,7 @@ msFilterList
 # stafaband.info###bottom
 # suarabola.com###bannertop
 # suarapembaruan.com###topbanner
+# surya.co.id##.midbanner-box
 # tempointeraktif.com###banner-kanan
 # tempointeraktif.com##.block.iklan
 # tempointeraktif.com##.closebanner1
