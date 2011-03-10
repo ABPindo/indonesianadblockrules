@@ -1,7 +1,6 @@
-surya.co.id##.midbanner-box
-bisnis.com##.banner-user8
 4chan.org##DIV[style="width: 300px; position: absolute;left: 5%; border:1px solid black;"]
 ansav.com##IMG[style="width: 251px; height: 100px;"]
+bisnis.com##.banner-user8
 blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard
@@ -13,6 +12,7 @@ ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
 detik.com###arena-musik
 detik.com###bannerE
 detik.com###footerbanner
+detik.com###headerbanner
 detik.com###pemenang
 detik.com###promo02
 detik.com##.bannerB3
@@ -140,6 +140,7 @@ sctv.co.id##TD[style="padding: 5px;"]
 stafaband.info###bottom
 suarabola.com###bannertop
 suarapembaruan.com###topbanner
+surya.co.id##.midbanner-box
 tempointeraktif.com###banner-kanan
 tempointeraktif.com##.block.iklan
 tempointeraktif.com##.closebanner1
