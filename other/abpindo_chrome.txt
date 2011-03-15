@@ -670,7 +670,7 @@ kaskus.us###cntysm
 kaskus.us###exp
 kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
-kaskus.us##DIV[style="height:30px"]
+!kaskus.us##DIV[style="height:30px"]
 keluargacemara.com###head-banner468
 kikil.org###iklanpersegi
 kikil.org##CENTER
