@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 8B+ejFofL+UMuVIW91B3HQ
+! Checksum: psFxoGs5VQdeacWU7nkH/Q
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Rabu 16 Maret 2011, 05:19:49 WIB
+! Last modified  Sabtu 19 Maret 2011, 20:03:39 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -477,7 +477,6 @@
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
 ||ads.indowebster.com^$script,image,subdocument
 ||ads.kompas.com^$script,image,subdocument
-||anymanga.com/adv.js
 ||arenabola.com^$domain=krucil.com
 ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
 ||cashburners.biz/banners/
@@ -500,7 +499,6 @@
 ||howsanindo.com/website/bisnisparfum/bisnisparfum_dijual.gif
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
-||iklan.indowebster.com^$script,image,subdocument
 ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 ||imagedum.com/images/457_Arenabola.png
 ||imagedum.com/images/774_Tangkasbet.gif
@@ -627,6 +625,8 @@ hai-online.com###fixme
 hai-online.com###fixmetoo
 index-of-mp3.com###logo
 indobokepz.com###feed
+indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
+indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
 indosiar.com###headerbanner
 indosiar.com##DIV[style="height:50px"]
 indosiar.com##DIV[style="margin:0 auto;width:940px;height:50px;background:#fff;text-align:center;"]
