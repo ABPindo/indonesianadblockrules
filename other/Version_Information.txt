@@ -1,0 +1,19 @@
+//************************ C-Media AC97 Audio CD Version information  *************************//
+
+//******************************************************************************************//
+
+Ver UDA040_build09  Release Date:  12/18/2003
+
+<Version information>
+UDA driver   : v5.12.01.0040 Logo
+Logo driver support:sis7012,VIA3059,ICH2,ICH4,ICH5,MCP2,ALI5455,ALI5451,CK8 in Win-Me/2K/XP
+
+VXD driver   : v0324
+NT4 driver   : v4.10.00.003Aa for ICH2,ICH4,SIS7012,VIA3059
+               V4.10.00.000Bb for ALi5451 , sis7018
+Configuration: v.1.0.41.5
+Play3D Demo  : v002
+Setup program: v2.042
+cmuda.dll    : v.123
+//******************************************************************************************//
+
