@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: PPkp/Mu4w2aFLsuKE+HurQ
+! Checksum: ySffVKwwHHSMj3IspKIEeg
 ! abp_indo without element hiding 
-! Last modified  Rabu 16 Maret 2011, 05:19:49 WIB
+! Last modified  Sabtu 19 Maret 2011, 20:03:39 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -465,7 +465,6 @@
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
 ||ads.indowebster.com^$script,image,subdocument
 ||ads.kompas.com^$script,image,subdocument
-||anymanga.com/adv.js
 ||arenabola.com^$domain=krucil.com
 ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
 ||cashburners.biz/banners/
@@ -488,7 +487,6 @@
 ||howsanindo.com/website/bisnisparfum/bisnisparfum_dijual.gif
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
-||iklan.indowebster.com^$script,image,subdocument
 ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 ||imagedum.com/images/457_Arenabola.png
 ||imagedum.com/images/774_Tangkasbet.gif
