@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Sabtu 19 Maret 2011, 20:03:39 WIB
+# Last modified  Minggu 20 Maret 2011, 16:34:52 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -322,6 +322,7 @@ msFilterList
 - http://neorupiah.com
 - http://networkadonline.com
 - http://nspmotion.com
+- http://nuansaiklan.com
 - http://numpanglewat.com
 - http://okepromo.com
 - http://omnibux.com
@@ -538,6 +539,7 @@ msFilterList
 -d stafaband.info /tb.swf
 -d static.escavern.com /tokomaya.gif
 -d suarabola.com /banners/
+-d suaramedia.com /images/banners/
 # ||swfcabin.com^$domain=krucil.com
 # ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
 -d tribunnews.com //iklan/
