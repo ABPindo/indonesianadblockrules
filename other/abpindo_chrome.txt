@@ -562,7 +562,6 @@
 ||vivanews.com/appaux/ads/
 ! *** abpindo_specific_hide.txt ***
 4chan.org##DIV[style="width: 300px; position: absolute;left: 5%; border:1px solid black;"]
-ansav.com##IMG[style="width: 251px; height: 100px;"]
 bisnis.com##.banner-user8
 blogdetik.com##.bannerA
 bluefame.com##CENTER
@@ -627,8 +626,6 @@ hai-online.com###fixmetoo
 index-of-mp3.com###logo
 indobokepz.com###feed
 indosiar.com###headerbanner
-indosiar.com##DIV[style="height:50px"]
-indosiar.com##DIV[style="margin:0 auto;width:940px;height:50px;background:#fff;text-align:center;"]
 indowebster.com###AdsAtas
 indowebster.com###AdsSearchAtas
 indowebster.com###Ads_fileinfo
@@ -645,7 +642,6 @@ indowebster.com###iklankiri
 indowebster.com###showpaper
 indowebster.com###tr_iklanbaris2
 indowebster.com###warn
-indowebster.com##DIV[style="height:62px;"]
 jombangan.com##CENTER
 kapanlagi.com###middle_showcase
 kapanlagi.com###top_showcase
@@ -681,8 +677,6 @@ liputan6.com###ads_lb
 liputan6.com##.ybox
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
-mangafox.com##DIV[style="width:186px;height:90px;border:#dadada solid 1px;padding:2px;background:#fff;"]
-mangafox.com##DIV[style="width:930px;padding-bottom:10px;padding-right:10px;padding-left:10px;"]
 masterporn.me##FONT[size="1"]
 masterporn.me##TABLE[align="center"]
 mediaindonesia.com###topbanner
@@ -694,8 +688,6 @@ perawan.us###fly
 perawan.us##TABLE[width="99%"]
 perawan.us##TD[width="960"]
 republika.co.id###header
-republika.co.id##DIV[style="width:300px; height:100px; margin-bottom:10px;"]
-republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
 resep.web.id###googlebox
 sctv.co.id##TD[background="http://www.sctv.co.id/tpls/website/img/bg_banner-728x90.gif"]
 sctv.co.id##TD[style="padding: 5px;"]

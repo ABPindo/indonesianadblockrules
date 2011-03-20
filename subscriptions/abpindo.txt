@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: psFxoGs5VQdeacWU7nkH/Q
+! Checksum: uVY4cMIQ8QdkRc4C+bkK0Q
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Sabtu 19 Maret 2011, 20:03:39 WIB
+! Last modified  Minggu 20 Maret 2011, 16:34:52 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -335,6 +335,7 @@
 ||neorupiah.com^$third-party
 ||networkadonline.com^$third-party
 ||nspmotion.com^$third-party
+||nuansaiklan.com^$third-party
 ||numpanglewat.com^$third-party
 ||okepromo.com^$third-party
 ||omnibux.com^$third-party
@@ -551,6 +552,7 @@
 ||stafaband.info/tb.swf
 ||static.escavern.com/tokomaya.gif
 ||suarabola.com/banners/
+||suaramedia.com/images/banners/*
 ||swfcabin.com^$domain=krucil.com
 ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
 ||tribunnews.com//iklan/*
