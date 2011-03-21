@@ -24,8 +24,12 @@ detikfinance.com###adpoint-article
 detikfinance.com###adtext
 detikfinance.com###adtext-info
 detikfinance.com###bannerE
+detikfinance.com###footerbanner
 detikfinance.com##.bannejual
+detikfinance.com##.bannerB2
 detikfinance.com##.bannerBCD
+detikfinance.com##.bannertopnews.clearfix
+detikfinance.com##IMG[src="http://www.detikfinance.com/image/ButtonCloseWhite-BlackStroke.png"]
 detikfood.com###adpoint-article
 detikhealth.com###bannerE
 detikhealth.com##.banner_art
@@ -133,7 +137,7 @@ oktavita.com##.banner-zone
 perawan.us###fly
 perawan.us##TABLE[width="99%"]
 perawan.us##TD[width="960"]
-republika.co.id###header
+republika.co.id###top-banner
 republika.co.id##DIV[style="width:300px; height:100px; margin-bottom:10px;"]
 republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
 resep.web.id###googlebox
