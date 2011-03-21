@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: uVY4cMIQ8QdkRc4C+bkK0Q
+! Checksum: rrFUToWw/xKYJZ6QMb+iKw
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Minggu 20 Maret 2011, 16:34:52 WIB
+! Last modified  Senin 21 Maret 2011, 10:49:13 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -588,8 +588,12 @@ detikfinance.com###adpoint-article
 detikfinance.com###adtext
 detikfinance.com###adtext-info
 detikfinance.com###bannerE
+detikfinance.com###footerbanner
 detikfinance.com##.bannejual
+detikfinance.com##.bannerB2
 detikfinance.com##.bannerBCD
+detikfinance.com##.bannertopnews.clearfix
+detikfinance.com##IMG[src="http://www.detikfinance.com/image/ButtonCloseWhite-BlackStroke.png"]
 detikfood.com###adpoint-article
 detikhealth.com###bannerE
 detikhealth.com##.banner_art
@@ -697,7 +701,7 @@ oktavita.com##.banner-zone
 perawan.us###fly
 perawan.us##TABLE[width="99%"]
 perawan.us##TD[width="960"]
-republika.co.id###header
+republika.co.id###top-banner
 republika.co.id##DIV[style="width:300px; height:100px; margin-bottom:10px;"]
 republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
 resep.web.id###googlebox

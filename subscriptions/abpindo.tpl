@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Minggu 20 Maret 2011, 16:34:52 WIB
+# Last modified  Senin 21 Maret 2011, 10:49:13 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -584,8 +584,11 @@ msFilterList
 # detikfinance.com###adtext
 # detikfinance.com###adtext-info
 # detikfinance.com###bannerE
+# detikfinance.com###footerbanner
 # detikfinance.com##.bannejual
+# detikfinance.com##.bannerB2
 # detikfinance.com##.bannerBCD
+# detikfinance.com##.bannertopnews.clearfix
 # detikfood.com###adpoint-article
 # detikhealth.com###bannerE
 # detikhealth.com##.banner_art
@@ -676,7 +679,7 @@ msFilterList
 # metrotvnews.com###fixme
 # oktavita.com##.banner-zone
 # perawan.us###fly
-# republika.co.id###header
+# republika.co.id###top-banner
 # resep.web.id###googlebox
 # stafaband.info###bottom
 # suarabola.com###bannertop
