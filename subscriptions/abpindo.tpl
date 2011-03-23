@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Senin 21 Maret 2011, 10:49:13 WIB
+# Last modified  Rabu 23 Maret 2011, 07:58:08 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -12,6 +12,7 @@ msFilterList
 - .com/iklan/
 - .id/ads/
 - .id/iklan/
+- /iklan.
 - /images/iklan/
 - /uploads/iklan/
 - http://banners-id.
@@ -622,6 +623,9 @@ msFilterList
 # google.com###rhs_block
 # hai-online.com###fixme
 # hai-online.com###fixmetoo
+# health.detik.com##.bannerF_bawah
+# health.detik.com##.banner_art
+# health.detik.com##.bannerf1
 # index-of-mp3.com###logo
 # indobokepz.com###feed
 # indosiar.com###headerbanner

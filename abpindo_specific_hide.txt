@@ -20,6 +20,7 @@ detik.com##.bannerD1
 detik.com##.bannerD3
 detik.com##.bannertengah
 detik.com##.iklanbaris.col280
+detik.com##IMG[src="http://www.detik.com/image/ButtonCloseWhite-BlackStroke.png"]
 detikfinance.com###adpoint-article
 detikfinance.com###adtext
 detikfinance.com###adtext-info
@@ -65,6 +66,9 @@ google.co.id##TABLE[style="border: 1px solid #11593c"]
 google.com###rhs_block
 hai-online.com###fixme
 hai-online.com###fixmetoo
+health.detik.com##.bannerF_bawah
+health.detik.com##.banner_art
+health.detik.com##.bannerf1
 index-of-mp3.com###logo
 indobokepz.com###feed
 indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
