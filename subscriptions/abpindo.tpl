@@ -1,36 +1,14 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Rabu 23 Maret 2011, 07:58:08 WIB
+# Last modified  Kamis 24 Maret 2011, 15:13:32 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
 # via e-mail (hermawanadhis@gmail.com)
 # http://indonesianfilter.blogspot.com
 #
-# *** abpindo_general_block.txt ***
-- .com/iklan/
-- .id/ads/
-- .id/iklan/
-- /iklan.
-- /images/iklan/
-- /uploads/iklan/
-- http://banners-id.
-- http://iklan.
-# *** abpindo_general_hide.txt ***
-# ###adsmiddle
-# ###desaiklan
-# ##.Break.AdsBottom
-# ##.SectionAds
-# ##.ads-sponsors
-# ##.banner-adv
-# ##.bgads
-# ##.gbcontent
-# ##.gpcontent
-# ##.pasangiklan
-# ##.textlinkads
 # *** abpindo_adservers.txt ***
-- http://1bisnisonline.com
 - http://1iklanbaris.com
 - http://1jutarupiah.com
 - http://1st-iklan.com
@@ -51,56 +29,37 @@ msFilterList
 - http://adservingdaddy.com
 - http://adspeedy.com
 - http://adsrelease.com
--d adultfriendfinder.com /images/banners/
 - http://adv-adserver.com
 - http://advercash.net
 - http://advertspeed.com
 - http://agenpromosi.com
 - http://ajangiklangratis.com
 - http://alamatemail.com
--d alertpay.com /banners/
 - http://anadvertorial.com
 - http://anekaiklan.com
 - http://antariklan.com
 - http://arisanvip.com
--d asianbrain.com /banner/
 - http://axverta.com
 - http://ayoburuanklik.com
 - http://baliadv.com
-- http://banner.autosubmit.web.id
 - http://bannerbux.com
-- http://bannerhp.com
 - http://barisiklangratis.com
 - http://bebaspikiran.com
 - http://bekas.com
 - http://belajar-bisnis.com
-- http://benangmerah.com
 - http://bigextracash.com
 - http://biindit.com
 - http://bincangbisnis.com
-- http://bintangbola.net
 - http://biroiklangratis.com
 - http://biropromosi.com
-- http://bisnisgratis.net
-- http://bisnishandal.com
-- http://bisnisinternetmu.com
-- http://bisnisniaga.com
-- http://bisnisok.com
-- http://bisnistransportasi.com
-- http://bisnisurl.web.id
 - http://blogiklanbaris.com
-- http://bolaketangkasan.com
 - http://bubuads.com
 - http://buildvertical.com
 - http://bursapromo.com
-- http://bux-matrix.com
-- http://buxrupiah.com
 - http://buyiads.com
 - http://carasukses.com
 - http://cash-harvest.com
 - http://cashviews.com
-- http://chainbux.com
--d clickbet88.com /banner/
 - http://clickdbs.com
 - http://clicklifter.com
 - http://clickmedia.co.id
@@ -114,32 +73,21 @@ msFilterList
 - http://dewa-bisnis.com
 - http://direktori-iklan.com
 - http://disinigratis.com
-- http://doremibet.com
 - http://doubleclick.com
 - http://drumcash.com
-- http://duitbux.com
 - http://duitmu.com
-- http://dunia-bisnis.com
 - http://duniaiklangratis.com
 - http://dutawebiklan.com
 - http://earneasycash.info
-- http://easy-hit-counter.com
 - http://easyad.us
-- http://enjoybux.com
 - http://entryad.com
 - http://flexterkita.com
-- http://folderbisnis.com
 - http://forexpose.com
--d formulabisnis.com /images/
 - http://forum-iklan.com
 - http://forumiklan.com
-- http://fox-bux.com
 - http://freeads-iklan.com
 - http://freeads.web.id
-- http://funds4cash.com
 - http://gadget-ads.com
-- http://galaxybola.com
-- http://goldbet88.com
 - http://gratis-iklan-baris.com
 - http://gratisiklanpasang.com
 - http://gratisiklanpasang.net
@@ -267,7 +215,6 @@ msFilterList
 - http://indo-solusta.com
 - http://indoadpro.com
 - http://indobanner.com
-- http://indobets.com
 - http://indobuysell.com
 - http://indofad.com
 - http://indofreeads.com
@@ -279,7 +226,6 @@ msFilterList
 - http://infinityads.com
 - http://inmobi.com
 - http://innity.net
--d investasiceria.net /images/
 - http://istanaiklan.com
 - http://jagoiklan.com
 - http://jagopromo.com
@@ -291,7 +237,6 @@ msFilterList
 - http://jituiklan.com
 - http://jurnaliklan.com
 - http://juruiklan.com
--d kebunemas.com /banner/
 - http://ketikiklan.com
 - http://kiosiklanbaris.com
 - http://kiospromo.com
@@ -303,7 +248,6 @@ msFilterList
 - http://klikrupiah.com
 - http://kliksaya.com
 - http://kolamiklan.com
-- http://komisigratis.com
 - http://komisiiklan.com
 - http://kumpulblogger.com
 - http://kumpulnet.com
@@ -311,7 +255,6 @@ msFilterList
 - http://ladanguang.com
 - http://lokeriklan.com
 - http://malaysianad.com
--d manasuka.com /gbr_banner_link/
 - http://maripromosi.com
 - http://masteriklan.net
 - http://mauiklangratis.com
@@ -328,15 +271,12 @@ msFilterList
 - http://modaliklan.com
 - http://motoriklan.com
 - http://mpnrs.com
--d mractionclub.com /banner/
 - http://mybannermaker.com
 - http://negeriads.com
 - http://neobux.com
 - http://neorupiah.com
-- http://networkadonline.com
 - http://nspmotion.com
 - http://nuansaiklan.com
-- http://numpanglewat.com
 - http://okepromo.com
 - http://omnibux.com
 - http://onbux.com
@@ -367,9 +307,7 @@ msFilterList
 - http://pasariklanbaris.com
 - http://paypalbisnis.com
 - http://paypopup.com
-- http://peluangbisnis.org
 -d plazalowongan.com /bnr/
-- http://plusberita.com
 - http://pondokiklan.com
 - http://popupmoney.com
 - http://portaliklan.com
@@ -377,7 +315,6 @@ msFilterList
 - http://ppcindo.com
 - http://ppcindonesia.net
 - http://ppcklik.com
-- http://premiertrafficptc.info
 - http://profiadvert.com
 - http://promobagus.com
 - http://promobebas.com
@@ -388,12 +325,7 @@ msFilterList
 - http://promoku.com
 - http://promoneysystem.com
 - http://promosiiklan.com
-- http://promoteburner.com
-- http://promotioncamp.com
-- http://promoviaweb.com
 - http://propertitop.com
-- http://prophetofdoom.net
-- http://publish.web.id
 - http://pundibux.net
 - http://pusatiklan.com
 - http://pusatmarketing.com
@@ -408,7 +340,6 @@ msFilterList
 - http://sanglah.com
 - http://scarlet-clicks.info
 - http://sebar.idblognetwork.com
-- http://sebarmedia.com
 - http://sentra-iklan.com
 - http://sentrapromosi.com
 - http://serbaiklan.com
@@ -417,20 +348,13 @@ msFilterList
 - http://sharepointads.com
 - http://shbux.com
 - http://siapakaya.com
-- http://sinusbux.com
-- http://sitipromo.web.id
-- http://sitti.co.id
-- http://situsbet.com
 - http://situsiklan.web.id
 - http://situsiklanbaris.com
 - http://skycpm.com
 - http://smart-iklan.com
 - http://sogoplaza.com
 - http://spotiklan.net
-- http://springfund.com
 - http://spyonad.com
-- http://submitforall.com
-- http://submitfull.com
 - http://sukagratis.com
 - http://sumberiklan.com
 - http://supbux.com
@@ -439,7 +363,6 @@ msFilterList
 - http://surgapromo.com
 - http://suryabanner.com
 - http://suryaiklan.com
-- http://syadiashare.com
 - http://tagiklan.com
 - http://tekbux.com
 - http://teknikbisnis.com
@@ -454,7 +377,6 @@ msFilterList
 - http://tipsiklan.com
 - http://tokobagus.com
 - http://topklik.com
-- http://topsurfer.com
 - http://trekpay.com
 - http://trendiklan.com
 - http://triklan.com
@@ -463,18 +385,33 @@ msFilterList
 - http://updateiklan.com
 - http://valueclick.net
 - http://vistaclix.com
-- http://web-indonesia.com
--d webiihost.com /aff/banner/
 - http://webiklan.com
-- http://webjualbeli.com
 - http://weblogiklan.com
-- http://y-bux.com
 - http://yesads.com
--d ziddu.com /banners/images/
 - http://zonaiklan.info
+# *** abpindo_general_block.txt ***
+- .com/iklan/
+- .id/ads/
+- .id/iklan/
+- /admaxads.
+- /iklan.
+- /images/iklan/
+- /uploads/iklan/
+- http://banners-id.
+# *** abpindo_general_hide.txt ***
+# ###adsmiddle
+# ###desaiklan
+# ##.Break.AdsBottom
+# ##.SectionAds
+# ##.ads-sponsors
+# ##.banner-adv
+# ##.bgads
+# ##.gbcontent
+# ##.gpcontent
+# ##.pasangiklan
+# ##.textlinkads
 # *** abpindo_specific_block.txt ***
 -d 21cineplex.com /data/videoad/
-# ||active.macromedia.com/flash5/cabs/swflash.cab$domain=ceriwis.us
 # ||adf.ly/js/link-converter.js$domain=indowebster.web.id
 # ||ads.indowebster.com^$script,image,subdocument
 # ||ads.kompas.com^$script,image,subdocument
@@ -542,7 +479,6 @@ msFilterList
 -d modifikasi.com /images/banner/close.gif
 -d modifikasi.com /images/banner_
 -d musisi.com /musifile/images_banner/
--d obengware.com /admaxads.htm
 -d oprekpc.com /banner/
 -d perawan.us /images/banner/
 -d poems.web.id /poemspromo/
@@ -696,4 +632,67 @@ msFilterList
 # thehack3r.com###topbar
 # thehack3r.com##CENTER
 # vivanews.com##.reset10
+# *** abpindo_thirdparty.txt ***
+- http://1bisnisonline.com
+-d adultfriendfinder.com /images/banners/
+-d alertpay.com /banners/
+-d asianbrain.com /banner/
+- http://banner.autosubmit.web.id
+- http://bannerhp.com
+- http://benangmerah.com
+- http://bintangbola.net
+- http://bisnisgratis.net
+- http://bisnishandal.com
+- http://bisnisinternetmu.com
+- http://bisnisniaga.com
+- http://bisnisok.com
+- http://bisnistransportasi.com
+- http://bisnisurl.web.id
+- http://bolaketangkasan.com
+- http://bux-matrix.com
+- http://buxrupiah.com
+- http://chainbux.com
+-d clickbet88.com /banner/
+- http://doremibet.com
+- http://duitbux.com
+- http://dunia-bisnis.com
+- http://easy-hit-counter.com
+- http://enjoybux.com
+- http://folderbisnis.com
+-d formulabisnis.com /images/
+- http://fox-bux.com
+- http://funds4cash.com
+- http://galaxybola.com
+- http://goldbet88.com
+- http://indobets.com
+-d investasiceria.net /images/
+-d kebunemas.com /banner/
+- http://komisigratis.com
+-d manasuka.com /gbr_banner_link/
+-d mractionclub.com /banner/
+- http://networkadonline.com
+- http://numpanglewat.com
+- http://peluangbisnis.org
+- http://plusberita.com
+- http://premiertrafficptc.info
+- http://promoteburner.com
+- http://promotioncamp.com
+- http://promoviaweb.com
+- http://prophetofdoom.net
+- http://publish.web.id
+- http://sebarmedia.com
+- http://sinusbux.com
+- http://sitipromo.web.id
+- http://sitti.co.id
+- http://situsbet.com
+- http://springfund.com
+- http://submitforall.com
+- http://submitfull.com
+- http://syadiashare.com
+- http://topsurfer.com
+- http://web-indonesia.com
+-d webiihost.com /aff/banner/
+- http://webjualbeli.com
+- http://y-bux.com
+-d ziddu.com /banners/images/
 # *** abpindo_whitelist.txt ***
