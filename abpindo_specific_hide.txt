@@ -6,6 +6,7 @@ bluefame.com##CENTER
 bola.net###top_leaderboard
 boleh.com##.bannersmall
 ceriwis.us###hoho-wrapsubmenu2
+ceriwis.us###hoho-wrapsubmenu3
 ceriwis.us###message-box
 ceriwis.us###message-box-bot
 ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
@@ -64,6 +65,7 @@ google.co.id###rhs_block
 google.co.id##TABLE[style="border: 1px solid #0000CC"]
 google.co.id##TABLE[style="border: 1px solid #11593c"]
 google.com###rhs_block
+google.com##.c0.lti35t
 hai-online.com###fixme
 hai-online.com###fixmetoo
 health.detik.com##.bannerF_bawah
@@ -129,6 +131,7 @@ liputan6.com###ads_lb
 liputan6.com##.ybox
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
+m.inilah.com##A[href*="mkhoj.com"]
 mangafox.com##DIV[style="width:186px;height:90px;border:#dadada solid 1px;padding:2px;background:#fff;"]
 mangafox.com##DIV[style="width:930px;padding-bottom:10px;padding-right:10px;padding-left:10px;"]
 masterporn.me##FONT[size="1"]

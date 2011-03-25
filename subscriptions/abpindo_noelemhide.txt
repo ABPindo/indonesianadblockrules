@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: bepMkJCpSGNRA1yr6RXfaw
+! Checksum: VeHPkA1T8acIX27Rgyvf4A
 ! abp_indo without element hiding 
-! Last modified  Kamis 24 Maret 2011, 15:13:32 WIB
+! Last modified  Jumat 25 Maret 2011, 09:03:36 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -39,6 +39,7 @@
 ||adservingdaddy.com^$third-party
 ||adspeedy.com^$third-party
 ||adsrelease.com^$third-party
+||adstarsnetwork.com^$third-party
 ||adv-adserver.com^$third-party
 ||advercash.net^$third-party
 ||advertspeed.com^$third-party
