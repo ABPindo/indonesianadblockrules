@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Jumat 25 Maret 2011, 09:03:36 WIB
+# Last modified  Sabtu 26 Maret 2011, 16:59:27 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -405,6 +405,7 @@ msFilterList
 # ##.Break.AdsBottom
 # ##.SectionAds
 # ##.ads-sponsors
+# ##.advertize_here
 # ##.banner-adv
 # ##.bgads
 # ##.gbcontent
@@ -635,6 +636,8 @@ msFilterList
 # thehack3r.com###topbar
 # thehack3r.com##CENTER
 # vivanews.com##.reset10
+# warungbebas.com##.gbtab
+# warungmp3.com##TR
 # *** abpindo_thirdparty.txt ***
 - http://1bisnisonline.com
 -d adultfriendfinder.com /images/banners/

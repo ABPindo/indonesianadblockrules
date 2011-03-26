@@ -131,7 +131,7 @@ liputan6.com###ads_lb
 liputan6.com##.ybox
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
-m.inilah.com##A[href*="mkhoj.com"]
+m.inilah.com##A[href^="http://mkhoj.com"]
 mangafox.com##DIV[style="width:186px;height:90px;border:#dadada solid 1px;padding:2px;background:#fff;"]
 mangafox.com##DIV[style="width:930px;padding-bottom:10px;padding-right:10px;padding-left:10px;"]
 masterporn.me##FONT[size="1"]
@@ -162,3 +162,5 @@ thehack3r.com###topbar
 thehack3r.com##CENTER
 vivanews.com##.reset10
 wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
+warungbebas.com##.gbtab
+warungmp3.com##TR
