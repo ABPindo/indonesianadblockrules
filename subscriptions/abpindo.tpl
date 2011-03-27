@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Sabtu 26 Maret 2011, 16:59:27 WIB
+# Last modified  Minggu 27 Maret 2011, 08:13:22 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -458,7 +458,7 @@ msFilterList
 -d javapic.com /ikelan/
 # ||javapic.com/images/*.gif$domain=krucil.com
 -d jogjastreamers.com /images/banner/
--d kad.kaskus.us /banner/
+# ||kad.kaskus.us/banner/$subdocument
 -d kaskus.us /adv/
 -d kaskus.us /banner/Kas_In-House-Banner_120x240_alt-2.jpg
 -d ketawa.com /img-iklan/

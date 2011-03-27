@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: Vn4+Z2cIqus5b8XnOARppw
+! Checksum: tFgw3SGiF303KdIbgrB+Aw
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Sabtu 26 Maret 2011, 16:59:27 WIB
+! Last modified  Minggu 27 Maret 2011, 08:13:22 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -459,7 +459,7 @@
 ||javapic.com/ikelan/
 ||javapic.com/images/*.gif$domain=krucil.com
 ||jogjastreamers.com/images/banner/
-||kad.kaskus.us/banner/
+||kad.kaskus.us/banner/$subdocument
 ||kaskus.us/adv/
 ||kaskus.us/banner/Kas_In-House-Banner_120x240_alt-2.jpg
 ||ketawa.com/img-iklan/
