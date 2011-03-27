@@ -1,13 +1,43 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Minggu 27 Maret 2011, 08:13:22 WIB
+# Last modified  Minggu 27 Maret 2011, 10:54:05 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
 # via e-mail (hermawanadhis@gmail.com)
 # http://indonesianfilter.blogspot.com
 #
+# *** abpindo_general_block.txt ***
+- .com/iklan/
+- .id/ads/
+- .id/iklan/
+- /admaxads.
+- /iklan.
+- /images/iklan-
+- /images/iklan/
+- /uploads/iklan/
+- http://banners-id.
+# *** abpindo_general_hide.txt ***
+# ###AdsAtas
+# ###AdsSearchAtas
+# ###Ads_fileinfo
+# ###ads_lb
+# ###adsmiddle
+# ###adtext
+# ###desaiklan
+# ###iklanpersegi
+# ##.Break.AdsBottom
+# ##.SectionAds
+# ##.ads-sponsors
+# ##.advertize_here
+# ##.banner-adv
+# ##.bgads
+# ##.block.iklan
+# ##.gbcontent
+# ##.gpcontent
+# ##.pasangiklan
+# ##.textlinkads
 # *** abpindo_adservers.txt ***
 - http://1iklanbaris.com
 - http://1jutarupiah.com
@@ -390,28 +420,70 @@ msFilterList
 - http://weblogiklan.com
 - http://yesads.com
 - http://zonaiklan.info
-# *** abpindo_general_block.txt ***
-- .com/iklan/
-- .id/ads/
-- .id/iklan/
-- /admaxads.
-- /iklan.
-- /images/iklan/
-- /uploads/iklan/
-- http://banners-id.
-# *** abpindo_general_hide.txt ***
-# ###adsmiddle
-# ###desaiklan
-# ##.Break.AdsBottom
-# ##.SectionAds
-# ##.ads-sponsors
-# ##.advertize_here
-# ##.banner-adv
-# ##.bgads
-# ##.gbcontent
-# ##.gpcontent
-# ##.pasangiklan
-# ##.textlinkads
+# *** abpindo_thirdparty.txt ***
+- http://1bisnisonline.com
+-d adultfriendfinder.com /images/banners/
+-d alertpay.com /banners/
+-d asianbrain.com /banner/
+- http://banner.autosubmit.web.id
+- http://bannerhp.com
+- http://benangmerah.com
+- http://bintangbola.net
+- http://bisnisgratis.net
+- http://bisnishandal.com
+- http://bisnisinternetmu.com
+- http://bisnisniaga.com
+- http://bisnisok.com
+- http://bisnistransportasi.com
+- http://bisnisurl.web.id
+- http://bolaketangkasan.com
+- http://bux-matrix.com
+- http://buxrupiah.com
+- http://chainbux.com
+-d clickbet88.com /banner/
+- http://doremibet.com
+- http://duitbux.com
+- http://dunia-bisnis.com
+- http://easy-hit-counter.com
+- http://enjoybux.com
+- http://folderbisnis.com
+-d formulabisnis.com /images/
+- http://fox-bux.com
+- http://funds4cash.com
+- http://galaxybola.com
+- http://goldbet88.com
+- http://indobets.com
+-d investasiceria.net /images/
+-d kebunemas.com /banner/
+- http://komisigratis.com
+-d manasuka.com /gbr_banner_link/
+-d mractionclub.com /banner/
+- http://networkadonline.com
+- http://numpanglewat.com
+- http://peluangbisnis.org
+- http://plusberita.com
+- http://premiertrafficptc.info
+- http://promoteburner.com
+- http://promotioncamp.com
+- http://promoviaweb.com
+- http://prophetofdoom.net
+- http://publish.web.id
+- http://sebarmedia.com
+- http://sinusbux.com
+- http://sitipromo.web.id
+- http://sitti.co.id
+- http://situsbet.com
+- http://springfund.com
+- http://submitforall.com
+- http://submitfull.com
+- http://syadiashare.com
+- http://topsurfer.com
+- http://tri7bet.com
+- http://web-indonesia.com
+-d webiihost.com /aff/banner/
+- http://webjualbeli.com
+- http://y-bux.com
+-d ziddu.com /banners/images/
 # *** abpindo_specific_block.txt ***
 -d 21cineplex.com /data/videoad/
 # ||adf.ly/js/link-converter.js$domain=indowebster.web.id
@@ -521,7 +593,6 @@ msFilterList
 # detik.com##.bannertengah
 # detik.com##.iklanbaris.col280
 # detikfinance.com###adpoint-article
-# detikfinance.com###adtext
 # detikfinance.com###adtext-info
 # detikfinance.com###bannerE
 # detikfinance.com###footerbanner
@@ -539,19 +610,16 @@ msFilterList
 # detikhot.com##.bannerB2
 # detikhot.com##.bannerEtop
 # detikinet.com###adpoint-article
-# detikinet.com###adtext
 # detikinet.com###adtext-info
 # detikinet.com###bannerE
 # detikinet.com###footerbanner
 # detikinet.com##.bannerB2
 # detikinet.com##.bannerBCD
 # detiknews.com###adpoint-article
-# detiknews.com###adtext
 # detiknews.com###adtext-info
 # detiknews.com###bannerE
 # detiknews.com###footerbanner
 # detiknews.com##.bannerBCD
-# detiksport.com###adtext
 # detiksport.com###adtext-info
 # detiksport.com###bannerE
 # detiksport.com##.bannerB2
@@ -568,10 +636,6 @@ msFilterList
 # health.detik.com##.bannerf1
 # index-of-mp3.com###logo
 # indobokepz.com###feed
-# indosiar.com###headerbanner
-# indowebster.com###AdsAtas
-# indowebster.com###AdsSearchAtas
-# indowebster.com###Ads_fileinfo
 # indowebster.com###Bingkai_DL_160x600
 # indowebster.com###H_tab1
 # indowebster.com###H_tab2
@@ -608,13 +672,10 @@ msFilterList
 # kaskus.us###cntysm
 # kaskus.us###exp
 # keluargacemara.com###head-banner468
-# kikil.org###iklanpersegi
 # kikil.org##CENTER
 # kompas.com##.wp_games
 # krucil.com###floating_banner_bottom
 # krucil.com##.fixmeInner
-# liputan6.com###ads_lb
-# liputan6.com##.ybox
 # m.detik.com###top
 # m.iklanbaris.detik.com##.adtext01
 # mediaindonesia.com###topbanner
@@ -630,7 +691,6 @@ msFilterList
 # suarapembaruan.com###topbanner
 # surya.co.id##.midbanner-box
 # tempointeraktif.com###banner-kanan
-# tempointeraktif.com##.block.iklan
 # tempointeraktif.com##.closebanner1
 # thehack3r.com###mta_bar
 # thehack3r.com###topbar
@@ -638,68 +698,4 @@ msFilterList
 # vivanews.com##.reset10
 # warungbebas.com##.gbtab
 # warungmp3.com##TR
-# *** abpindo_thirdparty.txt ***
-- http://1bisnisonline.com
--d adultfriendfinder.com /images/banners/
--d alertpay.com /banners/
--d asianbrain.com /banner/
-- http://banner.autosubmit.web.id
-- http://bannerhp.com
-- http://benangmerah.com
-- http://bintangbola.net
-- http://bisnisgratis.net
-- http://bisnishandal.com
-- http://bisnisinternetmu.com
-- http://bisnisniaga.com
-- http://bisnisok.com
-- http://bisnistransportasi.com
-- http://bisnisurl.web.id
-- http://bolaketangkasan.com
-- http://bux-matrix.com
-- http://buxrupiah.com
-- http://chainbux.com
--d clickbet88.com /banner/
-- http://doremibet.com
-- http://duitbux.com
-- http://dunia-bisnis.com
-- http://easy-hit-counter.com
-- http://enjoybux.com
-- http://folderbisnis.com
--d formulabisnis.com /images/
-- http://fox-bux.com
-- http://funds4cash.com
-- http://galaxybola.com
-- http://goldbet88.com
-- http://indobets.com
--d investasiceria.net /images/
--d kebunemas.com /banner/
-- http://komisigratis.com
--d manasuka.com /gbr_banner_link/
--d mractionclub.com /banner/
-- http://networkadonline.com
-- http://numpanglewat.com
-- http://peluangbisnis.org
-- http://plusberita.com
-- http://premiertrafficptc.info
-- http://promoteburner.com
-- http://promotioncamp.com
-- http://promoviaweb.com
-- http://prophetofdoom.net
-- http://publish.web.id
-- http://sebarmedia.com
-- http://sinusbux.com
-- http://sitipromo.web.id
-- http://sitti.co.id
-- http://situsbet.com
-- http://springfund.com
-- http://submitforall.com
-- http://submitfull.com
-- http://syadiashare.com
-- http://topsurfer.com
-- http://tri7bet.com
-- http://web-indonesia.com
--d webiihost.com /aff/banner/
-- http://webjualbeli.com
-- http://y-bux.com
--d ziddu.com /banners/images/
 # *** abpindo_whitelist.txt ***
