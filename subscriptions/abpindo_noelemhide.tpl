@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Jumat 25 Maret 2011, 09:03:36 WIB
+# Last modified  Minggu 27 Maret 2011, 10:54:05 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -14,6 +14,7 @@ msFilterList
 - .id/iklan/
 - /admaxads.
 - /iklan.
+- /images/iklan-
 - /images/iklan/
 - /uploads/iklan/
 - http://banners-id.
@@ -445,7 +446,7 @@ msFilterList
 -d javapic.com /ikelan/
 # ||javapic.com/images/*.gif$domain=krucil.com
 -d jogjastreamers.com /images/banner/
--d kad.kaskus.us /banner/
+# ||kad.kaskus.us/banner/$subdocument
 -d kaskus.us /adv/
 -d kaskus.us /banner/Kas_In-House-Banner_120x240_alt-2.jpg
 -d ketawa.com /img-iklan/

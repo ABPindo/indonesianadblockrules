@@ -23,7 +23,6 @@ detik.com##.bannertengah
 detik.com##.iklanbaris.col280
 detik.com##IMG[src="http://www.detik.com/image/ButtonCloseWhite-BlackStroke.png"]
 detikfinance.com###adpoint-article
-detikfinance.com###adtext
 detikfinance.com###adtext-info
 detikfinance.com###bannerE
 detikfinance.com###footerbanner
@@ -42,19 +41,16 @@ detikhot.com###footerbanner
 detikhot.com##.bannerB2
 detikhot.com##.bannerEtop
 detikinet.com###adpoint-article
-detikinet.com###adtext
 detikinet.com###adtext-info
 detikinet.com###bannerE
 detikinet.com###footerbanner
 detikinet.com##.bannerB2
 detikinet.com##.bannerBCD
 detiknews.com###adpoint-article
-detiknews.com###adtext
 detiknews.com###adtext-info
 detiknews.com###bannerE
 detiknews.com###footerbanner
 detiknews.com##.bannerBCD
-detiksport.com###adtext
 detiksport.com###adtext-info
 detiksport.com###bannerE
 detiksport.com##.bannerB2
@@ -75,12 +71,6 @@ index-of-mp3.com###logo
 indobokepz.com###feed
 indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
-indosiar.com###headerbanner
-indosiar.com##DIV[style="height:50px"]
-indosiar.com##DIV[style="margin:0 auto;width:940px;height:50px;background:#fff;text-align:center;"]
-indowebster.com###AdsAtas
-indowebster.com###AdsSearchAtas
-indowebster.com###Ads_fileinfo
 indowebster.com###Bingkai_DL_160x600
 indowebster.com###H_tab1
 indowebster.com###H_tab2
@@ -121,14 +111,11 @@ kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
 kaskus.us##DIV[style="height:30px"]
 keluargacemara.com###head-banner468
-kikil.org###iklanpersegi
 kikil.org##CENTER
 kompas.com##.wp_games
 krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
 krucil.com##TABLE[width="900"]
-liputan6.com###ads_lb
-liputan6.com##.ybox
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##A[href^="http://mkhoj.com"]
@@ -149,13 +136,11 @@ republika.co.id##DIV[style="width:300px; height:100px; margin-bottom:10px;"]
 republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
 resep.web.id###googlebox
 sctv.co.id##TD[background="http://www.sctv.co.id/tpls/website/img/bg_banner-728x90.gif"]
-sctv.co.id##TD[style="padding: 5px;"]
 stafaband.info###bottom
 suarabola.com###bannertop
 suarapembaruan.com###topbanner
 surya.co.id##.midbanner-box
 tempointeraktif.com###banner-kanan
-tempointeraktif.com##.block.iklan
 tempointeraktif.com##.closebanner1
 thehack3r.com###mta_bar
 thehack3r.com###topbar

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: tFgw3SGiF303KdIbgrB+Aw
+! Checksum: OFMj8cTe9uLQr+yTAibfSA
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Minggu 27 Maret 2011, 08:13:22 WIB
+! Last modified  Minggu 27 Maret 2011, 10:54:05 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -9,6 +9,36 @@
 ! via e-mail (hermawanadhis@gmail.com)
 ! http://indonesianfilter.blogspot.com
 !
+! *** abpindo_general_block.txt ***
+.com/iklan/*
+.id/ads/*
+.id/iklan/*
+/admaxads.
+/iklan.
+/images/iklan-
+/images/iklan/*
+/uploads/iklan/*
+|http://banners-id.
+! *** abpindo_general_hide.txt ***
+###AdsAtas
+###AdsSearchAtas
+###Ads_fileinfo
+###ads_lb
+###adsmiddle
+###adtext
+###desaiklan
+###iklanpersegi
+##.Break.AdsBottom
+##.SectionAds
+##.ads-sponsors
+##.advertize_here
+##.banner-adv
+##.bgads
+##.block.iklan
+##.gbcontent
+##.gpcontent
+##.pasangiklan
+##.textlinkads
 ! *** abpindo_adservers.txt ***
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
@@ -391,28 +421,70 @@
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
 ||zonaiklan.info^$third-party
-! *** abpindo_general_block.txt ***
-.com/iklan/*
-.id/ads/*
-.id/iklan/*
-/admaxads.
-/iklan.
-/images/iklan/*
-/uploads/iklan/*
-|http://banners-id.
-! *** abpindo_general_hide.txt ***
-###adsmiddle
-###desaiklan
-##.Break.AdsBottom
-##.SectionAds
-##.ads-sponsors
-##.advertize_here
-##.banner-adv
-##.bgads
-##.gbcontent
-##.gpcontent
-##.pasangiklan
-##.textlinkads
+! *** abpindo_thirdparty.txt ***
+||1bisnisonline.com^$third-party
+||adultfriendfinder.com/images/banners/$third-party
+||alertpay.com/banners/$third-party
+||asianbrain.com/banner/$third-party
+||banner.autosubmit.web.id^$third-party
+||bannerhp.com^$third-party
+||benangmerah.com^$third-party
+||bintangbola.net^$third-party
+||bisnisgratis.net^$third-party
+||bisnishandal.com^$third-party
+||bisnisinternetmu.com^$third-party
+||bisnisniaga.com^$third-party
+||bisnisok.com^$third-party
+||bisnistransportasi.com^$third-party
+||bisnisurl.web.id^$third-party
+||bolaketangkasan.com^$third-party
+||bux-matrix.com^$third-party
+||buxrupiah.com^$third-party
+||chainbux.com^$third-party
+||clickbet88.com/banner/$third-party
+||doremibet.com^$third-party
+||duitbux.com^$third-party
+||dunia-bisnis.com^$third-party
+||easy-hit-counter.com^$third-party
+||enjoybux.com^$third-party
+||folderbisnis.com^$third-party
+||formulabisnis.com/images/$third-party
+||fox-bux.com^$third-party
+||funds4cash.com^$third-party
+||galaxybola.com^$third-party
+||goldbet88.com^$third-party
+||indobets.com^$third-party
+||investasiceria.net/images/$third-party
+||kebunemas.com/banner/$third-party
+||komisigratis.com^$third-party
+||manasuka.com/gbr_banner_link/$third-party
+||mractionclub.com/banner/$third-party
+||networkadonline.com^$third-party
+||numpanglewat.com^$third-party
+||peluangbisnis.org^$third-party
+||plusberita.com^$third-party
+||premiertrafficptc.info^$third-party
+||promoteburner.com^$third-party
+||promotioncamp.com^$third-party
+||promoviaweb.com^$third-party
+||prophetofdoom.net^$third-party
+||publish.web.id^$third-party
+||sebarmedia.com^$third-party
+||sinusbux.com^$third-party
+||sitipromo.web.id^$third-party
+||sitti.co.id^$third-party
+||situsbet.com^$third-party
+||springfund.com^$third-party
+||submitforall.com^$third-party
+||submitfull.com^$third-party
+||syadiashare.com^$third-party
+||topsurfer.com^$third-party
+||tri7bet.com^$third-party
+||web-indonesia.com^$third-party
+||webiihost.com/aff/banner/$third-party
+||webjualbeli.com^$third-party
+||y-bux.com^$third-party
+||ziddu.com/banners/images/$third-party
 ! *** abpindo_specific_block.txt ***
 ||21cineplex.com/data/videoad/
 ||adf.ly/js/link-converter.js$domain=indowebster.web.id
@@ -526,7 +598,6 @@ detik.com##.bannertengah
 detik.com##.iklanbaris.col280
 detik.com##IMG[src="http://www.detik.com/image/ButtonCloseWhite-BlackStroke.png"]
 detikfinance.com###adpoint-article
-detikfinance.com###adtext
 detikfinance.com###adtext-info
 detikfinance.com###bannerE
 detikfinance.com###footerbanner
@@ -545,19 +616,16 @@ detikhot.com###footerbanner
 detikhot.com##.bannerB2
 detikhot.com##.bannerEtop
 detikinet.com###adpoint-article
-detikinet.com###adtext
 detikinet.com###adtext-info
 detikinet.com###bannerE
 detikinet.com###footerbanner
 detikinet.com##.bannerB2
 detikinet.com##.bannerBCD
 detiknews.com###adpoint-article
-detiknews.com###adtext
 detiknews.com###adtext-info
 detiknews.com###bannerE
 detiknews.com###footerbanner
 detiknews.com##.bannerBCD
-detiksport.com###adtext
 detiksport.com###adtext-info
 detiksport.com###bannerE
 detiksport.com##.bannerB2
@@ -578,12 +646,6 @@ index-of-mp3.com###logo
 indobokepz.com###feed
 indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
-indosiar.com###headerbanner
-indosiar.com##DIV[style="height:50px"]
-indosiar.com##DIV[style="margin:0 auto;width:940px;height:50px;background:#fff;text-align:center;"]
-indowebster.com###AdsAtas
-indowebster.com###AdsSearchAtas
-indowebster.com###Ads_fileinfo
 indowebster.com###Bingkai_DL_160x600
 indowebster.com###H_tab1
 indowebster.com###H_tab2
@@ -624,14 +686,11 @@ kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
 kaskus.us##DIV[style="height:30px"]
 keluargacemara.com###head-banner468
-kikil.org###iklanpersegi
 kikil.org##CENTER
 kompas.com##.wp_games
 krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
 krucil.com##TABLE[width="900"]
-liputan6.com###ads_lb
-liputan6.com##.ybox
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##A[href^="http://mkhoj.com"]
@@ -652,13 +711,11 @@ republika.co.id##DIV[style="width:300px; height:100px; margin-bottom:10px;"]
 republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
 resep.web.id###googlebox
 sctv.co.id##TD[background="http://www.sctv.co.id/tpls/website/img/bg_banner-728x90.gif"]
-sctv.co.id##TD[style="padding: 5px;"]
 stafaband.info###bottom
 suarabola.com###bannertop
 suarapembaruan.com###topbanner
 surya.co.id##.midbanner-box
 tempointeraktif.com###banner-kanan
-tempointeraktif.com##.block.iklan
 tempointeraktif.com##.closebanner1
 thehack3r.com###mta_bar
 thehack3r.com###topbar
@@ -667,68 +724,4 @@ vivanews.com##.reset10
 wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 warungbebas.com##.gbtab
 warungmp3.com##TR
-! *** abpindo_thirdparty.txt ***
-||1bisnisonline.com^$third-party
-||adultfriendfinder.com/images/banners/$third-party
-||alertpay.com/banners/$third-party
-||asianbrain.com/banner/$third-party
-||banner.autosubmit.web.id^$third-party
-||bannerhp.com^$third-party
-||benangmerah.com^$third-party
-||bintangbola.net^$third-party
-||bisnisgratis.net^$third-party
-||bisnishandal.com^$third-party
-||bisnisinternetmu.com^$third-party
-||bisnisniaga.com^$third-party
-||bisnisok.com^$third-party
-||bisnistransportasi.com^$third-party
-||bisnisurl.web.id^$third-party
-||bolaketangkasan.com^$third-party
-||bux-matrix.com^$third-party
-||buxrupiah.com^$third-party
-||chainbux.com^$third-party
-||clickbet88.com/banner/$third-party
-||doremibet.com^$third-party
-||duitbux.com^$third-party
-||dunia-bisnis.com^$third-party
-||easy-hit-counter.com^$third-party
-||enjoybux.com^$third-party
-||folderbisnis.com^$third-party
-||formulabisnis.com/images/$third-party
-||fox-bux.com^$third-party
-||funds4cash.com^$third-party
-||galaxybola.com^$third-party
-||goldbet88.com^$third-party
-||indobets.com^$third-party
-||investasiceria.net/images/$third-party
-||kebunemas.com/banner/$third-party
-||komisigratis.com^$third-party
-||manasuka.com/gbr_banner_link/$third-party
-||mractionclub.com/banner/$third-party
-||networkadonline.com^$third-party
-||numpanglewat.com^$third-party
-||peluangbisnis.org^$third-party
-||plusberita.com^$third-party
-||premiertrafficptc.info^$third-party
-||promoteburner.com^$third-party
-||promotioncamp.com^$third-party
-||promoviaweb.com^$third-party
-||prophetofdoom.net^$third-party
-||publish.web.id^$third-party
-||sebarmedia.com^$third-party
-||sinusbux.com^$third-party
-||sitipromo.web.id^$third-party
-||sitti.co.id^$third-party
-||situsbet.com^$third-party
-||springfund.com^$third-party
-||submitforall.com^$third-party
-||submitfull.com^$third-party
-||syadiashare.com^$third-party
-||topsurfer.com^$third-party
-||tri7bet.com^$third-party
-||web-indonesia.com^$third-party
-||webiihost.com/aff/banner/$third-party
-||webjualbeli.com^$third-party
-||y-bux.com^$third-party
-||ziddu.com/banners/images/$third-party
 ! *** abpindo_whitelist.txt ***

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: VeHPkA1T8acIX27Rgyvf4A
+! Checksum: 2V2Bw6wIC6qOat0CMZmpuA
 ! abp_indo without element hiding 
-! Last modified  Jumat 25 Maret 2011, 09:03:36 WIB
+! Last modified  Minggu 27 Maret 2011, 10:54:05 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -15,6 +15,7 @@
 .id/iklan/*
 /admaxads.
 /iklan.
+/images/iklan-
 /images/iklan/*
 /uploads/iklan/*
 |http://banners-id.
@@ -446,7 +447,7 @@
 ||javapic.com/ikelan/
 ||javapic.com/images/*.gif$domain=krucil.com
 ||jogjastreamers.com/images/banner/
-||kad.kaskus.us/banner/
+||kad.kaskus.us/banner/$subdocument
 ||kaskus.us/adv/
 ||kaskus.us/banner/Kas_In-House-Banner_120x240_alt-2.jpg
 ||ketawa.com/img-iklan/
