@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: elnlwAvdgseFl43vnwLQaw
+! Checksum: nGVOgEYw8J+7Z7O2OcN1AA
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Minggu 27 Maret 2011, 20:27:19 WIB
+! Last modified  Minggu 27 Maret 2011, 21:46:05 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -502,11 +502,6 @@
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
 ||ebsoft.web.id/wp-content/banners/
-||endonesia.com/banner1/dbc-kantorku.jpg
-||endonesia.com/en1.gif
-||endonesia.com/images/banner-rodadua-net.gif
-||endonesia.com/images/modis-shop.gif
-||endonesia.com/images/officialweb.gif
 ||freewebs.com/peluang-bisnis/kaya23.gif
 ||gudeg.net/images/banner/
 ||harianjogja.com/img/Bnr/
