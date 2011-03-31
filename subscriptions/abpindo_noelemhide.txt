@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: KQd6nQS/gTQgENQQLsjwBg
+! Checksum: SdQq6gCXL5SYRPuwBMH8SQ
 ! abp_indo without element hiding 
-! Last modified  Kamis 31 Maret 2011, 08:15:58 WIB
+! Last modified  Kamis 31 Maret 2011, 09:28:09 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -29,6 +29,7 @@
 ||addesigner.com^$third-party
 ||adindonesia.com^$third-party
 ||admarvel.com^$third-party
+||admitra.com^$third-party
 ||adptc.com^$third-party
 ||adreviewcamp.com^$third-party
 ||ads-iklan.net^$third-party
@@ -413,7 +414,6 @@
 ||ceriwis.info/338x30.swf
 ||ceriwis.us/338x30.swf
 ||chip.co.id/microsite/frame/index.html
-||cloudfront.net/bisnis/images/banners/
 ||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
 ||ebsoft.web.id/wp-content/banners/
@@ -455,7 +455,6 @@
 ||koranlokal.com/point1.php
 ||krucil.com/bb17-iklan.php
 ||lintasberita.com/public/images/bannermidlecenter.jpg
-||liquidweb.com/banners/
 ||lytogame.com/images/partner/
 ||lytogame.com/partner/
 ||mediaindonesia.com/public/banner/flash/

@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Kamis 31 Maret 2011, 08:15:58 WIB
+# Last modified  Kamis 31 Maret 2011, 09:28:09 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -49,6 +49,7 @@ msFilterList
 - http://addesigner.com
 - http://adindonesia.com
 - http://admarvel.com
+- http://admitra.com
 - http://adptc.com
 - http://adreviewcamp.com
 - http://ads-iklan.net
@@ -425,6 +426,7 @@ msFilterList
 - http://1bisnisonline.com
 -d adultfriendfinder.com /images/banners/
 -d alertpay.com /banners/
+- http://apmmedia.net
 -d asianbrain.com /banner/
 - http://banner.autosubmit.web.id
 - http://bannerhp.com
@@ -469,6 +471,7 @@ msFilterList
 - http://promoviaweb.com
 - http://prophetofdoom.net
 - http://publish.web.id
+- http://rahasiaromantis.com
 - http://sebarmedia.com
 - http://sinusbux.com
 - http://sitipromo.web.id
@@ -497,7 +500,6 @@ msFilterList
 -d ceriwis.info /338x30.swf
 -d ceriwis.us /338x30.swf
 -d chip.co.id /microsite/frame/index.html
--d cloudfront.net /bisnis/images/banners/
 -d detiknews.com /iklanbaris/
 -d dewamabuk.com /images/banner/
 -d ebsoft.web.id /wp-content/banners/
@@ -539,7 +541,6 @@ msFilterList
 -d koranlokal.com /point1.php
 -d krucil.com /bb17-iklan.php
 -d lintasberita.com /public/images/bannermidlecenter.jpg
--d liquidweb.com /banners/
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
 -d mediaindonesia.com /public/banner/flash/
@@ -568,7 +569,7 @@ msFilterList
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/ads/
 # *** abpindo_specific_hide.txt ***
-# bisnis.com##.banner-user8
+# ansav.com##.body > CENTER
 # blogdetik.com##.bannerA
 # bluefame.com##CENTER
 # bola.net###top_leaderboard
@@ -669,11 +670,11 @@ msFilterList
 # kaskus.us###exp
 # keluargacemara.com###head-banner468
 # kikil.org##CENTER
-# kompas.com##.wp_games
 # krucil.com###floating_banner_bottom
 # krucil.com##.fixmeInner
 # m.detik.com###top
 # m.iklanbaris.detik.com##.adtext01
+# mangafox.com##.ad728x90.left + .right
 # mediaindonesia.com###topbanner
 # mediaindonesia.com##.minitext
 # megindo.net###aft
@@ -690,5 +691,4 @@ msFilterList
 # tempointeraktif.com##.closebanner1
 # vivanews.com##.reset10
 # warungbebas.com##.gbtab
-# warungmp3.com##TR
 # *** abpindo_whitelist.txt ***
