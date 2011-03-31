@@ -1,6 +1,4 @@
-4chan.org##DIV[style="width: 300px; position: absolute;left: 5%; border:1px solid black;"]
-ansav.com##IMG[style="width: 251px; height: 100px;"]
-bisnis.com##.banner-user8
+ansav.com##.body > CENTER
 blogdetik.com##.bannerA
 bluefame.com##CENTER
 bola.net###top_leaderboard
@@ -84,7 +82,7 @@ indowebster.com###iklankiri
 indowebster.com###showpaper
 indowebster.com###tr_iklanbaris2
 indowebster.com###warn
-indowebster.com##DIV[style="height:62px;"]
+indowebster.com##LINK[rel="stylesheet"] + DIV[style="height:62px;"]
 jombangan.com##CENTER
 kapanlagi.com###middle_showcase
 kapanlagi.com###top_showcase
@@ -109,18 +107,16 @@ kaskus.us###cntysm
 kaskus.us###exp
 kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
-kaskus.us##DIV[style="height:30px"]
+kaskus.us##DIV[style="position:fixed; width:100%; z-index:99;background:#fff;"] + DIV[style="height:30px"]
 keluargacemara.com###head-banner468
 kikil.org##CENTER
-kompas.com##.wp_games
 krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
 krucil.com##TABLE[width="900"]
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##A[href^="http://mkhoj.com"]
-mangafox.com##DIV[style="width:186px;height:90px;border:#dadada solid 1px;padding:2px;background:#fff;"]
-mangafox.com##DIV[style="width:930px;padding-bottom:10px;padding-right:10px;padding-left:10px;"]
+mangafox.com##.ad728x90.left + .right
 masterporn.me##FONT[size="1"]
 masterporn.me##TABLE[align="center"]
 mediaindonesia.com###topbanner
@@ -142,7 +138,11 @@ suarapembaruan.com###topbanner
 surya.co.id##.midbanner-box
 tempointeraktif.com###banner-kanan
 tempointeraktif.com##.closebanner1
+thehack3r.com###topbar[style="visibility: visible; left: 15px; top: 45px;"] > CENTER
+thehack3r.com###topbar[style="visibility: visible; left: 15px; top: 45px;"] SPAN[style="font-size: small; color: red;"]
 vivanews.com##.reset10
 wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 warungbebas.com##.gbtab
-warungmp3.com##TR
+warungmp3.com##DIV#fixme[style="height: 60px; width: 100%;"]
+warungmp3.com##P[style="margin-left: 9px; margin-top: 0; margin-bottom: 0"]
+warungmp3.com##[onmouseover="moveOut()"] TR
