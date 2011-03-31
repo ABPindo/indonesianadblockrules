@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Minggu 27 Maret 2011, 21:46:05 WIB
+# Last modified  Kamis 31 Maret 2011, 08:15:58 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
