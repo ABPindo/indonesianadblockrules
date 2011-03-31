@@ -1,12 +1,12 @@
 ansav.com##.body > CENTER
 blogdetik.com##.bannerA
-bluefame.com##CENTER
 bola.net###top_leaderboard
 boleh.com##.bannersmall
 ceriwis.us###hoho-wrapsubmenu2
 ceriwis.us###hoho-wrapsubmenu3
 ceriwis.us###message-box
 ceriwis.us###message-box-bot
+ceriwis.us##IMG[alt="Top Banner"]
 ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
 detik.com###arena-musik
 detik.com###bannerE
@@ -52,21 +52,15 @@ detiknews.com##.bannerBCD
 detiksport.com###adtext-info
 detiksport.com###bannerE
 detiksport.com##.bannerB2
-forumbebas.com###topbar
-forumbebas.com##CENTER
 foto.detik.com##.bannerbcd
 google.co.id###rhs_block
 google.co.id##TABLE[style="border: 1px solid #0000CC"]
 google.co.id##TABLE[style="border: 1px solid #11593c"]
 google.com###rhs_block
 google.com##.c0.lti35t
-hai-online.com###fixme
-hai-online.com###fixmetoo
 health.detik.com##.bannerF_bawah
 health.detik.com##.banner_art
 health.detik.com##.bannerf1
-index-of-mp3.com###logo
-indobokepz.com###feed
 indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
 indowebster.com###Bingkai_DL_160x600
@@ -83,7 +77,6 @@ indowebster.com###showpaper
 indowebster.com###tr_iklanbaris2
 indowebster.com###warn
 indowebster.com##LINK[rel="stylesheet"] + DIV[style="height:62px;"]
-jombangan.com##CENTER
 kapanlagi.com###middle_showcase
 kapanlagi.com###top_showcase
 kapanlagi.com###v5-leaderboard
@@ -109,24 +102,18 @@ kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
 kaskus.us##DIV[style="position:fixed; width:100%; z-index:99;background:#fff;"] + DIV[style="height:30px"]
 keluargacemara.com###head-banner468
-kikil.org##CENTER
 krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
-krucil.com##TABLE[width="900"]
+krucil.com##DIV[align="center"] TABLE[width="900"]
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##A[href^="http://mkhoj.com"]
 mangafox.com##.ad728x90.left + .right
-masterporn.me##FONT[size="1"]
-masterporn.me##TABLE[align="center"]
 mediaindonesia.com###topbanner
 mediaindonesia.com##.minitext
 megindo.net###aft
 metrotvnews.com###fixme
 oktavita.com##.banner-zone
-perawan.us###fly
-perawan.us##TABLE[width="99%"]
-perawan.us##TD[width="960"]
 republika.co.id###top-banner
 republika.co.id##DIV[style="width:300px; height:100px; margin-bottom:10px;"]
 republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
@@ -140,7 +127,6 @@ tempointeraktif.com###banner-kanan
 tempointeraktif.com##.closebanner1
 thehack3r.com###topbar[style="visibility: visible; left: 15px; top: 45px;"] > CENTER
 thehack3r.com###topbar[style="visibility: visible; left: 15px; top: 45px;"] SPAN[style="font-size: small; color: red;"]
-vivanews.com##.reset10
 wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 warungbebas.com##.gbtab
 warungmp3.com##DIV#fixme[style="height: 60px; width: 100%;"]
