@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Kamis 31 Maret 2011, 09:28:09 WIB
+# Last modified  Kamis 31 Maret 2011, 10:15:01 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -571,7 +571,6 @@ msFilterList
 # *** abpindo_specific_hide.txt ***
 # ansav.com##.body > CENTER
 # blogdetik.com##.bannerA
-# bluefame.com##CENTER
 # bola.net###top_leaderboard
 # boleh.com##.bannersmall
 # ceriwis.us###hoho-wrapsubmenu2
@@ -620,19 +619,13 @@ msFilterList
 # detiksport.com###adtext-info
 # detiksport.com###bannerE
 # detiksport.com##.bannerB2
-# forumbebas.com###topbar
-# forumbebas.com##CENTER
 # foto.detik.com##.bannerbcd
 # google.co.id###rhs_block
 # google.com###rhs_block
 # google.com##.c0.lti35t
-# hai-online.com###fixme
-# hai-online.com###fixmetoo
 # health.detik.com##.bannerF_bawah
 # health.detik.com##.banner_art
 # health.detik.com##.bannerf1
-# index-of-mp3.com###logo
-# indobokepz.com###feed
 # indowebster.com###Bingkai_DL_160x600
 # indowebster.com###H_tab1
 # indowebster.com###H_tab2
@@ -646,7 +639,6 @@ msFilterList
 # indowebster.com###showpaper
 # indowebster.com###tr_iklanbaris2
 # indowebster.com###warn
-# jombangan.com##CENTER
 # kapanlagi.com###middle_showcase
 # kapanlagi.com###top_showcase
 # kapanlagi.com###v5-leaderboard
@@ -669,7 +661,6 @@ msFilterList
 # kaskus.us###cntysm
 # kaskus.us###exp
 # keluargacemara.com###head-banner468
-# kikil.org##CENTER
 # krucil.com###floating_banner_bottom
 # krucil.com##.fixmeInner
 # m.detik.com###top
@@ -680,7 +671,6 @@ msFilterList
 # megindo.net###aft
 # metrotvnews.com###fixme
 # oktavita.com##.banner-zone
-# perawan.us###fly
 # republika.co.id###top-banner
 # resep.web.id###googlebox
 # stafaband.info###bottom
@@ -689,6 +679,5 @@ msFilterList
 # surya.co.id##.midbanner-box
 # tempointeraktif.com###banner-kanan
 # tempointeraktif.com##.closebanner1
-# vivanews.com##.reset10
 # warungbebas.com##.gbtab
 # *** abpindo_whitelist.txt ***
