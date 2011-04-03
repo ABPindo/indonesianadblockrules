@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Minggu 03 April 2011, 17:24:46 WIB
+# Last modified  Minggu 03 April 2011, 21:23:53 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -416,6 +416,7 @@ msFilterList
 - http://triklan.com
 - http://uangklik.com
 - http://unobux.com
+- http://untukblogger.com
 - http://updateiklan.com
 - http://valueclick.net
 - http://vistaclix.com
@@ -460,6 +461,7 @@ msFilterList
 -d investasiceria.net /images/
 -d kebunemas.com /banner/
 - http://komisigratis.com
+- http://kumpuljutawan.com
 -d manasuka.com /gbr_banner_link/
 -d mractionclub.com /banner/
 - http://networkadonline.com
@@ -642,6 +644,7 @@ msFilterList
 # indowebster.com###warn
 # kapanlagi.com###middle_showcase
 # kapanlagi.com###top_showcase
+# kapanlagi.com###v5-blogshowcase1
 # kapanlagi.com###v5-leaderboard
 # kapanlagi.com###v5-marcommpromotion
 # kapanlagi.com###v5-mobilepromotion
