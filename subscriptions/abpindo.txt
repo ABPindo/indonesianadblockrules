@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 9W+J9hSK73nMNKdKwbzOqg
+! Checksum: JEt8VKCPg3lMjJV+QVMZVQ
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Minggu 03 April 2011, 17:24:46 WIB
+! Last modified  Minggu 03 April 2011, 21:23:53 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -417,6 +417,7 @@
 ||triklan.com^$third-party
 ||uangklik.com^$third-party
 ||unobux.com^$third-party
+||untukblogger.com^$third-party
 ||updateiklan.com^$third-party
 ||valueclick.net^$third-party
 ||vistaclix.com^$third-party
@@ -461,6 +462,7 @@
 ||investasiceria.net/images/$third-party
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
+||kumpuljutawan.com^$third-party
 ||manasuka.com/gbr_banner_link/$third-party
 ||mractionclub.com/banner/$third-party
 ||networkadonline.com^$third-party
@@ -652,6 +654,7 @@ indowebster.com###warn
 indowebster.com##LINK[rel="stylesheet"] + DIV[style="height:62px;"]
 kapanlagi.com###middle_showcase
 kapanlagi.com###top_showcase
+kapanlagi.com###v5-blogshowcase1
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v5-marcommpromotion
 kapanlagi.com###v5-mobilepromotion
