@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: JEt8VKCPg3lMjJV+QVMZVQ
+! Checksum: 51SZjrBDbAof2rHyKcIa9A
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Minggu 03 April 2011, 21:23:53 WIB
+! Last modified  Selasa 05 April 2011, 14:12:40 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -642,6 +642,7 @@ indowebster.com###Bingkai_DL_160x600
 indowebster.com###H_tab1
 indowebster.com###H_tab2
 indowebster.com###H_tab3
+indowebster.com###ads
 indowebster.com###ban_cont1
 indowebster.com###ban_cont2
 indowebster.com###dl_cont
@@ -694,15 +695,13 @@ republika.co.id###top-banner
 republika.co.id##DIV[style="width:300px; height:100px; margin-bottom:10px;"]
 republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
 resep.web.id###googlebox
-sctv.co.id##TD[background="http://www.sctv.co.id/tpls/website/img/bg_banner-728x90.gif"]
 stafaband.info###bottom
 suarabola.com###bannertop
 suarapembaruan.com###topbanner
 surya.co.id##.midbanner-box
 tempointeraktif.com###banner-kanan
 tempointeraktif.com##.closebanner1
-thehack3r.com###topbar[style="visibility: visible; left: 15px; top: 45px;"] > CENTER
-thehack3r.com###topbar[style="visibility: visible; left: 15px; top: 45px;"] SPAN[style="font-size: small; color: red;"]
+thehack3r.com###topbar[style="visibility: visible; left: 15px; top: 45px;"]
 wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 warungbebas.com##.gbtab
 warungmp3.com###table2 P[align="center"]
