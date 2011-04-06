@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: GV8/WUjgN1RUrQRiwKY/jw
+! Checksum: EHa/fqSSRlM7E2cMzb9roA
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Rabu 06 April 2011, 19:20:25 WIB
+! Last modified  Rabu 06 April 2011, 19:43:28 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -636,7 +636,6 @@ google.co.id##TABLE[style="border: 1px solid #0000CC"]
 google.co.id##TABLE[style="border: 1px solid #11593c"]
 google.com###rhs_block
 google.com##.c0.lti35t
-health.detik.com##.bannerf1
 indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
 indowebster.com###Bingkai_DL_160x600
