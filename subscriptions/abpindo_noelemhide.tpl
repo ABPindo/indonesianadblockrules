@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Minggu 03 April 2011, 21:23:53 WIB
+# Last modified  Rabu 06 April 2011, 10:09:40 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -414,7 +414,6 @@ msFilterList
 -d ceriwis.info /338x30.swf
 -d ceriwis.us /338x30.swf
 -d chip.co.id /microsite/frame/index.html
--d detiknews.com /iklanbaris/
 -d dewamabuk.com /images/banner/
 -d ebsoft.web.id /wp-content/banners/
 -d freewebs.com /peluang-bisnis/kaya23.gif
@@ -477,9 +476,10 @@ msFilterList
 # ||swfcabin.com^$domain=krucil.com
 # ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
 -d tribunnews.com //iklan/
+-d tribunnews.com /iklan/
 -d uki.ac.id /images/samkokbet.swf
 # ||uploadhouse.com^*.gif$domain=krucil.com
-# ||us.openx.detik.com^$~third-party
+- http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/ads/
 # *** abpindo_whitelist.txt ***
