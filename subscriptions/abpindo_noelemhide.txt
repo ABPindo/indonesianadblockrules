@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: r7tVwR6S95WYPZ726iVFhQ
+! Checksum: jVAz4Q4AJJIo8eBzD41G9g
 ! abp_indo without element hiding 
-! Last modified  Minggu 03 April 2011, 21:23:53 WIB
+! Last modified  Rabu 06 April 2011, 10:09:40 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -415,7 +415,6 @@
 ||ceriwis.info/338x30.swf
 ||ceriwis.us/338x30.swf
 ||chip.co.id/microsite/frame/index.html
-||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
 ||ebsoft.web.id/wp-content/banners/
 ||freewebs.com/peluang-bisnis/kaya23.gif
@@ -478,9 +477,10 @@
 ||swfcabin.com^$domain=krucil.com
 ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
 ||tribunnews.com//iklan/*
+||tribunnews.com/iklan/
 ||uki.ac.id/images/samkokbet.swf
 ||uploadhouse.com^*.gif$domain=krucil.com
-||us.openx.detik.com^$~third-party
+||us.openx.detik.com^
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
 ! *** abpindo_whitelist.txt ***

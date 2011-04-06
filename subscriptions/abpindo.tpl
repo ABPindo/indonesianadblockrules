@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Selasa 05 April 2011, 14:12:40 WIB
+# Last modified  Rabu 06 April 2011, 10:09:40 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -26,6 +26,7 @@ msFilterList
 # ###adsmiddle
 # ###adtext
 # ###desaiklan
+# ###iklankiri
 # ###iklanpersegi
 # ##.Break.AdsBottom
 # ##.SectionAds
@@ -503,7 +504,6 @@ msFilterList
 -d ceriwis.info /338x30.swf
 -d ceriwis.us /338x30.swf
 -d chip.co.id /microsite/frame/index.html
--d detiknews.com /iklanbaris/
 -d dewamabuk.com /images/banner/
 -d ebsoft.web.id /wp-content/banners/
 -d freewebs.com /peluang-bisnis/kaya23.gif
@@ -566,9 +566,10 @@ msFilterList
 # ||swfcabin.com^$domain=krucil.com
 # ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
 -d tribunnews.com //iklan/
+-d tribunnews.com /iklan/
 -d uki.ac.id /images/samkokbet.swf
 # ||uploadhouse.com^*.gif$domain=krucil.com
-# ||us.openx.detik.com^$~third-party
+- http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/ads/
 # *** abpindo_specific_hide.txt ***
@@ -580,54 +581,164 @@ msFilterList
 # ceriwis.us###hoho-wrapsubmenu3
 # ceriwis.us###message-box
 # ceriwis.us###message-box-bot
-# detik.com###arena-musik
+# detik.com###adpoint-article
+# detik.com###adtext-info
+# detik.com###banner02
 # detik.com###bannerE
 # detik.com###footerbanner
 # detik.com###headerbanner
-# detik.com###pemenang
-# detik.com###promo02
+# detik.com##.bannejual
+# detik.com##.bannerA
+# detik.com##.bannerB2
 # detik.com##.bannerB3
+# detik.com##.bannerBCD
 # detik.com##.bannerD1
 # detik.com##.bannerD3
+# detik.com##.bannerEtop
+# detik.com##.bannerF_bawah
+# detik.com##.banner_art
+# detik.com##.bannerbcd
+# detik.com##.bannerf1
 # detik.com##.bannertengah
 # detik.com##.iklanbaris.col280
 # detikfinance.com###adpoint-article
 # detikfinance.com###adtext-info
+# detikfinance.com###banner02
 # detikfinance.com###bannerE
 # detikfinance.com###footerbanner
+# detikfinance.com###headerbanner
 # detikfinance.com##.bannejual
+# detikfinance.com##.bannerA
 # detikfinance.com##.bannerB2
+# detikfinance.com##.bannerB3
 # detikfinance.com##.bannerBCD
+# detikfinance.com##.bannerD1
+# detikfinance.com##.bannerD3
+# detikfinance.com##.bannerEtop
+# detikfinance.com##.bannerF_bawah
+# detikfinance.com##.banner_art
+# detikfinance.com##.bannerbcd
+# detikfinance.com##.bannerf1
+# detikfinance.com##.bannertengah
 # detikfinance.com##.bannertopnews.clearfix
 # detikfood.com###adpoint-article
+# detikfood.com###adtext-info
+# detikfood.com###banner02
+# detikfood.com###bannerE
+# detikfood.com###footerbanner
+# detikfood.com###headerbanner
+# detikfood.com##.bannejual
+# detikfood.com##.bannerA
+# detikfood.com##.bannerB2
+# detikfood.com##.bannerB3
+# detikfood.com##.bannerBCD
+# detikfood.com##.bannerD1
+# detikfood.com##.bannerD3
+# detikfood.com##.bannerEtop
+# detikfood.com##.bannerF_bawah
+# detikfood.com##.banner_art
+# detikfood.com##.bannerbcd
+# detikfood.com##.bannerf1
+# detikfood.com##.bannertengah
+# detikhealth.com###adpoint-article
+# detikhealth.com###adtext-info
+# detikhealth.com###banner02
 # detikhealth.com###bannerE
+# detikhealth.com###footerbanner
+# detikhealth.com###headerbanner
+# detikhealth.com##.bannejual
+# detikhealth.com##.bannerA
+# detikhealth.com##.bannerB2
+# detikhealth.com##.bannerB3
+# detikhealth.com##.bannerBCD
+# detikhealth.com##.bannerD1
+# detikhealth.com##.bannerD3
+# detikhealth.com##.bannerEtop
+# detikhealth.com##.bannerF_bawah
 # detikhealth.com##.banner_art
+# detikhealth.com##.bannerbcd
 # detikhealth.com##.bannerf1
+# detikhealth.com##.bannertengah
+# detikhot.com###adpoint-article
 # detikhot.com###adtext-info
+# detikhot.com###banner02
 # detikhot.com###bannerE
 # detikhot.com###footerbanner
+# detikhot.com###headerbanner
+# detikhot.com##.bannejual
+# detikhot.com##.bannerA
 # detikhot.com##.bannerB2
+# detikhot.com##.bannerB3
+# detikhot.com##.bannerBCD
+# detikhot.com##.bannerD1
+# detikhot.com##.bannerD3
 # detikhot.com##.bannerEtop
+# detikhot.com##.bannerF_bawah
+# detikhot.com##.banner_art
+# detikhot.com##.bannerbcd
+# detikhot.com##.bannerf1
+# detikhot.com##.bannertengah
 # detikinet.com###adpoint-article
 # detikinet.com###adtext-info
+# detikinet.com###banner02
 # detikinet.com###bannerE
 # detikinet.com###footerbanner
+# detikinet.com###headerbanner
+# detikinet.com##.bannejual
+# detikinet.com##.bannerA
 # detikinet.com##.bannerB2
+# detikinet.com##.bannerB3
 # detikinet.com##.bannerBCD
+# detikinet.com##.bannerD1
+# detikinet.com##.bannerD3
+# detikinet.com##.bannerEtop
+# detikinet.com##.bannerF_bawah
+# detikinet.com##.banner_art
+# detikinet.com##.bannerbcd
+# detikinet.com##.bannerf1
+# detikinet.com##.bannertengah
 # detiknews.com###adpoint-article
 # detiknews.com###adtext-info
+# detiknews.com###banner02
 # detiknews.com###bannerE
 # detiknews.com###footerbanner
+# detiknews.com###headerbanner
+# detiknews.com##.bannejual
+# detiknews.com##.bannerA
+# detiknews.com##.bannerB2
+# detiknews.com##.bannerB3
 # detiknews.com##.bannerBCD
+# detiknews.com##.bannerD1
+# detiknews.com##.bannerD3
+# detiknews.com##.bannerEtop
+# detiknews.com##.bannerF_bawah
+# detiknews.com##.banner_art
+# detiknews.com##.bannerbcd
+# detiknews.com##.bannerf1
+# detiknews.com##.bannertengah
+# detiksport.com###adpoint-article
 # detiksport.com###adtext-info
+# detiksport.com###banner02
 # detiksport.com###bannerE
+# detiksport.com###footerbanner
+# detiksport.com###headerbanner
+# detiksport.com##.bannejual
+# detiksport.com##.bannerA
 # detiksport.com##.bannerB2
+# detiksport.com##.bannerB3
+# detiksport.com##.bannerBCD
+# detiksport.com##.bannerD1
+# detiksport.com##.bannerD3
+# detiksport.com##.bannerEtop
+# detiksport.com##.bannerF_bawah
+# detiksport.com##.banner_art
+# detiksport.com##.bannerbcd
+# detiksport.com##.bannerf1
+# detiksport.com##.bannertengah
 # foto.detik.com##.bannerbcd
 # google.co.id###rhs_block
 # google.com###rhs_block
 # google.com##.c0.lti35t
-# health.detik.com##.bannerF_bawah
-# health.detik.com##.banner_art
 # health.detik.com##.bannerf1
 # indowebster.com###Bingkai_DL_160x600
 # indowebster.com###H_tab1
@@ -639,7 +750,6 @@ msFilterList
 # indowebster.com###dl_cont
 # indowebster.com###fixed-top-ads
 # indowebster.com###iklan_atas
-# indowebster.com###iklankiri
 # indowebster.com###showpaper
 # indowebster.com###tr_iklanbaris2
 # indowebster.com###warn
@@ -682,7 +792,8 @@ msFilterList
 # suarabola.com###bannertop
 # suarapembaruan.com###topbanner
 # surya.co.id##.midbanner-box
-# tempointeraktif.com###banner-kanan
-# tempointeraktif.com##.closebanner1
+# tempointeraktif.com###banner-tengah
+# tempointeraktif.com##.block.iklan.top
+# tv.detik.com###banner02
 # warungbebas.com##.gbtab
 # *** abpindo_whitelist.txt ***

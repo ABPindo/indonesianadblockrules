@@ -9,7 +9,6 @@
 ||ceriwis.info/338x30.swf
 ||ceriwis.us/338x30.swf
 ||chip.co.id/microsite/frame/index.html
-||detiknews.com/iklanbaris/
 ||dewamabuk.com/images/banner/
 ||ebsoft.web.id/wp-content/banners/
 ||freewebs.com/peluang-bisnis/kaya23.gif
@@ -72,8 +71,9 @@
 ||swfcabin.com^$domain=krucil.com
 ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
 ||tribunnews.com//iklan/*
+||tribunnews.com/iklan/
 ||uki.ac.id/images/samkokbet.swf
 ||uploadhouse.com^*.gif$domain=krucil.com
-||us.openx.detik.com^$~third-party
+||us.openx.detik.com^
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
