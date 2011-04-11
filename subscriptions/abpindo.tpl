@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Rabu 06 April 2011, 19:43:28 WIB
+# Last modified  Senin 11 April 2011, 08:25:49 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -563,7 +563,6 @@ msFilterList
 -d static.escavern.com /tokomaya.gif
 -d suarabola.com /banners/
 -d suaramedia.com /images/banners/
-# ||swfcabin.com^$domain=krucil.com
 # ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
 -d tribunnews.com //iklan/
 -d tribunnews.com /iklan/
@@ -677,5 +676,6 @@ msFilterList
 # surya.co.id##.midbanner-box
 # tempointeraktif.com###banner-tengah
 # tempointeraktif.com##.block.iklan.top
+# vivanews.com###ads_regularnokia
 # warungbebas.com##.gbtab
 # *** abpindo_whitelist.txt ***

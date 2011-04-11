@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: EHa/fqSSRlM7E2cMzb9roA
+! Checksum: 1jyBOPhKBS7Yun2KcQWfdQ
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Rabu 06 April 2011, 19:43:28 WIB
+! Last modified  Senin 11 April 2011, 08:25:49 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -564,7 +564,6 @@
 ||static.escavern.com/tokomaya.gif
 ||suarabola.com/banners/
 ||suaramedia.com/images/banners/*
-||swfcabin.com^$domain=krucil.com
 ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
 ||tribunnews.com//iklan/*
 ||tribunnews.com/iklan/
@@ -702,6 +701,7 @@ tempointeraktif.com###banner-tengah
 tempointeraktif.com##.block.iklan.top
 thehack3r.com###topbar[style="visibility: visible; left: 15px; top: 45px;"]
 tribunnews.com##IMG[src="http://www.tribunnews.com/stylesheets/close.gif"]
+vivanews.com###ads_regularnokia
 wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 warungbebas.com##.gbtab
 warungmp3.com###table2 P[align="center"]
