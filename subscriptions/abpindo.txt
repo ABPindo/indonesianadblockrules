@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 2oQLLnxKmnHHgDqAn199ew
+! Checksum: 87/RxLCTPmL5xhRnNHOnoQ
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Rabu 13 April 2011, 14:55:17 WIB
+! Last modified  Rabu 13 April 2011, 22:23:56 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -421,6 +421,7 @@
 ||unobux.com^$third-party
 ||untukblogger.com^$third-party
 ||updateiklan.com^$third-party
+||us.openx.detik.com^
 ||valueclick.net^$third-party
 ||vistaclix.com^$third-party
 ||webiklan.com^$third-party
@@ -432,6 +433,8 @@
 ||adultfriendfinder.com/images/banners/$third-party
 ||alertpay.com/banners/$third-party
 ||apmmedia.net^$third-party
+||arenabola.com^$third-party
+||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
 ||asianbrain.com/banner/$third-party
 ||banner.autosubmit.web.id^$third-party
 ||bannerhp.com^$third-party
@@ -447,8 +450,10 @@
 ||bolaketangkasan.com^$third-party
 ||bux-matrix.com^$third-party
 ||buxrupiah.com^$third-party
+||cashburners.biz/banners/
 ||chainbux.com^$third-party
 ||clickbet88.com/banner/$third-party
+||dewamabuk.com$third-party
 ||doremibet.com^$third-party
 ||duitbux.com^$third-party
 ||dunia-bisnis.com^$third-party
@@ -462,6 +467,7 @@
 ||goldbet88.com^$third-party
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
+||javapic.com/ikelan/
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
@@ -484,25 +490,24 @@
 ||sitti.co.id^$third-party
 ||situsbet.com^$third-party
 ||springfund.com^$third-party
+||suarabola.com/banners/
 ||submitforall.com^$third-party
 ||submitfull.com^$third-party
 ||syadiashare.com^$third-party
+||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
+||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
 ||web-indonesia.com^$third-party
 ||webiihost.com/aff/banner/$third-party
 ||webjualbeli.com^$third-party
 ||y-bux.com^$third-party
 ||ziddu.com/banners/images/$third-party
 ! *** abpindo_specific_block.txt ***
-||adf.ly/js/link-converter.js$domain=indowebster.web.id
 ||ads.indowebster.com^$script,image,subdocument
 ||ads.kompas.com^$script,image,subdocument
-||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
-||cashburners.biz/banners/
 ||cdn.bloggerfiles.com/img/promo/
 ||chip.co.id/microsite/frame/index.html
-||dewamabuk.com/images/banner/
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
 ||harianjogja.com/img/Bnr/
@@ -511,7 +516,6 @@
 ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 ||indowebster.com/ajax/iklan/$xmlhttprequest
 ||indowebster.com/js/link_converter.js
-||javapic.com/ikelan/
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/$subdocument
 ||ketawa.com/img-iklan/
@@ -533,12 +537,7 @@
 ||primbon.com/banner/
 ||resep.web.id/banner/
 ||stafaband.info/tb.swf
-||suarabola.com/banners/
 ||suaramedia.com/images/banners/
-||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
-||tribunnews.com/iklan/
-||uploadhouse.com^*.gif$domain=krucil.com
-||us.openx.detik.com^
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
 ! *** abpindo_specific_hide.txt ***
