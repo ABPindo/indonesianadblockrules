@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Rabu 13 April 2011, 14:55:17 WIB
+# Last modified  Rabu 13 April 2011, 22:23:56 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -420,6 +420,7 @@ msFilterList
 - http://unobux.com
 - http://untukblogger.com
 - http://updateiklan.com
+- http://us.openx.detik.com
 - http://valueclick.net
 - http://vistaclix.com
 - http://webiklan.com
@@ -431,6 +432,8 @@ msFilterList
 -d adultfriendfinder.com /images/banners/
 -d alertpay.com /banners/
 - http://apmmedia.net
+- http://arenabola.com
+# ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
 -d asianbrain.com /banner/
 - http://banner.autosubmit.web.id
 - http://bannerhp.com
@@ -446,8 +449,10 @@ msFilterList
 - http://bolaketangkasan.com
 - http://bux-matrix.com
 - http://buxrupiah.com
+-d cashburners.biz /banners/
 - http://chainbux.com
 -d clickbet88.com /banner/
+- http://dewamabuk.com
 - http://doremibet.com
 - http://duitbux.com
 - http://dunia-bisnis.com
@@ -461,6 +466,7 @@ msFilterList
 - http://goldbet88.com
 - http://indobets.com
 -d investasiceria.net /images/
+-d javapic.com /ikelan/
 -d kebunemas.com /banner/
 - http://komisigratis.com
 - http://kumpuljutawan.com
@@ -483,25 +489,24 @@ msFilterList
 - http://sitti.co.id
 - http://situsbet.com
 - http://springfund.com
+-d suarabola.com /banners/
 - http://submitforall.com
 - http://submitfull.com
 - http://syadiashare.com
+# ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
 - http://topsurfer.com
 - http://tri7bet.com
+# ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
 - http://web-indonesia.com
 -d webiihost.com /aff/banner/
 - http://webjualbeli.com
 - http://y-bux.com
 -d ziddu.com /banners/images/
 # *** abpindo_specific_block.txt ***
-# ||adf.ly/js/link-converter.js$domain=indowebster.web.id
 # ||ads.indowebster.com^$script,image,subdocument
 # ||ads.kompas.com^$script,image,subdocument
-# ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
--d cashburners.biz /banners/
 -d cdn.bloggerfiles.com /img/promo/
 -d chip.co.id /microsite/frame/index.html
--d dewamabuk.com /images/banner/
 -d ebsoft.web.id /wp-content/banners/
 -d gudeg.net /images/banner/
 -d harianjogja.com /img/Bnr/
@@ -510,7 +515,6 @@ msFilterList
 # ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 # ||indowebster.com/ajax/iklan/$xmlhttprequest
 -d indowebster.com /js/link_converter.js
--d javapic.com /ikelan/
 -d jogjastreamers.com /images/banner/
 # ||kad.kaskus.us/banner/$subdocument
 -d ketawa.com /img-iklan/
@@ -532,12 +536,7 @@ msFilterList
 -d primbon.com /banner/
 -d resep.web.id /banner/
 -d stafaband.info /tb.swf
--d suarabola.com /banners/
 -d suaramedia.com /images/banners/
-# ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
--d tribunnews.com /iklan/
-# ||uploadhouse.com^*.gif$domain=krucil.com
-- http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/ads/
 # *** abpindo_specific_hide.txt ***

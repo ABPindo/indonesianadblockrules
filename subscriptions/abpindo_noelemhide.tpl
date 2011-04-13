@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Rabu 13 April 2011, 14:55:17 WIB
+# Last modified  Rabu 13 April 2011, 22:23:56 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -396,6 +396,7 @@ msFilterList
 - http://unobux.com
 - http://untukblogger.com
 - http://updateiklan.com
+- http://us.openx.detik.com
 - http://valueclick.net
 - http://vistaclix.com
 - http://webiklan.com
@@ -403,14 +404,10 @@ msFilterList
 - http://yesads.com
 - http://zonaiklan.info
 # *** abpindo_specific_block.txt ***
-# ||adf.ly/js/link-converter.js$domain=indowebster.web.id
 # ||ads.indowebster.com^$script,image,subdocument
 # ||ads.kompas.com^$script,image,subdocument
-# ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
--d cashburners.biz /banners/
 -d cdn.bloggerfiles.com /img/promo/
 -d chip.co.id /microsite/frame/index.html
--d dewamabuk.com /images/banner/
 -d ebsoft.web.id /wp-content/banners/
 -d gudeg.net /images/banner/
 -d harianjogja.com /img/Bnr/
@@ -419,7 +416,6 @@ msFilterList
 # ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 # ||indowebster.com/ajax/iklan/$xmlhttprequest
 -d indowebster.com /js/link_converter.js
--d javapic.com /ikelan/
 -d jogjastreamers.com /images/banner/
 # ||kad.kaskus.us/banner/$subdocument
 -d ketawa.com /img-iklan/
@@ -441,12 +437,7 @@ msFilterList
 -d primbon.com /banner/
 -d resep.web.id /banner/
 -d stafaband.info /tb.swf
--d suarabola.com /banners/
 -d suaramedia.com /images/banners/
-# ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
--d tribunnews.com /iklan/
-# ||uploadhouse.com^*.gif$domain=krucil.com
-- http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/ads/
 # *** abpindo_whitelist.txt ***

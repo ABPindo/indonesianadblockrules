@@ -1,11 +1,7 @@
-||adf.ly/js/link-converter.js$domain=indowebster.web.id
 ||ads.indowebster.com^$script,image,subdocument
 ||ads.kompas.com^$script,image,subdocument
-||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
-||cashburners.biz/banners/
 ||cdn.bloggerfiles.com/img/promo/
 ||chip.co.id/microsite/frame/index.html
-||dewamabuk.com/images/banner/
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
 ||harianjogja.com/img/Bnr/
@@ -14,7 +10,6 @@
 ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 ||indowebster.com/ajax/iklan/$xmlhttprequest
 ||indowebster.com/js/link_converter.js
-||javapic.com/ikelan/
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/$subdocument
 ||ketawa.com/img-iklan/
@@ -36,11 +31,6 @@
 ||primbon.com/banner/
 ||resep.web.id/banner/
 ||stafaband.info/tb.swf
-||suarabola.com/banners/
 ||suaramedia.com/images/banners/
-||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
-||tribunnews.com/iklan/
-||uploadhouse.com^*.gif$domain=krucil.com
-||us.openx.detik.com^
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
