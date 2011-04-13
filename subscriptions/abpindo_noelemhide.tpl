@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Senin 11 April 2011, 08:25:50 WIB
+# Last modified  Rabu 13 April 2011, 14:55:17 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -403,80 +403,48 @@ msFilterList
 - http://yesads.com
 - http://zonaiklan.info
 # *** abpindo_specific_block.txt ***
--d 21cineplex.com /data/videoad/
 # ||adf.ly/js/link-converter.js$domain=indowebster.web.id
 # ||ads.indowebster.com^$script,image,subdocument
 # ||ads.kompas.com^$script,image,subdocument
-# ||arenabola.com^$domain=krucil.com
 # ||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
 -d cashburners.biz /banners/
 -d cdn.bloggerfiles.com /img/promo/
--d ceriwis.info /338x30.swf
--d ceriwis.us /338x30.swf
 -d chip.co.id /microsite/frame/index.html
 -d dewamabuk.com /images/banner/
 -d ebsoft.web.id /wp-content/banners/
--d freewebs.com /peluang-bisnis/kaya23.gif
 -d gudeg.net /images/banner/
 -d harianjogja.com /img/Bnr/
--d howsanindo.com /website/bisnisparfum/bisnisparfum_dijual.gif
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
 # ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
--d imagedum.com /images/457_Arenabola.png
--d imagedum.com /images/774_Tangkasbet.gif
--d imagedum.com /images/928_Ratubola.gif
--d img5.uploadhouse.com /fileuploads/7341/734124591c261b70951dfd979b37074530dcd6b.jpg
--d img5.uploadhouse.com /fileuploads/7341/7341275e70e126e6020b7970749f1517cddfa57.jpg
--d img6.uploadhouse.com /fileuploads/6946/6946586ec80b6e1318c82b46fe31274e46bae48.jpg
--d img7.uploadhouse.com /fileuploads/6944/69444773bf87af9d201f0bf2f81c7c083529805.jpg
--d indobokepz.com /images/banner-slideshow.jpg
--d indomp3z.us /banner/banner.fileserve.gif
--d indomp3z.us /images/ITZ-launch.jpg
--d indomp3z.us /images/fileserverpromote.gif
--d indomp3z.us /images/hotfile.jpg
--d indomp3z.us /images/imzupload.gif
--d indonesiapaypal.com /banners/flash/Banner250x250.swf
 # ||indowebster.com/ajax/iklan/$xmlhttprequest
+-d indowebster.com /js/link_converter.js
 -d javapic.com /ikelan/
-# ||javapic.com/images/*.gif$domain=krucil.com
 -d jogjastreamers.com /images/banner/
 # ||kad.kaskus.us/banner/$subdocument
--d kaskus.us /adv/
--d kaskus.us /banner/Kas_In-House-Banner_120x240_alt-2.jpg
 -d ketawa.com /img-iklan/
--d kikil.org /ads3.php
--d kikil.org /adsbahenol.html
--d kikil.org /network/uploaded_banners/
 -d kompas.com /data/banner/
 -d koranlokal.com /iklan_baru/
 -d koranlokal.com /newstickerpartai.php
 -d koranlokal.com /point1.php
--d krucil.com /bb17-iklan.php
--d lintasberita.com /public/images/bannermidlecenter.jpg
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
 -d mediaindonesia.com /public/banner/flash/
--d megindo.net /megindo2/data/affiliates/
 -d megindo.net /megindo2/images/banner-
 -d modemku.com /image-banner/
--d modifikasi.com /images/banner/close.gif
+-d modifikasi.com /images/banner/
 -d modifikasi.com /images/banner_
 -d musisi.com /musifile/images_banner/
 -d oprekpc.com /banner/
 -d perawan.us /images/banner/
 -d poems.web.id /poemspromo/
 -d primbon.com /banner/
--d readbud.com /images/125_125_banner.jpg
 -d resep.web.id /banner/
 -d stafaband.info /tb.swf
--d static.escavern.com /tokomaya.gif
 -d suarabola.com /banners/
 -d suaramedia.com /images/banners/
-# ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|kikil.org|krucil.com|masterporn.me|perawan.us
--d tribunnews.com //iklan/
+# ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
 -d tribunnews.com /iklan/
--d uki.ac.id /images/samkokbet.swf
 # ||uploadhouse.com^*.gif$domain=krucil.com
 - http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
