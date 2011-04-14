@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 87/RxLCTPmL5xhRnNHOnoQ
+! Checksum: 33gT0jGsJhnaEtEhw8khfQ
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Rabu 13 April 2011, 22:23:56 WIB
+! Last modified  Kamis 14 April 2011, 18:36:00 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -504,8 +504,6 @@
 ||y-bux.com^$third-party
 ||ziddu.com/banners/images/$third-party
 ! *** abpindo_specific_block.txt ***
-||ads.indowebster.com^$script,image,subdocument
-||ads.kompas.com^$script,image,subdocument
 ||cdn.bloggerfiles.com/img/promo/
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
@@ -514,10 +512,10 @@
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
 ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
-||indowebster.com/ajax/iklan/$xmlhttprequest
 ||indowebster.com/js/link_converter.js
 ||jogjastreamers.com/images/banner/
-||kad.kaskus.us/banner/$subdocument
+||kad.kaskus.us/banner/
+||kaskus.us/adv/
 ||ketawa.com/img-iklan/
 ||kompas.com/data/banner/
 ||koranlokal.com/iklan_baru/
