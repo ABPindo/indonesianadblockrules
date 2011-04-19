@@ -1,5 +1,7 @@
 ||1bisnisonline.com^$third-party
+||39bola.com^$third-party
 ||adultfriendfinder.com/images/banners/$third-party
+||agent926.com^$third-party
 ||alertpay.com/banners/$third-party
 ||apmmedia.net^$third-party
 ||arenabola.com^$third-party
@@ -16,6 +18,7 @@
 ||bisnisok.com^$third-party
 ||bisnistransportasi.com^$third-party
 ||bisnisurl.web.id^$third-party
+||bola777.net^$third-party
 ||bolaketangkasan.com^$third-party
 ||bux-matrix.com^$third-party
 ||buxrupiah.com^$third-party
@@ -41,6 +44,7 @@
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
 ||manasuka.com/gbr_banner_link/$third-party
+||marketbola.com^$third-party
 ||mractionclub.com/banner/$third-party
 ||networkadonline.com^$third-party
 ||numpanglewat.com^$third-party
@@ -63,11 +67,14 @@
 ||submitforall.com^$third-party
 ||submitfull.com^$third-party
 ||syadiashare.com^$third-party
+||tangkasbet.com^$third-party
+||thupox.com^$third-party
 ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
 ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
 ||web-indonesia.com^$third-party
+||webbola.com^$third-party
 ||webiihost.com/aff/banner/$third-party
 ||webjualbeli.com^$third-party
 ||y-bux.com^$third-party

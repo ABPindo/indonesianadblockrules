@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Kamis 14 April 2011, 18:36:00 WIB
+# Last modified  Selasa 19 April 2011, 08:01:11 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -412,7 +412,9 @@ msFilterList
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
 # ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
+-d indochanger.com /banner/
 -d indowebster.com /js/link_converter.js
+-d indowebster.com /static/iklan/idws/
 -d jogjastreamers.com /images/banner/
 -d kad.kaskus.us /banner/
 -d kaskus.us /adv/
@@ -438,4 +440,6 @@ msFilterList
 -d suaramedia.com /images/banners/
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/ads/
+-d zonabola.com /img_bin/iklan/
+-d zonabola.com /mansion.htm
 # *** abpindo_whitelist.txt ***

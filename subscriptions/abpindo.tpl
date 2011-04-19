@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Selasa 19 April 2011, 07:56:26 WIB
+# Last modified  Selasa 19 April 2011, 08:01:11 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -429,7 +429,9 @@ msFilterList
 - http://zonaiklan.info
 # *** abpindo_thirdparty.txt ***
 - http://1bisnisonline.com
+- http://39bola.com
 -d adultfriendfinder.com /images/banners/
+- http://agent926.com
 -d alertpay.com /banners/
 - http://apmmedia.net
 - http://arenabola.com
@@ -446,6 +448,7 @@ msFilterList
 - http://bisnisok.com
 - http://bisnistransportasi.com
 - http://bisnisurl.web.id
+- http://bola777.net
 - http://bolaketangkasan.com
 - http://bux-matrix.com
 - http://buxrupiah.com
@@ -471,6 +474,7 @@ msFilterList
 - http://komisigratis.com
 - http://kumpuljutawan.com
 -d manasuka.com /gbr_banner_link/
+- http://marketbola.com
 -d mractionclub.com /banner/
 - http://networkadonline.com
 - http://numpanglewat.com
@@ -493,11 +497,14 @@ msFilterList
 - http://submitforall.com
 - http://submitfull.com
 - http://syadiashare.com
+- http://tangkasbet.com
+- http://thupox.com
 # ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
 - http://topsurfer.com
 - http://tri7bet.com
 # ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
 - http://web-indonesia.com
+- http://webbola.com
 -d webiihost.com /aff/banner/
 - http://webjualbeli.com
 - http://y-bux.com
@@ -511,7 +518,9 @@ msFilterList
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
 # ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
+-d indochanger.com /banner/
 -d indowebster.com /js/link_converter.js
+-d indowebster.com /static/iklan/idws/
 -d jogjastreamers.com /images/banner/
 -d kad.kaskus.us /banner/
 -d kaskus.us /adv/
@@ -537,6 +546,8 @@ msFilterList
 -d suaramedia.com /images/banners/
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/ads/
+-d zonabola.com /img_bin/iklan/
+-d zonabola.com /mansion.htm
 # *** abpindo_specific_hide.txt ***
 # ansav.com##.body > CENTER
 # bola.net###top_leaderboard
@@ -633,6 +644,7 @@ msFilterList
 # mediaindonesia.com##.minitext
 # megindo.net###aft
 # metrotvnews.com###fixme
+# nyit-nyit.net###adn89 + * TD
 # oktavita.com##.banner-zone
 # republika.co.id###top-banner
 # resep.web.id###googlebox
@@ -643,4 +655,6 @@ msFilterList
 # tempointeraktif.com##.block.iklan.top
 # vivanews.com###ads_regularnokia
 # warungbebas.com##.gbtab
+# zonabola.com###lAds IMG
+# zonabola.com###rAds IMG
 # *** abpindo_whitelist.txt ***
