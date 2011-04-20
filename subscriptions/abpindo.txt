@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: oy3rwVY19rXjTokEt9wXsw
+! Checksum: /tgfq4olrvPm44yixU1eLw
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Rabu 20 April 2011, 07:57:44 WIB
+! Last modified  Rabu 20 April 2011, 08:20:59 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -67,18 +67,15 @@
 ||advertspeed.com^$third-party
 ||agenpromosi.com^$third-party
 ||ajangiklangratis.com^$third-party
-||alamatemail.com^$third-party
 ||anadvertorial.com^$third-party
 ||anekaiklan.com^$third-party
 ||antariklan.com^$third-party
-||arisanvip.com^$third-party
 ||axverta.com^$third-party
 ||ayoburuanklik.com^$third-party
 ||baliadv.com^$third-party
 ||bannerbux.com^$third-party
 ||barisiklangratis.com^$third-party
 ||bebaspikiran.com^$third-party
-||bekas.com^$third-party
 ||belajar-bisnis.com^$third-party
 ||bigextracash.com^$third-party
 ||biindit.com^$third-party
@@ -91,7 +88,6 @@
 ||bursapromo.com^$third-party
 ||buyiads.com^$third-party
 ||carasukses.com^$third-party
-||cash-harvest.com^$third-party
 ||cashviews.com^$third-party
 ||clickdbs.com^$third-party
 ||clicklifter.com^$third-party
@@ -107,7 +103,6 @@
 ||direktori-iklan.com^$third-party
 ||disinigratis.com^$third-party
 ||doubleclick.com^$third-party
-||drumcash.com^$third-party
 ||duitmu.com^$third-party
 ||duniaiklangratis.com^$third-party
 ||dutawebiklan.com^$third-party
@@ -115,7 +110,6 @@
 ||easyad.us^$third-party
 ||entryad.com^$third-party
 ||flexterkita.com^$third-party
-||forexpose.com^$third-party
 ||forum-iklan.com^$third-party
 ||forumiklan.com^$third-party
 ||freeads-iklan.com^$third-party
@@ -126,7 +120,6 @@
 ||gratisiklanpasang.net^$third-party
 ||gratispromo.com^$third-party
 ||groupiklan.com^$third-party
-||hiddenbux.com^$third-party
 ||iaiamedia.com^$third-party
 ||idr-clickit.com^$third-party
 ||iklan-baris.org^$third-party
@@ -137,8 +130,6 @@
 ||iklan-sukses.com^$third-party
 ||iklan-super.com^$third-party
 ||iklan.net^$third-party
-||iklan.terpopuler.com^$third-party
-||iklan.tipsntrik.com^$third-party
 ||iklan2009.com^$third-party
 ||iklanad.com^$third-party
 ||iklanads.com^$third-party
@@ -244,8 +235,6 @@
 ||iklanwebid.com^$third-party
 ||iklanyahoo.com^$third-party
 ||incentria.com^$third-party
-||incrasebux.com^$third-party
-||indo-solusta.com^$third-party
 ||indoadpro.com^$third-party
 ||indobanner.com^$third-party
 ||indobuysell.com^$third-party
@@ -287,7 +276,6 @@
 ||ladangiklan.com^$third-party
 ||ladanguang.com^$third-party
 ||lokeriklan.com^$third-party
-||malaysianad.com^$third-party
 ||maripromosi.com^$third-party
 ||masteriklan.net^$third-party
 ||mauiklangratis.com^$third-party
@@ -417,7 +405,6 @@
 ||unobux.com^$third-party
 ||untukblogger.com^$third-party
 ||updateiklan.com^$third-party
-||us.openx.detik.com^
 ||valueclick.net^$third-party
 ||vistaclix.com^$third-party
 ||webiklan.com^$third-party
@@ -429,13 +416,15 @@
 ||39bola.com^$third-party
 ||adultfriendfinder.com/images/banners/$third-party
 ||agent926.com^$third-party
+||alamatemail.com^$third-party
 ||alertpay.com/banners/$third-party
 ||apmmedia.net^$third-party
 ||arenabola.com^$third-party
-||asiafriendfinder.com^$domain=indowebster.com|maknyos.com
+||arisanvip.com^$third-party
 ||asianbrain.com/banner/$third-party
 ||banner.autosubmit.web.id^$third-party
 ||bannerhp.com^$third-party
+||bekas.com^$third-party
 ||benangmerah.com^$third-party
 ||bintangbola.net^$third-party
 ||bisnisgratis.net^$third-party
@@ -449,27 +438,39 @@
 ||bolaketangkasan.com^$third-party
 ||bux-matrix.com^$third-party
 ||buxrupiah.com^$third-party
+||cash-harvest.com^$third-party
 ||cashburners.biz/banners/
+||cdn.bloggerfiles.com/img/promo/
 ||chainbux.com^$third-party
-||clickbet88.com/banner/$third-party
+||clickbet88.com^$third-party
 ||dewamabuk.com$third-party
 ||doremibet.com^$third-party
+||drumcash.com^$third-party
 ||duitbux.com^$third-party
 ||dunia-bisnis.com^$third-party
 ||easy-hit-counter.com^$third-party
 ||enjoybux.com^$third-party
 ||folderbisnis.com^$third-party
+||forexpose.com^$third-party
 ||formulabisnis.com/images/$third-party
 ||fox-bux.com^$third-party
 ||funds4cash.com^$third-party
 ||galaxybola.com^$third-party
 ||goldbet88.com^$third-party
+||hiddenbux.com^$third-party
+||idblognetwork.com/images/banner468x60/
+||idblognetwork.com/images/banner728x90/
+||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
+||incrasebux.com^$third-party
+||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
 ||javapic.com/ikelan/
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
+||lytogame.com/images/partner/
+||lytogame.com/partner/
 ||manasuka.com/gbr_banner_link/$third-party
 ||marketbola.com^$third-party
 ||mractionclub.com/banner/$third-party
@@ -508,19 +509,15 @@
 ||ziddu.com/banners/images/$third-party
 ! *** abpindo_specific_block.txt ***
 ||admin.ads.indowebster.com^
-||cdn.bloggerfiles.com/img/promo/
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
 ||harianjogja.com/img/Bnr/
-||idblognetwork.com/images/banner468x60/
-||idblognetwork.com/images/banner728x90/
-||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 ||indochanger.com/banner/
-||indowebster.com/ajax/iklan/*
+||indowebster.com/ajax/iklan/
 ||indowebster.com/js/link_converter.js
 ||indowebster.com/static/iklan/idws/
-||indowebster.com/templates/img/grupidws_iklan/*
+||indowebster.com/templates/img/grupidws_iklan/
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
 ||kaskus.us/adv/
@@ -529,8 +526,6 @@
 ||koranlokal.com/iklan_baru/
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
-||lytogame.com/images/partner/
-||lytogame.com/partner/
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
 ||modemku.com/image-banner/
@@ -544,6 +539,7 @@
 ||resep.web.id/banner/
 ||stafaband.info/tb.swf
 ||suaramedia.com/images/banners/
+||us.openx.detik.com^
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
 ||zonabola.com/img_bin/iklan/

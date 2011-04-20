@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Rabu 20 April 2011, 07:57:44 WIB
+# Last modified  Rabu 20 April 2011, 08:20:59 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -46,18 +46,15 @@ msFilterList
 - http://advertspeed.com
 - http://agenpromosi.com
 - http://ajangiklangratis.com
-- http://alamatemail.com
 - http://anadvertorial.com
 - http://anekaiklan.com
 - http://antariklan.com
-- http://arisanvip.com
 - http://axverta.com
 - http://ayoburuanklik.com
 - http://baliadv.com
 - http://bannerbux.com
 - http://barisiklangratis.com
 - http://bebaspikiran.com
-- http://bekas.com
 - http://belajar-bisnis.com
 - http://bigextracash.com
 - http://biindit.com
@@ -70,7 +67,6 @@ msFilterList
 - http://bursapromo.com
 - http://buyiads.com
 - http://carasukses.com
-- http://cash-harvest.com
 - http://cashviews.com
 - http://clickdbs.com
 - http://clicklifter.com
@@ -86,7 +82,6 @@ msFilterList
 - http://direktori-iklan.com
 - http://disinigratis.com
 - http://doubleclick.com
-- http://drumcash.com
 - http://duitmu.com
 - http://duniaiklangratis.com
 - http://dutawebiklan.com
@@ -94,7 +89,6 @@ msFilterList
 - http://easyad.us
 - http://entryad.com
 - http://flexterkita.com
-- http://forexpose.com
 - http://forum-iklan.com
 - http://forumiklan.com
 - http://freeads-iklan.com
@@ -105,7 +99,6 @@ msFilterList
 - http://gratisiklanpasang.net
 - http://gratispromo.com
 - http://groupiklan.com
-- http://hiddenbux.com
 - http://iaiamedia.com
 - http://idr-clickit.com
 - http://iklan-baris.org
@@ -116,8 +109,6 @@ msFilterList
 - http://iklan-sukses.com
 - http://iklan-super.com
 - http://iklan.net
-- http://iklan.terpopuler.com
-- http://iklan.tipsntrik.com
 - http://iklan2009.com
 - http://iklanad.com
 - http://iklanads.com
@@ -223,8 +214,6 @@ msFilterList
 - http://iklanwebid.com
 - http://iklanyahoo.com
 - http://incentria.com
-- http://incrasebux.com
-- http://indo-solusta.com
 - http://indoadpro.com
 - http://indobanner.com
 - http://indobuysell.com
@@ -266,7 +255,6 @@ msFilterList
 - http://ladangiklan.com
 - http://ladanguang.com
 - http://lokeriklan.com
-- http://malaysianad.com
 - http://maripromosi.com
 - http://masteriklan.net
 - http://mauiklangratis.com
@@ -396,7 +384,6 @@ msFilterList
 - http://unobux.com
 - http://untukblogger.com
 - http://updateiklan.com
-- http://us.openx.detik.com
 - http://valueclick.net
 - http://vistaclix.com
 - http://webiklan.com
@@ -405,14 +392,10 @@ msFilterList
 - http://zonaiklan.info
 # *** abpindo_specific_block.txt ***
 - http://admin.ads.indowebster.com
--d cdn.bloggerfiles.com /img/promo/
 -d chip.co.id /microsite/frame/index.html
 -d ebsoft.web.id /wp-content/banners/
 -d gudeg.net /images/banner/
 -d harianjogja.com /img/Bnr/
--d idblognetwork.com /images/banner468x60/
--d idblognetwork.com /images/banner728x90/
-# ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 -d indochanger.com /banner/
 -d indowebster.com /ajax/iklan/
 -d indowebster.com /js/link_converter.js
@@ -426,8 +409,6 @@ msFilterList
 -d koranlokal.com /iklan_baru/
 -d koranlokal.com /newstickerpartai.php
 -d koranlokal.com /point1.php
--d lytogame.com /images/partner/
--d lytogame.com /partner/
 -d mediaindonesia.com /public/banner/flash/
 -d megindo.net /megindo2/images/banner-
 -d modemku.com /image-banner/
@@ -441,6 +422,7 @@ msFilterList
 -d resep.web.id /banner/
 -d stafaband.info /tb.swf
 -d suaramedia.com /images/banners/
+- http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/ads/
 -d zonabola.com /img_bin/iklan/

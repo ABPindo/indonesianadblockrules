@@ -1,17 +1,13 @@
 ||admin.ads.indowebster.com^
-||cdn.bloggerfiles.com/img/promo/
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
 ||harianjogja.com/img/Bnr/
-||idblognetwork.com/images/banner468x60/
-||idblognetwork.com/images/banner728x90/
-||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 ||indochanger.com/banner/
-||indowebster.com/ajax/iklan/*
+||indowebster.com/ajax/iklan/
 ||indowebster.com/js/link_converter.js
 ||indowebster.com/static/iklan/idws/
-||indowebster.com/templates/img/grupidws_iklan/*
+||indowebster.com/templates/img/grupidws_iklan/
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
 ||kaskus.us/adv/
@@ -20,8 +16,6 @@
 ||koranlokal.com/iklan_baru/
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
-||lytogame.com/images/partner/
-||lytogame.com/partner/
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
 ||modemku.com/image-banner/
@@ -35,6 +29,7 @@
 ||resep.web.id/banner/
 ||stafaband.info/tb.swf
 ||suaramedia.com/images/banners/
+||us.openx.detik.com^
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
 ||zonabola.com/img_bin/iklan/
