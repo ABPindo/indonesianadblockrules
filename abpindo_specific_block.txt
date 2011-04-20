@@ -1,3 +1,4 @@
+||admin.ads.indowebster.com^
 ||cdn.bloggerfiles.com/img/promo/
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
@@ -7,8 +8,10 @@
 ||idblognetwork.com/images/banner728x90/
 ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 ||indochanger.com/banner/
+||indowebster.com/ajax/iklan/*
 ||indowebster.com/js/link_converter.js
 ||indowebster.com/static/iklan/idws/
+||indowebster.com/templates/img/grupidws_iklan/*
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
 ||kaskus.us/adv/

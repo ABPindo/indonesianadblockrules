@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Selasa 19 April 2011, 08:01:11 WIB
+# Last modified  Rabu 20 April 2011, 07:57:44 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -19,14 +19,10 @@ msFilterList
 - /uploads/iklan/
 - http://banners-id.
 # *** abpindo_general_hide.txt ***
-# ###AdsAtas
-# ###AdsSearchAtas
-# ###Ads_fileinfo
 # ###ads_lb
 # ###adsmiddle
 # ###adtext
 # ###desaiklan
-# ###iklankiri
 # ###iklanpersegi
 # ##.Break.AdsBottom
 # ##.SectionAds
@@ -510,6 +506,7 @@ msFilterList
 - http://y-bux.com
 -d ziddu.com /banners/images/
 # *** abpindo_specific_block.txt ***
+- http://admin.ads.indowebster.com
 -d cdn.bloggerfiles.com /img/promo/
 -d chip.co.id /microsite/frame/index.html
 -d ebsoft.web.id /wp-content/banners/
@@ -519,8 +516,10 @@ msFilterList
 -d idblognetwork.com /images/banner728x90/
 # ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 -d indochanger.com /banner/
+-d indowebster.com /ajax/iklan/
 -d indowebster.com /js/link_converter.js
 -d indowebster.com /static/iklan/idws/
+-d indowebster.com /templates/img/grupidws_iklan/
 -d jogjastreamers.com /images/banner/
 -d kad.kaskus.us /banner/
 -d kaskus.us /adv/
@@ -599,19 +598,12 @@ msFilterList
 # google.co.id###rhs_block
 # google.com###rhs_block
 # google.com##.c0.lti35t
-# indowebster.com###Bingkai_DL_160x600
-# indowebster.com###H_tab1
-# indowebster.com###H_tab2
-# indowebster.com###H_tab3
-# indowebster.com###ads
-# indowebster.com###ban_cont1
-# indowebster.com###ban_cont2
-# indowebster.com###dl_cont
-# indowebster.com###fixed-top-ads
-# indowebster.com###iklan_atas
-# indowebster.com###showpaper
+# indowebster.com###AdsAtas
+# indowebster.com###AdsSearchAtas
+# indowebster.com###Ads_fileinfo
+# indowebster.com###ban_728
+# indowebster.com###iklankiri
 # indowebster.com###tr_iklanbaris2
-# indowebster.com###warn
 # kapanlagi.com###middle_showcase
 # kapanlagi.com###top_showcase
 # kapanlagi.com###v5-blogshowcase1

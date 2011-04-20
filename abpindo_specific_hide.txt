@@ -63,20 +63,12 @@ google.com###rhs_block
 google.com##.c0.lti35t
 indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
-indowebster.com###Bingkai_DL_160x600
-indowebster.com###H_tab1
-indowebster.com###H_tab2
-indowebster.com###H_tab3
-indowebster.com###ads
-indowebster.com###ban_cont1
-indowebster.com###ban_cont2
-indowebster.com###dl_cont
-indowebster.com###fixed-top-ads
-indowebster.com###iklan_atas
-indowebster.com###showpaper
+indowebster.com###AdsAtas
+indowebster.com###AdsSearchAtas
+indowebster.com###Ads_fileinfo
+indowebster.com###ban_728
+indowebster.com###iklankiri
 indowebster.com###tr_iklanbaris2
-indowebster.com###warn
-indowebster.com##LINK[rel="stylesheet"] + DIV[style="height:62px;"]
 kapanlagi.com###middle_showcase
 kapanlagi.com###top_showcase
 kapanlagi.com###v5-blogshowcase1
