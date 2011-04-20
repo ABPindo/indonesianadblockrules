@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 6GVPmJPsnqw63Ki5Hc7d9A
+! Checksum: /JxkxNtsoPCLlfRk+kh3Vw
 ! abp_indo without element hiding 
-! Last modified  Selasa 19 April 2011, 08:01:11 WIB
+! Last modified  Rabu 20 April 2011, 07:57:44 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -405,6 +405,7 @@
 ||yesads.com^$third-party
 ||zonaiklan.info^$third-party
 ! *** abpindo_specific_block.txt ***
+||admin.ads.indowebster.com^
 ||cdn.bloggerfiles.com/img/promo/
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
@@ -414,8 +415,10 @@
 ||idblognetwork.com/images/banner728x90/
 ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 ||indochanger.com/banner/
+||indowebster.com/ajax/iklan/*
 ||indowebster.com/js/link_converter.js
 ||indowebster.com/static/iklan/idws/
+||indowebster.com/templates/img/grupidws_iklan/*
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
 ||kaskus.us/adv/
