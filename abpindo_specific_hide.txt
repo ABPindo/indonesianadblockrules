@@ -1,7 +1,5 @@
 ansav.com##.body > CENTER
 bluefame.com##CENTER IMG[height="90"][width="728"]
-bola.net###top_leaderboard
-boleh.com##.bannersmall
 ceriwis.us###hoho-wrapsubmenu2
 ceriwis.us###hoho-wrapsubmenu3
 ceriwis.us###message-box
@@ -93,7 +91,6 @@ kaskus.us###cntysm
 kaskus.us###exp
 kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
-keluargacemara.com###head-banner468
 krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
 krucil.com##DIV[align="center"] TABLE[width="900"]
@@ -101,20 +98,9 @@ m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##A[href^="http://mkhoj.com"]
 mangafox.com##.ad728x90.left + .right
-mediaindonesia.com###topbanner
-mediaindonesia.com##.minitext
-megindo.net###aft
 metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * TD
-oktavita.com##.banner-zone
-republika.co.id###top-banner
-republika.co.id##DIV[style="width:300px; height:100px; margin-bottom:10px;"]
-republika.co.id##DIV[style="width:330px; height:100px; margin-bottom:10px;"]
 resep.web.id###googlebox
-suarabola.com###bannertop
-suarapembaruan.com###topbanner
-surya.co.id##.midbanner-box
-tempointeraktif.com###banner-tengah
 tempointeraktif.com##.block.iklan.top
 tribunnews.com##IMG[src="http://www.tribunnews.com/stylesheets/close.gif"]
 vivanews.com###ads_regularnokia

@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Jumat 29 April 2011, 07:17:13 WIB
+# Last modified  Selasa 03 Mei 2011, 09:18:23 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -17,7 +17,6 @@ msFilterList
 - /images/iklan-
 - /images/iklan/
 - /uploads/iklan/
-- http://banners-id.
 # *** abpindo_general_hide.txt ***
 # ###ads_lb
 # ###adsmiddle
@@ -25,7 +24,6 @@ msFilterList
 # ###desaiklan
 # ###iklanpersegi
 # ##.Break.AdsBottom
-# ##.SectionAds
 # ##.ads-sponsors
 # ##.ads03
 # ##.adsafp
@@ -33,7 +31,6 @@ msFilterList
 # ##.advertize_here
 # ##.banner-adv
 # ##.bgads
-# ##.block.iklan
 # ##.gbcontent
 # ##.gpcontent
 # ##.pasangiklan
@@ -96,7 +93,6 @@ msFilterList
 - http://clickxchange.com
 - http://cyberpromo.biz
 - http://daniklan.com
-- http://dbclix.com
 - http://desaiklan.com
 - http://dewa-bisnis.com
 - http://direktori-iklan.com
@@ -293,7 +289,6 @@ msFilterList
 - http://mpnrs.com
 - http://mybannermaker.com
 - http://negeriads.com
-- http://neobux.com
 - http://neorupiah.com
 - http://nspmotion.com
 - http://nuansaiklan.com
@@ -501,12 +496,12 @@ msFilterList
 - http://topsurfer.com
 - http://tri7bet.com
 # ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
+-d video-searchengine.com /banner/
 - http://web-indonesia.com
 - http://webbola.com
 -d webiihost.com /aff/banner/
 - http://webjualbeli.com
 - http://y-bux.com
--d ziddu.com /banners/images/
 # *** abpindo_specific_block.txt ***
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
@@ -547,8 +542,6 @@ msFilterList
 -d zonabola.com /mansion.htm
 # *** abpindo_specific_hide.txt ***
 # ansav.com##.body > CENTER
-# bola.net###top_leaderboard
-# boleh.com##.bannersmall
 # ceriwis.us###hoho-wrapsubmenu2
 # ceriwis.us###hoho-wrapsubmenu3
 # ceriwis.us###message-box
@@ -624,24 +617,14 @@ msFilterList
 # kaskus.us###Middlenahome1
 # kaskus.us###cntysm
 # kaskus.us###exp
-# keluargacemara.com###head-banner468
 # krucil.com###floating_banner_bottom
 # krucil.com##.fixmeInner
 # m.detik.com###top
 # m.iklanbaris.detik.com##.adtext01
 # mangafox.com##.ad728x90.left + .right
-# mediaindonesia.com###topbanner
-# mediaindonesia.com##.minitext
-# megindo.net###aft
 # metrotvnews.com###fixme
 # nyit-nyit.net###adn89 + * TD
-# oktavita.com##.banner-zone
-# republika.co.id###top-banner
 # resep.web.id###googlebox
-# suarabola.com###bannertop
-# suarapembaruan.com###topbanner
-# surya.co.id##.midbanner-box
-# tempointeraktif.com###banner-tengah
 # tempointeraktif.com##.block.iklan.top
 # vivanews.com###ads_regularnokia
 # warungbebas.com##.gbtab
