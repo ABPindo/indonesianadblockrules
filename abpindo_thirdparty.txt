@@ -88,9 +88,9 @@
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
 ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
+||video-searchengine.com/banner/*
 ||web-indonesia.com^$third-party
 ||webbola.com^$third-party
 ||webiihost.com/aff/banner/$third-party
 ||webjualbeli.com^$third-party
 ||y-bux.com^$third-party
-||ziddu.com/banners/images/$third-party
