@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Selasa 03 Mei 2011, 09:18:23 WIB
+# Last modified  Minggu 08 Mei 2011, 16:59:19 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -492,10 +492,10 @@ msFilterList
 - http://syadiashare.com
 - http://tangkasbet.com
 - http://thupox.com
-# ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
+# ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com|krucil.net
 - http://topsurfer.com
 - http://tri7bet.com
-# ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
+# ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com
 -d video-searchengine.com /banner/
 - http://web-indonesia.com
 - http://webbola.com
@@ -619,6 +619,8 @@ msFilterList
 # kaskus.us###exp
 # krucil.com###floating_banner_bottom
 # krucil.com##.fixmeInner
+# krucil.net###floating_banner_bottom
+# krucil.net##.fixmeInner
 # m.detik.com###top
 # m.iklanbaris.detik.com##.adtext01
 # mangafox.com##.ad728x90.left + .right
