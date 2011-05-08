@@ -84,10 +84,10 @@
 ||syadiashare.com^$third-party
 ||tangkasbet.com^$third-party
 ||thupox.com^$third-party
-||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
+||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com|krucil.net
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
-||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
+||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com
 ||video-searchengine.com/banner/*
 ||web-indonesia.com^$third-party
 ||webbola.com^$third-party
