@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified  Minggu 08 Mei 2011, 16:59:19 WIB
+# Last modified:  Kamis 19 Mei 2011, 06:54:19 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -408,6 +408,7 @@ msFilterList
 # *** abpindo_thirdparty.txt ***
 - http://1bisnisonline.com
 - http://39bola.com
+- http://39bola.com
 -d adultfriendfinder.com /images/banners/
 - http://agent926.com
 - http://alamatemail.com
@@ -443,6 +444,7 @@ msFilterList
 - http://duitbux.com
 - http://dunia-bisnis.com
 - http://easy-hit-counter.com
+- http://empatdns.com
 - http://enjoybux.com
 - http://folderbisnis.com
 - http://forexpose.com
@@ -467,6 +469,8 @@ msFilterList
 -d lytogame.com /partner/
 -d manasuka.com /gbr_banner_link/
 - http://marketbola.com
+- http://marketbola.com
+- http://matakodok.com
 -d mractionclub.com /banner/
 - http://networkadonline.com
 - http://numpanglewat.com
@@ -493,6 +497,7 @@ msFilterList
 - http://tangkasbet.com
 - http://thupox.com
 # ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com|krucil.net
+- http://topskor.us
 - http://topsurfer.com
 - http://tri7bet.com
 # ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com

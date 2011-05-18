@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: XxxlQFMqChNd/oQcbDoMCQ
+! Checksum: eBmp/FKuT8sQXT1th9f1KA
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Minggu 08 Mei 2011, 16:59:19 WIB
+! Last modified:  Kamis 19 Mei 2011, 06:54:19 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -408,6 +408,7 @@
 ||zonaiklan.info^$third-party
 ! *** abpindo_thirdparty.txt ***
 ||1bisnisonline.com^$third-party
+||39bola.com^
 ||39bola.com^$third-party
 ||adultfriendfinder.com/images/banners/$third-party
 ||agent926.com^$third-party
@@ -444,6 +445,7 @@
 ||duitbux.com^$third-party
 ||dunia-bisnis.com^$third-party
 ||easy-hit-counter.com^$third-party
+||empatdns.com^$third-party
 ||enjoybux.com^$third-party
 ||folderbisnis.com^$third-party
 ||forexpose.com^$third-party
@@ -467,7 +469,9 @@
 ||lytogame.com/images/partner/
 ||lytogame.com/partner/
 ||manasuka.com/gbr_banner_link/$third-party
+||marketbola.com^
 ||marketbola.com^$third-party
+||matakodok.com^$third-party
 ||mractionclub.com/banner/$third-party
 ||networkadonline.com^$third-party
 ||numpanglewat.com^$third-party
@@ -494,6 +498,7 @@
 ||tangkasbet.com^$third-party
 ||thupox.com^$third-party
 ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com|krucil.net
+||topskor.us^
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
 ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com
@@ -603,6 +608,8 @@ google.co.id##TABLE[style="border: 1px solid #0000CC"]
 google.co.id##TABLE[style="border: 1px solid #11593c"]
 google.com###rhs_block
 google.com##.c0.lti35t
+i-comers.com##.alt1[nowrap="nowrap"]
+i-comers.com##.alt1[nowrap="nowrap"][valign="top"]
 indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
 indowebster.com###AdsAtas
