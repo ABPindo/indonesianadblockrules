@@ -8,6 +8,7 @@ ceriwis.us##IMG[alt="Top Banner"]
 ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
 detik.com###adpoint-article
 detik.com###adtext-info
+detik.com###anchormasklink
 detik.com###footerbanner
 detik.com###headerbanner
 detik.com##.bannertengah
@@ -54,6 +55,9 @@ detiksport.com###footerbanner
 detiksport.com###headerbanner
 detiksport.com##.bannertengah
 detiksport.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
+ganool.com###ad2_footer
+ganool.com###floating_banner_top
+ganool.com###pateni
 google.co.id###rhs_block
 google.co.id##TABLE[style="border: 1px solid #0000CC"]
 google.co.id##TABLE[style="border: 1px solid #11593c"]
