@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified:  Kamis 19 Mei 2011, 06:54:19 WIB
+# Last modified:  Minggu 22 Mei 2011, 08:46:23 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -508,6 +508,7 @@ msFilterList
 - http://webjualbeli.com
 - http://y-bux.com
 # *** abpindo_specific_block.txt ***
+# ||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg$domain=ganool.com
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d chip.co.id /microsite/frame/index.html
@@ -553,6 +554,7 @@ msFilterList
 # ceriwis.us###message-box-bot
 # detik.com###adpoint-article
 # detik.com###adtext-info
+# detik.com###anchormasklink
 # detik.com###footerbanner
 # detik.com###headerbanner
 # detik.com##.bannertengah
@@ -591,6 +593,9 @@ msFilterList
 # detiksport.com###footerbanner
 # detiksport.com###headerbanner
 # detiksport.com##.bannertengah
+# ganool.com###ad2_footer
+# ganool.com###floating_banner_top
+# ganool.com###pateni
 # google.co.id###rhs_block
 # google.com###rhs_block
 # google.com##.c0.lti35t

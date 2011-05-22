@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Minggu 08 Mei 2011, 16:59:19 WIB
+# Last modified  Minggu 22 Mei 2011, 08:46:23 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -388,6 +388,7 @@ msFilterList
 - http://yesads.com
 - http://zonaiklan.info
 # *** abpindo_specific_block.txt ***
+# ||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg$domain=ganool.com
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d chip.co.id /microsite/frame/index.html
