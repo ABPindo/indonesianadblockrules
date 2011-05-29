@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified:  Sabtu 28 Mei 2011, 05:27:58 WIB
+# Last modified:  Minggu 29 Mei 2011, 14:02:02 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -240,7 +240,6 @@ msFilterList
 - http://indoptc.com
 - http://indostats.com
 - http://indovertiser.com
-- http://infinityads.com
 - http://inmobi.com
 - http://innity.net
 - http://istanaiklan.com
@@ -408,7 +407,6 @@ msFilterList
 # *** abpindo_thirdparty.txt ***
 - http://1bisnisonline.com
 - http://39bola.com
-- http://39bola.com
 -d adultfriendfinder.com /images/banners/
 - http://agent926.com
 - http://alamatemail.com
@@ -452,6 +450,7 @@ msFilterList
 - http://fox-bux.com
 - http://funds4cash.com
 - http://galaxybola.com
+- http://gesrek.com
 - http://goldbet88.com
 - http://hiddenbux.com
 -d idblognetwork.com /images/banner468x60/
@@ -468,7 +467,6 @@ msFilterList
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
 -d manasuka.com /gbr_banner_link/
-- http://marketbola.com
 - http://marketbola.com
 - http://matakodok.com
 -d mractionclub.com /banner/
@@ -511,6 +509,7 @@ msFilterList
 # ||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg$domain=ganool.com
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
+-d ceri.ws /ads/
 -d chip.co.id /microsite/frame/index.html
 -d ebsoft.web.id /wp-content/banners/
 -d gudeg.net /images/banner/

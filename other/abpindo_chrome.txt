@@ -1,6 +1,7 @@
 [Adblock Plus 1.1]
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified  Selasa 03 Mei 2011, 09:18:23 WIB
+! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
+! Last modified:  Minggu 29 Mei 2011, 14:00:38 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -240,7 +241,6 @@
 ||indoptc.com^$third-party
 ||indostats.com^$third-party
 ||indovertiser.com^$third-party
-||infinityads.com^$third-party
 ||inmobi.com^$third-party
 ||innity.net^$third-party
 ||istanaiklan.com^$third-party
@@ -443,6 +443,7 @@
 ||duitbux.com^$third-party
 ||dunia-bisnis.com^$third-party
 ||easy-hit-counter.com^$third-party
+||empatdns.com^$third-party
 ||enjoybux.com^$third-party
 ||folderbisnis.com^$third-party
 ||forexpose.com^$third-party
@@ -450,6 +451,7 @@
 ||fox-bux.com^$third-party
 ||funds4cash.com^$third-party
 ||galaxybola.com^$third-party
+||gesrek.com^$third-party
 ||goldbet88.com^$third-party
 ||hiddenbux.com^$third-party
 ||idblognetwork.com/images/banner468x60/
@@ -467,6 +469,7 @@
 ||lytogame.com/partner/
 ||manasuka.com/gbr_banner_link/$third-party
 ||marketbola.com^$third-party
+||matakodok.com^$third-party
 ||mractionclub.com/banner/$third-party
 ||networkadonline.com^$third-party
 ||numpanglewat.com^$third-party
@@ -492,10 +495,11 @@
 ||syadiashare.com^$third-party
 ||tangkasbet.com^$third-party
 ||thupox.com^$third-party
-||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
+||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com|krucil.net
+||topskor.us^
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
-||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com
+||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com
 ||video-searchengine.com/banner/*
 ||web-indonesia.com^$third-party
 ||webbola.com^$third-party
@@ -503,8 +507,10 @@
 ||webjualbeli.com^$third-party
 ||y-bux.com^$third-party
 ! *** abpindo_specific_block.txt ***
+||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg$domain=ganool.com
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
+||ceri.ws/ads/*
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
@@ -522,6 +528,8 @@
 ||koranlokal.com/iklan_baru/
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
+||krucil.net/bb17-iklan.php
+||krucil.net/pop.js
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
 ||modemku.com/image-banner/
@@ -551,6 +559,7 @@ ceriwis.us##IMG[alt="Top Banner"]
 ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
 detik.com###adpoint-article
 detik.com###adtext-info
+detik.com###anchormasklink
 detik.com###footerbanner
 detik.com###headerbanner
 detik.com##.bannertengah
@@ -597,11 +606,16 @@ detiksport.com###footerbanner
 detiksport.com###headerbanner
 detiksport.com##.bannertengah
 detiksport.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
+ganool.com###ad2_footer
+ganool.com###floating_banner_top
+ganool.com###pateni
 google.co.id###rhs_block
 google.co.id##TABLE[style="border: 1px solid #0000CC"]
 google.co.id##TABLE[style="border: 1px solid #11593c"]
 google.com###rhs_block
 google.com##.c0.lti35t
+i-comers.com##.alt1[nowrap="nowrap"]
+i-comers.com##.alt1[nowrap="nowrap"][valign="top"]
 indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
 indowebster.com###AdsAtas
@@ -634,9 +648,9 @@ kaskus.us###cntysm
 kaskus.us###exp
 kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
-krucil.com###floating_banner_bottom
-krucil.com##.fixmeInner
-krucil.com##DIV[align="center"] TABLE[width="900"]
+krucil.net###fixme
+krucil.net###floating_banner_bottom
+krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##A[href^="http://mkhoj.com"]
@@ -645,6 +659,8 @@ metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * TD
 resep.web.id###googlebox
 tempointeraktif.com##.block.iklan.top
+thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
+thehack3r.com##IMG[width="728"][height="90"]
 tribunnews.com##IMG[src="http://www.tribunnews.com/stylesheets/close.gif"]
 vivanews.com###ads_regularnokia
 wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
