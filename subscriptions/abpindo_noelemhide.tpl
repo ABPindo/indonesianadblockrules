@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Minggu 22 Mei 2011, 09:02:23 WIB
+# Last modified  Minggu 29 Mei 2011, 14:02:02 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -222,7 +222,6 @@ msFilterList
 - http://indoptc.com
 - http://indostats.com
 - http://indovertiser.com
-- http://infinityads.com
 - http://inmobi.com
 - http://innity.net
 - http://istanaiklan.com
@@ -391,6 +390,7 @@ msFilterList
 # ||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg$domain=ganool.com
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
+-d ceri.ws /ads/
 -d chip.co.id /microsite/frame/index.html
 -d ebsoft.web.id /wp-content/banners/
 -d gudeg.net /images/banner/
@@ -408,6 +408,8 @@ msFilterList
 -d koranlokal.com /iklan_baru/
 -d koranlokal.com /newstickerpartai.php
 -d koranlokal.com /point1.php
+-d krucil.net /bb17-iklan.php
+-d krucil.net /pop.js
 -d mediaindonesia.com /public/banner/flash/
 -d megindo.net /megindo2/images/banner-
 -d modemku.com /image-banner/

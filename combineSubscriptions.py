@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!C:\Python32 python
 # coding: utf-8
 
 # The contents of this file are subject to the Mozilla Public License
@@ -22,31 +22,35 @@ verbatim = {
   'COPYING': True,
 }
 
-def combineSubscriptions(sourceDir, targetDir, timeout=30):
+def combineSubscriptions(sourceDirs, targetDir, timeout=30):
   global acceptedExtensions, ignore, verbatim
+
+  if isinstance(sourceDirs, basestring):
+    sourceDirs = {'': sourceDirs}
 
   if not os.path.exists(targetDir):
     os.makedirs(targetDir, 0755)
 
   known = {}
-  for file in os.listdir(sourceDir):
-    if file in ignore or file[0] == '.' or not os.path.isfile(os.path.join(sourceDir, file)):
-      continue
-    if file in verbatim:
-      processVerbatimFile(sourceDir, targetDir, file)
-    elif not os.path.splitext(file)[1] in acceptedExtensions:
-      continue
-    else:
-      try:
-        processSubscriptionFile(sourceDir, targetDir, file, timeout)
-      except:
-        print >>sys.stderr, 'Error processing subscription file "%s"' % file
-        traceback.print_exc()
-        print >>sys.stderr
-      known[os.path.splitext(file)[0] + '.tpl'] = True
-      known[os.path.splitext(file)[0] + '.tpl.gz'] = True
-    known[file] = True
-    known[file + '.gz'] = True
+  for sourceName, sourceDir in sourceDirs.iteritems():
+    for file in os.listdir(sourceDir):
+      if file in ignore or file[0] == '.' or not os.path.isfile(os.path.join(sourceDir, file)):
+        continue
+      if file in verbatim:
+        processVerbatimFile(sourceDir, targetDir, file)
+      elif not os.path.splitext(file)[1] in acceptedExtensions:
+        continue
+      else:
+        try:
+          processSubscriptionFile(sourceName, sourceDirs, targetDir, file, timeout)
+        except:
+          print >>sys.stderr, 'Error processing subscription file "%s"' % file
+          traceback.print_exc()
+          print >>sys.stderr
+        known[os.path.splitext(file)[0] + '.tpl'] = True
+        known[os.path.splitext(file)[0] + '.tpl.gz'] = True
+      known[file] = True
+      known[file + '.gz'] = True
 
   for file in os.listdir(targetDir):
     if file[0] == '.':
@@ -82,7 +86,8 @@ def processVerbatimFile(sourceDir, targetDir, file):
   conditionalWrite(os.path.join(targetDir, file), handle.read())
   handle.close()
 
-def processSubscriptionFile(sourceDir, targetDir, file, timeout):
+def processSubscriptionFile(sourceName, sourceDirs, targetDir, file, timeout):
+  sourceDir = sourceDirs[sourceName]
   filePath = os.path.join(sourceDir, file)
   handle = codecs.open(filePath, 'rb', encoding='utf-8')
   lines = map(lambda l: re.sub(r'[\r\n]', '', l), handle.readlines())
@@ -95,7 +100,7 @@ def processSubscriptionFile(sourceDir, targetDir, file, timeout):
   if not re.search(r'\[Adblock(?:\s*Plus\s*([\d\.]+)?)?\]', header, re.I):
     raise Exception('This is not a valid Adblock Plus subscription file.')
 
-  lines = resolveIncludes(filePath, lines, timeout)
+  lines = resolveIncludes(sourceName, sourceDirs, filePath, lines, timeout)
   lines = filter(lambda l: l != '' and not re.search(r'!\s*checksum[\s\-:]+([\w\+\/=]+)', l, re.I), lines)
 
   writeTPL(os.path.join(targetDir, os.path.splitext(file)[0] + '.tpl'), lines)
@@ -106,7 +111,7 @@ def processSubscriptionFile(sourceDir, targetDir, file, timeout):
   lines.insert(0, header)
   conditionalWrite(os.path.join(targetDir, file), '\n'.join(lines) + '\n')
 
-def resolveIncludes(filePath, lines, timeout, level=0):
+def resolveIncludes(sourceName, sourceDirs, filePath, lines, timeout, level=0):
   if level > 5:
     raise Exception('There are too many nested includes, which is probably the result of a circular reference somewhere.')
 
@@ -130,7 +135,13 @@ def resolveIncludes(filePath, lines, timeout, level=0):
       else:
         result.append('! *** %s ***' % file)
 
-        parentDir = os.path.dirname(filePath)
+        includeSource = sourceName
+        if file.find(':') >= 0:
+          includeSource, file = file.split(':', 1)
+        if not includeSource in sourceDirs:
+          raise Exception('Cannot include file from repository "%s", this repository is unknown' % includeSource)
+
+        parentDir = sourceDirs[includeSource]
         includePath = os.path.join(parentDir, file)
         relPath = os.path.relpath(includePath, parentDir)
         if len(relPath) == 0 or relPath[0] == '.':
@@ -138,7 +149,7 @@ def resolveIncludes(filePath, lines, timeout, level=0):
 
         handle = codecs.open(includePath, 'rb', encoding='utf-8')
         newLines = map(lambda l: re.sub(r'[\r\n]', '', l), handle.readlines())
-        newLines = resolveIncludes(includePath, newLines, timeout, level + 1)
+        newLines = resolveIncludes(includeSource, sourceDirs, includePath, newLines, timeout, level + 1)
         handle.close()
 
       if len(newLines) and re.search(r'\[Adblock(?:\s*Plus\s*([\d\.]+)?)?\]', newLines[0], re.I):
@@ -147,6 +158,7 @@ def resolveIncludes(filePath, lines, timeout, level=0):
     else:
       if line.find('%timestamp%') >= 0:
         if level == 0:
+		  #line = line.replace('%timestamp%', time.strftime('%p %A %d %B %Y, %H:%M:%S WIB', time.gmtime()))
           line = line.replace('%timestamp%', time.strftime('%d %b %Y %H:%M UTC', time.gmtime()))
         else:
           line = ''
@@ -194,35 +206,25 @@ def writeTPL(filePath, lines):
         if isException:
           options = filter(lambda o: not o.startswith('domain=~'), options)
 
-        if 'donottrack' in options:
-          # Rules with donottrack option should always be removed
+        unsupportedOptions = filter(lambda o: o in ('object-subrequest', 'other', 'elemhide'), options)
+        if unsupportedOptions and len(unsupportedOptions) == len(options):
+          # The rule only applies to types that are not supported in MSIE
           hasUnsupportedOptions = True
-          
-        unsupportedOptions = 0
-        
-        if 'object-subrequest' in options:
-          # The rule applies to object subrequests, which may not be filtered by TPLs
-          unsupportedOptions += 1
-        if 'elemhide' in options:
-          # The rule prevents the hiding of elements, which is not possible with TPLs
-          unsupportedOptions += 1
-          
-        if unsupportedOptions >= len(options):
-          # The rule only applies to unsupported options
+        elif 'donottrack' in options:
+          # Do-Not-Track rules have to be removed even if $donottrack is combined with other options
           hasUnsupportedOptions = True
-        else:
-          # The rule has other significant options that need to be evaluated
-          if 'script' in options and (len(options) - unsupportedOptions) == 1:
-            # Mark rules that only apply to scripts for approximate conversion
-            requiresScript = True
+        elif 'script' in options and len(options) == len(unsupportedOptions) + 1:
+          # Mark rules that only apply to scripts for approximate conversion
+          requiresScript = True
+        elif len(options) > 0:
+          # The rule has further options that aren't available in TPLs. For
+          # exception rules that aren't specific to a domain we ignore all
+          # remaining options to avoid potential false positives. Other rules
+          # simply aren't included in the TPL file.
+          if isException:
+            hasUnsupportedOptions = any([o.startswith('domain=') for o in options])
           else:
-            # The rule has further options that aren't available in TPLs.
-            # Unless an exception rule is specific to a domain, all remaining
-            # options are ignored to avoid potential false positives.
-            if isException:
-              hasUnsupportedOptions = any([o.startswith('domain=') for o in options])
-            else:
-              hasUnsupportedOptions = True
+            hasUnsupportedOptions = True
 
       if hasUnsupportedOptions:
         # Do not include filters with unsupported options

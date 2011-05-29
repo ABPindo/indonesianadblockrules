@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ldUVYxiuskbOF8utKrqZ8A
+! Checksum: bJJs8UMFqrsFkz4cATLJlw
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Sabtu 28 Mei 2011, 05:27:58 WIB
+! Last modified:  Minggu 29 Mei 2011, 14:02:02 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -241,7 +241,6 @@
 ||indoptc.com^$third-party
 ||indostats.com^$third-party
 ||indovertiser.com^$third-party
-||infinityads.com^$third-party
 ||inmobi.com^$third-party
 ||innity.net^$third-party
 ||istanaiklan.com^$third-party
@@ -408,7 +407,6 @@
 ||zonaiklan.info^$third-party
 ! *** abpindo_thirdparty.txt ***
 ||1bisnisonline.com^$third-party
-||39bola.com^
 ||39bola.com^$third-party
 ||adultfriendfinder.com/images/banners/$third-party
 ||agent926.com^$third-party
@@ -453,6 +451,7 @@
 ||fox-bux.com^$third-party
 ||funds4cash.com^$third-party
 ||galaxybola.com^$third-party
+||gesrek.com^$third-party
 ||goldbet88.com^$third-party
 ||hiddenbux.com^$third-party
 ||idblognetwork.com/images/banner468x60/
@@ -469,7 +468,6 @@
 ||lytogame.com/images/partner/
 ||lytogame.com/partner/
 ||manasuka.com/gbr_banner_link/$third-party
-||marketbola.com^
 ||marketbola.com^$third-party
 ||matakodok.com^$third-party
 ||mractionclub.com/banner/$third-party
@@ -512,6 +510,7 @@
 ||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg$domain=ganool.com
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
+||ceri.ws/ads/*
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/

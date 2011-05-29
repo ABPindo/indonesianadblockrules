@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: YAdjZF7ZJzPF5BsjTl5//g
+! Checksum: XIyX6TpEmn9e/Q/eaA26BA
 ! abp_indo without element hiding 
-! Last modified  Minggu 22 Mei 2011, 09:02:23 WIB
+! Last modified  Minggu 29 Mei 2011, 14:02:02 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -223,7 +223,6 @@
 ||indoptc.com^$third-party
 ||indostats.com^$third-party
 ||indovertiser.com^$third-party
-||infinityads.com^$third-party
 ||inmobi.com^$third-party
 ||innity.net^$third-party
 ||istanaiklan.com^$third-party
@@ -392,6 +391,7 @@
 ||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg$domain=ganool.com
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
+||ceri.ws/ads/*
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
@@ -409,6 +409,8 @@
 ||koranlokal.com/iklan_baru/
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
+||krucil.net/bb17-iklan.php
+||krucil.net/pop.js
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
 ||modemku.com/image-banner/
