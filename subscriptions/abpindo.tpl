@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified:  Minggu 29 Mei 2011, 14:02:02 WIB
+# Last modified:  Senin 06 Juni 2011, 05:40:20 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -12,29 +12,18 @@ msFilterList
 - .com/iklan/
 - .id/ads/
 - .id/iklan/
-- /admaxads.
 - /iklan.
 - /images/iklan-
 - /images/iklan/
 - /uploads/iklan/
 # *** abpindo_general_hide.txt ***
-# ###ads_lb
-# ###adsmiddle
-# ###adtext
 # ###desaiklan
 # ###iklanpersegi
-# ##.Break.AdsBottom
-# ##.ads-sponsors
-# ##.ads03
-# ##.adsafp
-# ##.adv_right
-# ##.advertize_here
 # ##.banner-adv
 # ##.bgads
 # ##.gbcontent
 # ##.gpcontent
 # ##.pasangiklan
-# ##.textlinkads
 # *** abpindo_adservers.txt ***
 - http://1iklanbaris.com
 - http://1jutarupiah.com
@@ -91,6 +80,7 @@ msFilterList
 - http://clicks4cents.com
 - http://clicksia.com
 - http://clickxchange.com
+- http://clixsense.com
 - http://cyberpromo.biz
 - http://daniklan.com
 - http://desaiklan.com
