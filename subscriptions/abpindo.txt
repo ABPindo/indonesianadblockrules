@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: bJJs8UMFqrsFkz4cATLJlw
+! Checksum: nDb/boAB1bjocpFYNe7zKQ
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Minggu 29 Mei 2011, 14:02:02 WIB
+! Last modified:  Senin 06 Juni 2011, 05:40:20 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -13,29 +13,18 @@
 .com/iklan/
 .id/ads/
 .id/iklan/
-/admaxads.
 /iklan.
 /images/iklan-
 /images/iklan/*
 /uploads/iklan/*
 ! *** abpindo_general_hide.txt ***
-###ads_lb
-###adsmiddle
-###adtext
 ###desaiklan
 ###iklanpersegi
-##.Break.AdsBottom
-##.ads-sponsors
-##.ads03
-##.adsafp
-##.adv_right
-##.advertize_here
 ##.banner-adv
 ##.bgads
 ##.gbcontent
 ##.gpcontent
 ##.pasangiklan
-##.textlinkads
 ! *** abpindo_adservers.txt ***
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
@@ -92,6 +81,7 @@
 ||clicks4cents.com^$third-party
 ||clicksia.com^$third-party
 ||clickxchange.com^$third-party
+||clixsense.com^$third-party
 ||cyberpromo.biz^$third-party
 ||daniklan.com^$third-party
 ||desaiklan.com^$third-party
