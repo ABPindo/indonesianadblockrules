@@ -1,14 +1,16 @@
 msFilterList
 : Expires=5
 # JBet - Jebakan Betmen
-# Last modified  Rabu 20 April 2011, 07:57:44 WIB
+# Last modified  Senin 06 Juni 2011, 05:47:55 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
 # via e-mail (hermawanadhis@gmail.com)
+# in the forums (http://forums.lanik.us/viewforum.php?f=94)
 # http://indonesianfilter.blogspot.com
 #
 # *** _computer_prank.txt ***
+- http://hurr-durr.com
 - http://1227.com
 - http://1Priest1Nun.com
 - http://1guy1mudpie.com
