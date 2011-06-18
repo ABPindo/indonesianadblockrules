@@ -97,6 +97,7 @@ kaskus.us###cntysm
 kaskus.us###exp
 kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
+kaskus.us##DIV[style="position:fixed; width:100%; z-index:99;background:#fff;"] + DIV[style="height:30px"]
 krucil.net###fixme
 krucil.net###floating_banner_bottom
 krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
