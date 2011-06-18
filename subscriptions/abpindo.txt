@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: x6ylhQB9SBmV+2SN9AyEOw
+! Checksum: 5cOAa8zhiny8KnZyxbMX4A
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Sabtu 18 Juni 2011, 07:44:03 WIB
+! Last modified:  Sabtu 18 Juni 2011, 11:24:12 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -399,7 +399,6 @@
 ! *** abpindo_thirdparty.txt ***
 ||1bisnisonline.com^$third-party
 ||39bola.com^$third-party
-||adultfriendfinder.com/images/banners/$third-party
 ||agent926.com^$third-party
 ||alamatemail.com^$third-party
 ||alertpay.com/banners/$third-party
