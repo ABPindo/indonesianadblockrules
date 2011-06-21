@@ -91,6 +91,7 @@
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
 ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com
+||usahaberhasil.com^$third-party
 ||video-searchengine.com/banner/*
 ||web-indonesia.com^$third-party
 ||webbola.com^$third-party

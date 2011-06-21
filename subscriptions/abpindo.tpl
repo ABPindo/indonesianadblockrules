@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified:  Sabtu 18 Juni 2011, 11:24:12 WIB
+# Last modified:  Selasa 21 Juni 2011, 19:39:54 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -489,6 +489,7 @@ msFilterList
 - http://topsurfer.com
 - http://tri7bet.com
 # ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com
+- http://usahaberhasil.com
 -d video-searchengine.com /banner/
 - http://web-indonesia.com
 - http://webbola.com
