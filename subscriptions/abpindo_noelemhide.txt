@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: Xwajbiv4vetdrcGdVHHUxQ
+! Checksum: FzQbCp3lDTXr7zr7sIVDvQ
 ! abp_indo without element hiding 
-! Last modified  Senin 06 Juni 2011, 05:47:55 WIB
+! Last modified  Rabu 22 Juni 2011, 06:14:51 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -388,6 +388,107 @@
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
 ||zonaiklan.info^$third-party
+! *** abpindo_thirdparty.txt ***
+||1bisnisonline.com^$third-party
+||39bola.com^$third-party
+||agent926.com^$third-party
+||alamatemail.com^$third-party
+||alertpay.com/banners/$third-party
+||apmmedia.net^$third-party
+||arenabola.com^$third-party
+||arisanvip.com^$third-party
+||asianbrain.com/banner/$third-party
+||banner.autosubmit.web.id^$third-party
+||bannerhp.com^$third-party
+||bekas.com^$third-party
+||benangmerah.com^$third-party
+||bintangbola.net^$third-party
+||bisnisgratis.net^$third-party
+||bisnishandal.com^$third-party
+||bisnisinternetmu.com^$third-party
+||bisnisniaga.com^$third-party
+||bisnisok.com^$third-party
+||bisnistransportasi.com^$third-party
+||bisnisurl.web.id^$third-party
+||bola777.net^$third-party
+||bolaketangkasan.com^$third-party
+||bux-matrix.com^$third-party
+||buxrupiah.com^$third-party
+||cash-harvest.com^$third-party
+||cashburners.biz/banners/
+||cdn.bloggerfiles.com/img/promo/
+||chainbux.com^$third-party
+||clickbet88.com^$third-party
+||dewamabuk.com$third-party
+||doremibet.com^$third-party
+||drumcash.com^$third-party
+||duitbux.com^$third-party
+||dunia-bisnis.com^$third-party
+||easy-hit-counter.com^$third-party
+||empatdns.com^$third-party
+||enjoybux.com^$third-party
+||folderbisnis.com^$third-party
+||forexpose.com^$third-party
+||formulabisnis.com/images/$third-party
+||fox-bux.com^$third-party
+||funds4cash.com^$third-party
+||galaxybola.com^$third-party
+||gesrek.com^$third-party
+||goldbet88.com^$third-party
+||hiddenbux.com^$third-party
+||idblognetwork.com/images/banner468x60/
+||idblognetwork.com/images/banner728x90/
+||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
+||incrasebux.com^$third-party
+||indo-solusta.com^$third-party
+||indobets.com^$third-party
+||investasiceria.net/images/$third-party
+||javapic.com/ikelan/
+||kebunemas.com/banner/$third-party
+||komisigratis.com^$third-party
+||kumpuljutawan.com^$third-party
+||lytogame.com/images/partner/
+||lytogame.com/partner/
+||manasuka.com/gbr_banner_link/$third-party
+||marketbola.com^$third-party
+||matakodok.com^$third-party
+||mractionclub.com/banner/$third-party
+||networkadonline.com^$third-party
+||numpanglewat.com^$third-party
+||orifuture.net^$third-party
+||peluangbisnis.org^$third-party
+||plusberita.com^$third-party
+||premiertrafficptc.info^$third-party
+||promoteburner.com^$third-party
+||promotioncamp.com^$third-party
+||promoviaweb.com^$third-party
+||prophetofdoom.net^$third-party
+||publish.web.id^$third-party
+||rahasiaromantis.com^$third-party
+||sebarmedia.com^$third-party
+||sinusbux.com^$third-party
+||sitipromo.web.id^$third-party
+||sitti.co.id^$third-party
+||situsbet.com^$third-party
+||springfund.com^$third-party
+||suarabola.com/banners/
+||submitforall.com^$third-party
+||submitfull.com^$third-party
+||syadiashare.com^$third-party
+||tangkasbet.com^$third-party
+||thupox.com^$third-party
+||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com|krucil.net
+||topskor.us^
+||topsurfer.com^$third-party
+||tri7bet.com^$third-party
+||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com
+||usahaberhasil.com^$third-party
+||video-searchengine.com/banner/*
+||web-indonesia.com^$third-party
+||webbola.com^$third-party
+||webiihost.com/aff/banner/$third-party
+||webjualbeli.com^$third-party
+||y-bux.com^$third-party
 ! *** abpindo_specific_block.txt ***
 ||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg$domain=ganool.com
 ||admin.ads.indowebster.com^

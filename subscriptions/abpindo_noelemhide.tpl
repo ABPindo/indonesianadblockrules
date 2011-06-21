@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Senin 06 Juni 2011, 05:47:55 WIB
+# Last modified  Rabu 22 Juni 2011, 06:14:51 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -387,6 +387,107 @@ msFilterList
 - http://weblogiklan.com
 - http://yesads.com
 - http://zonaiklan.info
+# *** abpindo_thirdparty.txt ***
+- http://1bisnisonline.com
+- http://39bola.com
+- http://agent926.com
+- http://alamatemail.com
+-d alertpay.com /banners/
+- http://apmmedia.net
+- http://arenabola.com
+- http://arisanvip.com
+-d asianbrain.com /banner/
+- http://banner.autosubmit.web.id
+- http://bannerhp.com
+- http://bekas.com
+- http://benangmerah.com
+- http://bintangbola.net
+- http://bisnisgratis.net
+- http://bisnishandal.com
+- http://bisnisinternetmu.com
+- http://bisnisniaga.com
+- http://bisnisok.com
+- http://bisnistransportasi.com
+- http://bisnisurl.web.id
+- http://bola777.net
+- http://bolaketangkasan.com
+- http://bux-matrix.com
+- http://buxrupiah.com
+- http://cash-harvest.com
+-d cashburners.biz /banners/
+-d cdn.bloggerfiles.com /img/promo/
+- http://chainbux.com
+- http://clickbet88.com
+- http://dewamabuk.com
+- http://doremibet.com
+- http://drumcash.com
+- http://duitbux.com
+- http://dunia-bisnis.com
+- http://easy-hit-counter.com
+- http://empatdns.com
+- http://enjoybux.com
+- http://folderbisnis.com
+- http://forexpose.com
+-d formulabisnis.com /images/
+- http://fox-bux.com
+- http://funds4cash.com
+- http://galaxybola.com
+- http://gesrek.com
+- http://goldbet88.com
+- http://hiddenbux.com
+-d idblognetwork.com /images/banner468x60/
+-d idblognetwork.com /images/banner728x90/
+# ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
+- http://incrasebux.com
+- http://indo-solusta.com
+- http://indobets.com
+-d investasiceria.net /images/
+-d javapic.com /ikelan/
+-d kebunemas.com /banner/
+- http://komisigratis.com
+- http://kumpuljutawan.com
+-d lytogame.com /images/partner/
+-d lytogame.com /partner/
+-d manasuka.com /gbr_banner_link/
+- http://marketbola.com
+- http://matakodok.com
+-d mractionclub.com /banner/
+- http://networkadonline.com
+- http://numpanglewat.com
+- http://orifuture.net
+- http://peluangbisnis.org
+- http://plusberita.com
+- http://premiertrafficptc.info
+- http://promoteburner.com
+- http://promotioncamp.com
+- http://promoviaweb.com
+- http://prophetofdoom.net
+- http://publish.web.id
+- http://rahasiaromantis.com
+- http://sebarmedia.com
+- http://sinusbux.com
+- http://sitipromo.web.id
+- http://sitti.co.id
+- http://situsbet.com
+- http://springfund.com
+-d suarabola.com /banners/
+- http://submitforall.com
+- http://submitfull.com
+- http://syadiashare.com
+- http://tangkasbet.com
+- http://thupox.com
+# ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com|krucil.net
+- http://topskor.us
+- http://topsurfer.com
+- http://tri7bet.com
+# ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com
+- http://usahaberhasil.com
+-d video-searchengine.com /banner/
+- http://web-indonesia.com
+- http://webbola.com
+-d webiihost.com /aff/banner/
+- http://webjualbeli.com
+- http://y-bux.com
 # *** abpindo_specific_block.txt ***
 # ||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg$domain=ganool.com
 - http://admin.ads.indowebster.com
