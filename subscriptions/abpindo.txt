@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: fH7b2EgJJy4sOe7PBxoCTA
+! Checksum: tdWizbDGw+oCkOZXRYaxYA
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Rabu 22 Juni 2011, 06:14:51 WIB
+! Last modified:  Minggu 26 Juni 2011, 08:22:38 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -662,6 +662,7 @@ warungmp3.com###table2 P[align="center"]
 warungmp3.com##DIV#fixme[style="height: 60px; width: 100%;"]
 warungmp3.com##P[style="margin-left: 9px; margin-top: 0; margin-bottom: 0"]
 warungmp3.com##[onmouseover="moveOut()"] TR
+wolipop.com###footerbanner
 zonabola.com###lAds IMG
 zonabola.com###rAds IMG
 zonabola.com##IMG[width="750"][height="75"][border="0"]
