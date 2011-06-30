@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: tdWizbDGw+oCkOZXRYaxYA
+! Checksum: Sed8fTsXo2+5++sBQDDPBQ
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Minggu 26 Juni 2011, 08:22:38 WIB
+! Last modified:  Kamis 30 Juni 2011, 10:13:51 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -630,13 +630,10 @@ kaskus.us###BannerBwh
 kaskus.us###Conho01Left
 kaskus.us###Conho01midd
 kaskus.us###Conho01right
-kaskus.us###MidGaris
-kaskus.us###MidGaris1
 kaskus.us###Middle_blue
 kaskus.us###Middlehome021
 kaskus.us###Middlenahome1
 kaskus.us###cntysm
-kaskus.us###exp
 kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
 kaskus.us##DIV[style="position:fixed; width:100%; z-index:99;background:#fff;"] + DIV[style="height:30px"]
