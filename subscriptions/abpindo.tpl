@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified:  Minggu 26 Juni 2011, 08:22:38 WIB
+# Last modified:  Kamis 30 Juni 2011, 10:13:51 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -612,13 +612,10 @@ msFilterList
 # kaskus.us###Conho01Left
 # kaskus.us###Conho01midd
 # kaskus.us###Conho01right
-# kaskus.us###MidGaris
-# kaskus.us###MidGaris1
 # kaskus.us###Middle_blue
 # kaskus.us###Middlehome021
 # kaskus.us###Middlenahome1
 # kaskus.us###cntysm
-# kaskus.us###exp
 # krucil.net###fixme
 # krucil.net###floating_banner_bottom
 # m.detik.com###top
