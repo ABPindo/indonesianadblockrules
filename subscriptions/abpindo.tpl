@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified:  Kamis 30 Juni 2011, 10:13:51 WIB
+# Last modified:  Jumat 01 Juli 2011, 07:28:35 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -510,6 +510,7 @@ msFilterList
 -d indowebster.com /js/link_converter.js
 -d indowebster.com /static/iklan/idws/
 -d indowebster.com /templates/img/grupidws_iklan/
+-d inilah.com /assets/image/skin-
 -d jogjastreamers.com /images/banner/
 -d kad.kaskus.us /banner/
 -d kaskus.us /adv/
@@ -536,6 +537,7 @@ msFilterList
 - http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/ads/
+-d vivanews.com /skins/images/*_topbanner-
 -d zonabola.com /img_bin/iklan/
 -d zonabola.com /mansion.htm
 # *** abpindo_specific_hide.txt ***
@@ -597,6 +599,7 @@ msFilterList
 # indowebster.com###ban_728
 # indowebster.com###iklankiri
 # indowebster.com###tr_iklanbaris2
+# inilah.com###anchormasklink
 # kapanlagi.com###middle_showcase
 # kapanlagi.com###top_showcase
 # kapanlagi.com###v5-blogshowcase1
