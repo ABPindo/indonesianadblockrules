@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: FzQbCp3lDTXr7zr7sIVDvQ
+! Checksum: Rl8ln1KLjNYMN5JHKTHL7A
 ! abp_indo without element hiding 
-! Last modified  Rabu 22 Juni 2011, 06:14:51 WIB
+! Last modified  Jumat 01 Juli 2011, 07:28:35 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -503,6 +503,7 @@
 ||indowebster.com/js/link_converter.js
 ||indowebster.com/static/iklan/idws/
 ||indowebster.com/templates/img/grupidws_iklan/
+||inilah.com/assets/image/skin-
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
 ||kaskus.us/adv/
@@ -529,6 +530,7 @@
 ||us.openx.detik.com^
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/ads/
+||vivanews.com^*/skins/images/*_topbanner-
 ||zonabola.com/img_bin/iklan/
 ||zonabola.com/mansion.htm
 ! *** abpindo_whitelist.txt ***
