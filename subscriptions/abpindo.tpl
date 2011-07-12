@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified:  Jumat 01 Juli 2011, 07:28:35 WIB
+# Last modified:  Selasa 12 Juli 2011, 07:04:00 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -505,6 +505,7 @@ msFilterList
 -d ebsoft.web.id /wp-content/banners/
 -d gudeg.net /images/banner/
 -d harianjogja.com /img/Bnr/
+-d images.indoforum.org /banners/
 -d indochanger.com /banner/
 -d indowebster.com /ajax/iklan/
 -d indowebster.com /js/link_converter.js
@@ -552,6 +553,8 @@ msFilterList
 # detik.com###footerbanner
 # detik.com###headerbanner
 # detik.com##.bannertengah
+# detik.com##.bg_ads.alt5
+# detik.com##.otp_banner_close
 # detikfinance.com###adpoint-article
 # detikfinance.com###adtext-info
 # detikfinance.com###footerbanner
@@ -630,7 +633,12 @@ msFilterList
 # tempointeraktif.com##.block.iklan.top
 # vivanews.com###ads_regularnokia
 # warungbebas.com##.gbtab
+# wolipop.com###adpoint-article
+# wolipop.com###adtext-info
 # wolipop.com###footerbanner
+# wolipop.com###footerbanner
+# wolipop.com###headerbanner
+# wolipop.com##.bannertengah
 # zonabola.com###lAds IMG
 # zonabola.com###rAds IMG
 # *** abpindo_whitelist.txt ***
