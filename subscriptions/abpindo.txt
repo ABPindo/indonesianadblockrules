@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: KdyrhB2eP8dz6pI447wo+Q
+! Checksum: T5/AlQHCzG1WU+zh9qybHg
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Jumat 01 Juli 2011, 07:28:35 WIB
+! Last modified:  Selasa 12 Juli 2011, 07:04:00 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -506,6 +506,7 @@
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
 ||harianjogja.com/img/Bnr/
+||images.indoforum.org/banners/*
 ||indochanger.com/banner/
 ||indowebster.com/ajax/iklan/
 ||indowebster.com/js/link_converter.js
@@ -556,6 +557,8 @@ detik.com###anchormasklink
 detik.com###footerbanner
 detik.com###headerbanner
 detik.com##.bannertengah
+detik.com##.bg_ads.alt5
+detik.com##.otp_banner_close
 detik.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
 detikfinance.com###adpoint-article
 detikfinance.com###adtext-info
@@ -599,6 +602,7 @@ detiksport.com###footerbanner
 detiksport.com###headerbanner
 detiksport.com##.bannertengah
 detiksport.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
+forumbebas.com###topbar[style="visibility: visible; left: 2px; top: 477px;"] TR
 ganool.com###ad2_footer
 ganool.com###floating_banner_top
 ganool.com###pateni
@@ -662,7 +666,13 @@ warungmp3.com###table2 P[align="center"]
 warungmp3.com##DIV#fixme[style="height: 60px; width: 100%;"]
 warungmp3.com##P[style="margin-left: 9px; margin-top: 0; margin-bottom: 0"]
 warungmp3.com##[onmouseover="moveOut()"] TR
+wolipop.com###adpoint-article
+wolipop.com###adtext-info
 wolipop.com###footerbanner
+wolipop.com###footerbanner
+wolipop.com###headerbanner
+wolipop.com##.bannertengah
+wolipop.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
 zonabola.com###lAds IMG
 zonabola.com###rAds IMG
 zonabola.com##IMG[width="750"][height="75"][border="0"]
