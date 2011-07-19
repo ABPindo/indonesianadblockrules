@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: +GTAhjyIaVr8jDRf8eyaEA
+! Checksum: 1KszSoXmOd298/i1Osvx/A
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Selasa 12 Juli 2011, 07:43:49 WIB
+! Last modified:  Selasa 19 Juli 2011, 16:44:56 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -555,6 +555,7 @@ ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
 detik.com###adpoint-article
 detik.com###adtext-info
 detik.com###anchormasklink
+detik.com###bottom_banner
 detik.com###footerbanner
 detik.com###headerbanner
 detik.com##.bannertengah
@@ -616,6 +617,8 @@ i-comers.com##.alt1[nowrap="nowrap"]
 i-comers.com##.alt1[nowrap="nowrap"][valign="top"]
 indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
+indosiar.com###headerbanner
+indosiar.com###headerbanner + DIV[style="height:50px"]
 indowebster.com###AdsAtas
 indowebster.com###AdsSearchAtas
 indowebster.com###Ads_fileinfo
