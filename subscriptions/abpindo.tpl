@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified:  Selasa 19 Juli 2011, 16:44:56 WIB
+# Last modified:  Jumat 22 Juli 2011, 15:32:07 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -16,6 +16,7 @@ msFilterList
 - /iklan.
 - /images/iklan-
 - /images/iklan/
+- /php-ads/
 - /uploads/iklan/
 # *** abpindo_general_hide.txt ***
 # ###desaiklan
@@ -548,50 +549,15 @@ msFilterList
 # ceriwis.us###hoho-wrapsubmenu3
 # ceriwis.us###message-box
 # ceriwis.us###message-box-bot
-# detik.com###adpoint-article
-# detik.com###adtext-info
-# detik.com###anchormasklink
-# detik.com###bottom_banner
-# detik.com###footerbanner
-# detik.com###headerbanner
-# detik.com##.bannertengah
-# detik.com##.bg_ads.alt5
-# detik.com##.otp_banner_close
-# detikfinance.com###adpoint-article
-# detikfinance.com###adtext-info
-# detikfinance.com###footerbanner
-# detikfinance.com###headerbanner
-# detikfinance.com##.bannertengah
-# detikfood.com###adpoint-article
-# detikfood.com###adtext-info
-# detikfood.com###footerbanner
-# detikfood.com###headerbanner
-# detikfood.com##.bannertengah
-# detikhealth.com###adpoint-article
-# detikhealth.com###adtext-info
-# detikhealth.com###footerbanner
-# detikhealth.com###headerbanner
-# detikhealth.com##.bannertengah
-# detikhot.com###adpoint-article
-# detikhot.com###adtext-info
-# detikhot.com###footerbanner
-# detikhot.com###headerbanner
-# detikhot.com##.bannertengah
-# detikinet.com###adpoint-article
-# detikinet.com###adtext-info
-# detikinet.com###footerbanner
-# detikinet.com###headerbanner
-# detikinet.com##.bannertengah
-# detiknews.com###adpoint-article
-# detiknews.com###adtext-info
-# detiknews.com###footerbanner
-# detiknews.com###headerbanner
-# detiknews.com##.bannertengah
-# detiksport.com###adpoint-article
-# detiksport.com###adtext-info
-# detiksport.com###footerbanner
-# detiksport.com###headerbanner
-# detiksport.com##.bannertengah
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###bottom_banner
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###footerbanner
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
 # ganool.com###ad2_footer
 # ganool.com###floating_banner_top
 # ganool.com###pateni
@@ -637,12 +603,6 @@ msFilterList
 # vivanews.com###ads_regularnokia
 # warungbebas.com##.gbtab
 # warungmp3.com###fixme
-# wolipop.com###adpoint-article
-# wolipop.com###adtext-info
-# wolipop.com###footerbanner
-# wolipop.com###footerbanner
-# wolipop.com###headerbanner
-# wolipop.com##.bannertengah
 # zonabola.com###lAds IMG
 # zonabola.com###rAds IMG
 # *** abpindo_whitelist.txt ***

@@ -7,58 +7,16 @@ ceriwis.us###message-box
 ceriwis.us###message-box-bot
 ceriwis.us##IMG[alt="Top Banner"]
 ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
-detik.com###adpoint-article
-detik.com###adtext-info
-detik.com###anchormasklink
-detik.com###bottom_banner
-detik.com###footerbanner
-detik.com###headerbanner
-detik.com##.bannertengah
-detik.com##.bg_ads.alt5
-detik.com##.otp_banner_close
-detik.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
-detikfinance.com###adpoint-article
-detikfinance.com###adtext-info
-detikfinance.com###footerbanner
-detikfinance.com###headerbanner
-detikfinance.com##.bannertengah
-detikfinance.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
-detikfood.com###adpoint-article
-detikfood.com###adtext-info
-detikfood.com###footerbanner
-detikfood.com###headerbanner
-detikfood.com##.bannertengah
-detikfood.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
-detikhealth.com###adpoint-article
-detikhealth.com###adtext-info
-detikhealth.com###footerbanner
-detikhealth.com###headerbanner
-detikhealth.com##.bannertengah
-detikhealth.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
-detikhot.com###adpoint-article
-detikhot.com###adtext-info
-detikhot.com###footerbanner
-detikhot.com###headerbanner
-detikhot.com##.bannertengah
-detikhot.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
-detikinet.com###adpoint-article
-detikinet.com###adtext-info
-detikinet.com###footerbanner
-detikinet.com###headerbanner
-detikinet.com##.bannertengah
-detikinet.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
-detiknews.com###adpoint-article
-detiknews.com###adtext-info
-detiknews.com###footerbanner
-detiknews.com###headerbanner
-detiknews.com##.bannertengah
-detiknews.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
-detiksport.com###adpoint-article
-detiksport.com###adtext-info
-detiksport.com###footerbanner
-detiksport.com###headerbanner
-detiksport.com##.bannertengah
-detiksport.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###bottom_banner
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###footerbanner
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
 forumbebas.com###topbar[style="visibility: visible; left: 2px; top: 477px;"] TR
 ganool.com###ad2_footer
 ganool.com###floating_banner_top
@@ -126,13 +84,6 @@ warungmp3.com###table2 P[align="center"]
 warungmp3.com##DIV#fixme[style="height: 60px; width: 100%;"]
 warungmp3.com##P[style="margin-left: 9px; margin-top: 0; margin-bottom: 0"]
 warungmp3.com##[onmouseover="moveOut()"] TR
-wolipop.com###adpoint-article
-wolipop.com###adtext-info
-wolipop.com###footerbanner
-wolipop.com###footerbanner
-wolipop.com###headerbanner
-wolipop.com##.bannertengah
-wolipop.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
 zonabola.com###lAds IMG
 zonabola.com###rAds IMG
 zonabola.com##IMG[width="750"][height="75"][border="0"]
