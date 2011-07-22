@@ -4,4 +4,5 @@
 /iklan.
 /images/iklan-
 /images/iklan/*
+/php-ads/*
 /uploads/iklan/*
