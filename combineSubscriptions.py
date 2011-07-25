@@ -1,4 +1,5 @@
 #!C:\Python32 python
+#!/usr/bin/env python
 # coding: utf-8
 
 # The contents of this file are subject to the Mozilla Public License
@@ -132,6 +133,7 @@ def resolveIncludes(sourceName, sourceDirs, filePath, lines, timeout, level=0):
         newLines = unicode(request.read(), charset).split('\n')
         newLines = map(lambda l: re.sub(r'[\r\n]', '', l), newLines)
         newLines = filter(lambda l: not re.search(r'^\s*!.*?\bExpires\s*(?::|after)\s*(\d+)\s*(h)?', l, re.M | re.I), newLines)
+        newLines = filter(lambda l: not re.search(r'^\s*!\s*(Redirect|Homepage)\s*:', l, re.M | re.I), newLines)
       else:
         result.append('! *** %s ***' % file)
 
@@ -158,7 +160,6 @@ def resolveIncludes(sourceName, sourceDirs, filePath, lines, timeout, level=0):
     else:
       if line.find('%timestamp%') >= 0:
         if level == 0:
-		  #line = line.replace('%timestamp%', time.strftime('%p %A %d %B %Y, %H:%M:%S WIB', time.gmtime()))
           line = line.replace('%timestamp%', time.strftime('%d %b %Y %H:%M UTC', time.gmtime()))
         else:
           line = ''
