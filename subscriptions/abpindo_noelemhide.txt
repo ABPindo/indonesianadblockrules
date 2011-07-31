@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 9MfJmfNNxcyiqgL6yvrd+g
+! Checksum: ub9G8+g0NVt9GLIzPBUINQ
 ! abp_indo without element hiding 
-! Last modified  Sabtu 30 Juli 2011, 18:51:37 WIB
+! Last modified  Senin 01 Agustus 2011, 03:42:07 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -538,3 +538,4 @@
 ||zonabola.com/img_bin/iklan/
 ||zonabola.com/mansion.htm
 ! *** abpindo_whitelist.txt ***
+@@||ganool.googlecode.com/files/advertisement.js$domain=ganool.com

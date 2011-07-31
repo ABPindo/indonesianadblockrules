@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Sabtu 30 Juli 2011, 18:51:37 WIB
+# Last modified  Senin 01 Agustus 2011, 03:42:07 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -537,3 +537,4 @@ msFilterList
 -d zonabola.com /img_bin/iklan/
 -d zonabola.com /mansion.htm
 # *** abpindo_whitelist.txt ***
++d ganool.googlecode.com /files/advertisement.js

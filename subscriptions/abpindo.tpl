@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified:  Sabtu 30 Juli 2011, 18:51:37 WIB
+# Last modified:  Senin 01 Agustus 2011, 03:42:07 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -561,8 +561,7 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
 # ganool.com###ad2_footer
-# ganool.com###floating_banner_top
-# ganool.com###pateni
+# ganool.com##.close
 # google.co.id###rhs_block
 # google.com###rhs_block
 # google.com##.c0.lti35t
@@ -593,6 +592,7 @@ msFilterList
 # kaskus.us###Middlehome021
 # kaskus.us###Middlenahome1
 # kaskus.us###cntysm
+# kompasiana.com###anchormasklink
 # krucil.net###fixme
 # krucil.net###floating_banner_bottom
 # m.detik.com###top
@@ -601,9 +601,13 @@ msFilterList
 # metrotvnews.com###fixme
 # nyit-nyit.net###adn89 + * TD
 # resep.web.id###googlebox
+# tempointeraktif.com###banner-atas
+# tempointeraktif.com###banner-bawah
+# tempointeraktif.com##.block.iklan
 # tempointeraktif.com##.block.iklan.top
 # vivanews.com###ads_regularnokia
 # warungbebas.com##.gbtab
 # zonabola.com###lAds IMG
 # zonabola.com###rAds IMG
 # *** abpindo_whitelist.txt ***
++d ganool.googlecode.com /files/advertisement.js

@@ -21,8 +21,7 @@ downloadfilem.com##A[href^="http://promosipraktis.com/"]
 downloadfilem.com##IMG[width="125"][height="125"]
 forumbebas.com###topbar[style="visibility: visible; left: 2px; top: 477px;"] TR
 ganool.com###ad2_footer
-ganool.com###floating_banner_top
-ganool.com###pateni
+ganool.com##.close
 google.co.id###rhs_block
 google.co.id##TABLE[style="border: 1px solid #0000CC"]
 google.co.id##TABLE[style="border: 1px solid #11593c"]
@@ -66,6 +65,7 @@ kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
 kaskus.us##DIV[style="position:fixed; width:100%; z-index:99;background:#fff;"] + DIV[style="height:30px"]
 kaskus.us##IMG[src="images/spacer.gif"]
+kompasiana.com###anchormasklink
 krucil.net###fixme
 krucil.net###floating_banner_bottom
 krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
@@ -76,6 +76,9 @@ mangafox.com##.ad728x90.left + .right
 metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * TD
 resep.web.id###googlebox
+tempointeraktif.com###banner-atas
+tempointeraktif.com###banner-bawah
+tempointeraktif.com##.block.iklan
 tempointeraktif.com##.block.iklan.top
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
 thehack3r.com##IMG[width="728"][height="90"]
