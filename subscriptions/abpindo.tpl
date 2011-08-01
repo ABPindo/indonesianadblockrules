@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified:  Senin 01 Agustus 2011, 03:42:07 WIB
+# Last modified:  Senin 01 Agustus 2011, 09:50:35 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -452,7 +452,7 @@ msFilterList
 - http://indo-solusta.com
 - http://indobets.com
 -d investasiceria.net /images/
--d javapic.com /ikelan/
+# ||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com|kikil.org
 -d kebunemas.com /banner/
 - http://komisigratis.com
 - http://kumpuljutawan.com
@@ -490,7 +490,7 @@ msFilterList
 - http://topskor.us
 - http://topsurfer.com
 - http://tri7bet.com
-# ||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com
+# ||uploadhouse.com/*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com|kikil.org
 - http://usahaberhasil.com
 -d video-searchengine.com /banner/
 - http://web-indonesia.com
@@ -519,6 +519,7 @@ msFilterList
 -d kaskus.us /adv/
 -d kaskus.us /images/adv/
 -d ketawa.com /img-iklan/
+-d kikil.org /forum/banner/
 -d kompas.com /data/banner/
 -d koranlokal.com /iklan_baru/
 -d koranlokal.com /newstickerpartai.php
@@ -536,6 +537,7 @@ msFilterList
 -d poems.web.id /poemspromo/
 -d primbon.com /banner/
 -d resep.web.id /banner/
+-d semprot.com /x_ads/
 -d stafaband.info /tb.swf
 -d suaramedia.com /images/banners/
 - http://us.openx.detik.com
@@ -592,6 +594,7 @@ msFilterList
 # kaskus.us###Middlehome021
 # kaskus.us###Middlenahome1
 # kaskus.us###cntysm
+# kikil.org###floating_banner_bottom
 # kompasiana.com###anchormasklink
 # krucil.net###fixme
 # krucil.net###floating_banner_bottom
@@ -601,6 +604,7 @@ msFilterList
 # metrotvnews.com###fixme
 # nyit-nyit.net###adn89 + * TD
 # resep.web.id###googlebox
+# semprot.com##.semprot_ads
 # tempointeraktif.com###banner-atas
 # tempointeraktif.com###banner-bawah
 # tempointeraktif.com##.block.iklan

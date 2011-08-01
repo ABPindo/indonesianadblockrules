@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ub9G8+g0NVt9GLIzPBUINQ
+! Checksum: i1yp8LpPeMY67jQE0wHv2A
 ! abp_indo without element hiding 
-! Last modified  Senin 01 Agustus 2011, 03:42:07 WIB
+! Last modified  Senin 01 Agustus 2011, 09:50:35 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -445,7 +445,7 @@
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
-||javapic.com/ikelan/
+||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com|kikil.org
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
@@ -483,7 +483,7 @@
 ||topskor.us^
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
-||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com
+||uploadhouse.com/*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com|kikil.org
 ||usahaberhasil.com^$third-party
 ||video-searchengine.com/banner/*
 ||web-indonesia.com^$third-party
@@ -512,6 +512,7 @@
 ||kaskus.us/adv/
 ||kaskus.us/images/adv/*
 ||ketawa.com/img-iklan/
+||kikil.org/forum/banner/*
 ||kompas.com/data/banner/
 ||koranlokal.com/iklan_baru/
 ||koranlokal.com/newstickerpartai.php
@@ -529,6 +530,7 @@
 ||poems.web.id/poemspromo/
 ||primbon.com/banner/
 ||resep.web.id/banner/
+||semprot.com/x_ads/*
 ||stafaband.info/tb.swf
 ||suaramedia.com/images/banners/
 ||us.openx.detik.com^

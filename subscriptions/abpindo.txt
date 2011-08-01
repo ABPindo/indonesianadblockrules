@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: M3EtOJpQkgb62oNwmbTx2w
+! Checksum: ICqulqYZsNuCgKpdYxSbCw
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Senin 01 Agustus 2011, 03:42:07 WIB
+! Last modified:  Senin 01 Agustus 2011, 09:50:35 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -453,7 +453,7 @@
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
-||javapic.com/ikelan/
+||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com|kikil.org
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
@@ -491,7 +491,7 @@
 ||topskor.us^
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
-||uploadhouse.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com
+||uploadhouse.com/*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com|kikil.org
 ||usahaberhasil.com^$third-party
 ||video-searchengine.com/banner/*
 ||web-indonesia.com^$third-party
@@ -520,6 +520,7 @@
 ||kaskus.us/adv/
 ||kaskus.us/images/adv/*
 ||ketawa.com/img-iklan/
+||kikil.org/forum/banner/*
 ||kompas.com/data/banner/
 ||koranlokal.com/iklan_baru/
 ||koranlokal.com/newstickerpartai.php
@@ -537,6 +538,7 @@
 ||poems.web.id/poemspromo/
 ||primbon.com/banner/
 ||resep.web.id/banner/
+||semprot.com/x_ads/*
 ||stafaband.info/tb.swf
 ||suaramedia.com/images/banners/
 ||us.openx.detik.com^
@@ -548,6 +550,9 @@
 ! *** abpindo_specific_hide.txt ***
 ansav.com##.body > CENTER
 arenabola.com##.adv
+blogspot.com##A[href*="agent1388bet.com"]
+blogspot.com##A[href*="betwin188.com"]
+blogspot.com##A[href*="usahaberhasil.com"]
 bluefame.com##CENTER IMG[height="90"][width="728"]
 ceriwis.us###hoho-wrapsubmenu2
 ceriwis.us###hoho-wrapsubmenu3
@@ -613,6 +618,9 @@ kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
 kaskus.us##DIV[style="position:fixed; width:100%; z-index:99;background:#fff;"] + DIV[style="height:30px"]
 kaskus.us##IMG[src="images/spacer.gif"]
+kikil.org###floating_banner_bottom
+kikil.org##CENTER > TABLE[width="900"]
+kikil.org##CENTER > TABLE[width="900px"]
 kompasiana.com###anchormasklink
 krucil.net###fixme
 krucil.net###floating_banner_bottom
@@ -624,6 +632,7 @@ mangafox.com##.ad728x90.left + .right
 metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * TD
 resep.web.id###googlebox
+semprot.com##.semprot_ads
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 tempointeraktif.com##.block.iklan
