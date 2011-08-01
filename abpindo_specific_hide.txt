@@ -1,5 +1,8 @@
 ansav.com##.body > CENTER
 arenabola.com##.adv
+blogspot.com##A[href*="agent1388bet.com"]
+blogspot.com##A[href*="betwin188.com"]
+blogspot.com##A[href*="usahaberhasil.com"]
 bluefame.com##CENTER IMG[height="90"][width="728"]
 ceriwis.us###hoho-wrapsubmenu2
 ceriwis.us###hoho-wrapsubmenu3
@@ -65,6 +68,9 @@ kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
 kaskus.us##DIV[style="position:fixed; width:100%; z-index:99;background:#fff;"] + DIV[style="height:30px"]
 kaskus.us##IMG[src="images/spacer.gif"]
+kikil.org###floating_banner_bottom
+kikil.org##CENTER > TABLE[width="900"]
+kikil.org##CENTER > TABLE[width="900px"]
 kompasiana.com###anchormasklink
 krucil.net###fixme
 krucil.net###floating_banner_bottom
@@ -76,6 +82,7 @@ mangafox.com##.ad728x90.left + .right
 metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * TD
 resep.web.id###googlebox
+semprot.com##.semprot_ads
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 tempointeraktif.com##.block.iklan
