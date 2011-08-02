@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ICqulqYZsNuCgKpdYxSbCw
+! Checksum: J2FNQMRHWaMEbKOpR2tiAQ
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Senin 01 Agustus 2011, 09:50:35 WIB
+! Last modified:  Selasa 02 Agustus 2011, 23:56:13 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -17,7 +17,6 @@
 /iklan.
 /images/iklan-
 /images/iklan/*
-/php-ads/*
 /sittiad.
 /uploads/iklan/*
 ! *** abpindo_general_hide.txt ***
@@ -574,6 +573,8 @@ downloadfilem.com##A[href^="http://promosipraktis.com/"]
 downloadfilem.com##IMG[width="125"][height="125"]
 forumbebas.com###topbar[style="visibility: visible; left: 2px; top: 477px;"] TR
 ganool.com###ad2_footer
+ganool.com###floating_banner_top
+ganool.com###pateni
 ganool.com##.close
 google.co.id###rhs_block
 google.co.id##TABLE[style="border: 1px solid #0000CC"]

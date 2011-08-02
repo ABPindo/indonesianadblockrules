@@ -24,6 +24,8 @@ downloadfilem.com##A[href^="http://promosipraktis.com/"]
 downloadfilem.com##IMG[width="125"][height="125"]
 forumbebas.com###topbar[style="visibility: visible; left: 2px; top: 477px;"] TR
 ganool.com###ad2_footer
+ganool.com###floating_banner_top
+ganool.com###pateni
 ganool.com##.close
 google.co.id###rhs_block
 google.co.id##TABLE[style="border: 1px solid #0000CC"]
