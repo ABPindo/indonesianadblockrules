@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified:  Senin 01 Agustus 2011, 09:50:35 WIB
+# Last modified:  Selasa 02 Agustus 2011, 23:56:13 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -16,7 +16,6 @@ msFilterList
 - /iklan.
 - /images/iklan-
 - /images/iklan/
-- /php-ads/
 - /sittiad.
 - /uploads/iklan/
 # *** abpindo_general_hide.txt ***
@@ -563,6 +562,8 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
 # ganool.com###ad2_footer
+# ganool.com###floating_banner_top
+# ganool.com###pateni
 # ganool.com##.close
 # google.co.id###rhs_block
 # google.com###rhs_block
