@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: dnigOHNVH2t/qa2RBHv9Fg
+! Checksum: AV8PMVlWcbu4euqB4Qo2kw
 ! abp_indo without element hiding 
-! Last modified  Selasa 02 Agustus 2011, 23:56:13 WIB
+! Last modified  Jumat 05 Agustus 2011, 18:33:04 WIB
 ! Expires: 5 days (update frequency)
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
@@ -496,11 +496,13 @@
 ||asiafriendfinder.com^$domain=maknyos.com
 ||ceri.ws/ads/*
 ||chip.co.id/microsite/frame/index.html
+||duniavirtual.com/banner/floating_banner2.js
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
 ||harianjogja.com/img/Bnr/
 ||images.indoforum.org/banners/*
 ||indochanger.com/banner/
+||indowebster.com/ajax/banner/get_banner/*
 ||indowebster.com/ajax/iklan/
 ||indowebster.com/js/link_converter.js
 ||indowebster.com/static/iklan/idws/

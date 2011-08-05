@@ -1,13 +1,13 @@
 [Adblock Plus 1.1]
-! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
+! ABPindo
 ! Last modified: %timestamp%
 ! Expires: 5 days (update frequency)
+! Homepage: http://indonesianfilter.blogspot.com
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
 ! Please report any unblocked adverts or problems
 ! via e-mail (hermawanadhis@gmail.com)
 ! in the forums (http://forums.lanik.us/viewforum.php?f=94)
-! http://indonesianfilter.blogspot.com
 !
 %include abpindo_general_block.txt%
 %include abpindo_general_hide.txt%

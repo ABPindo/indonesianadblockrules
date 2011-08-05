@@ -23,6 +23,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 downloadfilem.com##A[href^="http://promosipraktis.com/"]
 downloadfilem.com##IMG[width="125"][height="125"]
 forumbebas.com###topbar[style="visibility: visible; left: 2px; top: 477px;"] TR
+gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
 ganool.com###floating_banner_top
 ganool.com###pateni
