@@ -1,14 +1,14 @@
 [Adblock Plus 1.1]
-! Checksum: J2FNQMRHWaMEbKOpR2tiAQ
-! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Selasa 02 Agustus 2011, 23:56:13 WIB
+! Checksum: I4pCRebqcjiHMRWJ7gEe1Q
+! ABPindo
+! Last modified:  Jumat 05 Agustus 2011, 18:33:04 WIB
 ! Expires: 5 days (update frequency)
+! Homepage: http://indonesianfilter.blogspot.com
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
 ! Please report any unblocked adverts or problems
 ! via e-mail (hermawanadhis@gmail.com)
 ! in the forums (http://forums.lanik.us/viewforum.php?f=94)
-! http://indonesianfilter.blogspot.com
 !
 ! *** abpindo_general_block.txt ***
 .com/iklan/*
@@ -504,11 +504,13 @@
 ||asiafriendfinder.com^$domain=maknyos.com
 ||ceri.ws/ads/*
 ||chip.co.id/microsite/frame/index.html
+||duniavirtual.com/banner/floating_banner2.js
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
 ||harianjogja.com/img/Bnr/
 ||images.indoforum.org/banners/*
 ||indochanger.com/banner/
+||indowebster.com/ajax/banner/get_banner/*
 ||indowebster.com/ajax/iklan/
 ||indowebster.com/js/link_converter.js
 ||indowebster.com/static/iklan/idws/
@@ -572,6 +574,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 downloadfilem.com##A[href^="http://promosipraktis.com/"]
 downloadfilem.com##IMG[width="125"][height="125"]
 forumbebas.com###topbar[style="visibility: visible; left: 2px; top: 477px;"] TR
+gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
 ganool.com###floating_banner_top
 ganool.com###pateni

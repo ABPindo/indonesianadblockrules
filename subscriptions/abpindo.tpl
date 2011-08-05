@@ -1,13 +1,13 @@
 msFilterList
 : Expires=5
-# Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-# Last modified:  Selasa 02 Agustus 2011, 23:56:13 WIB
+# ABPindo
+# Last modified:  Jumat 05 Agustus 2011, 18:33:04 WIB
+# Homepage: http://indonesianfilter.blogspot.com
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
 # via e-mail (hermawanadhis@gmail.com)
 # in the forums (http://forums.lanik.us/viewforum.php?f=94)
-# http://indonesianfilter.blogspot.com
 #
 # *** abpindo_general_block.txt ***
 - .com/iklan/
@@ -503,11 +503,13 @@ msFilterList
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d ceri.ws /ads/
 -d chip.co.id /microsite/frame/index.html
+-d duniavirtual.com /banner/floating_banner2.js
 -d ebsoft.web.id /wp-content/banners/
 -d gudeg.net /images/banner/
 -d harianjogja.com /img/Bnr/
 -d images.indoforum.org /banners/
 -d indochanger.com /banner/
+-d indowebster.com /ajax/banner/get_banner/
 -d indowebster.com /ajax/iklan/
 -d indowebster.com /js/link_converter.js
 -d indowebster.com /static/iklan/idws/
@@ -561,6 +563,7 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
+# gambarkeren.info##.iklankotak1
 # ganool.com###ad2_footer
 # ganool.com###floating_banner_top
 # ganool.com###pateni
