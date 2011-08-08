@@ -78,12 +78,14 @@ kompasiana.com###anchormasklink
 krucil.net###fixme
 krucil.net###floating_banner_bottom
 krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
+krucil.net##TD[width="305"]:last-child
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##A[href^="http://mkhoj.com"]
 mangafox.com##.ad728x90.left + .right
 metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * TD
+oktavita.com##.banner-zone
 resep.web.id###googlebox
 semprot.com##.semprot_ads
 tempointeraktif.com###banner-atas
@@ -92,6 +94,7 @@ tempointeraktif.com##.block.iklan
 tempointeraktif.com##.block.iklan.top
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
 thehack3r.com##IMG[width="728"][height="90"]
+tribunnews.com###bannerku
 tribunnews.com##IMG[src="http://www.tribunnews.com/stylesheets/close.gif"]
 vivanews.com###ads_regularnokia
 wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]

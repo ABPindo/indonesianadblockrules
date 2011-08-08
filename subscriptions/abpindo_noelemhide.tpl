@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # abp_indo without element hiding 
-# Last modified  Jumat 05 Agustus 2011, 18:33:04 WIB
+# Last modified  Senin 08 Agustus 2011, 07:53:29 WIB
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -495,6 +495,7 @@ msFilterList
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d ceri.ws /ads/
 -d chip.co.id /microsite/frame/index.html
+-d data.tribunnews.com /stylesheets/skin_visa.png
 -d duniavirtual.com /banner/floating_banner2.js
 -d ebsoft.web.id /wp-content/banners/
 -d gudeg.net /images/banner/
@@ -506,6 +507,7 @@ msFilterList
 -d indowebster.com /js/link_converter.js
 -d indowebster.com /static/iklan/idws/
 -d indowebster.com /templates/img/grupidws_iklan/
+-d inilah.com /assets/image/airasia/skin-1-agustus.jpg
 -d inilah.com /assets/image/skin-
 -d jogjastreamers.com /images/banner/
 -d kad.kaskus.us /banner/
@@ -525,6 +527,7 @@ msFilterList
 -d modifikasi.com /images/banner/
 -d modifikasi.com /images/banner_
 -d musisi.com /musifile/images_banner/
+-d o.detik.com /images/detikhot/skinnerhots.jpg
 -d oprekpc.com /banner/
 -d perawan.us /images/banner/
 -d poems.web.id /poemspromo/
@@ -532,6 +535,7 @@ msFilterList
 -d resep.web.id /banner/
 -d semprot.com /x_ads/
 -d stafaband.info /tb.swf
+-d stat.ks.kidsklik.com /statics/images3.5/promag.jpg
 -d suaramedia.com /images/banners/
 - http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
