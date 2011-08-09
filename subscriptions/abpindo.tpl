@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# ABPindo
-# Last modified:  Senin 08 Agustus 2011, 07:53:29 WIB
-# Homepage: http://indonesianfilter.blogspot.com
+# ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
+# Last modified:  Selasa 09 Agustus 2011, 22:23:05 WIB
+# Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
@@ -451,12 +451,13 @@ msFilterList
 - http://indo-solusta.com
 - http://indobets.com
 -d investasiceria.net /images/
-# ||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com|kikil.org
+# ||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 -d kebunemas.com /banner/
 - http://komisigratis.com
 - http://kumpuljutawan.com
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
+- http://mabosbet.com
 -d manasuka.com /gbr_banner_link/
 - http://marketbola.com
 - http://matakodok.com
@@ -485,11 +486,11 @@ msFilterList
 - http://syadiashare.com
 - http://tangkasbet.com
 - http://thupox.com
-# ||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com|krucil.net
+# ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 - http://topskor.us
 - http://topsurfer.com
 - http://tri7bet.com
-# ||uploadhouse.com/*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com|kikil.org
+# ||uploadhouse.com/*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 - http://usahaberhasil.com
 -d video-searchengine.com /banner/
 - http://web-indonesia.com
@@ -521,6 +522,7 @@ msFilterList
 -d kad.kaskus.us /banner/
 -d kaskus.us /adv/
 -d kaskus.us /images/adv/
+-d kawin.us /images/banner/
 -d ketawa.com /img-iklan/
 -d kikil.org /forum/banner/
 -d kompas.com /data/banner/
@@ -529,6 +531,7 @@ msFilterList
 -d koranlokal.com /point1.php
 -d krucil.net /bb17-iklan.php
 -d krucil.net /pop.js
+-d lendir.us /images/banner/
 -d mediaindonesia.com /public/banner/flash/
 -d megindo.net /megindo2/images/banner-
 -d modemku.com /image-banner/
@@ -538,6 +541,7 @@ msFilterList
 -d o.detik.com /images/detikhot/skinnerhots.jpg
 -d oprekpc.com /banner/
 -d perawan.us /images/banner/
+-d perjaka.us /images/banner/
 -d poems.web.id /poemspromo/
 -d primbon.com /banner/
 -d resep.web.id /banner/
@@ -554,6 +558,7 @@ msFilterList
 # *** abpindo_specific_hide.txt ***
 # ansav.com##.body > CENTER
 # arenabola.com##.adv
+# beritateknologi.com###topbar
 # ceriwis.us###hoho-wrapsubmenu2
 # ceriwis.us###hoho-wrapsubmenu3
 # ceriwis.us###message-box
@@ -612,6 +617,7 @@ msFilterList
 # metrotvnews.com###fixme
 # nyit-nyit.net###adn89 + * TD
 # oktavita.com##.banner-zone
+# pikiran-rakyat.com###bottom_exclusive_ads
 # resep.web.id###googlebox
 # semprot.com##.semprot_ads
 # tempointeraktif.com###banner-atas
