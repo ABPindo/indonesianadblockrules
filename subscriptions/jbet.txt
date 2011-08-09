@@ -1,14 +1,14 @@
 [Adblock Plus 1.1]
-! Checksum: qKCE4SzZP8YroOJXzJqIxQ
-! JBet - Jebakan Betmen
-! Last modified  Senin 06 Juni 2011, 05:47:55 WIB
+! Checksum: ZjHAo/7mmCjn7aach9UhvA
+! JBet - filter untuk menghindari Jebakan Betmen
+! Last modified  Selasa 09 Agustus 2011, 22:23:05 WIB
 ! Expires: 14 days (update frequency)
+! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
 ! Please report any unblocked adverts or problems
 ! via e-mail (hermawanadhis@gmail.com)
 ! in the forums (http://forums.lanik.us/viewforum.php?f=94)
-! http://indonesianfilter.blogspot.com
 !
 ! *** _computer_prank.txt ***
 ||hurr-durr.com^

@@ -1,13 +1,13 @@
 [Adblock Plus 1.1]
-! JBet - Jebakan Betmen
+! JBet - filter untuk menghindari Jebakan Betmen
 ! Last modified %timestamp%
 ! Expires: 14 days (update frequency)
+! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
 ! Please report any unblocked adverts or problems
 ! via e-mail (hermawanadhis@gmail.com)
 ! in the forums (http://forums.lanik.us/viewforum.php?f=94)
-! http://indonesianfilter.blogspot.com
 !
 %include _computer_prank.txt%
 %include _longcat.txt%

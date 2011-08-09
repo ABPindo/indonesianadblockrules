@@ -1,14 +1,14 @@
 [Adblock Plus 1.1]
-! Checksum: HoNNMsQiEF0XiasyyFh8vg
-! abp_indo without element hiding 
-! Last modified  Senin 08 Agustus 2011, 07:53:29 WIB
+! Checksum: H+G8LuGodn62Jc61sBq+JQ
+! ABPindo - ABPindo tanpa element hiding 
+! Last modified  Selasa 09 Agustus 2011, 22:23:05 WIB
 ! Expires: 5 days (update frequency)
+! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
 ! Please report any unblocked adverts or problems
 ! via e-mail (hermawanadhis@gmail.com)
 ! in the forums (http://forums.lanik.us/viewforum.php?f=94)
-! http://indonesianfilter.blogspot.com
 !
 ! *** abpindo_general_block.txt ***
 .com/iklan/*
@@ -444,12 +444,13 @@
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
-||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com|kikil.org
+||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
 ||lytogame.com/images/partner/
 ||lytogame.com/partner/
+||mabosbet.com^$third-party
 ||manasuka.com/gbr_banner_link/$third-party
 ||marketbola.com^$third-party
 ||matakodok.com^$third-party
@@ -478,11 +479,11 @@
 ||syadiashare.com^$third-party
 ||tangkasbet.com^$third-party
 ||thupox.com^$third-party
-||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com|krucil.net
+||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 ||topskor.us^
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
-||uploadhouse.com/*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com|kikil.org
+||uploadhouse.com/*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 ||usahaberhasil.com^$third-party
 ||video-searchengine.com/banner/*
 ||web-indonesia.com^$third-party
@@ -514,6 +515,7 @@
 ||kad.kaskus.us/banner/
 ||kaskus.us/adv/
 ||kaskus.us/images/adv/*
+||kawin.us/images/banner/*
 ||ketawa.com/img-iklan/
 ||kikil.org/forum/banner/*
 ||kompas.com/data/banner/
@@ -522,6 +524,7 @@
 ||koranlokal.com/point1.php
 ||krucil.net/bb17-iklan.php
 ||krucil.net/pop.js
+||lendir.us/images/banner/*
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
 ||modemku.com/image-banner/
@@ -531,6 +534,7 @@
 ||o.detik.com/images/detikhot/skinnerhots.jpg
 ||oprekpc.com/banner/
 ||perawan.us/images/banner/
+||perjaka.us/images/banner/*
 ||poems.web.id/poemspromo/
 ||primbon.com/banner/
 ||resep.web.id/banner/

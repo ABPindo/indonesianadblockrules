@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Checksum: qc6Tvl8AFS33Z2WfiVl3Dw
-! ABPindo
-! Last modified:  Senin 08 Agustus 2011, 07:53:29 WIB
+! Checksum: cUyxDx48E4eQx7iLmW8OeQ
+! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
+! Last modified:  Selasa 09 Agustus 2011, 22:23:05 WIB
 ! Expires: 5 days (update frequency)
-! Homepage: http://indonesianfilter.blogspot.com
+! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 !
 ! Please report any unblocked adverts or problems
@@ -452,12 +452,13 @@
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
-||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com|kikil.org
+||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
 ||lytogame.com/images/partner/
 ||lytogame.com/partner/
+||mabosbet.com^$third-party
 ||manasuka.com/gbr_banner_link/$third-party
 ||marketbola.com^$third-party
 ||matakodok.com^$third-party
@@ -486,11 +487,11 @@
 ||syadiashare.com^$third-party
 ||tangkasbet.com^$third-party
 ||thupox.com^$third-party
-||tinypic.com^*.gif$domain=bluefame.com|indobokepz.com|krucil.com|krucil.net
+||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 ||topskor.us^
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
-||uploadhouse.com/*.gif$domain=bluefame.com|indobokepz.com|krucil.net|krucil.com|kikil.org
+||uploadhouse.com/*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 ||usahaberhasil.com^$third-party
 ||video-searchengine.com/banner/*
 ||web-indonesia.com^$third-party
@@ -522,6 +523,7 @@
 ||kad.kaskus.us/banner/
 ||kaskus.us/adv/
 ||kaskus.us/images/adv/*
+||kawin.us/images/banner/*
 ||ketawa.com/img-iklan/
 ||kikil.org/forum/banner/*
 ||kompas.com/data/banner/
@@ -530,6 +532,7 @@
 ||koranlokal.com/point1.php
 ||krucil.net/bb17-iklan.php
 ||krucil.net/pop.js
+||lendir.us/images/banner/*
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
 ||modemku.com/image-banner/
@@ -539,6 +542,7 @@
 ||o.detik.com/images/detikhot/skinnerhots.jpg
 ||oprekpc.com/banner/
 ||perawan.us/images/banner/
+||perjaka.us/images/banner/*
 ||poems.web.id/poemspromo/
 ||primbon.com/banner/
 ||resep.web.id/banner/
@@ -555,6 +559,7 @@
 ! *** abpindo_specific_hide.txt ***
 ansav.com##.body > CENTER
 arenabola.com##.adv
+beritateknologi.com###topbar
 blogspot.com##A[href*="agent1388bet.com"]
 blogspot.com##A[href*="betwin188.com"]
 blogspot.com##A[href*="usahaberhasil.com"]
@@ -629,6 +634,7 @@ kaskus.us##IMG[src="images/spacer.gif"]
 kikil.org###floating_banner_bottom
 kikil.org##CENTER > TABLE[width="900"]
 kikil.org##CENTER > TABLE[width="900px"]
+kikil.org##DIV[style="height:210px; width:250px; overflow:hidden"]
 kompasiana.com###anchormasklink
 krucil.net###fixme
 krucil.net###floating_banner_bottom
@@ -641,6 +647,7 @@ mangafox.com##.ad728x90.left + .right
 metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * TD
 oktavita.com##.banner-zone
+pikiran-rakyat.com###bottom_exclusive_ads
 resep.web.id###googlebox
 semprot.com##.semprot_ads
 tempointeraktif.com###banner-atas

@@ -1,5 +1,6 @@
 ansav.com##.body > CENTER
 arenabola.com##.adv
+beritateknologi.com###topbar
 blogspot.com##A[href*="agent1388bet.com"]
 blogspot.com##A[href*="betwin188.com"]
 blogspot.com##A[href*="usahaberhasil.com"]
@@ -74,6 +75,7 @@ kaskus.us##IMG[src="images/spacer.gif"]
 kikil.org###floating_banner_bottom
 kikil.org##CENTER > TABLE[width="900"]
 kikil.org##CENTER > TABLE[width="900px"]
+kikil.org##DIV[style="height:210px; width:250px; overflow:hidden"]
 kompasiana.com###anchormasklink
 krucil.net###fixme
 krucil.net###floating_banner_bottom
@@ -86,6 +88,7 @@ mangafox.com##.ad728x90.left + .right
 metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * TD
 oktavita.com##.banner-zone
+pikiran-rakyat.com###bottom_exclusive_ads
 resep.web.id###googlebox
 semprot.com##.semprot_ads
 tempointeraktif.com###banner-atas
