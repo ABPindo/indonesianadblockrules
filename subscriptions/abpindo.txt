@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: cUyxDx48E4eQx7iLmW8OeQ
+! Checksum: K1qal2jSTVQA/d5IKxP+Rg
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Selasa 09 Agustus 2011, 22:23:05 WIB
+! Last modified:  Sabtu 20 Agustus 2011, 20:46:42 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -453,6 +453,7 @@
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
 ||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
+||kakakdewa.net^$third-party
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
@@ -488,51 +489,46 @@
 ||tangkasbet.com^$third-party
 ||thupox.com^$third-party
 ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
-||topskor.us^
+||topskor.us^$third-party
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
 ||uploadhouse.com/*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 ||usahaberhasil.com^$third-party
-||video-searchengine.com/banner/*
-||web-indonesia.com^$third-party
+||video-searchengine.com/banner/
 ||webbola.com^$third-party
 ||webiihost.com/aff/banner/$third-party
 ||webjualbeli.com^$third-party
 ||y-bux.com^$third-party
 ! *** abpindo_specific_block.txt ***
+|http://www.lintasberita.com/public/images/*-skin
 ||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg$domain=ganool.com
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
-||ceri.ws/ads/*
+||ceri.ws/ads/
 ||chip.co.id/microsite/frame/index.html
 ||data.tribunnews.com/stylesheets/skin_visa.png
-||duniavirtual.com/banner/floating_banner2.js
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
 ||harianjogja.com/img/Bnr/
-||images.indoforum.org/banners/*
+||images.indoforum.org/banners/
 ||indochanger.com/banner/
-||indowebster.com/ajax/banner/get_banner/*
-||indowebster.com/ajax/iklan/
 ||indowebster.com/js/link_converter.js
-||indowebster.com/static/iklan/idws/
-||indowebster.com/templates/img/grupidws_iklan/
 ||inilah.com/assets/image/airasia/skin-1-agustus.jpg
 ||inilah.com/assets/image/skin-
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
 ||kaskus.us/adv/
-||kaskus.us/images/adv/*
-||kawin.us/images/banner/*
+||kaskus.us/images/adv/
+||kawin.us/images/banner/
 ||ketawa.com/img-iklan/
-||kikil.org/forum/banner/*
+||kikil.org/forum/banner/
 ||kompas.com/data/banner/
 ||koranlokal.com/iklan_baru/
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
 ||krucil.net/bb17-iklan.php
 ||krucil.net/pop.js
-||lendir.us/images/banner/*
+||lendir.us/images/banner/
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
 ||modemku.com/image-banner/
@@ -542,11 +538,11 @@
 ||o.detik.com/images/detikhot/skinnerhots.jpg
 ||oprekpc.com/banner/
 ||perawan.us/images/banner/
-||perjaka.us/images/banner/*
+||perjaka.us/images/banner/
 ||poems.web.id/poemspromo/
 ||primbon.com/banner/
 ||resep.web.id/banner/
-||semprot.com/x_ads/*
+||semprot.com/x_ads/
 ||stafaband.info/tb.swf
 ||stat.ks.kidsklik.com/statics/images3.5/promag.jpg
 ||suaramedia.com/images/banners/
@@ -560,22 +556,18 @@
 ansav.com##.body > CENTER
 arenabola.com##.adv
 beritateknologi.com###topbar
+blogspot.com###topbar
 blogspot.com##A[href*="agent1388bet.com"]
 blogspot.com##A[href*="betwin188.com"]
 blogspot.com##A[href*="usahaberhasil.com"]
 bluefame.com##CENTER IMG[height="90"][width="728"]
-ceriwis.us###hoho-wrapsubmenu2
-ceriwis.us###hoho-wrapsubmenu3
-ceriwis.us###message-box
-ceriwis.us###message-box-bot
-ceriwis.us##IMG[alt="Top Banner"]
-ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###bottom_banner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###footerbanner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
@@ -601,12 +593,6 @@ indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
 indosiar.com###headerbanner
 indosiar.com###headerbanner + DIV[style="height:50px"]
-indowebster.com###AdsAtas
-indowebster.com###AdsSearchAtas
-indowebster.com###Ads_fileinfo
-indowebster.com###ban_728
-indowebster.com###iklankiri
-indowebster.com###tr_iklanbaris2
 inilah.com###anchormasklink
 kapanlagi.com###middle_showcase
 kapanlagi.com###top_showcase
@@ -635,11 +621,15 @@ kikil.org###floating_banner_bottom
 kikil.org##CENTER > TABLE[width="900"]
 kikil.org##CENTER > TABLE[width="900px"]
 kikil.org##DIV[style="height:210px; width:250px; overflow:hidden"]
+kompas.com##IMG[src="http://img.ads.kompas.com/bannerlink/close.gif"]
 kompasiana.com###anchormasklink
 krucil.net###fixme
 krucil.net###floating_banner_bottom
 krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.net##TD[width="305"]:last-child
+lintasberita.com##DIV[style="position: fixed; top: 130px; left: 1185px; width: 125px; height: 600px; background-color:transparent;"]
+lintasberita.com##DIV[style="position: fixed; top: 130px; left: 1px; width: 125px; height: 600px; background-color:transparent;"]
+lintasberita.com##IMG[src="http://www.lintasberita.com/public/images/spacer.gif"]
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##A[href^="http://mkhoj.com"]
@@ -662,6 +652,7 @@ vivanews.com###ads_regularnokia
 wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 warnetforum.com##DIV[style="margin: 10px auto 10px;width:599px;"]
 warungbebas.com##.gbtab
+zonabola.com###afbsports
 zonabola.com###lAds IMG
 zonabola.com###rAds IMG
 zonabola.com##IMG[width="750"][height="75"][border="0"]

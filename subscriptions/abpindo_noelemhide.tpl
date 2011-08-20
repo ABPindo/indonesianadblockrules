@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding 
-# Last modified  Selasa 09 Agustus 2011, 22:23:05 WIB
+# Last modified  Sabtu 20 Agustus 2011, 20:46:42 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -444,6 +444,7 @@ msFilterList
 - http://indobets.com
 -d investasiceria.net /images/
 # ||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
+- http://kakakdewa.net
 -d kebunemas.com /banner/
 - http://komisigratis.com
 - http://kumpuljutawan.com
@@ -485,29 +486,24 @@ msFilterList
 # ||uploadhouse.com/*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 - http://usahaberhasil.com
 -d video-searchengine.com /banner/
-- http://web-indonesia.com
 - http://webbola.com
 -d webiihost.com /aff/banner/
 - http://webjualbeli.com
 - http://y-bux.com
 # *** abpindo_specific_block.txt ***
+- http://www.lintasberita.com/public/images/*-skin
 # ||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg$domain=ganool.com
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d ceri.ws /ads/
 -d chip.co.id /microsite/frame/index.html
 -d data.tribunnews.com /stylesheets/skin_visa.png
--d duniavirtual.com /banner/floating_banner2.js
 -d ebsoft.web.id /wp-content/banners/
 -d gudeg.net /images/banner/
 -d harianjogja.com /img/Bnr/
 -d images.indoforum.org /banners/
 -d indochanger.com /banner/
--d indowebster.com /ajax/banner/get_banner/
--d indowebster.com /ajax/iklan/
 -d indowebster.com /js/link_converter.js
--d indowebster.com /static/iklan/idws/
--d indowebster.com /templates/img/grupidws_iklan/
 -d inilah.com /assets/image/airasia/skin-1-agustus.jpg
 -d inilah.com /assets/image/skin-
 -d jogjastreamers.com /images/banner/
