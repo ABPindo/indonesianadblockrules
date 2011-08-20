@@ -1,22 +1,18 @@
 ansav.com##.body > CENTER
 arenabola.com##.adv
 beritateknologi.com###topbar
+blogspot.com###topbar
 blogspot.com##A[href*="agent1388bet.com"]
 blogspot.com##A[href*="betwin188.com"]
 blogspot.com##A[href*="usahaberhasil.com"]
 bluefame.com##CENTER IMG[height="90"][width="728"]
-ceriwis.us###hoho-wrapsubmenu2
-ceriwis.us###hoho-wrapsubmenu3
-ceriwis.us###message-box
-ceriwis.us###message-box-bot
-ceriwis.us##IMG[alt="Top Banner"]
-ceriwis.us##IMG[src="http://static.ceriwis.us/750rb.jpg"]
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###bottom_banner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###footerbanner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
@@ -42,12 +38,6 @@ indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
 indosiar.com###headerbanner
 indosiar.com###headerbanner + DIV[style="height:50px"]
-indowebster.com###AdsAtas
-indowebster.com###AdsSearchAtas
-indowebster.com###Ads_fileinfo
-indowebster.com###ban_728
-indowebster.com###iklankiri
-indowebster.com###tr_iklanbaris2
 inilah.com###anchormasklink
 kapanlagi.com###middle_showcase
 kapanlagi.com###top_showcase
@@ -76,11 +66,15 @@ kikil.org###floating_banner_bottom
 kikil.org##CENTER > TABLE[width="900"]
 kikil.org##CENTER > TABLE[width="900px"]
 kikil.org##DIV[style="height:210px; width:250px; overflow:hidden"]
+kompas.com##IMG[src="http://img.ads.kompas.com/bannerlink/close.gif"]
 kompasiana.com###anchormasklink
 krucil.net###fixme
 krucil.net###floating_banner_bottom
 krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.net##TD[width="305"]:last-child
+lintasberita.com##DIV[style="position: fixed; top: 130px; left: 1185px; width: 125px; height: 600px; background-color:transparent;"]
+lintasberita.com##DIV[style="position: fixed; top: 130px; left: 1px; width: 125px; height: 600px; background-color:transparent;"]
+lintasberita.com##IMG[src="http://www.lintasberita.com/public/images/spacer.gif"]
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##A[href^="http://mkhoj.com"]
@@ -103,6 +97,7 @@ vivanews.com###ads_regularnokia
 wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 warnetforum.com##DIV[style="margin: 10px auto 10px;width:599px;"]
 warungbebas.com##.gbtab
+zonabola.com###afbsports
 zonabola.com###lAds IMG
 zonabola.com###rAds IMG
 zonabola.com##IMG[width="750"][height="75"][border="0"]
