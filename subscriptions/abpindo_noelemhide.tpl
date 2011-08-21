@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding 
-# Last modified  Sabtu 20 Agustus 2011, 20:46:42 WIB
+# Last modified  Minggu 21 Agustus 2011, 09:26:15 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -539,7 +539,6 @@ msFilterList
 -d suaramedia.com /images/banners/
 - http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
--d vivanews.com /appaux/ads/
 -d vivanews.com /skins/images/*_topbanner-
 -d zonabola.com /img_bin/iklan/
 -d zonabola.com /mansion.htm
