@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding 
-# Last modified  Minggu 21 Agustus 2011, 09:26:15 WIB
+# Last modified  Rabu 24 Agustus 2011, 07:54:51 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -18,6 +18,7 @@ msFilterList
 - /images/iklan/
 - /sittiad.
 - /uploads/iklan/
+- /usahaberhasil.gif
 # *** abpindo_adservers.txt ***
 - http://1iklanbaris.com
 - http://1jutarupiah.com
@@ -508,6 +509,7 @@ msFilterList
 -d inilah.com /assets/image/skin-
 -d jogjastreamers.com /images/banner/
 -d kad.kaskus.us /banner/
+-d kapanlagi.com /*/banner/
 -d kaskus.us /adv/
 -d kaskus.us /images/adv/
 -d kawin.us /images/banner/
@@ -530,7 +532,6 @@ msFilterList
 -d oprekpc.com /banner/
 -d perawan.us /images/banner/
 -d perjaka.us /images/banner/
--d poems.web.id /poemspromo/
 -d primbon.com /banner/
 -d resep.web.id /banner/
 -d semprot.com /x_ads/
@@ -539,6 +540,7 @@ msFilterList
 -d suaramedia.com /images/banners/
 - http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
+-d vivanews.com /appaux/kanalone/skins/images/vaseline-revisi.jpg
 -d vivanews.com /skins/images/*_topbanner-
 -d zonabola.com /img_bin/iklan/
 -d zonabola.com /mansion.htm
