@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Minggu 21 Agustus 2011, 09:26:15 WIB
+# Last modified:  Rabu 24 Agustus 2011, 07:54:51 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -18,6 +18,7 @@ msFilterList
 - /images/iklan/
 - /sittiad.
 - /uploads/iklan/
+- /usahaberhasil.gif
 # *** abpindo_general_hide.txt ***
 # ###desaiklan
 # ###iklanpersegi
@@ -516,6 +517,7 @@ msFilterList
 -d inilah.com /assets/image/skin-
 -d jogjastreamers.com /images/banner/
 -d kad.kaskus.us /banner/
+-d kapanlagi.com /*/banner/
 -d kaskus.us /adv/
 -d kaskus.us /images/adv/
 -d kawin.us /images/banner/
@@ -538,7 +540,6 @@ msFilterList
 -d oprekpc.com /banner/
 -d perawan.us /images/banner/
 -d perjaka.us /images/banner/
--d poems.web.id /poemspromo/
 -d primbon.com /banner/
 -d resep.web.id /banner/
 -d semprot.com /x_ads/
@@ -547,6 +548,7 @@ msFilterList
 -d suaramedia.com /images/banners/
 - http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
+-d vivanews.com /appaux/kanalone/skins/images/vaseline-revisi.jpg
 -d vivanews.com /skins/images/*_topbanner-
 -d zonabola.com /img_bin/iklan/
 -d zonabola.com /mansion.htm
@@ -575,12 +577,8 @@ msFilterList
 # google.com##.c0.lti35t
 # indosiar.com###headerbanner
 # inilah.com###anchormasklink
-# kapanlagi.com###middle_showcase
-# kapanlagi.com###top_showcase
-# kapanlagi.com###v5-blogshowcase1
+# kapanlagi.com###topbanner
 # kapanlagi.com###v5-leaderboard
-# kapanlagi.com###v5-marcommpromotion
-# kapanlagi.com###v5-mobilepromotion
 # kapanlagi.com###v5-showcase1
 # kapanlagi.com###v5-showcase2
 # kapanlagi.com###v5-showcase3
