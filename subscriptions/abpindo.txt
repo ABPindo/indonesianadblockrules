@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: dcWeUjRHaqdf+jPOHg5F8g
+! Checksum: upyNcMZbs8xozGc8ldBQjQ
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Rabu 24 Agustus 2011, 07:54:51 WIB
+! Last modified:  Jumat 26 Agustus 2011, 06:37:18 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -595,6 +595,8 @@ indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
 indosiar.com###headerbanner
 indosiar.com###headerbanner + DIV[style="height:50px"]
 inilah.com###anchormasklink
+isdaryanto.com###floatingad
+isdaryanto.com##IMG[style="width: 125px; height: 125px;"]
 kapanlagi.com###topbanner
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v5-showcase1
@@ -630,6 +632,7 @@ lintasberita.com##IMG[src="http://www.lintasberita.com/public/images/spacer.gif"
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##A[href^="http://mkhoj.com"]
+m.kapanlagi.com##.advertise_box
 mangafox.com##.ad728x90.left + .right
 metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * TD
@@ -648,6 +651,7 @@ tribunnews.com###bannerku
 tribunnews.com##IMG[src="http://www.tribunnews.com/stylesheets/close.gif"]
 vivanews.com###ads_regularnokia
 wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
+wap.vivanews.com##DIV[style="color:#DDDDDD;text-decoration:none;text-align:center;font-size:x-small;"]
 warnetforum.com##DIV[style="margin: 10px auto 10px;width:599px;"]
 warungbebas.com##.gbtab
 zonabola.com###afbsports
