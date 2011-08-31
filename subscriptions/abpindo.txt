@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: upyNcMZbs8xozGc8ldBQjQ
+! Checksum: n08xMG5HENMPGq8TiTRYtQ
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Jumat 26 Agustus 2011, 06:37:18 WIB
+! Last modified:  Rabu 31 Agustus 2011, 20:00:32 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -14,11 +14,13 @@
 .com/iklan/*
 .id/ads/*
 .id/iklan/*
+.net/iklan/*
 /iklan.
 /images/iklan-
 /images/iklan/*
 /sittiad.
 /uploads/iklan/*
+/usaha-berhasil.gif
 /usahaberhasil.gif
 ! *** abpindo_general_hide.txt ***
 ###desaiklan
@@ -28,6 +30,7 @@
 ##.gbcontent
 ##.gpcontent
 ##.pasangiklan
+##A[href*="usahaberhasil.com"]
 ! *** abpindo_adservers.txt ***
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
@@ -453,7 +456,7 @@
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
-||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
+||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 ||kakakdewa.net^$third-party
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
@@ -493,11 +496,11 @@
 ||topskor.us^$third-party
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
-||uploadhouse.com/*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
+||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 ||usahaberhasil.com^$third-party
 ||video-searchengine.com/banner/
 ||webbola.com^$third-party
-||webiihost.com/aff/banner/$third-party
+||webiihost.com^*/banner/$third-party
 ||webjualbeli.com^$third-party
 ||y-bux.com^$third-party
 ! *** abpindo_specific_block.txt ***
@@ -514,11 +517,10 @@
 ||images.indoforum.org/banners/
 ||indochanger.com/banner/
 ||indowebster.com/js/link_converter.js
-||inilah.com/assets/image/airasia/skin-1-agustus.jpg
-||inilah.com/assets/image/skin-
+||inilah.com^*/skin-
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
-||kapanlagi.com/*/banner/
+||kapanlagi.com^*/banner/
 ||kaskus.us/adv/
 ||kaskus.us/images/adv/
 ||kawin.us/images/banner/
@@ -551,7 +553,7 @@
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/kanalone/skins/images/vaseline-revisi.jpg
 ||vivanews.com^*/skins/images/*_topbanner-
-||zonabola.com/img_bin/iklan/
+||zonabola.com^*/iklan/
 ||zonabola.com/mansion.htm
 ! *** abpindo_specific_hide.txt ***
 ansav.com##.body > CENTER
@@ -560,7 +562,6 @@ beritateknologi.com###topbar
 blogspot.com###topbar
 blogspot.com##A[href*="agent1388bet.com"]
 blogspot.com##A[href*="betwin188.com"]
-blogspot.com##A[href*="usahaberhasil.com"]
 bluefame.com##CENTER IMG[height="90"][width="728"]
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
@@ -575,6 +576,8 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
 downloadfilem.com##A[href^="http://promosipraktis.com/"]
 downloadfilem.com##IMG[width="125"][height="125"]
+duniabaca.com##.banner
+duniabaca.com##.topadsense
 forumbebas.com###topbar[style="visibility: visible; left: 2px; top: 477px;"] TR
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
