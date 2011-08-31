@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding 
-# Last modified  Rabu 24 Agustus 2011, 07:54:51 WIB
+# Last modified  Rabu 31 Agustus 2011, 20:00:32 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -13,11 +13,13 @@ msFilterList
 - .com/iklan/
 - .id/ads/
 - .id/iklan/
+- .net/iklan/
 - /iklan.
 - /images/iklan-
 - /images/iklan/
 - /sittiad.
 - /uploads/iklan/
+- /usaha-berhasil.gif
 - /usahaberhasil.gif
 # *** abpindo_adservers.txt ***
 - http://1iklanbaris.com
@@ -444,7 +446,7 @@ msFilterList
 - http://indo-solusta.com
 - http://indobets.com
 -d investasiceria.net /images/
-# ||javapic.com/*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
+# ||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 - http://kakakdewa.net
 -d kebunemas.com /banner/
 - http://komisigratis.com
@@ -484,11 +486,11 @@ msFilterList
 - http://topskor.us
 - http://topsurfer.com
 - http://tri7bet.com
-# ||uploadhouse.com/*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
+# ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
 - http://usahaberhasil.com
 -d video-searchengine.com /banner/
 - http://webbola.com
--d webiihost.com /aff/banner/
+-d webiihost.com /banner/
 - http://webjualbeli.com
 - http://y-bux.com
 # *** abpindo_specific_block.txt ***
@@ -505,11 +507,10 @@ msFilterList
 -d images.indoforum.org /banners/
 -d indochanger.com /banner/
 -d indowebster.com /js/link_converter.js
--d inilah.com /assets/image/airasia/skin-1-agustus.jpg
--d inilah.com /assets/image/skin-
+-d inilah.com /skin-
 -d jogjastreamers.com /images/banner/
 -d kad.kaskus.us /banner/
--d kapanlagi.com /*/banner/
+-d kapanlagi.com /banner/
 -d kaskus.us /adv/
 -d kaskus.us /images/adv/
 -d kawin.us /images/banner/
@@ -542,7 +543,7 @@ msFilterList
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/kanalone/skins/images/vaseline-revisi.jpg
 -d vivanews.com /skins/images/*_topbanner-
--d zonabola.com /img_bin/iklan/
+-d zonabola.com /iklan/
 -d zonabola.com /mansion.htm
 # *** abpindo_whitelist.txt ***
 +d ganool.googlecode.com /files/advertisement.js

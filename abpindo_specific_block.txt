@@ -11,11 +11,10 @@
 ||images.indoforum.org/banners/
 ||indochanger.com/banner/
 ||indowebster.com/js/link_converter.js
-||inilah.com/assets/image/airasia/skin-1-agustus.jpg
-||inilah.com/assets/image/skin-
+||inilah.com^*/skin-
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/
-||kapanlagi.com/*/banner/
+||kapanlagi.com^*/banner/
 ||kaskus.us/adv/
 ||kaskus.us/images/adv/
 ||kawin.us/images/banner/
@@ -48,5 +47,5 @@
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/kanalone/skins/images/vaseline-revisi.jpg
 ||vivanews.com^*/skins/images/*_topbanner-
-||zonabola.com/img_bin/iklan/
+||zonabola.com^*/iklan/
 ||zonabola.com/mansion.htm
