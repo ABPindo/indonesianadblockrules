@@ -20,6 +20,7 @@ downloadfilem.com##A[href^="http://promosipraktis.com/"]
 downloadfilem.com##IMG[width="125"][height="125"]
 duniabaca.com##.banner
 duniabaca.com##.topadsense
+forum.detik.com##A[href$=".ad"][target="_blank"]
 forumbebas.com###topbar[style="visibility: visible; left: 2px; top: 477px;"] TR
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
@@ -81,6 +82,7 @@ m.kapanlagi.com##.advertise_box
 mangafox.com##.ad728x90.left + .right
 metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * TD
+okezone.com##IMG[src*="/images/ad/"]
 oktavita.com##.banner-zone
 pikiran-rakyat.com###bottom_exclusive_ads
 republika.co.id##A[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]

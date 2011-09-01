@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 2dScFJ3RmMKtz8EMXSdvow
+! Checksum: 6su4hwVzbxtkCtk+q0+DUA
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Rabu 31 Agustus 2011, 20:02:41 WIB
+! Last modified:  Kamis 01 September 2011, 07:47:35 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -578,6 +578,7 @@ downloadfilem.com##A[href^="http://promosipraktis.com/"]
 downloadfilem.com##IMG[width="125"][height="125"]
 duniabaca.com##.banner
 duniabaca.com##.topadsense
+forum.detik.com##A[href$=".ad"][target="_blank"]
 forumbebas.com###topbar[style="visibility: visible; left: 2px; top: 477px;"] TR
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
@@ -639,6 +640,7 @@ m.kapanlagi.com##.advertise_box
 mangafox.com##.ad728x90.left + .right
 metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * TD
+okezone.com##IMG[src*="/images/ad/"]
 oktavita.com##.banner-zone
 pikiran-rakyat.com###bottom_exclusive_ads
 republika.co.id##A[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
@@ -663,3 +665,5 @@ zonabola.com###rAds IMG
 zonabola.com##IMG[width="750"][height="75"][border="0"]
 ! *** abpindo_whitelist.txt ***
 @@||ganool.googlecode.com/files/advertisement.js$domain=ganool.com
+@@||iklan.okezone.com/images-data/classified/
+@@||okezone.com^*/images/ad/
