@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 6su4hwVzbxtkCtk+q0+DUA
+! Checksum: 8Fy+iEYHoJyK83OZj5IT3g
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Kamis 01 September 2011, 07:47:35 WIB
+! Last modified:  Kamis 01 September 2011, 19:51:00 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -573,12 +573,12 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##A[href$=".ad"][target="_blank"]
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
 downloadfilem.com##A[href^="http://promosipraktis.com/"]
 downloadfilem.com##IMG[width="125"][height="125"]
 duniabaca.com##.banner
 duniabaca.com##.topadsense
-forum.detik.com##A[href$=".ad"][target="_blank"]
 forumbebas.com###topbar[style="visibility: visible; left: 2px; top: 477px;"] TR
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
