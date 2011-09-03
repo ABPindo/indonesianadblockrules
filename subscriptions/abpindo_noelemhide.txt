@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: wH9oGR5aAUgNP2S6IsAuZw
+! Checksum: Eg9ib/UmY3xz36hozWgRWA
 ! ABPindo - ABPindo tanpa element hiding 
-! Last modified  Kamis 01 September 2011, 07:47:35 WIB
+! Last modified  Sabtu 03 September 2011, 07:28:32 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -15,8 +15,8 @@
 .id/ads/*
 .id/iklan/*
 .net/iklan/*
+/iklan-
 /iklan.
-/images/iklan-
 /images/iklan/*
 /sittiad.
 /uploads/iklan/*
@@ -375,7 +375,7 @@
 ||textspace.net^$third-party
 ||the-freeads.com^$third-party
 ||theclickers.net^$third-party
-||tinggalklik.com^$third-party
+||tinggalklik.com^
 ||tipsiklan.com^$third-party
 ||tokobagus.com^$third-party
 ||topklik.com^$third-party
@@ -452,11 +452,13 @@
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
+||lookit-quick.com^$third-party
 ||lytogame.com/images/partner/
 ||lytogame.com/partner/
 ||mabosbet.com^$third-party
 ||manasuka.com/gbr_banner_link/$third-party
 ||marketbola.com^$third-party
+||masterporn.me^*.gif$domain=krucil.net
 ||matakodok.com^$third-party
 ||mractionclub.com/banner/$third-party
 ||networkadonline.com^$third-party
@@ -507,6 +509,7 @@
 ||harianjogja.com/img/Bnr/
 ||images.indoforum.org/banners/
 ||indochanger.com/banner/
+||indomp3z.us/banner/
 ||indowebster.com/js/link_converter.js
 ||inilah.com^*/skin-
 ||jogjastreamers.com/images/banner/
@@ -537,15 +540,15 @@
 ||primbon.com/banner/
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
-||stafaband.info/tb.swf
 ||stat.ks.kidsklik.com/statics/images3.5/promag.jpg
 ||suaramedia.com/images/banners/
+||tabloidbintang.com^*/space-iklan/
 ||us.openx.detik.com^
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/kanalone/skins/images/vaseline-revisi.jpg
 ||vivanews.com^*/skins/images/*_topbanner-
-||zonabola.com^*/iklan/
 ||zonabola.com/mansion.htm
+||zonabola.com^*/iklan/
 ! *** abpindo_whitelist.txt ***
 @@||ganool.googlecode.com/files/advertisement.js$domain=ganool.com
 @@||iklan.okezone.com/images-data/classified/

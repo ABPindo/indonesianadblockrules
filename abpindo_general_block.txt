@@ -2,8 +2,8 @@
 .id/ads/*
 .id/iklan/*
 .net/iklan/*
+/iklan-
 /iklan.
-/images/iklan-
 /images/iklan/*
 /sittiad.
 /uploads/iklan/*

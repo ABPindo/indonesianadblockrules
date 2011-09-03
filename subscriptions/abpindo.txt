@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 8Fy+iEYHoJyK83OZj5IT3g
+! Checksum: TNh4wShqLQtptoT5JvtNAA
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Kamis 01 September 2011, 19:51:00 WIB
+! Last modified:  Sabtu 03 September 2011, 07:28:32 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -15,8 +15,8 @@
 .id/ads/*
 .id/iklan/*
 .net/iklan/*
+/iklan-
 /iklan.
-/images/iklan-
 /images/iklan/*
 /sittiad.
 /uploads/iklan/*
@@ -384,7 +384,7 @@
 ||textspace.net^$third-party
 ||the-freeads.com^$third-party
 ||theclickers.net^$third-party
-||tinggalklik.com^$third-party
+||tinggalklik.com^
 ||tipsiklan.com^$third-party
 ||tokobagus.com^$third-party
 ||topklik.com^$third-party
@@ -461,11 +461,13 @@
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
+||lookit-quick.com^$third-party
 ||lytogame.com/images/partner/
 ||lytogame.com/partner/
 ||mabosbet.com^$third-party
 ||manasuka.com/gbr_banner_link/$third-party
 ||marketbola.com^$third-party
+||masterporn.me^*.gif$domain=krucil.net
 ||matakodok.com^$third-party
 ||mractionclub.com/banner/$third-party
 ||networkadonline.com^$third-party
@@ -516,6 +518,7 @@
 ||harianjogja.com/img/Bnr/
 ||images.indoforum.org/banners/
 ||indochanger.com/banner/
+||indomp3z.us/banner/
 ||indowebster.com/js/link_converter.js
 ||inilah.com^*/skin-
 ||jogjastreamers.com/images/banner/
@@ -546,15 +549,15 @@
 ||primbon.com/banner/
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
-||stafaband.info/tb.swf
 ||stat.ks.kidsklik.com/statics/images3.5/promag.jpg
 ||suaramedia.com/images/banners/
+||tabloidbintang.com^*/space-iklan/
 ||us.openx.detik.com^
 ||videogamesindonesia.com/banners/
 ||vivanews.com/appaux/kanalone/skins/images/vaseline-revisi.jpg
 ||vivanews.com^*/skins/images/*_topbanner-
-||zonabola.com^*/iklan/
 ||zonabola.com/mansion.htm
+||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
 ansav.com##.body > CENTER
 arenabola.com##.adv
@@ -596,6 +599,7 @@ icinema3satu.com##IMG[style="height: 125px; width: 125px;"]
 icinema3satu.com##IMG[style="height: 125x; width: 125px;"]
 indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
+indoforum.org##.ad_primex
 indosiar.com###headerbanner
 indosiar.com###headerbanner + DIV[style="height:50px"]
 inilah.com###anchormasklink
@@ -603,6 +607,8 @@ isdaryanto.com###floatingad
 isdaryanto.com##IMG[style="width: 125px; height: 125px;"]
 kapanlagi.com###topbanner
 kapanlagi.com###v5-leaderboard
+kapanlagi.com###v5-marcommpromotion
+kapanlagi.com###v5-mobilepromotion
 kapanlagi.com###v5-showcase1
 kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
