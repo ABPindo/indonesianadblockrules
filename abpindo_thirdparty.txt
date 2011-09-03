@@ -57,11 +57,13 @@
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
+||lookit-quick.com^$third-party
 ||lytogame.com/images/partner/
 ||lytogame.com/partner/
 ||mabosbet.com^$third-party
 ||manasuka.com/gbr_banner_link/$third-party
 ||marketbola.com^$third-party
+||masterporn.me^*.gif$domain=krucil.net
 ||matakodok.com^$third-party
 ||mractionclub.com/banner/$third-party
 ||networkadonline.com^$third-party

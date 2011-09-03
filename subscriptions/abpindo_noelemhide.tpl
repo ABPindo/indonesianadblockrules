@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding 
-# Last modified  Kamis 01 September 2011, 07:47:35 WIB
+# Last modified  Sabtu 03 September 2011, 07:28:32 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -14,8 +14,8 @@ msFilterList
 - .id/ads/
 - .id/iklan/
 - .net/iklan/
+- /iklan-
 - /iklan.
-- /images/iklan-
 - /images/iklan/
 - /sittiad.
 - /uploads/iklan/
@@ -451,11 +451,13 @@ msFilterList
 -d kebunemas.com /banner/
 - http://komisigratis.com
 - http://kumpuljutawan.com
+- http://lookit-quick.com
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
 - http://mabosbet.com
 -d manasuka.com /gbr_banner_link/
 - http://marketbola.com
+# ||masterporn.me^*.gif$domain=krucil.net
 - http://matakodok.com
 -d mractionclub.com /banner/
 - http://networkadonline.com
@@ -506,6 +508,7 @@ msFilterList
 -d harianjogja.com /img/Bnr/
 -d images.indoforum.org /banners/
 -d indochanger.com /banner/
+-d indomp3z.us /banner/
 -d indowebster.com /js/link_converter.js
 -d inilah.com /skin-
 -d jogjastreamers.com /images/banner/
@@ -536,15 +539,15 @@ msFilterList
 -d primbon.com /banner/
 -d resep.web.id /banner/
 -d semprot.com /x_ads/
--d stafaband.info /tb.swf
 -d stat.ks.kidsklik.com /statics/images3.5/promag.jpg
 -d suaramedia.com /images/banners/
+-d tabloidbintang.com /space-iklan/
 - http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
 -d vivanews.com /appaux/kanalone/skins/images/vaseline-revisi.jpg
 -d vivanews.com /skins/images/*_topbanner-
--d zonabola.com /iklan/
 -d zonabola.com /mansion.htm
+-d zonabola.com /iklan/
 # *** abpindo_whitelist.txt ***
 +d ganool.googlecode.com /files/advertisement.js
 +d iklan.okezone.com /images-data/classified/
