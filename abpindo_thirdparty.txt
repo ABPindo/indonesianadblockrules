@@ -1,5 +1,6 @@
 ||1bisnisonline.com^$third-party
 ||39bola.com^$third-party
+||988bet.com^$third-party
 ||agent926.com^$third-party
 ||alamatemail.com^$third-party
 ||alertpay.com/banners/$third-party
@@ -28,6 +29,7 @@
 ||cdn.bloggerfiles.com/img/promo/
 ||chainbux.com^$third-party
 ||clickbet88.com^$third-party
+||coblos.net^*.swf$domain=bintangmawar.net
 ||dewamabuk.com$third-party
 ||doremibet.com^$third-party
 ||drumcash.com^$third-party
@@ -52,7 +54,7 @@
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
-||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
+||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 ||kakakdewa.net^$third-party
 ||kebunemas.com/banner/$third-party
 ||komisigratis.com^$third-party
@@ -90,11 +92,11 @@
 ||syadiashare.com^$third-party
 ||tangkasbet.com^$third-party
 ||thupox.com^$third-party
-||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
+||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 ||topskor.us^$third-party
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
-||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
+||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 ||usahaberhasil.com^$third-party
 ||video-searchengine.com/banner/
 ||webbola.com^$third-party
