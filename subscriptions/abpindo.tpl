@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Sabtu 03 September 2011, 07:28:32 WIB
+# Last modified:  Senin 05 September 2011, 05:05:15 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -402,6 +402,7 @@ msFilterList
 # *** abpindo_thirdparty.txt ***
 - http://1bisnisonline.com
 - http://39bola.com
+- http://988bet.com
 - http://agent926.com
 - http://alamatemail.com
 -d alertpay.com /banners/
@@ -430,6 +431,7 @@ msFilterList
 -d cdn.bloggerfiles.com /img/promo/
 - http://chainbux.com
 - http://clickbet88.com
+# ||coblos.net^*.swf$domain=bintangmawar.net
 - http://dewamabuk.com
 - http://doremibet.com
 - http://drumcash.com
@@ -454,7 +456,7 @@ msFilterList
 - http://indo-solusta.com
 - http://indobets.com
 -d investasiceria.net /images/
-# ||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
+# ||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 - http://kakakdewa.net
 -d kebunemas.com /banner/
 - http://komisigratis.com
@@ -492,11 +494,11 @@ msFilterList
 - http://syadiashare.com
 - http://tangkasbet.com
 - http://thupox.com
-# ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
+# ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 - http://topskor.us
 - http://topsurfer.com
 - http://tri7bet.com
-# ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|
+# ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 - http://usahaberhasil.com
 -d video-searchengine.com /banner/
 - http://webbola.com
@@ -564,13 +566,17 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###bannerE
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###bottom_banner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###footerbanner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###otp_banner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 # duniabaca.com##.banner
 # duniabaca.com##.topadsense
 # gambarkeren.info##.iklankotak1

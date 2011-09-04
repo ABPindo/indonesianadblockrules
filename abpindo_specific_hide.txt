@@ -8,13 +8,17 @@ bluefame.com##CENTER IMG[height="90"][width="728"]
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###bannerE
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###bottom_banner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###footerbanner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###otp_banner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##A[href$=".ad"][target="_blank"]
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
 downloadfilem.com##A[href^="http://promosipraktis.com/"]
