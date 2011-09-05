@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Senin 05 September 2011, 05:05:15 WIB
+# Last modified:  Senin 05 September 2011, 08:29:27 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -23,12 +23,16 @@ msFilterList
 - /usahaberhasil.gif
 # *** abpindo_general_hide.txt ***
 # ###desaiklan
+# ###floatingad
 # ###iklanpersegi
+# ##.ad_primex
+# ##.adv
 # ##.banner-adv
 # ##.bgads
 # ##.gbcontent
 # ##.gpcontent
 # ##.pasangiklan
+# ##.topadsense
 # *** abpindo_adservers.txt ***
 - http://1iklanbaris.com
 - http://1jutarupiah.com
@@ -458,7 +462,7 @@ msFilterList
 -d investasiceria.net /images/
 # ||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 - http://kakakdewa.net
--d kebunemas.com /banner/
+- http://kebunemas.com
 - http://komisigratis.com
 - http://kumpuljutawan.com
 - http://lookit-quick.com
@@ -500,19 +504,16 @@ msFilterList
 - http://tri7bet.com
 # ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 - http://usahaberhasil.com
--d video-searchengine.com /banner/
 - http://webbola.com
 -d webiihost.com /banner/
 - http://webjualbeli.com
 - http://y-bux.com
 # *** abpindo_specific_block.txt ***
-- http://www.lintasberita.com/public/images/*-skin
-# ||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg$domain=ganool.com
+-d 1.bp.blogspot.com /_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d ceri.ws /ads/
 -d chip.co.id /microsite/frame/index.html
--d data.tribunnews.com /stylesheets/skin_visa.png
 -d ebsoft.web.id /wp-content/banners/
 -d gudeg.net /images/banner/
 -d harianjogja.com /img/Bnr/
@@ -520,7 +521,6 @@ msFilterList
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
 -d indowebster.com /js/link_converter.js
--d inilah.com /skin-
 -d jogjastreamers.com /images/banner/
 -d kad.kaskus.us /banner/
 -d kapanlagi.com /banner/
@@ -542,25 +542,20 @@ msFilterList
 -d modifikasi.com /images/banner/
 -d modifikasi.com /images/banner_
 -d musisi.com /musifile/images_banner/
--d o.detik.com /images/detikhot/skinnerhots.jpg
 -d oprekpc.com /banner/
 -d perawan.us /images/banner/
 -d perjaka.us /images/banner/
 -d primbon.com /banner/
 -d resep.web.id /banner/
 -d semprot.com /x_ads/
--d stat.ks.kidsklik.com /statics/images3.5/promag.jpg
 -d suaramedia.com /images/banners/
 -d tabloidbintang.com /space-iklan/
 - http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
--d vivanews.com /appaux/kanalone/skins/images/vaseline-revisi.jpg
--d vivanews.com /skins/images/*_topbanner-
 -d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
 # ansav.com##.body > CENTER
-# arenabola.com##.adv
 # beritateknologi.com###topbar
 # blogspot.com###topbar
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
@@ -570,7 +565,6 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###bottom_banner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###footerbanner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###otp_banner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
@@ -578,7 +572,6 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 # duniabaca.com##.banner
-# duniabaca.com##.topadsense
 # gambarkeren.info##.iklankotak1
 # ganool.com###ad2_footer
 # ganool.com###floating_banner_top
@@ -587,10 +580,8 @@ msFilterList
 # google.co.id###rhs_block
 # google.com###rhs_block
 # google.com##.c0.lti35t
-# indoforum.org##.ad_primex
 # indosiar.com###headerbanner
 # inilah.com###anchormasklink
-# isdaryanto.com###floatingad
 # kapanlagi.com###topbanner
 # kapanlagi.com###v5-leaderboard
 # kapanlagi.com###v5-marcommpromotion
@@ -627,7 +618,6 @@ msFilterList
 # tempointeraktif.com##.block.iklan
 # tempointeraktif.com##.block.iklan.top
 # tribunnews.com###bannerku
-# vivanews.com###ads_regularnokia
 # warungbebas.com##.gbtab
 # zonabola.com###afbsports
 # zonabola.com###lAds IMG
