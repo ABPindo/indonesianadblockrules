@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Rabu 07 September 2011, 16:43:28 WIB
+# Last modified:  Minggu 11 September 2011, 17:21:57 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -428,6 +428,7 @@ msFilterList
 - http://bisnisurl.web.id
 - http://bola777.net
 - http://bolaketangkasan.com
+- http://bravevolitation.com
 - http://bux-matrix.com
 - http://buxrupiah.com
 - http://cash-harvest.com
@@ -444,6 +445,7 @@ msFilterList
 - http://easy-hit-counter.com
 - http://empatdns.com
 - http://enjoybux.com
+- http://fellowequality.com
 - http://folderbisnis.com
 - http://forexpose.com
 -d formulabisnis.com /images/
@@ -452,6 +454,7 @@ msFilterList
 - http://galaxybola.com
 - http://gesrek.com
 - http://goldbet88.com
+- http://gowellup.com
 - http://hiddenbux.com
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
@@ -465,6 +468,7 @@ msFilterList
 - http://kebunemas.com
 - http://komisigratis.com
 - http://kumpuljutawan.com
+- http://link2communion.com
 - http://lookit-quick.com
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
