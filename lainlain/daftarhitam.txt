@@ -4,8 +4,16 @@
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 ! via e-mail (hermawanadhis@gmail.com)
 !
+||addthis.com^$third-party
+||addtoany.com^$third-party
+||digg.com^$third-party
+||facebook.com^$third-party
+||facebook.net^$third-party
+||fbcdn.net^$third-party
+||feedburner.com^$third-party
+||google-analytics.com^$third-party
+||google.com/js/plusone.js$third-party
+||shoutmix.com^$third-party
 ||static.kaskus.us/customavatars/*
-||twitter.com^
-||facebook.com^
-||fbcdn.net^
-||facebook.net^
+||twimg.com^$third-party
+||twitter.com^$third-party
