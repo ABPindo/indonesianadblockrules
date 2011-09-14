@@ -7,12 +7,16 @@
 ||addthis.com^$third-party
 ||addtoany.com^$third-party
 ||digg.com^$third-party
+||disqus.com^$third-party
 ||facebook.com^$third-party
 ||facebook.net^$third-party
 ||fbcdn.net^$third-party
 ||feedburner.com^$third-party
 ||google-analytics.com^$third-party
 ||google.com/js/plusone.js$third-party
+||gravatar.com^$third-party
+||linkedin.com^$third-party
+||paypal.com^$third-party
 ||shoutmix.com^$third-party
 ||static.kaskus.us/customavatars/*
 ||twimg.com^$third-party
