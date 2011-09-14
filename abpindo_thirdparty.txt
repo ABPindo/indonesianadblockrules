@@ -57,6 +57,7 @@
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
+||javapic.com/ikelan/*
 ||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 ||kakakdewa.net^$third-party
 ||kebunemas.com^$third-party
