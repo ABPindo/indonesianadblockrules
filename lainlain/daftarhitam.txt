@@ -11,6 +11,7 @@
 ||facebook.com^$third-party
 ||facebook.net^$third-party
 ||fbcdn.net^$third-party
+||fbshare.me^$third-party
 ||feedburner.com^$third-party
 ||google-analytics.com^$third-party
 ||google.com/js/plusone.js$third-party
@@ -19,5 +20,6 @@
 ||paypal.com^$third-party
 ||shoutmix.com^$third-party
 ||static.kaskus.us/customavatars/*
+||tweetmeme.com^$third-party
 ||twimg.com^$third-party
 ||twitter.com^$third-party
