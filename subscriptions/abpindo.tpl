@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Kamis 15 September 2011, 04:48:23 WIB
+# Last modified:  Sabtu 24 September 2011, 18:38:16 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -26,11 +26,10 @@ msFilterList
 # ###floatingad
 # ###iklanpersegi
 # ##.ad_primex
-# ##.adv
-# ##.banner-adv
 # ##.bgads
 # ##.gbcontent
 # ##.gpcontent
+# ##.iklan
 # ##.pasangiklan
 # ##.topadsense
 # *** abpindo_adservers.txt ***
@@ -563,6 +562,7 @@ msFilterList
 # ansav.com##.body > CENTER
 # beritateknologi.com###topbar
 # blogspot.com###topbar
+# detik.com##.box_kanan.fr > .banner_reg + .box_3 + .box_3
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
@@ -577,6 +577,7 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 # duniabaca.com##.banner
+# forumbebas.com###topbar
 # gambarkeren.info##.iklankotak1
 # ganool.com###ad2_footer
 # ganool.com###floating_banner_top
@@ -605,6 +606,7 @@ msFilterList
 # kaskus.us###Middlenahome1
 # kaskus.us###cntysm
 # kikil.org###floating_banner_bottom
+# kolomunik.com###topbar
 # kompasiana.com###anchormasklink
 # krucil.net###fixme
 # krucil.net###floating_banner_bottom
