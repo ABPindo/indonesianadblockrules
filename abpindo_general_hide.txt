@@ -2,11 +2,10 @@
 ###floatingad
 ###iklanpersegi
 ##.ad_primex
-##.adv
-##.banner-adv
 ##.bgads
 ##.gbcontent
 ##.gpcontent
+##.iklan
 ##.pasangiklan
 ##.topadsense
 ##A[href*="usahaberhasil.com"]

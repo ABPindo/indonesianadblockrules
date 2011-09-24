@@ -2,6 +2,7 @@ ansav.com##.body > CENTER
 beritateknologi.com###topbar
 blogspot.com###topbar
 bluefame.com##CENTER IMG[height="90"][width="728"]
+detik.com##.box_kanan.fr > .banner_reg + .box_3 + .box_3
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
@@ -20,7 +21,9 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 downloadfilem.com##A[href^="http://promosipraktis.com/"]
 downloadfilem.com##IMG[width="125"][height="125"]
 duniabaca.com##.banner
-forumbebas.com###topbar[style="visibility: visible; left: 2px; top: 477px;"] TR
+forumbebas.com###topbar
+forumbebas.com##A[target="_blank"][href^="www/go/"]
+forumbebas.com##CENTER > A[target="_blank"]
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
 ganool.com###floating_banner_top
@@ -60,11 +63,13 @@ kaskus.us###Middlenahome1
 kaskus.us###cntysm
 kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
+kaskus.us##DIV[style="position:fixed; width:100%; z-index:99;background:#fff;"] + DIV[style="height:30px"]
 kaskus.us##IMG[src="images/spacer.gif"]
 kikil.org###floating_banner_bottom
 kikil.org##CENTER > TABLE[width="900"]
 kikil.org##CENTER > TABLE[width="900px"]
 kikil.org##DIV[style="height:210px; width:250px; overflow:hidden"]
+kolomunik.com###topbar
 kompas.com##IMG[src="http://img.ads.kompas.com/bannerlink/close.gif"]
 kompasiana.com###anchormasklink
 krucil.net###fixme
