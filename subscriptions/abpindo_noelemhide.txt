@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: q/tF3IZNjfKx7CG5N+hyEA
+! Checksum: xqIDeRTC8zYAS+hZBbfQKw
 ! ABPindo - ABPindo tanpa element hiding 
-! Last modified  Kamis 15 September 2011, 04:48:23 WIB
+! Last modified  Kamis 29 September 2011, 10:07:37 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -440,6 +440,7 @@
 ||formulabisnis.com/images/$third-party
 ||fox-bux.com^$third-party
 ||funds4cash.com^$third-party
+||gajigratis.com^$third-party
 ||galaxybola.com^$third-party
 ||gesrek.com^$third-party
 ||goldbet88.com^$third-party
@@ -458,6 +459,7 @@
 ||kebunemas.com^$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
+||libertygold-kita.com^$third-party
 ||link2communion.com^$third-party
 ||lookit-quick.com^$third-party
 ||lytogame.com/images/partner/$third-party
