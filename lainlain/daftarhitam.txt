@@ -18,6 +18,7 @@
 ||gravatar.com^$third-party
 ||linkedin.com^$third-party
 ||paypal.com^$third-party
+||sharethis.com^$third-party
 ||shoutmix.com^$third-party
 ||static.kaskus.us/customavatars/*
 ||tweetmeme.com^$third-party
