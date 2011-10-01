@@ -628,7 +628,6 @@ kaskus.us###Middlenahome1
 kaskus.us###cntysm
 kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
-kaskus.us##DIV[style="position:fixed; width:100%; z-index:99;background:#fff;"] + DIV[style="height:30px"]
 kaskus.us##IMG[src="images/spacer.gif"]
 kikil.org###floating_banner_bottom
 kikil.org##CENTER > TABLE[width="900"]
