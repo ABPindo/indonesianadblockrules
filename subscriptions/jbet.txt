@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: O+sGqwEvUHvBL+BntAD7FA
+! Checksum: 8Yl734dZ/ZggpdHgaOsksg
 ! JBet - filter untuk menghindari Jebakan Betmen
-! Last modified  Rabu 31 Agustus 2011, 20:02:41 WIB
+! Last modified  Sabtu 15 Oktober 2011, 09:01:31 WIB
 ! Expires: 14 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -197,13 +197,6 @@
 ||yourmom.org^
 ||yt118.com^
 ! *** _longcat.txt ***
-|http://1.bp.blogspot.com/_SwbWgcTbw4A/SnkXsdrkM3I/AAAAAAAAAIw/_MefnBG4_Ac/s320/*
-|http://2.bp.blogspot.com/_my5OGIJd4kM/Sher-0wV0FI/AAAAAAAAFZ8/qsCTA0eoo_o/s400/*
-|http://3.bp.blogspot.com/_1xq6U5umLhc/Sn6tbm7ASVI/AAAAAAAAACE/k-6SstR1xwA/s400/*
-|http://3.bp.blogspot.com/_oCjapzJZNmE/SM0wjW6ym8I/AAAAAAAAAAs/GUN5Jlak0Vw/s400/*
-|http://4.bp.blogspot.com/_gYwA-HaBmaY/SsnAeS5jyRI/AAAAAAAAABk/yhlRa5EssPw/s400/*
-|http://4.bp.blogspot.com/_gYwA-HaBmaY/SsnBZ_NhBwI/AAAAAAAAABs/TtRWe2yJFr4/s400/*
-|http://4.bp.blogspot.com/_ZJWEkPaXBF0/R6kBMajbgNI/AAAAAAAAAM4/00-LfeihH1w/s400/*
 |http://alanarnette.com/downloads/*
 |http://assassaindolphin.files.wordpress.com/8852/12/*
 |http://assets.knowyourmeme.com/i/2116/original/*
