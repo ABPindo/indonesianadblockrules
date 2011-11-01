@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Sabtu 29 Oktober 2011, 12:19:47 WIB
+# Last modified:  Selasa 01 Nopember 2011, 11:38:05 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -463,8 +463,8 @@ msFilterList
 - http://indo-solusta.com
 - http://indobets.com
 -d investasiceria.net /images/
--d javapic.com /ikelan/
 # ||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
+# ||javapic.com^*.swf$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 - http://kakakdewa.net
 - http://kebunemas.com
 - http://komisigratis.com
@@ -474,6 +474,7 @@ msFilterList
 - http://lookit-quick.com
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
+- http://m88media.com
 - http://mabosbet.com
 -d manasuka.com /gbr_banner_link/
 - http://marketbola.com
@@ -562,12 +563,6 @@ msFilterList
 -d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
-# downloadmoviesfree.net###samdav-locker
-# downloadmoviesfree.net###samdav-wrapper
-# topterunik.com###topbar
-# downloadmoviesfree.net###samdav-links
-# downloadmoviesfree.net###samdav-loading
-# jurigjarian.com###topbar
 # ansav.com##.body > CENTER
 # beritateknologi.com###topbar
 # blogspot.com###topbar
@@ -585,6 +580,11 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
+# detikhealth.com##.ads_kanan
+# downloadmoviesfree.net###samdav-links
+# downloadmoviesfree.net###samdav-loading
+# downloadmoviesfree.net###samdav-locker
+# downloadmoviesfree.net###samdav-wrapper
 # duniabaca.com##.banner
 # forumbebas.com###topbar
 # gambarkeren.info##.iklankotak1
@@ -598,6 +598,7 @@ msFilterList
 # gugling.com##.ad336x280atas
 # indosiar.com###headerbanner
 # inilah.com###anchormasklink
+# jurigjarian.com###topbar
 # kapanlagi.com###topbanner
 # kapanlagi.com###v5-leaderboard
 # kapanlagi.com###v5-marcommpromotion
@@ -608,13 +609,13 @@ msFilterList
 # kapanlagi.com###v5-topframe
 # kaskus.us###BannerAts
 # kaskus.us###BannerBwh
+# kaskus.us###cntysm
 # kaskus.us###Conho01Left
 # kaskus.us###Conho01midd
 # kaskus.us###Conho01right
 # kaskus.us###Middle_blue
 # kaskus.us###Middlehome021
 # kaskus.us###Middlenahome1
-# kaskus.us###cntysm
 # kikil.org###floating_banner_bottom
 # kolomunik.com###topbar
 # kompasiana.com###anchormasklink
@@ -634,6 +635,7 @@ msFilterList
 # tempointeraktif.com###banner-bawah
 # tempointeraktif.com##.block.iklan
 # tempointeraktif.com##.block.iklan.top
+# topterunik.com###topbar
 # tribunnews.com###bannerku
 # vocland.com###ad_global_below_navbar
 # warungbebas.com##.gbtab
