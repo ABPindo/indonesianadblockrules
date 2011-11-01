@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding 
-# Last modified  Sabtu 29 Oktober 2011, 12:19:47 WIB
+# Last modified  Selasa 01 Nopember 2011, 11:38:05 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -9,18 +9,6 @@ msFilterList
 # via e-mail (hermawanadhis@gmail.com)
 # in the forums (http://forums.lanik.us/viewforum.php?f=94)
 #
-# *** abpindo_general_block.txt ***
-- .com/iklan/
-- .id/ads/
-- .id/iklan/
-- .net/iklan/
-- /iklan-
-- /iklan.
-- /images/iklan/
-- /sittiad.
-- /uploads/iklan/
-- /usaha-berhasil.gif
-- /usahaberhasil.gif
 # *** abpindo_adservers.txt ***
 - http://1iklanbaris.com
 - http://1jutarupiah.com
@@ -391,6 +379,65 @@ msFilterList
 - http://weblogiklan.com
 - http://yesads.com
 - http://zonaiklan.info
+# *** abpindo_general_block.txt ***
+- .com/iklan/
+- .id/ads/
+- .id/iklan/
+- .net/iklan/
+- /iklan-
+- /iklan.
+- /images/iklan/
+- /sittiad.
+- /uploads/iklan/
+- /usaha-berhasil.gif
+- /usahaberhasil.gif
+# *** abpindo_specific_block.txt ***
+-d bingofreebonus.net /bfbcontent/locker.js?
+-d 1.bp.blogspot.com /_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg
+- http://admin.ads.indowebster.com
+# ||asiafriendfinder.com^$domain=maknyos.com
+-d ceri.ws /ads/
+-d chip.co.id /microsite/frame/index.html
+-d ebsoft.web.id /wp-content/banners/
+-d gudeg.net /images/banner/
+-d harianjogja.com /img/Bnr/
+-d images.indoforum.org /banners/
+-d indochanger.com /banner/
+-d indomp3z.us /banner/
+-d indowebster.com /js/link_converter.js
+-d jogjastreamers.com /images/banner/
+# ||kad.kaskus.us/banner/$subdocument
+-d kapanlagi.com /banner/
+-d kaskus.us /adv/
+-d kaskus.us /images/adv/
+-d kawin.us /images/banner/
+-d ketawa.com /img-iklan/
+-d kikil.org /forum/banner/
+-d kompas.com /data/banner/
+-d koranlokal.com /iklan_baru/
+-d koranlokal.com /newstickerpartai.php
+-d koranlokal.com /point1.php
+-d krucil.net /bb17-iklan.php
+-d krucil.net /pop.js
+-d lendir.us /images/banner/
+-d mediaindonesia.com /public/banner/flash/
+-d megindo.net /megindo2/images/banner-
+-d modemku.com /image-banner/
+-d modifikasi.com /images/banner/
+-d modifikasi.com /images/banner_
+-d musisi.com /musifile/images_banner/
+-d oprekpc.com /banner/
+-d perawan.us /images/banner/
+-d perjaka.us /images/banner/
+-d primbon.com /banner/
+-d resep.web.id /banner/
+-d semprot.com /x_ads/
+-d suaramedia.com /images/banners/
+-d tabloidbintang.com /space-iklan/
+- http://us.openx.detik.com
+-d videogamesindonesia.com /banners/
+-d zonabola.com /mansion.htm
+-d zonabola.com /iklan/
 # *** abpindo_thirdparty.txt ***
 - http://1bisnisonline.com
 - http://39bola.com
@@ -452,8 +499,8 @@ msFilterList
 - http://indo-solusta.com
 - http://indobets.com
 -d investasiceria.net /images/
--d javapic.com /ikelan/
 # ||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
+# ||javapic.com^*.swf$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 - http://kakakdewa.net
 - http://kebunemas.com
 - http://komisigratis.com
@@ -463,6 +510,7 @@ msFilterList
 - http://lookit-quick.com
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
+- http://m88media.com
 - http://mabosbet.com
 -d manasuka.com /gbr_banner_link/
 - http://marketbola.com
@@ -503,53 +551,6 @@ msFilterList
 -d webiihost.com /banner/
 - http://webjualbeli.com
 - http://y-bux.com
-# *** abpindo_specific_block.txt ***
--d bingofreebonus.net /bfbcontent/locker.js?
--d 1.bp.blogspot.com /_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg
-- http://admin.ads.indowebster.com
-# ||asiafriendfinder.com^$domain=maknyos.com
--d ceri.ws /ads/
--d chip.co.id /microsite/frame/index.html
--d ebsoft.web.id /wp-content/banners/
--d gudeg.net /images/banner/
--d harianjogja.com /img/Bnr/
--d images.indoforum.org /banners/
--d indochanger.com /banner/
--d indomp3z.us /banner/
--d indowebster.com /js/link_converter.js
--d jogjastreamers.com /images/banner/
-# ||kad.kaskus.us/banner/$subdocument
--d kapanlagi.com /banner/
--d kaskus.us /adv/
--d kaskus.us /images/adv/
--d kawin.us /images/banner/
--d ketawa.com /img-iklan/
--d kikil.org /forum/banner/
--d kompas.com /data/banner/
--d koranlokal.com /iklan_baru/
--d koranlokal.com /newstickerpartai.php
--d koranlokal.com /point1.php
--d krucil.net /bb17-iklan.php
--d krucil.net /pop.js
--d lendir.us /images/banner/
--d mediaindonesia.com /public/banner/flash/
--d megindo.net /megindo2/images/banner-
--d modemku.com /image-banner/
--d modifikasi.com /images/banner/
--d modifikasi.com /images/banner_
--d musisi.com /musifile/images_banner/
--d oprekpc.com /banner/
--d perawan.us /images/banner/
--d perjaka.us /images/banner/
--d primbon.com /banner/
--d resep.web.id /banner/
--d semprot.com /x_ads/
--d suaramedia.com /images/banners/
--d tabloidbintang.com /space-iklan/
-- http://us.openx.detik.com
--d videogamesindonesia.com /banners/
--d zonabola.com /mansion.htm
--d zonabola.com /iklan/
 # *** abpindo_whitelist.txt ***
 +d ganool.googlecode.com /files/advertisement.js
 +d iklan.okezone.com /images-data/classified/

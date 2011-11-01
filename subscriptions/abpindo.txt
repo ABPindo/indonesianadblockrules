@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: /4KyKpPFSLKGiRos8PA5cw
+! Checksum: zsaY/jCEYd8QTACcpOuoCw
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Sabtu 29 Oktober 2011, 12:19:47 WIB
+! Last modified:  Selasa 01 Nopember 2011, 11:38:05 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -465,8 +465,8 @@
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
-||javapic.com/ikelan/*
 ||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
+||javapic.com^*.swf$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 ||kakakdewa.net^$third-party
 ||kebunemas.com^$third-party
 ||komisigratis.com^$third-party
@@ -476,6 +476,7 @@
 ||lookit-quick.com^$third-party
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
+||m88media.com^$third-party
 ||mabosbet.com^$third-party
 ||manasuka.com/gbr_banner_link/$third-party
 ||marketbola.com^$third-party
@@ -564,12 +565,6 @@
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
-downloadmoviesfree.net###samdav-locker
-downloadmoviesfree.net###samdav-wrapper
-topterunik.com###topbar
-downloadmoviesfree.net###samdav-links
-downloadmoviesfree.net###samdav-loading
-jurigjarian.com###topbar
 ansav.com##.body > CENTER
 beritateknologi.com###topbar
 blogspot.com###topbar
@@ -590,8 +585,13 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##A[href$=".ad"][target="_blank"]
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
+detikhealth.com##.ads_kanan
 downloadfilem.com##A[href^="http://promosipraktis.com/"]
 downloadfilem.com##IMG[width="125"][height="125"]
+downloadmoviesfree.net###samdav-links
+downloadmoviesfree.net###samdav-loading
+downloadmoviesfree.net###samdav-locker
+downloadmoviesfree.net###samdav-wrapper
 duniabaca.com##.banner
 forumbebas.com###topbar
 forumbebas.com##A[target="_blank"][href^="www/go/"]
@@ -617,6 +617,7 @@ indosiar.com###headerbanner
 indosiar.com###headerbanner + DIV[style="height:50px"]
 inilah.com###anchormasklink
 isdaryanto.com##IMG[style="width: 125px; height: 125px;"]
+jurigjarian.com###topbar
 kapanlagi.com###topbanner
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v5-marcommpromotion
@@ -627,13 +628,13 @@ kapanlagi.com###v5-showcase3
 kapanlagi.com###v5-topframe
 kaskus.us###BannerAts
 kaskus.us###BannerBwh
+kaskus.us###cntysm
 kaskus.us###Conho01Left
 kaskus.us###Conho01midd
 kaskus.us###Conho01right
 kaskus.us###Middle_blue
 kaskus.us###Middlehome021
 kaskus.us###Middlenahome1
-kaskus.us###cntysm
 kaskus.us##A[href="http://kad.kaskus.us"]
 kaskus.us##A[href="http://kad.kaskus.us/"]
 kaskus.us##DIV[style="position:fixed; width:100%; z-index:99;background:#fff;"] + DIV[style="height:30px"]
@@ -648,6 +649,7 @@ kompasiana.com###anchormasklink
 krucil.net###fixme
 krucil.net###floating_banner_bottom
 krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
+krucil.net##CENTER > FONT[size="1"]
 krucil.net##TD[width="305"]:last-child
 lintasberita.com##DIV[style="position: fixed; top: 130px; left: 1185px; width: 125px; height: 600px; background-color:transparent;"]
 lintasberita.com##DIV[style="position: fixed; top: 130px; left: 1px; width: 125px; height: 600px; background-color:transparent;"]
@@ -671,6 +673,7 @@ tempointeraktif.com##.block.iklan
 tempointeraktif.com##.block.iklan.top
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
 thehack3r.com##IMG[width="728"][height="90"]
+topterunik.com###topbar
 tribunnews.com###bannerku
 tribunnews.com##IMG[src="http://www.tribunnews.com/stylesheets/close.gif"]
 vocland.com###ad_global_below_navbar

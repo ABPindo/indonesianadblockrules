@@ -9,8 +9,8 @@
 ! via e-mail (hermawanadhis@gmail.com)
 ! in the forums (http://forums.lanik.us/viewforum.php?f=94)
 !
-%include abpindo_general_block.txt%
 %include abpindo_adservers.txt%
-%include abpindo_thirdparty.txt%
+%include abpindo_general_block.txt%
 %include abpindo_specific_block.txt%
+%include abpindo_thirdparty.txt%
 %include abpindo_whitelist.txt%

@@ -58,8 +58,8 @@
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
-||javapic.com/ikelan/*
 ||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
+||javapic.com^*.swf$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 ||kakakdewa.net^$third-party
 ||kebunemas.com^$third-party
 ||komisigratis.com^$third-party
@@ -69,6 +69,7 @@
 ||lookit-quick.com^$third-party
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
+||m88media.com^$third-party
 ||mabosbet.com^$third-party
 ||manasuka.com/gbr_banner_link/$third-party
 ||marketbola.com^$third-party
