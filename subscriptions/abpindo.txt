@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: lJEdL3k0kgeHB40k5aed4Q
+! Checksum: cHB4VHQSBdl6BXkCC0KS9w
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Kamis 03 Nopember 2011, 08:05:49 WIB
+! Last modified:  Minggu 06 Nopember 2011, 19:46:26 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -18,6 +18,7 @@
 /iklan-
 /iklan.
 /images/iklan/*
+/img/promo/*
 /sittiad.
 /uploads/iklan/*
 /usaha-berhasil.gif
@@ -434,7 +435,6 @@
 ||buxrupiah.com^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz/banners/$third-party
-||cdn.bloggerfiles.com/img/promo/$third-party
 ||chainbux.com^$third-party
 ||clickbet88.com^$third-party
 ||coblos.net^*.swf$domain=bintangmawar.net
@@ -460,7 +460,6 @@
 ||hiddenbux.com^$third-party
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
-||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 ||incrasebux.com^$third-party
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
@@ -519,7 +518,6 @@
 ||y-bux.com^$third-party
 ! *** abpindo_specific_block.txt ***
 ||bingofreebonus.net/bfbcontent/locker.js?*
-||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
 ||ceri.ws/ads/
@@ -578,6 +576,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###footerbanner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.ads_kanan
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
@@ -585,7 +584,6 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##A[href$=".ad"][target="_blank"]
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
-detikhealth.com##.ads_kanan
 downloadfilem.com##A[href^="http://promosipraktis.com/"]
 downloadfilem.com##IMG[width="125"][height="125"]
 downloadmoviesfree.net###samdav-links

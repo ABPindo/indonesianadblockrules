@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Kamis 03 Nopember 2011, 08:05:49 WIB
+# Last modified:  Minggu 06 Nopember 2011, 19:46:26 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -17,6 +17,7 @@ msFilterList
 - /iklan-
 - /iklan.
 - /images/iklan/
+- /img/promo/
 - /sittiad.
 - /uploads/iklan/
 - /usaha-berhasil.gif
@@ -432,7 +433,6 @@ msFilterList
 - http://buxrupiah.com
 - http://cash-harvest.com
 -d cashburners.biz /banners/
--d cdn.bloggerfiles.com /img/promo/
 - http://chainbux.com
 - http://clickbet88.com
 # ||coblos.net^*.swf$domain=bintangmawar.net
@@ -458,7 +458,6 @@ msFilterList
 - http://hiddenbux.com
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
-# ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 - http://incrasebux.com
 - http://indo-solusta.com
 - http://indobets.com
@@ -517,7 +516,6 @@ msFilterList
 - http://y-bux.com
 # *** abpindo_specific_block.txt ***
 -d bingofreebonus.net /bfbcontent/locker.js?
--d 1.bp.blogspot.com /_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d ceri.ws /ads/
@@ -575,12 +573,12 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###footerbanner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.ads_kanan
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
-# detikhealth.com##.ads_kanan
 # downloadmoviesfree.net###samdav-links
 # downloadmoviesfree.net###samdav-loading
 # downloadmoviesfree.net###samdav-locker

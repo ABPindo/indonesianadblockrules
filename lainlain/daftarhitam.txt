@@ -15,7 +15,6 @@
 ||feedburner.com^$third-party
 ||google-analytics.com^$third-party
 ||google.com/js/plusone.js$third-party
-||gravatar.com^$third-party
 ||linkedin.com^$third-party
 ||paypal.com^$third-party
 ||sharethis.com^$third-party
