@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: vpqvH9GK5foFM5XZqlPUNQ
+! Checksum: g0+14LS470QCNHccTrpjOg
 ! ABPindo - ABPindo tanpa element hiding 
-! Last modified  Selasa 01 Nopember 2011, 11:38:05 WIB
+! Last modified  Minggu 06 Nopember 2011, 19:46:26 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -388,13 +388,13 @@
 /iklan-
 /iklan.
 /images/iklan/*
+/img/promo/*
 /sittiad.
 /uploads/iklan/*
 /usaha-berhasil.gif
 /usahaberhasil.gif
 ! *** abpindo_specific_block.txt ***
 ||bingofreebonus.net/bfbcontent/locker.js?*
-||1.bp.blogspot.com/_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
 ||ceri.ws/ads/
@@ -469,7 +469,6 @@
 ||buxrupiah.com^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz/banners/$third-party
-||cdn.bloggerfiles.com/img/promo/$third-party
 ||chainbux.com^$third-party
 ||clickbet88.com^$third-party
 ||coblos.net^*.swf$domain=bintangmawar.net
@@ -495,7 +494,6 @@
 ||hiddenbux.com^$third-party
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
-||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 ||incrasebux.com^$third-party
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party

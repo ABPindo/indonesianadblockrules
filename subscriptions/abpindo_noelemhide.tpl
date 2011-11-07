@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding 
-# Last modified  Selasa 01 Nopember 2011, 11:38:05 WIB
+# Last modified  Minggu 06 Nopember 2011, 19:46:26 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -387,13 +387,13 @@ msFilterList
 - /iklan-
 - /iklan.
 - /images/iklan/
+- /img/promo/
 - /sittiad.
 - /uploads/iklan/
 - /usaha-berhasil.gif
 - /usahaberhasil.gif
 # *** abpindo_specific_block.txt ***
 -d bingofreebonus.net /bfbcontent/locker.js?
--d 1.bp.blogspot.com /_RvtUEY2b-mI/TOp2b3D9LxI/AAAAAAAAB5w/ADCd5_5yflQ/s1600/Disable+Adblock+Alert+v2.jpg
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d ceri.ws /ads/
@@ -468,7 +468,6 @@ msFilterList
 - http://buxrupiah.com
 - http://cash-harvest.com
 -d cashburners.biz /banners/
--d cdn.bloggerfiles.com /img/promo/
 - http://chainbux.com
 - http://clickbet88.com
 # ||coblos.net^*.swf$domain=bintangmawar.net
@@ -494,7 +493,6 @@ msFilterList
 - http://hiddenbux.com
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
-# ||image.bloggerfiles.com/img/promo/$domain=gudanglagu.com
 - http://incrasebux.com
 - http://indo-solusta.com
 - http://indobets.com
