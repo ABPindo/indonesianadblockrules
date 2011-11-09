@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Minggu 06 Nopember 2011, 19:46:26 WIB
+# Last modified:  Rabu 09 Nopember 2011, 11:40:32 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -462,8 +462,7 @@ msFilterList
 - http://indo-solusta.com
 - http://indobets.com
 -d investasiceria.net /images/
-# ||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
-# ||javapic.com^*.swf$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
+# ||javapic.com^$image,media,third-party
 - http://kakakdewa.net
 - http://kebunemas.com
 - http://komisigratis.com
@@ -516,6 +515,8 @@ msFilterList
 - http://y-bux.com
 # *** abpindo_specific_block.txt ***
 -d bingofreebonus.net /bfbcontent/locker.js?
+-d 96.30.15.188 /bb17-iklan.php
+-d 96.30.15.188 /pop.js
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d ceri.ws /ads/
@@ -562,6 +563,8 @@ msFilterList
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
 # ansav.com##.body > CENTER
+# 96.30.15.188###fixme
+# 96.30.15.188###floating_banner_bottom
 # beritateknologi.com###topbar
 # blogspot.com###topbar
 # detik.com##.box_kanan.fr > .banner_reg + .box_3 + .box_3

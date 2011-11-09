@@ -1,4 +1,9 @@
 ansav.com##.body > CENTER
+96.30.15.188###fixme
+96.30.15.188###floating_banner_bottom
+96.30.15.188##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
+96.30.15.188##CENTER > FONT[size="1"]
+96.30.15.188##TD[width="305"]:last-child
 beritateknologi.com###topbar
 blogspot.com###topbar
 bluefame.com##CENTER IMG[height="90"][width="728"]

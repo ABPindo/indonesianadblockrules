@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: g0+14LS470QCNHccTrpjOg
+! Checksum: ta/l7FlrTCpC3SAdPFEE6A
 ! ABPindo - ABPindo tanpa element hiding 
-! Last modified  Minggu 06 Nopember 2011, 19:46:26 WIB
+! Last modified  Rabu 09 Nopember 2011, 11:40:32 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -395,6 +395,8 @@
 /usahaberhasil.gif
 ! *** abpindo_specific_block.txt ***
 ||bingofreebonus.net/bfbcontent/locker.js?*
+||96.30.15.188/bb17-iklan.php
+||96.30.15.188/pop.js
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
 ||ceri.ws/ads/
@@ -498,8 +500,7 @@
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||investasiceria.net/images/$third-party
-||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
-||javapic.com^*.swf$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
+||javapic.com^$image,media,third-party
 ||kakakdewa.net^$third-party
 ||kebunemas.com^$third-party
 ||komisigratis.com^$third-party
