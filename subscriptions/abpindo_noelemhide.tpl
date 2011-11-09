@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding 
-# Last modified  Minggu 06 Nopember 2011, 19:46:26 WIB
+# Last modified  Rabu 09 Nopember 2011, 11:40:32 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -394,6 +394,8 @@ msFilterList
 - /usahaberhasil.gif
 # *** abpindo_specific_block.txt ***
 -d bingofreebonus.net /bfbcontent/locker.js?
+-d 96.30.15.188 /bb17-iklan.php
+-d 96.30.15.188 /pop.js
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d ceri.ws /ads/
@@ -497,8 +499,7 @@ msFilterList
 - http://indo-solusta.com
 - http://indobets.com
 -d investasiceria.net /images/
-# ||javapic.com^*.gif$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
-# ||javapic.com^*.swf$domain=bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
+# ||javapic.com^$image,media,third-party
 - http://kakakdewa.net
 - http://kebunemas.com
 - http://komisigratis.com
