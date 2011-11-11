@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding 
-# Last modified  Rabu 09 Nopember 2011, 11:40:32 WIB
+# Last modified  Jumat 11 Nopember 2011, 19:54:43 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -389,6 +389,7 @@ msFilterList
 - /images/iklan/
 - /img/promo/
 - /sittiad.
+- /TheADs125x125.jpg
 - /uploads/iklan/
 - /usaha-berhasil.gif
 - /usahaberhasil.gif
@@ -504,7 +505,7 @@ msFilterList
 - http://kebunemas.com
 - http://komisigratis.com
 - http://kumpuljutawan.com
-- http://libertygold-kita.com
+# ||legal-earning.com^$subdocument,third-party||libertygold-kita.com^$third-party
 - http://link2communion.com
 - http://lookit-quick.com
 -d lytogame.com /images/partner/
