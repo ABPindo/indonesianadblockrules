@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: +j5ZdbxNULNhiUislI5Mjg
+! Checksum: 00SKyxEJo/uCTm1t2ce1zQ
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Senin 14 Nopember 2011, 11:18:26 WIB
+! Last modified:  Senin 14 Nopember 2011, 11:24:31 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -698,5 +698,5 @@ zonabola.com###rAds IMG
 zonabola.com##IMG[width="750"][height="75"][border="0"]
 ! *** abpindo_whitelist.txt ***
 @@||ganool.googlecode.com/files/advertisement.js
-@@||iklan.okezone.com/images-data/classified/
+@@/iklan.$stylesheet@@||iklan.okezone.com/images-data/classified/
 @@||okezone.com^*/images/ad/*
