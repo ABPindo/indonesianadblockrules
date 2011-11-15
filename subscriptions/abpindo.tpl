@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Senin 14 Nopember 2011, 11:27:14 WIB
+# Last modified:  Selasa 15 Nopember 2011, 07:56:43 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -15,11 +15,11 @@ msFilterList
 - .id/iklan/
 - .net/iklan/
 - /iklan-
-- /iklan.
+# /iklan.$~stylesheet
 - /images/iklan/
 - /img/promo/
 - /sittiad.
-- /TheADs125x125.jpg
+- /theads125x125.jpg
 - /uploads/iklan/
 - /usaha-berhasil.gif
 - /usahaberhasil.gif
@@ -515,16 +515,16 @@ msFilterList
 - http://webjualbeli.com
 - http://y-bux.com
 # *** abpindo_specific_block.txt ***
--d bingofreebonus.net /bfbcontent/locker.js?
 -d 96.30.15.188 /bb17-iklan.php
 -d 96.30.15.188 /pop.js
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
+-d bingofreebonus.net /bfbcontent/locker.js?
 -d ceri.ws /ads/
 -d chip.co.id /microsite/frame/index.html
 -d ebsoft.web.id /wp-content/banners/
 -d gudeg.net /images/banner/
--d harianjogja.com /img/Bnr/
+-d harianjogja.com /img/bnr/
 -d images.indoforum.org /banners/
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
@@ -563,9 +563,9 @@ msFilterList
 -d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
-# ansav.com##.body > CENTER
 # 96.30.15.188###fixme
 # 96.30.15.188###floating_banner_bottom
+# ansav.com##.body > center
 # beritateknologi.com###topbar
 # blogspot.com###topbar
 # detik.com##.box_kanan.fr > .banner_reg + .box_3 + .box_3
@@ -598,7 +598,7 @@ msFilterList
 # google.com###rhs_block
 # google.com##.c0.lti35t
 # gugling.com##.ad336x280atas
-# ibuprita.suatuhari.com##DIV.box > DIV.textwidget > CENTER
+# ibuprita.suatuhari.com##.box > .textwidget > center
 # indosiar.com###headerbanner
 # inilah.com###anchormasklink
 # jurigjarian.com###topbar
@@ -610,17 +610,17 @@ msFilterList
 # kapanlagi.com###v5-showcase2
 # kapanlagi.com###v5-showcase3
 # kapanlagi.com###v5-topframe
-# kaskus.us###a6d05129
-# kaskus.us###ab712af0
 # kaskus.us###BannerAts
 # kaskus.us###BannerBwh
-# kaskus.us###cntysm
 # kaskus.us###Conho01Left
 # kaskus.us###Conho01midd
 # kaskus.us###Conho01right
 # kaskus.us###Middle_blue
 # kaskus.us###Middlehome021
 # kaskus.us###Middlenahome1
+# kaskus.us###a6d05129
+# kaskus.us###ab712af0
+# kaskus.us###cntysm
 # kikil.org###floating_banner_bottom
 # kolomunik.com###topbar
 # kompasiana.com###anchormasklink
@@ -631,7 +631,7 @@ msFilterList
 # m.kapanlagi.com##.advertise_box
 # mangafox.com##.ad728x90.left + .right
 # metrotvnews.com###fixme
-# nyit-nyit.net###adn89 + * TD
+# nyit-nyit.net###adn89 + * td
 # oktavita.com##.banner-zone
 # pikiran-rakyat.com###bottom_exclusive_ads
 # pikiran-rakyat.com###top_ad_full
@@ -646,10 +646,9 @@ msFilterList
 # vocland.com###ad_global_below_navbar
 # warungbebas.com##.gbtab
 # zonabola.com###afbsports
-# zonabola.com###lAds IMG
-# zonabola.com###rAds IMG
+# zonabola.com###lAds img
+# zonabola.com###rAds img
 # *** abpindo_whitelist.txt ***
 +d ganool.googlecode.com /files/advertisement.js
-# @@/iklan.$stylesheet
 +d iklan.okezone.com /images-data/classified/
 +d okezone.com /images/ad/
