@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Selasa 15 Nopember 2011, 07:56:43 WIB
+# Last modified:  Selasa 15 Nopember 2011, 09:03:08 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -408,6 +408,7 @@ msFilterList
 - http://1bisnisonline.com
 - http://39bola.com
 - http://988bet.com
+# ||agenbo.la^$image,popup
 - http://agent926.com
 - http://alamatemail.com
 -d alertpay.com /banners/
@@ -429,6 +430,7 @@ msFilterList
 - http://bisnisurl.web.id
 - http://bola777.net
 - http://bolaketangkasan.com
+# ||bolasonic.com^$image,popup
 - http://bravevolitation.com
 - http://bux-matrix.com
 - http://buxrupiah.com
@@ -468,7 +470,8 @@ msFilterList
 - http://kebunemas.com
 - http://komisigratis.com
 - http://kumpuljutawan.com
-# ||legal-earning.com^$subdocument,third-party||libertygold-kita.com^$third-party
+# ||legal-earning.com^$subdocument,third-party
+- http://libertygold-kita.com
 - http://link2communion.com
 - http://lookit-quick.com
 -d lytogame.com /images/partner/
@@ -508,7 +511,8 @@ msFilterList
 - http://topskor.us
 - http://topsurfer.com
 - http://tri7bet.com
-# ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
+# ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
+# ||uploadhouse.com^*.gif$image,domain=bintangmawar.net
 - http://usahaberhasil.com
 - http://webbola.com
 -d webiihost.com /banner/

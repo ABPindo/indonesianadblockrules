@@ -1,6 +1,7 @@
 ||1bisnisonline.com^$third-party
 ||39bola.com^$third-party
 ||988bet.com^$third-party
+||agenbo.la^$image,popup
 ||agent926.com^$third-party
 ||alamatemail.com^$third-party
 ||alertpay.com/banners/
@@ -22,6 +23,7 @@
 ||bisnisurl.web.id^$third-party
 ||bola777.net^$third-party
 ||bolaketangkasan.com^$third-party
+||bolasonic.com^$image,popup
 ||bravevolitation.com^$third-party
 ||bux-matrix.com^$third-party
 ||buxrupiah.com^$third-party
@@ -61,7 +63,8 @@
 ||kebunemas.com^$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
-||legal-earning.com^$subdocument,third-party||libertygold-kita.com^$third-party
+||legal-earning.com^$subdocument,third-party
+||libertygold-kita.com^$third-party
 ||link2communion.com^$third-party
 ||lookit-quick.com^$third-party
 ||lytogame.com/images/partner/$third-party
@@ -101,7 +104,8 @@
 ||topskor.us^$third-party
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
-||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
+||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
+||uploadhouse.com^*.gif$image,domain=bintangmawar.net
 ||usahaberhasil.com^$third-party
 ||webbola.com^$third-party
 ||webiihost.com^*/banner/
