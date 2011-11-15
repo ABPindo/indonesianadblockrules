@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: wEhrR1ljnc9acACYVBplbw
+! Checksum: dCKP1ot1ky/GwWeKHKfsBQ
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Senin 14 Nopember 2011, 11:27:14 WIB
+! Last modified:  Selasa 15 Nopember 2011, 07:56:43 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -11,16 +11,16 @@
 ! in the forums (http://forums.lanik.us/viewforum.php?f=94)
 !
 ! *** abpindo_general_block.txt ***
-.com/iklan/*
-.id/ads/*
-.id/iklan/*
-.net/iklan/*
+.com/iklan/
+.id/ads/
+.id/iklan/
+.net/iklan/
 /iklan-
-/iklan.
+/iklan.$~stylesheet
 /images/iklan/*
 /img/promo/*
 /sittiad.
-/TheADs125x125.jpg
+/theads125x125.jpg
 /uploads/iklan/*
 /usaha-berhasil.gif
 /usahaberhasil.gif
@@ -35,7 +35,7 @@
 ##.iklan
 ##.pasangiklan
 ##.topadsense
-##A[href*="usahaberhasil.com"]
+##a[href*="usahaberhasil.com"]
 ! *** abpindo_adservers.txt ***
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
@@ -517,16 +517,16 @@
 ||webjualbeli.com^$third-party
 ||y-bux.com^$third-party
 ! *** abpindo_specific_block.txt ***
-||bingofreebonus.net/bfbcontent/locker.js?*
 ||96.30.15.188/bb17-iklan.php
 ||96.30.15.188/pop.js
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
+||bingofreebonus.net/bfbcontent/locker.js?
 ||ceri.ws/ads/
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
-||harianjogja.com/img/Bnr/
+||harianjogja.com/img/bnr/
 ||images.indoforum.org/banners/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
@@ -565,15 +565,15 @@
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
-ansav.com##.body > CENTER
 96.30.15.188###fixme
 96.30.15.188###floating_banner_bottom
 96.30.15.188##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
-96.30.15.188##CENTER > FONT[size="1"]
-96.30.15.188##TD[width="305"]:last-child
+96.30.15.188##center > font[size="1"]
+96.30.15.188##td[width="305"]:last-child
+ansav.com##.body > center
 beritateknologi.com###topbar
 blogspot.com###topbar
-bluefame.com##CENTER IMG[height="90"][width="728"]
+bluefame.com##center img[height="90"][width="728"]
 detik.com##.box_kanan.fr > .banner_reg + .box_3 + .box_3
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
@@ -589,40 +589,40 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
-detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##A[href$=".ad"][target="_blank"]
-detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##IMG[src*="/ButtonCloseWhite-BlackStroke.png"]
-downloadfilem.com##A[href^="http://promosipraktis.com/"]
-downloadfilem.com##IMG[width="125"][height="125"]
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##a[href$=".ad"][target="_blank"]
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##img[src*="/ButtonCloseWhite-BlackStroke.png"]
+downloadfilem.com##a[href^="http://promosipraktis.com/"]
+downloadfilem.com##img[width="125"][height="125"]
 downloadmoviesfree.net###samdav-links
 downloadmoviesfree.net###samdav-loading
 downloadmoviesfree.net###samdav-locker
 downloadmoviesfree.net###samdav-wrapper
 duniabaca.com##.banner
 forumbebas.com###topbar
-forumbebas.com##A[target="_blank"][href^="www/go/"]
-forumbebas.com##CENTER > A[target="_blank"]
+forumbebas.com##a[target="_blank"][href^="www/go/"]
+forumbebas.com##center > a[target="_blank"]
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
 ganool.com###floating_banner_top
 ganool.com###pateni
 ganool.com##.close
 google.co.id###rhs_block
-google.co.id##TABLE[style="border: 1px solid #0000CC"]
-google.co.id##TABLE[style="border: 1px solid #11593c"]
+google.co.id##table[style="border: 1px solid #0000CC"]
+google.co.id##table[style="border: 1px solid #11593c"]
 google.com###rhs_block
 google.com##.c0.lti35t
 gugling.com##.ad336x280atas
 i-comers.com##.alt1[nowrap="nowrap"]
 i-comers.com##.alt1[nowrap="nowrap"][valign="top"]
-ibuprita.suatuhari.com##DIV.box > DIV.textwidget > CENTER
-icinema3satu.com##IMG[style="height: 125px; width: 125px;"]
-icinema3satu.com##IMG[style="height: 125x; width: 125px;"]
-indobokepz.com##DIV[style="text-align:center; margin-bottom:10px;"]
-indobokepz.com##P[style="text-align:center;margin-bottom:8px;"]
+ibuprita.suatuhari.com##.box > .textwidget > center
+icinema3satu.com##img[style="height: 125px; width: 125px;"]
+icinema3satu.com##img[style="height: 125x; width: 125px;"]
+indobokepz.com##div[style="text-align:center; margin-bottom:10px;"]
+indobokepz.com##p[style="text-align:center;margin-bottom:8px;"]
 indosiar.com###headerbanner
-indosiar.com###headerbanner + DIV[style="height:50px"]
+indosiar.com###headerbanner + div[style="height:50px"]
 inilah.com###anchormasklink
-isdaryanto.com##IMG[style="width: 125px; height: 125px;"]
+isdaryanto.com##img[style="width: 125px; height: 125px;"]
 jurigjarian.com###topbar
 kapanlagi.com###topbanner
 kapanlagi.com###v5-leaderboard
@@ -632,72 +632,71 @@ kapanlagi.com###v5-showcase1
 kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
 kapanlagi.com###v5-topframe
-kaskus.us###a6d05129
-kaskus.us###ab712af0
 kaskus.us###BannerAts
 kaskus.us###BannerBwh
-kaskus.us###cntysm
 kaskus.us###Conho01Left
 kaskus.us###Conho01midd
 kaskus.us###Conho01right
 kaskus.us###Middle_blue
 kaskus.us###Middlehome021
 kaskus.us###Middlenahome1
-kaskus.us##A[href="http://kad.kaskus.us"]
-kaskus.us##A[href="http://kad.kaskus.us/"]
-kaskus.us##DIV[style="position:fixed; width:100%; z-index:99;background:#fff;"] + DIV[style="height:30px"]
-kaskus.us##IMG[src="images/spacer.gif"]
+kaskus.us###a6d05129
+kaskus.us###ab712af0
+kaskus.us###cntysm
+kaskus.us##a[href="http://kad.kaskus.us"]
+kaskus.us##a[href="http://kad.kaskus.us/"]
+kaskus.us##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] + div[style="height:30px"]
+kaskus.us##img[src="images/spacer.gif"]
 kikil.org###floating_banner_bottom
-kikil.org##CENTER > TABLE[width="900"]
-kikil.org##CENTER > TABLE[width="900px"]
-kikil.org##DIV[style="height:210px; width:250px; overflow:hidden"]
+kikil.org##center > table[width="900"]
+kikil.org##center > table[width="900px"]
+kikil.org##div[style="height:210px; width:250px; overflow:hidden"]
 kolomunik.com###topbar
-kompas.com##IMG[src="http://img.ads.kompas.com/bannerlink/close.gif"]
+kompas.com##img[src="http://img.ads.kompas.com/bannerlink/close.gif"]
 kompasiana.com###anchormasklink
-krisna.web.id##IMG[style="width: 728px; height: 90px;"]
+krisna.web.id##img[style="width: 728px; height: 90px;"]
 krucil.net###fixme
 krucil.net###floating_banner_bottom
 krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
-krucil.net##CENTER > FONT[size="1"]
-krucil.net##TD[width="305"]:last-child
-lintasberita.com##DIV[style="position: fixed; top: 130px; left: 1185px; width: 125px; height: 600px; background-color:transparent;"]
-lintasberita.com##DIV[style="position: fixed; top: 130px; left: 1px; width: 125px; height: 600px; background-color:transparent;"]
-lintasberita.com##IMG[src="http://www.lintasberita.com/public/images/spacer.gif"]
+krucil.net##center > font[size="1"]
+krucil.net##td[width="305"]:last-child
+lintasberita.com##div[style="position: fixed; top: 130px; left: 1185px; width: 125px; height: 600px; background-color:transparent;"]
+lintasberita.com##div[style="position: fixed; top: 130px; left: 1px; width: 125px; height: 600px; background-color:transparent;"]
+lintasberita.com##img[src="http://www.lintasberita.com/public/images/spacer.gif"]
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
-m.inilah.com##A[href^="http://mkhoj.com"]
+m.inilah.com##a[href^="http://mkhoj.com"]
 m.kapanlagi.com##.advertise_box
 mangafox.com##.ad728x90.left + .right
 metrotvnews.com###fixme
-nyit-nyit.net###adn89 + * TD
-okezone.com##IMG[src*="/images/ad/"]
+nyit-nyit.net###adn89 + * td
+okezone.com##img[src*="/images/ad/"]
 oktavita.com##.banner-zone
 pikiran-rakyat.com###bottom_exclusive_ads
 pikiran-rakyat.com###top_ad_full
-republika.co.id##A[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
+republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 resep.web.id###googlebox
 semprot.com##.semprot_ads
-stafaband.info##TABLE[width="100%"] + #bottom
+stafaband.info##table[width="100%"] + #bottom
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 tempointeraktif.com##.block.iklan
 tempointeraktif.com##.block.iklan.top
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
-thehack3r.com##IMG[width="728"][height="90"]
+thehack3r.com##img[width="728"][height="90"]
 topterunik.com###topbar
 tribunnews.com###bannerku
-tribunnews.com##IMG[src="http://www.tribunnews.com/stylesheets/close.gif"]
+tribunnews.com##img[src="http://www.tribunnews.com/stylesheets/close.gif"]
 vocland.com###ad_global_below_navbar
-wap.vivanews.com##DIV[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
-wap.vivanews.com##DIV[style="color:#DDDDDD;text-decoration:none;text-align:center;font-size:x-small;"]
-warnetforum.com##DIV[style="margin: 10px auto 10px;width:599px;"]
+wap.vivanews.com##div[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
+wap.vivanews.com##div[style="color:#DDDDDD;text-decoration:none;text-align:center;font-size:x-small;"]
+warnetforum.com##div[style="margin: 10px auto 10px;width:599px;"]
 warungbebas.com##.gbtab
 zonabola.com###afbsports
-zonabola.com###lAds IMG
-zonabola.com###rAds IMG
-zonabola.com##IMG[width="750"][height="75"][border="0"]
+zonabola.com###lAds img
+zonabola.com###rAds img
+zonabola.com##img[width="750"][height="75"][border="0"]
 ! *** abpindo_whitelist.txt ***
 @@||ganool.googlecode.com/files/advertisement.js
-@@/iklan.$stylesheet
 @@||iklan.okezone.com/images-data/classified/
-@@||okezone.com^*/images/ad/*
+@@||okezone.com^*/images/ad/

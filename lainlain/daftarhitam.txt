@@ -19,7 +19,7 @@
 ||paypal.com^$third-party
 ||sharethis.com^$third-party
 ||shoutmix.com^$third-party
-||static.kaskus.us/customavatars/*
+||static.kaskus.us/customavatars/
 ||tweetmeme.com^$third-party
 ||twimg.com^$third-party
 ||twitter.com^$third-party

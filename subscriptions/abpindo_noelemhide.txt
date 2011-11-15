@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: hp2zZOiJFbqzVHXh1tPoRg
-! ABPindo - ABPindo tanpa element hiding 
-! Last modified  Senin 14 Nopember 2011, 11:27:14 WIB
+! Checksum: 3hG4OAywr+IoE1aGKLYyNQ
+! ABPindo - ABPindo tanpa element hiding
+! Last modified  Selasa 15 Nopember 2011, 07:56:43 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -381,30 +381,30 @@
 ||yesads.com^$third-party
 ||zonaiklan.info^$third-party
 ! *** abpindo_general_block.txt ***
-.com/iklan/*
-.id/ads/*
-.id/iklan/*
-.net/iklan/*
+.com/iklan/
+.id/ads/
+.id/iklan/
+.net/iklan/
 /iklan-
-/iklan.
+/iklan.$~stylesheet
 /images/iklan/*
 /img/promo/*
 /sittiad.
-/TheADs125x125.jpg
+/theads125x125.jpg
 /uploads/iklan/*
 /usaha-berhasil.gif
 /usahaberhasil.gif
 ! *** abpindo_specific_block.txt ***
-||bingofreebonus.net/bfbcontent/locker.js?*
 ||96.30.15.188/bb17-iklan.php
 ||96.30.15.188/pop.js
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
+||bingofreebonus.net/bfbcontent/locker.js?
 ||ceri.ws/ads/
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
-||harianjogja.com/img/Bnr/
+||harianjogja.com/img/bnr/
 ||images.indoforum.org/banners/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
@@ -554,6 +554,5 @@
 ||y-bux.com^$third-party
 ! *** abpindo_whitelist.txt ***
 @@||ganool.googlecode.com/files/advertisement.js
-@@/iklan.$stylesheet
 @@||iklan.okezone.com/images-data/classified/
-@@||okezone.com^*/images/ad/*
+@@||okezone.com^*/images/ad/

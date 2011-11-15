@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # JBet - filter untuk menghindari Jebakan Betmen
-# Last modified  Jumat 11 Nopember 2011, 19:54:43 WIB
+# Last modified  Selasa 15 Nopember 2011, 07:56:43 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -10,10 +10,9 @@ msFilterList
 # in the forums (http://forums.lanik.us/viewforum.php?f=94)
 #
 # *** _computer_prank.txt ***
-- http://hurr-durr.com
 - http://1227.com
 - http://1guy1mudpie.com
-- http://1Priest1Nun.com
+- http://1priest1nun.com
 - http://2girls1finger.com
 - http://2girls1fleshlight.com
 - http://2girls1kracker.com
@@ -30,7 +29,7 @@ msFilterList
 - http://blink-182.com
 - http://bluewaffle.com
 - http://bmepainolympics2.com
--d bmpclub.bravehost.com /Toturial_BUG_PB.html
+-d bmpclub.bravehost.com /toturial_bug_pb.html
 - http://boi.netai.net
 - http://bokre.com
 - http://bottleguy.com
@@ -82,6 +81,7 @@ msFilterList
 - http://hihanin.com
 - http://homewares.org
 - http://homo.com
+- http://hurr-durr.com
 - http://infoslash.net
 - http://japscat.org
 - http://jewdiamonds.com
@@ -94,12 +94,11 @@ msFilterList
 - http://killerijo.net
 - http://killerjo.net
 - http://kingfamilyphotoalbum.com
--d kiwil-curhat.page.tl /Jangan-Di-Klik.htm
+-d kiwil-curhat.page.tl /jangan-di-klik.htm
 - http://kombre.co.cc
 - http://krnacjalneg.info
 - http://l33thaxor.tk
 - http://landslide.nu
-- http://lemonparty.org
 - http://lemonparty.org
 - http://likaraoke.com
 - http://lolhello.com
@@ -115,7 +114,7 @@ msFilterList
 - http://meatrolled.com
 - http://meatspin.com
 - http://melondude.com
--d members.home.nl /saen/Special/Zoeken.swf
+-d members.home.nl /saen/special/zoeken.swf
 - http://milkfountain.com
 - http://moldymen.com
 - http://motherman.com
@@ -177,7 +176,7 @@ msFilterList
 - http://turdgasm.com
 - http://tutorialbloganda.blogspot.com
 - http://ugly.blerp.org
--d urangsunda.50webs.com /NoClick.html
+-d urangsunda.50webs.com /noclick.html
 - http://utube.com
 - http://vomitgirl.org
 - http://wadefamilytree.org
@@ -205,7 +204,7 @@ msFilterList
 - http://cdn0.knowyourmeme.com/i/2115/original/
 - http://cdn0.knowyourmeme.com/i/2117/original/
 - http://cdn2.knowyourmeme.com/i/9711/original/
-- http://chicago.timeout.com/resizeImage/htdocs/export_images/141/
+- http://chicago.timeout.com/resizeimage/htdocs/export_images/141/
 - http://cnette.utcluj.ro/images/
 - http://colonwq.org/images/mosaic/
 - http://digitalchocolate.org/images/6-7-04-coralina-cove/
@@ -239,13 +238,13 @@ msFilterList
 - http://images.encyclopediadramatica.com/images/9/91/
 - http://images.longc.at/local/
 - http://img.photobucket.com/albums/v47/pyrobolt/
-- http://imgur.com/zJTeX.jpg
+- http://imgur.com/zjtex.jpg
 - http://ipac.jpl.nasa.gov/media_images/
 - http://knowyourmeme.com/i/000/038/312/original/
-- http://lh3.ggpht.com/_JOsdm6LltKw/Rsi-l4nfvNI/AAAAAAAAAis/cXZFAx9CBsI/
-- http://lh3.ggpht.com/_soU13jb30eQ/RzMZr4ZgctI/AAAAAAAAACE/WxedUEQJllo/
-- http://lh5.ggpht.com/renaisim/R3cO_BR94PI/AAAAAAAAERs/_p4hSr9TM9o/s720/
-- http://media.ebaumsworld.com/picture/TheWarMachine74/
+- http://lh3.ggpht.com/_josdm6lltkw/rsi-l4nfvni/aaaaaaaaais/cxzfax9cbsi/
+- http://lh3.ggpht.com/_sou13jb30eq/rzmzr4zgcti/aaaaaaaaace/wxedueqjllo/
+- http://lh5.ggpht.com/renaisim/r3co_br94pi/aaaaaaaaers/_p4hsr9tm9o/s720/
+- http://media.ebaumsworld.com/picture/thewarmachine74/
 - http://newsdesk.si.edu/images_full/images/museums/nasm/objects/
 - http://photos-p.friendster.com/photos/98/03/90633089/
 - http://photos.friendster.com/photos/03/25/85175230/
@@ -253,18 +252,18 @@ msFilterList
 - http://photos.friendster.com/photos/80/75/105575708/
 - http://photos.friendster.com/photos/89/41/105471498/
 - http://pritachubby.files.wordpress.com/2008/11/
-- http://s95077276.onlinehome.us/Public/HighRes/
+- http://s95077276.onlinehome.us/public/highres/
 - http://spydernation.com/piktarz/
 - http://sutikno.blog.uns.ac.id/files/2009/04/
 - http://underground.bananachan.net/worms/maps/
 - http://vigor.wustl.edu/mtpeposter/images/
-- http://winchell.org/Kai/
+- http://winchell.org/kai/
 - http://wiresmash.com/wp-content/imagescaler/
 - http://www.7-07.com/images/
 - http://www.africancrisis.org/images/
 - http://www.agaymen.com/galleries/
-- http://www.bp.com/liveassets/bp_internet/norway/STAGING/brand_assets/image_library/fields/
-- http://www.canadacentral.org/images/Reseau/
+- http://www.bp.com/liveassets/bp_internet/norway/staging/brand_assets/image_library/fields/
+- http://www.canadacentral.org/images/reseau/
 - http://www.csc.kth.se/~leihuang/
 - http://www.emediawire.com/prfiles/2005/10/06/294883/
 - http://www.krimzon.net/pics/
@@ -275,5 +274,5 @@ msFilterList
 - http://www.salutmental.com/motor/illustracions/divulg_glbt/bt/
 - http://www.thebadandugly.com/wp-content/uploads/2008/10/
 - http://www.thenausea.com/elements/document2/
-- http://www.wallpaperpimper.com/wallpaper/High_Resolution/
+- http://www.wallpaperpimper.com/wallpaper/high_resolution/
 - http://xspblog.com/wp-content/uploads/2008/07/

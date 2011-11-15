@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
-# ABPindo - ABPindo tanpa element hiding 
-# Last modified  Senin 14 Nopember 2011, 11:27:14 WIB
+# ABPindo - ABPindo tanpa element hiding
+# Last modified  Selasa 15 Nopember 2011, 07:56:43 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -385,25 +385,25 @@ msFilterList
 - .id/iklan/
 - .net/iklan/
 - /iklan-
-- /iklan.
+# /iklan.$~stylesheet
 - /images/iklan/
 - /img/promo/
 - /sittiad.
-- /TheADs125x125.jpg
+- /theads125x125.jpg
 - /uploads/iklan/
 - /usaha-berhasil.gif
 - /usahaberhasil.gif
 # *** abpindo_specific_block.txt ***
--d bingofreebonus.net /bfbcontent/locker.js?
 -d 96.30.15.188 /bb17-iklan.php
 -d 96.30.15.188 /pop.js
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
+-d bingofreebonus.net /bfbcontent/locker.js?
 -d ceri.ws /ads/
 -d chip.co.id /microsite/frame/index.html
 -d ebsoft.web.id /wp-content/banners/
 -d gudeg.net /images/banner/
--d harianjogja.com /img/Bnr/
+-d harianjogja.com /img/bnr/
 -d images.indoforum.org /banners/
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
@@ -553,6 +553,5 @@ msFilterList
 - http://y-bux.com
 # *** abpindo_whitelist.txt ***
 +d ganool.googlecode.com /files/advertisement.js
-# @@/iklan.$stylesheet
 +d iklan.okezone.com /images-data/classified/
 +d okezone.com /images/ad/
