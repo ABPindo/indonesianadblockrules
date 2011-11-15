@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Selasa 15 Nopember 2011, 09:03:08 WIB
+# Last modified:  Selasa 15 Nopember 2011, 09:34:40 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -416,7 +416,6 @@ msFilterList
 - http://arenabola.com
 - http://arisanvip.com
 -d asianbrain.com /banner/
-- http://banner.autosubmit.web.id
 - http://bannerhp.com
 - http://bekas.com
 - http://benangmerah.com
@@ -511,8 +510,7 @@ msFilterList
 - http://topskor.us
 - http://topsurfer.com
 - http://tri7bet.com
-# ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
-# ||uploadhouse.com^*.gif$image,domain=bintangmawar.net
+# ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 - http://usahaberhasil.com
 - http://webbola.com
 -d webiihost.com /banner/

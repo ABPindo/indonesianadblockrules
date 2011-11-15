@@ -9,7 +9,6 @@
 ||arenabola.com^$third-party
 ||arisanvip.com^$third-party
 ||asianbrain.com/banner/
-||banner.autosubmit.web.id^$third-party
 ||bannerhp.com^$third-party
 ||bekas.com^$third-party
 ||benangmerah.com^$third-party
@@ -104,8 +103,7 @@
 ||topskor.us^$third-party
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
-||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
-||uploadhouse.com^*.gif$image,domain=bintangmawar.net
+||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 ||usahaberhasil.com^$third-party
 ||webbola.com^$third-party
 ||webiihost.com^*/banner/
