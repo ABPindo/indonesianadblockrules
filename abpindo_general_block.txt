@@ -6,6 +6,7 @@
 /iklan.$~stylesheet
 /images/iklan/*
 /img/promo/*
+/promo.$popup
 /sittiad.
 /theads125x125.jpg
 /uploads/iklan/*

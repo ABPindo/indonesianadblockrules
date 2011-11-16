@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: hO3X/mBMa8un6iZcQo6+Sg
+! Checksum: kc5vzjLgP7pHV+xgiV+56Q
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Selasa 15 Nopember 2011, 09:34:40 WIB
+! Last modified:  Rabu 16 Nopember 2011, 18:49:00 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -19,6 +19,7 @@
 /iklan.$~stylesheet
 /images/iklan/*
 /img/promo/*
+/promo.$popup
 /sittiad.
 /theads125x125.jpg
 /uploads/iklan/*
@@ -59,7 +60,6 @@
 ||adspeedy.com^$third-party
 ||adsrelease.com^$third-party
 ||adstarsnetwork.com^$third-party
-||adv-adserver.com^$third-party
 ||advercash.net^$third-party
 ||advertspeed.com^$third-party
 ||agenpromosi.com^$third-party
@@ -683,7 +683,6 @@ stafaband.info##table[width="100%"] + #bottom
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 tempointeraktif.com##.block.iklan
-tempointeraktif.com##.block.iklan.top
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
 thehack3r.com##img[width="728"][height="90"]
 topterunik.com###topbar

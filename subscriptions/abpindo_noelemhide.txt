@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: y6tN28/7PbhDGtSZBqrUxw
+! Checksum: oNEuLMTw7VzILvrRn/frGg
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified  Selasa 15 Nopember 2011, 09:34:40 WIB
+! Last modified  Rabu 16 Nopember 2011, 18:49:00 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -33,7 +33,6 @@
 ||adspeedy.com^$third-party
 ||adsrelease.com^$third-party
 ||adstarsnetwork.com^$third-party
-||adv-adserver.com^$third-party
 ||advercash.net^$third-party
 ||advertspeed.com^$third-party
 ||agenpromosi.com^$third-party
@@ -389,6 +388,7 @@
 /iklan.$~stylesheet
 /images/iklan/*
 /img/promo/*
+/promo.$popup
 /sittiad.
 /theads125x125.jpg
 /uploads/iklan/*
