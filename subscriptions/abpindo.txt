@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: vcWedtcN5dJHYNtK+IqUUQ
+! Checksum: XX4s2NScG+OMWEfaBwAmyQ
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Jumat 18 Nopember 2011, 02:40:48 WIB
+! Last modified:  Senin 21 Nopember 2011, 07:54:11 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -82,7 +82,6 @@
 ||blogiklanbaris.com^$third-party
 ||bubuads.com^$third-party
 ||buildvertical.com^$third-party
-||bursapromo.com^$third-party
 ||buyiads.com^$third-party
 ||carasukses.com^$third-party
 ||cashviews.com^$third-party
@@ -117,7 +116,6 @@
 ||gratisiklanpasang.net^$third-party
 ||gratispromo.com^$third-party
 ||groupiklan.com^$third-party
-||iaiamedia.com^$third-party
 ||idr-clickit.com^$third-party
 ||iklan-baris.org^$third-party
 ||iklan-global.com^$third-party
@@ -400,6 +398,7 @@
 ||unobux.com^$third-party
 ||untukblogger.com^$third-party
 ||updateiklan.com^$third-party
+||useads.com^$third-party
 ||valueclick.net^$third-party
 ||vistaclix.com^$third-party
 ||webiklan.com^$third-party
@@ -515,7 +514,6 @@
 ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 ||usahaberhasil.com^$third-party
 ||webbola.com^$third-party
-||webiihost.com^*/banner/
 ||webjualbeli.com^$third-party
 ||y-bux.com^$third-party
 ! *** abpindo_specific_block.txt ***
@@ -603,6 +601,7 @@ duniabaca.com##.banner
 forumbebas.com###topbar
 forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
+galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
 ganool.com###floating_banner_top
@@ -616,6 +615,7 @@ google.com##.c0.lti35t
 gugling.com##.ad336x280atas
 i-comers.com##.alt1[nowrap="nowrap"]
 i-comers.com##.alt1[nowrap="nowrap"][valign="top"]
+i-comers.com##.simple_advert
 ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]

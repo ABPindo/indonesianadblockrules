@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Jumat 18 Nopember 2011, 02:40:48 WIB
+# Last modified:  Senin 21 Nopember 2011, 07:54:11 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -80,7 +80,6 @@ msFilterList
 - http://blogiklanbaris.com
 - http://bubuads.com
 - http://buildvertical.com
-- http://bursapromo.com
 - http://buyiads.com
 - http://carasukses.com
 - http://cashviews.com
@@ -115,7 +114,6 @@ msFilterList
 - http://gratisiklanpasang.net
 - http://gratispromo.com
 - http://groupiklan.com
-- http://iaiamedia.com
 - http://idr-clickit.com
 - http://iklan-baris.org
 - http://iklan-global.com
@@ -398,6 +396,7 @@ msFilterList
 - http://unobux.com
 - http://untukblogger.com
 - http://updateiklan.com
+- http://useads.com
 - http://valueclick.net
 - http://vistaclix.com
 - http://webiklan.com
@@ -513,7 +512,6 @@ msFilterList
 # ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 - http://usahaberhasil.com
 - http://webbola.com
--d webiihost.com /banner/
 - http://webjualbeli.com
 - http://y-bux.com
 # *** abpindo_specific_block.txt ***
@@ -591,6 +589,7 @@ msFilterList
 # downloadmoviesfree.net###samdav-wrapper
 # duniabaca.com##.banner
 # forumbebas.com###topbar
+# galeri.indonesiaselebriti.com###bannerbesar
 # gambarkeren.info##.iklankotak1
 # ganool.com###ad2_footer
 # ganool.com###floating_banner_top
@@ -600,6 +599,7 @@ msFilterList
 # google.com###rhs_block
 # google.com##.c0.lti35t
 # gugling.com##.ad336x280atas
+# i-comers.com##.simple_advert
 # ibuprita.suatuhari.com##.box > .textwidget > center
 # indosiar.com###headerbanner
 # inilah.com###anchormasklink
