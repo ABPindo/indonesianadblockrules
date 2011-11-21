@@ -34,6 +34,7 @@ duniabaca.com##.banner
 forumbebas.com###topbar
 forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
+galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
 ganool.com###floating_banner_top
@@ -47,6 +48,7 @@ google.com##.c0.lti35t
 gugling.com##.ad336x280atas
 i-comers.com##.alt1[nowrap="nowrap"]
 i-comers.com##.alt1[nowrap="nowrap"][valign="top"]
+i-comers.com##.simple_advert
 ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]

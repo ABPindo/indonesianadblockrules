@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: Lsi9l/cI8Hb/wDJuSoD3hg
+! Checksum: foAAngeTyyFEZwONAp+Bvw
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified  Jumat 18 Nopember 2011, 02:40:48 WIB
+! Last modified  Senin 21 Nopember 2011, 07:54:11 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -55,7 +55,6 @@
 ||blogiklanbaris.com^$third-party
 ||bubuads.com^$third-party
 ||buildvertical.com^$third-party
-||bursapromo.com^$third-party
 ||buyiads.com^$third-party
 ||carasukses.com^$third-party
 ||cashviews.com^$third-party
@@ -90,7 +89,6 @@
 ||gratisiklanpasang.net^$third-party
 ||gratispromo.com^$third-party
 ||groupiklan.com^$third-party
-||iaiamedia.com^$third-party
 ||idr-clickit.com^$third-party
 ||iklan-baris.org^$third-party
 ||iklan-global.com^$third-party
@@ -373,6 +371,7 @@
 ||unobux.com^$third-party
 ||untukblogger.com^$third-party
 ||updateiklan.com^$third-party
+||useads.com^$third-party
 ||valueclick.net^$third-party
 ||vistaclix.com^$third-party
 ||webiklan.com^$third-party
@@ -551,7 +550,6 @@
 ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 ||usahaberhasil.com^$third-party
 ||webbola.com^$third-party
-||webiihost.com^*/banner/
 ||webjualbeli.com^$third-party
 ||y-bux.com^$third-party
 ! *** abpindo_whitelist.txt ***
