@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified  Senin 21 Nopember 2011, 07:54:11 WIB
+# Last modified  Kamis 24 Nopember 2011, 16:59:23 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -62,8 +62,6 @@ msFilterList
 - http://clickmedia.co.id
 - http://clicks4cents.com
 - http://clicksia.com
-- http://clickxchange.com
-- http://clixsense.com
 - http://cyberpromo.biz
 - http://daniklan.com
 - http://desaiklan.com
@@ -268,7 +266,6 @@ msFilterList
 - http://onbux.com
 - http://onclinic24.com
 - http://onedollarptc.com
-- http://paid-to-promote.net
 - http://paidforfree.com
 - http://paidtoclick.com
 - http://paneniklan.com
@@ -305,7 +302,6 @@ msFilterList
 - http://promobagus.com
 - http://promobebas.com
 - http://promobersama.com
-- http://promocionesweb.com
 - http://promoiklanbarisgratis.com
 - http://promojunkie.com
 - http://promoku.com
@@ -508,7 +504,6 @@ msFilterList
 # ||legal-earning.com^$subdocument,third-party
 - http://libertygold-kita.com
 - http://link2communion.com
-- http://lookit-quick.com
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
 - http://m88media.com

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: foAAngeTyyFEZwONAp+Bvw
+! Checksum: +5i8Cm74OzS6AxNG1xZ0QA
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified  Senin 21 Nopember 2011, 07:54:11 WIB
+! Last modified  Kamis 24 Nopember 2011, 16:59:23 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -63,8 +63,6 @@
 ||clickmedia.co.id^$third-party
 ||clicks4cents.com^$third-party
 ||clicksia.com^$third-party
-||clickxchange.com^$third-party
-||clixsense.com^$third-party
 ||cyberpromo.biz^$third-party
 ||daniklan.com^$third-party
 ||desaiklan.com^$third-party
@@ -269,7 +267,6 @@
 ||onbux.com^$third-party
 ||onclinic24.com^$third-party
 ||onedollarptc.com^$third-party
-||paid-to-promote.net^$third-party
 ||paidforfree.com^$third-party
 ||paidtoclick.com^$third-party
 ||paneniklan.com^$third-party
@@ -306,7 +303,6 @@
 ||promobagus.com^$third-party
 ||promobebas.com^$third-party
 ||promobersama.com$third-party
-||promocionesweb.com^$third-party
 ||promoiklanbarisgratis.com^$third-party
 ||promojunkie.com^$third-party
 ||promoku.com^$third-party
@@ -509,7 +505,6 @@
 ||legal-earning.com^$subdocument,third-party
 ||libertygold-kita.com^$third-party
 ||link2communion.com^$third-party
-||lookit-quick.com^$third-party
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||m88media.com^$third-party
