@@ -1,5 +1,5 @@
 .com/iklan/
-.id/ads/
+.id/ads/$~object-subrequest
 .id/iklan/
 .net/iklan/
 /iklan-
