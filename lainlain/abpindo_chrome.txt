@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Selasa 15 Nopember 2011, 09:03:08 WIB
+! Last modified:  Jumat 09 Desember 2011, 14:02:20 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -11,13 +11,14 @@
 !
 ! *** abpindo_general_block.txt ***
 .com/iklan/
-.id/ads/
+.id/ads/$~object-subrequest
 .id/iklan/
 .net/iklan/
 /iklan-
 /iklan.$~stylesheet
 /images/iklan/*
 /img/promo/*
+/promo.$popup
 /sittiad.
 /theads125x125.jpg
 /uploads/iklan/*
@@ -58,7 +59,6 @@
 ||adspeedy.com^$third-party
 ||adsrelease.com^$third-party
 ||adstarsnetwork.com^$third-party
-||adv-adserver.com^$third-party
 ||advercash.net^$third-party
 ||advertspeed.com^$third-party
 ||agenpromosi.com^$third-party
@@ -81,7 +81,6 @@
 ||blogiklanbaris.com^$third-party
 ||bubuads.com^$third-party
 ||buildvertical.com^$third-party
-||bursapromo.com^$third-party
 ||buyiads.com^$third-party
 ||carasukses.com^$third-party
 ||cashviews.com^$third-party
@@ -90,8 +89,6 @@
 ||clickmedia.co.id^$third-party
 ||clicks4cents.com^$third-party
 ||clicksia.com^$third-party
-||clickxchange.com^$third-party
-||clixsense.com^$third-party
 ||cyberpromo.biz^$third-party
 ||daniklan.com^$third-party
 ||desaiklan.com^$third-party
@@ -116,7 +113,6 @@
 ||gratisiklanpasang.net^$third-party
 ||gratispromo.com^$third-party
 ||groupiklan.com^$third-party
-||iaiamedia.com^$third-party
 ||idr-clickit.com^$third-party
 ||iklan-baris.org^$third-party
 ||iklan-global.com^$third-party
@@ -297,7 +293,6 @@
 ||onbux.com^$third-party
 ||onclinic24.com^$third-party
 ||onedollarptc.com^$third-party
-||paid-to-promote.net^$third-party
 ||paidforfree.com^$third-party
 ||paidtoclick.com^$third-party
 ||paneniklan.com^$third-party
@@ -334,7 +329,6 @@
 ||promobagus.com^$third-party
 ||promobebas.com^$third-party
 ||promobersama.com$third-party
-||promocionesweb.com^$third-party
 ||promoiklanbarisgratis.com^$third-party
 ||promojunkie.com^$third-party
 ||promoku.com^$third-party
@@ -399,6 +393,7 @@
 ||unobux.com^$third-party
 ||untukblogger.com^$third-party
 ||updateiklan.com^$third-party
+||useads.com^$third-party
 ||valueclick.net^$third-party
 ||vistaclix.com^$third-party
 ||webiklan.com^$third-party
@@ -417,7 +412,6 @@
 ||arenabola.com^$third-party
 ||arisanvip.com^$third-party
 ||asianbrain.com/banner/
-||banner.autosubmit.web.id^$third-party
 ||bannerhp.com^$third-party
 ||bekas.com^$third-party
 ||benangmerah.com^$third-party
@@ -474,7 +468,6 @@
 ||legal-earning.com^$subdocument,third-party
 ||libertygold-kita.com^$third-party
 ||link2communion.com^$third-party
-||lookit-quick.com^$third-party
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||m88media.com^$third-party
@@ -512,14 +505,14 @@
 ||topskor.us^$third-party
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
-||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
-||uploadhouse.com^*.gif$image,domain=bintangmawar.net
+||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 ||usahaberhasil.com^$third-party
 ||webbola.com^$third-party
-||webiihost.com^*/banner/
 ||webjualbeli.com^$third-party
 ||y-bux.com^$third-party
 ! *** abpindo_specific_block.txt ***
+||173.199.167.192/bb17-iklan.php
+||173.199.167.192/pop.js
 ||96.30.15.188/bb17-iklan.php
 ||96.30.15.188/pop.js
 ||admin.ads.indowebster.com^
@@ -531,6 +524,7 @@
 ||gudeg.net/images/banner/
 ||harianjogja.com/img/bnr/
 ||images.indoforum.org/banners/
+||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
 ||indowebster.com/js/link_converter.js
@@ -540,7 +534,6 @@
 ||kaskus.us/adv/
 ||kaskus.us/images/adv/
 ||kawin.us/images/banner/
-||ketawa.com/img-iklan/
 ||kikil.org/forum/banner/
 ||kompas.com/data/banner/
 ||koranlokal.com/iklan_baru/
@@ -558,9 +551,9 @@
 ||oprekpc.com/banner/
 ||perawan.us/images/banner/
 ||perjaka.us/images/banner/
-||primbon.com/banner/
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
+||semprot.com/x_js/analytic.js
 ||suaramedia.com/images/banners/
 ||tabloidbintang.com^*/space-iklan/
 ||us.openx.detik.com^
@@ -568,6 +561,11 @@
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
+173.199.167.192###fixme
+173.199.167.192###floating_banner_bottom
+173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
+173.199.167.192##center > font[size="1"]
+173.199.167.192##td[width="305"]:last-child
 96.30.15.188###fixme
 96.30.15.188###floating_banner_bottom
 96.30.15.188##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
@@ -577,7 +575,6 @@ ansav.com##.body > center
 beritateknologi.com###topbar
 blogspot.com###topbar
 bluefame.com##center img[height="90"][width="728"]
-detik.com##.box_kanan.fr > .banner_reg + .box_3 + .box_3
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
@@ -588,6 +585,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.ads_kanan
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
@@ -604,6 +602,7 @@ duniabaca.com##.banner
 forumbebas.com###topbar
 forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
+galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
 ganool.com###floating_banner_top
@@ -617,6 +616,7 @@ google.com##.c0.lti35t
 gugling.com##.ad336x280atas
 i-comers.com##.alt1[nowrap="nowrap"]
 i-comers.com##.alt1[nowrap="nowrap"][valign="top"]
+i-comers.com##.simple_advert
 ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
@@ -663,9 +663,14 @@ krucil.net###floating_banner_bottom
 krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.net##center > font[size="1"]
 krucil.net##td[width="305"]:last-child
+lapar.com##.banner_box
+lapar.com##.banner_main
+lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
+lapar.com##.top-banner
 lintasberita.com##div[style="position: fixed; top: 130px; left: 1185px; width: 125px; height: 600px; background-color:transparent;"]
 lintasberita.com##div[style="position: fixed; top: 130px; left: 1px; width: 125px; height: 600px; background-color:transparent;"]
 lintasberita.com##img[src="http://www.lintasberita.com/public/images/spacer.gif"]
+loveindonesia.com##.banner_box
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##a[href^="http://mkhoj.com"]
@@ -684,7 +689,7 @@ stafaband.info##table[width="100%"] + #bottom
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 tempointeraktif.com##.block.iklan
-tempointeraktif.com##.block.iklan.top
+thehack3r.com###ad_global_below_navbar
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
 thehack3r.com##img[width="728"][height="90"]
 topterunik.com###topbar
