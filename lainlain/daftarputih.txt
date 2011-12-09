@@ -4,6 +4,6 @@
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 ! via e-mail (hermawanadhis@gmail.com)
 !
+@@||batoto.com^$document
 @@||forums.mozillazine.org^$document
-@@||mangareader.net^$document
 @@||mangaupdates.com^$document

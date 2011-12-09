@@ -100,9 +100,14 @@ krucil.net###floating_banner_bottom
 krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.net##center > font[size="1"]
 krucil.net##td[width="305"]:last-child
+lapar.com##.banner_box
+lapar.com##.banner_main
+lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
+lapar.com##.top-banner
 lintasberita.com##div[style="position: fixed; top: 130px; left: 1185px; width: 125px; height: 600px; background-color:transparent;"]
 lintasberita.com##div[style="position: fixed; top: 130px; left: 1px; width: 125px; height: 600px; background-color:transparent;"]
 lintasberita.com##img[src="http://www.lintasberita.com/public/images/spacer.gif"]
+loveindonesia.com##.banner_box
 m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##a[href^="http://mkhoj.com"]
@@ -121,6 +126,7 @@ stafaband.info##table[width="100%"] + #bottom
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 tempointeraktif.com##.block.iklan
+thehack3r.com###ad_global_below_navbar
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
 thehack3r.com##img[width="728"][height="90"]
 topterunik.com###topbar
