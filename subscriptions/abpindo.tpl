@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Senin 12 Desember 2011, 06:57:51 WIB
+# Last modified:  Rabu 14 Desember 2011, 18:09:49 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -442,6 +442,7 @@ msFilterList
 - http://easy-hit-counter.com
 - http://empatdns.com
 - http://enjoybux.com
+# ||fairbet88.com^$popup,third-party
 - http://fellowequality.com
 - http://folderbisnis.com
 - http://forexpose.com
@@ -461,7 +462,7 @@ msFilterList
 - http://indobets.com
 # ||instaforex-id.com^$image,third-party
 -d investasiceria.net /images/
-# ||javapic.com^$image,media,third-party
+# ||javapic.com^$image,object,third-party
 - http://kakakdewa.net
 - http://kebunemas.com
 - http://komisigratis.com
@@ -495,6 +496,7 @@ msFilterList
 - http://sitipromo.web.id
 - http://sitti.co.id
 - http://situsbet.com
+# ||situsjudi.com^$popup,third-party
 - http://springfund.com
 -d suarabola.com /banners/
 - http://submitforall.com
@@ -627,8 +629,10 @@ msFilterList
 # kikil.org###floating_banner_bottom
 # kolomunik.com###topbar
 # kompasiana.com###anchormasklink
-# krucil.net###fixme
+# krucil.com###floating_banner_bottom
+# krucil.com##.fixmeInner
 # krucil.net###floating_banner_bottom
+# krucil.net##.fixmeInner
 # lapar.com##.banner_box
 # lapar.com##.banner_main
 # lapar.com##.top-banner

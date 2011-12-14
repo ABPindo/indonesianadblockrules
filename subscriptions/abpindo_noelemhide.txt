@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: zDJr5ckbyDllIcA8p0Clyw
+! Checksum: mMXdu0PiMpRHkMnZqf0Lsw
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified  Senin 12 Desember 2011, 06:57:51 WIB
+! Last modified  Rabu 14 Desember 2011, 18:09:49 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -482,6 +482,7 @@
 ||easy-hit-counter.com^$third-party
 ||empatdns.com^$third-party
 ||enjoybux.com^$third-party
+||fairbet88.com^$popup,third-party
 ||fellowequality.com^$third-party
 ||folderbisnis.com^$third-party
 ||forexpose.com^$third-party
@@ -501,7 +502,7 @@
 ||indobets.com^$third-party
 ||instaforex-id.com^$image,third-party
 ||investasiceria.net/images/$third-party
-||javapic.com^$image,media,third-party
+||javapic.com^$image,object,third-party
 ||kakakdewa.net^$third-party
 ||kebunemas.com^$third-party
 ||komisigratis.com^$third-party
@@ -535,6 +536,7 @@
 ||sitipromo.web.id^$third-party
 ||sitti.co.id^$third-party
 ||situsbet.com^$third-party
+||situsjudi.com^$popup,third-party
 ||springfund.com^$third-party
 ||suarabola.com/banners/$third-party
 ||submitforall.com^$third-party
