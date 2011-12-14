@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified:  Rabu 14 Desember 2011, 18:09:49 WIB
+# Last modified:  Rabu 14 Desember 2011, 18:14:51 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -544,6 +544,8 @@ msFilterList
 -d koranlokal.com /point1.php
 -d krucil.net /bb17-iklan.php
 -d krucil.net /pop.js
+-d krucil.com /bb17-iklan.php
+-d krucil.com /pop.js
 -d lendir.us /images/banner/
 -d mediaindonesia.com /public/banner/flash/
 -d megindo.net /megindo2/images/banner-
