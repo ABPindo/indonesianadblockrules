@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Jumat 09 Desember 2011, 14:02:20 WIB
+! Last modified:  Rabu 14 Desember 2011, 18:09:49 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -415,6 +415,7 @@
 ||bannerhp.com^$third-party
 ||bekas.com^$third-party
 ||benangmerah.com^$third-party
+||betwin188.com^$image,third-party
 ||bintangbola.net^$third-party
 ||bisnisgratis.net^$third-party
 ||bisnishandal.com^$third-party
@@ -442,6 +443,7 @@
 ||easy-hit-counter.com^$third-party
 ||empatdns.com^$third-party
 ||enjoybux.com^$third-party
+||fairbet88.com^$popup,third-party
 ||fellowequality.com^$third-party
 ||folderbisnis.com^$third-party
 ||forexpose.com^$third-party
@@ -459,8 +461,9 @@
 ||incrasebux.com^$third-party
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
+||instaforex-id.com^$image,third-party
 ||investasiceria.net/images/$third-party
-||javapic.com^$image,media,third-party
+||javapic.com^$image,object,third-party
 ||kakakdewa.net^$third-party
 ||kebunemas.com^$third-party
 ||komisigratis.com^$third-party
@@ -494,6 +497,7 @@
 ||sitipromo.web.id^$third-party
 ||sitti.co.id^$third-party
 ||situsbet.com^$third-party
+||situsjudi.com^$popup,third-party
 ||springfund.com^$third-party
 ||suarabola.com/banners/$third-party
 ||submitforall.com^$third-party
@@ -658,8 +662,13 @@ kolomunik.com###topbar
 kompas.com##img[src="http://img.ads.kompas.com/bannerlink/close.gif"]
 kompasiana.com###anchormasklink
 krisna.web.id##img[style="width: 728px; height: 90px;"]
-krucil.net###fixme
+krucil.com###floating_banner_bottom
+krucil.com##.fixmeInner
+krucil.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
+krucil.com##center > font[size="1"]
+krucil.com##td[width="305"]:last-child
 krucil.net###floating_banner_bottom
+krucil.net##.fixmeInner
 krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.net##center > font[size="1"]
 krucil.net##td[width="305"]:last-child

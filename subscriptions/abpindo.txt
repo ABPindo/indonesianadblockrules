@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: YAr9i1lUSeu4RaV/3JAG9Q
+! Checksum: Kb+sdZcfhHtn4tQ3GzMAjA
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified:  Senin 12 Desember 2011, 06:57:51 WIB
+! Last modified:  Rabu 14 Desember 2011, 18:09:49 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -444,6 +444,7 @@
 ||easy-hit-counter.com^$third-party
 ||empatdns.com^$third-party
 ||enjoybux.com^$third-party
+||fairbet88.com^$popup,third-party
 ||fellowequality.com^$third-party
 ||folderbisnis.com^$third-party
 ||forexpose.com^$third-party
@@ -463,7 +464,7 @@
 ||indobets.com^$third-party
 ||instaforex-id.com^$image,third-party
 ||investasiceria.net/images/$third-party
-||javapic.com^$image,media,third-party
+||javapic.com^$image,object,third-party
 ||kakakdewa.net^$third-party
 ||kebunemas.com^$third-party
 ||komisigratis.com^$third-party
@@ -497,6 +498,7 @@
 ||sitipromo.web.id^$third-party
 ||sitti.co.id^$third-party
 ||situsbet.com^$third-party
+||situsjudi.com^$popup,third-party
 ||springfund.com^$third-party
 ||suarabola.com/banners/$third-party
 ||submitforall.com^$third-party
@@ -661,8 +663,13 @@ kolomunik.com###topbar
 kompas.com##img[src="http://img.ads.kompas.com/bannerlink/close.gif"]
 kompasiana.com###anchormasklink
 krisna.web.id##img[style="width: 728px; height: 90px;"]
-krucil.net###fixme
+krucil.com###floating_banner_bottom
+krucil.com##.fixmeInner
+krucil.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
+krucil.com##center > font[size="1"]
+krucil.com##td[width="305"]:last-child
 krucil.net###floating_banner_bottom
+krucil.net##.fixmeInner
 krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.net##center > font[size="1"]
 krucil.net##td[width="305"]:last-child

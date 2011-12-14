@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified  Senin 12 Desember 2011, 06:57:51 WIB
+# Last modified  Rabu 14 Desember 2011, 18:09:49 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -481,6 +481,7 @@ msFilterList
 - http://easy-hit-counter.com
 - http://empatdns.com
 - http://enjoybux.com
+# ||fairbet88.com^$popup,third-party
 - http://fellowequality.com
 - http://folderbisnis.com
 - http://forexpose.com
@@ -500,7 +501,7 @@ msFilterList
 - http://indobets.com
 # ||instaforex-id.com^$image,third-party
 -d investasiceria.net /images/
-# ||javapic.com^$image,media,third-party
+# ||javapic.com^$image,object,third-party
 - http://kakakdewa.net
 - http://kebunemas.com
 - http://komisigratis.com
@@ -534,6 +535,7 @@ msFilterList
 - http://sitipromo.web.id
 - http://sitti.co.id
 - http://situsbet.com
+# ||situsjudi.com^$popup,third-party
 - http://springfund.com
 -d suarabola.com /banners/
 - http://submitforall.com

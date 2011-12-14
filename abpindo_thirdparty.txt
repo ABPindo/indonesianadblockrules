@@ -40,6 +40,7 @@
 ||easy-hit-counter.com^$third-party
 ||empatdns.com^$third-party
 ||enjoybux.com^$third-party
+||fairbet88.com^$popup,third-party
 ||fellowequality.com^$third-party
 ||folderbisnis.com^$third-party
 ||forexpose.com^$third-party
@@ -59,7 +60,7 @@
 ||indobets.com^$third-party
 ||instaforex-id.com^$image,third-party
 ||investasiceria.net/images/$third-party
-||javapic.com^$image,media,third-party
+||javapic.com^$image,object,third-party
 ||kakakdewa.net^$third-party
 ||kebunemas.com^$third-party
 ||komisigratis.com^$third-party
@@ -93,6 +94,7 @@
 ||sitipromo.web.id^$third-party
 ||sitti.co.id^$third-party
 ||situsbet.com^$third-party
+||situsjudi.com^$popup,third-party
 ||springfund.com^$third-party
 ||suarabola.com/banners/$third-party
 ||submitforall.com^$third-party
