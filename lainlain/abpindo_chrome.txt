@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified:  Rabu 14 Desember 2011, 18:09:49 WIB
+! Last modified:  Minggu 08 Januari 2012, 07:25:03 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -37,6 +37,7 @@
 ##.topadsense
 ##a[href*="usahaberhasil.com"]
 ! *** abpindo_adservers.txt ***
+||bizzclick.com^$third-party
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
 ||1st-iklan.com^$third-party
@@ -523,6 +524,7 @@
 ||asiafriendfinder.com^$domain=maknyos.com
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||ceri.ws/ads/
+||ceriwis.us/banner/
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
 ||gudeg.net/images/banner/
@@ -543,6 +545,8 @@
 ||koranlokal.com/iklan_baru/
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
+||krucil.com/bb17-iklan.php
+||krucil.com/pop.js
 ||krucil.net/bb17-iklan.php
 ||krucil.net/pop.js
 ||lendir.us/images/banner/
@@ -565,6 +569,7 @@
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
+situshp.com##DIV[style="height:260px;"]
 173.199.167.192###fixme
 173.199.167.192###floating_banner_bottom
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
@@ -579,6 +584,7 @@ ansav.com##.body > center
 beritateknologi.com###topbar
 blogspot.com###topbar
 bluefame.com##center img[height="90"][width="728"]
+ceriwis.us###hoho-wrapsubmenu3
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
@@ -652,7 +658,6 @@ kaskus.us###ab712af0
 kaskus.us###cntysm
 kaskus.us##a[href="http://kad.kaskus.us"]
 kaskus.us##a[href="http://kad.kaskus.us/"]
-kaskus.us##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] + div[style="height:30px"]
 kaskus.us##img[src="images/spacer.gif"]
 kikil.org###floating_banner_bottom
 kikil.org##center > table[width="900"]
