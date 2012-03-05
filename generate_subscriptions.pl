@@ -147,7 +147,7 @@ sub resolveIncludes
   my $failures = 0;
   $data =~ s/^\s*%include\s+(.*)%\s*$/my $include = resolveInclude($1, $level);$include ? $include : $failures++/gem;
 
-  my $timestamp = strftime("%p %A %d %B %Y, %H:%M:%S WIB", localtime);
+  my $timestamp = strftime("%d %B %Y, %H:%M:%S WIB", localtime);
   $data =~ s/%timestamp%/$timestamp/g;
 
   return ($failures ? undef : $data);

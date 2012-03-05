@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: AM Wednesday 08 February 2012, 11:24:10 WIB
+# Last modified: 05 March 2012, 08:20:57 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -36,7 +36,6 @@ msFilterList
 # ##.pasangiklan
 # ##.topadsense
 # *** abpindo_adservers.txt ***
-- http://bizzclick.com
 - http://1iklanbaris.com
 - http://1jutarupiah.com
 - http://1st-iklan.com
@@ -78,6 +77,7 @@ msFilterList
 - http://bincangbisnis.com
 - http://biroiklangratis.com
 - http://biropromosi.com
+- http://bizzclick.com
 - http://blogiklanbaris.com
 - http://bubuads.com
 - http://buildvertical.com
@@ -259,7 +259,6 @@ msFilterList
 - http://klikajadeh.com
 - http://klikptc.com
 - http://klikrupiah.com
-- http://kliksaya.com
 - http://kolamiklan.com
 - http://komisiiklan.com
 - http://kumpulblogger.com
@@ -526,13 +525,13 @@ msFilterList
 -d ceriwis.us /banner/
 -d chip.co.id /microsite/frame/index.html
 -d ebsoft.web.id /wp-content/banners/
--d gudeg.net /images/banner/
 -d harianjogja.com /img/bnr/
 -d images.indoforum.org /banners/
 -d indobokepz.com /images/banner/
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
 -d indowebster.com /js/link_converter.js
+-d inilah.com /assets/image/airasia/skin-
 -d jogjastreamers.com /images/banner/
 # ||kad.kaskus.us/banner/$subdocument
 -d kapanlagi.com /banner/
@@ -600,7 +599,6 @@ msFilterList
 # galeri.indonesiaselebriti.com###bannerbesar
 # gambarkeren.info##.iklankotak1
 # ganool.com###ad2_footer
-# ganool.com###floating_banner_top
 # ganool.com###pateni
 # ganool.com##.close
 # google.co.id###rhs_block
@@ -655,7 +653,6 @@ msFilterList
 # semprot.com##.semprot_ads
 # tempointeraktif.com###banner-atas
 # tempointeraktif.com###banner-bawah
-# tempointeraktif.com##.block.iklan
 # thehack3r.com###ad_global_below_navbar
 # topterunik.com###topbar
 # tribunnews.com###bannerku
@@ -665,6 +662,5 @@ msFilterList
 # zonabola.com###lAds img
 # zonabola.com###rAds img
 # *** abpindo_whitelist.txt ***
-+d ganool.googlecode.com /files/advertisement.js
 +d iklan.okezone.com /images-data/classified/
 +d okezone.com /images/ad/

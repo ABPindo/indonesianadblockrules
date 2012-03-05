@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UN9h4g2qPRFTKYx0tz0+MQ
+! Checksum: mhlz9HjMLZaWOKGw+8gezg
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified AM Wednesday 08 February 2012, 11:24:10 WIB
+! Last modified 05 March 2012, 08:20:57 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -11,7 +11,6 @@
 ! in the forums (http://forums.lanik.us/viewforum.php?f=94)
 !
 ! *** abpindo_adservers.txt ***
-||bizzclick.com^$third-party
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
 ||1st-iklan.com^$third-party
@@ -53,6 +52,7 @@
 ||bincangbisnis.com^$third-party
 ||biroiklangratis.com^$third-party
 ||biropromosi.com^$third-party
+||bizzclick.com^$third-party
 ||blogiklanbaris.com^$third-party
 ||bubuads.com^$third-party
 ||buildvertical.com^$third-party
@@ -234,7 +234,6 @@
 ||klikajadeh.com^$third-party
 ||klikptc.com^$third-party
 ||klikrupiah.com^$third-party
-||kliksaya.com^$third-party
 ||kolamiklan.com^$third-party
 ||komisiiklan.com^$third-party
 ||kumpulblogger.com^$third-party
@@ -402,13 +401,13 @@
 ||ceriwis.us/banner/
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
-||gudeg.net/images/banner/
 ||harianjogja.com/img/bnr/
 ||images.indoforum.org/banners/
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
 ||indowebster.com/js/link_converter.js
+||inilah.com/assets/image/airasia/skin-
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/$subdocument
 ||kapanlagi.com^*/banner/
@@ -558,6 +557,5 @@
 ||webjualbeli.com^$third-party
 ||y-bux.com^$third-party
 ! *** abpindo_whitelist.txt ***
-@@||ganool.googlecode.com/files/advertisement.js
 @@||iklan.okezone.com/images-data/classified/
 @@||okezone.com^*/images/ad/

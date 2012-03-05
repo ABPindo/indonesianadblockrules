@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified AM Wednesday 08 February 2012, 11:24:10 WIB
+# Last modified 05 March 2012, 08:20:57 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -10,7 +10,6 @@ msFilterList
 # in the forums (http://forums.lanik.us/viewforum.php?f=94)
 #
 # *** abpindo_adservers.txt ***
-- http://bizzclick.com
 - http://1iklanbaris.com
 - http://1jutarupiah.com
 - http://1st-iklan.com
@@ -52,6 +51,7 @@ msFilterList
 - http://bincangbisnis.com
 - http://biroiklangratis.com
 - http://biropromosi.com
+- http://bizzclick.com
 - http://blogiklanbaris.com
 - http://bubuads.com
 - http://buildvertical.com
@@ -233,7 +233,6 @@ msFilterList
 - http://klikajadeh.com
 - http://klikptc.com
 - http://klikrupiah.com
-- http://kliksaya.com
 - http://kolamiklan.com
 - http://komisiiklan.com
 - http://kumpulblogger.com
@@ -401,13 +400,13 @@ msFilterList
 -d ceriwis.us /banner/
 -d chip.co.id /microsite/frame/index.html
 -d ebsoft.web.id /wp-content/banners/
--d gudeg.net /images/banner/
 -d harianjogja.com /img/bnr/
 -d images.indoforum.org /banners/
 -d indobokepz.com /images/banner/
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
 -d indowebster.com /js/link_converter.js
+-d inilah.com /assets/image/airasia/skin-
 -d jogjastreamers.com /images/banner/
 # ||kad.kaskus.us/banner/$subdocument
 -d kapanlagi.com /banner/
@@ -557,6 +556,5 @@ msFilterList
 - http://webjualbeli.com
 - http://y-bux.com
 # *** abpindo_whitelist.txt ***
-+d ganool.googlecode.com /files/advertisement.js
 +d iklan.okezone.com /images-data/classified/
 +d okezone.com /images/ad/
