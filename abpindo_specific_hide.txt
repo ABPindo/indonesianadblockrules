@@ -1,4 +1,3 @@
-situshp.com##DIV[style="height:260px;"]
 173.199.167.192###fixme
 173.199.167.192###floating_banner_bottom
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
@@ -44,7 +43,6 @@ forumbebas.com##center > a[target="_blank"]
 galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
-ganool.com###floating_banner_top
 ganool.com###pateni
 ganool.com##.close
 google.co.id###rhs_block
@@ -129,10 +127,10 @@ pikiran-rakyat.com###top_ad_full
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 resep.web.id###googlebox
 semprot.com##.semprot_ads
+situshp.com##div[style="height:260px;"]
 stafaband.info##table[width="100%"] + #bottom
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
-tempointeraktif.com##.block.iklan
 thehack3r.com###ad_global_below_navbar
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
 thehack3r.com##img[width="728"][height="90"]
