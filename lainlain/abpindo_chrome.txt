@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified: 08 February 2012, 16:46:12 WIB
+! Last modified: 15 March 2012, 11:57:05 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -264,7 +264,6 @@
 ||klikrupiah.com^$third-party
 ||kolamiklan.com^$third-party
 ||komisiiklan.com^$third-party
-||kumpulblogger.com^$third-party
 ||kumpulnet.com^$third-party
 ||ladangiklan.com^$third-party
 ||ladanguang.com^$third-party
@@ -528,13 +527,13 @@
 ||ceriwis.us/banner/
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
-||gudeg.net/images/banner/
 ||harianjogja.com/img/bnr/
 ||images.indoforum.org/banners/
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
 ||indowebster.com/js/link_converter.js
+||inilah.com/assets/image/airasia/skin-
 ||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/$subdocument
 ||kapanlagi.com^*/banner/
@@ -596,7 +595,6 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.ads_kanan
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads
-detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads.alt5
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
@@ -624,7 +622,6 @@ google.com###rhs_block
 google.com##.c0.lti35t
 gugling.com##.ad336x280atas
 i-comers.com##.alt1[nowrap="nowrap"]
-i-comers.com##.alt1[nowrap="nowrap"][valign="top"]
 i-comers.com##.simple_advert
 ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
@@ -657,7 +654,6 @@ kaskus.us###ab712af0
 kaskus.us###cntysm
 kaskus.us##a[href="http://kad.kaskus.us"]
 kaskus.us##a[href="http://kad.kaskus.us/"]
-kaskus.us##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] + div[style="height:30px"]
 kaskus.us##img[src="images/spacer.gif"]
 kikil.org###floating_banner_bottom
 kikil.org##center > table[width="900"]
