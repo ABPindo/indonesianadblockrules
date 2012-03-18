@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 15 March 2012, 11:57:05 WIB
+# Last modified 18 March 2012, 18:18:10 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -467,6 +467,7 @@ msFilterList
 - http://bola777.net
 - http://bolaketangkasan.com
 # ||bolasonic.com^$image,popup
+-d bolavegas.com /ads/
 - http://bravevolitation.com
 - http://bux-matrix.com
 - http://buxrupiah.com
@@ -492,6 +493,7 @@ msFilterList
 - http://funds4cash.com
 - http://gajigratis.com
 - http://galaxybola.com
+-d gambar123.com /pic/ads/
 - http://gesrek.com
 - http://goldbet88.com
 - http://gowellup.com
@@ -543,7 +545,9 @@ msFilterList
 - http://submitforall.com
 - http://submitfull.com
 - http://syadiashare.com
+# ||tangkasbet.com^$popup
 - http://tangkasbet.com
+# ||tangkasindo.com^$popup
 - http://thupox.com
 # ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 - http://topskor.us
