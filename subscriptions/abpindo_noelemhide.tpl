@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 18 March 2012, 18:18:10 WIB
+# Last modified 29 March 2012, 22:07:49 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -389,16 +389,18 @@ msFilterList
 - /usahaberhasil.gif
 # *** abpindo_specific_block.txt ***
 -d 173.199.167.192 /bb17-iklan.php
--d 173.199.167.192 /pop.js
 -d 96.30.15.188 /bb17-iklan.php
--d 96.30.15.188 /pop.js
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d bingofreebonus.net /bfbcontent/locker.js?
 -d ceri.ws /ads/
 -d ceriwis.us /banner/
 -d chip.co.id /microsite/frame/index.html
+-d csstatic.com /banners/
 -d ebsoft.web.id /wp-content/banners/
+-d forumkami.net /ad125x125/
+-d forumkami.net /ad200x50/
+-d forumkami.net /close.gif
 -d harianjogja.com /img/bnr/
 -d images.indoforum.org /banners/
 -d indobokepz.com /images/banner/
@@ -418,9 +420,7 @@ msFilterList
 -d koranlokal.com /newstickerpartai.php
 -d koranlokal.com /point1.php
 -d krucil.com /bb17-iklan.php
--d krucil.com /pop.js
 -d krucil.net /bb17-iklan.php
--d krucil.net /pop.js
 -d lendir.us /images/banner/
 -d mediaindonesia.com /public/banner/flash/
 -d megindo.net /megindo2/images/banner-
@@ -433,7 +433,6 @@ msFilterList
 -d perjaka.us /images/banner/
 -d resep.web.id /banner/
 -d semprot.com /x_ads/
--d semprot.com /x_js/analytic.js
 -d suaramedia.com /images/banners/
 -d tabloidbintang.com /space-iklan/
 - http://us.openx.detik.com

@@ -1,4 +1,3 @@
-173.199.167.192###fixme
 173.199.167.192###floating_banner_bottom
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 173.199.167.192##center > font[size="1"]
@@ -9,6 +8,8 @@
 96.30.15.188##center > font[size="1"]
 96.30.15.188##td[width="305"]:last-child
 ansav.com##.body > center
+asixfiles.com##div[style="padding-top:5px; position: fixed; top:0px;left:0px;width:100%;height:85px; background-color:#222222;z-index:555555;"]
+asixpoint.com##div[style="padding-top:0px; position: fixed; top:0px;left:0px;width:100%;height:100px; background-color:#000000;z-index:99999999999;"]173.199.167.192###fixme
 beritateknologi.com###topbar
 blogspot.com###topbar
 bluefame.com##center img[height="90"][width="728"]
@@ -29,6 +30,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##a[href$=".ad"][target="_blank"]
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##img[src*="/ButtonCloseWhite-BlackStroke.png"]
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##object[width="728"][height="90"]
 downloadfilem.com##a[href^="http://promosipraktis.com/"]
 downloadfilem.com##img[width="125"][height="125"]
 downloadmoviesfree.net###samdav-links
@@ -39,6 +41,10 @@ duniabaca.com##.banner
 forumbebas.com###topbar
 forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
+forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:11px;padding-left:9px;border: 1px solid #B8B8B8;"]
+forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:9px;padding-left:9px;border: 1px solid #B8B8B8;"]
+forumkami.net##div[style="width:968px;height:261px;margin:1px;border:1px solid #A1A1A1;"]
+forumkami.net##div[style="width:968px;height:90px;background-color:#FFE0EB;border:1px solid #A1A1A1;"]
 galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer

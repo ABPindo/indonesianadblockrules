@@ -1,6 +1,7 @@
 [Adblock Plus 1.1]
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
 ! Last modified: 15 March 2012, 11:57:05 WIB
+! Last modified: 29 March 2012, 22:07:49 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -25,6 +26,8 @@
 /usaha-berhasil.gif
 /usahaberhasil.gif
 ! *** abpindo_general_hide.txt ***
+###ad_global_below_navbar
+###adv-placeholder
 ###desaiklan
 ###floatingad
 ###iklanpersegi
@@ -38,6 +41,7 @@
 ##a[href*="usahaberhasil.com"]
 ##a[target="_blank"][href*="bursabet.com"]
 ##a[target="_blank"][href*="multibet88.com"]
+##img[alt="Space Iklan"]
 ! *** abpindo_adservers.txt ***
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
@@ -428,6 +432,7 @@
 ||bola777.net^$third-party
 ||bolaketangkasan.com^$third-party
 ||bolasonic.com^$image,popup
+||bolavegas.com/ads/
 ||bravevolitation.com^$third-party
 ||bux-matrix.com^$third-party
 ||buxrupiah.com^$third-party
@@ -453,6 +458,7 @@
 ||funds4cash.com^$third-party
 ||gajigratis.com^$third-party
 ||galaxybola.com^$third-party
+||gambar123.com/pic/ads/
 ||gesrek.com^$third-party
 ||goldbet88.com^$third-party
 ||gowellup.com^$third-party
@@ -504,7 +510,9 @@
 ||submitforall.com^$third-party
 ||submitfull.com^$third-party
 ||syadiashare.com^$third-party
+||tangkasbet.com^$popup
 ||tangkasbet.com^$third-party
+||tangkasindo.com^$popup
 ||thupox.com^$third-party
 ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 ||topskor.us^$third-party
@@ -517,16 +525,18 @@
 ||y-bux.com^$third-party
 ! *** abpindo_specific_block.txt ***
 ||173.199.167.192/bb17-iklan.php
-||173.199.167.192/pop.js
 ||96.30.15.188/bb17-iklan.php
-||96.30.15.188/pop.js
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||ceri.ws/ads/
 ||ceriwis.us/banner/
 ||chip.co.id/microsite/frame/index.html
+||csstatic.com/banners/
 ||ebsoft.web.id/wp-content/banners/
+||forumkami.net/ad125x125/
+||forumkami.net/ad200x50/
+||forumkami.net/close.gif
 ||harianjogja.com/img/bnr/
 ||images.indoforum.org/banners/
 ||indobokepz.com/images/banner/
@@ -546,9 +556,7 @@
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
 ||krucil.com/bb17-iklan.php
-||krucil.com/pop.js
 ||krucil.net/bb17-iklan.php
-||krucil.net/pop.js
 ||lendir.us/images/banner/
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
@@ -561,7 +569,6 @@
 ||perjaka.us/images/banner/
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
-||semprot.com/x_js/analytic.js
 ||suaramedia.com/images/banners/
 ||tabloidbintang.com^*/space-iklan/
 ||us.openx.detik.com^
@@ -569,7 +576,6 @@
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
-173.199.167.192###fixme
 173.199.167.192###floating_banner_bottom
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 173.199.167.192##center > font[size="1"]
@@ -580,6 +586,8 @@
 96.30.15.188##center > font[size="1"]
 96.30.15.188##td[width="305"]:last-child
 ansav.com##.body > center
+asixfiles.com##div[style="padding-top:5px; position: fixed; top:0px;left:0px;width:100%;height:85px; background-color:#222222;z-index:555555;"]
+asixpoint.com##div[style="padding-top:0px; position: fixed; top:0px;left:0px;width:100%;height:100px; background-color:#000000;z-index:99999999999;"]173.199.167.192###fixme
 beritateknologi.com###topbar
 blogspot.com###topbar
 bluefame.com##center img[height="90"][width="728"]
@@ -600,6 +608,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##a[href$=".ad"][target="_blank"]
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##img[src*="/ButtonCloseWhite-BlackStroke.png"]
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##object[width="728"][height="90"]
 downloadfilem.com##a[href^="http://promosipraktis.com/"]
 downloadfilem.com##img[width="125"][height="125"]
 downloadmoviesfree.net###samdav-links
@@ -610,6 +619,10 @@ duniabaca.com##.banner
 forumbebas.com###topbar
 forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
+forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:11px;padding-left:9px;border: 1px solid #B8B8B8;"]
+forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:9px;padding-left:9px;border: 1px solid #B8B8B8;"]
+forumkami.net##div[style="width:968px;height:261px;margin:1px;border:1px solid #A1A1A1;"]
+forumkami.net##div[style="width:968px;height:90px;background-color:#FFE0EB;border:1px solid #A1A1A1;"]
 galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
