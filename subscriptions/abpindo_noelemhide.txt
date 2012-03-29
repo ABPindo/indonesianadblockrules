@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ig8mBtbGyv7PIhK1mZoUcA
+! Checksum: OmVfkbAja7CFshd5QDVzeA
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 18 March 2012, 18:18:10 WIB
+! Last modified 29 March 2012, 22:07:49 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -390,16 +390,18 @@
 /usahaberhasil.gif
 ! *** abpindo_specific_block.txt ***
 ||173.199.167.192/bb17-iklan.php
-||173.199.167.192/pop.js
 ||96.30.15.188/bb17-iklan.php
-||96.30.15.188/pop.js
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||ceri.ws/ads/
 ||ceriwis.us/banner/
 ||chip.co.id/microsite/frame/index.html
+||csstatic.com/banners/
 ||ebsoft.web.id/wp-content/banners/
+||forumkami.net/ad125x125/
+||forumkami.net/ad200x50/
+||forumkami.net/close.gif
 ||harianjogja.com/img/bnr/
 ||images.indoforum.org/banners/
 ||indobokepz.com/images/banner/
@@ -419,9 +421,7 @@
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
 ||krucil.com/bb17-iklan.php
-||krucil.com/pop.js
 ||krucil.net/bb17-iklan.php
-||krucil.net/pop.js
 ||lendir.us/images/banner/
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
@@ -434,7 +434,6 @@
 ||perjaka.us/images/banner/
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
-||semprot.com/x_js/analytic.js
 ||suaramedia.com/images/banners/
 ||tabloidbintang.com^*/space-iklan/
 ||us.openx.detik.com^

@@ -1,3 +1,5 @@
+###ad_global_below_navbar
+###adv-placeholder
 ###desaiklan
 ###floatingad
 ###iklanpersegi
@@ -11,3 +13,4 @@
 ##a[href*="usahaberhasil.com"]
 ##a[target="_blank"][href*="bursabet.com"]
 ##a[target="_blank"][href*="multibet88.com"]
+##img[alt="Space Iklan"]
