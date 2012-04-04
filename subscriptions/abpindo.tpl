@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 04 April 2012, 09:32:48 WIB
+# Last modified: 04 April 2012, 09:38:18 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -27,10 +27,13 @@ msFilterList
 # *** abpindo_general_hide.txt ***
 # ###ad_global_below_navbar
 # ###adv-placeholder
+# ###bottom_exclusive_ads
 # ###desaiklan
+# ###floating_banner_bottom
 # ###floating_banner_top
 # ###floatingad
 # ###iklanpersegi
+# ###top_ad_full
 # ##.ad_primex
 # ##.bgads
 # ##.gbcontent
@@ -571,9 +574,7 @@ msFilterList
 -d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
-# 173.199.167.192###floating_banner_bottom
 # 96.30.15.188###fixme
-# 96.30.15.188###floating_banner_bottom
 # ansav.com##.body > center
 # beritateknologi.com###topbar
 # blogspot.com###topbar
@@ -632,12 +633,9 @@ msFilterList
 # kaskus.us###a6d05129
 # kaskus.us###ab712af0
 # kaskus.us###cntysm
-# kikil.org###floating_banner_bottom
 # kolomunik.com###topbar
 # kompasiana.com###anchormasklink
-# krucil.com###floating_banner_bottom
 # krucil.com##.fixmeInner
-# krucil.net###floating_banner_bottom
 # krucil.net##.fixmeInner
 # lapar.com##.banner_box
 # lapar.com##.banner_main
@@ -650,16 +648,12 @@ msFilterList
 # metrotvnews.com###fixme
 # nyit-nyit.net###adn89 + * td
 # oktavita.com##.banner-zone
-# pikiran-rakyat.com###bottom_exclusive_ads
-# pikiran-rakyat.com###top_ad_full
 # resep.web.id###googlebox
 # semprot.com##.semprot_ads
 # tempointeraktif.com###banner-atas
 # tempointeraktif.com###banner-bawah
-# thehack3r.com###ad_global_below_navbar
 # topterunik.com###topbar
 # tribunnews.com###bannerku
-# vocland.com###ad_global_below_navbar
 # warungbebas.com##.gbtab
 # zonabola.com###afbsports
 # zonabola.com###lAds img

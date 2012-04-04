@@ -1,9 +1,7 @@
-173.199.167.192###floating_banner_bottom
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 173.199.167.192##center > font[size="1"]
 173.199.167.192##td[width="305"]:last-child
 96.30.15.188###fixme
-96.30.15.188###floating_banner_bottom
 96.30.15.188##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 96.30.15.188##center > font[size="1"]
 96.30.15.188##td[width="305"]:last-child
@@ -92,7 +90,6 @@ kaskus.us##a[href="http://kad.kaskus.us"]
 kaskus.us##a[href="http://kad.kaskus.us/"]
 kaskus.us##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] + div[style="height:30px"]
 kaskus.us##img[src="images/spacer.gif"]
-kikil.org###floating_banner_bottom
 kikil.org##[align="center"] .exampleboxshadowb
 kikil.org##[align="center"] > .exampleboxshadowa
 kikil.org##[align="center"] > .exampleboxshadowb
@@ -104,12 +101,10 @@ kolomunik.com###topbar
 kompas.com##img[src="http://img.ads.kompas.com/bannerlink/close.gif"]
 kompasiana.com###anchormasklink
 krisna.web.id##img[style="width: 728px; height: 90px;"]
-krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
 krucil.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.com##center > font[size="1"]
 krucil.com##td[width="305"]:last-child
-krucil.net###floating_banner_bottom
 krucil.net##.fixmeInner
 krucil.net##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.net##center > font[size="1"]
@@ -131,8 +126,6 @@ metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * td
 okezone.com##img[src*="/images/ad/"]
 oktavita.com##.banner-zone
-pikiran-rakyat.com###bottom_exclusive_ads
-pikiran-rakyat.com###top_ad_full
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 resep.web.id###googlebox
 semprot.com##.semprot_ads
@@ -140,13 +133,11 @@ situshp.com##div[style="height:260px;"]
 stafaband.info##table[width="100%"] + #bottom
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
-thehack3r.com###ad_global_below_navbar
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
 thehack3r.com##img[width="728"][height="90"]
 topterunik.com###topbar
 tribunnews.com###bannerku
 tribunnews.com##img[src="http://www.tribunnews.com/stylesheets/close.gif"]
-vocland.com###ad_global_below_navbar
 wap.vivanews.com##div[style="color:#2D4D89;font-weight:bold;text-decoration:none;text-align:center;font-size:small;"]
 wap.vivanews.com##div[style="color:#DDDDDD;text-decoration:none;text-align:center;font-size:x-small;"]
 warnetforum.com##div[style="margin: 10px auto 10px;width:599px;"]
