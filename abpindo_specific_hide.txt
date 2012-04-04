@@ -23,6 +23,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.ads_kanan
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.banner_inside_article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
@@ -92,6 +93,10 @@ kaskus.us##a[href="http://kad.kaskus.us/"]
 kaskus.us##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] + div[style="height:30px"]
 kaskus.us##img[src="images/spacer.gif"]
 kikil.org###floating_banner_bottom
+kikil.org##[align="center"] .exampleboxshadowb
+kikil.org##[align="center"] > .exampleboxshadowa
+kikil.org##[align="center"] > .exampleboxshadowb
+kikil.org##[align="center"] > .exampleboxshadowc
 kikil.org##center > table[width="900"]
 kikil.org##center > table[width="900px"]
 kikil.org##div[style="height:210px; width:250px; overflow:hidden"]
