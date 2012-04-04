@@ -1,9 +1,12 @@
 ###ad_global_below_navbar
 ###adv-placeholder
+###bottom_exclusive_ads
 ###desaiklan
+###floating_banner_bottom
 ###floating_banner_top
 ###floatingad
 ###iklanpersegi
+###top_ad_full
 ##.ad_primex
 ##.bgads
 ##.gbcontent
