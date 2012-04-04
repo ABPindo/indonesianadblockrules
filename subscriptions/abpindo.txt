@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: C8wFIUFMV/Lq5afSC9aHjw
+! Checksum: nNcUMeBV9ajfAMTgBOdpPw
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 29 March 2012, 22:07:49 WIB
+! Last modified: 04 April 2012, 09:32:48 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -29,6 +29,7 @@
 ###ad_global_below_navbar
 ###adv-placeholder
 ###desaiklan
+###floating_banner_top
 ###floatingad
 ###iklanpersegi
 ##.ad_primex
@@ -544,7 +545,6 @@
 ||indomp3z.us/banner/
 ||indowebster.com/js/link_converter.js
 ||inilah.com/assets/image/airasia/skin-
-||jogjastreamers.com/images/banner/
 ||kad.kaskus.us/banner/$subdocument
 ||kapanlagi.com^*/banner/
 ||kaskus.us/adv/
@@ -601,6 +601,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.ads_kanan
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.banner_inside_article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
@@ -670,6 +671,10 @@ kaskus.us##a[href="http://kad.kaskus.us/"]
 kaskus.us##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] + div[style="height:30px"]
 kaskus.us##img[src="images/spacer.gif"]
 kikil.org###floating_banner_bottom
+kikil.org##[align="center"] .exampleboxshadowb
+kikil.org##[align="center"] > .exampleboxshadowa
+kikil.org##[align="center"] > .exampleboxshadowb
+kikil.org##[align="center"] > .exampleboxshadowc
 kikil.org##center > table[width="900"]
 kikil.org##center > table[width="900px"]
 kikil.org##div[style="height:210px; width:250px; overflow:hidden"]
@@ -731,3 +736,4 @@ zonabola.com##img[width="750"][height="75"][border="0"]
 ! *** abpindo_whitelist.txt ***
 @@||iklan.okezone.com/images-data/classified/
 @@||okezone.com^*/images/ad/
+@@||speedtest.co.id/adframe/adframe.js
