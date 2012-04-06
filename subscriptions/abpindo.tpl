@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 04 April 2012, 09:38:18 WIB
+# Last modified: 06 April 2012, 08:19:02 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -25,10 +25,12 @@ msFilterList
 - /usaha-berhasil.gif
 - /usahaberhasil.gif
 # *** abpindo_general_hide.txt ***
+# ###Box-Banner-ads
 # ###ad_global_below_navbar
 # ###adv-placeholder
 # ###bottom_exclusive_ads
 # ###desaiklan
+# ###floating-ads
 # ###floating_banner_bottom
 # ###floating_banner_top
 # ###floatingad
@@ -95,6 +97,7 @@ msFilterList
 - http://clickmedia.co.id
 - http://clicks4cents.com
 - http://clicksia.com
+- http://clixsense.com
 - http://cyberpromo.biz
 - http://daniklan.com
 - http://desaiklan.com
@@ -457,7 +460,6 @@ msFilterList
 - http://funds4cash.com
 - http://gajigratis.com
 - http://galaxybola.com
--d gambar123.com /pic/ads/
 - http://gesrek.com
 - http://goldbet88.com
 - http://gowellup.com
@@ -509,8 +511,7 @@ msFilterList
 - http://submitforall.com
 - http://submitfull.com
 - http://syadiashare.com
-# ||tangkasbet.com^$popup
-- http://tangkasbet.com
+# ||tangkasbet.com^$popup,third-party
 # ||tangkasindo.com^$popup
 - http://thupox.com
 # ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com

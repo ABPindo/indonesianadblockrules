@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: /0wDaqSIBkF8ms4jGzeYdQ
+! Checksum: P3I66ESCuTSJDgp+lbBaWw
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 04 April 2012, 09:38:18 WIB
+! Last modified: 06 April 2012, 08:19:02 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -26,10 +26,12 @@
 /usaha-berhasil.gif
 /usahaberhasil.gif
 ! *** abpindo_general_hide.txt ***
+###Box-Banner-ads
 ###ad_global_below_navbar
 ###adv-placeholder
 ###bottom_exclusive_ads
 ###desaiklan
+###floating-ads
 ###floating_banner_bottom
 ###floating_banner_top
 ###floatingad
@@ -45,6 +47,7 @@
 ##a[href*="usahaberhasil.com"]
 ##a[target="_blank"][href*="bursabet.com"]
 ##a[target="_blank"][href*="multibet88.com"]
+##img[alt="Pasang Iklan Murah"]
 ##img[alt="Space Iklan"]
 ! *** abpindo_adservers.txt ***
 ||1iklanbaris.com^$third-party
@@ -100,6 +103,7 @@
 ||clickmedia.co.id^$third-party
 ||clicks4cents.com^$third-party
 ||clicksia.com^$third-party
+||clixsense.com^$third-party
 ||cyberpromo.biz^$third-party
 ||daniklan.com^$third-party
 ||desaiklan.com^$third-party
@@ -462,7 +466,6 @@
 ||funds4cash.com^$third-party
 ||gajigratis.com^$third-party
 ||galaxybola.com^$third-party
-||gambar123.com/pic/ads/
 ||gesrek.com^$third-party
 ||goldbet88.com^$third-party
 ||gowellup.com^$third-party
@@ -514,8 +517,7 @@
 ||submitforall.com^$third-party
 ||submitfull.com^$third-party
 ||syadiashare.com^$third-party
-||tangkasbet.com^$popup
-||tangkasbet.com^$third-party
+||tangkasbet.com^$popup,third-party
 ||tangkasindo.com^$popup
 ||thupox.com^$third-party
 ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com

@@ -1,7 +1,9 @@
+###Box-Banner-ads
 ###ad_global_below_navbar
 ###adv-placeholder
 ###bottom_exclusive_ads
 ###desaiklan
+###floating-ads
 ###floating_banner_bottom
 ###floating_banner_top
 ###floatingad
@@ -17,4 +19,5 @@
 ##a[href*="usahaberhasil.com"]
 ##a[target="_blank"][href*="bursabet.com"]
 ##a[target="_blank"][href*="multibet88.com"]
+##img[alt="Pasang Iklan Murah"]
 ##img[alt="Space Iklan"]
