@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 06 April 2012, 08:19:02 WIB
+# Last modified 14 April 2012, 16:15:49 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -437,12 +437,14 @@ msFilterList
 -d tabloidbintang.com /space-iklan/
 - http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
+-d wwwkikilorg.appspot.com /images/banner/
 -d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_thirdparty.txt ***
 - http://1bisnisonline.com
 - http://39bola.com
 - http://988bet.com
+- http://agenasia88.com
 # ||agenbo.la^$image,popup
 - http://agent926.com
 - http://alamatemail.com
@@ -520,6 +522,7 @@ msFilterList
 # ||masterporn.me^*.gif$domain=krucil.net
 - http://matakodok.com
 -d mractionclub.com /banner/
+-d my.postsgenius.com /style/banners/
 - http://networkadonline.com
 - http://numpanglewat.com
 - http://orifuture.net

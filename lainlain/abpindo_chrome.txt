@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified: 06 April 2012, 08:19:02 WIB
+! Last modified: 14 April 2012, 16:15:49 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -36,6 +36,7 @@
 ###floatingad
 ###iklanpersegi
 ###top_ad_full
+##.SectionAds
 ##.ad_primex
 ##.bgads
 ##.gbcontent
@@ -416,6 +417,7 @@
 ||1bisnisonline.com^$third-party
 ||39bola.com^$third-party
 ||988bet.com^$third-party
+||agenasia88.com^$third-party
 ||agenbo.la^$image,popup
 ||agent926.com^$third-party
 ||alamatemail.com^$third-party
@@ -493,6 +495,7 @@
 ||masterporn.me^*.gif$domain=krucil.net
 ||matakodok.com^$third-party
 ||mractionclub.com/banner/
+||my.postsgenius.com/style/banners/
 ||networkadonline.com^$third-party
 ||numpanglewat.com^$third-party
 ||orifuture.net^$third-party
@@ -577,6 +580,7 @@
 ||tabloidbintang.com^*/space-iklan/
 ||us.openx.detik.com^
 ||videogamesindonesia.com/banners/
+||wwwkikilorg.appspot.com/images/banner/
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
@@ -593,6 +597,7 @@ asixpoint.com##div[style="padding-top:0px; position: fixed; top:0px;left:0px;wid
 beritateknologi.com###topbar
 blogspot.com###topbar
 bluefame.com##center img[height="90"][width="728"]
+catatankomputer.com##.forads .alignleft
 ceriwis.us###hoho-wrapsubmenu3
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
@@ -643,6 +648,9 @@ ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
 indobokepz.com##div[style="text-align:center; margin-bottom:10px;"]
+indobokepz.com##div[style="text-align:center; padding:5px 0;"]
+indobokepz.com##div[style="text-align:center;padding:5px 0;"]
+indobokepz.com##img[src="http://placehold.it/300x90"]
 indobokepz.com##p[style="text-align:center;margin-bottom:8px;"]
 indosiar.com###headerbanner
 indosiar.com###headerbanner + div[style="height:50px"]
@@ -671,6 +679,8 @@ kaskus.us###cntysm
 kaskus.us##a[href="http://kad.kaskus.us"]
 kaskus.us##a[href="http://kad.kaskus.us/"]
 kaskus.us##img[src="images/spacer.gif"]
+kikil.org###content-wrap7 td[style="padding-left: 15px"]
+kikil.org##.exampleboxshadowa
 kikil.org##[align="center"] .exampleboxshadowb
 kikil.org##[align="center"] > .exampleboxshadowa
 kikil.org##[align="center"] > .exampleboxshadowb
@@ -694,6 +704,7 @@ lapar.com##.banner_box
 lapar.com##.banner_main
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 lapar.com##.top-banner
+lintas.me###leaderbpard
 lintasberita.com##div[style="position: fixed; top: 130px; left: 1185px; width: 125px; height: 600px; background-color:transparent;"]
 lintasberita.com##div[style="position: fixed; top: 130px; left: 1px; width: 125px; height: 600px; background-color:transparent;"]
 lintasberita.com##img[src="http://www.lintasberita.com/public/images/spacer.gif"]

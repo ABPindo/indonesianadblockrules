@@ -11,6 +11,7 @@ asixpoint.com##div[style="padding-top:0px; position: fixed; top:0px;left:0px;wid
 beritateknologi.com###topbar
 blogspot.com###topbar
 bluefame.com##center img[height="90"][width="728"]
+catatankomputer.com##.forads .alignleft
 ceriwis.us###hoho-wrapsubmenu3
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
@@ -61,6 +62,9 @@ ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
 indobokepz.com##div[style="text-align:center; margin-bottom:10px;"]
+indobokepz.com##div[style="text-align:center; padding:5px 0;"]
+indobokepz.com##div[style="text-align:center;padding:5px 0;"]
+indobokepz.com##img[src="http://placehold.it/300x90"]
 indobokepz.com##p[style="text-align:center;margin-bottom:8px;"]
 indosiar.com###headerbanner
 indosiar.com###headerbanner + div[style="height:50px"]
@@ -90,6 +94,8 @@ kaskus.us##a[href="http://kad.kaskus.us"]
 kaskus.us##a[href="http://kad.kaskus.us/"]
 kaskus.us##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] + div[style="height:30px"]
 kaskus.us##img[src="images/spacer.gif"]
+kikil.org###content-wrap7 td[style="padding-left: 15px"]
+kikil.org##.exampleboxshadowa
 kikil.org##[align="center"] .exampleboxshadowb
 kikil.org##[align="center"] > .exampleboxshadowa
 kikil.org##[align="center"] > .exampleboxshadowb
@@ -113,6 +119,7 @@ lapar.com##.banner_box
 lapar.com##.banner_main
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 lapar.com##.top-banner
+lintas.me###leaderbpard
 lintasberita.com##div[style="position: fixed; top: 130px; left: 1185px; width: 125px; height: 600px; background-color:transparent;"]
 lintasberita.com##div[style="position: fixed; top: 130px; left: 1px; width: 125px; height: 600px; background-color:transparent;"]
 lintasberita.com##img[src="http://www.lintasberita.com/public/images/spacer.gif"]
