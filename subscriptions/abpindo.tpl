@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 06 April 2012, 08:19:02 WIB
+# Last modified: 14 April 2012, 16:15:49 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -36,6 +36,7 @@ msFilterList
 # ###floatingad
 # ###iklanpersegi
 # ###top_ad_full
+# ##.SectionAds
 # ##.ad_primex
 # ##.bgads
 # ##.gbcontent
@@ -411,6 +412,7 @@ msFilterList
 - http://1bisnisonline.com
 - http://39bola.com
 - http://988bet.com
+- http://agenasia88.com
 # ||agenbo.la^$image,popup
 - http://agent926.com
 - http://alamatemail.com
@@ -488,6 +490,7 @@ msFilterList
 # ||masterporn.me^*.gif$domain=krucil.net
 - http://matakodok.com
 -d mractionclub.com /banner/
+-d my.postsgenius.com /style/banners/
 - http://networkadonline.com
 - http://numpanglewat.com
 - http://orifuture.net
@@ -572,6 +575,7 @@ msFilterList
 -d tabloidbintang.com /space-iklan/
 - http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
+-d wwwkikilorg.appspot.com /images/banner/
 -d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
@@ -579,6 +583,7 @@ msFilterList
 # ansav.com##.body > center
 # beritateknologi.com###topbar
 # blogspot.com###topbar
+# catatankomputer.com##.forads .alignleft
 # ceriwis.us###hoho-wrapsubmenu3
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
@@ -634,6 +639,7 @@ msFilterList
 # kaskus.us###a6d05129
 # kaskus.us###ab712af0
 # kaskus.us###cntysm
+# kikil.org##.exampleboxshadowa
 # kolomunik.com###topbar
 # kompasiana.com###anchormasklink
 # krucil.com##.fixmeInner
@@ -641,6 +647,7 @@ msFilterList
 # lapar.com##.banner_box
 # lapar.com##.banner_main
 # lapar.com##.top-banner
+# lintas.me###leaderbpard
 # loveindonesia.com##.banner_box
 # m.detik.com###top
 # m.iklanbaris.detik.com##.adtext01
