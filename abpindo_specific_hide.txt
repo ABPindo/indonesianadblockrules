@@ -1,10 +1,6 @@
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 173.199.167.192##center > font[size="1"]
 173.199.167.192##td[width="305"]:last-child
-96.30.15.188###fixme
-96.30.15.188##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
-96.30.15.188##center > font[size="1"]
-96.30.15.188##td[width="305"]:last-child
 ansav.com##.body > center
 asixfiles.com##div[style="padding-top:5px; position: fixed; top:0px;left:0px;width:100%;height:85px; background-color:#222222;z-index:555555;"]
 asixpoint.com##div[style="padding-top:0px; position: fixed; top:0px;left:0px;width:100%;height:100px; background-color:#000000;z-index:99999999999;"]173.199.167.192###fixme
@@ -61,13 +57,17 @@ i-comers.com##.simple_advert
 ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
+indo.kerangbulu.com##center > div[style="width:728px; border:0px solid #dfdfdf;"]
 indobokepz.com##div[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##div[style="text-align:center; padding:5px 0;"]
 indobokepz.com##div[style="text-align:center;padding:5px 0;"]
 indobokepz.com##img[src="http://placehold.it/300x90"]
+indobokepz.com##img[style="width: 200px; height: 100px;"]
+indobokepz.com##img[style="width: 300px; height: 300px;"]
 indobokepz.com##p[style="text-align:center;margin-bottom:8px;"]
 indosiar.com###headerbanner
 indosiar.com###headerbanner + div[style="height:50px"]
+infobill.telkom.co.id##.txt_normal[width="100%"][align="center"]
 inilah.com###anchormasklink
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 jurigjarian.com###topbar
@@ -107,6 +107,7 @@ kolomunik.com###topbar
 kompas.com##img[src="http://img.ads.kompas.com/bannerlink/close.gif"]
 kompasiana.com###anchormasklink
 krisna.web.id##img[style="width: 728px; height: 90px;"]
+krngbl.com##div[style="width:728px; border:0px solid #dfdfdf;"]
 krucil.com##.fixmeInner
 krucil.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.com##center > font[size="1"]
