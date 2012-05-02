@@ -96,10 +96,8 @@ kaskus.us##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] 
 kaskus.us##img[src="images/spacer.gif"]
 kikil.org###content-wrap7 td[style="padding-left: 15px"]
 kikil.org##.exampleboxshadowa
-kikil.org##[align="center"] .exampleboxshadowb
-kikil.org##[align="center"] > .exampleboxshadowa
-kikil.org##[align="center"] > .exampleboxshadowb
-kikil.org##[align="center"] > .exampleboxshadowc
+kikil.org##.exampleboxshadowb
+kikil.org##.exampleboxshadowc
 kikil.org##center > table[width="900"]
 kikil.org##center > table[width="900px"]
 kikil.org##div[style="height:210px; width:250px; overflow:hidden"]
