@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 20 April 2012, 05:30:57 WIB
+# Last modified 17 May 2012, 13:31:32 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -128,6 +128,7 @@ msFilterList
 - http://iklanbisnisindonesia.com
 - http://iklanbisnisku.com
 - http://iklanbisnispro.com
+- http://iklanblogger.com
 - http://iklanbogor.com
 - http://iklandb.com
 - http://iklandenpasar.com
@@ -392,6 +393,7 @@ msFilterList
 -d 173.199.167.192 /bb17-iklan.php
 - http://admin.ads.indowebster.com
 # ||asiafriendfinder.com^$domain=maknyos.com
+# ||bacamanga.com/images/indofiles/$image
 -d bingofreebonus.net /bfbcontent/locker.js?
 -d ceri.ws /ads/
 -d ceriwis.us /banner/
@@ -403,6 +405,7 @@ msFilterList
 -d forumkami.net /close.gif
 -d harianjogja.com /img/bnr/
 -d images.indoforum.org /banners/
+# ||img.cuvso.com^$domain=remo-xp.com
 -d indobokepz.com /images/banner/
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
@@ -421,6 +424,7 @@ msFilterList
 -d krucil.com /bb17-iklan.php
 -d krucil.net /bb17-iklan.php
 -d lendir.us /images/banner/
+-d mediahide.com /ganool/*/banner-ganool.gif
 -d mediaindonesia.com /public/banner/flash/
 -d megindo.net /megindo2/images/banner-
 -d modemku.com /image-banner/
@@ -431,6 +435,7 @@ msFilterList
 -d pancet.com /kbads/
 -d perawan.us /images/banner/
 -d perjaka.us /images/banner/
+-d remoxp.hostzi.com /banner160x720.jpg
 -d resep.web.id /banner/
 -d semprot.com /x_ads/
 -d static.republika.co.id /files/images/btn_close.png
@@ -449,6 +454,7 @@ msFilterList
 # ||agenbo.la^$image,popup
 - http://agent926.com
 - http://alamatemail.com
+- http://alenboby.net
 -d alertpay.com /banners/
 - http://apmmedia.net
 - http://arenabola.com
@@ -484,6 +490,7 @@ msFilterList
 - http://duitbux.com
 - http://dunia-bisnis.com
 - http://easy-hit-counter.com
+# ||edomz.com/$popup
 - http://empatdns.com
 - http://enjoybux.com
 # ||fairbet88.com^$popup,third-party

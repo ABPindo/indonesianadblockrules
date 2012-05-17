@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: fpIHf8OZokmFkubJyt3DYQ
+! Checksum: qhoDYZqGjj4hP9q+gR5fHA
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 02 May 2012, 22:27:34 WIB
+! Last modified: 17 May 2012, 13:31:32 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -169,6 +169,7 @@
 ||iklanbisnisindonesia.com^$third-party
 ||iklanbisnisku.com^$third-party
 ||iklanbisnispro.com^$third-party
+||iklanblogger.com^$third-party
 ||iklanbogor.com^$third-party
 ||iklandb.com^$third-party
 ||iklandenpasar.com^$third-party
@@ -422,6 +423,7 @@
 ||agenbo.la^$image,popup
 ||agent926.com^$third-party
 ||alamatemail.com^$third-party
+||alenboby.net^$third-party
 ||alertpay.com/banners/
 ||apmmedia.net^$third-party
 ||arenabola.com^$third-party
@@ -457,6 +459,7 @@
 ||duitbux.com^$third-party
 ||dunia-bisnis.com^$third-party
 ||easy-hit-counter.com^$third-party
+||edomz.com/$popup
 ||empatdns.com^$third-party
 ||enjoybux.com^$third-party
 ||fairbet88.com^$popup,third-party
@@ -536,6 +539,7 @@
 ||173.199.167.192/bb17-iklan.php
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
+||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||ceri.ws/ads/
 ||ceriwis.us/banner/
@@ -547,6 +551,7 @@
 ||forumkami.net/close.gif
 ||harianjogja.com/img/bnr/
 ||images.indoforum.org/banners/
+||img.cuvso.com^$domain=remo-xp.com
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
@@ -565,6 +570,7 @@
 ||krucil.com/bb17-iklan.php
 ||krucil.net/bb17-iklan.php
 ||lendir.us/images/banner/
+||mediahide.com/ganool/*/banner-ganool.gif
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
 ||modemku.com/image-banner/
@@ -575,6 +581,7 @@
 ||pancet.com/kbads/
 ||perawan.us/images/banner/
 ||perjaka.us/images/banner/
+||remoxp.hostzi.com/banner160x720.jpg
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
 ||static.republika.co.id/files/images/btn_close.png
@@ -633,6 +640,7 @@ galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
 ganool.com###ad2_footer
 ganool.com###pateni
+ganool.com##.banner-right.clearfix
 ganool.com##.close
 google.co.id###rhs_block
 google.co.id##table[style="border: 1px solid #0000CC"]
@@ -653,6 +661,7 @@ indobokepz.com##img[src="http://placehold.it/300x90"]
 indobokepz.com##img[style="width: 200px; height: 100px;"]
 indobokepz.com##img[style="width: 300px; height: 300px;"]
 indobokepz.com##p[style="text-align:center;margin-bottom:8px;"]
+indogamers.com###bottombanner
 indosiar.com###headerbanner
 indosiar.com###headerbanner + div[style="height:50px"]
 infobill.telkom.co.id##.txt_normal[width="100%"][align="center"]
@@ -690,6 +699,8 @@ kikil.org##center > table[width="900"]
 kikil.org##center > table[width="900px"]
 kikil.org##div[style="height:210px; width:250px; overflow:hidden"]
 kolomunik.com###topbar
+komikbaru.com##.iklan_kiri
+komikbaru.com##img[alt="Pemasangan Iklan"]
 kompas.com##img[src="http://img.ads.kompas.com/bannerlink/close.gif"]
 kompasiana.com###anchormasklink
 krisna.web.id##img[style="width: 728px; height: 90px;"]
@@ -720,6 +731,7 @@ metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * td
 okezone.com##img[src*="/images/ad/"]
 oktavita.com##.banner-zone
+remo-xp.com##img[alt="iklan 440x90"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 resep.web.id###googlebox
 semprot.com##.semprot_ads
