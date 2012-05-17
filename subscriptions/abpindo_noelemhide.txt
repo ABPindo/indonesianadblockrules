@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: bsQuTNlW1ORd5E6o0rvIxA
+! Checksum: tSDtxfouZrupXcAXGcEX0A
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 20 April 2012, 05:30:57 WIB
+! Last modified 17 May 2012, 13:31:32 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -129,6 +129,7 @@
 ||iklanbisnisindonesia.com^$third-party
 ||iklanbisnisku.com^$third-party
 ||iklanbisnispro.com^$third-party
+||iklanblogger.com^$third-party
 ||iklanbogor.com^$third-party
 ||iklandb.com^$third-party
 ||iklandenpasar.com^$third-party
@@ -393,6 +394,7 @@
 ||173.199.167.192/bb17-iklan.php
 ||admin.ads.indowebster.com^
 ||asiafriendfinder.com^$domain=maknyos.com
+||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||ceri.ws/ads/
 ||ceriwis.us/banner/
@@ -404,6 +406,7 @@
 ||forumkami.net/close.gif
 ||harianjogja.com/img/bnr/
 ||images.indoforum.org/banners/
+||img.cuvso.com^$domain=remo-xp.com
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
@@ -422,6 +425,7 @@
 ||krucil.com/bb17-iklan.php
 ||krucil.net/bb17-iklan.php
 ||lendir.us/images/banner/
+||mediahide.com/ganool/*/banner-ganool.gif
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
 ||modemku.com/image-banner/
@@ -432,6 +436,7 @@
 ||pancet.com/kbads/
 ||perawan.us/images/banner/
 ||perjaka.us/images/banner/
+||remoxp.hostzi.com/banner160x720.jpg
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
 ||static.republika.co.id/files/images/btn_close.png
@@ -450,6 +455,7 @@
 ||agenbo.la^$image,popup
 ||agent926.com^$third-party
 ||alamatemail.com^$third-party
+||alenboby.net^$third-party
 ||alertpay.com/banners/
 ||apmmedia.net^$third-party
 ||arenabola.com^$third-party
@@ -485,6 +491,7 @@
 ||duitbux.com^$third-party
 ||dunia-bisnis.com^$third-party
 ||easy-hit-counter.com^$third-party
+||edomz.com/$popup
 ||empatdns.com^$third-party
 ||enjoybux.com^$third-party
 ||fairbet88.com^$popup,third-party
