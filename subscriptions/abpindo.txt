@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: qhoDYZqGjj4hP9q+gR5fHA
+! Checksum: 3zYhrP6ezYTAXcsP8DWmsg
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 17 May 2012, 13:31:32 WIB
+! Last modified: 28 May 2012, 17:16:00 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -544,7 +544,6 @@
 ||ceri.ws/ads/
 ||ceriwis.us/banner/
 ||chip.co.id/microsite/frame/index.html
-||csstatic.com/banners/
 ||ebsoft.web.id/wp-content/banners/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
@@ -557,8 +556,11 @@
 ||indomp3z.us/banner/
 ||indowebster.com/js/link_converter.js
 ||inilah.com/assets/image/airasia/skin-
+||kad.kaskus.co.id/banner/$subdocument
 ||kad.kaskus.us/banner/$subdocument
 ||kapanlagi.com^*/banner/
+||kaskus.co.id/adv/
+||kaskus.co.id/images/adv/
 ||kaskus.us/adv/
 ||kaskus.us/images/adv/
 ||kawin.us/images/banner/
@@ -632,6 +634,8 @@ duniabaca.com##.banner
 forumbebas.com###topbar
 forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
+forumkami.net##.floating_left
+forumkami.net##.floating_right
 forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:11px;padding-left:9px;border: 1px solid #B8B8B8;"]
 forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:9px;padding-left:9px;border: 1px solid #B8B8B8;"]
 forumkami.net##div[style="width:968px;height:261px;margin:1px;border:1px solid #A1A1A1;"]
@@ -676,6 +680,21 @@ kapanlagi.com###v5-showcase1
 kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
 kapanlagi.com###v5-topframe
+kaskus.co.id###BannerAts
+kaskus.co.id###BannerBwh
+kaskus.co.id###Conho01Left
+kaskus.co.id###Conho01midd
+kaskus.co.id###Conho01right
+kaskus.co.id###Middle_blue
+kaskus.co.id###Middlehome021
+kaskus.co.id###Middlenahome1
+kaskus.co.id###a6d05129
+kaskus.co.id###ab712af0
+kaskus.co.id###cntysm
+kaskus.co.id##a[href="http://kad.kaskus.co.id"]
+kaskus.co.id##a[href="http://kad.kaskus.co.id/"]
+kaskus.co.id##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] + div[style="height:30px"]
+kaskus.co.id##img[src="images/spacer.gif"]
 kaskus.us###BannerAts
 kaskus.us###BannerBwh
 kaskus.us###Conho01Left

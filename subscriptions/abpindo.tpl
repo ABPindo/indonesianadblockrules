@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 17 May 2012, 13:31:32 WIB
+# Last modified: 28 May 2012, 17:16:00 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -538,7 +538,6 @@ msFilterList
 -d ceri.ws /ads/
 -d ceriwis.us /banner/
 -d chip.co.id /microsite/frame/index.html
--d csstatic.com /banners/
 -d ebsoft.web.id /wp-content/banners/
 -d forumkami.net /ad125x125/
 -d forumkami.net /ad200x50/
@@ -551,8 +550,11 @@ msFilterList
 -d indomp3z.us /banner/
 -d indowebster.com /js/link_converter.js
 -d inilah.com /assets/image/airasia/skin-
+# ||kad.kaskus.co.id/banner/$subdocument
 # ||kad.kaskus.us/banner/$subdocument
 -d kapanlagi.com /banner/
+-d kaskus.co.id /adv/
+-d kaskus.co.id /images/adv/
 -d kaskus.us /adv/
 -d kaskus.us /images/adv/
 -d kawin.us /images/banner/
@@ -613,6 +615,8 @@ msFilterList
 # downloadmoviesfree.net###samdav-wrapper
 # duniabaca.com##.banner
 # forumbebas.com###topbar
+# forumkami.net##.floating_left
+# forumkami.net##.floating_right
 # galeri.indonesiaselebriti.com###bannerbesar
 # gambarkeren.info##.iklankotak1
 # ganool.com###ad2_footer
@@ -637,6 +641,17 @@ msFilterList
 # kapanlagi.com###v5-showcase2
 # kapanlagi.com###v5-showcase3
 # kapanlagi.com###v5-topframe
+# kaskus.co.id###BannerAts
+# kaskus.co.id###BannerBwh
+# kaskus.co.id###Conho01Left
+# kaskus.co.id###Conho01midd
+# kaskus.co.id###Conho01right
+# kaskus.co.id###Middle_blue
+# kaskus.co.id###Middlehome021
+# kaskus.co.id###Middlenahome1
+# kaskus.co.id###a6d05129
+# kaskus.co.id###ab712af0
+# kaskus.co.id###cntysm
 # kaskus.us###BannerAts
 # kaskus.us###BannerBwh
 # kaskus.us###Conho01Left
