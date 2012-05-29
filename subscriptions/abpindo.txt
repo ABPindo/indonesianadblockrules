@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 3zYhrP6ezYTAXcsP8DWmsg
+! Checksum: WONyOGq/chaKVHyj81zaBw
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 28 May 2012, 17:16:00 WIB
+! Last modified: 29 May 2012, 14:46:44 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -28,6 +28,7 @@
 ! *** abpindo_general_hide.txt ***
 ###Box-Banner-ads
 ###ad_global_below_navbar
+###adsground
 ###adv-placeholder
 ###bottom_exclusive_ads
 ###desaiklan
@@ -545,6 +546,7 @@
 ||ceriwis.us/banner/
 ||chip.co.id/microsite/frame/index.html
 ||ebsoft.web.id/wp-content/banners/
+||ewetot.com^$image,object,domain=bintangmawar.net
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||forumkami.net/close.gif
@@ -642,10 +644,6 @@ forumkami.net##div[style="width:968px;height:261px;margin:1px;border:1px solid #
 forumkami.net##div[style="width:968px;height:90px;background-color:#FFE0EB;border:1px solid #A1A1A1;"]
 galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
-ganool.com###ad2_footer
-ganool.com###pateni
-ganool.com##.banner-right.clearfix
-ganool.com##.close
 google.co.id###rhs_block
 google.co.id##table[style="border: 1px solid #0000CC"]
 google.co.id##table[style="border: 1px solid #11593c"]
@@ -680,36 +678,28 @@ kapanlagi.com###v5-showcase1
 kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
 kapanlagi.com###v5-topframe
-kaskus.co.id###BannerAts
-kaskus.co.id###BannerBwh
-kaskus.co.id###Conho01Left
-kaskus.co.id###Conho01midd
-kaskus.co.id###Conho01right
-kaskus.co.id###Middle_blue
-kaskus.co.id###Middlehome021
-kaskus.co.id###Middlenahome1
-kaskus.co.id###a6d05129
-kaskus.co.id###ab712af0
-kaskus.co.id###cntysm
-kaskus.co.id##a[href="http://kad.kaskus.co.id"]
-kaskus.co.id##a[href="http://kad.kaskus.co.id/"]
-kaskus.co.id##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] + div[style="height:30px"]
-kaskus.co.id##img[src="images/spacer.gif"]
-kaskus.us###BannerAts
-kaskus.us###BannerBwh
-kaskus.us###Conho01Left
-kaskus.us###Conho01midd
-kaskus.us###Conho01right
-kaskus.us###Middle_blue
-kaskus.us###Middlehome021
-kaskus.us###Middlenahome1
-kaskus.us###a6d05129
-kaskus.us###ab712af0
-kaskus.us###cntysm
-kaskus.us##a[href="http://kad.kaskus.us"]
-kaskus.us##a[href="http://kad.kaskus.us/"]
-kaskus.us##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] + div[style="height:30px"]
-kaskus.us##img[src="images/spacer.gif"]
+kaskus.co.id,kaskus.com,kaskus.us###BannerAts
+kaskus.co.id,kaskus.com,kaskus.us###BannerBwh
+kaskus.co.id,kaskus.com,kaskus.us###Conho01Left
+kaskus.co.id,kaskus.com,kaskus.us###Conho01midd
+kaskus.co.id,kaskus.com,kaskus.us###Conho01right
+kaskus.co.id,kaskus.com,kaskus.us###Middle_blue
+kaskus.co.id,kaskus.com,kaskus.us###Middlehome021
+kaskus.co.id,kaskus.com,kaskus.us###Middlenahome1
+kaskus.co.id,kaskus.com,kaskus.us###a6d05129
+kaskus.co.id,kaskus.com,kaskus.us###ab712af0
+kaskus.co.id,kaskus.com,kaskus.us###cntysm
+kaskus.co.id,kaskus.com,kaskus.us##a[href^="http://kad.kaskus."]
+kaskus.co.id,kaskus.com,kaskus.us##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] + div[style="height:30px"]
+kaskus.co.id,kaskus.com,kaskus.us##img[src="images/spacer.gif"]
+kerangbulu.com,krngbl.com###floatads-kanan
+kerangbulu.com,krngbl.com###floatads-kiri
+kerangbulu.com,krngbl.com###floatadsWrapper-kanan
+kerangbulu.com,krngbl.com###floatadsWrapper-kiri
+kerangbulu.com,krngbl.com##.kerbul-botads
+kerangbulu.com,krngbl.com##.kerbul-facebook.kerbul-image-border
+kerangbulu.com,krngbl.com##.kerbul-innerads
+kerangbulu.com,krngbl.com##.kerbul-topads.kerbul-centered
 kikil.org###content-wrap7 td[style="padding-left: 15px"]
 kikil.org##.exampleboxshadowa
 kikil.org##.exampleboxshadowb

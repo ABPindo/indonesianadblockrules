@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 28 May 2012, 17:16:00 WIB
+# Last modified: 29 May 2012, 14:46:44 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -27,6 +27,7 @@ msFilterList
 # *** abpindo_general_hide.txt ***
 # ###Box-Banner-ads
 # ###ad_global_below_navbar
+# ###adsground
 # ###adv-placeholder
 # ###bottom_exclusive_ads
 # ###desaiklan
@@ -539,6 +540,7 @@ msFilterList
 -d ceriwis.us /banner/
 -d chip.co.id /microsite/frame/index.html
 -d ebsoft.web.id /wp-content/banners/
+# ||ewetot.com^$image,object,domain=bintangmawar.net
 -d forumkami.net /ad125x125/
 -d forumkami.net /ad200x50/
 -d forumkami.net /close.gif
@@ -619,10 +621,6 @@ msFilterList
 # forumkami.net##.floating_right
 # galeri.indonesiaselebriti.com###bannerbesar
 # gambarkeren.info##.iklankotak1
-# ganool.com###ad2_footer
-# ganool.com###pateni
-# ganool.com##.banner-right.clearfix
-# ganool.com##.close
 # google.co.id###rhs_block
 # google.com###rhs_block
 # google.com##.c0.lti35t
@@ -641,28 +639,25 @@ msFilterList
 # kapanlagi.com###v5-showcase2
 # kapanlagi.com###v5-showcase3
 # kapanlagi.com###v5-topframe
-# kaskus.co.id###BannerAts
-# kaskus.co.id###BannerBwh
-# kaskus.co.id###Conho01Left
-# kaskus.co.id###Conho01midd
-# kaskus.co.id###Conho01right
-# kaskus.co.id###Middle_blue
-# kaskus.co.id###Middlehome021
-# kaskus.co.id###Middlenahome1
-# kaskus.co.id###a6d05129
-# kaskus.co.id###ab712af0
-# kaskus.co.id###cntysm
-# kaskus.us###BannerAts
-# kaskus.us###BannerBwh
-# kaskus.us###Conho01Left
-# kaskus.us###Conho01midd
-# kaskus.us###Conho01right
-# kaskus.us###Middle_blue
-# kaskus.us###Middlehome021
-# kaskus.us###Middlenahome1
-# kaskus.us###a6d05129
-# kaskus.us###ab712af0
-# kaskus.us###cntysm
+# kaskus.co.id,kaskus.com,kaskus.us###BannerAts
+# kaskus.co.id,kaskus.com,kaskus.us###BannerBwh
+# kaskus.co.id,kaskus.com,kaskus.us###Conho01Left
+# kaskus.co.id,kaskus.com,kaskus.us###Conho01midd
+# kaskus.co.id,kaskus.com,kaskus.us###Conho01right
+# kaskus.co.id,kaskus.com,kaskus.us###Middle_blue
+# kaskus.co.id,kaskus.com,kaskus.us###Middlehome021
+# kaskus.co.id,kaskus.com,kaskus.us###Middlenahome1
+# kaskus.co.id,kaskus.com,kaskus.us###a6d05129
+# kaskus.co.id,kaskus.com,kaskus.us###ab712af0
+# kaskus.co.id,kaskus.com,kaskus.us###cntysm
+# kerangbulu.com,krngbl.com###floatads-kanan
+# kerangbulu.com,krngbl.com###floatads-kiri
+# kerangbulu.com,krngbl.com###floatadsWrapper-kanan
+# kerangbulu.com,krngbl.com###floatadsWrapper-kiri
+# kerangbulu.com,krngbl.com##.kerbul-botads
+# kerangbulu.com,krngbl.com##.kerbul-facebook.kerbul-image-border
+# kerangbulu.com,krngbl.com##.kerbul-innerads
+# kerangbulu.com,krngbl.com##.kerbul-topads.kerbul-centered
 # kikil.org##.exampleboxshadowa
 # kikil.org##.exampleboxshadowb
 # kikil.org##.exampleboxshadowc
