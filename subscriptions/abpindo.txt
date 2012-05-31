@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: WONyOGq/chaKVHyj81zaBw
+! Checksum: YNZ9uLGeJsKMAswc6IP02Q
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 29 May 2012, 14:46:44 WIB
+! Last modified: 31 May 2012, 22:30:45 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -559,10 +559,13 @@
 ||indowebster.com/js/link_converter.js
 ||inilah.com/assets/image/airasia/skin-
 ||kad.kaskus.co.id/banner/$subdocument
+||kad.kaskus.com/banner/$subdocument
 ||kad.kaskus.us/banner/$subdocument
 ||kapanlagi.com^*/banner/
 ||kaskus.co.id/adv/
 ||kaskus.co.id/images/adv/
+||kaskus.com/adv/
+||kaskus.com/images/adv/
 ||kaskus.us/adv/
 ||kaskus.us/images/adv/
 ||kawin.us/images/banner/
@@ -644,6 +647,7 @@ forumkami.net##div[style="width:968px;height:261px;margin:1px;border:1px solid #
 forumkami.net##div[style="width:968px;height:90px;background-color:#FFE0EB;border:1px solid #A1A1A1;"]
 galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
+ganool.com##blink
 google.co.id###rhs_block
 google.co.id##table[style="border: 1px solid #0000CC"]
 google.co.id##table[style="border: 1px solid #11593c"]

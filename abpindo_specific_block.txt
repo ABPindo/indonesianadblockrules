@@ -20,10 +20,13 @@
 ||indowebster.com/js/link_converter.js
 ||inilah.com/assets/image/airasia/skin-
 ||kad.kaskus.co.id/banner/$subdocument
+||kad.kaskus.com/banner/$subdocument
 ||kad.kaskus.us/banner/$subdocument
 ||kapanlagi.com^*/banner/
 ||kaskus.co.id/adv/
 ||kaskus.co.id/images/adv/
+||kaskus.com/adv/
+||kaskus.com/images/adv/
 ||kaskus.us/adv/
 ||kaskus.us/images/adv/
 ||kawin.us/images/banner/

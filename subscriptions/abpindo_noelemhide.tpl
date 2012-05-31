@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 29 May 2012, 14:46:44 WIB
+# Last modified 31 May 2012, 22:30:45 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -412,10 +412,13 @@ msFilterList
 -d indowebster.com /js/link_converter.js
 -d inilah.com /assets/image/airasia/skin-
 # ||kad.kaskus.co.id/banner/$subdocument
+# ||kad.kaskus.com/banner/$subdocument
 # ||kad.kaskus.us/banner/$subdocument
 -d kapanlagi.com /banner/
 -d kaskus.co.id /adv/
 -d kaskus.co.id /images/adv/
+-d kaskus.com /adv/
+-d kaskus.com /images/adv/
 -d kaskus.us /adv/
 -d kaskus.us /images/adv/
 -d kawin.us /images/banner/
