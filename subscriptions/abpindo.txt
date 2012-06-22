@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: UlD4HdcTNIrVU/kTMXr7BA
+! Checksum: IoeQmX6pusvFyb1nUKpFNg
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 08 June 2012, 17:12:54 WIB
+! Last modified: 22 June 2012, 08:20:59 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -37,6 +37,7 @@
 ###floating_banner_top
 ###floatingad
 ###iklanpersegi
+###squaread
 ###top_ad_full
 ##.SectionAds
 ##.ad_primex
@@ -658,6 +659,7 @@ gugling.com##.ad336x280atas
 i-comers.com##.alt1[nowrap="nowrap"]
 i-comers.com##.simple_advert
 ibuprita.suatuhari.com##.box > .textwidget > center
+icinema3satu.com###FloatAlamindawa
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
 indo.kerangbulu.com##center > div[style="width:728px; border:0px solid #dfdfdf;"]
@@ -732,7 +734,11 @@ lapar.com##.banner_box
 lapar.com##.banner_main
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 lapar.com##.top-banner
+lintas.me###Advertisement
+lintas.me###facebox_overlay
 lintas.me###leaderbpard
+lintas.me###showcasedown
+lintas.me##.popup
 lintasberita.com##div[style="position: fixed; top: 130px; left: 1185px; width: 125px; height: 600px; background-color:transparent;"]
 lintasberita.com##div[style="position: fixed; top: 130px; left: 1px; width: 125px; height: 600px; background-color:transparent;"]
 lintasberita.com##img[src="http://www.lintasberita.com/public/images/spacer.gif"]
@@ -746,6 +752,7 @@ metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * td
 okezone.com##img[src*="/images/ad/"]
 oktavita.com##.banner-zone
+register.plasa.com###ad5
 remo-xp.com##img[alt="iklan 440x90"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 resep.web.id###googlebox
@@ -757,6 +764,10 @@ tempo.co##.closebanner2
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
+thehack3r.com##[align="center"] + [align="center"] + [align="center"] + p[align="center"]
+thehack3r.com##[align="center"] + [align="center"] + p[align="center"]
+thehack3r.com##[align="center"] + p[align="center"]
+thehack3r.com##img[src="/img/maxbet.gif"]
 thehack3r.com##img[width="728"][height="90"]
 topterunik.com###topbar
 tribunnews.com###bannerku

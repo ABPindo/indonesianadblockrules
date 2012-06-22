@@ -1,9 +1,0 @@
-[Adblock Plus 1.1]
-! daftar putih saya
-! Homepage: http://abpindo.blogspot.com/
-! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
-! via e-mail (hermawanadhis@gmail.com)
-!
-@@||batoto.com^$document
-@@||forums.mozillazine.org^$document
-@@||mangaupdates.com^$document
