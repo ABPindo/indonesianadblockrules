@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: IoeQmX6pusvFyb1nUKpFNg
+! Checksum: eX83fAEXZkxbnprU7NtPug
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 22 June 2012, 08:20:59 WIB
+! Last modified: 27 June 2012, 08:16:05 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -589,6 +589,7 @@
 ||pancet.com/kbads/
 ||perawan.us/images/banner/
 ||perjaka.us/images/banner/
+||ranjangternoda.com/images/banner/
 ||remoxp.hostzi.com/banner160x720.jpg
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
@@ -720,6 +721,7 @@ komikbaru.com##.iklan_kiri
 komikbaru.com##img[alt="Pemasangan Iklan"]
 kompas.com##img[src="http://img.ads.kompas.com/bannerlink/close.gif"]
 kompasiana.com###anchormasklink
+krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 krisna.web.id##img[style="width: 728px; height: 90px;"]
 krngbl.com##div[style="width:728px; border:0px solid #dfdfdf;"]
 krucil.com##.fixmeInner
@@ -748,6 +750,7 @@ m.iklanbaris.detik.com##.adtext01
 m.inilah.com##a[href^="http://mkhoj.com"]
 m.kapanlagi.com##.advertise_box
 mangafox.com##.ad728x90.left + .right
+mangafox.me##.ad.b300x250.r
 metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * td
 okezone.com##img[src*="/images/ad/"]
