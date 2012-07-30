@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 27 June 2012, 08:16:05 WIB
+# Last modified: 30 July 2012, 09:14:27 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -571,6 +571,7 @@ msFilterList
 -d koranlokal.com /point1.php
 -d krucil.com /bb17-iklan.php
 -d krucil.net /bb17-iklan.php
+# ||lendir.org/banner/$image,third-party
 -d lendir.us /images/banner/
 -d mediahide.com /ganool/*/banner-ganool.gif
 -d mediaindonesia.com /public/banner/flash/
@@ -624,6 +625,9 @@ msFilterList
 # forumbebas.com###topbar
 # forumkami.net##.floating_left
 # forumkami.net##.floating_right
+# galaxymaya.com###teaser2
+# galaxymaya.com###teaser3
+# galaxymaya.com##.widget-content
 # galeri.indonesiaselebriti.com###bannerbesar
 # gambarkeren.info##.iklankotak1
 # ganool.com##blink
@@ -672,6 +676,7 @@ msFilterList
 # kolomunik.com###topbar
 # komikbaru.com##.iklan_kiri
 # kompasiana.com###anchormasklink
+# krucil.com###floatdiv.notice
 # krucil.com##.fixmeInner
 # krucil.net##.fixmeInner
 # lapar.com##.banner_box
@@ -688,6 +693,7 @@ msFilterList
 # m.kapanlagi.com##.advertise_box
 # mangafox.com##.ad728x90.left + .right
 # mangafox.me##.ad.b300x250.r
+# mangafox.me##.ad.b336x280.r
 # metrotvnews.com###fixme
 # nyit-nyit.net###adn89 + * td
 # oktavita.com##.banner-zone
