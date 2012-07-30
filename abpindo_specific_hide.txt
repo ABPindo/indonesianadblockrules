@@ -35,6 +35,7 @@ downloadmoviesfree.net###samdav-loading
 downloadmoviesfree.net###samdav-locker
 downloadmoviesfree.net###samdav-wrapper
 duniabaca.com##.banner
+duniasex.ws##.middletext + [align="center"] + p[style="text-align: center;"]
 forumbebas.com###topbar
 forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
@@ -44,6 +45,9 @@ forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; paddin
 forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:9px;padding-left:9px;border: 1px solid #B8B8B8;"]
 forumkami.net##div[style="width:968px;height:261px;margin:1px;border:1px solid #A1A1A1;"]
 forumkami.net##div[style="width:968px;height:90px;background-color:#FFE0EB;border:1px solid #A1A1A1;"]
+galaxymaya.com###teaser2
+galaxymaya.com###teaser3
+galaxymaya.com##.widget-content
 galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
 ganool.com##blink
@@ -120,6 +124,7 @@ kompasiana.com###anchormasklink
 krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 krisna.web.id##img[style="width: 728px; height: 90px;"]
 krngbl.com##div[style="width:728px; border:0px solid #dfdfdf;"]
+krucil.com###floatdiv.notice
 krucil.com##.fixmeInner
 krucil.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.com##center > font[size="1"]
@@ -147,6 +152,7 @@ m.inilah.com##a[href^="http://mkhoj.com"]
 m.kapanlagi.com##.advertise_box
 mangafox.com##.ad728x90.left + .right
 mangafox.me##.ad.b300x250.r
+mangafox.me##.ad.b336x280.r
 metrotvnews.com###fixme
 nyit-nyit.net###adn89 + * td
 okezone.com##img[src*="/images/ad/"]
