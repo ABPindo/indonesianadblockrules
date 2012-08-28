@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 8IY3S51cL4lI+eaif1tcSA
+! Checksum: brhYk/I8iB+vy8NyH0+34Q
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 12 August 2012, 13:34:55 WIB
+! Last modified: 28 August 2012, 09:17:28 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -745,7 +745,6 @@ lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width
 lapar.com##.top-banner
 lintas.me###Advertisement
 lintas.me###facebox_overlay
-lintas.me###leaderbpard
 lintas.me###showcasedown
 lintas.me##.popup
 lintasberita.com##div[style="position: fixed; top: 130px; left: 1185px; width: 125px; height: 600px; background-color:transparent;"]
