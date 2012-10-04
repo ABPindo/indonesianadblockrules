@@ -1,5 +1,3 @@
-mangafox.me###right-skyscraper
-mangafox.me###left-skyscraper
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 173.199.167.192##center > font[size="1"]
 173.199.167.192##td[width="305"]:last-child
@@ -65,6 +63,7 @@ ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com###FloatAlamindawa
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
+idfl.us###ad_global_below_navbar
 indo.kerangbulu.com##center > div[style="width:728px; border:0px solid #dfdfdf;"]
 indobokepz.com##div[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##div[style="text-align:center; padding:5px 0;"]
@@ -89,6 +88,7 @@ kapanlagi.com###v5-showcase1
 kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
 kapanlagi.com###v5-topframe
+kapanlagi.com##a[onmouseout="this.style.textDecoration = 'none'"][onmouseover="this.style.textDecoration = 'underline'"][href*="&bannerid="]mangafox.me###right-skyscraper
 kaskus.co.id,kaskus.com,kaskus.us###BannerAts
 kaskus.co.id,kaskus.com,kaskus.us###BannerBwh
 kaskus.co.id,kaskus.com,kaskus.us###Conho01Left
@@ -152,6 +152,7 @@ m.iklanbaris.detik.com##.adtext01
 m.inilah.com##a[href^="http://mkhoj.com"]
 m.kapanlagi.com##.advertise_box
 mangafox.com##.ad728x90.left + .right
+mangafox.me###left-skyscraper
 mangafox.me##.ad.b300x250.r
 mangafox.me##.ad.b336x280.r
 metrotvnews.com###fixme
