@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 04 October 2012, 18:07:30 WIB
+# Last modified: 19 October 2012, 19:53:47 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -14,8 +14,6 @@ msFilterList
 # .id/ads/$~object-subrequest
 - .id/iklan/
 - .net/iklan/
-- /iklan-
-# /iklan.$~stylesheet
 - /images/iklan/
 - /img/promo/
 # /promo.$popup
@@ -629,7 +627,6 @@ msFilterList
 # galaxymaya.com##.widget-content
 # galeri.indonesiaselebriti.com###bannerbesar
 # gambarkeren.info##.iklankotak1
-# ganool.com##blink
 # google.co.id###rhs_block
 # google.com###rhs_block
 # google.com##.c0.lti35t
@@ -643,14 +640,6 @@ msFilterList
 # indosiar.com###headerbanner
 # inilah.com###anchormasklink
 # jurigjarian.com###topbar
-# kapanlagi.com###topbanner
-# kapanlagi.com###v5-leaderboard
-# kapanlagi.com###v5-marcommpromotion
-# kapanlagi.com###v5-mobilepromotion
-# kapanlagi.com###v5-showcase1
-# kapanlagi.com###v5-showcase2
-# kapanlagi.com###v5-showcase3
-# kapanlagi.com###v5-topframe
 # kaskus.co.id,kaskus.com,kaskus.us###BannerAts
 # kaskus.co.id,kaskus.com,kaskus.us###BannerBwh
 # kaskus.co.id,kaskus.com,kaskus.us###Conho01Left
@@ -677,6 +666,7 @@ msFilterList
 # komikbaru.com##.iklan_kiri
 # kompasiana.com###anchormasklink
 # krucil.com###floatdiv.notice
+# krucil.com###floating_banner_bottom
 # krucil.com##.fixmeInner
 # krucil.net##.fixmeInner
 # lapar.com##.banner_box
@@ -692,6 +682,7 @@ msFilterList
 # m.kapanlagi.com##.advertise_box
 # mangafox.com##.ad728x90.left + .right
 # mangafox.me###left-skyscraper
+# mangafox.me###right-skyscraper
 # mangafox.me##.ad.b300x250.r
 # mangafox.me##.ad.b336x280.r
 # metrotvnews.com###fixme

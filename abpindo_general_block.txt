@@ -2,8 +2,6 @@
 .id/ads/$~object-subrequest
 .id/iklan/
 .net/iklan/
-/iklan-
-/iklan.$~stylesheet
 /images/iklan/*
 /img/promo/*
 /promo.$popup
