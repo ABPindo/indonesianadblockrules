@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Indonesian AdBlockRules (ABPindo) - supplement for indonesian website
-! Last modified: 04 October 2012, 18:06:29 WIB
+! Last modified: 29 October 2012, 07:31:30 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -14,8 +14,6 @@
 .id/ads/$~object-subrequest
 .id/iklan/
 .net/iklan/
-/iklan-
-/iklan.$~stylesheet
 /images/iklan/*
 /img/promo/*
 /promo.$popup
@@ -48,6 +46,7 @@
 ##a[href*="usahaberhasil.com"]
 ##a[target="_blank"][href*="bursabet.com"]
 ##a[target="_blank"][href*="multibet88.com"]
+##a[target="_blank"][href*="usahaberhasil.com"]
 ##img[alt="Pasang Iklan Murah"]
 ##img[alt="Space Iklan"]
 ! *** abpindo_adservers.txt ***
@@ -565,8 +564,6 @@
 ||kaskus.co.id/images/adv/
 ||kaskus.com/adv/
 ||kaskus.com/images/adv/
-||kaskus.us/adv/
-||kaskus.us/images/adv/
 ||kawin.us/images/banner/
 ||kikil.org/forum/banner/
 ||kompas.com/data/banner/
@@ -612,6 +609,7 @@ blogspot.com###topbar
 bluefame.com##center img[height="90"][width="728"]
 catatankomputer.com##.forads .alignleft
 ceriwis.us###hoho-wrapsubmenu3
+click-me.us##img[style="width: 728px; height: 90px;"]
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
@@ -653,7 +651,6 @@ galaxymaya.com###teaser3
 galaxymaya.com##.widget-content
 galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
-ganool.com##blink
 google.co.id###rhs_block
 google.co.id##table[style="border: 1px solid #0000CC"]
 google.co.id##table[style="border: 1px solid #11593c"]
@@ -683,29 +680,7 @@ infobill.telkom.co.id##.txt_normal[width="100%"][align="center"]
 inilah.com###anchormasklink
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 jurigjarian.com###topbar
-kapanlagi.com###topbanner
-kapanlagi.com###v5-leaderboard
-kapanlagi.com###v5-marcommpromotion
-kapanlagi.com###v5-mobilepromotion
-kapanlagi.com###v5-showcase1
-kapanlagi.com###v5-showcase2
-kapanlagi.com###v5-showcase3
-kapanlagi.com###v5-topframe
-kapanlagi.com##a[onmouseout="this.style.textDecoration = 'none'"][onmouseover="this.style.textDecoration = 'underline'"][href*="&bannerid="]mangafox.me###right-skyscraper
-kaskus.co.id,kaskus.com,kaskus.us###BannerAts
-kaskus.co.id,kaskus.com,kaskus.us###BannerBwh
-kaskus.co.id,kaskus.com,kaskus.us###Conho01Left
-kaskus.co.id,kaskus.com,kaskus.us###Conho01midd
-kaskus.co.id,kaskus.com,kaskus.us###Conho01right
-kaskus.co.id,kaskus.com,kaskus.us###Middle_blue
-kaskus.co.id,kaskus.com,kaskus.us###Middlehome021
-kaskus.co.id,kaskus.com,kaskus.us###Middlenahome1
-kaskus.co.id,kaskus.com,kaskus.us###a6d05129
-kaskus.co.id,kaskus.com,kaskus.us###ab712af0
-kaskus.co.id,kaskus.com,kaskus.us###cntysm
-kaskus.co.id,kaskus.com,kaskus.us##a[href^="http://kad.kaskus."]
-kaskus.co.id,kaskus.com,kaskus.us##div[style="position:fixed; width:100%; z-index:99;background:#fff;"] + div[style="height:30px"]
-kaskus.co.id,kaskus.com,kaskus.us##img[src="images/spacer.gif"]
+kaskus.co.id,kaskus.com##a[href^="http://kad.kaskus."]
 kerangbulu.com,krngbl.com###floatads-kanan
 kerangbulu.com,krngbl.com###floatads-kiri
 kerangbulu.com,krngbl.com###floatadsWrapper-kanan
@@ -730,6 +705,7 @@ krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 krisna.web.id##img[style="width: 728px; height: 90px;"]
 krngbl.com##div[style="width:728px; border:0px solid #dfdfdf;"]
 krucil.com###floatdiv.notice
+krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
 krucil.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.com##center > font[size="1"]
@@ -756,6 +732,7 @@ m.inilah.com##a[href^="http://mkhoj.com"]
 m.kapanlagi.com##.advertise_box
 mangafox.com##.ad728x90.left + .right
 mangafox.me###left-skyscraper
+mangafox.me###right-skyscraper
 mangafox.me##.ad.b300x250.r
 mangafox.me##.ad.b336x280.r
 metrotvnews.com###fixme

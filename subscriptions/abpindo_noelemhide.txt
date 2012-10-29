@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: /vBJq02GqZYo0FQzFUxU0Q
+! Checksum: 7GF5/ra+G37cFN7TKmxIEA
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 20 October 2012, 08:05:00 WIB
+! Last modified 29 October 2012, 07:32:36 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -418,8 +418,6 @@
 ||kaskus.co.id/images/adv/
 ||kaskus.com/adv/
 ||kaskus.com/images/adv/
-||kaskus.us/adv/
-||kaskus.us/images/adv/
 ||kawin.us/images/banner/
 ||kikil.org/forum/banner/
 ||kompas.com/data/banner/
