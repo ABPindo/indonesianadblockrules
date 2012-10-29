@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # JBet - filter untuk menghindari Jebakan Betmen
-# Last modified 20 October 2012, 08:05:00 WIB
+# Last modified 29 October 2012, 07:32:36 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -29,7 +29,6 @@ msFilterList
 - http://blink-182.com
 - http://bluewaffle.com
 - http://bmepainolympics2.com
--d bmpclub.bravehost.com /toturial_bug_pb.html
 - http://boi.netai.net
 - http://bokre.com
 - http://bottleguy.com
@@ -53,7 +52,6 @@ msFilterList
 -d esc-creation.com /scream
 - http://fadebook.com
 - http://fanbangho.com
-- http://faojand-injector.blogspot.com
 - http://festered.com
 - http://fingerslam.com
 - http://fishermen.ytmnd.com
@@ -88,13 +86,11 @@ msFilterList
 - http://jewsnip.com
 - http://joyangeles.com
 - http://k-k-k.com
-- http://kenapa-ini.blogspot.com
 - http://kids-in-sandbox.com
 - http://killerijo.com
 - http://killerijo.net
 - http://killerjo.net
 - http://kingfamilyphotoalbum.com
--d kiwil-curhat.page.tl /jangan-di-klik.htm
 - http://kombre.co.cc
 - http://krnacjalneg.info
 - http://l33thaxor.tk
@@ -174,9 +170,7 @@ msFilterList
 - http://theshithole.com
 - http://thewillpower.org
 - http://turdgasm.com
-- http://tutorialbloganda.blogspot.com
 - http://ugly.blerp.org
--d urangsunda.50webs.com /noclick.html
 - http://utube.com
 - http://vomitgirl.org
 - http://wadefamilytree.org

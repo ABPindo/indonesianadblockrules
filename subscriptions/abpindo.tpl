@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 20 October 2012, 08:05:00 WIB
+# Last modified: 29 October 2012, 07:32:36 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -558,8 +558,6 @@ msFilterList
 -d kaskus.co.id /images/adv/
 -d kaskus.com /adv/
 -d kaskus.com /images/adv/
--d kaskus.us /adv/
--d kaskus.us /images/adv/
 -d kawin.us /images/banner/
 -d kikil.org /forum/banner/
 -d kompas.com /data/banner/
@@ -640,17 +638,6 @@ msFilterList
 # indosiar.com###headerbanner
 # inilah.com###anchormasklink
 # jurigjarian.com###topbar
-# kaskus.co.id,kaskus.com,kaskus.us###BannerAts
-# kaskus.co.id,kaskus.com,kaskus.us###BannerBwh
-# kaskus.co.id,kaskus.com,kaskus.us###Conho01Left
-# kaskus.co.id,kaskus.com,kaskus.us###Conho01midd
-# kaskus.co.id,kaskus.com,kaskus.us###Conho01right
-# kaskus.co.id,kaskus.com,kaskus.us###Middle_blue
-# kaskus.co.id,kaskus.com,kaskus.us###Middlehome021
-# kaskus.co.id,kaskus.com,kaskus.us###Middlenahome1
-# kaskus.co.id,kaskus.com,kaskus.us###a6d05129
-# kaskus.co.id,kaskus.com,kaskus.us###ab712af0
-# kaskus.co.id,kaskus.com,kaskus.us###cntysm
 # kerangbulu.com,krngbl.com###floatads-kanan
 # kerangbulu.com,krngbl.com###floatads-kiri
 # kerangbulu.com,krngbl.com###floatadsWrapper-kanan
