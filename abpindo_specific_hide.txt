@@ -7,6 +7,8 @@ asixpoint.com##div[style="padding-top:0px; position: fixed; top:0px;left:0px;wid
 beritateknologi.com###topbar
 blogspot.com###topbar
 bluefame.com##center img[height="90"][width="728"]
+bokep.sibawel.com###skiplinks + #content-wrapper + [style="clear:both;"] + table[height="250"][align="center"]
+bokep.sibawel.com##img[title="Pasang Iklan"]
 catatankomputer.com##.forads .alignleft
 ceriwis.us###hoho-wrapsubmenu3
 click-me.us##img[style="width: 728px; height: 90px;"]
@@ -51,6 +53,7 @@ galaxymaya.com###teaser3
 galaxymaya.com##.widget-content
 galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
+ganool.com##.banner-right.clearfix
 google.co.id###rhs_block
 google.co.id##table[style="border: 1px solid #0000CC"]
 google.co.id##table[style="border: 1px solid #11593c"]
@@ -80,6 +83,13 @@ infobill.telkom.co.id##.txt_normal[width="100%"][align="center"]
 inilah.com###anchormasklink
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 jurigjarian.com###topbar
+kapanlagi.com###v5-leaderboard
+kapanlagi.com###v5-marcommpromotion
+kapanlagi.com###v5-showcase1
+kapanlagi.com###v5-showcase2
+kapanlagi.com###v5-showcase3
+kaskus.co.id##.l-link
+kaskus.co.id##.r-link
 kaskus.co.id,kaskus.com##a[href^="http://kad.kaskus."]
 kerangbulu.com,krngbl.com###floatads-kanan
 kerangbulu.com,krngbl.com###floatads-kiri
@@ -136,6 +146,7 @@ mangafox.me###right-skyscraper
 mangafox.me##.ad.b300x250.r
 mangafox.me##.ad.b336x280.r
 metrotvnews.com###fixme
+microsite.kapanlagi.com###scmicrosite
 nyit-nyit.net###adn89 + * td
 okezone.com##img[src*="/images/ad/"]
 oktavita.com##.banner-zone
