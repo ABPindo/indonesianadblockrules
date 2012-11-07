@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: gewH/R9Qoni2YxJj4dmKdA
+! Checksum: CZDMeFbAbblhrYLvkKlU/w
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 04 November 2012, 19:20:09 WIB
+! Last modified: 07 November 2012, 19:09:22 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -44,12 +44,19 @@
 ##.iklan
 ##.pasangiklan
 ##.topadsense
+##a[href*="bursabet.com"]
+##a[href*="multibet88.com"]
 ##a[href*="usahaberhasil.com"]
-##a[target="_blank"][href*="bursabet.com"]
-##a[target="_blank"][href*="multibet88.com"]
-##a[target="_blank"][href*="usahaberhasil.com"]
-##img[alt="Pasang Iklan Murah"]
-##img[alt="Space Iklan"]
+com##img[alt="Pasang Iklan Murah"]
+com##img[alt="Space Iklan"]
+com##img[alt="Taruhan Bola Online"]
+com##img[title="Agen Bola Online"]
+com##img[title="Agen Bola Terpercaya"]
+com##img[title="Agen Bola"]
+com##img[title="Agen Judi Online"]
+com##img[title="Agen Taruhan Bola Online"]
+com##img[title="Bandar VIP"]
+com##img[title="Pasang Iklan"]
 ! *** abpindo_adservers.txt ***
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
@@ -599,9 +606,6 @@
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
-173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
-173.199.167.192##center > font[size="1"]
-173.199.167.192##td[width="305"]:last-child
 ansav.com##.body > center
 asixfiles.com##div[style="padding-top:5px; position: fixed; top:0px;left:0px;width:100%;height:85px; background-color:#222222;z-index:555555;"]
 asixpoint.com##div[style="padding-top:0px; position: fixed; top:0px;left:0px;width:100%;height:100px; background-color:#000000;z-index:99999999999;"]173.199.167.192###fixme
@@ -612,7 +616,10 @@ bokep.sibawel.com###skiplinks + #content-wrapper + [style="clear:both;"] + table
 bokep.sibawel.com##img[title="Pasang Iklan"]
 catatankomputer.com##.forads .alignleft
 ceriwis.us###hoho-wrapsubmenu3
+cewecewe.com###teaser2
+cewecewe.com###teaser3
 click-me.us##img[style="width: 728px; height: 90px;"]
+clip.cewecewe.com##.ad
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
@@ -655,6 +662,8 @@ galaxymaya.com##.widget-content
 galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
 ganool.com##.banner-right.clearfix
+ganool.com##.banner-right.clearfix[style="width:270px;"]
+ganool.com##[type="text/javascript"] + p + center
 google.co.id###rhs_block
 google.co.id##table[style="border: 1px solid #0000CC"]
 google.co.id##table[style="border: 1px solid #11593c"]
@@ -689,6 +698,7 @@ kapanlagi.com###v5-marcommpromotion
 kapanlagi.com###v5-showcase1
 kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
+kaskus.co.id##.banner-top-ads
 kaskus.co.id##.l-link
 kaskus.co.id##.r-link
 kaskus.co.id,kaskus.com##a[href^="http://kad.kaskus."]
@@ -779,6 +789,7 @@ zonabola.com###afbsports
 zonabola.com###lAds img
 zonabola.com###rAds img
 zonabola.com##img[width="750"][height="75"][border="0"]
+zonamuda.com##td[valign="top"][height="56px"][align="center"]
 ! *** abpindo_whitelist.txt ***
 @@||allgamespy.com/wp-content/themes/adsense-id/style.css
 @@||iklan.okezone.com/images-data/classified/
