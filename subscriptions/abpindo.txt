@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: CZDMeFbAbblhrYLvkKlU/w
+! Checksum: wf2Hyjwjl2ztDYfwhvG7Cw
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 07 November 2012, 19:09:22 WIB
+! Last modified: 12 November 2012, 06:17:13 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -720,7 +720,7 @@ kikil.org##div[style="height:210px; width:250px; overflow:hidden"]
 kolomunik.com###topbar
 komikbaru.com##.iklan_kiri
 komikbaru.com##img[alt="Pemasangan Iklan"]
-kompas.com##img[src="http://img.ads.kompas.com/bannerlink/close.gif"]
+kompas.com##img[src^="http://img.ads."]
 kompasiana.com###anchormasklink
 krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 krisna.web.id##img[style="width: 728px; height: 90px;"]
@@ -759,6 +759,10 @@ mangafox.me##.ad.b336x280.r
 metrotvnews.com###fixme
 microsite.kapanlagi.com###scmicrosite
 nyit-nyit.net###adn89 + * td
+nyunyu.com###footer-banner
+nyunyu.com###gb
+nyunyu.com###gb2
+nyunyu.com##.page_ads img
 okezone.com##img[src*="/images/ad/"]
 oktavita.com##.banner-zone
 register.plasa.com###ad5
@@ -773,6 +777,7 @@ tempo.co##.closebanner2
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
+thehack3r.com##.ad125
 thehack3r.com##[align="center"] + [align="center"] + [align="center"] + p[align="center"]
 thehack3r.com##[align="center"] + [align="center"] + p[align="center"]
 thehack3r.com##[align="center"] + p[align="center"]
