@@ -1,17 +1,17 @@
 ansav.com##.body > center
 asixfiles.com##div[style="padding-top:5px; position: fixed; top:0px;left:0px;width:100%;height:85px; background-color:#222222;z-index:555555;"]
-asixpoint.com##div[style="padding-top:0px; position: fixed; top:0px;left:0px;width:100%;height:100px; background-color:#000000;z-index:99999999999;"]173.199.167.192###fixme
+asixpoint.com##div[style="padding-top:0px; position: fixed; top:0px;left:0px;width:100%;height:100px; background-color:#000000;z-index:99999999999;"]
 beritateknologi.com###topbar
 blogspot.com###topbar
 bluefame.com##center img[height="90"][width="728"]
 bokep.sibawel.com###skiplinks + #content-wrapper + [style="clear:both;"] + table[height="250"][align="center"]
-bokep.sibawel.com##img[title="Pasang Iklan"]
 catatankomputer.com##.forads .alignleft
 ceriwis.us###hoho-wrapsubmenu3
 cewecewe.com###teaser2
 cewecewe.com###teaser3
 click-me.us##img[style="width: 728px; height: 90px;"]
 clip.cewecewe.com##.ad
+clip.cewecewe.com##.ads
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
@@ -53,7 +53,6 @@ galaxymaya.com###teaser3
 galaxymaya.com##.widget-content
 galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
-ganool.com##.banner-right.clearfix
 ganool.com##.banner-right.clearfix[style="width:270px;"]
 ganool.com##[type="text/javascript"] + p + center
 google.co.id###rhs_block
@@ -81,6 +80,7 @@ indogamers.com###IklanIDGS
 indogamers.com###bottombanner
 indosiar.com###headerbanner
 indosiar.com###headerbanner + div[style="height:50px"]
+indowebster.com###iklanNorak
 infobill.telkom.co.id##.txt_normal[width="100%"][align="center"]
 inilah.com###anchormasklink
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
@@ -118,7 +118,6 @@ krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 krisna.web.id##img[style="width: 728px; height: 90px;"]
 krngbl.com##div[style="width:728px; border:0px solid #dfdfdf;"]
 krucil.com###floatdiv.notice
-krucil.com###floating_banner_bottom
 krucil.com##.fixmeInner
 krucil.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.com##center > font[size="1"]
@@ -146,8 +145,6 @@ m.kapanlagi.com##.advertise_box
 mangafox.com##.ad728x90.left + .right
 mangafox.me###left-skyscraper
 mangafox.me###right-skyscraper
-mangafox.me##.ad.b300x250.r
-mangafox.me##.ad.b336x280.r
 metrotvnews.com###fixme
 microsite.kapanlagi.com###scmicrosite
 nyit-nyit.net###adn89 + * td
@@ -169,10 +166,6 @@ tempo.co##.closebanner2
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
-thehack3r.com##.ad125
-thehack3r.com##[align="center"] + [align="center"] + [align="center"] + p[align="center"]
-thehack3r.com##[align="center"] + [align="center"] + p[align="center"]
-thehack3r.com##[align="center"] + p[align="center"]
 thehack3r.com##img[src="/img/maxbet.gif"]
 thehack3r.com##img[width="728"][height="90"]
 topterunik.com###topbar
