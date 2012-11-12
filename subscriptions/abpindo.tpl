@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 12 November 2012, 06:17:13 WIB
+# Last modified: 12 November 2012, 16:47:33 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -248,7 +248,6 @@ msFilterList
 - http://indostats.com
 - http://indovertiser.com
 - http://inmobi.com
-- http://innity.net
 - http://istanaiklan.com
 - http://jagoiklan.com
 - http://jagopromo.com
@@ -600,6 +599,7 @@ msFilterList
 # cewecewe.com###teaser2
 # cewecewe.com###teaser3
 # clip.cewecewe.com##.ad
+# clip.cewecewe.com##.ads
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
@@ -628,7 +628,6 @@ msFilterList
 # galaxymaya.com##.widget-content
 # galeri.indonesiaselebriti.com###bannerbesar
 # gambarkeren.info##.iklankotak1
-# ganool.com##.banner-right.clearfix
 # google.co.id###rhs_block
 # google.com###rhs_block
 # google.com##.c0.lti35t
@@ -640,6 +639,7 @@ msFilterList
 # indogamers.com###IklanIDGS
 # indogamers.com###bottombanner
 # indosiar.com###headerbanner
+# indowebster.com###iklanNorak
 # inilah.com###anchormasklink
 # jurigjarian.com###topbar
 # kapanlagi.com###v5-leaderboard
@@ -665,7 +665,6 @@ msFilterList
 # komikbaru.com##.iklan_kiri
 # kompasiana.com###anchormasklink
 # krucil.com###floatdiv.notice
-# krucil.com###floating_banner_bottom
 # krucil.com##.fixmeInner
 # krucil.net##.fixmeInner
 # lapar.com##.banner_box
@@ -682,8 +681,6 @@ msFilterList
 # mangafox.com##.ad728x90.left + .right
 # mangafox.me###left-skyscraper
 # mangafox.me###right-skyscraper
-# mangafox.me##.ad.b300x250.r
-# mangafox.me##.ad.b336x280.r
 # metrotvnews.com###fixme
 # microsite.kapanlagi.com###scmicrosite
 # nyit-nyit.net###adn89 + * td
@@ -699,7 +696,6 @@ msFilterList
 # tempo.co##.closebanner2
 # tempointeraktif.com###banner-atas
 # tempointeraktif.com###banner-bawah
-# thehack3r.com##.ad125
 # topterunik.com###topbar
 # tribunnews.com###bannerku
 # warungbebas.com##.gbtab
