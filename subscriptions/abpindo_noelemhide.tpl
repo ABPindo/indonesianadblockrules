@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 12 November 2012, 16:47:33 WIB
+# Last modified 20 November 2012, 08:53:29 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -453,6 +453,7 @@ msFilterList
 - http://1bisnisonline.com
 - http://39bola.com
 - http://988bet.com
+- http://ad.mstars.dpy.sofialys.net
 - http://agenasia88.com
 # ||agenbo.la^$image,popup
 - http://agent926.com
