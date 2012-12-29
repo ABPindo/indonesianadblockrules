@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 26 December 2012, 00:04:00 WIB
+# Last modified 29 December 2012, 14:01:30 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -434,15 +434,12 @@ msFilterList
 # ||agenbo.la^$image,popup
 - http://agent926.com
 - http://alamatemail.com
-- http://alenboby.net
 -d alertpay.com /banners/
 - http://apmmedia.net
 - http://arenabola.com
 - http://arisanvip.com
 -d asianbrain.com /banner/
-- http://bannerhp.com
 - http://bekas.com
-- http://benangmerah.com
 # ||betwin188.com^$image,third-party
 - http://bintangbola.net
 - http://bisnisgratis.net
@@ -458,7 +455,6 @@ msFilterList
 -d bolavegas.com /ads/
 - http://bravevolitation.com
 - http://bux-matrix.com
-- http://buxrupiah.com
 - http://cash-harvest.com
 -d cashburners.biz /banners/
 - http://chainbux.com
@@ -471,14 +467,12 @@ msFilterList
 - http://dunia-bisnis.com
 - http://easy-hit-counter.com
 # ||edomz.com/$popup
-- http://empatdns.com
 - http://enjoybux.com
 # ||fairbet88.com^$popup,third-party
 - http://fellowequality.com
 - http://folderbisnis.com
 - http://forexpose.com
 -d formulabisnis.com /images/
-- http://fox-bux.com
 - http://funds4cash.com
 - http://gajigratis.com
 - http://galaxybola.com
@@ -499,7 +493,6 @@ msFilterList
 - http://komisigratis.com
 - http://kumpuljutawan.com
 # ||legal-earning.com^$subdocument,third-party
-- http://libertygold-kita.com
 - http://link2communion.com
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
@@ -508,35 +501,22 @@ msFilterList
 -d manasuka.com /gbr_banner_link/
 - http://marketbola.com
 # ||masterporn.me^*.gif$domain=krucil.net
-- http://matakodok.com
 -d mractionclub.com /banner/
 -d my.postsgenius.com /style/banners/
 - http://networkadonline.com
 - http://numpanglewat.com
-- http://orifuture.net
 - http://peluangbisnis.org
-- http://plusberita.com
-- http://premiertrafficptc.info
-- http://promoteburner.com
 - http://promotioncamp.com
-- http://promoviaweb.com
 - http://prophetofdoom.net
 - http://publish.web.id
-- http://rahasiaromantis.com
-- http://sebarmedia.com
 - http://sinusbux.com
 - http://sitipromo.web.id
 - http://sitti.co.id
 - http://situsbet.com
 # ||situsjudi.com^$popup,third-party
-- http://springfund.com
 -d suarabola.com /banners/
-- http://submitforall.com
-- http://submitfull.com
-- http://syadiashare.com
 # ||tangkasbet.com^$popup,third-party
 # ||tangkasindo.com^$popup
-- http://thupox.com
 # ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 - http://topskor.us
 - http://topsurfer.com
@@ -544,8 +524,6 @@ msFilterList
 # ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 - http://usahaberhasil.com
 - http://webbola.com
-- http://webjualbeli.com
-- http://y-bux.com
 # *** abpindo_whitelist.txt ***
 +d allgamespy.com /wp-content/themes/adsense-id/style.css
 +d iklan.okezone.com /images-data/classified/

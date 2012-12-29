@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: rGNFiuKSHP8cfykajWymcQ
+! Checksum: wQghn+o1frRkpjv53MII/g
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 26 December 2012, 00:04:00 WIB
+! Last modified: 29 December 2012, 14:01:30 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -410,15 +410,12 @@ com##img[title="Taruhan Bola Online"]
 ||agenbo.la^$image,popup
 ||agent926.com^$third-party
 ||alamatemail.com^$third-party
-||alenboby.net^$third-party
 ||alertpay.com/banners/
 ||apmmedia.net^$third-party
 ||arenabola.com^$third-party
 ||arisanvip.com^$third-party
 ||asianbrain.com/banner/
-||bannerhp.com^$third-party
 ||bekas.com^$third-party
-||benangmerah.com^$third-party
 ||betwin188.com^$image,third-party
 ||bintangbola.net^$third-party
 ||bisnisgratis.net^$third-party
@@ -434,7 +431,6 @@ com##img[title="Taruhan Bola Online"]
 ||bolavegas.com/ads/
 ||bravevolitation.com^$third-party
 ||bux-matrix.com^$third-party
-||buxrupiah.com^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz/banners/$third-party
 ||chainbux.com^$third-party
@@ -447,14 +443,12 @@ com##img[title="Taruhan Bola Online"]
 ||dunia-bisnis.com^$third-party
 ||easy-hit-counter.com^$third-party
 ||edomz.com/$popup
-||empatdns.com^$third-party
 ||enjoybux.com^$third-party
 ||fairbet88.com^$popup,third-party
 ||fellowequality.com^$third-party
 ||folderbisnis.com^$third-party
 ||forexpose.com^$third-party
 ||formulabisnis.com/images/$third-party
-||fox-bux.com^$third-party
 ||funds4cash.com^$third-party
 ||gajigratis.com^$third-party
 ||galaxybola.com^$third-party
@@ -475,7 +469,6 @@ com##img[title="Taruhan Bola Online"]
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
 ||legal-earning.com^$subdocument,third-party
-||libertygold-kita.com^$third-party
 ||link2communion.com^$third-party
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
@@ -484,35 +477,22 @@ com##img[title="Taruhan Bola Online"]
 ||manasuka.com/gbr_banner_link/$third-party
 ||marketbola.com^$third-party
 ||masterporn.me^*.gif$domain=krucil.net
-||matakodok.com^$third-party
 ||mractionclub.com/banner/
 ||my.postsgenius.com/style/banners/
 ||networkadonline.com^$third-party
 ||numpanglewat.com^$third-party
-||orifuture.net^$third-party
 ||peluangbisnis.org^$third-party
-||plusberita.com^$third-party
-||premiertrafficptc.info^$third-party
-||promoteburner.com^$third-party
 ||promotioncamp.com^$third-party
-||promoviaweb.com^$third-party
 ||prophetofdoom.net^$third-party
 ||publish.web.id^$third-party
-||rahasiaromantis.com^$third-party
-||sebarmedia.com^$third-party
 ||sinusbux.com^$third-party
 ||sitipromo.web.id^$third-party
 ||sitti.co.id^$third-party
 ||situsbet.com^$third-party
 ||situsjudi.com^$popup,third-party
-||springfund.com^$third-party
 ||suarabola.com/banners/$third-party
-||submitforall.com^$third-party
-||submitfull.com^$third-party
-||syadiashare.com^$third-party
 ||tangkasbet.com^$popup,third-party
 ||tangkasindo.com^$popup
-||thupox.com^$third-party
 ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 ||topskor.us^$third-party
 ||topsurfer.com^$third-party
@@ -520,8 +500,6 @@ com##img[title="Taruhan Bola Online"]
 ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 ||usahaberhasil.com^$third-party
 ||webbola.com^$third-party
-||webjualbeli.com^$third-party
-||y-bux.com^$third-party
 ! *** abpindo_specific_block.txt ***
 ||173.199.167.192/bb17-iklan.php
 ||admin.ads.indowebster.com^
