@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: pDxpinmVNyu9UrQhR6CoDA
+! Checksum: orD3HozIAkYXyl801mcKog
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 26 Januari 2013, 10:59:40 WIB
+! Last modified: 27 Januari 2013, 17:04:49 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -352,6 +352,7 @@ com##img[title="Taruhan Bola Online"]
 ||rupiahbux.com^$third-party
 ||salesgratis.com^$third-party
 ||sanglah.com^$third-party
+||sbbanner.com^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||sentra-iklan.com^$third-party
 ||sentrapromosi.com^$third-party
@@ -402,6 +403,7 @@ com##img[title="Taruhan Bola Online"]
 ||webmutakhir.com^$third-party
 ||yesads.com^$third-party
 ! *** abpindo_thirdparty.txt ***
+||173.199.189.86^$third-party
 ||1bisnisonline.com^$third-party
 ||39bola.com^$third-party
 ||988bet.com^$third-party
@@ -619,6 +621,9 @@ duniasex.ws##.middletext + [align="center"] + p[style="text-align: center;"]
 forumbebas.com###topbar
 forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
+forumbokep.com###ad_global_below_navbar
+forumbokep.com##a[href$="from=vocland"]
+forumbokep.com##img[style="width: 435px; height: 60px;"]
 forumkami.net##.floating_left
 forumkami.net##.floating_right
 forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:11px;padding-left:9px;border: 1px solid #B8B8B8;"]
@@ -744,6 +749,7 @@ semprot.com##.semprot_ads
 semprotlagi.com##.semprot_ads
 situshp.com##div[style="height:260px;"]
 stafaband.info##table[width="100%"] + #bottom
+tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 tempointeraktif.com###banner-atas
@@ -758,6 +764,7 @@ wap.vivanews.com##div[style="color:#2D4D89;font-weight:bold;text-decoration:none
 wap.vivanews.com##div[style="color:#DDDDDD;text-decoration:none;text-align:center;font-size:x-small;"]
 warnetforum.com##div[style="margin: 10px auto 10px;width:599px;"]
 warungbebas.com##.gbtab
+wowkeren.com###Ad728
 zonabola.com###afbsports
 zonabola.com###lAds img
 zonabola.com###rAds img
