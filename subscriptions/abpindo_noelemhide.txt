@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: YXrfLv3LQI82qUuzu4KSug
+! Checksum: dAv2hkOuGd2NvI+63c7lrw
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 26 Januari 2013, 10:59:40 WIB
+! Last modified 27 Januari 2013, 17:04:49 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -301,6 +301,7 @@
 ||rupiahbux.com^$third-party
 ||salesgratis.com^$third-party
 ||sanglah.com^$third-party
+||sbbanner.com^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||sentra-iklan.com^$third-party
 ||sentrapromosi.com^$third-party
@@ -430,6 +431,7 @@
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_thirdparty.txt ***
+||173.199.189.86^$third-party
 ||1bisnisonline.com^$third-party
 ||39bola.com^$third-party
 ||988bet.com^$third-party
