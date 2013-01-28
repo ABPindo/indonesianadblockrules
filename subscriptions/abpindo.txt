@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: orD3HozIAkYXyl801mcKog
+! Checksum: tQuwjjXyRDkscrJ1LnFhmQ
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 27 Januari 2013, 17:04:49 WIB
+! Last modified: 28 Januari 2013, 16:20:55 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -38,6 +38,7 @@
 ###top_ad_full
 ##.SectionAds
 ##.ad_primex
+##.ads.section
 ##.bgads
 ##.gbcontent
 ##.gpcontent
@@ -60,6 +61,7 @@ com##img[title="Bandar VIP"]
 com##img[title="Gallery Obat Kuat"]
 com##img[title="Pasang Banner"]
 com##img[title="Pasang Iklan"]
+##img[title="Poker Online"]
 com##img[title="Taruhan Bola Online"]
 ! *** abpindo_adservers.txt ***
 ||1iklanbaris.com^$third-party
@@ -69,7 +71,6 @@ com##img[title="Taruhan Bola Online"]
 ||adbusinessfree.com^$third-party
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
-||admarvel.com^$third-party
 ||admitra.com^$third-party
 ||adptc.com^$third-party
 ||adreviewcamp.com^$third-party
@@ -246,7 +247,6 @@ com##img[title="Taruhan Bola Online"]
 ||indoptc.com^$third-party
 ||indostats.com^$third-party
 ||indovertiser.com^$third-party
-||inmobi.com^$third-party
 ||istanaiklan.com^$third-party
 ||jagoiklan.com^$third-party
 ||jagopromo.com^$third-party
@@ -290,7 +290,6 @@ com##img[title="Taruhan Bola Online"]
 ||mybannermaker.com^$third-party
 ||negeriads.com^$third-party
 ||neorupiah.com^$third-party
-||nspmotion.com^$third-party
 ||nuansaiklan.com^$third-party
 ||okepromo.com^$third-party
 ||omnibux.com^$third-party
@@ -505,6 +504,7 @@ com##img[title="Taruhan Bola Online"]
 ! *** abpindo_specific_block.txt ***
 ||173.199.167.192/bb17-iklan.php
 ||admin.ads.indowebster.com^
+||armylookfashion.com/728.swf
 ||asiafriendfinder.com^$domain=maknyos.com
 ||assets.kompas.com/css_kompasads.php?
 ||assets.kompas.com/js_kompasads.php?
@@ -569,6 +569,7 @@ com##img[title="Taruhan Bola Online"]
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
+173.199.167.192###ucpop_adpS
 173.199.167.192##.fixmeInner
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 96.30.13.88##.semprot_ads
@@ -617,13 +618,16 @@ downloadmoviesfree.net###samdav-loading
 downloadmoviesfree.net###samdav-locker
 downloadmoviesfree.net###samdav-wrapper
 duniabaca.com##.banner
+duniasex.ws###close-teaser
 duniasex.ws##.middletext + [align="center"] + p[style="text-align: center;"]
+duniasex.ws##[align="center"] > table[style="width: 1100px; height: 250px;"]
+duniasex.ws##[align="center"] img[style="width: 580px; height: 60px;"]
 forumbebas.com###topbar
 forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
-forumbokep.com###ad_global_below_navbar
 forumbokep.com##a[href$="from=vocland"]
 forumbokep.com##img[style="width: 435px; height: 60px;"]
+forumbokep.com,idfl.us,kikil.net###ad_global_below_navbar
 forumkami.net##.floating_left
 forumkami.net##.floating_right
 forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:11px;padding-left:9px;border: 1px solid #B8B8B8;"]
@@ -654,7 +658,6 @@ ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com###FloatAlamindawa
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
-idfl.us###ad_global_below_navbar
 indo.kerangbulu.com##center > div[style="width:728px; border:0px solid #dfdfdf;"]
 indobokepz.com##div[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##div[style="text-align:center; padding:5px 0;"]
@@ -705,6 +708,7 @@ krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 krisna.web.id##img[style="width: 728px; height: 90px;"]
 krngbl.com##div[style="width:728px; border:0px solid #dfdfdf;"]
 krucil.com###floatdiv.notice
+krucil.com###ucpop_adpS
 krucil.com##.fixmeInner
 krucil.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 krucil.com##center > font[size="1"]
@@ -734,6 +738,7 @@ mangafox.me###left-skyscraper
 mangafox.me###right-skyscraper
 metrotvnews.com###fixme
 microsite.kapanlagi.com###scmicrosite
+nusareborn.in###btm_banner
 nyit-nyit.net###adn89 + * td
 nyunyu.com###footer-banner
 nyunyu.com###gb
@@ -769,6 +774,7 @@ zonabola.com###afbsports
 zonabola.com###lAds img
 zonabola.com###rAds img
 zonabola.com##img[width="750"][height="75"][border="0"]
+zonamuda.com##.bannertengah img[style="width: 728px; height: 90px;"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]
 ! *** abpindo_whitelist.txt ***
 @@||allgamespy.com/wp-content/themes/adsense-id/style.css
