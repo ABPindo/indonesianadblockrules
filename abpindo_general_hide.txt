@@ -12,6 +12,7 @@
 ###top_ad_full
 ##.SectionAds
 ##.ad_primex
+##.ads.section
 ##.bgads
 ##.gbcontent
 ##.gpcontent
@@ -34,4 +35,5 @@ com##img[title="Bandar VIP"]
 com##img[title="Gallery Obat Kuat"]
 com##img[title="Pasang Banner"]
 com##img[title="Pasang Iklan"]
+##img[title="Poker Online"]
 com##img[title="Taruhan Bola Online"]

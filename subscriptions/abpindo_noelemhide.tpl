@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 27 Januari 2013, 17:04:49 WIB
+# Last modified 28 Januari 2013, 16:20:55 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -17,7 +17,6 @@ msFilterList
 - http://adbusinessfree.com
 - http://adcenter2u.com
 - http://addesigner.com
-- http://admarvel.com
 - http://admitra.com
 - http://adptc.com
 - http://adreviewcamp.com
@@ -194,7 +193,6 @@ msFilterList
 - http://indoptc.com
 - http://indostats.com
 - http://indovertiser.com
-- http://inmobi.com
 - http://istanaiklan.com
 - http://jagoiklan.com
 - http://jagopromo.com
@@ -238,7 +236,6 @@ msFilterList
 - http://mybannermaker.com
 - http://negeriads.com
 - http://neorupiah.com
-- http://nspmotion.com
 - http://nuansaiklan.com
 - http://okepromo.com
 - http://omnibux.com
@@ -366,6 +363,7 @@ msFilterList
 # *** abpindo_specific_block.txt ***
 -d 173.199.167.192 /bb17-iklan.php
 - http://admin.ads.indowebster.com
+-d armylookfashion.com /728.swf
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d assets.kompas.com /css_kompasads.php?
 -d assets.kompas.com /js_kompasads.php?

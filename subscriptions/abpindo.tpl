@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 27 Januari 2013, 17:04:49 WIB
+# Last modified: 28 Januari 2013, 16:20:55 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -37,6 +37,7 @@ msFilterList
 # ###top_ad_full
 # ##.SectionAds
 # ##.ad_primex
+# ##.ads.section
 # ##.bgads
 # ##.gbcontent
 # ##.gpcontent
@@ -51,7 +52,6 @@ msFilterList
 - http://adbusinessfree.com
 - http://adcenter2u.com
 - http://addesigner.com
-- http://admarvel.com
 - http://admitra.com
 - http://adptc.com
 - http://adreviewcamp.com
@@ -228,7 +228,6 @@ msFilterList
 - http://indoptc.com
 - http://indostats.com
 - http://indovertiser.com
-- http://inmobi.com
 - http://istanaiklan.com
 - http://jagoiklan.com
 - http://jagopromo.com
@@ -272,7 +271,6 @@ msFilterList
 - http://mybannermaker.com
 - http://negeriads.com
 - http://neorupiah.com
-- http://nspmotion.com
 - http://nuansaiklan.com
 - http://okepromo.com
 - http://omnibux.com
@@ -487,6 +485,7 @@ msFilterList
 # *** abpindo_specific_block.txt ***
 -d 173.199.167.192 /bb17-iklan.php
 - http://admin.ads.indowebster.com
+-d armylookfashion.com /728.swf
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d assets.kompas.com /css_kompasads.php?
 -d assets.kompas.com /js_kompasads.php?
@@ -551,6 +550,7 @@ msFilterList
 -d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
+# 173.199.167.192###ucpop_adpS
 # 173.199.167.192##.fixmeInner
 # 96.30.13.88##.semprot_ads
 # ansav.com##.body > center
@@ -582,8 +582,9 @@ msFilterList
 # downloadmoviesfree.net###samdav-locker
 # downloadmoviesfree.net###samdav-wrapper
 # duniabaca.com##.banner
+# duniasex.ws###close-teaser
 # forumbebas.com###topbar
-# forumbokep.com###ad_global_below_navbar
+# forumbokep.com,idfl.us,kikil.net###ad_global_below_navbar
 # forumkami.net##.floating_left
 # forumkami.net##.floating_right
 # galaxymaya.com###teaser2
@@ -598,7 +599,6 @@ msFilterList
 # i-comers.com##.simple_advert
 # ibuprita.suatuhari.com##.box > .textwidget > center
 # icinema3satu.com###FloatAlamindawa
-# idfl.us###ad_global_below_navbar
 # indogamers.com###IklanIDGS
 # indogamers.com###bottombanner
 # indosiar.com###headerbanner
@@ -628,6 +628,7 @@ msFilterList
 # komikbaru.com##.iklan_kiri
 # kompasiana.com###anchormasklink
 # krucil.com###floatdiv.notice
+# krucil.com###ucpop_adpS
 # krucil.com##.fixmeInner
 # krucil.net##.fixmeInner
 # lapar.com##.banner_box
@@ -646,6 +647,7 @@ msFilterList
 # mangafox.me###right-skyscraper
 # metrotvnews.com###fixme
 # microsite.kapanlagi.com###scmicrosite
+# nusareborn.in###btm_banner
 # nyit-nyit.net###adn89 + * td
 # nyunyu.com###footer-banner
 # nyunyu.com###gb

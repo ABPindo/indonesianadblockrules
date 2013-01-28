@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: dAv2hkOuGd2NvI+63c7lrw
+! Checksum: a54RLJR/GvXCUk5LChGKeg
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 27 Januari 2013, 17:04:49 WIB
+! Last modified 28 Januari 2013, 16:20:55 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -18,7 +18,6 @@
 ||adbusinessfree.com^$third-party
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
-||admarvel.com^$third-party
 ||admitra.com^$third-party
 ||adptc.com^$third-party
 ||adreviewcamp.com^$third-party
@@ -195,7 +194,6 @@
 ||indoptc.com^$third-party
 ||indostats.com^$third-party
 ||indovertiser.com^$third-party
-||inmobi.com^$third-party
 ||istanaiklan.com^$third-party
 ||jagoiklan.com^$third-party
 ||jagopromo.com^$third-party
@@ -239,7 +237,6 @@
 ||mybannermaker.com^$third-party
 ||negeriads.com^$third-party
 ||neorupiah.com^$third-party
-||nspmotion.com^$third-party
 ||nuansaiklan.com^$third-party
 ||okepromo.com^$third-party
 ||omnibux.com^$third-party
@@ -367,6 +364,7 @@
 ! *** abpindo_specific_block.txt ***
 ||173.199.167.192/bb17-iklan.php
 ||admin.ads.indowebster.com^
+||armylookfashion.com/728.swf
 ||asiafriendfinder.com^$domain=maknyos.com
 ||assets.kompas.com/css_kompasads.php?
 ||assets.kompas.com/js_kompasads.php?
