@@ -176,6 +176,10 @@ nyunyu.com##.page_ads img
 okezone.com##img[src*="/images/ad/"]
 oktavita.com##.banner-zone
 register.plasa.com###ad5
+remo-xp.com###adsheader
+remo-xp.com###banner_bawah
+remo-xp.com###ikanan
+remo-xp.com###ikiri
 remo-xp.com##img[alt="iklan 440x90"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 resep.web.id###googlebox
