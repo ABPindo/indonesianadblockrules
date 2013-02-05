@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: NmgDf+zuHsf1jDqhITFNIg
+! Checksum: qVjhkAjh37bdM44soW8N0g
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 29 Januari 2013, 20:11:02 WIB
+! Last modified 05 Februari 2013, 11:38:14 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -364,21 +364,32 @@
 ! *** abpindo_specific_block.txt ***
 ||173.199.167.192/bb17-iklan.php
 ||admin.ads.indowebster.com^
+||alertpay.com/banners/
 ||armylookfashion.com/728.swf
 ||asiafriendfinder.com^$domain=maknyos.com
+||asianbrain.com/banner/
 ||assets.kompas.com/css_kompasads.php?
 ||assets.kompas.com/js_kompasads.php?
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
+||blogspot.com^*.gif$domain=asik.me|duniasex.ws
+||bolavegas.com/ads/
+||cashburners.biz/banners/$third-party
 ||ceri.ws/ads/
 ||ceriwis.us/banner/
 ||chip.co.id/microsite/frame/index.html
+||coblos.net^*.swf$domain=bintangmawar.net
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
+||formulabisnis.com/images/$third-party
+||forumbola.org/close3.png
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||forumkami.net/close.gif
+||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws
 ||harianjogja.com/img/bnr/
+||idblognetwork.com/images/banner468x60/$third-party
+||idblognetwork.com/images/banner728x90/$third-party
 ||images.indoforum.org/banners/
 ||img.cuvso.com^$domain=remo-xp.com
 ||indobokepz.com/images/banner/
@@ -386,6 +397,7 @@
 ||indomp3z.us/banner/
 ||indowebster.com/js/link_converter.js
 ||inilah.com/assets/image/airasia/skin-
+||investasiceria.net/images/$third-party
 ||kad.kaskus.co.id/banner/$subdocument
 ||kad.kaskus.com/banner/$subdocument
 ||kapanlagi.com^*/banner/
@@ -402,16 +414,21 @@
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
 ||krucil.com/bb17-iklan.php
-||krucil.net/bb17-iklan.php
 ||lendir.org/banner/$image,third-party
 ||lendir.us/images/banner/
+||lytogame.com/images/partner/$third-party
+||lytogame.com/partner/$third-party
+||manasuka.com/gbr_banner_link/$third-party
+||masterporn.me^*.gif$domain=krucil.net
 ||mediahide.com/ganool/*/banner-ganool.gif
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
 ||modemku.com/image-banner/
 ||modifikasi.com/images/banner/
 ||modifikasi.com/images/banner_
+||mractionclub.com/banner/
 ||musisi.com/musifile/images_banner/
+||my.postsgenius.com/style/banners/
 ||oprekpc.com/banner/
 ||pancet.com/kbads/
 ||perawan.us/images/banner/
@@ -421,15 +438,18 @@
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
 ||static.republika.co.id/files/images/btn_close.png
+||suarabola.com/banners/$third-party
 ||suaramedia.com/images/banners/
+||tabloidbintang.com/images/adv/
 ||tabloidbintang.com^*/space-iklan/
+||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
+||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 ||us.openx.detik.com^
 ||videogamesindonesia.com/banners/
 ||wwwkikilorg.appspot.com/images/banner/
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_thirdparty.txt ***
-||173.199.189.86^$third-party
 ||1bisnisonline.com^$third-party
 ||39bola.com^$third-party
 ||988bet.com^$third-party
@@ -438,11 +458,9 @@
 ||agenbo.la^$image,popup
 ||agent926.com^$third-party
 ||alamatemail.com^$third-party
-||alertpay.com/banners/
 ||apmmedia.net^$third-party
 ||arenabola.com^$third-party
 ||arisanvip.com^$third-party
-||asianbrain.com/banner/
 ||bekas.com^$third-party
 ||betwin188.com^$image,third-party
 ||bintangbola.net^$third-party
@@ -456,14 +474,11 @@
 ||bola777.net^$third-party
 ||bolaketangkasan.com^$third-party
 ||bolasonic.com^$image,popup
-||bolavegas.com/ads/
 ||bravevolitation.com^$third-party
 ||bux-matrix.com^$third-party
 ||cash-harvest.com^$third-party
-||cashburners.biz/banners/$third-party
 ||chainbux.com^$third-party
 ||clickbet88.com^$third-party
-||coblos.net^*.swf$domain=bintangmawar.net
 ||dewamabuk.com$third-party
 ||doremibet.com^$third-party
 ||drumcash.com^$third-party
@@ -476,7 +491,6 @@
 ||fellowequality.com^$third-party
 ||folderbisnis.com^$third-party
 ||forexpose.com^$third-party
-||formulabisnis.com/images/$third-party
 ||funds4cash.com^$third-party
 ||gajigratis.com^$third-party
 ||galaxybola.com^$third-party
@@ -484,13 +498,10 @@
 ||goldbet88.com^$third-party
 ||gowellup.com^$third-party
 ||hiddenbux.com^$third-party
-||idblognetwork.com/images/banner468x60/$third-party
-||idblognetwork.com/images/banner728x90/$third-party
 ||incrasebux.com^$third-party
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||instaforex-id.com^$image,third-party
-||investasiceria.net/images/$third-party
 ||javapic.com^$image,object,third-party
 ||kakakdewa.net^$third-party
 ||kebunemas.com^$third-party
@@ -498,15 +509,9 @@
 ||kumpuljutawan.com^$third-party
 ||legal-earning.com^$subdocument,third-party
 ||link2communion.com^$third-party
-||lytogame.com/images/partner/$third-party
-||lytogame.com/partner/$third-party
 ||m88media.com^$third-party
 ||mabosbet.com^$third-party
-||manasuka.com/gbr_banner_link/$third-party
 ||marketbola.com^$third-party
-||masterporn.me^*.gif$domain=krucil.net
-||mractionclub.com/banner/
-||my.postsgenius.com/style/banners/
 ||networkadonline.com^$third-party
 ||numpanglewat.com^$third-party
 ||peluangbisnis.org^$third-party
@@ -518,14 +523,11 @@
 ||sitti.co.id^$third-party
 ||situsbet.com^$third-party
 ||situsjudi.com^$popup,third-party
-||suarabola.com/banners/$third-party
 ||tangkasbet.com^$popup,third-party
 ||tangkasindo.com^$popup
-||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 ||topskor.us^$third-party
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
-||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|krucil.net|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 ||usahaberhasil.com^$third-party
 ||webbola.com^$third-party
 ! *** abpindo_whitelist.txt ***
