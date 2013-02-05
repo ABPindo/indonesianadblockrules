@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 37M4YEXybRcC3hFy/Z4eGQ
+! Checksum: sej3t1HcXmwA0kjQJLeoBg
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 29 Januari 2013, 20:11:02 WIB
+! Last modified: 05 Februari 2013, 11:33:03 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -36,6 +36,7 @@
 ###iklanpersegi
 ###squaread
 ###top_ad_full
+blogspot.com###topbar
 ##.SectionAds
 ##.ad_primex
 ##.ads.section
@@ -569,6 +570,8 @@ com##img[title="Taruhan Bola Online"]
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
+173.199.167.192###ucpop_adpB
+173.199.167.192###ucpop_adpC
 173.199.167.192###ucpop_adpS
 173.199.167.192##.fixmeInner
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
@@ -651,14 +654,11 @@ google.co.id##table[style="border: 1px solid #0000CC"]
 google.co.id##table[style="border: 1px solid #11593c"]
 google.com###rhs_block
 google.com##.c0.lti35t
-gugling.com##.ad336x280atas
 i-comers.com##.alt1[nowrap="nowrap"]
 i-comers.com##.simple_advert
-ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com###FloatAlamindawa
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
-indo.kerangbulu.com##center > div[style="width:728px; border:0px solid #dfdfdf;"]
 indobokepz.com##div[style="text-align:center; margin-bottom:10px;"]
 indobokepz.com##div[style="text-align:center; padding:5px 0;"]
 indobokepz.com##div[style="text-align:center;padding:5px 0;"]
@@ -674,7 +674,6 @@ indowebster.com###iklanNorak
 infobill.telkom.co.id##.txt_normal[width="100%"][align="center"]
 inilah.com###anchormasklink
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
-jurigjarian.com###topbar
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v5-marcommpromotion
 kapanlagi.com###v5-showcase1
@@ -684,14 +683,6 @@ kaskus.co.id##.banner-top-ads
 kaskus.co.id##.l-link
 kaskus.co.id##.r-link
 kaskus.co.id,kaskus.com##a[href^="http://kad.kaskus."]
-kerangbulu.com,krngbl.com###floatads-kanan
-kerangbulu.com,krngbl.com###floatads-kiri
-kerangbulu.com,krngbl.com###floatadsWrapper-kanan
-kerangbulu.com,krngbl.com###floatadsWrapper-kiri
-kerangbulu.com,krngbl.com##.kerbul-botads
-kerangbulu.com,krngbl.com##.kerbul-facebook.kerbul-image-border
-kerangbulu.com,krngbl.com##.kerbul-innerads
-kerangbulu.com,krngbl.com##.kerbul-topads.kerbul-centered
 kikil.org###content-wrap7 td[style="padding-left: 15px"]
 kikil.org##.exampleboxshadowa
 kikil.org##.exampleboxshadowb
@@ -699,14 +690,12 @@ kikil.org##.exampleboxshadowc
 kikil.org##center > table[width="900"]
 kikil.org##center > table[width="900px"]
 kikil.org##div[style="height:210px; width:250px; overflow:hidden"]
-kolomunik.com###topbar
 komikbaru.com##.iklan_kiri
 komikbaru.com##img[alt="Pemasangan Iklan"]
 kompas.com##img[src^="http://img.ads."]
 kompasiana.com###anchormasklink
 krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 krisna.web.id##img[style="width: 728px; height: 90px;"]
-krngbl.com##div[style="width:728px; border:0px solid #dfdfdf;"]
 krucil.com###floatdiv.notice
 krucil.com###ucpop_adpS
 krucil.com##.fixmeInner
