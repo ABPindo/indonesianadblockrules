@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 29 Januari 2013, 20:11:02 WIB
+# Last modified: 05 Februari 2013, 11:33:03 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -35,6 +35,7 @@ msFilterList
 # ###iklanpersegi
 # ###squaread
 # ###top_ad_full
+# blogspot.com###topbar
 # ##.SectionAds
 # ##.ad_primex
 # ##.ads.section
@@ -550,6 +551,8 @@ msFilterList
 -d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
+# 173.199.167.192###ucpop_adpB
+# 173.199.167.192###ucpop_adpC
 # 173.199.167.192###ucpop_adpS
 # 173.199.167.192##.fixmeInner
 # 96.30.13.88##.semprot_ads
@@ -595,16 +598,13 @@ msFilterList
 # google.co.id###rhs_block
 # google.com###rhs_block
 # google.com##.c0.lti35t
-# gugling.com##.ad336x280atas
 # i-comers.com##.simple_advert
-# ibuprita.suatuhari.com##.box > .textwidget > center
 # icinema3satu.com###FloatAlamindawa
 # indogamers.com###IklanIDGS
 # indogamers.com###bottombanner
 # indosiar.com###headerbanner
 # indowebster.com###iklanNorak
 # inilah.com###anchormasklink
-# jurigjarian.com###topbar
 # kapanlagi.com###v5-leaderboard
 # kapanlagi.com###v5-marcommpromotion
 # kapanlagi.com###v5-showcase1
@@ -613,18 +613,9 @@ msFilterList
 # kaskus.co.id##.banner-top-ads
 # kaskus.co.id##.l-link
 # kaskus.co.id##.r-link
-# kerangbulu.com,krngbl.com###floatads-kanan
-# kerangbulu.com,krngbl.com###floatads-kiri
-# kerangbulu.com,krngbl.com###floatadsWrapper-kanan
-# kerangbulu.com,krngbl.com###floatadsWrapper-kiri
-# kerangbulu.com,krngbl.com##.kerbul-botads
-# kerangbulu.com,krngbl.com##.kerbul-facebook.kerbul-image-border
-# kerangbulu.com,krngbl.com##.kerbul-innerads
-# kerangbulu.com,krngbl.com##.kerbul-topads.kerbul-centered
 # kikil.org##.exampleboxshadowa
 # kikil.org##.exampleboxshadowb
 # kikil.org##.exampleboxshadowc
-# kolomunik.com###topbar
 # komikbaru.com##.iklan_kiri
 # kompasiana.com###anchormasklink
 # krucil.com###floatdiv.notice
