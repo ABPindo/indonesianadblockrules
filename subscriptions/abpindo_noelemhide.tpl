@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 05 Februari 2013, 11:38:14 WIB
+# Last modified 10 Februari 2013, 23:32:27 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -48,7 +48,6 @@ msFilterList
 - http://bincangbisnis.com
 - http://biroiklangratis.com
 - http://biropromosi.com
-- http://bizzclick.com
 - http://blogiklanbaris.com
 - http://bubuads.com
 - http://buildvertical.com
@@ -60,7 +59,6 @@ msFilterList
 - http://clickmedia.co.id
 - http://clicks4cents.com
 - http://clicksia.com
-- http://clixsense.com
 - http://daniklan.com
 - http://desaiklan.com
 - http://dewa-bisnis.com
@@ -186,7 +184,6 @@ msFilterList
 - http://indoadpro.com
 - http://indobanner.com
 - http://indobuysell.com
-- http://indofad.com
 - http://indofreeads.com
 - http://indoglobe.com
 - http://indonesiaptc.com
@@ -272,7 +269,6 @@ msFilterList
 - http://portaliklan.com
 - http://poweredprofits.com
 - http://ppcinbox.com
-- http://ppcindo.com
 - http://ppcindonesia.net
 - http://ppcklik.com
 - http://profiadvert.com
@@ -341,7 +337,6 @@ msFilterList
 - http://untukblogger.com
 - http://updateiklan.com
 - http://useads.com
-- http://valueclick.net
 - http://vistaclix.com
 - http://webiklan.com
 - http://weblogiklan.com
@@ -367,8 +362,6 @@ msFilterList
 -d armylookfashion.com /728.swf
 # ||asiafriendfinder.com^$domain=maknyos.com
 -d asianbrain.com /banner/
--d assets.kompas.com /css_kompasads.php?
--d assets.kompas.com /js_kompasads.php?
 # ||bacamanga.com/images/indofiles/$image
 -d bingofreebonus.net /bfbcontent/locker.js?
 # ||blogspot.com^*.gif$domain=asik.me|duniasex.ws
@@ -443,7 +436,6 @@ msFilterList
 -d tabloidbintang.com /space-iklan/
 # ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 # ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
-- http://us.openx.detik.com
 -d videogamesindonesia.com /banners/
 -d wwwkikilorg.appspot.com /images/banner/
 -d zonabola.com /mansion.htm
@@ -477,8 +469,8 @@ msFilterList
 - http://bux-matrix.com
 - http://cash-harvest.com
 - http://chainbux.com
-- http://clickbet88.com
 - http://dewamabuk.com
+-d dorabet.net /banner/
 - http://doremibet.com
 - http://drumcash.com
 - http://duitbux.com
@@ -513,6 +505,7 @@ msFilterList
 - http://marketbola.com
 - http://networkadonline.com
 - http://numpanglewat.com
+-d optimsystems.org /images/banners/
 - http://peluangbisnis.org
 - http://promotioncamp.com
 - http://prophetofdoom.net

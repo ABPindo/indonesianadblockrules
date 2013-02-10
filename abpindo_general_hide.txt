@@ -3,9 +3,6 @@
 ###adv-placeholder
 ###bottom_exclusive_ads
 ###desaiklan
-###floating-ads
-###floating_banner_bottom
-###floating_banner_top
 ###floatingad
 ###iklanpersegi
 ###squaread
@@ -21,7 +18,6 @@ blogspot.com###topbar
 ##.pasangiklan
 ##.topadsense
 ##a[href*="bursabet.com"]
-##a[href*="multibet88.com"]
 ##a[href*="usahaberhasil.com"]
 com##img[alt="Agen Judi Online"]
 com##img[alt="Pasang Iklan Murah"]
@@ -36,5 +32,4 @@ com##img[title="Bandar VIP"]
 com##img[title="Gallery Obat Kuat"]
 com##img[title="Pasang Banner"]
 com##img[title="Pasang Iklan"]
-##img[title="Poker Online"]
 com##img[title="Taruhan Bola Online"]

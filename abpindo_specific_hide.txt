@@ -48,7 +48,7 @@ forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
 forumbokep.com##a[href$="from=vocland"]
 forumbokep.com##img[style="width: 435px; height: 60px;"]
-forumbokep.com,idfl.us###ad_global_below_navbar
+forumbokep.com,idfl.us,semprotlagi.com###ad_global_below_navbar
 forumkami.net##.floating_left
 forumkami.net##.floating_right
 forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:11px;padding-left:9px;border: 1px solid #B8B8B8;"]
@@ -123,7 +123,6 @@ m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##a[href^="http://mkhoj.com"]
 m.kapanlagi.com##.ad2
-m.kapanlagi.com##.advertise_box
 mangafox.com##.ad728x90.left + .right
 mangafox.me###left-skyscraper
 mangafox.me###right-skyscraper
@@ -140,7 +139,6 @@ nyunyu.com###gb2
 nyunyu.com##.page_ads img
 okezone.com##img[src*="/images/ad/"]
 oktavita.com##.banner-zone
-register.plasa.com###ad5
 remo-xp.com###adsheader
 remo-xp.com###banner_bawah
 remo-xp.com###ikanan

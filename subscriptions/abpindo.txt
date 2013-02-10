@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: GjSymtssgT6y+JMeW+6CYQ
+! Checksum: E2zLJkLd5GvII/1a1uJuLQ
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 05 Februari 2013, 16:28:29 WIB
+! Last modified: 10 Februari 2013, 23:32:27 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -29,9 +29,6 @@
 ###adv-placeholder
 ###bottom_exclusive_ads
 ###desaiklan
-###floating-ads
-###floating_banner_bottom
-###floating_banner_top
 ###floatingad
 ###iklanpersegi
 ###squaread
@@ -47,7 +44,6 @@ blogspot.com###topbar
 ##.pasangiklan
 ##.topadsense
 ##a[href*="bursabet.com"]
-##a[href*="multibet88.com"]
 ##a[href*="usahaberhasil.com"]
 com##img[alt="Agen Judi Online"]
 com##img[alt="Pasang Iklan Murah"]
@@ -62,7 +58,6 @@ com##img[title="Bandar VIP"]
 com##img[title="Gallery Obat Kuat"]
 com##img[title="Pasang Banner"]
 com##img[title="Pasang Iklan"]
-##img[title="Poker Online"]
 com##img[title="Taruhan Bola Online"]
 ! *** abpindo_adservers.txt ***
 ||1iklanbaris.com^$third-party
@@ -103,7 +98,6 @@ com##img[title="Taruhan Bola Online"]
 ||bincangbisnis.com^$third-party
 ||biroiklangratis.com^$third-party
 ||biropromosi.com^$third-party
-||bizzclick.com^$third-party
 ||blogiklanbaris.com^$third-party
 ||bubuads.com^$third-party
 ||buildvertical.com^$third-party
@@ -115,7 +109,6 @@ com##img[title="Taruhan Bola Online"]
 ||clickmedia.co.id^$third-party
 ||clicks4cents.com^$third-party
 ||clicksia.com^$third-party
-||clixsense.com^$third-party
 ||daniklan.com^$third-party
 ||desaiklan.com^$third-party
 ||dewa-bisnis.com^$third-party
@@ -241,7 +234,6 @@ com##img[title="Taruhan Bola Online"]
 ||indoadpro.com^$third-party
 ||indobanner.com^$third-party
 ||indobuysell.com^$third-party
-||indofad.com^$third-party
 ||indofreeads.com^$third-party
 ||indoglobe.com^$third-party
 ||indonesiaptc.com^$third-party
@@ -327,7 +319,6 @@ com##img[title="Taruhan Bola Online"]
 ||portaliklan.com^$third-party
 ||poweredprofits.com^$third-party
 ||ppcinbox.com^$third-party
-||ppcindo.com^$third-party
 ||ppcindonesia.net^$third-party
 ||ppcklik.com^$third-party
 ||profiadvert.com^$third-party
@@ -396,7 +387,6 @@ com##img[title="Taruhan Bola Online"]
 ||untukblogger.com^$third-party
 ||updateiklan.com^$third-party
 ||useads.com^$third-party
-||valueclick.net^$third-party
 ||vistaclix.com^$third-party
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
@@ -431,8 +421,8 @@ com##img[title="Taruhan Bola Online"]
 ||bux-matrix.com^$third-party
 ||cash-harvest.com^$third-party
 ||chainbux.com^$third-party
-||clickbet88.com^$third-party
 ||dewamabuk.com$third-party
+||dorabet.net/banner/
 ||doremibet.com^$third-party
 ||drumcash.com^$third-party
 ||duitbux.com^$third-party
@@ -467,6 +457,7 @@ com##img[title="Taruhan Bola Online"]
 ||marketbola.com^$third-party
 ||networkadonline.com^$third-party
 ||numpanglewat.com^$third-party
+||optimsystems.org/images/banners/
 ||peluangbisnis.org^$third-party
 ||promotioncamp.com^$third-party
 ||prophetofdoom.net^$third-party
@@ -490,8 +481,6 @@ com##img[title="Taruhan Bola Online"]
 ||armylookfashion.com/728.swf
 ||asiafriendfinder.com^$domain=maknyos.com
 ||asianbrain.com/banner/
-||assets.kompas.com/css_kompasads.php?
-||assets.kompas.com/js_kompasads.php?
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||blogspot.com^*.gif$domain=asik.me|duniasex.ws
@@ -566,7 +555,6 @@ com##img[title="Taruhan Bola Online"]
 ||tabloidbintang.com^*/space-iklan/
 ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
-||us.openx.detik.com^
 ||videogamesindonesia.com/banners/
 ||wwwkikilorg.appspot.com/images/banner/
 ||zonabola.com/mansion.htm
@@ -622,7 +610,7 @@ forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
 forumbokep.com##a[href$="from=vocland"]
 forumbokep.com##img[style="width: 435px; height: 60px;"]
-forumbokep.com,idfl.us###ad_global_below_navbar
+forumbokep.com,idfl.us,semprotlagi.com###ad_global_below_navbar
 forumkami.net##.floating_left
 forumkami.net##.floating_right
 forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:11px;padding-left:9px;border: 1px solid #B8B8B8;"]
@@ -697,7 +685,6 @@ m.detik.com###top
 m.iklanbaris.detik.com##.adtext01
 m.inilah.com##a[href^="http://mkhoj.com"]
 m.kapanlagi.com##.ad2
-m.kapanlagi.com##.advertise_box
 mangafox.com##.ad728x90.left + .right
 mangafox.me###left-skyscraper
 mangafox.me###right-skyscraper
@@ -714,7 +701,6 @@ nyunyu.com###gb2
 nyunyu.com##.page_ads img
 okezone.com##img[src*="/images/ad/"]
 oktavita.com##.banner-zone
-register.plasa.com###ad5
 remo-xp.com###adsheader
 remo-xp.com###banner_bawah
 remo-xp.com###ikanan
