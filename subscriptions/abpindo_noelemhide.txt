@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 7eyaz5Un1oXuuromuO1wbg
+! Checksum: USYSCTnshzepZNJf5eRN5A
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 10 Februari 2013, 23:32:27 WIB
+! Last modified 24 Februari 2013, 18:28:45 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -366,12 +366,14 @@
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||blogspot.com^*.gif$domain=asik.me|duniasex.ws
+||bolanews.com/application/views/web/default/images/close-icon.png
 ||bolavegas.com/ads/
 ||cashburners.biz/banners/$third-party
 ||ceri.ws/ads/
 ||ceriwis.us/banner/
 ||chip.co.id/microsite/frame/index.html
 ||coblos.net^*.swf$domain=bintangmawar.net
+||detik.com/images/banners/
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||formulabisnis.com/images/$third-party

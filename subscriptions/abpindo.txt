@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: E2zLJkLd5GvII/1a1uJuLQ
+! Checksum: WJlvwG6h5t3SDubNur9JxQ
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 10 Februari 2013, 23:32:27 WIB
+! Last modified: 24 Februari 2013, 18:28:45 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -484,12 +484,14 @@ com##img[title="Taruhan Bola Online"]
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||blogspot.com^*.gif$domain=asik.me|duniasex.ws
+||bolanews.com/application/views/web/default/images/close-icon.png
 ||bolavegas.com/ads/
 ||cashburners.biz/banners/$third-party
 ||ceri.ws/ads/
 ||ceriwis.us/banner/
 ||chip.co.id/microsite/frame/index.html
 ||coblos.net^*.swf$domain=bintangmawar.net
+||detik.com/images/banners/
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||formulabisnis.com/images/$third-party
@@ -564,6 +566,7 @@ com##img[title="Taruhan Bola Online"]
 173.199.167.192###ucpop_adpS
 173.199.167.192##.fixmeInner
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
+173.199.189.87,forumbokep.com,krucil.com###floating_banner_bottom
 96.30.13.88##.semprot_ads
 asik.me##[href$="betme88.com"]
 asik.me##[href$="tri7bet.com"]
@@ -609,8 +612,9 @@ forumbebas.com###topbar
 forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
 forumbokep.com##a[href$="from=vocland"]
+forumbokep.com##img[src="http://173.199.189.86/images/do.gif"]
 forumbokep.com##img[style="width: 435px; height: 60px;"]
-forumbokep.com,idfl.us,semprotlagi.com###ad_global_below_navbar
+forumbokep.com,semprot.com,semprotlagi.com###ad_global_below_navbar
 forumkami.net##.floating_left
 forumkami.net##.floating_right
 forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:11px;padding-left:9px;border: 1px solid #B8B8B8;"]
@@ -652,10 +656,8 @@ inilah.com###anchormasklink
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 jurigjarian.com###topbar
 kapanlagi.com###v5-leaderboard
-kapanlagi.com###v5-marcommpromotion
-kapanlagi.com###v5-showcase1
-kapanlagi.com###v5-showcase2
-kapanlagi.com###v5-showcase3
+kapanlagi.com###v7-showcase1
+kapanlagi.com###v7-showcase2
 kaskus.co.id##.banner-top-ads
 kaskus.co.id##.l-link
 kaskus.co.id##.r-link
@@ -694,7 +696,6 @@ mivo.tv##TBODY [width="890"][height="70"] + table[align="center"]
 mivo.tv##table[width="100%"] > tbody > tr > td[height="250"]
 mivo.tv##td[align="center"][style="padding-bottom:10px;"]
 nusareborn.in###btm_banner
-nyit-nyit.net###adn89 + * td
 nyunyu.com###footer-banner
 nyunyu.com###gb
 nyunyu.com###gb2

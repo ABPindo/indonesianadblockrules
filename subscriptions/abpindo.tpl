@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 10 Februari 2013, 23:32:27 WIB
+# Last modified: 24 Februari 2013, 18:28:45 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -467,12 +467,14 @@ msFilterList
 # ||bacamanga.com/images/indofiles/$image
 -d bingofreebonus.net /bfbcontent/locker.js?
 # ||blogspot.com^*.gif$domain=asik.me|duniasex.ws
+-d bolanews.com /application/views/web/default/images/close-icon.png
 -d bolavegas.com /ads/
 -d cashburners.biz /banners/
 -d ceri.ws /ads/
 -d ceriwis.us /banner/
 -d chip.co.id /microsite/frame/index.html
 # ||coblos.net^*.swf$domain=bintangmawar.net
+-d detik.com /images/banners/
 -d ebsoft.web.id /wp-content/banners/
 # ||ewetot.com^$image,object,domain=bintangmawar.net
 -d formulabisnis.com /images/
@@ -546,6 +548,7 @@ msFilterList
 # 173.199.167.192###ucpop_adpB
 # 173.199.167.192###ucpop_adpS
 # 173.199.167.192##.fixmeInner
+# 173.199.189.87,forumbokep.com,krucil.com###floating_banner_bottom
 # 96.30.13.88##.semprot_ads
 # beritateknologi.com###topbar
 # bokep.sibawel.com###topwrapper
@@ -577,7 +580,7 @@ msFilterList
 # downloadmoviesfree.net###samdav-wrapper
 # duniabaca.com##.banner
 # forumbebas.com###topbar
-# forumbokep.com,idfl.us,semprotlagi.com###ad_global_below_navbar
+# forumbokep.com,semprot.com,semprotlagi.com###ad_global_below_navbar
 # forumkami.net##.floating_left
 # forumkami.net##.floating_right
 # galaxymaya.com###teaser2
@@ -599,10 +602,8 @@ msFilterList
 # inilah.com###anchormasklink
 # jurigjarian.com###topbar
 # kapanlagi.com###v5-leaderboard
-# kapanlagi.com###v5-marcommpromotion
-# kapanlagi.com###v5-showcase1
-# kapanlagi.com###v5-showcase2
-# kapanlagi.com###v5-showcase3
+# kapanlagi.com###v7-showcase1
+# kapanlagi.com###v7-showcase2
 # kaskus.co.id##.banner-top-ads
 # kaskus.co.id##.l-link
 # kaskus.co.id##.r-link
@@ -630,7 +631,6 @@ msFilterList
 # metrotvnews.com###fixme
 # microsite.kapanlagi.com###scmicrosite
 # nusareborn.in###btm_banner
-# nyit-nyit.net###adn89 + * td
 # nyunyu.com###footer-banner
 # nyunyu.com###gb
 # nyunyu.com###gb2
