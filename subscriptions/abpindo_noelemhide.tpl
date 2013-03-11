@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 26 Februari 2013, 12:09:20 WIB
+# Last modified 11 Maret 2013, 11:02:07 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -346,6 +346,7 @@ msFilterList
 # .id/ads/$~object-subrequest
 - .id/iklan/
 - .net/iklan/
+- /ads/iklan.
 - /images/iklan/
 - /img/promo/
 # /promo.$popup
