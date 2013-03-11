@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 26 Februari 2013, 12:09:20 WIB
+# Last modified: 11 Maret 2013, 11:02:07 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -14,6 +14,7 @@ msFilterList
 # .id/ads/$~object-subrequest
 - .id/iklan/
 - .net/iklan/
+- /ads/iklan.
 - /images/iklan/
 - /img/promo/
 # /promo.$popup
@@ -606,6 +607,7 @@ msFilterList
 # kaskus.co.id##.banner-top-ads
 # kaskus.co.id##.l-link
 # kaskus.co.id##.r-link
+# ketubanjiwa.com###g207
 # kolomunik.com###topbar
 # komikbaru.com##.iklan_kiri
 # kompasiana.com###anchormasklink
@@ -628,6 +630,7 @@ msFilterList
 # mangafox.me###left-skyscraper
 # mangafox.me###right-skyscraper
 # metrotvnews.com###fixme
+# metrotvnews.com##.banner-160x600.left.mb20
 # microsite.kapanlagi.com###scmicrosite
 # nusareborn.in###btm_banner
 # nyunyu.com###footer-banner
@@ -635,6 +638,7 @@ msFilterList
 # nyunyu.com###gb2
 # nyunyu.com##.page_ads img
 # oktavita.com##.banner-zone
+# palingseru.com##.alignnone.size-large.wp-image-458
 # remo-xp.com###adsheader
 # remo-xp.com###banner_bawah
 # remo-xp.com###ikanan

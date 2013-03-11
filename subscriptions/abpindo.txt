@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 4LXsp8EMWZcT6zX0ReQOog
+! Checksum: XZoDAySH1hUlF9sArlXCOw
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 26 Februari 2013, 12:09:20 WIB
+! Last modified: 11 Maret 2013, 11:02:07 WIB
 ! Expires: 5 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -15,6 +15,7 @@
 .id/ads/$~object-subrequest
 .id/iklan/
 .net/iklan/
+/ads/iklan.
 /images/iklan/*
 /img/promo/*
 /promo.$popup
@@ -29,6 +30,7 @@
 ###adv-placeholder
 ###bottom_exclusive_ads
 ###desaiklan
+blogspot.com###floating_banner_top img[width="728"][height="90"]
 ###floatingad
 ###iklanpersegi
 ###squaread
@@ -661,6 +663,7 @@ kaskus.co.id##.banner-top-ads
 kaskus.co.id##.l-link
 kaskus.co.id##.r-link
 kaskus.co.id,kaskus.com##a[href^="http://kad.kaskus."]
+ketubanjiwa.com###g207
 kolomunik.com###topbar
 komikbaru.com##.iklan_kiri
 komikbaru.com##img[alt="Pemasangan Iklan"]
@@ -690,6 +693,8 @@ mangafox.com##.ad728x90.left + .right
 mangafox.me###left-skyscraper
 mangafox.me###right-skyscraper
 metrotvnews.com###fixme
+metrotvnews.com##.banner-160x600.left.mb20
+metrotvnews.com##div[style="height: 60px; margin:auto; background-color:#ccc; width:960px; bottom:0px;position:fixed;z-index:100"]
 microsite.kapanlagi.com###scmicrosite
 mivo.tv##TBODY [width="890"][height="70"] + table[align="center"]
 mivo.tv##table[width="100%"] > tbody > tr > td[height="250"]
@@ -701,6 +706,7 @@ nyunyu.com###gb2
 nyunyu.com##.page_ads img
 okezone.com##img[src*="/images/ad/"]
 oktavita.com##.banner-zone
+palingseru.com##.alignnone.size-large.wp-image-458
 remo-xp.com###adsheader
 remo-xp.com###banner_bawah
 remo-xp.com###ikanan
