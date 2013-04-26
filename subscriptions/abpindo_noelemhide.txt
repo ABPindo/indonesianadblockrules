@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: nwZYNRsocbBgQ46+Bgy/FQ
+! Checksum: uzO//7f5lfv6iisttV4FkA
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 26 April 2013, 18:12:45 WIB
+! Last modified 26 April 2013, 18:22:51 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -358,6 +358,7 @@
 /usaha-berhasil.gif
 /usahaberhasil.gif
 ! *** abpindo_specific_block.txt ***
+|about:blank$popup,domain=fakku.net
 ||173.199.167.192/bb17-iklan.php
 ||admin.ads.indowebster.com^
 ||alertpay.com/banners/
@@ -441,6 +442,7 @@
 ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 ||videogamesindonesia.com/banners/
+||webmasterrock.com/cpxt_pab1728.php$domain=ahashare.com
 ||wwwkikilorg.appspot.com/images/banner/
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
