@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 26 April 2013, 18:22:51 WIB
+# Last modified 26 April 2013, 18:40:23 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -370,7 +370,6 @@ msFilterList
 -d bolanews.com /application/views/web/default/images/close-icon.png
 -d bolavegas.com /ads/
 -d cashburners.biz /banners/
--d ceri.ws /ads/
 -d ceriwis.us /banner/
 -d chip.co.id /microsite/frame/index.html
 # ||coblos.net^*.swf$domain=bintangmawar.net
