@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: TUZeBZAT6hHyppRdFHjW9w
+! Checksum: qYQhZHHkfc/d3YYHEkFtQQ
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 26 April 2013, 18:12:45 WIB
+! Last modified: 26 April 2013, 18:22:51 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -478,6 +478,7 @@ com##img[title="Taruhan Bola Online"]
 ||usahaberhasil.com^$third-party
 ||webbola.com^$third-party
 ! *** abpindo_specific_block.txt ***
+|about:blank$popup,domain=fakku.net
 ||173.199.167.192/bb17-iklan.php
 ||admin.ads.indowebster.com^
 ||alertpay.com/banners/
@@ -561,6 +562,7 @@ com##img[title="Taruhan Bola Online"]
 ||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
 ||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
 ||videogamesindonesia.com/banners/
+||webmasterrock.com/cpxt_pab1728.php$domain=ahashare.com
 ||wwwkikilorg.appspot.com/images/banner/
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
@@ -577,6 +579,7 @@ asik.me,duniasex.ws###main_content_section > div[align="center"]
 beritateknologi.com###topbar
 bokep.sibawel.com###topwrapper
 bokep.sibawel.com##.clear
+bokep.sibawel.com##img[width="728"][heigth="90"]
 catatankomputer.com##.forads .alignleft
 ceriwis.us###hoho-wrapsubmenu3
 cewecewe.com###teaser2
