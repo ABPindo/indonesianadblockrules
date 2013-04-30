@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 26 April 2013, 18:40:23 WIB
+# Last modified 30 April 2013, 17:50:37 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -367,6 +367,7 @@ msFilterList
 # ||bacamanga.com/images/indofiles/$image
 -d bingofreebonus.net /bfbcontent/locker.js?
 # ||blogspot.com^*.gif$domain=asik.me|duniasex.ws
+-d bokepgratiz.info /banner/
 -d bolanews.com /application/views/web/default/images/close-icon.png
 -d bolavegas.com /ads/
 -d cashburners.biz /banners/
@@ -374,6 +375,7 @@ msFilterList
 -d chip.co.id /microsite/frame/index.html
 # ||coblos.net^*.swf$domain=bintangmawar.net
 -d detik.com /images/banners/
+-d dl.dropbox.com /u/81212926/bloggerheroefacebookpopup.js
 -d ebsoft.web.id /wp-content/banners/
 # ||ewetot.com^$image,object,domain=bintangmawar.net
 -d formulabisnis.com /images/
@@ -385,7 +387,9 @@ msFilterList
 -d harianjogja.com /img/bnr/
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
+-d images.harianjogja.com /banner/
 -d images.indoforum.org /banners/
+-d images.solopos.com /banner/
 # ||img.cuvso.com^$domain=remo-xp.com
 -d indobokepz.com /images/banner/
 -d indochanger.com /banner/
