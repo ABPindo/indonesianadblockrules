@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 26 April 2013, 18:40:23 WIB
+# Last modified: 30 April 2013, 17:50:37 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -30,6 +30,7 @@ msFilterList
 # ###bottom_exclusive_ads
 # ###desaiklan
 # ###floatingad
+# ###iklan_atas
 # ###iklanpersegi
 # ###squaread
 # ###top_ad_full
@@ -469,6 +470,7 @@ msFilterList
 # ||bacamanga.com/images/indofiles/$image
 -d bingofreebonus.net /bfbcontent/locker.js?
 # ||blogspot.com^*.gif$domain=asik.me|duniasex.ws
+-d bokepgratiz.info /banner/
 -d bolanews.com /application/views/web/default/images/close-icon.png
 -d bolavegas.com /ads/
 -d cashburners.biz /banners/
@@ -476,6 +478,7 @@ msFilterList
 -d chip.co.id /microsite/frame/index.html
 # ||coblos.net^*.swf$domain=bintangmawar.net
 -d detik.com /images/banners/
+-d dl.dropbox.com /u/81212926/bloggerheroefacebookpopup.js
 -d ebsoft.web.id /wp-content/banners/
 # ||ewetot.com^$image,object,domain=bintangmawar.net
 -d formulabisnis.com /images/
@@ -487,7 +490,9 @@ msFilterList
 -d harianjogja.com /img/bnr/
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
+-d images.harianjogja.com /banner/
 -d images.indoforum.org /banners/
+-d images.solopos.com /banner/
 # ||img.cuvso.com^$domain=remo-xp.com
 -d indobokepz.com /images/banner/
 -d indochanger.com /banner/
@@ -552,9 +557,13 @@ msFilterList
 # 173.199.167.192##.fixmeInner
 # 173.199.189.87,forumbokep.com,krucil.com###floating_banner_bottom
 # 96.30.13.88##.semprot_ads
+# adipedia.com###btm_banner
 # beritateknologi.com###topbar
 # bokep.sibawel.com###topwrapper
 # bokep.sibawel.com##.clear
+# bokep.sibawel.com##.widget_advertisements
+# bokepgratiz.info###btm_banner
+# bokepgratiz.info##.textwidget
 # catatankomputer.com##.forads .alignleft
 # ceriwis.us###hoho-wrapsubmenu3
 # cewecewe.com###teaser2
@@ -576,6 +585,7 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.iklan_tengah
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 # downloadmoviesfree.net###samdav-links
@@ -593,10 +603,9 @@ msFilterList
 # galeri.indonesiaselebriti.com###bannerbesar
 # gambarkeren.info##.iklankotak1
 # google.co.id###rhs_block
-# google.com###rhs_block
-# google.com##.c0.lti35t
 # gugling.com##.ad336x280atas
-# i-comers.com##.simple_advert
+# harianjogja.com,solopos.com###ads-float
+# harianjogja.com,solopos.com###solopos_float
 # ibuprita.suatuhari.com##.box > .textwidget > center
 # icinema3satu.com###FloatAlamindawa
 # indogamers.com###IklanIDGS
@@ -656,6 +665,7 @@ msFilterList
 # tempointeraktif.com###banner-bawah
 # topterunik.com###topbar
 # tribunnews.com###bannerku
+# untukku.com###footer-adcont
 # warungbebas.com##.gbtab
 # wowkeren.com###Ad728
 # zonabola.com###afbsports

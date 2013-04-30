@@ -4,13 +4,19 @@
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 173.199.189.87,forumbokep.com,krucil.com###floating_banner_bottom
 96.30.13.88##.semprot_ads
-asik.me##[href$="betme88.com"]
-asik.me##[href$="tri7bet.com"]
+adipedia.com###btm_banner
 asik.me,duniasex.ws###main_content_section > div[align="center"]
+asik.me,duniasex.ws##[href$="betme88.com"]
+asik.me,duniasex.ws##[href$="tri7bet.com"]
 beritateknologi.com###topbar
 bokep.sibawel.com###topwrapper
 bokep.sibawel.com##.clear
+bokep.sibawel.com##.widget_advertisements
 bokep.sibawel.com##img[width="728"][heigth="90"]
+bokepgratiz.info###btm_banner
+bokepgratiz.info##.textwidget
+bokepgratiz.info##div[style="width:100%;text-align:center;"]
+bokepgratiz.info##img[alt="smart-forex-system.com"]
 catatankomputer.com##.forads .alignleft
 ceriwis.us###hoho-wrapsubmenu3
 cewecewe.com###teaser2
@@ -33,6 +39,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.iklan_tengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##a[href$=".ad"][target="_blank"]
@@ -46,7 +53,6 @@ downloadmoviesfree.net###samdav-loading
 downloadmoviesfree.net###samdav-locker
 downloadmoviesfree.net###samdav-wrapper
 duniabaca.com##.banner
-duniasex.ws##[align="center"] img[style="width: 580px; height: 60px;"]
 forumbebas.com###topbar
 forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
@@ -67,6 +73,7 @@ galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
 ganool.com##.banner-right.clearfix[style="width:270px;"]
 ganool.com##[type="text/javascript"] + p + center
+gayahot.com##img[alt="Memek basah"]
 gen22.net###kotak-kontent .separator[style="clear: both; text-align: center;"]
 gen22.net##[href="http://agent108.com/"]
 gen22.net##[href="http://www.capaisukses.com/"]
@@ -75,11 +82,9 @@ gen22.net##img[title="Naga Oil Super"]
 google.co.id###rhs_block
 google.co.id##table[style="border: 1px solid #0000CC"]
 google.co.id##table[style="border: 1px solid #11593c"]
-google.com###rhs_block
-google.com##.c0.lti35t
 gugling.com##.ad336x280atas
-i-comers.com##.alt1[nowrap="nowrap"]
-i-comers.com##.simple_advert
+harianjogja.com,solopos.com###ads-float
+harianjogja.com,solopos.com###solopos_float
 ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com###FloatAlamindawa
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
@@ -167,6 +172,7 @@ thehack3r.com##img[width="728"][height="90"]
 topterunik.com###topbar
 tribunnews.com###bannerku
 tribunnews.com##img[src="http://www.tribunnews.com/stylesheets/close.gif"]
+untukku.com###footer-adcont
 warnetforum.com##div[style="margin: 10px auto 10px;width:599px;"]
 warungbebas.com##.gbtab
 wowkeren.com###Ad728

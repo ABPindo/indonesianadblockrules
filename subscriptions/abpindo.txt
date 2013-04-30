@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: i7ti7kFfImHVFa4NS5JUzQ
+! Checksum: mSKxqf5N1GSGzp4pHo3GXA
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 26 April 2013, 18:40:23 WIB
+! Last modified: 30 April 2013, 17:50:37 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -32,6 +32,7 @@
 ###desaiklan
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 ###floatingad
+###iklan_atas
 ###iklanpersegi
 ###squaread
 ###top_ad_full
@@ -488,6 +489,7 @@ com##img[title="Taruhan Bola Online"]
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||blogspot.com^*.gif$domain=asik.me|duniasex.ws
+||bokepgratiz.info/banner/
 ||bolanews.com/application/views/web/default/images/close-icon.png
 ||bolavegas.com/ads/
 ||cashburners.biz/banners/$third-party
@@ -495,6 +497,7 @@ com##img[title="Taruhan Bola Online"]
 ||chip.co.id/microsite/frame/index.html
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||detik.com/images/banners/
+||dl.dropbox.com/u/81212926/bloggerheroefacebookpopup.js
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||formulabisnis.com/images/$third-party
@@ -506,7 +509,9 @@ com##img[title="Taruhan Bola Online"]
 ||harianjogja.com/img/bnr/
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
+||images.harianjogja.com/banner/
 ||images.indoforum.org/banners/
+||images.solopos.com/banner/
 ||img.cuvso.com^$domain=remo-xp.com
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
@@ -572,13 +577,19 @@ com##img[title="Taruhan Bola Online"]
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 173.199.189.87,forumbokep.com,krucil.com###floating_banner_bottom
 96.30.13.88##.semprot_ads
-asik.me##[href$="betme88.com"]
-asik.me##[href$="tri7bet.com"]
+adipedia.com###btm_banner
 asik.me,duniasex.ws###main_content_section > div[align="center"]
+asik.me,duniasex.ws##[href$="betme88.com"]
+asik.me,duniasex.ws##[href$="tri7bet.com"]
 beritateknologi.com###topbar
 bokep.sibawel.com###topwrapper
 bokep.sibawel.com##.clear
+bokep.sibawel.com##.widget_advertisements
 bokep.sibawel.com##img[width="728"][heigth="90"]
+bokepgratiz.info###btm_banner
+bokepgratiz.info##.textwidget
+bokepgratiz.info##div[style="width:100%;text-align:center;"]
+bokepgratiz.info##img[alt="smart-forex-system.com"]
 catatankomputer.com##.forads .alignleft
 ceriwis.us###hoho-wrapsubmenu3
 cewecewe.com###teaser2
@@ -601,6 +612,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.iklan_tengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##a[href$=".ad"][target="_blank"]
@@ -614,7 +626,6 @@ downloadmoviesfree.net###samdav-loading
 downloadmoviesfree.net###samdav-locker
 downloadmoviesfree.net###samdav-wrapper
 duniabaca.com##.banner
-duniasex.ws##[align="center"] img[style="width: 580px; height: 60px;"]
 forumbebas.com###topbar
 forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
@@ -635,6 +646,7 @@ galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
 ganool.com##.banner-right.clearfix[style="width:270px;"]
 ganool.com##[type="text/javascript"] + p + center
+gayahot.com##img[alt="Memek basah"]
 gen22.net###kotak-kontent .separator[style="clear: both; text-align: center;"]
 gen22.net##[href="http://agent108.com/"]
 gen22.net##[href="http://www.capaisukses.com/"]
@@ -643,11 +655,9 @@ gen22.net##img[title="Naga Oil Super"]
 google.co.id###rhs_block
 google.co.id##table[style="border: 1px solid #0000CC"]
 google.co.id##table[style="border: 1px solid #11593c"]
-google.com###rhs_block
-google.com##.c0.lti35t
 gugling.com##.ad336x280atas
-i-comers.com##.alt1[nowrap="nowrap"]
-i-comers.com##.simple_advert
+harianjogja.com,solopos.com###ads-float
+harianjogja.com,solopos.com###solopos_float
 ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com###FloatAlamindawa
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
@@ -735,6 +745,7 @@ thehack3r.com##img[width="728"][height="90"]
 topterunik.com###topbar
 tribunnews.com###bannerku
 tribunnews.com##img[src="http://www.tribunnews.com/stylesheets/close.gif"]
+untukku.com###footer-adcont
 warnetforum.com##div[style="margin: 10px auto 10px;width:599px;"]
 warungbebas.com##.gbtab
 wowkeren.com###Ad728
