@@ -3,7 +3,6 @@
 ||admin.ads.indowebster.com^
 ||alertpay.com/banners/
 ||armylookfashion.com/728.swf
-||asiafriendfinder.com^$domain=maknyos.com
 ||asianbrain.com/banner/
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
@@ -17,6 +16,7 @@
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||detik.com/images/banners/
 ||dl.dropbox.com/u/81212926/bloggerheroefacebookpopup.js
+||dorabet.net/banner/
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||formulabisnis.com/images/$third-party
@@ -40,6 +40,7 @@
 ||investasiceria.net/images/$third-party
 ||kad.kaskus.co.id/banner/$subdocument
 ||kad.kaskus.com/banner/$subdocument
+||kampus.us/banners/
 ||kapanlagi.com^*/banner/
 ||kaskus.co.id/adv/
 ||kaskus.co.id/images/adv/
@@ -48,6 +49,7 @@
 ||kawin.us/images/banner/
 ||keripikcadas.com/banner/
 ||kikil.org/forum/banner/
+||kikil.ws/banner/
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
 ||kompas.com/data/banner/
 ||koranlokal.com/iklan_baru/
@@ -77,15 +79,17 @@
 ||remoxp.hostzi.com/banner160x720.jpg
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
+||sodasusu.com/banner/
+||sodasusu.org/banner/
 ||static.republika.co.id/files/images/btn_close.png
 ||suarabola.com/banners/$third-party
 ||suaramedia.com/images/banners/
 ||tabloidbintang.com/images/adv/
 ||tabloidbintang.com^*/space-iklan/
-||tinypic.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com
-||uploadhouse.com^*.gif$bluefame.com|indobokepz.com|kawin.us|kikil.org|krucil.com|lendir.us|nawalah.com|nawalasu.com|perawan.us|perjaka.us|ranjangternoda.com|situsterlarang.com|bintangmawar.net
+||upload.coblos.net/images/*.gif
 ||videogamesindonesia.com/banners/
 ||webmasterrock.com/cpxt_pab1728.php$domain=ahashare.com
+||widih.modifikasi.com/images/banners/
 ||wwwkikilorg.appspot.com/images/banner/
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
