@@ -3,11 +3,12 @@
 ###adv-placeholder
 ###bottom_exclusive_ads
 ###desaiklan
+blogspot.com###floating_banner_bottom
+blogspot.com###floating_banner_bottom2
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 ###floatingad
 ###iklan_atas
 ###iklanpersegi
-###squaread
 ###top_ad_full
 blogspot.com###topbar
 ##.SectionAds
@@ -22,6 +23,7 @@ blogspot.com###topbar
 ##a[href*="bursabet.com"]
 ##a[href*="usahaberhasil.com"]
 com##img[alt="Agen Judi Online"]
+##img[alt="Pasang Iklan Anda Disini"]
 com##img[alt="Pasang Iklan Murah"]
 com##img[alt="Space Iklan"]
 com##img[alt="Taruhan Bola Online"]

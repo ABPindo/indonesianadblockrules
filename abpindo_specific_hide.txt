@@ -9,10 +9,17 @@ asik.me,duniasex.ws###main_content_section > div[align="center"]
 asik.me,duniasex.ws##[href$="betme88.com"]
 asik.me,duniasex.ws##[href$="tri7bet.com"]
 beritateknologi.com###topbar
+bokep.sibawel.com###close-teaser
+bokep.sibawel.com###teaser
+bokep.sibawel.com###teaser2
+bokep.sibawel.com###teaser3
 bokep.sibawel.com###topwrapper
 bokep.sibawel.com##.clear
 bokep.sibawel.com##.widget_advertisements
 bokep.sibawel.com##img[width="728"][heigth="90"]
+bokep.sibawel.com##td[width="160"][align="center"][height="158"]
+bokep.sibawel.com##td[width="160"][align="left"][height="158"]
+bokep.sibawel.com##td[width="160"][align="right"][height="158"]
 bokepgratiz.info###btm_banner
 bokepgratiz.info##.textwidget
 bokepgratiz.info##div[style="width:100%;text-align:center;"]
@@ -59,7 +66,7 @@ forumbebas.com##center > a[target="_blank"]
 forumbokep.com##a[href$="from=vocland"]
 forumbokep.com##img[src="http://173.199.189.86/images/do.gif"]
 forumbokep.com##img[style="width: 435px; height: 60px;"]
-forumbokep.com,semprot.com,semprotlagi.com###ad_global_below_navbar
+forumbokep.com,kampus.us,semprot.com,sodasusu.com###ad_global_below_navbar
 forumkami.net##.floating_left
 forumkami.net##.floating_right
 forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:11px;padding-left:9px;border: 1px solid #B8B8B8;"]
@@ -71,6 +78,8 @@ galaxymaya.com###teaser3
 galaxymaya.com##.widget-content
 galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
+ganool.com###floating_banner_bottom2
+ganool.com###post-35426
 ganool.com##.banner-right.clearfix[style="width:270px;"]
 ganool.com##[type="text/javascript"] + p + center
 gayahot.com##img[alt="Memek basah"]
@@ -99,6 +108,7 @@ infobill.telkom.co.id##.txt_normal[width="100%"][align="center"]
 inilah.com###anchormasklink
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 jurigjarian.com###topbar
+kampus.us###elementDiv
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v7-showcase1
 kapanlagi.com###v7-showcase2
@@ -115,6 +125,8 @@ kompas.com##img[src^="http://img.ads."]
 kompasiana.com###anchormasklink
 krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 krisna.web.id##img[style="width: 728px; height: 90px;"]
+krngbl.com##.ryt-ads
+krngbl.com##div[style="width:296px; height:246px; border:0px solid #111111; background-color:#111111;"]
 krucil.com###floatdiv.notice
 krucil.com###ucpop_adpB
 krucil.com###ucpop_adpS
@@ -158,8 +170,8 @@ remo-xp.com###ikiri
 remo-xp.com##img[alt="iklan 440x90"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 resep.web.id###googlebox
-semprotlagi.com##.semprot_ads
 situshp.com##div[style="height:260px;"]
+sodasusu.com###teaser4
 stafaband.info##table[width="100%"] + #bottom
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 tempo.co##.closebanner1
@@ -183,6 +195,5 @@ zonabola.com##img[width="750"][height="75"][border="0"]
 zonamuda.com###iklan2
 zonamuda.com###iklan4
 zonamuda.com##.bannertengah
-zonamuda.com##.bannertengah img[style="width: 728px; height: 90px;"]
 zonamuda.com##img[width="728"][height="90"][alt="iklan"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]

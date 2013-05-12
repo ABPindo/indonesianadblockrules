@@ -27,7 +27,6 @@
 ||cash-harvest.com^$third-party
 ||chainbux.com^$third-party
 ||dewamabuk.com$third-party
-||dorabet.net/banner/
 ||doremibet.com^$third-party
 ||drumcash.com^$third-party
 ||duitbux.com^$third-party
@@ -39,6 +38,7 @@
 ||fellowequality.com^$third-party
 ||folderbisnis.com^$third-party
 ||forexpose.com^$third-party
+||fulltiltpoker.com^$popup,domain=ganool.com
 ||funds4cash.com^$third-party
 ||gajigratis.com^$third-party
 ||galaxybola.com^$third-party
@@ -67,6 +67,7 @@
 ||promotioncamp.com^$third-party
 ||prophetofdoom.net^$third-party
 ||publish.web.id^$third-party
+||rpc-php.trafficfactory.biz^$popup
 ||sinusbux.com^$third-party
 ||sitipromo.web.id^$third-party
 ||sitti.co.id^$third-party
