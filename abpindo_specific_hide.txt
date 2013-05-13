@@ -98,6 +98,7 @@ ibuprita.suatuhari.com##.box > .textwidget > center
 icinema3satu.com###FloatAlamindawa
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
+id.yahoo.com##.carousel-pos6.carousel-pos.y-ln-1
 indo.kerangbulu.com##center > div[style="width:728px; border:0px solid #dfdfdf;"]
 indogamers.com###IklanIDGS
 indogamers.com###bottombanner
@@ -152,6 +153,7 @@ metrotvnews.com###fixme
 metrotvnews.com##.banner-160x600.left.mb20
 metrotvnews.com##div[style="height: 60px; margin:auto; background-color:#ccc; width:960px; bottom:0px;position:fixed;z-index:100"]
 microsite.kapanlagi.com###scmicrosite
+mivo.tv###BFAslidein
 mivo.tv##TBODY [width="890"][height="70"] + table[align="center"]
 mivo.tv##table[width="100%"] > tbody > tr > td[height="250"]
 mivo.tv##td[align="center"][style="padding-bottom:10px;"]
@@ -180,11 +182,13 @@ tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
 thehack3r.com##img[src="/img/maxbet.gif"]
+thehack3r.com##img[style="width: 728px; height: 90px;"]
 thehack3r.com##img[width="728"][height="90"]
 topterunik.com###topbar
 tribunnews.com###bannerku
 tribunnews.com##img[src="http://www.tribunnews.com/stylesheets/close.gif"]
 untukku.com###footer-adcont
+viva.co.id##td[style="z-index:1000000;"]
 warnetforum.com##div[style="margin: 10px auto 10px;width:599px;"]
 warungbebas.com##.gbtab
 wowkeren.com###Ad728

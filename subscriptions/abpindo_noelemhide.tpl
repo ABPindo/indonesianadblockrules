@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 12 Mei 2013, 19:00:44 WIB
+# Last modified 13 Mei 2013, 16:37:06 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -374,8 +374,10 @@ msFilterList
 -d chip.co.id /microsite/frame/index.html
 # ||coblos.net^*.swf$domain=bintangmawar.net
 -d detik.com /images/banners/
+-d dixam.net /banner/
 -d dl.dropbox.com /u/81212926/bloggerheroefacebookpopup.js
 -d dorabet.net /banner/
+# ||doublerads.com^$image,subdocument,domain=mivo.tv
 -d ebsoft.web.id /wp-content/banners/
 # ||ewetot.com^$image,object,domain=bintangmawar.net
 -d formulabisnis.com /images/
@@ -387,6 +389,7 @@ msFilterList
 -d harianjogja.com /img/bnr/
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
+-d images.gameweb.co.id /gw/ads/
 -d images.harianjogja.com /banner/
 -d images.indoforum.org /banners/
 -d images.solopos.com /banner/
@@ -420,7 +423,6 @@ msFilterList
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
 -d manasuka.com /gbr_banner_link/
-# ||masterporn.me^*.gif$domain=krucil.net
 -d mediahide.com /ganool/*/banner-ganool.gif
 -d mediaindonesia.com /public/banner/flash/
 -d megindo.net /megindo2/images/banner-
@@ -445,8 +447,10 @@ msFilterList
 -d suaramedia.com /images/banners/
 -d tabloidbintang.com /images/adv/
 -d tabloidbintang.com /space-iklan/
+-d tambahketinggian.com /banner/
 -d upload.coblos.net /images/*.gif
 -d videogamesindonesia.com /banners/
+-d viva.co.id /appaux/images/close-button1.png
 # ||webmasterrock.com/cpxt_pab1728.php$domain=ahashare.com
 -d widih.modifikasi.com /images/banners/
 -d wwwkikilorg.appspot.com /images/banner/

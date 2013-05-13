@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: q6/00emvh2H4IiWkBjzpfQ
+! Checksum: jX5K6OUsz/wwYz7BLwGmng
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 12 Mei 2013, 19:00:44 WIB
+! Last modified 13 Mei 2013, 16:37:06 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -375,8 +375,10 @@
 ||chip.co.id/microsite/frame/index.html
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||detik.com/images/banners/
+||dixam.net/banner/
 ||dl.dropbox.com/u/81212926/bloggerheroefacebookpopup.js
 ||dorabet.net/banner/
+||doublerads.com^$image,subdocument,domain=mivo.tv
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||formulabisnis.com/images/$third-party
@@ -388,6 +390,7 @@
 ||harianjogja.com/img/bnr/
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
+||images.gameweb.co.id/gw/ads/
 ||images.harianjogja.com/banner/
 ||images.indoforum.org/banners/
 ||images.solopos.com/banner/
@@ -421,7 +424,6 @@
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||manasuka.com/gbr_banner_link/$third-party
-||masterporn.me^*.gif$domain=krucil.net
 ||mediahide.com/ganool/*/banner-ganool.gif
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
@@ -446,8 +448,10 @@
 ||suaramedia.com/images/banners/
 ||tabloidbintang.com/images/adv/
 ||tabloidbintang.com^*/space-iklan/
+||tambahketinggian.com/banner/
 ||upload.coblos.net/images/*.gif
 ||videogamesindonesia.com/banners/
+||viva.co.id/appaux/images/close-button1.png
 ||webmasterrock.com/cpxt_pab1728.php$domain=ahashare.com
 ||widih.modifikasi.com/images/banners/
 ||wwwkikilorg.appspot.com/images/banner/
