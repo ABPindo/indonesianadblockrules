@@ -1,7 +1,7 @@
-[Adblock Plus 1.1]
-! Checksum: 8IPp0ul5T4rJVpzsnmR3Qw
+[Adblock Plus 2.0]
+! Checksum: F598KSg5d38fTBHCWC4b/A
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 13 Mei 2013, 16:37:06 WIB
+! Last modified: 24 Mei 2013, 18:05:03 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -490,7 +490,7 @@ com##img[title="Taruhan Bola Online"]
 ||asianbrain.com/banner/
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
-||blogspot.com^*.gif$domain=asik.me|duniasex.ws
+||blogspot.com^*.gif$domain=asik.me|duniasex.ws|koranseksi.com
 ||bokepgratiz.info/banner/
 ||bolanews.com/application/views/web/default/images/close-icon.png
 ||bolavegas.com/ads/
@@ -505,12 +505,13 @@ com##img[title="Taruhan Bola Online"]
 ||doublerads.com^$image,subdocument,domain=mivo.tv
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
+||filmbokepdewasa.com/*/adv/
 ||formulabisnis.com/images/$third-party
 ||forumbola.org/close3.png
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||forumkami.net/close.gif
-||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws
+||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws|iniunic.blogspot.com
 ||harianjogja.com/img/bnr/
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
@@ -519,6 +520,7 @@ com##img[title="Taruhan Bola Online"]
 ||images.indoforum.org/banners/
 ||images.solopos.com/banner/
 ||img.cuvso.com^$domain=remo-xp.com
+||imgur.com/*.gif$domain=koranseksi.com
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
@@ -703,11 +705,16 @@ kaskus.co.id##.l-link
 kaskus.co.id##.r-link
 kaskus.co.id,kaskus.com##a[href^="http://kad.kaskus."]
 ketubanjiwa.com###g207
+kikil.ws###floating_banner_bottom
+kikil.ws###id_kikil_ads_h3
+kikil.ws###ucpop_adpC
+kikil.ws##.bannerBox
 kolomunik.com###topbar
 komikbaru.com##.iklan_kiri
 komikbaru.com##img[alt="Pemasangan Iklan"]
 kompas.com##img[src^="http://img.ads."]
 kompasiana.com###anchormasklink
+koranseksi.com###close-teaser
 krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 krisna.web.id##img[style="width: 728px; height: 90px;"]
 krngbl.com##.ryt-ads
@@ -741,6 +748,7 @@ mivo.tv###BFAslidein
 mivo.tv##TBODY [width="890"][height="70"] + table[align="center"]
 mivo.tv##table[width="100%"] > tbody > tr > td[height="250"]
 mivo.tv##td[align="center"][style="padding-bottom:10px;"]
+modifikasi.com##.cell_banner_inside
 nusareborn.in###btm_banner
 nyunyu.com###footer-banner
 nyunyu.com###gb

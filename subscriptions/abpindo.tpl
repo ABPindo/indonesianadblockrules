@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 13 Mei 2013, 16:37:06 WIB
+# Last modified: 24 Mei 2013, 18:05:03 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -470,7 +470,7 @@ msFilterList
 -d asianbrain.com /banner/
 # ||bacamanga.com/images/indofiles/$image
 -d bingofreebonus.net /bfbcontent/locker.js?
-# ||blogspot.com^*.gif$domain=asik.me|duniasex.ws
+# ||blogspot.com^*.gif$domain=asik.me|duniasex.ws|koranseksi.com
 -d bokepgratiz.info /banner/
 -d bolanews.com /application/views/web/default/images/close-icon.png
 -d bolavegas.com /ads/
@@ -485,12 +485,13 @@ msFilterList
 # ||doublerads.com^$image,subdocument,domain=mivo.tv
 -d ebsoft.web.id /wp-content/banners/
 # ||ewetot.com^$image,object,domain=bintangmawar.net
+-d filmbokepdewasa.com /*/adv/
 -d formulabisnis.com /images/
 -d forumbola.org /close3.png
 -d forumkami.net /ad125x125/
 -d forumkami.net /ad200x50/
 -d forumkami.net /close.gif
-# ||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws
+# ||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws|iniunic.blogspot.com
 -d harianjogja.com /img/bnr/
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
@@ -499,6 +500,7 @@ msFilterList
 -d images.indoforum.org /banners/
 -d images.solopos.com /banner/
 # ||img.cuvso.com^$domain=remo-xp.com
+# ||imgur.com/*.gif$domain=koranseksi.com
 -d indobokepz.com /images/banner/
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
@@ -640,9 +642,14 @@ msFilterList
 # kaskus.co.id##.l-link
 # kaskus.co.id##.r-link
 # ketubanjiwa.com###g207
+# kikil.ws###floating_banner_bottom
+# kikil.ws###id_kikil_ads_h3
+# kikil.ws###ucpop_adpC
+# kikil.ws##.bannerBox
 # kolomunik.com###topbar
 # komikbaru.com##.iklan_kiri
 # kompasiana.com###anchormasklink
+# koranseksi.com###close-teaser
 # krngbl.com##.ryt-ads
 # krucil.com###floatdiv.notice
 # krucil.com###ucpop_adpB
@@ -666,6 +673,7 @@ msFilterList
 # metrotvnews.com##.banner-160x600.left.mb20
 # microsite.kapanlagi.com###scmicrosite
 # mivo.tv###BFAslidein
+# modifikasi.com##.cell_banner_inside
 # nusareborn.in###btm_banner
 # nyunyu.com###footer-banner
 # nyunyu.com###gb
