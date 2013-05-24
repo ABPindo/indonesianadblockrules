@@ -119,11 +119,16 @@ kaskus.co.id##.l-link
 kaskus.co.id##.r-link
 kaskus.co.id,kaskus.com##a[href^="http://kad.kaskus."]
 ketubanjiwa.com###g207
+kikil.ws###floating_banner_bottom
+kikil.ws###id_kikil_ads_h3
+kikil.ws###ucpop_adpC
+kikil.ws##.bannerBox
 kolomunik.com###topbar
 komikbaru.com##.iklan_kiri
 komikbaru.com##img[alt="Pemasangan Iklan"]
 kompas.com##img[src^="http://img.ads."]
 kompasiana.com###anchormasklink
+koranseksi.com###close-teaser
 krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 krisna.web.id##img[style="width: 728px; height: 90px;"]
 krngbl.com##.ryt-ads
@@ -157,6 +162,7 @@ mivo.tv###BFAslidein
 mivo.tv##TBODY [width="890"][height="70"] + table[align="center"]
 mivo.tv##table[width="100%"] > tbody > tr > td[height="250"]
 mivo.tv##td[align="center"][style="padding-bottom:10px;"]
+modifikasi.com##.cell_banner_inside
 nusareborn.in###btm_banner
 nyunyu.com###footer-banner
 nyunyu.com###gb
