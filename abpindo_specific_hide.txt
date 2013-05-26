@@ -168,6 +168,7 @@ nyunyu.com###footer-banner
 nyunyu.com###gb
 nyunyu.com###gb2
 nyunyu.com##.page_ads img
+okezone.com##.flbanner
 okezone.com##img[src*="/images/ad/"]
 oktavita.com##.banner-zone
 palingseru.com##.alignnone.size-large.wp-image-458

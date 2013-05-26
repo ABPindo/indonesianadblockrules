@@ -55,7 +55,6 @@
 ||kebunemas.com^$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
-||legal-earning.com^$subdocument,third-party
 ||link2communion.com^$third-party
 ||m88media.com^$third-party
 ||mabosbet.com^$third-party
@@ -68,7 +67,6 @@
 ||prophetofdoom.net^$third-party
 ||publish.web.id^$third-party
 ||rpc-php.trafficfactory.biz^$popup
-||sinusbux.com^$third-party
 ||sitipromo.web.id^$third-party
 ||sitti.co.id^$third-party
 ||situsbet.com^$third-party
