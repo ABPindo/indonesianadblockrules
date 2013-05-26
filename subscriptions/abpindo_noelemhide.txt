@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: OKNvSXuu6BgszeMPT5/6qw
+! Checksum: pM4RdjB6TpzCyQyQ54HspA
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 24 Mei 2013, 18:05:03 WIB
+! Last modified 26 Mei 2013, 19:19:16 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -408,9 +408,7 @@
 ||kampus.us/banners/
 ||kapanlagi.com^*/banner/
 ||kaskus.co.id/adv/
-||kaskus.co.id/images/adv/
 ||kaskus.com/adv/
-||kaskus.com/images/adv/
 ||kawin.us/images/banner/
 ||keripikcadas.com/banner/
 ||kikil.org/forum/banner/
@@ -448,13 +446,11 @@
 ||static.republika.co.id/files/images/btn_close.png
 ||suarabola.com/banners/$third-party
 ||suaramedia.com/images/banners/
-||tabloidbintang.com/images/adv/
 ||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/
 ||upload.coblos.net/images/*.gif
 ||videogamesindonesia.com/banners/
 ||viva.co.id/appaux/images/close-button1.png
-||webmasterrock.com/cpxt_pab1728.php$domain=ahashare.com
 ||widih.modifikasi.com/images/banners/
 ||wwwkikilorg.appspot.com/images/banner/
 ||zonabola.com/mansion.htm
@@ -517,7 +513,6 @@
 ||kebunemas.com^$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
-||legal-earning.com^$subdocument,third-party
 ||link2communion.com^$third-party
 ||m88media.com^$third-party
 ||mabosbet.com^$third-party
@@ -530,7 +525,6 @@
 ||prophetofdoom.net^$third-party
 ||publish.web.id^$third-party
 ||rpc-php.trafficfactory.biz^$popup
-||sinusbux.com^$third-party
 ||sitipromo.web.id^$third-party
 ||sitti.co.id^$third-party
 ||situsbet.com^$third-party

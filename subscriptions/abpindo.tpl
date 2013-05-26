@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 24 Mei 2013, 18:05:03 WIB
+# Last modified: 26 Mei 2013, 19:19:16 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -436,7 +436,6 @@ msFilterList
 - http://kebunemas.com
 - http://komisigratis.com
 - http://kumpuljutawan.com
-# ||legal-earning.com^$subdocument,third-party
 - http://link2communion.com
 - http://m88media.com
 - http://mabosbet.com
@@ -449,7 +448,6 @@ msFilterList
 - http://prophetofdoom.net
 - http://publish.web.id
 # ||rpc-php.trafficfactory.biz^$popup
-- http://sinusbux.com
 - http://sitipromo.web.id
 - http://sitti.co.id
 - http://situsbet.com
@@ -512,9 +510,7 @@ msFilterList
 -d kampus.us /banners/
 -d kapanlagi.com /banner/
 -d kaskus.co.id /adv/
--d kaskus.co.id /images/adv/
 -d kaskus.com /adv/
--d kaskus.com /images/adv/
 -d kawin.us /images/banner/
 -d keripikcadas.com /banner/
 -d kikil.org /forum/banner/
@@ -552,13 +548,11 @@ msFilterList
 -d static.republika.co.id /files/images/btn_close.png
 -d suarabola.com /banners/
 -d suaramedia.com /images/banners/
--d tabloidbintang.com /images/adv/
 -d tabloidbintang.com /space-iklan/
 -d tambahketinggian.com /banner/
 -d upload.coblos.net /images/*.gif
 -d videogamesindonesia.com /banners/
 -d viva.co.id /appaux/images/close-button1.png
-# ||webmasterrock.com/cpxt_pab1728.php$domain=ahashare.com
 -d widih.modifikasi.com /images/banners/
 -d wwwkikilorg.appspot.com /images/banner/
 -d zonabola.com /mansion.htm
@@ -679,6 +673,7 @@ msFilterList
 # nyunyu.com###gb
 # nyunyu.com###gb2
 # nyunyu.com##.page_ads img
+# okezone.com##.flbanner
 # oktavita.com##.banner-zone
 # palingseru.com##.alignnone.size-large.wp-image-458
 # remo-xp.com###adsheader

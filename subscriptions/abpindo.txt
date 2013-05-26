@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: F598KSg5d38fTBHCWC4b/A
+! Checksum: oB2Mn5Qc29CnKJlKy/OIaQ
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 24 Mei 2013, 18:05:03 WIB
+! Last modified: 26 Mei 2013, 19:19:16 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -47,24 +47,12 @@ blogspot.com###topbar
 ##.iklan
 ##.pasangiklan
 ##.topadsense
-##a[href*="bursabet.com"]
-##a[href*="usahaberhasil.com"]
 com##img[alt="Agen Judi Online"]
 ##img[alt="Pasang Iklan Anda Disini"]
 com##img[alt="Pasang Iklan Murah"]
 com##img[alt="Space Iklan"]
 com##img[alt="Taruhan Bola Online"]
 blogspot.com##img[alt="ads"]
-com##img[title="Agen Bola Online"]
-com##img[title="Agen Bola Terpercaya"]
-com##img[title="Agen Bola"]
-com##img[title="Agen Judi Online"]
-com##img[title="Agen Taruhan Bola Online"]
-com##img[title="Bandar VIP"]
-com##img[title="Gallery Obat Kuat"]
-com##img[title="Pasang Banner"]
-com##img[title="Pasang Iklan"]
-com##img[title="Taruhan Bola Online"]
 ! *** abpindo_adservers.txt ***
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
@@ -456,7 +444,6 @@ com##img[title="Taruhan Bola Online"]
 ||kebunemas.com^$third-party
 ||komisigratis.com^$third-party
 ||kumpuljutawan.com^$third-party
-||legal-earning.com^$subdocument,third-party
 ||link2communion.com^$third-party
 ||m88media.com^$third-party
 ||mabosbet.com^$third-party
@@ -469,7 +456,6 @@ com##img[title="Taruhan Bola Online"]
 ||prophetofdoom.net^$third-party
 ||publish.web.id^$third-party
 ||rpc-php.trafficfactory.biz^$popup
-||sinusbux.com^$third-party
 ||sitipromo.web.id^$third-party
 ||sitti.co.id^$third-party
 ||situsbet.com^$third-party
@@ -532,9 +518,7 @@ com##img[title="Taruhan Bola Online"]
 ||kampus.us/banners/
 ||kapanlagi.com^*/banner/
 ||kaskus.co.id/adv/
-||kaskus.co.id/images/adv/
 ||kaskus.com/adv/
-||kaskus.com/images/adv/
 ||kawin.us/images/banner/
 ||keripikcadas.com/banner/
 ||kikil.org/forum/banner/
@@ -572,13 +556,11 @@ com##img[title="Taruhan Bola Online"]
 ||static.republika.co.id/files/images/btn_close.png
 ||suarabola.com/banners/$third-party
 ||suaramedia.com/images/banners/
-||tabloidbintang.com/images/adv/
 ||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/
 ||upload.coblos.net/images/*.gif
 ||videogamesindonesia.com/banners/
 ||viva.co.id/appaux/images/close-button1.png
-||webmasterrock.com/cpxt_pab1728.php$domain=ahashare.com
 ||widih.modifikasi.com/images/banners/
 ||wwwkikilorg.appspot.com/images/banner/
 ||zonabola.com/mansion.htm
@@ -754,6 +736,7 @@ nyunyu.com###footer-banner
 nyunyu.com###gb
 nyunyu.com###gb2
 nyunyu.com##.page_ads img
+okezone.com##.flbanner
 okezone.com##img[src*="/images/ad/"]
 oktavita.com##.banner-zone
 palingseru.com##.alignnone.size-large.wp-image-458
