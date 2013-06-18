@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 26 Mei 2013, 19:19:16 WIB
+# Last modified: 19 June 2013, 05:42:37 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -581,6 +581,7 @@ msFilterList
 # chip.co.id###TopBannerBg
 # clip.cewecewe.com##.ad
 # clip.cewecewe.com##.ads
+# detik.com###skinad
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
@@ -589,6 +590,7 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###footerbanner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###skinad
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###sto_banner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.ads_kanan
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.banner_inside_article
@@ -597,6 +599,7 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.iklan_tengah
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.top_banner_bar
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 # downloadmoviesfree.net###samdav-links
 # downloadmoviesfree.net###samdav-loading
@@ -629,6 +632,10 @@ msFilterList
 # jurigjarian.com###topbar
 # kampus.us###elementDiv
 # kapanlagi.com###v5-leaderboard
+# kapanlagi.com###v5-marcommpromotion
+# kapanlagi.com###v5-showcase1
+# kapanlagi.com###v5-showcase2
+# kapanlagi.com###v5-showcase3
 # kapanlagi.com###v7-showcase1
 # kapanlagi.com###v7-showcase2
 # kaskus.co.id##.banner-top-ads
@@ -642,9 +649,23 @@ msFilterList
 # kikil.ws##.bannerBox
 # kolomunik.com###topbar
 # komikbaru.com##.iklan_kiri
+# kompas.com##.adsMR1Lipsus1
+# kompas.com##.bannerAdB
+# kompas.com##.bannerCenter
+# kompas.com##.bannerCenterRubrik
+# kompas.com##.bannerR
+# kompas.com##.bannerR2
+# kompas.com##.bannerR2A
+# kompas.com##.bannerR3
+# kompas.com##.bannerR3A
+# kompas.com##.bannerTopOut
+# kompas.com##.boxBannerR1akt
+# kompas.com##.boxSkinAd
+# kompas.com##.hAds
 # kompasiana.com###anchormasklink
 # koranseksi.com###close-teaser
 # krngbl.com##.ryt-ads
+# krucil.com###ad_global_below_navbar
 # krucil.com###floatdiv.notice
 # krucil.com###ucpop_adpB
 # krucil.com###ucpop_adpS

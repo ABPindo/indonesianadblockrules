@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oB2Mn5Qc29CnKJlKy/OIaQ
+! Checksum: h9Ehpjf5HA60oETYDZ2iJQ
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 26 Mei 2013, 19:19:16 WIB
+! Last modified: 19 June 2013, 05:42:37 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -600,6 +600,7 @@ chip.co.id###TopBannerBg
 click-me.us##img[style="width: 728px; height: 90px;"]
 clip.cewecewe.com##.ad
 clip.cewecewe.com##.ads
+detik.com###skinad
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
@@ -608,6 +609,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###footerbanner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###skinad
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###sto_banner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.ads_kanan
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.banner_inside_article
@@ -616,6 +618,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.iklan_tengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.top_banner_bar
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##a[href$=".ad"][target="_blank"]
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##img[src*="/ButtonCloseWhite-BlackStroke.png"]
@@ -679,6 +682,10 @@ isdaryanto.com##img[style="width: 125px; height: 125px;"]
 jurigjarian.com###topbar
 kampus.us###elementDiv
 kapanlagi.com###v5-leaderboard
+kapanlagi.com###v5-marcommpromotion
+kapanlagi.com###v5-showcase1
+kapanlagi.com###v5-showcase2
+kapanlagi.com###v5-showcase3
 kapanlagi.com###v7-showcase1
 kapanlagi.com###v7-showcase2
 kaskus.co.id##.banner-top-ads
@@ -694,6 +701,20 @@ kikil.ws##.bannerBox
 kolomunik.com###topbar
 komikbaru.com##.iklan_kiri
 komikbaru.com##img[alt="Pemasangan Iklan"]
+kompas.com##.adsMR1Lipsus1
+kompas.com##.bannerAdB
+kompas.com##.bannerCenter
+kompas.com##.bannerCenterRubrik
+kompas.com##.bannerR
+kompas.com##.bannerR2
+kompas.com##.bannerR2A
+kompas.com##.bannerR3
+kompas.com##.bannerR3A
+kompas.com##.bannerTopOut
+kompas.com##.boxBannerR1akt
+kompas.com##.boxSkinAd
+kompas.com##.hAds
+kompas.com##[id^="div-gpt-ad-"]
 kompas.com##img[src^="http://img.ads."]
 kompasiana.com###anchormasklink
 koranseksi.com###close-teaser
@@ -701,6 +722,7 @@ krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 krisna.web.id##img[style="width: 728px; height: 90px;"]
 krngbl.com##.ryt-ads
 krngbl.com##div[style="width:296px; height:246px; border:0px solid #111111; background-color:#111111;"]
+krucil.com###ad_global_below_navbar
 krucil.com###floatdiv.notice
 krucil.com###ucpop_adpB
 krucil.com###ucpop_adpS
