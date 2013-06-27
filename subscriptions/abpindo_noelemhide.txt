@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: pM4RdjB6TpzCyQyQ54HspA
+! Checksum: 5LJsJbIm9HjLM3Nk3IOtxw
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 26 Mei 2013, 19:19:16 WIB
+! Last modified 28 June 2013, 00:12:06 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -379,6 +379,7 @@
 ||dl.dropbox.com/u/81212926/bloggerheroefacebookpopup.js
 ||dorabet.net/banner/
 ||doublerads.com^$image,subdocument,domain=mivo.tv
+||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||filmbokepdewasa.com/*/adv/
@@ -411,8 +412,10 @@
 ||kaskus.com/adv/
 ||kawin.us/images/banner/
 ||keripikcadas.com/banner/
+||kikil.org/banner/
 ||kikil.org/forum/banner/
 ||kikil.ws/banner/
+||kikil.ws/forum/banner/
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
 ||kompas.com/data/banner/
 ||koranlokal.com/iklan_baru/
@@ -452,7 +455,6 @@
 ||videogamesindonesia.com/banners/
 ||viva.co.id/appaux/images/close-button1.png
 ||widih.modifikasi.com/images/banners/
-||wwwkikilorg.appspot.com/images/banner/
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_thirdparty.txt ***

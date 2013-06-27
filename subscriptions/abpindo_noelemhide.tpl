@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 26 Mei 2013, 19:19:16 WIB
+# Last modified 28 June 2013, 00:12:06 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -378,6 +378,7 @@ msFilterList
 -d dl.dropbox.com /u/81212926/bloggerheroefacebookpopup.js
 -d dorabet.net /banner/
 # ||doublerads.com^$image,subdocument,domain=mivo.tv
+-d drtuber.com /templates/drtuber/js/adx_flash_embed.js?
 -d ebsoft.web.id /wp-content/banners/
 # ||ewetot.com^$image,object,domain=bintangmawar.net
 -d filmbokepdewasa.com /*/adv/
@@ -410,8 +411,10 @@ msFilterList
 -d kaskus.com /adv/
 -d kawin.us /images/banner/
 -d keripikcadas.com /banner/
+-d kikil.org /banner/
 -d kikil.org /forum/banner/
 -d kikil.ws /banner/
+-d kikil.ws /forum/banner/
 -d kkcdn-static.kaskus.co.id /css_v0.1/img/skin/
 -d kompas.com /data/banner/
 -d koranlokal.com /iklan_baru/
@@ -451,7 +454,6 @@ msFilterList
 -d videogamesindonesia.com /banners/
 -d viva.co.id /appaux/images/close-button1.png
 -d widih.modifikasi.com /images/banners/
--d wwwkikilorg.appspot.com /images/banner/
 -d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_thirdparty.txt ***

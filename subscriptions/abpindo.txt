@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: h9Ehpjf5HA60oETYDZ2iJQ
+! Checksum: 7cAzOUVwILGZ4O/zD9SE8g
 ! ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-! Last modified: 19 June 2013, 05:42:37 WIB
+! Last modified: 28 June 2013, 00:12:06 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -46,6 +46,7 @@ blogspot.com###topbar
 ##.gpcontent
 ##.iklan
 ##.pasangiklan
+##.semprot_ads
 ##.topadsense
 com##img[alt="Agen Judi Online"]
 ##img[alt="Pasang Iklan Anda Disini"]
@@ -489,6 +490,7 @@ blogspot.com##img[alt="ads"]
 ||dl.dropbox.com/u/81212926/bloggerheroefacebookpopup.js
 ||dorabet.net/banner/
 ||doublerads.com^$image,subdocument,domain=mivo.tv
+||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||filmbokepdewasa.com/*/adv/
@@ -521,8 +523,10 @@ blogspot.com##img[alt="ads"]
 ||kaskus.com/adv/
 ||kawin.us/images/banner/
 ||keripikcadas.com/banner/
+||kikil.org/banner/
 ||kikil.org/forum/banner/
 ||kikil.ws/banner/
+||kikil.ws/forum/banner/
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
 ||kompas.com/data/banner/
 ||koranlokal.com/iklan_baru/
@@ -562,7 +566,6 @@ blogspot.com##img[alt="ads"]
 ||videogamesindonesia.com/banners/
 ||viva.co.id/appaux/images/close-button1.png
 ||widih.modifikasi.com/images/banners/
-||wwwkikilorg.appspot.com/images/banner/
 ||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
@@ -570,8 +573,8 @@ blogspot.com##img[alt="ads"]
 173.199.167.192###ucpop_adpS
 173.199.167.192##.fixmeInner
 173.199.167.192##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
-173.199.189.87,forumbokep.com,krucil.com###floating_banner_bottom
-96.30.13.88##.semprot_ads
+173.199.167.192,forumbokep.com,kampus.us,krucil.com,krucil.net,semprot.com,sodasusu.com###ad_global_below_navbar
+173.199.189.87,forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
 adipedia.com###btm_banner
 asik.me,duniasex.ws###main_content_section > div[align="center"]
 asik.me,duniasex.ws##[href$="betme88.com"]
@@ -600,7 +603,6 @@ chip.co.id###TopBannerBg
 click-me.us##img[style="width: 728px; height: 90px;"]
 clip.cewecewe.com##.ad
 clip.cewecewe.com##.ads
-detik.com###skinad
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
@@ -637,7 +639,6 @@ forumbebas.com##center > a[target="_blank"]
 forumbokep.com##a[href$="from=vocland"]
 forumbokep.com##img[src="http://173.199.189.86/images/do.gif"]
 forumbokep.com##img[style="width: 435px; height: 60px;"]
-forumbokep.com,kampus.us,semprot.com,sodasusu.com###ad_global_below_navbar
 forumkami.net##.floating_left
 forumkami.net##.floating_right
 forumkami.net##div[style="width:300px;height:250px;float:left;margin:1px; padding-top:3px;padding-bottom:3px;padding-right:11px;padding-left:9px;border: 1px solid #B8B8B8;"]
@@ -686,18 +687,18 @@ kapanlagi.com###v5-marcommpromotion
 kapanlagi.com###v5-showcase1
 kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
+kapanlagi.com###v7-marcommpromotion
 kapanlagi.com###v7-showcase1
 kapanlagi.com###v7-showcase2
+kapanlagi.com###v7-showcase3
 kaskus.co.id##.banner-top-ads
 kaskus.co.id##.bottom-frame
 kaskus.co.id##.l-link
 kaskus.co.id##.r-link
 kaskus.co.id,kaskus.com##a[href^="http://kad.kaskus."]
 ketubanjiwa.com###g207
-kikil.ws###floating_banner_bottom
-kikil.ws###id_kikil_ads_h3
-kikil.ws###ucpop_adpC
-kikil.ws##.bannerBox
+kikil.org,kikil.ws##.bannerBox
+kikil.org,kikil.ws##.kikil_floating_banner_top
 kolomunik.com###topbar
 komikbaru.com##.iklan_kiri
 komikbaru.com##img[alt="Pemasangan Iklan"]
@@ -722,12 +723,11 @@ krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 krisna.web.id##img[style="width: 728px; height: 90px;"]
 krngbl.com##.ryt-ads
 krngbl.com##div[style="width:296px; height:246px; border:0px solid #111111; background-color:#111111;"]
-krucil.com###ad_global_below_navbar
-krucil.com###floatdiv.notice
-krucil.com###ucpop_adpB
-krucil.com###ucpop_adpS
-krucil.com##.fixmeInner
-krucil.com##.tborder[width="67%"][height="872"][align="center"]
+krucil.com,krucil.net###floatdiv.notice
+krucil.com,krucil.net###ucpop_adpB
+krucil.com,krucil.net###ucpop_adpS
+krucil.com,krucil.net##.fixmeInner
+krucil.com,krucil.net##.tborder[width="67%"][height="872"][align="center"]
 lapar.com##.banner_box
 lapar.com##.banner_main
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
@@ -793,10 +793,14 @@ zonabola.com###afbsports
 zonabola.com###lAds img
 zonabola.com###rAds img
 zonabola.com##img[width="750"][height="75"][border="0"]
+zonamuda.com###iklan1
 zonamuda.com###iklan2
+zonamuda.com###iklan3
 zonamuda.com###iklan4
 zonamuda.com##.bannertengah
+zonamuda.com##img[alt="iklan"]
 zonamuda.com##img[width="728"][height="90"][alt="iklan"]
+zonamuda.com##td[valign="top"][height="55px"][align="center"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]
 ! *** abpindo_whitelist.txt ***
 @@||allgamespy.com/wp-content/themes/adsense-id/style.css
