@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 19 June 2013, 05:42:37 WIB
+# Last modified: 28 June 2013, 00:12:06 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -44,6 +44,7 @@ msFilterList
 # ##.gpcontent
 # ##.iklan
 # ##.pasangiklan
+# ##.semprot_ads
 # ##.topadsense
 # *** abpindo_adservers.txt ***
 - http://1iklanbaris.com
@@ -481,6 +482,7 @@ msFilterList
 -d dl.dropbox.com /u/81212926/bloggerheroefacebookpopup.js
 -d dorabet.net /banner/
 # ||doublerads.com^$image,subdocument,domain=mivo.tv
+-d drtuber.com /templates/drtuber/js/adx_flash_embed.js?
 -d ebsoft.web.id /wp-content/banners/
 # ||ewetot.com^$image,object,domain=bintangmawar.net
 -d filmbokepdewasa.com /*/adv/
@@ -513,8 +515,10 @@ msFilterList
 -d kaskus.com /adv/
 -d kawin.us /images/banner/
 -d keripikcadas.com /banner/
+-d kikil.org /banner/
 -d kikil.org /forum/banner/
 -d kikil.ws /banner/
+-d kikil.ws /forum/banner/
 -d kkcdn-static.kaskus.co.id /css_v0.1/img/skin/
 -d kompas.com /data/banner/
 -d koranlokal.com /iklan_baru/
@@ -554,15 +558,14 @@ msFilterList
 -d videogamesindonesia.com /banners/
 -d viva.co.id /appaux/images/close-button1.png
 -d widih.modifikasi.com /images/banners/
--d wwwkikilorg.appspot.com /images/banner/
 -d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
 # 173.199.167.192###ucpop_adpB
 # 173.199.167.192###ucpop_adpS
 # 173.199.167.192##.fixmeInner
-# 173.199.189.87,forumbokep.com,krucil.com###floating_banner_bottom
-# 96.30.13.88##.semprot_ads
+# 173.199.167.192,forumbokep.com,kampus.us,krucil.com,krucil.net,semprot.com,sodasusu.com###ad_global_below_navbar
+# 173.199.189.87,forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
 # adipedia.com###btm_banner
 # beritateknologi.com###topbar
 # bokep.sibawel.com###close-teaser
@@ -581,7 +584,6 @@ msFilterList
 # chip.co.id###TopBannerBg
 # clip.cewecewe.com##.ad
 # clip.cewecewe.com##.ads
-# detik.com###skinad
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
@@ -607,7 +609,6 @@ msFilterList
 # downloadmoviesfree.net###samdav-wrapper
 # duniabaca.com##.banner
 # forumbebas.com###topbar
-# forumbokep.com,kampus.us,semprot.com,sodasusu.com###ad_global_below_navbar
 # forumkami.net##.floating_left
 # forumkami.net##.floating_right
 # galaxymaya.com###teaser2
@@ -636,17 +637,17 @@ msFilterList
 # kapanlagi.com###v5-showcase1
 # kapanlagi.com###v5-showcase2
 # kapanlagi.com###v5-showcase3
+# kapanlagi.com###v7-marcommpromotion
 # kapanlagi.com###v7-showcase1
 # kapanlagi.com###v7-showcase2
+# kapanlagi.com###v7-showcase3
 # kaskus.co.id##.banner-top-ads
 # kaskus.co.id##.bottom-frame
 # kaskus.co.id##.l-link
 # kaskus.co.id##.r-link
 # ketubanjiwa.com###g207
-# kikil.ws###floating_banner_bottom
-# kikil.ws###id_kikil_ads_h3
-# kikil.ws###ucpop_adpC
-# kikil.ws##.bannerBox
+# kikil.org,kikil.ws##.bannerBox
+# kikil.org,kikil.ws##.kikil_floating_banner_top
 # kolomunik.com###topbar
 # komikbaru.com##.iklan_kiri
 # kompas.com##.adsMR1Lipsus1
@@ -665,11 +666,10 @@ msFilterList
 # kompasiana.com###anchormasklink
 # koranseksi.com###close-teaser
 # krngbl.com##.ryt-ads
-# krucil.com###ad_global_below_navbar
-# krucil.com###floatdiv.notice
-# krucil.com###ucpop_adpB
-# krucil.com###ucpop_adpS
-# krucil.com##.fixmeInner
+# krucil.com,krucil.net###floatdiv.notice
+# krucil.com,krucil.net###ucpop_adpB
+# krucil.com,krucil.net###ucpop_adpS
+# krucil.com,krucil.net##.fixmeInner
 # lapar.com##.banner_box
 # lapar.com##.banner_main
 # lapar.com##.top-banner
@@ -715,7 +715,9 @@ msFilterList
 # zonabola.com###afbsports
 # zonabola.com###lAds img
 # zonabola.com###rAds img
+# zonamuda.com###iklan1
 # zonamuda.com###iklan2
+# zonamuda.com###iklan3
 # zonamuda.com###iklan4
 # zonamuda.com##.bannertengah
 # *** abpindo_whitelist.txt ***
