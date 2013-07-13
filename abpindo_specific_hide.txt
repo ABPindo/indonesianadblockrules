@@ -15,7 +15,6 @@ bokep.sibawel.com###teaser2
 bokep.sibawel.com###teaser3
 bokep.sibawel.com###topwrapper
 bokep.sibawel.com##.clear
-bokep.sibawel.com##.widget_advertisements
 bokep.sibawel.com##img[width="728"][heigth="90"]
 bokep.sibawel.com##td[width="160"][align="center"][height="158"]
 bokep.sibawel.com##td[width="160"][align="left"][height="158"]
@@ -46,6 +45,7 @@ detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.banner_inside_article
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads
+detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.close
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.iklan_tengah
 detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
@@ -80,7 +80,6 @@ galaxymaya.com##.widget-content
 galeri.indonesiaselebriti.com###bannerbesar
 gambarkeren.info##.iklankotak1
 ganool.com###floating_banner_bottom2
-ganool.com###post-35426
 ganool.com##.banner-right.clearfix[style="width:270px;"]
 ganool.com##[type="text/javascript"] + p + center
 gayahot.com##img[alt="Memek basah"]
@@ -127,6 +126,7 @@ kaskus.co.id##.r-link
 kaskus.co.id,kaskus.com##a[href^="http://kad.kaskus."]
 ketubanjiwa.com###g207
 kikil.org,kikil.ws##.bannerBox
+kikil.org,kikil.ws##.kikil_ads
 kikil.org,kikil.ws##.kikil_floating_banner_top
 kolomunik.com###topbar
 komikbaru.com##.iklan_kiri
@@ -228,6 +228,5 @@ zonamuda.com###iklan3
 zonamuda.com###iklan4
 zonamuda.com##.bannertengah
 zonamuda.com##img[alt="iklan"]
-zonamuda.com##img[width="728"][height="90"][alt="iklan"]
 zonamuda.com##td[valign="top"][height="55px"][align="center"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]
