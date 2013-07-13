@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 28 June 2013, 00:12:06 WIB
+# Last modified: 13 July 2013, 16:38:01 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -483,6 +483,7 @@ msFilterList
 -d dorabet.net /banner/
 # ||doublerads.com^$image,subdocument,domain=mivo.tv
 -d drtuber.com /templates/drtuber/js/adx_flash_embed.js?
+-d duniasex.ws /banner-
 -d ebsoft.web.id /wp-content/banners/
 # ||ewetot.com^$image,object,domain=bintangmawar.net
 -d filmbokepdewasa.com /*/adv/
@@ -507,6 +508,7 @@ msFilterList
 -d indowebster.com /js/link_converter.js
 -d inilah.com /assets/image/airasia/skin-
 -d investasiceria.net /images/
+-d jagatreview.com /wp-content/uploads/*-SKIN-
 # ||kad.kaskus.co.id/banner/$subdocument
 # ||kad.kaskus.com/banner/$subdocument
 -d kampus.us /banners/
@@ -539,6 +541,7 @@ msFilterList
 -d mractionclub.com /banner/
 -d musisi.com /musifile/images_banner/
 -d my.postsgenius.com /style/banners/
+-d newopenx.detik.com /images/
 -d oprekpc.com /banner/
 -d pancet.com /kbads/
 -d perawan.us /images/banner/
@@ -574,7 +577,6 @@ msFilterList
 # bokep.sibawel.com###teaser3
 # bokep.sibawel.com###topwrapper
 # bokep.sibawel.com##.clear
-# bokep.sibawel.com##.widget_advertisements
 # bokepgratiz.info###btm_banner
 # bokepgratiz.info##.textwidget
 # catatankomputer.com##.forads .alignleft
@@ -598,6 +600,7 @@ msFilterList
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.banner_inside_article
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads
+# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.close
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.iklan_tengah
 # detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
@@ -617,7 +620,6 @@ msFilterList
 # galeri.indonesiaselebriti.com###bannerbesar
 # gambarkeren.info##.iklankotak1
 # ganool.com###floating_banner_bottom2
-# ganool.com###post-35426
 # google.co.id###rhs_block
 # gugling.com##.ad336x280atas
 # harianjogja.com,solopos.com###ads-float
@@ -647,6 +649,7 @@ msFilterList
 # kaskus.co.id##.r-link
 # ketubanjiwa.com###g207
 # kikil.org,kikil.ws##.bannerBox
+# kikil.org,kikil.ws##.kikil_ads
 # kikil.org,kikil.ws##.kikil_floating_banner_top
 # kolomunik.com###topbar
 # komikbaru.com##.iklan_kiri
