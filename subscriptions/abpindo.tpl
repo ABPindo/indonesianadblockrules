@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 13 July 2013, 16:38:01 WIB
+# Last modified: 25 July 2013, 21:40:58 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -388,11 +388,15 @@ msFilterList
 # ||agenbo.la^$image,popup
 - http://agent926.com
 - http://alamatemail.com
+- http://aoncash.com
 - http://apmmedia.net
 - http://arenabola.com
 - http://arisanvip.com
+- http://asiabolabet.com
+- http://bejopoker.com
 - http://bekas.com
 # ||betwin188.com^$image,third-party
+- http://betwin188.com
 - http://bintangbola.net
 - http://bisnisgratis.net
 - http://bisnishandal.com
@@ -405,6 +409,7 @@ msFilterList
 - http://bolaketangkasan.com
 # ||bolasonic.com^$image,popup
 - http://bravevolitation.com
+- http://bursabet.com
 - http://bux-matrix.com
 - http://cash-harvest.com
 - http://chainbux.com
@@ -426,12 +431,14 @@ msFilterList
 - http://galaxybola.com
 - http://gesrek.com
 - http://goldbet88.com
+- http://goodlucky99.com
 - http://gowellup.com
 - http://hiddenbux.com
 - http://incrasebux.com
 - http://indo-solusta.com
 - http://indobets.com
 # ||instaforex-id.com^$image,third-party
+- http://jasapoker.com
 # ||javapic.com^$image,object,third-party
 - http://kakakdewa.net
 - http://kebunemas.com
@@ -458,6 +465,7 @@ msFilterList
 - http://topskor.us
 - http://topsurfer.com
 - http://tri7bet.com
+- http://u1win.com
 - http://usahaberhasil.com
 - http://webbola.com
 # *** abpindo_specific_block.txt ***
@@ -564,73 +572,56 @@ msFilterList
 -d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
-# 173.199.167.192###ucpop_adpB
-# 173.199.167.192###ucpop_adpS
-# 173.199.167.192##.fixmeInner
 # 173.199.167.192,forumbokep.com,kampus.us,krucil.com,krucil.net,semprot.com,sodasusu.com###ad_global_below_navbar
-# 173.199.189.87,forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
+# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###floatdiv.notice
+# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB
+# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpS
+# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
 # adipedia.com###btm_banner
 # beritateknologi.com###topbar
 # bokep.sibawel.com###close-teaser
 # bokep.sibawel.com###teaser
 # bokep.sibawel.com###teaser2
 # bokep.sibawel.com###teaser3
-# bokep.sibawel.com###topwrapper
-# bokep.sibawel.com##.clear
 # bokepgratiz.info###btm_banner
 # bokepgratiz.info##.textwidget
-# catatankomputer.com##.forads .alignleft
+# catatankomputer.com##.forads
 # ceriwis.us###hoho-wrapsubmenu3
 # cewecewe.com###teaser2
 # cewecewe.com###teaser3
 # chip.co.id###TopBannerBg
 # clip.cewecewe.com##.ad
 # clip.cewecewe.com##.ads
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adpoint-article
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###adtext-info
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###anchormasklink
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###bannerE
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###bottom_banner
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###footerbanner
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###headerbanner
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###skinad
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###sto_banner
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com###top_banner
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.ads_kanan
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.banner_inside_article
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bannertengah
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.bg_ads
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.close
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.fr.ads_art
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.iklan_tengah
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.otp_banner_close
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.top_banner_bar
-# detik.com,detikfinance.com,detikfood.com,detikhealth.com,detikhot.com,detikinet.com,detiknews.com,detiksport.com,wolipop.com##.tower_banner_content
+# detik.com###bottom_banner
+# detik.com###skinad
+# detik.com###top_banner
+# detik.com##.banner_inside_article
+# detik.com##.banner_reg.h250.cad_scl1
+# detik.com##.banner_reg.h250.cad_scl2
+# detik.com##.close
+# detik.com##.iklan_tengah
+# detik.com##.otp_banner_close
 # downloadmoviesfree.net###samdav-links
 # downloadmoviesfree.net###samdav-loading
 # downloadmoviesfree.net###samdav-locker
 # downloadmoviesfree.net###samdav-wrapper
 # duniabaca.com##.banner
 # forumbebas.com###topbar
-# forumkami.net##.floating_left
-# forumkami.net##.floating_right
+# forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
 # galaxymaya.com###teaser2
 # galaxymaya.com###teaser3
 # galaxymaya.com##.widget-content
 # galeri.indonesiaselebriti.com###bannerbesar
 # gambarkeren.info##.iklankotak1
 # ganool.com###floating_banner_bottom2
-# google.co.id###rhs_block
 # gugling.com##.ad336x280atas
 # harianjogja.com,solopos.com###ads-float
 # harianjogja.com,solopos.com###solopos_float
 # ibuprita.suatuhari.com##.box > .textwidget > center
 # icinema3satu.com###FloatAlamindawa
-# id.yahoo.com##.carousel-pos6.carousel-pos.y-ln-1
 # indogamers.com###IklanIDGS
 # indogamers.com###bottombanner
 # indosiar.com###headerbanner
-# indowebster.com###iklanNorak
 # inilah.com###anchormasklink
 # jurigjarian.com###topbar
 # kampus.us###elementDiv
@@ -656,6 +647,8 @@ msFilterList
 # kompas.com##.adsMR1Lipsus1
 # kompas.com##.bannerAdB
 # kompas.com##.bannerCenter
+# kompas.com##.bannerCenter1SubRubrik
+# kompas.com##.bannerCenter2SubRubrik
 # kompas.com##.bannerCenterRubrik
 # kompas.com##.bannerR
 # kompas.com##.bannerR2
@@ -669,10 +662,6 @@ msFilterList
 # kompasiana.com###anchormasklink
 # koranseksi.com###close-teaser
 # krngbl.com##.ryt-ads
-# krucil.com,krucil.net###floatdiv.notice
-# krucil.com,krucil.net###ucpop_adpB
-# krucil.com,krucil.net###ucpop_adpS
-# krucil.com,krucil.net##.fixmeInner
 # lapar.com##.banner_box
 # lapar.com##.banner_main
 # lapar.com##.top-banner
@@ -693,11 +682,6 @@ msFilterList
 # mivo.tv###BFAslidein
 # modifikasi.com##.cell_banner_inside
 # nusareborn.in###btm_banner
-# nyunyu.com###footer-banner
-# nyunyu.com###gb
-# nyunyu.com###gb2
-# nyunyu.com##.page_ads img
-# okezone.com##.flbanner
 # oktavita.com##.banner-zone
 # palingseru.com##.alignnone.size-large.wp-image-458
 # remo-xp.com###adsheader
@@ -715,7 +699,6 @@ msFilterList
 # untukku.com###footer-adcont
 # warungbebas.com##.gbtab
 # wowkeren.com###Ad728
-# zonabola.com###afbsports
 # zonabola.com###lAds img
 # zonabola.com###rAds img
 # zonamuda.com###iklan1

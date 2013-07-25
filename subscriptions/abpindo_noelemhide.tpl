@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 13 July 2013, 16:38:01 WIB
+# Last modified 25 July 2013, 21:40:58 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -468,11 +468,15 @@ msFilterList
 # ||agenbo.la^$image,popup
 - http://agent926.com
 - http://alamatemail.com
+- http://aoncash.com
 - http://apmmedia.net
 - http://arenabola.com
 - http://arisanvip.com
+- http://asiabolabet.com
+- http://bejopoker.com
 - http://bekas.com
 # ||betwin188.com^$image,third-party
+- http://betwin188.com
 - http://bintangbola.net
 - http://bisnisgratis.net
 - http://bisnishandal.com
@@ -485,6 +489,7 @@ msFilterList
 - http://bolaketangkasan.com
 # ||bolasonic.com^$image,popup
 - http://bravevolitation.com
+- http://bursabet.com
 - http://bux-matrix.com
 - http://cash-harvest.com
 - http://chainbux.com
@@ -506,12 +511,14 @@ msFilterList
 - http://galaxybola.com
 - http://gesrek.com
 - http://goldbet88.com
+- http://goodlucky99.com
 - http://gowellup.com
 - http://hiddenbux.com
 - http://incrasebux.com
 - http://indo-solusta.com
 - http://indobets.com
 # ||instaforex-id.com^$image,third-party
+- http://jasapoker.com
 # ||javapic.com^$image,object,third-party
 - http://kakakdewa.net
 - http://kebunemas.com
@@ -538,6 +545,7 @@ msFilterList
 - http://topskor.us
 - http://topsurfer.com
 - http://tri7bet.com
+- http://u1win.com
 - http://usahaberhasil.com
 - http://webbola.com
 # *** abpindo_whitelist.txt ***
