@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: hTGhcnPGsrYPFLNc2cAgWA
+! Checksum: 9Jl07iFQ+d1C/m5xw1A2nQ
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 13 July 2013, 16:38:01 WIB
+! Last modified 25 July 2013, 21:40:58 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -469,11 +469,15 @@
 ||agenbo.la^$image,popup
 ||agent926.com^$third-party
 ||alamatemail.com^$third-party
+||aoncash.com^$third-party
 ||apmmedia.net^$third-party
 ||arenabola.com^$third-party
 ||arisanvip.com^$third-party
+||asiabolabet.com^$third-party
+||bejopoker.com^$third-party
 ||bekas.com^$third-party
 ||betwin188.com^$image,third-party
+||betwin188.com^$third-party
 ||bintangbola.net^$third-party
 ||bisnisgratis.net^$third-party
 ||bisnishandal.com^$third-party
@@ -486,6 +490,7 @@
 ||bolaketangkasan.com^$third-party
 ||bolasonic.com^$image,popup
 ||bravevolitation.com^$third-party
+||bursabet.com^$third-party
 ||bux-matrix.com^$third-party
 ||cash-harvest.com^$third-party
 ||chainbux.com^$third-party
@@ -507,12 +512,14 @@
 ||galaxybola.com^$third-party
 ||gesrek.com^$third-party
 ||goldbet88.com^$third-party
+||goodlucky99.com^$third-party
 ||gowellup.com^$third-party
 ||hiddenbux.com^$third-party
 ||incrasebux.com^$third-party
 ||indo-solusta.com^$third-party
 ||indobets.com^$third-party
 ||instaforex-id.com^$image,third-party
+||jasapoker.com^$third-party
 ||javapic.com^$image,object,third-party
 ||kakakdewa.net^$third-party
 ||kebunemas.com^$third-party
@@ -539,6 +546,7 @@
 ||topskor.us^$third-party
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
+||u1win.com^$third-party
 ||usahaberhasil.com^$third-party
 ||webbola.com^$third-party
 ! *** abpindo_whitelist.txt ***
