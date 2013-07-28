@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 25 July 2013, 21:40:58 WIB
+# Last modified: 28 July 2013, 18:15:24 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -572,59 +572,64 @@ msFilterList
 -d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
-# 173.199.167.192,forumbokep.com,kampus.us,krucil.com,krucil.net,semprot.com,sodasusu.com###ad_global_below_navbar
-# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###floatdiv.notice
-# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB
-# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpS
-# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
-# adipedia.com###btm_banner
-# beritateknologi.com###topbar
-# bokep.sibawel.com###close-teaser
-# bokep.sibawel.com###teaser
-# bokep.sibawel.com###teaser2
-# bokep.sibawel.com###teaser3
-# bokepgratiz.info###btm_banner
-# bokepgratiz.info##.textwidget
-# catatankomputer.com##.forads
-# ceriwis.us###hoho-wrapsubmenu3
-# cewecewe.com###teaser2
-# cewecewe.com###teaser3
+# wowkeren.com###Ad728
+# lintas.me###Advertisement
+# mivo.tv###BFAslidein
+# icinema3satu.com###FloatAlamindawa
+# indogamers.com###IklanIDGS
 # chip.co.id###TopBannerBg
-# clip.cewecewe.com##.ad
-# clip.cewecewe.com##.ads
+# 173.199.167.192,forumbokep.com,idfl.us,kampus.us,krucil.com,krucil.net,semprot.com,sodasusu.com###ad_global_below_navbar
+# harianjogja.com,solopos.com###ads-float
+# remo-xp.com###adsheader
+# inilah.com,kompasiana.com###anchormasklink
+# tempointeraktif.com###banner-atas
+# tempointeraktif.com###banner-bawah
+# remo-xp.com###banner_bawah
+# galeri.indonesiaselebriti.com###bannerbesar
+# tribunnews.com###bannerku
 # detik.com###bottom_banner
-# detik.com###skinad
-# detik.com###top_banner
-# detik.com##.banner_inside_article
-# detik.com##.banner_reg.h250.cad_scl1
-# detik.com##.banner_reg.h250.cad_scl2
-# detik.com##.close
-# detik.com##.iklan_tengah
-# detik.com##.otp_banner_close
+# indogamers.com###bottombanner
+# adipedia.com,bokepgratiz.info,nusareborn.in###btm_banner
+# bokep.sibawel.com,koranseksi.com###close-teaser
+# kampus.us###elementDiv
+# lintas.me###facebox_overlay
+# metrotvnews.com###fixme
+# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###floatdiv.notice
+# forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
+# ganool.com###floating_banner_bottom2
+# untukku.com###footer-adcont
+# ketubanjiwa.com###g207
+# resep.web.id###googlebox
+# indosiar.com###headerbanner
+# ceriwis.us###hoho-wrapsubmenu3
+# remo-xp.com###ikanan
+# remo-xp.com###ikiri
+# zonamuda.com###iklan1
+# zonamuda.com###iklan2
+# zonamuda.com###iklan3
+# zonamuda.com###iklan4
+# zonabola.com###lAds img
+# mangafox.me###left-skyscraper
+# zonabola.com###rAds img
+# mangafox.me###right-skyscraper
 # downloadmoviesfree.net###samdav-links
 # downloadmoviesfree.net###samdav-loading
 # downloadmoviesfree.net###samdav-locker
 # downloadmoviesfree.net###samdav-wrapper
-# duniabaca.com##.banner
-# forumbebas.com###topbar
-# forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
-# galaxymaya.com###teaser2
-# galaxymaya.com###teaser3
-# galaxymaya.com##.widget-content
-# galeri.indonesiaselebriti.com###bannerbesar
-# gambarkeren.info##.iklankotak1
-# ganool.com###floating_banner_bottom2
-# gugling.com##.ad336x280atas
-# harianjogja.com,solopos.com###ads-float
+# microsite.kapanlagi.com###scmicrosite
+# lintas.me###showcasedown
+# detik.com###skinad
 # harianjogja.com,solopos.com###solopos_float
-# ibuprita.suatuhari.com##.box > .textwidget > center
-# icinema3satu.com###FloatAlamindawa
-# indogamers.com###IklanIDGS
-# indogamers.com###bottombanner
-# indosiar.com###headerbanner
-# inilah.com###anchormasklink
-# jurigjarian.com###topbar
-# kampus.us###elementDiv
+# downloadfilmbaru.com###sticky-ads
+# bokep.sibawel.com###teaser
+# bokep.sibawel.com,cewecewe.com,downloadfilmbaru.com,galaxymaya.com###teaser2
+# bokep.sibawel.com,cewecewe.com,downloadfilmbaru.com,galaxymaya.com###teaser3
+# sodasusu.com###teaser4
+# m.detik.com###top
+# detik.com###top_banner
+# beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
+# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB
+# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpS
 # kapanlagi.com###v5-leaderboard
 # kapanlagi.com###v5-marcommpromotion
 # kapanlagi.com###v5-showcase1
@@ -634,18 +639,20 @@ msFilterList
 # kapanlagi.com###v7-showcase1
 # kapanlagi.com###v7-showcase2
 # kapanlagi.com###v7-showcase3
-# kaskus.co.id##.banner-top-ads
-# kaskus.co.id##.bottom-frame
-# kaskus.co.id##.l-link
-# kaskus.co.id##.r-link
-# ketubanjiwa.com###g207
-# kikil.org,kikil.ws##.bannerBox
-# kikil.org,kikil.ws##.kikil_ads
-# kikil.org,kikil.ws##.kikil_floating_banner_top
-# kolomunik.com###topbar
-# komikbaru.com##.iklan_kiri
+# clip.cewecewe.com##.ad
+# m.kapanlagi.com##.ad2
+# gugling.com##.ad336x280atas
+# mangafox.com##.ad728x90.left + .right
+# clip.cewecewe.com##.ads
 # kompas.com##.adsMR1Lipsus1
+# m.iklanbaris.detik.com##.adtext01
+# palingseru.com##.alignnone.size-large.wp-image-458
+# duniabaca.com##.banner
+# metrotvnews.com##.banner-160x600.left.mb20
+# kaskus.co.id##.banner-top-ads
+# oktavita.com##.banner-zone
 # kompas.com##.bannerAdB
+# kikil.org,kikil.ws##.bannerBox
 # kompas.com##.bannerCenter
 # kompas.com##.bannerCenter1SubRubrik
 # kompas.com##.bannerCenter2SubRubrik
@@ -656,56 +663,37 @@ msFilterList
 # kompas.com##.bannerR3
 # kompas.com##.bannerR3A
 # kompas.com##.bannerTopOut
+# lapar.com,loveindonesia.com##.banner_box
+# detik.com##.banner_inside_article
+# lapar.com##.banner_main
+# detik.com##.banner_reg.h250.cad_scl1
+# detik.com##.banner_reg.h250.cad_scl2
+# zonamuda.com##.bannertengah
+# kaskus.co.id##.bottom-frame
+# ibuprita.suatuhari.com##.box > .textwidget > center
 # kompas.com##.boxBannerR1akt
 # kompas.com##.boxSkinAd
-# kompas.com##.hAds
-# kompasiana.com###anchormasklink
-# koranseksi.com###close-teaser
-# krngbl.com##.ryt-ads
-# lapar.com##.banner_box
-# lapar.com##.banner_main
-# lapar.com##.top-banner
-# lintas.me###Advertisement
-# lintas.me###facebox_overlay
-# lintas.me###showcasedown
-# lintas.me##.popup
-# loveindonesia.com##.banner_box
-# m.detik.com###top
-# m.iklanbaris.detik.com##.adtext01
-# m.kapanlagi.com##.ad2
-# mangafox.com##.ad728x90.left + .right
-# mangafox.me###left-skyscraper
-# mangafox.me###right-skyscraper
-# metrotvnews.com###fixme
-# metrotvnews.com##.banner-160x600.left.mb20
-# microsite.kapanlagi.com###scmicrosite
-# mivo.tv###BFAslidein
 # modifikasi.com##.cell_banner_inside
-# nusareborn.in###btm_banner
-# oktavita.com##.banner-zone
-# palingseru.com##.alignnone.size-large.wp-image-458
-# remo-xp.com###adsheader
-# remo-xp.com###banner_bawah
-# remo-xp.com###ikanan
-# remo-xp.com###ikiri
-# resep.web.id###googlebox
-# sodasusu.com###teaser4
+# detik.com##.close
 # tempo.co##.closebanner1
 # tempo.co##.closebanner2
-# tempointeraktif.com###banner-atas
-# tempointeraktif.com###banner-bawah
-# topterunik.com###topbar
-# tribunnews.com###bannerku
-# untukku.com###footer-adcont
+# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
+# catatankomputer.com##.forads
 # warungbebas.com##.gbtab
-# wowkeren.com###Ad728
-# zonabola.com###lAds img
-# zonabola.com###rAds img
-# zonamuda.com###iklan1
-# zonamuda.com###iklan2
-# zonamuda.com###iklan3
-# zonamuda.com###iklan4
-# zonamuda.com##.bannertengah
+# kompas.com##.hAds
+# komikbaru.com##.iklan_kiri
+# detik.com##.iklan_tengah
+# gambarkeren.info##.iklankotak1
+# kikil.org,kikil.ws##.kikil_ads
+# kikil.org,kikil.ws##.kikil_floating_banner_top
+# kaskus.co.id##.l-link
+# detik.com##.otp_banner_close
+# lintas.me##.popup
+# kaskus.co.id##.r-link
+# krngbl.com##.ryt-ads
+# bokepgratiz.info##.textwidget
+# lapar.com##.top-banner
+# galaxymaya.com##.widget-content
 # *** abpindo_whitelist.txt ***
 +d allgamespy.com /wp-content/themes/adsense-id/style.css
 +d iklan.okezone.com /images-data/classified/
