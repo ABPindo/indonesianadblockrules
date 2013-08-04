@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - menambah kemampuan EasyList untuk menyaring iklan pada situs berbahasa Indonesia
-# Last modified: 28 July 2013, 18:15:24 WIB
+# Last modified: 04 August 2013, 09:05:34 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -473,6 +473,7 @@ msFilterList
 -d 173.199.167.192 /bb17-iklan.php
 - http://admin.ads.indowebster.com
 -d alertpay.com /banners/
+-d angel.exabytes.com.my /banners/
 -d armylookfashion.com /728.swf
 -d asianbrain.com /banner/
 # ||bacamanga.com/images/indofiles/$image
@@ -501,6 +502,7 @@ msFilterList
 -d forumkami.net /ad200x50/
 -d forumkami.net /close.gif
 # ||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws|iniunic.blogspot.com
+-d harakah.net.my /images/stories/iklan/
 -d harianjogja.com /img/bnr/
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
@@ -543,6 +545,7 @@ msFilterList
 -d mediahide.com /ganool/*/banner-ganool.gif
 -d mediaindonesia.com /public/banner/flash/
 -d megindo.net /megindo2/images/banner-
+-d mforum.cari.com.my /cari/daybanner/ads_daybanner_display.php?
 -d modemku.com /image-banner/
 -d modifikasi.com /images/banner/
 -d modifikasi.com /images/banner_
@@ -566,6 +569,7 @@ msFilterList
 -d tabloidbintang.com /space-iklan/
 -d tambahketinggian.com /banner/
 -d upload.coblos.net /images/*.gif
+-d utusan.com.my /utusan/iklan/
 -d videogamesindonesia.com /banners/
 -d viva.co.id /appaux/images/close-button1.png
 -d widih.modifikasi.com /images/banners/
@@ -584,6 +588,7 @@ msFilterList
 # inilah.com,kompasiana.com###anchormasklink
 # tempointeraktif.com###banner-atas
 # tempointeraktif.com###banner-bawah
+# panduanpercuma.info###banner125
 # remo-xp.com###banner_bawah
 # galeri.indonesiaselebriti.com###bannerbesar
 # tribunnews.com###bannerku
@@ -608,9 +613,15 @@ msFilterList
 # zonamuda.com###iklan2
 # zonamuda.com###iklan3
 # zonamuda.com###iklan4
+# jomniaga.com###imgBanner
+# harakahdaily.net###jsemrp_372_719
+# harakahdaily.net###jsemrp_373_873
+# harakahdaily.net###jsemrp_374_469
+# harakahdaily.net###jsemrp_380_290
 # zonabola.com###lAds img
 # mangafox.me###left-skyscraper
 # zonabola.com###rAds img
+# utusan.com.my###rec_ad4
 # mangafox.me###right-skyscraper
 # downloadmoviesfree.net###samdav-links
 # downloadmoviesfree.net###samdav-loading
@@ -618,6 +629,7 @@ msFilterList
 # downloadmoviesfree.net###samdav-wrapper
 # microsite.kapanlagi.com###scmicrosite
 # lintas.me###showcasedown
+# panduanpercuma.info###sidebar-banner300
 # detik.com###skinad
 # harianjogja.com,solopos.com###solopos_float
 # downloadfilmbaru.com###sticky-ads
@@ -643,14 +655,17 @@ msFilterList
 # m.kapanlagi.com##.ad2
 # gugling.com##.ad336x280atas
 # mangafox.com##.ad728x90.left + .right
+# bharian.com.my##.adbtm
 # clip.cewecewe.com##.ads
 # kompas.com##.adsMR1Lipsus1
+# utusan.com.my##.adspace_300
 # m.iklanbaris.detik.com##.adtext01
 # palingseru.com##.alignnone.size-large.wp-image-458
 # duniabaca.com##.banner
 # metrotvnews.com##.banner-160x600.left.mb20
 # kaskus.co.id##.banner-top-ads
 # oktavita.com##.banner-zone
+# panduanpercuma.info##.banner468
 # kompas.com##.bannerAdB
 # kikil.org,kikil.ws##.bannerBox
 # kompas.com##.bannerCenter
@@ -669,10 +684,12 @@ msFilterList
 # detik.com##.banner_reg.h250.cad_scl1
 # detik.com##.banner_reg.h250.cad_scl2
 # zonamuda.com##.bannertengah
+# bharian.com.my##.bh-ad
 # kaskus.co.id##.bottom-frame
 # ibuprita.suatuhari.com##.box > .textwidget > center
 # kompas.com##.boxBannerR1akt
 # kompas.com##.boxSkinAd
+# mforum.cari.com.my##.cari-ads
 # modifikasi.com##.cell_banner_inside
 # detik.com##.close
 # tempo.co##.closebanner1
@@ -681,6 +698,8 @@ msFilterList
 # catatankomputer.com##.forads
 # warungbebas.com##.gbtab
 # kompas.com##.hAds
+# kosmo.com.my##.iklan-puff
+# kosmo.com.my##.iklanBox
 # komikbaru.com##.iklan_kiri
 # detik.com##.iklan_tengah
 # gambarkeren.info##.iklankotak1
