@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 25 July 2013, 21:40:58 WIB
+# Last modified 04 August 2013, 09:05:34 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -361,6 +361,7 @@ msFilterList
 -d 173.199.167.192 /bb17-iklan.php
 - http://admin.ads.indowebster.com
 -d alertpay.com /banners/
+-d angel.exabytes.com.my /banners/
 -d armylookfashion.com /728.swf
 -d asianbrain.com /banner/
 # ||bacamanga.com/images/indofiles/$image
@@ -389,6 +390,7 @@ msFilterList
 -d forumkami.net /ad200x50/
 -d forumkami.net /close.gif
 # ||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws|iniunic.blogspot.com
+-d harakah.net.my /images/stories/iklan/
 -d harianjogja.com /img/bnr/
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
@@ -431,6 +433,7 @@ msFilterList
 -d mediahide.com /ganool/*/banner-ganool.gif
 -d mediaindonesia.com /public/banner/flash/
 -d megindo.net /megindo2/images/banner-
+-d mforum.cari.com.my /cari/daybanner/ads_daybanner_display.php?
 -d modemku.com /image-banner/
 -d modifikasi.com /images/banner/
 -d modifikasi.com /images/banner_
@@ -454,6 +457,7 @@ msFilterList
 -d tabloidbintang.com /space-iklan/
 -d tambahketinggian.com /banner/
 -d upload.coblos.net /images/*.gif
+-d utusan.com.my /utusan/iklan/
 -d videogamesindonesia.com /banners/
 -d viva.co.id /appaux/images/close-button1.png
 -d widih.modifikasi.com /images/banners/

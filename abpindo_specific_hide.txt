@@ -10,6 +10,7 @@ remo-xp.com###adsheader
 inilah.com,kompasiana.com###anchormasklink
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
+panduanpercuma.info###banner125
 remo-xp.com###banner_bawah
 galeri.indonesiaselebriti.com###bannerbesar
 tribunnews.com###bannerku
@@ -35,10 +36,16 @@ zonamuda.com###iklan1
 zonamuda.com###iklan2
 zonamuda.com###iklan3
 zonamuda.com###iklan4
+jomniaga.com###imgBanner
+harakahdaily.net###jsemrp_372_719
+harakahdaily.net###jsemrp_373_873
+harakahdaily.net###jsemrp_374_469
+harakahdaily.net###jsemrp_380_290
 zonabola.com###lAds img
 mangafox.me###left-skyscraper
 asik.me,duniasex.ws###main_content_section > div[align="center"]
 zonabola.com###rAds img
+utusan.com.my###rec_ad4
 mangafox.me###right-skyscraper
 downloadmoviesfree.net###samdav-links
 downloadmoviesfree.net###samdav-loading
@@ -46,6 +53,7 @@ downloadmoviesfree.net###samdav-locker
 downloadmoviesfree.net###samdav-wrapper
 microsite.kapanlagi.com###scmicrosite
 lintas.me###showcasedown
+panduanpercuma.info###sidebar-banner300
 detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
@@ -72,8 +80,10 @@ clip.cewecewe.com##.ad
 m.kapanlagi.com##.ad2
 gugling.com##.ad336x280atas
 mangafox.com##.ad728x90.left + .right
+bharian.com.my##.adbtm
 clip.cewecewe.com##.ads
 kompas.com##.adsMR1Lipsus1
+utusan.com.my##.adspace_300
 m.iklanbaris.detik.com##.adtext01
 palingseru.com##.alignnone.size-large.wp-image-458
 duniabaca.com##.banner
@@ -81,6 +91,7 @@ metrotvnews.com##.banner-160x600.left.mb20
 ganool.com##.banner-right.clearfix[style="width:270px;"]
 kaskus.co.id##.banner-top-ads
 oktavita.com##.banner-zone
+panduanpercuma.info##.banner468
 kompas.com##.bannerAdB
 kikil.org,kikil.ws##.bannerBox
 kompas.com##.bannerCenter
@@ -99,10 +110,12 @@ lapar.com##.banner_main
 detik.com##.banner_reg.h250.cad_scl1
 detik.com##.banner_reg.h250.cad_scl2
 zonamuda.com##.bannertengah
+bharian.com.my##.bh-ad
 kaskus.co.id##.bottom-frame
 ibuprita.suatuhari.com##.box > .textwidget > center
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
+mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 detik.com##.close
 tempo.co##.closebanner1
@@ -111,6 +124,8 @@ tempo.co##.closebanner2
 catatankomputer.com##.forads
 warungbebas.com##.gbtab
 kompas.com##.hAds
+kosmo.com.my##.iklan-puff
+kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
