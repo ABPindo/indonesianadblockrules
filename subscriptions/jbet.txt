@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ui8R+btUshykNc1igvHKgA
+! Checksum: RsSQfsJ0M7Uxg+6EkM0dWw
 ! JBet - filter untuk menghindari Jebakan Betmen
-! Last modified 10 August 2013, 19:06:17 WIB
+! Last modified 11 August 2013, 16:00:29 WIB
 ! Expires: 7 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -12,22 +12,16 @@
 !
 ! *** _computer_prank.txt ***
 ||1227.com^
-||1guy1mudpie.com^
 ||1priest1nun.com^
 ||2girls1finger.com^
 ||2girls1fleshlight.com^
-||2girls1kracker.com^
 ||2guys1hole.com^
 ||2guys1horse.com^
-||4girls1mouth.com^
 ||4girlsfingerpaint.com^
 ||aladel.net^
-||apaaaantuh.co.cc^
 ||asianthumbx.com^
 ||bagslap.com^
 ||bangun3.com/admin
-||biblecamp.info^
-||blink-182.com^
 ||bluewaffle.com^
 ||bmepainolympics2.com^
 ||boi.netai.net^
@@ -44,26 +38,18 @@
 ||d1gdo.com/images
 ||dadparty.com^
 ||denial.be^
-||dfwdiesel.net^
-||divineenterprises.net^
 ||drewpickles.com^
 ||eatingcream.com^
 ||eelsoup.net^
-||epustakawan.co.cc^
 ||esc-creation.com/scream
-||fadebook.com^
 ||fanbangho.com^
 ||festered.com^
 ||fingerslam.com^
 ||fishermen.ytmnd.com^
 ||fragskin.com^
 ||fruitlauncher.com^
-||fudgepipe.com^
 ||funnelchair.com^
-||gandhi.isgreat.org^
-||geryadrian.com^
 ||ghostboy.co.uk^
-||gigihweb.com/unik
 ||ginedis.com^
 ||gncr.org^
 ||goatse.cz^
@@ -83,18 +69,11 @@
 ||hurr-durr.com^
 ||infoslash.net^
 ||japscat.org^
-||jewdiamonds.com^
-||jewsnip.com^
 ||joyangeles.com^
 ||k-k-k.com^
 ||kids-in-sandbox.com^
-||killerijo.com^
 ||killerijo.net^
-||killerjo.net^
 ||kingfamilyphotoalbum.com^
-||kombre.co.cc^
-||krnacjalneg.info^
-||l33thaxor.tk^
 ||landslide.nu^
 ||lemonparty.org^
 ||likaraoke.com^
@@ -102,10 +81,8 @@
 ||lolshock.com^
 ||loltrain.com^
 ||macory.com^
-||mactep.org^
 ||magic4you.nu^
 ||mangems.com^
-||marbling.pe^
 ||martectx.de^
 ||meatrolled.com^
 ||meatspin.com^
@@ -120,13 +97,10 @@
 ||niggers.on.nimp.org^
 ||nobrain.dk^
 ||nutabuse.com^
-||nutgobbler.com^
 ||nutsindaass.com^
 ||octopusgirl.com^
 ||ogrish.com^
 ||oranggila.com^
-||ouchmyeyes.com^
-||out.ihang.org^
 ||phonejapan.com^
 ||phonetrace.org^
 ||podrido.com^
@@ -134,22 +108,15 @@
 ||porkspin.com^
 ||pressurespot.com^
 ||prolapseman.com^
-||pronline.ru^
 ||purplehoodie.com^
 ||qsng.cn^
-||ratemyshocker.com^
-||reinaldi.com^
 ||rumdesign.com/wrong/
 ||sajjadali.com^
 ||seksburada.net^
 ||shitpassion.com^
 ||sinthaistudio.com/thehouse2/
-||sourpatch.org^
 ||sportsmansclub.net^
-||stagparty.us^
-||stainedass.com^
 ||stock888.cn^
-||stuff.pyzam.com/toys/tictacscare.swf
 ||subang.co.tv^
 ||subangtv.co.tv^
 ||suckdude.com^
@@ -166,15 +133,10 @@
 ||theshithole.com^
 ||thewillpower.org^
 ||turdgasm.com^
-||ugly.blerp.org^
 ||vomitgirl.org^
-||wadefamilytree.org^
 ||walkthedinosaur.com^
-||watchmcrankdat.com^
-||whipkrack.org^
 ||whoomp.org^
 ||winterrowd.com^
-||workse.cx^
 ||wormgush.com^
 ||wowomg.com^
 ||xnescat.info^
