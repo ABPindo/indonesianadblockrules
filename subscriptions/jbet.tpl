@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # JBet - filter untuk menghindari Jebakan Betmen
-# Last modified 10 August 2013, 19:06:17 WIB
+# Last modified 11 August 2013, 16:00:29 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -11,22 +11,16 @@ msFilterList
 #
 # *** _computer_prank.txt ***
 - http://1227.com
-- http://1guy1mudpie.com
 - http://1priest1nun.com
 - http://2girls1finger.com
 - http://2girls1fleshlight.com
-- http://2girls1kracker.com
 - http://2guys1hole.com
 - http://2guys1horse.com
-- http://4girls1mouth.com
 - http://4girlsfingerpaint.com
 - http://aladel.net
-- http://apaaaantuh.co.cc
 - http://asianthumbx.com
 - http://bagslap.com
 -d bangun3.com /admin
-- http://biblecamp.info
-- http://blink-182.com
 - http://bluewaffle.com
 - http://bmepainolympics2.com
 - http://boi.netai.net
@@ -43,26 +37,18 @@ msFilterList
 -d d1gdo.com /images
 - http://dadparty.com
 - http://denial.be
-- http://dfwdiesel.net
-- http://divineenterprises.net
 - http://drewpickles.com
 - http://eatingcream.com
 - http://eelsoup.net
-- http://epustakawan.co.cc
 -d esc-creation.com /scream
-- http://fadebook.com
 - http://fanbangho.com
 - http://festered.com
 - http://fingerslam.com
 - http://fishermen.ytmnd.com
 - http://fragskin.com
 - http://fruitlauncher.com
-- http://fudgepipe.com
 - http://funnelchair.com
-- http://gandhi.isgreat.org
-- http://geryadrian.com
 - http://ghostboy.co.uk
--d gigihweb.com /unik
 - http://ginedis.com
 - http://gncr.org
 - http://goatse.cz
@@ -82,18 +68,11 @@ msFilterList
 - http://hurr-durr.com
 - http://infoslash.net
 - http://japscat.org
-- http://jewdiamonds.com
-- http://jewsnip.com
 - http://joyangeles.com
 - http://k-k-k.com
 - http://kids-in-sandbox.com
-- http://killerijo.com
 - http://killerijo.net
-- http://killerjo.net
 - http://kingfamilyphotoalbum.com
-- http://kombre.co.cc
-- http://krnacjalneg.info
-- http://l33thaxor.tk
 - http://landslide.nu
 - http://lemonparty.org
 - http://likaraoke.com
@@ -101,10 +80,8 @@ msFilterList
 - http://lolshock.com
 - http://loltrain.com
 - http://macory.com
-- http://mactep.org
 - http://magic4you.nu
 - http://mangems.com
-- http://marbling.pe
 - http://martectx.de
 - http://meatrolled.com
 - http://meatspin.com
@@ -119,13 +96,10 @@ msFilterList
 - http://niggers.on.nimp.org
 - http://nobrain.dk
 - http://nutabuse.com
-- http://nutgobbler.com
 - http://nutsindaass.com
 - http://octopusgirl.com
 - http://ogrish.com
 - http://oranggila.com
-- http://ouchmyeyes.com
-- http://out.ihang.org
 - http://phonejapan.com
 - http://phonetrace.org
 - http://podrido.com
@@ -133,22 +107,15 @@ msFilterList
 - http://porkspin.com
 - http://pressurespot.com
 - http://prolapseman.com
-- http://pronline.ru
 - http://purplehoodie.com
 - http://qsng.cn
-- http://ratemyshocker.com
-- http://reinaldi.com
 -d rumdesign.com /wrong/
 - http://sajjadali.com
 - http://seksburada.net
 - http://shitpassion.com
 -d sinthaistudio.com /thehouse2/
-- http://sourpatch.org
 - http://sportsmansclub.net
-- http://stagparty.us
-- http://stainedass.com
 - http://stock888.cn
--d stuff.pyzam.com /toys/tictacscare.swf
 - http://subang.co.tv
 - http://subangtv.co.tv
 - http://suckdude.com
@@ -165,15 +132,10 @@ msFilterList
 - http://theshithole.com
 - http://thewillpower.org
 - http://turdgasm.com
-- http://ugly.blerp.org
 - http://vomitgirl.org
-- http://wadefamilytree.org
 - http://walkthedinosaur.com
-- http://watchmcrankdat.com
-- http://whipkrack.org
 - http://whoomp.org
 - http://winterrowd.com
-- http://workse.cx
 - http://wormgush.com
 - http://wowomg.com
 - http://xnescat.info
