@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 11 August 2013, 16:00:29 WIB
+# Last modified: 27 August 2013, 09:31:24 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -376,11 +376,9 @@ msFilterList
 -d bolavegas.com /ads/
 -d cashburners.biz /banners/
 -d ceriwis.us /banner/
--d chip.co.id /microsite/frame/index.html
 # ||coblos.net^*.swf$domain=bintangmawar.net
 -d detik.com /images/banners/
 -d dixam.net /banner/
--d dl.dropbox.com /u/81212926/bloggerheroefacebookpopup.js
 -d dorabet.net /banner/
 # ||doublerads.com^$image,subdocument,domain=mivo.tv
 -d drtuber.com /templates/drtuber/js/adx_flash_embed.js?
@@ -390,6 +388,7 @@ msFilterList
 -d filmbokepdewasa.com /*/adv/
 -d formulabisnis.com /images/
 -d forumbola.org /close3.png
+-d forumbookie.com /banner/
 -d forumkami.net /ad125x125/
 -d forumkami.net /ad200x50/
 -d forumkami.net /close.gif
@@ -402,12 +401,9 @@ msFilterList
 -d images.harianjogja.com /banner/
 -d images.indoforum.org /banners/
 -d images.solopos.com /banner/
-# ||img.cuvso.com^$domain=remo-xp.com
-# ||imgur.com/*.gif$domain=koranseksi.com
 -d indobokepz.com /images/banner/
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
--d indowebster.com /js/link_converter.js
 -d inilah.com /assets/image/airasia/skin-
 -d investasiceria.net /images/
 -d jagatreview.com /wp-content/uploads/*-SKIN-
@@ -429,8 +425,6 @@ msFilterList
 -d koranlokal.com /newstickerpartai.php
 -d koranlokal.com /point1.php
 -d krucil.com /bb17-iklan.php
-# ||lendir.org/banner/$image,third-party
--d lendir.us /images/banner/
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
 -d manasuka.com /gbr_banner_link/
@@ -450,7 +444,6 @@ msFilterList
 -d perawan.us /images/banner/
 -d perjaka.us /images/banner/
 -d ranjangternoda.com /images/banner/
--d remoxp.hostzi.com /banner160x720.jpg
 -d resep.web.id /banner/
 -d semprot.com /x_ads/
 -d sodasusu.com /banner/
@@ -465,12 +458,10 @@ msFilterList
 -d videogamesindonesia.com /banners/
 -d viva.co.id /appaux/images/close-button1.png
 -d widih.modifikasi.com /images/banners/
--d zonabola.com /mansion.htm
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
 # wowkeren.com###Ad728
 # lintas.me###Advertisement
-# mivo.tv###BFAslidein
 # icinema3satu.com###FloatAlamindawa
 # indogamers.com###IklanIDGS
 # chip.co.id###TopBannerBg
@@ -483,12 +474,11 @@ msFilterList
 # tempointeraktif.com###banner-bawah
 # panduanpercuma.info###banner125
 # remo-xp.com###banner_bawah
-# galeri.indonesiaselebriti.com###bannerbesar
 # tribunnews.com###bannerku
 # detik.com###bottom_banner
 # indogamers.com###bottombanner
 # adipedia.com,bokepgratiz.info,nusareborn.in###btm_banner
-# bokep.sibawel.com,koranseksi.com###close-teaser
+# koranseksi.com###close-teaser
 # kampus.us###elementDiv
 # lintas.me###facebox_overlay
 # metrotvnews.com###fixme
@@ -528,9 +518,8 @@ msFilterList
 # detik.com###skinad
 # harianjogja.com,solopos.com###solopos_float
 # downloadfilmbaru.com###sticky-ads
-# bokep.sibawel.com###teaser
-# bokep.sibawel.com,cewecewe.com,downloadfilmbaru.com,galaxymaya.com###teaser2
-# bokep.sibawel.com,cewecewe.com,downloadfilmbaru.com,galaxymaya.com###teaser3
+# downloadfilmbaru.com,galaxymaya.com###teaser2
+# downloadfilmbaru.com,galaxymaya.com###teaser3
 # sodasusu.com###teaser4
 # m.detik.com###top
 # detik.com###top_banner
@@ -546,7 +535,6 @@ msFilterList
 # kapanlagi.com###v7-showcase1
 # kapanlagi.com###v7-showcase2
 # kapanlagi.com###v7-showcase3
-# samehadaku.net###x893
 # clip.cewecewe.com##.ad
 # m.kapanlagi.com##.ad2
 # gugling.com##.ad336x280atas
@@ -557,7 +545,6 @@ msFilterList
 # utusan.com.my##.adspace_300
 # m.iklanbaris.detik.com##.adtext01
 # palingseru.com##.alignnone.size-large.wp-image-458
-# duniabaca.com##.banner
 # metrotvnews.com##.banner-160x600.left.mb20
 # kaskus.co.id##.banner-top-ads
 # oktavita.com##.banner-zone
@@ -590,6 +577,8 @@ msFilterList
 # detik.com##.close
 # tempo.co##.closebanner1
 # tempo.co##.closebanner2
+# lintas.me##.column.centered.ad-frame.sc1_top
+# lintas.me##.column.centered.ad-frame.sc2_top
 # 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
 # catatankomputer.com##.forads
 # warungbebas.com##.gbtab
@@ -605,7 +594,6 @@ msFilterList
 # detik.com##.otp_banner_close
 # lintas.me##.popup
 # kaskus.co.id##.r-link
-# krngbl.com##.ryt-ads
 # bokepgratiz.info##.textwidget
 # lapar.com##.top-banner
 # galaxymaya.com##.widget-content
