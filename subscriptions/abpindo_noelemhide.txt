@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: +J67nnZcq5TizS58+QFFbQ
+! Checksum: qX8VloQPpGV/NOPHKqeHDA
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 11 August 2013, 16:00:29 WIB
+! Last modified 27 August 2013, 09:31:25 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -282,11 +282,9 @@
 ||bolavegas.com/ads/
 ||cashburners.biz/banners/$third-party
 ||ceriwis.us/banner/
-||chip.co.id/microsite/frame/index.html
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||detik.com/images/banners/
 ||dixam.net/banner/
-||dl.dropbox.com/u/81212926/bloggerheroefacebookpopup.js
 ||dorabet.net/banner/
 ||doublerads.com^$image,subdocument,domain=mivo.tv
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
@@ -296,6 +294,7 @@
 ||filmbokepdewasa.com/*/adv/
 ||formulabisnis.com/images/$third-party
 ||forumbola.org/close3.png
+||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||forumkami.net/close.gif
@@ -308,12 +307,9 @@
 ||images.harianjogja.com/banner/
 ||images.indoforum.org/banners/
 ||images.solopos.com/banner/
-||img.cuvso.com^$domain=remo-xp.com
-||imgur.com/*.gif$domain=koranseksi.com
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
-||indowebster.com/js/link_converter.js
 ||inilah.com/assets/image/airasia/skin-
 ||investasiceria.net/images/$third-party
 ||jagatreview.com/wp-content/uploads/*-SKIN-
@@ -335,8 +331,6 @@
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
 ||krucil.com/bb17-iklan.php
-||lendir.org/banner/$image,third-party
-||lendir.us/images/banner/
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||manasuka.com/gbr_banner_link/$third-party
@@ -356,7 +350,6 @@
 ||perawan.us/images/banner/
 ||perjaka.us/images/banner/
 ||ranjangternoda.com/images/banner/
-||remoxp.hostzi.com/banner160x720.jpg
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
 ||sodasusu.com/banner/
@@ -371,7 +364,6 @@
 ||videogamesindonesia.com/banners/
 ||viva.co.id/appaux/images/close-button1.png
 ||widih.modifikasi.com/images/banners/
-||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_thirdparty.txt ***
 ||39bola.com^$third-party

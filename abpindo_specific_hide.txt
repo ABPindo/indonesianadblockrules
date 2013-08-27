@@ -1,6 +1,5 @@
 wowkeren.com###Ad728
 lintas.me###Advertisement
-mivo.tv###BFAslidein
 icinema3satu.com###FloatAlamindawa
 indogamers.com###IklanIDGS
 chip.co.id###TopBannerBg
@@ -13,12 +12,11 @@ tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 panduanpercuma.info###banner125
 remo-xp.com###banner_bawah
-galeri.indonesiaselebriti.com###bannerbesar
 tribunnews.com###bannerku
 detik.com###bottom_banner
 indogamers.com###bottombanner
 adipedia.com,bokepgratiz.info,nusareborn.in###btm_banner
-bokep.sibawel.com,koranseksi.com###close-teaser
+koranseksi.com###close-teaser
 kampus.us###elementDiv
 lintas.me###facebox_overlay
 metrotvnews.com###fixme
@@ -60,9 +58,8 @@ panduanpercuma.info###sidebar-banner300
 detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
-bokep.sibawel.com###teaser
-bokep.sibawel.com,cewecewe.com,downloadfilmbaru.com,galaxymaya.com###teaser2
-bokep.sibawel.com,cewecewe.com,downloadfilmbaru.com,galaxymaya.com###teaser3
+downloadfilmbaru.com,galaxymaya.com###teaser2
+downloadfilmbaru.com,galaxymaya.com###teaser3
 sodasusu.com###teaser4
 m.detik.com###top
 detik.com###top_banner
@@ -79,7 +76,6 @@ kapanlagi.com###v7-marcommpromotion
 kapanlagi.com###v7-showcase1
 kapanlagi.com###v7-showcase2
 kapanlagi.com###v7-showcase3
-samehadaku.net###x893
 clip.cewecewe.com##.ad
 m.kapanlagi.com##.ad2
 gugling.com##.ad336x280atas
@@ -90,7 +86,6 @@ kompas.com##.adsMR1Lipsus1
 utusan.com.my##.adspace_300
 m.iklanbaris.detik.com##.adtext01
 palingseru.com##.alignnone.size-large.wp-image-458
-duniabaca.com##.banner
 metrotvnews.com##.banner-160x600.left.mb20
 ganool.com##.banner-right.clearfix[style="width:270px;"]
 kaskus.co.id##.banner-top-ads
@@ -124,6 +119,8 @@ modifikasi.com##.cell_banner_inside
 detik.com##.close
 tempo.co##.closebanner1
 tempo.co##.closebanner2
+lintas.me##.column.centered.ad-frame.sc1_top
+lintas.me##.column.centered.ad-frame.sc2_top
 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
 catatankomputer.com##.forads
 warungbebas.com##.gbtab
@@ -140,17 +137,13 @@ lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width
 detik.com##.otp_banner_close
 lintas.me##.popup
 kaskus.co.id##.r-link
-krngbl.com##.ryt-ads
 173.199.167.192,kikil.org,kikil.ws,semprot.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
-krucil.com,krucil.net##.tborder[width="67%"][height="872"][align="center"]
 bokepgratiz.info##.textwidget
 lapar.com##.top-banner
 galaxymaya.com##.widget-content
-mivo.tv##TBODY [width="890"][height="70"] + table[align="center"]
 asik.me,duniasex.ws##[href$="betme88.com"]
 asik.me,duniasex.ws##[href$="tri7bet.com"]
 kompas.com##[id^="div-gpt-ad-"]
-ganool.com##[type="text/javascript"] + p + center
 forumbokep.com##a[href$="from=vocland"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
@@ -160,12 +153,10 @@ forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
 metrotvnews.com##div[style="height: 60px; margin:auto; background-color:#ccc; width:960px; bottom:0px;position:fixed;z-index:100"]
 situshp.com##div[style="height:260px;"]
-dongeng.org##div[style="margin-top:5px;margin-bottom:10px;padding-top:10px;padding-bottom:10px;"]
 warnetforum.com##div[style="margin: 10px auto 10px;width:599px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 bokepgratiz.info##div[style="width:100%;text-align:center;"]
-krngbl.com##div[style="width:296px; height:246px; border:0px solid #111111; background-color:#111111;"]
 komikbaru.com##img[alt="Pemasangan Iklan"]
 remo-xp.com##img[alt="iklan 440x90"]
 zonamuda.com##img[alt="iklan"]
@@ -183,7 +174,5 @@ downloadfilem.com##img[width="125"][height="125"]
 thehack3r.com##img[width="728"][height="90"]
 zonabola.com##img[width="750"][height="75"][border="0"]
 stafaband.info##table[width="100%"] + #bottom
-mivo.tv##table[width="100%"] > tbody > tr > td[height="250"]
-mivo.tv##td[align="center"][style="padding-bottom:10px;"]
 zonamuda.com##td[valign="top"][height="55px"][align="center"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]

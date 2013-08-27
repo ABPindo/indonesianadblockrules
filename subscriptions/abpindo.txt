@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: apCRBrqgnl2EdlYqkNK9yQ
+! Checksum: QGTZ/ui78nDlhVcKempDSw
 ! Title: ABPindo
-! Last modified: 11 August 2013, 16:00:29 WIB
+! Last modified: 27 August 2013, 09:31:24 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -384,11 +384,9 @@ blogspot.com##img[alt="ads"]
 ||bolavegas.com/ads/
 ||cashburners.biz/banners/$third-party
 ||ceriwis.us/banner/
-||chip.co.id/microsite/frame/index.html
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||detik.com/images/banners/
 ||dixam.net/banner/
-||dl.dropbox.com/u/81212926/bloggerheroefacebookpopup.js
 ||dorabet.net/banner/
 ||doublerads.com^$image,subdocument,domain=mivo.tv
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
@@ -398,6 +396,7 @@ blogspot.com##img[alt="ads"]
 ||filmbokepdewasa.com/*/adv/
 ||formulabisnis.com/images/$third-party
 ||forumbola.org/close3.png
+||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||forumkami.net/close.gif
@@ -410,12 +409,9 @@ blogspot.com##img[alt="ads"]
 ||images.harianjogja.com/banner/
 ||images.indoforum.org/banners/
 ||images.solopos.com/banner/
-||img.cuvso.com^$domain=remo-xp.com
-||imgur.com/*.gif$domain=koranseksi.com
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
-||indowebster.com/js/link_converter.js
 ||inilah.com/assets/image/airasia/skin-
 ||investasiceria.net/images/$third-party
 ||jagatreview.com/wp-content/uploads/*-SKIN-
@@ -437,8 +433,6 @@ blogspot.com##img[alt="ads"]
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
 ||krucil.com/bb17-iklan.php
-||lendir.org/banner/$image,third-party
-||lendir.us/images/banner/
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||manasuka.com/gbr_banner_link/$third-party
@@ -458,7 +452,6 @@ blogspot.com##img[alt="ads"]
 ||perawan.us/images/banner/
 ||perjaka.us/images/banner/
 ||ranjangternoda.com/images/banner/
-||remoxp.hostzi.com/banner160x720.jpg
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
 ||sodasusu.com/banner/
@@ -473,12 +466,10 @@ blogspot.com##img[alt="ads"]
 ||videogamesindonesia.com/banners/
 ||viva.co.id/appaux/images/close-button1.png
 ||widih.modifikasi.com/images/banners/
-||zonabola.com/mansion.htm
 ||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad728
 lintas.me###Advertisement
-mivo.tv###BFAslidein
 icinema3satu.com###FloatAlamindawa
 indogamers.com###IklanIDGS
 chip.co.id###TopBannerBg
@@ -491,12 +482,11 @@ tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 panduanpercuma.info###banner125
 remo-xp.com###banner_bawah
-galeri.indonesiaselebriti.com###bannerbesar
 tribunnews.com###bannerku
 detik.com###bottom_banner
 indogamers.com###bottombanner
 adipedia.com,bokepgratiz.info,nusareborn.in###btm_banner
-bokep.sibawel.com,koranseksi.com###close-teaser
+koranseksi.com###close-teaser
 kampus.us###elementDiv
 lintas.me###facebox_overlay
 metrotvnews.com###fixme
@@ -538,9 +528,8 @@ panduanpercuma.info###sidebar-banner300
 detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
-bokep.sibawel.com###teaser
-bokep.sibawel.com,cewecewe.com,downloadfilmbaru.com,galaxymaya.com###teaser2
-bokep.sibawel.com,cewecewe.com,downloadfilmbaru.com,galaxymaya.com###teaser3
+downloadfilmbaru.com,galaxymaya.com###teaser2
+downloadfilmbaru.com,galaxymaya.com###teaser3
 sodasusu.com###teaser4
 m.detik.com###top
 detik.com###top_banner
@@ -557,7 +546,6 @@ kapanlagi.com###v7-marcommpromotion
 kapanlagi.com###v7-showcase1
 kapanlagi.com###v7-showcase2
 kapanlagi.com###v7-showcase3
-samehadaku.net###x893
 clip.cewecewe.com##.ad
 m.kapanlagi.com##.ad2
 gugling.com##.ad336x280atas
@@ -568,7 +556,6 @@ kompas.com##.adsMR1Lipsus1
 utusan.com.my##.adspace_300
 m.iklanbaris.detik.com##.adtext01
 palingseru.com##.alignnone.size-large.wp-image-458
-duniabaca.com##.banner
 metrotvnews.com##.banner-160x600.left.mb20
 ganool.com##.banner-right.clearfix[style="width:270px;"]
 kaskus.co.id##.banner-top-ads
@@ -602,6 +589,8 @@ modifikasi.com##.cell_banner_inside
 detik.com##.close
 tempo.co##.closebanner1
 tempo.co##.closebanner2
+lintas.me##.column.centered.ad-frame.sc1_top
+lintas.me##.column.centered.ad-frame.sc2_top
 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
 catatankomputer.com##.forads
 warungbebas.com##.gbtab
@@ -618,17 +607,13 @@ lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width
 detik.com##.otp_banner_close
 lintas.me##.popup
 kaskus.co.id##.r-link
-krngbl.com##.ryt-ads
 173.199.167.192,kikil.org,kikil.ws,semprot.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
-krucil.com,krucil.net##.tborder[width="67%"][height="872"][align="center"]
 bokepgratiz.info##.textwidget
 lapar.com##.top-banner
 galaxymaya.com##.widget-content
-mivo.tv##TBODY [width="890"][height="70"] + table[align="center"]
 asik.me,duniasex.ws##[href$="betme88.com"]
 asik.me,duniasex.ws##[href$="tri7bet.com"]
 kompas.com##[id^="div-gpt-ad-"]
-ganool.com##[type="text/javascript"] + p + center
 forumbokep.com##a[href$="from=vocland"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
@@ -638,12 +623,10 @@ forumbebas.com##a[target="_blank"][href^="www/go/"]
 forumbebas.com##center > a[target="_blank"]
 metrotvnews.com##div[style="height: 60px; margin:auto; background-color:#ccc; width:960px; bottom:0px;position:fixed;z-index:100"]
 situshp.com##div[style="height:260px;"]
-dongeng.org##div[style="margin-top:5px;margin-bottom:10px;padding-top:10px;padding-bottom:10px;"]
 warnetforum.com##div[style="margin: 10px auto 10px;width:599px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 bokepgratiz.info##div[style="width:100%;text-align:center;"]
-krngbl.com##div[style="width:296px; height:246px; border:0px solid #111111; background-color:#111111;"]
 komikbaru.com##img[alt="Pemasangan Iklan"]
 remo-xp.com##img[alt="iklan 440x90"]
 zonamuda.com##img[alt="iklan"]
@@ -661,8 +644,6 @@ downloadfilem.com##img[width="125"][height="125"]
 thehack3r.com##img[width="728"][height="90"]
 zonabola.com##img[width="750"][height="75"][border="0"]
 stafaband.info##table[width="100%"] + #bottom
-mivo.tv##table[width="100%"] > tbody > tr > td[height="250"]
-mivo.tv##td[align="center"][style="padding-bottom:10px;"]
 zonamuda.com##td[valign="top"][height="55px"][align="center"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]
 ! *** abpindo_whitelist.txt ***
