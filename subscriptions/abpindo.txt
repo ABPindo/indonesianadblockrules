@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QGTZ/ui78nDlhVcKempDSw
+! Checksum: wvsoM0QYgvbd0ir9GNx7tw
 ! Title: ABPindo
-! Last modified: 27 August 2013, 09:31:24 WIB
+! Last modified: 04 September 2013, 17:06:31 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -29,6 +29,7 @@
 ###adsground
 ###adv-placeholder
 ###bottom_exclusive_ads
+blogspot.com###btm_banner
 ###desaiklan
 blogspot.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
@@ -113,7 +114,6 @@ blogspot.com##img[alt="ads"]
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
-||iklanad.com^$third-party
 ||iklanads.com^$third-party
 ||iklanbaliku.com^$third-party
 ||iklanbaris-gratis.com^$third-party
@@ -174,7 +174,6 @@ blogspot.com##img[alt="ads"]
 ||iklanplaza.com^$third-party
 ||iklanposkota.net^$third-party
 ||iklanprimaku.com^$third-party
-||iklanprime.com^$third-party
 ||iklanpromo.com^$third-party
 ||iklansilver.com^$third-party
 ||iklantanpadaftar.com^$third-party
@@ -185,14 +184,11 @@ blogspot.com##img[alt="ads"]
 ||iklantop.net^$third-party
 ||iklanumum.com^$third-party
 ||iklanvip.net^$third-party
-||iklanvoucher.com^$third-party
 ||iklanwebid.com^$third-party
 ||iklanyahoo.com^$third-party
 ||incentria.com^$third-party
-||indoadpro.com^$third-party
 ||indobanner.com^$third-party
 ||indofreeads.com^$third-party
-||indonesiaptc.com^$third-party
 ||indovertiser.com^$third-party
 ||istanaiklan.com^$third-party
 ||jagoiklan.com^$third-party
@@ -215,7 +211,6 @@ blogspot.com##img[alt="ads"]
 ||mauiklangratis.com^$third-party
 ||medaniklan.com^$third-party
 ||mediaiklanpapua.com^$third-party
-||mediapromosi.co.id^$third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||modaliklan.com^$third-party
 ||mpnrs.com^$third-party
@@ -275,12 +270,9 @@ blogspot.com##img[alt="ads"]
 ||sharepointads.com^$third-party
 ||situsiklan.web.id^$third-party
 ||situsiklanbaris.com^$third-party
-||skycpm.com^$third-party
 ||smart-iklan.com^$third-party
 ||sogoplaza.com^$third-party
 ||sumberiklan.com^$third-party
-||super-iklan.com^$third-party
-||surgapromo.com^$third-party
 ||suryaiklan.com^$third-party
 ||teknikbisnis.com^$third-party
 ||teliad.com^$third-party
@@ -299,7 +291,6 @@ blogspot.com##img[alt="ads"]
 ! *** abpindo_thirdparty.txt ***
 ||39bola.com^$third-party
 ||988bet.com^$third-party
-||ad.mstars.dpy.sofialys.net^
 ||agenasia88.com^$third-party
 ||agenbo.la^$image,popup
 ||agent926.com^$third-party
@@ -322,7 +313,7 @@ blogspot.com##img[alt="ads"]
 ||bravevolitation.com^$third-party
 ||bursabet.com^$third-party
 ||cash-harvest.com^$third-party
-||dewamabuk.com$third-party
+||dewamabuk.com^$third-party
 ||doremibet.com^$third-party
 ||duitbux.com^$third-party
 ||dunia-bisnis.com^$third-party
@@ -433,6 +424,8 @@ blogspot.com##img[alt="ads"]
 ||koranlokal.com/newstickerpartai.php
 ||koranlokal.com/point1.php
 ||krucil.com/bb17-iklan.php
+||kumpulblogger.com/minibanner/
+||lendir.org/banner/
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||manasuka.com/gbr_banner_link/$third-party
@@ -449,6 +442,7 @@ blogspot.com##img[alt="ads"]
 ||newopenx.detik.com/images/
 ||oprekpc.com/banner/
 ||pancet.com/kbads/
+||perawan.pro/$popup
 ||perawan.us/images/banner/
 ||perjaka.us/images/banner/
 ||ranjangternoda.com/images/banner/
@@ -472,6 +466,7 @@ wowkeren.com###Ad728
 lintas.me###Advertisement
 icinema3satu.com###FloatAlamindawa
 indogamers.com###IklanIDGS
+krucil.com,krucil.net###KD_adpB
 chip.co.id###TopBannerBg
 173.199.167.192,forumbokep.com,idfl.us,kampus.us,krucil.com,krucil.net,semprot.com,sodasusu.com###ad_global_below_navbar
 harianjogja.com,solopos.com###ads-float
@@ -528,6 +523,7 @@ panduanpercuma.info###sidebar-banner300
 detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
+detik.com###sto_banner
 downloadfilmbaru.com,galaxymaya.com###teaser2
 downloadfilmbaru.com,galaxymaya.com###teaser3
 sodasusu.com###teaser4
@@ -535,6 +531,7 @@ m.detik.com###top
 detik.com###top_banner
 beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
+serubokep3gp.blogspot.com###tupiklan
 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB
 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpS
 kapanlagi.com###v5-leaderboard
@@ -560,7 +557,6 @@ metrotvnews.com##.banner-160x600.left.mb20
 ganool.com##.banner-right.clearfix[style="width:270px;"]
 kaskus.co.id##.banner-top-ads
 oktavita.com##.banner-zone
-panduanpercuma.info##.banner468
 kompas.com##.bannerAdB
 kikil.org,kikil.ws##.bannerBox
 kompas.com##.bannerCenter
@@ -607,6 +603,7 @@ lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width
 detik.com##.otp_banner_close
 lintas.me##.popup
 kaskus.co.id##.r-link
+okezone.com##.rc-ad-300x250.mb10
 173.199.167.192,kikil.org,kikil.ws,semprot.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 bokepgratiz.info##.textwidget
 lapar.com##.top-banner

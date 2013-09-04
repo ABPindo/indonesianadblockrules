@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 27 August 2013, 09:31:25 WIB
+# Last modified 04 September 2013, 17:06:31 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -68,7 +68,6 @@ msFilterList
 - http://iklan-indo.org
 - http://iklan-laris.com
 - http://iklan-sukses.com
-- http://iklanad.com
 - http://iklanads.com
 - http://iklanbaliku.com
 - http://iklanbaris-gratis.com
@@ -129,7 +128,6 @@ msFilterList
 - http://iklanplaza.com
 - http://iklanposkota.net
 - http://iklanprimaku.com
-- http://iklanprime.com
 - http://iklanpromo.com
 - http://iklansilver.com
 - http://iklantanpadaftar.com
@@ -140,14 +138,11 @@ msFilterList
 - http://iklantop.net
 - http://iklanumum.com
 - http://iklanvip.net
-- http://iklanvoucher.com
 - http://iklanwebid.com
 - http://iklanyahoo.com
 - http://incentria.com
-- http://indoadpro.com
 - http://indobanner.com
 - http://indofreeads.com
-- http://indonesiaptc.com
 - http://indovertiser.com
 - http://istanaiklan.com
 - http://jagoiklan.com
@@ -170,7 +165,6 @@ msFilterList
 - http://mauiklangratis.com
 - http://medaniklan.com
 - http://mediaiklanpapua.com
-- http://mediapromosi.co.id
 - http://mesiniklan.andipublisher.com
 - http://modaliklan.com
 - http://mpnrs.com
@@ -230,12 +224,9 @@ msFilterList
 - http://sharepointads.com
 - http://situsiklan.web.id
 - http://situsiklanbaris.com
-- http://skycpm.com
 - http://smart-iklan.com
 - http://sogoplaza.com
 - http://sumberiklan.com
-- http://super-iklan.com
-- http://surgapromo.com
 - http://suryaiklan.com
 - http://teknikbisnis.com
 - http://teliad.com
@@ -330,6 +321,8 @@ msFilterList
 -d koranlokal.com /newstickerpartai.php
 -d koranlokal.com /point1.php
 -d krucil.com /bb17-iklan.php
+-d kumpulblogger.com /minibanner/
+-d lendir.org /banner/
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
 -d manasuka.com /gbr_banner_link/
@@ -346,6 +339,7 @@ msFilterList
 -d newopenx.detik.com /images/
 -d oprekpc.com /banner/
 -d pancet.com /kbads/
+# ||perawan.pro/$popup
 -d perawan.us /images/banner/
 -d perjaka.us /images/banner/
 -d ranjangternoda.com /images/banner/
@@ -367,7 +361,6 @@ msFilterList
 # *** abpindo_thirdparty.txt ***
 - http://39bola.com
 - http://988bet.com
-- http://ad.mstars.dpy.sofialys.net
 - http://agenasia88.com
 # ||agenbo.la^$image,popup
 - http://agent926.com

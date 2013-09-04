@@ -2,6 +2,7 @@ wowkeren.com###Ad728
 lintas.me###Advertisement
 icinema3satu.com###FloatAlamindawa
 indogamers.com###IklanIDGS
+krucil.com,krucil.net###KD_adpB
 chip.co.id###TopBannerBg
 173.199.167.192,forumbokep.com,idfl.us,kampus.us,krucil.com,krucil.net,semprot.com,sodasusu.com###ad_global_below_navbar
 harianjogja.com,solopos.com###ads-float
@@ -58,6 +59,7 @@ panduanpercuma.info###sidebar-banner300
 detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
+detik.com###sto_banner
 downloadfilmbaru.com,galaxymaya.com###teaser2
 downloadfilmbaru.com,galaxymaya.com###teaser3
 sodasusu.com###teaser4
@@ -65,6 +67,7 @@ m.detik.com###top
 detik.com###top_banner
 beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
+serubokep3gp.blogspot.com###tupiklan
 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB
 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpS
 kapanlagi.com###v5-leaderboard
@@ -90,7 +93,6 @@ metrotvnews.com##.banner-160x600.left.mb20
 ganool.com##.banner-right.clearfix[style="width:270px;"]
 kaskus.co.id##.banner-top-ads
 oktavita.com##.banner-zone
-panduanpercuma.info##.banner468
 kompas.com##.bannerAdB
 kikil.org,kikil.ws##.bannerBox
 kompas.com##.bannerCenter
@@ -137,6 +139,7 @@ lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width
 detik.com##.otp_banner_close
 lintas.me##.popup
 kaskus.co.id##.r-link
+okezone.com##.rc-ad-300x250.mb10
 173.199.167.192,kikil.org,kikil.ws,semprot.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 bokepgratiz.info##.textwidget
 lapar.com##.top-banner
