@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 27 August 2013, 09:31:24 WIB
+# Last modified: 04 September 2013, 17:06:31 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -28,6 +28,7 @@ msFilterList
 # ###adsground
 # ###adv-placeholder
 # ###bottom_exclusive_ads
+# blogspot.com###btm_banner
 # ###desaiklan
 # blogspot.com###floating_banner_bottom
 # blogspot.com###floating_banner_bottom2
@@ -105,7 +106,6 @@ msFilterList
 - http://iklan-indo.org
 - http://iklan-laris.com
 - http://iklan-sukses.com
-- http://iklanad.com
 - http://iklanads.com
 - http://iklanbaliku.com
 - http://iklanbaris-gratis.com
@@ -166,7 +166,6 @@ msFilterList
 - http://iklanplaza.com
 - http://iklanposkota.net
 - http://iklanprimaku.com
-- http://iklanprime.com
 - http://iklanpromo.com
 - http://iklansilver.com
 - http://iklantanpadaftar.com
@@ -177,14 +176,11 @@ msFilterList
 - http://iklantop.net
 - http://iklanumum.com
 - http://iklanvip.net
-- http://iklanvoucher.com
 - http://iklanwebid.com
 - http://iklanyahoo.com
 - http://incentria.com
-- http://indoadpro.com
 - http://indobanner.com
 - http://indofreeads.com
-- http://indonesiaptc.com
 - http://indovertiser.com
 - http://istanaiklan.com
 - http://jagoiklan.com
@@ -207,7 +203,6 @@ msFilterList
 - http://mauiklangratis.com
 - http://medaniklan.com
 - http://mediaiklanpapua.com
-- http://mediapromosi.co.id
 - http://mesiniklan.andipublisher.com
 - http://modaliklan.com
 - http://mpnrs.com
@@ -267,12 +262,9 @@ msFilterList
 - http://sharepointads.com
 - http://situsiklan.web.id
 - http://situsiklanbaris.com
-- http://skycpm.com
 - http://smart-iklan.com
 - http://sogoplaza.com
 - http://sumberiklan.com
-- http://super-iklan.com
-- http://surgapromo.com
 - http://suryaiklan.com
 - http://teknikbisnis.com
 - http://teliad.com
@@ -291,7 +283,6 @@ msFilterList
 # *** abpindo_thirdparty.txt ***
 - http://39bola.com
 - http://988bet.com
-- http://ad.mstars.dpy.sofialys.net
 - http://agenasia88.com
 # ||agenbo.la^$image,popup
 - http://agent926.com
@@ -425,6 +416,8 @@ msFilterList
 -d koranlokal.com /newstickerpartai.php
 -d koranlokal.com /point1.php
 -d krucil.com /bb17-iklan.php
+-d kumpulblogger.com /minibanner/
+-d lendir.org /banner/
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
 -d manasuka.com /gbr_banner_link/
@@ -441,6 +434,7 @@ msFilterList
 -d newopenx.detik.com /images/
 -d oprekpc.com /banner/
 -d pancet.com /kbads/
+# ||perawan.pro/$popup
 -d perawan.us /images/banner/
 -d perjaka.us /images/banner/
 -d ranjangternoda.com /images/banner/
@@ -464,6 +458,7 @@ msFilterList
 # lintas.me###Advertisement
 # icinema3satu.com###FloatAlamindawa
 # indogamers.com###IklanIDGS
+# krucil.com,krucil.net###KD_adpB
 # chip.co.id###TopBannerBg
 # 173.199.167.192,forumbokep.com,idfl.us,kampus.us,krucil.com,krucil.net,semprot.com,sodasusu.com###ad_global_below_navbar
 # harianjogja.com,solopos.com###ads-float
@@ -518,12 +513,14 @@ msFilterList
 # detik.com###skinad
 # harianjogja.com,solopos.com###solopos_float
 # downloadfilmbaru.com###sticky-ads
+# detik.com###sto_banner
 # downloadfilmbaru.com,galaxymaya.com###teaser2
 # downloadfilmbaru.com,galaxymaya.com###teaser3
 # sodasusu.com###teaser4
 # m.detik.com###top
 # detik.com###top_banner
 # beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
+# serubokep3gp.blogspot.com###tupiklan
 # 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB
 # 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpS
 # kapanlagi.com###v5-leaderboard
@@ -548,7 +545,6 @@ msFilterList
 # metrotvnews.com##.banner-160x600.left.mb20
 # kaskus.co.id##.banner-top-ads
 # oktavita.com##.banner-zone
-# panduanpercuma.info##.banner468
 # kompas.com##.bannerAdB
 # kikil.org,kikil.ws##.bannerBox
 # kompas.com##.bannerCenter
@@ -594,6 +590,7 @@ msFilterList
 # detik.com##.otp_banner_close
 # lintas.me##.popup
 # kaskus.co.id##.r-link
+# okezone.com##.rc-ad-300x250.mb10
 # bokepgratiz.info##.textwidget
 # lapar.com##.top-banner
 # galaxymaya.com##.widget-content
