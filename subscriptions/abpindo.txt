@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wvsoM0QYgvbd0ir9GNx7tw
+! Checksum: uz4u1a1Z8p2Iz+rtMc57YA
 ! Title: ABPindo
-! Last modified: 04 September 2013, 17:06:31 WIB
+! Last modified: 23 September 2013, 16:21:24 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -18,7 +18,6 @@
 /ads/iklan.
 /images/iklan/*
 /img/promo/*
-/promo.$popup
 /sittiad.
 /theads125x125.jpg
 /uploads/iklan/*
@@ -321,6 +320,7 @@ blogspot.com##img[alt="ads"]
 ||edomz.com^$third-party
 ||fairbet88.com^$popup,third-party
 ||fellowequality.com^$third-party
+||firstbola.com/$popup
 ||folderbisnis.com^$third-party
 ||forexpose.com^$third-party
 ||fulltiltpoker.com^$popup,domain=ganool.com
@@ -470,6 +470,7 @@ krucil.com,krucil.net###KD_adpB
 chip.co.id###TopBannerBg
 173.199.167.192,forumbokep.com,idfl.us,kampus.us,krucil.com,krucil.net,semprot.com,sodasusu.com###ad_global_below_navbar
 harianjogja.com,solopos.com###ads-float
+dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 remo-xp.com###adsheader
 inilah.com,kompasiana.com###anchormasklink
@@ -478,6 +479,7 @@ tempointeraktif.com###banner-bawah
 panduanpercuma.info###banner125
 remo-xp.com###banner_bawah
 tribunnews.com###bannerku
+tribunnews.com###bannerkubawah
 detik.com###bottom_banner
 indogamers.com###bottombanner
 adipedia.com,bokepgratiz.info,nusareborn.in###btm_banner
@@ -510,6 +512,7 @@ harakahdaily.net###jsemrp_380_290
 zonabola.com###lAds img
 mangafox.me###left-skyscraper
 asik.me,duniasex.ws###main_content_section > div[align="center"]
+dapurpacu.com###mid-banner
 zonabola.com###rAds img
 utusan.com.my###rec_ad4
 mangafox.me###right-skyscraper
@@ -548,7 +551,9 @@ m.kapanlagi.com##.ad2
 gugling.com##.ad336x280atas
 mangafox.com##.ad728x90.left + .right
 bharian.com.my##.adbtm
-clip.cewecewe.com##.ads
+clip.cewecewe.com,dapurpacu.com##.ads
+dapurpacu.com##.ads-home
+dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
 utusan.com.my##.adspace_300
 m.iklanbaris.detik.com##.adtext01
@@ -582,11 +587,13 @@ kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
+okezone.com##.center-ban
 detik.com##.close
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 lintas.me##.column.centered.ad-frame.sc1_top
 lintas.me##.column.centered.ad-frame.sc2_top
+dapurpacu.com##.fixed-ads-atas
 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
 catatankomputer.com##.forads
 warungbebas.com##.gbtab
@@ -600,7 +607,9 @@ kikil.org,kikil.ws##.kikil_ads
 kikil.org,kikil.ws##.kikil_floating_banner_top
 kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
+dapurpacu.com##.mid-banner
 detik.com##.otp_banner_close
+tribunnews.com##.ovh[style="width:468px;height:60px"]
 lintas.me##.popup
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250.mb10
