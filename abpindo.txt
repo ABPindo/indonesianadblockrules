@@ -11,7 +11,6 @@
 !
 %include abpindo_general_block.txt%
 %include abpindo_general_hide.txt%
-%include abpindo_adservers.txt%
 %include abpindo_thirdparty.txt%
 %include abpindo_specific_block.txt%
 %include abpindo_specific_hide.txt%
