@@ -4,7 +4,7 @@ icinema3satu.com###FloatAlamindawa
 indogamers.com###IklanIDGS
 krucil.com,krucil.net###KD_adpB
 chip.co.id###TopBannerBg
-173.199.167.192,forumbokep.com,idfl.us,kampus.us,krucil.com,krucil.net,semprot.com,sodasusu.com###ad_global_below_navbar
+forumbokep.com,idfl.us,kampus.us,krucil.com,krucil.net,sodasusu.com###ad_global_below_navbar
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
@@ -22,6 +22,8 @@ adipedia.com,bokepgratiz.info,nusareborn.in###btm_banner
 koranseksi.com###close-teaser
 kampus.us###elementDiv
 lintas.me###facebox_overlay
+teknoup.com###fancybox-wrap
+teknoup.com###fancybox_ajax
 metrotvnews.com###fixme
 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###floatdiv.notice
 forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
