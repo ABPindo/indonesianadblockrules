@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 01 October 2013, 17:01:00 WIB
+# Last modified: 07 November 2013, 20:23:08 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -112,10 +112,10 @@ msFilterList
 - http://dewamabuk.com
 - http://direktori-iklan.com
 - http://doremibet.com
+- http://doublerads.com
 - http://duitbux.com
 - http://duitmu.com
 - http://dunia-bisnis.com
-- http://duniaiklangratis.com
 - http://earneasycash.info
 - http://easy-hit-counter.com
 - http://edomz.com
@@ -128,7 +128,6 @@ msFilterList
 - http://forexpose.com
 - http://forumiklan.com
 - http://freeads-iklan.com
-# ||fulltiltpoker.com^$popup,third-party
 - http://gadget-ads.com
 - http://gajigratis.com
 - http://galaxybola.com
@@ -224,13 +223,10 @@ msFilterList
 - http://indobanner.com
 - http://indofreeads.com
 - http://indovertiser.com
-# ||instaforex-id.com^$image,third-party
 - http://istanaiklan.com
 - http://jagoiklan.com
 - http://jagopromo.com
-- http://jaringaniklan.com
 - http://jasaiklan.com
-- http://jasapoker.com
 - http://javaiklan.com
 # ||javapic.com^$image,object,third-party
 - http://jillsclickcorner.com
@@ -241,7 +237,6 @@ msFilterList
 - http://klikabadi.com
 - http://klikabadi.net
 - http://klikajadeh.com
-- http://komisiiklan.com
 - http://kumpuljutawan.com
 - http://ladangiklan.com
 - http://ladanguang.com
@@ -296,7 +291,6 @@ msFilterList
 - http://ppcinbox.com
 - http://ppcindonesia.net
 - http://promobagus.com
-- http://promojunkie.com
 - http://promosiiklan.com
 - http://promotioncamp.com
 - http://prophetofdoom.net
@@ -371,7 +365,6 @@ msFilterList
 -d detik.com /images/banners/
 -d dixam.net /banner/
 -d dorabet.net /banner/
-# ||doublerads.com^$image,subdocument,domain=mivo.tv
 -d drtuber.com /templates/drtuber/js/adx_flash_embed.js?
 -d duniasex.ws /banner-
 -d ebsoft.web.id /wp-content/banners/
@@ -404,7 +397,6 @@ msFilterList
 -d kapanlagi.com /banner/
 -d kaskus.co.id /adv/
 -d kaskus.com /adv/
--d kawin.us /images/banner/
 -d keripikcadas.com /banner/
 -d kikil.org /banner/
 -d kikil.org /forum/banner/
@@ -435,8 +427,6 @@ msFilterList
 -d oprekpc.com /banner/
 -d pancet.com /kbads/
 # ||perawan.pro/$popup
--d perawan.us /images/banner/
--d perjaka.us /images/banner/
 -d ranjangternoda.com /images/banner/
 -d resep.web.id /banner/
 -d semprot.com /x_ads/
@@ -481,7 +471,7 @@ msFilterList
 # teknoup.com###fancybox-wrap
 # teknoup.com###fancybox_ajax
 # metrotvnews.com###fixme
-# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###floatdiv.notice
+# 173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###floatdiv.notice
 # forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
 # ganool.com###floating_banner_bottom2
 # untukku.com###footer-adcont
@@ -526,8 +516,8 @@ msFilterList
 # detik.com###top_banner
 # beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
 # serubokep3gp.blogspot.com###tupiklan
-# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB
-# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpS
+# 173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB
+# 173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpS
 # kapanlagi.com###v5-leaderboard
 # kapanlagi.com###v5-marcommpromotion
 # kapanlagi.com###v5-showcase1
@@ -584,7 +574,7 @@ msFilterList
 # lintas.me##.column.centered.ad-frame.sc1_top
 # lintas.me##.column.centered.ad-frame.sc2_top
 # dapurpacu.com##.fixed-ads-atas
-# 173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
+# 173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
 # catatankomputer.com##.forads
 # warungbebas.com##.gbtab
 # kompas.com##.hAds

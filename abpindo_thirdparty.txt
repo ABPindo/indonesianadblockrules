@@ -63,10 +63,10 @@
 ||dewamabuk.com^$third-party
 ||direktori-iklan.com^$third-party
 ||doremibet.com^$third-party
+||doublerads.com^$third-party
 ||duitbux.com^$third-party
 ||duitmu.com^$third-party
 ||dunia-bisnis.com^$third-party
-||duniaiklangratis.com^$third-party
 ||earneasycash.info^$third-party
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
@@ -79,7 +79,6 @@
 ||forexpose.com^$third-party
 ||forumiklan.com^$third-party
 ||freeads-iklan.com^$third-party
-||fulltiltpoker.com^$popup,third-party
 ||gadget-ads.com^$third-party
 ||gajigratis.com^$third-party
 ||galaxybola.com^$third-party
@@ -175,13 +174,10 @@
 ||indobanner.com^$third-party
 ||indofreeads.com^$third-party
 ||indovertiser.com^$third-party
-||instaforex-id.com^$image,third-party
 ||istanaiklan.com^$third-party
 ||jagoiklan.com^$third-party
 ||jagopromo.com^$third-party
-||jaringaniklan.com^$third-party
 ||jasaiklan.com^$third-party
-||jasapoker.com^$third-party
 ||javaiklan.com^$third-party
 ||javapic.com^$image,object,third-party
 ||jillsclickcorner.com^$third-party
@@ -192,7 +188,6 @@
 ||klikabadi.com^$third-party
 ||klikabadi.net^$third-party
 ||klikajadeh.com^$third-party
-||komisiiklan.com^$third-party
 ||kumpuljutawan.com^$third-party
 ||ladangiklan.com^$third-party
 ||ladanguang.com^$third-party
@@ -247,7 +242,6 @@
 ||ppcinbox.com^$third-party
 ||ppcindonesia.net^$third-party
 ||promobagus.com^$third-party
-||promojunkie.com^$third-party
 ||promosiiklan.com^$third-party
 ||promotioncamp.com^$third-party
 ||prophetofdoom.net^$third-party
