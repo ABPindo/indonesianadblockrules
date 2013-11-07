@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Xze6V1x2njJRw3oLRe4xVw
+! Checksum: XDzbn80hfO1vyJ46YFi3zQ
 ! Title: ABPindo
-! Last modified: 01 October 2013, 17:01:00 WIB
+! Last modified: 07 November 2013, 20:23:08 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -120,10 +120,10 @@ blogspot.com##img[alt="ads"]
 ||dewamabuk.com^$third-party
 ||direktori-iklan.com^$third-party
 ||doremibet.com^$third-party
+||doublerads.com^$third-party
 ||duitbux.com^$third-party
 ||duitmu.com^$third-party
 ||dunia-bisnis.com^$third-party
-||duniaiklangratis.com^$third-party
 ||earneasycash.info^$third-party
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
@@ -136,7 +136,6 @@ blogspot.com##img[alt="ads"]
 ||forexpose.com^$third-party
 ||forumiklan.com^$third-party
 ||freeads-iklan.com^$third-party
-||fulltiltpoker.com^$popup,third-party
 ||gadget-ads.com^$third-party
 ||gajigratis.com^$third-party
 ||galaxybola.com^$third-party
@@ -232,13 +231,10 @@ blogspot.com##img[alt="ads"]
 ||indobanner.com^$third-party
 ||indofreeads.com^$third-party
 ||indovertiser.com^$third-party
-||instaforex-id.com^$image,third-party
 ||istanaiklan.com^$third-party
 ||jagoiklan.com^$third-party
 ||jagopromo.com^$third-party
-||jaringaniklan.com^$third-party
 ||jasaiklan.com^$third-party
-||jasapoker.com^$third-party
 ||javaiklan.com^$third-party
 ||javapic.com^$image,object,third-party
 ||jillsclickcorner.com^$third-party
@@ -249,7 +245,6 @@ blogspot.com##img[alt="ads"]
 ||klikabadi.com^$third-party
 ||klikabadi.net^$third-party
 ||klikajadeh.com^$third-party
-||komisiiklan.com^$third-party
 ||kumpuljutawan.com^$third-party
 ||ladangiklan.com^$third-party
 ||ladanguang.com^$third-party
@@ -304,7 +299,6 @@ blogspot.com##img[alt="ads"]
 ||ppcinbox.com^$third-party
 ||ppcindonesia.net^$third-party
 ||promobagus.com^$third-party
-||promojunkie.com^$third-party
 ||promosiiklan.com^$third-party
 ||promotioncamp.com^$third-party
 ||prophetofdoom.net^$third-party
@@ -379,7 +373,6 @@ blogspot.com##img[alt="ads"]
 ||detik.com/images/banners/
 ||dixam.net/banner/
 ||dorabet.net/banner/
-||doublerads.com^$image,subdocument,domain=mivo.tv
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
@@ -412,7 +405,6 @@ blogspot.com##img[alt="ads"]
 ||kapanlagi.com^*/banner/
 ||kaskus.co.id/adv/
 ||kaskus.com/adv/
-||kawin.us/images/banner/
 ||keripikcadas.com/banner/
 ||kikil.org/banner/
 ||kikil.org/forum/banner/
@@ -443,8 +435,6 @@ blogspot.com##img[alt="ads"]
 ||oprekpc.com/banner/
 ||pancet.com/kbads/
 ||perawan.pro/$popup
-||perawan.us/images/banner/
-||perjaka.us/images/banner/
 ||ranjangternoda.com/images/banner/
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
@@ -489,7 +479,7 @@ lintas.me###facebox_overlay
 teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 metrotvnews.com###fixme
-173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###floatdiv.notice
+173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###floatdiv.notice
 forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
 ganool.com###floating_banner_bottom2
 untukku.com###footer-adcont
@@ -537,8 +527,8 @@ detik.com###top_banner
 beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
 serubokep3gp.blogspot.com###tupiklan
-173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB
-173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpS
+173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB
+173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpS
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v5-marcommpromotion
 kapanlagi.com###v5-showcase1
@@ -596,7 +586,7 @@ tempo.co##.closebanner2
 lintas.me##.column.centered.ad-frame.sc1_top
 lintas.me##.column.centered.ad-frame.sc2_top
 dapurpacu.com##.fixed-ads-atas
-173.199.167.192,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
+173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
 catatankomputer.com##.forads
 warungbebas.com##.gbtab
 kompas.com##.hAds
@@ -615,7 +605,7 @@ tribunnews.com##.ovh[style="width:468px;height:60px"]
 lintas.me##.popup
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250.mb10
-173.199.167.192,kikil.org,kikil.ws,semprot.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
+173.199.167.192,berang.us,kikil.org,kikil.ws,semprot.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 bokepgratiz.info##.textwidget
 lapar.com##.top-banner
 galaxymaya.com##.widget-content
