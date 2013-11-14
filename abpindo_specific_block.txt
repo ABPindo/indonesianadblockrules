@@ -38,6 +38,7 @@
 ||images.harianjogja.com/banner/
 ||images.indoforum.org/banners/
 ||images.solopos.com/banner/
+||imgur.com/*.gif$domain=downloadfilmbaru.com
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
@@ -90,6 +91,7 @@
 ||suaramedia.com/images/banners/
 ||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/
+||tinypic.com^$image,domain=bioskopkita.com
 ||upload.coblos.net/images/*.gif
 ||utusan.com.my/utusan/iklan/
 ||videogamesindonesia.com/banners/
