@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 07 November 2013, 20:23:08 WIB
+# Last modified: 14 November 2013, 08:16:47 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -385,6 +385,7 @@ msFilterList
 -d images.harianjogja.com /banner/
 -d images.indoforum.org /banners/
 -d images.solopos.com /banner/
+# ||imgur.com/*.gif$domain=downloadfilmbaru.com
 -d indobokepz.com /images/banner/
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
@@ -437,6 +438,7 @@ msFilterList
 -d suaramedia.com /images/banners/
 -d tabloidbintang.com /space-iklan/
 -d tambahketinggian.com /banner/
+# ||tinypic.com^$image,domain=bioskopkita.com
 -d upload.coblos.net /images/*.gif
 -d utusan.com.my /utusan/iklan/
 -d videogamesindonesia.com /banners/
@@ -446,7 +448,7 @@ msFilterList
 # *** abpindo_specific_hide.txt ***
 # wowkeren.com###Ad728
 # lintas.me###Advertisement
-# icinema3satu.com###FloatAlamindawa
+# ic31linkpage.com,icinema3satu.com###FloatAlamindawa
 # indogamers.com###IklanIDGS
 # krucil.com,krucil.net###KD_adpB
 # chip.co.id###TopBannerBg
@@ -464,8 +466,8 @@ msFilterList
 # tribunnews.com###bannerkubawah
 # detik.com###bottom_banner
 # indogamers.com###bottombanner
-# adipedia.com,bokepgratiz.info,nusareborn.in###btm_banner
-# koranseksi.com###close-teaser
+# adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
+# koranseksi.com,movie76.com###close-teaser
 # kampus.us###elementDiv
 # lintas.me###facebox_overlay
 # teknoup.com###fancybox-wrap
@@ -514,6 +516,7 @@ msFilterList
 # sodasusu.com###teaser4
 # m.detik.com###top
 # detik.com###top_banner
+# bioskopkita.com###topbanner
 # beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
 # serubokep3gp.blogspot.com###tupiklan
 # 173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB

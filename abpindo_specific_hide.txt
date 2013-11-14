@@ -1,6 +1,6 @@
 wowkeren.com###Ad728
 lintas.me###Advertisement
-icinema3satu.com###FloatAlamindawa
+ic31linkpage.com,icinema3satu.com###FloatAlamindawa
 indogamers.com###IklanIDGS
 krucil.com,krucil.net###KD_adpB
 chip.co.id###TopBannerBg
@@ -18,8 +18,8 @@ tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
 detik.com###bottom_banner
 indogamers.com###bottombanner
-adipedia.com,bokepgratiz.info,nusareborn.in###btm_banner
-koranseksi.com###close-teaser
+adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
+koranseksi.com,movie76.com###close-teaser
 kampus.us###elementDiv
 lintas.me###facebox_overlay
 teknoup.com###fancybox-wrap
@@ -70,6 +70,7 @@ downloadfilmbaru.com,galaxymaya.com###teaser3
 sodasusu.com###teaser4
 m.detik.com###top
 detik.com###top_banner
+bioskopkita.com###topbanner
 beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
 thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
 serubokep3gp.blogspot.com###tupiklan
@@ -155,6 +156,7 @@ okezone.com##.rc-ad-300x250.mb10
 bokepgratiz.info##.textwidget
 lapar.com##.top-banner
 galaxymaya.com##.widget-content
+movie76.com##.widget-content img[alt="ads"]
 asik.me,duniasex.ws##[href$="betme88.com"]
 asik.me,duniasex.ws##[href$="tri7bet.com"]
 kompas.com##[id^="div-gpt-ad-"]
@@ -177,9 +179,10 @@ zonamuda.com##img[alt="iklan"]
 bokepgratiz.info##img[alt="smart-forex-system.com"]
 thehack3r.com##img[src="/img/maxbet.gif"]
 forumbokep.com##img[src="http://173.199.189.86/images/do.gif"]
+movie76.com##img[src="http://2.bp.blogspot.com/-2afHigsbpYY/UguQyTqs5SI/AAAAAAAAAcg/8E4df8rMZMU/s1600/Download+noww.jpg'"]
 tribunnews.com##img[src="http://www.tribunnews.com/stylesheets/close.gif"]
 kompas.com##img[src^="http://img.ads."]
-icinema3satu.com##img[style="height: 125px; width: 125px;"]
+ic31linkpage.com,icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 forumbokep.com##img[style="width: 435px; height: 60px;"]
