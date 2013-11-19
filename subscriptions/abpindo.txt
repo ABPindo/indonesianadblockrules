@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HOsvNen1C+AbrMtpG+L8XA
+! Checksum: mH0So3LFmdN60rB14Ffobw
 ! Title: ABPindo
-! Last modified: 14 November 2013, 08:16:47 WIB
+! Last modified: 19 November 2013, 20:30:10 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -111,6 +111,7 @@ blogspot.com##img[alt="ads"]
 ||bursabet.com^$third-party
 ||carasukses.com^$third-party
 ||cash-harvest.com^$third-party
+||cfs.u-ad.info^$third-party
 ||clickdbs.com^$third-party
 ||clicklifter.com^$third-party
 ||clickmedia.co.id^$third-party
@@ -492,6 +493,7 @@ indosiar.com###headerbanner + div[style="height:50px"]
 ceriwis.us###hoho-wrapsubmenu3
 remo-xp.com###ikanan
 remo-xp.com###ikiri
+www.ceriwis.com###iklan
 zonamuda.com###iklan1
 zonamuda.com###iklan2
 zonamuda.com###iklan3

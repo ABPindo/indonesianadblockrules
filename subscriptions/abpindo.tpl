@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 14 November 2013, 08:16:47 WIB
+# Last modified: 19 November 2013, 20:30:10 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -103,6 +103,7 @@ msFilterList
 - http://bursabet.com
 - http://carasukses.com
 - http://cash-harvest.com
+- http://cfs.u-ad.info
 - http://clickdbs.com
 - http://clicklifter.com
 - http://clickmedia.co.id
@@ -483,6 +484,7 @@ msFilterList
 # ceriwis.us###hoho-wrapsubmenu3
 # remo-xp.com###ikanan
 # remo-xp.com###ikiri
+# www.ceriwis.com###iklan
 # zonamuda.com###iklan1
 # zonamuda.com###iklan2
 # zonamuda.com###iklan3
