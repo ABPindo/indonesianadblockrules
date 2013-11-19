@@ -11741,3 +11741,3309 @@ Ping statistics for 198.143.157.116:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
     Minimum = 265ms, Maximum = 272ms, Average = 267ms
+
+Pinging 1iklanbaris.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=30ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=30ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=33ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 33ms, Average = 31ms
+
+Pinging 1jutarupiah.com [216.55.178.173] with 32 bytes of data:
+Reply from 216.55.178.173: Destination host unreachable.
+Reply from 216.55.178.173: Destination host unreachable.
+Reply from 216.55.178.173: Destination host unreachable.
+Reply from 216.55.178.173: Destination host unreachable.
+
+Ping statistics for 216.55.178.173:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+
+Pinging 1st-iklan.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 32ms, Average = 31ms
+
+Pinging 39bola.com [69.43.161.176] with 32 bytes of data:
+Reply from 69.43.161.176: bytes=32 time=257ms TTL=50
+Reply from 69.43.161.176: bytes=32 time=258ms TTL=50
+Reply from 69.43.161.176: bytes=32 time=256ms TTL=50
+Reply from 69.43.161.176: bytes=32 time=258ms TTL=50
+
+Ping statistics for 69.43.161.176:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 256ms, Maximum = 258ms, Average = 257ms
+
+Pinging 988bet.com [118.139.177.67] with 32 bytes of data:
+Reply from 118.139.177.67: bytes=32 time=48ms TTL=53
+Reply from 118.139.177.67: bytes=32 time=46ms TTL=53
+Reply from 118.139.177.67: bytes=32 time=48ms TTL=53
+Reply from 118.139.177.67: bytes=32 time=47ms TTL=53
+
+Ping statistics for 118.139.177.67:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 46ms, Maximum = 48ms, Average = 47ms
+
+Pinging abadiklan.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=325ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 325ms, Maximum = 327ms, Average = 326ms
+
+Pinging adbusinessfree.com [62.116.143.16] with 32 bytes of data:
+Reply from 62.116.143.16: bytes=32 time=347ms TTL=46
+Reply from 62.116.143.16: bytes=32 time=348ms TTL=46
+Reply from 62.116.143.16: bytes=32 time=348ms TTL=46
+Reply from 62.116.143.16: bytes=32 time=347ms TTL=46
+
+Ping statistics for 62.116.143.16:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 347ms, Maximum = 348ms, Average = 347ms
+
+Pinging adcenter2u.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=342ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=338ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=325ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=335ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 325ms, Maximum = 342ms, Average = 335ms
+
+Pinging addesigner.com [209.50.253.122] with 32 bytes of data:
+Reply from 209.50.253.122: bytes=32 time=268ms TTL=48
+Reply from 209.50.253.122: bytes=32 time=269ms TTL=48
+Reply from 209.50.253.122: bytes=32 time=269ms TTL=48
+Reply from 209.50.253.122: bytes=32 time=268ms TTL=48
+
+Ping statistics for 209.50.253.122:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 268ms, Maximum = 269ms, Average = 268ms
+
+Pinging admitra.com [46.30.212.97] with 32 bytes of data:
+Reply from 46.30.212.97: bytes=32 time=329ms TTL=40
+Reply from 46.30.212.97: bytes=32 time=328ms TTL=40
+Reply from 46.30.212.97: bytes=32 time=329ms TTL=40
+Reply from 46.30.212.97: bytes=32 time=329ms TTL=40
+
+Ping statistics for 46.30.212.97:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 328ms, Maximum = 329ms, Average = 328ms
+
+Pinging adplus.co.id [180.235.148.20] with 32 bytes of data:
+Reply from 180.235.148.20: bytes=32 time=31ms TTL=58
+Reply from 180.235.148.20: bytes=32 time=31ms TTL=58
+Reply from 180.235.148.20: bytes=32 time=32ms TTL=58
+Reply from 180.235.148.20: bytes=32 time=34ms TTL=58
+
+Ping statistics for 180.235.148.20:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 34ms, Average = 32ms
+
+Pinging adreviewcamp.com [209.99.40.220] with 32 bytes of data:
+Reply from 209.99.40.220: bytes=32 time=268ms TTL=236
+Reply from 209.99.40.220: bytes=32 time=272ms TTL=236
+Reply from 209.99.40.220: bytes=32 time=270ms TTL=236
+Reply from 209.99.40.220: bytes=32 time=271ms TTL=236
+
+Ping statistics for 209.99.40.220:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 268ms, Maximum = 272ms, Average = 270ms
+
+Pinging adsbingo.com [174.37.72.134] with 32 bytes of data:
+Reply from 174.37.72.134: bytes=32 time=264ms TTL=46
+Reply from 174.37.72.134: bytes=32 time=265ms TTL=46
+Reply from 174.37.72.134: bytes=32 time=265ms TTL=46
+Reply from 174.37.72.134: bytes=32 time=265ms TTL=46
+
+Ping statistics for 174.37.72.134:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 264ms, Maximum = 265ms, Average = 264ms
+
+Pinging adsense-id.com [192.185.21.198] with 32 bytes of data:
+Reply from 192.185.21.198: bytes=32 time=280ms TTL=50
+Reply from 192.185.21.198: bytes=32 time=281ms TTL=50
+Reply from 192.185.21.198: bytes=32 time=279ms TTL=50
+Reply from 192.185.21.198: bytes=32 time=280ms TTL=50
+
+Ping statistics for 192.185.21.198:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 279ms, Maximum = 281ms, Average = 280ms
+
+Pinging adsensemu.com [192.185.117.174] with 32 bytes of data:
+Reply from 192.185.117.174: bytes=32 time=281ms TTL=49
+Reply from 192.185.117.174: bytes=32 time=280ms TTL=49
+Reply from 192.185.117.174: bytes=32 time=281ms TTL=49
+Reply from 192.185.117.174: bytes=32 time=280ms TTL=49
+
+Ping statistics for 192.185.117.174:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 280ms, Maximum = 281ms, Average = 280ms
+
+Pinging adsentra.com [67.215.65.130] with 32 bytes of data:
+Reply from 67.215.65.130: bytes=32 time=50ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=49ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=52ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=50ms TTL=57
+
+Ping statistics for 67.215.65.130:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 49ms, Maximum = 52ms, Average = 50ms
+
+Pinging adspeedy.com [64.74.223.37] with 32 bytes of data:
+Reply from 64.74.223.37: bytes=32 time=307ms TTL=240
+Reply from 64.74.223.37: bytes=32 time=307ms TTL=240
+Reply from 64.74.223.37: bytes=32 time=307ms TTL=240
+Reply from 64.74.223.37: bytes=32 time=306ms TTL=240
+
+Ping statistics for 64.74.223.37:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 306ms, Maximum = 307ms, Average = 306ms
+
+Pinging adsrelease.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=325ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 325ms, Maximum = 327ms, Average = 326ms
+
+Pinging agenasia88.com [192.184.12.118] with 32 bytes of data:
+Reply from 192.184.12.118: bytes=32 time=233ms TTL=50
+Reply from 192.184.12.118: bytes=32 time=237ms TTL=50
+Reply from 192.184.12.118: bytes=32 time=233ms TTL=50
+Reply from 192.184.12.118: bytes=32 time=232ms TTL=50
+
+Ping statistics for 192.184.12.118:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 232ms, Maximum = 237ms, Average = 233ms
+
+Pinging agenbo.la [108.162.199.64] with 32 bytes of data:
+Reply from 108.162.199.64: bytes=32 time=49ms TTL=57
+Reply from 108.162.199.64: bytes=32 time=49ms TTL=57
+Reply from 108.162.199.64: bytes=32 time=50ms TTL=57
+Reply from 108.162.199.64: bytes=32 time=48ms TTL=57
+
+Ping statistics for 108.162.199.64:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 48ms, Maximum = 50ms, Average = 49ms
+
+Pinging agenpromosi.com [27.131.0.115] with 32 bytes of data:
+Reply from 27.131.0.115: bytes=32 time=33ms TTL=56
+Reply from 27.131.0.115: bytes=32 time=32ms TTL=56
+Reply from 27.131.0.115: bytes=32 time=31ms TTL=56
+Reply from 27.131.0.115: bytes=32 time=32ms TTL=56
+
+Ping statistics for 27.131.0.115:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 33ms, Average = 32ms
+
+Pinging agent926.com [66.96.131.83] with 32 bytes of data:
+Reply from 66.96.131.83: bytes=32 time=281ms TTL=239
+Reply from 66.96.131.83: bytes=32 time=323ms TTL=239
+Reply from 66.96.131.83: bytes=32 time=280ms TTL=239
+Reply from 66.96.131.83: bytes=32 time=285ms TTL=239
+
+Ping statistics for 66.96.131.83:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 280ms, Maximum = 323ms, Average = 292ms
+
+Pinging ajangiklangratis.com [175.103.48.212] with 32 bytes of data:
+Reply from 175.103.48.212: bytes=32 time=34ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.212:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 34ms, Average = 31ms
+
+Pinging alamatemail.com [175.103.48.212] with 32 bytes of data:
+Reply from 175.103.48.212: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.212:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 32ms, Average = 31ms
+
+Pinging anadvertorial.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 326ms, Maximum = 327ms, Average = 326ms
+
+Pinging anekaiklan.com [103.244.96.12] with 32 bytes of data:
+Reply from 103.244.96.12: bytes=32 time=31ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=32ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=31ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=30ms TTL=56
+
+Ping statistics for 103.244.96.12:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 32ms, Average = 31ms
+
+Pinging antariklan.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 326ms, Maximum = 327ms, Average = 326ms
+
+Pinging apmmedia.net [62.146.124.210] with 32 bytes of data:
+Reply from 62.146.124.210: bytes=32 time=391ms TTL=45
+Reply from 62.146.124.210: bytes=32 time=389ms TTL=45
+Reply from 62.146.124.210: bytes=32 time=387ms TTL=45
+Reply from 62.146.124.210: bytes=32 time=389ms TTL=45
+
+Ping statistics for 62.146.124.210:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 387ms, Maximum = 391ms, Average = 389ms
+
+Pinging arenabola.com [180.235.150.28] with 32 bytes of data:
+Reply from 180.235.150.28: bytes=32 time=31ms TTL=58
+Reply from 180.235.150.28: bytes=32 time=31ms TTL=58
+Reply from 180.235.150.28: bytes=32 time=35ms TTL=58
+Reply from 180.235.150.28: bytes=32 time=34ms TTL=58
+
+Ping statistics for 180.235.150.28:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 35ms, Average = 32ms
+
+Pinging asiabolabet.com [14.102.148.38] with 32 bytes of data:
+Reply from 14.102.148.38: bytes=32 time=53ms TTL=54
+Reply from 14.102.148.38: bytes=32 time=52ms TTL=54
+Reply from 14.102.148.38: bytes=32 time=54ms TTL=54
+Reply from 14.102.148.38: bytes=32 time=52ms TTL=54
+
+Ping statistics for 14.102.148.38:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 52ms, Maximum = 54ms, Average = 52ms
+
+Pinging axverta.com [69.43.161.171] with 32 bytes of data:
+Reply from 69.43.161.171: bytes=32 time=260ms TTL=50
+Reply from 69.43.161.171: bytes=32 time=259ms TTL=50
+Reply from 69.43.161.171: bytes=32 time=259ms TTL=50
+Reply from 69.43.161.171: bytes=32 time=259ms TTL=50
+
+Ping statistics for 69.43.161.171:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 259ms, Maximum = 260ms, Average = 259ms
+
+Pinging baliadv.com [216.12.197.178] with 32 bytes of data:
+Reply from 216.12.197.178: bytes=32 time=77ms TTL=55
+Reply from 216.12.197.178: bytes=32 time=77ms TTL=55
+Reply from 216.12.197.178: bytes=32 time=78ms TTL=55
+Reply from 216.12.197.178: bytes=32 time=77ms TTL=55
+
+Ping statistics for 216.12.197.178:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 77ms, Maximum = 78ms, Average = 77ms
+
+Pinging barisiklangratis.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=325ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 325ms, Maximum = 327ms, Average = 326ms
+
+Pinging bebaspikiran.com [208.91.197.104] with 32 bytes of data:
+Reply from 208.91.197.104: bytes=32 time=252ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=251ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=251ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=252ms TTL=236
+
+Ping statistics for 208.91.197.104:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 251ms, Maximum = 252ms, Average = 251ms
+
+Pinging bejopoker.com [108.162.196.118] with 32 bytes of data:
+Reply from 108.162.196.118: bytes=32 time=50ms TTL=57
+Reply from 108.162.196.118: bytes=32 time=50ms TTL=57
+Reply from 108.162.196.118: bytes=32 time=50ms TTL=57
+Reply from 108.162.196.118: bytes=32 time=50ms TTL=57
+
+Ping statistics for 108.162.196.118:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 50ms, Average = 50ms
+
+Pinging bekas.com [202.67.9.138] with 32 bytes of data:
+Reply from 202.67.9.138: bytes=32 time=31ms TTL=56
+Reply from 202.67.9.138: bytes=32 time=31ms TTL=56
+Reply from 202.67.9.138: bytes=32 time=31ms TTL=56
+Reply from 202.67.9.138: bytes=32 time=32ms TTL=56
+
+Ping statistics for 202.67.9.138:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 32ms, Average = 31ms
+
+Pinging belajar-bisnis.com [206.214.210.240] with 32 bytes of data:
+Reply from 206.214.210.240: bytes=32 time=231ms TTL=48
+Reply from 206.214.210.240: bytes=32 time=230ms TTL=48
+Reply from 206.214.210.240: bytes=32 time=227ms TTL=48
+Reply from 206.214.210.240: bytes=32 time=228ms TTL=48
+
+Ping statistics for 206.214.210.240:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 227ms, Maximum = 231ms, Average = 229ms
+
+Pinging betwin188.com [108.162.203.17] with 32 bytes of data:
+Reply from 108.162.203.17: bytes=32 time=50ms TTL=57
+Reply from 108.162.203.17: bytes=32 time=50ms TTL=57
+Reply from 108.162.203.17: bytes=32 time=51ms TTL=57
+Reply from 108.162.203.17: bytes=32 time=51ms TTL=57
+
+Ping statistics for 108.162.203.17:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+
+Pinging bigextracash.com [64.251.15.130] with 32 bytes of data:
+Reply from 64.251.15.130: bytes=32 time=312ms TTL=113
+Reply from 64.251.15.130: bytes=32 time=313ms TTL=113
+Reply from 64.251.15.130: bytes=32 time=320ms TTL=113
+Reply from 64.251.15.130: bytes=32 time=314ms TTL=113
+
+Ping statistics for 64.251.15.130:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 312ms, Maximum = 320ms, Average = 314ms
+
+Pinging biindit.com [173.236.61.34] with 32 bytes of data:
+Reply from 173.236.61.34: bytes=32 time=306ms TTL=45
+Reply from 173.236.61.34: bytes=32 time=301ms TTL=45
+Reply from 173.236.61.34: bytes=32 time=310ms TTL=45
+Reply from 173.236.61.34: bytes=32 time=313ms TTL=45
+
+Ping statistics for 173.236.61.34:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 301ms, Maximum = 313ms, Average = 307ms
+
+Pinging bincangbisnis.com [206.214.210.240] with 32 bytes of data:
+Reply from 206.214.210.240: bytes=32 time=231ms TTL=48
+Reply from 206.214.210.240: bytes=32 time=231ms TTL=48
+Reply from 206.214.210.240: bytes=32 time=229ms TTL=48
+Reply from 206.214.210.240: bytes=32 time=293ms TTL=48
+
+Ping statistics for 206.214.210.240:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 229ms, Maximum = 293ms, Average = 246ms
+
+Pinging bintangbola.net [212.1.215.77] with 32 bytes of data:
+Reply from 212.1.215.77: bytes=32 time=284ms TTL=44
+Reply from 212.1.215.77: bytes=32 time=285ms TTL=44
+Reply from 212.1.215.77: bytes=32 time=284ms TTL=44
+Reply from 212.1.215.77: bytes=32 time=285ms TTL=44
+
+Ping statistics for 212.1.215.77:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 284ms, Maximum = 285ms, Average = 284ms
+
+Pinging biroiklangratis.com [175.103.58.212] with 32 bytes of data:
+Reply from 175.103.58.212: bytes=32 time=30ms TTL=56
+Reply from 175.103.58.212: bytes=32 time=32ms TTL=56
+Reply from 175.103.58.212: bytes=32 time=32ms TTL=56
+Reply from 175.103.58.212: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.58.212:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 32ms, Average = 31ms
+
+Pinging biropromosi.com [27.131.0.115] with 32 bytes of data:
+Reply from 27.131.0.115: bytes=32 time=33ms TTL=56
+Reply from 27.131.0.115: bytes=32 time=33ms TTL=56
+Reply from 27.131.0.115: bytes=32 time=32ms TTL=56
+Reply from 27.131.0.115: bytes=32 time=33ms TTL=56
+
+Ping statistics for 27.131.0.115:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 33ms, Average = 32ms
+
+Pinging bisnisgratis.net [192.185.117.175] with 32 bytes of data:
+Reply from 192.185.117.175: bytes=32 time=277ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=277ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=278ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=278ms TTL=50
+
+Ping statistics for 192.185.117.175:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 277ms, Maximum = 278ms, Average = 277ms
+
+Pinging bisnishandal.com [50.31.147.177] with 32 bytes of data:
+Reply from 50.31.147.177: bytes=32 time=312ms TTL=47
+Reply from 50.31.147.177: bytes=32 time=312ms TTL=47
+Reply from 50.31.147.177: bytes=32 time=315ms TTL=47
+Reply from 50.31.147.177: bytes=32 time=311ms TTL=47
+
+Ping statistics for 50.31.147.177:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 311ms, Maximum = 315ms, Average = 312ms
+
+Pinging bisnisinternetmu.com [192.185.117.175] with 32 bytes of data:
+Reply from 192.185.117.175: bytes=32 time=279ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=277ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=277ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=277ms TTL=50
+
+Ping statistics for 192.185.117.175:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 277ms, Maximum = 279ms, Average = 277ms
+
+Pinging bisnisok.com [192.185.117.175] with 32 bytes of data:
+Reply from 192.185.117.175: bytes=32 time=277ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=277ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=277ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=277ms TTL=50
+
+Ping statistics for 192.185.117.175:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 277ms, Maximum = 277ms, Average = 277ms
+
+Pinging bisnistransportasi.com [69.43.161.171] with 32 bytes of data:
+Request timed out.
+Reply from 69.43.161.171: bytes=32 time=259ms TTL=50
+Reply from 69.43.161.171: bytes=32 time=259ms TTL=50
+Reply from 69.43.161.171: bytes=32 time=259ms TTL=50
+
+Ping statistics for 69.43.161.171:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 259ms, Maximum = 259ms, Average = 259ms
+
+Pinging bola777.net [66.96.131.12] with 32 bytes of data:
+Reply from 66.96.131.12: bytes=32 time=279ms TTL=239
+Reply from 66.96.131.12: bytes=32 time=280ms TTL=239
+Reply from 66.96.131.12: bytes=32 time=338ms TTL=239
+Reply from 66.96.131.12: bytes=32 time=279ms TTL=239
+
+Ping statistics for 66.96.131.12:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 279ms, Maximum = 338ms, Average = 294ms
+
+Pinging bolaketangkasan.com [67.215.65.130] with 32 bytes of data:
+Reply from 67.215.65.130: bytes=32 time=73ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=238ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=269ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=321ms TTL=57
+
+Ping statistics for 67.215.65.130:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 73ms, Maximum = 321ms, Average = 225ms
+
+Pinging bolasonic.com [108.162.197.253] with 32 bytes of data:
+Reply from 108.162.197.253: bytes=32 time=359ms TTL=57
+Reply from 108.162.197.253: bytes=32 time=389ms TTL=57
+Reply from 108.162.197.253: bytes=32 time=506ms TTL=57
+Reply from 108.162.197.253: bytes=32 time=719ms TTL=57
+
+Ping statistics for 108.162.197.253:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 359ms, Maximum = 719ms, Average = 493ms
+
+Pinging bravevolitation.com [67.228.102.242] with 32 bytes of data:
+Reply from 67.228.102.242: bytes=32 time=1032ms TTL=47
+Reply from 67.228.102.242: bytes=32 time=1031ms TTL=47
+Reply from 67.228.102.242: bytes=32 time=1031ms TTL=47
+Reply from 67.228.102.242: bytes=32 time=1031ms TTL=47
+
+Ping statistics for 67.228.102.242:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1031ms, Maximum = 1032ms, Average = 1031ms
+
+Pinging bursabet.com [69.65.47.67] with 32 bytes of data:
+Reply from 69.65.47.67: bytes=32 time=1114ms TTL=44
+Reply from 69.65.47.67: bytes=32 time=1075ms TTL=44
+Reply from 69.65.47.67: bytes=32 time=1074ms TTL=44
+Reply from 69.65.47.67: bytes=32 time=1100ms TTL=44
+
+Ping statistics for 69.65.47.67:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1074ms, Maximum = 1114ms, Average = 1090ms
+
+Pinging carasukses.com [119.81.26.67] with 32 bytes of data:
+Reply from 119.81.26.67: bytes=32 time=864ms TTL=55
+Reply from 119.81.26.67: bytes=32 time=857ms TTL=55
+Reply from 119.81.26.67: bytes=32 time=875ms TTL=55
+Reply from 119.81.26.67: bytes=32 time=866ms TTL=55
+
+Ping statistics for 119.81.26.67:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 857ms, Maximum = 875ms, Average = 865ms
+
+Pinging cash-harvest.com [168.144.159.35] with 32 bytes of data:
+Reply from 168.144.159.35: bytes=32 time=1084ms TTL=48
+Reply from 168.144.159.35: bytes=32 time=1075ms TTL=48
+Reply from 168.144.159.35: bytes=32 time=1079ms TTL=48
+Reply from 168.144.159.35: bytes=32 time=1097ms TTL=48
+
+Ping statistics for 168.144.159.35:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1075ms, Maximum = 1097ms, Average = 1083ms
+
+Pinging clickdbs.com [203.189.109.155] with 32 bytes of data:
+Reply from 203.189.109.155: bytes=32 time=903ms TTL=52
+Reply from 203.189.109.155: bytes=32 time=896ms TTL=52
+Reply from 203.189.109.155: bytes=32 time=886ms TTL=52
+Reply from 203.189.109.155: bytes=32 time=916ms TTL=52
+
+Ping statistics for 203.189.109.155:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 886ms, Maximum = 916ms, Average = 900ms
+
+Pinging clicklifter.com [192.217.120.247] with 32 bytes of data:
+Reply from 192.217.120.247: bytes=32 time=1029ms TTL=50
+Reply from 192.217.120.247: bytes=32 time=1031ms TTL=50
+Reply from 192.217.120.247: bytes=32 time=1031ms TTL=50
+Reply from 192.217.120.247: bytes=32 time=1031ms TTL=50
+
+Ping statistics for 192.217.120.247:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1029ms, Maximum = 1031ms, Average = 1030ms
+
+Pinging clickmedia.co.id [50.116.84.13] with 32 bytes of data:
+Reply from 50.116.84.13: bytes=32 time=1061ms TTL=47
+Reply from 50.116.84.13: bytes=32 time=1076ms TTL=47
+Reply from 50.116.84.13: bytes=32 time=1095ms TTL=47
+Reply from 50.116.84.13: bytes=32 time=1150ms TTL=47
+
+Ping statistics for 50.116.84.13:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1061ms, Maximum = 1150ms, Average = 1095ms
+
+Pinging clicks4cents.com [208.91.132.98] with 32 bytes of data:
+Reply from 208.91.132.98: bytes=32 time=1077ms TTL=45
+Reply from 208.91.132.98: bytes=32 time=1042ms TTL=45
+Reply from 208.91.132.98: bytes=32 time=1064ms TTL=45
+Reply from 208.91.132.98: bytes=32 time=1074ms TTL=45
+
+Ping statistics for 208.91.132.98:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1042ms, Maximum = 1077ms, Average = 1064ms
+
+Pinging clicksia.com [216.59.2.20] with 32 bytes of data:
+Reply from 216.59.2.20: bytes=32 time=1070ms TTL=45
+Reply from 216.59.2.20: bytes=32 time=1056ms TTL=45
+Reply from 216.59.2.20: bytes=32 time=1081ms TTL=45
+Reply from 216.59.2.20: bytes=32 time=1068ms TTL=45
+
+Ping statistics for 216.59.2.20:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1056ms, Maximum = 1081ms, Average = 1068ms
+
+Pinging dewa-bisnis.com [175.103.48.213] with 32 bytes of data:
+Reply from 175.103.48.213: bytes=32 time=839ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=787ms TTL=56
+Request timed out.
+Reply from 175.103.48.213: bytes=32 time=30ms TTL=56
+
+Ping statistics for 175.103.48.213:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 839ms, Average = 552ms
+
+Pinging dewamabuk.com [180.210.203.212] with 32 bytes of data:
+Reply from 180.210.203.212: bytes=32 time=46ms TTL=56
+Reply from 180.210.203.212: bytes=32 time=48ms TTL=56
+Reply from 180.210.203.212: bytes=32 time=46ms TTL=56
+Reply from 180.210.203.212: bytes=32 time=399ms TTL=56
+
+Ping statistics for 180.210.203.212:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 46ms, Maximum = 399ms, Average = 134ms
+
+Pinging direktori-iklan.com [67.215.65.132] with 32 bytes of data:
+Reply from 67.215.65.132: bytes=32 time=847ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=843ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=839ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=827ms TTL=57
+
+Ping statistics for 67.215.65.132:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 827ms, Maximum = 847ms, Average = 839ms
+
+Pinging doremibet.com [50.31.147.60] with 32 bytes of data:
+Reply from 50.31.147.60: bytes=32 time=1090ms TTL=47
+Reply from 50.31.147.60: bytes=32 time=1118ms TTL=47
+Reply from 50.31.147.60: bytes=32 time=1119ms TTL=47
+Reply from 50.31.147.60: bytes=32 time=1074ms TTL=47
+
+Ping statistics for 50.31.147.60:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1074ms, Maximum = 1119ms, Average = 1100ms
+
+Pinging duitbux.com [180.235.148.69] with 32 bytes of data:
+Reply from 180.235.148.69: bytes=32 time=811ms TTL=58
+Reply from 180.235.148.69: bytes=32 time=31ms TTL=58
+Reply from 180.235.148.69: bytes=32 time=32ms TTL=58
+Reply from 180.235.148.69: bytes=32 time=31ms TTL=58
+
+Ping statistics for 180.235.148.69:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 811ms, Average = 226ms
+
+Pinging duitmu.com [192.185.117.175] with 32 bytes of data:
+Reply from 192.185.117.175: bytes=32 time=277ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=278ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=277ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=280ms TTL=50
+
+Ping statistics for 192.185.117.175:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 277ms, Maximum = 280ms, Average = 278ms
+
+Pinging dunia-bisnis.com [175.103.48.220] with 32 bytes of data:
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=30ms TTL=56
+
+Ping statistics for 175.103.48.220:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 32ms, Average = 31ms
+
+Pinging duniaiklangratis.com [184.168.221.55] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 184.168.221.55:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging earneasycash.info [199.83.134.51] with 32 bytes of data:
+Reply from 199.83.134.51: bytes=32 time=311ms TTL=53
+Reply from 199.83.134.51: bytes=32 time=313ms TTL=53
+Reply from 199.83.134.51: bytes=32 time=312ms TTL=53
+Reply from 199.83.134.51: bytes=32 time=312ms TTL=53
+
+Ping statistics for 199.83.134.51:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 311ms, Maximum = 313ms, Average = 312ms
+
+Pinging easy-hit-counter.com [69.90.42.72] with 32 bytes of data:
+Reply from 69.90.42.72: bytes=32 time=284ms TTL=52
+Reply from 69.90.42.72: bytes=32 time=284ms TTL=52
+Reply from 69.90.42.72: bytes=32 time=283ms TTL=52
+Reply from 69.90.42.72: bytes=32 time=283ms TTL=52
+
+Ping statistics for 69.90.42.72:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 283ms, Maximum = 284ms, Average = 283ms
+
+Pinging edomz.com [207.210.124.195] with 32 bytes of data:
+Reply from 207.210.124.195: bytes=32 time=278ms TTL=48
+Reply from 207.210.124.195: bytes=32 time=279ms TTL=48
+Reply from 207.210.124.195: bytes=32 time=278ms TTL=48
+Reply from 207.210.124.195: bytes=32 time=279ms TTL=48
+
+Ping statistics for 207.210.124.195:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 278ms, Maximum = 279ms, Average = 278ms
+
+Pinging entryad.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 327ms, Maximum = 327ms, Average = 327ms
+
+Pinging fairbet88.com [67.215.65.130] with 32 bytes of data:
+Reply from 67.215.65.130: bytes=32 time=50ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=51ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=52ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=51ms TTL=57
+
+Ping statistics for 67.215.65.130:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 52ms, Average = 51ms
+
+Pinging fellowequality.com [67.228.102.242] with 32 bytes of data:
+Reply from 67.228.102.242: bytes=32 time=244ms TTL=47
+Reply from 67.228.102.242: bytes=32 time=243ms TTL=47
+Reply from 67.228.102.242: bytes=32 time=243ms TTL=47
+Reply from 67.228.102.242: bytes=32 time=245ms TTL=47
+
+Ping statistics for 67.228.102.242:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 243ms, Maximum = 245ms, Average = 243ms
+
+Pinging firstbola.com [180.210.203.21] with 32 bytes of data:
+Reply from 180.210.203.21: bytes=32 time=50ms TTL=56
+Reply from 180.210.203.21: bytes=32 time=49ms TTL=56
+Reply from 180.210.203.21: bytes=32 time=50ms TTL=56
+Reply from 180.210.203.21: bytes=32 time=49ms TTL=56
+
+Ping statistics for 180.210.203.21:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 49ms, Maximum = 50ms, Average = 49ms
+
+Pinging flexterkita.com [14.102.153.102] with 32 bytes of data:
+Reply from 14.102.153.102: bytes=32 time=30ms TTL=58
+Reply from 14.102.153.102: bytes=32 time=98ms TTL=58
+Reply from 14.102.153.102: bytes=32 time=29ms TTL=58
+Reply from 14.102.153.102: bytes=32 time=28ms TTL=58
+
+Ping statistics for 14.102.153.102:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 28ms, Maximum = 98ms, Average = 46ms
+
+Pinging folderbisnis.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=337ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 326ms, Maximum = 337ms, Average = 329ms
+
+Pinging forexpose.com [66.90.125.155] with 32 bytes of data:
+Reply from 66.90.125.155: bytes=32 time=275ms TTL=48
+Reply from 66.90.125.155: bytes=32 time=282ms TTL=48
+Reply from 66.90.125.155: bytes=32 time=273ms TTL=48
+Reply from 66.90.125.155: bytes=32 time=285ms TTL=48
+
+Ping statistics for 66.90.125.155:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 273ms, Maximum = 285ms, Average = 278ms
+
+Pinging forumiklan.com [46.137.244.18] with 32 bytes of data:
+Reply from 46.137.244.18: bytes=32 time=52ms TTL=51
+Reply from 46.137.244.18: bytes=32 time=53ms TTL=51
+Reply from 46.137.244.18: bytes=32 time=49ms TTL=51
+Reply from 46.137.244.18: bytes=32 time=50ms TTL=51
+
+Ping statistics for 46.137.244.18:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 49ms, Maximum = 53ms, Average = 51ms
+
+Pinging freeads-iklan.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=328ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 326ms, Maximum = 328ms, Average = 326ms
+
+Pinging gadget-ads.com [208.91.197.104] with 32 bytes of data:
+Reply from 208.91.197.104: bytes=32 time=252ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=252ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=252ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=252ms TTL=236
+
+Ping statistics for 208.91.197.104:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 252ms, Maximum = 252ms, Average = 252ms
+
+Pinging gajigratis.com [66.85.169.241] with 32 bytes of data:
+Reply from 66.85.169.241: bytes=32 time=251ms TTL=49
+Reply from 66.85.169.241: bytes=32 time=250ms TTL=49
+Reply from 66.85.169.241: bytes=32 time=249ms TTL=49
+Reply from 66.85.169.241: bytes=32 time=249ms TTL=49
+
+Ping statistics for 66.85.169.241:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 249ms, Maximum = 251ms, Average = 249ms
+
+Pinging galaxybola.com [67.215.65.130] with 32 bytes of data:
+Reply from 67.215.65.130: bytes=32 time=51ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=50ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=50ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=51ms TTL=57
+
+Ping statistics for 67.215.65.130:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+
+Pinging goodlucky99.com [108.162.201.190] with 32 bytes of data:
+Reply from 108.162.201.190: bytes=32 time=48ms TTL=57
+Reply from 108.162.201.190: bytes=32 time=49ms TTL=57
+Reply from 108.162.201.190: bytes=32 time=49ms TTL=57
+Reply from 108.162.201.190: bytes=32 time=49ms TTL=57
+
+Ping statistics for 108.162.201.190:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 48ms, Maximum = 49ms, Average = 48ms
+
+Pinging gowellup.com [67.228.102.242] with 32 bytes of data:
+Reply from 67.228.102.242: bytes=32 time=245ms TTL=47
+Reply from 67.228.102.242: bytes=32 time=244ms TTL=47
+Reply from 67.228.102.242: bytes=32 time=245ms TTL=47
+Reply from 67.228.102.242: bytes=32 time=244ms TTL=47
+
+Ping statistics for 67.228.102.242:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 244ms, Maximum = 245ms, Average = 244ms
+
+Pinging gratis-iklan-baris.com [67.215.65.132] with 32 bytes of data:
+Reply from 67.215.65.132: bytes=32 time=46ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=46ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=45ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=45ms TTL=57
+
+Ping statistics for 67.215.65.132:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 45ms, Maximum = 46ms, Average = 45ms
+
+Pinging gratisiklanpasang.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=32ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging gratisiklanpasang.net [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=34ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 34ms, Average = 31ms
+
+Pinging gratispromo.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=328ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 327ms, Maximum = 328ms, Average = 327ms
+
+Pinging groupiklan.com [66.85.169.241] with 32 bytes of data:
+Reply from 66.85.169.241: bytes=32 time=249ms TTL=49
+Reply from 66.85.169.241: bytes=32 time=249ms TTL=49
+Reply from 66.85.169.241: bytes=32 time=249ms TTL=49
+Reply from 66.85.169.241: bytes=32 time=249ms TTL=49
+
+Ping statistics for 66.85.169.241:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 249ms, Maximum = 249ms, Average = 249ms
+
+Pinging hiddenbux.com [69.43.161.177] with 32 bytes of data:
+Reply from 69.43.161.177: bytes=32 time=238ms TTL=50
+Reply from 69.43.161.177: bytes=32 time=240ms TTL=50
+Reply from 69.43.161.177: bytes=32 time=240ms TTL=50
+Reply from 69.43.161.177: bytes=32 time=239ms TTL=50
+
+Ping statistics for 69.43.161.177:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 238ms, Maximum = 240ms, Average = 239ms
+
+Pinging idr-clickit.com [208.91.197.104] with 32 bytes of data:
+Reply from 208.91.197.104: bytes=32 time=252ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=255ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=253ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=254ms TTL=236
+
+Ping statistics for 208.91.197.104:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 252ms, Maximum = 255ms, Average = 253ms
+
+Pinging iklan-baris.org [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=30ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=30ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=32ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 32ms, Average = 30ms
+
+Pinging iklan-iklan.com [103.244.96.12] with 32 bytes of data:
+Reply from 103.244.96.12: bytes=32 time=32ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=30ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=31ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=31ms TTL=56
+
+Ping statistics for 103.244.96.12:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 32ms, Average = 31ms
+
+Pinging iklan-indo.org [103.244.96.86] with 32 bytes of data:
+Reply from 103.244.96.86: bytes=32 time=32ms TTL=56
+Reply from 103.244.96.86: bytes=32 time=32ms TTL=56
+Reply from 103.244.96.86: bytes=32 time=31ms TTL=56
+Reply from 103.244.96.86: bytes=32 time=31ms TTL=56
+
+Ping statistics for 103.244.96.86:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 32ms, Average = 31ms
+
+Pinging iklan-laris.com [96.31.84.109] with 32 bytes of data:
+Reply from 96.31.84.109: bytes=32 time=319ms TTL=47
+Reply from 96.31.84.109: bytes=32 time=319ms TTL=47
+Reply from 96.31.84.109: bytes=32 time=341ms TTL=47
+Reply from 96.31.84.109: bytes=32 time=350ms TTL=47
+
+Ping statistics for 96.31.84.109:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 319ms, Maximum = 350ms, Average = 332ms
+
+Pinging iklan-sukses.com [173.231.27.68] with 32 bytes of data:
+Reply from 173.231.27.68: bytes=32 time=257ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=334ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=241ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=239ms TTL=52
+
+Ping statistics for 173.231.27.68:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 239ms, Maximum = 334ms, Average = 267ms
+
+Pinging iklanads.com [192.254.72.53] with 32 bytes of data:
+Reply from 192.254.72.53: bytes=32 time=282ms TTL=50
+Reply from 192.254.72.53: bytes=32 time=284ms TTL=50
+Reply from 192.254.72.53: bytes=32 time=282ms TTL=50
+Reply from 192.254.72.53: bytes=32 time=283ms TTL=50
+
+Ping statistics for 192.254.72.53:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 282ms, Maximum = 284ms, Average = 282ms
+
+Pinging iklanbaliku.com [175.103.48.212] with 32 bytes of data:
+Reply from 175.103.48.212: bytes=32 time=33ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=30ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=32ms TTL=56
+
+Ping statistics for 175.103.48.212:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 33ms, Average = 31ms
+
+Pinging iklanbaris-gratis.com [206.214.210.240] with 32 bytes of data:
+Reply from 206.214.210.240: bytes=32 time=229ms TTL=48
+Reply from 206.214.210.240: bytes=32 time=230ms TTL=48
+Reply from 206.214.210.240: bytes=32 time=231ms TTL=48
+Reply from 206.214.210.240: bytes=32 time=235ms TTL=48
+
+Ping statistics for 206.214.210.240:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 229ms, Maximum = 235ms, Average = 231ms
+
+Pinging iklanbarisaceh.com [216.40.47.17] with 32 bytes of data:
+Reply from 216.40.47.17: bytes=32 time=292ms TTL=44
+Reply from 216.40.47.17: bytes=32 time=291ms TTL=44
+Reply from 216.40.47.17: bytes=32 time=306ms TTL=44
+Reply from 216.40.47.17: bytes=32 time=433ms TTL=44
+
+Ping statistics for 216.40.47.17:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 291ms, Maximum = 433ms, Average = 330ms
+
+Pinging iklanbarisgratis.co.uk [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=33ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=60ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 60ms, Average = 38ms
+
+Pinging iklanbarisgratis.info [159.174.46.112] with 32 bytes of data:
+Reply from 159.174.46.112: bytes=32 time=285ms TTL=46
+Reply from 159.174.46.112: bytes=32 time=285ms TTL=46
+Reply from 159.174.46.112: bytes=32 time=285ms TTL=46
+Reply from 159.174.46.112: bytes=32 time=286ms TTL=46
+
+Ping statistics for 159.174.46.112:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 285ms, Maximum = 286ms, Average = 285ms
+
+Pinging iklanbarisgratis.net [175.103.48.220] with 32 bytes of data:
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.220:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 32ms, Average = 31ms
+
+Pinging iklanbarisgratis.org [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=30ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 32ms, Average = 31ms
+
+Pinging iklanbarisgratispasang.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=30ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=35ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=254ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 254ms, Average = 87ms
+
+Pinging iklanbarisgratispasang.net [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=113ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=617ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=62ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=163ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 62ms, Maximum = 617ms, Average = 238ms
+
+Pinging iklanbariskusuma.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=266ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=295ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=354ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=371ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 266ms, Maximum = 371ms, Average = 321ms
+
+Pinging iklanbarislaris.com [206.214.210.240] with 32 bytes of data:
+Reply from 206.214.210.240: bytes=32 time=574ms TTL=48
+Reply from 206.214.210.240: bytes=32 time=604ms TTL=48
+Reply from 206.214.210.240: bytes=32 time=663ms TTL=48
+Reply from 206.214.210.240: bytes=32 time=788ms TTL=48
+
+Ping statistics for 206.214.210.240:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 574ms, Maximum = 788ms, Average = 657ms
+
+Pinging iklanbarismandiri.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=1004ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=991ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=990ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=979ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 979ms, Maximum = 1004ms, Average = 991ms
+
+Pinging iklanbarismu.com [175.103.48.213] with 32 bytes of data:
+Reply from 175.103.48.213: bytes=32 time=729ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=722ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=782ms TTL=56
+Request timed out.
+
+Ping statistics for 175.103.48.213:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 722ms, Maximum = 782ms, Average = 744ms
+
+Pinging iklanbarispro.com [175.103.48.212] with 32 bytes of data:
+Reply from 175.103.48.212: bytes=32 time=1715ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=1771ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=1633ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=1246ms TTL=56
+
+Ping statistics for 175.103.48.212:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1246ms, Maximum = 1771ms, Average = 1591ms
+
+Pinging iklanbaristanpadaftar.com [175.103.58.212] with 32 bytes of data:
+Reply from 175.103.58.212: bytes=32 time=1433ms TTL=56
+Reply from 175.103.58.212: bytes=32 time=1285ms TTL=56
+Reply from 175.103.58.212: bytes=32 time=1039ms TTL=56
+Reply from 175.103.58.212: bytes=32 time=886ms TTL=56
+
+Ping statistics for 175.103.58.212:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 886ms, Maximum = 1433ms, Average = 1160ms
+
+Pinging iklanbiru.com [173.245.5.150] with 32 bytes of data:
+Reply from 173.245.5.150: bytes=32 time=1147ms TTL=49
+Reply from 173.245.5.150: bytes=32 time=1135ms TTL=49
+Reply from 173.245.5.150: bytes=32 time=1034ms TTL=49
+Reply from 173.245.5.150: bytes=32 time=1259ms TTL=49
+
+Ping statistics for 173.245.5.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1034ms, Maximum = 1259ms, Average = 1143ms
+
+Pinging iklanbisnisbali.com [61.203.217.146] with 32 bytes of data:
+Reply from 61.203.217.146: bytes=32 time=1529ms TTL=46
+Reply from 61.203.217.146: bytes=32 time=958ms TTL=46
+Reply from 61.203.217.146: bytes=32 time=939ms TTL=46
+Reply from 61.203.217.146: bytes=32 time=1029ms TTL=46
+
+Ping statistics for 61.203.217.146:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 939ms, Maximum = 1529ms, Average = 1113ms
+
+Pinging iklanbisnisindonesia.com [208.91.197.101] with 32 bytes of data:
+Reply from 208.91.197.101: bytes=32 time=984ms TTL=236
+Reply from 208.91.197.101: bytes=32 time=1399ms TTL=236
+Reply from 208.91.197.101: bytes=32 time=1373ms TTL=236
+Reply from 208.91.197.101: bytes=32 time=548ms TTL=236
+
+Ping statistics for 208.91.197.101:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 548ms, Maximum = 1399ms, Average = 1076ms
+
+Pinging iklanbisnisku.com [175.103.48.220] with 32 bytes of data:
+Reply from 175.103.48.220: bytes=32 time=97ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=989ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=781ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=293ms TTL=56
+
+Ping statistics for 175.103.48.220:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 97ms, Maximum = 989ms, Average = 540ms
+
+Pinging iklanbisnispro.com [175.103.48.216] with 32 bytes of data:
+Reply from 175.103.48.216: bytes=32 time=221ms TTL=56
+Reply from 175.103.48.216: bytes=32 time=165ms TTL=56
+Reply from 175.103.48.216: bytes=32 time=187ms TTL=56
+Reply from 175.103.48.216: bytes=32 time=190ms TTL=56
+
+Ping statistics for 175.103.48.216:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 165ms, Maximum = 221ms, Average = 190ms
+
+Pinging iklanblogger.com [23.29.73.43] with 32 bytes of data:
+Reply from 23.29.73.43: bytes=32 time=395ms TTL=52
+Reply from 23.29.73.43: bytes=32 time=485ms TTL=52
+Reply from 23.29.73.43: bytes=32 time=560ms TTL=52
+Reply from 23.29.73.43: bytes=32 time=711ms TTL=52
+
+Ping statistics for 23.29.73.43:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 395ms, Maximum = 711ms, Average = 537ms
+
+Pinging iklanbogor.com [50.115.41.244] with 32 bytes of data:
+Reply from 50.115.41.244: bytes=32 time=903ms TTL=52
+Reply from 50.115.41.244: bytes=32 time=998ms TTL=52
+Reply from 50.115.41.244: bytes=32 time=933ms TTL=52
+Reply from 50.115.41.244: bytes=32 time=891ms TTL=52
+
+Ping statistics for 50.115.41.244:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 891ms, Maximum = 998ms, Average = 931ms
+
+Pinging iklandenpasar.com [175.103.48.213] with 32 bytes of data:
+Reply from 175.103.48.213: bytes=32 time=689ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=701ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=810ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=762ms TTL=56
+
+Ping statistics for 175.103.48.213:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 689ms, Maximum = 810ms, Average = 740ms
+
+Pinging iklandiweb.com [202.138.226.2] with 32 bytes of data:
+Reply from 202.138.226.2: bytes=32 time=676ms TTL=56
+Reply from 202.138.226.2: bytes=32 time=666ms TTL=56
+Reply from 202.138.226.2: bytes=32 time=697ms TTL=56
+Reply from 202.138.226.2: bytes=32 time=708ms TTL=56
+
+Ping statistics for 202.138.226.2:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 666ms, Maximum = 708ms, Average = 686ms
+
+Pinging iklandunia.com [175.103.48.212] with 32 bytes of data:
+Reply from 175.103.48.212: bytes=32 time=704ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=689ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=676ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=677ms TTL=56
+
+Ping statistics for 175.103.48.212:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 676ms, Maximum = 704ms, Average = 686ms
+
+Pinging iklanekstra.com [175.103.48.213] with 32 bytes of data:
+Reply from 175.103.48.213: bytes=32 time=704ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=691ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=679ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=711ms TTL=56
+
+Ping statistics for 175.103.48.213:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 679ms, Maximum = 711ms, Average = 696ms
+
+Pinging iklangoogle.com [192.185.99.30] with 32 bytes of data:
+Reply from 192.185.99.30: bytes=32 time=939ms TTL=49
+Reply from 192.185.99.30: bytes=32 time=936ms TTL=49
+Reply from 192.185.99.30: bytes=32 time=969ms TTL=49
+Reply from 192.185.99.30: bytes=32 time=956ms TTL=49
+
+Ping statistics for 192.185.99.30:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 936ms, Maximum = 969ms, Average = 950ms
+
+Pinging iklangra-tis.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=681ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=711ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=699ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=687ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 681ms, Maximum = 711ms, Average = 694ms
+
+Pinging iklangratis.co.uk [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=684ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=671ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=702ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=691ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 671ms, Maximum = 702ms, Average = 687ms
+
+Pinging iklangratis88.com [173.231.27.68] with 32 bytes of data:
+Reply from 173.231.27.68: bytes=32 time=901ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=918ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=906ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=895ms TTL=52
+
+Ping statistics for 173.231.27.68:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 895ms, Maximum = 918ms, Average = 905ms
+
+Pinging iklangratisindonesia.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=703ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=691ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=678ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=709ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 678ms, Maximum = 709ms, Average = 695ms
+
+Pinging iklangratisindonesia.net [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=706ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=696ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=690ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=678ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 678ms, Maximum = 706ms, Average = 692ms
+
+Pinging iklangratisindonesia.org [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=757ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=756ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=790ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=758ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 756ms, Maximum = 790ms, Average = 765ms
+
+Pinging iklangratiskita.com [175.103.48.213] with 32 bytes of data:
+Reply from 175.103.48.213: bytes=32 time=896ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=735ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=597ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=661ms TTL=56
+
+Ping statistics for 175.103.48.213:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 597ms, Maximum = 896ms, Average = 722ms
+
+Pinging iklangratiskusuma.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=693ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=702ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=689ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=677ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 677ms, Maximum = 702ms, Average = 690ms
+
+Pinging iklangratismu.com [192.185.117.155] with 32 bytes of data:
+Reply from 192.185.117.155: bytes=32 time=944ms TTL=49
+Reply from 192.185.117.155: bytes=32 time=932ms TTL=49
+Reply from 192.185.117.155: bytes=32 time=920ms TTL=49
+Reply from 192.185.117.155: bytes=32 time=952ms TTL=49
+
+Ping statistics for 192.185.117.155:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 920ms, Maximum = 952ms, Average = 937ms
+
+Pinging iklangratisonline.com [175.103.48.220] with 32 bytes of data:
+Reply from 175.103.48.220: bytes=32 time=704ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=694ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=682ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=713ms TTL=56
+
+Ping statistics for 175.103.48.220:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 682ms, Maximum = 713ms, Average = 698ms
+
+Pinging iklangratispasang.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=708ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=695ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=684ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=672ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 672ms, Maximum = 708ms, Average = 689ms
+
+Pinging iklangratispasang.net [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=709ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=700ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=689ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=679ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 679ms, Maximum = 709ms, Average = 694ms
+
+Pinging iklangratispasang.org [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=719ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=717ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=687ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=697ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 687ms, Maximum = 719ms, Average = 705ms
+
+Pinging iklangratispro.com [175.103.48.213] with 32 bytes of data:
+Reply from 175.103.48.213: bytes=32 time=705ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=693ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=675ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=707ms TTL=56
+
+Ping statistics for 175.103.48.213:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 675ms, Maximum = 707ms, Average = 695ms
+
+Pinging iklanhemat.com [198.23.72.4] with 32 bytes of data:
+Reply from 198.23.72.4: bytes=32 time=906ms TTL=50
+Reply from 198.23.72.4: bytes=32 time=896ms TTL=50
+Reply from 198.23.72.4: bytes=32 time=886ms TTL=50
+Reply from 198.23.72.4: bytes=32 time=873ms TTL=50
+
+Ping statistics for 198.23.72.4:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 873ms, Maximum = 906ms, Average = 890ms
+
+Pinging iklanhoki.com [173.231.27.68] with 32 bytes of data:
+Reply from 173.231.27.68: bytes=32 time=897ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=423ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=237ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=397ms TTL=52
+
+Ping statistics for 173.231.27.68:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 237ms, Maximum = 897ms, Average = 488ms
+
+Pinging iklanhouse.com [175.103.48.220] with 32 bytes of data:
+Reply from 175.103.48.220: bytes=32 time=202ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=278ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=273ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=307ms TTL=56
+
+Ping statistics for 175.103.48.220:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 202ms, Maximum = 307ms, Average = 265ms
+
+Pinging iklanjagoan.com [175.103.58.212] with 32 bytes of data:
+Reply from 175.103.58.212: bytes=32 time=298ms TTL=56
+Reply from 175.103.58.212: bytes=32 time=359ms TTL=56
+Reply from 175.103.58.212: bytes=32 time=409ms TTL=56
+Reply from 175.103.58.212: bytes=32 time=575ms TTL=56
+
+Ping statistics for 175.103.58.212:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 298ms, Maximum = 575ms, Average = 410ms
+
+Pinging iklanjoglo.com [175.103.48.208] with 32 bytes of data:
+Reply from 175.103.48.208: bytes=32 time=692ms TTL=56
+Reply from 175.103.48.208: bytes=32 time=680ms TTL=56
+Reply from 175.103.48.208: bytes=32 time=710ms TTL=56
+Reply from 175.103.48.208: bytes=32 time=701ms TTL=56
+
+Ping statistics for 175.103.48.208:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 680ms, Maximum = 710ms, Average = 695ms
+
+Pinging iklankito.com [190.93.246.20] with 32 bytes of data:
+Reply from 190.93.246.20: bytes=32 time=47ms TTL=57
+Reply from 190.93.246.20: bytes=32 time=121ms TTL=57
+Reply from 190.93.246.20: bytes=32 time=205ms TTL=57
+Reply from 190.93.246.20: bytes=32 time=284ms TTL=57
+
+Ping statistics for 190.93.246.20:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 47ms, Maximum = 284ms, Average = 164ms
+
+Pinging iklankomplit.com [173.231.27.68] with 32 bytes of data:
+Reply from 173.231.27.68: bytes=32 time=467ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=508ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=528ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=527ms TTL=52
+
+Ping statistics for 173.231.27.68:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 467ms, Maximum = 528ms, Average = 507ms
+
+Pinging iklanlisting.com [190.93.244.20] with 32 bytes of data:
+Reply from 190.93.244.20: bytes=32 time=446ms TTL=57
+Reply from 190.93.244.20: bytes=32 time=551ms TTL=57
+Reply from 190.93.244.20: bytes=32 time=692ms TTL=57
+Reply from 190.93.244.20: bytes=32 time=700ms TTL=57
+
+Ping statistics for 190.93.244.20:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 446ms, Maximum = 700ms, Average = 597ms
+
+Pinging iklanlowongan.com [175.103.48.205] with 32 bytes of data:
+Reply from 175.103.48.205: bytes=32 time=686ms TTL=56
+Reply from 175.103.48.205: bytes=32 time=370ms TTL=56
+Reply from 175.103.48.205: bytes=32 time=33ms TTL=56
+Reply from 175.103.48.205: bytes=32 time=88ms TTL=56
+
+Ping statistics for 175.103.48.205:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 33ms, Maximum = 686ms, Average = 294ms
+
+Pinging iklanmarket.com [175.103.48.220] with 32 bytes of data:
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=134ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.220:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 134ms, Average = 57ms
+
+Pinging iklanoke.com [199.119.100.45] with 32 bytes of data:
+Reply from 199.119.100.45: bytes=32 time=313ms TTL=47
+Reply from 199.119.100.45: bytes=32 time=314ms TTL=47
+Reply from 199.119.100.45: bytes=32 time=314ms TTL=47
+Reply from 199.119.100.45: bytes=32 time=313ms TTL=47
+
+Ping statistics for 199.119.100.45:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 313ms, Maximum = 314ms, Average = 313ms
+
+Pinging iklanonlinegratis.com [67.215.65.132] with 32 bytes of data:
+Reply from 67.215.65.132: bytes=32 time=46ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=45ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=45ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=45ms TTL=57
+
+Ping statistics for 67.215.65.132:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 45ms, Maximum = 46ms, Average = 45ms
+
+Pinging iklanonlinemu.com [175.103.48.212] with 32 bytes of data:
+Reply from 175.103.48.212: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.212:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 32ms, Average = 31ms
+
+Pinging iklanpasanggratis.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=30ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=30ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 31ms, Average = 30ms
+
+Pinging iklanpedia.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=339ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=335ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 326ms, Maximum = 339ms, Average = 331ms
+
+Pinging iklanplaza.com [175.103.48.220] with 32 bytes of data:
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=32ms TTL=56
+
+Ping statistics for 175.103.48.220:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 32ms, Average = 31ms
+
+Pinging iklanposkota.net [67.215.65.132] with 32 bytes of data:
+Reply from 67.215.65.132: bytes=32 time=47ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=46ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=46ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=46ms TTL=57
+
+Ping statistics for 67.215.65.132:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 46ms, Maximum = 47ms, Average = 46ms
+
+Pinging iklanprimaku.com [173.254.28.82] with 32 bytes of data:
+Reply from 173.254.28.82: bytes=32 time=249ms TTL=53
+Reply from 173.254.28.82: bytes=32 time=248ms TTL=53
+Reply from 173.254.28.82: bytes=32 time=247ms TTL=53
+Reply from 173.254.28.82: bytes=32 time=248ms TTL=53
+
+Ping statistics for 173.254.28.82:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 247ms, Maximum = 249ms, Average = 248ms
+
+Pinging iklanpromo.com [69.73.174.253] with 32 bytes of data:
+Reply from 69.73.174.253: bytes=32 time=289ms TTL=48
+Reply from 69.73.174.253: bytes=32 time=347ms TTL=48
+Reply from 69.73.174.253: bytes=32 time=293ms TTL=48
+Reply from 69.73.174.253: bytes=32 time=288ms TTL=48
+
+Ping statistics for 69.73.174.253:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 288ms, Maximum = 347ms, Average = 304ms
+
+Pinging iklansilver.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=385ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=381ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 327ms, Maximum = 385ms, Average = 355ms
+
+Pinging iklantanpadaftar.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=47ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=108ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 108ms, Average = 54ms
+
+Pinging iklanteks.com [175.103.48.213] with 32 bytes of data:
+Reply from 175.103.48.213: bytes=32 time=86ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=32ms TTL=56
+
+Ping statistics for 175.103.48.213:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 86ms, Average = 45ms
+
+Pinging iklantelevisi.com [175.103.48.220] with 32 bytes of data:
+Reply from 175.103.48.220: bytes=32 time=33ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=32ms TTL=56
+
+Ping statistics for 175.103.48.220:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 33ms, Average = 31ms
+
+Pinging iklanterpopuler.com [175.103.48.220] with 32 bytes of data:
+Reply from 175.103.48.220: bytes=32 time=30ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=30ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.220:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 31ms, Average = 30ms
+
+Pinging iklantext.com [66.85.169.241] with 32 bytes of data:
+Reply from 66.85.169.241: bytes=32 time=249ms TTL=49
+Reply from 66.85.169.241: bytes=32 time=248ms TTL=49
+Reply from 66.85.169.241: bytes=32 time=249ms TTL=49
+Reply from 66.85.169.241: bytes=32 time=263ms TTL=49
+
+Ping statistics for 66.85.169.241:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 248ms, Maximum = 263ms, Average = 252ms
+
+Pinging iklantop.net [119.235.255.88] with 32 bytes of data:
+Reply from 119.235.255.88: bytes=32 time=33ms TTL=57
+Reply from 119.235.255.88: bytes=32 time=32ms TTL=57
+Reply from 119.235.255.88: bytes=32 time=30ms TTL=57
+Reply from 119.235.255.88: bytes=32 time=31ms TTL=57
+
+Ping statistics for 119.235.255.88:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 33ms, Average = 31ms
+
+Pinging iklanumum.com [180.235.151.73] with 32 bytes of data:
+Reply from 180.235.151.73: bytes=32 time=32ms TTL=58
+Reply from 180.235.151.73: bytes=32 time=35ms TTL=58
+Reply from 180.235.151.73: bytes=32 time=31ms TTL=58
+Reply from 180.235.151.73: bytes=32 time=31ms TTL=58
+
+Ping statistics for 180.235.151.73:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 35ms, Average = 32ms
+
+Pinging iklanvip.net [74.81.68.101] with 32 bytes of data:
+Reply from 74.81.68.101: bytes=32 time=297ms TTL=48
+Reply from 74.81.68.101: bytes=32 time=297ms TTL=48
+Reply from 74.81.68.101: bytes=32 time=297ms TTL=48
+Reply from 74.81.68.101: bytes=32 time=300ms TTL=48
+
+Ping statistics for 74.81.68.101:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 297ms, Maximum = 300ms, Average = 297ms
+
+Pinging iklanwebid.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 326ms, Maximum = 327ms, Average = 326ms
+
+Pinging iklanyahoo.com [192.65.243.11] with 32 bytes of data:
+Reply from 192.65.243.11: bytes=32 time=280ms TTL=49
+Reply from 192.65.243.11: bytes=32 time=281ms TTL=49
+Reply from 192.65.243.11: bytes=32 time=280ms TTL=49
+Reply from 192.65.243.11: bytes=32 time=280ms TTL=49
+
+Ping statistics for 192.65.243.11:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 280ms, Maximum = 281ms, Average = 280ms
+
+Pinging incentria.com [208.83.140.150] with 32 bytes of data:
+Reply from 208.83.140.150: bytes=32 time=288ms TTL=45
+Reply from 208.83.140.150: bytes=32 time=374ms TTL=45
+Reply from 208.83.140.150: bytes=32 time=288ms TTL=45
+Reply from 208.83.140.150: bytes=32 time=288ms TTL=45
+
+Ping statistics for 208.83.140.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 288ms, Maximum = 374ms, Average = 309ms
+
+Pinging incrasebux.com [216.120.236.166] with 32 bytes of data:
+Reply from 216.120.236.166: bytes=32 time=299ms TTL=48
+Reply from 216.120.236.166: bytes=32 time=301ms TTL=48
+Reply from 216.120.236.166: bytes=32 time=299ms TTL=48
+Reply from 216.120.236.166: bytes=32 time=301ms TTL=48
+
+Ping statistics for 216.120.236.166:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 299ms, Maximum = 301ms, Average = 300ms
+
+Pinging indo-solusta.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=326ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=327ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 326ms, Maximum = 327ms, Average = 326ms
+
+Pinging indobanner.com [198.23.129.174] with 32 bytes of data:
+Reply from 198.23.129.174: bytes=32 time=255ms TTL=54
+Reply from 198.23.129.174: bytes=32 time=255ms TTL=54
+Reply from 198.23.129.174: bytes=32 time=255ms TTL=54
+Reply from 198.23.129.174: bytes=32 time=254ms TTL=54
+
+Ping statistics for 198.23.129.174:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 254ms, Maximum = 255ms, Average = 254ms
+
+Pinging indofreeads.com [50.115.41.244] with 32 bytes of data:
+Reply from 50.115.41.244: bytes=32 time=240ms TTL=52
+Reply from 50.115.41.244: bytes=32 time=242ms TTL=52
+Reply from 50.115.41.244: bytes=32 time=242ms TTL=52
+Reply from 50.115.41.244: bytes=32 time=241ms TTL=52
+
+Ping statistics for 50.115.41.244:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 240ms, Maximum = 242ms, Average = 241ms
+
+Pinging indovertiser.com [82.98.86.172] with 32 bytes of data:
+Reply from 82.98.86.172: bytes=32 time=402ms TTL=43
+Reply from 82.98.86.172: bytes=32 time=379ms TTL=43
+Reply from 82.98.86.172: bytes=32 time=378ms TTL=43
+Reply from 82.98.86.172: bytes=32 time=379ms TTL=43
+
+Ping statistics for 82.98.86.172:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 378ms, Maximum = 402ms, Average = 384ms
+
+Pinging instaforex-id.com [74.220.199.15] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 74.220.199.15:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging istanaiklan.com [116.213.48.131] with 32 bytes of data:
+Reply from 116.213.48.131: bytes=32 time=31ms TTL=59
+Reply from 116.213.48.131: bytes=32 time=30ms TTL=59
+Reply from 116.213.48.131: bytes=32 time=38ms TTL=59
+Reply from 116.213.48.131: bytes=32 time=30ms TTL=59
+
+Ping statistics for 116.213.48.131:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 38ms, Average = 32ms
+
+Pinging jagoiklan.com [192.254.236.79] with 32 bytes of data:
+Reply from 192.254.236.79: bytes=32 time=244ms TTL=54
+Reply from 192.254.236.79: bytes=32 time=290ms TTL=54
+Reply from 192.254.236.79: bytes=32 time=244ms TTL=54
+Reply from 192.254.236.79: bytes=32 time=244ms TTL=54
+
+Ping statistics for 192.254.236.79:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 244ms, Maximum = 290ms, Average = 255ms
+
+Pinging jagopromo.com [204.197.252.137] with 32 bytes of data:
+Reply from 204.197.252.137: bytes=32 time=213ms TTL=51
+Reply from 204.197.252.137: bytes=32 time=212ms TTL=51
+Reply from 204.197.252.137: bytes=32 time=212ms TTL=51
+Reply from 204.197.252.137: bytes=32 time=211ms TTL=51
+
+Ping statistics for 204.197.252.137:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 211ms, Maximum = 213ms, Average = 212ms
+
+Pinging jaringaniklan.com [184.168.221.50] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 184.168.221.50:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging jasaiklan.com [192.254.236.79] with 32 bytes of data:
+Reply from 192.254.236.79: bytes=32 time=244ms TTL=54
+Reply from 192.254.236.79: bytes=32 time=246ms TTL=54
+Reply from 192.254.236.79: bytes=32 time=257ms TTL=54
+Reply from 192.254.236.79: bytes=32 time=244ms TTL=54
+
+Ping statistics for 192.254.236.79:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 244ms, Maximum = 257ms, Average = 247ms
+
+Pinging jasapoker.com [5.39.220.224] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 5.39.220.224:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging javaiklan.com [192.185.225.74] with 32 bytes of data:
+Reply from 192.185.225.74: bytes=32 time=243ms TTL=54
+Reply from 192.185.225.74: bytes=32 time=243ms TTL=54
+Reply from 192.185.225.74: bytes=32 time=242ms TTL=54
+Reply from 192.185.225.74: bytes=32 time=243ms TTL=54
+
+Ping statistics for 192.185.225.74:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 242ms, Maximum = 243ms, Average = 242ms
+
+Pinging javapic.com [108.162.196.142] with 32 bytes of data:
+Reply from 108.162.196.142: bytes=32 time=49ms TTL=57
+Reply from 108.162.196.142: bytes=32 time=50ms TTL=57
+Reply from 108.162.196.142: bytes=32 time=50ms TTL=57
+Reply from 108.162.196.142: bytes=32 time=52ms TTL=57
+
+Ping statistics for 108.162.196.142:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 49ms, Maximum = 52ms, Average = 50ms
+
+Pinging jillsclickcorner.com [192.95.112.218] with 32 bytes of data:
+Reply from 192.95.112.218: bytes=32 time=255ms TTL=47
+Reply from 192.95.112.218: bytes=32 time=254ms TTL=47
+Reply from 192.95.112.218: bytes=32 time=253ms TTL=47
+Reply from 192.95.112.218: bytes=32 time=255ms TTL=47
+
+Ping statistics for 192.95.112.218:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 253ms, Maximum = 255ms, Average = 254ms
+
+Pinging jingkrak.com [175.103.48.213] with 32 bytes of data:
+Reply from 175.103.48.213: bytes=32 time=33ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.213:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 33ms, Average = 31ms
+
+Pinging juruiklan.com [192.185.225.74] with 32 bytes of data:
+Reply from 192.185.225.74: bytes=32 time=243ms TTL=54
+Reply from 192.185.225.74: bytes=32 time=243ms TTL=54
+Reply from 192.185.225.74: bytes=32 time=243ms TTL=54
+Reply from 192.185.225.74: bytes=32 time=243ms TTL=54
+
+Ping statistics for 192.185.225.74:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 243ms, Maximum = 243ms, Average = 243ms
+
+Pinging kakakdewa.net [180.210.207.225] with 32 bytes of data:
+Reply from 180.210.207.225: bytes=32 time=52ms TTL=56
+Reply from 180.210.207.225: bytes=32 time=51ms TTL=56
+Reply from 180.210.207.225: bytes=32 time=51ms TTL=56
+Reply from 180.210.207.225: bytes=32 time=52ms TTL=56
+
+Ping statistics for 180.210.207.225:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 51ms, Maximum = 52ms, Average = 51ms
+
+Pinging kebunemas.com [173.236.96.188] with 32 bytes of data:
+Reply from 173.236.96.188: bytes=32 time=313ms TTL=45
+Reply from 173.236.96.188: bytes=32 time=316ms TTL=45
+Reply from 173.236.96.188: bytes=32 time=313ms TTL=45
+Reply from 173.236.96.188: bytes=32 time=314ms TTL=45
+
+Ping statistics for 173.236.96.188:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 313ms, Maximum = 316ms, Average = 314ms
+
+Pinging klikabadi.com [69.50.201.200] with 32 bytes of data:
+Reply from 69.50.201.200: bytes=32 time=282ms TTL=49
+Reply from 69.50.201.200: bytes=32 time=282ms TTL=49
+Reply from 69.50.201.200: bytes=32 time=283ms TTL=49
+Reply from 69.50.201.200: bytes=32 time=281ms TTL=49
+
+Ping statistics for 69.50.201.200:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 281ms, Maximum = 283ms, Average = 282ms
+
+Pinging klikabadi.net [69.39.237.128] with 32 bytes of data:
+Reply from 69.39.237.128: bytes=32 time=312ms TTL=45
+Reply from 69.39.237.128: bytes=32 time=311ms TTL=45
+Reply from 69.39.237.128: bytes=32 time=313ms TTL=45
+Reply from 69.39.237.128: bytes=32 time=312ms TTL=45
+
+Ping statistics for 69.39.237.128:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 311ms, Maximum = 313ms, Average = 312ms
+
+Pinging klikajadeh.com [103.29.215.222] with 32 bytes of data:
+Reply from 103.29.215.222: bytes=32 time=32ms TTL=56
+Reply from 103.29.215.222: bytes=32 time=32ms TTL=56
+Reply from 103.29.215.222: bytes=32 time=30ms TTL=56
+Reply from 103.29.215.222: bytes=32 time=31ms TTL=56
+
+Ping statistics for 103.29.215.222:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 32ms, Average = 31ms
+
+Pinging komisiiklan.com [199.59.243.107] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 199.59.243.107:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging kumpuljutawan.com [208.91.197.204] with 32 bytes of data:
+Reply from 208.91.197.204: bytes=32 time=1142ms TTL=236
+Reply from 208.91.197.204: bytes=32 time=1376ms TTL=236
+Reply from 208.91.197.204: bytes=32 time=1397ms TTL=236
+Reply from 208.91.197.204: bytes=32 time=1375ms TTL=236
+
+Ping statistics for 208.91.197.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1142ms, Maximum = 1397ms, Average = 1322ms
+
+Pinging ladangiklan.com [208.91.197.104] with 32 bytes of data:
+Reply from 208.91.197.104: bytes=32 time=1412ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=1397ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=1408ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=1397ms TTL=236
+
+Ping statistics for 208.91.197.104:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1397ms, Maximum = 1412ms, Average = 1403ms
+
+Pinging ladanguang.com [49.50.8.202] with 32 bytes of data:
+Reply from 49.50.8.202: bytes=32 time=1159ms TTL=56
+Reply from 49.50.8.202: bytes=32 time=1187ms TTL=56
+Reply from 49.50.8.202: bytes=32 time=1162ms TTL=56
+Reply from 49.50.8.202: bytes=32 time=1163ms TTL=56
+
+Ping statistics for 49.50.8.202:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1159ms, Maximum = 1187ms, Average = 1167ms
+
+Pinging link2communion.com [67.228.102.242] with 32 bytes of data:
+Reply from 67.228.102.242: bytes=32 time=1396ms TTL=47
+Reply from 67.228.102.242: bytes=32 time=1398ms TTL=47
+Reply from 67.228.102.242: bytes=32 time=1405ms TTL=47
+Reply from 67.228.102.242: bytes=32 time=1403ms TTL=47
+
+Ping statistics for 67.228.102.242:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1396ms, Maximum = 1405ms, Average = 1400ms
+
+Pinging lokeriklan.com [173.231.27.68] with 32 bytes of data:
+Reply from 173.231.27.68: bytes=32 time=1375ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=1354ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=1353ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=1354ms TTL=52
+
+Ping statistics for 173.231.27.68:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1353ms, Maximum = 1375ms, Average = 1359ms
+
+Pinging m88media.com [208.109.181.66] with 32 bytes of data:
+Reply from 208.109.181.66: bytes=32 time=1371ms TTL=117
+Reply from 208.109.181.66: bytes=32 time=1354ms TTL=117
+Reply from 208.109.181.66: bytes=32 time=1354ms TTL=117
+Reply from 208.109.181.66: bytes=32 time=1397ms TTL=117
+
+Ping statistics for 208.109.181.66:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1354ms, Maximum = 1397ms, Average = 1369ms
+
+Pinging mabosbet.com [66.232.115.226] with 32 bytes of data:
+Reply from 66.232.115.226: bytes=32 time=1477ms TTL=47
+Reply from 66.232.115.226: bytes=32 time=1440ms TTL=47
+Reply from 66.232.115.226: bytes=32 time=1489ms TTL=47
+Reply from 66.232.115.226: bytes=32 time=1229ms TTL=47
+
+Ping statistics for 66.232.115.226:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1229ms, Maximum = 1489ms, Average = 1408ms
+
+Pinging maripromosi.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=670ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=791ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=810ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=389ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 389ms, Maximum = 810ms, Average = 665ms
+
+Pinging marketbola.com [174.37.172.68] with 32 bytes of data:
+Reply from 174.37.172.68: bytes=32 time=240ms TTL=47
+Reply from 174.37.172.68: bytes=32 time=241ms TTL=47
+Reply from 174.37.172.68: bytes=32 time=241ms TTL=47
+Reply from 174.37.172.68: bytes=32 time=240ms TTL=47
+
+Ping statistics for 174.37.172.68:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 240ms, Maximum = 241ms, Average = 240ms
+
+Pinging masteriklan.net [49.50.8.221] with 32 bytes of data:
+Reply from 49.50.8.221: bytes=32 time=31ms TTL=56
+Reply from 49.50.8.221: bytes=32 time=29ms TTL=56
+Reply from 49.50.8.221: bytes=32 time=64ms TTL=56
+Reply from 49.50.8.221: bytes=32 time=268ms TTL=56
+
+Ping statistics for 49.50.8.221:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 29ms, Maximum = 268ms, Average = 98ms
+
+Pinging mauiklangratis.com [173.231.27.68] with 32 bytes of data:
+Reply from 173.231.27.68: bytes=32 time=853ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=1141ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=1385ms TTL=52
+Reply from 173.231.27.68: bytes=32 time=1365ms TTL=52
+
+Ping statistics for 173.231.27.68:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 853ms, Maximum = 1385ms, Average = 1186ms
+
+Pinging medaniklan.com [50.115.41.244] with 32 bytes of data:
+Reply from 50.115.41.244: bytes=32 time=1404ms TTL=52
+Reply from 50.115.41.244: bytes=32 time=1387ms TTL=52
+Reply from 50.115.41.244: bytes=32 time=1489ms TTL=52
+Reply from 50.115.41.244: bytes=32 time=1475ms TTL=52
+
+Ping statistics for 50.115.41.244:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1387ms, Maximum = 1489ms, Average = 1438ms
+
+Pinging mediaiklanpapua.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=1540ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=1492ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=1464ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=1559ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1464ms, Maximum = 1559ms, Average = 1513ms
+
+Pinging mesiniklan.andipublisher.com [118.91.130.245] with 32 bytes of data:
+Reply from 118.91.130.245: bytes=32 time=1548ms TTL=56
+Reply from 118.91.130.245: bytes=32 time=1491ms TTL=56
+Reply from 118.91.130.245: bytes=32 time=1331ms TTL=56
+Reply from 118.91.130.245: bytes=32 time=1277ms TTL=56
+
+Ping statistics for 118.91.130.245:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1277ms, Maximum = 1548ms, Average = 1411ms
+
+Pinging modaliklan.com [63.143.53.2] with 32 bytes of data:
+Reply from 63.143.53.2: bytes=32 time=1458ms TTL=49
+Reply from 63.143.53.2: bytes=32 time=1454ms TTL=49
+Reply from 63.143.53.2: bytes=32 time=1572ms TTL=49
+Reply from 63.143.53.2: bytes=32 time=1491ms TTL=49
+
+Ping statistics for 63.143.53.2:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1454ms, Maximum = 1572ms, Average = 1493ms
+
+Pinging mpnrs.com [62.216.176.6] with 32 bytes of data:
+Reply from 62.216.176.6: bytes=32 time=1975ms TTL=44
+Reply from 62.216.176.6: bytes=32 time=1705ms TTL=44
+Reply from 62.216.176.6: bytes=32 time=1952ms TTL=44
+Reply from 62.216.176.6: bytes=32 time=1925ms TTL=44
+
+Ping statistics for 62.216.176.6:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1705ms, Maximum = 1975ms, Average = 1889ms
+
+Pinging mybannermaker.com [173.203.60.42] with 32 bytes of data:
+Reply from 173.203.60.42: bytes=32 time=1603ms TTL=45
+Reply from 173.203.60.42: bytes=32 time=1629ms TTL=45
+Reply from 173.203.60.42: bytes=32 time=1652ms TTL=45
+Reply from 173.203.60.42: bytes=32 time=1369ms TTL=45
+
+Ping statistics for 173.203.60.42:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1369ms, Maximum = 1652ms, Average = 1563ms
+
+Pinging nuansaiklan.com [63.143.53.2] with 32 bytes of data:
+Reply from 63.143.53.2: bytes=32 time=1832ms TTL=49
+Reply from 63.143.53.2: bytes=32 time=1527ms TTL=49
+Reply from 63.143.53.2: bytes=32 time=1328ms TTL=49
+Reply from 63.143.53.2: bytes=32 time=1394ms TTL=49
+
+Ping statistics for 63.143.53.2:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1328ms, Maximum = 1832ms, Average = 1520ms
+
+Pinging numpanglewat.com [103.244.96.12] with 32 bytes of data:
+Reply from 103.244.96.12: bytes=32 time=1489ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=1515ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=1536ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=1625ms TTL=56
+
+Ping statistics for 103.244.96.12:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1489ms, Maximum = 1625ms, Average = 1541ms
+
+Pinging onbux.com [82.98.86.167] with 32 bytes of data:
+Reply from 82.98.86.167: bytes=32 time=2330ms TTL=43
+Reply from 82.98.86.167: bytes=32 time=2556ms TTL=43
+Reply from 82.98.86.167: bytes=32 time=1774ms TTL=43
+Reply from 82.98.86.167: bytes=32 time=1518ms TTL=43
+
+Ping statistics for 82.98.86.167:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1518ms, Maximum = 2556ms, Average = 2044ms
+
+Pinging onclinic24.com [199.180.252.22] with 32 bytes of data:
+Reply from 199.180.252.22: bytes=32 time=1481ms TTL=49
+Reply from 199.180.252.22: bytes=32 time=1365ms TTL=49
+Reply from 199.180.252.22: bytes=32 time=1461ms TTL=49
+Reply from 199.180.252.22: bytes=32 time=1491ms TTL=49
+
+Ping statistics for 199.180.252.22:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1365ms, Maximum = 1491ms, Average = 1449ms
+
+Pinging onedollarptc.com [72.55.137.87] with 32 bytes of data:
+Reply from 72.55.137.87: bytes=32 time=1603ms TTL=46
+Reply from 72.55.137.87: bytes=32 time=1855ms TTL=46
+Reply from 72.55.137.87: bytes=32 time=1813ms TTL=46
+Reply from 72.55.137.87: bytes=32 time=1594ms TTL=46
+
+Ping statistics for 72.55.137.87:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1594ms, Maximum = 1855ms, Average = 1716ms
+
+Pinging optimsystems.org [79.143.189.78] with 32 bytes of data:
+Reply from 79.143.189.78: bytes=32 time=1788ms TTL=47
+Reply from 79.143.189.78: bytes=32 time=1365ms TTL=47
+Reply from 79.143.189.78: bytes=32 time=1829ms TTL=47
+Reply from 79.143.189.78: bytes=32 time=1797ms TTL=47
+
+Ping statistics for 79.143.189.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1365ms, Maximum = 1829ms, Average = 1694ms
+
+Pinging paidforfree.com [108.160.158.103] with 32 bytes of data:
+Reply from 108.160.158.103: bytes=32 time=2133ms TTL=45
+Reply from 108.160.158.103: bytes=32 time=2409ms TTL=45
+Reply from 108.160.158.103: bytes=32 time=2363ms TTL=45
+Reply from 108.160.158.103: bytes=32 time=819ms TTL=45
+
+Ping statistics for 108.160.158.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 819ms, Maximum = 2409ms, Average = 1931ms
+
+Pinging paidtoclick.com [206.108.55.251] with 32 bytes of data:
+Reply from 206.108.55.251: bytes=32 time=1333ms TTL=53
+Reply from 206.108.55.251: bytes=32 time=1102ms TTL=53
+Reply from 206.108.55.251: bytes=32 time=1804ms TTL=53
+Reply from 206.108.55.251: bytes=32 time=1999ms TTL=53
+
+Ping statistics for 206.108.55.251:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1102ms, Maximum = 1999ms, Average = 1559ms
+
+Pinging paneniklan.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=1960ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=2172ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=1616ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=1208ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1208ms, Maximum = 2172ms, Average = 1739ms
+
+Pinging papan-iklan.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=1728ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=1671ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=1761ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=2088ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1671ms, Maximum = 2088ms, Average = 1812ms
+
+Pinging pasang-iklan.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=2070ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1640ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1195ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1543ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1195ms, Maximum = 2070ms, Average = 1612ms
+
+Pinging pasang-iklanbaris.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=1842ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1907ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1914ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=2076ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1842ms, Maximum = 2076ms, Average = 1934ms
+
+Pinging pasang-iklangratis.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=2039ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1930ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1826ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1873ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1826ms, Maximum = 2039ms, Average = 1917ms
+
+Pinging pasanggratisiklan.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=2397ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=2262ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1743ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1829ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1743ms, Maximum = 2397ms, Average = 2057ms
+
+Pinging pasangiklan.com [202.146.4.153] with 32 bytes of data:
+Reply from 202.146.4.153: bytes=32 time=2243ms TTL=57
+Reply from 202.146.4.153: bytes=32 time=2368ms TTL=57
+Reply from 202.146.4.153: bytes=32 time=1565ms TTL=57
+Reply from 202.146.4.153: bytes=32 time=1310ms TTL=57
+
+Ping statistics for 202.146.4.153:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1310ms, Maximum = 2368ms, Average = 1871ms
+
+Pinging pasangiklanbaris.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=1131ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1200ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1490ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1621ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1131ms, Maximum = 1621ms, Average = 1360ms
+
+Pinging pasangiklanbaris.net [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=1426ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1803ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=2038ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1752ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1426ms, Maximum = 2038ms, Average = 1754ms
+
+Pinging pasangiklanbarisgratis.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=1072ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1208ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1082ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1126ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1072ms, Maximum = 1208ms, Average = 1122ms
+
+Pinging pasangiklanbarisgratis.net [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=1060ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=854ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1163ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1275ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 854ms, Maximum = 1275ms, Average = 1088ms
+
+Pinging pasangiklanbarisgratis.org [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=1306ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1089ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1151ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1393ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1089ms, Maximum = 1393ms, Average = 1234ms
+
+Pinging pasangiklangratis.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=1163ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1139ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1150ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1175ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1139ms, Maximum = 1175ms, Average = 1156ms
+
+Pinging pasangiklangratis.org [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=1159ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1160ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1183ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1173ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1159ms, Maximum = 1183ms, Average = 1168ms
+
+Pinging pasangiklangratisbaris.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=1212ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1223ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1182ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1139ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1139ms, Maximum = 1223ms, Average = 1189ms
+
+Pinging pasangiklangratisbaris.net [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=1161ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1181ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1162ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=1161ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1161ms, Maximum = 1181ms, Average = 1166ms
+
+Pinging pasangiklanku.com [67.215.65.132] with 32 bytes of data:
+Reply from 67.215.65.132: bytes=32 time=1204ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=1189ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=1174ms TTL=57
+Reply from 67.215.65.132: bytes=32 time=1201ms TTL=57
+
+Ping statistics for 67.215.65.132:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1174ms, Maximum = 1204ms, Average = 1192ms
+
+Pinging pasangiklanmu.com [175.103.48.213] with 32 bytes of data:
+Reply from 175.103.48.213: bytes=32 time=1160ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=1194ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=1244ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=1245ms TTL=56
+
+Ping statistics for 175.103.48.213:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1160ms, Maximum = 1245ms, Average = 1210ms
+
+Pinging pasariklanbaris.com [103.244.96.12] with 32 bytes of data:
+Reply from 103.244.96.12: bytes=32 time=1225ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=1212ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=1375ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=1697ms TTL=56
+
+Ping statistics for 103.244.96.12:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1212ms, Maximum = 1697ms, Average = 1377ms
+
+Pinging paypalbisnis.com [174.120.138.94] with 32 bytes of data:
+Reply from 174.120.138.94: bytes=32 time=1794ms TTL=45
+Reply from 174.120.138.94: bytes=32 time=1750ms TTL=45
+Reply from 174.120.138.94: bytes=32 time=1572ms TTL=45
+Reply from 174.120.138.94: bytes=32 time=1571ms TTL=45
+
+Ping statistics for 174.120.138.94:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1571ms, Maximum = 1794ms, Average = 1671ms
+
+Pinging paypopup.com [199.21.148.39] with 32 bytes of data:
+Reply from 199.21.148.39: bytes=32 time=1548ms TTL=50
+Reply from 199.21.148.39: bytes=32 time=816ms TTL=50
+Reply from 199.21.148.39: bytes=32 time=299ms TTL=50
+Reply from 199.21.148.39: bytes=32 time=299ms TTL=50
+
+Ping statistics for 199.21.148.39:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 299ms, Maximum = 1548ms, Average = 740ms
+
+Pinging peluangbisnis.org [192.232.218.89] with 32 bytes of data:
+Reply from 192.232.218.89: bytes=32 time=360ms TTL=54
+Reply from 192.232.218.89: bytes=32 time=496ms TTL=54
+Reply from 192.232.218.89: bytes=32 time=575ms TTL=54
+Reply from 192.232.218.89: bytes=32 time=448ms TTL=54
+
+Ping statistics for 192.232.218.89:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 360ms, Maximum = 575ms, Average = 469ms
+
+Pinging pondokiklan.com [174.142.215.25] with 32 bytes of data:
+Reply from 174.142.215.25: bytes=32 time=744ms TTL=45
+Reply from 174.142.215.25: bytes=32 time=419ms TTL=45
+Reply from 174.142.215.25: bytes=32 time=415ms TTL=45
+Reply from 174.142.215.25: bytes=32 time=329ms TTL=45
+
+Ping statistics for 174.142.215.25:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 329ms, Maximum = 744ms, Average = 476ms
+
+Pinging popupmoney.com [95.211.76.57] with 32 bytes of data:
+Reply from 95.211.76.57: bytes=32 time=420ms TTL=49
+Reply from 95.211.76.57: bytes=32 time=411ms TTL=49
+Reply from 95.211.76.57: bytes=32 time=694ms TTL=49
+Reply from 95.211.76.57: bytes=32 time=856ms TTL=49
+
+Ping statistics for 95.211.76.57:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 411ms, Maximum = 856ms, Average = 595ms
+
+Pinging portaliklan.com [208.91.197.104] with 32 bytes of data:
+Reply from 208.91.197.104: bytes=32 time=809ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=853ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=762ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=410ms TTL=236
+
+Ping statistics for 208.91.197.104:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 410ms, Maximum = 853ms, Average = 708ms
+
+Pinging poweredprofits.com [208.91.197.67] with 32 bytes of data:
+Reply from 208.91.197.67: bytes=32 time=900ms TTL=236
+Reply from 208.91.197.67: bytes=32 time=785ms TTL=236
+Reply from 208.91.197.67: bytes=32 time=844ms TTL=236
+Reply from 208.91.197.67: bytes=32 time=830ms TTL=236
+
+Ping statistics for 208.91.197.67:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 785ms, Maximum = 900ms, Average = 839ms
+
+Pinging ppcinbox.com [208.87.35.103] with 32 bytes of data:
+Reply from 208.87.35.103: bytes=32 time=934ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=1356ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=1134ms TTL=40
+Reply from 208.87.35.103: bytes=32 time=1127ms TTL=40
+
+Ping statistics for 208.87.35.103:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 934ms, Maximum = 1356ms, Average = 1137ms
+
+Pinging ppcindonesia.net [82.98.86.170] with 32 bytes of data:
+Reply from 82.98.86.170: bytes=32 time=1815ms TTL=43
+Reply from 82.98.86.170: bytes=32 time=1489ms TTL=43
+Reply from 82.98.86.170: bytes=32 time=1444ms TTL=43
+Reply from 82.98.86.170: bytes=32 time=1392ms TTL=43
+
+Ping statistics for 82.98.86.170:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1392ms, Maximum = 1815ms, Average = 1535ms
+
+Pinging promobagus.com [67.222.2.44] with 32 bytes of data:
+Reply from 67.222.2.44: bytes=32 time=1442ms TTL=49
+Reply from 67.222.2.44: bytes=32 time=923ms TTL=49
+Reply from 67.222.2.44: bytes=32 time=697ms TTL=49
+Reply from 67.222.2.44: bytes=32 time=516ms TTL=49
+
+Ping statistics for 67.222.2.44:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 516ms, Maximum = 1442ms, Average = 894ms
+
+Pinging promojunkie.com [50.63.202.88] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 50.63.202.88:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging promosiiklan.com [175.103.48.212] with 32 bytes of data:
+Reply from 175.103.48.212: bytes=32 time=33ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=30ms TTL=56
+Reply from 175.103.48.212: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.212:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 33ms, Average = 31ms
+
+Pinging promotioncamp.com [46.137.241.89] with 32 bytes of data:
+Reply from 46.137.241.89: bytes=32 time=52ms TTL=52
+Reply from 46.137.241.89: bytes=32 time=52ms TTL=52
+Reply from 46.137.241.89: bytes=32 time=51ms TTL=52
+Reply from 46.137.241.89: bytes=32 time=52ms TTL=52
+
+Ping statistics for 46.137.241.89:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 51ms, Maximum = 52ms, Average = 51ms
+
+Pinging prophetofdoom.net [72.32.147.134] with 32 bytes of data:
+Reply from 72.32.147.134: bytes=32 time=260ms TTL=47
+Reply from 72.32.147.134: bytes=32 time=260ms TTL=47
+Reply from 72.32.147.134: bytes=32 time=260ms TTL=47
+Reply from 72.32.147.134: bytes=32 time=261ms TTL=47
+
+Ping statistics for 72.32.147.134:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 260ms, Maximum = 261ms, Average = 260ms
+
+Pinging publish.web.id [202.52.146.53] with 32 bytes of data:
+Reply from 202.52.146.53: bytes=32 time=36ms TTL=57
+Reply from 202.52.146.53: bytes=32 time=30ms TTL=57
+Reply from 202.52.146.53: bytes=32 time=30ms TTL=57
+Reply from 202.52.146.53: bytes=32 time=30ms TTL=57
+
+Ping statistics for 202.52.146.53:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 36ms, Average = 31ms
+
+Pinging pundibux.net [209.99.40.221] with 32 bytes of data:
+Reply from 209.99.40.221: bytes=32 time=257ms TTL=236
+Reply from 209.99.40.221: bytes=32 time=261ms TTL=236
+Reply from 209.99.40.221: bytes=32 time=259ms TTL=236
+Reply from 209.99.40.221: bytes=32 time=264ms TTL=236
+
+Ping statistics for 209.99.40.221:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 257ms, Maximum = 264ms, Average = 260ms
+
+Pinging pusatiklan.com [103.244.96.12] with 32 bytes of data:
+Reply from 103.244.96.12: bytes=32 time=31ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=32ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=30ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=32ms TTL=56
+
+Ping statistics for 103.244.96.12:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 32ms, Average = 31ms
+
+Pinging pusatmarketing.com [202.52.146.42] with 32 bytes of data:
+Reply from 202.52.146.42: bytes=32 time=30ms TTL=57
+Reply from 202.52.146.42: bytes=32 time=29ms TTL=57
+Reply from 202.52.146.42: bytes=32 time=30ms TTL=57
+Reply from 202.52.146.42: bytes=32 time=30ms TTL=57
+
+Ping statistics for 202.52.146.42:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 29ms, Maximum = 30ms, Average = 29ms
+
+Pinging pusatpromosiiklan.com [175.103.48.213] with 32 bytes of data:
+Reply from 175.103.48.213: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=33ms TTL=56
+Reply from 175.103.48.213: bytes=32 time=32ms TTL=56
+
+Ping statistics for 175.103.48.213:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 33ms, Average = 31ms
+
+Pinging rahasiapanas.com [141.101.117.48] with 32 bytes of data:
+Reply from 141.101.117.48: bytes=32 time=50ms TTL=57
+Reply from 141.101.117.48: bytes=32 time=50ms TTL=57
+Reply from 141.101.117.48: bytes=32 time=52ms TTL=57
+Reply from 141.101.117.48: bytes=32 time=51ms TTL=57
+
+Ping statistics for 141.101.117.48:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 52ms, Average = 50ms
+
+Pinging ratubola.com [141.101.116.70] with 32 bytes of data:
+Reply from 141.101.116.70: bytes=32 time=48ms TTL=57
+Reply from 141.101.116.70: bytes=32 time=49ms TTL=57
+Reply from 141.101.116.70: bytes=32 time=49ms TTL=57
+Reply from 141.101.116.70: bytes=32 time=49ms TTL=57
+
+Ping statistics for 141.101.116.70:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 48ms, Maximum = 49ms, Average = 48ms
+
+Pinging referral-secrets.com [207.7.94.28] with 32 bytes of data:
+Reply from 207.7.94.28: bytes=32 time=209ms TTL=51
+Reply from 207.7.94.28: bytes=32 time=209ms TTL=51
+Reply from 207.7.94.28: bytes=32 time=210ms TTL=51
+Reply from 207.7.94.28: bytes=32 time=209ms TTL=51
+
+Ping statistics for 207.7.94.28:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 209ms, Maximum = 210ms, Average = 209ms
+
+Pinging ro2.biz [85.204.22.24] with 32 bytes of data:
+Reply from 85.204.22.24: bytes=32 time=411ms TTL=46
+Reply from 85.204.22.24: bytes=32 time=411ms TTL=46
+Reply from 85.204.22.24: bytes=32 time=412ms TTL=46
+Reply from 85.204.22.24: bytes=32 time=412ms TTL=46
+
+Ping statistics for 85.204.22.24:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 411ms, Maximum = 412ms, Average = 411ms
+
+Pinging trafficfactory.biz [67.215.65.130] with 32 bytes of data:
+Reply from 67.215.65.130: bytes=32 time=52ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=51ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=51ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=49ms TTL=57
+
+Ping statistics for 67.215.65.130:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 49ms, Maximum = 52ms, Average = 50ms
+
+Pinging ruangbisnis.com [64.95.64.218] with 32 bytes of data:
+Reply from 64.95.64.218: bytes=32 time=300ms TTL=45
+Reply from 64.95.64.218: bytes=32 time=300ms TTL=45
+Reply from 64.95.64.218: bytes=32 time=300ms TTL=45
+Reply from 64.95.64.218: bytes=32 time=300ms TTL=45
+
+Ping statistics for 64.95.64.218:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 300ms, Maximum = 300ms, Average = 300ms
+
+Pinging rupiahbux.com [208.91.197.104] with 32 bytes of data:
+Reply from 208.91.197.104: bytes=32 time=259ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=265ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=267ms TTL=236
+Reply from 208.91.197.104: bytes=32 time=256ms TTL=236
+
+Ping statistics for 208.91.197.104:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 256ms, Maximum = 267ms, Average = 261ms
+
+Pinging sanglah.com [175.103.48.220] with 32 bytes of data:
+Reply from 175.103.48.220: bytes=32 time=30ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=32ms TTL=56
+Reply from 175.103.48.220: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.220:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 30ms, Maximum = 32ms, Average = 31ms
+
+Pinging sbbanner.com [204.152.240.149] with 32 bytes of data:
+Reply from 204.152.240.149: bytes=32 time=265ms TTL=113
+Reply from 204.152.240.149: bytes=32 time=265ms TTL=113
+Reply from 204.152.240.149: bytes=32 time=264ms TTL=113
+Reply from 204.152.240.149: bytes=32 time=264ms TTL=113
+
+Ping statistics for 204.152.240.149:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 264ms, Maximum = 265ms, Average = 264ms
+
+Pinging sebar.idblognetwork.com [199.195.197.117] with 32 bytes of data:
+Reply from 199.195.197.117: bytes=32 time=285ms TTL=47
+Reply from 199.195.197.117: bytes=32 time=285ms TTL=47
+Reply from 199.195.197.117: bytes=32 time=286ms TTL=47
+Reply from 199.195.197.117: bytes=32 time=286ms TTL=47
+
+Ping statistics for 199.195.197.117:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 285ms, Maximum = 286ms, Average = 285ms
+
+Pinging sentra-iklan.com [69.43.161.174] with 32 bytes of data:
+Reply from 69.43.161.174: bytes=32 time=235ms TTL=50
+Reply from 69.43.161.174: bytes=32 time=236ms TTL=50
+Reply from 69.43.161.174: bytes=32 time=236ms TTL=50
+Reply from 69.43.161.174: bytes=32 time=235ms TTL=50
+
+Ping statistics for 69.43.161.174:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 235ms, Maximum = 236ms, Average = 235ms
+
+Pinging sentrapromosi.com [103.244.96.14] with 32 bytes of data:
+Reply from 103.244.96.14: bytes=32 time=32ms TTL=56
+Reply from 103.244.96.14: bytes=32 time=31ms TTL=56
+Reply from 103.244.96.14: bytes=32 time=31ms TTL=56
+Reply from 103.244.96.14: bytes=32 time=31ms TTL=56
+
+Ping statistics for 103.244.96.14:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 32ms, Average = 31ms
+
+Pinging serbapromo.com [216.239.34.21] with 32 bytes of data:
+Reply from 216.239.34.21: bytes=32 time=61ms TTL=50
+Reply from 216.239.34.21: bytes=32 time=61ms TTL=50
+Reply from 216.239.34.21: bytes=32 time=62ms TTL=50
+Reply from 216.239.34.21: bytes=32 time=58ms TTL=50
+
+Ping statistics for 216.239.34.21:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 58ms, Maximum = 62ms, Average = 60ms
+
+Pinging sharepointads.com [209.123.93.133] with 32 bytes of data:
+Reply from 209.123.93.133: bytes=32 time=304ms TTL=44
+Reply from 209.123.93.133: bytes=32 time=304ms TTL=44
+Reply from 209.123.93.133: bytes=32 time=362ms TTL=44
+Reply from 209.123.93.133: bytes=32 time=303ms TTL=44
+
+Ping statistics for 209.123.93.133:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 303ms, Maximum = 362ms, Average = 318ms
+
+Pinging sitipromo.web.id [67.215.66.132] with 32 bytes of data:
+Reply from 67.215.66.132: bytes=32 time=46ms TTL=57
+Reply from 67.215.66.132: bytes=32 time=98ms TTL=57
+Reply from 67.215.66.132: bytes=32 time=46ms TTL=57
+Reply from 67.215.66.132: bytes=32 time=46ms TTL=57
+
+Ping statistics for 67.215.66.132:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 46ms, Maximum = 98ms, Average = 59ms
+
+Pinging sitti.co.id [202.52.131.25] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 202.52.131.25:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging situsbet.com [67.215.65.130] with 32 bytes of data:
+Reply from 67.215.65.130: bytes=32 time=51ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=51ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=52ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=51ms TTL=57
+
+Ping statistics for 67.215.65.130:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 51ms, Maximum = 52ms, Average = 51ms
+
+Pinging situsiklan.web.id [103.23.201.146] with 32 bytes of data:
+Reply from 103.23.201.146: bytes=32 time=29ms TTL=58
+Reply from 103.23.201.146: bytes=32 time=29ms TTL=58
+Reply from 103.23.201.146: bytes=32 time=31ms TTL=58
+Reply from 103.23.201.146: bytes=32 time=29ms TTL=58
+
+Ping statistics for 103.23.201.146:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 29ms, Maximum = 31ms, Average = 29ms
+
+Pinging situsiklanbaris.com [175.103.48.204] with 32 bytes of data:
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+Reply from 175.103.48.204: bytes=32 time=31ms TTL=56
+
+Ping statistics for 175.103.48.204:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging situsjudi.com [192.184.9.125] with 32 bytes of data:
+Reply from 192.184.9.125: bytes=32 time=243ms TTL=50
+Reply from 192.184.9.125: bytes=32 time=244ms TTL=50
+Reply from 192.184.9.125: bytes=32 time=254ms TTL=50
+Reply from 192.184.9.125: bytes=32 time=263ms TTL=50
+
+Ping statistics for 192.184.9.125:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 243ms, Maximum = 263ms, Average = 251ms
+
+Pinging smart-iklan.com [58.27.56.208] with 32 bytes of data:
+Reply from 58.27.56.208: bytes=32 time=324ms TTL=52
+Reply from 58.27.56.208: bytes=32 time=334ms TTL=52
+Reply from 58.27.56.208: bytes=32 time=340ms TTL=52
+Reply from 58.27.56.208: bytes=32 time=326ms TTL=52
+
+Ping statistics for 58.27.56.208:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 324ms, Maximum = 340ms, Average = 331ms
+
+Pinging sogoplaza.com [192.185.117.175] with 32 bytes of data:
+Reply from 192.185.117.175: bytes=32 time=278ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=278ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=278ms TTL=50
+Reply from 192.185.117.175: bytes=32 time=278ms TTL=50
+
+Ping statistics for 192.185.117.175:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 278ms, Maximum = 278ms, Average = 278ms
+
+Pinging sumberiklan.com [103.11.132.39] with 32 bytes of data:
+Reply from 103.11.132.39: bytes=32 time=43ms TTL=55
+Reply from 103.11.132.39: bytes=32 time=66ms TTL=55
+Reply from 103.11.132.39: bytes=32 time=47ms TTL=55
+Reply from 103.11.132.39: bytes=32 time=43ms TTL=55
+
+Ping statistics for 103.11.132.39:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 43ms, Maximum = 66ms, Average = 49ms
+
+Pinging suryaiklan.com [180.210.207.133] with 32 bytes of data:
+Reply from 180.210.207.133: bytes=32 time=48ms TTL=56
+Reply from 180.210.207.133: bytes=32 time=47ms TTL=56
+Reply from 180.210.207.133: bytes=32 time=47ms TTL=56
+Reply from 180.210.207.133: bytes=32 time=47ms TTL=56
+
+Ping statistics for 180.210.207.133:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 47ms, Maximum = 48ms, Average = 47ms
+
+Pinging tangkasindo.com [216.120.248.224] with 32 bytes of data:
+Reply from 216.120.248.224: bytes=32 time=302ms TTL=48
+Reply from 216.120.248.224: bytes=32 time=302ms TTL=48
+Reply from 216.120.248.224: bytes=32 time=302ms TTL=48
+Reply from 216.120.248.224: bytes=32 time=303ms TTL=48
+
+Ping statistics for 216.120.248.224:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 302ms, Maximum = 303ms, Average = 302ms
+
+Pinging teknikbisnis.com [180.235.150.246] with 32 bytes of data:
+Reply from 180.235.150.246: bytes=32 time=33ms TTL=58
+Reply from 180.235.150.246: bytes=32 time=34ms TTL=58
+Reply from 180.235.150.246: bytes=32 time=34ms TTL=58
+Reply from 180.235.150.246: bytes=32 time=32ms TTL=58
+
+Ping statistics for 180.235.150.246:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 34ms, Average = 33ms
+
+Pinging teliad.com [178.77.91.4] with 32 bytes of data:
+Reply from 178.77.91.4: bytes=32 time=406ms TTL=48
+Reply from 178.77.91.4: bytes=32 time=393ms TTL=48
+Reply from 178.77.91.4: bytes=32 time=406ms TTL=48
+Reply from 178.77.91.4: bytes=32 time=404ms TTL=48
+
+Ping statistics for 178.77.91.4:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 393ms, Maximum = 406ms, Average = 402ms
+
+Pinging tempatiklan.com [103.244.96.12] with 32 bytes of data:
+Reply from 103.244.96.12: bytes=32 time=32ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=31ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=32ms TTL=56
+Reply from 103.244.96.12: bytes=32 time=31ms TTL=56
+
+Ping statistics for 103.244.96.12:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 32ms, Average = 31ms
+
+Pinging texasptc.com [216.14.124.80] with 32 bytes of data:
+Reply from 216.14.124.80: bytes=32 time=271ms TTL=47
+Reply from 216.14.124.80: bytes=32 time=271ms TTL=47
+Reply from 216.14.124.80: bytes=32 time=271ms TTL=47
+Reply from 216.14.124.80: bytes=32 time=270ms TTL=47
+
+Ping statistics for 216.14.124.80:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 270ms, Maximum = 271ms, Average = 270ms
+
+Pinging textlinksdepot.com [64.85.168.197] with 32 bytes of data:
+Reply from 64.85.168.197: bytes=32 time=317ms TTL=46
+Reply from 64.85.168.197: bytes=32 time=317ms TTL=46
+Reply from 64.85.168.197: bytes=32 time=318ms TTL=46
+Reply from 64.85.168.197: bytes=32 time=317ms TTL=46
+
+Ping statistics for 64.85.168.197:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 317ms, Maximum = 318ms, Average = 317ms
+
+Pinging textspace.net [216.224.169.215] with 32 bytes of data:
+Reply from 216.224.169.215: bytes=32 time=319ms TTL=49
+Reply from 216.224.169.215: bytes=32 time=320ms TTL=49
+Reply from 216.224.169.215: bytes=32 time=361ms TTL=49
+Reply from 216.224.169.215: bytes=32 time=308ms TTL=49
+
+Ping statistics for 216.224.169.215:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 308ms, Maximum = 361ms, Average = 327ms
+
+Pinging theclickers.net [168.144.159.35] with 32 bytes of data:
+Reply from 168.144.159.35: bytes=32 time=299ms TTL=48
+Reply from 168.144.159.35: bytes=32 time=298ms TTL=48
+Reply from 168.144.159.35: bytes=32 time=297ms TTL=48
+Reply from 168.144.159.35: bytes=32 time=298ms TTL=48
+
+Ping statistics for 168.144.159.35:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 297ms, Maximum = 299ms, Average = 298ms
+
+Pinging tinggalklik.com [46.23.76.5] with 32 bytes of data:
+Reply from 46.23.76.5: bytes=32 time=382ms TTL=49
+Reply from 46.23.76.5: bytes=32 time=381ms TTL=49
+Reply from 46.23.76.5: bytes=32 time=383ms TTL=49
+Reply from 46.23.76.5: bytes=32 time=388ms TTL=49
+
+Ping statistics for 46.23.76.5:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 381ms, Maximum = 388ms, Average = 383ms
+
+Pinging topklik.com [66.33.212.226] with 32 bytes of data:
+Reply from 66.33.212.226: bytes=32 time=291ms TTL=45
+Reply from 66.33.212.226: bytes=32 time=289ms TTL=45
+Reply from 66.33.212.226: bytes=32 time=289ms TTL=45
+Reply from 66.33.212.226: bytes=32 time=290ms TTL=45
+
+Ping statistics for 66.33.212.226:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 289ms, Maximum = 291ms, Average = 289ms
+
+Pinging topskor.us [180.210.207.225] with 32 bytes of data:
+Reply from 180.210.207.225: bytes=32 time=51ms TTL=56
+Reply from 180.210.207.225: bytes=32 time=51ms TTL=56
+Reply from 180.210.207.225: bytes=32 time=51ms TTL=56
+Reply from 180.210.207.225: bytes=32 time=53ms TTL=56
+
+Ping statistics for 180.210.207.225:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 51ms, Maximum = 53ms, Average = 51ms
+
+Pinging topsurfer.com [208.53.40.3] with 32 bytes of data:
+Reply from 208.53.40.3: bytes=32 time=242ms TTL=51
+Reply from 208.53.40.3: bytes=32 time=242ms TTL=51
+Reply from 208.53.40.3: bytes=32 time=241ms TTL=51
+Reply from 208.53.40.3: bytes=32 time=243ms TTL=51
+
+Ping statistics for 208.53.40.3:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 241ms, Maximum = 243ms, Average = 242ms
+
+Pinging tri7bet.com [67.215.65.130] with 32 bytes of data:
+Reply from 67.215.65.130: bytes=32 time=51ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=52ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=51ms TTL=57
+Reply from 67.215.65.130: bytes=32 time=51ms TTL=57
+
+Ping statistics for 67.215.65.130:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 51ms, Maximum = 52ms, Average = 51ms
+
+Pinging u1win.com [198.57.242.90] with 32 bytes of data:
+Reply from 198.57.242.90: bytes=32 time=242ms TTL=54
+Reply from 198.57.242.90: bytes=32 time=244ms TTL=54
+Reply from 198.57.242.90: bytes=32 time=243ms TTL=54
+Reply from 198.57.242.90: bytes=32 time=244ms TTL=54
+
+Ping statistics for 198.57.242.90:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 242ms, Maximum = 244ms, Average = 243ms
+
+Pinging unobux.com [141.8.224.185] with 32 bytes of data:
+Reply from 141.8.224.185: bytes=32 time=279ms TTL=236
+Reply from 141.8.224.185: bytes=32 time=271ms TTL=236
+Reply from 141.8.224.185: bytes=32 time=273ms TTL=236
+Reply from 141.8.224.185: bytes=32 time=273ms TTL=236
+
+Ping statistics for 141.8.224.185:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 271ms, Maximum = 279ms, Average = 274ms
+
+Pinging usahaberhasil.com [108.162.198.250] with 32 bytes of data:
+Reply from 108.162.198.250: bytes=32 time=48ms TTL=57
+Reply from 108.162.198.250: bytes=32 time=49ms TTL=57
+Reply from 108.162.198.250: bytes=32 time=47ms TTL=57
+Reply from 108.162.198.250: bytes=32 time=51ms TTL=57
+
+Ping statistics for 108.162.198.250:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 47ms, Maximum = 51ms, Average = 48ms
+
+Pinging useads.com [192.185.16.122] with 32 bytes of data:
+Reply from 192.185.16.122: bytes=32 time=278ms TTL=50
+Reply from 192.185.16.122: bytes=32 time=278ms TTL=50
+Reply from 192.185.16.122: bytes=32 time=278ms TTL=50
+Reply from 192.185.16.122: bytes=32 time=278ms TTL=50
+
+Ping statistics for 192.185.16.122:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 278ms, Maximum = 278ms, Average = 278ms
+
+Pinging webbola.com [173.254.217.85] with 32 bytes of data:
+Reply from 173.254.217.85: bytes=32 time=223ms TTL=54
+Reply from 173.254.217.85: bytes=32 time=223ms TTL=54
+Reply from 173.254.217.85: bytes=32 time=224ms TTL=54
+Reply from 173.254.217.85: bytes=32 time=223ms TTL=54
+
+Ping statistics for 173.254.217.85:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 223ms, Maximum = 224ms, Average = 223ms
+
+Pinging webiklan.com [202.59.161.205] with 32 bytes of data:
+Reply from 202.59.161.205: bytes=32 time=29ms TTL=57
+Reply from 202.59.161.205: bytes=32 time=30ms TTL=57
+Reply from 202.59.161.205: bytes=32 time=29ms TTL=57
+Reply from 202.59.161.205: bytes=32 time=28ms TTL=57
+
+Ping statistics for 202.59.161.205:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 28ms, Maximum = 30ms, Average = 29ms
+
+Pinging weblogiklan.com [69.43.161.155] with 32 bytes of data:
+Reply from 69.43.161.155: bytes=32 time=253ms TTL=50
+Reply from 69.43.161.155: bytes=32 time=253ms TTL=50
+Reply from 69.43.161.155: bytes=32 time=252ms TTL=50
+Reply from 69.43.161.155: bytes=32 time=252ms TTL=50
+
+Ping statistics for 69.43.161.155:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 252ms, Maximum = 253ms, Average = 252ms
+
+Pinging yesads.com [199.21.148.10] with 32 bytes of data:
+Reply from 199.21.148.10: bytes=32 time=291ms TTL=50
+Reply from 199.21.148.10: bytes=32 time=288ms TTL=50
+Reply from 199.21.148.10: bytes=32 time=289ms TTL=50
+Reply from 199.21.148.10: bytes=32 time=289ms TTL=50
+
+Ping statistics for 199.21.148.10:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 288ms, Maximum = 291ms, Average = 289ms
