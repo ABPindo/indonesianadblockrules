@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 19 November 2013, 20:30:10 WIB
+# Last modified: 23 November 2013, 07:11:13 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -47,6 +47,7 @@ msFilterList
 # ##.semprot_ads
 # ##.topadsense
 # *** abpindo_thirdparty.txt ***
+# ||108.168.231.179^$popup,third-party
 - http://1iklanbaris.com
 - http://1jutarupiah.com
 - http://1st-iklan.com
@@ -364,6 +365,7 @@ msFilterList
 -d ceriwis.us /banner/
 # ||coblos.net^*.swf$domain=bintangmawar.net
 -d detik.com /images/banners/
+-d dinastybet.com /banner/
 -d dixam.net /banner/
 -d dorabet.net /banner/
 -d drtuber.com /templates/drtuber/js/adx_flash_embed.js?
@@ -445,15 +447,16 @@ msFilterList
 -d videogamesindonesia.com /banners/
 -d viva.co.id /appaux/images/close-button1.png
 -d widih.modifikasi.com /images/banners/
+-d zonabola.com /wp-content/uploads/*/Banner-
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
 # wowkeren.com###Ad728
 # lintas.me###Advertisement
 # ic31linkpage.com,icinema3satu.com###FloatAlamindawa
 # indogamers.com###IklanIDGS
-# krucil.com,krucil.net###KD_adpB
+# 173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net###KD_adpB
 # chip.co.id###TopBannerBg
-# forumbokep.com,idfl.us,kampus.us,krucil.com,krucil.net,sodasusu.com###ad_global_below_navbar
+# 173.199.167.192,berang.us,forumbokep.com,indofiles.web.id,kampus.us,kikil.org,kikil.ws,krucil.com,krucil.net,sodasusu.com###ad_global_below_navbar
 # harianjogja.com,solopos.com###ads-float
 # dapurpacu.com###ads-mid
 # downloadfilmbaru.com###ads-stack
@@ -468,15 +471,13 @@ msFilterList
 # detik.com###bottom_banner
 # indogamers.com###bottombanner
 # adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
-# koranseksi.com,movie76.com###close-teaser
+# movie76.com###close-teaser
 # kampus.us###elementDiv
 # lintas.me###facebox_overlay
 # teknoup.com###fancybox-wrap
 # teknoup.com###fancybox_ajax
 # metrotvnews.com###fixme
-# 173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###floatdiv.notice
-# forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
-# ganool.com###floating_banner_bottom2
+# berang.us,forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
 # untukku.com###footer-adcont
 # ketubanjiwa.com###g207
 # resep.web.id###googlebox
@@ -484,7 +485,7 @@ msFilterList
 # ceriwis.us###hoho-wrapsubmenu3
 # remo-xp.com###ikanan
 # remo-xp.com###ikiri
-# www.ceriwis.com###iklan
+# ceriwis.com###iklan
 # zonamuda.com###iklan1
 # zonamuda.com###iklan2
 # zonamuda.com###iklan3
@@ -497,18 +498,16 @@ msFilterList
 # harakahdaily.net###jsemrp_374_469
 # harakahdaily.net###jsemrp_380_290
 # zonabola.com###lAds img
-# mangafox.me###left-skyscraper
+# komikbaru.com,mangafox.me###left-skyscraper
 # dapurpacu.com###mid-banner
 # zonabola.com###rAds img
 # utusan.com.my###rec_ad4
-# mangafox.me###right-skyscraper
-# downloadmoviesfree.net###samdav-links
-# downloadmoviesfree.net###samdav-loading
-# downloadmoviesfree.net###samdav-locker
-# downloadmoviesfree.net###samdav-wrapper
+# komikbaru.com,mangafox.me###right-skyscraper
 # microsite.kapanlagi.com###scmicrosite
 # lintas.me###showcasedown
 # panduanpercuma.info###sidebar-banner300
+# zonabola.com###simplemodal-container
+# zonabola.com###simplemodal-overlay
 # detik.com###skinad
 # harianjogja.com,solopos.com###solopos_float
 # downloadfilmbaru.com###sticky-ads
@@ -521,8 +520,8 @@ msFilterList
 # bioskopkita.com###topbanner
 # beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
 # serubokep3gp.blogspot.com###tupiklan
-# 173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB
-# 173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpS
+# 173.199.167.192,semprot.com###ucpop_adpB
+# 173.199.167.192,semprot.com###ucpop_adpS
 # kapanlagi.com###v5-leaderboard
 # kapanlagi.com###v5-marcommpromotion
 # kapanlagi.com###v5-showcase1
@@ -533,6 +532,7 @@ msFilterList
 # kapanlagi.com###v7-showcase2
 # kapanlagi.com###v7-showcase3
 # clip.cewecewe.com##.ad
+# komikbaru.com##.ad.b300x250
 # m.kapanlagi.com##.ad2
 # gugling.com##.ad336x280atas
 # mangafox.com##.ad728x90.left + .right
@@ -543,12 +543,12 @@ msFilterList
 # kompas.com##.adsMR1Lipsus1
 # utusan.com.my##.adspace_300
 # m.iklanbaris.detik.com##.adtext01
+# teknoup.com##.advertisement_box1
 # palingseru.com##.alignnone.size-large.wp-image-458
 # metrotvnews.com##.banner-160x600.left.mb20
 # kaskus.co.id##.banner-top-ads
 # oktavita.com##.banner-zone
 # kompas.com##.bannerAdB
-# kikil.org,kikil.ws##.bannerBox
 # kompas.com##.bannerCenter
 # kompas.com##.bannerCenter1SubRubrik
 # kompas.com##.bannerCenter2SubRubrik
@@ -567,7 +567,6 @@ msFilterList
 # zonamuda.com##.bannertengah
 # bharian.com.my##.bh-ad
 # kaskus.co.id##.bottom-frame
-# ibuprita.suatuhari.com##.box > .textwidget > center
 # kompas.com##.boxBannerR1akt
 # kompas.com##.boxSkinAd
 # mforum.cari.com.my##.cari-ads
@@ -579,7 +578,8 @@ msFilterList
 # lintas.me##.column.centered.ad-frame.sc1_top
 # lintas.me##.column.centered.ad-frame.sc2_top
 # dapurpacu.com##.fixed-ads-atas
-# 173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
+# 173.199.167.192,semprot.com##.fixmeInner
+# teknoup.com##.footer_banner
 # catatankomputer.com##.forads
 # warungbebas.com##.gbtab
 # kompas.com##.hAds
@@ -588,8 +588,8 @@ msFilterList
 # komikbaru.com##.iklan_kiri
 # detik.com##.iklan_tengah
 # gambarkeren.info##.iklankotak1
-# kikil.org,kikil.ws##.kikil_ads
-# kikil.org,kikil.ws##.kikil_floating_banner_top
+# berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_ads
+# berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_floating_banner_top
 # kaskus.co.id##.l-link
 # dapurpacu.com##.mid-banner
 # detik.com##.otp_banner_close

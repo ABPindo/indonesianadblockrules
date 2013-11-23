@@ -2,9 +2,9 @@ wowkeren.com###Ad728
 lintas.me###Advertisement
 ic31linkpage.com,icinema3satu.com###FloatAlamindawa
 indogamers.com###IklanIDGS
-krucil.com,krucil.net###KD_adpB
+173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net###KD_adpB
 chip.co.id###TopBannerBg
-forumbokep.com,idfl.us,kampus.us,krucil.com,krucil.net,sodasusu.com###ad_global_below_navbar
+173.199.167.192,berang.us,forumbokep.com,indofiles.web.id,kampus.us,kikil.org,kikil.ws,krucil.com,krucil.net,sodasusu.com###ad_global_below_navbar
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
@@ -19,15 +19,13 @@ tribunnews.com###bannerkubawah
 detik.com###bottom_banner
 indogamers.com###bottombanner
 adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
-koranseksi.com,movie76.com###close-teaser
+movie76.com###close-teaser
 kampus.us###elementDiv
 lintas.me###facebox_overlay
 teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 metrotvnews.com###fixme
-173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###floatdiv.notice
-forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
-ganool.com###floating_banner_bottom2
+berang.us,forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
 untukku.com###footer-adcont
 ketubanjiwa.com###g207
 resep.web.id###googlebox
@@ -49,19 +47,17 @@ harakahdaily.net###jsemrp_373_873
 harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
 zonabola.com###lAds img
-mangafox.me###left-skyscraper
+komikbaru.com,mangafox.me###left-skyscraper
 asik.me,duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
 zonabola.com###rAds img
 utusan.com.my###rec_ad4
-mangafox.me###right-skyscraper
-downloadmoviesfree.net###samdav-links
-downloadmoviesfree.net###samdav-loading
-downloadmoviesfree.net###samdav-locker
-downloadmoviesfree.net###samdav-wrapper
+komikbaru.com,mangafox.me###right-skyscraper
 microsite.kapanlagi.com###scmicrosite
 lintas.me###showcasedown
 panduanpercuma.info###sidebar-banner300
+zonabola.com###simplemodal-container
+zonabola.com###simplemodal-overlay
 detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
@@ -73,10 +69,9 @@ m.detik.com###top
 detik.com###top_banner
 bioskopkita.com###topbanner
 beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
-thehack3r.com###topbar[style="visibility: visible; left: 33px; top: 50px;"]
 serubokep3gp.blogspot.com###tupiklan
-173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpB
-173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com###ucpop_adpS
+173.199.167.192,semprot.com###ucpop_adpB
+173.199.167.192,semprot.com###ucpop_adpS
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v5-marcommpromotion
 kapanlagi.com###v5-showcase1
@@ -87,6 +82,7 @@ kapanlagi.com###v7-showcase1
 kapanlagi.com###v7-showcase2
 kapanlagi.com###v7-showcase3
 clip.cewecewe.com##.ad
+komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
 gugling.com##.ad336x280atas
 mangafox.com##.ad728x90.left + .right
@@ -97,13 +93,12 @@ dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
 utusan.com.my##.adspace_300
 m.iklanbaris.detik.com##.adtext01
+teknoup.com##.advertisement_box1
 palingseru.com##.alignnone.size-large.wp-image-458
 metrotvnews.com##.banner-160x600.left.mb20
-ganool.com##.banner-right.clearfix[style="width:270px;"]
 kaskus.co.id##.banner-top-ads
 oktavita.com##.banner-zone
 kompas.com##.bannerAdB
-kikil.org,kikil.ws##.bannerBox
 kompas.com##.bannerCenter
 kompas.com##.bannerCenter1SubRubrik
 kompas.com##.bannerCenter2SubRubrik
@@ -122,7 +117,6 @@ detik.com##.banner_reg.h250.cad_scl2
 zonamuda.com##.bannertengah
 bharian.com.my##.bh-ad
 kaskus.co.id##.bottom-frame
-ibuprita.suatuhari.com##.box > .textwidget > center
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 mforum.cari.com.my##.cari-ads
@@ -134,7 +128,8 @@ tempo.co##.closebanner2
 lintas.me##.column.centered.ad-frame.sc1_top
 lintas.me##.column.centered.ad-frame.sc2_top
 dapurpacu.com##.fixed-ads-atas
-173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net,semprot.com##.fixmeInner
+173.199.167.192,semprot.com##.fixmeInner
+teknoup.com##.footer_banner
 catatankomputer.com##.forads
 warungbebas.com##.gbtab
 kompas.com##.hAds
@@ -143,8 +138,8 @@ kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
-kikil.org,kikil.ws##.kikil_ads
-kikil.org,kikil.ws##.kikil_floating_banner_top
+berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_ads
+berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_floating_banner_top
 kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 dapurpacu.com##.mid-banner
@@ -153,44 +148,30 @@ tribunnews.com##.ovh[style="width:468px;height:60px"]
 lintas.me##.popup
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250.mb10
-173.199.167.192,berang.us,kikil.org,kikil.ws,semprot.com##.tborder[width="67%"][cellspacing="1"][cellpadding="6"][align="center"]
 bokepgratiz.info##.textwidget
 lapar.com##.top-banner
 galaxymaya.com##.widget-content
 movie76.com##.widget-content img[alt="ads"]
-asik.me,duniasex.ws##[href$="betme88.com"]
-asik.me,duniasex.ws##[href$="tri7bet.com"]
 kompas.com##[id^="div-gpt-ad-"]
-forumbokep.com##a[href$="from=vocland"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
 downloadfilem.com##a[href^="http://promosipraktis.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
-forumbebas.com##a[target="_blank"][href^="www/go/"]
-forumbebas.com##center > a[target="_blank"]
 metrotvnews.com##div[style="height: 60px; margin:auto; background-color:#ccc; width:960px; bottom:0px;position:fixed;z-index:100"]
 situshp.com##div[style="height:260px;"]
-warnetforum.com##div[style="margin: 10px auto 10px;width:599px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
-krisna.web.id##div[style="text-align:center;max-width:730px;margin:5px auto;"]
 bokepgratiz.info##div[style="width:100%;text-align:center;"]
 komikbaru.com##img[alt="Pemasangan Iklan"]
 remo-xp.com##img[alt="iklan 440x90"]
 zonamuda.com##img[alt="iklan"]
 bokepgratiz.info##img[alt="smart-forex-system.com"]
-thehack3r.com##img[src="/img/maxbet.gif"]
-forumbokep.com##img[src="http://173.199.189.86/images/do.gif"]
 movie76.com##img[src="http://2.bp.blogspot.com/-2afHigsbpYY/UguQyTqs5SI/AAAAAAAAAcg/8E4df8rMZMU/s1600/Download+noww.jpg'"]
 tribunnews.com##img[src="http://www.tribunnews.com/stylesheets/close.gif"]
 kompas.com##img[src^="http://img.ads."]
 ic31linkpage.com,icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
-forumbokep.com##img[style="width: 435px; height: 60px;"]
-click-me.us,krisna.web.id,thehack3r.com##img[style="width: 728px; height: 90px;"]
 downloadfilem.com##img[width="125"][height="125"]
-thehack3r.com##img[width="728"][height="90"]
-zonabola.com##img[width="750"][height="75"][border="0"]
 stafaband.info##table[width="100%"] + #bottom
 zonamuda.com##td[valign="top"][height="55px"][align="center"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]
