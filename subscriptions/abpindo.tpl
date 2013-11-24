@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 23 November 2013, 07:11:13 WIB
+# Last modified: 24 November 2013, 19:29:27 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -42,7 +42,7 @@ msFilterList
 # ##.bgads
 # ##.gbcontent
 # ##.gpcontent
-# ##.iklan
+# ~kontan.co.id##.iklan
 # ##.pasangiklan
 # ##.semprot_ads
 # ##.topadsense
@@ -104,6 +104,7 @@ msFilterList
 - http://bursabet.com
 - http://carasukses.com
 - http://cash-harvest.com
+-d cashburners.biz /banners/
 - http://cfs.u-ad.info
 - http://clickdbs.com
 - http://clicklifter.com
@@ -128,6 +129,7 @@ msFilterList
 - http://flexterkita.com
 - http://folderbisnis.com
 - http://forexpose.com
+-d formulabisnis.com /images/
 - http://forumiklan.com
 - http://freeads-iklan.com
 - http://gadget-ads.com
@@ -141,6 +143,8 @@ msFilterList
 - http://gratispromo.com
 - http://groupiklan.com
 - http://hiddenbux.com
+-d idblognetwork.com /images/banner468x60/
+-d idblognetwork.com /images/banner728x90/
 - http://idr-clickit.com
 - http://iklan-baris.org
 - http://iklan-iklan.com
@@ -225,6 +229,7 @@ msFilterList
 - http://indobanner.com
 - http://indofreeads.com
 - http://indovertiser.com
+-d investasiceria.net /images/
 - http://istanaiklan.com
 - http://jagoiklan.com
 - http://jagopromo.com
@@ -244,8 +249,11 @@ msFilterList
 - http://ladanguang.com
 - http://link2communion.com
 - http://lokeriklan.com
+-d lytogame.com /images/partner/
+-d lytogame.com /partner/
 - http://m88media.com
 - http://mabosbet.com
+-d manasuka.com /gbr_banner_link/
 - http://maripromosi.com
 - http://marketbola.com
 - http://masteriklan.net
@@ -323,6 +331,7 @@ msFilterList
 # ||situsjudi.com^$popup,third-party
 - http://smart-iklan.com
 - http://sogoplaza.com
+-d suarabola.com /banners/
 - http://sumberiklan.com
 - http://suryaiklan.com
 # ||tangkasindo.com^$popup,third-party
@@ -357,11 +366,10 @@ msFilterList
 -d asianbrain.com /banner/
 # ||bacamanga.com/images/indofiles/$image
 -d bingofreebonus.net /bfbcontent/locker.js?
-# ||blogspot.com^*.gif$domain=asik.me|duniasex.ws|koranseksi.com
+# ||blogspot.com^*.gif$domain=asik.me|duniasex.ws
 -d bokepgratiz.info /banner/
 -d bolanews.com /application/views/web/default/images/close-icon.png
 -d bolavegas.com /ads/
--d cashburners.biz /banners/
 -d ceriwis.us /banner/
 # ||coblos.net^*.swf$domain=bintangmawar.net
 -d detik.com /images/banners/
@@ -373,7 +381,6 @@ msFilterList
 -d ebsoft.web.id /wp-content/banners/
 # ||ewetot.com^$image,object,domain=bintangmawar.net
 -d filmbokepdewasa.com /*/adv/
--d formulabisnis.com /images/
 -d forumbola.org /close3.png
 -d forumbookie.com /banner/
 -d forumkami.net /ad125x125/
@@ -382,8 +389,6 @@ msFilterList
 # ||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws|iniunic.blogspot.com
 -d harakah.net.my /images/stories/iklan/
 -d harianjogja.com /img/bnr/
--d idblognetwork.com /images/banner468x60/
--d idblognetwork.com /images/banner728x90/
 -d images.gameweb.co.id /gw/ads/
 -d images.harianjogja.com /banner/
 -d images.indoforum.org /banners/
@@ -393,7 +398,6 @@ msFilterList
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
 -d inilah.com /assets/image/airasia/skin-
--d investasiceria.net /images/
 -d jagatreview.com /wp-content/uploads/*-SKIN-
 # ||kad.kaskus.co.id/banner/$subdocument
 # ||kad.kaskus.com/banner/$subdocument
@@ -414,9 +418,6 @@ msFilterList
 -d krucil.com /bb17-iklan.php
 -d kumpulblogger.com /minibanner/
 -d lendir.org /banner/
--d lytogame.com /images/partner/
--d lytogame.com /partner/
--d manasuka.com /gbr_banner_link/
 -d mediahide.com /ganool/*/banner-ganool.gif
 -d mediaindonesia.com /public/banner/flash/
 -d megindo.net /megindo2/images/banner-
@@ -437,7 +438,6 @@ msFilterList
 -d sodasusu.com /banner/
 -d sodasusu.org /banner/
 -d static.republika.co.id /files/images/btn_close.png
--d suarabola.com /banners/
 -d suaramedia.com /images/banners/
 -d tabloidbintang.com /space-iklan/
 -d tambahketinggian.com /banner/
@@ -538,9 +538,12 @@ msFilterList
 # mangafox.com##.ad728x90.left + .right
 # bharian.com.my##.adbtm
 # clip.cewecewe.com,dapurpacu.com##.ads
+# republika.co.id##.ads-160-600
+# republika.co.id##.ads-300-video
 # dapurpacu.com##.ads-home
 # dapurpacu.com##.ads2-home
 # kompas.com##.adsMR1Lipsus1
+# antaranews.com##.ads_top_728
 # utusan.com.my##.adspace_300
 # m.iklanbaris.detik.com##.adtext01
 # teknoup.com##.advertisement_box1
@@ -591,16 +594,16 @@ msFilterList
 # berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_ads
 # berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_floating_banner_top
 # kaskus.co.id##.l-link
+# metrotvnews.com##.left.banner-160x600
 # dapurpacu.com##.mid-banner
 # detik.com##.otp_banner_close
 # lintas.me##.popup
 # kaskus.co.id##.r-link
 # okezone.com##.rc-ad-300x250.mb10
+# okezone.com##.rc-ad-300x250.mb20
+# republika.co.id##.set-ads-468
+# okezone.com##.skyscrapper
 # bokepgratiz.info##.textwidget
 # lapar.com##.top-banner
 # galaxymaya.com##.widget-content
 # *** abpindo_whitelist.txt ***
-+d allgamespy.com /wp-content/themes/adsense-id/style.css
-+d iklan.okezone.com /images-data/classified/
-+d okezone.com /images/ad/
-+d speedtest.co.id /adframe/adframe.js

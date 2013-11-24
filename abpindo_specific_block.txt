@@ -8,11 +8,10 @@
 ||asianbrain.com/banner/
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
-||blogspot.com^*.gif$domain=asik.me|duniasex.ws|koranseksi.com
+||blogspot.com^*.gif$domain=asik.me|duniasex.ws
 ||bokepgratiz.info/banner/
 ||bolanews.com/application/views/web/default/images/close-icon.png
 ||bolavegas.com/ads/
-||cashburners.biz/banners/$third-party
 ||ceriwis.us/banner/
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||detik.com/images/banners/
@@ -24,7 +23,6 @@
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||filmbokepdewasa.com/*/adv/
-||formulabisnis.com/images/$third-party
 ||forumbola.org/close3.png
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
@@ -33,8 +31,6 @@
 ||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws|iniunic.blogspot.com
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/img/bnr/
-||idblognetwork.com/images/banner468x60/$third-party
-||idblognetwork.com/images/banner728x90/$third-party
 ||images.gameweb.co.id/gw/ads/
 ||images.harianjogja.com/banner/
 ||images.indoforum.org/banners/
@@ -44,7 +40,6 @@
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
 ||inilah.com/assets/image/airasia/skin-
-||investasiceria.net/images/$third-party
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||kad.kaskus.co.id/banner/$subdocument
 ||kad.kaskus.com/banner/$subdocument
@@ -65,9 +60,6 @@
 ||krucil.com/bb17-iklan.php
 ||kumpulblogger.com/minibanner/
 ||lendir.org/banner/
-||lytogame.com/images/partner/$third-party
-||lytogame.com/partner/$third-party
-||manasuka.com/gbr_banner_link/$third-party
 ||mediahide.com/ganool/*/banner-ganool.gif
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
@@ -88,7 +80,6 @@
 ||sodasusu.com/banner/
 ||sodasusu.org/banner/
 ||static.republika.co.id/files/images/btn_close.png
-||suarabola.com/banners/$third-party
 ||suaramedia.com/images/banners/
 ||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/

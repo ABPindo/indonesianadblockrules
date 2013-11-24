@@ -18,6 +18,7 @@ tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
 detik.com###bottom_banner
 indogamers.com###bottombanner
+tribunnews.com###boxright [style="width:300px; height:250px;"]
 adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
 movie76.com###close-teaser
 kampus.us###elementDiv
@@ -88,9 +89,12 @@ gugling.com##.ad336x280atas
 mangafox.com##.ad728x90.left + .right
 bharian.com.my##.adbtm
 clip.cewecewe.com,dapurpacu.com##.ads
+republika.co.id##.ads-160-600
+republika.co.id##.ads-300-video
 dapurpacu.com##.ads-home
 dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
+antaranews.com##.ads_top_728
 utusan.com.my##.adspace_300
 m.iklanbaris.detik.com##.adtext01
 teknoup.com##.advertisement_box1
@@ -127,6 +131,7 @@ tempo.co##.closebanner1
 tempo.co##.closebanner2
 lintas.me##.column.centered.ad-frame.sc1_top
 lintas.me##.column.centered.ad-frame.sc2_top
+tribunnews.com##.content [style="width:160px; height:600px;"]
 dapurpacu.com##.fixed-ads-atas
 173.199.167.192,semprot.com##.fixmeInner
 teknoup.com##.footer_banner
@@ -141,6 +146,7 @@ gambarkeren.info##.iklankotak1
 berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_ads
 berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_floating_banner_top
 kaskus.co.id##.l-link
+metrotvnews.com##.left.banner-160x600
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 dapurpacu.com##.mid-banner
 detik.com##.otp_banner_close
@@ -148,6 +154,9 @@ tribunnews.com##.ovh[style="width:468px;height:60px"]
 lintas.me##.popup
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250.mb10
+okezone.com##.rc-ad-300x250.mb20
+republika.co.id##.set-ads-468
+okezone.com##.skyscrapper
 bokepgratiz.info##.textwidget
 lapar.com##.top-banner
 galaxymaya.com##.widget-content
@@ -161,6 +170,7 @@ metrotvnews.com##div[style="height: 60px; margin:auto; background-color:#ccc; wi
 situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 bokepgratiz.info##div[style="width:100%;text-align:center;"]
+metrotvnews.com##div[style="width:960px; height:60px;  background-color:#666666; position:fixed; z-index:1000; top:0;"]
 komikbaru.com##img[alt="Pemasangan Iklan"]
 remo-xp.com##img[alt="iklan 440x90"]
 zonamuda.com##img[alt="iklan"]
