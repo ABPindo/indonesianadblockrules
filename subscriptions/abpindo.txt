@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2eBpIY70ay8sO15HYC4npw
+! Checksum: aTGNuOepdfz1FiJjYsa4rg
 ! Title: ABPindo
-! Last modified: 24 November 2013, 19:29:27 WIB
+! Last modified: 26 November 2013, 18:16:01 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -135,11 +135,9 @@ blogspot.com##img[alt="ads"]
 ||fellowequality.com^$third-party
 ||firstbola.com/$popup,third-party
 ||flexterkita.com^$third-party
-||folderbisnis.com^$third-party
 ||forexpose.com^$third-party
 ||formulabisnis.com/images/$third-party
 ||forumiklan.com^$third-party
-||freeads-iklan.com^$third-party
 ||gadget-ads.com^$third-party
 ||gajigratis.com^$third-party
 ||galaxybola.com^$third-party
@@ -148,7 +146,6 @@ blogspot.com##img[alt="ads"]
 ||gratis-iklan-baris.com^$third-party
 ||gratisiklanpasang.com^$third-party
 ||gratisiklanpasang.net^$third-party
-||gratispromo.com^$third-party
 ||groupiklan.com^$third-party
 ||hiddenbux.com^$third-party
 ||idblognetwork.com/images/banner468x60/$third-party
@@ -217,7 +214,6 @@ blogspot.com##img[alt="ads"]
 ||iklanpasanggratis.com^$third-party
 ||iklanpedia.com^$third-party
 ||iklanplaza.com^$third-party
-||iklanposkota.net^$third-party
 ||iklanprimaku.com^$third-party
 ||iklanpromo.com^$third-party
 ||iklansilver.com^$third-party
@@ -342,7 +338,6 @@ blogspot.com##img[alt="ads"]
 ||suarabola.com/banners/$third-party
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
-||tangkasindo.com^$popup,third-party
 ||teknikbisnis.com^$third-party
 ||teliad.com^$third-party
 ||tempatiklan.com^$third-party
