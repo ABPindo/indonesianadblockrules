@@ -23,6 +23,7 @@ adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###b
 movie76.com###close-teaser
 kampus.us###elementDiv
 lintas.me###facebox_overlay
+bioskop21.us###fadeinbox
 teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 metrotvnews.com###fixme
@@ -158,6 +159,7 @@ okezone.com##.rc-ad-300x250.mb20
 republika.co.id##.set-ads-468
 okezone.com##.skyscrapper
 bokepgratiz.info##.textwidget
+bioskop21.us##.textwidget img[width="160"][height="600"]
 lapar.com##.top-banner
 galaxymaya.com##.widget-content
 movie76.com##.widget-content img[alt="ads"]
@@ -181,7 +183,9 @@ kompas.com##img[src^="http://img.ads."]
 ic31linkpage.com,icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
+bioskop21.us##img[title="pasang iklan"]
 downloadfilem.com##img[width="125"][height="125"]
+bioskop21.us##img[width="640"][height="90"]
 stafaband.info##table[width="100%"] + #bottom
 zonamuda.com##td[valign="top"][height="55px"][align="center"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]

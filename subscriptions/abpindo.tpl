@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 26 November 2013, 18:16:01 WIB
+# Last modified: 26 November 2013, 19:39:56 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -351,7 +351,7 @@ msFilterList
 - http://weblogiklan.com
 - http://yesads.com
 # *** abpindo_specific_block.txt ***
-# |about:blank$popup,domain=fakku.net
+# |about:blank$popup,domain=bioskop21.us|fakku.net|tutorblog.us
 -d 173.199.167.192 /bb17-iklan.php
 # ||173.199.189.86/*.gif$domain=forumbokep.com
 - http://admin.ads.indowebster.com
@@ -469,6 +469,7 @@ msFilterList
 # movie76.com###close-teaser
 # kampus.us###elementDiv
 # lintas.me###facebox_overlay
+# bioskop21.us###fadeinbox
 # teknoup.com###fancybox-wrap
 # teknoup.com###fancybox_ajax
 # metrotvnews.com###fixme
