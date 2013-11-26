@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 24 November 2013, 19:29:27 WIB
+# Last modified: 26 November 2013, 18:16:01 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -127,11 +127,9 @@ msFilterList
 - http://fellowequality.com
 # ||firstbola.com/$popup,third-party
 - http://flexterkita.com
-- http://folderbisnis.com
 - http://forexpose.com
 -d formulabisnis.com /images/
 - http://forumiklan.com
-- http://freeads-iklan.com
 - http://gadget-ads.com
 - http://gajigratis.com
 - http://galaxybola.com
@@ -140,7 +138,6 @@ msFilterList
 - http://gratis-iklan-baris.com
 - http://gratisiklanpasang.com
 - http://gratisiklanpasang.net
-- http://gratispromo.com
 - http://groupiklan.com
 - http://hiddenbux.com
 -d idblognetwork.com /images/banner468x60/
@@ -209,7 +206,6 @@ msFilterList
 - http://iklanpasanggratis.com
 - http://iklanpedia.com
 - http://iklanplaza.com
-- http://iklanposkota.net
 - http://iklanprimaku.com
 - http://iklanpromo.com
 - http://iklansilver.com
@@ -334,7 +330,6 @@ msFilterList
 -d suarabola.com /banners/
 - http://sumberiklan.com
 - http://suryaiklan.com
-# ||tangkasindo.com^$popup,third-party
 - http://teknikbisnis.com
 - http://teliad.com
 - http://tempatiklan.com
