@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JFSVavfUnukfdYqgOwpkzg
+! Checksum: vCi7EQX0XiSX8PQbzwfaSg
 ! Title: ABPindo
-! Last modified: 26 November 2013, 19:39:56 WIB
+! Last modified: 26 November 2013, 21:05:00 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -59,6 +59,7 @@ blogspot.com##img[alt="ads"]
 ||1iklanbaris.com^$third-party
 ||1jutarupiah.com^$third-party
 ||1st-iklan.com^$third-party
+||204.45.15.132^$popup,third-party
 ||39bola.com^$third-party
 ||988bet.com^$third-party
 ||abadiklan.com^$third-party
@@ -110,6 +111,7 @@ blogspot.com##img[alt="ads"]
 ||bolasonic.com^$image,popup
 ||bravevolitation.com^$third-party
 ||bursabet.com^$third-party
+||c-stat.eu^$third-party
 ||carasukses.com^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz/banners/$third-party
@@ -298,6 +300,8 @@ blogspot.com##img[alt="ads"]
 ||paypalbisnis.com^$third-party
 ||paypopup.com^$third-party
 ||peluangbisnis.org^$third-party
+||pemaintogel.info^$third-party
+||ping-fast.com^$third-party
 ||pondokiklan.com^$third-party
 ||popupmoney.com^$third-party
 ||portaliklan.com^$third-party
@@ -315,6 +319,7 @@ blogspot.com##img[alt="ads"]
 ||pusatpromosiiklan.com^$third-party
 ||rahasiapanas.com^$third-party
 ||ratubola.com^$third-party
+||realwap.net^$third-party
 ||referral-secrets.com^$third-party
 ||ro2.biz^$third-party
 ||rpc-php.trafficfactory.biz^$popup,third-party
@@ -350,6 +355,8 @@ blogspot.com##img[alt="ads"]
 ||topskor.us^$third-party
 ||topsurfer.com^$third-party
 ||tri7bet.com^$third-party
+||twap.eu^$third-party
+||u-on.eu/c.php?$third-party
 ||u1win.com^$third-party
 ||unobux.com^$third-party
 ||usahaberhasil.com^$third-party
@@ -445,6 +452,7 @@ blogspot.com##img[alt="ads"]
 ||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/
 ||tinypic.com^$image,domain=bioskopkita.com
+||tutorblog.us/wp-content/uploads/*/obat-kuat-sex.gif
 ||upload.coblos.net/images/*.gif
 ||utusan.com.my/utusan/iklan/
 ||videogamesindonesia.com/banners/
@@ -473,6 +481,7 @@ tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
 detik.com###bottom_banner
 indogamers.com###bottombanner
+bioskop21.us###box-message
 tribunnews.com###boxright [style="width:300px; height:250px;"]
 adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
 movie76.com###close-teaser

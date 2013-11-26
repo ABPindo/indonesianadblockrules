@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 26 November 2013, 19:39:56 WIB
+# Last modified: 26 November 2013, 21:05:00 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -51,6 +51,7 @@ msFilterList
 - http://1iklanbaris.com
 - http://1jutarupiah.com
 - http://1st-iklan.com
+# ||204.45.15.132^$popup,third-party
 - http://39bola.com
 - http://988bet.com
 - http://abadiklan.com
@@ -102,6 +103,7 @@ msFilterList
 # ||bolasonic.com^$image,popup
 - http://bravevolitation.com
 - http://bursabet.com
+- http://c-stat.eu
 - http://carasukses.com
 - http://cash-harvest.com
 -d cashburners.biz /banners/
@@ -290,6 +292,8 @@ msFilterList
 - http://paypalbisnis.com
 - http://paypopup.com
 - http://peluangbisnis.org
+- http://pemaintogel.info
+- http://ping-fast.com
 - http://pondokiklan.com
 - http://popupmoney.com
 - http://portaliklan.com
@@ -307,6 +311,7 @@ msFilterList
 - http://pusatpromosiiklan.com
 - http://rahasiapanas.com
 - http://ratubola.com
+- http://realwap.net
 - http://referral-secrets.com
 - http://ro2.biz
 # ||rpc-php.trafficfactory.biz^$popup,third-party
@@ -342,6 +347,8 @@ msFilterList
 - http://topskor.us
 - http://topsurfer.com
 - http://tri7bet.com
+- http://twap.eu
+-d u-on.eu /c.php?
 - http://u1win.com
 - http://unobux.com
 - http://usahaberhasil.com
@@ -437,6 +444,7 @@ msFilterList
 -d tabloidbintang.com /space-iklan/
 -d tambahketinggian.com /banner/
 # ||tinypic.com^$image,domain=bioskopkita.com
+-d tutorblog.us /wp-content/uploads/*/obat-kuat-sex.gif
 -d upload.coblos.net /images/*.gif
 -d utusan.com.my /utusan/iklan/
 -d videogamesindonesia.com /banners/
@@ -465,6 +473,7 @@ msFilterList
 # tribunnews.com###bannerkubawah
 # detik.com###bottom_banner
 # indogamers.com###bottombanner
+# bioskop21.us###box-message
 # adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
 # movie76.com###close-teaser
 # kampus.us###elementDiv
