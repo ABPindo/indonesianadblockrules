@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 27 November 2013, 18:42:06 WIB
+# Last modified: 08 Desember 2013, 20:56:45 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -358,7 +358,6 @@ msFilterList
 - http://weblogiklan.com
 - http://yesads.com
 # *** abpindo_specific_block.txt ***
-# |about:blank$popup,domain=bioskop21.us|fakku.net|tutorblog.us
 -d 173.199.167.192 /bb17-iklan.php
 # ||173.199.189.86/*.gif$domain=forumbokep.com
 - http://admin.ads.indowebster.com
@@ -388,7 +387,7 @@ msFilterList
 -d forumkami.net /ad125x125/
 -d forumkami.net /ad200x50/
 -d forumkami.net /close.gif
-# ||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws|iniunic.blogspot.com
+# ||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws
 -d harakah.net.my /images/stories/iklan/
 -d harianjogja.com /img/bnr/
 -d images.gameweb.co.id /gw/ads/
@@ -406,7 +405,9 @@ msFilterList
 -d kampus.us /banners/
 -d kapanlagi.com /banner/
 -d kaskus.co.id /adv/
+-d kaskus.co.id /images/banner-wap/
 -d kaskus.com /adv/
+-d kaskus.com /images/banner-wap/
 -d keripikcadas.com /banner/
 -d kikil.org /banner/
 -d kikil.org /forum/banner/
@@ -415,12 +416,9 @@ msFilterList
 -d kkcdn-static.kaskus.co.id /css_v0.1/img/skin/
 -d kompas.com /data/banner/
 -d koranlokal.com /iklan_baru/
--d koranlokal.com /newstickerpartai.php
--d koranlokal.com /point1.php
 -d krucil.com /bb17-iklan.php
 -d kumpulblogger.com /minibanner/
 -d lendir.org /banner/
--d mediahide.com /ganool/*/banner-ganool.gif
 -d mediaindonesia.com /public/banner/flash/
 -d megindo.net /megindo2/images/banner-
 -d mforum.cari.com.my /cari/daybanner/ads_daybanner_display.php?
@@ -444,7 +442,6 @@ msFilterList
 -d tabloidbintang.com /space-iklan/
 -d tambahketinggian.com /banner/
 # ||tinypic.com^$image,domain=bioskopkita.com
--d tutorblog.us /wp-content/uploads/*/obat-kuat-sex.gif
 -d tutorblog.us /wp-content/uploads/2013/08/obat-kuat-sex.gif
 -d upload.coblos.net /images/*.gif
 -d utusan.com.my /utusan/iklan/
