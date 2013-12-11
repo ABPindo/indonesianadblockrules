@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 08 Desember 2013, 20:56:45 WIB
+# Last modified: 11 Desember 2013, 23:31:02 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -102,6 +102,7 @@ msFilterList
 - http://bolaketangkasan.com
 # ||bolasonic.com^$image,popup
 - http://bravevolitation.com
+- http://btybet.com
 - http://bursabet.com
 - http://c-stat.eu
 - http://carasukses.com
@@ -293,6 +294,7 @@ msFilterList
 - http://paypopup.com
 - http://peluangbisnis.org
 - http://pemaintogel.info
+# ||perawan3gp.com^$popup,third-party
 - http://ping-fast.com
 - http://pondokiklan.com
 - http://popupmoney.com
@@ -439,8 +441,11 @@ msFilterList
 -d sodasusu.org /banner/
 -d static.republika.co.id /files/images/btn_close.png
 -d suaramedia.com /images/banners/
+# ||suaramerdeka.com/v1/images/iklan_ffi.$image
 -d tabloidbintang.com /space-iklan/
 -d tambahketinggian.com /banner/
+# ||tempo.co/images/SkinADkanan.$image
+# ||tempo.co/images/SkinADkiri.$image
 # ||tinypic.com^$image,domain=bioskopkita.com
 -d tutorblog.us /wp-content/uploads/2013/08/obat-kuat-sex.gif
 -d upload.coblos.net /images/*.gif
@@ -455,9 +460,8 @@ msFilterList
 # lintas.me###Advertisement
 # ic31linkpage.com,icinema3satu.com###FloatAlamindawa
 # indogamers.com###IklanIDGS
-# 173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net###KD_adpB
 # chip.co.id###TopBannerBg
-# 173.199.167.192,berang.us,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,kampus.us,kikil.org,kikil.ws,krucil.com,krucil.net,sodasusu.com###ad_global_below_navbar
+# berang.us,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,kampus.us,kikil.org,kikil.ws,sodasusu.com###ad_global_below_navbar
 # harianjogja.com,solopos.com###ads-float
 # dapurpacu.com###ads-mid
 # downloadfilmbaru.com###ads-stack
@@ -523,7 +527,7 @@ msFilterList
 # bioskopkita.com###topbanner
 # beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
 # serubokep3gp.blogspot.com###tupiklan
-# 173.199.167.192,semprot.com###ucpop_adpB
+# 173.199.167.192,berang.us,kikil.org,kikil.ws,semprot.com###ucpop_adpB
 # 173.199.167.192,semprot.com###ucpop_adpS
 # kapanlagi.com###v5-leaderboard
 # kapanlagi.com###v5-marcommpromotion
@@ -555,6 +559,7 @@ msFilterList
 # kaskus.co.id##.banner-top-ads
 # oktavita.com##.banner-zone
 # kompas.com##.bannerAdB
+# berang.us,kikil.org,kikil.ws##.bannerBox
 # kompas.com##.bannerCenter
 # kompas.com##.bannerCenter1SubRubrik
 # kompas.com##.bannerCenter2SubRubrik
@@ -596,6 +601,8 @@ msFilterList
 # gambarkeren.info##.iklankotak1
 # berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_ads
 # berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_floating_banner_top
+# 173.199.167.192,krucil.com,krucil.net##.krucil_ads
+# 173.199.167.192,krucil.com,krucil.net##.krucil_ads.krucil_floating_banner_top
 # kaskus.co.id##.l-link
 # metrotvnews.com##.left.banner-160x600
 # dapurpacu.com##.mid-banner
