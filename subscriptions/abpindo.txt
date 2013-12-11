@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LpZOQUuTiOFtZEToGBhQ2Q
+! Checksum: ZOCXlYBrcCzdpVeXqaGSAQ
 ! Title: ABPindo
-! Last modified: 08 Desember 2013, 20:56:45 WIB
+! Last modified: 11 Desember 2013, 23:31:02 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -110,6 +110,7 @@ blogspot.com##img[alt="ads"]
 ||bolaketangkasan.com^$third-party
 ||bolasonic.com^$image,popup
 ||bravevolitation.com^$third-party
+||btybet.com^$third-party
 ||bursabet.com^$third-party
 ||c-stat.eu^$third-party
 ||carasukses.com^$third-party
@@ -301,6 +302,7 @@ blogspot.com##img[alt="ads"]
 ||paypopup.com^$third-party
 ||peluangbisnis.org^$third-party
 ||pemaintogel.info^$third-party
+||perawan3gp.com^$popup,third-party
 ||ping-fast.com^$third-party
 ||pondokiklan.com^$third-party
 ||popupmoney.com^$third-party
@@ -447,8 +449,11 @@ blogspot.com##img[alt="ads"]
 ||sodasusu.org/banner/
 ||static.republika.co.id/files/images/btn_close.png
 ||suaramedia.com/images/banners/
+||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/
+||tempo.co/images/SkinADkanan.$image
+||tempo.co/images/SkinADkiri.$image
 ||tinypic.com^$image,domain=bioskopkita.com
 ||tutorblog.us/wp-content/uploads/2013/08/obat-kuat-sex.gif
 ||upload.coblos.net/images/*.gif
@@ -463,9 +468,8 @@ wowkeren.com###Ad728
 lintas.me###Advertisement
 ic31linkpage.com,icinema3satu.com###FloatAlamindawa
 indogamers.com###IklanIDGS
-173.199.167.192,berang.us,kikil.org,kikil.ws,krucil.com,krucil.net###KD_adpB
 chip.co.id###TopBannerBg
-173.199.167.192,berang.us,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,kampus.us,kikil.org,kikil.ws,krucil.com,krucil.net,sodasusu.com###ad_global_below_navbar
+berang.us,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,kampus.us,kikil.org,kikil.ws,sodasusu.com###ad_global_below_navbar
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
@@ -534,7 +538,7 @@ detik.com###top_banner
 bioskopkita.com###topbanner
 beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
 serubokep3gp.blogspot.com###tupiklan
-173.199.167.192,semprot.com###ucpop_adpB
+173.199.167.192,berang.us,kikil.org,kikil.ws,semprot.com###ucpop_adpB
 173.199.167.192,semprot.com###ucpop_adpS
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v5-marcommpromotion
@@ -566,6 +570,7 @@ metrotvnews.com##.banner-160x600.left.mb20
 kaskus.co.id##.banner-top-ads
 oktavita.com##.banner-zone
 kompas.com##.bannerAdB
+berang.us,kikil.org,kikil.ws##.bannerBox
 kompas.com##.bannerCenter
 kompas.com##.bannerCenter1SubRubrik
 kompas.com##.bannerCenter2SubRubrik
@@ -608,6 +613,8 @@ detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_ads
 berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_floating_banner_top
+173.199.167.192,krucil.com,krucil.net##.krucil_ads
+173.199.167.192,krucil.com,krucil.net##.krucil_ads.krucil_floating_banner_top
 kaskus.co.id##.l-link
 metrotvnews.com##.left.banner-160x600
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
