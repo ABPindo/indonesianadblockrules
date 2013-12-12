@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 11 Desember 2013, 23:31:02 WIB
+# Last modified: 12 Desember 2013, 16:08:08 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -10,15 +10,19 @@ msFilterList
 # in the forums (http://forums.lanik.us/viewforum.php?f=94)
 #
 # *** abpindo_general_block.txt ***
+- .biz/iklan/
 - .com/iklan/
 # .id/ads/$~object-subrequest
 - .id/iklan/
+- .info/iklan/
+- .me/iklan/
+- .my/iklan/
 - .net/iklan/
+- .tv/iklan/
 - /ads/iklan.
 - /images/iklan/
-- /img/promo/
-- /sittiad.
-- /theads125x125.jpg
+- /SkinADkanan.
+- /SkinADkiri.
 - /uploads/iklan/
 - /usaha-berhasil.gif
 - /usahaberhasil.gif
@@ -32,10 +36,12 @@ msFilterList
 # blogspot.com###floating_banner_bottom
 # blogspot.com###floating_banner_bottom2
 # ###floatingad
+# ###iklan
 # ###iklan_atas
 # ###iklanpersegi
 # ###top_ad_full
 # blogspot.com###topbar
+# ###tupiklan
 # ##.SectionAds
 # ##.ad_primex
 # ##.ads.section
@@ -68,7 +74,7 @@ msFilterList
 - http://adspeedy.com
 - http://adsrelease.com
 - http://agenasia88.com
-# ||agenbo.la^$image,popup,third-party
+# ||agenbo.la^$popup,third-party
 - http://agenpromosi.com
 - http://agent926.com
 - http://ajangiklangratis.com
@@ -362,7 +368,6 @@ msFilterList
 # *** abpindo_specific_block.txt ***
 -d 173.199.167.192 /bb17-iklan.php
 # ||173.199.189.86/*.gif$domain=forumbokep.com
-- http://admin.ads.indowebster.com
 -d alertpay.com /banners/
 -d angel.exabytes.com.my /banners/
 -d armylookfashion.com /728.swf
@@ -383,7 +388,6 @@ msFilterList
 -d duniasex.ws /banner-
 -d ebsoft.web.id /wp-content/banners/
 # ||ewetot.com^$image,object,domain=bintangmawar.net
--d filmbokepdewasa.com /*/adv/
 -d forumbola.org /close3.png
 -d forumbookie.com /banner/
 -d forumkami.net /ad125x125/
@@ -444,8 +448,6 @@ msFilterList
 # ||suaramerdeka.com/v1/images/iklan_ffi.$image
 -d tabloidbintang.com /space-iklan/
 -d tambahketinggian.com /banner/
-# ||tempo.co/images/SkinADkanan.$image
-# ||tempo.co/images/SkinADkiri.$image
 # ||tinypic.com^$image,domain=bioskopkita.com
 -d tutorblog.us /wp-content/uploads/2013/08/obat-kuat-sex.gif
 -d upload.coblos.net /images/*.gif
@@ -460,8 +462,9 @@ msFilterList
 # lintas.me###Advertisement
 # ic31linkpage.com,icinema3satu.com###FloatAlamindawa
 # indogamers.com###IklanIDGS
+# krucil.com,krucil.net###KD_adpB
 # chip.co.id###TopBannerBg
-# berang.us,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,kampus.us,kikil.org,kikil.ws,sodasusu.com###ad_global_below_navbar
+# forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.net,sodasusu.com###ad_global_below_navbar
 # harianjogja.com,solopos.com###ads-float
 # dapurpacu.com###ads-mid
 # downloadfilmbaru.com###ads-stack
@@ -478,13 +481,12 @@ msFilterList
 # bioskop21.us###box-message
 # adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
 # movie76.com###close-teaser
-# kampus.us###elementDiv
 # lintas.me###facebox_overlay
 # bioskop21.us###fadeinbox
 # teknoup.com###fancybox-wrap
 # teknoup.com###fancybox_ajax
 # metrotvnews.com###fixme
-# berang.us,forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
+# forumbokep.com###floating_banner_bottom
 # untukku.com###footer-adcont
 # ketubanjiwa.com###g207
 # resep.web.id###googlebox
@@ -492,7 +494,6 @@ msFilterList
 # ceriwis.us###hoho-wrapsubmenu3
 # remo-xp.com###ikanan
 # remo-xp.com###ikiri
-# ceriwis.com###iklan
 # zonamuda.com###iklan1
 # zonamuda.com###iklan2
 # zonamuda.com###iklan3
@@ -510,7 +511,7 @@ msFilterList
 # zonabola.com###rAds img
 # utusan.com.my###rec_ad4
 # komikbaru.com,mangafox.me###right-skyscraper
-# microsite.kapanlagi.com###scmicrosite
+# kapanlagi.com###scmicrosite
 # lintas.me###showcasedown
 # panduanpercuma.info###sidebar-banner300
 # zonabola.com###simplemodal-container
@@ -525,16 +526,16 @@ msFilterList
 # m.detik.com###top
 # detik.com###top_banner
 # bioskopkita.com###topbanner
-# beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
-# serubokep3gp.blogspot.com###tupiklan
-# 173.199.167.192,berang.us,kikil.org,kikil.ws,semprot.com###ucpop_adpB
-# 173.199.167.192,semprot.com###ucpop_adpS
+# jurigjarian.com###topbar
+# kikil.org,kikil.ws###ucpop_adpB
+# kikil.org,kikil.ws###ucpop_adpS
 # kapanlagi.com###v5-leaderboard
 # kapanlagi.com###v5-marcommpromotion
 # kapanlagi.com###v5-showcase1
 # kapanlagi.com###v5-showcase2
 # kapanlagi.com###v5-showcase3
 # kapanlagi.com###v7-marcommpromotion
+# kapanlagi.com###v7-marcommpromotion2
 # kapanlagi.com###v7-showcase1
 # kapanlagi.com###v7-showcase2
 # kapanlagi.com###v7-showcase3
@@ -544,7 +545,7 @@ msFilterList
 # gugling.com##.ad336x280atas
 # mangafox.com##.ad728x90.left + .right
 # bharian.com.my##.adbtm
-# clip.cewecewe.com,dapurpacu.com##.ads
+# dapurpacu.com##.ads
 # republika.co.id##.ads-160-600
 # republika.co.id##.ads-300-video
 # dapurpacu.com##.ads-home
@@ -559,7 +560,7 @@ msFilterList
 # kaskus.co.id##.banner-top-ads
 # oktavita.com##.banner-zone
 # kompas.com##.bannerAdB
-# berang.us,kikil.org,kikil.ws##.bannerBox
+# kikil.org,kikil.ws##.bannerBox
 # kompas.com##.bannerCenter
 # kompas.com##.bannerCenter1SubRubrik
 # kompas.com##.bannerCenter2SubRubrik
@@ -589,7 +590,6 @@ msFilterList
 # lintas.me##.column.centered.ad-frame.sc1_top
 # lintas.me##.column.centered.ad-frame.sc2_top
 # dapurpacu.com##.fixed-ads-atas
-# 173.199.167.192,semprot.com##.fixmeInner
 # teknoup.com##.footer_banner
 # catatankomputer.com##.forads
 # warungbebas.com##.gbtab
@@ -599,10 +599,8 @@ msFilterList
 # komikbaru.com##.iklan_kiri
 # detik.com##.iklan_tengah
 # gambarkeren.info##.iklankotak1
-# berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_ads
-# berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_floating_banner_top
-# 173.199.167.192,krucil.com,krucil.net##.krucil_ads
-# 173.199.167.192,krucil.com,krucil.net##.krucil_ads.krucil_floating_banner_top
+# kikil.org,kikil.ws##.kikil_ads
+# krucil.com,krucil.net##.krucil_ads
 # kaskus.co.id##.l-link
 # metrotvnews.com##.left.banner-160x600
 # dapurpacu.com##.mid-banner
