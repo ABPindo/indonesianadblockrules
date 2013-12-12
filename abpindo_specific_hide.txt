@@ -2,8 +2,9 @@ wowkeren.com###Ad728
 lintas.me###Advertisement
 ic31linkpage.com,icinema3satu.com###FloatAlamindawa
 indogamers.com###IklanIDGS
+krucil.com,krucil.net###KD_adpB
 chip.co.id###TopBannerBg
-berang.us,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,kampus.us,kikil.org,kikil.ws,sodasusu.com###ad_global_below_navbar
+forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.net,sodasusu.com###ad_global_below_navbar
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
@@ -21,13 +22,12 @@ bioskop21.us###box-message
 tribunnews.com###boxright [style="width:300px; height:250px;"]
 adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
 movie76.com###close-teaser
-kampus.us###elementDiv
 lintas.me###facebox_overlay
 bioskop21.us###fadeinbox
 teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 metrotvnews.com###fixme
-berang.us,forumbokep.com,kikil.org,kikil.ws,krucil.com,krucil.net###floating_banner_bottom
+forumbokep.com###floating_banner_bottom
 untukku.com###footer-adcont
 ketubanjiwa.com###g207
 resep.web.id###googlebox
@@ -36,7 +36,6 @@ indosiar.com###headerbanner + div[style="height:50px"]
 ceriwis.us###hoho-wrapsubmenu3
 remo-xp.com###ikanan
 remo-xp.com###ikiri
-ceriwis.com###iklan
 zonamuda.com###iklan1
 zonamuda.com###iklan2
 zonamuda.com###iklan3
@@ -50,12 +49,12 @@ harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
 zonabola.com###lAds img
 komikbaru.com,mangafox.me###left-skyscraper
-asik.me,duniasex.ws###main_content_section > div[align="center"]
+asik.me,bb17.us,duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
 zonabola.com###rAds img
 utusan.com.my###rec_ad4
 komikbaru.com,mangafox.me###right-skyscraper
-microsite.kapanlagi.com###scmicrosite
+kapanlagi.com###scmicrosite
 lintas.me###showcasedown
 panduanpercuma.info###sidebar-banner300
 zonabola.com###simplemodal-container
@@ -70,16 +69,16 @@ sodasusu.com###teaser4
 m.detik.com###top
 detik.com###top_banner
 bioskopkita.com###topbanner
-beritateknologi.com,forumbebas.com,jurigjarian.com,kolomunik.com,topterunik.com###topbar
-serubokep3gp.blogspot.com###tupiklan
-173.199.167.192,berang.us,kikil.org,kikil.ws,semprot.com###ucpop_adpB
-173.199.167.192,semprot.com###ucpop_adpS
+jurigjarian.com###topbar
+kikil.org,kikil.ws###ucpop_adpB
+kikil.org,kikil.ws###ucpop_adpS
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v5-marcommpromotion
 kapanlagi.com###v5-showcase1
 kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
 kapanlagi.com###v7-marcommpromotion
+kapanlagi.com###v7-marcommpromotion2
 kapanlagi.com###v7-showcase1
 kapanlagi.com###v7-showcase2
 kapanlagi.com###v7-showcase3
@@ -89,7 +88,7 @@ m.kapanlagi.com##.ad2
 gugling.com##.ad336x280atas
 mangafox.com##.ad728x90.left + .right
 bharian.com.my##.adbtm
-clip.cewecewe.com,dapurpacu.com##.ads
+dapurpacu.com##.ads
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
 dapurpacu.com##.ads-home
@@ -104,7 +103,7 @@ metrotvnews.com##.banner-160x600.left.mb20
 kaskus.co.id##.banner-top-ads
 oktavita.com##.banner-zone
 kompas.com##.bannerAdB
-berang.us,kikil.org,kikil.ws##.bannerBox
+kikil.org,kikil.ws##.bannerBox
 kompas.com##.bannerCenter
 kompas.com##.bannerCenter1SubRubrik
 kompas.com##.bannerCenter2SubRubrik
@@ -135,7 +134,6 @@ lintas.me##.column.centered.ad-frame.sc1_top
 lintas.me##.column.centered.ad-frame.sc2_top
 tribunnews.com##.content [style="width:160px; height:600px;"]
 dapurpacu.com##.fixed-ads-atas
-173.199.167.192,semprot.com##.fixmeInner
 teknoup.com##.footer_banner
 catatankomputer.com##.forads
 warungbebas.com##.gbtab
@@ -145,10 +143,8 @@ kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
-berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_ads
-berang.us,kikil.org,kikil.ws,krucil.com,krucil.net##.kikil_floating_banner_top
-173.199.167.192,krucil.com,krucil.net##.krucil_ads
-173.199.167.192,krucil.com,krucil.net##.krucil_ads.krucil_floating_banner_top
+kikil.org,kikil.ws##.kikil_ads
+krucil.com,krucil.net##.krucil_ads
 kaskus.co.id##.l-link
 metrotvnews.com##.left.banner-160x600
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]

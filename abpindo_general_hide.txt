@@ -8,10 +8,12 @@ blogspot.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 ###floatingad
+###iklan
 ###iklan_atas
 ###iklanpersegi
 ###top_ad_full
 blogspot.com###topbar
+###tupiklan
 ##.SectionAds
 ##.ad_primex
 ##.ads.section
