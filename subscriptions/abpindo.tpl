@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 12 Desember 2013, 16:08:08 WIB
+# Last modified: 18 Desember 2013, 12:34:45 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -462,9 +462,9 @@ msFilterList
 # lintas.me###Advertisement
 # ic31linkpage.com,icinema3satu.com###FloatAlamindawa
 # indogamers.com###IklanIDGS
-# krucil.com,krucil.net###KD_adpB
+# 173.199.167.192,krucil.com,krucil.net###KD_adpB
 # chip.co.id###TopBannerBg
-# forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.net,sodasusu.com###ad_global_below_navbar
+# 173.199.167.192,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.com,krucil.net,sodasusu.com###ad_global_below_navbar
 # harianjogja.com,solopos.com###ads-float
 # dapurpacu.com###ads-mid
 # downloadfilmbaru.com###ads-stack
@@ -487,6 +487,8 @@ msFilterList
 # teknoup.com###fancybox_ajax
 # metrotvnews.com###fixme
 # forumbokep.com###floating_banner_bottom
+# ganool.com###floating_banner_left1
+# ganool.com###floating_banner_left2
 # untukku.com###footer-adcont
 # ketubanjiwa.com###g207
 # resep.web.id###googlebox
@@ -600,7 +602,7 @@ msFilterList
 # detik.com##.iklan_tengah
 # gambarkeren.info##.iklankotak1
 # kikil.org,kikil.ws##.kikil_ads
-# krucil.com,krucil.net##.krucil_ads
+# 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 # kaskus.co.id##.l-link
 # metrotvnews.com##.left.banner-160x600
 # dapurpacu.com##.mid-banner
