@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 18 Desember 2013, 12:34:45 WIB
+# Last modified: 26 Desember 2013, 13:16:18 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -364,6 +364,7 @@ msFilterList
 - http://webbola.com
 - http://webiklan.com
 - http://weblogiklan.com
+- http://webtrackerplus.com
 - http://yesads.com
 # *** abpindo_specific_block.txt ***
 -d 173.199.167.192 /bb17-iklan.php
@@ -559,6 +560,7 @@ msFilterList
 # teknoup.com##.advertisement_box1
 # palingseru.com##.alignnone.size-large.wp-image-458
 # metrotvnews.com##.banner-160x600.left.mb20
+# ganool.com##.banner-right.clearfix
 # kaskus.co.id##.banner-top-ads
 # oktavita.com##.banner-zone
 # kompas.com##.bannerAdB

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: AwvDyYqpL3snGYVPtYC7aQ
+! Checksum: lpFrTXXHU+BlLSQUZZDEQg
 ! Title: ABPindo
-! Last modified: 18 Desember 2013, 12:34:45 WIB
+! Last modified: 26 Desember 2013, 13:16:18 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -372,6 +372,7 @@ blogspot.com##img[alt="ads"]
 ||webbola.com^$third-party
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
+||webtrackerplus.com^$third-party
 ||yesads.com^$third-party
 ! *** abpindo_specific_block.txt ***
 ||173.199.167.192/bb17-iklan.php
@@ -570,6 +571,7 @@ m.iklanbaris.detik.com##.adtext01
 teknoup.com##.advertisement_box1
 palingseru.com##.alignnone.size-large.wp-image-458
 metrotvnews.com##.banner-160x600.left.mb20
+ganool.com##.banner-right.clearfix
 kaskus.co.id##.banner-top-ads
 oktavita.com##.banner-zone
 kompas.com##.bannerAdB
