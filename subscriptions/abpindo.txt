@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: lpFrTXXHU+BlLSQUZZDEQg
+! Checksum: 7+jxT6NkulRznJ+e5s6ZNA
 ! Title: ABPindo
-! Last modified: 26 Desember 2013, 13:16:18 WIB
+! Last modified: 26 Desember 2013, 13:35:28 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -242,7 +242,7 @@ blogspot.com##img[alt="ads"]
 ||indobanner.com^$third-party
 ||indofreeads.com^$third-party
 ||indovertiser.com^$third-party
-||investasiceria.net/images/$third-party
+||investasiceria.net^$third-party
 ||istanaiklan.com^$third-party
 ||jagoiklan.com^$third-party
 ||jagopromo.com^$third-party
@@ -330,7 +330,6 @@ blogspot.com##img[alt="ads"]
 ||realwap.net^$third-party
 ||referral-secrets.com^$third-party
 ||ro2.biz^$third-party
-||rpc-php.trafficfactory.biz^$popup,third-party
 ||ruangbisnis.com^$third-party
 ||rupiahbux.com^$third-party
 ||sanglah.com^$third-party
@@ -362,6 +361,7 @@ blogspot.com##img[alt="ads"]
 ||topklik.com^$third-party
 ||topskor.us^$third-party
 ||topsurfer.com^$third-party
+||trafficfactory.biz^$popup,third-party
 ||tri7bet.com^$third-party
 ||twap.eu^$third-party
 ||u-on.eu/c.php?$third-party

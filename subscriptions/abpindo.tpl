@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 26 Desember 2013, 13:16:18 WIB
+# Last modified: 26 Desember 2013, 13:35:28 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -234,7 +234,7 @@ msFilterList
 - http://indobanner.com
 - http://indofreeads.com
 - http://indovertiser.com
--d investasiceria.net /images/
+- http://investasiceria.net
 - http://istanaiklan.com
 - http://jagoiklan.com
 - http://jagopromo.com
@@ -322,7 +322,6 @@ msFilterList
 - http://realwap.net
 - http://referral-secrets.com
 - http://ro2.biz
-# ||rpc-php.trafficfactory.biz^$popup,third-party
 - http://ruangbisnis.com
 - http://rupiahbux.com
 - http://sanglah.com
@@ -354,6 +353,7 @@ msFilterList
 - http://topklik.com
 - http://topskor.us
 - http://topsurfer.com
+# ||trafficfactory.biz^$popup,third-party
 - http://tri7bet.com
 - http://twap.eu
 -d u-on.eu /c.php?
