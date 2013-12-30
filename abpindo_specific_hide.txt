@@ -4,7 +4,7 @@ ic31linkpage.com,icinema3satu.com###FloatAlamindawa
 indogamers.com###IklanIDGS
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 chip.co.id###TopBannerBg
-173.199.167.192,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.com,krucil.net,sodasusu.com###ad_global_below_navbar
+173.199.167.192,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.com,krucil.net,sodasusu.com,vocland.com###ad_global_below_navbar
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
@@ -28,6 +28,7 @@ teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 metrotvnews.com###fixme
 forumbokep.com###floating_banner_bottom
+ganool.com###floating_banner_bottom2
 ganool.com###floating_banner_left1
 ganool.com###floating_banner_left2
 untukku.com###footer-adcont
@@ -65,8 +66,8 @@ detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
-downloadfilmbaru.com,galaxymaya.com###teaser2
-downloadfilmbaru.com,galaxymaya.com###teaser3
+downloadfilmbaru.com,galaxymaya.com,unikgaul.com###teaser2
+downloadfilmbaru.com,galaxymaya.com,unikgaul.com###teaser3
 sodasusu.com###teaser4
 m.detik.com###top
 detik.com###top_banner
@@ -165,7 +166,6 @@ bioskop21.us##.textwidget img[width="160"][height="600"]
 lapar.com##.top-banner
 galaxymaya.com##.widget-content
 movie76.com##.widget-content img[alt="ads"]
-kompas.com##[id^="div-gpt-ad-"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
 downloadfilem.com##a[href^="http://promosipraktis.com/"]
@@ -175,7 +175,12 @@ situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 bokepgratiz.info##div[style="width:100%;text-align:center;"]
 metrotvnews.com##div[style="width:960px; height:60px;  background-color:#666666; position:fixed; z-index:1000; top:0;"]
+unikgaul.com##img[alt="Distributor Vimax"]
+unikgaul.com##img[alt="Obat Herbal"]
 komikbaru.com##img[alt="Pemasangan Iklan"]
+unikgaul.com##img[alt="Toko vitalitas"]
+unikgaul.com##img[alt="agen bola online"]
+unikgaul.com##img[alt="cara cepat sukses"]
 remo-xp.com##img[alt="iklan 440x90"]
 zonamuda.com##img[alt="iklan"]
 bokepgratiz.info##img[alt="smart-forex-system.com"]

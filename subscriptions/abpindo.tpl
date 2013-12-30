@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 26 Desember 2013, 13:35:28 WIB
+# Last modified: 30 Desember 2013, 15:06:33 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -231,6 +231,7 @@ msFilterList
 - http://incentria.com
 - http://incrasebux.com
 - http://indo-solusta.com
+# ||indoagenbola.com^$popup,third-party
 - http://indobanner.com
 - http://indofreeads.com
 - http://indovertiser.com
@@ -368,7 +369,7 @@ msFilterList
 - http://yesads.com
 # *** abpindo_specific_block.txt ***
 -d 173.199.167.192 /bb17-iklan.php
-# ||173.199.189.86/*.gif$domain=forumbokep.com
+# ||173.199.189.86/*.gif$domain=forumbokep.com,vocland.com
 -d alertpay.com /banners/
 -d angel.exabytes.com.my /banners/
 -d armylookfashion.com /728.swf
@@ -394,6 +395,7 @@ msFilterList
 -d forumkami.net /ad125x125/
 -d forumkami.net /ad200x50/
 -d forumkami.net /close.gif
+-d ganool.com /wp-content/uploads/*.gif
 # ||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws
 -d harakah.net.my /images/stories/iklan/
 -d harianjogja.com /img/bnr/
@@ -435,7 +437,6 @@ msFilterList
 -d mractionclub.com /banner/
 -d musisi.com /musifile/images_banner/
 -d my.postsgenius.com /style/banners/
--d newopenx.detik.com /images/
 -d oprekpc.com /banner/
 -d pancet.com /kbads/
 # ||perawan.pro/$popup
@@ -465,7 +466,7 @@ msFilterList
 # indogamers.com###IklanIDGS
 # 173.199.167.192,krucil.com,krucil.net###KD_adpB
 # chip.co.id###TopBannerBg
-# 173.199.167.192,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.com,krucil.net,sodasusu.com###ad_global_below_navbar
+# 173.199.167.192,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.com,krucil.net,sodasusu.com,vocland.com###ad_global_below_navbar
 # harianjogja.com,solopos.com###ads-float
 # dapurpacu.com###ads-mid
 # downloadfilmbaru.com###ads-stack
@@ -488,6 +489,7 @@ msFilterList
 # teknoup.com###fancybox_ajax
 # metrotvnews.com###fixme
 # forumbokep.com###floating_banner_bottom
+# ganool.com###floating_banner_bottom2
 # ganool.com###floating_banner_left1
 # ganool.com###floating_banner_left2
 # untukku.com###footer-adcont
@@ -523,8 +525,8 @@ msFilterList
 # harianjogja.com,solopos.com###solopos_float
 # downloadfilmbaru.com###sticky-ads
 # detik.com###sto_banner
-# downloadfilmbaru.com,galaxymaya.com###teaser2
-# downloadfilmbaru.com,galaxymaya.com###teaser3
+# downloadfilmbaru.com,galaxymaya.com,unikgaul.com###teaser2
+# downloadfilmbaru.com,galaxymaya.com,unikgaul.com###teaser3
 # sodasusu.com###teaser4
 # m.detik.com###top
 # detik.com###top_banner
