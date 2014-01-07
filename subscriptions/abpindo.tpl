@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 30 Desember 2013, 15:06:33 WIB
+# Last modified: 07 Januari 2014, 16:07:16 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -437,6 +437,7 @@ msFilterList
 -d mractionclub.com /banner/
 -d musisi.com /musifile/images_banner/
 -d my.postsgenius.com /style/banners/
+-d newopenx.detik.com /images/
 -d oprekpc.com /banner/
 -d pancet.com /kbads/
 # ||perawan.pro/$popup
@@ -550,7 +551,7 @@ msFilterList
 # gugling.com##.ad336x280atas
 # mangafox.com##.ad728x90.left + .right
 # bharian.com.my##.adbtm
-# dapurpacu.com##.ads
+# dapurpacu.com,kompas.com##.ads
 # republika.co.id##.ads-160-600
 # republika.co.id##.ads-300-video
 # dapurpacu.com##.ads-home
@@ -580,6 +581,7 @@ msFilterList
 # lapar.com,loveindonesia.com##.banner_box
 # detik.com##.banner_inside_article
 # lapar.com##.banner_main
+# detik.com##.banner_reg
 # detik.com##.banner_reg.h250.cad_scl1
 # detik.com##.banner_reg.h250.cad_scl2
 # zonamuda.com##.bannertengah

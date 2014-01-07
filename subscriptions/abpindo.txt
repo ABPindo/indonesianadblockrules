@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WTHqNuwjC+cPZvtCJ+4/Pw
+! Checksum: OmvAYxtFQYNtcuCjNYj4Sg
 ! Title: ABPindo
-! Last modified: 30 Desember 2013, 15:06:33 WIB
+! Last modified: 07 Januari 2014, 16:07:16 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -445,6 +445,7 @@ blogspot.com##img[alt="ads"]
 ||mractionclub.com/banner/
 ||musisi.com/musifile/images_banner/
 ||my.postsgenius.com/style/banners/
+||newopenx.detik.com/images/
 ||oprekpc.com/banner/
 ||pancet.com/kbads/
 ||perawan.pro/$popup
@@ -561,7 +562,7 @@ m.kapanlagi.com##.ad2
 gugling.com##.ad336x280atas
 mangafox.com##.ad728x90.left + .right
 bharian.com.my##.adbtm
-dapurpacu.com##.ads
+dapurpacu.com,kompas.com##.ads
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
 dapurpacu.com##.ads-home
@@ -591,6 +592,7 @@ kompas.com##.bannerTopOut
 lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
+detik.com##.banner_reg
 detik.com##.banner_reg.h250.cad_scl1
 detik.com##.banner_reg.h250.cad_scl2
 zonamuda.com##.bannertengah
