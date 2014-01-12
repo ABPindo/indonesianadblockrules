@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 07 Januari 2014, 16:07:16 WIB
+# Last modified: 12 Januari 2014, 20:33:48 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -467,7 +467,7 @@ msFilterList
 # indogamers.com###IklanIDGS
 # 173.199.167.192,krucil.com,krucil.net###KD_adpB
 # chip.co.id###TopBannerBg
-# 173.199.167.192,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.com,krucil.net,sodasusu.com,vocland.com###ad_global_below_navbar
+# forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,sodasusu.com,vocland.com###ad_global_below_navbar
 # harianjogja.com,solopos.com###ads-float
 # dapurpacu.com###ads-mid
 # downloadfilmbaru.com###ads-stack
@@ -592,7 +592,6 @@ msFilterList
 # mforum.cari.com.my##.cari-ads
 # modifikasi.com##.cell_banner_inside
 # okezone.com##.center-ban
-# detik.com##.close
 # tempo.co##.closebanner1
 # tempo.co##.closebanner2
 # lintas.me##.column.centered.ad-frame.sc1_top
