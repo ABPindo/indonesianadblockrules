@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 12 Januari 2014, 20:33:48 WIB
+# Last modified: 18 Januari 2014, 14:26:40 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -327,6 +327,7 @@ msFilterList
 - http://rupiahbux.com
 - http://sanglah.com
 - http://sbbanner.com
+- http://sbo303.com
 - http://sebar.idblognetwork.com
 - http://sentra-iklan.com
 - http://sentrapromosi.com
@@ -482,8 +483,10 @@ msFilterList
 # detik.com###bottom_banner
 # indogamers.com###bottombanner
 # bioskop21.us###box-message
+# oploverz.net###bsaQXerGNl
 # adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
 # movie76.com###close-teaser
+# 90animax.com###energysaving
 # lintas.me###facebox_overlay
 # bioskop21.us###fadeinbox
 # teknoup.com###fancybox-wrap
@@ -498,6 +501,11 @@ msFilterList
 # resep.web.id###googlebox
 # indosiar.com###headerbanner
 # ceriwis.us###hoho-wrapsubmenu3
+# lensaindonesia.com###idcomboard1.com-728x90
+# lensaindonesia.com###idcomright1.com-300x250
+# lensaindonesia.com###idcomright2.com-300x250
+# lensaindonesia.com###idcomsensebox1.com-300x250
+# lensaindonesia.com###idcomsky1.com-160x600
 # remo-xp.com###ikanan
 # remo-xp.com###ikiri
 # zonamuda.com###iklan1
@@ -518,6 +526,8 @@ msFilterList
 # utusan.com.my###rec_ad4
 # komikbaru.com,mangafox.me###right-skyscraper
 # kapanlagi.com###scmicrosite
+# gopego.com###showcase1
+# gopego.com###showcase2
 # lintas.me###showcasedown
 # panduanpercuma.info###sidebar-banner300
 # zonabola.com###simplemodal-container
@@ -587,6 +597,7 @@ msFilterList
 # zonamuda.com##.bannertengah
 # bharian.com.my##.bh-ad
 # kaskus.co.id##.bottom-frame
+# gopego.com##.box
 # kompas.com##.boxBannerR1akt
 # kompas.com##.boxSkinAd
 # mforum.cari.com.my##.cari-ads

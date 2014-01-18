@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: msaDhp7hhsDCyRIUDoqsxQ
+! Checksum: 3Tw17osbLcgtWStevuK/QA
 ! Title: ABPindo
-! Last modified: 12 Januari 2014, 20:33:48 WIB
+! Last modified: 18 Januari 2014, 14:26:40 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -335,6 +335,7 @@ blogspot.com##img[alt="ads"]
 ||rupiahbux.com^$third-party
 ||sanglah.com^$third-party
 ||sbbanner.com^$third-party
+||sbo303.com^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||sentra-iklan.com^$third-party
 ||sentrapromosi.com^$third-party
@@ -491,8 +492,10 @@ detik.com###bottom_banner
 indogamers.com###bottombanner
 bioskop21.us###box-message
 tribunnews.com###boxright [style="width:300px; height:250px;"]
+oploverz.net###bsaQXerGNl
 adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
 movie76.com###close-teaser
+90animax.com###energysaving
 lintas.me###facebox_overlay
 bioskop21.us###fadeinbox
 teknoup.com###fancybox-wrap
@@ -508,6 +511,11 @@ resep.web.id###googlebox
 indosiar.com###headerbanner
 indosiar.com###headerbanner + div[style="height:50px"]
 ceriwis.us###hoho-wrapsubmenu3
+lensaindonesia.com###idcomboard1.com-728x90
+lensaindonesia.com###idcomright1.com-300x250
+lensaindonesia.com###idcomright2.com-300x250
+lensaindonesia.com###idcomsensebox1.com-300x250
+lensaindonesia.com###idcomsky1.com-160x600
 remo-xp.com###ikanan
 remo-xp.com###ikiri
 zonamuda.com###iklan1
@@ -529,6 +537,8 @@ zonabola.com###rAds img
 utusan.com.my###rec_ad4
 komikbaru.com,mangafox.me###right-skyscraper
 kapanlagi.com###scmicrosite
+gopego.com###showcase1
+gopego.com###showcase2
 lintas.me###showcasedown
 panduanpercuma.info###sidebar-banner300
 zonabola.com###simplemodal-container
@@ -598,6 +608,7 @@ detik.com##.banner_reg.h250.cad_scl2
 zonamuda.com##.bannertengah
 bharian.com.my##.bh-ad
 kaskus.co.id##.bottom-frame
+gopego.com##.box
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 mforum.cari.com.my##.cari-ads
