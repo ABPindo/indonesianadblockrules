@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3Tw17osbLcgtWStevuK/QA
+! Checksum: R4jbZsqoNaRdwAfyuItOXw
 ! Title: ABPindo
-! Last modified: 18 Januari 2014, 14:26:40 WIB
+! Last modified: 24 Januari 2014, 09:09:10 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -51,8 +51,8 @@ blogspot.com###topbar
 ##.gbcontent
 ##.gpcontent
 ~kontan.co.id##.iklan
+##.iklanmini
 ##.pasangiklan
-##.semprot_ads
 ##.topadsense
 com##img[alt="Agen Judi Online"]
 ##img[alt="Pasang Iklan Anda Disini"]
@@ -132,7 +132,6 @@ blogspot.com##img[alt="ads"]
 ||dewamabuk.com^$third-party
 ||direktori-iklan.com^$third-party
 ||doremibet.com^$third-party
-||doublerads.com^$third-party
 ||duitbux.com^$third-party
 ||duitmu.com^$third-party
 ||dunia-bisnis.com^$third-party
@@ -152,7 +151,6 @@ blogspot.com##img[alt="ads"]
 ||galaxybola.com^$third-party
 ||goodlucky99.com^$third-party
 ||gowellup.com^$third-party
-||gratis-iklan-baris.com^$third-party
 ||gratisiklanpasang.com^$third-party
 ||gratisiklanpasang.net^$third-party
 ||groupiklan.com^$third-party
@@ -218,7 +216,6 @@ blogspot.com##img[alt="ads"]
 ||iklanlowongan.com^$third-party
 ||iklanmarket.com^$third-party
 ||iklanoke.com^$third-party
-||iklanonlinegratis.com^$third-party
 ||iklanonlinemu.com^$third-party
 ||iklanpasanggratis.com^$third-party
 ||iklanpedia.com^$third-party
@@ -254,11 +251,9 @@ blogspot.com##img[alt="ads"]
 ||jingkrak.com^$third-party
 ||juruiklan.com^$third-party
 ||kakakdewa.net^$third-party
-||kebunemas.com^$third-party
 ||klikabadi.com^$third-party
 ||klikabadi.net^$third-party
 ||klikajadeh.com^$third-party
-||kumpuljutawan.com^$third-party
 ||ladangiklan.com^$third-party
 ||ladanguang.com^$third-party
 ||link2communion.com^$third-party
@@ -310,7 +305,6 @@ blogspot.com##img[alt="ads"]
 ||peluangbisnis.org^$third-party
 ||pemaintogel.info^$third-party
 ||perawan3gp.com^$popup,third-party
-||ping-fast.com^$third-party
 ||pondokiklan.com^$third-party
 ||popupmoney.com^$third-party
 ||portaliklan.com^$third-party
@@ -331,7 +325,6 @@ blogspot.com##img[alt="ads"]
 ||realwap.net^$third-party
 ||referral-secrets.com^$third-party
 ||ro2.biz^$third-party
-||ruangbisnis.com^$third-party
 ||rupiahbux.com^$third-party
 ||sanglah.com^$third-party
 ||sbbanner.com^$third-party
@@ -502,9 +495,6 @@ teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 metrotvnews.com###fixme
 forumbokep.com###floating_banner_bottom
-ganool.com###floating_banner_bottom2
-ganool.com###floating_banner_left1
-ganool.com###floating_banner_left2
 untukku.com###footer-adcont
 ketubanjiwa.com###g207
 resep.web.id###googlebox
@@ -583,8 +573,6 @@ utusan.com.my##.adspace_300
 m.iklanbaris.detik.com##.adtext01
 teknoup.com##.advertisement_box1
 palingseru.com##.alignnone.size-large.wp-image-458
-metrotvnews.com##.banner-160x600.left.mb20
-ganool.com##.banner-right.clearfix
 kaskus.co.id##.banner-top-ads
 oktavita.com##.banner-zone
 kompas.com##.bannerAdB
@@ -603,8 +591,6 @@ lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
 detik.com##.banner_reg
-detik.com##.banner_reg.h250.cad_scl1
-detik.com##.banner_reg.h250.cad_scl2
 zonamuda.com##.bannertengah
 bharian.com.my##.bh-ad
 kaskus.co.id##.bottom-frame
@@ -641,6 +627,7 @@ lintas.me##.popup
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250.mb10
 okezone.com##.rc-ad-300x250.mb20
+semprot.com##.semprot_ads
 republika.co.id##.set-ads-468
 okezone.com##.skyscrapper
 bokepgratiz.info##.textwidget
