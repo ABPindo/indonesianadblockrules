@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 18 Januari 2014, 14:26:40 WIB
+# Last modified: 24 Januari 2014, 09:09:10 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -49,8 +49,8 @@ msFilterList
 # ##.gbcontent
 # ##.gpcontent
 # ~kontan.co.id##.iklan
+# ##.iklanmini
 # ##.pasangiklan
-# ##.semprot_ads
 # ##.topadsense
 # *** abpindo_thirdparty.txt ***
 # ||108.168.231.179^$popup,third-party
@@ -124,7 +124,6 @@ msFilterList
 - http://dewamabuk.com
 - http://direktori-iklan.com
 - http://doremibet.com
-- http://doublerads.com
 - http://duitbux.com
 - http://duitmu.com
 - http://dunia-bisnis.com
@@ -144,7 +143,6 @@ msFilterList
 - http://galaxybola.com
 - http://goodlucky99.com
 - http://gowellup.com
-- http://gratis-iklan-baris.com
 - http://gratisiklanpasang.com
 - http://gratisiklanpasang.net
 - http://groupiklan.com
@@ -210,7 +208,6 @@ msFilterList
 - http://iklanlowongan.com
 - http://iklanmarket.com
 - http://iklanoke.com
-- http://iklanonlinegratis.com
 - http://iklanonlinemu.com
 - http://iklanpasanggratis.com
 - http://iklanpedia.com
@@ -246,11 +243,9 @@ msFilterList
 - http://jingkrak.com
 - http://juruiklan.com
 - http://kakakdewa.net
-- http://kebunemas.com
 - http://klikabadi.com
 - http://klikabadi.net
 - http://klikajadeh.com
-- http://kumpuljutawan.com
 - http://ladangiklan.com
 - http://ladanguang.com
 - http://link2communion.com
@@ -302,7 +297,6 @@ msFilterList
 - http://peluangbisnis.org
 - http://pemaintogel.info
 # ||perawan3gp.com^$popup,third-party
-- http://ping-fast.com
 - http://pondokiklan.com
 - http://popupmoney.com
 - http://portaliklan.com
@@ -323,7 +317,6 @@ msFilterList
 - http://realwap.net
 - http://referral-secrets.com
 - http://ro2.biz
-- http://ruangbisnis.com
 - http://rupiahbux.com
 - http://sanglah.com
 - http://sbbanner.com
@@ -493,9 +486,6 @@ msFilterList
 # teknoup.com###fancybox_ajax
 # metrotvnews.com###fixme
 # forumbokep.com###floating_banner_bottom
-# ganool.com###floating_banner_bottom2
-# ganool.com###floating_banner_left1
-# ganool.com###floating_banner_left2
 # untukku.com###footer-adcont
 # ketubanjiwa.com###g207
 # resep.web.id###googlebox
@@ -572,8 +562,6 @@ msFilterList
 # m.iklanbaris.detik.com##.adtext01
 # teknoup.com##.advertisement_box1
 # palingseru.com##.alignnone.size-large.wp-image-458
-# metrotvnews.com##.banner-160x600.left.mb20
-# ganool.com##.banner-right.clearfix
 # kaskus.co.id##.banner-top-ads
 # oktavita.com##.banner-zone
 # kompas.com##.bannerAdB
@@ -592,8 +580,6 @@ msFilterList
 # detik.com##.banner_inside_article
 # lapar.com##.banner_main
 # detik.com##.banner_reg
-# detik.com##.banner_reg.h250.cad_scl1
-# detik.com##.banner_reg.h250.cad_scl2
 # zonamuda.com##.bannertengah
 # bharian.com.my##.bh-ad
 # kaskus.co.id##.bottom-frame
@@ -627,6 +613,7 @@ msFilterList
 # kaskus.co.id##.r-link
 # okezone.com##.rc-ad-300x250.mb10
 # okezone.com##.rc-ad-300x250.mb20
+# semprot.com##.semprot_ads
 # republika.co.id##.set-ads-468
 # okezone.com##.skyscrapper
 # bokepgratiz.info##.textwidget

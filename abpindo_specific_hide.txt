@@ -30,9 +30,6 @@ teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 metrotvnews.com###fixme
 forumbokep.com###floating_banner_bottom
-ganool.com###floating_banner_bottom2
-ganool.com###floating_banner_left1
-ganool.com###floating_banner_left2
 untukku.com###footer-adcont
 ketubanjiwa.com###g207
 resep.web.id###googlebox
@@ -111,8 +108,6 @@ utusan.com.my##.adspace_300
 m.iklanbaris.detik.com##.adtext01
 teknoup.com##.advertisement_box1
 palingseru.com##.alignnone.size-large.wp-image-458
-metrotvnews.com##.banner-160x600.left.mb20
-ganool.com##.banner-right.clearfix
 kaskus.co.id##.banner-top-ads
 oktavita.com##.banner-zone
 kompas.com##.bannerAdB
@@ -131,8 +126,6 @@ lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
 detik.com##.banner_reg
-detik.com##.banner_reg.h250.cad_scl1
-detik.com##.banner_reg.h250.cad_scl2
 zonamuda.com##.bannertengah
 bharian.com.my##.bh-ad
 kaskus.co.id##.bottom-frame
@@ -169,6 +162,7 @@ lintas.me##.popup
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250.mb10
 okezone.com##.rc-ad-300x250.mb20
+semprot.com##.semprot_ads
 republika.co.id##.set-ads-468
 okezone.com##.skyscrapper
 bokepgratiz.info##.textwidget
