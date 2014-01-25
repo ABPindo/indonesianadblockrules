@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 24 Januari 2014, 09:09:10 WIB
+# Last modified: 25 Januari 2014, 13:08:08 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -611,8 +611,7 @@ msFilterList
 # detik.com##.otp_banner_close
 # lintas.me##.popup
 # kaskus.co.id##.r-link
-# okezone.com##.rc-ad-300x250.mb10
-# okezone.com##.rc-ad-300x250.mb20
+# okezone.com##.rc-ad-300x250
 # semprot.com##.semprot_ads
 # republika.co.id##.set-ads-468
 # okezone.com##.skyscrapper
