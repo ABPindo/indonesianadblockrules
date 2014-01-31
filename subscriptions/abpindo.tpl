@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 25 Januari 2014, 13:08:08 WIB
+# Last modified: 31 Januari 2014, 14:05:25 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -49,6 +49,7 @@ msFilterList
 # ##.gbcontent
 # ##.gpcontent
 # ~kontan.co.id##.iklan
+# ##.iklan728
 # ##.iklanmini
 # ##.pasangiklan
 # ##.topadsense
@@ -362,6 +363,7 @@ msFilterList
 - http://webtrackerplus.com
 - http://yesads.com
 # *** abpindo_specific_block.txt ***
+# |http://i.imgur.com/*.gif$domain=animekompi.web.id
 -d 173.199.167.192 /bb17-iklan.php
 # ||173.199.189.86/*.gif$domain=forumbokep.com,vocland.com
 -d alertpay.com /banners/
@@ -393,6 +395,7 @@ msFilterList
 # ||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws
 -d harakah.net.my /images/stories/iklan/
 -d harianjogja.com /img/bnr/
+-d id.hao123.com /resource/id/banner/
 -d images.gameweb.co.id /gw/ads/
 -d images.harianjogja.com /banner/
 -d images.indoforum.org /banners/
@@ -502,6 +505,7 @@ msFilterList
 # zonamuda.com###iklan2
 # zonamuda.com###iklan3
 # zonamuda.com###iklan4
+# wardhanime.net###iklanatas
 # jomniaga.com###imgBanner
 # downloadfilmbaru.com###itro_opaco
 # downloadfilmbaru.com###itro_popup
@@ -555,6 +559,7 @@ msFilterList
 # republika.co.id##.ads-160-600
 # republika.co.id##.ads-300-video
 # dapurpacu.com##.ads-home
+# kompas.com##.ads2
 # dapurpacu.com##.ads2-home
 # kompas.com##.adsMR1Lipsus1
 # antaranews.com##.ads_top_728
@@ -571,10 +576,12 @@ msFilterList
 # kompas.com##.bannerCenter2SubRubrik
 # kompas.com##.bannerCenterRubrik
 # kompas.com##.bannerR
+# indonesiasatu.kompas.com##.bannerR1
 # kompas.com##.bannerR2
 # kompas.com##.bannerR2A
 # kompas.com##.bannerR3
 # kompas.com##.bannerR3A
+# indonesiasatu.kompas.com##.bannerTop1
 # kompas.com##.bannerTopOut
 # lapar.com,loveindonesia.com##.banner_box
 # detik.com##.banner_inside_article

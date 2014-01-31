@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ypD+SDIauSri14Yw5r7E3A
+! Checksum: lTBCEdeOAmnAZeO0M0LW9A
 ! Title: ABPindo
-! Last modified: 25 Januari 2014, 13:08:08 WIB
+! Last modified: 31 Januari 2014, 14:05:25 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -51,6 +51,7 @@ blogspot.com###topbar
 ##.gbcontent
 ##.gpcontent
 ~kontan.co.id##.iklan
+##.iklan728
 ##.iklanmini
 ##.pasangiklan
 ##.topadsense
@@ -370,6 +371,7 @@ blogspot.com##img[alt="ads"]
 ||webtrackerplus.com^$third-party
 ||yesads.com^$third-party
 ! *** abpindo_specific_block.txt ***
+|http://i.imgur.com/*.gif$domain=animekompi.web.id
 ||173.199.167.192/bb17-iklan.php
 ||173.199.189.86/*.gif$domain=forumbokep.com,vocland.com
 ||alertpay.com/banners/
@@ -401,6 +403,7 @@ blogspot.com##img[alt="ads"]
 ||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/img/bnr/
+||id.hao123.com/resource/id/banner/
 ||images.gameweb.co.id/gw/ads/
 ||images.harianjogja.com/banner/
 ||images.indoforum.org/banners/
@@ -512,6 +515,7 @@ zonamuda.com###iklan1
 zonamuda.com###iklan2
 zonamuda.com###iklan3
 zonamuda.com###iklan4
+wardhanime.net###iklanatas
 jomniaga.com###imgBanner
 downloadfilmbaru.com###itro_opaco
 downloadfilmbaru.com###itro_popup
@@ -566,6 +570,7 @@ dapurpacu.com,kompas.com##.ads
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
 dapurpacu.com##.ads-home
+kompas.com##.ads2
 dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
 antaranews.com##.ads_top_728
@@ -582,10 +587,12 @@ kompas.com##.bannerCenter1SubRubrik
 kompas.com##.bannerCenter2SubRubrik
 kompas.com##.bannerCenterRubrik
 kompas.com##.bannerR
+indonesiasatu.kompas.com##.bannerR1
 kompas.com##.bannerR2
 kompas.com##.bannerR2A
 kompas.com##.bannerR3
 kompas.com##.bannerR3A
+indonesiasatu.kompas.com##.bannerTop1
 kompas.com##.bannerTopOut
 lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
@@ -640,6 +647,7 @@ downloadfilem.com##a[href^="http://promosipraktis.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 metrotvnews.com##div[style="height: 60px; margin:auto; background-color:#ccc; width:960px; bottom:0px;position:fixed;z-index:100"]
 situshp.com##div[style="height:260px;"]
+wardhanime.net##div[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:left"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 bokepgratiz.info##div[style="width:100%;text-align:center;"]
 metrotvnews.com##div[style="width:960px; height:60px;  background-color:#666666; position:fixed; z-index:1000; top:0;"]
