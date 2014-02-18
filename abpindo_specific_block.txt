@@ -7,6 +7,7 @@
 ||asianbrain.com/banner/
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
+||blogspot.com/$popup,domain=bioskop21.us
 ||blogspot.com^*.gif$domain=asik.me|duniasex.ws
 ||bokepgratiz.info/banner/
 ||bolanews.com/application/views/web/default/images/close-icon.png
@@ -76,6 +77,7 @@
 ||ranjangternoda.com/images/banner/
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
+||serbiansoftware.com^$popup,domain=bioskop21.us
 ||sodasusu.com/banner/
 ||sodasusu.org/banner/
 ||static.republika.co.id/files/images/btn_close.png
