@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 08 Februari 2014, 12:58:32 WIB
+# Last modified: 19 Februari 2014, 06:47:03 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -56,12 +56,11 @@ msFilterList
 # *** abpindo_thirdparty.txt ***
 # ||108.168.231.179^$popup,third-party
 - http://1iklanbaris.com
-- http://1jutarupiah.com
 - http://1st-iklan.com
-# ||204.45.15.132^$popup,third-party
 - http://39bola.com
 - http://988bet.com
 - http://abadiklan.com
+# ||ad.directrev.com/$popup,third-party
 - http://adbusinessfree.com
 - http://adcenter2u.com
 - http://addesigner.com
@@ -88,6 +87,7 @@ msFilterList
 - http://asiabolabet.com
 - http://axverta.com
 - http://baliadv.com
+# ||bandarjudi.com/$popup,third-party
 - http://barisiklangratis.com
 - http://bebaspikiran.com
 - http://bejopoker.com
@@ -107,7 +107,6 @@ msFilterList
 - http://bisnistransportasi.com
 - http://bola777.net
 - http://bolaketangkasan.com
-# ||bolasonic.com^$image,popup
 - http://bravevolitation.com
 - http://btybet.com
 - http://bursabet.com
@@ -136,12 +135,12 @@ msFilterList
 - http://fellowequality.com
 # ||firstbola.com/$popup,third-party
 - http://flexterkita.com
-- http://forexpose.com
 -d formulabisnis.com /images/
 - http://forumiklan.com
 - http://gadget-ads.com
 - http://gajigratis.com
 - http://galaxybola.com
+# ||gambar123.com/$popup,third-party
 - http://goodlucky99.com
 - http://gowellup.com
 - http://gratisiklanpasang.com
@@ -205,7 +204,6 @@ msFilterList
 - http://iklanjoglo.com
 - http://iklankito.com
 - http://iklankomplit.com
-- http://iklanlisting.com
 - http://iklanlowongan.com
 - http://iklanmarket.com
 - http://iklanoke.com
@@ -243,6 +241,7 @@ msFilterList
 - http://jillsclickcorner.com
 - http://jingkrak.com
 - http://juruiklan.com
+# ||kakakdewa.com/$popup,third-party
 - http://kakakdewa.net
 - http://klikabadi.com
 - http://klikabadi.net
@@ -298,6 +297,7 @@ msFilterList
 - http://peluangbisnis.org
 - http://pemaintogel.info
 # ||perawan3gp.com^$popup,third-party
+# ||pokerjujur.com/$popup,third-party
 - http://pondokiklan.com
 - http://popupmoney.com
 - http://portaliklan.com
@@ -314,6 +314,7 @@ msFilterList
 - http://pusatmarketing.com
 - http://pusatpromosiiklan.com
 - http://rahasiapanas.com
+# ||rajabet77.com/$popup,third-party
 - http://ratubola.com
 - http://realwap.net
 - http://referral-secrets.com
@@ -341,7 +342,6 @@ msFilterList
 - http://teknikbisnis.com
 - http://teliad.com
 - http://tempatiklan.com
-- http://texasptc.com
 - http://textlinksdepot.com
 - http://textspace.net
 - http://theclickers.net
@@ -372,6 +372,7 @@ msFilterList
 -d asianbrain.com /banner/
 # ||bacamanga.com/images/indofiles/$image
 -d bingofreebonus.net /bfbcontent/locker.js?
+# ||blogspot.com/$popup,domain=bioskop21.us
 # ||blogspot.com^*.gif$domain=asik.me|duniasex.ws
 -d bokepgratiz.info /banner/
 -d bolanews.com /application/views/web/default/images/close-icon.png
@@ -441,6 +442,7 @@ msFilterList
 -d ranjangternoda.com /images/banner/
 -d resep.web.id /banner/
 -d semprot.com /x_ads/
+# ||serbiansoftware.com^$popup,domain=bioskop21.us
 -d sodasusu.com /banner/
 -d sodasusu.org /banner/
 -d static.republika.co.id /files/images/btn_close.png

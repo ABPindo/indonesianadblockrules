@@ -1,11 +1,10 @@
 ||108.168.231.179^$popup,third-party
 ||1iklanbaris.com^$third-party
-||1jutarupiah.com^$third-party
 ||1st-iklan.com^$third-party
-||204.45.15.132^$popup,third-party
 ||39bola.com^$third-party
 ||988bet.com^$third-party
 ||abadiklan.com^$third-party
+||ad.directrev.com/$popup,third-party
 ||adbusinessfree.com^$third-party
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
@@ -32,6 +31,7 @@
 ||asiabolabet.com^$third-party
 ||axverta.com^$third-party
 ||baliadv.com^$third-party
+||bandarjudi.com/$popup,third-party
 ||barisiklangratis.com^$third-party
 ||bebaspikiran.com^$third-party
 ||bejopoker.com^$third-party
@@ -51,7 +51,6 @@
 ||bisnistransportasi.com^$third-party
 ||bola777.net^$third-party
 ||bolaketangkasan.com^$third-party
-||bolasonic.com^$image,popup
 ||bravevolitation.com^$third-party
 ||btybet.com^$third-party
 ||bursabet.com^$third-party
@@ -80,12 +79,12 @@
 ||fellowequality.com^$third-party
 ||firstbola.com/$popup,third-party
 ||flexterkita.com^$third-party
-||forexpose.com^$third-party
 ||formulabisnis.com/images/$third-party
 ||forumiklan.com^$third-party
 ||gadget-ads.com^$third-party
 ||gajigratis.com^$third-party
 ||galaxybola.com^$third-party
+||gambar123.com/$popup,third-party
 ||goodlucky99.com^$third-party
 ||gowellup.com^$third-party
 ||gratisiklanpasang.com^$third-party
@@ -149,7 +148,6 @@
 ||iklanjoglo.com^$third-party
 ||iklankito.com^$third-party
 ||iklankomplit.com^$third-party
-||iklanlisting.com^$third-party
 ||iklanlowongan.com^$third-party
 ||iklanmarket.com^$third-party
 ||iklanoke.com^$third-party
@@ -187,6 +185,7 @@
 ||jillsclickcorner.com^$third-party
 ||jingkrak.com^$third-party
 ||juruiklan.com^$third-party
+||kakakdewa.com/$popup,third-party
 ||kakakdewa.net^$third-party
 ||klikabadi.com^$third-party
 ||klikabadi.net^$third-party
@@ -242,6 +241,7 @@
 ||peluangbisnis.org^$third-party
 ||pemaintogel.info^$third-party
 ||perawan3gp.com^$popup,third-party
+||pokerjujur.com/$popup,third-party
 ||pondokiklan.com^$third-party
 ||popupmoney.com^$third-party
 ||portaliklan.com^$third-party
@@ -258,6 +258,7 @@
 ||pusatmarketing.com^$third-party
 ||pusatpromosiiklan.com^$third-party
 ||rahasiapanas.com^$third-party
+||rajabet77.com/$popup,third-party
 ||ratubola.com^$third-party
 ||realwap.net^$third-party
 ||referral-secrets.com^$third-party
@@ -285,7 +286,6 @@
 ||teknikbisnis.com^$third-party
 ||teliad.com^$third-party
 ||tempatiklan.com^$third-party
-||texasptc.com^$third-party
 ||textlinksdepot.com^$third-party
 ||textspace.net^$third-party
 ||theclickers.net^$third-party
