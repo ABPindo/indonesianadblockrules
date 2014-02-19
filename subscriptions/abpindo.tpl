@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 19 Februari 2014, 06:47:03 WIB
+# Last modified: 19 Februari 2014, 09:45:19 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -20,6 +20,7 @@ msFilterList
 - .net/iklan/
 - .tv/iklan/
 - /ads/iklan.
+- /bb17-iklan.
 - /images/iklan/
 - /SkinADkanan.
 - /SkinADkiri.
@@ -237,7 +238,7 @@ msFilterList
 - http://jagopromo.com
 - http://jasaiklan.com
 - http://javaiklan.com
-# ||javapic.com^$image,object,third-party
+- http://javapic.com
 - http://jillsclickcorner.com
 - http://jingkrak.com
 - http://juruiklan.com
@@ -364,7 +365,6 @@ msFilterList
 - http://yesads.com
 # *** abpindo_specific_block.txt ***
 # |http://i.imgur.com/*.gif$domain=animekompi.web.id
--d 173.199.167.192 /bb17-iklan.php
 # ||173.199.189.86/*.gif$domain=forumbokep.com,vocland.com
 -d alertpay.com /banners/
 -d angel.exabytes.com.my /banners/
@@ -423,7 +423,8 @@ msFilterList
 -d kkcdn-static.kaskus.co.id /css_v0.1/img/skin/
 -d kompas.com /data/banner/
 -d koranlokal.com /iklan_baru/
--d krucil.com /bb17-iklan.php
+-d krucil.net /KD.js
+-d krucil.net /KD_adplib.js
 -d kumpulblogger.com /minibanner/
 -d lendir.org /banner/
 -d mediaindonesia.com /public/banner/flash/
@@ -491,6 +492,7 @@ msFilterList
 # teknoup.com###fancybox_ajax
 # metrotvnews.com###fixme
 # forumbokep.com###floating_banner_bottom
+# krucil.net###floating_banner_bottom.krucil_ads
 # untukku.com###footer-adcont
 # ketubanjiwa.com###g207
 # resep.web.id###googlebox
@@ -615,7 +617,8 @@ msFilterList
 # detik.com##.iklan_tengah
 # gambarkeren.info##.iklankotak1
 # kikil.org,kikil.ws##.kikil_ads
-# 173.199.167.192,krucil.com,krucil.net##.krucil_ads
+# krucil.net##.krucil_ads > .krucil_ads
+# krucil.net##.krucil_ads.krucil_floating_banner_top
 # kaskus.co.id##.l-link
 # metrotvnews.com##.left.banner-160x600
 # dapurpacu.com##.mid-banner

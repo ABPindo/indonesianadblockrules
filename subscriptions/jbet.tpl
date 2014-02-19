@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # JBet - filter untuk menghindari Jebakan Betmen
-# Last modified 26 Desember 2013, 13:35:28 WIB
+# Last modified 19 Februari 2014, 09:45:19 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -17,7 +17,6 @@ msFilterList
 - http://2guys1horse.com
 - http://4girlsfingerpaint.com
 - http://asianthumbx.com
-- http://bagslap.com
 -d bangun3.com /admin
 - http://bluewaffle.com
 - http://bmepainolympics2.com

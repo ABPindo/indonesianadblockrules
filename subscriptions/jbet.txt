@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: w3zh3iFWYU7IUpnrXvn1iQ
+! Checksum: tPqjoBugI99ljqw5R5q0CA
 ! JBet - filter untuk menghindari Jebakan Betmen
-! Last modified 26 Desember 2013, 13:35:28 WIB
+! Last modified 19 Februari 2014, 09:45:19 WIB
 ! Expires: 14 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -18,7 +18,6 @@
 ||2guys1horse.com^
 ||4girlsfingerpaint.com^
 ||asianthumbx.com^
-||bagslap.com^
 ||bangun3.com/admin
 ||bluewaffle.com^
 ||bmepainolympics2.com^

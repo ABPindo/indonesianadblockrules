@@ -30,6 +30,7 @@ teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 metrotvnews.com###fixme
 forumbokep.com###floating_banner_bottom
+krucil.net###floating_banner_bottom.krucil_ads
 untukku.com###footer-adcont
 ketubanjiwa.com###g207
 resep.web.id###googlebox
@@ -157,7 +158,9 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 kikil.org,kikil.ws##.kikil_ads
-173.199.167.192,krucil.com,krucil.net##.krucil_ads
+krucil.net##.krucil_ads > .krucil_ads
+krucil.net##.krucil_ads > div[style="margin-bottom:0.3em"]
+krucil.net##.krucil_ads.krucil_floating_banner_top
 kaskus.co.id##.l-link
 metrotvnews.com##.left.banner-160x600
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
