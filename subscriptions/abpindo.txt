@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PB1HoZCvbD9lA8o+kdkEvA
+! Checksum: moyotXNgte6gtWSRRJO1LQ
 ! Title: ABPindo
-! Last modified: 19 Februari 2014, 06:47:03 WIB
+! Last modified: 19 Februari 2014, 09:45:19 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -21,6 +21,7 @@
 .net/iklan/
 .tv/iklan/
 /ads/iklan.
+/bb17-iklan.
 /images/iklan/*
 /SkinADkanan.
 /SkinADkiri.
@@ -245,7 +246,7 @@ blogspot.com##img[alt="ads"]
 ||jagopromo.com^$third-party
 ||jasaiklan.com^$third-party
 ||javaiklan.com^$third-party
-||javapic.com^$image,object,third-party
+||javapic.com^$third-party
 ||jillsclickcorner.com^$third-party
 ||jingkrak.com^$third-party
 ||juruiklan.com^$third-party
@@ -372,7 +373,6 @@ blogspot.com##img[alt="ads"]
 ||yesads.com^$third-party
 ! *** abpindo_specific_block.txt ***
 |http://i.imgur.com/*.gif$domain=animekompi.web.id
-||173.199.167.192/bb17-iklan.php
 ||173.199.189.86/*.gif$domain=forumbokep.com,vocland.com
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
@@ -431,7 +431,8 @@ blogspot.com##img[alt="ads"]
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
 ||kompas.com/data/banner/
 ||koranlokal.com/iklan_baru/
-||krucil.com/bb17-iklan.php
+||krucil.net/KD.js
+||krucil.net/KD_adplib.js
 ||kumpulblogger.com/minibanner/
 ||lendir.org/banner/
 ||mediaindonesia.com/public/banner/flash/
@@ -500,6 +501,7 @@ teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 metrotvnews.com###fixme
 forumbokep.com###floating_banner_bottom
+krucil.net###floating_banner_bottom.krucil_ads
 untukku.com###footer-adcont
 ketubanjiwa.com###g207
 resep.web.id###googlebox
@@ -627,7 +629,9 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 kikil.org,kikil.ws##.kikil_ads
-173.199.167.192,krucil.com,krucil.net##.krucil_ads
+krucil.net##.krucil_ads > .krucil_ads
+krucil.net##.krucil_ads > div[style="margin-bottom:0.3em"]
+krucil.net##.krucil_ads.krucil_floating_banner_top
 kaskus.co.id##.l-link
 metrotvnews.com##.left.banner-160x600
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
