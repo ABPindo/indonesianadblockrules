@@ -20,6 +20,7 @@ detik.com###bottom_banner
 indogamers.com###bottombanner
 bioskop21.us###box-message
 tribunnews.com###boxright [style="width:300px; height:250px;"]
+oploverz.net###bsaCApAn3o
 oploverz.net###bsaQXerGNl
 adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
 movie76.com###close-teaser
@@ -44,11 +45,6 @@ lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
 remo-xp.com###ikanan
 remo-xp.com###ikiri
-zonamuda.com###iklan1
-zonamuda.com###iklan2
-zonamuda.com###iklan3
-zonamuda.com###iklan4
-wardhanime.net###iklanatas
 jomniaga.com###imgBanner
 downloadfilmbaru.com###itro_opaco
 downloadfilmbaru.com###itro_popup
@@ -56,11 +52,11 @@ harakahdaily.net###jsemrp_372_719
 harakahdaily.net###jsemrp_373_873
 harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
-zonabola.com###lAds img
+zonabola.com###lAds
 komikbaru.com,mangafox.me###left-skyscraper
 asik.me,bb17.us,duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
-zonabola.com###rAds img
+zonabola.com###rAds
 utusan.com.my###rec_ad4
 komikbaru.com,mangafox.me###right-skyscraper
 kapanlagi.com###scmicrosite
@@ -80,6 +76,7 @@ sodasusu.com###teaser4
 detik.com###top_banner
 bioskopkita.com###topbanner
 jurigjarian.com###topbar
+bioskopkita.com###toppopin
 kikil.org,kikil.ws###ucpop_adpB
 kikil.org,kikil.ws###ucpop_adpS
 kapanlagi.com###v5-leaderboard
@@ -143,8 +140,6 @@ modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
 tempo.co##.closebanner1
 tempo.co##.closebanner2
-lintas.me##.column.centered.ad-frame.sc1_top
-lintas.me##.column.centered.ad-frame.sc2_top
 tribunnews.com##.content [style="width:160px; height:600px;"]
 dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
@@ -178,6 +173,8 @@ bioskop21.us##.textwidget img[width="160"][height="600"]
 lapar.com##.top-banner
 galaxymaya.com##.widget-content
 movie76.com##.widget-content img[alt="ads"]
+lintas.me##.xad-160x600
+lintas.me##.xad-300x250
 kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
 downloadfilem.com##a[href^="http://promosipraktis.com/"]
