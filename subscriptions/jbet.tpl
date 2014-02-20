@@ -1,12 +1,11 @@
 msFilterList
 : Expires=5
 # JBet - filter untuk menghindari Jebakan Betmen
-# Last modified 19 Februari 2014, 09:45:19 WIB
+# Last modified 20 Februari 2014, 17:38:35 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
-# via e-mail (hermawanadhis@gmail.com)
 # in the forums (http://forums.lanik.us/viewforum.php?f=94)
 #
 # *** abpindo_computer_prank.txt ***
