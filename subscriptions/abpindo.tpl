@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 20 Februari 2014, 17:38:35 WIB
+# Last modified: 24 Februari 2014, 19:23:13 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -50,6 +50,7 @@ msFilterList
 # ##.SectionAds
 # ##.ad_primex
 # ##.ads.section
+# ##.bannerads
 # ##.bgads
 # ##.gbcontent
 # ##.gpcontent
@@ -436,7 +437,6 @@ msFilterList
 -d modemku.com /image-banner/
 -d modifikasi.com /images/banner/
 -d modifikasi.com /images/banner_
--d modifikasi.com /images/banners/
 -d mractionclub.com /banner/
 -d musisi.com /musifile/images_banner/
 -d my.postsgenius.com /style/banners/
@@ -460,6 +460,7 @@ msFilterList
 -d utusan.com.my /utusan/iklan/
 -d videogamesindonesia.com /banners/
 -d viva.co.id /appaux/images/close-button1.png
+# ||widih.modifikasi.com/images/banners/$domain=widih.modifikasi.com
 -d zonabola.com /wp-content/uploads/*/Banner-
 -d zonabola.com /iklan/
 # *** abpindo_specific_hide.txt ***
@@ -468,6 +469,10 @@ msFilterList
 # ic31linkpage.com,icinema3satu.com###FloatAlamindawa
 # indogamers.com###IklanIDGS
 # 173.199.167.192,krucil.com,krucil.net###KD_adpB
+# widih.modifikasi.com###MAX_frame0.bannertop
+# widih.modifikasi.com###MAX_frame1.bannerleft
+# widih.modifikasi.com###MAX_frame2.bannerbottom
+# widih.modifikasi.com###MAX_frame3.bannerright
 # chip.co.id###TopBannerBg
 # forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,sodasusu.com,vocland.com###ad_global_below_navbar
 # harianjogja.com,solopos.com###ads-float
@@ -488,6 +493,8 @@ msFilterList
 # oploverz.net###bsaQXerGNl
 # adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
 # movie76.com###close-teaser
+# gudang.tv###container-bottom-menu-ads
+# gudang.tv###container-bottom-menu-ads2
 # 90animax.com###energysaving
 # lintas.me###facebox_overlay
 # bioskop21.us###fadeinbox
@@ -560,6 +567,8 @@ msFilterList
 # dapurpacu.com,kompas.com##.ads
 # republika.co.id##.ads-160-600
 # republika.co.id##.ads-300-video
+# gudang.tv##.ads-content1
+# gudang.tv##.ads-content2
 # dapurpacu.com##.ads-home
 # kompas.com##.ads2
 # dapurpacu.com##.ads2-home
@@ -602,6 +611,10 @@ msFilterList
 # okezone.com##.center-ban
 # tempo.co##.closebanner1
 # tempo.co##.closebanner2
+# lensaindonesia.com##.com-300x250
+# lensaindonesia.com##.com-728x90
+# lensaindonesia.com##.comspc
+# lensaindonesia.com##.ctnitem.ctncom
 # dapurpacu.com##.fixed-ads-atas
 # teknoup.com##.footer_banner
 # catatankomputer.com##.forads
@@ -623,6 +636,7 @@ msFilterList
 # lintas.me##.popup
 # kaskus.co.id##.r-link
 # okezone.com##.rc-ad-300x250
+# filmindonesia.or.id##.row.block.ad-unit-medium-retangle.center
 # semprot.com##.semprot_ads
 # republika.co.id##.set-ads-468
 # okezone.com##.skyscrapper
