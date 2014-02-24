@@ -3,6 +3,10 @@ lintas.me###Advertisement
 ic31linkpage.com,icinema3satu.com###FloatAlamindawa
 indogamers.com###IklanIDGS
 173.199.167.192,krucil.com,krucil.net###KD_adpB
+widih.modifikasi.com###MAX_frame0.bannertop
+widih.modifikasi.com###MAX_frame1.bannerleft
+widih.modifikasi.com###MAX_frame2.bannerbottom
+widih.modifikasi.com###MAX_frame3.bannerright
 chip.co.id###TopBannerBg
 forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,sodasusu.com,vocland.com###ad_global_below_navbar
 harianjogja.com,solopos.com###ads-float
@@ -24,6 +28,8 @@ oploverz.net###bsaCApAn3o
 oploverz.net###bsaQXerGNl
 adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
 movie76.com###close-teaser
+gudang.tv###container-bottom-menu-ads
+gudang.tv###container-bottom-menu-ads2
 90animax.com###energysaving
 lintas.me###facebox_overlay
 bioskop21.us###fadeinbox
@@ -98,6 +104,8 @@ bharian.com.my##.adbtm
 dapurpacu.com,kompas.com##.ads
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
+gudang.tv##.ads-content1
+gudang.tv##.ads-content2
 dapurpacu.com##.ads-home
 kompas.com##.ads2
 dapurpacu.com##.ads2-home
@@ -140,7 +148,11 @@ modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
 tempo.co##.closebanner1
 tempo.co##.closebanner2
+lensaindonesia.com##.com-300x250
+lensaindonesia.com##.com-728x90
+lensaindonesia.com##.comspc
 tribunnews.com##.content [style="width:160px; height:600px;"]
+lensaindonesia.com##.ctnitem.ctncom
 dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
 catatankomputer.com##.forads
@@ -165,6 +177,7 @@ tribunnews.com##.ovh[style="width:468px;height:60px"]
 lintas.me##.popup
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250
+filmindonesia.or.id##.row.block.ad-unit-medium-retangle.center
 semprot.com##.semprot_ads
 republika.co.id##.set-ads-468
 okezone.com##.skyscrapper
@@ -187,6 +200,7 @@ bokepgratiz.info##div[style="width:100%;text-align:center;"]
 metrotvnews.com##div[style="width:960px; height:60px;  background-color:#666666; position:fixed; z-index:1000; top:0;"]
 unikgaul.com##img[alt="Distributor Vimax"]
 unikgaul.com##img[alt="Obat Herbal"]
+widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 komikbaru.com##img[alt="Pemasangan Iklan"]
 unikgaul.com##img[alt="Toko vitalitas"]
 unikgaul.com##img[alt="agen bola online"]
