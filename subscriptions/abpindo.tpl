@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 24 Februari 2014, 19:23:13 WIB
+# Last modified: 16 Maret 2014, 15:58:57 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -9,6 +9,7 @@ msFilterList
 # in the forums (http://forums.lanik.us/viewforum.php?f=94)
 #
 # *** abpindo_general_block.txt ***
+- -iklan.gif
 - .biz/iklan/
 - .com/iklan/
 # .id/ads/$~object-subrequest
@@ -503,6 +504,7 @@ msFilterList
 # metrotvnews.com###fixme
 # forumbokep.com###floating_banner_bottom
 # krucil.net###floating_banner_bottom.krucil_ads
+# ganool.com###floating_banner_top2
 # untukku.com###footer-adcont
 # ketubanjiwa.com###g207
 # resep.web.id###googlebox
@@ -577,6 +579,7 @@ msFilterList
 # utusan.com.my##.adspace_300
 # m.iklanbaris.detik.com##.adtext01
 # teknoup.com##.advertisement_box1
+# teknoup.com##.advertisement_box2
 # palingseru.com##.alignnone.size-large.wp-image-458
 # kaskus.co.id##.banner-top-ads
 # oktavita.com##.banner-zone
@@ -609,6 +612,7 @@ msFilterList
 # mforum.cari.com.my##.cari-ads
 # modifikasi.com##.cell_banner_inside
 # okezone.com##.center-ban
+# sindonews.com##.clear.size-wide-custom.dummy
 # tempo.co##.closebanner1
 # tempo.co##.closebanner2
 # lensaindonesia.com##.com-300x250
@@ -646,3 +650,4 @@ msFilterList
 # lintas.me##.xad-160x600
 # lintas.me##.xad-300x250
 # *** abpindo_whitelist.txt ***
++d www2.melon.co.id /js/libs/angulartics-google-analytics.js
