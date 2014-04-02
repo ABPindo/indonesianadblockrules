@@ -65,6 +65,7 @@ asik.me,bb17.us,duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
 zonabola.com###rAds
 utusan.com.my###rec_ad4
+movie76.com###related_posts img[alt="ads"]
 komikbaru.com,mangafox.me###right-skyscraper
 kapanlagi.com###scmicrosite
 gopego.com###showcase1
@@ -78,7 +79,7 @@ harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 downloadfilmbaru.com,galaxymaya.com,unikgaul.com###teaser2
-downloadfilmbaru.com,galaxymaya.com,unikgaul.com###teaser3
+downloadfilmbaru.com,galaxymaya.com,movie76.com,unikgaul.com###teaser3
 sodasusu.com###teaser4
 detik.com###top_banner
 bioskopkita.com###topbanner
@@ -143,6 +144,8 @@ kaskus.co.id##.bottom-frame
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
 gopego.com##.box
+kompas.com##.boxBanner1
+kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 mforum.cari.com.my##.cari-ads
@@ -221,6 +224,7 @@ icinema3satu.com##img[style="height: 125x; width: 125px;"]
 icinema3satu.com##img[style="height:125x;width:125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 bioskop21.us##img[title="pasang iklan"]
+movie76.com##img[title="pasang-iklan"]
 downloadfilem.com##img[width="125"][height="125"]
 bioskop21.us##img[width="640"][height="90"]
 stafaband.info##table[width="100%"] + #bottom
