@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 16 Maret 2014, 15:58:57 WIB
+# Last modified: 02 April 2014, 12:55:35 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -542,7 +542,7 @@ msFilterList
 # downloadfilmbaru.com###sticky-ads
 # detik.com###sto_banner
 # downloadfilmbaru.com,galaxymaya.com,unikgaul.com###teaser2
-# downloadfilmbaru.com,galaxymaya.com,unikgaul.com###teaser3
+# downloadfilmbaru.com,galaxymaya.com,movie76.com,unikgaul.com###teaser3
 # sodasusu.com###teaser4
 # detik.com###top_banner
 # bioskopkita.com###topbanner
@@ -607,6 +607,8 @@ msFilterList
 # kabar24.com##.bottom-frame-banner-close-btn
 # kabar24.com##.bottom-leaderboard-cont
 # gopego.com##.box
+# kompas.com##.boxBanner1
+# kompas.com##.boxBanner3
 # kompas.com##.boxBannerR1akt
 # kompas.com##.boxSkinAd
 # mforum.cari.com.my##.cari-ads
