@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: lj7JLEAt+5Gls8PKFwy0bQ
+! Checksum: tqUmyKfmxWu4aiUtqvYaVg
 ! Title: ABPindo
-! Last modified: 02 April 2014, 12:55:35 WIB
+! Last modified: 10 April 2014, 21:58:19 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -414,8 +414,10 @@ blogspot.com##img[alt="ads"]
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
 ||id.hao123.com/resource/id/banner/
+||iklanbaris.detik.com/
 ||images.gameweb.co.id/gw/ads/
 ||images.indoforum.org/banners/
+||imgur.com/*.gif$domain=unduhfilm21.net
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
@@ -466,6 +468,7 @@ blogspot.com##img[alt="ads"]
 ||tinypic.com^$image,domain=bioskopkita.com
 ||tutorblog.us/wp-content/uploads/2013/08/obat-kuat-sex.gif
 ||upload.coblos.net/images/*.gif
+||usnewopenx.detik.com/images/
 ||utusan.com.my/utusan/iklan/
 ||videogamesindonesia.com/banners/
 ||viva.co.id/appaux/images/close-button1.png
@@ -538,6 +541,7 @@ zonabola.com###lAds
 komikbaru.com,mangafox.me###left-skyscraper
 asik.me,bb17.us,duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
+indosat.com###preloader
 zonabola.com###rAds
 utusan.com.my###rec_ad4
 movie76.com###related_posts img[alt="ads"]
@@ -546,15 +550,15 @@ kapanlagi.com###scmicrosite
 gopego.com###showcase1
 gopego.com###showcase2
 lintas.me###showcasedown
-panduanpercuma.info###sidebar-banner300
 zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
 detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
-downloadfilmbaru.com,galaxymaya.com,unikgaul.com###teaser2
-downloadfilmbaru.com,galaxymaya.com,movie76.com,unikgaul.com###teaser3
+unduhfilm21.net###teaser1
+downloadfilmbaru.com,galaxymaya.com,unduhfilm21.net,unikgaul.com###teaser2
+downloadfilmbaru.com,galaxymaya.com,movie76.com,unduhfilm21.net,unikgaul.com###teaser3
 sodasusu.com###teaser4
 detik.com###top_banner
 bioskopkita.com###topbanner
@@ -577,6 +581,8 @@ komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
 gugling.com##.ad336x280atas
 mangafox.com##.ad728x90.left + .right
+indobokepz.com##.adBar-vertical.left
+indobokepz.com##.adBar-vertical.right
 bharian.com.my##.adbtm
 dapurpacu.com,kompas.com##.ads
 republika.co.id##.ads-160-600
@@ -629,9 +635,6 @@ okezone.com##.center-ban
 sindonews.com##.clear.size-wide-custom.dummy
 tempo.co##.closebanner1
 tempo.co##.closebanner2
-lensaindonesia.com##.com-300x250
-lensaindonesia.com##.com-728x90
-lensaindonesia.com##.comspc
 tribunnews.com##.content [style="width:160px; height:600px;"]
 lensaindonesia.com##.ctnitem.ctncom
 dapurpacu.com##.fixed-ads-atas
@@ -698,6 +701,7 @@ ic31linkpage.com,icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height: 125x; width: 125px;"]
 icinema3satu.com##img[style="height:125x;width:125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
+unduhfilm21.net##img[style="width: 728px; height: 60px;"]
 bioskop21.us##img[title="pasang iklan"]
 movie76.com##img[title="pasang-iklan"]
 downloadfilem.com##img[width="125"][height="125"]
