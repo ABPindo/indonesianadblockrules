@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 02 April 2014, 12:55:35 WIB
+# Last modified: 10 April 2014, 21:58:19 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -406,8 +406,10 @@ msFilterList
 -d harianjogja.com /banner/
 -d harianjogja.com /img/bnr/
 -d id.hao123.com /resource/id/banner/
+- http://iklanbaris.detik.com
 -d images.gameweb.co.id /gw/ads/
 -d images.indoforum.org /banners/
+# ||imgur.com/*.gif$domain=unduhfilm21.net
 -d indobokepz.com /images/banner/
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
@@ -458,6 +460,7 @@ msFilterList
 # ||tinypic.com^$image,domain=bioskopkita.com
 -d tutorblog.us /wp-content/uploads/2013/08/obat-kuat-sex.gif
 -d upload.coblos.net /images/*.gif
+-d usnewopenx.detik.com /images/
 -d utusan.com.my /utusan/iklan/
 -d videogamesindonesia.com /banners/
 -d viva.co.id /appaux/images/close-button1.png
@@ -527,6 +530,7 @@ msFilterList
 # zonabola.com###lAds
 # komikbaru.com,mangafox.me###left-skyscraper
 # dapurpacu.com###mid-banner
+# indosat.com###preloader
 # zonabola.com###rAds
 # utusan.com.my###rec_ad4
 # komikbaru.com,mangafox.me###right-skyscraper
@@ -534,15 +538,15 @@ msFilterList
 # gopego.com###showcase1
 # gopego.com###showcase2
 # lintas.me###showcasedown
-# panduanpercuma.info###sidebar-banner300
 # zonabola.com###simplemodal-container
 # zonabola.com###simplemodal-overlay
 # detik.com###skinad
 # harianjogja.com,solopos.com###solopos_float
 # downloadfilmbaru.com###sticky-ads
 # detik.com###sto_banner
-# downloadfilmbaru.com,galaxymaya.com,unikgaul.com###teaser2
-# downloadfilmbaru.com,galaxymaya.com,movie76.com,unikgaul.com###teaser3
+# unduhfilm21.net###teaser1
+# downloadfilmbaru.com,galaxymaya.com,unduhfilm21.net,unikgaul.com###teaser2
+# downloadfilmbaru.com,galaxymaya.com,movie76.com,unduhfilm21.net,unikgaul.com###teaser3
 # sodasusu.com###teaser4
 # detik.com###top_banner
 # bioskopkita.com###topbanner
@@ -565,6 +569,8 @@ msFilterList
 # m.kapanlagi.com##.ad2
 # gugling.com##.ad336x280atas
 # mangafox.com##.ad728x90.left + .right
+# indobokepz.com##.adBar-vertical.left
+# indobokepz.com##.adBar-vertical.right
 # bharian.com.my##.adbtm
 # dapurpacu.com,kompas.com##.ads
 # republika.co.id##.ads-160-600
@@ -617,9 +623,6 @@ msFilterList
 # sindonews.com##.clear.size-wide-custom.dummy
 # tempo.co##.closebanner1
 # tempo.co##.closebanner2
-# lensaindonesia.com##.com-300x250
-# lensaindonesia.com##.com-728x90
-# lensaindonesia.com##.comspc
 # lensaindonesia.com##.ctnitem.ctncom
 # dapurpacu.com##.fixed-ads-atas
 # teknoup.com##.footer_banner
