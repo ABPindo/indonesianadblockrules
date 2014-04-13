@@ -24,8 +24,6 @@ detik.com###bottom_banner
 indogamers.com###bottombanner
 bioskop21.us###box-message
 tribunnews.com###boxright [style="width:300px; height:250px;"]
-oploverz.net###bsaCApAn3o
-oploverz.net###bsaQXerGNl
 adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
 movie76.com###close-teaser
 gudang.tv###container-bottom-menu-ads
@@ -35,12 +33,10 @@ lintas.me###facebox_overlay
 bioskop21.us###fadeinbox
 teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
-metrotvnews.com###fixme
 forumbokep.com###floating_banner_bottom
 krucil.net###floating_banner_bottom.krucil_ads
 ganool.com###floating_banner_top2
 untukku.com###footer-adcont
-ketubanjiwa.com###g207
 resep.web.id###googlebox
 indosiar.com###headerbanner
 indosiar.com###headerbanner + div[style="height:50px"]
@@ -61,7 +57,7 @@ harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
 zonabola.com###lAds
 komikbaru.com,mangafox.me###left-skyscraper
-asik.me,bb17.us,duniasex.ws###main_content_section > div[align="center"]
+asik.me,duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
 indosat.com###preloader
 zonabola.com###rAds
@@ -175,7 +171,6 @@ krucil.net##.krucil_ads > .krucil_ads
 krucil.net##.krucil_ads > div[style="margin-bottom:0.3em"]
 krucil.net##.krucil_ads.krucil_floating_banner_top
 kaskus.co.id##.l-link
-metrotvnews.com##.left.banner-160x600
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 dapurpacu.com##.mid-banner
 detik.com##.otp_banner_close
@@ -198,21 +193,13 @@ kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
 downloadfilem.com##a[href^="http://promosipraktis.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
-metrotvnews.com##div[style="height: 60px; margin:auto; background-color:#ccc; width:960px; bottom:0px;position:fixed;z-index:100"]
 situshp.com##div[style="height:260px;"]
 forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
 forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
-wardhanime.net##div[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:left"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 bokepgratiz.info##div[style="width:100%;text-align:center;"]
-metrotvnews.com##div[style="width:960px; height:60px;  background-color:#666666; position:fixed; z-index:1000; top:0;"]
-unikgaul.com##img[alt="Distributor Vimax"]
-unikgaul.com##img[alt="Obat Herbal"]
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 komikbaru.com##img[alt="Pemasangan Iklan"]
-unikgaul.com##img[alt="Toko vitalitas"]
-unikgaul.com##img[alt="agen bola online"]
-unikgaul.com##img[alt="cara cepat sukses"]
 remo-xp.com##img[alt="iklan 440x90"]
 zonamuda.com##img[alt="iklan"]
 bokepgratiz.info##img[alt="smart-forex-system.com"]
