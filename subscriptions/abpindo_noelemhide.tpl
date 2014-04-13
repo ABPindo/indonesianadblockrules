@@ -1,19 +1,129 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 23 September 2013, 16:21:24 WIB
+# Last modified 13 April 2014, 20:06:08 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
 # Please report any unblocked adverts or problems
-# via e-mail (hermawanadhis@gmail.com)
 # in the forums (http://forums.lanik.us/viewforum.php?f=94)
 #
-# *** abpindo_adservers.txt ***
+# *** abpindo_general_block.txt ***
+- -iklan.gif
+- .biz/iklan/
+- .com/iklan/
+# .id/ads/$~object-subrequest
+- .id/iklan/
+- .info/iklan/
+- .me/iklan/
+- .my/iklan/
+- .net/iklan/
+- .tv/iklan/
+- /ads/iklan.
+- /bb17-iklan.
+- /images/iklan/
+- /obat-kuat-sex.gif
+- /SkinADkanan.
+- /SkinADkiri.
+- /uploads/iklan/
+- /usaha-berhasil.gif
+- /usahaberhasil.gif
+# *** abpindo_specific_block.txt ***
+# |http://173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
+# |http://i.imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|sodasusu.com
+-d alertpay.com /banners/
+-d angel.exabytes.com.my /banners/
+-d armylookfashion.com /728.swf
+-d asianbrain.com /banner/
+# ||bacamanga.com/images/indofiles/$image
+-d bingofreebonus.net /bfbcontent/locker.js?
+# ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
+# ||blogspot.com/*.gif$domain=asik.me|duniasex.ws
+-d bokepgratiz.info /banner/
+-d bolavegas.com /ads/
+-d ceriwis.us /banner/
+# ||coblos.net^*.swf$domain=bintangmawar.net
+-d detik.com /images/banners/
+-d dinastybet.com /banner/
+-d dixam.net /banner/
+-d dorabet.net /banner/
+-d drtuber.com /templates/drtuber/js/adx_flash_embed.js?
+-d duniasex.ws /banner-
+-d ebsoft.web.id /wp-content/banners/
+# ||ewetot.com^$image,object,domain=bintangmawar.net
+-d forumbookie.com /banner/
+-d forumkami.net /ad125x125/
+-d forumkami.net /ad200x50/
+-d ganool.com /wp-content/uploads/*.gif
+# ||googleusercontent.com/*.gif$domain=asik.me|duniasex.ws
+-d harakah.net.my /images/stories/iklan/
+-d harianjogja.com /banner/
+-d harianjogja.com /img/bnr/
+-d id.hao123.com /resource/id/banner/
+- http://iklanbaris.detik.com
+-d images.gameweb.co.id /gw/ads/
+-d images.indoforum.org /banners/
+# ||imgur.com/*.gif$domain=unduhfilm21.net
+-d indobokepz.com /images/banner/
+-d indochanger.com /banner/
+-d indomp3z.us /banner/
+-d jagatreview.com /wp-content/uploads/*-SKIN-
+# ||kad.kaskus.co.id/banner/$subdocument
+# ||kad.kaskus.com/banner/$subdocument
+-d kampus.us /banners/
+-d kapanlagi.com /banner/
+-d kaskus.co.id /adv/
+-d kaskus.co.id /images/banner-wap/
+-d kaskus.com /adv/
+-d kaskus.com /images/banner-wap/
+-d keripikcadas.com /banner/
+-d kikil.org /banner/
+-d kikil.org /forum/banner/
+-d kikil.ws /banner/
+-d kikil.ws /forum/banner/
+-d kkcdn-static.kaskus.co.id /css_v0.1/img/skin/
+-d kompas.com /data/banner/
+-d krucil.net /KD.js
+-d krucil.net /KD_adplib.js
+-d kumpulblogger.com /minibanner/
+-d lendir.org /banner/
+-d mediaindonesia.com /public/banner/flash/
+-d megindo.net /megindo2/images/banner-
+-d mforum.cari.com.my /cari/daybanner/ads_daybanner_display.php?
+-d modemku.com /image-banner/
+-d modifikasi.com /images/banner/
+-d modifikasi.com /images/banner_
+-d mractionclub.com /banner/
+-d musisi.com /musifile/images_banner/
+-d my.postsgenius.com /style/banners/
+-d newopenx.detik.com /images/
+-d pancet.com /kbads/
+-d resep.web.id /banner/
+-d semprot.com /x_ads/
+# ||serbiansoftware.com^$popup,domain=bioskop21.us
+-d sodasusu.com /banner/
+-d solopos.com /banner/
+-d suaramedia.com /images/banners/
+# ||suaramerdeka.com/v1/images/iklan_ffi.$image
+-d tabloidbintang.com /space-iklan/
+-d tambahketinggian.com /banner/
+# ||tinypic.com^$image,domain=bioskopkita.com
+-d upload.coblos.net /images/*.gif
+-d usnewopenx.detik.com /images/
+-d utusan.com.my /utusan/iklan/
+-d videogamesindonesia.com /banners/
+# ||widih.modifikasi.com/images/banners/$domain=widih.modifikasi.com
+-d zonabola.com /wp-content/uploads/*/Banner-
+-d zonabola.com /iklan/
+# *** abpindo_thirdparty.txt ***
+# ||108.168.231.179^$popup,third-party
+- http://188bet.com
 - http://1iklanbaris.com
-- http://1jutarupiah.com
 - http://1st-iklan.com
+- http://39bola.com
+- http://988bet.com
 - http://abadiklan.com
+# ||ad.directrev.com/$popup,third-party
 - http://adbusinessfree.com
 - http://adcenter2u.com
 - http://addesigner.com
@@ -26,42 +136,82 @@ msFilterList
 - http://adsentra.com
 - http://adspeedy.com
 - http://adsrelease.com
+- http://agenasia88.com
+# ||agenbo.la^$popup,third-party
 - http://agenpromosi.com
+- http://agent926.com
 - http://ajangiklangratis.com
+- http://alamatemail.com
 - http://anadvertorial.com
 - http://anekaiklan.com
 - http://antariklan.com
+- http://apmmedia.net
+- http://arenabola.com
+- http://asiabolabet.com
 - http://axverta.com
 - http://baliadv.com
+# ||bandarjudi.com/$popup,third-party
 - http://barisiklangratis.com
 - http://bebaspikiran.com
+- http://bejopoker.com
+- http://bekas.com
 - http://belajar-bisnis.com
+- http://betwin188.com
 - http://bigextracash.com
 - http://biindit.com
 - http://bincangbisnis.com
+- http://bintangbola.net
 - http://biroiklangratis.com
 - http://biropromosi.com
+- http://bisnisgratis.net
+- http://bisnishandal.com
+- http://bisnisinternetmu.com
+- http://bisnisok.com
+- http://bisnistransportasi.com
+- http://bola777.net
+- http://bolaketangkasan.com
+- http://bravevolitation.com
+- http://btybet.com
+- http://bursabet.com
+- http://c-stat.eu
 - http://carasukses.com
+- http://cash-harvest.com
+-d cashburners.biz /banners/
+- http://cfs.u-ad.info
 - http://clickdbs.com
 - http://clicklifter.com
 - http://clickmedia.co.id
 - http://clicks4cents.com
 - http://clicksia.com
 - http://dewa-bisnis.com
+- http://dewamabuk.com
 - http://direktori-iklan.com
+- http://doremibet.com
+- http://duitbux.com
 - http://duitmu.com
-- http://duniaiklangratis.com
+- http://dunia-bisnis.com
 - http://earneasycash.info
+- http://easy-hit-counter.com
+- http://edomz.com
 - http://entryad.com
+# ||fairbet88.com^$popup,third-party
+- http://fellowequality.com
+# ||firstbola.com/$popup,third-party
 - http://flexterkita.com
+-d formulabisnis.com /images/
 - http://forumiklan.com
-- http://freeads-iklan.com
 - http://gadget-ads.com
-- http://gratis-iklan-baris.com
+- http://gajigratis.com
+- http://galaxybola.com
+# ||gambar123.com/$popup,third-party
+- http://goodlucky99.com
+- http://gowellup.com
 - http://gratisiklanpasang.com
 - http://gratisiklanpasang.net
-- http://gratispromo.com
 - http://groupiklan.com
+- http://hiddenbux.com
+-d idblognetwork.com /images/banner468x60/
+-d idblognetwork.com /images/banner728x90/
 - http://idr-clickit.com
 - http://iklan-baris.org
 - http://iklan-iklan.com
@@ -117,16 +267,13 @@ msFilterList
 - http://iklanjoglo.com
 - http://iklankito.com
 - http://iklankomplit.com
-- http://iklanlisting.com
 - http://iklanlowongan.com
 - http://iklanmarket.com
 - http://iklanoke.com
-- http://iklanonlinegratis.com
 - http://iklanonlinemu.com
 - http://iklanpasanggratis.com
 - http://iklanpedia.com
 - http://iklanplaza.com
-- http://iklanposkota.net
 - http://iklanprimaku.com
 - http://iklanpromo.com
 - http://iklansilver.com
@@ -141,26 +288,38 @@ msFilterList
 - http://iklanwebid.com
 - http://iklanyahoo.com
 - http://incentria.com
+- http://incrasebux.com
+- http://indo-solusta.com
+# ||indoagenbola.com^$popup,third-party
 - http://indobanner.com
 - http://indofreeads.com
 - http://indovertiser.com
+- http://investasiceria.net
 - http://istanaiklan.com
 - http://jagoiklan.com
 - http://jagopromo.com
-- http://jaringaniklan.com
 - http://jasaiklan.com
 - http://javaiklan.com
+- http://javapic.com
 - http://jillsclickcorner.com
 - http://jingkrak.com
 - http://juruiklan.com
+# ||kakakdewa.com/$popup,third-party
+- http://kakakdewa.net
 - http://klikabadi.com
 - http://klikabadi.net
 - http://klikajadeh.com
-- http://komisiiklan.com
 - http://ladangiklan.com
 - http://ladanguang.com
+- http://link2communion.com
 - http://lokeriklan.com
+-d lytogame.com /images/partner/
+-d lytogame.com /partner/
+- http://m88media.com
+- http://mabosbet.com
+-d manasuka.com /gbr_banner_link/
 - http://maripromosi.com
+- http://marketbola.com
 - http://masteriklan.net
 - http://mauiklangratis.com
 - http://medaniklan.com
@@ -170,9 +329,11 @@ msFilterList
 - http://mpnrs.com
 - http://mybannermaker.com
 - http://nuansaiklan.com
+- http://numpanglewat.com
 - http://onbux.com
 - http://onclinic24.com
 - http://onedollarptc.com
+-d optimsystems.org /images/banners/
 - http://paidforfree.com
 - http://paidtoclick.com
 - http://paneniklan.com
@@ -196,6 +357,11 @@ msFilterList
 - http://pasariklanbaris.com
 - http://paypalbisnis.com
 - http://paypopup.com
+- http://peluangbisnis.org
+- http://pemaintogel.info
+# ||perawan.pro/$popup,third-party
+# ||perawan3gp.com^$popup,third-party
+# ||pokerjujur.com/$popup,third-party
 - http://pondokiklan.com
 - http://popupmoney.com
 - http://portaliklan.com
@@ -203,234 +369,62 @@ msFilterList
 - http://ppcinbox.com
 - http://ppcindonesia.net
 - http://promobagus.com
-- http://promojunkie.com
 - http://promosiiklan.com
+- http://promotioncamp.com
+- http://prophetofdoom.net
+- http://publish.web.id
 - http://pundibux.net
 - http://pusatiklan.com
 - http://pusatmarketing.com
 - http://pusatpromosiiklan.com
 - http://rahasiapanas.com
+# ||rajabet77.com/$popup,third-party
 - http://ratubola.com
+- http://realwap.net
 - http://referral-secrets.com
 - http://ro2.biz
-- http://ruangbisnis.com
 - http://rupiahbux.com
 - http://sanglah.com
 - http://sbbanner.com
+- http://sbo303.com
 - http://sebar.idblognetwork.com
 - http://sentra-iklan.com
 - http://sentrapromosi.com
 - http://serbapromo.com
 - http://sharepointads.com
+- http://sitipromo.web.id
+- http://sitti.co.id
+- http://situsbet.com
 - http://situsiklan.web.id
 - http://situsiklanbaris.com
+# ||situsjudi.com^$popup,third-party
 - http://smart-iklan.com
 - http://sogoplaza.com
+-d suarabola.com /banners/
 - http://sumberiklan.com
 - http://suryaiklan.com
 - http://teknikbisnis.com
 - http://teliad.com
 - http://tempatiklan.com
-- http://texasptc.com
 - http://textlinksdepot.com
 - http://textspace.net
 - http://theclickers.net
 - http://tinggalklik.com
 - http://topklik.com
-- http://unobux.com
-- http://useads.com
-- http://webiklan.com
-- http://weblogiklan.com
-- http://yesads.com
-# *** abpindo_general_block.txt ***
-- .com/iklan/
-# .id/ads/$~object-subrequest
-- .id/iklan/
-- .net/iklan/
-- /ads/iklan.
-- /images/iklan/
-- /img/promo/
-- /sittiad.
-- /theads125x125.jpg
-- /uploads/iklan/
-- /usaha-berhasil.gif
-- /usahaberhasil.gif
-# *** abpindo_specific_block.txt ***
-# |about:blank$popup,domain=fakku.net
--d 173.199.167.192 /bb17-iklan.php
-- http://admin.ads.indowebster.com
--d alertpay.com /banners/
--d angel.exabytes.com.my /banners/
--d armylookfashion.com /728.swf
--d asianbrain.com /banner/
-# ||bacamanga.com/images/indofiles/$image
--d bingofreebonus.net /bfbcontent/locker.js?
-# ||blogspot.com^*.gif$domain=asik.me|duniasex.ws|koranseksi.com
--d bokepgratiz.info /banner/
--d bolanews.com /application/views/web/default/images/close-icon.png
--d bolavegas.com /ads/
--d cashburners.biz /banners/
--d ceriwis.us /banner/
-# ||coblos.net^*.swf$domain=bintangmawar.net
--d detik.com /images/banners/
--d dixam.net /banner/
--d dorabet.net /banner/
-# ||doublerads.com^$image,subdocument,domain=mivo.tv
--d drtuber.com /templates/drtuber/js/adx_flash_embed.js?
--d duniasex.ws /banner-
--d ebsoft.web.id /wp-content/banners/
-# ||ewetot.com^$image,object,domain=bintangmawar.net
--d filmbokepdewasa.com /*/adv/
--d formulabisnis.com /images/
--d forumbola.org /close3.png
--d forumbookie.com /banner/
--d forumkami.net /ad125x125/
--d forumkami.net /ad200x50/
--d forumkami.net /close.gif
-# ||googleusercontent.com^*.gif$domain=asik.me|duniasex.ws|iniunic.blogspot.com
--d harakah.net.my /images/stories/iklan/
--d harianjogja.com /img/bnr/
--d idblognetwork.com /images/banner468x60/
--d idblognetwork.com /images/banner728x90/
--d images.gameweb.co.id /gw/ads/
--d images.harianjogja.com /banner/
--d images.indoforum.org /banners/
--d images.solopos.com /banner/
--d indobokepz.com /images/banner/
--d indochanger.com /banner/
--d indomp3z.us /banner/
--d inilah.com /assets/image/airasia/skin-
--d investasiceria.net /images/
--d jagatreview.com /wp-content/uploads/*-SKIN-
-# ||kad.kaskus.co.id/banner/$subdocument
-# ||kad.kaskus.com/banner/$subdocument
--d kampus.us /banners/
--d kapanlagi.com /banner/
--d kaskus.co.id /adv/
--d kaskus.com /adv/
--d kawin.us /images/banner/
--d keripikcadas.com /banner/
--d kikil.org /banner/
--d kikil.org /forum/banner/
--d kikil.ws /banner/
--d kikil.ws /forum/banner/
--d kkcdn-static.kaskus.co.id /css_v0.1/img/skin/
--d kompas.com /data/banner/
--d koranlokal.com /iklan_baru/
--d koranlokal.com /newstickerpartai.php
--d koranlokal.com /point1.php
--d krucil.com /bb17-iklan.php
--d kumpulblogger.com /minibanner/
--d lendir.org /banner/
--d lytogame.com /images/partner/
--d lytogame.com /partner/
--d manasuka.com /gbr_banner_link/
--d mediahide.com /ganool/*/banner-ganool.gif
--d mediaindonesia.com /public/banner/flash/
--d megindo.net /megindo2/images/banner-
--d mforum.cari.com.my /cari/daybanner/ads_daybanner_display.php?
--d modemku.com /image-banner/
--d modifikasi.com /images/banner/
--d modifikasi.com /images/banner_
--d mractionclub.com /banner/
--d musisi.com /musifile/images_banner/
--d my.postsgenius.com /style/banners/
--d newopenx.detik.com /images/
--d oprekpc.com /banner/
--d pancet.com /kbads/
-# ||perawan.pro/$popup
--d perawan.us /images/banner/
--d perjaka.us /images/banner/
--d ranjangternoda.com /images/banner/
--d resep.web.id /banner/
--d semprot.com /x_ads/
--d sodasusu.com /banner/
--d sodasusu.org /banner/
--d static.republika.co.id /files/images/btn_close.png
--d suarabola.com /banners/
--d suaramedia.com /images/banners/
--d tabloidbintang.com /space-iklan/
--d tambahketinggian.com /banner/
--d upload.coblos.net /images/*.gif
--d utusan.com.my /utusan/iklan/
--d videogamesindonesia.com /banners/
--d viva.co.id /appaux/images/close-button1.png
--d widih.modifikasi.com /images/banners/
--d zonabola.com /iklan/
-# *** abpindo_thirdparty.txt ***
-- http://39bola.com
-- http://988bet.com
-- http://agenasia88.com
-# ||agenbo.la^$image,popup
-- http://agent926.com
-- http://alamatemail.com
-- http://apmmedia.net
-- http://arenabola.com
-- http://asiabolabet.com
-- http://bejopoker.com
-- http://bekas.com
-- http://betwin188.com
-- http://bintangbola.net
-- http://bisnisgratis.net
-- http://bisnishandal.com
-- http://bisnisinternetmu.com
-- http://bisnisok.com
-- http://bisnistransportasi.com
-- http://bola777.net
-- http://bolaketangkasan.com
-# ||bolasonic.com^$image,popup
-- http://bravevolitation.com
-- http://bursabet.com
-- http://cash-harvest.com
-- http://dewamabuk.com
-- http://doremibet.com
-- http://duitbux.com
-- http://dunia-bisnis.com
-- http://easy-hit-counter.com
-- http://edomz.com
-# ||fairbet88.com^$popup,third-party
-- http://fellowequality.com
-# ||firstbola.com/$popup
-- http://folderbisnis.com
-- http://forexpose.com
-# ||fulltiltpoker.com^$popup,domain=ganool.com
-- http://gajigratis.com
-- http://galaxybola.com
-- http://goodlucky99.com
-- http://gowellup.com
-- http://hiddenbux.com
-- http://incrasebux.com
-- http://indo-solusta.com
-# ||instaforex-id.com^$image,third-party
-- http://jasapoker.com
-# ||javapic.com^$image,object,third-party
-- http://kakakdewa.net
-- http://kebunemas.com
-- http://kumpuljutawan.com
-- http://link2communion.com
-- http://m88media.com
-- http://mabosbet.com
-- http://marketbola.com
-- http://numpanglewat.com
--d optimsystems.org /images/banners/
-- http://peluangbisnis.org
-- http://promotioncamp.com
-- http://prophetofdoom.net
-- http://publish.web.id
-# ||rpc-php.trafficfactory.biz^$popup
-- http://sitipromo.web.id
-- http://sitti.co.id
-- http://situsbet.com
-# ||situsjudi.com^$popup,third-party
-# ||tangkasindo.com^$popup
 - http://topskor.us
 - http://topsurfer.com
+# ||trafficfactory.biz^$popup,third-party
 - http://tri7bet.com
+- http://twap.eu
+-d u-on.eu /c.php?
 - http://u1win.com
+- http://unobux.com
 - http://usahaberhasil.com
+- http://useads.com
 - http://webbola.com
+- http://webiklan.com
+- http://weblogiklan.com
+- http://webtrackerplus.com
+- http://yesads.com
 # *** abpindo_whitelist.txt ***
-+d allgamespy.com /wp-content/themes/adsense-id/style.css
-+d iklan.okezone.com /images-data/classified/
-+d okezone.com /images/ad/
-+d speedtest.co.id /adframe/adframe.js
++d www2.melon.co.id /js/libs/angulartics-google-analytics.js

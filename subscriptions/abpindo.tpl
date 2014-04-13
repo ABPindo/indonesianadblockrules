@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 10 April 2014, 21:58:19 WIB
+# Last modified: 13 April 2014, 20:06:08 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -22,6 +22,7 @@ msFilterList
 - /ads/iklan.
 - /bb17-iklan.
 - /images/iklan/
+- /obat-kuat-sex.gif
 - /SkinADkanan.
 - /SkinADkiri.
 - /uploads/iklan/
@@ -383,7 +384,6 @@ msFilterList
 # ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
 # ||blogspot.com/*.gif$domain=asik.me|duniasex.ws
 -d bokepgratiz.info /banner/
--d bolanews.com /application/views/web/default/images/close-icon.png
 -d bolavegas.com /ads/
 -d ceriwis.us /banner/
 # ||coblos.net^*.swf$domain=bintangmawar.net
@@ -395,11 +395,9 @@ msFilterList
 -d duniasex.ws /banner-
 -d ebsoft.web.id /wp-content/banners/
 # ||ewetot.com^$image,object,domain=bintangmawar.net
--d forumbola.org /close3.png
 -d forumbookie.com /banner/
 -d forumkami.net /ad125x125/
 -d forumkami.net /ad200x50/
--d forumkami.net /close.gif
 -d ganool.com /wp-content/uploads/*.gif
 # ||googleusercontent.com/*.gif$domain=asik.me|duniasex.ws
 -d harakah.net.my /images/stories/iklan/
@@ -413,7 +411,6 @@ msFilterList
 -d indobokepz.com /images/banner/
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
--d inilah.com /assets/image/airasia/skin-
 -d jagatreview.com /wp-content/uploads/*-SKIN-
 # ||kad.kaskus.co.id/banner/$subdocument
 # ||kad.kaskus.com/banner/$subdocument
@@ -444,26 +441,21 @@ msFilterList
 -d musisi.com /musifile/images_banner/
 -d my.postsgenius.com /style/banners/
 -d newopenx.detik.com /images/
--d oprekpc.com /banner/
 -d pancet.com /kbads/
--d ranjangternoda.com /images/banner/
 -d resep.web.id /banner/
 -d semprot.com /x_ads/
 # ||serbiansoftware.com^$popup,domain=bioskop21.us
 -d sodasusu.com /banner/
 -d solopos.com /banner/
--d static.republika.co.id /files/images/btn_close.png
 -d suaramedia.com /images/banners/
 # ||suaramerdeka.com/v1/images/iklan_ffi.$image
 -d tabloidbintang.com /space-iklan/
 -d tambahketinggian.com /banner/
 # ||tinypic.com^$image,domain=bioskopkita.com
--d tutorblog.us /wp-content/uploads/2013/08/obat-kuat-sex.gif
 -d upload.coblos.net /images/*.gif
 -d usnewopenx.detik.com /images/
 -d utusan.com.my /utusan/iklan/
 -d videogamesindonesia.com /banners/
--d viva.co.id /appaux/images/close-button1.png
 # ||widih.modifikasi.com/images/banners/$domain=widih.modifikasi.com
 -d zonabola.com /wp-content/uploads/*/Banner-
 -d zonabola.com /iklan/
@@ -493,8 +485,6 @@ msFilterList
 # detik.com###bottom_banner
 # indogamers.com###bottombanner
 # bioskop21.us###box-message
-# oploverz.net###bsaCApAn3o
-# oploverz.net###bsaQXerGNl
 # adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
 # movie76.com###close-teaser
 # gudang.tv###container-bottom-menu-ads
@@ -504,12 +494,10 @@ msFilterList
 # bioskop21.us###fadeinbox
 # teknoup.com###fancybox-wrap
 # teknoup.com###fancybox_ajax
-# metrotvnews.com###fixme
 # forumbokep.com###floating_banner_bottom
 # krucil.net###floating_banner_bottom.krucil_ads
 # ganool.com###floating_banner_top2
 # untukku.com###footer-adcont
-# ketubanjiwa.com###g207
 # resep.web.id###googlebox
 # indosiar.com###headerbanner
 # ceriwis.us###hoho-wrapsubmenu3
@@ -639,7 +627,6 @@ msFilterList
 # krucil.net##.krucil_ads > .krucil_ads
 # krucil.net##.krucil_ads.krucil_floating_banner_top
 # kaskus.co.id##.l-link
-# metrotvnews.com##.left.banner-160x600
 # dapurpacu.com##.mid-banner
 # detik.com##.otp_banner_close
 # lintas.me##.popup
