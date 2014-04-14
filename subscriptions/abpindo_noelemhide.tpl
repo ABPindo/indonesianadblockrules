@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 13 April 2014, 20:06:08 WIB
+# Last modified 14 April 2014, 22:51:40 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -427,4 +427,6 @@ msFilterList
 - http://webtrackerplus.com
 - http://yesads.com
 # *** abpindo_whitelist.txt ***
+# @@.png#$domain=oploverz.net
+# @@||oploverz.net^$elemhide
 +d www2.melon.co.id /js/libs/angulartics-google-analytics.js
