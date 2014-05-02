@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 14 April 2014, 22:51:40 WIB
+# Last modified: 02 Mei 2014, 15:25:24 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -249,6 +249,8 @@ msFilterList
 - http://javapic.com
 - http://jillsclickcorner.com
 - http://jingkrak.com
+- http://jmp9.com
+- http://jollywallet.com
 - http://juruiklan.com
 # ||kakakdewa.com/$popup,third-party
 - http://kakakdewa.net
@@ -334,6 +336,7 @@ msFilterList
 - http://sbbanner.com
 - http://sbo303.com
 - http://sebar.idblognetwork.com
+- http://selectionlinksjs.info
 - http://sentra-iklan.com
 - http://sentrapromosi.com
 - http://serbapromo.com
@@ -362,6 +365,7 @@ msFilterList
 # ||trafficfactory.biz^$popup,third-party
 - http://tri7bet.com
 - http://twap.eu
+- http://txtsrving.info
 -d u-on.eu /c.php?
 - http://u1win.com
 - http://unobux.com
@@ -534,8 +538,8 @@ msFilterList
 # detik.com###sto_banner
 # unduhfilm21.net###teaser1
 # downloadfilmbaru.com,galaxymaya.com,unduhfilm21.net,unikgaul.com###teaser2
-# downloadfilmbaru.com,galaxymaya.com,movie76.com,unduhfilm21.net,unikgaul.com###teaser3
-# sodasusu.com###teaser4
+# 172.245.177.74,downloadfilmbaru.com,galaxymaya.com,movie76.com,unduhfilm21.net,unikgaul.com###teaser3
+# 172.245.177.74,sodasusu.com###teaser4
 # detik.com###top_banner
 # bioskopkita.com###topbanner
 # jurigjarian.com###topbar
@@ -624,9 +628,11 @@ msFilterList
 # detik.com##.iklan_tengah
 # gambarkeren.info##.iklankotak1
 # kikil.org,kikil.ws##.kikil_ads
+# krucil.net##.krucil_ads
 # krucil.net##.krucil_ads > .krucil_ads
 # krucil.net##.krucil_ads.krucil_floating_banner_top
 # kaskus.co.id##.l-link
+# tribunnews.com##.mb20.ac.bsh3.ads
 # dapurpacu.com##.mid-banner
 # detik.com##.otp_banner_close
 # lintas.me##.popup
@@ -642,6 +648,7 @@ msFilterList
 # lintas.me##.xad-160x600
 # lintas.me##.xad-300x250
 # *** abpindo_whitelist.txt ***
-# @@.png#$domain=oploverz.net
+# @@.png#$domain=animeindo.tv|oploverz.net
+# @@||animeindo.tv^$elemhide
 # @@||oploverz.net^$elemhide
 +d www2.melon.co.id /js/libs/angulartics-google-analytics.js

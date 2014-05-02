@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: +Iew3H8f4eYWUvL8wK/yKg
+! Checksum: ZYlYG9THFHwBlSJ3B3cJKg
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 14 April 2014, 22:51:40 WIB
+! Last modified 02 Mei 2014, 15:25:24 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -304,6 +304,8 @@
 ||javapic.com^$third-party
 ||jillsclickcorner.com^$third-party
 ||jingkrak.com^$third-party
+||jmp9.com^$third-party
+||jollywallet.com^$third-party
 ||juruiklan.com^$third-party
 ||kakakdewa.com/$popup,third-party
 ||kakakdewa.net^$third-party
@@ -389,6 +391,7 @@
 ||sbbanner.com^$third-party
 ||sbo303.com^$third-party
 ||sebar.idblognetwork.com^$third-party
+||selectionlinksjs.info^$third-party
 ||sentra-iklan.com^$third-party
 ||sentrapromosi.com^$third-party
 ||serbapromo.com^$third-party
@@ -417,6 +420,7 @@
 ||trafficfactory.biz^$popup,third-party
 ||tri7bet.com^$third-party
 ||twap.eu^$third-party
+||txtsrving.info^$third-party
 ||u-on.eu/c.php?$third-party
 ||u1win.com^$third-party
 ||unobux.com^$third-party
@@ -428,6 +432,7 @@
 ||webtrackerplus.com^$third-party
 ||yesads.com^$third-party
 ! *** abpindo_whitelist.txt ***
-@@.png#$domain=oploverz.net
+@@.png#$domain=animeindo.tv|oploverz.net
+@@||animeindo.tv^$elemhide
 @@||oploverz.net^$elemhide
 @@||www2.melon.co.id/js/libs/angulartics-google-analytics.js
