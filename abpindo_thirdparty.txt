@@ -185,6 +185,8 @@
 ||javapic.com^$third-party
 ||jillsclickcorner.com^$third-party
 ||jingkrak.com^$third-party
+||jmp9.com^$third-party
+||jollywallet.com^$third-party
 ||juruiklan.com^$third-party
 ||kakakdewa.com/$popup,third-party
 ||kakakdewa.net^$third-party
@@ -270,6 +272,7 @@
 ||sbbanner.com^$third-party
 ||sbo303.com^$third-party
 ||sebar.idblognetwork.com^$third-party
+||selectionlinksjs.info^$third-party
 ||sentra-iklan.com^$third-party
 ||sentrapromosi.com^$third-party
 ||serbapromo.com^$third-party
@@ -298,6 +301,7 @@
 ||trafficfactory.biz^$popup,third-party
 ||tri7bet.com^$third-party
 ||twap.eu^$third-party
+||txtsrving.info^$third-party
 ||u-on.eu/c.php?$third-party
 ||u1win.com^$third-party
 ||unobux.com^$third-party

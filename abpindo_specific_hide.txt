@@ -76,8 +76,8 @@ downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 unduhfilm21.net###teaser1
 downloadfilmbaru.com,galaxymaya.com,unduhfilm21.net,unikgaul.com###teaser2
-downloadfilmbaru.com,galaxymaya.com,movie76.com,unduhfilm21.net,unikgaul.com###teaser3
-sodasusu.com###teaser4
+172.245.177.74,downloadfilmbaru.com,galaxymaya.com,movie76.com,unduhfilm21.net,unikgaul.com###teaser3
+172.245.177.74,sodasusu.com###teaser4
 detik.com###top_banner
 bioskopkita.com###topbanner
 jurigjarian.com###topbar
@@ -167,11 +167,13 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 kikil.org,kikil.ws##.kikil_ads
+krucil.net##.krucil_ads
 krucil.net##.krucil_ads > .krucil_ads
 krucil.net##.krucil_ads > div[style="margin-bottom:0.3em"]
 krucil.net##.krucil_ads.krucil_floating_banner_top
 kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
+tribunnews.com##.mb20.ac.bsh3.ads
 dapurpacu.com##.mid-banner
 detik.com##.otp_banner_close
 tribunnews.com##.ovh[style="width:468px;height:60px"]
