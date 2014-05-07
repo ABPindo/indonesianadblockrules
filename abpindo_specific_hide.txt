@@ -25,6 +25,8 @@ indogamers.com###bottombanner
 bioskop21.us###box-message
 tribunnews.com###boxright [style="width:300px; height:250px;"]
 adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
+cinema81.com###btm_banner_kanan
+cinema81.com###btm_banner_kiri
 movie76.com###close-teaser
 gudang.tv###container-bottom-menu-ads
 gudang.tv###container-bottom-menu-ads2
@@ -59,6 +61,7 @@ zonabola.com###lAds
 komikbaru.com,mangafox.me###left-skyscraper
 asik.me,duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
+cinema81.com###newnew > [align="center"] img[width="465px"]
 indosat.com###preloader
 zonabola.com###rAds
 utusan.com.my###rec_ad4
@@ -74,10 +77,14 @@ detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
-unduhfilm21.net###teaser1
-downloadfilmbaru.com,galaxymaya.com,unduhfilm21.net,unikgaul.com###teaser2
-172.245.177.74,downloadfilmbaru.com,galaxymaya.com,movie76.com,unduhfilm21.net,unikgaul.com###teaser3
-172.245.177.74,sodasusu.com###teaser4
+cinema81.com,unduhfilm21.net###teaser1
+17gratis.com,cinema81.com,downloadfilmbaru.com,galaxymaya.com,unduhfilm21.net,unikgaul.com###teaser2
+172.245.177.74,cinema81.com,downloadfilmbaru.com,galaxymaya.com,movie76.com,unduhfilm21.net,unikgaul.com###teaser3
+172.245.177.74,cinema81.com,sodasusu.com###teaser4
+movie76.com###teaser5
+movie76.com###teaser6
+movie76.com###teaser7
+17gratis.com###teaser8
 detik.com###top_banner
 bioskopkita.com###topbanner
 jurigjarian.com###topbar
@@ -102,7 +109,7 @@ mangafox.com##.ad728x90.left + .right
 indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 bharian.com.my##.adbtm
-dapurpacu.com,kompas.com##.ads
+21sinema.com,dapurpacu.com,kompas.com##.ads
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
 gudang.tv##.ads-content1
@@ -202,6 +209,7 @@ tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70p
 bokepgratiz.info##div[style="width:100%;text-align:center;"]
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 komikbaru.com##img[alt="Pemasangan Iklan"]
+movie76.com##img[alt="ads"]
 remo-xp.com##img[alt="iklan 440x90"]
 zonamuda.com##img[alt="iklan"]
 bokepgratiz.info##img[alt="smart-forex-system.com"]
@@ -217,6 +225,7 @@ bioskop21.us##img[title="pasang iklan"]
 movie76.com##img[title="pasang-iklan"]
 downloadfilem.com##img[width="125"][height="125"]
 bioskop21.us##img[width="640"][height="90"]
+21sinema.com##img[width="728"][height="90"]
 stafaband.info##table[width="100%"] + #bottom
 zonamuda.com##td[valign="top"][height="55px"][align="center"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]

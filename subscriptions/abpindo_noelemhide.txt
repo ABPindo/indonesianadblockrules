@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ZYlYG9THFHwBlSJ3B3cJKg
+! Checksum: XOlvADnFZ2Qqd2iTbtgdpA
 ! ABPindo - ABPindo tanpa element hiding
-! Last modified 02 Mei 2014, 15:25:24 WIB
+! Last modified 07 Mei 2014, 17:12:19 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -24,14 +24,17 @@
 /bb17-iklan.
 /images/iklan/*
 /obat-kuat-sex.gif|
+/sbcagent.gif|
 /SkinADkanan.
 /SkinADkiri.
 /uploads/iklan/*
 /usaha-berhasil.gif|
 /usahaberhasil.gif|
+agen_bola_online.gif|
+bundapoker.gif|
+sarana88.gif|
 ! *** abpindo_specific_block.txt ***
 |http://173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
-|http://i.imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|sodasusu.com
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
 ||armylookfashion.com/728.swf
@@ -39,7 +42,7 @@
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
-||blogspot.com/*.gif$domain=asik.me|duniasex.ws
+||blogspot.com/*.gif$domain=duniasex.ws
 ||bokepgratiz.info/banner/
 ||bolavegas.com/ads/
 ||ceriwis.us/banner/
@@ -56,7 +59,8 @@
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||ganool.com/wp-content/uploads/*.gif
-||googleusercontent.com/*.gif$domain=asik.me|duniasex.ws
+||googledrive.com/host/0B-OnGqBU3zuJWVBFZzI5ak01STg
+||googleusercontent.com/*.gif$domain=duniasex.ws
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
@@ -64,7 +68,7 @@
 ||iklanbaris.detik.com/
 ||images.gameweb.co.id/gw/ads/
 ||images.indoforum.org/banners/
-||imgur.com/*.gif$domain=unduhfilm21.net
+||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|sodasusu.com|unduhfilm21.net
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
@@ -137,6 +141,7 @@
 ||adsentra.com^$third-party
 ||adspeedy.com^$third-party
 ||adsrelease.com^$third-party
+||adversal.com^$third-party
 ||agenasia88.com^$third-party
 ||agenbo.la^$popup,third-party
 ||agenpromosi.com^$third-party
@@ -288,6 +293,7 @@
 ||iklanvip.net^$third-party
 ||iklanwebid.com^$third-party
 ||iklanyahoo.com^$third-party
+||imgur.com/*.gif$domain=movie76.com
 ||incentria.com^$third-party
 ||incrasebux.com^$third-party
 ||indo-solusta.com^$third-party
@@ -368,6 +374,7 @@
 ||pondokiklan.com^$third-party
 ||popupmoney.com^$third-party
 ||portaliklan.com^$third-party
+||postimg.org/*.gif$domain=21sinema.com
 ||poweredprofits.com^$third-party
 ||ppcinbox.com^$third-party
 ||ppcindonesia.net^$third-party
@@ -432,7 +439,8 @@
 ||webtrackerplus.com^$third-party
 ||yesads.com^$third-party
 ! *** abpindo_whitelist.txt ***
-@@.png#$domain=animeindo.tv|oploverz.net
+@@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
 @@||animeindo.tv^$elemhide
 @@||oploverz.net^$elemhide
+@@||wardhanime.net^$elemhide
 @@||www2.melon.co.id/js/libs/angulartics-google-analytics.js

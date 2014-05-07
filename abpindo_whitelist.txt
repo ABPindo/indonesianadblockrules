@@ -1,4 +1,5 @@
-@@.png#$domain=animeindo.tv|oploverz.net
+@@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
 @@||animeindo.tv^$elemhide
 @@||oploverz.net^$elemhide
+@@||wardhanime.net^$elemhide
 @@||www2.melon.co.id/js/libs/angulartics-google-analytics.js

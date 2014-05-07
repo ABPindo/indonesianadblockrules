@@ -1,5 +1,4 @@
 |http://173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
-|http://i.imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|sodasusu.com
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
 ||armylookfashion.com/728.swf
@@ -7,7 +6,7 @@
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
-||blogspot.com/*.gif$domain=asik.me|duniasex.ws
+||blogspot.com/*.gif$domain=duniasex.ws
 ||bokepgratiz.info/banner/
 ||bolavegas.com/ads/
 ||ceriwis.us/banner/
@@ -24,7 +23,8 @@
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||ganool.com/wp-content/uploads/*.gif
-||googleusercontent.com/*.gif$domain=asik.me|duniasex.ws
+||googledrive.com/host/0B-OnGqBU3zuJWVBFZzI5ak01STg
+||googleusercontent.com/*.gif$domain=duniasex.ws
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
@@ -32,7 +32,7 @@
 ||iklanbaris.detik.com/
 ||images.gameweb.co.id/gw/ads/
 ||images.indoforum.org/banners/
-||imgur.com/*.gif$domain=unduhfilm21.net
+||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|sodasusu.com|unduhfilm21.net
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indomp3z.us/banner/
