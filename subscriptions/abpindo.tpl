@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 02 Mei 2014, 15:25:24 WIB
+# Last modified: 07 Mei 2014, 17:12:19 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -23,11 +23,15 @@ msFilterList
 - /bb17-iklan.
 - /images/iklan/
 - /obat-kuat-sex.gif
+- /sbcagent.gif
 - /SkinADkanan.
 - /SkinADkiri.
 - /uploads/iklan/
 - /usaha-berhasil.gif
 - /usahaberhasil.gif
+- agen_bola_online.gif
+- bundapoker.gif
+- sarana88.gif
 # *** abpindo_general_hide.txt ***
 # ###Box-Banner-ads
 # ###adsground
@@ -82,6 +86,7 @@ msFilterList
 - http://adsentra.com
 - http://adspeedy.com
 - http://adsrelease.com
+- http://adversal.com
 - http://agenasia88.com
 # ||agenbo.la^$popup,third-party
 - http://agenpromosi.com
@@ -233,6 +238,7 @@ msFilterList
 - http://iklanvip.net
 - http://iklanwebid.com
 - http://iklanyahoo.com
+# ||imgur.com/*.gif$domain=movie76.com
 - http://incentria.com
 - http://incrasebux.com
 - http://indo-solusta.com
@@ -313,6 +319,7 @@ msFilterList
 - http://pondokiklan.com
 - http://popupmoney.com
 - http://portaliklan.com
+# ||postimg.org/*.gif$domain=21sinema.com
 - http://poweredprofits.com
 - http://ppcinbox.com
 - http://ppcindonesia.net
@@ -378,7 +385,6 @@ msFilterList
 - http://yesads.com
 # *** abpindo_specific_block.txt ***
 # |http://173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
-# |http://i.imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|sodasusu.com
 -d alertpay.com /banners/
 -d angel.exabytes.com.my /banners/
 -d armylookfashion.com /728.swf
@@ -386,7 +392,7 @@ msFilterList
 # ||bacamanga.com/images/indofiles/$image
 -d bingofreebonus.net /bfbcontent/locker.js?
 # ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
-# ||blogspot.com/*.gif$domain=asik.me|duniasex.ws
+# ||blogspot.com/*.gif$domain=duniasex.ws
 -d bokepgratiz.info /banner/
 -d bolavegas.com /ads/
 -d ceriwis.us /banner/
@@ -403,7 +409,8 @@ msFilterList
 -d forumkami.net /ad125x125/
 -d forumkami.net /ad200x50/
 -d ganool.com /wp-content/uploads/*.gif
-# ||googleusercontent.com/*.gif$domain=asik.me|duniasex.ws
+-d googledrive.com /host/0B-OnGqBU3zuJWVBFZzI5ak01STg
+# ||googleusercontent.com/*.gif$domain=duniasex.ws
 -d harakah.net.my /images/stories/iklan/
 -d harianjogja.com /banner/
 -d harianjogja.com /img/bnr/
@@ -411,7 +418,7 @@ msFilterList
 - http://iklanbaris.detik.com
 -d images.gameweb.co.id /gw/ads/
 -d images.indoforum.org /banners/
-# ||imgur.com/*.gif$domain=unduhfilm21.net
+# ||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|sodasusu.com|unduhfilm21.net
 -d indobokepz.com /images/banner/
 -d indochanger.com /banner/
 -d indomp3z.us /banner/
@@ -490,6 +497,8 @@ msFilterList
 # indogamers.com###bottombanner
 # bioskop21.us###box-message
 # adipedia.com,bokepgratiz.info,downloadfilmbaru.com,movie76.com,nusareborn.in###btm_banner
+# cinema81.com###btm_banner_kanan
+# cinema81.com###btm_banner_kiri
 # movie76.com###close-teaser
 # gudang.tv###container-bottom-menu-ads
 # gudang.tv###container-bottom-menu-ads2
@@ -536,10 +545,14 @@ msFilterList
 # harianjogja.com,solopos.com###solopos_float
 # downloadfilmbaru.com###sticky-ads
 # detik.com###sto_banner
-# unduhfilm21.net###teaser1
-# downloadfilmbaru.com,galaxymaya.com,unduhfilm21.net,unikgaul.com###teaser2
-# 172.245.177.74,downloadfilmbaru.com,galaxymaya.com,movie76.com,unduhfilm21.net,unikgaul.com###teaser3
-# 172.245.177.74,sodasusu.com###teaser4
+# cinema81.com,unduhfilm21.net###teaser1
+# 17gratis.com,cinema81.com,downloadfilmbaru.com,galaxymaya.com,unduhfilm21.net,unikgaul.com###teaser2
+# 172.245.177.74,cinema81.com,downloadfilmbaru.com,galaxymaya.com,movie76.com,unduhfilm21.net,unikgaul.com###teaser3
+# 172.245.177.74,cinema81.com,sodasusu.com###teaser4
+# movie76.com###teaser5
+# movie76.com###teaser6
+# movie76.com###teaser7
+# 17gratis.com###teaser8
 # detik.com###top_banner
 # bioskopkita.com###topbanner
 # jurigjarian.com###topbar
@@ -564,7 +577,7 @@ msFilterList
 # indobokepz.com##.adBar-vertical.left
 # indobokepz.com##.adBar-vertical.right
 # bharian.com.my##.adbtm
-# dapurpacu.com,kompas.com##.ads
+# 21sinema.com,dapurpacu.com,kompas.com##.ads
 # republika.co.id##.ads-160-600
 # republika.co.id##.ads-300-video
 # gudang.tv##.ads-content1
@@ -648,7 +661,8 @@ msFilterList
 # lintas.me##.xad-160x600
 # lintas.me##.xad-300x250
 # *** abpindo_whitelist.txt ***
-# @@.png#$domain=animeindo.tv|oploverz.net
+# @@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
 # @@||animeindo.tv^$elemhide
 # @@||oploverz.net^$elemhide
+# @@||wardhanime.net^$elemhide
 +d www2.melon.co.id /js/libs/angulartics-google-analytics.js

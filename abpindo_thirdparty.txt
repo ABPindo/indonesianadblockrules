@@ -18,6 +18,7 @@
 ||adsentra.com^$third-party
 ||adspeedy.com^$third-party
 ||adsrelease.com^$third-party
+||adversal.com^$third-party
 ||agenasia88.com^$third-party
 ||agenbo.la^$popup,third-party
 ||agenpromosi.com^$third-party
@@ -169,6 +170,7 @@
 ||iklanvip.net^$third-party
 ||iklanwebid.com^$third-party
 ||iklanyahoo.com^$third-party
+||imgur.com/*.gif$domain=movie76.com
 ||incentria.com^$third-party
 ||incrasebux.com^$third-party
 ||indo-solusta.com^$third-party
@@ -249,6 +251,7 @@
 ||pondokiklan.com^$third-party
 ||popupmoney.com^$third-party
 ||portaliklan.com^$third-party
+||postimg.org/*.gif$domain=21sinema.com
 ||poweredprofits.com^$third-party
 ||ppcinbox.com^$third-party
 ||ppcindonesia.net^$third-party
