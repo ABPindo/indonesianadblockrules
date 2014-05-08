@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 07 Mei 2014, 17:12:19 WIB
+# Last modified: 08 Mei 2014, 18:13:57 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -662,6 +662,7 @@ msFilterList
 # lintas.me##.xad-300x250
 # *** abpindo_whitelist.txt ***
 # @@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
+# @@||anime2enjoy.com^$elemhide
 # @@||animeindo.tv^$elemhide
 # @@||oploverz.net^$elemhide
 # @@||wardhanime.net^$elemhide
