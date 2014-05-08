@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rI06VovJ6nEP+D2HHaoEGw
+! Checksum: i8ELs0hxHGsKqIZA2heIvA
 ! Title: ABPindo
-! Last modified: 07 Mei 2014, 17:12:19 WIB
+! Last modified: 08 Mei 2014, 18:13:57 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -712,6 +712,7 @@ zonamuda.com##td[valign="top"][height="55px"][align="center"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]
 ! *** abpindo_whitelist.txt ***
 @@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
+@@||anime2enjoy.com^$elemhide
 @@||animeindo.tv^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide
