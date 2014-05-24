@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # ABPindo - ABPindo tanpa element hiding
-# Last modified 08 Mei 2014, 18:13:57 WIB
+# Last modified 24 Mei 2014, 23:36:28 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -87,6 +87,7 @@ msFilterList
 -d kikil.ws /forum/banner/
 -d kkcdn-static.kaskus.co.id /css_v0.1/img/skin/
 -d kompas.com /data/banner/
+-d krucil.net /banner/
 -d krucil.net /KD.js
 -d krucil.net /KD_adplib.js
 -d kumpulblogger.com /minibanner/
@@ -124,9 +125,9 @@ msFilterList
 - http://188bet.com
 - http://1iklanbaris.com
 - http://1st-iklan.com
-- http://39bola.com
 - http://988bet.com
 - http://abadiklan.com
+- http://ad.adflazz.com
 # ||ad.directrev.com/$popup,third-party
 - http://adbusinessfree.com
 - http://adcenter2u.com
@@ -137,7 +138,6 @@ msFilterList
 - http://adsbingo.com
 - http://adsense-id.com
 - http://adsensemu.com
-- http://adsentra.com
 - http://adspeedy.com
 - http://adsrelease.com
 - http://adversal.com
@@ -149,15 +149,12 @@ msFilterList
 - http://alamatemail.com
 - http://anadvertorial.com
 - http://anekaiklan.com
-- http://antariklan.com
 - http://apmmedia.net
 - http://arenabola.com
 - http://asiabolabet.com
 - http://axverta.com
 - http://baliadv.com
 # ||bandarjudi.com/$popup,third-party
-- http://barisiklangratis.com
-- http://bebaspikiran.com
 - http://bejopoker.com
 - http://bekas.com
 - http://belajar-bisnis.com
@@ -178,19 +175,16 @@ msFilterList
 - http://bravevolitation.com
 - http://btybet.com
 - http://bursabet.com
-- http://c-stat.eu
 - http://carasukses.com
 - http://cash-harvest.com
 -d cashburners.biz /banners/
 - http://cfs.u-ad.info
 - http://clickdbs.com
-- http://clicklifter.com
 - http://clickmedia.co.id
 - http://clicks4cents.com
 - http://clicksia.com
 - http://dewa-bisnis.com
 - http://dewamabuk.com
-- http://direktori-iklan.com
 - http://doremibet.com
 - http://duitbux.com
 - http://duitmu.com
@@ -214,19 +208,16 @@ msFilterList
 - http://gratisiklanpasang.com
 - http://gratisiklanpasang.net
 - http://groupiklan.com
-- http://hiddenbux.com
 -d idblognetwork.com /images/banner468x60/
 -d idblognetwork.com /images/banner728x90/
 - http://idr-clickit.com
 - http://iklan-baris.org
-- http://iklan-iklan.com
 - http://iklan-indo.org
 - http://iklan-laris.com
 - http://iklan-sukses.com
 - http://iklanads.com
 - http://iklanbaliku.com
 - http://iklanbaris-gratis.com
-- http://iklanbarisaceh.com
 - http://iklanbarisgratis.co.uk
 - http://iklanbarisgratis.info
 - http://iklanbarisgratis.net
@@ -241,7 +232,6 @@ msFilterList
 - http://iklanbaristanpadaftar.com
 - http://iklanbiru.com
 - http://iklanbisnisbali.com
-- http://iklanbisnisindonesia.com
 - http://iklanbisnisku.com
 - http://iklanbisnispro.com
 - http://iklanblogger.com
@@ -269,8 +259,6 @@ msFilterList
 - http://iklanhoki.com
 - http://iklanhouse.com
 - http://iklanjagoan.com
-- http://iklanjoglo.com
-- http://iklankito.com
 - http://iklankomplit.com
 - http://iklanlowongan.com
 - http://iklanmarket.com
@@ -295,7 +283,6 @@ msFilterList
 # ||imgur.com/*.gif$domain=movie76.com
 - http://incentria.com
 - http://incrasebux.com
-- http://indo-solusta.com
 # ||indoagenbola.com^$popup,third-party
 - http://indobanner.com
 - http://indofreeads.com
@@ -309,7 +296,6 @@ msFilterList
 - http://javapic.com
 - http://jillsclickcorner.com
 - http://jingkrak.com
-- http://jmp9.com
 - http://jollywallet.com
 - http://juruiklan.com
 # ||kakakdewa.com/$popup,third-party
@@ -323,25 +309,20 @@ msFilterList
 - http://lokeriklan.com
 -d lytogame.com /images/partner/
 -d lytogame.com /partner/
-- http://m88media.com
 - http://mabosbet.com
 -d manasuka.com /gbr_banner_link/
 - http://maripromosi.com
 - http://marketbola.com
 - http://masteriklan.net
 - http://mauiklangratis.com
-- http://medaniklan.com
 - http://mediaiklanpapua.com
 - http://mesiniklan.andipublisher.com
-- http://modaliklan.com
 - http://mpnrs.com
 - http://mybannermaker.com
 - http://nuansaiklan.com
 - http://numpanglewat.com
-- http://onbux.com
 - http://onclinic24.com
 - http://onedollarptc.com
--d optimsystems.org /images/banners/
 - http://paidforfree.com
 - http://paidtoclick.com
 - http://paneniklan.com
@@ -380,18 +361,15 @@ msFilterList
 - http://promobagus.com
 - http://promosiiklan.com
 - http://promotioncamp.com
-- http://prophetofdoom.net
 - http://publish.web.id
 - http://pundibux.net
 - http://pusatiklan.com
-- http://pusatmarketing.com
 - http://pusatpromosiiklan.com
 - http://rahasiapanas.com
 # ||rajabet77.com/$popup,third-party
 - http://ratubola.com
 - http://realwap.net
 - http://referral-secrets.com
-- http://ro2.biz
 - http://rupiahbux.com
 - http://sanglah.com
 - http://sbbanner.com
@@ -402,20 +380,16 @@ msFilterList
 - http://sentrapromosi.com
 - http://serbapromo.com
 - http://sharepointads.com
-- http://sitipromo.web.id
 - http://sitti.co.id
 - http://situsbet.com
 - http://situsiklan.web.id
 - http://situsiklanbaris.com
 # ||situsjudi.com^$popup,third-party
-- http://smart-iklan.com
 - http://sogoplaza.com
 -d suarabola.com /banners/
 - http://sumberiklan.com
 - http://suryaiklan.com
-- http://teknikbisnis.com
 - http://teliad.com
-- http://tempatiklan.com
 - http://textlinksdepot.com
 - http://textspace.net
 - http://theclickers.net
@@ -426,7 +400,6 @@ msFilterList
 # ||trafficfactory.biz^$popup,third-party
 - http://tri7bet.com
 - http://twap.eu
-- http://txtsrving.info
 -d u-on.eu /c.php?
 - http://u1win.com
 - http://unobux.com
