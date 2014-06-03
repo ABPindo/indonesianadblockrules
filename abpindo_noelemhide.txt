@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! ABPindo - ABPindo tanpa element hiding
+! Title: ABPindo tanpa element hiding
 ! Last modified %timestamp%
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
@@ -11,4 +11,5 @@
 %include abpindo_general_block.txt%
 %include abpindo_specific_block.txt%
 %include abpindo_thirdparty.txt%
+%include abpindo_computer_prank
 %include abpindo_whitelist.txt%
