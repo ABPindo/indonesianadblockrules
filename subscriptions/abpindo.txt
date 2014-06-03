@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JiXtfLj/EfR5hqpXLjyzkA
+! Checksum: 4oQrS+hTy0/YhkwqK1HYWw
 ! Title: ABPindo
-! Last modified: 24 Mei 2014, 23:36:28 WIB
+! Last modified: 03 Juni 2014, 20:23:42 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -375,7 +375,6 @@ blogspot.com##img[alt="ads"]
 ||blogspot.com/*.gif$domain=duniasex.ws
 ||bokepgratiz.info/banner/
 ||bolavegas.com/ads/
-||ceriwis.us/banner/
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||detik.com/images/banners/
 ||dinastybet.com/banner/
@@ -401,7 +400,6 @@ blogspot.com##img[alt="ads"]
 ||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|sodasusu.com|unduhfilm21.net
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
-||indomp3z.us/banner/
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||kad.kaskus.co.id/banner/$subdocument
 ||kad.kaskus.com/banner/$subdocument
@@ -412,10 +410,6 @@ blogspot.com##img[alt="ads"]
 ||kaskus.com/adv/
 ||kaskus.com/images/banner-wap/
 ||keripikcadas.com/banner/
-||kikil.org/banner/
-||kikil.org/forum/banner/
-||kikil.ws/banner/
-||kikil.ws/forum/banner/
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
 ||kompas.com/data/banner/
 ||krucil.net/banner/
@@ -489,14 +483,13 @@ lintas.me###facebox_overlay
 bioskop21.us###fadeinbox
 teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
-forumbokep.com###floating_banner_bottom
+forumbokep.com,vocland.com###floating_banner_bottom
 krucil.net###floating_banner_bottom.krucil_ads
 ganool.com###floating_banner_top2
 untukku.com###footer-adcont
 resep.web.id###googlebox
 indosiar.com###headerbanner
 indosiar.com###headerbanner + div[style="height:50px"]
-ceriwis.us###hoho-wrapsubmenu3
 lensaindonesia.com###idcomboard1.com-728x90
 lensaindonesia.com###idcomright1.com-300x250
 lensaindonesia.com###idcomright2.com-300x250
@@ -513,7 +506,7 @@ harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
 zonabola.com###lAds
 komikbaru.com,mangafox.me###left-skyscraper
-asik.me,duniasex.ws###main_content_section > div[align="center"]
+duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
 cinema81.com###newnew > [align="center"] img[width="465px"]
 indosat.com###preloader
@@ -543,8 +536,6 @@ detik.com###top_banner
 bioskopkita.com###topbanner
 jurigjarian.com###topbar
 bioskopkita.com###toppopin
-kikil.org,kikil.ws###ucpop_adpB
-kikil.org,kikil.ws###ucpop_adpS
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v5-marcommpromotion
 kapanlagi.com###v5-showcase1
@@ -582,7 +573,6 @@ palingseru.com##.alignnone.size-large.wp-image-458
 kaskus.co.id##.banner-top-ads
 oktavita.com##.banner-zone
 kompas.com##.bannerAdB
-kikil.org,kikil.ws##.bannerBox
 kompas.com##.bannerCenter
 kompas.com##.bannerCenter1SubRubrik
 kompas.com##.bannerCenter2SubRubrik
@@ -628,7 +618,6 @@ kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
-kikil.org,kikil.ws##.kikil_ads
 krucil.net##.krucil_ads
 krucil.net##.krucil_ads > .krucil_ads
 krucil.net##.krucil_ads > div[style="margin-bottom:0.3em"]
@@ -672,7 +661,6 @@ movie76.com##img[src="http://2.bp.blogspot.com/-2afHigsbpYY/UguQyTqs5SI/AAAAAAAA
 tribunnews.com##img[src="http://www.tribunnews.com/stylesheets/close.gif"]
 kompas.com##img[src^="http://img.ads."]
 ic31linkpage.com,icinema3satu.com##img[style="height: 125px; width: 125px;"]
-icinema3satu.com##img[style="height: 125x; width: 125px;"]
 icinema3satu.com##img[style="height:125x;width:125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 unduhfilm21.net##img[style="width: 728px; height: 60px;"]
@@ -680,12 +668,13 @@ bioskop21.us##img[title="pasang iklan"]
 movie76.com##img[title="pasang-iklan"]
 downloadfilem.com##img[width="125"][height="125"]
 bioskop21.us##img[width="640"][height="90"]
-21sinema.com##img[width="728"][height="90"]
+21sinema.com,ceriwis.com##img[width="728"][height="90"]
 stafaband.info##table[width="100%"] + #bottom
 zonamuda.com##td[valign="top"][height="55px"][align="center"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]
+%include abpindo_computer_prank
 ! *** abpindo_whitelist.txt ***
-@@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
+@@.png#$domain=anime2enjoy.com|animeindo.tv|oploverz.net|wardhanime.net
 @@||anime2enjoy.com^$elemhide
 @@||animeindo.tv^$elemhide
 @@||oploverz.net^$elemhide

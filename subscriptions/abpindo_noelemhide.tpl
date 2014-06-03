@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
-# ABPindo - ABPindo tanpa element hiding
-# Last modified 24 Mei 2014, 23:36:28 WIB
+# Title: ABPindo tanpa element hiding
+# Last modified 03 Juni 2014, 20:23:42 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -44,7 +44,6 @@ msFilterList
 # ||blogspot.com/*.gif$domain=duniasex.ws
 -d bokepgratiz.info /banner/
 -d bolavegas.com /ads/
--d ceriwis.us /banner/
 # ||coblos.net^*.swf$domain=bintangmawar.net
 -d detik.com /images/banners/
 -d dinastybet.com /banner/
@@ -70,7 +69,6 @@ msFilterList
 # ||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|sodasusu.com|unduhfilm21.net
 -d indobokepz.com /images/banner/
 -d indochanger.com /banner/
--d indomp3z.us /banner/
 -d jagatreview.com /wp-content/uploads/*-SKIN-
 # ||kad.kaskus.co.id/banner/$subdocument
 # ||kad.kaskus.com/banner/$subdocument
@@ -81,10 +79,6 @@ msFilterList
 -d kaskus.com /adv/
 -d kaskus.com /images/banner-wap/
 -d keripikcadas.com /banner/
--d kikil.org /banner/
--d kikil.org /forum/banner/
--d kikil.ws /banner/
--d kikil.ws /forum/banner/
 -d kkcdn-static.kaskus.co.id /css_v0.1/img/skin/
 -d kompas.com /data/banner/
 -d krucil.net /banner/
@@ -410,8 +404,9 @@ msFilterList
 - http://weblogiklan.com
 - http://webtrackerplus.com
 - http://yesads.com
+- %include abpindo_computer_prank
 # *** abpindo_whitelist.txt ***
-# @@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
+# @@.png#$domain=anime2enjoy.com|animeindo.tv|oploverz.net|wardhanime.net
 # @@||anime2enjoy.com^$elemhide
 # @@||animeindo.tv^$elemhide
 # @@||oploverz.net^$elemhide
