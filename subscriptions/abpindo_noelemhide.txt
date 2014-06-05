@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: T8kIM4McwDkPbLzoV7ynzA
+! Checksum: 7b3Js8Z7jtBeUiBqCjNNMA
 ! Title: ABPindo tanpa element hiding
-! Last modified 03 Juni 2014, 20:23:42 WIB
+! Last modified 05 Juni 2014, 09:26:43 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -77,7 +77,6 @@ sarana88.gif|
 ||kapanlagi.com^*/banner/
 ||kaskus.co.id/adv/
 ||kaskus.co.id/images/banner-wap/
-||kaskus.com/adv/
 ||kaskus.com/images/banner-wap/
 ||keripikcadas.com/banner/
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
@@ -123,7 +122,6 @@ sarana88.gif|
 ||988bet.com^$third-party
 ||abadiklan.com^$third-party
 ||ad.adflazz.com^$third-party
-||ad.directrev.com/$popup,third-party
 ||adbusinessfree.com^$third-party
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
@@ -135,7 +133,6 @@ sarana88.gif|
 ||adsensemu.com^$third-party
 ||adspeedy.com^$third-party
 ||adsrelease.com^$third-party
-||adversal.com^$third-party
 ||agenasia88.com^$third-party
 ||agenbo.la^$popup,third-party
 ||agenpromosi.com^$third-party
@@ -407,8 +404,7 @@ sarana88.gif|
 ||yesads.com^$third-party
 %include abpindo_computer_prank
 ! *** abpindo_whitelist.txt ***
-@@.png#$domain=anime2enjoy.com|animeindo.tv|oploverz.net|wardhanime.net
-@@||anime2enjoy.com^$elemhide
+@@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
 @@||animeindo.tv^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide

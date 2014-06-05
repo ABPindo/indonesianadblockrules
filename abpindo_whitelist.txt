@@ -1,5 +1,4 @@
-@@.png#$domain=anime2enjoy.com|animeindo.tv|oploverz.net|wardhanime.net
-@@||anime2enjoy.com^$elemhide
+@@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
 @@||animeindo.tv^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide
