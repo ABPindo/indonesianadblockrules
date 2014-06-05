@@ -13,5 +13,5 @@
 %include abpindo_thirdparty.txt%
 %include abpindo_specific_block.txt%
 %include abpindo_specific_hide.txt%
-%include abpindo_computer_prank
+%include abpindo_computer_prank.txt%
 %include abpindo_whitelist.txt%

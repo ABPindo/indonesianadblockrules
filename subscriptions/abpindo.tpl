@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 03 Juni 2014, 20:23:42 WIB
+# Last modified: 05 Juni 2014, 09:26:43 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -73,7 +73,6 @@ msFilterList
 - http://988bet.com
 - http://abadiklan.com
 - http://ad.adflazz.com
-# ||ad.directrev.com/$popup,third-party
 - http://adbusinessfree.com
 - http://adcenter2u.com
 - http://addesigner.com
@@ -85,7 +84,6 @@ msFilterList
 - http://adsensemu.com
 - http://adspeedy.com
 - http://adsrelease.com
-- http://adversal.com
 - http://agenasia88.com
 # ||agenbo.la^$popup,third-party
 - http://agenpromosi.com
@@ -399,7 +397,6 @@ msFilterList
 -d kapanlagi.com /banner/
 -d kaskus.co.id /adv/
 -d kaskus.co.id /images/banner-wap/
--d kaskus.com /adv/
 -d kaskus.com /images/banner-wap/
 -d keripikcadas.com /banner/
 -d kkcdn-static.kaskus.co.id /css_v0.1/img/skin/
@@ -452,12 +449,10 @@ msFilterList
 # harianjogja.com,solopos.com###ads-float
 # dapurpacu.com###ads-mid
 # downloadfilmbaru.com###ads-stack
-# remo-xp.com###adsheader
 # inilah.com,kompasiana.com###anchormasklink
 # tempointeraktif.com###banner-atas
 # tempointeraktif.com###banner-bawah
 # panduanpercuma.info###banner125
-# remo-xp.com###banner_bawah
 # tribunnews.com###bannerku
 # tribunnews.com###bannerkubawah
 # detik.com###bottom_banner
@@ -485,8 +480,6 @@ msFilterList
 # lensaindonesia.com###idcomright2.com-300x250
 # lensaindonesia.com###idcomsensebox1.com-300x250
 # lensaindonesia.com###idcomsky1.com-160x600
-# remo-xp.com###ikanan
-# remo-xp.com###ikiri
 # jomniaga.com###imgBanner
 # downloadfilmbaru.com###itro_opaco
 # downloadfilmbaru.com###itro_popup
@@ -605,7 +598,6 @@ msFilterList
 # detik.com##.iklan_tengah
 # gambarkeren.info##.iklankotak1
 # krucil.net##.krucil_ads
-# krucil.net##.krucil_ads > .krucil_ads
 # krucil.net##.krucil_ads.krucil_floating_banner_top
 # kaskus.co.id##.l-link
 # tribunnews.com##.mb20.ac.bsh3.ads
@@ -623,10 +615,132 @@ msFilterList
 # galaxymaya.com##.widget-content
 # lintas.me##.xad-160x600
 # lintas.me##.xad-300x250
-- %include abpindo_computer_prank
+# *** abpindo_computer_prank.txt ***
+- http://1227.com
+- http://1priest1nun.com
+- http://2girls1finger.com
+- http://2guys1hole.com
+- http://2guys1horse.com
+- http://4girlsfingerpaint.com
+- http://asianthumbx.com
+-d bangun3.com /admin
+- http://bluewaffle.com
+- http://bmepainolympics2.com
+- http://boi.netai.net
+- http://bottleguy.com
+- http://bouncecup.com
+- http://bowlgirl.com
+- http://charonboat.com
+- http://cherrycake.org
+- http://clownsong.com
+- http://coryna.com
+- http://cupchicks.com
+-d d1gdo.com /admin/
+-d d1gdo.com /images
+- http://dadparty.com
+- http://denial.be
+- http://drewpickles.com
+- http://eatingcream.com
+- http://eelsoup.net
+- http://fanbangho.com
+- http://festered.com
+- http://fingerslam.com
+- http://fishermen.ytmnd.com
+- http://fragskin.com
+- http://fruitlauncher.com
+- http://funnelchair.com
+- http://ghostboy.co.uk
+- http://ginedis.com
+- http://gncr.org
+- http://goatse.cz
+- http://goatsegirl.org
+- http://goatsemarathon.com
+- http://googlehammer.com
+- http://gooork.com
+- http://goplaysee.com
+- http://goregasm.com
+- http://grubbychicks.com
+- http://gurochan.net
+- http://hai2u.com
+- http://hdvideoforums.org
+- http://hihanin.com
+- http://homewares.org
+- http://homo.com
+- http://hurr-durr.com
+- http://infoslash.net
+- http://japscat.org
+- http://joyangeles.com
+- http://k-k-k.com
+- http://kids-in-sandbox.com
+- http://killerijo.net
+- http://kingfamilyphotoalbum.com
+- http://landslide.nu
+- http://lemonparty.org
+- http://likaraoke.com
+- http://lolhello.com
+- http://lolshock.com
+- http://loltrain.com
+- http://macory.com
+- http://magic4you.nu
+- http://mangems.com
+- http://martectx.de
+- http://meatrolled.com
+- http://meatspin.com
+- http://melondude.com
+- http://milkfountain.com
+- http://moldymen.com
+- http://motherman.com
+- http://mrshands.com
+- http://mudfall.com
+- http://mudmonster.org
+- http://niggers.on.nimp.org
+- http://nobrain.dk
+- http://nutabuse.com
+- http://nutsindaass.com
+- http://octopusgirl.com
+- http://ogrish.com
+- http://phonejapan.com
+- http://phonetrace.org
+- http://podrido.com
+- http://poobutton.com
+- http://porkspin.com
+- http://pressurespot.com
+- http://prolapseman.com
+- http://purplehoodie.com
+- http://qsng.cn
+-d rumdesign.com /wrong/
+- http://sajjadali.com
+- http://seksburada.net
+- http://shitpassion.com
+-d sinthaistudio.com /thehouse2/
+- http://sportsmansclub.net
+- http://stock888.cn
+- http://subang.co.tv
+- http://subangtv.co.tv
+- http://suckdude.com
+- http://sukatoro.com
+- http://sweety.biz
+- http://swollentip.com
+- http://teamclouds.com
+- http://texaswhitetailfever.com
+- http://thatsnotsexy.com
+- http://themacuser.org
+- http://themobiletracker.com
+- http://thepounder.com
+- http://theshithole.com
+- http://thewillpower.org
+- http://turdgasm.com
+- http://vomitgirl.org
+- http://walkthedinosaur.com
+- http://whoomp.org
+- http://winterrowd.com
+- http://wormgush.com
+- http://wowomg.com
+- http://xnescat.info
+- http://yellaface.com
+- http://youaresogay.com
 # *** abpindo_whitelist.txt ***
-# @@.png#$domain=anime2enjoy.com|animeindo.tv|oploverz.net|wardhanime.net
-# @@||anime2enjoy.com^$elemhide
+# @@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
 # @@||animeindo.tv^$elemhide
 # @@||oploverz.net^$elemhide
 # @@||wardhanime.net^$elemhide

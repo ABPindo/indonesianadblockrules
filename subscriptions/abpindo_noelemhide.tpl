@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo tanpa element hiding
-# Last modified 03 Juni 2014, 20:23:42 WIB
+# Last modified 05 Juni 2014, 09:26:43 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -76,7 +76,6 @@ msFilterList
 -d kapanlagi.com /banner/
 -d kaskus.co.id /adv/
 -d kaskus.co.id /images/banner-wap/
--d kaskus.com /adv/
 -d kaskus.com /images/banner-wap/
 -d keripikcadas.com /banner/
 -d kkcdn-static.kaskus.co.id /css_v0.1/img/skin/
@@ -122,7 +121,6 @@ msFilterList
 - http://988bet.com
 - http://abadiklan.com
 - http://ad.adflazz.com
-# ||ad.directrev.com/$popup,third-party
 - http://adbusinessfree.com
 - http://adcenter2u.com
 - http://addesigner.com
@@ -134,7 +132,6 @@ msFilterList
 - http://adsensemu.com
 - http://adspeedy.com
 - http://adsrelease.com
-- http://adversal.com
 - http://agenasia88.com
 # ||agenbo.la^$popup,third-party
 - http://agenpromosi.com
@@ -406,8 +403,7 @@ msFilterList
 - http://yesads.com
 - %include abpindo_computer_prank
 # *** abpindo_whitelist.txt ***
-# @@.png#$domain=anime2enjoy.com|animeindo.tv|oploverz.net|wardhanime.net
-# @@||anime2enjoy.com^$elemhide
+# @@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
 # @@||animeindo.tv^$elemhide
 # @@||oploverz.net^$elemhide
 # @@||wardhanime.net^$elemhide

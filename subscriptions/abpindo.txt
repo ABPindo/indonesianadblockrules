@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4oQrS+hTy0/YhkwqK1HYWw
+! Checksum: ZlvJlHaGJqf79XWLFs22og
 ! Title: ABPindo
-! Last modified: 03 Juni 2014, 20:23:42 WIB
+! Last modified: 05 Juni 2014, 09:26:43 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -81,7 +81,6 @@ blogspot.com##img[alt="ads"]
 ||988bet.com^$third-party
 ||abadiklan.com^$third-party
 ||ad.adflazz.com^$third-party
-||ad.directrev.com/$popup,third-party
 ||adbusinessfree.com^$third-party
 ||adcenter2u.com^$third-party
 ||addesigner.com^$third-party
@@ -93,7 +92,6 @@ blogspot.com##img[alt="ads"]
 ||adsensemu.com^$third-party
 ||adspeedy.com^$third-party
 ||adsrelease.com^$third-party
-||adversal.com^$third-party
 ||agenasia88.com^$third-party
 ||agenbo.la^$popup,third-party
 ||agenpromosi.com^$third-party
@@ -407,7 +405,6 @@ blogspot.com##img[alt="ads"]
 ||kapanlagi.com^*/banner/
 ||kaskus.co.id/adv/
 ||kaskus.co.id/images/banner-wap/
-||kaskus.com/adv/
 ||kaskus.com/images/banner-wap/
 ||keripikcadas.com/banner/
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
@@ -460,12 +457,10 @@ forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,so
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
-remo-xp.com###adsheader
 inilah.com,kompasiana.com###anchormasklink
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 panduanpercuma.info###banner125
-remo-xp.com###banner_bawah
 tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
 detik.com###bottom_banner
@@ -495,8 +490,6 @@ lensaindonesia.com###idcomright1.com-300x250
 lensaindonesia.com###idcomright2.com-300x250
 lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
-remo-xp.com###ikanan
-remo-xp.com###ikiri
 jomniaga.com###imgBanner
 downloadfilmbaru.com###itro_opaco
 downloadfilmbaru.com###itro_popup
@@ -619,8 +612,6 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 krucil.net##.krucil_ads
-krucil.net##.krucil_ads > .krucil_ads
-krucil.net##.krucil_ads > div[style="margin-bottom:0.3em"]
 krucil.net##.krucil_ads.krucil_floating_banner_top
 kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
@@ -653,8 +644,6 @@ tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70p
 bokepgratiz.info##div[style="width:100%;text-align:center;"]
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 komikbaru.com##img[alt="Pemasangan Iklan"]
-movie76.com##img[alt="ads"]
-remo-xp.com##img[alt="iklan 440x90"]
 zonamuda.com##img[alt="iklan"]
 bokepgratiz.info##img[alt="smart-forex-system.com"]
 movie76.com##img[src="http://2.bp.blogspot.com/-2afHigsbpYY/UguQyTqs5SI/AAAAAAAAAcg/8E4df8rMZMU/s1600/Download+noww.jpg'"]
@@ -672,10 +661,132 @@ bioskop21.us##img[width="640"][height="90"]
 stafaband.info##table[width="100%"] + #bottom
 zonamuda.com##td[valign="top"][height="55px"][align="center"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]
-%include abpindo_computer_prank
+! *** abpindo_computer_prank.txt ***
+||1227.com^
+||1priest1nun.com^
+||2girls1finger.com^
+||2guys1hole.com^
+||2guys1horse.com^
+||4girlsfingerpaint.com^
+||asianthumbx.com^
+||bangun3.com/admin
+||bluewaffle.com^
+||bmepainolympics2.com^
+||boi.netai.net^
+||bottleguy.com^
+||bouncecup.com^
+||bowlgirl.com^
+||charonboat.com^
+||cherrycake.org^
+||clownsong.com^
+||coryna.com^
+||cupchicks.com^
+||d1gdo.com/admin/
+||d1gdo.com/images
+||dadparty.com^
+||denial.be^
+||drewpickles.com^
+||eatingcream.com^
+||eelsoup.net^
+||fanbangho.com^
+||festered.com^
+||fingerslam.com^
+||fishermen.ytmnd.com^
+||fragskin.com^
+||fruitlauncher.com^
+||funnelchair.com^
+||ghostboy.co.uk^
+||ginedis.com^
+||gncr.org^
+||goatse.cz^
+||goatsegirl.org^
+||goatsemarathon.com^
+||googlehammer.com^
+||gooork.com^
+||goplaysee.com^
+||goregasm.com^
+||grubbychicks.com^
+||gurochan.net^
+||hai2u.com^
+||hdvideoforums.org^
+||hihanin.com^
+||homewares.org^
+||homo.com^
+||hurr-durr.com^
+||infoslash.net^
+||japscat.org^
+||joyangeles.com^
+||k-k-k.com^
+||kids-in-sandbox.com^
+||killerijo.net^
+||kingfamilyphotoalbum.com^
+||landslide.nu^
+||lemonparty.org^
+||likaraoke.com^
+||lolhello.com^
+||lolshock.com^
+||loltrain.com^
+||macory.com^
+||magic4you.nu^
+||mangems.com^
+||martectx.de^
+||meatrolled.com^
+||meatspin.com^
+||melondude.com^
+||milkfountain.com^
+||moldymen.com^
+||motherman.com^
+||mrshands.com^
+||mudfall.com^
+||mudmonster.org^
+||niggers.on.nimp.org^
+||nobrain.dk^
+||nutabuse.com^
+||nutsindaass.com^
+||octopusgirl.com^
+||ogrish.com^
+||phonejapan.com^
+||phonetrace.org^
+||podrido.com^
+||poobutton.com^
+||porkspin.com^
+||pressurespot.com^
+||prolapseman.com^
+||purplehoodie.com^
+||qsng.cn^
+||rumdesign.com/wrong/
+||sajjadali.com^
+||seksburada.net^
+||shitpassion.com^
+||sinthaistudio.com/thehouse2/
+||sportsmansclub.net^
+||stock888.cn^
+||subang.co.tv^
+||subangtv.co.tv^
+||suckdude.com^
+||sukatoro.com^
+||sweety.biz^
+||swollentip.com^
+||teamclouds.com^
+||texaswhitetailfever.com^
+||thatsnotsexy.com^
+||themacuser.org^
+||themobiletracker.com^
+||thepounder.com^
+||theshithole.com^
+||thewillpower.org^
+||turdgasm.com^
+||vomitgirl.org^
+||walkthedinosaur.com^
+||whoomp.org^
+||winterrowd.com^
+||wormgush.com^
+||wowomg.com^
+||xnescat.info^
+||yellaface.com^
+||youaresogay.com^
 ! *** abpindo_whitelist.txt ***
-@@.png#$domain=anime2enjoy.com|animeindo.tv|oploverz.net|wardhanime.net
-@@||anime2enjoy.com^$elemhide
+@@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
 @@||animeindo.tv^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide
