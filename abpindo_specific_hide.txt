@@ -33,8 +33,7 @@ lintas.me###facebox_overlay
 bioskop21.us###fadeinbox
 teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
-forumbokep.com,vocland.com###floating_banner_bottom
-krucil.net###floating_banner_bottom.krucil_ads
+forumbokep.com,krucil.net,vocland.com###floating_banner_bottom
 ganool.com###floating_banner_top2
 untukku.com###footer-adcont
 resep.web.id###googlebox
@@ -167,7 +166,7 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 krucil.net##.krucil_ads
-krucil.net##.krucil_ads.krucil_floating_banner_top
+krucil.net##.krucil_floating_banner_top
 kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 tribunnews.com##.mb20.ac.bsh3.ads
