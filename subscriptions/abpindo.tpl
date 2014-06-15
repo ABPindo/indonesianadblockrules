@@ -1,7 +1,7 @@
 msFilterList
 : Expires=5
 # Title: ABPindo
-# Last modified: 05 Juni 2014, 09:26:43 WIB
+# Last modified: 15 Juni 2014, 13:14:24 WIB
 # Homepage: http://abpindo.blogspot.com/
 # Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
 #
@@ -469,8 +469,7 @@ msFilterList
 # bioskop21.us###fadeinbox
 # teknoup.com###fancybox-wrap
 # teknoup.com###fancybox_ajax
-# forumbokep.com,vocland.com###floating_banner_bottom
-# krucil.net###floating_banner_bottom.krucil_ads
+# forumbokep.com,krucil.net,vocland.com###floating_banner_bottom
 # ganool.com###floating_banner_top2
 # untukku.com###footer-adcont
 # resep.web.id###googlebox
@@ -598,7 +597,7 @@ msFilterList
 # detik.com##.iklan_tengah
 # gambarkeren.info##.iklankotak1
 # krucil.net##.krucil_ads
-# krucil.net##.krucil_ads.krucil_floating_banner_top
+# krucil.net##.krucil_floating_banner_top
 # kaskus.co.id##.l-link
 # tribunnews.com##.mb20.ac.bsh3.ads
 # dapurpacu.com##.mid-banner
@@ -644,7 +643,6 @@ msFilterList
 - http://eelsoup.net
 - http://fanbangho.com
 - http://festered.com
-- http://fingerslam.com
 - http://fishermen.ytmnd.com
 - http://fragskin.com
 - http://fruitlauncher.com
@@ -685,11 +683,9 @@ msFilterList
 - http://mangems.com
 - http://martectx.de
 - http://meatrolled.com
-- http://meatspin.com
 - http://melondude.com
 - http://milkfountain.com
 - http://moldymen.com
-- http://motherman.com
 - http://mrshands.com
 - http://mudfall.com
 - http://mudmonster.org
@@ -735,10 +731,8 @@ msFilterList
 - http://whoomp.org
 - http://winterrowd.com
 - http://wormgush.com
-- http://wowomg.com
 - http://xnescat.info
 - http://yellaface.com
-- http://youaresogay.com
 # *** abpindo_whitelist.txt ***
 # @@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
 # @@||animeindo.tv^$elemhide
