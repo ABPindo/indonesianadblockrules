@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: SnsQzqBjolSHvKxE+dgvUg
+! Checksum: zOVVvYufABm55pb1TViyoQ
 ! Title: ABPindo tanpa element hiding
-! Last modified 07 Juli 2014, 18:08:33 WIB
+! Last modified 08 Juli 2014, 21:21:23 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -408,6 +408,7 @@ sarana88.gif|
 %include abpindo_computer_prank
 ! *** abpindo_whitelist.txt ***
 @@.png#$domain=animeindo.tv|oploverz.net|wardhanime.net
+@@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide
