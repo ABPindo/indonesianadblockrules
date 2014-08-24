@@ -39,7 +39,6 @@
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
 ||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|movie76.com|sodasusu.com|unduhfilm21.net
-||incentria.com^$third-party
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
 ||investasiceria.net^$third-party
@@ -57,7 +56,6 @@
 ||numpanglewat.com^$third-party
 ||onclinic24.com^$third-party
 ||paypalbisnis.com^$third-party
-||perawan.pro/$popup,third-party
 ||perawan3gp.com^$popup,third-party
 ||postimg.org/*.gif$domain=21sinema.com
 ||poweredprofits.com^$third-party
@@ -70,15 +68,12 @@
 ||sbbanner.com^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||serbiansoftware.com^$popup,domain=bioskop21.us
-||suarabola.com/banners/$third-party
 ||textspace.net^$third-party
 ||tinypic.com^$image,domain=bioskopkita.com
-||topskor.us^$third-party
 ||topsurfer.com^$third-party
 ||trafficfactory.biz^$popup,third-party
 ||tri7bet.com^$third-party
 ||twap.eu^$third-party
 ||u-on.eu/c.php?$third-party
-||u1win.com^$third-party
 ||usahaberhasil.com^$third-party
 ||webtrackerplus.com^$third-party
