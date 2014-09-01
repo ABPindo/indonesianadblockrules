@@ -41,6 +41,7 @@
 ||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|movie76.com|sodasusu.com|unduhfilm21.net
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
+||infoskorbola.com^$third-party
 ||investasiceria.net^$third-party
 ||javapic.com^$third-party
 ||jingkrak.com^$third-party
@@ -54,6 +55,7 @@
 ||mpnrs.com^$third-party
 ||mybannermaker.com^$third-party
 ||numpanglewat.com^$third-party
+||octafx.com^$popup,third-party
 ||onclinic24.com^$third-party
 ||paypalbisnis.com^$third-party
 ||perawan3gp.com^$popup,third-party
@@ -69,6 +71,7 @@
 ||sebar.idblognetwork.com^$third-party
 ||serbiansoftware.com^$popup,domain=bioskop21.us
 ||textspace.net^$third-party
+||tinypic.com/*.gif$domain=icinema3satu.com
 ||tinypic.com^$image,domain=bioskopkita.com
 ||topsurfer.com^$third-party
 ||trafficfactory.biz^$popup,third-party
