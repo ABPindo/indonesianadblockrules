@@ -31,7 +31,8 @@ gudang.tv###container-bottom-menu-ads2
 90animax.com###energysaving
 lintas.me###facebox_overlay
 bioskop21.us###fadeinbox
-teknoup.com###fancybox-wrap
+r-l.me###fancybox-overlay
+r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 forumbokep.com,krucil.net,vocland.com###floating_banner_bottom
 ganool.com###floating_banner_top2
@@ -170,14 +171,12 @@ detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 krucil.net##.krucil_ads
 krucil.net##.krucil_floating_banner_top
-kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 tribunnews.com##.mb20.ac.bsh3.ads
 dapurpacu.com##.mid-banner
 detik.com##.otp_banner_close
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 lintas.me##.popup
-kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250
 filmindonesia.or.id##.row.block.ad-unit-medium-retangle.center
 semprot.com##.semprot_ads
