@@ -30,6 +30,7 @@
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
 ||ewetot.com^$image,object,domain=bintangmawar.net
+||exeleech.com^$third-party
 ||flexterkita.com^$third-party
 ||formulabisnis.com/images/$third-party
 ||galaxybola.com^$third-party
@@ -59,7 +60,7 @@
 ||onclinic24.com^$third-party
 ||paypalbisnis.com^$third-party
 ||perawan3gp.com^$popup,third-party
-||postimg.org/*.gif$domain=21sinema.com
+||postimg.org/*.gif$domain=21sinema.com|r-l.me
 ||poweredprofits.com^$third-party
 ||publish.web.id^$third-party
 ||pundibux.net^$third-party
