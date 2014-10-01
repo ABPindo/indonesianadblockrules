@@ -1,5 +1,6 @@
-|http://173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
 ||108.168.231.179^$popup,third-party
+||173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
+||188bet.com/$popup,third-party
 ||agenbo.la^$popup,third-party
 ||alamatemail.com^$third-party
 ||apmmedia.net^$third-party
@@ -18,6 +19,8 @@
 ||blogspot.com/*.gif$domain=duniasex.ws
 ||bola777.net^$third-party
 ||bolaketangkasan.com^$third-party
+||bursabet.com^$popup,third-party
+||c-stat.eu^$third-party
 ||carasukses.com^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz/banners/$third-party
@@ -39,6 +42,7 @@
 ||googleusercontent.com/*.gif$domain=duniasex.ws
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
+||idolakini.com/$popup,third-party
 ||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|movie76.com|sodasusu.com|unduhfilm21.net
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party

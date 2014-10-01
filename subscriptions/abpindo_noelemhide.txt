@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 8DPZ5O2REBpLU5fDBlmMsg
+! Checksum: SN4URiXRcd7GYD3ZrzdxMg
 ! Title: ABPindo tanpa element hiding
-! Last modified 18 September 2014, 21:15:35 WIB
+! Last modified 01 Oktober 2014, 15:30:20 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -27,6 +27,7 @@
 ||anadvertorial.com^$third-party
 ||anekaiklan.com^$third-party
 ||baliadv.com^$third-party
+||bmnet-ads.com^$third-party
 ||clickmedia.co.id^$third-party
 ||clicks4cents.com^$third-party
 ||forumiklan.com^$third-party
@@ -341,6 +342,11 @@ sarana88.gif|
 ||asianbrain.com/banner/
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
+||bintangmawar.net/forum/bot_banner.php
+||bintangmawar.net/forum/med_banner.php
+||bintangmawar.net/forum/medright_banner.php
+||bintangmawar.net/forum/top_banner.php
+||bmers2.net/forum/bmnet-popads.php
 ||bokepgratiz.info/banner/
 ||bolavegas.com/ads/
 ||detik.com/images/banners/
@@ -357,6 +363,7 @@ sarana88.gif|
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
+||hentai2read.com/ios/swf/
 ||id.hao123.com/resource/id/banner/
 ||iklanbaris.detik.com/
 ||image-tmart.com/cpc/affiliate/
@@ -390,12 +397,14 @@ sarana88.gif|
 ||musisi.com/musifile/images_banner/
 ||my.postsgenius.com/style/banners/
 ||mylogin.co^$domain=hentai2read.com
+||narutobleachlover.net/scriptiklan/klik-iklan.js
 ||newopenx.detik.com/images/
 ||pancet.com/kbads/
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
 ||sodasusu.com/banner/
 ||solopos.com/banner/
+||static.ambient-platform.com/js/m_adnetwork.js
 ||suaramedia.com/images/banners/
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||tabloidbintang.com^*/space-iklan/
@@ -404,11 +413,14 @@ sarana88.gif|
 ||usnewopenx.detik.com/images/
 ||utusan.com.my/utusan/iklan/
 ||videogamesindonesia.com/banners/
+||yourjavascript.com/1411253239/itu-domino-popup-script.js
+||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonabola.com/wp-content/uploads/*/Banner-
 ||zonabola.com^*/iklan/
 ! *** abpindo_thirdparty.txt ***
-|http://173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
 ||108.168.231.179^$popup,third-party
+||173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
+||188bet.com/$popup,third-party
 ||agenbo.la^$popup,third-party
 ||alamatemail.com^$third-party
 ||apmmedia.net^$third-party
@@ -427,6 +439,8 @@ sarana88.gif|
 ||blogspot.com/*.gif$domain=duniasex.ws
 ||bola777.net^$third-party
 ||bolaketangkasan.com^$third-party
+||bursabet.com^$popup,third-party
+||c-stat.eu^$third-party
 ||carasukses.com^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz/banners/$third-party
@@ -448,6 +462,7 @@ sarana88.gif|
 ||googleusercontent.com/*.gif$domain=duniasex.ws
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
+||idolakini.com/$popup,third-party
 ||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|movie76.com|sodasusu.com|unduhfilm21.net
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
@@ -493,6 +508,7 @@ sarana88.gif|
 ! *** abpindo_whitelist.txt ***
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
+@@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide
 @@||www2.melon.co.id/js/libs/angulartics-google-analytics.js
