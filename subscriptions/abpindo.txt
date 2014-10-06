@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fcz6e19DFyG8bukJc/IZ6A
+! Checksum: VkZ5OF5WCm3sbw/Uz9p0PA
 ! Title: ABPindo
-! Last modified: 02 Oktober 2014, 06:58:17 WIB
+! Last modified: 06 Oktober 2014, 20:36:26 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -776,6 +776,7 @@ zonamuda.com##td[valign="top"][height="56px"][align="center"]
 ||usahaberhasil.com^$third-party
 ||webtrackerplus.com^$third-party
 ! *** abpindo_whitelist.txt ***
+@@.png#$domain=narutobleachlover.net|wardhanime.net
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
 @@||narutobleachlover.net^$elemhide
