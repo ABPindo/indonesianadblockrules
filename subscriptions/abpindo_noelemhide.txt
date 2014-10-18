@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: LeMYvjITJn1hr692c0B4LA
+! Checksum: qmxMt7QMKyG1Qd9CI7E+lw
 ! Title: ABPindo tanpa element hiding
-! Last modified 06 Oktober 2014, 20:36:26 WIB
+! Last modified 18 Oktober 2014, 12:20:25 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -144,6 +144,7 @@
 ||pusatpromosiiklan.com^$third-party
 ||referral-secrets.com^$third-party
 ||rupiahbux.com^$third-party
+||semuaberita.com/banner/
 ||sentra-iklan.com^$third-party
 ||sentrapromosi.com^$third-party
 ||serbapromo.com^$third-party
@@ -183,6 +184,7 @@
 ||duitmu.com^$third-party
 ||fairbet88.com^$popup,third-party
 ||galaxybola.com^$third-party
+||galaxytoto.com^$third-party
 ||kakakdewa.com^$third-party
 ||kakakdewa.net^$third-party
 ||mabosbet.com^$third-party
@@ -336,6 +338,7 @@ agen_bola_online.gif|
 bundapoker.gif|
 sarana88.gif|
 ! *** abpindo_specific_block.txt ***
+|http://cdn.kaskus.com/img/skin/*.gif
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
 ||animeindo.tv/ad/
@@ -351,6 +354,7 @@ sarana88.gif|
 ||bokepgratiz.info/banner/
 ||bolavegas.com/ads/
 ||detik.com/images/banners/
+||dewa.tv/banner/
 ||dinastybet.com/banner/
 ||dixam.net/banner/
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
