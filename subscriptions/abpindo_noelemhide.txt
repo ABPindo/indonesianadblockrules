@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 95HHfg0QamHWijCb5DHZ1Q
+! Checksum: MoHBH5HghAIrbtOfm/LQlw
 ! Title: ABPindo tanpa element hiding
-! Last modified 24 Oktober 2014, 09:24:19 WIB
+! Last modified 26 Oktober 2014, 16:37:12 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -183,6 +183,7 @@
 ||doremibet.com^$third-party
 ||duitbux.com^$third-party
 ||duitmu.com^$third-party
+||fadly168.ga^$third-party
 ||fairbet88.com^$popup,third-party
 ||galaxybola.com^$third-party
 ||galaxytoto.com^$third-party
@@ -475,6 +476,7 @@ sarana88.gif|
 ||javapic.com^$third-party
 ||jingkrak.com^$third-party
 ||jollywallet.com^$third-party
+||lapak-online.net/$popup,third-party
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||manasuka.com/gbr_banner_link/$third-party

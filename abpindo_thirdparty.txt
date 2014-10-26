@@ -46,6 +46,7 @@
 ||javapic.com^$third-party
 ||jingkrak.com^$third-party
 ||jollywallet.com^$third-party
+||lapak-online.net/$popup,third-party
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||manasuka.com/gbr_banner_link/$third-party
