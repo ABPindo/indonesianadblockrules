@@ -1,3 +1,4 @@
+anime21.web.id###Ad4Game\.com
 wowkeren.com###Ad728
 lintas.me###Advertisement
 ic31linkpage.com,icinema3satu.com###FloatAlamindawa
@@ -14,7 +15,7 @@ lihat.co.id###SidebarIklan-wrapper
 chip.co.id###TopBannerBg
 krucil.net###ad_floating_bottom
 krucil.net###ad_floating_top
-173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,sodasusu.com,vocland.com###ad_global_below_navbar
+173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.net,sodasusu.com,vocland.com###ad_global_below_navbar
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
@@ -28,7 +29,7 @@ detik.com###bottom_banner
 indogamers.com###bottombanner
 bioskop21.us###box-message
 tribunnews.com###boxright [style="width:300px; height:250px;"]
-adipedia.com,blifnews.com,bokepgratiz.info,downloadfilmbaru.com,mangaku.web.id,movie76.com,nusareborn.in,semuaberita.com###btm_banner
+adipedia.com,blifnews.com,blogspot.com,bokepgratiz.info,downloadfilmbaru.com,mangaku.web.id,movie76.com,nusareborn.in,semuaberita.com###btm_banner
 cinema81.com###btm_banner_kanan
 cinema81.com###btm_banner_kiri
 movie76.com###close-teaser
@@ -40,7 +41,9 @@ bioskop21.us###fadeinbox
 r-l.me###fancybox-overlay
 r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
-173.199.189.86,forumbokep.com,krucil.net,vocland.com###floating_banner_bottom
+173.199.189.86,blogspot.com,forumbokep.com,krucil.net,vocland.com###floating_banner_bottom
+blogspot.com###floating_banner_bottom2
+blogspot.com###floating_banner_top img[width="728"][height="90"]
 ganool.com###floating_banner_top2
 populerkan.com###flowads
 untukku.com###footer-adcont
@@ -75,6 +78,7 @@ zonabola.com###rAds
 utusan.com.my###rec_ad4
 movie76.com###related_posts img[alt="ads"]
 komikbaru.com,mangafox.me###right-skyscraper
+ceriwis.com###sa_1_1416453792
 kapanlagi.com###scmicrosite
 gopego.com###showcase1
 gopego.com###showcase2
@@ -94,7 +98,7 @@ movie76.com###teaser6
 movie76.com###teaser7
 detik.com###top_banner
 bioskopkita.com###topbanner
-jurigjarian.com###topbar
+blogspot.com,jurigjarian.com###topbar
 bioskopkita.com###toppopin
 kapanlagi.com###v5-leaderboard
 kapanlagi.com###v5-marcommpromotion
@@ -125,13 +129,13 @@ kompas.com##.ads2
 dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
 antaranews.com##.ads_top_728
+metro.news.viva.co.id##.adsbygoogle
 utusan.com.my##.adspace_300
 m.iklanbaris.detik.com##.adtext01
 mangaku.web.id##.adv
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
 palingseru.com##.alignnone.size-large.wp-image-458
-kaskus.co.id##.banner-top-ads
 oktavita.com##.banner-zone
 kompas.com##.bannerAdB
 kompas.com##.bannerCenter
@@ -152,7 +156,6 @@ lapar.com##.banner_main
 detik.com##.banner_reg
 zonamuda.com##.bannertengah
 bharian.com.my##.bh-ad
-kaskus.co.id##.bottom-frame
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
 gopego.com##.box
@@ -193,6 +196,7 @@ okezone.com##.rc-ad-300x250
 filmindonesia.or.id##.row.block.ad-unit-medium-retangle.center
 semprot.com##.semprot_ads
 republika.co.id##.set-ads-468
+ceriwis.com##.simple_advert
 kaskus.co.id##.skin
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
@@ -217,12 +221,12 @@ tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70p
 bokepgratiz.info##div[style="width:100%;text-align:center;"]
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 komikbaru.com##img[alt="Pemasangan Iklan"]
+blogspot.com##img[alt="ads"]
 173.199.189.86##img[alt="agen bola"]
 zonamuda.com##img[alt="iklan"]
 bokepgratiz.info##img[alt="smart-forex-system.com"]
 movie76.com##img[src="http://2.bp.blogspot.com/-2afHigsbpYY/UguQyTqs5SI/AAAAAAAAAcg/8E4df8rMZMU/s1600/Download+noww.jpg'"]
 tribunnews.com##img[src="http://www.tribunnews.com/stylesheets/close.gif"]
-kompas.com##img[src^="http://img.ads."]
 lihat.co.id##img[style="border:0;display:block;"]
 ic31linkpage.com,icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height:125x;width:125px;"]

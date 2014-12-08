@@ -1,3 +1,4 @@
+http://img.ads.$image,domain=kompas.com
 |http://cdn.kaskus.com/img/skin/*.gif
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
@@ -24,6 +25,7 @@
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||ganool.com/wp-content/uploads/*.gif
+||ganool.com/wp-content/uploads/2014/08/orange.png
 ||googledrive.com/host/0B-OnGqBU3zuJWVBFZzI5ak01STg
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/

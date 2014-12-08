@@ -2,11 +2,7 @@
 ###adsground
 ###adv-placeholder
 ###bottom_exclusive_ads
-blogspot.com###btm_banner
 ###desaiklan
-blogspot.com###floating_banner_bottom
-blogspot.com###floating_banner_bottom2
-blogspot.com###floating_banner_top img[width="728"][height="90"]
 ###floatingad
 ###iklan
 ###iklan1
@@ -17,7 +13,6 @@ blogspot.com###floating_banner_top img[width="728"][height="90"]
 ###iklanatas
 ###iklanpersegi
 ###top_ad_full
-blogspot.com###topbar
 ###tupiklan
 ##.SectionAds
 ##.ad_primex
@@ -36,4 +31,3 @@ com##img[alt="Agen Judi Online"]
 com##img[alt="Pasang Iklan Murah"]
 com##img[alt="Space Iklan"]
 com##img[alt="Taruhan Bola Online"]
-blogspot.com##img[alt="ads"]
