@@ -33,6 +33,7 @@
 ||flexterkita.com^$third-party
 ||formulabisnis.com/images/$third-party
 ||gambar123.com/$popup,third-party
+||go.wsockd.com^$third-party
 ||goodlucky99.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws
 ||idblognetwork.com/images/banner468x60/$third-party

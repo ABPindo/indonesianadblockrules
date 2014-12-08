@@ -3,8 +3,10 @@
 ||agenasia88.com^$third-party
 ||agent926.com^$third-party
 ||asiabolabet.com^$third-party
+||assets.kompas.com/data/analytics/tracker_ajax.js?
 ||bandarjudi.com/$popup,third-party
 ||bejopoker.com^$third-party
+||bet365.com^
 ||betwin188.com^$third-party
 ||bola777.net^$third-party
 ||bolaketangkasan.com^$third-party
@@ -27,4 +29,5 @@
 ||rajabet77.com/$popup,third-party
 ||sbo303.com^$third-party
 ||situsjudi.com/$popup,third-party
+||trackingclick.net^$popup,third-party
 ||tri7bet.com^$third-party

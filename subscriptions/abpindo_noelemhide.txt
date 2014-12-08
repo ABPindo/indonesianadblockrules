@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: MoHBH5HghAIrbtOfm/LQlw
+! Checksum: amhdfZYaRf2XmC2LSTPp7Q
 ! Title: ABPindo tanpa element hiding
-! Last modified 26 Oktober 2014, 16:37:12 WIB
+! Last modified 08 Desember 2014, 15:30:10 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -12,6 +12,7 @@
 ! *** abpindo_adservers.txt ***
 ||1iklanbaris.com^$third-party
 ||1st-iklan.com^$third-party
+||a02.u-ad.info^
 ||ad.adflazz.com^$third-party
 ||adbestgame.com^$third-party
 ||adbusinessfree.com^$third-party
@@ -19,6 +20,7 @@
 ||admitra.com^$third-party
 ||adplus.co.id^$third-party
 ||adreviewcamp.com^$third-party
+||adrich.cash^$third-party
 ||adsbingo.com^$third-party
 ||adsense-id.com^$third-party
 ||adsensemu.com^$third-party
@@ -162,6 +164,7 @@
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
 ||useads.com^$third-party
+||wbsadsdel2.com^$popup,third-party
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
@@ -171,8 +174,10 @@
 ||agenasia88.com^$third-party
 ||agent926.com^$third-party
 ||asiabolabet.com^$third-party
+||assets.kompas.com/data/analytics/tracker_ajax.js?
 ||bandarjudi.com/$popup,third-party
 ||bejopoker.com^$third-party
+||bet365.com^
 ||betwin188.com^$third-party
 ||bola777.net^$third-party
 ||bolaketangkasan.com^$third-party
@@ -195,6 +200,7 @@
 ||rajabet77.com/$popup,third-party
 ||sbo303.com^$third-party
 ||situsjudi.com/$popup,third-party
+||trackingclick.net^$popup,third-party
 ||tri7bet.com^$third-party
 ! *** abpindo_computer_prank.txt ***
 ||1227.com^
@@ -340,6 +346,7 @@ agen_bola_online.gif|
 bundapoker.gif|
 sarana88.gif|
 ! *** abpindo_specific_block.txt ***
+http://img.ads.$image,domain=kompas.com
 |http://cdn.kaskus.com/img/skin/*.gif
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
@@ -366,6 +373,7 @@ sarana88.gif|
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||ganool.com/wp-content/uploads/*.gif
+||ganool.com/wp-content/uploads/2014/08/orange.png
 ||googledrive.com/host/0B-OnGqBU3zuJWVBFZzI5ak01STg
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
@@ -463,6 +471,7 @@ sarana88.gif|
 ||flexterkita.com^$third-party
 ||formulabisnis.com/images/$third-party
 ||gambar123.com/$popup,third-party
+||go.wsockd.com^$third-party
 ||goodlucky99.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws
 ||idblognetwork.com/images/banner468x60/$third-party
