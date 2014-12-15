@@ -1,6 +1,5 @@
 ||108.168.231.179^$popup,third-party
 ||173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
-||agenbo.la^$popup,third-party
 ||alamatemail.com^$third-party
 ||apmmedia.net^$third-party
 ||arenabola.com^$third-party
@@ -66,7 +65,6 @@
 ||poweredprofits.com^$third-party
 ||publish.web.id^$third-party
 ||pundibux.net^$third-party
-||rahasiapanas.com^$third-party
 ||ratubola.com^$third-party
 ||realwap.net^$third-party
 ||sanglah.com^$third-party
@@ -79,5 +77,4 @@
 ||trafficfactory.biz^$popup,third-party
 ||twap.eu^$third-party
 ||u-on.eu/c.php?$third-party
-||usahaberhasil.com^$third-party
 ||webtrackerplus.com^$third-party

@@ -1,6 +1,5 @@
 ||1iklanbaris.com^$third-party
 ||1st-iklan.com^$third-party
-||a02.u-ad.info^
 ||ad.adflazz.com^$third-party
 ||adbestgame.com^$third-party
 ||adbusinessfree.com^$third-party
@@ -8,12 +7,10 @@
 ||admitra.com^$third-party
 ||adplus.co.id^$third-party
 ||adreviewcamp.com^$third-party
-||adrich.cash^$third-party
 ||adsbingo.com^$third-party
 ||adsense-id.com^$third-party
 ||adsensemu.com^$third-party
 ||adskom.com^$third-party
-||adsrelease.com^$third-party
 ||ajangiklangratis.com^$third-party
 ||anekaiklan.com^$third-party
 ||baliadv.com^$third-party
@@ -107,7 +104,6 @@
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
 ||paidforfree.com^$third-party
-||paidtoclick.com^$third-party
 ||papan-iklan.com^$third-party
 ||pasang-iklan.com^$third-party
 ||pasang-iklanbaris.com^$third-party
@@ -151,8 +147,8 @@
 ||theclickers.net^$third-party
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
+||u-ad.info^
 ||useads.com^$third-party
-||wbsadsdel2.com^$popup,third-party
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
