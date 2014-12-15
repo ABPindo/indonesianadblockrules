@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: amhdfZYaRf2XmC2LSTPp7Q
+! Checksum: a5qFf63dkvL0MKM3awcRWQ
 ! Title: ABPindo tanpa element hiding
-! Last modified 08 Desember 2014, 15:30:10 WIB
+! Last modified 10 Desember 2014, 18:56:02 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -20,7 +20,6 @@
 ||admitra.com^$third-party
 ||adplus.co.id^$third-party
 ||adreviewcamp.com^$third-party
-||adrich.cash^$third-party
 ||adsbingo.com^$third-party
 ||adsense-id.com^$third-party
 ||adsensemu.com^$third-party
