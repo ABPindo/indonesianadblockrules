@@ -22,6 +22,7 @@ downloadfilmbaru.com###ads-stack
 inilah.com,kompasiana.com###anchormasklink
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
+cinema81.com###banner-right
 panduanpercuma.info###banner125
 tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
@@ -38,14 +39,14 @@ gudang.tv###container-bottom-menu-ads2
 90animax.com###energysaving
 lintas.me###facebox_overlay
 bioskop21.us###fadeinbox
-r-l.me###fancybox-overlay
-r-l.me,teknoup.com###fancybox-wrap
+idfl.me,r-l.me###fancybox-overlay
+idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 173.199.189.86,blogspot.com,forumbokep.com,krucil.net,vocland.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 ganool.com###floating_banner_top2
-populerkan.com###flowads
+beritawan.web.id,populerkan.com###flowads
 untukku.com###footer-adcont
 resep.web.id###googlebox
 indosiar.com###headerbanner
@@ -79,7 +80,6 @@ utusan.com.my###rec_ad4
 movie76.com###related_posts img[alt="ads"]
 komikbaru.com,mangafox.me###right-skyscraper
 ceriwis.com###sa_1_1416453792
-kapanlagi.com###scmicrosite
 gopego.com###showcase1
 gopego.com###showcase2
 lintas.me###showcasedown
@@ -90,7 +90,7 @@ harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinema81.com,unduhfilm21.net###teaser1
-cinema81.com,downloadfilmbaru.com,galaxymaya.com,unduhfilm21.net###teaser2
+cinema81.com,downloadfilmbaru.com,galaxymaya.com,indomoviemania.com,unduhfilm21.net###teaser2
 172.245.177.74,cinema81.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,movie76.com,unduhfilm21.net###teaser3
 172.245.177.74,cinema81.com,sodasusu.com###teaser4
 movie76.com###teaser5
@@ -100,16 +100,6 @@ detik.com###top_banner
 bioskopkita.com###topbanner
 blogspot.com,jurigjarian.com###topbar
 bioskopkita.com###toppopin
-kapanlagi.com###v5-leaderboard
-kapanlagi.com###v5-marcommpromotion
-kapanlagi.com###v5-showcase1
-kapanlagi.com###v5-showcase2
-kapanlagi.com###v5-showcase3
-kapanlagi.com###v7-marcommpromotion
-kapanlagi.com###v7-marcommpromotion2
-kapanlagi.com###v7-showcase1
-kapanlagi.com###v7-showcase2
-kapanlagi.com###v7-showcase3
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
@@ -125,6 +115,7 @@ republika.co.id##.ads-300-video
 gudang.tv##.ads-content1
 gudang.tv##.ads-content2
 dapurpacu.com##.ads-home
+cinemaindo.web.id##.ads.adunits
 kompas.com##.ads2
 dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
@@ -156,6 +147,7 @@ lapar.com##.banner_main
 detik.com##.banner_reg
 zonamuda.com##.bannertengah
 bharian.com.my##.bh-ad
+cinemaindo.web.id##.bireklams
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
 gopego.com##.box
@@ -201,6 +193,7 @@ kaskus.co.id##.skin
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
 bokepgratiz.info##.textwidget
+unduhfilm21.net##.textwidget > center
 icinema3satu.com##.textwidget img
 bioskop21.us##.textwidget img[width="160"][height="600"]
 lapar.com##.top-banner
@@ -214,6 +207,7 @@ kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
 downloadfilem.com##a[href^="http://promosipraktis.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
+21sinema.com##center img[width="468"][height="60"]
 situshp.com##div[style="height:260px;"]
 forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
 forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
@@ -236,8 +230,10 @@ bioskop21.us##img[title="pasang iklan"]
 movie76.com##img[title="pasang-iklan"]
 downloadfilem.com##img[width="125"][height="125"]
 lihat.co.id##img[width="300"][height="250"]
+cinema81.com##img[width="465"][height="60"]
+cinema81.com##img[width="465px"][height="60px"]
 bioskop21.us##img[width="640"][height="90"]
+cinema81.com##img[width="680"][height="90"]
 21sinema.com,ceriwis.com##img[width="728"][height="90"]
-stafaband.info##table[width="100%"] + #bottom
 zonamuda.com##td[valign="top"][height="55px"][align="center"]
 zonamuda.com##td[valign="top"][height="56px"][align="center"]
