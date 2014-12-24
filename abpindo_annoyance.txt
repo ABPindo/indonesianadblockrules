@@ -1,4 +1,5 @@
 ||188bet.com/$popup,third-party
+||188bet.com^$third-party
 ||988bet.com^$third-party
 ||agenasia88.com^$third-party
 ||agent926.com^$third-party
@@ -23,11 +24,19 @@
 ||galaxytoto.com^$third-party
 ||kakakdewa.com^$third-party
 ||kakakdewa.net^$third-party
+||kosmetik-obatkuat.com^$third-party
 ||mabosbet.com^$third-party
+||obatjogja.com^$third-party
+||pastibet.com^$third-party
 ||pemaintogel.info^$third-party
+||pemaintogel.us^$third-party
 ||pokerjujur.com/$popup,third-party
+||prediksitogeljitu.in^$third-party
 ||rajabet77.com/$popup,third-party
+||ramuanobatherball.com^$third-party
 ||sbo303.com^$third-party
+||sbobet.com^$popup,third-party
 ||situsjudi.com/$popup,third-party
 ||trackingclick.net^$popup,third-party
 ||tri7bet.com^$third-party
+||vimaxtrial.com^$third-party

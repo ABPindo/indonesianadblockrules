@@ -38,7 +38,8 @@
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
 ||idolakini.com/$popup,third-party
-||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|movie76.com|sodasusu.com|unduhfilm21.net
+||imgbox.com/*.gif$domain=cinemaindo.web.id
+||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|kikil.net|movie76.com|sodasusu.com|unduhfilm21.net
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
 ||infoskorbola.com^$third-party
