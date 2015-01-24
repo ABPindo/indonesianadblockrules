@@ -56,13 +56,14 @@
 ||mesiniklan.andipublisher.com^$third-party
 ||modifikasi.com/images/banner/$third-party
 ||mybannermaker.com^$third-party
+||noobscript.com^$third-party
 ||numpanglewat.com^$third-party
 ||octafx.com^$popup,third-party
 ||onclinic24.com^$third-party
 ||paypalbisnis.com^$third-party
 ||perawan3gp.com^$popup,third-party
 ||playwebgame.com/banner/$third-party
-||postimg.org/*.gif$domain=21sinema.com|r-l.me
+||postimg.org/*.gif$domain=21sinema.com|downloadfilmbaru.com|r-l.me
 ||poweredprofits.com^$third-party
 ||publish.web.id^$third-party
 ||pundibux.net^$third-party
