@@ -1,6 +1,7 @@
 [Adblock Plus 1.1]
+! Checksum: khZf2tuLqhYrG8e/KFBeYg
 ! Title: ABPindo tanpa element hiding
-! Last modified 10 Desember 2014, 18:56:02 WIB
+! Last modified 02 Februari 2015, 08:13:29 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -11,7 +12,6 @@
 ! *** abpindo_adservers.txt ***
 ||1iklanbaris.com^$third-party
 ||1st-iklan.com^$third-party
-||a02.u-ad.info^
 ||ad.adflazz.com^$third-party
 ||adbestgame.com^$third-party
 ||adbusinessfree.com^$third-party
@@ -23,7 +23,6 @@
 ||adsense-id.com^$third-party
 ||adsensemu.com^$third-party
 ||adskom.com^$third-party
-||adsrelease.com^$third-party
 ||ajangiklangratis.com^$third-party
 ||anekaiklan.com^$third-party
 ||baliadv.com^$third-party
@@ -117,7 +116,6 @@
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
 ||paidforfree.com^$third-party
-||paidtoclick.com^$third-party
 ||papan-iklan.com^$third-party
 ||pasang-iklan.com^$third-party
 ||pasang-iklanbaris.com^$third-party
@@ -162,17 +160,16 @@
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
 ||useads.com^$third-party
-||wbsadsdel2.com^$popup,third-party
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
 ! *** abpindo_annoyance.txt ***
 ||188bet.com/$popup,third-party
+||188bet.com^$third-party
 ||988bet.com^$third-party
 ||agenasia88.com^$third-party
 ||agent926.com^$third-party
 ||asiabolabet.com^$third-party
-||assets.kompas.com/data/analytics/tracker_ajax.js?
 ||bandarjudi.com/$popup,third-party
 ||bejopoker.com^$third-party
 ||bet365.com^
@@ -192,14 +189,22 @@
 ||galaxytoto.com^$third-party
 ||kakakdewa.com^$third-party
 ||kakakdewa.net^$third-party
+||kosmetik-obatkuat.com^$third-party
 ||mabosbet.com^$third-party
+||obatjogja.com^$third-party
+||pastibet.com^$third-party
 ||pemaintogel.info^$third-party
+||pemaintogel.us^$third-party
 ||pokerjujur.com/$popup,third-party
+||prediksitogeljitu.in^$third-party
 ||rajabet77.com/$popup,third-party
+||ramuanobatherball.com^$third-party
 ||sbo303.com^$third-party
+||sbobet.com^$popup,third-party
 ||situsjudi.com/$popup,third-party
 ||trackingclick.net^$popup,third-party
 ||tri7bet.com^$third-party
+||vimaxtrial.com^$third-party
 ! *** abpindo_computer_prank.txt ***
 ||1227.com^
 ||1priest1nun.com^
@@ -320,6 +325,7 @@
 ||xnescat.info^
 ||yellaface.com^
 ! *** abpindo_general_block.txt ***
+-970x80.gif|
 -iklan.gif|
 .biz/iklan/
 .com/iklan/
@@ -337,6 +343,7 @@
 /sbcagent.gif|
 /SkinADkanan.
 /SkinADkiri.
+/tangkaskita.gif|
 /uploads/iklan/*
 /usaha-berhasil.gif|
 /usahaberhasil.gif|
@@ -346,6 +353,8 @@ sarana88.gif|
 ! *** abpindo_specific_block.txt ***
 http://img.ads.$image,domain=kompas.com
 |http://cdn.kaskus.com/img/skin/*.gif
+||21filmcinema.com/wp-content/uploads/*.gif
+||5371a77e163d8c22b7ad8db294dc50870013ca51.googledrive.com/host/0B0WlqkpbMxyua1FvQW1CRnRWRE0/
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
 ||animeindo.tv/ad/
@@ -360,13 +369,17 @@ http://img.ads.$image,domain=kompas.com
 ||bmers2.net/forum/bmnet-popads.php
 ||bokepgratiz.info/banner/
 ||bolavegas.com/ads/
+||cat3movie.us/popup.js
+||cfad44b641cd93f6e9f5754029ae9ebd79d591e5.googledrive.com/host/0B0WlqkpbMxyuM3p5UlY3SGVKRmM/inc/
 ||detik.com/images/banners/
 ||dewa.tv/banner/
 ||dinastybet.com/banner/
 ||dixam.net/banner/
+||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
+||fansubsupdate.com/res/img/sampleads/
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
@@ -406,6 +419,7 @@ http://img.ads.$image,domain=kompas.com
 ||lendir.org/banner/
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
+||memeksempit.com/banner/
 ||mforum.cari.com.my/cari/daybanner/ads_daybanner_display.php?
 ||modemku.com/image-banner/
 ||modifikasi.com/images/banner_
@@ -429,6 +443,7 @@ http://img.ads.$image,domain=kompas.com
 ||usnewopenx.detik.com/images/
 ||utusan.com.my/utusan/iklan/
 ||videogamesindonesia.com/banners/
+||xip.ir/js/fp.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonabola.com/wp-content/uploads/*/Banner-
@@ -436,7 +451,6 @@ http://img.ads.$image,domain=kompas.com
 ! *** abpindo_thirdparty.txt ***
 ||108.168.231.179^$popup,third-party
 ||173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
-||agenbo.la^$popup,third-party
 ||alamatemail.com^$third-party
 ||apmmedia.net^$third-party
 ||arenabola.com^$third-party
@@ -451,12 +465,11 @@ http://img.ads.$image,domain=kompas.com
 ||bisnisok.com^$third-party
 ||bisnistransportasi.com^$third-party
 ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
-||blogspot.com/*.gif$domain=duniasex.ws
+||blogspot.com/*.gif$domain=bioskoptigalima.com|duniasex.ws
 ||c-stat.eu^$third-party
 ||carasukses.com^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz/banners/$third-party
-||cfs.u-ad.info^$third-party
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||dewa-bisnis.com^$third-party
 ||dunia-bisnis.com^$third-party
@@ -475,7 +488,8 @@ http://img.ads.$image,domain=kompas.com
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
 ||idolakini.com/$popup,third-party
-||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|movie76.com|sodasusu.com|unduhfilm21.net
+||imgbox.com/*.gif$domain=cinemaindo.web.id
+||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|kikil.net|movie76.com|sodasusu.com|unduhfilm21.net
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
 ||infoskorbola.com^$third-party
@@ -492,17 +506,17 @@ http://img.ads.$image,domain=kompas.com
 ||mesiniklan.andipublisher.com^$third-party
 ||modifikasi.com/images/banner/$third-party
 ||mybannermaker.com^$third-party
+||noobscript.com^$third-party
 ||numpanglewat.com^$third-party
 ||octafx.com^$popup,third-party
 ||onclinic24.com^$third-party
 ||paypalbisnis.com^$third-party
 ||perawan3gp.com^$popup,third-party
 ||playwebgame.com/banner/$third-party
-||postimg.org/*.gif$domain=21sinema.com|r-l.me
+||postimg.org/*.gif$domain=21sinema.com|downloadfilmbaru.com|r-l.me
 ||poweredprofits.com^$third-party
 ||publish.web.id^$third-party
 ||pundibux.net^$third-party
-||rahasiapanas.com^$third-party
 ||ratubola.com^$third-party
 ||realwap.net^$third-party
 ||sanglah.com^$third-party
@@ -515,7 +529,6 @@ http://img.ads.$image,domain=kompas.com
 ||trafficfactory.biz^$popup,third-party
 ||twap.eu^$third-party
 ||u-on.eu/c.php?$third-party
-||usahaberhasil.com^$third-party
 ||webtrackerplus.com^$third-party
 ! *** abpindo_whitelist.txt ***
 @@.png#$domain=narutobleachlover.net|wardhanime.net
