@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
+! Checksum: wdvx4FDmWl4YDZDkBBgI4g
 ! Title: ABPindo
-! Last modified: 27 01 2015
+! Last modified: 02 Februari 2015, 08:13:29 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -158,7 +159,6 @@
 ||theclickers.net^$third-party
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
-||u-ad.info^
 ||useads.com^$third-party
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
@@ -325,6 +325,7 @@
 ||xnescat.info^
 ||yellaface.com^
 ! *** abpindo_general_block.txt ***
+-970x80.gif|
 -iklan.gif|
 .biz/iklan/
 .com/iklan/
@@ -504,6 +505,7 @@ harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 inilah.com,kompasiana.com###anchormasklink
+indotelko.com###baca_juga
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 cinema81.com###banner-right
@@ -530,6 +532,7 @@ teknoup.com###fancybox_ajax
 21filmcinema.com###float_bottom_left
 21filmcinema.com###float_bottom_right
 173.199.189.86,blogspot.com,forumbokep.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
+bioskoptigalima.com###floating_banner_bottom img
 blogspot.com###floating_banner_bottom2
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 ganool.com###floating_banner_top2
@@ -557,6 +560,7 @@ pkspiyungan.org###largebanner
 komikbaru.com,mangafox.me###left-skyscraper
 duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
+indotelko.com###more_stories
 cinema81.com###newnew > [align="center"] img[width="465px"]
 lihat.co.id###overlay[style="display: block;"]
 bioskop21.us###pr-4evr
@@ -584,10 +588,16 @@ cinema81.com,downloadfilmbaru.com,galaxymaya.com,indomoviemania.com,unduhfilm21.
 movie76.com###teaser5
 movie76.com###teaser6
 movie76.com###teaser7
+indotelko.com###title_kanal
 detik.com###top_banner
 bioskopkita.com###topbanner
 blogspot.com,jurigjarian.com###topbar
 bioskopkita.com###toppopin
+kapanlagi.com###v5-marcommpromotion2
+kapanlagi.com###v5-showcase1
+kapanlagi.com###v5-showcase2
+kapanlagi.com###v5-showcase3
+indotelko.com###vertical_top_kanal
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
@@ -636,7 +646,6 @@ lapar.com##.banner_main
 zonamuda.com##.bannertengah
 bharian.com.my##.bh-ad
 cinemaindo.web.id##.bireklams
-kaskus.co.id##.bottom-frame
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
 gopego.com##.box
@@ -650,6 +659,9 @@ okezone.com##.center-ban
 sindonews.com##.clear.size-wide-custom.dummy
 tempo.co##.closebanner1
 tempo.co##.closebanner2
+kaskus.co.id##.col-sm-12.banner-frame.rb-1
+kaskus.co.id##.col-sm-12.banner-frame.rb-2
+kaskus.co.id##.col-sm-12.banner-frame.rb-3
 tribunnews.com##.content [style="width:160px; height:600px;"]
 lensaindonesia.com##.ctnitem.ctncom
 dapurpacu.com##.fixed-ads-atas
@@ -684,7 +696,7 @@ kabar24.com##.skycapper
 okezone.com##.skyscrapper
 bokepgratiz.info##.textwidget
 unduhfilm21.net##.textwidget > center
-icinema3satu.com##.textwidget img
+bioskoptigalima.com,icinema3satu.com##.textwidget img
 bioskop21.us##.textwidget img[width="160"][height="600"]
 klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
@@ -700,6 +712,7 @@ downloadfilem.com##a[href^="http://promosipraktis.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 21sinema.com##center img[width="468"][height="60"]
 klikseru.com##center img[width="728"][height="70"]
+indotelko.com##div[style=" color:#FFFFFF; width:290px; height:250px;  margin:8px; clear:right;"]
 situshp.com##div[style="height:260px;"]
 forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
 forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
@@ -746,12 +759,11 @@ zonamuda.com##td[valign="top"][height="56px"][align="center"]
 ||bisnisok.com^$third-party
 ||bisnistransportasi.com^$third-party
 ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
-||blogspot.com/*.gif$domain=duniasex.ws
+||blogspot.com/*.gif$domain=bioskoptigalima.com|duniasex.ws
 ||c-stat.eu^$third-party
 ||carasukses.com^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz/banners/$third-party
-||cfs.u-ad.info^$third-party
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||dewa-bisnis.com^$third-party
 ||dunia-bisnis.com^$third-party

@@ -14,12 +14,11 @@
 ||bisnisok.com^$third-party
 ||bisnistransportasi.com^$third-party
 ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
-||blogspot.com/*.gif$domain=duniasex.ws
+||blogspot.com/*.gif$domain=bioskoptigalima.com|duniasex.ws
 ||c-stat.eu^$third-party
 ||carasukses.com^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz/banners/$third-party
-||cfs.u-ad.info^$third-party
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||dewa-bisnis.com^$third-party
 ||dunia-bisnis.com^$third-party
