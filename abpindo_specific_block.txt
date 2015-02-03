@@ -31,7 +31,6 @@ http://img.ads.$image,domain=kompas.com
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||ganool.com/wp-content/uploads/*.gif
-||ganool.com/wp-content/uploads/2014/08/orange.png
 ||googledrive.com/host/0B-OnGqBU3zuJWVBFZzI5ak01STg
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
@@ -44,8 +43,7 @@ http://img.ads.$image,domain=kompas.com
 ||img.banggood.com/deals/affiliate_member_banner/
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
-||indotelko.com/images/banner/$image
-||indotelko.com/images/banner/$object
+||indotelko.com/images/banner/
 ||indotelko.com/inc/banner.css
 ||indotelko.com/inc/c_banner.js
 ||jagatreview.com/wp-content/uploads/*-SKIN-
@@ -74,7 +72,6 @@ http://img.ads.$image,domain=kompas.com
 ||musisi.com/musifile/images_banner/
 ||my.postsgenius.com/style/banners/
 ||mylogin.co^$domain=hentai2read.com
-||narutobleachlover.net/scriptiklan/klik-iklan.js
 ||newopenx.detik.com/images/
 ||pancet.com/kbads/
 ||resep.web.id/banner/

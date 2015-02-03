@@ -4,6 +4,7 @@
 ###bottom_exclusive_ads
 ###desaiklan
 ###floatingad
+###flowads
 ###iklan
 ###iklan1
 ###iklan2
@@ -16,7 +17,7 @@
 ###tupiklan
 ##.SectionAds
 ##.ad_primex
-##.ads.section
+##.adtext01
 ##.bgads
 ##.gbcontent
 ##.gpcontent
@@ -26,8 +27,9 @@
 ##.iklanmini
 ##.pasangiklan
 ##.topadsense
-com##img[alt="Agen Judi Online"]
+##img[alt="Agen Judi Online"]
 ##img[alt="Pasang Iklan Anda Disini"]
-com##img[alt="Pasang Iklan Murah"]
-com##img[alt="Space Iklan"]
-com##img[alt="Taruhan Bola Online"]
+##img[alt="Pasang Iklan Murah"]
+##img[alt="Space Iklan"]
+##img[alt="Taruhan Bola Online"]
+##img[alt="agen bola"]
