@@ -1,10 +1,11 @@
--970x80.gif|
 -iklan.gif|
 -iklan.jpg|
 -iklan.js|
+-popads.php|
 .biz/iklan/
 .com/iklan/
 .id/ads/$~object-subrequest
+.id/adv/
 .id/iklan/
 .info/iklan/
 .me/iklan/
@@ -12,6 +13,7 @@
 .net/iklan/
 .tv/iklan/
 /ads/iklan.
+/adv/iklan.
 /bb17-iklan.
 /images/iklan/*
 /obat-kuat-sex.gif|
@@ -24,4 +26,7 @@
 /usahaberhasil.gif|
 agen_bola_online.gif|
 bundapoker.gif|
+Ratubola.gif|
 sarana88.gif|
+sarangbola.gif|
+totojitu.gif|

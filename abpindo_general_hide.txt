@@ -19,6 +19,7 @@
 ##.ad_primex
 ##.adtext01
 ##.bgads
+##.block.iklan
 ##.gbcontent
 ##.gpcontent
 ~kontan.co.id,~securitylink.biz##.iklan
@@ -30,6 +31,9 @@
 ##img[alt="Agen Judi Online"]
 ##img[alt="Pasang Iklan Anda Disini"]
 ##img[alt="Pasang Iklan Murah"]
+##img[alt="Pemasangan Iklan"]
 ##img[alt="Space Iklan"]
 ##img[alt="Taruhan Bola Online"]
 ##img[alt="agen bola"]
+##img[title="pasang iklan"]
+##img[title="pasang-iklan"]
