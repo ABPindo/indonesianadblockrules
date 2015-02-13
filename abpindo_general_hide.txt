@@ -28,6 +28,8 @@
 ##.iklanmini
 ##.pasangiklan
 ##.topadsense
+##a[href^="http://www.bursabet.net/"]
+##a[href^="http://www.sbbanner.com/"]
 ##img[alt="Agen Judi Online"]
 ##img[alt="Pasang Iklan Anda Disini"]
 ##img[alt="Pasang Iklan Murah"]
@@ -35,5 +37,6 @@
 ##img[alt="Space Iklan"]
 ##img[alt="Taruhan Bola Online"]
 ##img[alt="agen bola"]
+##img[title="agen bola terpecaya"]
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]

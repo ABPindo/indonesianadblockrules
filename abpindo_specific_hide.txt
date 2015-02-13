@@ -20,6 +20,7 @@ harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 inilah.com,kompasiana.com###anchormasklink
+zonabola.com###aside img[width="300"][height="250"]
 indotelko.com###baca_juga
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
@@ -27,6 +28,8 @@ cinema81.com###banner-right
 panduanpercuma.info###banner125
 tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
+kotakgame.com###bannertheme_left
+kotakgame.com###bannertheme_right
 detik.com###bottom_banner
 indogamers.com###bottombanner
 bioskop21.us###box-message
@@ -203,17 +206,20 @@ ceriwis.com##.simple_advert
 kaskus.co.id##.skin
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
+okezone.com##.sponsored-belt468x60
 bokepgratiz.info##.textwidget
 unduhfilm21.net##.textwidget > center
 bioskoptigalima.com,icinema3satu.com##.textwidget img
 bioskop21.us##.textwidget img[width="160"][height="600"]
 klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
+otomotif.kompas.com##.w340.r-ads.right > ul > li
 galaxymaya.com##.widget-content
 movie76.com##.widget-content img[alt="ads"]
 lintas.me##.xad-160x600
 lintas.me##.xad-300x250
 172.245.177.74##[align="center"] > [rel="nofollow"] > img[width="920"][height="60"]
+zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
@@ -230,6 +236,7 @@ widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 blogspot.com##img[alt="ads"]
 zonamuda.com##img[alt="iklan"]
 bokepgratiz.info##img[alt="smart-forex-system.com"]
+zonabola.com##img[alt="title Judi Online"]
 tribunnews.com##img[src="http://www.tribunnews.com/stylesheets/close.gif"]
 lihat.co.id##img[style="border:0;display:block;"]
 ic31linkpage.com,icinema3satu.com##img[style="height: 125px; width: 125px;"]
