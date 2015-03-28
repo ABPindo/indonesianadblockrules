@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: vkvYGgGvAPkEmVw0s1mmMA
+! Checksum: WQ0e03jv0MENmtphWvwvbA
 ! Title: ABPindo tanpa element hiding
-! Last modified 28 Maret 2015, 12:09:19 WIB
+! Last modified 28 Maret 2015, 12:23:20 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -10,12 +10,13 @@
 ! in the forums (http://forums.lanik.us/viewforum.php?f=94)
 !
 ! *** abpindo_adservers.txt ***
-||adconscious.com^$third-party
 ||1iklanbaris.com^$third-party
 ||1st-iklan.com^$third-party
 ||ad.adflazz.com^$third-party
 ||adbestgame.com^$third-party
+||adbios212.com^$third-party
 ||adbusinessfree.com^$third-party
+||adconscious.com^$third-party
 ||addesigner.com^$third-party
 ||admitra.com^$third-party
 ||adplus.co.id^$third-party
@@ -375,6 +376,7 @@ http://img.ads.$image,domain=kompas.com
 ||bintangmawar.net/forum/top_banner.php
 ||bokepgratiz.info/banner/
 ||bolavegas.com/ads/
+||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cfad44b641cd93f6e9f5754029ae9ebd79d591e5.googledrive.com/host/0B0WlqkpbMxyuM3p5UlY3SGVKRmM/inc/
 ||detik.com/images/banners/
