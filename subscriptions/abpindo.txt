@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6cOPnSqs1iV6VPU822N2Zg
+! Checksum: EFFJb6BLgOZKV7maR0ZFcQ
 ! Title: ABPindo
-! Last modified: 28 Maret 2015, 12:23:20 WIB
+! Last modified: 04 April 2015, 08:23:14 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
@@ -497,7 +497,7 @@ http://img.ads.$image,domain=kompas.com
 ||zonabola.com/wp-content/uploads/*/Banner-
 ||zonabola.com^*/iklan/
 ! *** abpindo_specific_hide.txt ***
-www.animefushigi.com###.adv2
+animefushigi.com###.adv2
 anime21.web.id###Ad4Game\.com
 wowkeren.com###Ad728
 lintas.me###Advertisement
@@ -519,8 +519,9 @@ krucil.net###ad_floating_top
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
-www.bioskops.com###ads_banner_kanan
-www.bioskops.com###ads_banner_left1
+bioskops.com###ads_banner_kanan
+bioskops.com###ads_banner_left1
+unixmen.com###an-Modal
 inilah.com,kompasiana.com###anchormasklink
 zonabola.com###aside img[width="300"][height="250"]
 indotelko.com###baca_juga
@@ -532,7 +533,7 @@ tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
 kotakgame.com###bannertheme_left
 kotakgame.com###bannertheme_right
-detik.com,www.pikiran-rakyat.com###bottom_banner
+detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 bioskop21.us###box-message
 tribunnews.com###boxright [style="width:300px; height:250px;"]
@@ -543,7 +544,7 @@ downloadfilmbaru.com###close-ads-stack
 movie76.com###close-teaser
 gudang.tv###container-bottom-menu-ads
 gudang.tv###container-bottom-menu-ads2
-www.tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
+tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 90animax.com###energysaving
 lintas.me###facebox_overlay
 bioskop21.us###fadeinbox
@@ -552,7 +553,7 @@ idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 21filmcinema.com###float_bottom_left
 21filmcinema.com###float_bottom_right
-www.bioskops.com###floating_banner_bot
+bioskops.com###floating_banner_bot
 173.199.189.86,blogspot.com,forumbokep.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
 bioskoptigalima.com###floating_banner_bottom img
 blogspot.com###floating_banner_bottom2
@@ -613,7 +614,7 @@ detik.com###top_banner
 bioskopkita.com###topbanner
 blogspot.com,jurigjarian.com###topbar
 bioskopkita.com###toppopin
-www.kapanlagi.com###v5-marcommpromotion.home-right-box
+kapanlagi.com###v5-marcommpromotion.home-right-box
 kapanlagi.com###v5-marcommpromotion2
 kapanlagi.com###v5-showcase1
 kapanlagi.com###v5-showcase2
@@ -705,6 +706,7 @@ lintas.me##.popup
 viva.co.id##.portlet.sideskycrapper
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250
+unixmen.com##.reveal-modal-bg
 filmindonesia.or.id##.row.block.ad-unit-medium-retangle.center
 semprot.com,semprotku.com##.semprot_ads
 republika.co.id##.set-ads-468
