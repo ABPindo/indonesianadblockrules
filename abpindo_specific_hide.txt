@@ -17,9 +17,12 @@ chip.co.id###TopBannerBg
 krucil.net###ad_floating_bottom
 krucil.net###ad_floating_top
 173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.net,sodasusu.com,vocland.com###ad_global_below_navbar
+dapurpacu.com###ads-728
+dapurpacu.com###ads-960-mid
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
+dapurpacu.com###ads-vert-300
 bioskops.com###ads_banner_kanan
 bioskops.com###ads_banner_left1
 unixmen.com###an-Modal
@@ -104,7 +107,7 @@ harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinema81.com,unduhfilm21.net###teaser1
-cinema81.com,downloadfilmbaru.com,galaxymaya.com,indomoviemania.com,unduhfilm21.net###teaser2
+21filmcinema.com,cinema81.com,downloadfilmbaru.com,galaxymaya.com,indomoviemania.com,unduhfilm21.net###teaser2
 172.245.177.74,cinema81.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,movie76.com,unduhfilm21.net###teaser3
 172.245.177.74,cinema81.com,sodasusu.com###teaser4
 movie76.com###teaser5
@@ -216,7 +219,6 @@ kaskus.co.id##.skin
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
 okezone.com##.sponsored-belt468x60
-bokepgratiz.info##.textwidget
 unduhfilm21.net##.textwidget > center
 bioskoptigalima.com,icinema3satu.com##.textwidget img
 bioskop21.us##.textwidget img[width="160"][height="600"]
@@ -232,19 +234,17 @@ zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
-downloadfilem.com##a[href^="http://promosipraktis.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
+cinema81.com##center > table > tbody
 21sinema.com##center img[width="468"][height="60"]
 klikseru.com##center img[width="728"][height="70"]
 situshp.com##div[style="height:260px;"]
 forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
 forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
-bokepgratiz.info##div[style="width:100%;text-align:center;"]
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 blogspot.com##img[alt="ads"]
 zonamuda.com##img[alt="iklan"]
-bokepgratiz.info##img[alt="smart-forex-system.com"]
 zonabola.com##img[alt="title Judi Online"]
 tribunnews.com##img[src="http://www.tribunnews.com/stylesheets/close.gif"]
 lihat.co.id##img[style="border:0;display:block;"]
@@ -252,7 +252,6 @@ ic31linkpage.com,icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height:125x;width:125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 unduhfilm21.net##img[style="width: 728px; height: 60px;"]
-downloadfilem.com##img[width="125"][height="125"]
 lihat.co.id##img[width="300"][height="250"]
 cinema81.com##img[width="465"][height="60"]
 cinema81.com##img[width="465px"][height="60px"]
