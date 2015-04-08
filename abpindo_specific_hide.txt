@@ -1,4 +1,5 @@
 animefushigi.com###.adv2
+semprot.com,semprotku.com###.semprot_floating_banner_top
 anime21.web.id###Ad4Game\.com
 wowkeren.com###Ad728
 lintas.me###Advertisement
@@ -58,7 +59,7 @@ teknoup.com###fancybox_ajax
 21filmcinema.com###float_bottom_left
 21filmcinema.com###float_bottom_right
 bioskops.com###floating_banner_bot
-173.199.189.86,blogspot.com,forumbokep.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
+173.199.189.86,blogspot.com,forumbokep.com,klikseru.com,krucil.net,semprot.com,semprotku.com,vocland.com###floating_banner_bottom
 bioskoptigalima.com###floating_banner_bottom img
 blogspot.com###floating_banner_bottom2
 blogspot.com###floating_banner_top img[width="728"][height="90"]
@@ -73,6 +74,8 @@ lensaindonesia.com###idcomright2.com-300x250
 lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
 lihat.co.id###iklan-dalam-postingan-300
+semprot.com,semprotku.com###iklan_semprot_side_left
+semprot.com,semprotku.com###iklan_semprot_side_right
 jomniaga.com###imgBanner
 downloadfilmbaru.com###itro_opaco
 downloadfilmbaru.com###itro_popup
@@ -196,6 +199,7 @@ kompas.com##.hAds
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
+semprot.com,semprotku.com##.iklan_semprot
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 krucil.net##.krucil_ads
