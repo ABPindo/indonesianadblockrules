@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0WicET7nCPth1gLzji94NA
+! Checksum: UENekHg3erZHe5XLD08+xA
 ! Title: ABPindo
-! Last modified: 09 April 2015, 05:17:19 WIB
+! Last modified: 11 April 2015, 06:05:07 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
-! Licence: http://indonesianadblockrules.googlecode.com/hg/subscriptions/COPYING
+! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
 !
 ! Please report any unblocked adverts or problems
 ! in the forums (http://forums.lanik.us/viewforum.php?f=94)
@@ -565,6 +565,7 @@ blogspot.com###floating_banner_top img[width="728"][height="90"]
 ganool.com###floating_banner_top2
 untukku.com###footer-adcont
 resep.web.id###googlebox
+www.semprot.com,www.semprotku.com###header > div:nth-of-type(4) > .semprot_floating_banner_top
 21filmcinema.com###header_sag
 indosiar.com###headerbanner
 lensaindonesia.com###idcomboard1.com-728x90

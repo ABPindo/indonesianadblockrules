@@ -66,6 +66,7 @@ blogspot.com###floating_banner_top img[width="728"][height="90"]
 ganool.com###floating_banner_top2
 untukku.com###footer-adcont
 resep.web.id###googlebox
+www.semprot.com,www.semprotku.com###header > div:nth-of-type(4) > .semprot_floating_banner_top
 21filmcinema.com###header_sag
 indosiar.com###headerbanner
 lensaindonesia.com###idcomboard1.com-728x90
