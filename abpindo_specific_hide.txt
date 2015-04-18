@@ -1,5 +1,3 @@
-animefushigi.com###.adv2
-semprot.com,semprotku.com###.semprot_floating_banner_top
 anime21.web.id###Ad4Game\.com
 wowkeren.com###Ad728
 lintas.me###Advertisement
@@ -45,6 +43,9 @@ tribunnews.com###boxright [style="width:300px; height:250px;"]
 21filmcinema.com,adipedia.com,blifnews.com,blogspot.com,bokepgratiz.info,downloadfilmbaru.com,mangaku.web.id,movie76.com,nusareborn.in,semuaberita.com###btm_banner
 cinema81.com###btm_banner_kanan
 cinema81.com###btm_banner_kiri
+semprot.com###cintasemprot_floating_banner_bottom
+semprot.com###cintasemprot_side_left
+semprot.com###cintasemprot_side_right
 downloadfilmbaru.com###close-ads-stack
 movie76.com###close-teaser
 gudang.tv###container-bottom-menu-ads
@@ -59,14 +60,12 @@ teknoup.com###fancybox_ajax
 21filmcinema.com###float_bottom_left
 21filmcinema.com###float_bottom_right
 bioskops.com###floating_banner_bot
-173.199.189.86,blogspot.com,forumbokep.com,klikseru.com,krucil.net,semprot.com,semprotku.com,vocland.com###floating_banner_bottom
-bioskoptigalima.com###floating_banner_bottom img
+173.199.189.86,bioskoptigalima.com,blogspot.com,forumbokep.com,klikseru.com,krucil.net,semprot.com,semprotku.com,vocland.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 ganool.com###floating_banner_top2
 untukku.com###footer-adcont
 resep.web.id###googlebox
-www.semprot.com,www.semprotku.com###header > div:nth-of-type(4) > .semprot_floating_banner_top
 21filmcinema.com###header_sag
 indosiar.com###headerbanner
 lensaindonesia.com###idcomboard1.com-728x90
@@ -148,8 +147,8 @@ dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
 antaranews.com##.ads_top_728
 utusan.com.my##.adspace_300
-downloadfilmbaru.com##.adunit
 mangaku.web.id##.adv
+animefushigi.com##.adv2
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
 palingseru.com##.alignnone.size-large.wp-image-458
@@ -170,7 +169,6 @@ kompas.com##.bannerTopOut
 lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
-zonamuda.com##.bannertengah
 bharian.com.my##.bh-ad
 cinemaindo.web.id##.bireklams
 kabar24.com##.bottom-frame-banner-close-btn
@@ -183,6 +181,8 @@ kompas.com##.boxSkinAd
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
+semprot.com##.cintasemprot_floating_banner_top
+semprot.com##.cintasemprot_h
 sindonews.com##.clear.size-wide-custom.dummy
 tempo.co##.closebanner1
 tempo.co##.closebanner2
@@ -216,8 +216,8 @@ viva.co.id##.portlet.sideskycrapper
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250
 unixmen.com##.reveal-modal-bg
-filmindonesia.or.id##.row.block.ad-unit-medium-retangle.center
 semprot.com,semprotku.com##.semprot_ads
+semprot.com,semprotku.com##.semprot_floating_banner_top
 republika.co.id##.set-ads-468
 ceriwis.com##.simple_advert
 kaskus.co.id##.skin
@@ -249,9 +249,6 @@ forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 blogspot.com##img[alt="ads"]
-zonamuda.com##img[alt="iklan"]
-zonabola.com##img[alt="title Judi Online"]
-tribunnews.com##img[src="http://www.tribunnews.com/stylesheets/close.gif"]
 lihat.co.id##img[style="border:0;display:block;"]
 ic31linkpage.com,icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height:125x;width:125px;"]
@@ -263,5 +260,3 @@ cinema81.com##img[width="465px"][height="60px"]
 bioskop21.us##img[width="640"][height="90"]
 cinema81.com##img[width="680"][height="90"]
 21sinema.com,ceriwis.com##img[width="728"][height="90"]
-zonamuda.com##td[valign="top"][height="55px"][align="center"]
-zonamuda.com##td[valign="top"][height="56px"][align="center"]
