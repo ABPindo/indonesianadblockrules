@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: AlVa65gDXEF2VFFMsa5ZzA
+! Checksum: PVI8tPdIVa3Y/pwGKKIUJg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 18 April 2015, 15:32:08 WIB
+! Last modified: 25 April 2015, 21:04:34 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -383,6 +383,7 @@ totojitu.gif|
 http://img.ads.$image,domain=kompas.com
 http://www.tribunnews.com/stylesheets/close.gif
 |http://cdn.kaskus.com/img/skin/*.gif
+|http://images.widih.org/banners/
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||5371a77e163d8c22b7ad8db294dc50870013ca51.googledrive.com/host/0B0WlqkpbMxyua1FvQW1CRnRWRE0/
 ||alertpay.com/banners/
@@ -490,7 +491,6 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||everyday-carry.com^$popup,third-party
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||flexterkita.com^$third-party
-||gambar123.com/$popup,third-party
 ||gambar123.com^$third-party
 ||go.wsockd.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws

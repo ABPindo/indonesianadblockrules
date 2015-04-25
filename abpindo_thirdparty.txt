@@ -12,7 +12,6 @@
 ||everyday-carry.com^$popup,third-party
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||flexterkita.com^$third-party
-||gambar123.com/$popup,third-party
 ||gambar123.com^$third-party
 ||go.wsockd.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws

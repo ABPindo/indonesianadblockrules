@@ -43,9 +43,8 @@ tribunnews.com###boxright [style="width:300px; height:250px;"]
 21filmcinema.com,adipedia.com,blifnews.com,blogspot.com,bokepgratiz.info,downloadfilmbaru.com,mangaku.web.id,movie76.com,nusareborn.in,semuaberita.com###btm_banner
 cinema81.com###btm_banner_kanan
 cinema81.com###btm_banner_kiri
-semprot.com###cintasemprot_floating_banner_bottom
-semprot.com###cintasemprot_side_left
-semprot.com###cintasemprot_side_right
+64.237.43.94,semprot.com,semprotku.com###cintasemprot_side_left
+64.237.43.94,semprot.com,semprotku.com###cintasemprot_side_right
 downloadfilmbaru.com###close-ads-stack
 movie76.com###close-teaser
 gudang.tv###container-bottom-menu-ads
@@ -74,8 +73,8 @@ lensaindonesia.com###idcomright2.com-300x250
 lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
 lihat.co.id###iklan-dalam-postingan-300
-semprot.com,semprotku.com###iklan_semprot_side_left
-semprot.com,semprotku.com###iklan_semprot_side_right
+64.237.43.94,semprot.com,semprotku.com###iklan_semprot_side_left
+64.237.43.94,semprot.com,semprotku.com###iklan_semprot_side_right
 jomniaga.com###imgBanner
 downloadfilmbaru.com###itro_opaco
 downloadfilmbaru.com###itro_popup
@@ -169,8 +168,13 @@ kompas.com##.bannerTopOut
 lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
+id.widih.org##.bannerbottom
+id.widih.org##.bannerleft
+widih.org##.bannerright
+widih.org##.bannertop
 bharian.com.my##.bh-ad
 cinemaindo.web.id##.bireklams
+64.237.43.94,semprot.com,semprotku.com##.body_wrapper > div:nth-of-type(2)
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
 gopego.com##.box
@@ -181,8 +185,12 @@ kompas.com##.boxSkinAd
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
-semprot.com##.cintasemprot_floating_banner_top
-semprot.com##.cintasemprot_h
+64.237.43.94,semprot.com,semprotku.com##.cintasemprot_f
+64.237.43.94,semprot.com,semprotku.com##.cintasemprot_floating_banner_bottom
+64.237.43.94,semprot.com,semprotku.com##.cintasemprot_floating_banner_top
+64.237.43.94,semprot.com,semprotku.com##.cintasemprot_floating_banner_top,
+64.237.43.94,semprot.com,semprotku.com##.cintasemprot_flr
+64.237.43.94,semprot.com,semprotku.com##.cintasemprot_h
 sindonews.com##.clear.size-wide-custom.dummy
 tempo.co##.closebanner1
 tempo.co##.closebanner2
@@ -200,7 +208,7 @@ kompas.com##.hAds
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
-semprot.com,semprotku.com##.iklan_semprot
+64.237.43.94,semprot.com,semprotku.com##.iklan_semprot
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 krucil.net##.krucil_ads
@@ -212,12 +220,12 @@ detik.com##.otp_banner_close
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 21filmcinema.com##.pengiklan
 lintas.me##.popup
-viva.co.id##.portlet.sideskycrapper
+bisnis.news.viva.co.id,viva.co.id##.portlet.sideskycrapper
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250
 unixmen.com##.reveal-modal-bg
-semprot.com,semprotku.com##.semprot_ads
-semprot.com,semprotku.com##.semprot_floating_banner_top
+64.237.43.94,semprot.com,semprotku.com##.semprot_ads
+64.237.43.94,semprot.com,semprotku.com##.semprot_floating_banner_top
 republika.co.id##.set-ads-468
 ceriwis.com##.simple_advert
 kaskus.co.id##.skin
