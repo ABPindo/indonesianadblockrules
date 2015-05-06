@@ -88,6 +88,8 @@ komikbaru.com,mangafox.me###left-skyscraper
 duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
 indotelko.com###more_stories
+64.237.43.94,semprot.com,semprotku.com###my_ads_clicked
+64.237.43.94,semprot.com,semprotku.com###my_ads_no_click
 cinema81.com###newnew > [align="center"] img[width="465px"]
 lihat.co.id###overlay[style="display: block;"]
 bioskop21.us###pr-4evr
@@ -175,7 +177,6 @@ widih.org##.bannerright
 widih.org##.bannertop
 bharian.com.my##.bh-ad
 cinemaindo.web.id##.bireklams
-64.237.43.94,semprot.com,semprotku.com##.body_wrapper > div:nth-of-type(2)
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
 gopego.com##.box
@@ -183,6 +184,7 @@ kompas.com##.boxBanner1
 kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
+64.237.43.94,semprot.com,semprotku.com##.breadcrumb + div[style="margin:0;padding:0;text-align:center;width:100%"]
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
