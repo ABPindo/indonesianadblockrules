@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JB5IFdZjtbngEDbX551jQA
+! Checksum: gk4rKrZYjavxkr/vXAAWgg
 ! Title: ABPindo
-! Last modified: 06 Mei 2015, 12:29:38 WIB
+! Last modified: 12 Mei 2015, 11:08:56 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -162,6 +162,7 @@
 ||188bet.com^$third-party
 ||988bet.com^$third-party
 ||agenasia88.com^$third-party
+||agensipoker.com^$third-party
 ||agent926.com^$third-party
 ||arenabola.com^$third-party
 ||asiabolabet.com^$third-party
