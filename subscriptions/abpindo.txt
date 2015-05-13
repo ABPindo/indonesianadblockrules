@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gk4rKrZYjavxkr/vXAAWgg
+! Checksum: 2c2G+bq/uUSNN8Vvlt9bkg
 ! Title: ABPindo
-! Last modified: 12 Mei 2015, 11:08:56 WIB
+! Last modified: 13 Mei 2015, 14:04:57 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -414,15 +414,21 @@ totojitu.gif|
 ##a[href^="http://www.bursabet.net/"]
 ##a[href^="http://www.sbbanner.com/"]
 ##img[alt="Agen Judi Online"]
+##img[alt="Agen Poker Terpercaya"]
+##img[alt="Judi Online Terpercaya"]
 ##img[alt="Judi Online"]
 ##img[alt="Live Score"]
+##img[alt="Obat Pembesar Penis"]
 ##img[alt="Pasang Iklan Anda Disini"]
 ##img[alt="Pasang Iklan Murah"]
 ##img[alt="Pemasangan Iklan"]
+##img[alt="Poker Online Terpercaya"]
+##img[alt="Senibet"]
 ##img[alt="Space Iklan"]
 ##img[alt="Taruhan Bola Online"]
 ##img[alt="agen bola"]
 ##img[alt="iklan"]
+##img[alt="poker online"]
 ##img[title="IndoBet - Agen Bola Online"]
 ##img[title="agen bola terpecaya"]
 ##img[title="pasang iklan"]
