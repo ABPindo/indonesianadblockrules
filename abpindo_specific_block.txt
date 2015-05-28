@@ -1,3 +1,8 @@
+bioskop55.com###wrap > .border > .content > .textwidget
+file.rocks##.add
+file.rocks##.mobi.content-left
+file.rocks##.mobi.content-right
+file.rocks##.padding-top.add
 http://img.ads.$image,domain=kompas.com
 http://www.tribunnews.com/stylesheets/close.gif
 |http://cdn.kaskus.com/img/skin/*.gif

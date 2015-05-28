@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2c2G+bq/uUSNN8Vvlt9bkg
+! Checksum: UxYOMrXwiYJLgwsuy+7ZqA
 ! Title: ABPindo
-! Last modified: 13 Mei 2015, 14:04:57 WIB
+! Last modified: 29 Mei 2015, 06:05:53 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -225,6 +225,7 @@
 ||sbo303.com^$third-party
 ||sbobet.com^$popup,third-party
 ||situsjudi.com/$popup,third-party
+||star88bola.com^$third-party
 ||tri7bet.com^$third-party
 ||vimaxtrial.com^$third-party
 ! *** abpindo_computer_prank.txt ***
@@ -413,6 +414,7 @@ totojitu.gif|
 ##.topadsense
 ##a[href^="http://www.bursabet.net/"]
 ##a[href^="http://www.sbbanner.com/"]
+##img[alt="Agen Bola"]
 ##img[alt="Agen Judi Online"]
 ##img[alt="Agen Poker Terpercaya"]
 ##img[alt="Judi Online Terpercaya"]
@@ -434,6 +436,11 @@ totojitu.gif|
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
+bioskop55.com###wrap > .border > .content > .textwidget
+file.rocks##.add
+file.rocks##.mobi.content-left
+file.rocks##.mobi.content-right
+file.rocks##.padding-top.add
 http://img.ads.$image,domain=kompas.com
 http://www.tribunnews.com/stylesheets/close.gif
 |http://cdn.kaskus.com/img/skin/*.gif
