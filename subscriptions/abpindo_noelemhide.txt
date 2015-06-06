@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: nTJvma1/jXBaQWKusVK/7w
+! Checksum: g+rn3SB5mrsswNoUJtSxbA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 29 Mei 2015, 06:05:53 WIB
+! Last modified: 06 Juni 2015, 14:27:01 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -367,6 +367,7 @@
 /bb17-iklan.
 /iklancpm.
 /images/iklan/*
+/internetsehatdanamanfastnet.html|
 /obat-kuat-sex.gif|
 /sbcagent.gif|
 /SkinADkanan.
@@ -382,11 +383,6 @@ sarana88.gif|
 sarangbola.gif|
 totojitu.gif|
 ! *** abpindo_specific_block.txt ***
-bioskop55.com###wrap > .border > .content > .textwidget
-file.rocks##.add
-file.rocks##.mobi.content-left
-file.rocks##.mobi.content-right
-file.rocks##.padding-top.add
 http://img.ads.$image,domain=kompas.com
 http://www.tribunnews.com/stylesheets/close.gif
 |http://cdn.kaskus.com/img/skin/*.gif
@@ -465,13 +461,18 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||my.postsgenius.com/style/banners/
 ||newopenx.detik.com/images/
 ||pancet.com/kbads/
+||petikmangga.com/wp-content/uploads/*.gif
+||placehold.it/300x250
+||placehold.it/780x90
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
 ||sodasusu.com/banner/
 ||solopos.com/banner/
 ||static.ambient-platform.com/js/m_adnetwork.js
+||streambokep.com/wp-content/uploads/*.gif
 ||suaramedia.com/images/banners/
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
+||sukangentot.com/wp-content/uploads/*.gif
 ||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/
 ||upload.coblos.net/images/*.gif

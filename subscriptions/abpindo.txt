@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UxYOMrXwiYJLgwsuy+7ZqA
+! Checksum: 1NJh9oFrB4h0VAIaS4N+oA
 ! Title: ABPindo
-! Last modified: 29 Mei 2015, 06:05:53 WIB
+! Last modified: 06 Juni 2015, 14:27:01 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -367,6 +367,7 @@
 /bb17-iklan.
 /iklancpm.
 /images/iklan/*
+/internetsehatdanamanfastnet.html|
 /obat-kuat-sex.gif|
 /sbcagent.gif|
 /SkinADkanan.
@@ -436,11 +437,6 @@ totojitu.gif|
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
-bioskop55.com###wrap > .border > .content > .textwidget
-file.rocks##.add
-file.rocks##.mobi.content-left
-file.rocks##.mobi.content-right
-file.rocks##.padding-top.add
 http://img.ads.$image,domain=kompas.com
 http://www.tribunnews.com/stylesheets/close.gif
 |http://cdn.kaskus.com/img/skin/*.gif
@@ -519,13 +515,18 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||my.postsgenius.com/style/banners/
 ||newopenx.detik.com/images/
 ||pancet.com/kbads/
+||petikmangga.com/wp-content/uploads/*.gif
+||placehold.it/300x250
+||placehold.it/780x90
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
 ||sodasusu.com/banner/
 ||solopos.com/banner/
 ||static.ambient-platform.com/js/m_adnetwork.js
+||streambokep.com/wp-content/uploads/*.gif
 ||suaramedia.com/images/banners/
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
+||sukangentot.com/wp-content/uploads/*.gif
 ||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/
 ||upload.coblos.net/images/*.gif
@@ -580,7 +581,7 @@ detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 bioskop21.us###box-message
 tribunnews.com###boxright [style="width:300px; height:250px;"]
-21filmcinema.com,adipedia.com,blifnews.com,blogspot.com,bokepgratiz.info,downloadfilmbaru.com,mangaku.web.id,movie76.com,nusareborn.in,semuaberita.com###btm_banner
+21filmcinema.com,adipedia.com,blifnews.com,blogspot.com,bokepgratiz.info,downloadfilmbaru.com,mangaku.web.id,movie76.com,nusareborn.in,semuaberita.com,sukangentot.com###btm_banner
 cinema81.com###btm_banner_kanan
 cinema81.com###btm_banner_kiri
 64.237.43.94,semprot.com,semprotku.com###cintasemprot_side_left
@@ -651,8 +652,8 @@ harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinema81.com,unduhfilm21.net###teaser1
-21filmcinema.com,cinema81.com,downloadfilmbaru.com,galaxymaya.com,indomoviemania.com,unduhfilm21.net###teaser2
-172.245.177.74,cinema81.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,movie76.com,unduhfilm21.net###teaser3
+21filmcinema.com,cinema81.com,downloadfilmbaru.com,galaxymaya.com,indomoviemania.com,sukangentot.com,unduhfilm21.net###teaser2
+172.245.177.74,cinema81.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,movie76.com,sukangentot.com,unduhfilm21.net###teaser3
 172.245.177.74,cinema81.com,sodasusu.com###teaser4
 movie76.com###teaser5
 movie76.com###teaser6
@@ -668,6 +669,7 @@ kapanlagi.com###v5-showcase1
 kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
 indotelko.com###vertical_top_kanal
+bioskop55.com###wrap > .border > .content > .textwidget
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
@@ -677,6 +679,7 @@ indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 loveindonesia.com##.ad_990_80
 bharian.com.my##.adbtm
+file.rocks##.add
 21sinema.com,dapurpacu.com,kompas.com##.ads
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
@@ -758,8 +761,11 @@ krucil.net##.krucil_floating_banner_top
 kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 dapurpacu.com##.mid-banner
+file.rocks##.mobi.content-left
+file.rocks##.mobi.content-right
 detik.com##.otp_banner_close
 tribunnews.com##.ovh[style="width:468px;height:60px"]
+file.rocks##.padding-top.add
 21filmcinema.com##.pengiklan
 lintas.me##.popup
 bisnis.news.viva.co.id,viva.co.id##.portlet.sideskycrapper
