@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1NJh9oFrB4h0VAIaS4N+oA
+! Checksum: YXoTiRuWofUqJacTnygTdA
 ! Title: ABPindo
-! Last modified: 06 Juni 2015, 14:27:01 WIB
+! Last modified: 15 Juni 2015, 05:09:13 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -600,8 +600,9 @@ teknoup.com###fancybox_ajax
 21filmcinema.com###float_bottom_left
 21filmcinema.com###float_bottom_right
 bioskops.com###floating_banner_bot
-173.199.189.86,bioskoptigalima.com,blogspot.com,forumbokep.com,klikseru.com,krucil.net,semprot.com,semprotku.com,vocland.com###floating_banner_bottom
+173.199.189.86,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,klikseru.com,krucil.net,semprot.com,semprotku.com,vocland.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
+movie76.net###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 ganool.com###floating_banner_top2
 untukku.com###footer-adcont
@@ -670,6 +671,7 @@ kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
 indotelko.com###vertical_top_kanal
 bioskop55.com###wrap > .border > .content > .textwidget
+movie76.net###wrap > center
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
@@ -719,6 +721,7 @@ id.widih.org##.bannerleft
 widih.org##.bannerright
 widih.org##.bannertop
 bharian.com.my##.bh-ad
+movie76.net##.bireklam
 cinemaindo.web.id##.bireklams
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
@@ -803,6 +806,7 @@ situshp.com##div[style="height:260px;"]
 forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
 forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
+movie76.net##img[alt="Advertisement"]
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 blogspot.com##img[alt="ads"]
 lihat.co.id##img[style="border:0;display:block;"]
