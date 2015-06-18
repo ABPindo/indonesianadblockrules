@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YXoTiRuWofUqJacTnygTdA
+! Checksum: uYxNnck2KaNs9KhXFpXqaw
 ! Title: ABPindo
-! Last modified: 15 Juni 2015, 05:09:13 WIB
+! Last modified: 19 Juni 2015, 04:44:46 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -468,10 +468,14 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
 ||fansubsupdate.com/res/img/sampleads/
+||filmbagus21.com/images/float-sidebar.png
+||filmbagus21.com/images/sidebar-300x250.png
+||filmbagus21.com/vimax.gif
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||ganool.com/wp-content/uploads/*.gif
+||ganool.in/down.png
 ||googledrive.com/host/0B-OnGqBU3zuJWVBFZzI5ak01STg
 ||gsshop.co.id^*/background/banner-
 ||harakah.net.my/images/stories/iklan/
@@ -597,6 +601,8 @@ bioskop21.us###fadeinbox
 idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
+filmbagus21.com###float-left-sidebar
+filmbagus21.com###float-right-sidebar
 21filmcinema.com###float_bottom_left
 21filmcinema.com###float_bottom_right
 bioskops.com###floating_banner_bot
@@ -766,6 +772,7 @@ lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width
 dapurpacu.com##.mid-banner
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
+animeout.com##.mv-adv
 detik.com##.otp_banner_close
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 file.rocks##.padding-top.add

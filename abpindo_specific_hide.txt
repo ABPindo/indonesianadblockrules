@@ -56,6 +56,8 @@ bioskop21.us###fadeinbox
 idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
+filmbagus21.com###float-left-sidebar
+filmbagus21.com###float-right-sidebar
 21filmcinema.com###float_bottom_left
 21filmcinema.com###float_bottom_right
 bioskops.com###floating_banner_bot
@@ -225,6 +227,7 @@ lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width
 dapurpacu.com##.mid-banner
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
+animeout.com##.mv-adv
 detik.com##.otp_banner_close
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 file.rocks##.padding-top.add
