@@ -36,6 +36,7 @@ tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
 kotakgame.com###bannertheme_left
 kotakgame.com###bannertheme_right
+zonafilem.com###berita > table > tbody > tr > td > table > tbody > tr:nth-of-type(1) > td
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 bioskop21.us###box-message
@@ -161,6 +162,7 @@ teknoup.com##.advertisement_box2
 palingseru.com##.alignnone.size-large.wp-image-458
 64.237.43.94,semprot.com,semprotku.com##.axxxd_semprot_sejati_global_header
 oktavita.com##.banner-zone
+tekno.kompas.com##.banner620x80
 kompas.com##.bannerAdB
 kompas.com##.bannerCenter
 kompas.com##.bannerCenter1SubRubrik
@@ -177,6 +179,7 @@ kompas.com##.bannerTopOut
 lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
+tekno.kompas.com##.banner_right2
 id.widih.org##.bannerbottom
 id.widih.org##.bannerleft
 widih.org##.bannerright
@@ -192,6 +195,8 @@ kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 64.237.43.94,semprot.com,semprotku.com##.breadcrumb + div[style="margin:0;padding:0;text-align:center;width:100%"]
+teknologi.inilah.com##.bt-g1.b-g3.wb-300x250
+teknologi.inilah.com##.bt-g1.b-g3.wb-300x250:nth-of-type(1)
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
@@ -228,6 +233,7 @@ dapurpacu.com##.mid-banner
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 animeout.com##.mv-adv
+detik.com##.normalbanner
 detik.com##.otp_banner_close
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 file.rocks##.padding-top.add
