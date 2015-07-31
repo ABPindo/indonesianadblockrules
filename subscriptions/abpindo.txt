@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: x2T8OOd86wcQZ5m1IxN89A
+! Checksum: 5qq9/jCmy0b9O78jRRYa2g
 ! Title: ABPindo
-! Last modified: 13 Juli 2015, 12:22:27 WIB
+! Last modified: 31 Juli 2015, 22:43:11 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -409,6 +409,8 @@ totojitu.gif|
 ##.gpcontent
 ~kontan.co.id,~securitylink.biz##.iklan
 ##.iklan728
+##.iklan_semprot
+##.iklan_semprot_h
 ##.iklanhead
 ##.iklanmini
 ##.pasangiklan
@@ -449,6 +451,7 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||animeindo.tv/ad/
 ||armylookfashion.com/728.swf
 ||asianbrain.com/banner/
+||asikbookie.com/images/banner/
 ||bacamanga.com/images/indofiles/$image
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -768,7 +771,6 @@ kompas.com##.hAds
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
-64.237.43.94,semprot.com,semprotku.com##.iklan_semprot
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 krucil.net##.krucil_ads
@@ -807,6 +809,7 @@ galaxymaya.com##.widget-content
 movie76.com##.widget-content img[alt="ads"]
 lintas.me##.xad-160x600
 lintas.me##.xad-300x250
+filmbagus21.com##.yarpp-related:nth-of-type(1)
 172.245.177.74##[align="center"] > [rel="nofollow"] > img[width="920"][height="60"]
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
@@ -823,6 +826,7 @@ tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70p
 movie76.net##img[alt="Advertisement"]
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 blogspot.com##img[alt="ads"]
+sukabookie.com##img[alt="agen Bola"]
 lihat.co.id##img[style="border:0;display:block;"]
 ic31linkpage.com,icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height:125x;width:125px;"]
