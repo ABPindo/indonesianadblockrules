@@ -143,7 +143,6 @@ indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 loveindonesia.com##.ad_990_80
 bharian.com.my##.adbtm
-file.rocks##.add
 21sinema.com,dapurpacu.com,kompas.com##.ads
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
@@ -156,9 +155,9 @@ kompas.com##.adsMR1Lipsus1
 antaranews.com##.ads_top_728
 utusan.com.my##.adspace_300
 mangaku.web.id##.adv
-animefushigi.com##.adv2
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
+webpcmag.com#@#.afs_ads
 palingseru.com##.alignnone.size-large.wp-image-458
 64.237.43.94,semprot.com,semprotku.com##.axxxd_semprot_sejati_global_header
 oktavita.com##.banner-zone
@@ -180,8 +179,6 @@ lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
 tekno.kompas.com##.banner_right2
-id.widih.org##.bannerbottom
-id.widih.org##.bannerleft
 widih.org##.bannerright
 widih.org##.bannertop
 bharian.com.my##.bh-ad
@@ -238,7 +235,7 @@ tribunnews.com##.ovh[style="width:468px;height:60px"]
 file.rocks##.padding-top.add
 21filmcinema.com##.pengiklan
 lintas.me##.popup
-bisnis.news.viva.co.id,viva.co.id##.portlet.sideskycrapper
+viva.co.id##.portlet.sideskycrapper
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250
 unixmen.com##.reveal-modal-bg
