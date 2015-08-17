@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: e83MbugsMOjVIkutlPCYsg
+! Checksum: ZpczjqOLCnx+Dzmh21zcXQ
 ! Title: ABPindo
-! Last modified: 08 Agustus 2015, 15:53:44 WIB
+! Last modified: 17 Agustus 2015, 09:32:54 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -526,6 +526,7 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||petikmangga.com/wp-content/uploads/*.gif
 ||placehold.it/300x250
 ||placehold.it/780x90
+||pulsk.com/img/x.png
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
 ||sodasusu.com/banner/
@@ -821,6 +822,7 @@ forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:
 forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 movie76.net##img[alt="Advertisement"]
+comotin.com##img[alt="Agen Poker Online"]
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 blogspot.com##img[alt="ads"]
 sukabookie.com##img[alt="agen Bola"]
