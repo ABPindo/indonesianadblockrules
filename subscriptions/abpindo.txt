@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZpczjqOLCnx+Dzmh21zcXQ
+! Checksum: esjEXd4hu0ugOZAOFLloow
 ! Title: ABPindo
-! Last modified: 17 Agustus 2015, 09:32:54 WIB
+! Last modified: 24 Agustus 2015, 18:22:01 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -538,6 +538,7 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||sukangentot.com/wp-content/uploads/*.gif
 ||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/
+||unduhfilm.net/wp-content/uploads/*.gif
 ||upload.coblos.net/images/*.gif
 ||usnewopenx.detik.com/images/
 ||utusan.com.my/utusan/iklan/
@@ -600,6 +601,7 @@ downloadfilmbaru.com###close-ads-stack
 movie76.com###close-teaser
 gudang.tv###container-bottom-menu-ads
 gudang.tv###container-bottom-menu-ads2
+juraganmovie.net###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > a[href="http://aq88bet.com"] > img[alt="aq88bet.com"]
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 90animax.com###energysaving
 lintas.me###facebox_overlay
@@ -607,6 +609,8 @@ bioskop21.us###fadeinbox
 idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
+movie76.com###fixedbanner
+movie76.com###fixedbanner2
 filmbagus21.com###float-left-sidebar
 filmbagus21.com###float-right-sidebar
 21filmcinema.com###float_bottom_left
@@ -614,7 +618,8 @@ filmbagus21.com###float-right-sidebar
 bioskops.com###floating_banner_bot
 173.199.189.86,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,klikseru.com,krucil.net,semprot.com,semprotku.com,vocland.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
-movie76.net###floating_banner_top
+movie76.com###floating_banner_bottoms
+juraganmovie.net,movie76.com,movie76.net###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 ganool.com###floating_banner_top2
 untukku.com###footer-adcont
@@ -644,7 +649,9 @@ dapurpacu.com###mid-banner
 indotelko.com###more_stories
 64.237.43.94,semprot.com,semprotku.com###my_ads_clicked
 64.237.43.94,semprot.com,semprotku.com###my_ads_no_click
+bioskops.com###navbarborder > center
 cinema81.com###newnew > [align="center"] img[width="465px"]
+viva.co.id###otp_ads
 lihat.co.id###overlay[style="display: block;"]
 bioskop21.us###pr-4evr
 bioskop21.us###pr-4evv
@@ -665,12 +672,13 @@ harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinema81.com,unduhfilm21.net###teaser1
-21filmcinema.com,cinema81.com,downloadfilmbaru.com,galaxymaya.com,indomoviemania.com,sukangentot.com,unduhfilm21.net###teaser2
-172.245.177.74,cinema81.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,movie76.com,sukangentot.com,unduhfilm21.net###teaser3
+21filmcinema.com,cinema81.com,downloadfilmbaru.com,galaxymaya.com,indomoviemania.com,sukangentot.com,unduhfilm.net,unduhfilm21.net###teaser2
+172.245.177.74,cinema81.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,movie76.com,sukangentot.com,unduhfilm21.net,www.unduhfilm.net###teaser3
 172.245.177.74,cinema81.com,sodasusu.com###teaser4
 movie76.com###teaser5
 movie76.com###teaser6
 movie76.com###teaser7
+bioskopkita.com###text-4
 indotelko.com###title_kanal
 detik.com###top_banner
 bioskopkita.com###topbanner
@@ -683,7 +691,7 @@ kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
 indotelko.com###vertical_top_kanal
 bioskop55.com###wrap > .border > .content > .textwidget
-movie76.net###wrap > center
+juraganmovie.net,movie76.net###wrap > center
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
@@ -732,8 +740,9 @@ tekno.kompas.com##.banner_right2
 widih.org##.bannerright
 widih.org##.bannertop
 bharian.com.my##.bh-ad
-movie76.net##.bireklam
+juraganmovie.net,movie76.net##.bireklam
 cinemaindo.web.id##.bireklams
+beritagar.id##.bottom-20.box-widget.right-300.banner300x250.banner
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
 gopego.com##.box
@@ -811,6 +820,7 @@ filmbagus21.com##.yarpp-related:nth-of-type(1)
 172.245.177.74##[align="center"] > [rel="nofollow"] > img[width="920"][height="60"]
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
+juraganmovie.net##a[href="http://www.inidewa365.com/"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
@@ -821,11 +831,13 @@ situshp.com##div[style="height:260px;"]
 forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
 forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
-movie76.net##img[alt="Advertisement"]
+movie76.com,movie76.net##img[alt="Advertisement"]
 comotin.com##img[alt="Agen Poker Online"]
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 blogspot.com##img[alt="ads"]
 sukabookie.com##img[alt="agen Bola"]
+juraganmovie.net##img[alt="indolotto88.com"]
+juraganmovie.net##img[alt="indopok88.com"]
 lihat.co.id##img[style="border:0;display:block;"]
 ic31linkpage.com,icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height:125x;width:125px;"]
