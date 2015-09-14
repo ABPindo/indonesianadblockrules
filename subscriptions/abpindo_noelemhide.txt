@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: LhaOgL7al/o21/R+BDTi4Q
+! Checksum: 4cPLGceM6LM4i5QgvZJJiw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 24 Agustus 2015, 18:22:01 WIB
+! Last modified: 14 September 2015, 17:12:26 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -385,9 +385,6 @@ totojitu.gif|
 ! *** abpindo_specific_block.txt ***
 /space-iklan-$domain=www.zonafilem.com
 http://img.ads.$image,domain=kompas.com
-http://www.tribunnews.com/stylesheets/close.gif
-|http://cdn.kaskus.com/img/skin/*.gif
-|http://images.widih.org/banners/
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||5371a77e163d8c22b7ad8db294dc50870013ca51.googledrive.com/host/0B0WlqkpbMxyua1FvQW1CRnRWRE0/
 ||alertpay.com/banners/
@@ -406,6 +403,7 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
+||cdn.kaskus.com/img/skin/*.gif
 ||cfad44b641cd93f6e9f5754029ae9ebd79d591e5.googledrive.com/host/0B0WlqkpbMxyuM3p5UlY3SGVKRmM/inc/
 ||detik.com/images/banners/
 ||dewa.tv/banner/
@@ -430,10 +428,10 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
 ||id.hao123.com/resource/id/banner/
-||iklanbaris.detik.com/
 ||image-tmart.com/cpc/affiliate/
 ||images.gameweb.co.id/gw/ads/
 ||images.indoforum.org/banners/
+||images.widih.org/banners/
 ||img.banggood.com/deals/affiliate_member_banner/
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
@@ -466,7 +464,8 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||musisi.com/musifile/images_banner/
 ||my.postsgenius.com/style/banners/
 ||newopenx.detik.com/images/
-||pancet.com/kbads/
+||tribunnews.com/stylesheets/close.gif
+!||pancet.com/kbads/
 ||petikmangga.com/wp-content/uploads/*.gif
 ||placehold.it/300x250
 ||placehold.it/780x90
@@ -484,7 +483,7 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||tambahketinggian.com/banner/
 ||unduhfilm.net/wp-content/uploads/*.gif
 ||upload.coblos.net/images/*.gif
-||usnewopenx.detik.com/images/
+!||usnewopenx.detik.com/images/
 ||utusan.com.my/utusan/iklan/
 ||videogamesindonesia.com/banners/
 ||xip.ir/js/fp.js

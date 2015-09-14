@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: esjEXd4hu0ugOZAOFLloow
+! Checksum: VF2Bcqu+7mR9NOZeLhxA0w
 ! Title: ABPindo
-! Last modified: 24 Agustus 2015, 18:22:01 WIB
+! Last modified: 14 September 2015, 17:12:26 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -441,9 +441,6 @@ totojitu.gif|
 ! *** abpindo_specific_block.txt ***
 /space-iklan-$domain=www.zonafilem.com
 http://img.ads.$image,domain=kompas.com
-http://www.tribunnews.com/stylesheets/close.gif
-|http://cdn.kaskus.com/img/skin/*.gif
-|http://images.widih.org/banners/
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||5371a77e163d8c22b7ad8db294dc50870013ca51.googledrive.com/host/0B0WlqkpbMxyua1FvQW1CRnRWRE0/
 ||alertpay.com/banners/
@@ -462,6 +459,7 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
+||cdn.kaskus.com/img/skin/*.gif
 ||cfad44b641cd93f6e9f5754029ae9ebd79d591e5.googledrive.com/host/0B0WlqkpbMxyuM3p5UlY3SGVKRmM/inc/
 ||detik.com/images/banners/
 ||dewa.tv/banner/
@@ -486,10 +484,10 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
 ||id.hao123.com/resource/id/banner/
-||iklanbaris.detik.com/
 ||image-tmart.com/cpc/affiliate/
 ||images.gameweb.co.id/gw/ads/
 ||images.indoforum.org/banners/
+||images.widih.org/banners/
 ||img.banggood.com/deals/affiliate_member_banner/
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
@@ -522,7 +520,8 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||musisi.com/musifile/images_banner/
 ||my.postsgenius.com/style/banners/
 ||newopenx.detik.com/images/
-||pancet.com/kbads/
+||tribunnews.com/stylesheets/close.gif
+!||pancet.com/kbads/
 ||petikmangga.com/wp-content/uploads/*.gif
 ||placehold.it/300x250
 ||placehold.it/780x90
@@ -540,7 +539,7 @@ http://www.tribunnews.com/stylesheets/close.gif
 ||tambahketinggian.com/banner/
 ||unduhfilm.net/wp-content/uploads/*.gif
 ||upload.coblos.net/images/*.gif
-||usnewopenx.detik.com/images/
+!||usnewopenx.detik.com/images/
 ||utusan.com.my/utusan/iklan/
 ||videogamesindonesia.com/banners/
 ||xip.ir/js/fp.js
@@ -567,6 +566,7 @@ chip.co.id###TopBannerBg
 krucil.net###ad_floating_bottom
 krucil.net###ad_floating_top
 173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.net,sodasusu.com,vocland.com###ad_global_below_navbar
+detik.com###adpoint5
 dapurpacu.com###ads-728
 dapurpacu.com###ads-960-mid
 harianjogja.com,solopos.com###ads-float
@@ -601,7 +601,6 @@ downloadfilmbaru.com###close-ads-stack
 movie76.com###close-teaser
 gudang.tv###container-bottom-menu-ads
 gudang.tv###container-bottom-menu-ads2
-juraganmovie.net###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > a[href="http://aq88bet.com"] > img[alt="aq88bet.com"]
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 90animax.com###energysaving
 lintas.me###facebox_overlay
@@ -621,7 +620,6 @@ blogspot.com###floating_banner_bottom2
 movie76.com###floating_banner_bottoms
 juraganmovie.net,movie76.com,movie76.net###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-ganool.com###floating_banner_top2
 untukku.com###footer-adcont
 resep.web.id###googlebox
 21filmcinema.com###header_sag
@@ -803,6 +801,8 @@ unixmen.com##.reveal-modal-bg
 republika.co.id##.set-ads-468
 ceriwis.com##.simple_advert
 kaskus.co.id##.skin
+detik.com##.skinad_1
+detik.com##.skinad_2
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
 okezone.com##.sponsored-belt468x60
@@ -814,13 +814,10 @@ lapar.com##.top-banner
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 galaxymaya.com##.widget-content
 movie76.com##.widget-content img[alt="ads"]
-lintas.me##.xad-160x600
-lintas.me##.xad-300x250
 filmbagus21.com##.yarpp-related:nth-of-type(1)
 172.245.177.74##[align="center"] > [rel="nofollow"] > img[width="920"][height="60"]
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
-juraganmovie.net##a[href="http://www.inidewa365.com/"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
@@ -836,8 +833,6 @@ comotin.com##img[alt="Agen Poker Online"]
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 blogspot.com##img[alt="ads"]
 sukabookie.com##img[alt="agen Bola"]
-juraganmovie.net##img[alt="indolotto88.com"]
-juraganmovie.net##img[alt="indopok88.com"]
 lihat.co.id##img[style="border:0;display:block;"]
 ic31linkpage.com,icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height:125x;width:125px;"]
