@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VF2Bcqu+7mR9NOZeLhxA0w
+! Checksum: b9UuabhFOBeoSKGYJIMeRw
 ! Title: ABPindo
-! Last modified: 14 September 2015, 17:12:26 WIB
+! Last modified: 21 September 2015, 06:45:49 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -16,7 +16,6 @@
 ||adbestgame.com^$third-party
 ||adbios212.com^$third-party
 ||adbusinessfree.com^$third-party
-||adconscious.com^$third-party
 ||addesigner.com^$third-party
 ||admitra.com^$third-party
 ||adplus.co.id^$third-party
@@ -440,7 +439,6 @@ totojitu.gif|
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
 /space-iklan-$domain=www.zonafilem.com
-http://img.ads.$image,domain=kompas.com
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||5371a77e163d8c22b7ad8db294dc50870013ca51.googledrive.com/host/0B0WlqkpbMxyua1FvQW1CRnRWRE0/
 ||alertpay.com/banners/
@@ -487,7 +485,6 @@ http://img.ads.$image,domain=kompas.com
 ||image-tmart.com/cpc/affiliate/
 ||images.gameweb.co.id/gw/ads/
 ||images.indoforum.org/banners/
-||images.widih.org/banners/
 ||img.banggood.com/deals/affiliate_member_banner/
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
@@ -735,8 +732,6 @@ lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
 tekno.kompas.com##.banner_right2
-widih.org##.bannerright
-widih.org##.bannertop
 bharian.com.my##.bh-ad
 juraganmovie.net,movie76.net##.bireklam
 cinemaindo.web.id##.bireklams
@@ -749,8 +744,6 @@ kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 64.237.43.94,semprot.com,semprotku.com##.breadcrumb + div[style="margin:0;padding:0;text-align:center;width:100%"]
-teknologi.inilah.com##.bt-g1.b-g3.wb-300x250
-teknologi.inilah.com##.bt-g1.b-g3.wb-300x250:nth-of-type(1)
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
@@ -812,6 +805,7 @@ bioskop21.us##.textwidget img[width="160"][height="600"]
 klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
 otomotif.kompas.com##.w340.r-ads.right > ul > li
+teknologi.inilah.com##.wb-300x250
 galaxymaya.com##.widget-content
 movie76.com##.widget-content img[alt="ads"]
 filmbagus21.com##.yarpp-related:nth-of-type(1)

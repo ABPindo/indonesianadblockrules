@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 4cPLGceM6LM4i5QgvZJJiw
+! Checksum: XOQV5ymABks1sPxwcLDKRQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 14 September 2015, 17:12:26 WIB
+! Last modified: 21 September 2015, 06:45:49 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -16,7 +16,6 @@
 ||adbestgame.com^$third-party
 ||adbios212.com^$third-party
 ||adbusinessfree.com^$third-party
-||adconscious.com^$third-party
 ||addesigner.com^$third-party
 ||admitra.com^$third-party
 ||adplus.co.id^$third-party
@@ -384,7 +383,6 @@ sarangbola.gif|
 totojitu.gif|
 ! *** abpindo_specific_block.txt ***
 /space-iklan-$domain=www.zonafilem.com
-http://img.ads.$image,domain=kompas.com
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||5371a77e163d8c22b7ad8db294dc50870013ca51.googledrive.com/host/0B0WlqkpbMxyua1FvQW1CRnRWRE0/
 ||alertpay.com/banners/
@@ -431,7 +429,6 @@ http://img.ads.$image,domain=kompas.com
 ||image-tmart.com/cpc/affiliate/
 ||images.gameweb.co.id/gw/ads/
 ||images.indoforum.org/banners/
-||images.widih.org/banners/
 ||img.banggood.com/deals/affiliate_member_banner/
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/

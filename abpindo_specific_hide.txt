@@ -185,8 +185,6 @@ lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
 tekno.kompas.com##.banner_right2
-widih.org##.bannerright
-widih.org##.bannertop
 bharian.com.my##.bh-ad
 juraganmovie.net,movie76.net##.bireklam
 cinemaindo.web.id##.bireklams
@@ -199,8 +197,6 @@ kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 64.237.43.94,semprot.com,semprotku.com##.breadcrumb + div[style="margin:0;padding:0;text-align:center;width:100%"]
-teknologi.inilah.com##.bt-g1.b-g3.wb-300x250
-teknologi.inilah.com##.bt-g1.b-g3.wb-300x250:nth-of-type(1)
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
@@ -262,6 +258,7 @@ bioskop21.us##.textwidget img[width="160"][height="600"]
 klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
 otomotif.kompas.com##.w340.r-ads.right > ul > li
+teknologi.inilah.com##.wb-300x250
 galaxymaya.com##.widget-content
 movie76.com##.widget-content img[alt="ads"]
 filmbagus21.com##.yarpp-related:nth-of-type(1)

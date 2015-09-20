@@ -1,5 +1,4 @@
 /space-iklan-$domain=www.zonafilem.com
-http://img.ads.$image,domain=kompas.com
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||5371a77e163d8c22b7ad8db294dc50870013ca51.googledrive.com/host/0B0WlqkpbMxyua1FvQW1CRnRWRE0/
 ||alertpay.com/banners/
@@ -46,7 +45,6 @@ http://img.ads.$image,domain=kompas.com
 ||image-tmart.com/cpc/affiliate/
 ||images.gameweb.co.id/gw/ads/
 ||images.indoforum.org/banners/
-||images.widih.org/banners/
 ||img.banggood.com/deals/affiliate_member_banner/
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
