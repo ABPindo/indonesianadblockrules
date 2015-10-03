@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: XOQV5ymABks1sPxwcLDKRQ
+! Checksum: 6xBdVsfDKkUpDGG4W7r7hw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 21 September 2015, 06:45:49 WIB
+! Last modified: 03 Oktober 2015, 21:02:50 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -382,7 +382,6 @@ sarana88.gif|
 sarangbola.gif|
 totojitu.gif|
 ! *** abpindo_specific_block.txt ***
-/space-iklan-$domain=www.zonafilem.com
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||5371a77e163d8c22b7ad8db294dc50870013ca51.googledrive.com/host/0B0WlqkpbMxyua1FvQW1CRnRWRE0/
 ||alertpay.com/banners/
@@ -461,6 +460,8 @@ totojitu.gif|
 ||musisi.com/musifile/images_banner/
 ||my.postsgenius.com/style/banners/
 ||newopenx.detik.com/images/
+||nontonstreaming.tv/img/closeX.png/space-iklan-$domain=www.zonafilem.com
+||nontonstreaming.tv/wp-content/uploads/2015/*/*.gif
 ||tribunnews.com/stylesheets/close.gif
 !||pancet.com/kbads/
 ||petikmangga.com/wp-content/uploads/*.gif

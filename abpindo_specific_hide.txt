@@ -113,14 +113,15 @@ ceriwis.com###sa_1_1416453792
 gopego.com###showcase1
 gopego.com###showcase2
 lintas.me###showcasedown
+nontonfilm88.com###sidebar-right
 zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
 detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
-cinema81.com,unduhfilm21.net###teaser1
-21filmcinema.com,cinema81.com,downloadfilmbaru.com,galaxymaya.com,indomoviemania.com,sukangentot.com,unduhfilm.net,unduhfilm21.net###teaser2
+cinema81.com,cinemaindo.com,unduhfilm21.net###teaser1
+21filmcinema.com,cinema81.com,cinemaindo.com,downloadfilmbaru.com,galaxymaya.com,indomoviemania.com,sukangentot.com,unduhfilm.net,unduhfilm21.net###teaser2
 172.245.177.74,cinema81.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,movie76.com,sukangentot.com,unduhfilm21.net,www.unduhfilm.net###teaser3
 172.245.177.74,cinema81.com,sodasusu.com###teaser4
 movie76.com###teaser5
@@ -160,12 +161,15 @@ dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
 antaranews.com##.ads_top_728
 utusan.com.my##.adspace_300
+cinemaindo.com##.adstops
 mangaku.web.id##.adv
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
 webpcmag.com#@#.afs_ads
 palingseru.com##.alignnone.size-large.wp-image-458
 64.237.43.94,semprot.com,semprotku.com##.axxxd_semprot_sejati_global_header
+nontonstreaming.tv##.ban_empat
+nontonstreaming.tv##.banner
 oktavita.com##.banner-zone
 tekno.kompas.com##.banner620x80
 kompas.com##.bannerAdB
@@ -268,6 +272,7 @@ iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
+nontonfilm88.com##center > table
 cinema81.com##center > table > tbody
 21sinema.com##center img[width="468"][height="60"]
 klikseru.com##center img[width="728"][height="70"]
