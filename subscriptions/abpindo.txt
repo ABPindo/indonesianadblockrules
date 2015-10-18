@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LPbPQzcMVvbZjag1G/VomQ
+! Checksum: 2dlL+QdjQRCm7yvW0dTORA
 ! Title: ABPindo
-! Last modified: 03 Oktober 2015, 21:02:50 WIB
+! Last modified: 18 Oktober 2015, 15:02:28 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -452,6 +452,7 @@ totojitu.gif|
 ||bintangmawar.net/forum/med_banner.php
 ||bintangmawar.net/forum/medright_banner.php
 ||bintangmawar.net/forum/top_banner.php
+||bioskopmovie21.com/wp-content/uploads/2015/*/*.gif
 ||bokepgratiz.info/banner/
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
@@ -516,6 +517,7 @@ totojitu.gif|
 ||musisi.com/musifile/images_banner/
 ||my.postsgenius.com/style/banners/
 ||newopenx.detik.com/images/
+||nontonstreaming.tv/img/closeX.png
 ||nontonstreaming.tv/img/closeX.png/space-iklan-$domain=www.zonafilem.com
 ||nontonstreaming.tv/wp-content/uploads/2015/*/*.gif
 ||tribunnews.com/stylesheets/close.gif
@@ -596,7 +598,7 @@ cinema81.com###btm_banner_kiri
 64.237.43.94,semprot.com,semprotku.com###cintasemprot_side_left
 64.237.43.94,semprot.com,semprotku.com###cintasemprot_side_right
 downloadfilmbaru.com###close-ads-stack
-movie76.com###close-teaser
+bioskopmovie21.com,movie76.com###close-teaser
 gudang.tv###container-bottom-menu-ads
 gudang.tv###container-bottom-menu-ads2
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
