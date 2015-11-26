@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2dlL+QdjQRCm7yvW0dTORA
+! Checksum: /T7k3CbU9PWv8YpPT/DK9A
 ! Title: ABPindo
-! Last modified: 18 Oktober 2015, 15:02:28 WIB
+! Last modified: 26 November 2015, 11:33:30 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -201,6 +201,7 @@
 ||goodlucky99.com^$third-party
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
+||indonesia-community.net^
 ||investasiceria.net^$third-party
 ||jollywallet.com^$third-party
 ||kakakdewa.com^$third-party
@@ -641,6 +642,7 @@ harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
 zonabola.com###lAds
 pkspiyungan.org###largebanner
+mangafap.com###lbanner
 komikbaru.com,mangafox.me###left-skyscraper
 duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
@@ -701,6 +703,7 @@ indobokepz.com##.adBar-vertical.right
 loveindonesia.com##.ad_990_80
 bharian.com.my##.adbtm
 21sinema.com,dapurpacu.com,kompas.com##.ads
+trendtek.republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
 gudang.tv##.ads-content1
@@ -874,6 +877,7 @@ cinema81.com##img[width="680"][height="90"]
 ||lapak-online.net/$popup,third-party
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
+||magic-data.biz^$third-party
 ||manasuka.com/gbr_banner_link/$third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||modifikasi.com/images/banner/$third-party

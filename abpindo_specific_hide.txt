@@ -48,7 +48,7 @@ cinema81.com###btm_banner_kiri
 64.237.43.94,semprot.com,semprotku.com###cintasemprot_side_left
 64.237.43.94,semprot.com,semprotku.com###cintasemprot_side_right
 downloadfilmbaru.com###close-ads-stack
-movie76.com###close-teaser
+bioskopmovie21.com,movie76.com###close-teaser
 gudang.tv###container-bottom-menu-ads
 gudang.tv###container-bottom-menu-ads2
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
@@ -91,6 +91,7 @@ harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
 zonabola.com###lAds
 pkspiyungan.org###largebanner
+mangafap.com###lbanner
 komikbaru.com,mangafox.me###left-skyscraper
 duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
@@ -151,6 +152,7 @@ indobokepz.com##.adBar-vertical.right
 loveindonesia.com##.ad_990_80
 bharian.com.my##.adbtm
 21sinema.com,dapurpacu.com,kompas.com##.ads
+trendtek.republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
 gudang.tv##.ads-content1
