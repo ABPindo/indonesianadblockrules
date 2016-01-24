@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ItkJjiTC8jM/oke6VvjOdQ
+! Checksum: fvRDOHeMiYJ3CW6dvW9PWw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 26 November 2015, 11:33:30 WIB
+! Last modified: 24 Januari 2016, 07:26:54 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -383,6 +383,7 @@ sarana88.gif|
 sarangbola.gif|
 totojitu.gif|
 ! *** abpindo_specific_block.txt ***
+/space-iklan-$domain=www.zonafilem.com
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||5371a77e163d8c22b7ad8db294dc50870013ca51.googledrive.com/host/0B0WlqkpbMxyua1FvQW1CRnRWRE0/
 ||alertpay.com/banners/
@@ -463,9 +464,9 @@ totojitu.gif|
 ||my.postsgenius.com/style/banners/
 ||newopenx.detik.com/images/
 ||nontonstreaming.tv/img/closeX.png
-||nontonstreaming.tv/img/closeX.png/space-iklan-$domain=www.zonafilem.com
 ||nontonstreaming.tv/wp-content/uploads/2015/*/*.gif
 ||tribunnews.com/stylesheets/close.gif
+||uploadboy.com/bannerset/
 !||pancet.com/kbads/
 ||petikmangga.com/wp-content/uploads/*.gif
 ||placehold.it/300x250
@@ -547,6 +548,7 @@ totojitu.gif|
 ! *** abpindo_whitelist.txt ***
 @@.jpg#$domain=minidroid.net
 @@.png#$domain=animeindo.tv|narutobleachlover.net|oploverz.net|wardhanime.net
+@@/js/tracking.js$domain=lazada.co.id
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
 @@||minidroid.net^$elemhide

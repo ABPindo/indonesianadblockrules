@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /T7k3CbU9PWv8YpPT/DK9A
+! Checksum: zMQdW80dZlXx8UiflQAZ4g
 ! Title: ABPindo
-! Last modified: 26 November 2015, 11:33:30 WIB
+! Last modified: 24 Januari 2016, 07:26:54 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -439,6 +439,7 @@ totojitu.gif|
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
+/space-iklan-$domain=www.zonafilem.com
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||5371a77e163d8c22b7ad8db294dc50870013ca51.googledrive.com/host/0B0WlqkpbMxyua1FvQW1CRnRWRE0/
 ||alertpay.com/banners/
@@ -519,9 +520,9 @@ totojitu.gif|
 ||my.postsgenius.com/style/banners/
 ||newopenx.detik.com/images/
 ||nontonstreaming.tv/img/closeX.png
-||nontonstreaming.tv/img/closeX.png/space-iklan-$domain=www.zonafilem.com
 ||nontonstreaming.tv/wp-content/uploads/2015/*/*.gif
 ||tribunnews.com/stylesheets/close.gif
+||uploadboy.com/bannerset/
 !||pancet.com/kbads/
 ||petikmangga.com/wp-content/uploads/*.gif
 ||placehold.it/300x250
@@ -619,6 +620,8 @@ bioskops.com###floating_banner_bot
 173.199.189.86,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,klikseru.com,krucil.net,semprot.com,semprotku.com,vocland.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
 movie76.com###floating_banner_bottoms
+www.bioskop55.com###floating_banner_left
+www.bioskop55.com###floating_banner_right
 juraganmovie.net,movie76.com,movie76.net###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 untukku.com###footer-adcont
@@ -692,6 +695,7 @@ kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
 indotelko.com###vertical_top_kanal
 bioskop55.com###wrap > .border > .content > .textwidget
+www.bioskop55.com###wrap > .headborder > .headcontent > .textwidget
 juraganmovie.net,movie76.net###wrap > center
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
@@ -702,7 +706,7 @@ indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 loveindonesia.com##.ad_990_80
 bharian.com.my##.adbtm
-21sinema.com,dapurpacu.com,kompas.com##.ads
+21sinema.com,dapurpacu.com,kompas.com,www.22sinema.com##.ads
 trendtek.republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
@@ -796,6 +800,7 @@ file.rocks##.padding-top.add
 21filmcinema.com##.pengiklan
 lintas.me##.popup
 viva.co.id##.portlet.sideskycrapper
+www.otomania.com##.r-ads
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250
 unixmen.com##.reveal-modal-bg
@@ -835,6 +840,7 @@ forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 movie76.com,movie76.net##img[alt="Advertisement"]
 comotin.com##img[alt="Agen Poker Online"]
+www.bioskop55.com##img[alt="Agen Poker"]
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
 blogspot.com##img[alt="ads"]
 sukabookie.com##img[alt="agen Bola"]
@@ -904,6 +910,7 @@ cinema81.com##img[width="680"][height="90"]
 ! *** abpindo_whitelist.txt ***
 @@.jpg#$domain=minidroid.net
 @@.png#$domain=animeindo.tv|narutobleachlover.net|oploverz.net|wardhanime.net
+@@/js/tracking.js$domain=lazada.co.id
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
 @@||minidroid.net^$elemhide
