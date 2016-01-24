@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zMQdW80dZlXx8UiflQAZ4g
+! Checksum: wHjo9c5NzC1VqCDy1ZtjIg
 ! Title: ABPindo
-! Last modified: 24 Januari 2016, 07:26:54 WIB
+! Last modified: 24 Januari 2016, 08:08:04 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/COPYING
@@ -575,8 +575,6 @@ harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 dapurpacu.com###ads-vert-300
-bioskops.com###ads_banner_kanan
-bioskops.com###ads_banner_left1
 unixmen.com###an-Modal
 inilah.com,kompasiana.com###anchormasklink
 zonabola.com###aside img[width="300"][height="250"]
