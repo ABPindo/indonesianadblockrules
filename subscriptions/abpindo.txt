@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wHjo9c5NzC1VqCDy1ZtjIg
+! Checksum: wOniHoLq+LSecQfhXXMjrw
 ! Title: ABPindo
-! Last modified: 24 Januari 2016, 08:08:04 WIB
+! Last modified: 27 Januari 2016, 05:15:30 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -674,8 +674,8 @@ harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinema81.com,cinemaindo.com,unduhfilm21.net###teaser1
-21filmcinema.com,cinema81.com,cinemaindo.com,downloadfilmbaru.com,galaxymaya.com,indomoviemania.com,sukangentot.com,unduhfilm.net,unduhfilm21.net###teaser2
-172.245.177.74,cinema81.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,movie76.com,sukangentot.com,unduhfilm21.net,www.unduhfilm.net###teaser3
+21filmcinema.com,cinema81.com,cinemaindo.com,downloadfilmbaru.com,galaxymaya.com,ganool.nl,indomoviemania.com,sukangentot.com,unduhfilm.net,unduhfilm21.net###teaser2
+172.245.177.74,cinema81.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,ganool.nl,movie76.com,sukangentot.com,unduhfilm21.net,www.unduhfilm.net###teaser3
 172.245.177.74,cinema81.com,sodasusu.com###teaser4
 movie76.com###teaser5
 movie76.com###teaser6
