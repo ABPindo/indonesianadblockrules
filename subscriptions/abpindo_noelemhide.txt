@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 9G0sHrNIyjrSySkmwgm8Qw
+! Checksum: UYtoTDh4GXDF42QE7VAZNA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 27 Januari 2016, 05:15:30 WIB
+! Last modified: 30 Januari 2016, 19:56:45 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -23,6 +23,7 @@
 ||adsbingo.com^$third-party
 ||adsense-id.com^$third-party
 ||adsensemu.com^$third-party
+||adsglow.net^$third-party
 ||adskom.com^$third-party
 ||ajangiklangratis.com^$third-party
 ||anekaiklan.com^$third-party
@@ -158,7 +159,6 @@
 ||yesads.com^$third-party
 ! *** abpindo_annoyance.txt ***
 ||188bet.com/$popup,third-party
-||188bet.com^$third-party
 ||988bet.com^$third-party
 ||agenasia88.com^$third-party
 ||agensipoker.com^$third-party
@@ -183,6 +183,7 @@
 ||btybet.com^$third-party
 ||bursabet.com^$popup,third-party
 ||bursabet.com^$third-party
+||caradaftarpoker.info^$third-party
 ||carasukses.com^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz^$third-party
@@ -199,14 +200,18 @@
 ||galaxybola.com^$third-party
 ||galaxytoto.com^$third-party
 ||goodlucky99.com^$third-party
+||idomn.com^$third-party
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
 ||indonesia-community.net^
+||inibos.com^$third-party
 ||investasiceria.net^$third-party
 ||jollywallet.com^$third-party
 ||kakakdewa.com^$third-party
 ||kakakdewa.net^$third-party
 ||kamarjudi.com^$third-party
+||kayatogel.com^$third-party
+||klikuntung.com^$third-party
 ||kosmetik-obatkuat.com^$third-party
 ||mabosbet.com^$third-party
 ||marketbola.com^$third-party
@@ -225,6 +230,7 @@
 ||sbo303.com^$third-party
 ||sbobet.com^$popup,third-party
 ||situsjudi.com/$popup,third-party
+||skorbola.co^$third-party
 ||star88bola.com^$third-party
 ||tri7bet.com^$third-party
 ||vimaxtrial.com^$third-party
@@ -398,6 +404,8 @@ totojitu.gif|
 ||bintangmawar.net/forum/med_banner.php
 ||bintangmawar.net/forum/medright_banner.php
 ||bintangmawar.net/forum/top_banner.php
+||bioskop212.net/wp-content/uploads/*.gif
+||bioskopmovie21.com/wp-content/uploads/*.gif
 ||bioskopmovie21.com/wp-content/uploads/2015/*/*.gif
 ||bokepgratiz.info/banner/
 ||bolavegas.com/ads/
@@ -414,6 +422,7 @@ totojitu.gif|
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
 ||fansubsupdate.com/res/img/sampleads/
+||film21terbaru.net/wp-content/uploads/*.gif
 ||filmbagus21.com/images/float-sidebar.png
 ||filmbagus21.com/images/sidebar-300x250.png
 ||filmbagus21.com/vimax.gif
@@ -463,10 +472,12 @@ totojitu.gif|
 ||musisi.com/musifile/images_banner/
 ||my.postsgenius.com/style/banners/
 ||newopenx.detik.com/images/
+||nontonfilm168.files.wordpress.com/wp-content/uploads/*.gif
 ||nontonstreaming.tv/img/closeX.png
 ||nontonstreaming.tv/wp-content/uploads/2015/*/*.gif
 ||tribunnews.com/stylesheets/close.gif
 ||uploadboy.com/bannerset/
+||www.naloindo.net/ticker/960x70.php
 !||pancet.com/kbads/
 ||petikmangga.com/wp-content/uploads/*.gif
 ||placehold.it/300x250

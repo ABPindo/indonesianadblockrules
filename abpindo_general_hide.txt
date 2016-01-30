@@ -1,3 +1,4 @@
+###.bireklam
 ###Box-Banner-ads
 ###adsground
 ###adv-placeholder
@@ -18,7 +19,9 @@
 ##.SectionAds
 ##.ad_primex
 ##.adtext01
+##.adunits.ads
 ##.bgads
+##.bireklam
 ##.block.iklan
 ##.gbcontent
 ##.gpcontent
@@ -35,6 +38,7 @@
 ##img[alt="Agen Bola"]
 ##img[alt="Agen Judi Online"]
 ##img[alt="Agen Poker Terpercaya"]
+##img[alt="Agen Poker"]
 ##img[alt="Judi Online Terpercaya"]
 ##img[alt="Judi Online"]
 ##img[alt="Live Score"]
@@ -43,6 +47,7 @@
 ##img[alt="Pasang Iklan Murah"]
 ##img[alt="Pemasangan Iklan"]
 ##img[alt="Poker Online Terpercaya"]
+##img[alt="Poker Online"]
 ##img[alt="Senibet"]
 ##img[alt="Space Iklan"]
 ##img[alt="Taruhan Bola Online"]

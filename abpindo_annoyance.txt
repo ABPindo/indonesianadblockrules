@@ -1,5 +1,4 @@
 ||188bet.com/$popup,third-party
-||188bet.com^$third-party
 ||988bet.com^$third-party
 ||agenasia88.com^$third-party
 ||agensipoker.com^$third-party
@@ -24,6 +23,7 @@
 ||btybet.com^$third-party
 ||bursabet.com^$popup,third-party
 ||bursabet.com^$third-party
+||caradaftarpoker.info^$third-party
 ||carasukses.com^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz^$third-party
@@ -40,14 +40,18 @@
 ||galaxybola.com^$third-party
 ||galaxytoto.com^$third-party
 ||goodlucky99.com^$third-party
+||idomn.com^$third-party
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
 ||indonesia-community.net^
+||inibos.com^$third-party
 ||investasiceria.net^$third-party
 ||jollywallet.com^$third-party
 ||kakakdewa.com^$third-party
 ||kakakdewa.net^$third-party
 ||kamarjudi.com^$third-party
+||kayatogel.com^$third-party
+||klikuntung.com^$third-party
 ||kosmetik-obatkuat.com^$third-party
 ||mabosbet.com^$third-party
 ||marketbola.com^$third-party
@@ -66,6 +70,7 @@
 ||sbo303.com^$third-party
 ||sbobet.com^$popup,third-party
 ||situsjudi.com/$popup,third-party
+||skorbola.co^$third-party
 ||star88bola.com^$third-party
 ||tri7bet.com^$third-party
 ||vimaxtrial.com^$third-party
