@@ -12,6 +12,7 @@
 ###iklan3
 ###iklan4
 ###iklan_atas
+###iklanarea
 ###iklanatas
 ###iklanpersegi
 ###top_ad_full
@@ -37,6 +38,7 @@
 ##a[href^="http://www.sbbanner.com/"]
 ##img[alt="Agen Bola"]
 ##img[alt="Agen Judi Online"]
+##img[alt="Agen Poker Online"]
 ##img[alt="Agen Poker Terpercaya"]
 ##img[alt="Agen Poker"]
 ##img[alt="Judi Online Terpercaya"]
