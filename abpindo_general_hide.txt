@@ -24,6 +24,7 @@
 ##.bgads
 ##.bireklam
 ##.block.iklan
+##.forads
 ##.gbcontent
 ##.gpcontent
 ~kontan.co.id,~securitylink.biz##.iklan
@@ -33,6 +34,7 @@
 ##.iklanhead
 ##.iklanmini
 ##.pasangiklan
+##.pengiklan
 ##.topadsense
 ##a[href^="http://www.bursabet.net/"]
 ##a[href^="http://www.sbbanner.com/"]

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RWcRaAahl/9omLVLjwLPhQ
+! Checksum: LzoGgqVI5sknIv6tvkODUw
 ! Title: ABPindo
-! Last modified: 21 Februari 2016, 14:15:14 WIB
+! Last modified: 28 Februari 2016, 10:08:23 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -415,6 +415,7 @@ totojitu.gif|
 ##.bgads
 ##.bireklam
 ##.block.iklan
+##.forads
 ##.gbcontent
 ##.gpcontent
 ~kontan.co.id,~securitylink.biz##.iklan
@@ -424,6 +425,7 @@ totojitu.gif|
 ##.iklanhead
 ##.iklanmini
 ##.pasangiklan
+##.pengiklan
 ##.topadsense
 ##a[href^="http://www.bursabet.net/"]
 ##a[href^="http://www.sbbanner.com/"]
@@ -492,8 +494,6 @@ totojitu.gif|
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
-||ganool.com/wp-content/uploads/*.gif
-||ganool.in/down.png
 ||googledrive.com/host/0B-OnGqBU3zuJWVBFZzI5ak01STg
 ||gsshop.co.id^*/background/banner-
 ||harakah.net.my/images/stories/iklan/
@@ -586,7 +586,6 @@ widih.modifikasi.com###MAX_frame2.bannerbottom
 widih.modifikasi.com###MAX_frame3.bannerright
 lihat.co.id###SidebarIklan-wrapper
 chip.co.id###TopBannerBg
-www.ganool.co.in###ad
 jakbos.com###ad_divRight
 krucil.net###ad_floating_bottom
 krucil.net###ad_floating_top
@@ -644,8 +643,7 @@ filmbagus21.com###float-left-sidebar
 filmbagus21.com###float-right-sidebar
 21filmcinema.com###float_bottom_left
 21filmcinema.com###float_bottom_right
-bioskops.com###floating_banner_bot
-173.199.189.86,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,klikseru.com,krucil.net,semprot.com,semprotku.com,vocland.com,www.bioskop55.com,www.bioskopgalaxy21.com,www.juragantomatx.com###floating_banner_bottom
+173.199.189.86,bioskops.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,klikseru.com,krucil.net,semprot.com,semprotku.com,vocland.com,www.bioskop55.com,www.bioskopgalaxy21.com,www.juragantomatx.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
 movie76.com,movie76.net,www.bioskop78.com###floating_banner_bottoms
 bioskop212.net,www.bioskop55.com###floating_banner_left
@@ -736,7 +734,7 @@ clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
 gugling.com##.ad336x280atas
-mangafox.com##.ad728x90.left + .right
+mangafox.me##.ad728x90.left + .right
 indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 loveindonesia.com##.ad_990_80
@@ -812,7 +810,6 @@ tribunnews.com##.content [style="width:160px; height:600px;"]
 lensaindonesia.com##.ctnitem.ctncom
 dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
-catatankomputer.com##.forads
 warungbebas.com##.gbtab
 kompas.com##.hAds
 kosmo.com.my##.iklan-puff
@@ -834,7 +831,6 @@ detik.com##.normalbanner
 detik.com##.otp_banner_close
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 file.rocks##.padding-top.add
-21filmcinema.com##.pengiklan
 lintas.me##.popup
 viva.co.id##.portlet.sideskycrapper
 nekonime.com##.pusat728
@@ -880,7 +876,6 @@ www.bioskop55.com##a[href="http://www.bandardunia188.com/"]
 cinemaindo.com##a[href="http://www.fullbet88.com"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
-ganoolmovie.com##a[href^="http://www.dewiqq.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 nontonfilm88.com##center > table
 cinema81.com##center > table > tbody
