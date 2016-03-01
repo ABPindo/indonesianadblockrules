@@ -64,6 +64,8 @@ bioskop21.us###fadeinbox
 idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
+nontonstreaming.tv###fatas
+nontonstreaming.tv###fbawah
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
 movie76.com###fixedbanner2
@@ -282,6 +284,7 @@ okezone.com##.sponsored-belt468x60
 64.237.43.94,semprot.com,semprotku.com##.sukasekalicrot_floating_banner_bottom
 64.237.43.94,semprot.com,semprotku.com##.sukasekalicrot_floating_banner_top
 film21terbaru.net##.teaser3
+www.tvkabel.net##.textwidget
 unduhfilm21.net##.textwidget > center
 bioskoptigalima.com,icinema3satu.com##.textwidget img
 bioskop21.us##.textwidget img[width="160"][height="600"]
