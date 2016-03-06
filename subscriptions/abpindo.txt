@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /U9gblACnyjHARby4Ah2Ag
+! Checksum: w8WdrW41WXZyUgkCEP5P5A
 ! Title: ABPindo
-! Last modified: 01 Maret 2016, 16:27:27 WIB
+! Last modified: 06 Maret 2016, 18:42:58 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -607,6 +607,7 @@ zonabola.com###aside img[width="300"][height="250"]
 indotelko.com###baca_juga
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
+www.duniaku.net###banner-popup-desktop
 cinema81.com###banner-right
 panduanpercuma.info###banner125
 tribunnews.com###bannerku
@@ -619,7 +620,7 @@ detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 bioskop21.us###box-message
 tribunnews.com###boxright [style="width:300px; height:250px;"]
-21filmcinema.com,adipedia.com,benfile.com,blifnews.com,blogspot.com,bokepgratiz.info,downloadfilmbaru.com,film21terbaru.net,mangaku.web.id,movie76.com,nusareborn.in,semuaberita.com,sukangentot.com###btm_banner
+21filmcinema.com,adipedia.com,benfile.com,blifnews.com,blogspot.com,bokepgratiz.info,downloadfilmbaru.com,film21terbaru.net,mangaku.web.id,movie76.com,nusareborn.in,semuaberita.com,sukangentot.com,wardhanime.net,www.oploverz.net###btm_banner
 cinema81.com###btm_banner_kanan
 cinema81.com###btm_banner_kiri
 64.237.43.94,semprot.com,semprotku.com###cintasemprot_side_left
