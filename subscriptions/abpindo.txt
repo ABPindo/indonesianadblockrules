@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: w8WdrW41WXZyUgkCEP5P5A
+! Checksum: nz9tIMN8FWK+XynUZAIvGg
 ! Title: ABPindo
-! Last modified: 06 Maret 2016, 18:42:58 WIB
+! Last modified: 08 Maret 2016, 19:53:47 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -625,6 +625,7 @@ cinema81.com###btm_banner_kanan
 cinema81.com###btm_banner_kiri
 64.237.43.94,semprot.com,semprotku.com###cintasemprot_side_left
 64.237.43.94,semprot.com,semprotku.com###cintasemprot_side_right
+www.mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 bioskopmovie21.com,movie76.com###close-teaser
 gudang.tv###container-bottom-menu-ads
@@ -827,7 +828,7 @@ kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 www.dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 dapurpacu.com##.mid-banner
-nekonime.com##.minipusat
+nekonime.com,wardhanime.net##.minipusat
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 animeout.com##.mv-adv
@@ -837,7 +838,7 @@ tribunnews.com##.ovh[style="width:468px;height:60px"]
 file.rocks##.padding-top.add
 lintas.me##.popup
 viva.co.id##.portlet.sideskycrapper
-nekonime.com##.pusat728
+nekonime.com,wardhanime.net##.pusat728
 www.otomania.com##.r-ads
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250
