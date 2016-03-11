@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ZnDgjc0ctRm3eP9bMJlHVg
+! Checksum: pF4tmzOsjbZ6dnrJCq+m1w
 ! Title: ABPindo tanpa element hiding
-! Last modified: 08 Maret 2016, 19:53:47 WIB
+! Last modified: 11 Maret 2016, 15:07:42 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -558,11 +558,12 @@ totojitu.gif|
 ||u-on.eu^$third-party
 ||webtrackerplus.com^$third-party
 ! *** abpindo_whitelist.txt ***
-@@.jpg#$domain=minidroid.net
+@@.jpg#$domain=mangacanblog.com|minidroid.net
 @@.png#$domain=animeindo.tv|narutobleachlover.net|oploverz.net|wardhanime.net
 @@/js/tracking.js$domain=lazada.co.id
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
+@@||mangacanblog.com^$elemhide
 @@||minidroid.net^$elemhide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
