@@ -67,6 +67,7 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonstreaming.tv###fatas
+layarkaca21.com###fbanner
 nontonstreaming.tv###fbawah
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
@@ -85,6 +86,7 @@ blogspot.com###floating_banner_top img[width="728"][height="90"]
 www.bioskop78.com###floating_banner_tops
 untukku.com###footer-adcont
 resep.web.id###googlebox
+layarkaca21.com###hbanner
 21filmcinema.com###header_sag
 indosiar.com###headerbanner
 lensaindonesia.com###idcomboard1.com-728x90
@@ -117,15 +119,18 @@ indotelko.com###more_stories
 bioskops.com###navbarborder > center
 cinema81.com###newnew > [align="center"] img[width="465px"]
 viva.co.id###otp_ads
+www.detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
 bioskop21.us###pr-4evr
 bioskop21.us###pr-4evv
 bioskop21.us###pr-7oda
 indosat.com###preloader
+layarkaca21.com###ptbanner
 zonabola.com###rAds
 utusan.com.my###rec_ad4
 movie76.com###related_posts img[alt="ads"]
 komikbaru.com,mangafox.me###right-skyscraper
+susterbokep.com###right_ads_float_phonedevelop
 ceriwis.com###sa_1_1416453792
 gopego.com###showcase1
 gopego.com###showcase2
@@ -261,6 +266,7 @@ file.rocks##.mobi.content-right
 animeout.com##.mv-adv
 detik.com##.normalbanner
 detik.com##.otp_banner_close
+susterbokep.com##.overlay
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 file.rocks##.padding-top.add
 lintas.me##.popup

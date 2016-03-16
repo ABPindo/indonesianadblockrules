@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: e1DXEUesatPlGL/30njrvg
+! Checksum: WldN9OxLsSEOqBZytLAvwA
 ! Title: ABPindo
-! Last modified: 11 Maret 2016, 15:07:42 WIB
+! Last modified: 16 Maret 2016, 15:59:15 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -524,6 +524,7 @@ totojitu.gif|
 ||krucil.net/KD.js
 ||krucil.net/KD_adplib.js
 ||kumpulblogger.com/minibanner/
+||layarkaca21.com/assets/*.gif
 ||lendir.org/banner/
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
@@ -539,6 +540,7 @@ totojitu.gif|
 ||nontonstreaming.tv/img/closeX.png
 ||nontonstreaming.tv/wp-content/uploads/*.gif
 ||nontonstreaming.tv/wp-content/uploads/2015/*/*.gif
+||susterbokep.com/wp-content/uploads/*.gif
 ||tribunnews.com/stylesheets/close.gif
 ||uploadboy.com/bannerset/
 ||www.naloindo.net/ticker/960x70.php
@@ -640,6 +642,7 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonstreaming.tv###fatas
+layarkaca21.com###fbanner
 nontonstreaming.tv###fbawah
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
@@ -658,6 +661,7 @@ blogspot.com###floating_banner_top img[width="728"][height="90"]
 www.bioskop78.com###floating_banner_tops
 untukku.com###footer-adcont
 resep.web.id###googlebox
+layarkaca21.com###hbanner
 21filmcinema.com###header_sag
 indosiar.com###headerbanner
 lensaindonesia.com###idcomboard1.com-728x90
@@ -690,15 +694,18 @@ indotelko.com###more_stories
 bioskops.com###navbarborder > center
 cinema81.com###newnew > [align="center"] img[width="465px"]
 viva.co.id###otp_ads
+www.detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
 bioskop21.us###pr-4evr
 bioskop21.us###pr-4evv
 bioskop21.us###pr-7oda
 indosat.com###preloader
+layarkaca21.com###ptbanner
 zonabola.com###rAds
 utusan.com.my###rec_ad4
 movie76.com###related_posts img[alt="ads"]
 komikbaru.com,mangafox.me###right-skyscraper
+susterbokep.com###right_ads_float_phonedevelop
 ceriwis.com###sa_1_1416453792
 gopego.com###showcase1
 gopego.com###showcase2
@@ -834,6 +841,7 @@ file.rocks##.mobi.content-right
 animeout.com##.mv-adv
 detik.com##.normalbanner
 detik.com##.otp_banner_close
+susterbokep.com##.overlay
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 file.rocks##.padding-top.add
 lintas.me##.popup
@@ -961,12 +969,11 @@ cinema81.com##img[width="680"][height="90"]
 ||u-on.eu^$third-party
 ||webtrackerplus.com^$third-party
 ! *** abpindo_whitelist.txt ***
-@@.jpg#$domain=mangacanblog.com|minidroid.net
+@@.jpg#$domain=minidroid.net
 @@.png#$domain=animeindo.tv|narutobleachlover.net|oploverz.net|wardhanime.net
 @@/js/tracking.js$domain=lazada.co.id
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
-@@||mangacanblog.com^$elemhide
 @@||minidroid.net^$elemhide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide

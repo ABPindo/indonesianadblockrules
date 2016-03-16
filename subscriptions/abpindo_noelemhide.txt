@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: pF4tmzOsjbZ6dnrJCq+m1w
+! Checksum: Vmblwc0BkS0qN9cIZnaS5g
 ! Title: ABPindo tanpa element hiding
-! Last modified: 11 Maret 2016, 15:07:42 WIB
+! Last modified: 16 Maret 2016, 15:59:15 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -459,6 +459,7 @@ totojitu.gif|
 ||krucil.net/KD.js
 ||krucil.net/KD_adplib.js
 ||kumpulblogger.com/minibanner/
+||layarkaca21.com/assets/*.gif
 ||lendir.org/banner/
 ||mediaindonesia.com/public/banner/flash/
 ||megindo.net/megindo2/images/banner-
@@ -474,6 +475,7 @@ totojitu.gif|
 ||nontonstreaming.tv/img/closeX.png
 ||nontonstreaming.tv/wp-content/uploads/*.gif
 ||nontonstreaming.tv/wp-content/uploads/2015/*/*.gif
+||susterbokep.com/wp-content/uploads/*.gif
 ||tribunnews.com/stylesheets/close.gif
 ||uploadboy.com/bannerset/
 ||www.naloindo.net/ticker/960x70.php
@@ -558,12 +560,11 @@ totojitu.gif|
 ||u-on.eu^$third-party
 ||webtrackerplus.com^$third-party
 ! *** abpindo_whitelist.txt ***
-@@.jpg#$domain=mangacanblog.com|minidroid.net
+@@.jpg#$domain=minidroid.net
 @@.png#$domain=animeindo.tv|narutobleachlover.net|oploverz.net|wardhanime.net
 @@/js/tracking.js$domain=lazada.co.id
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
-@@||mangacanblog.com^$elemhide
 @@||minidroid.net^$elemhide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
