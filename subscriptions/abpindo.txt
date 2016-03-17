@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WldN9OxLsSEOqBZytLAvwA
+! Checksum: YjdiUWM81d74CqB2Ud0CLQ
 ! Title: ABPindo
-! Last modified: 16 Maret 2016, 15:59:15 WIB
+! Last modified: 17 Maret 2016, 17:20:42 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -634,6 +634,7 @@ gudang.tv###container-bottom-menu-ads
 gudang.tv###container-bottom-menu-ads2
 www.bioskop78.com###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > center:nth-of-type(2)
 bioskopmovie.tv,bioskopmovie21.com###directorio > .random > center
+film-ganool.com###directorio > center
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 90animax.com###energysaving
 lintas.me###facebox_overlay
@@ -658,7 +659,7 @@ bioskop212.net,www.bioskop55.com###floating_banner_left
 bioskop212.net,www.bioskop55.com###floating_banner_right
 juraganmovie.net,movie76.com,movie76.net,www.bioskopgalaxy21.com,www.juragantomatx.com###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-www.bioskop78.com###floating_banner_tops
+www.bioskop78.com,www.bioskop99.net###floating_banner_tops
 untukku.com###footer-adcont
 resep.web.id###googlebox
 layarkaca21.com###hbanner
@@ -717,8 +718,8 @@ detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
-cinema81.com,cinemaindo.com,unduhfilm21.net###teaser1
-21filmcinema.com,bioskopmovie.tv,cinema81.com,cinemaindo.com,downloadfilmbaru.com,galaxymaya.com,ganool.nl,indomoviemania.com,movie76.net,nontonmovie.web.id,sukangentot.com,unduhfilm.net,unduhfilm21.net,www.bioskopgalaxy21.com###teaser2
+cinema81.com,cinemaindo.com,film-ganool.com,unduhfilm21.net###teaser1
+21filmcinema.com,bioskopmovie.tv,cinema81.com,cinemaindo.com,downloadfilmbaru.com,film-ganool.com,galaxymaya.com,ganool.nl,indomoviemania.com,movie76.net,nontonmovie.web.id,sukangentot.com,unduhfilm.net,unduhfilm21.net,www.bioskopgalaxy21.com###teaser2
 172.245.177.74,cinema81.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,ganool.nl,movie76.com,movie76.net,nontonmovie.web.id,sukangentot.com,unduhfilm21.net,www.bioskop21.info,www.bioskopgalaxy21.com,www.unduhfilm.net###teaser3
 172.245.177.74,cinema81.com,sodasusu.com###teaser4
 movie76.com###teaser5
@@ -925,20 +926,22 @@ cinema81.com##img[width="680"][height="90"]
 ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
 ||blogspot.com/*.gif$domain=bioskoptigalima.com|duniasex.ws
 ||c-stat.eu^$third-party
+||cinemaindo.com/wp-content/uploads/*.gif
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
 ||ewetot.com^$image,object,domain=bintangmawar.net
+||film-ganool.com/wp-content/uploads/*.gif
 ||flexterkita.com^$third-party
 ||gambar123.com^$third-party
 ||go.wsockd.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws
+||i.imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|ganool.uk|movie76.com|sodasusu.com|unduhfilm21.net
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
 ||idolakini.com/$popup,third-party
 ||imgbox.com/*.gif$domain=cinemaindo.web.id
-||imgur.com/*.gif$domain=animekompi.web.id|downloadfilmbaru.com|movie76.com|sodasusu.com|unduhfilm21.net
 ||javapic.com^$third-party
 ||jingkrak.com^$third-party
 ||lapak-online.net/$popup,third-party
@@ -968,6 +971,7 @@ cinema81.com##img[width="680"][height="90"]
 ||twap.eu^$third-party
 ||u-on.eu^$third-party
 ||webtrackerplus.com^$third-party
+||www.bioskop99.net/wp-content/uploads/*.gif
 ! *** abpindo_whitelist.txt ***
 @@.jpg#$domain=minidroid.net
 @@.png#$domain=animeindo.tv|narutobleachlover.net|oploverz.net|wardhanime.net

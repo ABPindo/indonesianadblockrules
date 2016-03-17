@@ -59,6 +59,7 @@ gudang.tv###container-bottom-menu-ads
 gudang.tv###container-bottom-menu-ads2
 www.bioskop78.com###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > center:nth-of-type(2)
 bioskopmovie.tv,bioskopmovie21.com###directorio > .random > center
+film-ganool.com###directorio > center
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 90animax.com###energysaving
 lintas.me###facebox_overlay
@@ -83,7 +84,7 @@ bioskop212.net,www.bioskop55.com###floating_banner_left
 bioskop212.net,www.bioskop55.com###floating_banner_right
 juraganmovie.net,movie76.com,movie76.net,www.bioskopgalaxy21.com,www.juragantomatx.com###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-www.bioskop78.com###floating_banner_tops
+www.bioskop78.com,www.bioskop99.net###floating_banner_tops
 untukku.com###footer-adcont
 resep.web.id###googlebox
 layarkaca21.com###hbanner
@@ -142,8 +143,8 @@ detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
-cinema81.com,cinemaindo.com,unduhfilm21.net###teaser1
-21filmcinema.com,bioskopmovie.tv,cinema81.com,cinemaindo.com,downloadfilmbaru.com,galaxymaya.com,ganool.nl,indomoviemania.com,movie76.net,nontonmovie.web.id,sukangentot.com,unduhfilm.net,unduhfilm21.net,www.bioskopgalaxy21.com###teaser2
+cinema81.com,cinemaindo.com,film-ganool.com,unduhfilm21.net###teaser1
+21filmcinema.com,bioskopmovie.tv,cinema81.com,cinemaindo.com,downloadfilmbaru.com,film-ganool.com,galaxymaya.com,ganool.nl,indomoviemania.com,movie76.net,nontonmovie.web.id,sukangentot.com,unduhfilm.net,unduhfilm21.net,www.bioskopgalaxy21.com###teaser2
 172.245.177.74,cinema81.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,ganool.nl,movie76.com,movie76.net,nontonmovie.web.id,sukangentot.com,unduhfilm21.net,www.bioskop21.info,www.bioskopgalaxy21.com,www.unduhfilm.net###teaser3
 172.245.177.74,cinema81.com,sodasusu.com###teaser4
 movie76.com###teaser5
