@@ -19,6 +19,7 @@
 ###tupiklan
 ##.SectionAds
 ##.ad_primex
+##.adspace_300
 ##.adtext01
 ##.adunits.ads
 ##.bgads
@@ -33,8 +34,10 @@
 ##.iklan_semprot_h
 ##.iklanhead
 ##.iklanmini
+##.minipusat
 ##.pasangiklan
 ##.pengiklan
+##.pusat728
 ##.topadsense
 ##a[href^="http://www.bursabet.net/"]
 ##a[href^="http://www.sbbanner.com/"]
