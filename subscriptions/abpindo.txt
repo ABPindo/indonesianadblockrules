@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bvIoNLu5mV/IwGZgCN0FTQ
+! Checksum: oxqwe5aqdoUUzdxDGn+TeQ
 ! Title: ABPindo
-! Last modified: 20 Maret 2016, 08:49:21 WIB
+! Last modified: 20 Maret 2016, 14:50:43 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -892,7 +892,7 @@ www.bioskop78.com##td:nth-of-type(3)
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||film-ganool.com/wp-content/uploads/*.gif
 ||flexterkita.com^$third-party
-||gambar123.com^$third-party
+||gambar123.com/pic/*.gif^$third-party
 ||go.wsockd.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws
 ||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|downloadfilmbaru.com|ganool.uk|movie76.com|sodasusu.com|unduhfilm21.net
