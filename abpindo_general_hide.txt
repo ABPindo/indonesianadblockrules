@@ -1,7 +1,7 @@
-###.bireklam
 ###Box-Banner-ads
 ###adsground
 ###adv-placeholder
+###bireklam
 ###bottom_exclusive_ads
 ###desaiklan
 ###floatingad
@@ -38,14 +38,17 @@
 ##.pasangiklan
 ##.pengiklan
 ##.pusat728
+##.simple_advert
 ##.topadsense
 ##a[href^="http://www.bursabet.net/"]
 ##a[href^="http://www.sbbanner.com/"]
+##img[alt="Advertisement"]
 ##img[alt="Agen Bola"]
 ##img[alt="Agen Judi Online"]
 ##img[alt="Agen Poker Online"]
 ##img[alt="Agen Poker Terpercaya"]
 ##img[alt="Agen Poker"]
+##img[alt="Iklan"]
 ##img[alt="Judi Online Terpercaya"]
 ##img[alt="Judi Online"]
 ##img[alt="Live Score"]

@@ -6,7 +6,6 @@
 ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
 ||blogspot.com/*.gif$domain=bioskoptigalima.com|duniasex.ws
 ||c-stat.eu^$third-party
-||cinemaindo.com/wp-content/uploads/*.gif
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
@@ -51,4 +50,3 @@
 ||twap.eu^$third-party
 ||u-on.eu^$third-party
 ||webtrackerplus.com^$third-party
-||www.bioskop99.net/wp-content/uploads/*.gif
