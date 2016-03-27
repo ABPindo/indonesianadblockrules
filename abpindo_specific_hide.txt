@@ -16,8 +16,8 @@ widih.modifikasi.com###MAX_frame3.bannerright
 lihat.co.id###SidebarIklan-wrapper
 chip.co.id###TopBannerBg
 jakbos.com###ad_divRight
-krucil.net###ad_floating_bottom
-krucil.net###ad_floating_top
+173.199.167.192,krucil.com,krucil.net###ad_floating_bottom
+173.199.167.192,krucil.com,krucil.net###ad_floating_top
 173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,idfl.us,indofiles.web.id,krucil.net,sodasusu.com,vocland.com###ad_global_below_navbar
 detik.com###adpoint5
 cinemaindo.web.id###ads
@@ -172,6 +172,7 @@ indotelko.com###vertical_top_kanal
 bioskop55.com###wrap > .border > .content > .textwidget
 www.bioskop55.club,www.bioskop55.com###wrap > .headborder > .headcontent > .textwidget
 juraganmovie.net,movie76.net,www.bioskop78.com,www.bioskopgalaxy21.com,www.juragantomatx.com###wrap > center
+64.237.43.94,semprot.com,semprotku.com###yayal_nav
 comotin.com##.Widget:nth-of-type(2)
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
@@ -257,14 +258,16 @@ dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
 warungbebas.com##.gbtab
 kompas.com##.hAds
+64.237.43.94,semprot.com,semprotku.com##.haphapsemprot_floating_banner_bottom
+64.237.43.94,semprot.com,semprotku.com##.haphapsemprot_floating_banner_top
 bioskop21.co##.hilang2
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
-krucil.net##.krucil_ads
-krucil.net##.krucil_floating_banner_top
+173.199.167.192,krucil.com,krucil.net##.krucil_ads
+173.199.167.192,krucil.com,krucil.net##.krucil_floating_banner_top
 kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 bioskop21.id##.lenyap
