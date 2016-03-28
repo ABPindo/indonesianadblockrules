@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: vesVZ9WaT9Sxh4FwPHQc1A
+! Checksum: +Xqp1klVuY7hzkxR/pTvHg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 27 Maret 2016, 14:30:00 WIB
+! Last modified: 29 Maret 2016, 04:55:42 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -466,6 +466,7 @@ totojitu.gif|
 ||film-ganool.com/wp-content/uploads/*.gif
 ||flexterkita.com^$third-party
 ||gambar123.com/whooo/*.gif$third-party
+||gambar123.com/whopz/*.gif$third-party
 ||go.wsockd.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws
 ||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|downloadfilmbaru.com|ganool.uk|movie76.com|sodasusu.com|unduhfilm21.net

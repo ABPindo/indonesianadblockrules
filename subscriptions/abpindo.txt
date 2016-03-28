@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: uwQJVp2OirpSBt8in5et3Q
+! Checksum: TzmFeBwQVKa+EG0aFVTaXA
 ! Title: ABPindo
-! Last modified: 27 Maret 2016, 14:30:00 WIB
+! Last modified: 29 Maret 2016, 04:55:42 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -814,6 +814,8 @@ bioskop-21.com##.reklam-300x250
 unixmen.com##.reveal-modal-bg
 64.237.43.94,semprot.com,semprotku.com##.semprot_ads
 64.237.43.94,semprot.com,semprotku.com##.semprot_floating_banner_top
+64.237.43.94,semprot.com,semprotku.com##.semprothore_floating_banner_bottom
+64.237.43.94,semprot.com,semprotku.com##.semprothore_floating_banner_top
 republika.co.id##.set-ads-468
 cinemaindo.com##.side:nth-of-type(7)
 cinemaindo.com##.side:nth-of-type(8)
@@ -900,6 +902,7 @@ www.bioskop78.com##td:nth-of-type(3)
 ||film-ganool.com/wp-content/uploads/*.gif
 ||flexterkita.com^$third-party
 ||gambar123.com/whooo/*.gif$third-party
+||gambar123.com/whopz/*.gif$third-party
 ||go.wsockd.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws
 ||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|downloadfilmbaru.com|ganool.uk|movie76.com|sodasusu.com|unduhfilm21.net
