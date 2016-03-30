@@ -201,7 +201,6 @@ teknoup.com##.advertisement_box2
 webpcmag.com#@#.afs_ads
 warungremang.com##.aligncenter
 palingseru.com##.alignnone.size-large.wp-image-458
-64.237.43.94,semprot.com,semprotku.com##.axxxd_semprot_sejati_global_header
 nontonstreaming.tv##.ban_empat
 nontonstreaming.tv##.banner
 www.dream.co.id##.banner-sc2
@@ -236,15 +235,11 @@ kompas.com##.boxBanner1
 kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
-64.237.43.94,semprot.com,semprotku.com##.breadcrumb + div[style="margin:0;padding:0;text-align:center;width:100%"]
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
-64.237.43.94,semprot.com,semprotku.com##.cintasemprot_f
 64.237.43.94,semprot.com,semprotku.com##.cintasemprot_floating_banner_bottom
 64.237.43.94,semprot.com,semprotku.com##.cintasemprot_floating_banner_top
-64.237.43.94,semprot.com,semprotku.com##.cintasemprot_flr
-64.237.43.94,semprot.com,semprotku.com##.cintasemprot_h
 sindonews.com##.clear.size-wide-custom.dummy
 tempo.co##.closebanner1
 tempo.co##.closebanner2
@@ -293,6 +288,8 @@ unixmen.com##.reveal-modal-bg
 64.237.43.94,semprot.com,semprotku.com##.semprot_floating_banner_top
 64.237.43.94,semprot.com,semprotku.com##.semprothore_floating_banner_bottom
 64.237.43.94,semprot.com,semprotku.com##.semprothore_floating_banner_top
+64.237.43.94,semprot.com,semprotku.com##.semprotyuk0002_floating_banner_bottom
+64.237.43.94,semprot.com,semprotku.com##.semprotyuk0002_floating_banner_top
 republika.co.id##.set-ads-468
 cinemaindo.com##.side:nth-of-type(7)
 cinemaindo.com##.side:nth-of-type(8)
@@ -342,6 +339,7 @@ cinema81.com##center > table > tbody
 21sinema.com##center img[width="468"][height="60"]
 klikseru.com##center img[width="728"][height="70"]
 situshp.com##div[style="height:260px;"]
+64.237.43.94,semprot.com,semprotku.com##div[style="margin:0;padding:0;text-align:center;color:#000;width:100%"]
 forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
 forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
