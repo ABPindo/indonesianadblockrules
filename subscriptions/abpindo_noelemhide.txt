@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: dXa3vQXl3qowtE6gpYMf3Q
+! Checksum: zYyqQkqXhpaYBczlOYaXjg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 30 Maret 2016, 20:18:12 WIB
+! Last modified: 01 April 2016, 06:55:02 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -448,6 +448,7 @@ totojitu.gif|
 ||xip.ir/js/fp.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
+||zonabola.com/floating_banner.js
 ||zonabola.com/wp-content/uploads/*/Banner-
 ||zonabola.com^*/iklan/
 ||zonafilem.com^*/space-iklan-
@@ -458,7 +459,7 @@ totojitu.gif|
 ||apmmedia.net^$third-party
 ||bekas.com^$third-party
 ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
-||blogspot.com/*.gif$domain=bioskop78.com|bioskoptigalima.com|duniasex.ws|nonton.mobi
+||blogspot.com/*.gif$domain=bioskop78.com|bioskoptigalima.com|duniasex.ws|nonton.mobi|zonabola.com
 ||c-stat.eu^$third-party
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||easy-hit-counter.com^$third-party
