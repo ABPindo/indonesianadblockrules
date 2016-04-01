@@ -4,7 +4,7 @@
 ||apmmedia.net^$third-party
 ||bekas.com^$third-party
 ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
-||blogspot.com/*.gif$domain=bioskop78.com|bioskoptigalima.com|duniasex.ws|nonton.mobi|zonabola.com
+||blogspot.com/*.gif$domain=bioskop78.com|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton.mobi|zonabola.com
 ||c-stat.eu^$third-party
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||easy-hit-counter.com^$third-party
@@ -16,7 +16,7 @@
 ||gambar123.com/*.gif$third-party
 ||go.wsockd.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws
-||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|downloadfilmbaru.com|ganool.uk|movie76.com|sodasusu.com|unduhfilm21.net
+||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|cinemaindo.web.id|downloadfilmbaru.com|ganool.uk|movie76.com|sodasusu.com|unduhfilm21.net
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
 ||idolakini.com/$popup,third-party

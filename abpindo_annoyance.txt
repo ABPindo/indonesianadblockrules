@@ -22,6 +22,8 @@
 ||caradaftarpoker.info^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz^$third-party
+||clickadu.com^$third-party
+||daftarbandarpoker.com^$popup,third-party
 ||dorabet.net^$third-party
 ||doremibet.com^$third-party
 ||duitbux.com^$third-party
@@ -33,6 +35,7 @@
 ||galaxybola.com^$third-party
 ||galaxytoto.com^$third-party
 ||goodlucky99.com^$third-party
+||icebola88.com^$popup,third-party
 ||idomn.com^$third-party
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
@@ -46,6 +49,7 @@
 ||kayatogel.com^$third-party
 ||klikuntung.com^$third-party
 ||kosmetik-obatkuat.com^$third-party
+||linksbobet2016.com^$third-party
 ||mabosbet.com^$third-party
 ||master138.net^$popup,third-party
 ||onclinic24.com^$third-party

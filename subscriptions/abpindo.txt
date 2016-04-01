@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TWr1XEoH1mUnMXHJNfhYxw
+! Checksum: E3IekJwFQcMjAHR8BEW/ag
 ! Title: ABPindo
-! Last modified: 01 April 2016, 06:55:02 WIB
+! Last modified: 01 April 2016, 08:34:32 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -24,11 +24,14 @@
 ||adsensemu.com^$third-party
 ||adsglow.net^$third-party
 ||adskom.com^$third-party
+||adsoptimal.com^$third-party
+||adstars.co.id^$third-party
 ||ajangiklangratis.com^$third-party
 ||anekaiklan.com^$third-party
 ||baliadv.com^$third-party
 ||bmnet-ads.com^$third-party
 ||clickmedia.co.id^$third-party
+||eclkmpbn.com^$third-party
 ||forumiklan.com^$third-party
 ||gratisiklanpasang.com^$third-party
 ||groupiklan.com^$third-party
@@ -110,6 +113,7 @@
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
+||yx-ads6.com^$third-party
 ! *** abpindo_annoyance.txt ***
 ||188bet.com/$popup,third-party
 ||988bet.com^$third-party
@@ -135,6 +139,8 @@
 ||caradaftarpoker.info^$third-party
 ||cash-harvest.com^$third-party
 ||cashburners.biz^$third-party
+||clickadu.com^$third-party
+||daftarbandarpoker.com^$popup,third-party
 ||dorabet.net^$third-party
 ||doremibet.com^$third-party
 ||duitbux.com^$third-party
@@ -146,6 +152,7 @@
 ||galaxybola.com^$third-party
 ||galaxytoto.com^$third-party
 ||goodlucky99.com^$third-party
+||icebola88.com^$popup,third-party
 ||idomn.com^$third-party
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
@@ -159,6 +166,7 @@
 ||kayatogel.com^$third-party
 ||klikuntung.com^$third-party
 ||kosmetik-obatkuat.com^$third-party
+||linksbobet2016.com^$third-party
 ||mabosbet.com^$third-party
 ||master138.net^$popup,third-party
 ||onclinic24.com^$third-party
@@ -309,12 +317,15 @@
 .tv/iklan/
 /ads/iklan.
 /ads_daybanner_display.php?
+/adsterra.js|
+/adtrace2.js|
 /adv/iklan.
 /bb17-iklan.
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
 /obat-kuat-sex.gif|
+/revenuehits.js|
 /sbcagent.gif|
 /SkinADkanan.
 /SkinADkiri.
@@ -414,6 +425,7 @@ totojitu.gif|
 ||bintangmawar.net/forum/med_banner.php
 ||bintangmawar.net/forum/medright_banner.php
 ||bintangmawar.net/forum/top_banner.php
+||bioskop21.info/bokep.gif
 ||bioskop212.net/wp-content/uploads/*.gif
 ||bioskop55.club/wp-content/uploads/*.gif
 ||bioskop99.net/wp-content/uploads/*.gif
@@ -599,7 +611,7 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonstreaming.tv###fatas
-layarkaca21.com###fbanner
+cinemaindo.web.id,layarkaca21.com###fbanner
 nontonstreaming.tv###fbawah
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
@@ -798,6 +810,7 @@ bioskop21.co##.mgid
 dapurpacu.com##.mid-banner
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
+cinemaindo.web.id##.modal
 animeout.com##.mv-adv
 detik.com##.normalbanner
 detik.com##.otp_banner_close
@@ -894,7 +907,7 @@ www.bioskop78.com##td:nth-of-type(3)
 ||apmmedia.net^$third-party
 ||bekas.com^$third-party
 ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
-||blogspot.com/*.gif$domain=bioskop78.com|bioskoptigalima.com|duniasex.ws|nonton.mobi|zonabola.com
+||blogspot.com/*.gif$domain=bioskop78.com|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton.mobi|zonabola.com
 ||c-stat.eu^$third-party
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||easy-hit-counter.com^$third-party
@@ -906,7 +919,7 @@ www.bioskop78.com##td:nth-of-type(3)
 ||gambar123.com/*.gif$third-party
 ||go.wsockd.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws
-||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|downloadfilmbaru.com|ganool.uk|movie76.com|sodasusu.com|unduhfilm21.net
+||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|cinemaindo.web.id|downloadfilmbaru.com|ganool.uk|movie76.com|sodasusu.com|unduhfilm21.net
 ||idblognetwork.com/images/banner468x60/$third-party
 ||idblognetwork.com/images/banner728x90/$third-party
 ||idolakini.com/$popup,third-party

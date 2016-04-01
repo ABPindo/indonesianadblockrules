@@ -73,7 +73,7 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonstreaming.tv###fatas
-layarkaca21.com###fbanner
+cinemaindo.web.id,layarkaca21.com###fbanner
 nontonstreaming.tv###fbawah
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
@@ -272,6 +272,7 @@ bioskop21.co##.mgid
 dapurpacu.com##.mid-banner
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
+cinemaindo.web.id##.modal
 animeout.com##.mv-adv
 detik.com##.normalbanner
 detik.com##.otp_banner_close
