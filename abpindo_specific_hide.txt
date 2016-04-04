@@ -24,6 +24,7 @@ harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 dapurpacu.com###ads-vert-300
+www.remo-xp.com###ads1
 bioskop-21.com###ads_games_parent7135
 www.tvkabel.net###adv
 unixmen.com###an-Modal
@@ -66,7 +67,9 @@ nontonstreaming.tv###fbawah
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
 movie76.com###fixedbanner2
+www.remo-xp.com###float-left
 filmbagus21.com###float-left-sidebar
+www.remo-xp.com###float-right
 filmbagus21.com###float-right-sidebar
 173.199.189.86,bioskops.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,klikseru.com,krucil.net,vocland.com,www.bioskop55.club,www.bioskop55.com,www.bioskopgalaxy21.com,www.juragantomatx.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
@@ -158,6 +161,7 @@ indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 loveindonesia.com##.ad_990_80
 bharian.com.my##.adbtm
+file.rocks##.add
 dapurpacu.com,kompas.com##.ads
 trendtek.republika.co.id##.ads-160
 republika.co.id##.ads-160-600
@@ -219,6 +223,7 @@ tempo.co##.closebanner2
 kaskus.co.id##.col-sm-12.banner-frame.rb-1
 kaskus.co.id##.col-sm-12.banner-frame.rb-2
 kaskus.co.id##.col-sm-12.banner-frame.rb-3
+ganool.ag##.col-xs-12.col-md-6.col-lg-6
 tribunnews.com##.content [style="width:160px; height:600px;"]
 www.bioskop21.info##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
@@ -280,6 +285,7 @@ otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
 galaxymaya.com##.widget-content
 movie76.com##.widget-content img[alt="ads"]
+64.237.43.94,semprot.com,semprotku.com##.xzoizoiop_semprot_sejati_global_header
 filmbagus21.com##.yarpp-related:nth-of-type(1)
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
@@ -288,6 +294,7 @@ cinemaindo.com##a[href="http://Hoyacash.net"]
 www.bioskop55.com##a[href="http://www.bandardunia188.com/"]
 cinemaindo.com##a[href="http://www.fullbet88.com"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
+ganool.ag##a[href^="http://keymeta.work/"]
 m.inilah.com##a[href^="http://mkhoj.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 nontonfilm88.com##center > table
