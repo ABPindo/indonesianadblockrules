@@ -5,6 +5,7 @@
 ||adbestgame.com^$third-party
 ||adbusinessfree.com^$third-party
 ||addesigner.com^$third-party
+||admarketplace.net^$popup,third-party
 ||adplus.co.id^$third-party
 ||adreviewcamp.com^$third-party
 ||adsbingo.com^$third-party
@@ -15,6 +16,7 @@
 ||adsoptimal.com^$third-party
 ||adstars.co.id^$third-party
 ||ajangiklangratis.com^$third-party
+||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
 ||baliadv.com^$third-party
 ||bmnet-ads.com^$third-party
@@ -70,6 +72,8 @@
 ||lokeriklan.com^$third-party
 ||masteriklan.net^$third-party
 ||mauiklangratis.com^$third-party
+||mediab.uy^$popup,third-party
+||offerjuice.me^$popup,third-party
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
 ||paidforfree.com^$third-party

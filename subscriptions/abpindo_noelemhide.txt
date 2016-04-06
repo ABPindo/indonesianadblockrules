@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 1+/Oa/UIWiZSX9gBv2/gxw
+! Checksum: aMiBwhw9GKd9qanZdwClCw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 06 April 2016, 16:26:44 WIB
+! Last modified: 06 April 2016, 21:51:52 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -17,6 +17,7 @@
 ||adbestgame.com^$third-party
 ||adbusinessfree.com^$third-party
 ||addesigner.com^$third-party
+||admarketplace.net^$popup,third-party
 ||adplus.co.id^$third-party
 ||adreviewcamp.com^$third-party
 ||adsbingo.com^$third-party
@@ -27,6 +28,7 @@
 ||adsoptimal.com^$third-party
 ||adstars.co.id^$third-party
 ||ajangiklangratis.com^$third-party
+||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
 ||baliadv.com^$third-party
 ||bmnet-ads.com^$third-party
@@ -82,6 +84,8 @@
 ||lokeriklan.com^$third-party
 ||masteriklan.net^$third-party
 ||mauiklangratis.com^$third-party
+||mediab.uy^$popup,third-party
+||offerjuice.me^$popup,third-party
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
 ||paidforfree.com^$third-party
@@ -126,6 +130,7 @@
 ||bejopoker.com^$third-party
 ||belajar-bisnis.com^$third-party
 ||bet365.com^
+||bet365.es^
 ||betwin188.com^$third-party
 ||bigextracash.com^$third-party
 ||bincangbisnis.com^$third-party
@@ -153,6 +158,8 @@
 ||galaxybola.com^$third-party
 ||galaxytoto.com^$third-party
 ||goodlucky99.com^$third-party
+||guardwork.info^$popup,third-party
+||guardwork.info^$third-party
 ||icebola88.com^$popup,third-party
 ||idomn.com^$third-party
 ||incrasebux.com^$third-party
@@ -468,8 +475,8 @@ totojitu.gif|
 ||zonabola.com^*/iklan/
 ||zonafilem.com^*/space-iklan-
 ! *** abpindo_thirdparty.txt ***
-|https://d2b560qq58menv.cloudfront.net/?mqqbd=600712$domain=ganool.ag
-|https://d4bsxdtgtmhxt.cloudfront.net/_cnBYMFZNBDFUa0RAaAdnQA%3D%3D$domain=ganool.ag
+|https://d2b560qq58menv.cloudfront.net^$domain=ganool.ag
+|https://d4bsxdtgtmhxt.cloudfront.net^$domain=ganool.ag
 ||108.168.231.179^$popup,third-party
 ||173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
 ||alamatemail.com^$third-party
