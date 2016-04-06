@@ -3,6 +3,8 @@
 @@/js/tracking.js$domain=lazada.co.id
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
+@@||gambar123.com/*.png$domain=64.237.43.94|semprot.com|semprotku.com
+@@||gambar456.com/*.png$domain=64.237.43.94|semprot.com|semprotku.com
 @@||minidroid.net^$elemhide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide

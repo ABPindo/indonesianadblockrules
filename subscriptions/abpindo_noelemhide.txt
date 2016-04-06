@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: uToj8YnnzoN5gZQ9LbC96g
+! Checksum: 1+/Oa/UIWiZSX9gBv2/gxw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 05 April 2016, 12:54:32 WIB
+! Last modified: 06 April 2016, 16:26:44 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -368,7 +368,6 @@ totojitu.gif|
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
 ||cinemaindo.com/wp-content/uploads/*.gif
-||cloudfront.net^$domain=ganool.ag
 ||comotin.com/wp-content/uploads/*.gif
 ||detik.com/images/banners/
 ||dewa.tv/banner/
@@ -469,6 +468,8 @@ totojitu.gif|
 ||zonabola.com^*/iklan/
 ||zonafilem.com^*/space-iklan-
 ! *** abpindo_thirdparty.txt ***
+|https://d2b560qq58menv.cloudfront.net/?mqqbd=600712$domain=ganool.ag
+|https://d4bsxdtgtmhxt.cloudfront.net/_cnBYMFZNBDFUa0RAaAdnQA%3D%3D$domain=ganool.ag
 ||108.168.231.179^$popup,third-party
 ||173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
 ||alamatemail.com^$third-party
@@ -477,6 +478,7 @@ totojitu.gif|
 ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
 ||blogspot.com/*.gif$domain=bioskop78.com|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton.mobi|zonabola.com
 ||c-stat.eu^$third-party
+||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
@@ -484,6 +486,7 @@ totojitu.gif|
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||film-ganool.com/wp-content/uploads/*.gif
 ||flexterkita.com^$third-party
+||gambar123.com^$image
 ||gambar456.com^$image
 ||go.wsockd.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws
@@ -528,6 +531,8 @@ totojitu.gif|
 @@/js/tracking.js$domain=lazada.co.id
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
+@@||gambar123.com/*.png$domain=64.237.43.94|semprot.com|semprotku.com
+@@||gambar456.com/*.png$domain=64.237.43.94|semprot.com|semprotku.com
 @@||minidroid.net^$elemhide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide

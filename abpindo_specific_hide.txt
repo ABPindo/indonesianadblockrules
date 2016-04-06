@@ -180,7 +180,6 @@ teknoup.com##.advertisement_box2
 webpcmag.com#@#.afs_ads
 warungremang.com##.aligncenter
 palingseru.com##.alignnone.size-large.wp-image-458
-64.237.43.94,semprot.com,semprotku.com##.axyxd_semprot_sejati_global_header
 nontonstreaming.tv##.ban_empat
 nontonstreaming.tv##.banner
 www.dream.co.id##.banner-sc2
@@ -285,8 +284,8 @@ otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
 galaxymaya.com##.widget-content
 movie76.com##.widget-content img[alt="ads"]
-64.237.43.94,semprot.com,semprotku.com##.xzoizoiop_semprot_sejati_global_header
 filmbagus21.com##.yarpp-related:nth-of-type(1)
+64.237.43.94,semprot.com,semprotku.com##[class$="semprot_sejati_global_header"]
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 www.bioskop78.com##a:nth-of-type(2)

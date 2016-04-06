@@ -1,3 +1,5 @@
+|https://d2b560qq58menv.cloudfront.net/?mqqbd=600712$domain=ganool.ag
+|https://d4bsxdtgtmhxt.cloudfront.net/_cnBYMFZNBDFUa0RAaAdnQA%3D%3D$domain=ganool.ag
 ||108.168.231.179^$popup,third-party
 ||173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
 ||alamatemail.com^$third-party
@@ -6,6 +8,7 @@
 ||blogspot.com/$popup,domain=bioskop21.us|bokepgratiz.info
 ||blogspot.com/*.gif$domain=bioskop78.com|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton.mobi|zonabola.com
 ||c-stat.eu^$third-party
+||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
@@ -13,6 +16,7 @@
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||film-ganool.com/wp-content/uploads/*.gif
 ||flexterkita.com^$third-party
+||gambar123.com^$image
 ||gambar456.com^$image
 ||go.wsockd.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws
