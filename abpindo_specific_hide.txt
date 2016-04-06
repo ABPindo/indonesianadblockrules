@@ -115,7 +115,6 @@ indosat.com###preloader
 layarkaca21.com###ptbanner
 zonabola.com###rAds
 utusan.com.my###rec_ad4
-movie76.com###related_posts img[alt="ads"]
 komikbaru.com,mangafox.me###right-skyscraper
 susterbokep.com###right_ads_float_phonedevelop
 gopego.com###showcase1
@@ -156,7 +155,6 @@ clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
 gugling.com##.ad336x280atas
-mangafox.me##.ad728x90.left + .right
 indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 loveindonesia.com##.ad_990_80
@@ -304,7 +302,6 @@ forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 jakbos.com##img:nth-of-type(2)
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
-blogspot.com##img[alt="ads"]
 lihat.co.id##img[style="border:0;display:block;"]
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height:125x;width:125px;"]

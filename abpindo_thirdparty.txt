@@ -33,6 +33,7 @@
 ||lytogame.com/partner/$third-party
 ||magic-data.biz^$third-party
 ||manasuka.com/gbr_banner_link/$third-party
+||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||modifikasi.com/images/banner/$third-party
 ||mybannermaker.com^$third-party
@@ -47,6 +48,7 @@
 ||realwap.net^$third-party
 ||sanglah.com^$third-party
 ||sebar.idblognetwork.com^$third-party
+||semuaberita.com/banner/
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskopkita.com|ganoolmovie.com|icinema3satu.com|nonton.mobi
 ||topsurfer.com^$third-party
 ||trackingclick.net^$popup,third-party

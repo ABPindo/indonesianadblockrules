@@ -19,6 +19,7 @@
 ###top_ad_full
 ###tupiklan
 ##.SectionAds
+##.ad728x90
 ##.ad_primex
 ##.adspace_300
 ##.adtext01
@@ -62,6 +63,7 @@
 ##img[alt="Senibet"]
 ##img[alt="Space Iklan"]
 ##img[alt="Taruhan Bola Online"]
+##img[alt="ads"]
 ##img[alt="agen bola"]
 ##img[alt="iklan"]
 ##img[alt="poker online"]

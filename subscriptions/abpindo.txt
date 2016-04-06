@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dl/K2KsM04R0UJPS9FQPEw
+! Checksum: h8v3YhgKt65+98pmnQledA
 ! Title: ABPindo
-! Last modified: 06 April 2016, 21:51:52 WIB
+! Last modified: 06 April 2016, 22:29:47 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -84,7 +84,6 @@
 ||lokeriklan.com^$third-party
 ||masteriklan.net^$third-party
 ||mauiklangratis.com^$third-party
-||mediab.uy^$popup,third-party
 ||offerjuice.me^$popup,third-party
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
@@ -100,7 +99,6 @@
 ||pusatiklan.com^$third-party
 ||referral-secrets.com^$third-party
 ||sbbanner.com^$third-party
-||semuaberita.com/banner/
 ||sentrapromosi.com^$third-party
 ||serbapromo.com^$third-party
 ||sitti.co.id^$third-party
@@ -371,6 +369,7 @@ totojitu.gif|
 ###top_ad_full
 ###tupiklan
 ##.SectionAds
+##.ad728x90
 ##.ad_primex
 ##.adspace_300
 ##.adtext01
@@ -414,6 +413,7 @@ totojitu.gif|
 ##img[alt="Senibet"]
 ##img[alt="Space Iklan"]
 ##img[alt="Taruhan Bola Online"]
+##img[alt="ads"]
 ##img[alt="agen bola"]
 ##img[alt="iklan"]
 ##img[alt="poker online"]
@@ -665,7 +665,6 @@ indosat.com###preloader
 layarkaca21.com###ptbanner
 zonabola.com###rAds
 utusan.com.my###rec_ad4
-movie76.com###related_posts img[alt="ads"]
 komikbaru.com,mangafox.me###right-skyscraper
 susterbokep.com###right_ads_float_phonedevelop
 gopego.com###showcase1
@@ -706,7 +705,6 @@ clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
 gugling.com##.ad336x280atas
-mangafox.me##.ad728x90.left + .right
 indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 loveindonesia.com##.ad_990_80
@@ -854,7 +852,6 @@ forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 jakbos.com##img:nth-of-type(2)
 widih.modifikasi.com##img[alt="Pasang iklan di widih.com"]
-blogspot.com##img[alt="ads"]
 lihat.co.id##img[style="border:0;display:block;"]
 icinema3satu.com##img[style="height: 125px; width: 125px;"]
 icinema3satu.com##img[style="height:125x;width:125px;"]
@@ -899,6 +896,7 @@ www.bioskop78.com##td:nth-of-type(3)
 ||lytogame.com/partner/$third-party
 ||magic-data.biz^$third-party
 ||manasuka.com/gbr_banner_link/$third-party
+||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||modifikasi.com/images/banner/$third-party
 ||mybannermaker.com^$third-party
@@ -913,6 +911,7 @@ www.bioskop78.com##td:nth-of-type(3)
 ||realwap.net^$third-party
 ||sanglah.com^$third-party
 ||sebar.idblognetwork.com^$third-party
+||semuaberita.com/banner/
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskopkita.com|ganoolmovie.com|icinema3satu.com|nonton.mobi
 ||topsurfer.com^$third-party
 ||trackingclick.net^$popup,third-party
