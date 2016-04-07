@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Cwue64TOJHCxGvrevBvN+Q
+! Checksum: UPZvuvpIkUIcEG5qws17dQ
 ! Title: ABPindo
-! Last modified: 07 April 2016, 08:11:09 WIB
+! Last modified: 07 April 2016, 17:12:13 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -82,6 +82,7 @@
 ||klikabadi.net^$third-party
 ||klikajadeh.com^$third-party
 ||lokeriklan.com^$third-party
+||maist.jp^$third-party
 ||masteriklan.net^$third-party
 ||mauiklangratis.com^$third-party
 ||offerjuice.me^$popup,third-party
@@ -859,7 +860,6 @@ icinema3satu.com##img[style="height:125x;width:125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 unduhfilm21.net##img[style="width: 728px; height: 60px;"]
 lihat.co.id##img[width="300"][height="250"]
-ceriwis.com##img[width="728"][height="90"]
 www.bioskop78.com##td:nth-of-type(3)
 ! *** abpindo_thirdparty.txt ***
 |https://d2b560qq58menv.cloudfront.net^$domain=ganool.ag
