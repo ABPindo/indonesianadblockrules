@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: QB1RncOLCNPvJ+A3cuHC4Q
+! Checksum: evJwpq0ibKW1qwGgCXm8ng
 ! Title: ABPindo tanpa element hiding
-! Last modified: 07 April 2016, 17:12:13 WIB
+! Last modified: 08 April 2016, 06:00:53 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -493,8 +493,8 @@ totojitu.gif|
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||film-ganool.com/wp-content/uploads/*.gif
 ||flexterkita.com^$third-party
-||gambar123.com^$image
-||gambar456.com^$image
+||gambar123.com^$image,third-party
+||gambar456.com^$image,third-party
 ||go.wsockd.com^$third-party
 ||googleusercontent.com/*.gif$domain=duniasex.ws
 ||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|cinemaindo.web.id|downloadfilmbaru.com|ganool.uk|movie76.com|sodasusu.com|unduhfilm21.net
@@ -540,9 +540,7 @@ totojitu.gif|
 @@/js/tracking.js$domain=lazada.co.id
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
-@@||gambar123.com/*.png$domain=64.237.43.94|semprot.com|semprotku.com
 @@||gambar123.com/image_jump.php?$domain=64.237.43.94|semprot.com|semprotku.com
-@@||gambar456.com/*.png$domain=64.237.43.94|semprot.com|semprotku.com
 @@||minidroid.net^$elemhide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
