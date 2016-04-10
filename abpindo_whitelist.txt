@@ -1,11 +1,6 @@
-@@.jpg#$domain=minidroid.net
 @@.png#$domain=animeindo.tv|narutobleachlover.net|oploverz.net|wardhanime.net
-@@/js/tracking.js$domain=lazada.co.id
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
-@@||gambar123.com/image_jump.php?$domain=64.237.43.94|semprot.com|semprotku.com
-@@||minidroid.net^$elemhide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide
-@@||www2.melon.co.id/js/libs/angulartics-google-analytics.js

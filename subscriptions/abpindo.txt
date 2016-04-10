@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Vb9dWytgRzdrX+5UmaOnOg
+! Checksum: IFlTynOiiMgt+xvsvEbC7A
 ! Title: ABPindo
-! Last modified: 08 April 2016, 06:00:53 WIB
+! Last modified: 10 April 2016, 17:33:48 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -835,7 +835,6 @@ teknologi.inilah.com##.wb-300x250
 galaxymaya.com##.widget-content
 movie76.com##.widget-content img[alt="ads"]
 filmbagus21.com##.yarpp-related:nth-of-type(1)
-64.237.43.94,semprot.com,semprotku.com##[class$="semprot_sejati_global_header"]
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 www.bioskop78.com##a:nth-of-type(2)
@@ -922,14 +921,9 @@ www.bioskop78.com##td:nth-of-type(3)
 ||u-on.eu^$third-party
 ||webtrackerplus.com^$third-party
 ! *** abpindo_whitelist.txt ***
-@@.jpg#$domain=minidroid.net
 @@.png#$domain=animeindo.tv|narutobleachlover.net|oploverz.net|wardhanime.net
-@@/js/tracking.js$domain=lazada.co.id
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
-@@||gambar123.com/image_jump.php?$domain=64.237.43.94|semprot.com|semprotku.com
-@@||minidroid.net^$elemhide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide
-@@||www2.melon.co.id/js/libs/angulartics-google-analytics.js
