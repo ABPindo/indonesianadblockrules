@@ -18,11 +18,13 @@
 ||ajangiklangratis.com^$third-party
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
+||apmmedia.net^$third-party
 ||baliadv.com^$third-party
 ||bmnet-ads.com^$third-party
 ||clickmedia.co.id^$third-party
 ||eclkmpbn.com^$third-party
 ||forumiklan.com^$third-party
+||go.wsockd.com^$third-party
 ||gratisiklanpasang.com^$third-party
 ||groupiklan.com^$third-party
 ||gudangbanner.com$third-party
