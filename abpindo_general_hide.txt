@@ -19,14 +19,12 @@
 ###top_ad_full
 ###tupiklan
 ##.SectionAds
-##.ad728x90
 ##.ad_primex
 ##.adspace_300
 ##.adtext01
 ##.adunits.ads
 ##.bgads
 ##.bireklam
-##.block.iklan
 ##.forads
 ##.gbcontent
 ##.gpcontent
@@ -42,6 +40,9 @@
 ##.pusat728
 ##.simple_advert
 ##.topadsense
+##a[href="http://hoyacash.com"]
+##a[href="http://hoyajackpot.net"]
+##a[href="http://seksipoker.com"]
 ##a[href^="http://www.bursabet.net/"]
 ##a[href^="http://www.sbbanner.com/"]
 ##img[alt="Advertisement"]
