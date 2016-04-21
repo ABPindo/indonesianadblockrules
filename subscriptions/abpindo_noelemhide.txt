@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: x/G5+vZEooyKa3aA+svGPQ
+! Checksum: pdKw7WAanSGPAIWw+Obodg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 15 April 2016, 20:39:04 WIB
+! Last modified: 21 April 2016, 21:08:59 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -194,6 +194,8 @@
 ||sbo303.com^$third-party
 ||sbobet.com^$popup,third-party
 ||see-work.info^
+||senangpokerseo.com^$third-party
+||seni888.com^$popup,third-party
 ||situsjudi.com/$popup,third-party
 ||skorbola.co^$third-party
 ||star88bet.com/$popup,third-party
@@ -365,6 +367,7 @@ totojitu.gif|
 ||forumkami.net/ad200x50/
 ||gambar123.com/js/arv-13-p-bravo.js$script,domain=semprot.com
 ||gambar123.com/js/arv-13-p.js
+||ganool.online/IKLAN/obat%20pembesar%20penis.png
 ||googleusercontent.com/*.gif$domain=duniasex.ws
 ||gsshop.co.id^*/background/banner-
 ||harakah.net.my/images/stories/iklan/
@@ -404,6 +407,8 @@ totojitu.gif|
 ||layarkaca21.com/assets/*.gif
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.kim
+||mediaindonesia.com/ajax/banners
+||mediaindonesia.com/files/banners/
 ||mediaindonesia.com/public/banner/flash/
 ||memeksempit.com/banner/
 ||modemku.com/image-banner/
@@ -422,6 +427,7 @@ totojitu.gif|
 ||placehold.it/780x90
 ||porntrex.com/images/pt728.gif
 ||postimg.org/*.gif$domain=21sinema.com|downloadfilmbaru.com|r-l.me
+||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
 ||semprot.com/x_ads/
