@@ -40,7 +40,7 @@ bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 tribunnews.com###boxright [style="width:300px; height:250px;"]
-adipedia.com,anisubsia.com,benfile.com,bioskop-21.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.net,mangacanblog.com,mangaku.web.id,movie76.com,nusareborn.in,oploverz.net,semuaberita.com,wardhanime.net###btm_banner
+adipedia.com,anisubsia.com,benfile.com,bioskop-21.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.net,kabar2.com,mangacanblog.com,mangaku.web.id,movie76.com,nusareborn.in,oploverz.net,semuaberita.com,wardhanime.net###btm_banner
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 bioskopmovie21.com,movie76.com###close-teaser
@@ -56,7 +56,7 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonstreaming.tv###fatas
-cinemaindo.web.id,layarkaca21.com###fbanner
+cinemaindo.web.id,layarkaca21.com,layarkaca21.tv###fbanner
 nontonstreaming.tv###fbawah
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
@@ -95,6 +95,7 @@ bioskop-21.com,bioskop21.id###kayan_reklam_sol
 zonabola.com###lAds
 pkspiyungan.org###largebanner
 mangafap.com###lbanner
+kabar2.com###leaderboard
 komikbaru.com,mangafox.me###left-skyscraper
 bioskopgalaxy21.com,cabutin.com,jakbos.com,juragantomatx.com###livechat-eye-catcher
 duniasex.ws###main_content_section > div[align="center"]
@@ -272,6 +273,7 @@ galaxymaya.com##.widget-content
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
+www.krucil.net##a[href="/advertise"]
 cinemaindo.com##a[href="http://Hoyacash.net"]
 cinemaindo.com##a[href="http://www.fullbet88.com"]
 kaskus.co.id##a[href^="http://kad.kaskus."]

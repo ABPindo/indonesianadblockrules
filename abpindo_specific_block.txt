@@ -18,7 +18,7 @@
 ||bioskop99.net/wp-content/uploads/*.gif
 ||bioskopmovie21.com/wp-content/uploads/*.gif
 ||blogspot.com/$popup,domain=bioskop21.us
-||blogspot.com/*.gif$domain=bioskop78.com|bioskop99.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton.mobi|smallencode.com|zonabola.com
+||blogspot.com/*.gif$domain=bioskop78.com|bioskop99.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton.mobi|smallencode.com|zonabola.com
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
@@ -27,6 +27,8 @@
 ||cdn.livechatinc.com/tracking.js
 ||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js
 ||cinemaindo.com/wp-content/uploads/*.gif
+||cinemaindo.web.id/banere/
+||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$first-party,script
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif
 ||detik.com/images/banners/
@@ -51,7 +53,7 @@
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
-||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop99.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.uk|movie76.com|sodasusu.com
+||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop99.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.uk|kabar2.com|movie76.com|sodasusu.com
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
@@ -82,6 +84,8 @@
 ||krucil.net/KD_adplib.js
 ||kumpulblogger.com/minibanner/
 ||layarkaca21.com/assets/*.gif
+||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
+||layarkaca21.tv/assets$first-party,image
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.kim
 ||mediaindonesia.com/ajax/banners

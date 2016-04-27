@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZFgqtmasHkRWOY4+PfQDxQ
+! Checksum: v7LAcDvfizLI1yQnEq4bZw
 ! Title: ABPindo
-! Last modified: 21 April 2016, 21:08:59 WIB
+! Last modified: 27 April 2016, 17:23:01 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -417,7 +417,7 @@ totojitu.gif|
 ||bioskop99.net/wp-content/uploads/*.gif
 ||bioskopmovie21.com/wp-content/uploads/*.gif
 ||blogspot.com/$popup,domain=bioskop21.us
-||blogspot.com/*.gif$domain=bioskop78.com|bioskop99.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton.mobi|smallencode.com|zonabola.com
+||blogspot.com/*.gif$domain=bioskop78.com|bioskop99.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton.mobi|smallencode.com|zonabola.com
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
@@ -426,6 +426,8 @@ totojitu.gif|
 ||cdn.livechatinc.com/tracking.js
 ||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js
 ||cinemaindo.com/wp-content/uploads/*.gif
+||cinemaindo.web.id/banere/
+||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$first-party,script
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif
 ||detik.com/images/banners/
@@ -450,7 +452,7 @@ totojitu.gif|
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
-||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop99.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.uk|movie76.com|sodasusu.com
+||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop99.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.uk|kabar2.com|movie76.com|sodasusu.com
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
@@ -481,6 +483,8 @@ totojitu.gif|
 ||krucil.net/KD_adplib.js
 ||kumpulblogger.com/minibanner/
 ||layarkaca21.com/assets/*.gif
+||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
+||layarkaca21.tv/assets$first-party,image
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.kim
 ||mediaindonesia.com/ajax/banners
@@ -576,7 +580,7 @@ bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 tribunnews.com###boxright [style="width:300px; height:250px;"]
-adipedia.com,anisubsia.com,benfile.com,bioskop-21.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.net,mangacanblog.com,mangaku.web.id,movie76.com,nusareborn.in,oploverz.net,semuaberita.com,wardhanime.net###btm_banner
+adipedia.com,anisubsia.com,benfile.com,bioskop-21.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.net,kabar2.com,mangacanblog.com,mangaku.web.id,movie76.com,nusareborn.in,oploverz.net,semuaberita.com,wardhanime.net###btm_banner
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 bioskopmovie21.com,movie76.com###close-teaser
@@ -592,7 +596,7 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonstreaming.tv###fatas
-cinemaindo.web.id,layarkaca21.com###fbanner
+cinemaindo.web.id,layarkaca21.com,layarkaca21.tv###fbanner
 nontonstreaming.tv###fbawah
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
@@ -631,6 +635,7 @@ bioskop-21.com,bioskop21.id###kayan_reklam_sol
 zonabola.com###lAds
 pkspiyungan.org###largebanner
 mangafap.com###lbanner
+kabar2.com###leaderboard
 komikbaru.com,mangafox.me###left-skyscraper
 bioskopgalaxy21.com,cabutin.com,jakbos.com,juragantomatx.com###livechat-eye-catcher
 duniasex.ws###main_content_section > div[align="center"]
@@ -808,6 +813,7 @@ galaxymaya.com##.widget-content
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
+www.krucil.net##a[href="/advertise"]
 cinemaindo.com##a[href="http://Hoyacash.net"]
 cinemaindo.com##a[href="http://www.fullbet88.com"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
