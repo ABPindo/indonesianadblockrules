@@ -1,7 +1,7 @@
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 1seetv.com###DADrightclick
-icinema3satu.com###FloatAlamindawa
+icinema3satu.net###FloatAlamindawa
 lihat.co.id###Iklan-Melayang
 indogamers.com###IklanIDGS
 173.199.167.192,krucil.com,krucil.net###KD_adpB
@@ -40,7 +40,7 @@ bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 tribunnews.com###boxright [style="width:300px; height:250px;"]
-adipedia.com,anisubsia.com,benfile.com,bioskop-21.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.net,kabar2.com,mangacanblog.com,mangaku.web.id,movie76.com,nusareborn.in,oploverz.net,semuaberita.com,wardhanime.net###btm_banner
+anisubsia.com,benfile.com,bioskop-21.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.net,kabar2.com,mangacanblog.com,mangaku.web.id,movie76.com,nusareborn.in,oploverz.net,semuaberita.com,wardhanime.net###btm_banner
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 bioskopmovie21.com,movie76.com###close-teaser
@@ -264,7 +264,7 @@ okezone.com##.skyscrapper
 okezone.com##.sponsored-belt468x60
 film21terbaru.net##.teaser3
 bioskopgalaxy21.com,tvkabel.net##.textwidget
-bioskoptigalima.com,icinema3satu.com##.textwidget img
+bioskoptigalima.com,icinema3satu.net##.textwidget img
 klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
 otomotif.kompas.com##.w340.r-ads.right > ul > li
@@ -288,8 +288,8 @@ forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 jakbos.com##img:nth-of-type(2)
 lihat.co.id##img[style="border:0;display:block;"]
-icinema3satu.com##img[style="height: 125px; width: 125px;"]
-icinema3satu.com##img[style="height:125x;width:125px;"]
+icinema3satu.net##img[style="height: 125px; width: 125px;"]
+icinema3satu.net##img[style="height:125x;width:125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 lihat.co.id##img[width="300"][height="250"]
 bioskop78.com##td:nth-of-type(3)
