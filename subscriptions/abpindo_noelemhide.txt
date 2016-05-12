@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: iiGYgdtE7GuSuFqbDLex7Q
+! Checksum: 0pXfiqNb9EbUEmLrb5dKGA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 30 April 2016, 12:07:29 WIB
+! Last modified: 13 Mei 2016, 05:44:47 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -339,7 +339,7 @@ totojitu.gif|
 ||bioskop99.net/wp-content/uploads/*.gif
 ||bioskopmovie21.com/wp-content/uploads/*.gif
 ||blogspot.com/$popup,domain=bioskop21.us
-||blogspot.com/*.gif$domain=bioskop78.com|bioskop99.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton.mobi|smallencode.com|zonabola.com
+||blogspot.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskop99.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton.mobi|smallencode.com|zonabola.com
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
@@ -374,6 +374,7 @@ totojitu.gif|
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
+||hentaihere.com/app/assets/static/$popup,domain=hentaihere.com
 ||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop99.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.cc|kabar2.com|movie76.com|sodasusu.com
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
@@ -382,6 +383,7 @@ totojitu.gif|
 ||images.gameweb.co.id/gw/ads/
 ||img.banggood.com/deals/affiliate_member_banner/
 ||imgbox.com/*.gif$domain=cinemaindo.web.id
+||imgur.com/*.gif$domain=bioskop78.net
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indoforum.top/banners/
@@ -407,6 +409,7 @@ totojitu.gif|
 ||layarkaca21.com/assets/*.gif
 ||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
 ||layarkaca21.tv/assets$first-party,image
+||layarkaca21.tv/assets/*.gif
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.kim
 ||mediaindonesia.com/ajax/banners
@@ -443,7 +446,7 @@ totojitu.gif|
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/
-||tinypic.com/*.gif$domain=bioskop78.com|bioskopkita.com|ganoolmovie.com|icinema3satu.com|nonton.mobi
+||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskopkita.com|ganoolmovie.com|icinema3satu.com|nonton.mobi
 ||tribunnews.com/stylesheets/close.gif
 ||tvkabel.net/prom/*.gif
 ||unduhfilm.net/wp-content/uploads/*.gif
