@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Z7G2RPEG+RgGNTQNax4DZA
+! Checksum: cbsTDysFf+w9qDWEcHGz/g
 ! Title: ABPindo
-! Last modified: 14 Mei 2016, 17:26:01 WIB
+! Last modified: 14 Mei 2016, 18:26:18 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -438,6 +438,7 @@ totojitu.gif|
 ||fansubsupdate.com/res/img/sampleads/
 ||film-ganool.com/wp-content/uploads/*.gif
 ||film21terbaru.net/wp-content/uploads/*.gif
+||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
@@ -680,6 +681,7 @@ indotelko.com###vertical_top_kanal
 bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
 comotin.com##.Widget:nth-of-type(2)
+filmku.net##.act1
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
@@ -804,6 +806,7 @@ kabar24.com##.skycapper
 okezone.com##.skyscrapper
 okezone.com##.sponsored-belt468x60
 film21terbaru.net##.teaser3
+internetpositif.uzone.id##.text-align-center.box-ads-content
 bioskopgalaxy21.com,tvkabel.net##.textwidget
 bioskoptigalima.com,icinema3satu.net##.textwidget img
 klikseru.com##.textwidget img[width="300"][height="250"]
@@ -882,6 +885,7 @@ bioskop78.com##td:nth-of-type(3)
 @@.png#$domain=animeindo.tv|narutobleachlover.net|oploverz.net|wardhanime.net
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
+@@||cinemamkv.com^$generichide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide
