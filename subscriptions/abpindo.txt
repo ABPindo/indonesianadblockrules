@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dQiFaipXcUXqGTlYZqIYcA
+! Checksum: Do0poVoc1kWyVF7llha2dQ
 ! Title: ABPindo
-! Last modified: 23 Mei 2016, 11:32:05 WIB
+! Last modified: 23 Mei 2016, 19:03:35 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -452,7 +452,7 @@ totojitu.gif|
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hentaihere.com/app/assets/static/$popup,domain=hentaihere.com
-||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop99.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.cc|kabar2.com|movie76.com|sodasusu.com
+||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop78.net|bioskop99.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.cc|kabar2.com|movie76.com|sodasusu.com
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
@@ -552,7 +552,7 @@ lihat.co.id###Kolom-random-300
 lihat.co.id###SidebarIklan-wrapper
 chip.co.id###TopBannerBg
 jakbos.com###ad_divRight
-173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,krucil.net,sodasusu.com,vocland.com###ad_global_below_navbar
+173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,sodasusu.com,vocland.com###ad_global_below_navbar
 detik.com###adpoint5
 cinemaindo.web.id###ads
 dapurpacu.com###ads-728
@@ -814,11 +814,12 @@ lapar.com##.top-banner
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
 galaxymaya.com##.widget-content
+semprot.com##[class$="floating_banner_bottom"]
+semprot.com##[class$="floating_banner_top"]
 idfl.me##[id^="yui-gen"].postcontainer
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
-www.krucil.net##a[href="/advertise"]
 cinemaindo.com##a[href="http://Hoyacash.net"]
 cinemaindo.com##a[href="http://www.fullbet88.com"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
@@ -883,9 +884,12 @@ bioskop78.com##td:nth-of-type(3)
 ||webtrackerplus.com^$third-party
 ! *** abpindo_whitelist.txt ***
 @@.png#$domain=animeindo.tv|narutobleachlover.net|oploverz.net|wardhanime.net
+@@|http://www.gambar123.com/mejik_$domain=semprot.com
+@@|http://www.gambar123.com/sulap_$domain=semprot.com
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
 @@||cinemamkv.com^$generichide
+@@||gambar123.com/pic/em/*.gif$domain=semprot.com
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide
