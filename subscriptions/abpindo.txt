@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Do0poVoc1kWyVF7llha2dQ
+! Checksum: oZgyqBTbtOFbnUZeMPtDtw
 ! Title: ABPindo
-! Last modified: 23 Mei 2016, 19:03:35 WIB
+! Last modified: 23 Mei 2016, 19:18:31 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -395,6 +395,7 @@ totojitu.gif|
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
+||104.197.4.220$script,domain=ganool.ag
 ||173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||alertpay.com/banners/
@@ -618,6 +619,7 @@ resep.web.id###googlebox
 layarkaca21.com###hbanner
 indosiar.com###headerbanner
 movie25.link###hilang
+topfilmz.com###idb3
 lensaindonesia.com###idcomboard1.com-728x90
 lensaindonesia.com###idcomright1.com-300x250
 lensaindonesia.com###idcomright2.com-300x250

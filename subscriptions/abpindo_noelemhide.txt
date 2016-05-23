@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: W3WG0NkGbf2qlrFl5GkQbQ
+! Checksum: nyaPmKpdoEK9M7NItrGpSg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 23 Mei 2016, 19:03:35 WIB
+! Last modified: 23 Mei 2016, 19:18:31 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -319,6 +319,7 @@ sarangbola.gif|
 sbobetqq.gif|
 totojitu.gif|
 ! *** abpindo_specific_block.txt ***
+||104.197.4.220$script,domain=ganool.ag
 ||173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||alertpay.com/banners/
