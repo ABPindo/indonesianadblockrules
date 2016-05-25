@@ -20,7 +20,6 @@ dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 dapurpacu.com###ads-vert-300
 remo-xp.com###ads1
-bioskop-21.com###ads_games_parent7135
 tvkabel.net###adv
 unixmen.com###an-Modal
 inilah.com,kompasiana.com###anchormasklink
@@ -40,7 +39,7 @@ bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 tribunnews.com###boxright [style="width:300px; height:250px;"]
-anisubsia.com,benfile.com,bioskop-21.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.net,kabar2.com,mangacanblog.com,mangakita.net,mangaku.web.id,movie76.com,nusareborn.in,oploverz.net,semuaberita.com,wardhanime.net###btm_banner
+anisubsia.com,benfile.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.org,kabar2.com,mangacanblog.com,mangakita.net,mangaku.web.id,movie76.com,nusareborn.in,oploverz.net,semuaberita.com,wardhanime.net###btm_banner
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 bioskopmovie21.com,movie76.com###close-teaser
@@ -55,9 +54,9 @@ tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
-nontonstreaming.tv###fatas
+nontonstreaming.co###fatas
 cinemaindo.web.id,layarkaca21.com,layarkaca21.tv###fbanner
-nontonstreaming.tv###fbawah
+nontonstreaming.co###fbawah
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
 movie76.com###fixedbanner2
@@ -70,7 +69,7 @@ bioskop212.net,bioskop55.club###floating_banner_left
 bioskop212.net,bioskop55.club###floating_banner_right
 bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.com,movie76.net###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-bioskop78.com,bioskop99.net###floating_banner_tops
+bioskop78.com###floating_banner_tops
 untukku.com###footer-adcont
 resep.web.id###googlebox
 layarkaca21.com###hbanner
@@ -91,8 +90,8 @@ harakahdaily.net###jsemrp_372_719
 harakahdaily.net###jsemrp_373_873
 harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
-bioskop-21.com,bioskop21.id###kayan_reklam_sag
-bioskop-21.com,bioskop21.id###kayan_reklam_sol
+bioskop21.id###kayan_reklam_sag
+bioskop21.id###kayan_reklam_sol
 zonabola.com###lAds
 pkspiyungan.org###largebanner
 mangafap.com###lbanner
@@ -168,8 +167,8 @@ teknoup.com##.advertisement_box2
 webpcmag.com#@#.afs_ads
 warungremang.com##.aligncenter
 palingseru.com##.alignnone.size-large.wp-image-458
-nontonstreaming.tv##.ban_empat
-nontonstreaming.tv##.banner
+nontonstreaming.co##.ban_empat
+nontonstreaming.co##.banner
 dream.co.id##.banner-sc2
 oktavita.com##.banner-zone
 tekno.kompas.com##.banner620x80
@@ -246,7 +245,6 @@ viva.co.id##.portlet.sideskycrapper
 otomania.com##.r-ads
 kaskus.co.id##.r-link
 okezone.com##.rc-ad-300x250
-bioskop-21.com##.reklam-300x250
 unixmen.com##.reveal-modal-bg
 republika.co.id##.set-ads-468
 cinemaindo.com##.side:nth-of-type(7)
@@ -279,8 +277,10 @@ idfl.me##[id^="yui-gen"].postcontainer
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
+ganool.ag##a[href*=".link/"][target="_blank"]
 cinemaindo.com##a[href="http://Hoyacash.net"]
 cinemaindo.com##a[href="http://www.fullbet88.com"]
+lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
 ganool.ag##a[href^="http://keymeta.work/"]
 m.inilah.com##a[href^="http://mkhoj.com"]
@@ -292,6 +292,7 @@ forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:
 forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 jakbos.com##img:nth-of-type(2)
+lensaberita.net##img[alt="agen sbobet"]
 lihat.co.id##img[style="border:0;display:block;"]
 icinema3satu.net##img[style="height: 125px; width: 125px;"]
 icinema3satu.net##img[style="height:125x;width:125px;"]

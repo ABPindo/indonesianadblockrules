@@ -16,10 +16,9 @@
 ||bioskop21.info/bokep.gif
 ||bioskop212.net/wp-content/uploads/*.gif
 ||bioskop55.club/wp-content/uploads/*.gif
-||bioskop99.net/wp-content/uploads/*.gif
 ||bioskopmovie21.com/wp-content/uploads/*.gif
 ||blogspot.com/$popup,domain=bioskop21.us
-||blogspot.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskop99.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton.mobi|smallencode.com|zonabola.com
+||blogspot.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton.mobi|smallencode.com|zonabola.com
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
@@ -32,6 +31,7 @@
 ||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$first-party,script
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif
+||d1mib12jcgwmnv.cloudfront.net$script,domain=ganool.ag
 ||d1rb5wwywwoqqm.cloudfront.net$script,domain=ganool.ag
 ||d2b560qq58menv.cloudfront.net^$script,domain=ganool.ag
 ||d3al52d8cojds7.cloudfront.net$script,domain=ganool.ag
@@ -45,7 +45,7 @@
 ||ebsoft.web.id/wp-content/banners/
 ||fansubsupdate.com/res/img/sampleads/
 ||film-ganool.com/wp-content/uploads/*.gif
-||film21terbaru.net/wp-content/uploads/*.gif
+||film21terbaru.org/wp-content/uploads/*.gif
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
@@ -60,7 +60,8 @@
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hentaihere.com/app/assets/static/$popup,domain=hentaihere.com
-||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop78.net|bioskop99.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.cc|kabar2.com|movie76.com|sodasusu.com
+||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop78.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.cc|kabar2.com|movie76.com|sodasusu.com
+||i.imgur.com/*.gif$image,domain=lensaberita.net
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
@@ -109,14 +110,14 @@
 ||newopenx.detik.com/images/
 ||nontonbareng.tv/img/closeX.png
 ||nontonbareng.tv/wp-content/uploads/*.gif
-||nontonstreaming.tv/img/closeX.png
-||nontonstreaming.tv/wp-content/uploads/*.gif
+||nontonstreaming.co/img/closeX.png
+||nontonstreaming.co/wp-content/uploads/*.gif
 ||pancet.com/kbads/
 ||petikmangga.com/wp-content/uploads/*.gif
 ||placehold.it/300x250
 ||placehold.it/780x90
 ||porntrex.com/images/pt728.gif
-||postimg.org/*.gif$domain=21sinema.com|downloadfilmbaru.com|r-l.me
+||postimg.org/*.gif$domain=downloadfilmbaru.com|r-l.me
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
@@ -131,7 +132,7 @@
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/
-||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskopkita.com|ganoolmovie.com|icinema3satu.com|nonton.mobi
+||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskopkita.com|ganoolmovie.com|icinema3satu.net|nonton.mobi
 ||tribunnews.com/stylesheets/close.gif
 ||tvkabel.net/prom/*.gif
 ||unduhfilm.net/wp-content/uploads/*.gif
@@ -140,7 +141,6 @@
 ||usnewopenx.detik.com/images/
 ||utusan.com.my/utusan/iklan/
 ||warungremang.com/wp-content/uploads/*.gif
-||xip.ir/js/fp.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonabola.com/floating_banner.js
