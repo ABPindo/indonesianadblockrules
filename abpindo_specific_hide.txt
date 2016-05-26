@@ -29,6 +29,7 @@ tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 duniaku.net###banner-popup-desktop
 panduanpercuma.info###banner125
+banyakfilm.pw###bannerikan
 tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
 kotakgame.com###bannertheme_left
@@ -67,12 +68,14 @@ blogspot.com###floating_banner_bottom2
 bioskop78.com,movie76.com,movie76.net###floating_banner_bottoms
 bioskop212.net,bioskop55.club###floating_banner_left
 bioskop212.net,bioskop55.club###floating_banner_right
-bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.com,movie76.net###floating_banner_top
+bioskopgalaxy21.com,bioskopstar88.com,juraganmovie.net,juragantomatx.com,movie76.com,movie76.net###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 bioskop78.com###floating_banner_tops
 untukku.com###footer-adcont
 resep.web.id###googlebox
 layarkaca21.com###hbanner
+banyakfilm.pw###header_sag
+banyakfilm.pw###header_sol
 indosiar.com###headerbanner
 movie25.link###hilang
 topfilmz.com###idb3
@@ -111,15 +114,21 @@ komikbaru.com,mangafox.me###right-skyscraper
 susterbokep.com###right_ads_float_phonedevelop
 gopego.com###showcase1
 gopego.com###showcase2
+banyakfilm.pw###sidebar > .sidebarborder:nth-of-type(2) > .sidebar-right > .textwidget
 nontonfilm88.com###sidebar-right
+cinemaindo.tv###sidebar_right > .side:nth-of-type(5) > .textwidget
+cinemaindo.tv###sidebar_right > .side:nth-of-type(6) > .textwidget
+cinemaindo.tv###sidebar_right > .side:nth-of-type(7) > .textwidget
+cinemaindo.tv###sidebar_right > .side:nth-of-type(8) > .textwidget
+cinemaindo.tv###sidebar_right > .side:nth-of-type(9) > .textwidget
 zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
 detik.com###skinad
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
-cinemaindo.com,film-ganool.com###teaser1
-22cinema.com,bioskop21.info,bioskop21.link,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,downloadfilmbaru.com,film-ganool.com,galaxymaya.com,ganool.be,ganool.nl,movie76.net,nontonfilm21.link,nontonmovie.web.id,unduhfilm.net###teaser2
+cinemaindo.com,cinemaindo.tv,film-ganool.com###teaser1
+22cinema.com,bioskop21.info,bioskop21.link,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,galaxymaya.com,ganool.be,ganool.nl,movie76.net,nontonfilm21.link,nontonmovie.web.id,unduhfilm.net###teaser2
 172.245.177.74,22cinema.com,bioskop21.co,bioskop21.info,bioskop21.link,bioskopgalaxy21.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,ganool.be,ganool.nl,movie25.link,movie76.com,movie76.net,nontonfilm21.link,nontonmovie.web.id,unduhfilm.net###teaser3
 172.245.177.74,sodasusu.com###teaser4
 22cinema.com,movie76.com###teaser5

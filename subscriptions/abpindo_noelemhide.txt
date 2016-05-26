@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: KJh3C21URcBiGdHZs7OJMg
+! Checksum: +mRwrGJ1gUACudJWAh+rMg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 25 Mei 2016, 11:39:25 WIB
+! Last modified: 26 Mei 2016, 18:30:20 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -461,6 +461,7 @@ totojitu.gif|
 ||usnewopenx.detik.com/images/
 ||utusan.com.my/utusan/iklan/
 ||warungremang.com/wp-content/uploads/*.gif
+||yourjavascript.com/0653544211/lompatin.js$script,domain=filmku.net
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonabola.com/floating_banner.js
@@ -472,6 +473,7 @@ totojitu.gif|
 ||alamatemail.com^$third-party
 ||bekas.com^$third-party
 ||c-stat.eu^$third-party
+||dubshub.com$script,third-party
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
@@ -490,6 +492,7 @@ totojitu.gif|
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||modifikasi.com/images/banner/$third-party
+||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
 ||mylogin.co^$domain=hentai2read.com
 ||noobscript.com^$third-party
