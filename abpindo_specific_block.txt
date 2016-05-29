@@ -1,5 +1,5 @@
 ||104.197.4.220$script,domain=ganool.ag
-||173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
+||173.199.189.86/images/*.gif
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
@@ -50,7 +50,7 @@
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
-||gambar123.com/js/arv-13-p-bravo.js$script,domain=semprot.com
+||gambar123.com/js/arv-13-p-bravo.js$script,domain=46.166.167.16|semprot.com|semprotku.com
 ||gambar123.com/js/arv-13-p.js
 ||ganool.online/IKLAN/obat%20pembesar%20penis.png
 ||googleusercontent.com/*.gif$domain=duniasex.ws

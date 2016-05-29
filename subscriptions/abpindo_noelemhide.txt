@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: +mRwrGJ1gUACudJWAh+rMg
+! Checksum: pv1wIewZ2kY6ub2jGw4hSw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 26 Mei 2016, 18:30:20 WIB
+! Last modified: 29 Mei 2016, 18:10:03 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -319,7 +319,7 @@ sbobetqq.gif|
 totojitu.gif|
 ! *** abpindo_specific_block.txt ***
 ||104.197.4.220$script,domain=ganool.ag
-||173.199.189.86/images/*.gif$domain=forumbokep.com|vocland.com
+||173.199.189.86/images/*.gif
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
@@ -370,7 +370,7 @@ totojitu.gif|
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
-||gambar123.com/js/arv-13-p-bravo.js$script,domain=semprot.com
+||gambar123.com/js/arv-13-p-bravo.js$script,domain=46.166.167.16|semprot.com|semprotku.com
 ||gambar123.com/js/arv-13-p.js
 ||ganool.online/IKLAN/obat%20pembesar%20penis.png
 ||googleusercontent.com/*.gif$domain=duniasex.ws
@@ -513,15 +513,15 @@ totojitu.gif|
 ||webtrackerplus.com^$third-party
 ! *** abpindo_whitelist.txt ***
 @@.png#$domain=animeindo.tv|narutobleachlover.net|oploverz.net|wardhanime.net
-@@|http://www.gambar123.com/mejik_$domain=semprot.com
-@@|http://www.gambar123.com/sulap_$domain=semprot.com
+@@|gambar123.com/mejik_$domain=46.166.167.16|semprot.com|semprotku.com
+@@|gambar123.com/sulap_$domain=46.166.167.16|semprot.com|semprotku.com
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
 @@||cinemamkv.com^$generichide
-@@||gambar123.com/pic/em/*.gif$domain=semprot.com
+@@||gambar123.com/pic/em/*.gif$domain=46.166.167.16|semprot.com|semprotku.com
+@@||gambar123.com/pic/pi$image,domain=46.166.167.16|semprot.com|semprotku.com
+@@||gambar123.com/sihir_$image,domain=46.166.167.16|semprot.com|semprotku.com
+@@||gambar123.com/vb/images$domain=46.166.167.16|semprot.com|semprotku.com
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide
-@@||www.gambar123.com/pic/pi$image,domain=semprot.com
-@@||www.gambar123.com/sihir_$image,domain=semprot.com
-@@||www.gambar123.com/vb/images$domain=semprot.com
