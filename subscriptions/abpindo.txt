@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ig3C6UMLpSz9m8kDmotI8g
+! Checksum: V2lQV4BFAGo4KRGV5/FE6Q
 ! Title: ABPindo
-! Last modified: 29 Mei 2016, 18:10:03 WIB
+! Last modified: 06 Juni 2016, 04:51:53 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -395,7 +395,7 @@ totojitu.gif|
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
-||104.197.4.220$script,domain=ganool.ag
+||104.197.4.220$script,domain=ganool.ag|ganool.ph
 ||173.199.189.86/images/*.gif
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||alertpay.com/banners/
@@ -419,7 +419,7 @@ totojitu.gif|
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
-||cdn.drnxs.com/js/gp.min.js$script,domain=ganool.ag
+||cdn.drnxs.com/js/gp.min.js$script,domain=ganool.ag|ganool.ph
 ||cdn.kaskus.com/img/skin/*.gif
 ||cdn.livechatinc.com/tracking.js
 ||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js
@@ -428,11 +428,11 @@ totojitu.gif|
 ||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$first-party,script
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif
-||d1mib12jcgwmnv.cloudfront.net$script,domain=ganool.ag
-||d1rb5wwywwoqqm.cloudfront.net$script,domain=ganool.ag
-||d2b560qq58menv.cloudfront.net^$script,domain=ganool.ag
-||d3al52d8cojds7.cloudfront.net$script,domain=ganool.ag
-||d4bsxdtgtmhxt.cloudfront.net^$script,domain=ganool.ag
+||d1mib12jcgwmnv.cloudfront.net$script,domain=ganool.ag|ganool.ph
+||d1rb5wwywwoqqm.cloudfront.net$script,domain=ganool.ag|ganool.ph
+||d2b560qq58menv.cloudfront.net^$script,domain=ganool.ag|ganool.ph
+||d3al52d8cojds7.cloudfront.net$script,domain=ganool.ag|ganool.ph
+||d4bsxdtgtmhxt.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||detik.com/images/banners/
 ||dewa.tv/banner/
 ||dinastybet.com/banner/
@@ -604,8 +604,9 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonstreaming.co###fatas
-cinemaindo.web.id,layarkaca21.com,layarkaca21.tv###fbanner
+cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.tv###fbanner
 nontonstreaming.co###fbawah
+layarkaca21.net###fbbanner
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
 movie76.com###fixedbanner2
@@ -651,6 +652,7 @@ komikbaru.com,mangafox.me###left-skyscraper
 bioskopgalaxy21.com,cabutin.com,jakbos.com,juragantomatx.com###livechat-eye-catcher
 duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
+layarkaca21.net###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
 viva.co.id###otp_ads
 detik.com###otp_banner
@@ -676,8 +678,8 @@ harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinemaindo.com,cinemaindo.tv,film-ganool.com###teaser1
-22cinema.com,bioskop21.info,bioskop21.link,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,galaxymaya.com,ganool.be,ganool.nl,movie76.net,nontonfilm21.link,nontonmovie.web.id,unduhfilm.net###teaser2
-172.245.177.74,22cinema.com,bioskop21.co,bioskop21.info,bioskop21.link,bioskopgalaxy21.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,ganool.be,ganool.nl,movie25.link,movie76.com,movie76.net,nontonfilm21.link,nontonmovie.web.id,unduhfilm.net###teaser3
+22cinema.com,bioskop21.info,bioskop21.link,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,galaxymaya.com,ganool.be,ganool.nl,ganool.ph,movie76.net,nontonfilm21.link,nontonmovie.web.id,unduhfilm.net###teaser2
+172.245.177.74,22cinema.com,bioskop21.co,bioskop21.info,bioskop21.link,bioskopgalaxy21.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,ganool.be,ganool.nl,ganool.ph,movie25.link,movie76.com,movie76.net,nontonfilm21.link,nontonmovie.web.id,unduhfilm.net###teaser3
 172.245.177.74,sodasusu.com###teaser4
 22cinema.com,movie76.com###teaser5
 movie76.com###teaser6
@@ -767,7 +769,7 @@ tempo.co##.closebanner2
 kaskus.co.id##.col-sm-12.banner-frame.rb-1
 kaskus.co.id##.col-sm-12.banner-frame.rb-2
 kaskus.co.id##.col-sm-12.banner-frame.rb-3
-ganool.ag##.col-xs-12.col-md-6.col-lg-6
+ganool.ag,ganool.ph##.col-xs-12.col-md-6.col-lg-6
 tribunnews.com##.content [style="width:160px; height:600px;"]
 bioskop21.info##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
@@ -834,14 +836,15 @@ idfl.me##[id^="yui-gen"].postcontainer
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
-ganool.ag##a[href*=".link/"][target="_blank"]
+ganool.ag,ganool.ph##a[href*=".link/"][target="_blank"]
 cinemaindo.com##a[href="http://Hoyacash.net"]
 cinemaindo.com##a[href="http://www.fullbet88.com"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
-ganool.ag##a[href^="http://keymeta.work/"]
+ganool.ag,ganool.ph##a[href^="http://keymeta.work/"]
 m.inilah.com##a[href^="http://mkhoj.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
+filmku.net##body > div:nth-of-type(4)
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 situshp.com##div[style="height:260px;"]
