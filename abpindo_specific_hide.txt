@@ -59,9 +59,9 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonstreaming.co###fatas
-cinemaindo.web.id,ganool.cc,layarkaca21.com,layarkaca21.net,layarkaca21.tv###fbanner
+cinema-indo.com,cinemaindo.web.id,ganool.cc,layarkaca21.com,layarkaca21.net,layarkaca21.tv,nontonmovie.web.id###fbanner
 nontonstreaming.co###fbawah
-layarkaca21.net###fbbanner
+cinema-indo.com,layarkaca21.net###fbbanner
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
 movie76.com###fixedbanner2
@@ -78,6 +78,7 @@ bioskop78.com###floating_banner_tops
 untukku.com###footer-adcont
 resep.web.id###googlebox
 layarkaca21.com###hbanner
+cinema-indo.com,nontonmovie.web.id###hbanner:nth-of-type(1)
 banyakfilm.pw###header_sag
 banyakfilm.pw###header_sol
 indosiar.com###headerbanner
@@ -107,11 +108,12 @@ komikbaru.com,mangafox.me###left-skyscraper
 bioskopgalaxy21.com,cabutin.com,jakbos.com,juragantomatx.com###livechat-eye-catcher
 duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
-layarkaca21.net###modalPage > .modalContainer > .modal
+cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
 viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
+cinema-indo.com,nontonmovie.web.id###pbanner
 layarkaca21.com###ptbanner
 zonabola.com###rAds
 utusan.com.my###rec_ad4
@@ -168,6 +170,7 @@ dapurpacu.com,kompas.com##.ads
 trendtek.republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
+filmku.net##.ads-banner-block.ad-
 gudang.tv##.ads-content1
 gudang.tv##.ads-content2
 dapurpacu.com##.ads-home
@@ -240,6 +243,7 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
+brankasvideo.com##.ktz-aftermenubanner
 kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 bioskop21.id##.lenyap
@@ -295,7 +299,11 @@ bioskop78.com##a:nth-of-type(2)
 ganool.ag,ganool.ph##a[href*=".link/"][target="_blank"]
 cinemaindo.com##a[href="http://Hoyacash.net"]
 zonabola.com##a[href="http://id.afbcash.com"]
+brankasvideo.com##a[href="http://obat-klg-herbal.com"]
+brankasvideo.com##a[href="http://obatpembesarvimax.com/"]
+brankasvideo.com##a[href="http://pusat-vimaxasli.com"]
 zonabola.com##a[href="http://www.bl303.com/"]
+brankasvideo.com##a[href="http://www.faktavimax.com"]
 cinemaindo.com##a[href="http://www.fullbet88.com"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
@@ -303,6 +311,7 @@ ganool.ag,ganool.ph##a[href^="http://keymeta.work/"]
 m.inilah.com##a[href^="http://mkhoj.com"]
 juragan21.com##a[href^="http://sbokiu.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
+filmku.net##body > div:nth-of-type(2)
 filmku.net##body > div:nth-of-type(4)
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]

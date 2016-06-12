@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: Iy5CjjX0i+dIIuLsA03uzg
+! Checksum: oZyvRhgLH+zPHVA2TwUGhA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 06 Juni 2016, 10:06:53 WIB
+! Last modified: 12 Juni 2016, 22:02:55 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -346,6 +346,7 @@ totojitu.gif|
 ||cdn.kaskus.com/img/skin/*.gif
 ||cdn.livechatinc.com/tracking.js
 ||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js
+||cinema-indo.com/banere/*.gif$image
 ||cinemaindo.com/wp-content/uploads/*.gif
 ||cinemaindo.tv/wp-content/uploads/2016/*.gif$image
 ||cinemaindo.web.id/banere/
@@ -363,6 +364,7 @@ totojitu.gif|
 ||dewanonton.com/wp-content/uploads/2016/*.gif$image
 ||dinastybet.com/banner/
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
+||doramax264.com/wp-content/uploads/2011/10/dmax-copy35.jpg$image
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
@@ -434,6 +436,7 @@ totojitu.gif|
 ||newopenx.detik.com/images/
 ||nontonbareng.tv/img/closeX.png
 ||nontonbareng.tv/wp-content/uploads/*.gif
+||nontonmovie.web.id/banere/*.gif$image
 ||nontonstreaming.co/img/closeX.png
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||pancet.com/kbads/
