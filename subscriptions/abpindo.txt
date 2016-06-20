@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hV8FPtLxGj+AYP7apdPtCA
+! Checksum: 0Z9qonf2ZxlnalZHLEZJPA
 ! Title: ABPindo
-! Last modified: 12 Juni 2016, 22:02:55 WIB
+! Last modified: 20 Juni 2016, 15:08:00 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -568,6 +568,7 @@ lihat.co.id###Kolom-Iklan-728
 lihat.co.id###Kolom-random-300
 lihat.co.id###SidebarIklan-wrapper
 chip.co.id###TopBannerBg
+hi10anime.com###__admvnlb__modal_container
 jakbos.com###ad_divRight
 173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,sodasusu.com,vocland.com###ad_global_below_navbar
 detik.com###adpoint5
@@ -638,6 +639,7 @@ untukku.com###footer-adcont
 resep.web.id###googlebox
 layarkaca21.com###hbanner
 cinema-indo.com,nontonmovie.web.id###hbanner:nth-of-type(1)
+zonapanas.com###header-right > .header-banner
 banyakfilm.pw###header_sag
 banyakfilm.pw###header_sol
 indosiar.com###headerbanner
@@ -667,6 +669,7 @@ komikbaru.com,mangafox.me###left-skyscraper
 bioskopgalaxy21.com,cabutin.com,jakbos.com,juragantomatx.com###livechat-eye-catcher
 duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
+filmku.net###mm-0 > div:nth-of-type(3)
 cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
 viva.co.id###otp_ads
@@ -680,6 +683,7 @@ komikbaru.com,mangafox.me###right-skyscraper
 susterbokep.com###right_ads_float_phonedevelop
 gopego.com###showcase1
 gopego.com###showcase2
+zonapanas.com###sidebar > .sidebar-banner
 banyakfilm.pw###sidebar > .sidebarborder:nth-of-type(2) > .sidebar-right > .textwidget
 nontonfilm88.com###sidebar-right
 cinemaindo.tv###sidebar_right > .side:nth-of-type(5) > .textwidget
@@ -802,7 +806,7 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
-brankasvideo.com##.ktz-aftermenubanner
+brankasvideo.com,filmku.net##.ktz-aftermenubanner
 kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 bioskop21.id##.lenyap
@@ -880,6 +884,7 @@ forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 jakbos.com##img:nth-of-type(2)
 lensaberita.net##img[alt="agen sbobet"]
+bokep.click##img[alt="vimax asli"]
 lihat.co.id##img[style="border:0;display:block;"]
 icinema3satu.net##img[style="height: 125px; width: 125px;"]
 icinema3satu.net##img[style="height:125x;width:125px;"]
