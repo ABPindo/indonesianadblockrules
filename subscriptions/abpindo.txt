@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 0Z9qonf2ZxlnalZHLEZJPA
+! Checksum: UqHhf3eEKvA2ViNBiDW0Rg
 ! Title: ABPindo
-! Last modified: 20 Juni 2016, 15:08:00 WIB
+! Last modified: 21 Juni 2016, 20:12:03 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -400,6 +400,7 @@ totojitu.gif|
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
 ||104.197.4.220$script,domain=ganool.ag|ganool.ph
+||104.198.198.188$script,domain=ganool.ph
 ||173.199.189.86/images/*.gif
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||alertpay.com/banners/
@@ -456,8 +457,6 @@ totojitu.gif|
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
-||gambar123.com/js/arv-13-p-bravo.js$script,domain=46.166.167.16|semprot.com|semprotku.com
-||gambar123.com/js/arv-13-p.js
 ||ganool.online/IKLAN/obat%20pembesar%20penis.png
 ||googleusercontent.com/*.gif$domain=duniasex.ws
 ||gsshop.co.id^*/background/banner-
@@ -466,8 +465,7 @@ totojitu.gif|
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hentaihere.com/app/assets/static/$popup,domain=hentaihere.com
-||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop78.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.cc|kabar2.com|movie76.com|sodasusu.com
-||i.imgur.com/*.gif$image,domain=lensaberita.net
+||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop78.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.cc|kabar2.com|lensaberita.net|movie76.com|sodasusu.com
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
@@ -538,7 +536,6 @@ totojitu.gif|
 ||suaramedia.com/images/banners/
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||susterbokep.com/wp-content/uploads/*.gif
-||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskopkita.com|ganoolmovie.com|icinema3satu.net|nonton.mobi
 ||tribunnews.com/stylesheets/close.gif
@@ -607,7 +604,6 @@ bioskopmovie21.com,movie76.com###close-teaser
 gudang.tv###container-bottom-menu-ads
 gudang.tv###container-bottom-menu-ads2
 bioskop78.com###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > center:nth-of-type(2)
-ganool.be,ganool.nl,nontonfilm21.link###content > center > .contentlist
 anisubsia.com###de13
 bioskopmovie.tv,bioskopmovie21.com###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
@@ -791,7 +787,6 @@ tempo.co##.closebanner2
 kaskus.co.id##.col-sm-12.banner-frame.rb-1
 kaskus.co.id##.col-sm-12.banner-frame.rb-2
 kaskus.co.id##.col-sm-12.banner-frame.rb-3
-ganool.ag,ganool.ph##.col-xs-12.col-md-6.col-lg-6
 tribunnews.com##.content [style="width:160px; height:600px;"]
 bioskop21.info##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
@@ -859,7 +854,6 @@ idfl.me##[id^="yui-gen"].postcontainer
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
-ganool.ag,ganool.ph##a[href*=".link/"][target="_blank"]
 cinemaindo.com##a[href="http://Hoyacash.net"]
 zonabola.com##a[href="http://id.afbcash.com"]
 brankasvideo.com##a[href="http://obat-klg-herbal.com"]
@@ -870,7 +864,6 @@ brankasvideo.com##a[href="http://www.faktavimax.com"]
 cinemaindo.com##a[href="http://www.fullbet88.com"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
-ganool.ag,ganool.ph##a[href^="http://keymeta.work/"]
 m.inilah.com##a[href^="http://mkhoj.com"]
 juragan21.com##a[href^="http://sbokiu.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
@@ -939,12 +932,15 @@ bioskop78.com##td:nth-of-type(3)
 @@|gambar123.com/mejik_$domain=46.166.167.16|semprot.com|semprotku.com
 @@|gambar123.com/sulap_$domain=46.166.167.16|semprot.com|semprotku.com
 @@||ads.id^$~third-party
+@@||advertisingwouldbegreat.com$script
 @@||animeindo.tv^$elemhide
 @@||cinemamkv.com^$generichide
+@@||cytochemistryrecitativewrasse.com^$script
 @@||gambar123.com/pic/em/*.gif$domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com/pic/pi$image,domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com/sihir_$image,domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com/vb/images$domain=46.166.167.16|semprot.com|semprotku.com
+@@||gambar123.com^$script,domain=46.166.167.16|semprot.com|semprotku.com
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide

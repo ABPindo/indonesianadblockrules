@@ -1,4 +1,5 @@
 ||104.197.4.220$script,domain=ganool.ag|ganool.ph
+||104.198.198.188$script,domain=ganool.ph
 ||173.199.189.86/images/*.gif
 ||21filmcinema.com/wp-content/uploads/*.gif
 ||alertpay.com/banners/
@@ -55,8 +56,6 @@
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
-||gambar123.com/js/arv-13-p-bravo.js$script,domain=46.166.167.16|semprot.com|semprotku.com
-||gambar123.com/js/arv-13-p.js
 ||ganool.online/IKLAN/obat%20pembesar%20penis.png
 ||googleusercontent.com/*.gif$domain=duniasex.ws
 ||gsshop.co.id^*/background/banner-
@@ -65,8 +64,7 @@
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hentaihere.com/app/assets/static/$popup,domain=hentaihere.com
-||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop78.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.cc|kabar2.com|movie76.com|sodasusu.com
-||i.imgur.com/*.gif$image,domain=lensaberita.net
+||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop78.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.cc|kabar2.com|lensaberita.net|movie76.com|sodasusu.com
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
@@ -137,7 +135,6 @@
 ||suaramedia.com/images/banners/
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||susterbokep.com/wp-content/uploads/*.gif
-||tabloidbintang.com^*/space-iklan/
 ||tambahketinggian.com/banner/
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskopkita.com|ganoolmovie.com|icinema3satu.net|nonton.mobi
 ||tribunnews.com/stylesheets/close.gif

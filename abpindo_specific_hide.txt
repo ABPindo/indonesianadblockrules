@@ -48,7 +48,6 @@ bioskopmovie21.com,movie76.com###close-teaser
 gudang.tv###container-bottom-menu-ads
 gudang.tv###container-bottom-menu-ads2
 bioskop78.com###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > center:nth-of-type(2)
-ganool.be,ganool.nl,nontonfilm21.link###content > center > .contentlist
 anisubsia.com###de13
 bioskopmovie.tv,bioskopmovie21.com###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
@@ -232,7 +231,6 @@ tempo.co##.closebanner2
 kaskus.co.id##.col-sm-12.banner-frame.rb-1
 kaskus.co.id##.col-sm-12.banner-frame.rb-2
 kaskus.co.id##.col-sm-12.banner-frame.rb-3
-ganool.ag,ganool.ph##.col-xs-12.col-md-6.col-lg-6
 tribunnews.com##.content [style="width:160px; height:600px;"]
 bioskop21.info##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
@@ -300,7 +298,6 @@ idfl.me##[id^="yui-gen"].postcontainer
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
-ganool.ag,ganool.ph##a[href*=".link/"][target="_blank"]
 cinemaindo.com##a[href="http://Hoyacash.net"]
 zonabola.com##a[href="http://id.afbcash.com"]
 brankasvideo.com##a[href="http://obat-klg-herbal.com"]
@@ -311,7 +308,6 @@ brankasvideo.com##a[href="http://www.faktavimax.com"]
 cinemaindo.com##a[href="http://www.fullbet88.com"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
-ganool.ag,ganool.ph##a[href^="http://keymeta.work/"]
 m.inilah.com##a[href^="http://mkhoj.com"]
 juragan21.com##a[href^="http://sbokiu.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
