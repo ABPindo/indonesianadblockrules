@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PCpOex4W/xLZAIJhToLlhQ
+! Checksum: GFiULZAJrpilALotpxjINA
 ! Title: ABPindo
-! Last modified: 21 Juni 2016, 20:46:00 WIB
+! Last modified: 24 Juni 2016, 13:49:13 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -34,7 +34,9 @@
 ||baliadv.com^$third-party
 ||bmnet-ads.com^$third-party
 ||clickmedia.co.id^$third-party
+||clksite.com^$third-party
 ||eclkmpbn.com^$third-party
+||eclkmpsa.com^$third-party
 ||forumiklan.com^$third-party
 ||go.wsockd.com^$third-party
 ||gratisiklanpasang.com^$third-party
@@ -691,6 +693,7 @@ cinemaindo.tv###sidebar_right > .side:nth-of-type(8) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(9) > .textwidget
 zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
+ganool.ag,ganool.ph###site-container + div
 detik.com###skinad
 tribunnews.com###skinads
 harianjogja.com,solopos.com###solopos_float

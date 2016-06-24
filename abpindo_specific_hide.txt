@@ -133,6 +133,7 @@ cinemaindo.tv###sidebar_right > .side:nth-of-type(8) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(9) > .textwidget
 zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
+ganool.ag,ganool.ph###site-container + div
 detik.com###skinad
 tribunnews.com###skinads
 harianjogja.com,solopos.com###solopos_float
