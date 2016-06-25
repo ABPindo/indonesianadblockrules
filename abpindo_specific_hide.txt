@@ -10,6 +10,7 @@ lihat.co.id###Kolom-random-300
 lihat.co.id###SidebarIklan-wrapper
 chip.co.id###TopBannerBg
 hi10anime.com###__admvnlb__modal_container
+forums.soompi.com###ad-med-rect
 jakbos.com###ad_divRight
 173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,sodasusu.com,vocland.com###ad_global_below_navbar
 detik.com###adpoint5
@@ -308,9 +309,12 @@ zonabola.com##a[href="http://www.bl303.com/"]
 brankasvideo.com##a[href="http://www.faktavimax.com"]
 cinemaindo.com##a[href="http://www.fullbet88.com"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
+vocavoco.com##a[href="http://www.qqdomino.net"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
 m.inilah.com##a[href^="http://mkhoj.com"]
 juragan21.com##a[href^="http://sbokiu.com/"]
+cinemamovie21.net##a[href^="http://www.jayamania.com/"]
+linkbokep.biz##a[href^="http://xtgem.com/click"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 filmku.net##body > div:nth-of-type(2)
 filmku.net##body > div:nth-of-type(4)
@@ -321,7 +325,9 @@ forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:
 forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 jakbos.com##img:nth-of-type(2)
+cinemamovie21.net##img[alt="Togel Online"]
 lensaberita.net##img[alt="agen sbobet"]
+cinemamovie21.net##img[alt="sbobet"]
 bokep.click##img[alt="vimax asli"]
 lihat.co.id##img[style="border:0;display:block;"]
 icinema3satu.net##img[style="height: 125px; width: 125px;"]
