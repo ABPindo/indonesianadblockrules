@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ueTGFZkh2ML2nUWd6a5v7w
+! Checksum: LZgmOi5PaszL462tSULuWA
 ! Title: ABPindo
-! Last modified: 25 Juni 2016, 16:13:27 WIB
+! Last modified: 25 Juni 2016, 21:32:06 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -671,7 +671,6 @@ komikbaru.com,mangafox.me###left-skyscraper
 bioskopgalaxy21.com,cabutin.com,jakbos.com,juragantomatx.com###livechat-eye-catcher
 duniasex.ws###main_content_section > div[align="center"]
 dapurpacu.com###mid-banner
-filmku.net###mm-0 > div:nth-of-type(3)
 cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
 viva.co.id###otp_ads
@@ -722,7 +721,6 @@ indotelko.com###vertical_top_kanal
 bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
 comotin.com##.Widget:nth-of-type(2)
-filmku.net##.act1
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
@@ -736,7 +734,6 @@ dapurpacu.com,kompas.com##.ads
 trendtek.republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
-filmku.net##.ads-banner-block.ad-
 gudang.tv##.ads-content1
 gudang.tv##.ads-content2
 dapurpacu.com##.ads-home
@@ -877,8 +874,6 @@ juragan21.com##a[href^="http://sbokiu.com/"]
 cinemamovie21.net##a[href^="http://www.jayamania.com/"]
 linkbokep.biz##a[href^="http://xtgem.com/click"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
-filmku.net##body > div:nth-of-type(2)
-filmku.net##body > div:nth-of-type(4)
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 situshp.com##div[style="height:260px;"]
