@@ -133,7 +133,6 @@ cinemaindo.tv###sidebar_right > .side:nth-of-type(8) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(9) > .textwidget
 zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
-ganool.ag,ganool.ph###site-container + div
 detik.com###skinad
 tribunnews.com###skinads
 harianjogja.com,solopos.com###solopos_float
@@ -313,6 +312,7 @@ juragan21.com##a[href^="http://sbokiu.com/"]
 cinemamovie21.net##a[href^="http://www.jayamania.com/"]
 linkbokep.biz##a[href^="http://xtgem.com/click"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
+ganool.ag,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 situshp.com##div[style="height:260px;"]

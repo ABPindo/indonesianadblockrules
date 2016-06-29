@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LZgmOi5PaszL462tSULuWA
+! Checksum: LBn3gH11xEgJ54sHNeKrnw
 ! Title: ABPindo
-! Last modified: 25 Juni 2016, 21:32:06 WIB
+! Last modified: 30 June 2016, 04:36:44 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -17,6 +17,7 @@
 ||adbestgame.com^$third-party
 ||adbusinessfree.com^$third-party
 ||addesigner.com^$third-party
+||adexchangecloud.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||adplus.co.id^$third-party
 ||adreviewcamp.com^$third-party
@@ -116,6 +117,7 @@
 ||theclickers.net^$third-party
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
+||tradeadexchange.com^$third-party
 ||useads.com^$third-party
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
@@ -402,9 +404,10 @@ totojitu.gif|
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
 ||104.197.4.220$script,domain=ganool.ag|ganool.ph
-||104.198.198.188$script,domain=ganool.ph
+||104.198.198.188$popup,domain=ganool.ph
 ||173.199.189.86/images/*.gif
 ||21filmcinema.com/wp-content/uploads/*.gif
+||adexchangecloud.com^$popup,domain=ganool.ph
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
 ||animeindo.tv/ad/
@@ -694,7 +697,6 @@ cinemaindo.tv###sidebar_right > .side:nth-of-type(8) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(9) > .textwidget
 zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
-ganool.ag,ganool.ph###site-container + div
 detik.com###skinad
 tribunnews.com###skinads
 harianjogja.com,solopos.com###solopos_float
@@ -874,6 +876,7 @@ juragan21.com##a[href^="http://sbokiu.com/"]
 cinemamovie21.net##a[href^="http://www.jayamania.com/"]
 linkbokep.biz##a[href^="http://xtgem.com/click"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
+ganool.ag,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 situshp.com##div[style="height:260px;"]
@@ -915,6 +918,7 @@ bioskop78.com##td:nth-of-type(3)
 ||manasuka.com/gbr_banner_link/$third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
+||mgid.com^$third-party
 ||modifikasi.com/images/banner/$third-party
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party

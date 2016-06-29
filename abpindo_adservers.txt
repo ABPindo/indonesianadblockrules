@@ -5,6 +5,7 @@
 ||adbestgame.com^$third-party
 ||adbusinessfree.com^$third-party
 ||addesigner.com^$third-party
+||adexchangecloud.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||adplus.co.id^$third-party
 ||adreviewcamp.com^$third-party
@@ -104,6 +105,7 @@
 ||theclickers.net^$third-party
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
+||tradeadexchange.com^$third-party
 ||useads.com^$third-party
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party

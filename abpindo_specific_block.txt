@@ -1,7 +1,8 @@
 ||104.197.4.220$script,domain=ganool.ag|ganool.ph
-||104.198.198.188$script,domain=ganool.ph
+||104.198.198.188$popup,domain=ganool.ph
 ||173.199.189.86/images/*.gif
 ||21filmcinema.com/wp-content/uploads/*.gif
+||adexchangecloud.com^$popup,domain=ganool.ph
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
 ||animeindo.tv/ad/
