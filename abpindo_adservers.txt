@@ -6,6 +6,7 @@
 ||adbusinessfree.com^$third-party
 ||addesigner.com^$third-party
 ||adexchangecloud.com^$third-party
+||adexp.net^$third-party
 ||admarketplace.net^$popup,third-party
 ||adplus.co.id^$third-party
 ||adreviewcamp.com^$third-party
@@ -23,8 +24,10 @@
 ||baliadv.com^$third-party
 ||bmnet-ads.com^$third-party
 ||clickmedia.co.id^$third-party
+||clksite.com$script,domain=filmku.net
 ||clksite.com^$third-party
 ||eclkmpbn.com^$third-party
+||eclkmpsa.com$script,domain=filmku.net
 ||eclkmpsa.com^$third-party
 ||forumiklan.com^$third-party
 ||go.wsockd.com^$third-party

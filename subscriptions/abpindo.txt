@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LBn3gH11xEgJ54sHNeKrnw
+! Checksum: wQYLW7EqHbd/aINrs6YhQg
 ! Title: ABPindo
-! Last modified: 30 June 2016, 04:36:44 WIB
+! Last modified: 30 Juni 2016, 18:41:17 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -18,6 +18,7 @@
 ||adbusinessfree.com^$third-party
 ||addesigner.com^$third-party
 ||adexchangecloud.com^$third-party
+||adexp.net^$third-party
 ||admarketplace.net^$popup,third-party
 ||adplus.co.id^$third-party
 ||adreviewcamp.com^$third-party
@@ -35,8 +36,10 @@
 ||baliadv.com^$third-party
 ||bmnet-ads.com^$third-party
 ||clickmedia.co.id^$third-party
+||clksite.com$script,domain=filmku.net
 ||clksite.com^$third-party
 ||eclkmpbn.com^$third-party
+||eclkmpsa.com$script,domain=filmku.net
 ||eclkmpsa.com^$third-party
 ||forumiklan.com^$third-party
 ||go.wsockd.com^$third-party
@@ -364,11 +367,14 @@ totojitu.gif|
 ##.pusat728
 ##.simple_advert
 ##.topadsense
+##a[href="http://agwcash.com"]
 ##a[href="http://hoyacash.com"]
 ##a[href="http://hoyajackpot.net"]
 ##a[href="http://obatpembesarpenisklg.id/"]
 ##a[href="http://seksipoker.com"]
+##a[href^="http://www.aoecash.com/"]
 ##a[href^="http://www.bursabet.net/"]
+##a[href^="http://www.liga888.com/"]
 ##a[href^="http://www.sbbanner.com/"]
 ##img[alt="Advertisement"]
 ##img[alt="Agen Bola Terpercaya"]
@@ -523,6 +529,7 @@ totojitu.gif|
 ||nontonbareng.tv/img/closeX.png
 ||nontonbareng.tv/wp-content/uploads/*.gif
 ||nontonmovie.web.id/banere/*.gif$image
+||nontonserial.com/wp-content/uploads/2016/*/*.gif$image
 ||nontonstreaming.co/img/closeX.png
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||pancet.com/kbads/
@@ -623,9 +630,9 @@ tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
-nontonstreaming.co###fatas
+nontonserial.com,nontonstreaming.co###fatas
 cinema-indo.com,cinemaindo.web.id,ganool.cc,layarkaca21.com,layarkaca21.net,layarkaca21.tv,nontonmovie.web.id###fbanner
-nontonstreaming.co###fbawah
+nontonserial.com,nontonstreaming.co###fbawah
 cinema-indo.com,layarkaca21.net###fbbanner
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
@@ -680,6 +687,8 @@ viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
 cinema-indo.com,nontonmovie.web.id###pbanner
+nontonserial.com###previewBox2
+nontonserial.com###previewBox4
 layarkaca21.com###ptbanner
 zonabola.com###rAds
 utusan.com.my###rec_ad4
@@ -750,7 +759,7 @@ teknoup.com##.advertisement_box2
 webpcmag.com#@#.afs_ads
 warungremang.com##.aligncenter
 palingseru.com##.alignnone.size-large.wp-image-458
-nontonstreaming.co##.ban_empat
+nontonserial.com,nontonstreaming.co##.ban_empat
 nontonstreaming.co##.banner
 dream.co.id##.banner-sc2
 oktavita.com##.banner-zone
@@ -797,6 +806,7 @@ tribunnews.com##.content [style="width:160px; height:600px;"]
 bioskop21.info##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
 dapurpacu.com##.fixed-ads-atas
+kaskus.co.id##.floating-banner-test
 teknoup.com##.footer_banner
 warungbebas.com##.gbtab
 kompas.com##.hAds
@@ -827,6 +837,7 @@ tribunnews.com##.ovh[style="width:468px;height:60px"]
 viva.co.id##.portlet.sideskycrapper
 otomania.com##.r-ads
 kaskus.co.id##.r-link
+film-ganool.com##.random
 okezone.com##.rc-ad-300x250
 unixmen.com##.reveal-modal-bg
 republika.co.id##.set-ads-468
