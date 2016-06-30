@@ -116,6 +116,7 @@ viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
 cinema-indo.com,nontonmovie.web.id###pbanner
+bioskop201.info,ganool.nl###popupwindow
 nontonserial.com###previewBox2
 nontonserial.com###previewBox4
 layarkaca21.com###ptbanner
@@ -234,6 +235,7 @@ kaskus.co.id##.col-sm-12.banner-frame.rb-3
 tribunnews.com##.content [style="width:160px; height:600px;"]
 bioskop21.info##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
+bioskop201.info,ganool.nl##.fake_player
 dapurpacu.com##.fixed-ads-atas
 kaskus.co.id##.floating-banner-test
 teknoup.com##.footer_banner

@@ -37,6 +37,7 @@
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif
 ||cytochemistryrecitativewrasse.com/$popup
+||d1az0m14mjvs40.cloudfront.net$script,domain=bioskop201.info|ganool.nl
 ||d1mib12jcgwmnv.cloudfront.net$script,domain=ganool.ag|ganool.cc|ganool.ph
 ||d1rb5wwywwoqqm.cloudfront.net$script,domain=ganool.ag|ganool.ph
 ||d2b560qq58menv.cloudfront.net^$script,domain=ganool.ag|ganool.ph

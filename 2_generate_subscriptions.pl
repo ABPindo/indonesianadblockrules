@@ -39,7 +39,7 @@ if (-f "$subsdir/.lock")
 
 writeFile("$subsdir/.lock", $$);
 
-system("hg", "pull", "--update", $sourcedir);
+#system("hg", "pull", "--update", $sourcedir);
 
 my %exists = ();
 
@@ -95,7 +95,7 @@ foreach my $file (readdir(SOURCE))
 
   writeFile("$subsdir/$file", $data);
 
-  unlink("$subsdir/$file.gz");
+#  unlink("$subsdir/$file.gz");
 #  system("7za", "a", "-tgzip", "-mx=9", "-mpass=15", "$subsdir/$file.gz", "$subsdir/$file") && warn "Failed to compress file $subsdir/$file. Please ensure that p7zip is installed on the system.";
 }
 closedir(SOURCE);
