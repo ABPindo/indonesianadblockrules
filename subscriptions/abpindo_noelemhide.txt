@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: AyKo5jc38zVkt8nI3zEgpQ
+! Checksum: ySiRGSbY2t/wL9Wx14/MuA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 30 June 2016, 04:36:44 WIB
+! Last modified: 30 Juni 2016, 18:41:17 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -18,6 +18,7 @@
 ||adbusinessfree.com^$third-party
 ||addesigner.com^$third-party
 ||adexchangecloud.com^$third-party
+||adexp.net^$third-party
 ||admarketplace.net^$popup,third-party
 ||adplus.co.id^$third-party
 ||adreviewcamp.com^$third-party
@@ -35,8 +36,10 @@
 ||baliadv.com^$third-party
 ||bmnet-ads.com^$third-party
 ||clickmedia.co.id^$third-party
+||clksite.com$script,domain=filmku.net
 ||clksite.com^$third-party
 ||eclkmpbn.com^$third-party
+||eclkmpsa.com$script,domain=filmku.net
 ||eclkmpsa.com^$third-party
 ||forumiklan.com^$third-party
 ||go.wsockd.com^$third-party
@@ -442,6 +445,7 @@ totojitu.gif|
 ||nontonbareng.tv/img/closeX.png
 ||nontonbareng.tv/wp-content/uploads/*.gif
 ||nontonmovie.web.id/banere/*.gif$image
+||nontonserial.com/wp-content/uploads/2016/*/*.gif$image
 ||nontonstreaming.co/img/closeX.png
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||pancet.com/kbads/
