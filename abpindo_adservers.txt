@@ -24,7 +24,6 @@
 ||baliadv.com^$third-party
 ||bmnet-ads.com^$third-party
 ||clickmedia.co.id^$third-party
-||clksite.com$script,domain=filmku.net
 ||clksite.com^$third-party
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party

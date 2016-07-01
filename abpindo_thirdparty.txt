@@ -6,7 +6,6 @@
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
-||ewetot.com^$image,object,domain=bintangmawar.net
 ||flexterkita.com^$third-party
 ||gambar123.com^$image,third-party
 ||gambar456.com^$image,third-party
@@ -14,17 +13,14 @@
 ||javapic.com^$third-party
 ||jingkrak.com^$third-party
 ||lapak-online.net/$popup,third-party
-||lytogame.com/images/partner/$third-party
-||lytogame.com/partner/$third-party
 ||magic-data.biz^$third-party
-||manasuka.com/gbr_banner_link/$third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||mgid.com^$third-party
-||modifikasi.com/images/banner/$third-party
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
 ||mylogin.co^$domain=hentai2read.com
+||naloindo.net^$third-party
 ||noobscript.com^$third-party
 ||numpanglewat.com^$third-party
 ||obatjogja.com^$third-party

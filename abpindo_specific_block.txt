@@ -52,6 +52,7 @@
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
+||ewetot.com^$image,object,domain=bintangmawar.net
 ||fansubsupdate.com/res/img/sampleads/
 ||film-ganool.com/wp-content/uploads/*.gif
 ||film21terbaru.org/wp-content/uploads/*.gif
@@ -68,6 +69,7 @@
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hentaihere.com/app/assets/static/$popup,domain=hentaihere.com
 ||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop78.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.cc|kabar2.com|lensaberita.net|movie76.com|sodasusu.com
+||i.imgur.com/*.gif$image,domain=abgbugil.net|capcus.net|forumbookie.com|forumjudi.org|ibugil.net|indobugil.net|kikil.net|ngobrolbola.com|zonalendir.net
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
@@ -105,15 +107,18 @@
 ||layarkaca21.tv/assets/*.gif
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.kim
+||lytogame.com/images/partner/$third-party
+||lytogame.com/partner/$third-party
+||manasuka.com/gbr_banner_link/$third-party
 ||mediaindonesia.com/ajax/banners
 ||mediaindonesia.com/files/banners/
 ||mediaindonesia.com/public/banner/flash/
 ||memeksempit.com/banner/
 ||modemku.com/image-banner/
+||modifikasi.com/images/banner/$third-party
 ||modifikasi.com/images/banner_
 ||mractionclub.com/banner/
 ||musisi.com/musifile/images_banner/
-||naloindo.net/ticker/960x70.php
 ||newopenx.detik.com/images/
 ||nontonbareng.tv/img/closeX.png
 ||nontonbareng.tv/wp-content/uploads/*.gif
@@ -154,5 +159,6 @@
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonabola.com/floating_banner.js
+||zonabola.com/wp-content/uploads/*.gif$image
 ||zonabola.com/wp-content/uploads/*/Banner-
 ||zonabola.com^*/iklan/
