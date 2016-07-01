@@ -21,7 +21,6 @@ harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 dapurpacu.com###ads-vert-300
-remo-xp.com###ads1
 tvkabel.net###adv
 unixmen.com###an-Modal
 inilah.com,kompasiana.com###anchormasklink
@@ -36,7 +35,6 @@ tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
 kotakgame.com###bannertheme_left
 kotakgame.com###bannertheme_right
-zonafilem.com###berita > table > tbody > tr > td > table > tbody > tr:nth-of-type(1) > td
 bioskop78.com###billboard_banner
 bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
@@ -46,8 +44,6 @@ anisubsia.com,benfile.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21t
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 bioskopmovie21.com,movie76.com###close-teaser
-gudang.tv###container-bottom-menu-ads
-gudang.tv###container-bottom-menu-ads2
 bioskop78.com###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > center:nth-of-type(2)
 anisubsia.com###de13
 bioskopmovie.tv,bioskopmovie21.com###directorio > .random > center
@@ -84,7 +80,6 @@ zonapanas.com###header-right > .header-banner
 banyakfilm.pw###header_sag
 banyakfilm.pw###header_sol
 indosiar.com###headerbanner
-movie25.link###hilang
 topfilmz.com###idb3
 lensaindonesia.com###idcomboard1.com-728x90
 lensaindonesia.com###idcomright1.com-300x250
@@ -142,10 +137,10 @@ harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinemaindo.com,cinemaindo.tv,film-ganool.com###teaser1
-22cinema.com,bioskop21.info,bioskop21.link,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,galaxymaya.com,ganool.be,ganool.nl,ganool.ph,movie76.net,nontonfilm21.link,nontonmovie.web.id,unduhfilm.net###teaser2
-172.245.177.74,22cinema.com,bioskop21.co,bioskop21.info,bioskop21.link,bioskopgalaxy21.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,ganool.be,ganool.nl,ganool.ph,movie25.link,movie76.com,movie76.net,nontonfilm21.link,nontonmovie.web.id,unduhfilm.net###teaser3
+22cinema.download,bioskop21.info,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,galaxymaya.com,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser2
+172.245.177.74,22cinema.download,bioskop21.co,bioskop21.info,bioskopgalaxy21.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,ganool.nl,ganool.ph,movie76.com,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
 172.245.177.74,sodasusu.com###teaser4
-22cinema.com,movie76.com###teaser5
+22cinema.download,movie76.com###teaser5
 movie76.com###teaser6
 movie76.com###teaser7
 indotelko.com###title_kanal
@@ -165,7 +160,6 @@ comotin.com##.Widget:nth-of-type(2)
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
-gugling.com##.ad336x280atas
 indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 loveindonesia.com##.ad_990_80
@@ -175,8 +169,6 @@ dapurpacu.com,kompas.com##.ads
 trendtek.republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
-gudang.tv##.ads-content1
-gudang.tv##.ads-content2
 dapurpacu.com##.ads-home
 kompas.com##.ads2
 dapurpacu.com##.ads2-home
@@ -287,7 +279,7 @@ detik.com##.skinad_2
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
 okezone.com##.sponsored-belt468x60
-film21terbaru.net##.teaser3
+film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
 bioskopgalaxy21.com,tvkabel.net##.textwidget
 bioskoptigalima.com,icinema3satu.net##.textwidget img

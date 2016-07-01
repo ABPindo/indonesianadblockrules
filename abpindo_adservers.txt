@@ -27,7 +27,6 @@
 ||clksite.com$script,domain=filmku.net
 ||clksite.com^$third-party
 ||eclkmpbn.com^$third-party
-||eclkmpsa.com$script,domain=filmku.net
 ||eclkmpsa.com^$third-party
 ||forumiklan.com^$third-party
 ||go.wsockd.com^$third-party
