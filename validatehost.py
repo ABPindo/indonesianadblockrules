@@ -136,6 +136,13 @@ else:
   lastmod = os.path.getmtime(filename)
   tm = datetime.datetime.strptime(time.ctime(lastmod), "%a %b %d %H:%M:%S %Y")
   print("Last modified: " + str(tm))
+  checksum = ""
+  with open(filename, "r") as fo:
+    content_string = fo.read()
+    cucok = re.search('Checksum:\s*(\w+)', content_string)
+    if cucok:
+      checksum = cucok.group(0)
+      print(checksum)
   print("")
 
   print("Downhost will be writen in this log file:")
@@ -154,15 +161,19 @@ else:
     # force activate curl
     args["curl"] = True
 
+  else:
+    print("")
+    print("[--Not using any proxy--]")
+
 
   # clearing log
   log_fh = open(log_downhost, 'w')
   tm = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-  log_fh.write('[::Downhost:: Check: '+str(tm)+', Source: '+filename+']'+"\n")
+  log_fh.write('[::Downhost:: Check: '+str(tm)+', Source: '+filename+(", "+checksum if checksum else "")+']'+"\n")
   log_fh.close()
 
 
-lines = [line.rstrip('\n') for line in open(filename)]
+lines = [line.rstrip('\n') for line in open(filename, "r")]
 bulkhost = []
 for line in lines:
   ValidIpAddressRegex = r"\b(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\b"
@@ -193,7 +204,6 @@ for line in lines:
 
 # endfor:lines
 
-
 # -------------------
 nHost = len(bulkhost)
 if nHost == 0:
@@ -217,11 +227,10 @@ else:
 
     is_OK = ping(host, args)
     if 'tor' in args and args["tor"] and not is_OK:
-      dummy_args = args
+      dummy_args = args.copy()
       dummy_args['tor'] = False
-      print(" [2nd trial..]", end="")
+      print(" [2nd-step]", end="")
       is_OK = ping(host, dummy_args)
-
 
     if is_OK == True: 
       print(" [OK]")
