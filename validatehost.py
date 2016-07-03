@@ -48,7 +48,12 @@ filename='subscriptions/abpindo.txt'
 log_downhost='downhost.log'
 
 # list of exclude host being check
-exclusions = ['blogspot.com']
+exclusions = [
+  'blogspot.com',
+  'abpindo.blogspot.com',
+  'raw.githubusercontent.com',
+  'forums.lanik.us',
+]
 
 log_fh = False
 
@@ -232,12 +237,13 @@ else:
       print(" [2nd-step]", end="")
       is_OK = ping(host, dummy_args)
 
+
     if is_OK == True: 
       print(" [OK]")
     else:
       print(" >>>> [DOWN] !! " + host + "")
-
       logdown(host, args)
+
 
     sys.stdout.flush()
     iStep = (iStep - 1)
