@@ -10,6 +10,7 @@
 ||admarketplace.net^$popup,third-party
 ||adplus.co.id^$third-party
 ||adreviewcamp.com^$third-party
+||ads-link.net^$third-party
 ||adsbingo.com^$third-party
 ||adsense-id.com^$third-party
 ||adsensemu.com^$third-party
@@ -111,4 +112,5 @@
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
+||ylx-4.com^$third-party
 ||yx-ads6.com^$third-party
