@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sYeytQllTLMj8r0zHUejlg
+! Checksum: SVZQbUQKZbMLf19YBPPSdQ
 ! Title: ABPindo
-! Last modified: 02 Juli 2016, 04:14:38 WIB
+! Last modified: 04 Juli 2016, 16:41:15 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -367,10 +367,14 @@ totojitu.gif|
 ##.topadsense
 ##a[href="http://Hoyacash.net"]
 ##a[href="http://agwcash.com"]
+##a[href="http://asiapoker.com/"]
 ##a[href="http://hoyacash.com"]
 ##a[href="http://hoyajackpot.net"]
 ##a[href="http://obatpembesarpenisklg.id/"]
 ##a[href="http://seksipoker.com"]
+##a[href="http://www.detikbet.net"]
+##a[href="http://www.fast2bet.com/"]
+##a[href="http://www.gadingpoker.com"]
 ##a[href^="http://www.aoecash.com/"]
 ##a[href^="http://www.bursabet.net/"]
 ##a[href^="http://www.liga888.com/"]
@@ -481,8 +485,7 @@ totojitu.gif|
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hentaihere.com/app/assets/static/$popup,domain=hentaihere.com
-||i.imgur.com/*.gif$domain=animekompi.web.id|bioskop78.com|bioskop78.net|cinemaindo.web.id|downloadfilmbaru.com|ganool.cc|kabar2.com|lensaberita.net|movie76.com|sodasusu.com
-||i.imgur.com/*.gif$image,domain=abgbugil.net|capcus.net|forumbookie.com|forumjudi.org|ibugil.net|indobugil.net|kikil.net|ngobrolbola.com|zonalendir.net
+||i.imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ganool.cc|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|movie76.com|ngobrolbola.com|sodasusu.com|sukabookie.com|zonalendir.net
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
@@ -590,7 +593,7 @@ chip.co.id###TopBannerBg
 hi10anime.com###__admvnlb__modal_container
 forums.soompi.com###ad-med-rect
 jakbos.com###ad_divRight
-173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,kikil.net,sodasusu.com,vocland.com###ad_global_below_navbar
+173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,kikil.net,sodasusu.com,unyil.net,vocland.com###ad_global_below_navbar
 detik.com###adpoint5
 cinemaindo.web.id###ads
 dapurpacu.com###ads-728
@@ -640,6 +643,7 @@ cinema-indo.com,layarkaca21.net###fbbanner
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
 movie76.com###fixedbanner2
+unyil.net###float-atas
 remo-xp.com###float-left
 remo-xp.com###float-right
 173.199.189.86,bioskop55.club,bioskopgalaxy21.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,juragantomatx.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
@@ -698,6 +702,8 @@ zonabola.com###rAds
 utusan.com.my###rec_ad4
 komikbaru.com,mangafox.me###right-skyscraper
 susterbokep.com###right_ads_float_phonedevelop
+gadismalam.net###semprot_ads_side_left
+gadismalam.net###semprot_ads_side_right
 gopego.com###showcase1
 gopego.com###showcase2
 zonapanas.com###sidebar > .sidebar-banner
@@ -737,6 +743,7 @@ kapanlagi.com###v5-showcase3
 indotelko.com###vertical_top_kanal
 bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
+lusuh.com##.ImageAdsSpan
 comotin.com##.Widget:nth-of-type(2)
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
@@ -798,6 +805,7 @@ kompas.com##.boxSkinAd
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
+lusuh.com##.cintalusuh_floating_banner_top
 juragan21.com##.cintasemprot_floating_banner_bottom
 sindonews.com##.clear.size-wide-custom.dummy
 tempo.co##.closebanner1
@@ -877,6 +885,7 @@ iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
 ibugil.net##a[href="http://agenqq.online/"]
 zonabola.com##a[href="http://id.afbcash.com"]
+lusuh.com##a[href="http://japsex.org"]
 brankasvideo.com##a[href="http://obat-klg-herbal.com"]
 brankasvideo.com##a[href="http://obatpembesarvimax.com/"]
 brankasvideo.com##a[href="http://pusat-vimaxasli.com"]

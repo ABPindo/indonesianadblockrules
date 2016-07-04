@@ -12,7 +12,7 @@ chip.co.id###TopBannerBg
 hi10anime.com###__admvnlb__modal_container
 forums.soompi.com###ad-med-rect
 jakbos.com###ad_divRight
-173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,kikil.net,sodasusu.com,vocland.com###ad_global_below_navbar
+173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,kikil.net,sodasusu.com,unyil.net,vocland.com###ad_global_below_navbar
 detik.com###adpoint5
 cinemaindo.web.id###ads
 dapurpacu.com###ads-728
@@ -62,6 +62,7 @@ cinema-indo.com,layarkaca21.net###fbbanner
 bioskop212.net###filmoncereklam
 movie76.com###fixedbanner
 movie76.com###fixedbanner2
+unyil.net###float-atas
 remo-xp.com###float-left
 remo-xp.com###float-right
 173.199.189.86,bioskop55.club,bioskopgalaxy21.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,juragantomatx.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
@@ -120,6 +121,8 @@ zonabola.com###rAds
 utusan.com.my###rec_ad4
 komikbaru.com,mangafox.me###right-skyscraper
 susterbokep.com###right_ads_float_phonedevelop
+gadismalam.net###semprot_ads_side_left
+gadismalam.net###semprot_ads_side_right
 gopego.com###showcase1
 gopego.com###showcase2
 zonapanas.com###sidebar > .sidebar-banner
@@ -159,6 +162,7 @@ kapanlagi.com###v5-showcase3
 indotelko.com###vertical_top_kanal
 bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
+lusuh.com##.ImageAdsSpan
 comotin.com##.Widget:nth-of-type(2)
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
@@ -220,6 +224,7 @@ kompas.com##.boxSkinAd
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
+lusuh.com##.cintalusuh_floating_banner_top
 juragan21.com##.cintasemprot_floating_banner_bottom
 sindonews.com##.clear.size-wide-custom.dummy
 tempo.co##.closebanner1
@@ -299,6 +304,7 @@ iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
 ibugil.net##a[href="http://agenqq.online/"]
 zonabola.com##a[href="http://id.afbcash.com"]
+lusuh.com##a[href="http://japsex.org"]
 brankasvideo.com##a[href="http://obat-klg-herbal.com"]
 brankasvideo.com##a[href="http://obatpembesarvimax.com/"]
 brankasvideo.com##a[href="http://pusat-vimaxasli.com"]
