@@ -56,6 +56,7 @@ exclusions = [
 ]
 
 log_fh = False
+curl_timeout = 60 # in seconds
 
 # check tor proxy connectivity, must used with curl
 def tor_OK(args):
@@ -84,14 +85,21 @@ def ping(host, args):
 
     curl_opts = ""
     if 'tor' in args and args["tor"]:
-      curl_opts += " --socks4a localhost:"+str(args["tor"])
+      curl_opts = curl_opts +" --socks4a localhost:"+str(args["tor"])
 
-    cmd = "curl -sIL "+curl_opts+" http://"+host+" | egrep -A 10 '403|301|302|200 OK' | grep -E 'HTTP\/1\.1|Location\:'"
+    if 'timeout' in args and args["timeout"]:
+      curl_opts = curl_opts +" --connect-timeout "+str(args["timeout"])
+
+    cmd = "curl -sIL "+curl_opts+" http://"+host+" | egrep -iA 10 'HTTP\/1\.1' | grep -iE '(?:1\s(?:4[0-2]\d{1}|30\d{1}|20\d{1}))|Location\:'"
 
     ret = subprocess.Popen(cmd, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     output, err = ret.communicate(b"input data that is passed to subprocess' stdin")
     output = output.decode()
-    ret = "200 OK" in output or host in output
+    output = output.strip()
+    if not output:
+      return False
+    else:
+      ret = "HTTP/1.1" in output or host in output
 
   else:
     ping_str = "-n 1" if is_windows else "-c 1"
@@ -119,6 +127,7 @@ parser.add_argument('-t','--tor', help='Use Tor Proxy port (9050). Will switch t
 parser.add_argument('-l','--log', help='Write log of down host, default: True', required=False, default=True)
 parser.add_argument('-c','--curl', help='Use curl mode, default: True', required=False, default=True)
 parser.add_argument('-f','--filter_filename', help='Path to subscription filter filename', required=False, default=filename)
+parser.add_argument('-T','--timeout', help='Maximum time allowed for connection via curl', required=False)
 args = vars(parser.parse_args())
 
 if "filter_filename" in args and args["filter_filename"]:
@@ -135,7 +144,7 @@ if not os.path.exists(filename):
   sys.exit()
 
 else:
-  
+
   print("Subscription found:")
   print("> "+filename)
   lastmod = os.path.getmtime(filename)
@@ -171,6 +180,7 @@ else:
     print("[--Not using any proxy--]")
 
 
+
   # clearing log
   log_fh = open(log_downhost, 'w')
   tm = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -185,7 +195,7 @@ for line in lines:
 
   ValidHostnameRegex = r"\b((?:[\da-z\.-]+)\.([a-z\.]{2,6}))\b"
 
-  NonTLD = r"gif|png|jpg|jpeg|html|php|htm|js|css|ico"
+  NonTLD = r"gif|png|jpg|jpeg|html|php|htm|js|css|ico|swf|asp"
 
   # parse valid hostname
   cucok = re.finditer(ValidHostnameRegex, line, re.IGNORECASE)
