@@ -90,7 +90,7 @@ def ping(host, args):
     if 'timeout' in args and args["timeout"]:
       curl_opts = curl_opts +" --connect-timeout "+str(args["timeout"])
 
-    cmd = "curl -sIL "+curl_opts+" http://"+host+" | egrep -iA 10 'HTTP\/1\.1' | grep -iE '(?:1\s(?:4[0-2]\d{1}|30\d{1}|20\d{1}))|Location\:'"
+    cmd = "curl -sIL "+curl_opts+" http://"+host+" | egrep -iA 10 'HTTP/1.' | grep -iP '(?:\.\d\s+(?:4[0-2]\d{1}|30\d{1}|20\d{1}))|Location\:'"
 
     ret = subprocess.Popen(cmd, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     output, err = ret.communicate(b"input data that is passed to subprocess' stdin")
@@ -99,7 +99,7 @@ def ping(host, args):
     if not output:
       return False
     else:
-      ret = "HTTP/1.1" in output or host in output
+      ret = "HTTP/1." in output or host in output
 
   else:
     ping_str = "-n 1" if is_windows else "-c 1"
