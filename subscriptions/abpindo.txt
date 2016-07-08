@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PcnGIdWmkZbHuCCSNsaL/Q
+! Checksum: aXd5akAZsqEQcgReG3l4YQ
 ! Title: ABPindo
-! Last modified: 05 Juli 2016, 04:59:59 WIB
+! Last modified: 08 Juli 2016, 13:00:08 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -327,6 +327,7 @@ totojitu.gif|
 ###adv-placeholder
 ###bireklam
 ###bottom_exclusive_ads
+###cfs_top_div
 ###desaiklan
 ###dewiqq
 ###floatingad
@@ -720,6 +721,7 @@ tribunnews.com###skinads
 sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
 harianjogja.com,solopos.com###solopos_float
+ganool.ph###srcadsurlblock
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinemaindo.com,cinemaindo.tv,film-ganool.com###teaser1
@@ -883,6 +885,7 @@ zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
 ibugil.net##a[href="http://agenqq.online/"]
+filmku.net##a[href="http://hokipk.com"]
 zonabola.com##a[href="http://id.afbcash.com"]
 lusuh.com##a[href="http://japsex.org"]
 brankasvideo.com##a[href="http://obat-klg-herbal.com"]
