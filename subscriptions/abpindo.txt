@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8KwGNbAzz4GcJ6KaAIS3CA
+! Checksum: c/QeK3xPmenCWuU3GZaqwQ
 ! Title: ABPindo
-! Last modified: 11 July 2016, 00:40:06 WIB
+! Last modified: 11 July 2016, 02:25:34 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -908,6 +908,7 @@ ganool.ph##a[href^="http://tfp.sapphirum.com/ref"]
 cinemamovie21.net##a[href^="http://www.jayamania.com/"]
 linkbokep.biz##a[href^="http://xtgem.com/click"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
+files.indowebster.com##body > [id^="idb"]
 ganool.ag,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
