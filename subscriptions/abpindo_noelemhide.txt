@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: uSKWaa4a47b/BoP0XUmWlg
+! Checksum: vId/tN6ilpBVmIg916e6sg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 09 Juli 2016, 10:19:27 WIB
+! Last modified: 10 Juli 2016, 21:20:21 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -449,6 +449,7 @@ totojitu.gif|
 ||nontonserial.com/wp-content/uploads/2016/*/*.gif$image
 ||nontonstreaming.co/img/closeX.png
 ||nontonstreaming.co/wp-content/uploads/*.gif
+||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
 ||pancet.com/kbads/
 ||petikmangga.com/wp-content/uploads/*.gif
 ||placehold.it/300x250
@@ -529,6 +530,7 @@ totojitu.gif|
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
 @@||cinemamkv.com^$generichide
+@@||digitalponsel.com^$elemhide
 @@||gambar123.com/mejik_$domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com/pic/em/*.gif$domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com/pic/pi$image,domain=46.166.167.16|semprot.com|semprotku.com

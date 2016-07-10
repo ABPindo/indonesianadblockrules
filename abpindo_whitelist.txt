@@ -2,6 +2,7 @@
 @@||ads.id^$~third-party
 @@||animeindo.tv^$elemhide
 @@||cinemamkv.com^$generichide
+@@||digitalponsel.com^$elemhide
 @@||gambar123.com/mejik_$domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com/pic/em/*.gif$domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com/pic/pi$image,domain=46.166.167.16|semprot.com|semprotku.com
