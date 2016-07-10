@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: vId/tN6ilpBVmIg916e6sg
+! Checksum: edqplUDb4/4ueAKQ58mf4g
 ! Title: ABPindo tanpa element hiding
-! Last modified: 10 Juli 2016, 21:20:21 WIB
+! Last modified: 11 July 2016, 00:40:06 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -322,8 +322,12 @@ sarangbola.gif|
 sbobetqq.gif|
 totojitu.gif|
 ! *** abpindo_specific_block.txt ***
+! Footages popup-ganool: [104.198.198.188, 104.197.140.120]
+||104.196.*.*^$popup,domain=ganool.ph
+||104.197.*.*^$popup,domain=ganool.ph
 ||104.197.4.220$script,domain=ganool.ag|ganool.ph
-||104.198.198.188$popup,domain=ganool.ph
+||104.198.*.*^$popup,domain=ganool.ph
+||104.199.*.*^$popup,domain=ganool.ph
 ||173.199.189.86/images/*.gif
 ||adexchangecloud.com^$popup,domain=ganool.ph
 ||alertpay.com/banners/

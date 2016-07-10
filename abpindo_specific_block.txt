@@ -1,5 +1,9 @@
+! Footages popup-ganool: [104.198.198.188, 104.197.140.120]
+||104.196.*.*^$popup,domain=ganool.ph
+||104.197.*.*^$popup,domain=ganool.ph
 ||104.197.4.220$script,domain=ganool.ag|ganool.ph
-||104.198.198.188$popup,domain=ganool.ph
+||104.198.*.*^$popup,domain=ganool.ph
+||104.199.*.*^$popup,domain=ganool.ph
 ||173.199.189.86/images/*.gif
 ||adexchangecloud.com^$popup,domain=ganool.ph
 ||alertpay.com/banners/
