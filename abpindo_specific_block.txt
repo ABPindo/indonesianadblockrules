@@ -1,4 +1,6 @@
-! Footages popup-ganool: [104.198.198.188, 104.197.140.120]
+! Tracked popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
+||104.154.*.*^$popup,domain=ganool.ph
+||104.155.*.*^$popup,domain=ganool.ph
 ||104.196.*.*^$popup,domain=ganool.ph
 ||104.197.*.*^$popup,domain=ganool.ph
 ||104.197.4.220$script,domain=ganool.ag|ganool.ph
