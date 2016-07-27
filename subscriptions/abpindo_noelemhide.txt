@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: +q6RLnt4k5cHQcS5/VjnBw
+! Checksum: cjt4Rbk2rMTVi9Ers4FaQg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 23 July 2016, 19:39:02 WIB
+! Last modified: 28 Juli 2016, 05:35:48 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -322,7 +322,11 @@ sarangbola.gif|
 sbobetqq.gif|
 totojitu.gif|
 ! *** abpindo_specific_block.txt ***
-! Footages popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
+||hotabis.com/wp-content/uploads/*.gif
+||mydramalist.com/assets/img/blank_spnsr.jpg$image
+||mydramalist.com/assets/img/blank_spnsr300x250.png$image
+||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
+! Tracked popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
 ||104.154.*.*^$popup,domain=ganool.ph
 ||104.155.*.*^$popup,domain=ganool.ph
 ||104.196.*.*^$popup,domain=ganool.ph
@@ -543,7 +547,7 @@ totojitu.gif|
 @@||gambar123.com/pic/pi$image,domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com/sihir_$image,domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com/sulap_$domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/vb/images$domain=46.166.167.16|semprot.com|semprotku.com
+@@||gambar123.com/vb/images/*.png$domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com^$script,domain=46.166.167.16|semprot.com|semprotku.com
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide

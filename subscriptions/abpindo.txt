@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HVSOom/x7N7E/j3+BfQPyA
+! Checksum: PKXZoRHc2sS4wg3p948ndw
 ! Title: ABPindo
-! Last modified: 23 July 2016, 19:39:02 WIB
+! Last modified: 28 Juli 2016, 05:35:48 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -416,7 +416,11 @@ totojitu.gif|
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
-! Footages popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
+||hotabis.com/wp-content/uploads/*.gif
+||mydramalist.com/assets/img/blank_spnsr.jpg$image
+||mydramalist.com/assets/img/blank_spnsr300x250.png$image
+||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
+! Tracked popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
 ||104.154.*.*^$popup,domain=ganool.ph
 ||104.155.*.*^$popup,domain=ganool.ph
 ||104.196.*.*^$popup,domain=ganool.ph
@@ -739,6 +743,7 @@ sodasusu.com###teaser4
 22cinema.download,movie76.com###teaser5
 movie76.com###teaser6
 movie76.com###teaser7
+hotabis.com###text-28 > .textwidget
 indotelko.com###title_kanal
 detik.com###top_banner
 blogspot.com,jakbos.com###topbar
@@ -838,7 +843,9 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
-brankasvideo.com,filmku.net##.ktz-aftermenubanner
+brankasvideo.com,dramovies.com,filmku.net##.ktz-aftermenubanner
+dramovies.com##.ktz-banneraftercontent
+dramovies.com##.ktz-bannersingletop
 kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 bioskop21.id##.lenyap
@@ -876,6 +883,9 @@ detik.com##.skinad_1
 detik.com##.skinad_2
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
+www.hipwee.com##.spb_middle.spb_banner
+mydramalist.com##.spnsr-top
+mydramalist.com##.spnsr_right
 okezone.com##.sponsored-belt468x60
 film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
@@ -905,7 +915,9 @@ zonabola.com##a[href="http://www.bl303.com/"]
 brankasvideo.com##a[href="http://www.faktavimax.com"]
 cinemaindo.com##a[href="http://www.fullbet88.com"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
+hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]
 vocavoco.com##a[href="http://www.qqdomino.net"]
+46.166.167.16,semprot.com,semprotku.com##a[href^="go.php"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
 juragan21.com##a[href^="http://sbokiu.com/"]
 ganool.ph##a[href^="http://tfp.sapphirum.com/ref"]
@@ -978,7 +990,7 @@ bioskop78.com##td:nth-of-type(3)
 @@||gambar123.com/pic/pi$image,domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com/sihir_$image,domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com/sulap_$domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/vb/images$domain=46.166.167.16|semprot.com|semprotku.com
+@@||gambar123.com/vb/images/*.png$domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com^$script,domain=46.166.167.16|semprot.com|semprotku.com
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
