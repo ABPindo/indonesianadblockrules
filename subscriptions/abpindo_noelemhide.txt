@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: cjt4Rbk2rMTVi9Ers4FaQg
+! Checksum: 4DaQSaiVACiTTDPM/BHtJw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 28 Juli 2016, 05:35:48 WIB
+! Last modified: 30 Juli 2016, 12:10:32 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -254,11 +254,8 @@
 ||milkfountain.com^
 ||mudmonster.org^
 ||nobrain.dk^
-||nutabuse.com^
 ||octopusgirl.com^
-||phonejapan.com^
 ||porkspin.com^
-||prolapseman.com^
 ||purplehoodie.com^
 ||qsng.cn^
 ||rumdesign.com/wrong/
@@ -272,12 +269,10 @@
 ||sukatoro.com^
 ||sweety.biz^
 ||thatsnotsexy.com^
-||themacuser.org^
 ||themobiletracker.com^
 ||thewillpower.org^
 ||turdgasm.com^
 ||vomitgirl.org^
-||walkthedinosaur.com^
 ||winterrowd.com^
 ||wormgush.com^
 ||yellaface.com^
@@ -402,7 +397,7 @@ totojitu.gif|
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hentaihere.com/app/assets/static/$popup,domain=hentaihere.com
-||i.imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ganool.cc|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|movie76.com|ngobrolbola.com|sodasusu.com|sukabookie.com|zonalendir.net
+||i.imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ganool.cc|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|sodasusu.com|sukabookie.com|zonalendir.net
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
@@ -446,7 +441,6 @@ totojitu.gif|
 ||mediaindonesia.com/ajax/banners
 ||mediaindonesia.com/files/banners/
 ||mediaindonesia.com/public/banner/flash/
-||memeksempit.com/banner/
 ||modemku.com/image-banner/
 ||modifikasi.com/images/banner/$third-party
 ||modifikasi.com/images/banner_

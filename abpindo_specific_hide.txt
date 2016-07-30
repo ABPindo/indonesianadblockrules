@@ -40,10 +40,10 @@ bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 tribunnews.com###boxright [style="width:300px; height:250px;"]
-anisubsia.com,benfile.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.org,kabar2.com,mangacanblog.com,mangakita.net,mangaku.web.id,movie76.com,nusareborn.in,oploverz.net,semuaberita.com,wardhanime.net###btm_banner
+anisubsia.com,benfile.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.org,kabar2.com,mangacanblog.com,mangakita.net,mangaku.web.id,nusareborn.in,oploverz.net,semuaberita.com,wardhanime.net###btm_banner
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
-bioskopmovie21.com,movie76.com###close-teaser
+bioskopmovie21.com###close-teaser
 bioskop78.com###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > center:nth-of-type(2)
 anisubsia.com###de13
 bioskopmovie.tv,bioskopmovie21.com###directorio > .random > center
@@ -60,17 +60,15 @@ cinema-indo.com,cinemaindo.web.id,ganool.cc,layarkaca21.com,layarkaca21.net,laya
 nontonserial.com,nontonstreaming.co###fbawah
 cinema-indo.com,layarkaca21.net###fbbanner
 bioskop212.net###filmoncereklam
-movie76.com###fixedbanner
-movie76.com###fixedbanner2
 unyil.net###float-atas
 remo-xp.com###float-left
 remo-xp.com###float-right
 173.199.189.86,bioskop55.club,bioskopgalaxy21.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,juragantomatx.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
-bioskop78.com,movie76.com,movie76.net###floating_banner_bottoms
+bioskop78.com,movie76.net###floating_banner_bottoms
 bioskop212.net,bioskop55.club###floating_banner_left
 bioskop212.net,bioskop55.club###floating_banner_right
-bioskopgalaxy21.com,bioskopstar88.com,juraganmovie.net,juragantomatx.com,movie76.com,movie76.net###floating_banner_top
+bioskopgalaxy21.com,bioskopstar88.com,juraganmovie.net,juragantomatx.com,movie76.net###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 bioskop78.com###floating_banner_tops
 untukku.com###footer-adcont
@@ -145,11 +143,9 @@ downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinemaindo.com,cinemaindo.tv,film-ganool.com###teaser1
 22cinema.download,bioskop21.info,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,galaxymaya.com,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser2
-22cinema.download,bioskop21.co,bioskop21.info,bioskopgalaxy21.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,ganool.nl,ganool.ph,kikil.net,movie76.com,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
+22cinema.download,bioskop21.co,bioskop21.info,bioskopgalaxy21.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
 sodasusu.com###teaser4
-22cinema.download,movie76.com###teaser5
-movie76.com###teaser6
-movie76.com###teaser7
+22cinema.download###teaser5
 hotabis.com###text-28 > .textwidget
 indotelko.com###title_kanal
 detik.com###top_banner
@@ -188,7 +184,7 @@ mangaku.web.id##.adv
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
 webpcmag.com#@#.afs_ads
-warungremang.com##.aligncenter
+indoxtream.com##.aligncenter
 palingseru.com##.alignnone.size-large.wp-image-458
 nontonserial.com,nontonstreaming.co##.ban_empat
 nontonstreaming.co##.banner
@@ -262,7 +258,6 @@ dapurpacu.com##.mid-banner
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id##.modal
-animeout.com##.mv-adv
 detik.com##.normalbanner
 animeindo.id##.nyaa300
 animeindo.id##.nyaa728
@@ -279,9 +274,9 @@ republika.co.id##.set-ads-468
 cinemaindo.com##.side:nth-of-type(7)
 cinemaindo.com##.side:nth-of-type(8)
 cinemaindo.com##.side:nth-of-type(9)
-warungremang.com##.sidebar-widget:nth-of-type(1)
-warungremang.com##.sidebar-widget:nth-of-type(3)
-warungremang.com##.sidebar-widget:nth-of-type(4)
+indoxtream.com##.sidebar-widget:nth-of-type(1)
+indoxtream.com##.sidebar-widget:nth-of-type(3)
+indoxtream.com##.sidebar-widget:nth-of-type(4)
 ganoolmovie.com,sejutafilm.com##.sidebarborder:nth-of-type(2)
 ganoolmovie.com##.sidebarborder:nth-of-type(4)
 ganoolmovie.com##.sidebarborder:nth-of-type(5)
