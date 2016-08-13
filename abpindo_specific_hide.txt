@@ -1,5 +1,6 @@
 www.indostreamings.com###content > div:nth-of-type(1)
 www.indostreamings.com##.textwidget
+www.bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 1seetv.com###DADrightclick
