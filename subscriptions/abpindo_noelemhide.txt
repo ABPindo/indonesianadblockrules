@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 4DaQSaiVACiTTDPM/BHtJw
+! Checksum: X6rfnN52/QY1JtnZA7u9OA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 30 Juli 2016, 12:10:32 WIB
+! Last modified: 13 Agustus 2016, 08:45:50 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -321,6 +321,7 @@ totojitu.gif|
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
+||www.indostreamings.com/wp-content/uploads/*.gif$image
 ! Tracked popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
 ||104.154.*.*^$popup,domain=ganool.ph
 ||104.155.*.*^$popup,domain=ganool.ph

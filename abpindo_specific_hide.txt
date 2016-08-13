@@ -1,6 +1,3 @@
-www.indostreamings.com###content > div:nth-of-type(1)
-www.indostreamings.com##.textwidget
-www.bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 1seetv.com###DADrightclick
@@ -48,6 +45,7 @@ mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 bioskopmovie21.com###close-teaser
 bioskop78.com###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > center:nth-of-type(2)
+www.indostreamings.com###content > div:nth-of-type(1)
 anisubsia.com###de13
 bioskopmovie.tv,bioskopmovie21.com###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
@@ -294,7 +292,7 @@ mydramalist.com##.spnsr_right
 okezone.com##.sponsored-belt468x60
 film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
-bioskopgalaxy21.com,tvkabel.net##.textwidget
+bioskopgalaxy21.com,tvkabel.net,www.indostreamings.com##.textwidget
 bioskoptigalima.com,icinema3satu.net##.textwidget img
 klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
@@ -323,6 +321,7 @@ lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]
 vocavoco.com##a[href="http://www.qqdomino.net"]
 46.166.167.16,semprot.com,semprotku.com##a[href^="go.php"]
+www.bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
 juragan21.com##a[href^="http://sbokiu.com/"]
 ganool.ph##a[href^="http://tfp.sapphirum.com/ref"]
