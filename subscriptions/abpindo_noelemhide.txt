@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: X6rfnN52/QY1JtnZA7u9OA
+! Checksum: CiuVhVFMm7+fjQgWMIS8sg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 13 Agustus 2016, 08:45:50 WIB
+! Last modified: 15 Agustus 2016, 17:58:38 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -37,16 +37,13 @@
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||forumiklan.com^$third-party
-||gratisiklanpasang.com^$third-party
 ||groupiklan.com^$third-party
 ||gudangbanner.com$third-party
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
 ||iklanads.com^$third-party
-||iklanbaris-gratis.com^$third-party
 ||iklanbarisgratis.co.uk^$third-party
-||iklanbarisgratis.info^$third-party
 ||iklanbarisgratispasang.com^$third-party
 ||iklanbarisgratispasang.net^$third-party
 ||iklanbarismu.com^$third-party
@@ -63,7 +60,6 @@
 ||iklanoke.com^$third-party
 ||iklanonlinemu.com^$third-party
 ||iklanpasanggratis.com^$third-party
-||iklanprimaku.com^$third-party
 ||iklantanpadaftar.com^$third-party
 ||iklantelevisi.com^$third-party
 ||iklantext.com^$third-party
@@ -84,7 +80,6 @@
 ||lokeriklan.com^$third-party
 ||maist.jp^$third-party
 ||masteriklan.net^$third-party
-||mauiklangratis.com^$third-party
 ||offerjuice.me^$popup,third-party
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
@@ -244,7 +239,6 @@
 ||killerijo.net^
 ||lemonparty.org^
 ||likaraoke.com^
-||liveleak.com^
 ||lolhello.com^
 ||lolshock.com^
 ||loltrain.com^
