@@ -16,8 +16,8 @@
 ||asikbookie.com/images/banner/
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
-||bintangmawar.net/forum/medright_banner.php
 ||bintangmawar.net/forum/med_banner.php
+||bintangmawar.net/forum/medright_banner.php
 ||bintangmawar.net/forum/top_banner.php
 ||bioskop21.in/rtr$script,domain=bioskop21.info
 ||bioskop21.info/bokep.gif
@@ -27,6 +27,7 @@
 ||blogspot.com$image,domain=cinemamovie21.net
 ||blogspot.com/$popup,domain=bioskop21.us
 ||blogspot.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nontonfilm.mobi|smallencode.com|zonabola.com
+||blogspot.com/*.gif$image,domain=bioskop99.mobi|nontonbokep17.com
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js

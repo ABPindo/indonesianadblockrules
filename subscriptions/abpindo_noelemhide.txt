@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: CiuVhVFMm7+fjQgWMIS8sg
+! Checksum: KQgXxsi351U6DlJlVmRL1A
 ! Title: ABPindo tanpa element hiding
-! Last modified: 15 Agustus 2016, 17:58:38 WIB
+! Last modified: 17 Agustus 2016, 15:14:52 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -122,6 +122,7 @@
 ||angkajitutogel.net/$popup,third-party
 ||angkajitutogel.net^$third-party
 ||asiabolabet.com^$third-party
+||asianpokerseo.com
 ||bandarbet77.net^$third-party
 ||bandarjudi.com/$popup,third-party
 ||bejopoker.com^$third-party
@@ -158,6 +159,7 @@
 ||guardwork.info^$popup,third-party
 ||guardwork.info^$third-party
 ||icebola88.com^$popup,third-party
+||idola999.com^$popup,third-party
 ||idomn.com^$third-party
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
@@ -311,11 +313,6 @@ sarangbola.gif|
 sbobetqq.gif|
 totojitu.gif|
 ! *** abpindo_specific_block.txt ***
-||hotabis.com/wp-content/uploads/*.gif
-||mydramalist.com/assets/img/blank_spnsr.jpg$image
-||mydramalist.com/assets/img/blank_spnsr300x250.png$image
-||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
-||www.indostreamings.com/wp-content/uploads/*.gif$image
 ! Tracked popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
 ||104.154.*.*^$popup,domain=ganool.ph
 ||104.155.*.*^$popup,domain=ganool.ph
@@ -345,6 +342,7 @@ totojitu.gif|
 ||blogspot.com$image,domain=cinemamovie21.net
 ||blogspot.com/$popup,domain=bioskop21.us
 ||blogspot.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nontonfilm.mobi|smallencode.com|zonabola.com
+||blogspot.com/*.gif$image,domain=bioskop99.mobi|nontonbokep17.com
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
@@ -385,6 +383,7 @@ totojitu.gif|
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
+||gambar123.com/vb/images/xyz-
 ||ganool.online/IKLAN/obat%20pembesar%20penis.png
 ||gsshop.co.id^*/background/banner-
 ||harakah.net.my/images/stories/iklan/
@@ -392,6 +391,7 @@ totojitu.gif|
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hentaihere.com/app/assets/static/$popup,domain=hentaihere.com
+||hotabis.com/wp-content/uploads/*.gif
 ||i.imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ganool.cc|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|sodasusu.com|sukabookie.com|zonalendir.net
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
@@ -404,6 +404,7 @@ totojitu.gif|
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indoforum.top/banners/
+||indostreamings.com/wp-content/uploads/*.gif$image
 ||indotelko.com/images/banner/
 ||indotelko.com/inc/banner.css
 ||indotelko.com/inc/c_banner.js
@@ -441,6 +442,8 @@ totojitu.gif|
 ||modifikasi.com/images/banner_
 ||mractionclub.com/banner/
 ||musisi.com/musifile/images_banner/
+||mydramalist.com/assets/img/blank_spnsr.jpg$image
+||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||newopenx.detik.com/images/
 ||nontonbareng.tv/img/closeX.png
 ||nontonbareng.tv/wp-content/uploads/*.gif
@@ -478,6 +481,7 @@ totojitu.gif|
 ||usnewopenx.detik.com/images/
 ||utusan.com.my/utusan/iklan/
 ||warungremang.com/wp-content/uploads/*.gif
+||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||yourjavascript.com/0653544211/lompatin.js$script,domain=filmku.net
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
@@ -530,13 +534,6 @@ totojitu.gif|
 @@||animeindo.tv^$elemhide
 @@||cinemamkv.com^$generichide
 @@||digitalponsel.com^$elemhide
-@@||gambar123.com/*.php$domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/mejik_$domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/pic/em/*.gif$domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/pic/pi$image,domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/sihir_$image,domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/sulap_$domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/vb/images/*.png$domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com^$script,domain=46.166.167.16|semprot.com|semprotku.com
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide

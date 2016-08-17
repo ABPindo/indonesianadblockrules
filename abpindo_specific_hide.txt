@@ -71,7 +71,8 @@ bioskop212.net,bioskop55.club###floating_banner_left
 bioskop212.net,bioskop55.club###floating_banner_right
 bioskopgalaxy21.com,bioskopstar88.com,juraganmovie.net,juragantomatx.com,movie76.net###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-bioskop78.com###floating_banner_tops
+nontonbokep17.com###floating_banner_top1
+bioskop78.com,bioskop99.mobi###floating_banner_tops
 untukku.com###footer-adcont
 sodasusu.com###forum_ads_8
 resep.web.id###googlebox
@@ -325,7 +326,9 @@ www.bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 kaskus.co.id##a[href^="http://kad.kaskus."]
 juragan21.com##a[href^="http://sbokiu.com/"]
 ganool.ph##a[href^="http://tfp.sapphirum.com/ref"]
+bioskop99.mobi##a[href^="http://togellounge99.com/"]
 cinemamovie21.net##a[href^="http://www.jayamania.com/"]
+bioskop99.mobi##a[href^="http://www.togellounge.net"]
 linkbokep.biz##a[href^="http://xtgem.com/click"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 ganool.ag,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
