@@ -3,13 +3,6 @@
 @@||animeindo.tv^$elemhide
 @@||cinemamkv.com^$generichide
 @@||digitalponsel.com^$elemhide
-@@||gambar123.com/*.php$domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/mejik_$domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/pic/em/*.gif$domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/pic/pi$image,domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/sihir_$image,domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/sulap_$domain=46.166.167.16|semprot.com|semprotku.com
-@@||gambar123.com/vb/images/*.png$domain=46.166.167.16|semprot.com|semprotku.com
 @@||gambar123.com^$script,domain=46.166.167.16|semprot.com|semprotku.com
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
