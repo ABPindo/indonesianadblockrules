@@ -25,13 +25,11 @@
 ||bioskop55.club/wp-content/uploads/*.gif
 ||bioskopmovie21.com/wp-content/uploads/*.gif
 ||blogspot.com$image,domain=cinemamovie21.net
-||blogspot.com/$popup,domain=bioskop21.us
 ||blogspot.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nontonfilm.mobi|smallencode.com|zonabola.com
 ||blogspot.com/*.gif$image,domain=bioskop99.mobi|nontonbokep17.com
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
-||cdn.drnxs.com/js/gp.min.js$script,domain=ganool.ag|ganool.ph
 ||cdn.kaskus.com/img/skin/*.gif
 ||cdn.livechatinc.com/tracking.js
 ||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js
@@ -54,9 +52,7 @@
 ||dewa.tv/banner/
 ||dewamovie.com/wp-content/uploads/2016/*.gif$image
 ||dewanonton.com/wp-content/uploads/2016/*.gif$image
-||dinastybet.com/banner/
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
-||doramax264.com/wp-content/uploads/2011/10/dmax-copy35.jpg$image
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
@@ -85,7 +81,6 @@
 ||images.gameweb.co.id/gw/ads/
 ||img.banggood.com/deals/affiliate_member_banner/
 ||imgbox.com/*.gif$domain=cinemaindo.web.id
-||imgur.com/*.gif$domain=bioskop78.net
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indoforum.top/banners/

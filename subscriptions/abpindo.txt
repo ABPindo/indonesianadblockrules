@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: mixOkVCrjEe3VVHP9PRSbA
+! Checksum: B3+YUAYAt3s0+tv17zKEqA
 ! Title: ABPindo
-! Last modified: 17 Agustus 2016, 15:14:52 WIB
+! Last modified: 21 Agustus 2016, 19:15:15 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -122,13 +122,13 @@
 ||angkajitutogel.net/$popup,third-party
 ||angkajitutogel.net^$third-party
 ||asiabolabet.com^$third-party
-||asianpokerseo.com
+||asianpokerseo.com/$popup,third-party
 ||bandarbet77.net^$third-party
 ||bandarjudi.com/$popup,third-party
 ||bejopoker.com^$third-party
 ||belajar-bisnis.com^$third-party
-||bet365.com^
-||bet365.es^
+||bet365.com/$popup,third-party
+||bet365.es/$popup,third-party
 ||betwin188.com^$third-party
 ||bigextracash.com^$third-party
 ||bintangbola.net^$third-party
@@ -145,6 +145,7 @@
 ||daftarbandarpoker.com^$popup,third-party
 ||daftartogelonline.info^$third-party
 ||dewapoker.net^$third-party
+||dinastybet.com^$third-party
 ||dorabet.net^$third-party
 ||doremibet.com^$third-party
 ||duitbux.com^$third-party
@@ -159,6 +160,7 @@
 ||guardwork.info^$popup,third-party
 ||guardwork.info^$third-party
 ||icebola88.com^$popup,third-party
+||idola999.com/$popup,third-party
 ||idola999.com^$popup,third-party
 ||idomn.com^$third-party
 ||incrasebux.com^$third-party
@@ -193,7 +195,7 @@
 ||sbobethk.com^$third-party
 ||sbobetid.com^$third-party
 ||sbobetuk.com^$third-party
-||see-work.info^
+||see-work.info^$third-party
 ||senangpokerseo.com^$third-party
 ||seni888.com^$popup,third-party
 ||situsjudi.com/$popup,third-party
@@ -434,13 +436,11 @@ totojitu.gif|
 ||bioskop55.club/wp-content/uploads/*.gif
 ||bioskopmovie21.com/wp-content/uploads/*.gif
 ||blogspot.com$image,domain=cinemamovie21.net
-||blogspot.com/$popup,domain=bioskop21.us
 ||blogspot.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nontonfilm.mobi|smallencode.com|zonabola.com
 ||blogspot.com/*.gif$image,domain=bioskop99.mobi|nontonbokep17.com
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
-||cdn.drnxs.com/js/gp.min.js$script,domain=ganool.ag|ganool.ph
 ||cdn.kaskus.com/img/skin/*.gif
 ||cdn.livechatinc.com/tracking.js
 ||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js
@@ -463,9 +463,7 @@ totojitu.gif|
 ||dewa.tv/banner/
 ||dewamovie.com/wp-content/uploads/2016/*.gif$image
 ||dewanonton.com/wp-content/uploads/2016/*.gif$image
-||dinastybet.com/banner/
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
-||doramax264.com/wp-content/uploads/2011/10/dmax-copy35.jpg$image
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
@@ -494,7 +492,6 @@ totojitu.gif|
 ||images.gameweb.co.id/gw/ads/
 ||img.banggood.com/deals/affiliate_member_banner/
 ||imgbox.com/*.gif$domain=cinemaindo.web.id
-||imgur.com/*.gif$domain=bioskop78.net
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indoforum.top/banners/
@@ -877,6 +874,7 @@ www.hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
 mydramalist.com##.spnsr_right
 okezone.com##.sponsored-belt468x60
+nontondramaonline.net##.td-banner-wrap-full
 film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
 bioskopgalaxy21.com,tvkabel.net,www.indostreamings.com##.textwidget
@@ -918,6 +916,8 @@ bioskop99.mobi##a[href^="http://www.togellounge.net"]
 linkbokep.biz##a[href^="http://xtgem.com/click"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 ganool.ag,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
+ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .hideviews.bannerslot1
+ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .mainContainer > .mainContent > .hideviews.bannerslot1
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 situshp.com##div[style="height:260px;"]

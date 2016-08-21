@@ -291,6 +291,7 @@ www.hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
 mydramalist.com##.spnsr_right
 okezone.com##.sponsored-belt468x60
+nontondramaonline.net##.td-banner-wrap-full
 film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
 bioskopgalaxy21.com,tvkabel.net,www.indostreamings.com##.textwidget
@@ -332,6 +333,8 @@ bioskop99.mobi##a[href^="http://www.togellounge.net"]
 linkbokep.biz##a[href^="http://xtgem.com/click"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 ganool.ag,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
+ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .hideviews.bannerslot1
+ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .mainContainer > .mainContent > .hideviews.bannerslot1
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 situshp.com##div[style="height:260px;"]

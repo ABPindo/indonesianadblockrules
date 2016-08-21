@@ -7,13 +7,13 @@
 ||angkajitutogel.net/$popup,third-party
 ||angkajitutogel.net^$third-party
 ||asiabolabet.com^$third-party
-||asianpokerseo.com
+||asianpokerseo.com/$popup,third-party
 ||bandarbet77.net^$third-party
 ||bandarjudi.com/$popup,third-party
 ||bejopoker.com^$third-party
 ||belajar-bisnis.com^$third-party
-||bet365.com^
-||bet365.es^
+||bet365.com/$popup,third-party
+||bet365.es/$popup,third-party
 ||betwin188.com^$third-party
 ||bigextracash.com^$third-party
 ||bintangbola.net^$third-party
@@ -30,6 +30,7 @@
 ||daftarbandarpoker.com^$popup,third-party
 ||daftartogelonline.info^$third-party
 ||dewapoker.net^$third-party
+||dinastybet.com^$third-party
 ||dorabet.net^$third-party
 ||doremibet.com^$third-party
 ||duitbux.com^$third-party
@@ -44,6 +45,7 @@
 ||guardwork.info^$popup,third-party
 ||guardwork.info^$third-party
 ||icebola88.com^$popup,third-party
+||idola999.com/$popup,third-party
 ||idola999.com^$popup,third-party
 ||idomn.com^$third-party
 ||incrasebux.com^$third-party
@@ -78,7 +80,7 @@
 ||sbobethk.com^$third-party
 ||sbobetid.com^$third-party
 ||sbobetuk.com^$third-party
-||see-work.info^
+||see-work.info^$third-party
 ||senangpokerseo.com^$third-party
 ||seni888.com^$popup,third-party
 ||situsjudi.com/$popup,third-party
