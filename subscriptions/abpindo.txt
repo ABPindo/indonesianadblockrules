@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: B3+YUAYAt3s0+tv17zKEqA
+! Checksum: yEO3MRtfwSLHjtc6yZ5Mxg
 ! Title: ABPindo
-! Last modified: 21 Agustus 2016, 19:15:15 WIB
+! Last modified: 27 Agustus 2016, 09:19:25 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -457,6 +457,7 @@ totojitu.gif|
 ||d1mib12jcgwmnv.cloudfront.net^$script,domain=ganool.ag|ganool.cc|ganool.ph
 ||d1rb5wwywwoqqm.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||d2b560qq58menv.cloudfront.net^$script,domain=ganool.ag|ganool.ph
+||d2nn3xyicdpsrf.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||d3al52d8cojds7.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||d4bsxdtgtmhxt.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||detik.com/images/banners/
