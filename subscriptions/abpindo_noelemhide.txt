@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ipdBitBND7/0LeCWHwMsWA
+! Checksum: FAf1u1UuYN+wDlbQAQzlew
 ! Title: ABPindo tanpa element hiding
-! Last modified: 27 Agustus 2016, 09:19:25 WIB
+! Last modified: 31 Agustus 2016, 09:49:34 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -161,7 +161,6 @@
 ||guardwork.info^$third-party
 ||icebola88.com^$popup,third-party
 ||idola999.com/$popup,third-party
-||idola999.com^$popup,third-party
 ||idomn.com^$third-party
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
@@ -221,7 +220,6 @@
 ||bowlgirl.com^
 ||charonboat.com^
 ||cherrycake.org^
-||cupchicks.com^
 ||dadparty.com^
 ||drewpickles.com^
 ||eelsoup.net^
@@ -230,7 +228,6 @@
 ||fishermen.ytmnd.com^
 ||fruitlauncher.com^
 ||funnelchair.com^
-||ghostboy.co.uk^
 ||goatsegirl.org^
 ||goplaysee.com^
 ||grubbychicks.com^
@@ -383,7 +380,6 @@ totojitu.gif|
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||gambar123.com/vb/images/xyz-
-||ganool.online/IKLAN/obat%20pembesar%20penis.png
 ||gsshop.co.id^*/background/banner-
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
@@ -450,7 +446,6 @@ totojitu.gif|
 ||nontonstreaming.co/img/closeX.png
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
-||pancet.com/kbads/
 ||petikmangga.com/wp-content/uploads/*.gif
 ||placehold.it/300x250
 ||placehold.it/780x90

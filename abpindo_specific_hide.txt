@@ -11,7 +11,6 @@ lihat.co.id###SidebarIklan-wrapper
 chip.co.id###TopBannerBg
 hi10anime.com###__admvnlb__modal_container
 forums.soompi.com###ad-med-rect
-jakbos.com###ad_divRight
 173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,kikil.net,sodasusu.com,unyil.net,vocland.com###ad_global_below_navbar
 detik.com###adpoint5
 cinemaindo.web.id###ads
@@ -104,8 +103,7 @@ pkspiyungan.org###largebanner
 mangafap.com###lbanner
 kabar2.com###leaderboard
 komikbaru.com,mangafox.me###left-skyscraper
-bioskopgalaxy21.com,cabutin.com,jakbos.com,juragantomatx.com###livechat-eye-catcher
-duniasex.ws###main_content_section > div[align="center"]
+bioskopgalaxy21.com,cabutin.com,juragantomatx.com###livechat-eye-catcher
 dapurpacu.com###mid-banner
 cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
@@ -144,8 +142,8 @@ ganool.ph###srcadsurlblock
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinemaindo.com,cinemaindo.tv,film-ganool.com###teaser1
-22cinema.download,bioskop21.info,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,galaxymaya.com,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser2
-22cinema.download,bioskop21.co,bioskop21.info,bioskopgalaxy21.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
+22cinema.download,bioskop21.info,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser2
+22cinema.download,bioskop21.co,bioskop21.info,bioskopgalaxy21.com,downloadfilmbaru.com,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
 sodasusu.com###teaser4
 22cinema.download###teaser5
 hotabis.com###text-28 > .textwidget
@@ -300,7 +298,6 @@ klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
-galaxymaya.com##.widget-content
 46.166.167.16,semprot.com,semprotku.com##[class$="floating_banner_bottom"]
 46.166.167.16,semprot.com,semprotku.com##[class$="floating_banner_top"]
 46.166.167.16,semprot.com,semprotku.com##[class^="semprotlum"]

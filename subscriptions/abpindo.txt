@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yEO3MRtfwSLHjtc6yZ5Mxg
+! Checksum: GB/0YTRfRvaRXgf0i4K7vw
 ! Title: ABPindo
-! Last modified: 27 Agustus 2016, 09:19:25 WIB
+! Last modified: 31 Agustus 2016, 09:49:34 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -161,7 +161,6 @@
 ||guardwork.info^$third-party
 ||icebola88.com^$popup,third-party
 ||idola999.com/$popup,third-party
-||idola999.com^$popup,third-party
 ||idomn.com^$third-party
 ||incrasebux.com^$third-party
 ||indoagenbola.com^$popup,third-party
@@ -221,7 +220,6 @@
 ||bowlgirl.com^
 ||charonboat.com^
 ||cherrycake.org^
-||cupchicks.com^
 ||dadparty.com^
 ||drewpickles.com^
 ||eelsoup.net^
@@ -230,7 +228,6 @@
 ||fishermen.ytmnd.com^
 ||fruitlauncher.com^
 ||funnelchair.com^
-||ghostboy.co.uk^
 ||goatsegirl.org^
 ||goplaysee.com^
 ||grubbychicks.com^
@@ -477,7 +474,6 @@ totojitu.gif|
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||gambar123.com/vb/images/xyz-
-||ganool.online/IKLAN/obat%20pembesar%20penis.png
 ||gsshop.co.id^*/background/banner-
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
@@ -544,7 +540,6 @@ totojitu.gif|
 ||nontonstreaming.co/img/closeX.png
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
-||pancet.com/kbads/
 ||petikmangga.com/wp-content/uploads/*.gif
 ||placehold.it/300x250
 ||placehold.it/780x90
@@ -595,7 +590,6 @@ lihat.co.id###SidebarIklan-wrapper
 chip.co.id###TopBannerBg
 hi10anime.com###__admvnlb__modal_container
 forums.soompi.com###ad-med-rect
-jakbos.com###ad_divRight
 173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,kikil.net,sodasusu.com,unyil.net,vocland.com###ad_global_below_navbar
 detik.com###adpoint5
 cinemaindo.web.id###ads
@@ -688,8 +682,7 @@ pkspiyungan.org###largebanner
 mangafap.com###lbanner
 kabar2.com###leaderboard
 komikbaru.com,mangafox.me###left-skyscraper
-bioskopgalaxy21.com,cabutin.com,jakbos.com,juragantomatx.com###livechat-eye-catcher
-duniasex.ws###main_content_section > div[align="center"]
+bioskopgalaxy21.com,cabutin.com,juragantomatx.com###livechat-eye-catcher
 dapurpacu.com###mid-banner
 cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
@@ -728,8 +721,8 @@ ganool.ph###srcadsurlblock
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinemaindo.com,cinemaindo.tv,film-ganool.com###teaser1
-22cinema.download,bioskop21.info,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,galaxymaya.com,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser2
-22cinema.download,bioskop21.co,bioskop21.info,bioskopgalaxy21.com,downloadfilmbaru.com,duniasex.ws,galaxymaya.com,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
+22cinema.download,bioskop21.info,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser2
+22cinema.download,bioskop21.co,bioskop21.info,bioskopgalaxy21.com,downloadfilmbaru.com,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
 sodasusu.com###teaser4
 22cinema.download###teaser5
 hotabis.com###text-28 > .textwidget
@@ -884,7 +877,6 @@ klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
-galaxymaya.com##.widget-content
 46.166.167.16,semprot.com,semprotku.com##[class$="floating_banner_bottom"]
 46.166.167.16,semprot.com,semprotku.com##[class$="floating_banner_top"]
 46.166.167.16,semprot.com,semprotku.com##[class^="semprotlum"]
