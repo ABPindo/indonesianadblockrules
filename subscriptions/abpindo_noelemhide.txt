@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: FAf1u1UuYN+wDlbQAQzlew
+! Checksum: xwXIbjejD2JwBxI6YVK5Yg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 31 Agustus 2016, 09:49:34 WIB
+! Last modified: 05 September 2016, 12:26:27 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -202,6 +202,7 @@
 ||star88bet.com/$popup,third-party
 ||star88bola.com^$third-party
 ||togelmaya.com^$third-party
+||togeltoto.net^$third-party
 ||tri7bet.com^$third-party
 ||u16822.com^$third-party
 ||vimaxtrial.com^$third-party
@@ -366,6 +367,7 @@ totojitu.gif|
 ||detik.com/images/banners/
 ||dewa.tv/banner/
 ||dewamovie.com/wp-content/uploads/2016/*.gif$image
+||dewamovie.net/wp-content/uploads/*.gif
 ||dewanonton.com/wp-content/uploads/2016/*.gif$image
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
