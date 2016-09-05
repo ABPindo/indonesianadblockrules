@@ -19,6 +19,7 @@
 ||bintangmawar.net/forum/med_banner.php
 ||bintangmawar.net/forum/medright_banner.php
 ||bintangmawar.net/forum/top_banner.php
+||bioskop168.online/wp-content/uploads/*.gif$image
 ||bioskop21.in/rtr$script,domain=bioskop21.info
 ||bioskop21.info/bokep.gif
 ||bioskop212.net/wp-content/uploads/*.gif
@@ -35,7 +36,7 @@
 ||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js
 ||cinema-indo.com/banere/*.gif$image
 ||cinemaindo.com/wp-content/uploads/*.gif
-||cinemaindo.tv/wp-content/uploads/2016/*.gif$image
+||cinemaindo.tv/wp-content/uploads/*.gif
 ||cinemaindo.web.id/banere/
 ||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$script,~third-party
 ||coblos.net^*.swf$domain=bintangmawar.net
@@ -51,9 +52,9 @@
 ||d4bsxdtgtmhxt.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||detik.com/images/banners/
 ||dewa.tv/banner/
-||dewamovie.com/wp-content/uploads/2016/*.gif$image
+||dewamovie.com/wp-content/uploads/*.gif
 ||dewamovie.net/wp-content/uploads/*.gif
-||dewanonton.com/wp-content/uploads/2016/*.gif$image
+||dewanonton.com/wp-content/uploads/*.gif
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
@@ -90,7 +91,7 @@
 ||indotelko.com/inc/banner.css
 ||indotelko.com/inc/c_banner.js
 ||jagatreview.com/wp-content/uploads/*-SKIN-
-||juragan21.com/wp-content/uploads/2016/*.gif$image
+||juragan21.com/wp-content/uploads/*.gif
 ||jwpsrv.com/library/+QwJzEEdEeKNySIACp8kUw.js$domain=bioskop78.com
 ||kad.kaskus.co.id/banner/$subdocument
 ||kad.kaskus.com/banner/$subdocument
@@ -98,6 +99,7 @@
 ||kapanlagi.com^*/banner/
 ||kaskus.co.id/images/banner-wap/
 ||kaskus.com/images/banner-wap/
+||kdramaindo.com/wp-content/uploads/*.gif$image
 ||keripikcadas.com/banner/
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
 ||kompas.com/data/banner/
@@ -129,7 +131,7 @@
 ||nontonbareng.tv/img/closeX.png
 ||nontonbareng.tv/wp-content/uploads/*.gif
 ||nontonmovie.web.id/banere/*.gif$image
-||nontonserial.com/wp-content/uploads/2016/*/*.gif$image
+||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
@@ -138,6 +140,7 @@
 ||placehold.it/780x90
 ||porntrex.com/images/pt728.gif
 ||postimg.org/*.gif$domain=downloadfilmbaru.com|r-l.me
+||postimg.org/*.gif$image,domain=cinemaindo.web.id
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
@@ -160,6 +163,7 @@
 ||uploadboy.com/bannerset/
 ||usnewopenx.detik.com/images/
 ||utusan.com.my/utusan/iklan/
+||videocrot.com/wp-content/uploads/*/iklan.gif
 ||warungremang.com/wp-content/uploads/*.gif
 ||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||yourjavascript.com/0653544211/lompatin.js$script,domain=filmku.net

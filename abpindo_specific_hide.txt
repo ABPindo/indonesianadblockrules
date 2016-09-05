@@ -12,6 +12,7 @@ chip.co.id###TopBannerBg
 hi10anime.com###__admvnlb__modal_container
 forums.soompi.com###ad-med-rect
 173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,kikil.net,sodasusu.com,unyil.net,vocland.com###ad_global_below_navbar
+grabvideo.co###adplayer
 detik.com###adpoint5
 cinemaindo.web.id###ads
 dapurpacu.com###ads-728
@@ -30,11 +31,14 @@ tempointeraktif.com###banner-bawah
 duniaku.net###banner-popup-desktop
 panduanpercuma.info###banner125
 banyakfilm.pw###bannerikan
+teknologi.inilah.com###bannerkiri
 tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
 kotakgame.com###bannertheme_left
 kotakgame.com###bannertheme_right
 bioskop78.com###billboard_banner
+bioskop168.online###bioskop-kanan
+bioskop168.online###bioskop-kiri
 bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
@@ -111,7 +115,7 @@ indotelko.com###more_stories
 viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
-cinema-indo.com,nontonmovie.web.id###pbanner
+cinema-indo.com,cinemaindo.web.id,nontonmovie.web.id###pbanner
 bioskop201.info,ganool.nl###popupwindow
 nontonserial.com###previewBox2
 nontonserial.com###previewBox4
@@ -144,10 +148,12 @@ downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinemaindo.com,cinemaindo.tv,film-ganool.com###teaser1
 22cinema.download,bioskop21.info,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser2
-22cinema.download,bioskop21.co,bioskop21.info,bioskopgalaxy21.com,downloadfilmbaru.com,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
+22cinema.download,bioskop21.co,bioskop21.info,bioskopgalaxy21.com,cinemaindo.tv,downloadfilmbaru.com,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
 sodasusu.com###teaser4
 22cinema.download###teaser5
 hotabis.com###text-28 > .textwidget
+videocrot.com###text-30 > .textwidget
+videocrot.com###text-6 > .textwidget
 indotelko.com###title_kanal
 detik.com###top_banner
 blogspot.com,jakbos.com###topbar
@@ -164,6 +170,8 @@ bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
 lusuh.com##.ImageAdsSpan
 comotin.com##.Widget:nth-of-type(2)
+sundul.com##.\33 .Premium.Sundul
+sundul.com##.\34 .Premium.Sundul
 clip.cewecewe.com##.ad
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
@@ -210,6 +218,7 @@ lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
 tekno.kompas.com##.banner_right2
+modifikasi.com##.bannerpos
 nontonmovie.web.id##.bannersinglefot
 bharian.com.my##.bh-ad
 beritagar.id##.bottom-20.box-widget.right-300.banner300x250.banner
@@ -221,6 +230,8 @@ kompas.com##.boxBanner1
 kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
+inilah.com##.bt-g1.b-g3.wb-300x100
+inilah.com##.bt-g1.b-g3.wb-300x250
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
@@ -235,6 +246,7 @@ kaskus.co.id##.col-sm-12.banner-frame.rb-3
 tribunnews.com##.content [style="width:160px; height:600px;"]
 bioskop21.info##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
+teknologi.inilah.com##.d.wp-120x600
 bioskop201.info,ganool.nl##.fake_player
 dapurpacu.com##.fixed-ads-atas
 kaskus.co.id##.floating-banner-test
@@ -250,6 +262,7 @@ gambarkeren.info##.iklankotak1
 cinemaindo.web.id##.img-responsive
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 brankasvideo.com,dramovies.com,filmku.net##.ktz-aftermenubanner
+videocrot.com##.ktz-allwrap > .container > .headbanner
 dramovies.com##.ktz-banneraftercontent
 dramovies.com##.ktz-bannersingletop
 kaskus.co.id##.l-link
