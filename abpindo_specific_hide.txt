@@ -101,14 +101,13 @@ harakahdaily.net###jsemrp_372_719
 harakahdaily.net###jsemrp_373_873
 harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
-bioskop21.id###kayan_reklam_sag
-bioskop21.id###kayan_reklam_sol
+bioskop21.id,bioskop21.info###kayan_reklam_sag
+bioskop21.id,bioskop21.info###kayan_reklam_sol
 zonabola.com###lAds
 pkspiyungan.org###largebanner
 mangafap.com###lbanner
 kabar2.com###leaderboard
 komikbaru.com,mangafox.me###left-skyscraper
-bioskopgalaxy21.com,cabutin.com,juragantomatx.com###livechat-eye-catcher
 dapurpacu.com###mid-banner
 cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
@@ -240,16 +239,12 @@ juragan21.com##.cintasemprot_floating_banner_bottom
 sindonews.com##.clear.size-wide-custom.dummy
 tempo.co##.closebanner1
 tempo.co##.closebanner2
-kaskus.co.id##.col-sm-12.banner-frame.rb-1
-kaskus.co.id##.col-sm-12.banner-frame.rb-2
-kaskus.co.id##.col-sm-12.banner-frame.rb-3
 tribunnews.com##.content [style="width:160px; height:600px;"]
 bioskop21.info##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
 teknologi.inilah.com##.d.wp-120x600
 bioskop201.info,ganool.nl##.fake_player
 dapurpacu.com##.fixed-ads-atas
-kaskus.co.id##.floating-banner-test
 teknoup.com##.footer_banner
 warungbebas.com##.gbtab
 kompas.com##.hAds
@@ -265,7 +260,6 @@ brankasvideo.com,dramovies.com,filmku.net##.ktz-aftermenubanner
 videocrot.com##.ktz-allwrap > .container > .headbanner
 dramovies.com##.ktz-banneraftercontent
 dramovies.com##.ktz-bannersingletop
-kaskus.co.id##.l-link
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 bioskop21.id##.lenyap
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
@@ -282,7 +276,6 @@ susterbokep.com##.overlay
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 viva.co.id##.portlet.sideskycrapper
 otomania.com##.r-ads
-kaskus.co.id##.r-link
 film-ganool.com##.random
 okezone.com##.rc-ad-300x250
 unixmen.com##.reveal-modal-bg
@@ -296,7 +289,6 @@ indoxtream.com##.sidebar-widget:nth-of-type(4)
 ganoolmovie.com,sejutafilm.com##.sidebarborder:nth-of-type(2)
 ganoolmovie.com##.sidebarborder:nth-of-type(4)
 ganoolmovie.com##.sidebarborder:nth-of-type(5)
-kaskus.co.id##.skin
 detik.com##.skinad_1
 detik.com##.skinad_2
 kabar24.com##.skycapper
@@ -322,28 +314,18 @@ idfl.me##[id^="yui-gen"].postcontainer
 zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
-ibugil.net##a[href="http://agenqq.online/"]
+bioskop19.com##a[href="http://162.144.35.114/"]
+bioskop54.com##a[href="http://45.63.19.229/"]
 filmku.net##a[href="http://hokipk.com"]
 zonabola.com##a[href="http://id.afbcash.com"]
 lusuh.com##a[href="http://japsex.org"]
-brankasvideo.com##a[href="http://obat-klg-herbal.com"]
-brankasvideo.com##a[href="http://obatpembesarvimax.com/"]
-brankasvideo.com##a[href="http://pusat-vimaxasli.com"]
 zonabola.com##a[href="http://www.bl303.com/"]
-brankasvideo.com##a[href="http://www.faktavimax.com"]
-cinemaindo.com##a[href="http://www.fullbet88.com"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]
 vocavoco.com##a[href="http://www.qqdomino.net"]
 46.166.167.16,semprot.com,semprotku.com##a[href^="go.php"]
 www.bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
-kaskus.co.id##a[href^="http://kad.kaskus."]
 juragan21.com##a[href^="http://sbokiu.com/"]
-ganool.ph##a[href^="http://tfp.sapphirum.com/ref"]
-bioskop99.mobi##a[href^="http://togellounge99.com/"]
-cinemamovie21.net##a[href^="http://www.jayamania.com/"]
-bioskop99.mobi##a[href^="http://www.togellounge.net"]
-linkbokep.biz##a[href^="http://xtgem.com/click"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 ganool.ag,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
 ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .hideviews.bannerslot1
@@ -355,7 +337,6 @@ forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:
 forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 jakbos.com##img:nth-of-type(2)
-bokep.click##img[alt="vimax asli"]
 lihat.co.id##img[style="border:0;display:block;"]
 icinema3satu.net##img[style="height: 125px; width: 125px;"]
 icinema3satu.net##img[style="height:125x;width:125px;"]

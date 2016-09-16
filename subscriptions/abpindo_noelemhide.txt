@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 1y3rP7UYvbnq1gEygWqbig
+! Checksum: 5OKMTXvs+M81nFWRHfhbVQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 05 September 2016, 19:43:04 WIB
+! Last modified: 16 September 2016, 14:08:33 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -340,15 +340,12 @@ totojitu.gif|
 ||bioskop212.net/wp-content/uploads/*.gif
 ||bioskop55.club/wp-content/uploads/*.gif
 ||bioskopmovie21.com/wp-content/uploads/*.gif
-||blogspot.com$image,domain=cinemamovie21.net
-||blogspot.com/*.gif$domain=bioskop78.com|bioskop78.net|bioskopgalaxy21.com|bioskoptigalima.com|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nontonfilm.mobi|smallencode.com|zonabola.com
-||blogspot.com/*.gif$image,domain=bioskop99.mobi|nontonbokep17.com
+||blogspot.com/*.gif$image,domain=bioskop78.com|bioskop78.net|bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nontonbokep17.com|nontonfilm.mobi|smallencode.com|zonabola.com
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
 ||cdn.livechatinc.com/tracking.js
-||cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js
 ||cinema-indo.com/banere/*.gif$image
 ||cinemaindo.com/wp-content/uploads/*.gif
 ||cinemaindo.tv/wp-content/uploads/*.gif
@@ -358,6 +355,7 @@ totojitu.gif|
 ||comotin.com/wp-content/uploads/*.gif
 ||cytochemistryrecitativewrasse.com/$popup
 ||d1az0m14mjvs40.cloudfront.net^$script,domain=bioskop201.info|ganool.nl
+||d1fttzrngno3h1.cloudfront.net$script,domain=kissasian.com|mangatown.com
 ||d1i9kr6k34lyp.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||d1mib12jcgwmnv.cloudfront.net^$script,domain=ganool.ag|ganool.cc|ganool.ph
 ||d1rb5wwywwoqqm.cloudfront.net^$script,domain=ganool.ag|ganool.ph
@@ -373,6 +371,7 @@ totojitu.gif|
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
+||dymwsh1c2kslr.cloudfront.net^^$script,domain=mangatown.com
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||fansubsupdate.com/res/img/sampleads/
@@ -382,7 +381,6 @@ totojitu.gif|
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
-||gambar123.com/vb/images/xyz-
 ||gsshop.co.id^*/background/banner-
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
@@ -390,14 +388,14 @@ totojitu.gif|
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hentaihere.com/app/assets/static/$popup,domain=hentaihere.com
 ||hotabis.com/wp-content/uploads/*.gif
-||i.imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ganool.cc|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|sodasusu.com|sukabookie.com|zonalendir.net
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
-||imagebam.com/*.gif$domain=ganool.cc
+||imagebam.com/*.gif$image,domain=ganool.cc
 ||images.gameweb.co.id/gw/ads/
 ||img.banggood.com/deals/affiliate_member_banner/
 ||imgbox.com/*.gif$domain=cinemaindo.web.id
+||imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ganool.cc|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|sodasusu.com|sukabookie.com|zonalendir.net
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indoforum.top/banners/
@@ -431,6 +429,10 @@ totojitu.gif|
 ||link.ganool.co.in/links.js$domain=ganool.kim
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
+||malamsenin.net/wp-content/uploads/*.gif$image
+||malamsenin.net/wp-content/uploads/2015/11/415x60.jpg$image
+||malamsenin.org/wp-content/uploads/*.gif$image
+||malamsenin.org/wp-content/uploads/2015/11/415x60.jpg$image
 ||manasuka.com/gbr_banner_link/$third-party
 ||mediaindonesia.com/ajax/banners
 ||mediaindonesia.com/files/banners/
@@ -454,8 +456,7 @@ totojitu.gif|
 ||placehold.it/300x250
 ||placehold.it/780x90
 ||porntrex.com/images/pt728.gif
-||postimg.org/*.gif$domain=downloadfilmbaru.com|r-l.me
-||postimg.org/*.gif$image,domain=cinemaindo.web.id
+||postimg.org/*.gif$image,domain=cinemaindo.web.id|downloadfilmbaru.com|r-l.me
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
@@ -516,6 +517,7 @@ totojitu.gif|
 ||obatjogja.com^$third-party
 ||octafx.com^$popup,third-party
 ||playwebgame.com/banner/$third-party
+||podomoro.co.id$popup
 ||publish.web.id^$third-party
 ||realwap.net^$third-party
 ||sanglah.com^$third-party

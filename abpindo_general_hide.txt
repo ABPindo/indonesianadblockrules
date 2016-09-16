@@ -17,6 +17,7 @@
 ###iklanarea
 ###iklanatas
 ###iklanpersegi
+###livechat-eye-catcher
 ###top_ad_full
 ###tupiklan
 ##.SectionAds
@@ -42,20 +43,35 @@
 ##.simple_advert
 ##.topadsense
 ##a[href="http://Hoyacash.net"]
+##a[href="http://agenqq.online/"]
 ##a[href="http://agwcash.com"]
 ##a[href="http://asiapoker.com/"]
+##a[href="http://astonbola.com/"]
 ##a[href="http://hoyacash.com"]
 ##a[href="http://hoyajackpot.net"]
+##a[href="http://obat-klg-herbal.com"]
 ##a[href="http://obatpembesarpenisklg.id/"]
+##a[href="http://obatpembesarvimax.com/"]
+##a[href="http://pusat-vimaxasli.com"]
 ##a[href="http://seksipoker.com"]
 ##a[href="http://www.detikbet.net"]
+##a[href="http://www.faktavimax.com"]
 ##a[href="http://www.fast2bet.com/"]
+##a[href="http://www.fullbet88.com"]
 ##a[href="http://www.gadingpoker.com"]
+##a[href="http://www.ubc7.com/"]
 ##a[href="http://www.vimaxcentral.com"]
+##a[href^="http://ezebet.org/affr.aspx"]
+##a[href^="http://tfp.sapphirum.com/ref"]
+##a[href^="http://togellounge99.com/"]
 ##a[href^="http://www.aoecash.com/"]
 ##a[href^="http://www.bursabet.net/"]
+##a[href^="http://www.jayamania.com/"]
 ##a[href^="http://www.liga888.com/"]
 ##a[href^="http://www.sbbanner.com/"]
+##a[href^="http://www.sogopoker.net/ref.php"]
+##a[href^="http://www.togellounge.net"]
+##a[href^="http://xtgem.com/click"]
 ##img[alt="Advertisement"]
 ##img[alt="Agen Bola Terpercaya"]
 ##img[alt="Agen Bola"]
@@ -86,6 +102,7 @@
 ##img[alt="obatpenisalami"]
 ##img[alt="poker online"]
 ##img[alt="sbobet"]
+##img[alt="vimax asli"]
 ##img[title="IndoBet - Agen Bola Online"]
 ##img[title="agen bola terpecaya"]
 ##img[title="agen bola terpercaya"]
