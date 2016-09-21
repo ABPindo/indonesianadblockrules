@@ -41,6 +41,7 @@
 ||cytochemistryrecitativewrasse.com/$popup
 ||d1az0m14mjvs40.cloudfront.net^$script,domain=bioskop201.info|ganool.nl
 ||d1fttzrngno3h1.cloudfront.net$script,domain=kissasian.com|mangatown.com
+||d1fttzrngno3h1.cloudfront.net^$script,domain=ganool.ph
 ||d1i9kr6k34lyp.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||d1mib12jcgwmnv.cloudfront.net^$script,domain=ganool.ag|ganool.cc|ganool.ph
 ||d1rb5wwywwoqqm.cloudfront.net^$script,domain=ganool.ag|ganool.ph
@@ -66,6 +67,7 @@
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
+||gerwen.info^$popup,domain=ganool.ph
 ||gsshop.co.id^*/background/banner-
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/

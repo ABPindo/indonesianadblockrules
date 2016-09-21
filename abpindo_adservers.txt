@@ -6,6 +6,7 @@
 ||adexchangecloud.com^$third-party
 ||adexp.net^$third-party
 ||admarketplace.net^$popup,third-party
+||adnety.com^$popup,third-party
 ||adplus.co.id^$third-party
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
