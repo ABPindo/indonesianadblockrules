@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: a5jdQXUvanqMAeNkL4gXWg
+! Checksum: 4P2RTu3xrPfHcomV5q+5+g
 ! Title: ABPindo tanpa element hiding
-! Last modified: 21 September 2016, 17:03:59 WIB
+! Last modified: 21 September 2016, 18:10:01 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -25,7 +25,6 @@
 ||adsbingo.com^$third-party
 ||adsglow.net^$third-party
 ||adskom.com^$third-party
-||adsoptimal.com^$third-party
 ||adstars.co.id^$third-party
 ||ajangiklangratis.com^$third-party
 ||ampclicks.com^$popup,third-party
@@ -158,8 +157,6 @@
 ||galaxybola.com^$third-party
 ||galaxytoto.com^$third-party
 ||goodlucky99.com^$third-party
-||guardwork.info^$popup,third-party
-||guardwork.info^$third-party
 ||icebola88.com^$popup,third-party
 ||idola999.com/$popup,third-party
 ||idomn.com^$third-party
@@ -358,12 +355,8 @@ totojitu.gif|
 ||d1az0m14mjvs40.cloudfront.net^$script,domain=bioskop201.info|ganool.nl
 ||d1fttzrngno3h1.cloudfront.net$script,domain=kissasian.com|mangatown.com
 ||d1fttzrngno3h1.cloudfront.net^$script,domain=ganool.ph
-||d1i9kr6k34lyp.cloudfront.net^$script,domain=ganool.ag|ganool.ph
-||d1mib12jcgwmnv.cloudfront.net^$script,domain=ganool.ag|ganool.cc|ganool.ph
 ||d1rb5wwywwoqqm.cloudfront.net^$script,domain=ganool.ag|ganool.ph
-||d2b560qq58menv.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||d2nn3xyicdpsrf.cloudfront.net^$script,domain=ganool.ag|ganool.ph
-||d3al52d8cojds7.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||d4bsxdtgtmhxt.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||detik.com/images/banners/
 ||dewa.tv/banner/
