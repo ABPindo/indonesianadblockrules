@@ -14,7 +14,7 @@ forums.soompi.com###ad-med-rect
 173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,kikil.net,sodasusu.com,unyil.net,vocland.com###ad_global_below_navbar
 grabvideo.co###adplayer
 detik.com###adpoint5
-cinemaindo.web.id###ads
+cinemaindo.web.id,filmapik.tv###ads
 dapurpacu.com###ads-728
 dapurpacu.com###ads-960-mid
 harianjogja.com,solopos.com###ads-float
@@ -255,6 +255,7 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 gambarkeren.info##.iklankotak1
 cinemaindo.web.id##.img-responsive
+animeindo.web.id##.in_up_ad-area
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 brankasvideo.com,dramovies.com,filmku.net##.ktz-aftermenubanner
 videocrot.com##.ktz-allwrap > .container > .headbanner

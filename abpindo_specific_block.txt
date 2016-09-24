@@ -78,7 +78,7 @@
 ||images.gameweb.co.id/gw/ads/
 ||img.banggood.com/deals/affiliate_member_banner/
 ||imgbox.com/*.gif$domain=cinemaindo.web.id
-||imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ganool.cc|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|sodasusu.com|sukabookie.com|zonalendir.net
+||imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|filmapik.tv|forumbookie.com|forumjudi.org|ganool.cc|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|sodasusu.com|sukabookie.com|zonalendir.net
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indoforum.top/banners/
@@ -144,6 +144,7 @@
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
 ||runreproducerow.com/$popup
+||scriptall.ml^$popup,domain=nontongo.com
 ||semprot.com/x_ads/
 ||semuaberita.com/banner/
 ||sodasusu.com/banner/
