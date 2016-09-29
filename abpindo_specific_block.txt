@@ -8,14 +8,12 @@
 ||104.199.*.*^$popup,domain=ganool.ph
 ||173.199.189.86/images/*.gif
 ||adexchangecloud.com^$popup,domain=ganool.ph
-||adpstatic.com^$third-party
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
 ||animeindo.tv/ad/
 ||armylookfashion.com/728.swf
 ||asianbrain.com/banner/
 ||asikbookie.com/images/banner/
-||bandartaruhan.co^$third-party
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
 ||bintangmawar.net/forum/med_banner.php
@@ -42,8 +40,7 @@
 ||comotin.com/wp-content/uploads/*.gif
 ||cytochemistryrecitativewrasse.com/$popup
 ||d1az0m14mjvs40.cloudfront.net^$script,domain=bioskop201.info|ganool.nl
-||d1fttzrngno3h1.cloudfront.net$script,domain=kissasian.com|mangatown.com
-||d1fttzrngno3h1.cloudfront.net^$script,domain=ganool.ph
+||d1fttzrngno3h1.cloudfront.net^$script,domain=ganool.ph|kissasian.com|mangatown.com
 ||d1rb5wwywwoqqm.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||d2nn3xyicdpsrf.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||d2q039yelpk33c.cloudfront.net^$domain=ganool.ph
@@ -64,6 +61,7 @@
 ||film21terbaru.org/wp-content/uploads/*.gif
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||forumbookie.com/banner/
+||forumidn.com^$popup,domain=susterbokep.com
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||ganool.link/wp-content/uploads/*.gif
@@ -120,7 +118,7 @@
 ||malamsenin.net/wp-content/uploads/2015/11/415x60.jpg$image
 ||malamsenin.org/wp-content/uploads/*.gif$image
 ||malamsenin.org/wp-content/uploads/2015/11/415x60.jpg$image
-||manasuka.com/gbr_banner_link/$third-party
+||manasuka.com/gbr_banner_link/
 ||mediaindonesia.com/ajax/banners
 ||mediaindonesia.com/files/banners/
 ||mediaindonesia.com/public/banner/flash/
@@ -147,8 +145,8 @@
 ||placehold.it^$domain=filmbagus21.info
 ||plmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com^
 ||porntrex.com/images/pt728.gif
-||postimg.org/*.gif$domain=filmbagus21.info
-||postimg.org/*.gif$image,domain=cinemaindo.web.id|downloadfilmbaru.com|r-l.me
+||postimg.io/*.gif$image,domain=cinemaindo.web.id
+||postimg.org/*.gif$image,domain=cinemaindo.web.id|downloadfilmbaru.com|filmbagus21.info|r-l.me|zonabola.com
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/

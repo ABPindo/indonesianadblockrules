@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: mYXOh/y/eCWuwZ+aHExvKQ
+! Checksum: 5f5sB3mHEwtBLSorkUcKKQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 29 September 2016, 15:41:33 WIB
+! Last modified: 29 September 2016, 19:24:09 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -21,6 +21,7 @@
 ||adnety.com^$popup,third-party
 ||adplus.co.id^$third-party
 ||adpop-1.com^$third-party
+||adpstatic.com^$third-party
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
@@ -127,6 +128,7 @@
 ||asianpokerseo.com/$popup,third-party
 ||bandarbet77.net^$third-party
 ||bandarjudi.com/$popup,third-party
+||bandartaruhan.co^$third-party
 ||bejopoker.com^$third-party
 ||belajar-bisnis.com^$third-party
 ||bet365.com/$popup,third-party
@@ -273,6 +275,7 @@
 ||wormgush.com^
 ||yellaface.com^
 ! *** abpindo_general_block.txt ***
+-Bandar-Poker-
 -iklan.gif|
 -iklan.jpg|
 -iklan.js|
@@ -293,6 +296,7 @@
 /adtrace2.js|
 /adv/iklan.
 /bb17-iklan.
+/Dewiqq-
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
@@ -307,6 +311,7 @@
 /usahaberhasil.gif|
 _300x250.
 agen_bola_online.gif|
+banner728.gif|
 bundapoker.gif|
 Ratubola.gif|
 sarana88.gif|
@@ -324,14 +329,12 @@ totojitu.gif|
 ||104.199.*.*^$popup,domain=ganool.ph
 ||173.199.189.86/images/*.gif
 ||adexchangecloud.com^$popup,domain=ganool.ph
-||adpstatic.com^$third-party
 ||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
 ||animeindo.tv/ad/
 ||armylookfashion.com/728.swf
 ||asianbrain.com/banner/
 ||asikbookie.com/images/banner/
-||bandartaruhan.co^$third-party
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
 ||bintangmawar.net/forum/med_banner.php
@@ -358,8 +361,7 @@ totojitu.gif|
 ||comotin.com/wp-content/uploads/*.gif
 ||cytochemistryrecitativewrasse.com/$popup
 ||d1az0m14mjvs40.cloudfront.net^$script,domain=bioskop201.info|ganool.nl
-||d1fttzrngno3h1.cloudfront.net$script,domain=kissasian.com|mangatown.com
-||d1fttzrngno3h1.cloudfront.net^$script,domain=ganool.ph
+||d1fttzrngno3h1.cloudfront.net^$script,domain=ganool.ph|kissasian.com|mangatown.com
 ||d1rb5wwywwoqqm.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||d2nn3xyicdpsrf.cloudfront.net^$script,domain=ganool.ag|ganool.ph
 ||d2q039yelpk33c.cloudfront.net^$domain=ganool.ph
@@ -380,6 +382,7 @@ totojitu.gif|
 ||film21terbaru.org/wp-content/uploads/*.gif
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||forumbookie.com/banner/
+||forumidn.com^$popup,domain=susterbokep.com
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||ganool.link/wp-content/uploads/*.gif
@@ -436,7 +439,7 @@ totojitu.gif|
 ||malamsenin.net/wp-content/uploads/2015/11/415x60.jpg$image
 ||malamsenin.org/wp-content/uploads/*.gif$image
 ||malamsenin.org/wp-content/uploads/2015/11/415x60.jpg$image
-||manasuka.com/gbr_banner_link/$third-party
+||manasuka.com/gbr_banner_link/
 ||mediaindonesia.com/ajax/banners
 ||mediaindonesia.com/files/banners/
 ||mediaindonesia.com/public/banner/flash/
@@ -463,8 +466,8 @@ totojitu.gif|
 ||placehold.it^$domain=filmbagus21.info
 ||plmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com^
 ||porntrex.com/images/pt728.gif
-||postimg.org/*.gif$domain=filmbagus21.info
-||postimg.org/*.gif$image,domain=cinemaindo.web.id|downloadfilmbaru.com|r-l.me
+||postimg.io/*.gif$image,domain=cinemaindo.web.id
+||postimg.org/*.gif$image,domain=cinemaindo.web.id|downloadfilmbaru.com|filmbagus21.info|r-l.me|zonabola.com
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
@@ -508,6 +511,7 @@ totojitu.gif|
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
 ||flexterkita.com^$third-party
+||fonderreaders.info^$popup
 ||gambar123.com^$image,third-party
 ||gambar456.com^$image,third-party
 ||idolakini.com/$popup,third-party
