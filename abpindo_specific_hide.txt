@@ -74,7 +74,7 @@ bioskop212.net,bioskop55.club###floating_banner_left
 bioskop212.net,bioskop55.club###floating_banner_right
 bioskopgalaxy21.com,bioskopstar88.com,juraganmovie.net,juragantomatx.com,movie76.net###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-nontonbokep17.com###floating_banner_top1
+cinema-indo.co,nontonbokep17.com###floating_banner_top1
 bioskop78.com,bioskop99.mobi###floating_banner_tops
 untukku.com###footer-adcont
 ganool.link###footer-adcont-bar
@@ -83,7 +83,6 @@ resep.web.id###googlebox
 icinema3satu.net###h5ab-advert-cont
 cinemaindo.web.id,layarkaca21.com###hbanner
 cinema-indo.com,nontonmovie.web.id###hbanner:nth-of-type(1)
-zonapanas.com###header-right > .header-banner
 banyakfilm.pw###header_sag
 banyakfilm.pw###header_sol
 indosiar.com###headerbanner
@@ -128,7 +127,6 @@ gadismalam.net###semprot_ads_side_left
 gadismalam.net###semprot_ads_side_right
 gopego.com###showcase1
 gopego.com###showcase2
-zonapanas.com###sidebar > .sidebar-banner
 banyakfilm.pw###sidebar > .sidebarborder:nth-of-type(2) > .sidebar-right > .textwidget
 nontonfilm88.com###sidebar-right
 cinemaindo.tv###sidebar_right > .side:nth-of-type(5) > .textwidget
@@ -249,6 +247,7 @@ dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
 warungbebas.com##.gbtab
 kompas.com##.hAds
+zonapanaz.com##.header-banner
 bioskop21.co##.hilang2
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
@@ -314,15 +313,12 @@ nontonbox.tv##[alt="Agen QQ"]
 46.166.167.16,semprot.com,semprotku.com##[class^="semprotlum"]
 46.166.167.16,semprot.com,semprotku.com##[id^="semprotlum"]
 idfl.me##[id^="yui-gen"].postcontainer
-zonabola.com##[onload="floating();"] [align="center"] td[style="border:0"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
 bioskop19.com##a[href="http://162.144.35.114/"]
 bioskop54.com##a[href="http://45.63.19.229/"]
 filmku.net##a[href="http://hokipk.com"]
-zonabola.com##a[href="http://id.afbcash.com"]
 lusuh.com##a[href="http://japsex.org"]
-zonabola.com##a[href="http://www.bl303.com/"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]
 vocavoco.com##a[href="http://www.qqdomino.net"]
@@ -339,6 +335,7 @@ situshp.com##div[style="height:260px;"]
 forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
 forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
+cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
 lihat.co.id##img[style="border:0;display:block;"]
 icinema3satu.net##img[style="height: 125px; width: 125px;"]
