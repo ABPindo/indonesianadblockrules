@@ -60,7 +60,7 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonserial.com,nontonstreaming.co###fatas
-cinema-indo.com,cinemaindo.web.id,ganool.cc,layarkaca21.com,layarkaca21.net,layarkaca21.tv,nontonmovie.web.id###fbanner
+cinema-indo.com,cinemaindo.web.id,filmbagus21.info,ganool.cc,layarkaca21.com,layarkaca21.net,layarkaca21.tv,nontonmovie.web.id###fbanner
 nontonserial.com,nontonstreaming.co###fbawah
 cinema-indo.com,layarkaca21.net###fbbanner
 bioskop212.net###filmoncereklam
@@ -77,6 +77,7 @@ blogspot.com###floating_banner_top img[width="728"][height="90"]
 nontonbokep17.com###floating_banner_top1
 bioskop78.com,bioskop99.mobi###floating_banner_tops
 untukku.com###footer-adcont
+ganool.link###footer-adcont-bar
 sodasusu.com###forum_ads_8
 resep.web.id###googlebox
 icinema3satu.net###h5ab-advert-cont
@@ -268,7 +269,7 @@ bioskop21.co##.mgid
 dapurpacu.com##.mid-banner
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
-cinemaindo.web.id##.modal
+cinemaindo.web.id,filmbagus21.info##.modal
 detik.com##.normalbanner
 animeindo.id##.nyaa300
 animeindo.id##.nyaa728
@@ -307,6 +308,7 @@ klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
+nontonbox.tv##[alt="Agen QQ"]
 46.166.167.16,semprot.com,semprotku.com##[class$="floating_banner_bottom"]
 46.166.167.16,semprot.com,semprotku.com##[class$="floating_banner_top"]
 46.166.167.16,semprot.com,semprotku.com##[class^="semprotlum"]
@@ -343,4 +345,5 @@ icinema3satu.net##img[style="height: 125px; width: 125px;"]
 icinema3satu.net##img[style="height:125x;width:125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 lihat.co.id##img[width="300"][height="250"]
+ganool.link##img[width="728"]
 bioskop78.com##td:nth-of-type(3)
