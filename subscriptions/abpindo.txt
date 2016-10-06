@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: uNnVQyMFOPgLHKcdMI4cJA
+! Checksum: /yOV4m63Im+wEXF3JQV+wQ
 ! Title: ABPindo
-! Last modified: 29 September 2016, 19:24:09 WIB
+! Last modified: 06 Oktober 2016, 16:18:03 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -496,11 +496,13 @@ totojitu.gif|
 ||film-ganool.com/wp-content/uploads/*.gif
 ||film21terbaru.org/wp-content/uploads/*.gif
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
+||filmku.net/wp-content/uploads/2016/09/RajaQQ.gif$image
 ||forumbookie.com/banner/
 ||forumidn.com^$popup,domain=susterbokep.com
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||ganool.link/wp-content/uploads/*.gif
+||ganool.link/wp-content/uploads/Banner*.gif$image
 ||gerwen.info^$popup,domain=ganool.ph
 ||gsshop.co.id^*/background/banner-
 ||harakah.net.my/images/stories/iklan/
@@ -673,6 +675,7 @@ bioskopmovie.tv,bioskopmovie21.com###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
 tribunnews.com###div-Right-MediumRectangle-1
+makassar.tribunnews.com###div-Right-MediumRectangle-3
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 90animax.com###energysaving
 idfl.me,r-l.me###fancybox-overlay
@@ -695,7 +698,7 @@ bioskopgalaxy21.com,bioskopstar88.com,juraganmovie.net,juragantomatx.com,movie76
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 cinema-indo.co,nontonbokep17.com###floating_banner_top1
 bioskop78.com,bioskop99.mobi###floating_banner_tops
-untukku.com###footer-adcont
+ganool.link,untukku.com###footer-adcont
 ganool.link###footer-adcont-bar
 sodasusu.com###forum_ads_8
 resep.web.id###googlebox
@@ -783,8 +786,10 @@ kapanlagi.com###v5-showcase2
 kapanlagi.com###v5-showcase3
 kapanlagi.com###v8-leaderboard
 indotelko.com###vertical_top_kanal
+makassar.tribunnews.com###wideskyscraper
 bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
+dramanice.co.com##.Advertising
 lusuh.com##.ImageAdsSpan
 comotin.com##.Widget:nth-of-type(2)
 sundul.com##.\33 .Premium.Sundul
@@ -857,6 +862,7 @@ juragan21.com##.cintasemprot_floating_banner_bottom
 sindonews.com##.clear.size-wide-custom.dummy
 tempo.co##.closebanner1
 tempo.co##.closebanner2
+ganool.ph##.col-xs-12.col-md-6.col-lg-6
 tribunnews.com##.content [style="width:160px; height:600px;"]
 bioskop21.info##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
@@ -864,6 +870,7 @@ teknologi.inilah.com##.d.wp-120x600
 bioskop201.info,ganool.nl##.fake_player
 dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
+detik.com##.frame_iklan_baris
 warungbebas.com##.gbtab
 kompas.com##.hAds
 zonapanaz.com##.header-banner
@@ -944,6 +951,9 @@ vocavoco.com##a[href="http://www.qqdomino.net"]
 46.166.167.16,semprot.com,semprotku.com##a[href^="go.php"]
 www.bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 juragan21.com##a[href^="http://sbokiu.com/"]
+ganool.link##a[href^="http://www.ibw8.com"]
+gudangkpop.com##a[href^="http://www.infolinks.com/join-us"]
+ganool.link##a[href^="http://www.pasaran88.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 ganool.ag,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
 ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .hideviews.bannerslot1
