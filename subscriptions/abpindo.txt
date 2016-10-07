@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /yOV4m63Im+wEXF3JQV+wQ
+! Checksum: qWXxfszaZNwnEj3Q4Lqe5A
 ! Title: ABPindo
-! Last modified: 06 Oktober 2016, 16:18:03 WIB
+! Last modified: 07 Oktober 2016, 18:22:12 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -297,6 +297,7 @@
 /adv/iklan.
 /bb17-iklan.
 /Dewiqq-
+/hoyanew.gif|
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
@@ -550,6 +551,9 @@ totojitu.gif|
 ||layarkaca21.tv/assets/*.gif
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.kim
+||lk21.tv/assets/*.gif
+||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_overlay.png
+||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_sprite.png
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||malamsenin.net/wp-content/uploads/*.gif$image
@@ -682,9 +686,9 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonserial.com,nontonstreaming.co###fatas
-cinema-indo.com,cinemaindo.web.id,filmbagus21.info,ganool.cc,layarkaca21.com,layarkaca21.net,layarkaca21.tv,nontonmovie.web.id###fbanner
+cinema-indo.com,cinemaindo.web.id,filmbagus21.info,ganool.cc,layarkaca21.com,layarkaca21.net,layarkaca21.tv,lk21.tv,nontonmovie.web.id###fbanner
 nontonserial.com,nontonstreaming.co###fbawah
-cinema-indo.com,layarkaca21.net###fbbanner
+cinema-indo.com,layarkaca21.net,layarkaca21.tv,lk21.tv###fbbanner
 bioskop212.net###filmoncereklam
 unyil.net###float-atas
 remo-xp.com###float-left
@@ -868,6 +872,7 @@ bioskop21.info##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
 teknologi.inilah.com##.d.wp-120x600
 bioskop201.info,ganool.nl##.fake_player
+layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
 detik.com##.frame_iklan_baris
