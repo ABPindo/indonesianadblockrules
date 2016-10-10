@@ -77,7 +77,7 @@ bioskopgalaxy21.com,bioskopstar88.com,juraganmovie.net,juragantomatx.com,movie76
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 cinema-indo.co,nontonbokep17.com###floating_banner_top1
 bioskop78.com,bioskop99.mobi###floating_banner_tops
-ganool.link,untukku.com###footer-adcont
+ganool-link.com,ganool.link,untukku.com###footer-adcont
 ganool.link###footer-adcont-bar
 sodasusu.com###forum_ads_8
 resep.web.id###googlebox
@@ -246,7 +246,6 @@ tribunnews.com##.content [style="width:160px; height:600px;"]
 bioskop21.info##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
 teknologi.inilah.com##.d.wp-120x600
-bioskop201.info,ganool.nl##.fake_player
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
@@ -307,13 +306,12 @@ okezone.com##.sponsored-belt468x60
 nontondramaonline.net##.td-banner-wrap-full
 film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
-bioskopgalaxy21.com,tvkabel.net,www.indostreamings.com##.textwidget
+bioskopgalaxy21.com,indostreamings.com,tvkabel.net##.textwidget
 bioskoptigalima.com,icinema3satu.net##.textwidget img
 klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
-nontonbox.tv##[alt="Agen QQ"]
 46.166.167.16,semprot.com,semprotku.com##[class$="floating_banner_bottom"]
 46.166.167.16,semprot.com,semprotku.com##[class$="floating_banner_top"]
 46.166.167.16,semprot.com,semprotku.com##[class^="semprotlum"]
