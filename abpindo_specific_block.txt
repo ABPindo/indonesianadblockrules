@@ -39,16 +39,10 @@
 ||cinemaindo.tv/wp-content/uploads/*.gif
 ||cinemaindo.web.id/banere/
 ||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$script,~third-party
+||cloudfront.net^$script,domain=ganool.cc|ganool.is|ganool.ph|mangatown.com
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif
 ||cytochemistryrecitativewrasse.com/$popup
-||d1az0m14mjvs40.cloudfront.net^
-||d1fttzrngno3h1.cloudfront.net^
-||d1rb5wwywwoqqm.cloudfront.net^
-||d2is3w689nunba.cloudfront.net^
-||d2nn3xyicdpsrf.cloudfront.net^
-||d2q039yelpk33c.cloudfront.net^
-||d4bsxdtgtmhxt.cloudfront.net^
 ||detik.com/images/banners/
 ||dewa.tv/banner/
 ||dewamovie.net/wp-content/uploads/*.gif
@@ -56,7 +50,6 @@
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
-||dymwsh1c2kslr.cloudfront.net^$script,domain=mangatown.com
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||fansubsupdate.com/res/img/sampleads/
