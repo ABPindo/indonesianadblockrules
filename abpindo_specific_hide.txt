@@ -48,7 +48,7 @@ mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 bioskopmovie21.com###close-teaser
 bioskop78.com###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > center:nth-of-type(2)
-www.indostreamings.com###content > div:nth-of-type(1)
+indostreamings.com###content > div:nth-of-type(1)
 anisubsia.com###de13
 bioskopmovie.tv,bioskopmovie21.com###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
@@ -299,7 +299,7 @@ detik.com##.skinad_1
 detik.com##.skinad_2
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
-www.hipwee.com##.spb_middle.spb_banner
+hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
 mydramalist.com##.spnsr_right
 okezone.com##.sponsored-belt468x60
@@ -322,18 +322,16 @@ bioskop78.com##a:nth-of-type(2)
 bioskop19.com##a[href="http://162.144.35.114/"]
 bioskop54.com##a[href="http://45.63.19.229/"]
 filmku.net##a[href="http://hokipk.com"]
-lusuh.com##a[href="http://japsex.org"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]
-vocavoco.com##a[href="http://www.qqdomino.net"]
 46.166.167.16,semprot.com,semprotku.com##a[href^="go.php"]
-www.bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
+bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 juragan21.com##a[href^="http://sbokiu.com/"]
 ganool.link##a[href^="http://www.ibw8.com"]
 gudangkpop.com##a[href^="http://www.infolinks.com/join-us"]
 ganool.link##a[href^="http://www.pasaran88.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
-ganool.ag,ganool.is,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
+ganool.is,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
 ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .hideviews.bannerslot1
 ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .mainContainer > .mainContent > .hideviews.bannerslot1
 nontonfilm88.com##center > table

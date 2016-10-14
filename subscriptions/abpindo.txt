@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1TW8UKyjjRxLomRt6aOGDw
+! Checksum: qL/tgKq47Li5AqJcAyvkrg
 ! Title: ABPindo
-! Last modified: 13 Oktober 2016, 09:46:44 WIB
+! Last modified: 14 Oktober 2016, 19:57:11 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -317,6 +317,7 @@ ayoqq.gif|
 banner728.gif|
 bundapoker.gif|
 iklan300x250.gif|
+nagalaut728.gif|
 RajaQQ.gif|
 Ratubola.gif|
 sarana88.gif|
@@ -369,7 +370,6 @@ totojitu.gif|
 ##.pusat728
 ##.simple_advert
 ##.topadsense
-##[alt="Agen QQ"]
 ##a[href="http://Hoyacash.net"]
 ##a[href="http://agenqq.online/"]
 ##a[href="http://agwcash.com"]
@@ -377,6 +377,7 @@ totojitu.gif|
 ##a[href="http://astonbola.com/"]
 ##a[href="http://hoyacash.com"]
 ##a[href="http://hoyajackpot.net"]
+##a[href="http://japsex.org"]
 ##a[href="http://obat-klg-herbal.com"]
 ##a[href="http://obatpembesarpenisklg.id/"]
 ##a[href="http://obatpembesarvimax.com/"]
@@ -387,9 +388,11 @@ totojitu.gif|
 ##a[href="http://www.fast2bet.com/"]
 ##a[href="http://www.fullbet88.com"]
 ##a[href="http://www.gadingpoker.com"]
+##a[href="http://www.qqdomino.net"]
 ##a[href="http://www.ubc7.com/"]
 ##a[href="http://www.vimaxcentral.com"]
 ##a[href^="http://ezebet.org/affr.aspx"]
+##a[href^="http://idola88.com/"]
 ##a[href^="http://tfp.sapphirum.com/ref"]
 ##a[href^="http://togellounge99.com/"]
 ##a[href^="http://www.aoecash.com/"]
@@ -407,6 +410,7 @@ totojitu.gif|
 ##img[alt="Agen Poker Online"]
 ##img[alt="Agen Poker Terpercaya"]
 ##img[alt="Agen Poker"]
+##img[alt="Agen QQ"]
 ##img[alt="Iklan"]
 ##img[alt="Judi Online Terpercaya"]
 ##img[alt="Judi Online"]
@@ -676,7 +680,7 @@ mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 bioskopmovie21.com###close-teaser
 bioskop78.com###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > center:nth-of-type(2)
-www.indostreamings.com###content > div:nth-of-type(1)
+indostreamings.com###content > div:nth-of-type(1)
 anisubsia.com###de13
 bioskopmovie.tv,bioskopmovie21.com###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
@@ -927,7 +931,7 @@ detik.com##.skinad_1
 detik.com##.skinad_2
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
-www.hipwee.com##.spb_middle.spb_banner
+hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
 mydramalist.com##.spnsr_right
 okezone.com##.sponsored-belt468x60
@@ -950,18 +954,16 @@ bioskop78.com##a:nth-of-type(2)
 bioskop19.com##a[href="http://162.144.35.114/"]
 bioskop54.com##a[href="http://45.63.19.229/"]
 filmku.net##a[href="http://hokipk.com"]
-lusuh.com##a[href="http://japsex.org"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]
-vocavoco.com##a[href="http://www.qqdomino.net"]
 46.166.167.16,semprot.com,semprotku.com##a[href^="go.php"]
-www.bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
+bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 juragan21.com##a[href^="http://sbokiu.com/"]
 ganool.link##a[href^="http://www.ibw8.com"]
 gudangkpop.com##a[href^="http://www.infolinks.com/join-us"]
 ganool.link##a[href^="http://www.pasaran88.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
-ganool.ag,ganool.is,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
+ganool.is,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
 ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .hideviews.bannerslot1
 ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .mainContainer > .mainContent > .hideviews.bannerslot1
 nontonfilm88.com##center > table
