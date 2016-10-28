@@ -39,8 +39,7 @@
 ||cinemaindo.tv/wp-content/uploads/*.gif
 ||cinemaindo.web.id/banere/
 ||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$script,~third-party
-||cloudfront.net^$script,domain=filmku.net|ganool.cc|ganool.is|ganool.ph|mangatown.com
-||cloudfront.net^$script,domain=ganool.nl
+||cloudfront.net^$script,domain=filmku.net|ganool.cc|ganool.is|ganool.nl|ganool.ph|mangatown.com
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif
 ||cytochemistryrecitativewrasse.com/$popup
