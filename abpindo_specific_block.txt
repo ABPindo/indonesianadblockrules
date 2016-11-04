@@ -3,11 +3,9 @@
 ||104.155.*.*^$popup,domain=ganool.is|ganool.ph
 ||104.196.*.*^$popup,domain=ganool.is|ganool.ph
 ||104.197.*.*^$popup,domain=ganool.is|ganool.ph
-||104.197.4.220$script,domain=ganool.ag|ganool.is|ganool.ph
 ||104.198.*.*^$popup,domain=ganool.is|ganool.ph
 ||104.199.*.*^$popup,domain=ganool.is|ganool.ph
 ||130.211.198.219^$popup,domain=ganool.cc|ganool.is|ganool.ph
-||173.199.189.86/images/*.gif
 ||adexchangecloud.com^$popup
 ||agenbola.co^$popup,domain=film-ganool.com
 ||alertpay.com/banners/
@@ -17,6 +15,7 @@
 ||armylookfashion.com/728.swf
 ||asianbrain.com/banner/
 ||asikbookie.com/images/banner/
+||bhjhijisulwl.com$script,domain=videocrot.tv
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
 ||bintangmawar.net/forum/med_banner.php
@@ -154,6 +153,7 @@
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
+||rumahbokep.xyz$popup
 ||runreproducerow.com/$popup
 ||scriptall.ml^$popup,domain=nontongo.com
 ||semprot.com/x_ads/
@@ -165,6 +165,7 @@
 ||suaramedia.com/images/banners/
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||susterbokep.com/wp-content/uploads/*.gif
+||tailpdulprkp.com$script,domain=videocrot.tv
 ||tambahketinggian.com/banner/
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|ganoolmovie.com|icinema3satu.net|nontonfilm.mobi
 ||tribunnews.com/stylesheets/close.gif

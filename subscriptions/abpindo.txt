@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WOI0YvAnh1XM8N7goePfqg
+! Checksum: F86ER6+8+xRlmI1QxEwUXA
 ! Title: ABPindo
-! Last modified: 28 Oktober 2016, 16:27:18 WIB
+! Last modified: 04 November 2016, 18:58:41 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -452,11 +452,9 @@ totojitu.gif|
 ||104.155.*.*^$popup,domain=ganool.is|ganool.ph
 ||104.196.*.*^$popup,domain=ganool.is|ganool.ph
 ||104.197.*.*^$popup,domain=ganool.is|ganool.ph
-||104.197.4.220$script,domain=ganool.ag|ganool.is|ganool.ph
 ||104.198.*.*^$popup,domain=ganool.is|ganool.ph
 ||104.199.*.*^$popup,domain=ganool.is|ganool.ph
 ||130.211.198.219^$popup,domain=ganool.cc|ganool.is|ganool.ph
-||173.199.189.86/images/*.gif
 ||adexchangecloud.com^$popup
 ||agenbola.co^$popup,domain=film-ganool.com
 ||alertpay.com/banners/
@@ -466,6 +464,7 @@ totojitu.gif|
 ||armylookfashion.com/728.swf
 ||asianbrain.com/banner/
 ||asikbookie.com/images/banner/
+||bhjhijisulwl.com$script,domain=videocrot.tv
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
 ||bintangmawar.net/forum/med_banner.php
@@ -603,6 +602,7 @@ totojitu.gif|
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
+||rumahbokep.xyz$popup
 ||runreproducerow.com/$popup
 ||scriptall.ml^$popup,domain=nontongo.com
 ||semprot.com/x_ads/
@@ -614,6 +614,7 @@ totojitu.gif|
 ||suaramedia.com/images/banners/
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||susterbokep.com/wp-content/uploads/*.gif
+||tailpdulprkp.com$script,domain=videocrot.tv
 ||tambahketinggian.com/banner/
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|ganoolmovie.com|icinema3satu.net|nontonfilm.mobi
 ||tribunnews.com/stylesheets/close.gif
@@ -830,6 +831,7 @@ kompas.com##.adsMR1Lipsus1
 antaranews.com##.ads_top_728
 cinemaindo.com##.adstops
 mangaku.web.id##.adv
+dramacool.io,dramanice.at,k-vid.com##.adv-space
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
 webpcmag.com#@#.afs_ads
