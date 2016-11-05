@@ -1,6 +1,5 @@
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
-1seetv.com###DADrightclick
 icinema3satu.net###FloatAlamindawa
 lihat.co.id###Iklan-Melayang
 indogamers.com###IklanIDGS
@@ -14,7 +13,7 @@ forums.soompi.com###ad-med-rect
 173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,kikil.net,sodasusu.com,unyil.net,vocland.com###ad_global_below_navbar
 grabvideo.co###adplayer
 detik.com###adpoint5
-cinemaindo.web.id,filmapik.tv###ads
+cinemaindo.web.id,www.filmapik.in###ads
 dapurpacu.com###ads-728
 dapurpacu.com###ads-960-mid
 harianjogja.com,solopos.com###ads-float
@@ -44,14 +43,12 @@ bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 tribunnews.com###boxright [style="width:300px; height:250px;"]
-anisubsia.com,benfile.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.org,kabar2.com,mangacanblog.com,mangakita.net,mangaku.web.id,nusareborn.in,oploverz.net,rumahbokep.xyz,semuaberita.com,wardhanime.net###btm_banner
+benfile.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.org,kabar2.com,mangacanblog.com,mangakita.net,mangaku.web.id,nusareborn.in,oploverz.net,rumahbokep.xyz,semuaberita.com,wardhanime.net###btm_banner
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
-bioskopmovie21.com###close-teaser
 bioskop78.com###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > center:nth-of-type(2)
 indostreamings.com###content > div:nth-of-type(1)
-anisubsia.com###de13
-bioskopmovie.tv,bioskopmovie21.com###directorio > .random > center
+bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
 tribunnews.com###div-Right-MediumRectangle-1
@@ -62,7 +59,7 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonserial.com,nontonstreaming.co###fatas
-cinema-indo.com,cinemaindo.web.id,filmbagus21.info,ganool.cc,layarkaca21.com,layarkaca21.net,layarkaca21.tv,lk21.tv,nontonmovie.web.id###fbanner
+cinema-indo.com,cinemaindo.web.id,filmbagus21.info,layarkaca21.com,layarkaca21.net,layarkaca21.tv,lk21.tv,nontonmovie.web.id,www.ganool.fr###fbanner
 nontonserial.com,nontonstreaming.co###fbawah
 cinema-indo.com,layarkaca21.net,layarkaca21.tv,lk21.tv###fbbanner
 bioskop212.net###filmoncereklam
@@ -103,8 +100,8 @@ harakahdaily.net###jsemrp_372_719
 harakahdaily.net###jsemrp_373_873
 harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
-bioskop21.id,bioskop21.info###kayan_reklam_sag
-bioskop21.id,bioskop21.info###kayan_reklam_sol
+bioskop201.biz,bioskop21.id###kayan_reklam_sag
+bioskop201.biz,bioskop21.id###kayan_reklam_sol
 zonabola.com###lAds
 pkspiyungan.org###largebanner
 mangafap.com###lbanner
@@ -147,8 +144,8 @@ ganool.ph###srcadsurlblock
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinemaindo.com,cinemaindo.tv,film-ganool.com###teaser1
-22cinema.download,bioskop21.info,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser2
-22cinema.download,bioskop21.co,bioskop21.info,bioskopgalaxy21.com,cinemaindo.tv,downloadfilmbaru.com,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
+22cinema.download,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser2
+22cinema.download,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.tv,downloadfilmbaru.com,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
 sodasusu.com###teaser4
 22cinema.download###teaser5
 hotabis.com###text-28 > .textwidget
@@ -247,7 +244,7 @@ tempo.co##.closebanner1
 tempo.co##.closebanner2
 ganool.is,ganool.ph##.col-xs-12.col-md-6.col-lg-6
 tribunnews.com##.content [style="width:160px; height:600px;"]
-bioskop21.info##.contentlist
+bioskop201.biz##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
 teknologi.inilah.com##.d.wp-120x600
 layarkaca21.tv,lk21.tv##.fancybox-skin
@@ -263,14 +260,13 @@ kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
-gambarkeren.info##.iklankotak1
 cinemaindo.web.id##.img-responsive
 animeindo.web.id##.in_up_ad-area
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
-brankasvideo.com,dramovies.com,filmku.net##.ktz-aftermenubanner
+brankasvideo.com,filmku.net,indonesiamovies21.com##.ktz-aftermenubanner
 videocrot.com##.ktz-allwrap > .container > .headbanner
-dramovies.com##.ktz-banneraftercontent
-dramovies.com,rumahbokep.xyz##.ktz-bannersingletop
+indonesiamovies21.com##.ktz-banneraftercontent
+indonesiamovies21.com,rumahbokep.xyz##.ktz-bannersingletop
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 bioskop21.id##.lenyap
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
@@ -297,9 +293,9 @@ cinemaindo.com##.side:nth-of-type(9)
 indoxtream.com##.sidebar-widget:nth-of-type(1)
 indoxtream.com##.sidebar-widget:nth-of-type(3)
 indoxtream.com##.sidebar-widget:nth-of-type(4)
-ganoolmovie.com,sejutafilm.com##.sidebarborder:nth-of-type(2)
-ganoolmovie.com##.sidebarborder:nth-of-type(4)
-ganoolmovie.com##.sidebarborder:nth-of-type(5)
+nontonganool.net,sejutafilm.com##.sidebarborder:nth-of-type(2)
+nontonganool.net##.sidebarborder:nth-of-type(4)
+nontonganool.net##.sidebarborder:nth-of-type(5)
 detik.com##.skinad_1
 detik.com##.skinad_2
 kabar24.com##.skycapper

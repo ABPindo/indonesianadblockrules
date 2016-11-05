@@ -1,7 +1,6 @@
-@@.png#$domain=animeindo.tv|narutobleachlover.net|oploverz.net|wardhanime.net
+@@.png#$domain=narutobleachlover.net|oploverz.net|wardhanime.net
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
-@@||animeindo.tv^$elemhide
 @@||cinemamkv.com^$generichide
 @@||digitalponsel.com^$elemhide
 @@||gambar123.com^$script,domain=46.166.167.16|semprot.com|semprotku.com
