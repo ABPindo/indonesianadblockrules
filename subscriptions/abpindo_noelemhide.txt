@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: jv/SBTpsDP+8N+9XXK9i4g
+! Checksum: 3p2kznQvBdEjyp7Sr12j8g
 ! Title: ABPindo tanpa element hiding
-! Last modified: 05 November 2016, 13:25:29 WIB
+! Last modified: 10 November 2016, 14:01:19 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -348,6 +348,7 @@ totojitu.gif|
 ||bioskop21.info/bokep.gif
 ||bioskop212.net/wp-content/uploads/*.gif
 ||bioskop55.club/wp-content/uploads/*.gif
+||bioskop55.me/wp-content/uploads/*.gif$image
 ||blogspot.com/*.gif$image,domain=bioskop78.com|bioskop78.net|bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton33.com|nontonbokep17.com|nontonfilm.mobi|smallencode.com|zonabola.com
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
@@ -472,11 +473,14 @@ totojitu.gif|
 ||resep.web.id/banner/
 ||rumahbokep.xyz$popup
 ||runreproducerow.com/$popup
+||scriptall.ga$popup
+||scriptall.ml$script,domain=bioskop25.pw|cinemamkv.com
 ||scriptall.ml^$popup,domain=nontongo.com
 ||semprot.com/x_ads/
 ||semuaberita.com/banner/
 ||sodasusu.com/banner/
 ||solopos.com/banner/
+||star88win.com$popup
 ||static.ambient-platform.com/js/m_adnetwork.js
 ||streambokep.com/wp-content/uploads/*.gif
 ||suaramedia.com/images/banners/

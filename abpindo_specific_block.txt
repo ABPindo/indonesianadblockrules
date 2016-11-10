@@ -24,6 +24,7 @@
 ||bioskop21.info/bokep.gif
 ||bioskop212.net/wp-content/uploads/*.gif
 ||bioskop55.club/wp-content/uploads/*.gif
+||bioskop55.me/wp-content/uploads/*.gif$image
 ||blogspot.com/*.gif$image,domain=bioskop78.com|bioskop78.net|bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton33.com|nontonbokep17.com|nontonfilm.mobi|smallencode.com|zonabola.com
 ||bolavegas.com/ads/
 ||cat3movie.us/banners/
@@ -148,11 +149,14 @@
 ||resep.web.id/banner/
 ||rumahbokep.xyz$popup
 ||runreproducerow.com/$popup
+||scriptall.ga$popup
+||scriptall.ml$script,domain=bioskop25.pw|cinemamkv.com
 ||scriptall.ml^$popup,domain=nontongo.com
 ||semprot.com/x_ads/
 ||semuaberita.com/banner/
 ||sodasusu.com/banner/
 ||solopos.com/banner/
+||star88win.com$popup
 ||static.ambient-platform.com/js/m_adnetwork.js
 ||streambokep.com/wp-content/uploads/*.gif
 ||suaramedia.com/images/banners/

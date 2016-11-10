@@ -164,12 +164,14 @@ kapanlagi.com###v5-showcase3
 kapanlagi.com###v8-leaderboard
 indotelko.com###vertical_top_kanal
 www.torjack.net###videoOverAd
+animeindo.net###videoad1
 makassar.tribunnews.com###wideskyscraper
 bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
 dramanice.co.com##.Advertising
 lusuh.com##.ImageAdsSpan
 comotin.com##.Widget:nth-of-type(2)
+comotin.com##.Widget:nth-of-type(3)
 sundul.com##.\33 .Premium.Sundul
 sundul.com##.\34 .Premium.Sundul
 clip.cewecewe.com##.ad
@@ -304,7 +306,7 @@ hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
 mydramalist.com##.spnsr_right
 okezone.com##.sponsored-belt468x60
-nontondramaonline.net##.td-banner-wrap-full
+nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
 bioskopgalaxy21.com,indostreamings.com,tvkabel.net##.textwidget
@@ -322,8 +324,11 @@ iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
 bioskop19.com##a[href="http://162.144.35.114/"]
 bioskop54.com##a[href="http://45.63.19.229/"]
+kshowid.com##a[href="http://agentaruhan.net/"]
 videocrot.tv##a[href="http://agenvimaxindo.org"]
+kshowid.com##a[href="http://halodewa.com/"]
 filmku.net##a[href="http://hokipk.com"]
+kshowid.com##a[href="http://kshowid.com/advertising/"]
 bokep.click##a[href="http://vimaxherbal.com/"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]
@@ -331,6 +336,7 @@ www.torjack.net##a[href="https://mypayingads.com/ref/59039/signup"]
 bokep.click##a[href="https://www.vimaxasli.id/"]
 46.166.167.16,semprot.com,semprotku.com##a[href^="go.php"]
 bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
+kshowid.com##a[href^="http://jokersakong.com/"]
 juragan21.com##a[href^="http://sbokiu.com/"]
 ganool.link##a[href^="http://www.ibw8.com"]
 gudangkpop.com##a[href^="http://www.infolinks.com/join-us"]
