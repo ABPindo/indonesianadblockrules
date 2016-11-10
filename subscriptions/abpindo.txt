@@ -1,7 +1,13 @@
 [Adblock Plus 2.0]
+<<<<<<< HEAD
 ! Checksum: Fk/o0WkufDxMklgngZDjtg
 ! Title: ABPindo
 ! Last modified: 10 November 2016, 14:01:19 WIB
+=======
+! Checksum: f/0wfiDPaDyoeBad0WCRIw
+! Title: ABPindo
+! Last modified: 05 November 2016, 11:59:03 WIB
+>>>>>>> origin/master
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -365,6 +371,7 @@ totojitu.gif|
 ##.pasangiklan
 ##.pengiklan
 ##.pusat728
+##.remodal
 ##.simple_advert
 ##.topadsense
 ##a[href="http://Hoyacash.net"]
@@ -608,6 +615,7 @@ totojitu.gif|
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tailpdulprkp.com$script,domain=videocrot.tv
 ||tambahketinggian.com/banner/
+||tempo.co/webtorial/like/remodal
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net
 ||tribunnews.com/stylesheets/close.gif
 ||tvkabel.net/prom/*.gif
