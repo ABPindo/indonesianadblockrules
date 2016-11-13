@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: wCvjTqrnXhTSIHux6YFNqA
+! Checksum: rH1UjaUbKWOIHhlMOHhqMg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 10 November 2016, 14:08:18 WIB
+! Last modified: 13 November 2016, 18:22:11 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -25,6 +25,7 @@
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
+||adsdelivery.bid^$popup,third-party
 ||adsglow.net^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
@@ -128,6 +129,7 @@
 ||angkajitutogel.net^$third-party
 ||asiabolabet.com^$third-party
 ||asianpokerseo.com/$popup,third-party
+||asianpokerseo.com^$third-party
 ||bandarbet77.net^$third-party
 ||bandarjudi.com/$popup,third-party
 ||bandartaruhan.co^$third-party
@@ -183,6 +185,7 @@
 ||mabosbet.com^$third-party
 ||master138.net^$popup,third-party
 ||onclinic24.com^$third-party
+||paperbola.com$popup
 ||pastibet.com^$third-party
 ||paypalbisnis.com^$third-party
 ||pemaintogel.info^$third-party
@@ -191,6 +194,7 @@
 ||prediksitogeljitu.in^$third-party
 ||ramuanobatherball.com^$third-party
 ||ratubola.com^$third-party
+||rumahbokep.xyz$popup
 ||sbo303.com^$third-party
 ||sbobet.com^$popup,third-party
 ||sbobet.com^$third-party
@@ -471,11 +475,10 @@ totojitu.gif|
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
-||rumahbokep.xyz$popup
 ||runreproducerow.com/$popup
-||scriptall.ga$popup
-||scriptall.ml$script,domain=bioskop25.pw|cinemamkv.com
-||scriptall.ml^$popup,domain=nontongo.com
+||scriptall.ga$script,third-party
+||scriptall.ml$script,third-party
+||scriptall.tk$script,third-party
 ||semprot.com/x_ads/
 ||semuaberita.com/banner/
 ||sodasusu.com/banner/
@@ -510,6 +513,7 @@ totojitu.gif|
 ||108.168.231.179^$popup,third-party
 ||alamatemail.com^$third-party
 ||bekas.com^$third-party
+||bioskopstar88.com^$third-party
 ||c-stat.eu^$third-party
 ||dubshub.com$script,third-party
 ||easy-hit-counter.com^$third-party
@@ -555,6 +559,7 @@ totojitu.gif|
 @@||cinemamkv.com^$generichide
 @@||digitalponsel.com^$elemhide
 @@||gambar123.com^$script,domain=46.166.167.16|semprot.com|semprotku.com
+@@||mkvcine.com^$elemhide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide

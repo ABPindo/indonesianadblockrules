@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: j4JdrxZx7yCjgla6J4M9JA
+! Checksum: NRSbXJz8fduThyiVOI2xFA
 ! Title: ABPindo
-! Last modified: 10 November 2016, 14:08:18 WIB
+! Last modified: 13 November 2016, 18:22:11 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -25,6 +25,7 @@
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
+||adsdelivery.bid^$popup,third-party
 ||adsglow.net^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
@@ -128,6 +129,7 @@
 ||angkajitutogel.net^$third-party
 ||asiabolabet.com^$third-party
 ||asianpokerseo.com/$popup,third-party
+||asianpokerseo.com^$third-party
 ||bandarbet77.net^$third-party
 ||bandarjudi.com/$popup,third-party
 ||bandartaruhan.co^$third-party
@@ -183,6 +185,7 @@
 ||mabosbet.com^$third-party
 ||master138.net^$popup,third-party
 ||onclinic24.com^$third-party
+||paperbola.com$popup
 ||pastibet.com^$third-party
 ||paypalbisnis.com^$third-party
 ||pemaintogel.info^$third-party
@@ -191,6 +194,7 @@
 ||prediksitogeljitu.in^$third-party
 ||ramuanobatherball.com^$third-party
 ||ratubola.com^$third-party
+||rumahbokep.xyz$popup
 ||sbo303.com^$third-party
 ||sbobet.com^$popup,third-party
 ||sbobet.com^$third-party
@@ -376,6 +380,7 @@ totojitu.gif|
 ##a[href="http://hoyacash.com"]
 ##a[href="http://hoyajackpot.net"]
 ##a[href="http://japsex.org"]
+##a[href="http://muvibet.com/"]
 ##a[href="http://obat-klg-herbal.com"]
 ##a[href="http://obatpembesarpenisklg.id/"]
 ##a[href="http://obatpembesarvimax.com/"]
@@ -397,6 +402,7 @@ totojitu.gif|
 ##a[href^="http://www.bursabet.net/"]
 ##a[href^="http://www.jayamania.com/"]
 ##a[href^="http://www.liga888.com/"]
+##a[href^="http://www.raja365.com"]
 ##a[href^="http://www.sbbanner.com/"]
 ##a[href^="http://www.sogopoker.net/ref.php"]
 ##a[href^="http://www.togellounge.net"]
@@ -592,11 +598,10 @@ totojitu.gif|
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
-||rumahbokep.xyz$popup
 ||runreproducerow.com/$popup
-||scriptall.ga$popup
-||scriptall.ml$script,domain=bioskop25.pw|cinemamkv.com
-||scriptall.ml^$popup,domain=nontongo.com
+||scriptall.ga$script,third-party
+||scriptall.ml$script,third-party
+||scriptall.tk$script,third-party
 ||semprot.com/x_ads/
 ||semuaberita.com/banner/
 ||sodasusu.com/banner/
@@ -699,9 +704,9 @@ remo-xp.com###float-right
 173.199.189.86,bioskop55.club,bioskopgalaxy21.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,juragantomatx.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
 bioskop78.com,movie76.net###floating_banner_bottoms
-bioskop212.net,bioskop55.club###floating_banner_left
-bioskop212.net,bioskop55.club###floating_banner_right
-bioskopgalaxy21.com,bioskopstar88.com,juraganmovie.net,juragantomatx.com,movie76.net###floating_banner_top
+bioskop212.net,bioskop55.club,bioskop55.me###floating_banner_left
+bioskop212.net,bioskop55.club,bioskop55.me###floating_banner_right
+bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,juraganmovie.net,juragantomatx.com,movie76.net###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 cinema-indo.co,nontonbokep17.com###floating_banner_top1
 bioskop78.com,bioskop99.mobi###floating_banner_tops
@@ -970,6 +975,7 @@ kshowid.com##a[href^="http://jokersakong.com/"]
 juragan21.com##a[href^="http://sbokiu.com/"]
 ganool.link##a[href^="http://www.ibw8.com"]
 gudangkpop.com##a[href^="http://www.infolinks.com/join-us"]
+nonton33.com##a[href^="http://www.king368.com/promotion"]
 ganool.link##a[href^="http://www.pasaran88.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 ganool.is,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)
@@ -994,6 +1000,7 @@ bioskop78.com##td:nth-of-type(3)
 ||108.168.231.179^$popup,third-party
 ||alamatemail.com^$third-party
 ||bekas.com^$third-party
+||bioskopstar88.com^$third-party
 ||c-stat.eu^$third-party
 ||dubshub.com$script,third-party
 ||easy-hit-counter.com^$third-party
@@ -1039,6 +1046,7 @@ bioskop78.com##td:nth-of-type(3)
 @@||cinemamkv.com^$generichide
 @@||digitalponsel.com^$elemhide
 @@||gambar123.com^$script,domain=46.166.167.16|semprot.com|semprotku.com
+@@||mkvcine.com^$elemhide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide

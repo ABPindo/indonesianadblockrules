@@ -147,11 +147,10 @@
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
-||rumahbokep.xyz$popup
 ||runreproducerow.com/$popup
-||scriptall.ga$popup
-||scriptall.ml$script,domain=bioskop25.pw|cinemamkv.com
-||scriptall.ml^$popup,domain=nontongo.com
+||scriptall.ga$script,third-party
+||scriptall.ml$script,third-party
+||scriptall.tk$script,third-party
 ||semprot.com/x_ads/
 ||semuaberita.com/banner/
 ||sodasusu.com/banner/

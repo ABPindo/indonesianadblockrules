@@ -13,6 +13,7 @@
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
+||adsdelivery.bid^$popup,third-party
 ||adsglow.net^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
