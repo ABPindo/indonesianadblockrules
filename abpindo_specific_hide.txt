@@ -1,12 +1,3 @@
-cinemaindo.stream###teaser1
-cinemaindo.stream###teaser2
-cinemaindo.stream###teaser3
-cinemaindo.stream##.adstops
-nonton21.net###fbanner
-nonton21.net###fbbanner
-nonton21.net###hbanner:nth-of-type(1)
-nonton21.net###pbanner
-nonton21.net##.img-responsive
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 icinema3satu.net###FloatAlamindawa
@@ -68,9 +59,9 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonserial.com,nontonstreaming.co###fatas
-cinema-indo.com,cinemaindo.web.id,filmbagus21.info,layarkaca21.com,layarkaca21.net,layarkaca21.tv,lk21.tv,nontonmovie.web.id,www.ganool.fr###fbanner
+cinema-indo.com,cinemaindo.web.id,filmbagus21.info,layarkaca21.com,layarkaca21.net,layarkaca21.tv,lk21.tv,nonton21.net,nontonmovie.web.id,www.ganool.fr###fbanner
 nontonserial.com,nontonstreaming.co###fbawah
-cinema-indo.com,layarkaca21.net,layarkaca21.tv,lk21.tv###fbbanner
+cinema-indo.com,layarkaca21.net,layarkaca21.tv,lk21.tv,nonton21.net###fbbanner
 bioskop212.net###filmoncereklam
 unyil.net###float-atas
 remo-xp.com###float-left
@@ -90,7 +81,7 @@ sodasusu.com###forum_ads_8
 resep.web.id###googlebox
 icinema3satu.net###h5ab-advert-cont
 cinemaindo.web.id,layarkaca21.com,layarkaca21.net###hbanner
-cinema-indo.com,nontonmovie.web.id###hbanner:nth-of-type(1)
+cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
 banyakfilm.pw###header_sag
 banyakfilm.pw###header_sol
 indosiar.com###headerbanner
@@ -122,7 +113,7 @@ indotelko.com###more_stories
 viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
-cinema-indo.com,cinemaindo.web.id,nontonmovie.web.id###pbanner
+cinema-indo.com,cinemaindo.web.id,nonton21.net,nontonmovie.web.id###pbanner
 bioskop201.info,ganool.nl###popupwindow
 nontonserial.com###previewBox2
 nontonserial.com###previewBox4
@@ -152,9 +143,9 @@ harianjogja.com,solopos.com###solopos_float
 ganool.ph###srcadsurlblock
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
-cinemaindo.com,cinemaindo.tv,film-ganool.com###teaser1
-22cinema.download,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser2
-22cinema.download,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.tv,downloadfilmbaru.com,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
+cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.com###teaser1
+22cinema.download,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.com,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser2
+22cinema.download,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,unduhfilm.in###teaser3
 sodasusu.com###teaser4
 22cinema.download###teaser5
 hotabis.com###text-28 > .textwidget
@@ -200,7 +191,7 @@ kompas.com##.ads2
 dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
 antaranews.com##.ads_top_728
-cinemaindo.com##.adstops
+cinemaindo.com,cinemaindo.stream##.adstops
 mangaku.web.id##.adv
 dramacool.io,dramanice.at,k-vid.com##.adv-space
 teknoup.com##.advertisement_box1
@@ -271,7 +262,7 @@ kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
-cinemaindo.web.id##.img-responsive
+cinemaindo.web.id,nonton21.net##.img-responsive
 animeindo.web.id##.in_up_ad-area
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 brankasvideo.com,filmku.net,indonesiamovies21.com##.ktz-aftermenubanner

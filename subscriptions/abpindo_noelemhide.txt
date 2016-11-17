@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: rH1UjaUbKWOIHhlMOHhqMg
+! Checksum: pNFah/iHHDZJ0xosz0hjyg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 13 November 2016, 18:22:11 WIB
+! Last modified: 17 November 2016, 18:12:40 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -361,6 +361,7 @@ totojitu.gif|
 ||cdn.livechatinc.com/tracking.js
 ||cinema-indo.com/banere/*.gif$image
 ||cinemaindo.com/wp-content/uploads/*.gif
+||cinemaindo.stream/*.gif$image
 ||cinemaindo.tv/wp-content/uploads/*.gif
 ||cinemaindo.web.id/banere/
 ||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$script,~third-party
