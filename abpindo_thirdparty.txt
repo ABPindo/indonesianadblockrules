@@ -4,6 +4,7 @@
 ||bioskopstar88.com^$third-party
 ||c-stat.eu^$third-party
 ||dubshub.com$script,third-party
+||dulcetcgvcxr.com$popup
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
@@ -12,6 +13,7 @@
 ||gambar123.com^$image,third-party
 ||gambar456.com^$image,third-party
 ||idolakini.com/$popup,third-party
+||jasjus.net$popup
 ||javapic.com^$third-party
 ||jingkrak.com^$third-party
 ||lapak-online.net/$popup,third-party
@@ -30,10 +32,12 @@
 ||podomoro.co.id$popup
 ||publish.web.id^$third-party
 ||realwap.net^$third-party
+||runreproducerow.com/$popup
 ||sanglah.com^$third-party
 ||scriptall.gq$script,domain=ainodorama.web.id
 ||sebar.idblognetwork.com^$third-party
 ||topsurfer.com^$third-party
+||trackdan.com$popup
 ||trackingclick.net^$popup,third-party
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party

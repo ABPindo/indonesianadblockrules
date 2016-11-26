@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: pNFah/iHHDZJ0xosz0hjyg
+! Checksum: qb5S4UYER65ePjJsT9MV0w
 ! Title: ABPindo tanpa element hiding
-! Last modified: 17 November 2016, 18:12:40 WIB
+! Last modified: 26 November 2016, 17:07:15 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -173,6 +173,7 @@
 ||indonesia-community.net^
 ||inibos.com^$third-party
 ||investasiceria.net^$third-party
+||jackpot.88beto.com$popup
 ||jollywallet.com^$third-party
 ||kakakdewa.com^$third-party
 ||kakakdewa.net^$third-party
@@ -182,6 +183,7 @@
 ||kosmetik-obatkuat.com^$third-party
 ||liga88.com^$third-party
 ||linksbobet2016.com^$third-party
+||m8livepoker.com$popup
 ||mabosbet.com^$third-party
 ||master138.net^$popup,third-party
 ||onclinic24.com^$third-party
@@ -412,8 +414,8 @@ totojitu.gif|
 ||indotelko.com/inc/banner.css
 ||indotelko.com/inc/c_banner.js
 ||jagatreview.com/wp-content/uploads/*-SKIN-
-||javacript.ga^$popup,domain=ganool.tv
-||javacript.tk/8893.js$script,domain=cinemamkv.com
+||javacript.ga$script,third-party
+||javacript.tk$script,third-party
 ||juragan21.com/wp-content/uploads/*.gif
 ||jwpsrv.com/library/+QwJzEEdEeKNySIACp8kUw.js$domain=bioskop78.com
 ||kampus.us/banners/
@@ -476,8 +478,9 @@ totojitu.gif|
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
-||runreproducerow.com/$popup
+||scriptall.cf$script,third-party
 ||scriptall.ga$script,third-party
+||scriptall.gq$script,third-party
 ||scriptall.ml$script,third-party
 ||scriptall.tk$script,third-party
 ||semprot.com/x_ads/
@@ -517,6 +520,7 @@ totojitu.gif|
 ||bioskopstar88.com^$third-party
 ||c-stat.eu^$third-party
 ||dubshub.com$script,third-party
+||dulcetcgvcxr.com$popup
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
@@ -525,6 +529,7 @@ totojitu.gif|
 ||gambar123.com^$image,third-party
 ||gambar456.com^$image,third-party
 ||idolakini.com/$popup,third-party
+||jasjus.net$popup
 ||javapic.com^$third-party
 ||jingkrak.com^$third-party
 ||lapak-online.net/$popup,third-party
@@ -543,10 +548,12 @@ totojitu.gif|
 ||podomoro.co.id$popup
 ||publish.web.id^$third-party
 ||realwap.net^$third-party
+||runreproducerow.com/$popup
 ||sanglah.com^$third-party
 ||scriptall.gq$script,domain=ainodorama.web.id
 ||sebar.idblognetwork.com^$third-party
 ||topsurfer.com^$third-party
+||trackdan.com$popup
 ||trackingclick.net^$popup,third-party
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
