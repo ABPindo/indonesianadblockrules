@@ -13,7 +13,6 @@
 ||armylookfashion.com/728.swf
 ||asianbrain.com/banner/
 ||asikbookie.com/images/banner/
-||bhjhijisulwl.com$script,domain=videocrot.tv
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
 ||bintangmawar.net/forum/med_banner.php
@@ -31,6 +30,7 @@
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
 ||cdn.livechatinc.com/tracking.js
+||cekerayam.xyz/wp-content/uploads/*.gif
 ||cinema-indo.com/banere/*.gif$image
 ||cinemaindo.com/wp-content/uploads/*.gif
 ||cinemaindo.stream/*.gif$image
@@ -53,6 +53,7 @@
 ||fansubsupdate.com/res/img/sampleads/
 ||film-ganool.com/wp-content/uploads/*.gif
 ||film21terbaru.org/wp-content/uploads/*.gif
+||filmbaru.in/wp-content/uploads/*.gif
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||forumbookie.com/banner/
 ||forumidn.com^$popup,domain=susterbokep.com
@@ -159,22 +160,17 @@
 ||solopos.com/banner/
 ||star88win.com$popup
 ||static.ambient-platform.com/js/m_adnetwork.js
-||streambokep.com/wp-content/uploads/*.gif
-||suaramedia.com/images/banners/
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||susterbokep.com/wp-content/uploads/*.gif
-||tailpdulprkp.com$script,domain=videocrot.tv
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net
 ||tribunnews.com/stylesheets/close.gif
 ||tvkabel.net/prom/*.gif
-||unduhfilm.in/wp-content/uploads/*.gif
 ||upload.coblos.net/images/*.gif
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
-||videocrot.com/wp-content/uploads/*/iklan.gif
-||warungremang.com/wp-content/uploads/*.gif
+||videocrot.net/wp-content/uploads/*/iklan.gif
 ||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||yourjavascript.com/0653544211/lompatin.js$script,domain=filmku.net
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
@@ -183,3 +179,4 @@
 ||zonabola.com/wp-content/uploads/*.gif$image
 ||zonabola.com/wp-content/uploads/*/Banner-
 ||zonabola.com^*/iklan/
+||zonabola.id/wp-content/uploads/*.gif$image

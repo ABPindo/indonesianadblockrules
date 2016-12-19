@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: GbmMswBOFq1Mp41a1pdMqg
+! Checksum: XlqW85a+NE3mSpYctXhe3w
 ! Title: ABPindo tanpa element hiding
-! Last modified: 15 Desember 2016, 11:02:48 WIB
+! Last modified: 19 Desember 2016, 09:55:08 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -262,7 +262,6 @@
 ||qsng.cn^
 ||rumdesign.com/wrong/
 ||sajjadali.com^
-||seksburada.net^
 ||shitpassion.com^
 ||sinthaistudio.com/thehouse2/
 ||sportsmansclub.net^
@@ -270,7 +269,6 @@
 ||suckdude.com^
 ||sukatoro.com^
 ||sweety.biz^
-||thatsnotsexy.com^
 ||themobiletracker.com^
 ||thewillpower.org^
 ||turdgasm.com^
@@ -344,7 +342,6 @@ totojitu.gif|
 ||armylookfashion.com/728.swf
 ||asianbrain.com/banner/
 ||asikbookie.com/images/banner/
-||bhjhijisulwl.com$script,domain=videocrot.tv
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
 ||bintangmawar.net/forum/med_banner.php
@@ -362,6 +359,7 @@ totojitu.gif|
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
 ||cdn.livechatinc.com/tracking.js
+||cekerayam.xyz/wp-content/uploads/*.gif
 ||cinema-indo.com/banere/*.gif$image
 ||cinemaindo.com/wp-content/uploads/*.gif
 ||cinemaindo.stream/*.gif$image
@@ -384,6 +382,7 @@ totojitu.gif|
 ||fansubsupdate.com/res/img/sampleads/
 ||film-ganool.com/wp-content/uploads/*.gif
 ||film21terbaru.org/wp-content/uploads/*.gif
+||filmbaru.in/wp-content/uploads/*.gif
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||forumbookie.com/banner/
 ||forumidn.com^$popup,domain=susterbokep.com
@@ -490,22 +489,17 @@ totojitu.gif|
 ||solopos.com/banner/
 ||star88win.com$popup
 ||static.ambient-platform.com/js/m_adnetwork.js
-||streambokep.com/wp-content/uploads/*.gif
-||suaramedia.com/images/banners/
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||susterbokep.com/wp-content/uploads/*.gif
-||tailpdulprkp.com$script,domain=videocrot.tv
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net
 ||tribunnews.com/stylesheets/close.gif
 ||tvkabel.net/prom/*.gif
-||unduhfilm.in/wp-content/uploads/*.gif
 ||upload.coblos.net/images/*.gif
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
-||videocrot.com/wp-content/uploads/*/iklan.gif
-||warungremang.com/wp-content/uploads/*.gif
+||videocrot.net/wp-content/uploads/*/iklan.gif
 ||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||yourjavascript.com/0653544211/lompatin.js$script,domain=filmku.net
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
@@ -514,6 +508,7 @@ totojitu.gif|
 ||zonabola.com/wp-content/uploads/*.gif$image
 ||zonabola.com/wp-content/uploads/*/Banner-
 ||zonabola.com^*/iklan/
+||zonabola.id/wp-content/uploads/*.gif$image
 ! *** abpindo_thirdparty.txt ***
 ||108.168.231.179^$popup,third-party
 ||130.211.230.53^$popup
@@ -555,7 +550,6 @@ totojitu.gif|
 ||realwap.net^$third-party
 ||runreproducerow.com/$popup
 ||sanglah.com^$third-party
-||scriptall.gq$script,domain=ainodorama.web.id
 ||sebar.idblognetwork.com^$third-party
 ||topsurfer.com^$third-party
 ||trackdan.com$popup
