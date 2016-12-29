@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ZMttr2ZL0ebzUEgdPI5kKA
+! Checksum: lzAzCm6IA4PefIE0+zLI5w
 ! Title: ABPindo tanpa element hiding
-! Last modified: 27 Desember 2016, 20:27:03 WIB
+! Last modified: 29 Desember 2016, 14:32:26 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -370,6 +370,7 @@ totojitu.gif|
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif
 ||cytochemistryrecitativewrasse.com/$popup
+||dafa.io/smalcodcas$popup
 ||detik.com/images/banners/
 ||dewa.tv/banner/
 ||dewamovie.net/wp-content/uploads/*.gif
@@ -493,13 +494,16 @@ totojitu.gif|
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
+||tendangsakti.com$popup
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net
 ||tribunnews.com/stylesheets/close.gif
+||trk.com-878979.info$popup
 ||tvkabel.net/prom/*.gif
 ||upload.coblos.net/images/*.gif
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||videocrot.net/wp-content/uploads/*/iklan.gif
+||vzmnvqiqgxqk.com$script,domain=smallencode.com
 ||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||yourjavascript.com/0653544211/lompatin.js$script,domain=filmku.net
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
@@ -509,6 +513,7 @@ totojitu.gif|
 ||zonabola.com/wp-content/uploads/*/Banner-
 ||zonabola.com^*/iklan/
 ||zonabola.id/wp-content/uploads/*.gif$image
+||zvuespzsdgdq.com$script,domain=smallencode.com
 ! *** abpindo_thirdparty.txt ***
 ||108.168.231.179^$popup,third-party
 ||130.211.230.53^$popup

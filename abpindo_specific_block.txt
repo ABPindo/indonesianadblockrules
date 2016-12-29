@@ -41,6 +41,7 @@
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif
 ||cytochemistryrecitativewrasse.com/$popup
+||dafa.io/smalcodcas$popup
 ||detik.com/images/banners/
 ||dewa.tv/banner/
 ||dewamovie.net/wp-content/uploads/*.gif
@@ -164,13 +165,16 @@
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
+||tendangsakti.com$popup
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net
 ||tribunnews.com/stylesheets/close.gif
+||trk.com-878979.info$popup
 ||tvkabel.net/prom/*.gif
 ||upload.coblos.net/images/*.gif
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||videocrot.net/wp-content/uploads/*/iklan.gif
+||vzmnvqiqgxqk.com$script,domain=smallencode.com
 ||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||yourjavascript.com/0653544211/lompatin.js$script,domain=filmku.net
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
@@ -180,3 +184,4 @@
 ||zonabola.com/wp-content/uploads/*/Banner-
 ||zonabola.com^*/iklan/
 ||zonabola.id/wp-content/uploads/*.gif$image
+||zvuespzsdgdq.com$script,domain=smallencode.com
