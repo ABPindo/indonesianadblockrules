@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: lzAzCm6IA4PefIE0+zLI5w
+! Checksum: mqgaT54WatG5j44XM55+AQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 29 Desember 2016, 14:32:26 WIB
+! Last modified: 03 Januari 2017, 07:49:43 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -151,6 +151,7 @@
 ||cash-harvest.com^$third-party
 ||cashburners.biz^$third-party
 ||clickadu.com^$third-party
+||cmobet.info$image,third-party
 ||daftarbandarpoker.com^$popup,third-party
 ||daftartogelonline.info^$third-party
 ||dewapoker.net^$third-party
@@ -355,6 +356,7 @@ totojitu.gif|
 ||bioskop55.me/wp-content/uploads/*.gif$image
 ||blogspot.com/*.gif$image,domain=bioskop78.com|bioskop78.net|bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton33.com|nontonbokep17.com|nontonfilm.mobi|smallencode.com|zonabola.com
 ||bolavegas.com/ads/
+||cafeskor.com$popup,domain=warungbioskop.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
@@ -375,12 +377,14 @@ totojitu.gif|
 ||dewa.tv/banner/
 ||dewamovie.net/wp-content/uploads/*.gif
 ||dewanonton.com/wp-content/uploads/*.gif
+||dk7rftbivnkgr.cloudfront.net$script,domain=film-ganool.co
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||fansubsupdate.com/res/img/sampleads/
+||film-ganool.co/wp-content/uploads/*.gif$image
 ||film-ganool.com/wp-content/uploads/*.gif
 ||film21terbaru.org/wp-content/uploads/*.gif
 ||filmbaru.in/wp-content/uploads/*.gif
@@ -416,6 +420,7 @@ totojitu.gif|
 ||indotelko.com/inc/c_banner.js
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||javacript.ga$script,third-party
+||javacript.gq$script,third-party
 ||javacript.tk$script,third-party
 ||juragan21.com/wp-content/uploads/*.gif
 ||jwpsrv.com/library/+QwJzEEdEeKNySIACp8kUw.js$domain=bioskop78.com

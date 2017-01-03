@@ -26,6 +26,7 @@
 ||bioskop55.me/wp-content/uploads/*.gif$image
 ||blogspot.com/*.gif$image,domain=bioskop78.com|bioskop78.net|bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton33.com|nontonbokep17.com|nontonfilm.mobi|smallencode.com|zonabola.com
 ||bolavegas.com/ads/
+||cafeskor.com$popup,domain=warungbioskop.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
@@ -46,12 +47,14 @@
 ||dewa.tv/banner/
 ||dewamovie.net/wp-content/uploads/*.gif
 ||dewanonton.com/wp-content/uploads/*.gif
+||dk7rftbivnkgr.cloudfront.net$script,domain=film-ganool.co
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||fansubsupdate.com/res/img/sampleads/
+||film-ganool.co/wp-content/uploads/*.gif$image
 ||film-ganool.com/wp-content/uploads/*.gif
 ||film21terbaru.org/wp-content/uploads/*.gif
 ||filmbaru.in/wp-content/uploads/*.gif
@@ -87,6 +90,7 @@
 ||indotelko.com/inc/c_banner.js
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||javacript.ga$script,third-party
+||javacript.gq$script,third-party
 ||javacript.tk$script,third-party
 ||juragan21.com/wp-content/uploads/*.gif
 ||jwpsrv.com/library/+QwJzEEdEeKNySIACp8kUw.js$domain=bioskop78.com
@@ -185,7 +189,3 @@
 ||zonabola.com^*/iklan/
 ||zonabola.id/wp-content/uploads/*.gif$image
 ||zvuespzsdgdq.com$script,domain=smallencode.com
-||film-ganool.co/wp-content/uploads/*.gif$image
-||dk7rftbivnkgr.cloudfront.net$script,domain=film-ganool.co
-||cafeskor.com$popup,domain=warungbioskop.com
-
