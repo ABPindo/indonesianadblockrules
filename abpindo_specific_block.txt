@@ -185,3 +185,6 @@
 ||zonabola.com^*/iklan/
 ||zonabola.id/wp-content/uploads/*.gif$image
 ||zvuespzsdgdq.com$script,domain=smallencode.com
+||film-ganool.co/wp-content/uploads/*.gif$image
+||dk7rftbivnkgr.cloudfront.net$script,domain=film-ganool.co
+
