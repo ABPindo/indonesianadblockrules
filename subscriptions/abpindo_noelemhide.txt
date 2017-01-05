@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: mqgaT54WatG5j44XM55+AQ
+! Checksum: nzLavaYVGNCQGDKdUcHZhA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 03 Januari 2017, 07:49:43 WIB
+! Last modified: 06 January 2017, 02:51:09 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -152,10 +152,13 @@
 ||cashburners.biz^$third-party
 ||clickadu.com^$third-party
 ||cmobet.info$image,third-party
+||com-878979.info^$popup,$third-party
+||dafa.io^$popup,$third-party
 ||daftarbandarpoker.com^$popup,third-party
 ||daftartogelonline.info^$third-party
 ||dewapoker.net^$third-party
 ||dinastybet.com^$third-party
+||dmatquyckwtu.com^$third-party
 ||dorabet.net^$third-party
 ||doremibet.com^$third-party
 ||duitbux.com^$third-party
@@ -163,6 +166,7 @@
 ||earneasycash.info^$third-party
 ||fadly168.ga^$third-party
 ||fairbet88.com^$popup,third-party
+||fhylnqzxwsbo.com^$third-party
 ||formulabisnis.com^$third-party
 ||galaxybola.com^$third-party
 ||galaxytoto.com^$third-party
@@ -188,6 +192,7 @@
 ||m8livepoker.com$popup
 ||mabosbet.com^$third-party
 ||master138.net^$popup,third-party
+||ompzowzfwwfc.com^$third-party
 ||onclinic24.com^$third-party
 ||paperbola.com$popup
 ||pastibet.com^$third-party
@@ -206,6 +211,7 @@
 ||sbobethk.com^$third-party
 ||sbobetid.com^$third-party
 ||sbobetuk.com^$third-party
+||scbywuiojqvh.com^$third-party
 ||see-work.info^$third-party
 ||senangpokerseo.com^$third-party
 ||seni888.com^$popup,third-party
@@ -215,9 +221,12 @@
 ||star88bola.com^$third-party
 ||togelmaya.com^$third-party
 ||togeltoto.net^$third-party
+||trcbxjusetvc.com^$third-party
 ||tri7bet.com^$third-party
 ||u16822.com^$third-party
+||vdlvaqsbaiok.com^$third-party
 ||vimaxtrial.com^$third-party
+||window-close.gq^$third-party
 ||zonaprediksi.me^$third-party
 ! *** abpindo_computer_prank.txt ***
 ||1227.com^
