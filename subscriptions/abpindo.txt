@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zrOk/CJI1T+bKzUOvRWKBQ
+! Checksum: l/F+Vgp+vfuTc49or/zMtg
 ! Title: ABPindo
-! Last modified: 06 January 2017, 03:14:14 WIB
+! Last modified: 06 January 2017, 03:23:44 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -338,11 +338,11 @@ sarangbola.gif|
 sbobetqq.gif|
 totojitu.gif|
 ! *** abpindo_general_hide.txt ***
-###Box-Banner-ads
 ###adsground
 ###adv-placeholder
 ###bireklam
 ###bottom_exclusive_ads
+###Box-Banner-ads
 ###cfs_top_div
 ###desaiklan
 ###dewiqq
@@ -360,7 +360,6 @@ totojitu.gif|
 ###livechat-eye-catcher
 ###top_ad_full
 ###tupiklan
-##.SectionAds
 ##.ad_primex
 ##.adspace_300
 ##.adtext01
@@ -371,7 +370,6 @@ totojitu.gif|
 ##.forads
 ##.gbcontent
 ##.gpcontent
-~kontan.co.id,~securitylink.biz##.iklan
 ##.iklan728
 ##.iklan_semprot
 ##.iklan_semprot_h
@@ -384,9 +382,10 @@ totojitu.gif|
 ##.pengiklan
 ##.pusat728
 ##.remodal
+##.SectionAds
 ##.simple_advert
 ##.topadsense
-##a[href="http://Hoyacash.net"]
+##a[href*="legendatogel.com"]
 ##a[href="http://agenqq.online/"]
 ##a[href="http://agentaruhan.net/"]
 ##a[href="http://agenvimaxindo.org"]
@@ -396,6 +395,7 @@ totojitu.gif|
 ##a[href="http://halodewa.com/"]
 ##a[href="http://hokipk.com"]
 ##a[href="http://hoyacash.com"]
+##a[href="http://Hoyacash.net"]
 ##a[href="http://hoyajackpot.net"]
 ##a[href="http://hoyatoto88.com"]
 ##a[href="http://ibobandarq.net/"]
@@ -452,47 +452,48 @@ totojitu.gif|
 ##a[href^="http://www.sogopoker.net/ref.php"]
 ##a[href^="http://www.togellounge.net"]
 ##a[href^="http://xtgem.com/click"]
+##img[alt="ads"]
 ##img[alt="Advertisement"]
 ##img[alt="Agen Bola Terpercaya"]
 ##img[alt="Agen Bola"]
+##img[alt="agen Bola"]
+##img[alt="agen bola"]
 ##img[alt="Agen Judi Online"]
 ##img[alt="Agen Poker Online"]
 ##img[alt="Agen Poker Terpercaya"]
 ##img[alt="Agen Poker"]
 ##img[alt="Agen QQ"]
+##img[alt="agen sbobet"]
+##img[alt="betting togel online"]
 ##img[alt="Iklan"]
+##img[alt="iklan"]
 ##img[alt="Judi Online Terpercaya"]
 ##img[alt="Judi Online"]
 ##img[alt="Judi Poker Online"]
 ##img[alt="Live Score"]
 ##img[alt="Obat Pembesar Penis"]
+##img[alt="obatpenisalami"]
 ##img[alt="Pasang Iklan Anda Disini"]
 ##img[alt="Pasang Iklan Murah"]
 ##img[alt="Pemasangan Iklan"]
+##img[alt="permainan judi online"]
 ##img[alt="Poker Online Terpercaya"]
 ##img[alt="Poker Online"]
+##img[alt="poker online"]
+##img[alt="sbobet"]
 ##img[alt="Senibet"]
 ##img[alt="Space Iklan"]
 ##img[alt="Taruhan Bola Online"]
 ##img[alt="Togel Online"]
 ##img[alt="Togel Terpercaya"]
-##img[alt="ads"]
-##img[alt="agen Bola"]
-##img[alt="agen bola"]
-##img[alt="agen sbobet"]
-##img[alt="betting togel online"]
-##img[alt="iklan"]
-##img[alt="obatpenisalami"]
-##img[alt="permainan judi online"]
-##img[alt="poker online"]
-##img[alt="sbobet"]
 ##img[alt="vimax asli"]
-##img[title="IndoBet - Agen Bola Online"]
-##img[title="Judi Bola Online"]
 ##img[title="agen bola terpecaya"]
 ##img[title="agen bola terpercaya"]
+##img[title="IndoBet - Agen Bola Online"]
+##img[title="Judi Bola Online"]
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
+~kontan.co.id,~securitylink.biz##.iklan
 ! *** abpindo_specific_block.txt ***
 ! Tracked popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
 ||104.154.*.*^$popup,domain=ganool.is|ganool.ph
