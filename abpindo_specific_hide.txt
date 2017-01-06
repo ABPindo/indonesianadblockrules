@@ -357,4 +357,5 @@ icinema3satu.net##img[style="height: 125px; width: 125px;"]
 icinema3satu.net##img[style="height:125x;width:125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 lihat.co.id##img[width="300"][height="250"]
+smallencode.com##script:contains(popup)
 bioskop78.com##td:nth-of-type(3)

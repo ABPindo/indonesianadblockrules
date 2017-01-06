@@ -52,6 +52,7 @@
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
+||eramuslim.com/banners
 ||ewetot.com^$image,object,domain=bintangmawar.net
 ||fansubsupdate.com/res/img/sampleads/
 ||film-ganool.co/wp-content/uploads/*.gif$image
@@ -67,11 +68,13 @@
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
 ||gsshop.co.id^*/background/banner-
+||gvgakxvukmrm.com$script,domain=smallencode.com
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hentaihere.com/app/assets/static/$popup,domain=hentaihere.com
+||hilkfxdqxzac.com$script,domain=smallencode.com
 ||hotabis.com/wp-content/uploads/*.gif
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
@@ -142,6 +145,7 @@
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
 ||nontonstreaming.co/wp-content/uploads/*.gif
+||oehjxqhiasrk.com$script,domain=smallencode.com
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
 ||petikmangga.com/wp-content/uploads/*.gif
 ||placehold.it/300x250
@@ -153,7 +157,10 @@
 ||postimg.org/*.gif$image,domain=cinemaindo.web.id|downloadfilmbaru.com|filmbagus21.info|r-l.me|zonabola.com
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
+||replase.gq$script,domain=smallencode.com
+||replase.gq^$popup
 ||resep.web.id/banner/
+||rihzsedipaqq.com$script,domain=smallencode.com
 ||scriptall.cf$script,third-party
 ||scriptall.ga$script,third-party
 ||scriptall.gq$script,third-party
@@ -189,8 +196,3 @@
 ||zonabola.com^*/iklan/
 ||zonabola.id/wp-content/uploads/*.gif$image
 ||zvuespzsdgdq.com$script,domain=smallencode.com
-||oehjxqhiasrk.com$script,domain=smallencode.com
-||replase.gq$script,domain=smallencode.com
-||hilkfxdqxzac.com$script,domain=smallencode.com
-||replase.gq^$popup
-||eramuslim.com/banners
