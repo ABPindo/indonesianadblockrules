@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QuUULIKvanTUMAGGHhyyyQ
+! Checksum: wYPjYoLGJb3/wZ0tCtV1ag
 ! Title: ABPindo
-! Last modified: 06 Januari 2017, 21:19:42 WIB
+! Last modified: 06 Januari 2017, 21:26:25 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -43,6 +43,7 @@
 ||forumiklan.com^$third-party
 ||groupiklan.com^$third-party
 ||gudangbanner.com$third-party
+||halal.ad$third-party
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
@@ -330,6 +331,7 @@ ayoqq.gif|
 banner728.gif|
 bundapoker.gif|
 iklan300x250.gif|
+jayabet.gif|
 nagalaut728.gif|
 RajaQQ.gif|
 Ratubola.gif|
@@ -521,7 +523,7 @@ totojitu.gif|
 ||bioskop212.net/wp-content/uploads/*.gif
 ||bioskop55.club/wp-content/uploads/*.gif
 ||bioskop55.me/wp-content/uploads/*.gif$image
-||blogspot.com/*.gif$image,domain=bioskop78.com|bioskop78.net|bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton33.com|nontonbokep17.com|nontonfilm.mobi|smallencode.com|zonabola.com
+||blogspot.com/*.gif$image,domain=bioskop78.com|bioskop78.net|bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton33.com|nontonbokep17.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
 ||bolavegas.com/ads/
 ||cafeskor.com$popup,domain=warungbioskop.com
 ||cat3movie.us/banners/
@@ -758,7 +760,7 @@ nontonserial.com,nontonstreaming.co###fatas
 cinema-indo.com,cinemaindo.web.id,filmbagus21.info,ganool.fr,layarkaca21.com,layarkaca21.net,layarkaca21.tv,lk21.tv,nonton21.net,nontonmovie.web.id###fbanner
 nontonserial.com,nontonstreaming.co###fbawah
 cinema-indo.com,layarkaca21.net,layarkaca21.tv,lk21.tv,nonton21.net###fbbanner
-bioskop212.net###filmoncereklam
+bioskop212.net,nontonfilm21.club###filmoncereklam
 unyil.net###float-atas
 remo-xp.com###float-left
 remo-xp.com###float-right
@@ -839,7 +841,7 @@ harianjogja.com,solopos.com###solopos_float
 ganool.ph###srcadsurlblock
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
-cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com###teaser1
+cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,neumanga.tv###teaser1
 22cinema.download,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id###teaser2
 22cinema.download,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,www.layarbiru21.com###teaser3
 sodasusu.com###teaser4
@@ -942,6 +944,7 @@ lusuh.com##.cintalusuh_floating_banner_top
 juragan21.com##.cintasemprot_floating_banner_bottom
 sindonews.com##.clear.size-wide-custom.dummy
 www.filmku.net##.clearfix.act2-970x90:nth-of-type(1)
+filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 ganool.is,ganool.ph##.col-xs-12.col-md-6.col-lg-6
@@ -1026,6 +1029,7 @@ iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
 bioskop19.com##a[href="http://162.144.35.114/"]
 bioskop54.com##a[href="http://45.63.19.229/"]
+nontonfilm21.club##a[href="http://bandartogelsingapore.com/"]
 kshowid.com##a[href="http://kshowid.com/advertising/"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]

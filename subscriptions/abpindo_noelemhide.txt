@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: a8IgoFIxiz9O+rch7LKvXA
+! Checksum: /DjJ6r86HRZoWPjVYRt6Eg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 06 Januari 2017, 21:19:42 WIB
+! Last modified: 06 Januari 2017, 21:26:25 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -43,6 +43,7 @@
 ||forumiklan.com^$third-party
 ||groupiklan.com^$third-party
 ||gudangbanner.com$third-party
+||halal.ad$third-party
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
@@ -330,6 +331,7 @@ ayoqq.gif|
 banner728.gif|
 bundapoker.gif|
 iklan300x250.gif|
+jayabet.gif|
 nagalaut728.gif|
 RajaQQ.gif|
 Ratubola.gif|
@@ -364,7 +366,7 @@ totojitu.gif|
 ||bioskop212.net/wp-content/uploads/*.gif
 ||bioskop55.club/wp-content/uploads/*.gif
 ||bioskop55.me/wp-content/uploads/*.gif$image
-||blogspot.com/*.gif$image,domain=bioskop78.com|bioskop78.net|bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton33.com|nontonbokep17.com|nontonfilm.mobi|smallencode.com|zonabola.com
+||blogspot.com/*.gif$image,domain=bioskop78.com|bioskop78.net|bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton33.com|nontonbokep17.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
 ||bolavegas.com/ads/
 ||cafeskor.com$popup,domain=warungbioskop.com
 ||cat3movie.us/banners/
