@@ -59,13 +59,15 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonserial.com,nontonstreaming.co###fatas
-cinema-indo.com,cinemaindo.web.id,filmbagus21.info,ganool.fr,layarkaca21.com,layarkaca21.net,layarkaca21.tv,lk21.tv,nonton21.net,nontonmovie.web.id###fbanner
+cinema-indo.com,cinemaindo.web.id,filmbagus21.info,filmbagus21.web.id,ganool.fr,layarkaca21.com,layarkaca21.net,layarkaca21.tv,layarkaca21.web.id,lk21.tv,nonton21.net,nontonmovie.web.id###fbanner
 nontonserial.com,nontonstreaming.co###fbawah
 cinema-indo.com,layarkaca21.net,layarkaca21.tv,lk21.tv,nonton21.net###fbbanner
-bioskop212.net,nontonfilm21.club###filmoncereklam
+bioskop212.net,nontonfilm21.club,sinema21.id###filmoncereklam
 unyil.net###float-atas
 remo-xp.com###float-left
 remo-xp.com###float-right
+komiku.net###floatads2
+komiku.net###floatads3
 173.199.189.86,bioskop55.club,bioskop55.me,bioskopgalaxy21.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,juragantomatx.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
 bioskop78.com,movie76.net###floating_banner_bottoms
@@ -144,8 +146,8 @@ ganool.ph###srcadsurlblock
 downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,neumanga.tv###teaser1
-22cinema.download,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,movie76.net,nontonmovie.web.id###teaser2
-22cinema.download,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,movie76.net,nontonmovie.web.id,www.layarbiru21.com###teaser3
+22cinema.download,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,komiku.net,movie76.net,nontonmovie.web.id###teaser2
+22cinema.download,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,movie76.net,nontonmovie.web.id,www.layarbiru21.com###teaser3
 sodasusu.com###teaser4
 22cinema.download###teaser5
 hotabis.com###text-28 > .textwidget
@@ -270,7 +272,6 @@ warungbioskop.com##.iklanleft
 cinemaindo.web.id,layarkaca21.net,nonton21.net##.img-responsive
 animeindo.web.id##.in_up_ad-area
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
-videocrot.net##.ktz-allwrap > .container > .headbanner
 indonesiamovies21.com##.ktz-banneraftercontent
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 bioskop21.id##.lenyap
@@ -337,9 +338,10 @@ lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]
 torjack.net##a[href="https://mypayingads.com/ref/59039/signup"]
 46.166.167.16,semprot.com,semprotku.com##a[href^="go.php"]
+cinema2satu.id##a[href^="http://adserver.adreactor.com/servlet/view/window/url/zone"]
 bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 kshowid.com##a[href^="http://jokersakong.com/"]
-juragan21.com##a[href^="http://sbokiu.com/"]
+filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 nonton33.com##a[href^="http://www.king368.com/promotion"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 ganool.is,ganool.ph##body > div:last-child:not(#fb-root):not(#site-container)

@@ -3,6 +3,7 @@
 ||1st-iklan.com^$third-party
 ||ad.adflazz.com^$third-party
 ||addesigner.com^$third-party
+||adexchangecloud.com^$popup
 ||adexchangecloud.com^$third-party
 ||adexp.net^$third-party
 ||admarketplace.net^$popup,third-party
@@ -74,6 +75,8 @@
 ||maist.jp^$third-party
 ||masteriklan.net^$third-party
 ||offerjuice.me^$popup,third-party
+||onclkds.com$popup
+||onclkds.com^$third-party
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
 ||paidforfree.com^$third-party
@@ -93,7 +96,6 @@
 ||serbapromo.com^$third-party
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
-||star88bet.net/$popup
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
 ||teliad.com^$third-party
@@ -102,6 +104,7 @@
 ||topbananaad.com^$third-party
 ||topklik.com^$third-party
 ||tradeadexchange.com^$popup,third-party
+||trk.com-878979.info^$third-party
 ||useads.com^$third-party
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
