@@ -10,7 +10,7 @@ ABPindo merupakan filter AdblockPlus compatible untuk memblokir iklan mengganggu
 - Jalankan peramban favoritmu (firefox, chrome, opera, safari, ...)
 - Pasang pengaya/ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation) , [Adblock Plus](https://adblockplus.org/en/) atau adblocker sejenisnya
 - Pilih ABPindo sebagai filter atau masukkan filter ABPindo secara manual
-<code>https://github.com/ABPindo/indonesianadblockrules/blob/master/subscriptions/abpindo.txt</code>
+<code>https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt</code>
 
 ## Ingin berkontribusi
 Mungkin ada banyak situs yang terlewat, entah karena situsnya telah diperbaharui atau karena situsnya belum ditambahkan ke dalam ABPindo. Oleh karena itu jika menemukan hal-hal tersebut bisa menyampaikan lewat
