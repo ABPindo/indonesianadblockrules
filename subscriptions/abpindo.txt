@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: d8TekVefQOWz/yZVF13uPg
+! Checksum: FAhk5QmojhGqxJoX+UKlvw
 ! Title: ABPindo
-! Last modified: 08 Januari 2017, 14:45:03 WIB
+! Last modified: 10 Januari 2017, 17:25:46 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -187,6 +187,7 @@
 ||galaxybola.com^$third-party
 ||galaxytoto.com^$third-party
 ||gebyarbola.company^
+||gebyarbola.org^$third-party
 ||gemarcapsa.com^
 ||goodlucky99.com^$third-party
 ||hoyapoker88.com^
@@ -639,10 +640,11 @@ totojitu.gif|
 ||nontonbareng.tv/img/closeX.png
 ||nontonbareng.tv/wp-content/uploads/*.gif
 ||nontonbox.tv/img/closeX.png
-||nontonbox.tv/wp-content/uploads/*.gif$domain=nontonbox.tv
+||nontonbox.tv/wp-content/uploads/*.gif
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
+||nontonstreaming.co/popunder/
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
 ||petikmangga.com/wp-content/uploads/*.gif
@@ -792,13 +794,16 @@ nontonbokeps.com###left_ads_float_phonedevelop
 dapurpacu.com###mid-banner
 cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
+nontonstreaming.co###myModalSingle
 viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
 cinema-indo.com,cinemaindo.web.id,layarkaca21.net,nonton21.net,nontonmovie.web.id###pbanner
 bioskop201.info,ganool.nl###popupwindow
-nontonserial.com###previewBox2
-nontonserial.com###previewBox4
+nontonstreaming.co###previewBox
+nontonserial.com,nontonstreaming.co###previewBox2
+nontonstreaming.co###previewBox3
+nontonserial.com,nontonstreaming.co###previewBox4
 layarkaca21.com###ptbanner
 zonabola.com###rAds
 utusan.com.my###rec_ad4
@@ -950,6 +955,7 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 warungbioskop.com##.iklanleft
 cinemaindo.web.id,layarkaca21.net,nonton21.net##.img-responsive
+nontonstreaming.co##.in.fade.modal-backdrop
 animeindo.web.id##.in_up_ad-area
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -1041,6 +1047,7 @@ icinema3satu.net##img[style="height: 125px; width: 125px;"]
 icinema3satu.net##img[style="height:125x;width:125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 lihat.co.id##img[width="300"][height="250"]
+nontonstreaming.co##script:contains(popunder)
 smallencode.com##script:contains(popup)
 bioskop78.com##td:nth-of-type(3)
 ! *** abpindo_thirdparty.txt ***

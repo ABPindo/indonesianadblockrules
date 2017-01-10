@@ -114,10 +114,11 @@
 ||nontonbareng.tv/img/closeX.png
 ||nontonbareng.tv/wp-content/uploads/*.gif
 ||nontonbox.tv/img/closeX.png
-||nontonbox.tv/wp-content/uploads/*.gif$domain=nontonbox.tv
+||nontonbox.tv/wp-content/uploads/*.gif
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
+||nontonstreaming.co/popunder/
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
 ||petikmangga.com/wp-content/uploads/*.gif

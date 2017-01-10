@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 0cEq4vdfuHEqXhdKUTFjLA
+! Checksum: wuZoQVqxq0M9nFd68/5TWg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 08 Januari 2017, 14:45:03 WIB
+! Last modified: 10 Januari 2017, 17:25:46 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -187,6 +187,7 @@
 ||galaxybola.com^$third-party
 ||galaxytoto.com^$third-party
 ||gebyarbola.company^
+||gebyarbola.org^$third-party
 ||gemarcapsa.com^
 ||goodlucky99.com^$third-party
 ||hoyapoker88.com^
@@ -480,10 +481,11 @@ totojitu.gif|
 ||nontonbareng.tv/img/closeX.png
 ||nontonbareng.tv/wp-content/uploads/*.gif
 ||nontonbox.tv/img/closeX.png
-||nontonbox.tv/wp-content/uploads/*.gif$domain=nontonbox.tv
+||nontonbox.tv/wp-content/uploads/*.gif
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
+||nontonstreaming.co/popunder/
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
 ||petikmangga.com/wp-content/uploads/*.gif

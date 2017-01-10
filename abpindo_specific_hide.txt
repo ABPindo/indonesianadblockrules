@@ -112,13 +112,16 @@ nontonbokeps.com###left_ads_float_phonedevelop
 dapurpacu.com###mid-banner
 cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
+nontonstreaming.co###myModalSingle
 viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
 cinema-indo.com,cinemaindo.web.id,layarkaca21.net,nonton21.net,nontonmovie.web.id###pbanner
 bioskop201.info,ganool.nl###popupwindow
-nontonserial.com###previewBox2
-nontonserial.com###previewBox4
+nontonstreaming.co###previewBox
+nontonserial.com,nontonstreaming.co###previewBox2
+nontonstreaming.co###previewBox3
+nontonserial.com,nontonstreaming.co###previewBox4
 layarkaca21.com###ptbanner
 zonabola.com###rAds
 utusan.com.my###rec_ad4
@@ -270,6 +273,7 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 warungbioskop.com##.iklanleft
 cinemaindo.web.id,layarkaca21.net,nonton21.net##.img-responsive
+nontonstreaming.co##.in.fade.modal-backdrop
 animeindo.web.id##.in_up_ad-area
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -361,5 +365,6 @@ icinema3satu.net##img[style="height: 125px; width: 125px;"]
 icinema3satu.net##img[style="height:125x;width:125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 lihat.co.id##img[width="300"][height="250"]
+nontonstreaming.co##script:contains(popunder)
 smallencode.com##script:contains(popup)
 bioskop78.com##td:nth-of-type(3)
