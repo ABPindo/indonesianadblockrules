@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: wuZoQVqxq0M9nFd68/5TWg
+! Checksum: pmD/TuceOZIce3AsVvBIxw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 10 Januari 2017, 17:25:46 WIB
+! Last modified: 10 Januari 2017, 20:30:42 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -200,6 +200,7 @@
 ||inibos.com^$third-party
 ||investasiceria.net^$third-party
 ||jasa888.com^
+||jawaraqq.com$popup,third-party
 ||jollywallet.com^$third-party
 ||jppoker.net^
 ||kakakdewa.com^$third-party
@@ -223,6 +224,7 @@
 ||pemaintogel.info^$third-party
 ||pemaintogel.us^$third-party
 ||prediksitogeljitu.in^$third-party
+||promodewa.com^$third-party
 ||raja111.com^
 ||ramuanobatherball.com^$third-party
 ||ratubola.com^$third-party
@@ -358,6 +360,7 @@ bundapoker.gif|
 iklan300x250.gif|
 jayabet.gif|
 nagalaut728.gif|
+Raja365.gif|
 RajaQQ.gif|
 Ratubola.gif|
 sarana88.gif|
@@ -374,11 +377,13 @@ totojitu.gif|
 ||bintangmawar.net/forum/medright_banner.php
 ||bintangmawar.net/forum/top_banner.php
 ||bioskop168.online/wp-content/uploads/*.gif$image
+||bioskop19.com/wp-content/uploads/*.gif$image
 ||bioskop21.in/rtr$script,domain=bioskop21.info
 ||bioskop21.info/bokep.gif
 ||bioskop212.net/wp-content/uploads/*.gif
 ||bioskop55.club/wp-content/uploads/*.gif
 ||bioskop55.me/wp-content/uploads/*.gif$image
+||bioskop855.com/wp-content/uploads/*.gif$image
 ||blogspot.com/*.gif$image,domain=bioskop78.com|bioskop78.net|bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton33.com|nontonbokep17.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
@@ -534,11 +539,11 @@ totojitu.gif|
 ||69wnz64h.xyz^$third-party
 ||alamatemail.com^$third-party
 ||bekas.com^$third-party
-||bioskopstar88.com^$third-party
 ||c-stat.eu^$third-party
 ||cloudfront.net^$script,domain=filmku.net|ganool.fr|ganool.is|ganool.nl|ganool.ph|mangatown.com
 ||com-878979.info^$popup,third-party
 ||cytochemistryrecitativewrasse.com/$popup
+||d1v6js7bjzmhoa.cloudfront.net$script
 ||d1vp02a2w2d335.cloudfront.net$script
 ||dafa.io$popup,third-party
 ||dafa.io/smalcodcas$popup
@@ -546,6 +551,7 @@ totojitu.gif|
 ||dk7rftbivnkgr.cloudfront.net$script
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com$popup
+||dzbx8qv1at614.cloudfront.net$script
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
@@ -565,6 +571,7 @@ totojitu.gif|
 ||javacript.tk^$script,third-party
 ||javapic.com^$third-party
 ||jingkrak.com^$third-party
+||kokibet.com$popup,third-party
 ||lapak-online.net/$popup,third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
@@ -584,6 +591,8 @@ totojitu.gif|
 ||pkq13.com^
 ||playwebgame.com/banner/$third-party
 ||plmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com^
+||podomoro.co.id$popup,third-party
+||postimg.org/*.gif$image,domain=layarkaca21.net
 ||publish.web.id^$third-party
 ||realwap.net^$third-party
 ||replase.ga^$script,third-party

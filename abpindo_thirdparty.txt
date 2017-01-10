@@ -11,11 +11,11 @@
 ||69wnz64h.xyz^$third-party
 ||alamatemail.com^$third-party
 ||bekas.com^$third-party
-||bioskopstar88.com^$third-party
 ||c-stat.eu^$third-party
 ||cloudfront.net^$script,domain=filmku.net|ganool.fr|ganool.is|ganool.nl|ganool.ph|mangatown.com
 ||com-878979.info^$popup,third-party
 ||cytochemistryrecitativewrasse.com/$popup
+||d1v6js7bjzmhoa.cloudfront.net$script
 ||d1vp02a2w2d335.cloudfront.net$script
 ||dafa.io$popup,third-party
 ||dafa.io/smalcodcas$popup
@@ -23,6 +23,7 @@
 ||dk7rftbivnkgr.cloudfront.net$script
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com$popup
+||dzbx8qv1at614.cloudfront.net$script
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
@@ -42,6 +43,7 @@
 ||javacript.tk^$script,third-party
 ||javapic.com^$third-party
 ||jingkrak.com^$third-party
+||kokibet.com$popup,third-party
 ||lapak-online.net/$popup,third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
@@ -61,6 +63,8 @@
 ||pkq13.com^
 ||playwebgame.com/banner/$third-party
 ||plmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com^
+||podomoro.co.id$popup,third-party
+||postimg.org/*.gif$image,domain=layarkaca21.net
 ||publish.web.id^$third-party
 ||realwap.net^$third-party
 ||replase.ga^$script,third-party
