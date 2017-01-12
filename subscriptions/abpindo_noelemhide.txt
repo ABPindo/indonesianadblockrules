@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: pmD/TuceOZIce3AsVvBIxw
+! Checksum: rQ0yTDBQbHEOOqOW1HHFiA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 10 Januari 2017, 20:30:42 WIB
+! Last modified: 12 Januari 2017, 19:20:09 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -216,6 +216,7 @@
 ||m8livepoker.com$popup
 ||mabosbet.com^$third-party
 ||master138.net^$popup,third-party
+||obatjogja.com^$third-party
 ||onclinic24.com^$third-party
 ||paperbola.com$popup
 ||pasaranqq.com^
@@ -545,17 +546,16 @@ totojitu.gif|
 ||cytochemistryrecitativewrasse.com/$popup
 ||d1v6js7bjzmhoa.cloudfront.net$script
 ||d1vp02a2w2d335.cloudfront.net$script
-||dafa.io$popup,third-party
-||dafa.io/smalcodcas$popup
 ||dafa.io^$popup,third-party
 ||dk7rftbivnkgr.cloudfront.net$script
+||dmatquyckwtu.com^$script,domain=smallencode.com
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com$popup
 ||dzbx8qv1at614.cloudfront.net$script
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
-||fhylnqzxwsbo.com^$third-party
+||fhylnqzxwsbo.com^$script,third-party
 ||flexterkita.com^$third-party
 ||fonderreaders.info^$popup
 ||gambar123.com^$image,third-party
@@ -582,10 +582,9 @@ totojitu.gif|
 ||naloindo.net^$third-party
 ||noobscript.com^$script,third-party
 ||numpanglewat.com^$third-party
-||obatjogja.com^$third-party
 ||octafx.com^$popup,third-party
-||oehjxqhiasrk.com^$script,domain=smallencode.com
-||ompzowzfwwfc.com^$third-party
+||oehjxqhiasrk.com^$script,third-party
+||ompzowzfwwfc.com^$script,third-party
 ||parserwords.info$popup
 ||pic5678.com^$third-party
 ||pkq13.com^
@@ -601,7 +600,7 @@ totojitu.gif|
 ||rihzsedipaqq.com$script,domain=smallencode.com
 ||runreproducerow.com/$popup
 ||sanglah.com^$third-party
-||scbywuiojqvh.com^$script,third-party
+||scbywuiojqvh.com^$script,domain=smallencode.com
 ||scriptall.cf^$script,third-party
 ||scriptall.ga^$script,third-party
 ||scriptall.gq^$script,third-party
@@ -614,17 +613,17 @@ totojitu.gif|
 ||trackingclick.net^$popup
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
-||trcbxjusetvc.com^$third-party
+||trcbxjusetvc.com^$script,domain=smallencode.com
 ||twap.eu^$third-party
 ||u-on.eu^$third-party
-||vdlvaqsbaiok.com^$third-party
+||vdlvaqsbaiok.com^$script,domain=smallencode.com
 ||vzmnvqiqgxqk.com$script,domain=smallencode.com
-||webtrackerplus.com^$third-party
 ||xbfk51p7.review$popup
 ||yourjavascript.com$script,domain=filmterbaru.id
 ||yourjavascript.com/0653544211/lompatin.js$script,domain=filmku.net
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
+||zmnqoymznwng.com$script,domain=smallencode.com
 ||zvuespzsdgdq.com$script,domain=smallencode.com
 ! *** abpindo_whitelist.txt ***
 @@.png#$domain=narutobleachlover.net|oploverz.net|wardhanime.net
