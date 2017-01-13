@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: rQ0yTDBQbHEOOqOW1HHFiA
+! Checksum: om7Jt34YtNXX7bQ0KYyQSw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 12 Januari 2017, 19:20:09 WIB
+! Last modified: 13 Januari 2017, 07:49:11 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -111,6 +111,7 @@
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
 ||teliad.com^$third-party
+||terraclicks.com^$popup,third-party
 ||theclickers.net^$third-party
 ||tinggalklik.com^$third-party
 ||topbananaad.com^$third-party
@@ -493,6 +494,7 @@ totojitu.gif|
 ||nontonstreaming.co/img/closeX.png
 ||nontonstreaming.co/popunder/
 ||nontonstreaming.co/wp-content/uploads/*.gif
+||ns21.tv/wp-content/uploads/*.gif$image
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
 ||petikmangga.com/wp-content/uploads/*.gif
 ||placehold.it/300x250
@@ -527,6 +529,10 @@ totojitu.gif|
 ||zonabola.com^*/iklan/
 ||zonabola.id/wp-content/uploads/*.gif$image
 ! *** abpindo_thirdparty.txt ***
+||brqrtgjklary.com$script,domain=smallencode.com
+||kwystoaqjvml.com$script,domain=smallencode.com
+||punlkhusprgw.com$script,domain=smallencode.com
+||replase.ml$script
 ! Tracked popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
 ||04dn8g4f.space$popup,third-party
 ||104.154.*.*^$popup,domain=ganool.is|ganool.ph
