@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PhMGcWSO2GvQHisFQMUyIw
+! Checksum: M0dnzhaM4yJ5mwftYGHY8g
 ! Title: ABPindo
-! Last modified: 13 Januari 2017, 07:49:11 WIB
+! Last modified: 13 Januari 2017, 11:23:00 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -350,7 +350,9 @@
 /uploads/iklan/*
 /usaha-berhasil.gif|
 /usahaberhasil.gif|
+=popad&$popup
 =popads_cpc&$popup
+=popadsnet&$popup
 =Popup&$popup
 =PropellerAds&$popup
 _300x250.
@@ -1066,10 +1068,14 @@ nontonstreaming.co,ns21.tv##script:contains(popunder)
 smallencode.com##script:contains(popup)
 bioskop78.com##td:nth-of-type(3)
 ! *** abpindo_thirdparty.txt ***
+||akrzgxzjynpi.com$script,domain=smallencode.com
 ||brqrtgjklary.com$script,domain=smallencode.com
+||jboovenoenkh.com$script,domain=smallencode.com
 ||kwystoaqjvml.com$script,domain=smallencode.com
 ||punlkhusprgw.com$script,domain=smallencode.com
 ||replase.ml$script
+||window-close.ga$script,domain=smallencode.com
+||ytiyuqfxjbke.com$script,domain=smallencode.com
 ! Tracked popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
 ||04dn8g4f.space$popup,third-party
 ||104.154.*.*^$popup,domain=ganool.is|ganool.ph

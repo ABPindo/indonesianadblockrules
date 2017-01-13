@@ -33,7 +33,9 @@
 /uploads/iklan/*
 /usaha-berhasil.gif|
 /usahaberhasil.gif|
+=popad&$popup
 =popads_cpc&$popup
+=popadsnet&$popup
 =Popup&$popup
 =PropellerAds&$popup
 _300x250.
