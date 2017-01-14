@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1hkFiDA0fOtfhUDPkag4Gg
+! Checksum: 2bsIAkuy7/rN8GYEbaWhwg
 ! Title: ABPindo
-! Last modified: 13 Januari 2017, 20:48:08 WIB
+! Last modified: 14 Januari 2017, 20:00:36 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -1067,7 +1067,11 @@ nontonstreaming.co,ns21.tv##script:contains(popunder)
 smallencode.com##script:contains(popup)
 bioskop78.com##td:nth-of-type(3)
 ! *** abpindo_thirdparty.txt ***
+|http://$script,third-party,xmlhttprequest,domain=smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=smallencode.com
 ||akrzgxzjynpi.com$script,domain=smallencode.com
+||alfacart.com^$popup,third-party
+||blogspot.com/*.gif$image,domain=filmku.net
 ||brqrtgjklary.com$script,domain=smallencode.com
 ||jboovenoenkh.com$script,domain=smallencode.com
 ||kwystoaqjvml.com$script,domain=smallencode.com
@@ -1177,11 +1181,16 @@ bioskop78.com##td:nth-of-type(3)
 @@.png#$domain=narutobleachlover.net|oploverz.net|wardhanime.net
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
+@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=smallencode.com
+@@||chatango.com^$script,domain=smallencode.com
 @@||cinemamkv.com^$generichide
+@@||cloudflare.com/ajax/$script,domain=smallencode.com
 @@||digitalponsel.com^$elemhide
 @@||eramuslim.com^$generichide
 @@||gambar123.com^$script,domain=46.166.167.16|semprot.com|semprotku.com
 @@||mkvcine.com^$elemhide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
+@@||pubads.g.doubleclick.net/*/video/$xmlhttprequest,domain=kompas.com
 @@||wardhanime.net^$elemhide
+@@||wp.com/wp-content/js/$script,domain=smallencode.com

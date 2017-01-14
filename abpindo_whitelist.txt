@@ -1,11 +1,16 @@
 @@.png#$domain=narutobleachlover.net|oploverz.net|wardhanime.net
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
+@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=smallencode.com
+@@||chatango.com^$script,domain=smallencode.com
 @@||cinemamkv.com^$generichide
+@@||cloudflare.com/ajax/$script,domain=smallencode.com
 @@||digitalponsel.com^$elemhide
 @@||eramuslim.com^$generichide
 @@||gambar123.com^$script,domain=46.166.167.16|semprot.com|semprotku.com
 @@||mkvcine.com^$elemhide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.net^$elemhide
+@@||pubads.g.doubleclick.net/*/video/$xmlhttprequest,domain=kompas.com
 @@||wardhanime.net^$elemhide
+@@||wp.com/wp-content/js/$script,domain=smallencode.com
