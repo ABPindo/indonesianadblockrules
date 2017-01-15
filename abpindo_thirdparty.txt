@@ -4,6 +4,7 @@
 ||alfacart.com^$popup,third-party
 ||blogspot.com/*.gif$image,domain=filmku.net
 ||brqrtgjklary.com$script,domain=smallencode.com
+||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
 ||jboovenoenkh.com$script,domain=smallencode.com
 ||kwystoaqjvml.com$script,domain=smallencode.com
 ||punlkhusprgw.com$script,domain=smallencode.com
