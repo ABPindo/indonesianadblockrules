@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 41mDjjzKtq665XVmiSfjFg
+! Checksum: Pt/t/yRFp35mwZgoV3LIww
 ! Title: ABPindo
-! Last modified: 15 Januari 2017, 07:13:58 WIB
+! Last modified: 15 Januari 2017, 07:25:10 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -10,7 +10,7 @@
 ! in the forums (http://forums.lanik.us/viewforum.php?f=94)
 !
 ! *** abpindo_adservers.txt ***
-||188affiliates.com^$third-party
+||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
 ||1iklanbaris.com^$third-party
 ||1st-iklan.com^$third-party
 ||ad.adflazz.com^$third-party
@@ -1026,7 +1026,7 @@ klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
-!46.166.167.16,semprot.com,semprotku.com
+! 46.166.167.16,semprot.com,semprotku.com
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 idfl.me##[id^="yui-gen"].postcontainer
