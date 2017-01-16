@@ -33,6 +33,7 @@
 ||dafa.io^$popup,third-party
 ||dk7rftbivnkgr.cloudfront.net$script
 ||dmatquyckwtu.com^$script,domain=smallencode.com
+||dmatquyckwtu.com^$third-party
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com$popup
 ||dzbx8qv1at614.cloudfront.net$script
@@ -71,7 +72,7 @@
 ||pic5678.com^$third-party
 ||pkq13.com^
 ||playwebgame.com/banner/$third-party
-||plmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com^
+||plmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com^$third-party
 ||podomoro.co.id$popup,third-party
 ||postimg.org/*.gif$image,domain=layarkaca21.net
 ||publish.web.id^$third-party
