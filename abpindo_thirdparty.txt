@@ -1,5 +1,5 @@
-|http://$script,third-party,xmlhttprequest,domain=smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=ganool.is|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=ganool.is|smallencode.com
 ||akrzgxzjynpi.com$script,domain=smallencode.com
 ||alfacart.com^$popup,third-party
 ||blogspot.com/*.gif$image,domain=filmku.net

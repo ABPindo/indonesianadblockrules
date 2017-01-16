@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: EXcd0QYBFATPI53qy8lI7w
+! Checksum: vInofslGT+H8Dl2GpJWc4g
 ! Title: ABPindo tanpa element hiding
-! Last modified: 15 Januari 2017, 07:35:09 WIB
+! Last modified: 16 Januari 2017, 11:13:00 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -529,8 +529,8 @@ totojitu.gif|
 ||zonabola.com^*/iklan/
 ||zonabola.id/wp-content/uploads/*.gif$image
 ! *** abpindo_thirdparty.txt ***
-|http://$script,third-party,xmlhttprequest,domain=smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=ganool.is|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=ganool.is|smallencode.com
 ||akrzgxzjynpi.com$script,domain=smallencode.com
 ||alfacart.com^$popup,third-party
 ||blogspot.com/*.gif$image,domain=filmku.net
@@ -642,10 +642,11 @@ totojitu.gif|
 @@.png#$domain=narutobleachlover.net|oploverz.net|wardhanime.net
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
-@@||ajax.googleapis.com/ajax/libs/jquery/$script,domain=smallencode.com
+@@||ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js$script,domain=ganool.is|smallencode.com
+@@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|smallencode.com
 @@||chatango.com^$script,domain=smallencode.com
 @@||cinemamkv.com^$generichide
-@@||cloudflare.com/ajax/$script,domain=smallencode.com
+@@||connect.facebook.net/en_US/all.js$script,domain=ganool.is
 @@||digitalponsel.com^$elemhide
 @@||eramuslim.com^$generichide
 @@||mkvcine.com^$elemhide
