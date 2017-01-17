@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: JBBBfN9O7cikOD6Xql3eVA
+! Checksum: qrIg5nlbP7+4/NGqeQ+7VQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 16 Januari 2017, 18:01:14 WIB
+! Last modified: 17 Januari 2017, 13:02:15 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -528,21 +528,11 @@ totojitu.gif|
 ||zonabola.com^*/iklan/
 ||zonabola.id/wp-content/uploads/*.gif$image
 ! *** abpindo_thirdparty.txt ***
+! Tracked popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
 |http://$script,third-party,xmlhttprequest,domain=ganool.is|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=ganool.is|smallencode.com
-||akrzgxzjynpi.com$script,domain=smallencode.com
-||alfacart.com^$popup,third-party
-||blogspot.com/*.gif$image,domain=filmku.net
-||brqrtgjklary.com$script,domain=smallencode.com
-||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
-||jboovenoenkh.com$script,domain=smallencode.com
-||kwystoaqjvml.com$script,domain=smallencode.com
-||punlkhusprgw.com$script,domain=smallencode.com
-||replase.ml$script
-||window-close.ga$script,domain=smallencode.com
-||ytiyuqfxjbke.com$script,domain=smallencode.com
-! Tracked popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
 ||04dn8g4f.space$popup,third-party
+||04dn8g4f.space^$third-party
 ||104.154.*.*^$popup,domain=ganool.is|ganool.ph
 ||104.155.*.*^$popup,domain=ganool.is|ganool.ph
 ||104.196.*.*^$popup,domain=ganool.is|ganool.ph
@@ -551,9 +541,14 @@ totojitu.gif|
 ||104.199.*.*^$popup,domain=ganool.is|ganool.ph
 ||108.168.231.179^$popup,third-party
 ||130.211.230.53^$popup
+||39o9mcr2.party^$third-party
 ||69wnz64h.xyz^$third-party
+||akrzgxzjynpi.com$script,domain=smallencode.com
 ||alamatemail.com^$third-party
+||alfacart.com^$popup,third-party
 ||bekas.com^$third-party
+||blogspot.com/*.gif$image,domain=filmku.net
+||brqrtgjklary.com$script,domain=smallencode.com
 ||c-stat.eu^$third-party
 ||cloudfront.net^$script,domain=filmku.net|ganool.fr|ganool.is|ganool.nl|ganool.ph|mangatown.com
 ||com-878979.info^$popup,third-party
@@ -573,18 +568,22 @@ totojitu.gif|
 ||fhylnqzxwsbo.com^$script,third-party
 ||flexterkita.com^$third-party
 ||fonderreaders.info^$popup
+||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
 ||gk25qeyc.xyz^$third-party
 ||gvgakxvukmrm.com^$script,domain=smallencode.com
 ||hilkfxdqxzac.com^$script,domain=smallencode.com
+||hlu9tseh.men^$third-party
 ||idolakini.com/$popup,third-party
 ||jasjus.net^$popup
 ||javacript.ga^$script,third-party
 ||javacript.gq^$script,third-party
 ||javacript.tk^$script,third-party
 ||javapic.com^$third-party
+||jboovenoenkh.com$script,domain=smallencode.com
 ||jingkrak.com^$third-party
 ||kokibet.com$popup,third-party
+||kwystoaqjvml.com$script,domain=smallencode.com
 ||lapak-online.net/$popup,third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
@@ -606,10 +605,12 @@ totojitu.gif|
 ||podomoro.co.id$popup,third-party
 ||postimg.org/*.gif$image,domain=layarkaca21.net
 ||publish.web.id^$third-party
+||punlkhusprgw.com$script,domain=smallencode.com
 ||realwap.net^$third-party
 ||replase.ga^$script,third-party
 ||replase.gq^$popup
 ||replase.gq^$script,third-party
+||replase.ml$script
 ||rihzsedipaqq.com$script,domain=smallencode.com
 ||runreproducerow.com/$popup
 ||sanglah.com^$third-party
@@ -631,11 +632,14 @@ totojitu.gif|
 ||u-on.eu^$third-party
 ||vdlvaqsbaiok.com^$script,domain=smallencode.com
 ||vzmnvqiqgxqk.com$script,domain=smallencode.com
+||window-close.ga$script,domain=smallencode.com
 ||xbfk51p7.review$popup
+||xbfk51p7.review^$third-party
 ||yourjavascript.com$script,domain=filmterbaru.id
 ||yourjavascript.com/0653544211/lompatin.js$script,domain=filmku.net
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
+||ytiyuqfxjbke.com$script,domain=smallencode.com
 ||zmnqoymznwng.com$script,domain=smallencode.com
 ||zvuespzsdgdq.com$script,domain=smallencode.com
 ! *** abpindo_whitelist.txt ***
