@@ -1,3 +1,10 @@
+|http://$script,third-party,xmlhttprequest,domain=ganool-link.com
+|https://$script,third-party,xmlhttprequest,domain=ganool-link.com
+||linkgenerator.xyz$script,third-party
+||window-close.cf^$script,third-party
+||dearerfonder.info$popup
+||dqqulesm3pfse.cloudfront.net$script,domain=cinema2satu.id
+
 |http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|ganool.is|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|ganool.is|smallencode.com
 ||04dn8g4f.space$popup,third-party
