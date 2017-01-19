@@ -1,14 +1,7 @@
-! Tracked popup-ganool: [104.198.198.188, 104.197.140.120, 104.154.237.93]
-|http://$script,third-party,xmlhttprequest,domain=ganool.is|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=ganool.is|smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|ganool.is|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|ganool.is|smallencode.com
 ||04dn8g4f.space$popup,third-party
 ||04dn8g4f.space^$third-party
-||104.154.*.*^$popup,domain=ganool.is|ganool.ph
-||104.155.*.*^$popup,domain=ganool.is|ganool.ph
-||104.196.*.*^$popup,domain=ganool.is|ganool.ph
-||104.197.*.*^$popup,domain=ganool.is|ganool.ph
-||104.198.*.*^$popup,domain=ganool.is|ganool.ph
-||104.199.*.*^$popup,domain=ganool.is|ganool.ph
 ||108.168.231.179^$popup,third-party
 ||130.211.230.53^$popup
 ||39o9mcr2.party^$third-party
@@ -23,8 +16,6 @@
 ||cloudfront.net^$script,domain=filmku.net|ganool.fr|ganool.is|ganool.nl|ganool.ph|mangatown.com
 ||com-878979.info^$popup,third-party
 ||cytochemistryrecitativewrasse.com/$popup
-||d1v6js7bjzmhoa.cloudfront.net$script
-||d1vp02a2w2d335.cloudfront.net$script
 ||dafa.io^$popup,third-party
 ||dk7rftbivnkgr.cloudfront.net$script
 ||dmatquyckwtu.com^$script,domain=smallencode.com
