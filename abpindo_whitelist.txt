@@ -2,8 +2,7 @@
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
 @@||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js$domain=smallencode.com
-@@||ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js$script,domain=ganool.is|smallencode.com
-@@||ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js$domain=smallencode.com
+@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool.is|smallencode.com
 @@||apis.google.com/js/plusone.js$domain=smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$domain=smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|smallencode.com
@@ -21,3 +20,5 @@
 @@||st.chatango.com/js/gz/emb.js$domain=smallencode.com
 @@||wardhanime.net^$elemhide
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
+@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com
+@@||code.jquery.com/jquery-latest.min.js$script,domain=ganool-link.com
