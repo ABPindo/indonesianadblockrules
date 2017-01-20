@@ -1,3 +1,4 @@
+! 46.166.167.16,semprot.com,semprotku.com
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 icinema3satu.net###FloatAlamindawa
@@ -57,9 +58,9 @@ tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
-nontonserial.com,nontonstreaming.co###fatas
+nontonserial.com###fatas
 cinema-indo.com,cinemaindo.web.id,filmbagus21.info,filmbagus21.web.id,ganool.fr,layarkaca21.com,layarkaca21.net,layarkaca21.tv,layarkaca21.web.id,lk21.tv,nonton21.net,nontonmovie.web.id###fbanner
-nontonserial.com,nontonstreaming.co###fbawah
+nontonserial.com###fbawah
 cinema-indo.com,layarkaca21.net,layarkaca21.tv,lk21.tv,nonton21.net###fbbanner
 bioskop212.net,nontonfilm21.club,sinema21.id###filmoncereklam
 unyil.net###float-atas
@@ -111,16 +112,13 @@ nontonbokeps.com###left_ads_float_phonedevelop
 dapurpacu.com###mid-banner
 cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
-nontonstreaming.co,ns21.tv###myModalSingle
 viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
 cinema-indo.com,cinemaindo.web.id,layarkaca21.net,nonton21.net,nontonmovie.web.id###pbanner
 bioskop201.info,ganool.nl###popupwindow
-nontonstreaming.co,ns21.tv###previewBox
-nontonserial.com,nontonstreaming.co###previewBox2
-nontonstreaming.co,ns21.tv###previewBox3
-nontonserial.com,nontonstreaming.co###previewBox4
+nontonserial.com###previewBox2
+nontonserial.com###previewBox4
 layarkaca21.com###ptbanner
 zonabola.com###rAds
 utusan.com.my###rec_ad4
@@ -128,6 +126,8 @@ komikbaru.com,mangafox.me###right-skyscraper
 susterbokep.com###right_ads_float_phonedevelop
 gadismalam.net###semprot_ads_side_left
 gadismalam.net###semprot_ads_side_right
+46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
+46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 gopego.com###showcase1
 gopego.com###showcase2
 banyakfilm.pw###sidebar > .sidebarborder:nth-of-type(2) > .sidebar-right > .textwidget
@@ -207,8 +207,7 @@ indoxtream.com##.aligncenter
 bokep.click##.alignnone
 palingseru.com##.alignnone.size-large.wp-image-458
 myasiantv.se##.av-content-full
-nontonserial.com,nontonstreaming.co##.ban_empat
-nontonstreaming.co,ns21.tv##.banner
+nontonserial.com##.ban_empat
 dream.co.id##.banner-sc2
 oktavita.com##.banner-zone
 tekno.kompas.com##.banner620x80
@@ -274,7 +273,6 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 warungbioskop.com##.iklanleft
 cinemaindo.web.id,layarkaca21.net,nonton21.net##.img-responsive
-nontonstreaming.co,ns21.tv##.in.fade.modal-backdrop
 animeindo.web.id##.in_up_ad-area
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -327,11 +325,6 @@ klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
-www.filmxy.cc##a[href="http://www.filmxy.cc/download/"]
-www.filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
-! 46.166.167.16,semprot.com,semprotku.com
-46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
-46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 idfl.me##[id^="yui-gen"].postcontainer
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
@@ -339,6 +332,8 @@ bioskop19.com##a[href="http://162.144.35.114/"]
 bioskop54.com##a[href="http://45.63.19.229/"]
 nontonfilm21.club##a[href="http://bandartogelsingapore.com/"]
 kshowid.com##a[href="http://kshowid.com/advertising/"]
+www.filmxy.cc##a[href="http://www.filmxy.cc/download/"]
+www.filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]
 torjack.net##a[href="https://mypayingads.com/ref/59039/signup"]
@@ -365,6 +360,5 @@ icinema3satu.net##img[style="height: 125px; width: 125px;"]
 icinema3satu.net##img[style="height:125x;width:125px;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 lihat.co.id##img[width="300"][height="250"]
-nontonstreaming.co,ns21.tv##script:contains(popunder)
 smallencode.com##script:contains(popup)
 bioskop78.com##td:nth-of-type(3)

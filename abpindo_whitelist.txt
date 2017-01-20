@@ -1,4 +1,5 @@
 @@.png#$domain=narutobleachlover.net|oploverz.net|wardhanime.net
+@@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
 @@||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js$domain=smallencode.com
@@ -9,7 +10,7 @@
 @@||cinemamkv.com^$generichide
 @@||code.jquery.com/jquery-latest.min.js$script,domain=ganool-link.com
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is
-@@||connect.facebook.net/en_US/sdk.js$script,domain=smallencode.com
+@@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|smallencode.com
 @@||digitalponsel.com^$elemhide
 @@||eramuslim.com^$generichide
 @@||mkvcine.com^$elemhide
@@ -21,5 +22,3 @@
 @@||st.chatango.com/js/gz/emb.js$domain=smallencode.com
 @@||wardhanime.net^$elemhide
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
-@@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is
-@@||4dbl0ck.info/popunder.js$script,domain=oload.tv
