@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bVZaf69koQetI4nKgVUJrA
+! Checksum: oN/CgC+q8Bsr7pxoDbCJww
 ! Title: ABPindo
-! Last modified: 19 Januari 2017, 20:45:46 WIB
+! Last modified: 20 Januari 2017, 08:06:06 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -111,10 +111,8 @@
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
 ||teliad.com^$third-party
-||terraclicks.com^$popup,third-party
 ||theclickers.net^$third-party
 ||tinggalklik.com^$third-party
-||topbananaad.com^$third-party
 ||topklik.com^$third-party
 ||tradeadexchange.com^$popup,third-party
 ||trk.com-878979.info^$third-party
@@ -210,6 +208,7 @@
 ||kayatogel.com^$third-party
 ||ketuapoker.net^
 ||klikuntung.com^$third-party
+||kokibet.com$popup,third-party
 ||kosmetik-obatkuat.com^$third-party
 ||liga88.com^$third-party
 ||linksbobet2016.com^$third-party
@@ -353,7 +352,6 @@
 =popads_cpc&$popup
 =popadsnet&$popup
 =PropellerAds&$popup
-_300x250.
 agen_bola_online.gif|
 agenqq.gif|
 ayoqq.gif|
@@ -540,7 +538,6 @@ totojitu.gif|
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
-||alertpay.com/banners/
 ||angel.exabytes.com.my/banners/
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
@@ -556,7 +553,6 @@ totojitu.gif|
 ||bioskop55.club/wp-content/uploads/*.gif
 ||bioskop55.me/wp-content/uploads/*.gif$image
 ||bioskop855.com/wp-content/uploads/*.gif$image
-||blogspot.com/*.gif$image,domain=bioskop78.com|bioskop78.net|bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|juragantomatx.com|movie76.net|nonton33.com|nontonbokep17.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
@@ -574,7 +570,6 @@ totojitu.gif|
 ||dewa.tv/banner/
 ||dewamovie.net/wp-content/uploads/*.gif
 ||dewanonton.com/wp-content/uploads/*.gif
-||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
@@ -604,8 +599,6 @@ totojitu.gif|
 ||imagebam.com/*.gif$image,domain=ganool.fr
 ||images.gameweb.co.id/gw/ads/
 ||img.banggood.com/deals/affiliate_member_banner/
-||imgbox.com/*.gif$domain=cinemaindo.web.id
-||imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ganool.fr|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|sodasusu.com|sukabookie.com|www.filmapik.in|zonalendir.net
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indoforum.top/banners/
@@ -615,7 +608,6 @@ totojitu.gif|
 ||indotelko.com/inc/c_banner.js
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||juragan21.com/wp-content/uploads/*.gif
-||jwpsrv.com/library/+QwJzEEdEeKNySIACp8kUw.js$domain=bioskop78.com
 ||kampus.us/banners/
 ||kaskus.co.id/images/banner-wap/
 ||kaskus.com/images/banner-wap/
@@ -662,17 +654,11 @@ totojitu.gif|
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
-||nontonstreaming.co/popunder/
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||ns21.tv/wp-content/uploads/*.gif$image
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
 ||petikmangga.com/wp-content/uploads/*.gif
-||placehold.it/300x250
-||placehold.it/780x90
-||placehold.it^$domain=filmbagus21.info
 ||porntrex.com/images/pt728.gif
-||postimg.io/*.gif$image,domain=cinemaindo.web.id
-||postimg.org/*.gif$image,domain=cinemaindo.web.id|downloadfilmbaru.com|filmbagus21.info|filmbagus21.web.id|layarkaca21.web.id|nontonmovie.web.id|r-l.me|zonabola.com
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
@@ -684,14 +670,12 @@ totojitu.gif|
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
-||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net
 ||tribunnews.com/stylesheets/close.gif
 ||tvkabel.net/prom/*.gif
 ||upload.coblos.net/images/*.gif
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||videocrot.net/wp-content/uploads/*/iklan.gif
-||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||zonabola.com/floating_banner.js
 ||zonabola.com/wp-content/uploads/*.gif$image
 ||zonabola.com/wp-content/uploads/*/Banner-
@@ -718,7 +702,6 @@ dapurpacu.com###ads-728
 dapurpacu.com###ads-960-mid
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
-layarkaca21.net,lk21.tv###ads-pop
 downloadfilmbaru.com###ads-stack
 dapurpacu.com###ads-vert-300
 tvkabel.net###adv
@@ -1020,7 +1003,6 @@ mydramalist.com##.spnsr-top
 mydramalist.com##.spnsr_right
 okezone.com##.sponsored-belt468x60
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
-nontondramaonline.co##.td-banner-wrap-fulles
 film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
 bioskopgalaxy21.com,indostreamings.com,semi168.xyz,tvkabel.net##.textwidget
@@ -1029,6 +1011,8 @@ klikseru.com##.textwidget img[width="300"][height="250"]
 lapar.com##.top-banner
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
+www.filmxy.cc##a[href="http://www.filmxy.cc/download/"]
+www.filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
 ! 46.166.167.16,semprot.com,semprotku.com
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
@@ -1069,57 +1053,54 @@ nontonstreaming.co,ns21.tv##script:contains(popunder)
 smallencode.com##script:contains(popup)
 bioskop78.com##td:nth-of-type(3)
 ! *** abpindo_thirdparty.txt ***
-|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|ganool.is|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|ganool.is|smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|ganool-link.com|ganool.is|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|ganool-link.com|ganool.is|smallencode.com
 ||04dn8g4f.space$popup,third-party
 ||04dn8g4f.space^$third-party
 ||108.168.231.179^$popup,third-party
-||130.211.230.53^$popup
 ||39o9mcr2.party^$third-party
-||69wnz64h.xyz^$third-party
-||akrzgxzjynpi.com$script,domain=smallencode.com
+||akrzgxzjynpi.com^
 ||alamatemail.com^$third-party
+||alertpay.com^$third-party
 ||alfacart.com^$popup,third-party
 ||bekas.com^$third-party
-||blogspot.com/*.gif$image,domain=filmku.net
-||brqrtgjklary.com$script,domain=smallencode.com
+||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|filmku.net|juragantomatx.com|movie76.net|nonton33.com|nontonbokep17.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
+||brqrtgjklary.com^
 ||c-stat.eu^$third-party
 ||cloudfront.net^$script,domain=filmku.net|ganool.fr|ganool.is|ganool.nl|ganool.ph|mangatown.com
 ||com-878979.info^$popup,third-party
 ||cytochemistryrecitativewrasse.com/$popup
 ||dafa.io^$popup,third-party
-||dk7rftbivnkgr.cloudfront.net$script
-||dmatquyckwtu.com^$script,domain=smallencode.com
-||dmatquyckwtu.com^$third-party
+||dearerfonder.info$popup
+||dk7rftbivnkgr.cloudfront.net^
+||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
+||dqqulesm3pfse.cloudfront.net^
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com$popup
-||dzbx8qv1at614.cloudfront.net$script
+||dzbx8qv1at614.cloudfront.net^
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
-||fhylnqzxwsbo.com^$script,third-party
 ||flexterkita.com^$third-party
 ||fonderreaders.info^$popup
 ||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
-||gk25qeyc.xyz^$third-party
-||gvgakxvukmrm.com^$script,domain=smallencode.com
-||hilkfxdqxzac.com^$script,domain=smallencode.com
+||gvgakxvukmrm.com^
+||hilkfxdqxzac.com^
 ||hlu9tseh.men^$third-party
 ||idolakini.com/$popup,third-party
+||imgbox.com/*.gif$image,domain=cinemaindo.web.id
+||imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ganool.fr|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|sodasusu.com|sukabookie.com|www.filmapik.in|zonalendir.net
 ||jasjus.net^$popup
-||javacript.ga^$script,third-party
-||javacript.gq^$script,third-party
 ||javacript.tk^$script,third-party
 ||javapic.com^$third-party
-||jboovenoenkh.com$script,domain=smallencode.com
+||jboovenoenkh.com^
 ||jingkrak.com^$third-party
-||kokibet.com$popup,third-party
-||kwystoaqjvml.com$script,domain=smallencode.com
-||lapak-online.net/$popup,third-party
+||kwystoaqjvml.com^
+||lapak-online.net^$popup,third-party
+||linkgenerator.xyz$script,third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
-||mgid.com^$third-party
 ||mosaicolor.website^$third-party
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
@@ -1127,64 +1108,63 @@ bioskop78.com##td:nth-of-type(3)
 ||noobscript.com^$script,third-party
 ||numpanglewat.com^$third-party
 ||octafx.com^$popup,third-party
-||oehjxqhiasrk.com^$script,third-party
-||ompzowzfwwfc.com^$script,third-party
 ||parserwords.info$popup
 ||pic5678.com^$third-party
 ||pkq13.com^
+||placehold.it/300x250
+||placehold.it/780x90
+||placehold.it^$domain=filmbagus21.info
 ||playwebgame.com/banner/$third-party
-||plmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com^$third-party
 ||podomoro.co.id$popup,third-party
-||postimg.org/*.gif$image,domain=layarkaca21.net
+||postimg.io/*.gif$image,domain=cinemaindo.web.id
+||postimg.org/*.gif$image,domain=cinemaindo.web.id|downloadfilmbaru.com|filmbagus21.info|filmbagus21.web.id|layarkaca21.net|layarkaca21.web.id|nontonmovie.web.id|r-l.me|zonabola.com
 ||publish.web.id^$third-party
-||punlkhusprgw.com$script,domain=smallencode.com
+||punlkhusprgw.com^
 ||realwap.net^$third-party
 ||replase.ga^$script,third-party
 ||replase.gq^$popup
 ||replase.gq^$script,third-party
-||replase.ml$script
-||rihzsedipaqq.com$script,domain=smallencode.com
-||runreproducerow.com/$popup
+||replase.ml^$script
+||rihzsedipaqq.com^
+||runreproducerow.com^$popup
 ||sanglah.com^$third-party
-||scbywuiojqvh.com^$script,domain=smallencode.com
-||scriptall.cf^$script,third-party
-||scriptall.ga^$script,third-party
-||scriptall.gq^$script,third-party
-||scriptall.ml^$script,third-party
-||scriptall.tk^$script,third-party
+||scbywuiojqvh.com^
 ||sebar.idblognetwork.com^$third-party
 ||see-work.info^$third-party
+||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net
 ||topsurfer.com^$third-party
 ||trackdan.com$popup
 ||trackingclick.net^$popup
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
-||trcbxjusetvc.com^$script,domain=smallencode.com
+||trcbxjusetvc.com^
 ||twap.eu^$third-party
 ||u-on.eu^$third-party
-||vdlvaqsbaiok.com^$script,domain=smallencode.com
-||vzmnvqiqgxqk.com$script,domain=smallencode.com
-||window-close.ga$script,domain=smallencode.com
+||vdlvaqsbaiok.com^
+||vzmnvqiqgxqk.com^
+||window-close.cf^$script,third-party
+||window-close.ga^$script,third-party
+||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||xbfk51p7.review$popup
 ||xbfk51p7.review^$third-party
 ||yourjavascript.com$script,domain=filmterbaru.id
 ||yourjavascript.com/0653544211/lompatin.js$script,domain=filmku.net
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-||ytiyuqfxjbke.com$script,domain=smallencode.com
-||zmnqoymznwng.com$script,domain=smallencode.com
-||zvuespzsdgdq.com$script,domain=smallencode.com
+||ytiyuqfxjbke.com^
+||zmnqoymznwng.com^
+||zvuespzsdgdq.com^
 ! *** abpindo_whitelist.txt ***
 @@.png#$domain=narutobleachlover.net|oploverz.net|wardhanime.net
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
 @@||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js$domain=smallencode.com
-@@||ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js$script,domain=ganool.is|smallencode.com
-@@||ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js$domain=smallencode.com
+@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|smallencode.com
 @@||apis.google.com/js/plusone.js$domain=smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$domain=smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|smallencode.com
 @@||cinemamkv.com^$generichide
+@@||code.jquery.com/jquery-latest.min.js$script,domain=ganool-link.com
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is
 @@||connect.facebook.net/en_US/sdk.js$script,domain=smallencode.com
 @@||digitalponsel.com^$elemhide
