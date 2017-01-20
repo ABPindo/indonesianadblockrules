@@ -21,3 +21,4 @@
 @@||st.chatango.com/js/gz/emb.js$domain=smallencode.com
 @@||wardhanime.net^$elemhide
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
+@@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is
