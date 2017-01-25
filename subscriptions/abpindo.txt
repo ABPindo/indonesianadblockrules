@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LdsTAjkt/5rht1cAy7TGzA
+! Checksum: BUdqhR0YSJbqH3vVDbe/Ew
 ! Title: ABPindo
-! Last modified: 20 Januari 2017, 14:33:08 WIB
+! Last modified: 25 Januari 2017, 17:30:30 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -1152,7 +1152,7 @@ bioskop78.com##td:nth-of-type(3)
 ||zmnqoymznwng.com^
 ||zvuespzsdgdq.com^
 ! *** abpindo_whitelist.txt ***
-@@.png#$domain=narutobleachlover.net|oploverz.net|wardhanime.net
+@@.png#$domain=narutobleachlover.net|oploverz.in|oploverz.net|wardhanime.net
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
@@ -1169,6 +1169,7 @@ bioskop78.com##td:nth-of-type(3)
 @@||eramuslim.com^$generichide
 @@||mkvcine.com^$elemhide
 @@||narutobleachlover.net^$elemhide
+@@||oploverz.in^$elemhide
 @@||oploverz.net^$elemhide
 @@||platform.twitter.com/widgets.js$domain=smallencode.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
