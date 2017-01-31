@@ -1,4 +1,3 @@
-##a[href^="http://jendralpoker.co/"]
 ###Box-Banner-ads
 ###adplayer
 ###ads-pop
@@ -102,6 +101,7 @@
 ##a[href^="http://idola88.com/"]
 ##a[href^="http://jasa888.com/"]
 ##a[href^="http://jasaqq.com/"]
+##a[href^="http://jendralpoker.co/"]
 ##a[href^="http://mainqq.com/"]
 ##a[href^="http://pokerdex.com/"]
 ##a[href^="http://sbokiu.com/"]

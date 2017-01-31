@@ -59,6 +59,7 @@
 ||imagebam.com/*.gif$image,domain=ganool.fr
 ||images.gameweb.co.id/gw/ads/
 ||img.banggood.com/deals/affiliate_member_banner/
+||indo168.online/wp-content/uploads/*.gif$image
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indoforum.top/banners/
@@ -122,6 +123,7 @@
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
+||semi168.xyz/wp-content/uploads/*.gif$image
 ||semuaberita.com/banner/
 ||sodasusu.com/banner/
 ||solopos.com/banner/
@@ -141,5 +143,3 @@
 ||zonabola.com/wp-content/uploads/*/Banner-
 ||zonabola.com^*/iklan/
 ||zonabola.id/wp-content/uploads/*.gif$image
-||semi168.xyz/wp-content/uploads/*.gif$image
-||indo168.online/wp-content/uploads/*.gif$image

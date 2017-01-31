@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: mPG9BYLtLxUPjRPiFVCm+A
+! Checksum: blkmLEkDr5ofyDkds9uxiA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 25 Januari 2017, 17:30:30 WIB
+! Last modified: 31 Januari 2017, 18:46:49 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -430,6 +430,7 @@ totojitu.gif|
 ||imagebam.com/*.gif$image,domain=ganool.fr
 ||images.gameweb.co.id/gw/ads/
 ||img.banggood.com/deals/affiliate_member_banner/
+||indo168.online/wp-content/uploads/*.gif$image
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indoforum.top/banners/
@@ -493,6 +494,7 @@ totojitu.gif|
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
+||semi168.xyz/wp-content/uploads/*.gif$image
 ||semuaberita.com/banner/
 ||sodasusu.com/banner/
 ||solopos.com/banner/
@@ -513,8 +515,8 @@ totojitu.gif|
 ||zonabola.com^*/iklan/
 ||zonabola.id/wp-content/uploads/*.gif$image
 ! *** abpindo_thirdparty.txt ***
-|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|filmbioskopterbaru.id|ganool-link.com|ganool.is|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|filmbioskopterbaru.id|ganool-link.com|ganool.is|smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|smallencode.com
 ||04dn8g4f.space$popup,third-party
 ||04dn8g4f.space^$third-party
 ||108.168.231.179^$popup,third-party
@@ -622,14 +624,14 @@ totojitu.gif|
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
 @@||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js$domain=smallencode.com
-@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|smallencode.com
+@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|smallencode.com
 @@||apis.google.com/js/plusone.js$domain=smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$domain=smallencode.com
-@@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|smallencode.com
+@@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|smallencode.com
 @@||cinemamkv.com^$generichide
 @@||code.jquery.com/jquery-latest.min.js$script,domain=ganool-link.com
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is
-@@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|smallencode.com
+@@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|smallencode.com
 @@||digitalponsel.com^$elemhide
 @@||eramuslim.com^$generichide
 @@||mkvcine.com^$elemhide
