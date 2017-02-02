@@ -9,10 +9,10 @@
 ||alertpay.com^$third-party
 ||alfacart.com^$popup,third-party
 ||bekas.com^$third-party
-||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|filmku.net|juragantomatx.com|movie76.net|nonton33.com|nontonbokep17.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
+||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|filmku.net|juragantomatx.com|movie76.net|nonton33.com|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
 ||brqrtgjklary.com^
 ||c-stat.eu^$third-party
-||cloudfront.net^$script,domain=filmku.net|ganool.fr|ganool.is|ganool.nl|ganool.ph|mangatown.com
+||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|mangatown.com|www.ganool.li
 ||com-878979.info^$popup,third-party
 ||cytochemistryrecitativewrasse.com/$popup
 ||dafa.io^$popup,third-party
@@ -35,7 +35,7 @@
 ||hlu9tseh.men^$third-party
 ||idolakini.com/$popup,third-party
 ||imgbox.com/*.gif$image,domain=cinemaindo.web.id
-||imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ganool.fr|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|sodasusu.com|sukabookie.com|www.filmapik.in|zonalendir.net
+||imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|sodasusu.com|sukabookie.com|www.filmapik.in|www.ganool.li|zonalendir.net
 ||jasjus.net^$popup
 ||javacript.tk^$script,third-party
 ||javapic.com^$third-party
