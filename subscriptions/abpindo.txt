@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: r/C9kJoTY6N8dy/gyerCdg
+! Checksum: AhTwF133ccYKp4hetAXkLw
 ! Title: ABPindo
-! Last modified: 31 Januari 2017, 18:46:49 WIB
+! Last modified: 02 Februari 2017, 08:51:21 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -340,6 +340,7 @@
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
+/nagalaut-new.gif|
 /obat-kuat-sex.gif|
 /revenuehits.js|
 /sbcagent.gif|
@@ -630,6 +631,7 @@ totojitu.gif|
 ||layarkaca21.tv/assets/*.gif
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.run
+||lk21.org/assets/*.gif
 ||lk21.tv/assets/*.gif
 ||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_overlay.png
 ||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_sprite.png
@@ -747,9 +749,9 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonserial.com###fatas
-cinema-indo.com,cinemaindo.web.id,filmbagus21.info,filmbagus21.web.id,ganool.fr,layarkaca21.com,layarkaca21.net,layarkaca21.tv,layarkaca21.web.id,lk21.tv,nonton21.net,nontonmovie.web.id###fbanner
+cinema-indo.com,cinemaindo.web.id,filmbagus21.info,filmbagus21.web.id,ganool.fr,layarkaca21.com,layarkaca21.net,layarkaca21.tv,layarkaca21.web.id,lk21.org,lk21.tv,nonton21.net,nontonmovie.web.id###fbanner
 nontonserial.com###fbawah
-cinema-indo.com,layarkaca21.net,layarkaca21.tv,lk21.tv,nonton21.net###fbbanner
+cinema-indo.com,layarkaca21.net,layarkaca21.tv,lk21.org,lk21.tv,nonton21.net###fbbanner
 bioskop212.net,nontonfilm21.club,sinema21.id###filmoncereklam
 unyil.net###float-atas
 remo-xp.com###float-left
@@ -769,7 +771,7 @@ ganool-link.com,ganool.link,untukku.com###footer-adcont
 sodasusu.com###forum_ads_8
 resep.web.id###googlebox
 icinema3satu.net###h5ab-advert-cont
-cinemaindo.web.id,layarkaca21.com,layarkaca21.net###hbanner
+cinemaindo.web.id,layarkaca21.com,layarkaca21.net,lk21.org###hbanner
 cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
 banyakfilm.pw###header_sag
 banyakfilm.pw###header_sol
@@ -803,7 +805,7 @@ indotelko.com###more_stories
 viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
-cinema-indo.com,cinemaindo.web.id,layarkaca21.net,nonton21.net,nontonmovie.web.id###pbanner
+cinema-indo.com,cinemaindo.web.id,layarkaca21.net,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
 bioskop201.info,ganool.nl###popupwindow
 nontonserial.com###previewBox2
 nontonserial.com###previewBox4
