@@ -20,6 +20,7 @@
 ||cdn.livechatinc.com/tracking.js
 ||cekerayam.xyz/wp-content/uploads/*.gif
 ||cinema-indo.com/banere/*.gif$image
+||cinema007.com/wp-content/uploads/*.gif$image
 ||cinemaindo.com/wp-content/uploads/*.gif
 ||cinemaindo.stream/*.gif$image
 ||cinemaindo.tv/wp-content/uploads/*.gif
@@ -102,6 +103,7 @@
 ||modemku.com/image-banner/
 ||modifikasi.com/images/banner/$third-party
 ||modifikasi.com/images/banner_
+||movietube21.com/wp-content/uploads/*.gif$image
 ||mractionclub.com/banner/
 ||musisi.com/musifile/images_banner/
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
@@ -111,6 +113,8 @@
 ||nontonbareng.tv/wp-content/uploads/*.gif
 ||nontonbox.tv/img/closeX.png
 ||nontonbox.tv/wp-content/uploads/*.gif
+||nontonfilm77.com/wp-content/uploads/*.gif$image
+||nontonfilmbaru.com/wp-content/uploads/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png

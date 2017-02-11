@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: I9UT53ACWXYaKg8Ux3eJIw
+! Checksum: hGLhA2VUQGYnDBnp5qClUg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 04 Februari 2017, 18:56:50 WIB
+! Last modified: 11 Februari 2017, 17:38:10 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -342,6 +342,7 @@
 /internetsehatdanamanfastnet.html|
 /nagalaut-new.gif|
 /obat-kuat-sex.gif|
+/pokerboya.gif|
 /revenuehits.js|
 /sbcagent.gif|
 /SkinADkanan.
@@ -392,6 +393,7 @@ totojitu.gif|
 ||cdn.livechatinc.com/tracking.js
 ||cekerayam.xyz/wp-content/uploads/*.gif
 ||cinema-indo.com/banere/*.gif$image
+||cinema007.com/wp-content/uploads/*.gif$image
 ||cinemaindo.com/wp-content/uploads/*.gif
 ||cinemaindo.stream/*.gif$image
 ||cinemaindo.tv/wp-content/uploads/*.gif
@@ -474,6 +476,7 @@ totojitu.gif|
 ||modemku.com/image-banner/
 ||modifikasi.com/images/banner/$third-party
 ||modifikasi.com/images/banner_
+||movietube21.com/wp-content/uploads/*.gif$image
 ||mractionclub.com/banner/
 ||musisi.com/musifile/images_banner/
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
@@ -483,6 +486,8 @@ totojitu.gif|
 ||nontonbareng.tv/wp-content/uploads/*.gif
 ||nontonbox.tv/img/closeX.png
 ||nontonbox.tv/wp-content/uploads/*.gif
+||nontonfilm77.com/wp-content/uploads/*.gif$image
+||nontonfilmbaru.com/wp-content/uploads/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
@@ -591,6 +596,7 @@ totojitu.gif|
 ||replase.ml^$script
 ||rihzsedipaqq.com^
 ||runreproducerow.com^$popup
+||s7bola.com^$third-party
 ||sanglah.com^$third-party
 ||scbywuiojqvh.com^
 ||sebar.idblognetwork.com^$third-party
