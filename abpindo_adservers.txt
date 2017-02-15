@@ -1,3 +1,4 @@
+||130.211.212.60^$popup,third-party
 ||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
 ||1iklanbaris.com^$third-party
 ||1st-iklan.com^$third-party
@@ -18,6 +19,7 @@
 ||adsglow.net^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
+||adtrue.com^$third-party
 ||ajangiklangratis.com^$third-party
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
