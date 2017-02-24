@@ -7,6 +7,7 @@
 ||adexchangecloud.com^$popup
 ||adexchangecloud.com^$third-party
 ||adexp.net^$third-party
+||adjarabet.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||adnety.com^$popup,third-party
 ||adplus.co.id^$third-party

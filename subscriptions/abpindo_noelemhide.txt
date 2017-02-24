@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: G56pcyVjWfMxzTslJFltrA
+! Checksum: ao6DpPGQjUWEYf4RnMXkKw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 16 Februari 2017, 04:50:38 WIB
+! Last modified: 25 Februari 2017, 04:27:02 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -19,6 +19,7 @@
 ||adexchangecloud.com^$popup
 ||adexchangecloud.com^$third-party
 ||adexp.net^$third-party
+||adjarabet.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||adnety.com^$popup,third-party
 ||adplus.co.id^$third-party
@@ -342,6 +343,7 @@
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
+/motorqq.gif|
 /nagalaut-new.gif|
 /obat-kuat-sex.gif|
 /pokerboya.gif|
@@ -524,11 +526,12 @@ totojitu.gif|
 ||zonabola.com^*/iklan/
 ||zonabola.id/wp-content/uploads/*.gif$image
 ! *** abpindo_thirdparty.txt ***
-|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|smallencode.com
 ||04dn8g4f.space$popup,third-party
 ||04dn8g4f.space^$third-party
 ||108.168.231.179^$popup,third-party
+||130.211.212.60^$script,third-party
 ||39o9mcr2.party^$third-party
 ||akrzgxzjynpi.com^
 ||alamatemail.com^$third-party
@@ -538,6 +541,7 @@ totojitu.gif|
 ||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|filmku.net|juragantomatx.com|movie76.net|nonton33.com|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
 ||brqrtgjklary.com^
 ||c-stat.eu^$third-party
+||cacingnaga.com^$third-party
 ||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|mangatown.com|www.ganool.li
 ||com-878979.info^$popup,third-party
 ||cytochemistryrecitativewrasse.com/$popup
@@ -572,10 +576,12 @@ totojitu.gif|
 ||linkgenerator.xyz$script,third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
+||mlmjxddzdazr.com^
 ||mosaicolor.website^$third-party
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
 ||naloindo.net^$third-party
+||nnbestmblotl.com^
 ||noobscript.com^$script,third-party
 ||numpanglewat.com^$third-party
 ||octafx.com^$popup,third-party
