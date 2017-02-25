@@ -9,6 +9,7 @@
 ||alamatemail.com^$third-party
 ||alertpay.com^$third-party
 ||alfacart.com^$popup,third-party
+||ap76rmx3.accountant^
 ||bekas.com^$third-party
 ||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|filmku.net|juragantomatx.com|movie76.net|nonton33.com|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
 ||brqrtgjklary.com^
@@ -17,6 +18,7 @@
 ||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|mangatown.com|www.ganool.li
 ||com-878979.info^$popup,third-party
 ||cytochemistryrecitativewrasse.com/$popup
+||d2jn12r3o7an7z.cloudfront.net^
 ||dafa.io^$popup,third-party
 ||dearerfonder.info$popup
 ||dk7rftbivnkgr.cloudfront.net^
@@ -74,8 +76,11 @@
 ||replase.gq^$popup
 ||replase.gq^$script,third-party
 ||replase.ml^$script
+||replase.tk^$popup,third-party
+||replase.tk^$script,third-party
 ||rihzsedipaqq.com^
 ||runreproducerow.com^$popup
+||s2pops.club^$popup,third-party
 ||s7bola.com^$third-party
 ||sanglah.com^$third-party
 ||scbywuiojqvh.com^
