@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: VHRu9jWZVcJ7BCKLq3KgRg
+! Checksum: PSimLH4g0+kI05pPL9kTYA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 25 Februari 2017, 11:58:11 WIB
+! Last modified: 03 Maret 2017, 10:10:40 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -526,10 +526,11 @@ totojitu.gif|
 ||zonabola.com^*/iklan/
 ||zonabola.id/wp-content/uploads/*.gif$image
 ! *** abpindo_thirdparty.txt ***
-|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|goon.to|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|goon.to|smallencode.com
 ||04dn8g4f.space$popup,third-party
 ||04dn8g4f.space^$third-party
+||104.198.138.230$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
 ||39o9mcr2.party^$third-party
@@ -543,9 +544,10 @@ totojitu.gif|
 ||brqrtgjklary.com^
 ||c-stat.eu^$third-party
 ||cacingnaga.com^$third-party
-||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|mangatown.com|www.ganool.li
+||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|goon.to|mangatown.com|www.ganool.li
 ||com-878979.info^$popup,third-party
 ||cytochemistryrecitativewrasse.com/$popup
+||d15cjcet1djbmv.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
 ||dafa.io^$popup,third-party
 ||dearerfonder.info$popup

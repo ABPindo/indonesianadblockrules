@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: iEs4EPXAdnQWwCi21a5whg
+! Checksum: d1LmF0vSZoFTPg3/QZA2Eg
 ! Title: ABPindo
-! Last modified: 25 Februari 2017, 11:58:11 WIB
+! Last modified: 03 Maret 2017, 10:10:40 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -1091,10 +1091,11 @@ layarkaca21.*,lk21.*###hbanner
 layarkaca21.*,lk21.*##.fancybox-skin
 bioskop78.com##td:nth-of-type(3)
 ! *** abpindo_thirdparty.txt ***
-|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|goon.to|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|goon.to|smallencode.com
 ||04dn8g4f.space$popup,third-party
 ||04dn8g4f.space^$third-party
+||104.198.138.230$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
 ||39o9mcr2.party^$third-party
@@ -1108,9 +1109,10 @@ bioskop78.com##td:nth-of-type(3)
 ||brqrtgjklary.com^
 ||c-stat.eu^$third-party
 ||cacingnaga.com^$third-party
-||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|mangatown.com|www.ganool.li
+||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|goon.to|mangatown.com|www.ganool.li
 ||com-878979.info^$popup,third-party
 ||cytochemistryrecitativewrasse.com/$popup
+||d15cjcet1djbmv.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
 ||dafa.io^$popup,third-party
 ||dearerfonder.info$popup

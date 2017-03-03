@@ -1,7 +1,8 @@
-|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|goon.to|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|goon.to|smallencode.com
 ||04dn8g4f.space$popup,third-party
 ||04dn8g4f.space^$third-party
+||104.198.138.230$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
 ||39o9mcr2.party^$third-party
@@ -15,9 +16,10 @@
 ||brqrtgjklary.com^
 ||c-stat.eu^$third-party
 ||cacingnaga.com^$third-party
-||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|mangatown.com|www.ganool.li
+||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|goon.to|mangatown.com|www.ganool.li
 ||com-878979.info^$popup,third-party
 ||cytochemistryrecitativewrasse.com/$popup
+||d15cjcet1djbmv.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
 ||dafa.io^$popup,third-party
 ||dearerfonder.info$popup
