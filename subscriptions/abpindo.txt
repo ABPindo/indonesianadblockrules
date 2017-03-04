@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: d1LmF0vSZoFTPg3/QZA2Eg
+! Checksum: /xtHq8q1KT0xmHuAcsXFeg
 ! Title: ABPindo
-! Last modified: 03 Maret 2017, 10:10:40 WIB
+! Last modified: 04 Maret 2017, 10:35:27 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -1212,15 +1212,15 @@ bioskop78.com##td:nth-of-type(3)
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
 @@||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js$domain=smallencode.com
-@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|smallencode.com
+@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|goon.to|smallencode.com
 @@||apis.google.com/js/plusone.js$domain=smallencode.com
 @@||awsubs.co^$elemhide
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$domain=smallencode.com
-@@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|smallencode.com
+@@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|goon.to|smallencode.com
 @@||cinemamkv.com^$generichide
 @@||code.jquery.com/jquery-latest.min.js$script,domain=ganool-link.com
-@@||connect.facebook.net/en_US/all.js$script,domain=ganool.is
-@@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|smallencode.com
+@@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|goon.to
+@@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|goon.to|smallencode.com
 @@||digitalponsel.com^$elemhide
 @@||eramuslim.com^$generichide
 @@||narutobleachlover.net^$elemhide
