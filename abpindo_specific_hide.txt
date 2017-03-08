@@ -1,3 +1,10 @@
+nonton21.tv###fbawah
+bioskop90.com###floating_banner_bottom
+nontonfilm77.com###wrap > table
+nonton21.tv##.ban_empat
+bioskop90.com##.headborder:nth-of-type(5)
+bioskop90.com##.sidebarborder:nth-of-type(2)
+goon.to##a[href^="http://modescrips.info/redirect"]
 ! 46.166.167.16,semprot.com,semprotku.com
 wowkeren.com###Ad300B
 wowkeren.com###Ad728

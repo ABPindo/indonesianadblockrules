@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: Zi27LWpr9SI7xSxeKyzMKQ
+! Checksum: Rr0cKKHdWAXu4Q2sX4TeRA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 04 Maret 2017, 10:35:27 WIB
+! Last modified: 08 Maret 2017, 13:44:02 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -339,6 +339,8 @@
 /adv/iklan.
 /bb17-iklan.
 /Dewiqq-
+/hoya-jackpot.gif|
+/hoya-poker.gif|
 /hoyanew.gif|
 /iklancpm.
 /images/iklan/*
@@ -351,10 +353,12 @@
 /sbcagent.gif|
 /SkinADkanan.
 /SkinADkiri.
+/surgabola.gif|
 /tangkaskita.gif|
 /uploads/iklan/*
 /usaha-berhasil.gif|
 /usahaberhasil.gif|
+/wigobet.gif|
 =popad&$popup
 =popads_cpc&$popup
 =popadsnet&$popup
@@ -540,6 +544,7 @@ totojitu.gif|
 ||alfacart.com^$popup,third-party
 ||ap76rmx3.accountant^
 ||bekas.com^$third-party
+||block.s3block.com^$script,third-party
 ||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|filmku.net|juragantomatx.com|movie76.net|nonton33.com|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
 ||brqrtgjklary.com^
 ||c-stat.eu^$third-party
@@ -586,6 +591,7 @@ totojitu.gif|
 ||mybannermaker.com^$third-party
 ||naloindo.net^$third-party
 ||nnbestmblotl.com^
+||nonton21.tv/wp-content/uploads/*.gif$image
 ||noobscript.com^$script,third-party
 ||numpanglewat.com^$third-party
 ||octafx.com^$popup,third-party
