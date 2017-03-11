@@ -1,10 +1,18 @@
+bioskop168.co###bioskop-kanan
+bioskop168.co###bioskop-kiri
+nf21.club###fadeinbox
+juragan21.tv###fbanner
 nonton21.tv###fbawah
+nontonmovie.web.id###fbbanner
 bioskop90.com###floating_banner_bottom
 nontonfilm77.com###wrap > table
+dewanontons.com##.ads
 nonton21.tv##.ban_empat
+dewanontons.com##.dewa_floating_bottom
 bioskop90.com##.headborder:nth-of-type(5)
 bioskop90.com##.sidebarborder:nth-of-type(2)
 goon.to##a[href^="http://modescrips.info/redirect"]
+||film21terbaru.tv/wp-content/uploads/*.gif$image
 ! 46.166.167.16,semprot.com,semprotku.com
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
