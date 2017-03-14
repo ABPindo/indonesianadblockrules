@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 0dnpqZgr5XFsWwRcutmVuw
+! Checksum: asLMLBjsC+NFKWMAlvJTVQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 11 Maret 2017, 19:41:58 WIB
+! Last modified: 14 Maret 2017, 19:01:20 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -261,6 +261,7 @@
 ! *** abpindo_computer_prank.txt ***
 ||1227.com^
 ||1priest1nun.com^
+||armanipoker.com$popup
 ||bangun3.com/admin
 ||bluewaffle.com^
 ||bmepainolympics2.com^
@@ -544,6 +545,7 @@ totojitu.gif|
 ||04dn8g4f.space$popup,third-party
 ||04dn8g4f.space^$third-party
 ||104.198.138.230$popup,third-party
+||104.198.138.230^
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
 ||39o9mcr2.party^$third-party
@@ -563,6 +565,7 @@ totojitu.gif|
 ||cytochemistryrecitativewrasse.com/$popup
 ||d15cjcet1djbmv.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
+||d6swopgiplmy0.cloudfront.net^
 ||dafa.io^$popup,third-party
 ||dearerfonder.info$popup
 ||dk7rftbivnkgr.cloudfront.net^
@@ -574,6 +577,7 @@ totojitu.gif|
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
+||eze99.net$popup
 ||flexterkita.com^$third-party
 ||fonderreaders.info^$popup
 ||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
@@ -672,6 +676,7 @@ totojitu.gif|
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|goon.to
 @@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|goon.to|smallencode.com
 @@||digitalponsel.com^$elemhide
+@@||easylist.club/popunder4.js$domain=oload.tv
 @@||eramuslim.com^$generichide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.in^$elemhide

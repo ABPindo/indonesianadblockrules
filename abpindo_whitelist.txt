@@ -1,4 +1,3 @@
-@@||easylist.club/popunder4.js$domain=oload.tv
 @@.png#$domain=awsubs.co|narutobleachlover.net|oploverz.in|oploverz.net
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
@@ -14,6 +13,7 @@
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|goon.to
 @@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|goon.to|smallencode.com
 @@||digitalponsel.com^$elemhide
+@@||easylist.club/popunder4.js$domain=oload.tv
 @@||eramuslim.com^$generichide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.in^$elemhide

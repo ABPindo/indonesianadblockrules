@@ -4,13 +4,19 @@ nf21.club###fadeinbox
 juragan21.tv###fbanner
 nonton21.tv###fbawah
 nontonmovie.web.id###fbbanner
+nonton33.tv###floating_banner_bot
 bioskop90.com###floating_banner_bottom
+bioskop90.com,bioskop90.me###floating_banner_left
+nonton33.tv###floating_banner_tops
 nontonfilm77.com###wrap > table
-dewanontons.com##.ads
+dewanontons.com,embed.dramacool.es,embed.dramanices.com,k-vid.net##.ads
 nonton21.tv##.ban_empat
 dewanontons.com##.dewa_floating_bottom
+nonton33.tv##.filmborder > table
+nonton33.tv##.filmcontent > .textwidget > div > table
 bioskop90.com##.headborder:nth-of-type(5)
 bioskop90.com##.sidebarborder:nth-of-type(2)
+nonton33.tv##.textwidget > div:nth-of-type(2) > table
 goon.to##a[href^="http://modescrips.info/redirect"]
 ||film21terbaru.tv/wp-content/uploads/*.gif$image
 ! 46.166.167.16,semprot.com,semprotku.com

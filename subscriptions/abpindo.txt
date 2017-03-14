@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +y9e9bXhOtrTH9318aQ21w
+! Checksum: InLbvvsaCiNIrEyF9uTf0g
 ! Title: ABPindo
-! Last modified: 11 Maret 2017, 19:41:57 WIB
+! Last modified: 14 Maret 2017, 19:01:20 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -261,6 +261,7 @@
 ! *** abpindo_computer_prank.txt ***
 ||1227.com^
 ||1priest1nun.com^
+||armanipoker.com$popup
 ||bangun3.com/admin
 ||bluewaffle.com^
 ||bmepainolympics2.com^
@@ -440,6 +441,7 @@ totojitu.gif|
 ##.remodal
 ##.simple_advert
 ##.topadsense
+##a[href*="http://www.trikqq.com/"]
 ##a[href="http://Garenapoker.com"]
 ##a[href="http://Hoyacash.net"]
 ##a[href="http://agen558.com"]
@@ -453,6 +455,7 @@ totojitu.gif|
 ##a[href="http://astonwin.com/"]
 ##a[href="http://bandartogelsingapore.com/"]
 ##a[href="http://bolagalaxy.com"]
+##a[href="http://bolasukses.com/"]
 ##a[href="http://dwabet.asia/"]
 ##a[href="http://gebyarbola.org"]
 ##a[href="http://halodewa.com/"]
@@ -471,11 +474,13 @@ totojitu.gif|
 ##a[href="http://ketuapkr.net"]
 ##a[href="http://kontolkuda.co"]
 ##a[href="http://kontolkuda.co/"]
+##a[href="http://mahkotaqq.poker/"]
 ##a[href="http://muvibet.com/"]
 ##a[href="http://obat-klg-herbal.com"]
 ##a[href="http://obatpembesarpenisklg.id/"]
 ##a[href="http://obatpembesarvimax.com/"]
 ##a[href="http://obcbet.com/"]
+##a[href="http://pokerindo99.com/"]
 ##a[href="http://pusat-vimaxasli.com"]
 ##a[href="http://pusatqq.org/"]
 ##a[href="http://raja77.com"]
@@ -491,6 +496,7 @@ totojitu.gif|
 ##a[href="http://vimaxherbal.com/"]
 ##a[href="http://vimaxpills.id/"]
 ##a[href="http://vivacm.com"]
+##a[href="http://vivacm.com/"]
 ##a[href="http://www.SitusBet368.com"]
 ##a[href="http://www.agen688.com/promo"]
 ##a[href="http://www.ajobola.com"]
@@ -544,6 +550,7 @@ totojitu.gif|
 ##a[href^="http://mainqq.com/"]
 ##a[href^="http://meja13.net/"]
 ##a[href^="http://mkvpoker.club/"]
+##a[href^="http://musimqq.com/"]
 ##a[href^="http://pantauqq.com/"]
 ##a[href^="http://pilarqq.com/"]
 ##a[href^="http://pokerdex.com/"]
@@ -553,9 +560,12 @@ totojitu.gif|
 ##a[href^="http://tfp.sapphirum.com/ref"]
 ##a[href^="http://togellounge99.com/"]
 ##a[href^="http://trikqq.com/"]
+##a[href^="http://utamaqq.me/"]
+##a[href^="http://www.abgqq.com/"]
 ##a[href^="http://www.aoecash.com/"]
 ##a[href^="http://www.ayomainqq.com/"]
 ##a[href^="http://www.bersama365.com"]
+##a[href^="http://www.bla168.com/"]
 ##a[href^="http://www.bolasuhu.com"]
 ##a[href^="http://www.boya13.com/"]
 ##a[href^="http://www.bursabet.net/"]
@@ -785,13 +795,19 @@ nf21.club###fadeinbox
 juragan21.tv###fbanner
 nonton21.tv###fbawah
 nontonmovie.web.id###fbbanner
+nonton33.tv###floating_banner_bot
 bioskop90.com###floating_banner_bottom
+bioskop90.com,bioskop90.me###floating_banner_left
+nonton33.tv###floating_banner_tops
 nontonfilm77.com###wrap > table
-dewanontons.com##.ads
+dewanontons.com,embed.dramacool.es,embed.dramanices.com,k-vid.net##.ads
 nonton21.tv##.ban_empat
 dewanontons.com##.dewa_floating_bottom
+nonton33.tv##.filmborder > table
+nonton33.tv##.filmcontent > .textwidget > div > table
 bioskop90.com##.headborder:nth-of-type(5)
 bioskop90.com##.sidebarborder:nth-of-type(2)
+nonton33.tv##.textwidget > div:nth-of-type(2) > table
 goon.to##a[href^="http://modescrips.info/redirect"]
 ||film21terbaru.tv/wp-content/uploads/*.gif$image
 ! 46.166.167.16,semprot.com,semprotku.com
@@ -1170,6 +1186,7 @@ bioskop78.com##td:nth-of-type(3)
 ||04dn8g4f.space$popup,third-party
 ||04dn8g4f.space^$third-party
 ||104.198.138.230$popup,third-party
+||104.198.138.230^
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
 ||39o9mcr2.party^$third-party
@@ -1189,6 +1206,7 @@ bioskop78.com##td:nth-of-type(3)
 ||cytochemistryrecitativewrasse.com/$popup
 ||d15cjcet1djbmv.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
+||d6swopgiplmy0.cloudfront.net^
 ||dafa.io^$popup,third-party
 ||dearerfonder.info$popup
 ||dk7rftbivnkgr.cloudfront.net^
@@ -1200,6 +1218,7 @@ bioskop78.com##td:nth-of-type(3)
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
+||eze99.net$popup
 ||flexterkita.com^$third-party
 ||fonderreaders.info^$popup
 ||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
@@ -1298,6 +1317,7 @@ bioskop78.com##td:nth-of-type(3)
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|goon.to
 @@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|goon.to|smallencode.com
 @@||digitalponsel.com^$elemhide
+@@||easylist.club/popunder4.js$domain=oload.tv
 @@||eramuslim.com^$generichide
 @@||narutobleachlover.net^$elemhide
 @@||oploverz.in^$elemhide
