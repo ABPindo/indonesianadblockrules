@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: InLbvvsaCiNIrEyF9uTf0g
+! Checksum: 6oXHvcz/pKcTTEdj4WZ6WA
 ! Title: ABPindo
-! Last modified: 14 Maret 2017, 19:01:20 WIB
+! Last modified: 15 Maret 2017, 19:17:30 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -799,6 +799,10 @@ nonton33.tv###floating_banner_bot
 bioskop90.com###floating_banner_bottom
 bioskop90.com,bioskop90.me###floating_banner_left
 nonton33.tv###floating_banner_tops
+nonton21.tv###previewBox
+nonton21.tv###previewBox2
+nonton21.tv###previewBox3
+nonton21.tv###previewBox4
 nontonfilm77.com###wrap > table
 dewanontons.com,embed.dramacool.es,embed.dramanices.com,k-vid.net##.ads
 nonton21.tv##.ban_empat
