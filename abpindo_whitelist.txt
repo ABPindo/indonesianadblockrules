@@ -3,11 +3,11 @@
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
 @@||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js$domain=smallencode.com
-@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|goon.to|smallencode.com
+@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|ganool.zone|goon.to|smallencode.com
 @@||apis.google.com/js/plusone.js$domain=smallencode.com
 @@||awsubs.co^$elemhide
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$domain=smallencode.com
-@@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|goon.to|smallencode.com
+@@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.zone|goon.to|smallencode.com
 @@||cinemamkv.com^$generichide
 @@||code.jquery.com/jquery-latest.min.js$script,domain=ganool-link.com
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|goon.to

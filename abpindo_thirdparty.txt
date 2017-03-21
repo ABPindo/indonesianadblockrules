@@ -1,12 +1,15 @@
-|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|goon.to|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|goon.to|smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goon.to|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goon.to|smallencode.com
 ||04dn8g4f.space$popup,third-party
 ||04dn8g4f.space^$third-party
-||104.198.138.230$popup,third-party
-||104.198.138.230^
+||104.198.138.230^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
 ||39o9mcr2.party^$third-party
+||66cpwgln.space^
+||66cpwgln.space^$popup
+||9icmzvn6.website^
+||9icmzvn6.website^$popup
 ||akrzgxzjynpi.com^
 ||alamatemail.com^$third-party
 ||alertpay.com^$third-party
@@ -78,6 +81,7 @@
 ||postimg.org/*.gif$image,domain=cinemaindo.web.id|downloadfilmbaru.com|filmbagus21.info|filmbagus21.web.id|layarkaca21.net|layarkaca21.web.id|nontonmovie.web.id|r-l.me|zonabola.com
 ||publish.web.id^$third-party
 ||punlkhusprgw.com^
+||pwizshlkrpyh.com^
 ||realwap.net^$third-party
 ||replase.ga^$script,third-party
 ||replase.gq^$popup
@@ -91,6 +95,8 @@
 ||s7bola.com^$third-party
 ||sanglah.com^$third-party
 ||scbywuiojqvh.com^
+||scriptall.ml^
+||scriptall.ml^$popup
 ||sebar.idblognetwork.com^$third-party
 ||see-work.info^$third-party
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net
