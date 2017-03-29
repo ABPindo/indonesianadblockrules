@@ -1,14 +1,3 @@
-||35.184.98.90^$popup,third-party
-||codeonclick.com^$popup,third-party
-||cjsab.com^$popup,third-party
-||greatwork.info^$popup,third-party
-||macarier.review^$popup,third-party
-||seen-on-screen.thewhizmarketing.com^$popup,third-party
-||track.zerofriend.com^$popup,third-party
-||clickredirection.com^$popup,third-party
-||35.184.98.90^$popup
-||yllix.com^$popup
-||ylx-2.com^$third-party
 |http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goon.to|smallencode.com
 ||04dn8g4f.space$popup,third-party
@@ -16,6 +5,8 @@
 ||104.198.138.230^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
+||35.184.98.90^$popup
+||35.184.98.90^$popup,third-party
 ||39o9mcr2.party^$third-party
 ||66cpwgln.space^
 ||66cpwgln.space^$popup
@@ -32,7 +23,10 @@
 ||brqrtgjklary.com^
 ||c-stat.eu^$third-party
 ||cacingnaga.com^$third-party
+||cjsab.com^$popup,third-party
+||clickredirection.com^$popup,third-party
 ||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|goon.to|mangatown.com|www.ganool.li
+||codeonclick.com^$popup,third-party
 ||com-878979.info^$popup,third-party
 ||cytochemistryrecitativewrasse.com/$popup
 ||d15cjcet1djbmv.cloudfront.net^
@@ -54,6 +48,7 @@
 ||fonderreaders.info^$popup
 ||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
+||greatwork.info^$popup,third-party
 ||gvgakxvukmrm.com^
 ||hilkfxdqxzac.com^
 ||hlu9tseh.men^$third-party
@@ -68,6 +63,7 @@
 ||kwystoaqjvml.com^
 ||lapak-online.net^$popup,third-party
 ||linkgenerator.xyz$script,third-party
+||macarier.review^$popup,third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||mlmjxddzdazr.com^
@@ -110,8 +106,10 @@
 ||scriptall.ml^$popup
 ||sebar.idblognetwork.com^$third-party
 ||see-work.info^$third-party
+||seen-on-screen.thewhizmarketing.com^$popup,third-party
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net
 ||topsurfer.com^$third-party
+||track.zerofriend.com^$popup,third-party
 ||trackdan.com$popup
 ||trackingclick.net^$popup
 ||trackingclick.net^$third-party
@@ -128,6 +126,8 @@
 ||xbfk51p7.review$popup
 ||xbfk51p7.review^$third-party
 ||yaqysxlohdyg.com^
+||yllix.com^$popup
+||ylx-2.com^$third-party
 ||yourjavascript.com$script,domain=filmterbaru.id
 ||yourjavascript.com/0653544211/lompatin.js$script,domain=filmku.net
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
