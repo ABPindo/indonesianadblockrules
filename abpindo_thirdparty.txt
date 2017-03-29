@@ -1,3 +1,14 @@
+||35.184.98.90^$popup,third-party
+||codeonclick.com^$popup,third-party
+||cjsab.com^$popup,third-party
+||greatwork.info^$popup,third-party
+||macarier.review^$popup,third-party
+||seen-on-screen.thewhizmarketing.com^$popup,third-party
+||track.zerofriend.com^$popup,third-party
+||clickredirection.com^$popup,third-party
+||35.184.98.90^$popup
+||yllix.com^$popup
+||ylx-2.com^$third-party
 |http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goon.to|smallencode.com
 ||04dn8g4f.space$popup,third-party
