@@ -1,5 +1,5 @@
-|http://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goon.to|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goon.to|smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goon.to|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goon.to|smallencode.com
 ||04dn8g4f.space$popup,third-party
 ||04dn8g4f.space^$third-party
 ||104.198.138.230^$popup,third-party
@@ -26,6 +26,8 @@
 ||c-stat.eu^$third-party
 ||cacingnaga.com^$third-party
 ||cafeskor.com^$popup
+||cd8iw9mh.cricket$popup
+||cd8iw9mh.cricket^
 ||cjsab.com^$popup,third-party
 ||clickredirection.com^$popup,third-party
 ||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|goon.to|mangatown.com|www.ganool.li
@@ -70,6 +72,7 @@
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||mlmjxddzdazr.com^
+||mlvc4zzw.space^
 ||mosaicolor.website^$third-party
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
