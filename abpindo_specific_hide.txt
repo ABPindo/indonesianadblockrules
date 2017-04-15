@@ -361,7 +361,7 @@ klikseru.com##center img[width="728"][height="70"]
 cinema-indo.com,cinemaindo.web.id,layarkaca21.*,filmbagus21.info,filmbagus21.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.tv,layarkaca21.web.id,lk21.*,lk21.org,lk21.tv,nonton21.net,nontonmovie.web.id,ganool.*,ganool.li###fbanner
 cinema-indo.com,cinemaindo.web.id,layarkaca21.*,layarkaca21.net,layarkaca21.web.id,lk21.*,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
 cinema-indo.com,layarkaca21.*,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
-cinema-indo.com,layarkaca21.net,layarkaca21.*,layarkaca21.tv,layarkaca21.web.id,lk21.org,lk21.tv,nonton21.net###fbbanner
+cinema-indo.com,layarkaca21.net,layarkaca21.*,layarkaca21.tv,layarkaca21.web.id,lk21.org,lk21.tv,lk21.*,nonton21.net###fbbanner
 cinemaindo.web.id,layarkaca21.*,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.org###hbanner
 hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
 situshp.com##div[style="height:260px;"]
