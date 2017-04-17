@@ -40,12 +40,16 @@ bioskop168.co,bioskop168.online###bioskop-kiri
 bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
+log.viva.co.id###bottomframe-ad
 tribunnews.com###boxright [style="width:300px; height:250px;"]
 awsubs.co,benfile.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.org,kabar2.com,mangacanblog.com,mangakita.net,mangaku.web.id,nontonbokeps.com,nusareborn.in,rumahbokep.org,semuaberita.com###btm_banner
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 bioskop78.com###content > .leftC > .filmborder:nth-of-type(1) > .filmcontent > center:nth-of-type(2)
 www.indostreamings.xyz###content > div:nth-of-type(1)
+kompas.com###crt-225c8f8a
+kompas.com###crt-4f9f1ad0
+kompas.com###crt-f6d317f5
 bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
@@ -60,7 +64,7 @@ teknoup.com###fancybox_ajax
 nontonserial.com###fatas
 juragan21.tv###fbanner
 nonton21.tv,nontonserial.com###fbawah
-nontonmovie.web.id###fbbanner
+lk21.me,nontonmovie.web.id###fbbanner
 bioskop212.net,nontonfilm21.club,sinema21.id###filmoncereklam
 unyil.net###float-atas
 remo-xp.com###float-left
@@ -139,6 +143,7 @@ zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
 detik.com###skinad
 tribunnews.com###skinads
+log.viva.co.id###skinframe-ad-left
 sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
 harianjogja.com,solopos.com###solopos_float
@@ -275,6 +280,7 @@ detik.com##.iklan_tengah
 warungbioskop.com##.iklanleft
 cinemaindo.web.id,layarkaca21.net,nonton21.net##.img-responsive
 animeindo.web.id##.in_up_ad-area
+kompas.com##.kcm__horizontal.kcm
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 indonesiamovies21.com##.ktz-banneraftercontent
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
@@ -383,4 +389,5 @@ layarkaca21.*###ptbanner
 layarkaca21.*##.img-responsive
 layarkaca21.*,lk21.*###hbanner
 layarkaca21.*,lk21.*##.fancybox-skin
+lk21.*###fbbanner
 bioskop78.com##td:nth-of-type(3)
