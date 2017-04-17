@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: XHTQp4wrnr8H20gMuGny+A
+! Checksum: Kx09SXxGwX+muia8c4okzw
 ! Title: ABPindo
-! Last modified: 15 April 2017, 12:34:11 WIB
+! Last modified: 17 April 2017, 14:31:29 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -424,7 +424,7 @@ totojitu.gif|
 ##.forads
 ##.gbcontent
 ##.gpcontent
-~kontan.co.id,~securitylink.biz##.iklan
+~kontan.co.id,~manteb.in,~securitylink.biz##.iklan
 ##.iklan728
 ##.iklan_semprot
 ##.iklan_semprot_h
