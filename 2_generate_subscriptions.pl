@@ -24,7 +24,7 @@ require Encode;
 my $rootdir = dirname($0);
 my $sourcedir = "$rootdir";
 my $subsdir = "$rootdir/subscriptions";
-my %verbatim = map {$_ => 1} qw(COPYING);
+my %verbatim = map {$_ => 1} qw(LICENSE);
 
 unless (-d "$subsdir")
 {

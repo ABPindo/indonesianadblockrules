@@ -1,12 +1,14 @@
-[Adblock Plus 1.1]
+[Adblock Plus 2.0]
 ! Title: ABPindo tanpa element hiding
 ! Last modified: %timestamp%
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
-! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
+! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
 !
 ! Please report any unblocked adverts or problems
 ! in the forums (http://forums.lanik.us/viewforum.php?f=94)
+! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
+! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
 !
 %include abpindo_adservers.txt%
 %include abpindo_annoyance.txt%
