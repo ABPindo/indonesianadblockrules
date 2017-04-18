@@ -1,10 +1,12 @@
 |http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
-||04dn8g4f.space$popup,third-party
+||04dn8g4f.space^$popup,third-party
 ||04dn8g4f.space^$third-party
 ||104.198.138.230^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
+||1wzfew7a.site^$third-party
+||23.236.55.237^$popup
 ||35.184.98.90^$popup
 ||35.184.98.90^$popup,third-party
 ||39o9mcr2.party^$third-party
@@ -54,6 +56,7 @@
 ||fonderreaders.info^$popup
 ||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
+||gjol8ib0.website^$third-party
 ||greatwork.info^$popup,third-party
 ||gvgakxvukmrm.com^
 ||hilkfxdqxzac.com^

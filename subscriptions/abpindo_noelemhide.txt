@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: lOgiD1yPJDb4ayrQKd7wmw
+! Checksum: sde0al7sBrAf60ySxECc0w
 ! Title: ABPindo tanpa element hiding
-! Last modified: 17 April 2017, 14:42:08 WIB
+! Last modified: 18 April 2017, 13:31:46 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/COPYING
@@ -544,11 +544,13 @@ totojitu.gif|
 ! *** abpindo_thirdparty.txt ***
 |http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
-||04dn8g4f.space$popup,third-party
+||04dn8g4f.space^$popup,third-party
 ||04dn8g4f.space^$third-party
 ||104.198.138.230^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
+||1wzfew7a.site^$third-party
+||23.236.55.237^$popup
 ||35.184.98.90^$popup
 ||35.184.98.90^$popup,third-party
 ||39o9mcr2.party^$third-party
@@ -598,6 +600,7 @@ totojitu.gif|
 ||fonderreaders.info^$popup
 ||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
+||gjol8ib0.website^$third-party
 ||greatwork.info^$popup,third-party
 ||gvgakxvukmrm.com^
 ||hilkfxdqxzac.com^
