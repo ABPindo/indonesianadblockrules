@@ -20,7 +20,6 @@
 ||adsglow.net^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
-||adtrue.com^$third-party
 ||ajangiklangratis.com^$third-party
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
@@ -79,7 +78,6 @@
 ||masteriklan.net^$third-party
 ||offerjuice.me^$popup,third-party
 ||onclkds.com$popup
-||onclkds.com^$third-party
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
 ||paidforfree.com^$third-party

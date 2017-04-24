@@ -1,7 +1,4 @@
 ! 46.166.167.16,semprot.com,semprotku.com
-www.grid.id##.ads-mr
-www.grid.id##.ads_sky
-www.kaskus.co.id##.rb-3.banner-frame.col-sm-12
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 icinema3satu.net###FloatAlamindawa
@@ -196,9 +193,11 @@ republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
 dapurpacu.com##.ads-home
+www.grid.id##.ads-mr
 kompas.com##.ads2
 dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
+www.grid.id##.ads_sky
 antaranews.com##.ads_top_728
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
@@ -280,7 +279,6 @@ kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
-warungbioskop.com##.iklanleft
 cinemaindo.web.id,layarkaca21.net,nonton21.net##.img-responsive
 animeindo.web.id##.in_up_ad-area
 kompas.com##.kcm__horizontal.kcm
@@ -304,6 +302,7 @@ hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 viva.co.id##.portlet.sideskycrapper
 otomania.com##.r-ads
 film-ganool.com##.random
+www.kaskus.co.id##.rb-3.banner-frame.col-sm-12
 okezone.com##.rc-ad-300x250
 unixmen.com##.reveal-modal-bg
 bokepml.online##.s-sponsor
@@ -344,7 +343,6 @@ iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
 bioskop19.com##a[href="http://162.144.35.114/"]
 bioskop54.com##a[href="http://45.63.19.229/"]
-nontonfilm21.club##a[href="http://bandartogelsingapore.com/"]
 kshowid.com##a[href="http://kshowid.com/advertising/"]
 www.filmxy.cc##a[href="http://www.filmxy.cc/download/"]
 www.filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
@@ -392,5 +390,4 @@ layarkaca21.*###ptbanner
 layarkaca21.*##.img-responsive
 layarkaca21.*,lk21.*###hbanner
 layarkaca21.*,lk21.*##.fancybox-skin
-lk21.*###fbbanner
 bioskop78.com##td:nth-of-type(3)
