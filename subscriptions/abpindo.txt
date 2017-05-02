@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: SnMjQ4PdzghgeM8OsyCwjg
+! Checksum: YL0Ol0F8U5d8Esi0Uw2Wyg
 ! Title: ABPindo
-! Last modified: 28 April 2017, 13:43:39 WIB
+! Last modified: 02 Mei 2017, 12:24:39 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1167,7 +1167,7 @@ cinema-indo.com,cinemaindo.web.id,layarkaca21.*,filmbagus21.info,filmbagus21.web
 cinema-indo.com,cinemaindo.web.id,layarkaca21.*,layarkaca21.net,layarkaca21.web.id,lk21.*,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
 cinema-indo.com,layarkaca21.*,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 cinema-indo.com,layarkaca21.net,layarkaca21.*,layarkaca21.tv,layarkaca21.web.id,lk21.org,lk21.tv,lk21.*,nonton21.net###fbbanner
-cinemaindo.web.id,layarkaca21.*,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.org###hbanner
+cinemaindo.web.id,layarkaca21.*,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.*,lk21.org###hbanner
 hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
 situshp.com##div[style="height:260px;"]
 forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
@@ -1186,14 +1186,12 @@ isdaryanto.com##img[style="width: 125px; height: 125px;"]
 lihat.co.id##img[width="300"][height="250"]
 layarkaca21.*###ptbanner
 layarkaca21.*##.img-responsive
-layarkaca21.*,lk21.*###hbanner
 layarkaca21.*,lk21.*##.fancybox-skin
 bioskop78.com##td:nth-of-type(3)
 ! *** abpindo_thirdparty.txt ***
 |http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 ||04dn8g4f.space^$popup,third-party
-||104.197.157.168^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
 ||1wzfew7a.site^$third-party
@@ -1287,7 +1285,6 @@ bioskop78.com##td:nth-of-type(3)
 ||replase.tk^$popup,third-party
 ||replase.tk^$script,third-party
 ||runreproducerow.com^$popup
-||ruzttiecdedv.com^
 ||s2pops.club^$popup,third-party
 ||s7bola.com^$third-party
 ||sanglah.com^$third-party
