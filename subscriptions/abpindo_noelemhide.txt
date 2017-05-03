@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CRIuKVmyfPhS4A1TZHAsnw
+! Checksum: 7aqYGRccVUooBTtwHa6Xaw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 02 Mei 2017, 12:24:39 WIB
+! Last modified: 03 Mei 2017, 21:04:28 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -545,18 +545,20 @@ totojitu.gif|
 |http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 ||04dn8g4f.space^$popup,third-party
+||104.198.156.187^$popup
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
 ||1wzfew7a.site^$third-party
-||23.236.55.237^
-||23.236.55.237^$popup
-||35.184.98.90^$popup
+||23.236.55.237^$popup,third-party
+||2ujo8ayw.racing^$third-party
+||35.184.98.90^$popup,third-party
 ||39o9mcr2.party^$third-party
-||66cpwgln.space^
 ||66cpwgln.space^$popup
+||66cpwgln.space^$third-party
 ||690179b5160e450.com$popup
-||9icmzvn6.website^
+||8a333bc2b4d6.com^$third-party
 ||9icmzvn6.website^$popup
+||9icmzvn6.website^$third-party
 ||afbcashidr.com^$popup
 ||alamatemail.com^$third-party
 ||alertpay.com^$third-party
@@ -564,12 +566,12 @@ totojitu.gif|
 ||astonwin.com^$popup
 ||bekas.com^$third-party
 ||block.s3block.com^$script,third-party
-||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|filmku.net|juragantomatx.com|movie76.net|nonton.club|nonton33.com|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
+||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus88.net|filmku.net|juragantomatx.com|movie76.net|nonton.club|nonton33.com|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
 ||c-stat.eu^$third-party
 ||cacingnaga.com^$third-party
 ||cafeskor.com^$popup
 ||cd8iw9mh.cricket$popup
-||cd8iw9mh.cricket^
+||cd8iw9mh.cricket^$third-party
 ||cjsab.com^$popup,third-party
 ||clickredirection.com^$popup,third-party
 ||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|goody.to|goon.to|mangatown.com|www.ganool.li
@@ -582,7 +584,7 @@ totojitu.gif|
 ||d6swopgiplmy0.cloudfront.net^
 ||dafa.io^$popup,third-party
 ||dearerfonder.info$popup
-||dewsburg.info^
+||dewsburg.info^$third-party
 ||dk7rftbivnkgr.cloudfront.net^
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
 ||dqqulesm3pfse.cloudfront.net^
@@ -592,7 +594,7 @@ totojitu.gif|
 ||easy-hit-counter.com^$third-party
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
-||eze99.net$popup
+||eze99.net^$popup,third-party
 ||ezemyudhkzvx.com^
 ||flexterkita.com^$third-party
 ||fonderreaders.info^$popup
@@ -621,6 +623,7 @@ totojitu.gif|
 ||ns21.org/wp-content/uploads/*.gif$image
 ||numpanglewat.com^$third-party
 ||octafx.com^$popup,third-party
+||papadewa.net^$third-party
 ||parserwords.info$popup
 ||pic5678.com^$third-party
 ||pkq13.com^
