@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: isD/aiTpYIVQCgSgszE96w
+! Checksum: 1PnD7z45r+4FlespjD1UBw
 ! Title: ABPindo
-! Last modified: 03 Mei 2017, 21:04:28 WIB
+! Last modified: 05 Mei 2017, 08:10:20 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1196,6 +1196,7 @@ bioskop78.com##td:nth-of-type(3)
 |http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 ||04dn8g4f.space^$popup,third-party
+||104.198.134.30^$popup
 ||104.198.156.187^$popup
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
@@ -1204,6 +1205,7 @@ bioskop78.com##td:nth-of-type(3)
 ||2ujo8ayw.racing^$third-party
 ||35.184.98.90^$popup,third-party
 ||39o9mcr2.party^$third-party
+||3b7c0f01022f61d5.com^
 ||66cpwgln.space^$popup
 ||66cpwgln.space^$third-party
 ||690179b5160e450.com$popup
@@ -1224,6 +1226,7 @@ bioskop78.com##td:nth-of-type(3)
 ||cd8iw9mh.cricket$popup
 ||cd8iw9mh.cricket^$third-party
 ||cjsab.com^$popup,third-party
+||clickforfreeandready2updating.bid^
 ||clickredirection.com^$popup,third-party
 ||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|goody.to|goon.to|mangatown.com|www.ganool.li
 ||codeonclick.com^$popup,third-party
