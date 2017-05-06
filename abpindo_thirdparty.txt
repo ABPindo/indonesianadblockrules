@@ -77,9 +77,7 @@
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
 ||naloindo.net^$third-party
-||nonton21.tv/wp-content/uploads/*.gif$image
 ||noobscript.com^$script,third-party
-||ns21.org/wp-content/uploads/*.gif$image
 ||numpanglewat.com^$third-party
 ||octafx.com^$popup,third-party
 ||papadewa.net^$third-party
@@ -110,7 +108,7 @@
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net
 ||topsurfer.com^$third-party
 ||track.zerofriend.com^$popup,third-party
-||trackdan.com$popup
+||trackdan.com^$popup
 ||trackingclick.net^$popup
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
@@ -118,7 +116,6 @@
 ||u-on.eu^$third-party
 ||window-close.cf^$script,third-party
 ||window-close.ga^$script,third-party
-||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||xbfk51p7.review$popup
 ||yllix.com^$popup
 ||ylx-2.com^$third-party

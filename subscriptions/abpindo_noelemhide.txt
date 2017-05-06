@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PNNlH+2BIrTh+szdBy/5pA
+! Checksum: XGkY76zNePrxG6EY4Yym8g
 ! Title: ABPindo tanpa element hiding
-! Last modified: 05 Mei 2017, 08:10:20 WIB
+! Last modified: 06 Mei 2017, 17:21:23 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -417,6 +417,7 @@ totojitu.gif|
 ||cinemaindo.tv/wp-content/uploads/*.gif
 ||cinemaindo.web.id/banere/
 ||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$script,~third-party
+||cinemastar21.com/wp-content/uploads/*.gif$image
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif
 ||detik.com/images/banners/
@@ -502,6 +503,7 @@ totojitu.gif|
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||newopenx.detik.com/images/
+||nonton21.tv/wp-content/uploads/*.gif$image
 ||nontonbareng.tv/img/closeX.png
 ||nontonbareng.tv/wp-content/uploads/*.gif
 ||nontonbox.tv/img/closeX.png
@@ -512,6 +514,7 @@ totojitu.gif|
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
 ||nontonstreaming.co/wp-content/uploads/*.gif
+||ns21.org/wp-content/uploads/*.gif$image
 ||ns21.tv/wp-content/uploads/*.gif$image
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
 ||porntrex.com/images/pt728.gif
@@ -533,6 +536,7 @@ totojitu.gif|
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||videocrot.org/wp-content/uploads/*/iklan.gif
+||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||www.dewanontons.com/wp-content/uploads/*.gif
 ||www.fansubupdate.com/res/img/sampleads/
 ||www.indostreamings.xyz/wp-content/uploads/*.gif$image
@@ -621,9 +625,7 @@ totojitu.gif|
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
 ||naloindo.net^$third-party
-||nonton21.tv/wp-content/uploads/*.gif$image
 ||noobscript.com^$script,third-party
-||ns21.org/wp-content/uploads/*.gif$image
 ||numpanglewat.com^$third-party
 ||octafx.com^$popup,third-party
 ||papadewa.net^$third-party
@@ -654,7 +656,7 @@ totojitu.gif|
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net
 ||topsurfer.com^$third-party
 ||track.zerofriend.com^$popup,third-party
-||trackdan.com$popup
+||trackdan.com^$popup
 ||trackingclick.net^$popup
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
@@ -662,7 +664,6 @@ totojitu.gif|
 ||u-on.eu^$third-party
 ||window-close.cf^$script,third-party
 ||window-close.ga^$script,third-party
-||wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||xbfk51p7.review$popup
 ||yllix.com^$popup
 ||ylx-2.com^$third-party

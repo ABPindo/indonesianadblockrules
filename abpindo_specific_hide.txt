@@ -343,7 +343,7 @@ idfl.me##[id^="yui-gen"].postcontainer
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
 bioskop19.com##a[href="http://162.144.35.114/"]
-bioskop54.com##a[href="http://45.63.19.229/"]
+bioskop54.com,bioskop90.me##a[href="http://45.63.19.229/"]
 kshowid.com##a[href="http://kshowid.com/advertising/"]
 www.filmxy.cc##a[href="http://www.filmxy.cc/download/"]
 www.filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
