@@ -1,6 +1,7 @@
 |http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 ||04dn8g4f.space^$popup,third-party
+||104.197.207.200^$popup,third-party
 ||104.198.134.30^$popup
 ||104.198.156.187^$popup
 ||108.168.231.179^$popup,third-party
@@ -14,6 +15,7 @@
 ||66cpwgln.space^$popup
 ||66cpwgln.space^$third-party
 ||690179b5160e450.com$popup
+||6a0e2d19ac28.com^$popup,third-party
 ||8a333bc2b4d6.com^$third-party
 ||9icmzvn6.website^$popup
 ||9icmzvn6.website^$third-party
@@ -116,6 +118,7 @@
 ||u-on.eu^$third-party
 ||window-close.cf^$script,third-party
 ||window-close.ga^$script,third-party
+||wow.popnetwork.net$inline-script
 ||xbfk51p7.review$popup
 ||yllix.com^$popup
 ||ylx-2.com^$third-party

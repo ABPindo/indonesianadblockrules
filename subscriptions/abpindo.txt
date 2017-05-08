@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7xfcoRTYCvXlNAvlyi5YOg
+! Checksum: 52ykROMlYtIb0Uc5eX5hyA
 ! Title: ABPindo
-! Last modified: 06 Mei 2017, 17:21:23 WIB
+! Last modified: 08 Mei 2017, 21:35:56 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -219,6 +219,7 @@
 ||m8livepoker.com$popup
 ||mabosbet.com^$third-party
 ||master138.net^$popup,third-party
+||mimpi4d.com^$popup,third-party
 ||obatjogja.com^$third-party
 ||onclinic24.com^$third-party
 ||paperbola.com$popup
@@ -232,6 +233,7 @@
 ||raja111.com^
 ||ramuanobatherball.com^$third-party
 ||ratubola.com^$third-party
+||rezekibola.com^$popup,third-party
 ||rumahbokep.xyz$popup
 ||sbo303.com^$third-party
 ||sbobet.com^$popup,third-party
@@ -546,6 +548,7 @@ totojitu.gif|
 ##a[href^="http://block.s3block.com/click"]
 ##a[href^="http://dewahoki.club/"]
 ##a[href^="http://dewiqq.org/"]
+##a[href^="http://domino168.com/"]
 ##a[href^="http://doyankiu.com/"]
 ##a[href^="http://elangcapsa.net/"]
 ##a[href^="http://elanghoki.com/"]
@@ -565,6 +568,7 @@ totojitu.gif|
 ##a[href^="http://pantauqq.com/"]
 ##a[href^="http://pilarqq.com/"]
 ##a[href^="http://pokerdex.com/"]
+##a[href^="http://pokerqq13.net/"]
 ##a[href^="http://saranapoker.poker/"]
 ##a[href^="http://sbokiu.com/"]
 ##a[href^="http://sinarkiukiu.com/"]
@@ -582,11 +586,13 @@ totojitu.gif|
 ##a[href^="http://www.bursabet.net/"]
 ##a[href^="http://www.dewahoki.club/"]
 ##a[href^="http://www.domino168.com/"]
+##a[href^="http://www.gemarcapsa.com/"]
 ##a[href^="http://www.gemarpoker.com/"]
 ##a[href^="http://www.hnbwin.com/"]
 ##a[href^="http://www.hoki228.com/"]
 ##a[href^="http://www.hokiliga.com"]
 ##a[href^="http://www.ibcqq.me/"]
+##a[href^="http://www.id-13.com/"]
 ##a[href^="http://www.idb365.com/"]
 ##a[href^="http://www.indomb.com"]
 ##a[href^="http://www.infolinks.com/join-us"]
@@ -1204,6 +1210,7 @@ bioskop78.com##td:nth-of-type(3)
 |http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 ||04dn8g4f.space^$popup,third-party
+||104.197.207.200^$popup,third-party
 ||104.198.134.30^$popup
 ||104.198.156.187^$popup
 ||108.168.231.179^$popup,third-party
@@ -1217,6 +1224,7 @@ bioskop78.com##td:nth-of-type(3)
 ||66cpwgln.space^$popup
 ||66cpwgln.space^$third-party
 ||690179b5160e450.com$popup
+||6a0e2d19ac28.com^$popup,third-party
 ||8a333bc2b4d6.com^$third-party
 ||9icmzvn6.website^$popup
 ||9icmzvn6.website^$third-party
@@ -1319,6 +1327,7 @@ bioskop78.com##td:nth-of-type(3)
 ||u-on.eu^$third-party
 ||window-close.cf^$script,third-party
 ||window-close.ga^$script,third-party
+||wow.popnetwork.net$inline-script
 ||xbfk51p7.review$popup
 ||yllix.com^$popup
 ||ylx-2.com^$third-party
