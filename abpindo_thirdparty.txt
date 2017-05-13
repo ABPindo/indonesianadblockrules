@@ -2,15 +2,11 @@
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 ||04dn8g4f.space^$popup,third-party
 ||104.197.207.200^$popup,third-party
-||104.198.134.30^$popup
-||104.198.156.187^$popup
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$script,third-party
-||1wzfew7a.site^$third-party
 ||23.236.55.237^$popup,third-party
 ||2ujo8ayw.racing^$third-party
 ||35.184.98.90^$popup,third-party
-||39o9mcr2.party^$third-party
 ||3b7c0f01022f61d5.com^
 ||66cpwgln.space^$popup
 ||66cpwgln.space^$third-party
@@ -31,7 +27,6 @@
 ||cacingnaga.com^$third-party
 ||cafeskor.com^$popup
 ||cd8iw9mh.cricket$popup
-||cd8iw9mh.cricket^$third-party
 ||cjsab.com^$popup,third-party
 ||clickforfreeandready2updating.bid^
 ||clickredirection.com^$popup,third-party
@@ -56,12 +51,10 @@
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
 ||eze99.net^$popup,third-party
-||ezemyudhkzvx.com^
 ||flexterkita.com^$third-party
 ||fonderreaders.info^$popup
 ||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
-||gjol8ib0.website^$third-party
 ||greatwork.info^$popup,third-party
 ||idolakini.com/$popup,third-party
 ||imgbox.com/*.gif$image,domain=cinemaindo.web.id
@@ -97,8 +90,6 @@
 ||realwap.net^$third-party
 ||replase.gq^$popup
 ||replase.ml^$script
-||replase.tk^$popup,third-party
-||replase.tk^$script,third-party
 ||runreproducerow.com^$popup
 ||s2pops.club^$popup,third-party
 ||s7bola.com^$third-party
