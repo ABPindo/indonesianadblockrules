@@ -9,6 +9,7 @@
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$domain=smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 @@||cinemamkv.com^$generichide
+@@||cinemamkv.xyz^$generichide
 @@||code.jquery.com/jquery-latest.min.js$script,domain=ganool-link.com
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|goody.to|goon.to
 @@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|goody.to|goon.to|smallencode.com
