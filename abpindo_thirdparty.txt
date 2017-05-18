@@ -1,7 +1,4 @@
-|http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.zone|goody.to|goon.to|smallencode.com
 ||alamatemail.com^$third-party
-||alfacart.com^$popup,third-party
 ||bekas.com^$third-party
 ||block.s3block.com^$script,third-party
 ||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus88.net|filmku.net|juragantomatx.com|movie76.net|nonton.club|nonton33.com|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
@@ -26,7 +23,6 @@
 ||placehold.it/780x90
 ||placehold.it^$domain=filmbagus21.info
 ||playwebgame.com/banner/$third-party
-||podomoro.co.id$popup,third-party
 ||postimg.io/*.gif$image,domain=cinemaindo.web.id
 ||postimg.org/*.gif$image,domain=cinemaindo.web.id|downloadfilmbaru.com|filmbagus21.info|filmbagus21.web.id|layarkaca21.net|layarkaca21.web.id|nontonmovie.web.id|r-l.me|zonabola.com
 ||tinypic.com/*.gif$domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net

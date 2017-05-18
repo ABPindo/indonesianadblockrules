@@ -12,7 +12,6 @@
 !
 %include abpindo_adservers.txt%
 %include abpindo_annoyance.txt%
-%include abpindo_computer_prank.txt%
 %include abpindo_general_block.txt%
 %include abpindo_specific_block.txt%
 %include abpindo_thirdparty.txt%
