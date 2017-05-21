@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ypuhLKfvi6jJ7KPvnL/++g
+! Checksum: el+kdS1WSEwOD++5rAUu9w
 ! Title: ABPindo
-! Last modified: 18 Mei 2017, 18:19:47 WIB
+! Last modified: 21 Mei 2017, 09:25:56 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -16,7 +16,7 @@
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 ||04dn8g4f.space^$popup,third-party
 ||104.197.189.189^$popup,third-party
-||104.197.207.200^$popup,third-party
+||104.198.61.40^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$popup,third-party
 ||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
@@ -57,9 +57,11 @@
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
 ||apmmedia.net^$third-party
+||azxsd.pro^$popup,third-party
 ||baliadv.com^$third-party
 ||bellaads.com^$third-party
 ||bmnet-ads.com^$third-party
+||bunchofwinners.win^$popup,third-party
 ||cd8iw9mh.cricket$popup
 ||cjsab.com^$popup,third-party
 ||clickforfreeandready2updating.bid^
@@ -123,22 +125,24 @@
 ||indobanner.com^$third-party
 ||indofreeads.com^$third-party
 ||istanaiklan.com^$third-party
+||iupqelechcmj.com^$popup,third-party
 ||jagoiklan.com^$third-party
 ||jagopromo.com^$third-party
 ||jasaiklan.com^$third-party
 ||javaiklan.com^$third-party
 ||jillsclickcorner.com^$third-party
+||jjxsdkphpcwu.com^$popup,third-party
 ||juruiklan.com^$third-party
 ||klikabadi.com^$third-party
 ||klikabadi.net^$third-party
 ||klikajadeh.com^$third-party
+||ktrackdata.com^$popup,third-party
 ||lokeriklan.com^$third-party
 ||macarier.review^$popup,third-party
 ||maist.jp^$third-party
 ||masteriklan.net^$third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
-||mlvc4zzw.space^
 ||mosaicolor.website^$third-party
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
@@ -168,7 +172,6 @@
 ||runreproducerow.com^$popup
 ||s2pops.club^$popup,third-party
 ||sanglah.com^$third-party
-||sbbanner.com^$third-party
 ||scriptall.ml^$popup
 ||sebar.idblognetwork.com^$third-party
 ||see-work.info^$third-party
@@ -177,6 +180,7 @@
 ||serbapromo.com^$third-party
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
+||sportsbet.io$third-party
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
 ||taboola.com^$third-party
@@ -359,7 +363,6 @@
 ||indokiu.com^$third-party
 ||indomb.com^$third-party
 ||indonesia-community.net^
-||infolinks.com^$third-party
 ||infoterapis.net^$third-party
 ||inibos.com^$third-party
 ||interqq.com^$third-party
@@ -880,7 +883,6 @@ totojitu.gif|
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
-||22cinema.me/blogsafe.js
 ||angel.exabytes.com.my/banners/
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
