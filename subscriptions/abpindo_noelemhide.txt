@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tzQbvJcsh4BvHnjrHIiLDQ
+! Checksum: QMyj533f2vmC00Ofv/tXrQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 21 Mei 2017, 09:25:56 WIB
+! Last modified: 26 Mei 2017, 05:12:40 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -63,6 +63,7 @@
 ||bmnet-ads.com^$third-party
 ||bunchofwinners.win^$popup,third-party
 ||cd8iw9mh.cricket$popup
+||cfasync.ga^$popup,third-party
 ||cjsab.com^$popup,third-party
 ||clickforfreeandready2updating.bid^
 ||clickmedia.co.id^$third-party
@@ -92,10 +93,12 @@
 ||fonderreaders.info^$popup
 ||forumiklan.com^$third-party
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
+||gjeyqtunbnap.com^$popup,third-party
 ||greatwork.info^$popup,third-party
 ||groupiklan.com^$third-party
 ||gudangbanner.com$third-party
 ||halal.ad$third-party
+||hclccadfmkpw.com^$popup,third-party
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
@@ -151,6 +154,7 @@
 ||onclkds.com$popup
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
+||ov2ochu.bid^$popup,third-party
 ||paidforfree.com^$third-party
 ||parserwords.info$popup
 ||pasangiklan.com^$third-party
@@ -288,6 +292,7 @@
 ||clickadu.com^$third-party
 ||cmobet.info$image,third-party
 ||dadparty.com^
+||dadubets.com^$third-party
 ||daftarbandarpoker.com^$popup,third-party
 ||daftartogelonline.info^$third-party
 ||detikbet.net^$third-party
@@ -413,6 +418,7 @@
 ||magic4you.nu^
 ||mahkotaqq.poker^$third-party
 ||mainqq.com^$third-party
+||majupoker.com^$third-party
 ||marina-365.net^$third-party
 ||martectx.de^
 ||master138.net^$popup,third-party
@@ -526,6 +532,7 @@
 ||u16822.com^$third-party
 ||ubc7.com^$third-party
 ||utamaqq.me^$third-party
+||vegas303.com^$third-party
 ||venombet.com^$third-party
 ||venombet.net^$third-party
 ||vimaxasli.id^$third-party
@@ -567,9 +574,11 @@
 /adtrace2.js|
 /adv/iklan.
 /Agen688.gif|
+/astonbet-
 /bb17-iklan.
 /Dewiqq-
 /GarenaPoker.gif|
+/hoki365.gif|
 /hoya-jackpot.gif|
 /hoya-poker.gif|
 /hoyanew.gif|
@@ -591,6 +600,7 @@
 /SitusBet368.gif|
 /SkinADkanan.
 /SkinADkiri.
+/starbola88-
 /surgabola.gif|
 /tangkaskita.gif|
 /uploads/iklan/*

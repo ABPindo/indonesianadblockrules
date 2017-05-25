@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: el+kdS1WSEwOD++5rAUu9w
+! Checksum: NC2sO9iASpgKvhsgQgUaNA
 ! Title: ABPindo
-! Last modified: 21 Mei 2017, 09:25:56 WIB
+! Last modified: 26 Mei 2017, 05:12:39 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -63,6 +63,7 @@
 ||bmnet-ads.com^$third-party
 ||bunchofwinners.win^$popup,third-party
 ||cd8iw9mh.cricket$popup
+||cfasync.ga^$popup,third-party
 ||cjsab.com^$popup,third-party
 ||clickforfreeandready2updating.bid^
 ||clickmedia.co.id^$third-party
@@ -92,10 +93,12 @@
 ||fonderreaders.info^$popup
 ||forumiklan.com^$third-party
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
+||gjeyqtunbnap.com^$popup,third-party
 ||greatwork.info^$popup,third-party
 ||groupiklan.com^$third-party
 ||gudangbanner.com$third-party
 ||halal.ad$third-party
+||hclccadfmkpw.com^$popup,third-party
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
@@ -151,6 +154,7 @@
 ||onclkds.com$popup
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
+||ov2ochu.bid^$popup,third-party
 ||paidforfree.com^$third-party
 ||parserwords.info$popup
 ||pasangiklan.com^$third-party
@@ -288,6 +292,7 @@
 ||clickadu.com^$third-party
 ||cmobet.info$image,third-party
 ||dadparty.com^
+||dadubets.com^$third-party
 ||daftarbandarpoker.com^$popup,third-party
 ||daftartogelonline.info^$third-party
 ||detikbet.net^$third-party
@@ -413,6 +418,7 @@
 ||magic4you.nu^
 ||mahkotaqq.poker^$third-party
 ||mainqq.com^$third-party
+||majupoker.com^$third-party
 ||marina-365.net^$third-party
 ||martectx.de^
 ||master138.net^$popup,third-party
@@ -526,6 +532,7 @@
 ||u16822.com^$third-party
 ||ubc7.com^$third-party
 ||utamaqq.me^$third-party
+||vegas303.com^$third-party
 ||venombet.com^$third-party
 ||venombet.net^$third-party
 ||vimaxasli.id^$third-party
@@ -567,9 +574,11 @@
 /adtrace2.js|
 /adv/iklan.
 /Agen688.gif|
+/astonbet-
 /bb17-iklan.
 /Dewiqq-
 /GarenaPoker.gif|
+/hoki365.gif|
 /hoya-jackpot.gif|
 /hoya-poker.gif|
 /hoyanew.gif|
@@ -591,6 +600,7 @@
 /SitusBet368.gif|
 /SkinADkanan.
 /SkinADkiri.
+/starbola88-
 /surgabola.gif|
 /tangkaskita.gif|
 /uploads/iklan/*
@@ -684,6 +694,7 @@ totojitu.gif|
 ##a[href="http://bandartogelsingapore.com/"]
 ##a[href="http://bolagalaxy.com"]
 ##a[href="http://bolasukses.com/"]
+##a[href="http://dadubets.com/"]
 ##a[href="http://duniaspa.com/"]
 ##a[href="http://dwabet.asia/"]
 ##a[href="http://gebyarbola.org"]
@@ -705,6 +716,7 @@ totojitu.gif|
 ##a[href="http://kontolkuda.co"]
 ##a[href="http://kontolkuda.co/"]
 ##a[href="http://mahkotaqq.poker/"]
+##a[href="http://majupoker.com/"]
 ##a[href="http://muvibet.com/"]
 ##a[href="http://obat-klg-herbal.com"]
 ##a[href="http://obatpembesarpenisklg.id/"]
@@ -725,6 +737,7 @@ totojitu.gif|
 ##a[href="http://sobatpoker88.com/"]
 ##a[href="http://starcasino88.com/"]
 ##a[href="http://topbet899.com/"]
+##a[href="http://vegas303.com/"]
 ##a[href="http://vimaxherbal.com/"]
 ##a[href="http://vimaxpills.id/"]
 ##a[href="http://vivacm.com"]
@@ -793,6 +806,7 @@ totojitu.gif|
 ##a[href^="http://mkvpoker.club/"]
 ##a[href^="http://musimqq.com/"]
 ##a[href^="http://pantauqq.com/"]
+##a[href^="http://pasaranqq.com/"]
 ##a[href^="http://pilarqq.com/"]
 ##a[href^="http://pokerdex.com/"]
 ##a[href^="http://pokerqq13.net/"]
@@ -1323,6 +1337,7 @@ komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 cinemaindo.web.id,layarkaca21.net,nonton21.net##.img-responsive
 animeindo.web.id##.in_up_ad-area
+ganoollk21.info##.inner-floatbanner-bottom
 kompas.com##.kcm__horizontal.kcm
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 indonesiamovies21.com##.ktz-banneraftercontent

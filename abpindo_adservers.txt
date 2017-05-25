@@ -1,8 +1,5 @@
 |http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
-||gjeyqtunbnap.com^$popup,third-party
-||hclccadfmkpw.com^$popup,third-party
-||cfasync.ga^$popup,third-party
 ||04dn8g4f.space^$popup,third-party
 ||104.197.189.189^$popup,third-party
 ||104.198.61.40^$popup,third-party
@@ -53,6 +50,7 @@
 ||bmnet-ads.com^$third-party
 ||bunchofwinners.win^$popup,third-party
 ||cd8iw9mh.cricket$popup
+||cfasync.ga^$popup,third-party
 ||cjsab.com^$popup,third-party
 ||clickforfreeandready2updating.bid^
 ||clickmedia.co.id^$third-party
@@ -82,10 +80,12 @@
 ||fonderreaders.info^$popup
 ||forumiklan.com^$third-party
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
+||gjeyqtunbnap.com^$popup,third-party
 ||greatwork.info^$popup,third-party
 ||groupiklan.com^$third-party
 ||gudangbanner.com$third-party
 ||halal.ad$third-party
+||hclccadfmkpw.com^$popup,third-party
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
@@ -141,6 +141,7 @@
 ||onclkds.com$popup
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
+||ov2ochu.bid^$popup,third-party
 ||paidforfree.com^$third-party
 ||parserwords.info$popup
 ||pasangiklan.com^$third-party

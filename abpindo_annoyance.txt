@@ -80,6 +80,7 @@
 ||clickadu.com^$third-party
 ||cmobet.info$image,third-party
 ||dadparty.com^
+||dadubets.com^$third-party
 ||daftarbandarpoker.com^$popup,third-party
 ||daftartogelonline.info^$third-party
 ||detikbet.net^$third-party
@@ -205,6 +206,7 @@
 ||magic4you.nu^
 ||mahkotaqq.poker^$third-party
 ||mainqq.com^$third-party
+||majupoker.com^$third-party
 ||marina-365.net^$third-party
 ||martectx.de^
 ||master138.net^$popup,third-party
@@ -318,6 +320,7 @@
 ||u16822.com^$third-party
 ||ubc7.com^$third-party
 ||utamaqq.me^$third-party
+||vegas303.com^$third-party
 ||venombet.com^$third-party
 ||venombet.net^$third-party
 ||vimaxasli.id^$third-party
