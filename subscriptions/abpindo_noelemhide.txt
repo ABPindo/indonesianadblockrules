@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CL0UZ+ch9V1V6mCysZ0tVw
+! Checksum: +cjaBen3sCEzcdPBT/02PA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 26 Mei 2017, 11:29:23 WIB
+! Last modified: 26 Mei 2017, 12:50:47 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -16,7 +16,8 @@
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 ||04dn8g4f.space^$popup,third-party
 ||104.197.189.189^$popup,third-party
-||104.198.61.40^$popup,third-party
+||104.198.61.40^$popup
+||104.198.61.40^$third-party
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$popup,third-party
 ||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
@@ -168,6 +169,7 @@
 ||promobagus.com^$third-party
 ||promotioncamp.com^$third-party
 ||propelllerads.com^$third-party
+||props.id^$third-party
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
 ||realwap.net^$third-party
