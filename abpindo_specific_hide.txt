@@ -37,7 +37,7 @@ kotakgame.com###bannertheme_left
 kotakgame.com###bannertheme_right
 bioskop78.com###billboard_banner
 bioskop168.co,bioskop168.online###bioskop-kanan
-bioskop168.co,bioskop168.online###bioskop-kiri
+bioskop168.co,bioskop168.online,semi168.club###bioskop-kiri
 bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
@@ -243,6 +243,7 @@ beritagar.id##.bottom-20.box-widget.right-300.banner300x250.banner
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
 gopego.com##.box
+uzone.id##.box-ads-300x250
 liputan6.com##.box-ads-right
 kompas.com##.boxBanner1
 kompas.com##.boxBanner3
@@ -276,6 +277,7 @@ videocrot.org##.headbanner
 bioskop90.com##.headborder:nth-of-type(5)
 zonapanaz.net##.header-banner
 bioskop21.co##.hilang2
+bioskop168.co,semi168.club##.home.border
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
@@ -327,6 +329,7 @@ mydramalist.com##.spnsr-top
 mydramalist.com##.spnsr_right
 okezone.com##.sponsored-belt468x60
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
+nontononlinedrama.com##.td-container-wrap.td-banner-wrap-full
 film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
 bioskopgalaxy21.com,semi168.xyz,tvkabel.net,www.indostreamings.xyz##.textwidget
