@@ -11,10 +11,13 @@
 ! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
 !
 %include abpindo_adservers.txt%
+%include abpindo_thirdparty.txt%
 %include abpindo_annoyance.txt%
-%include abpindo_general_block.txt%
-%include abpindo_general_hide.txt%
+%include abpindo_judi.txt%
+%include abpindo_prank.txt%
+%include abpindo_scam.txt%
 %include abpindo_specific_block.txt%
 %include abpindo_specific_hide.txt%
-%include abpindo_thirdparty.txt%
+%include abpindo_general_block.txt%
+%include abpindo_general_hide.txt%
 %include abpindo_whitelist.txt%
