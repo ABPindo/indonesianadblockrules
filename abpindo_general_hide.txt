@@ -9,8 +9,10 @@
 ###cfs_top_div
 ###desaiklan
 ###dewiqq
+###fbanner
 ###floatingad
 ###flowads
+###footer-adcont
 ###iklan
 ###iklan1
 ###iklan2
@@ -21,10 +23,15 @@
 ###iklanatas
 ###iklanpersegi
 ###livechat-eye-catcher
+###popupwindow
+###srcadsurlblock
+###teaser2
+###teaser3
 ###top_ad_full
 ###tupiklan
 ##.SectionAds
 ##.ad_primex
+##.ads-pop
 ##.adspace_300
 ##.adtext01
 ##.adunits.ads
@@ -44,6 +51,7 @@
 ##.iklanright
 ##.ktz-aftermenubanner
 ##.ktz-bannersingletop
+##.mgid
 ##.minipusat
 ##.pasangiklan
 ##.pengiklan
