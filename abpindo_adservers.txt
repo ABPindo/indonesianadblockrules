@@ -80,6 +80,7 @@
 ||flexterkita.com^$third-party
 ||fonderreaders.info^$popup
 ||forumiklan.com^$third-party
+||genieessp.com^$third-party
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
 ||gjeyqtunbnap.com^$popup,third-party
 ||greatwork.info^$popup,third-party
@@ -129,11 +130,13 @@
 ||klikabadi.net^$third-party
 ||klikajadeh.com^$third-party
 ||ktrackdata.com^$popup,third-party
+||liveadexchanger.com
 ||lokeriklan.com^$third-party
 ||macarier.review^$popup,third-party
 ||maist.jp^$third-party
 ||masteriklan.net^$third-party
 ||mediab.uy^$popup,third-party
+||mellowads.com^$third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||mosaicolor.website^$third-party
 ||mrperfect.in$script,third-party
@@ -152,6 +155,7 @@
 ||pasangiklangratisbaris.net^$third-party
 ||pasariklanbaris.com^$third-party
 ||paypopup.com^$third-party
+||pippio.com^$third-party
 ||pkq13.com^
 ||pondokiklan.com^$third-party
 ||promobagus.com^$third-party
