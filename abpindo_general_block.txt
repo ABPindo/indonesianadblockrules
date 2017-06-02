@@ -13,7 +13,6 @@
 .net/iklan/
 .tv/iklan/
 /ads/iklan.
-/ads_daybanner_display.php?
 /adsterra.js|
 /adtrace2.js|
 /adv/iklan.
@@ -27,8 +26,4 @@
 /uploads/iklan/*
 /usaha-berhasil.gif|
 /usahaberhasil.gif|
-=popad&$popup
-=popads_cpc&$popup
-=popadsnet&$popup
-=PropellerAds&$popup
 iklan300x250.gif|

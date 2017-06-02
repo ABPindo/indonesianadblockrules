@@ -13,6 +13,7 @@
 %include abpindo_adservers.txt%
 %include abpindo_thirdparty.txt%
 %include abpindo_annoyance.txt%
+%include abpindo_annoyance_elemhide.txt%
 %include abpindo_judi.txt%
 %include abpindo_prank.txt%
 %include abpindo_scam.txt%
