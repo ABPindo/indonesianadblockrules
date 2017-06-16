@@ -1,6 +1,7 @@
 |http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 ||04dn8g4f.space^$popup,third-party
+||05ee3a24ed11df058c8.com^
 ||05ee3a24ed11df058c8.com^$popup
 ||104.198.61.40^$popup
 ||104.198.61.40^$third-party
@@ -11,6 +12,7 @@
 ||1st-iklan.com^$third-party
 ||23.236.55.237^$popup,third-party
 ||35.184.169.188^$popup
+||35.184.169.188^$popup,third-party
 ||35.184.98.90^$popup,third-party
 ||3b7c0f01022f61d5.com^
 ||66cpwgln.space^$popup
@@ -84,6 +86,7 @@
 ||gudangbanner.com$third-party
 ||halal.ad$third-party
 ||hclccadfmkpw.com^$popup,third-party
+||hsoyrqqsludd.com^$popup
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party

@@ -71,6 +71,7 @@ remo-xp.com###float-left
 remo-xp.com###float-right
 komiku.net###floatads2
 komiku.net###floatads3
+sinemaindo.web.id###floatbtmleft
 nonton33.tv###floating_banner_bot
 bioskop90.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
@@ -84,6 +85,7 @@ bioskop78.com,bioskop99.mobi,nonton33.com,nonton33.tv,www.bioskop99.me###floatin
 sodasusu.com###forum_ads_8
 resep.web.id###googlebox
 icinema3satu.net###h5ab-advert-cont
+sinemaindo.web.id###hbanner
 cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
 banyakfilm.pw###header_sag
 banyakfilm.pw###header_sol
@@ -354,7 +356,9 @@ www.filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]
 torjack.net##a[href="https://mypayingads.com/ref/59039/signup"]
+sinemaindo.web.id##a[href^="//angel4d.com/"]
 dramaid.com##a[href^="//elangcapsa.net/"]
+sinemaindo.web.id##a[href^="//telolet4d.com/"]
 cinema2satu.id##a[href^="http://adserver.adreactor.com/servlet/view/window/url/zone"]
 bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 kshowid.com##a[href^="http://jokersakong.com/"]
