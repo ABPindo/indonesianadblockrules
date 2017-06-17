@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: eaPP/yEg9zOom3m7BfahGw
+! Checksum: /SViKZa34uCmDu+Zjb8k9w
 ! Title: ABPindo tanpa nawala
-! Last modified: 16 Juni 2017, 08:56:46 WIB
+! Last modified: 17 Juni 2017, 16:47:56 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -12,8 +12,6 @@
 ! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
 !
 ! *** abpindo_adservers.txt ***
-|http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 ||04dn8g4f.space^$popup,third-party
 ||05ee3a24ed11df058c8.com^
 ||05ee3a24ed11df058c8.com^$popup
@@ -72,7 +70,7 @@
 ||clksite.com^$third-party
 ||codeonclick.com^$popup,third-party
 ||com-878979.info^$popup,third-party
-||cytochemistryrecitativewrasse.com/$popup
+||cytochemistryrecitativewrasse.com^$popup
 ||d15cjcet1djbmv.cloudfront.net^
 ||d28k9nkt2spnp.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
@@ -211,6 +209,7 @@
 ||ylx-4.com^$third-party
 ||yx-ads6.com^$third-party
 ! *** abpindo_thirdparty.txt ***
+||c-stat.eu^$third-party
 ||cccpmo.com^$third-party
 ||easy-hit-counter.com^$third-party
 ||track.zerofriend.com^$popup,third-party
@@ -221,6 +220,7 @@
 ! *** abpindo_annoyance.txt ***
 ! bet, scam
 !
+-JasaQQ-
 /agen688.gif|
 /astonbet-
 /ayoqqsakong.
@@ -276,6 +276,7 @@ sarana88.gif|
 sarangbola.gif|
 sbobetqq.gif|
 totojitu.gif|
+||116poker.com^$popup
 ||188bet.com^$popup,third-party
 ||233bet.co^third-party
 ||365hoki.com^popup,third-party
@@ -857,6 +858,8 @@ totojitu.gif|
 ##img[title="agen bola terpecaya"]
 ##img[title="agen bola terpercaya"]
 ! *** abpindo_specific_block.txt ***
+|http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 ||angel.exabytes.com.my/banners/
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
@@ -873,8 +876,7 @@ totojitu.gif|
 ||bioskop55.me/wp-content/uploads/*.gif$image
 ||bioskop855.com/wp-content/uploads/*.gif$image
 ||block.s3block.com^$script,third-party
-||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus88.net|filmku.net|juragantomatx.com|movie76.net|nonton.club|nonton33.com|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|zonabola.com
-||c-stat.eu^$third-party
+||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus88.net|filmku.net|juragantomatx.com|movie76.net|nonton.club|nonton33.com|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|smallencode.com|unyil.org|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
@@ -1002,9 +1004,6 @@ totojitu.gif|
 ||numpanglewat.com^$third-party
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
 ||pic5678.com^$third-party
-||placehold.it/300x250
-||placehold.it/780x90
-||placehold.it^$domain=filmbagus21.info
 ||playwebgame.com/banner/$third-party
 ||porntrex.com/images/pt728.gif
 ||postimg.io/*.gif$image,domain=cinemaindo.web.id
@@ -1036,7 +1035,6 @@ totojitu.gif|
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! *** abpindo_specific_hide.txt ***
-! 46.166.167.16,semprot.com,semprotku.com
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 icinema3satu.net###FloatAlamindawa
