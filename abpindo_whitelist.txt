@@ -1,4 +1,4 @@
-@@.png#$domain=awsubs.co|narutobleachlover.net|oploverz.in|oploverz.net
+@@.png#$domain=awsubs.co|narutobleachlover.net|oploverz.in|oploverz.net|sobatdrama.net
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
@@ -14,6 +14,7 @@
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|goon.to|smallencode.com
 @@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|goon.to|smallencode.com
 @@||digitalponsel.com^$elemhide
+@@||dukun-cit.com^$generichide
 @@||easylist.club/popunder4.js$domain=oload.tv
 @@||eramuslim.com^$generichide
 @@||oploverz.in^$elemhide
@@ -21,6 +22,7 @@
 @@||platform.twitter.com/widgets.js$domain=smallencode.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||smallencode.disqus.com/count.js$domain=smallencode.com
+@@||sobatdrama.net^$generichide
 @@||st.chatango.com/js/gz/emb.js$domain=smallencode.com
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
-@@||www.asiancine.com^$elemhide
+@@||www.asiancine.com^$generichide
