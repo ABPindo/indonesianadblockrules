@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xUq3ZSyqr8skY1kUGHoT3w
+! Checksum: Fl0KxgVyTkGrNSKCYbcLOw
 ! Title: ABPindo
-! Last modified: 23 Juni 2017, 22:29:33 WIB
+! Last modified: 24 Juni 2017, 21:44:50 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -696,6 +696,7 @@ totojitu.gif|
 ##a[href="http://www.asia88bet.com"]
 ##a[href="http://www.asia88bet.us"]
 ##a[href="http://www.astrototo.com/"]
+##a[href="http://www.bandarasia.com/"]
 ##a[href="http://www.bolalabo.com/"]
 ##a[href="http://www.detikbet.net"]
 ##a[href="http://www.faktavimax.com"]
@@ -733,7 +734,9 @@ totojitu.gif|
 ##a[href^="http://asiabandarkiu.com/"]
 ##a[href^="http://ayomainqq.com/"]
 ##a[href^="http://bandarsakong.net/"]
+##a[href^="http://bca99.com"]
 ##a[href^="http://block.s3block.com/click"]
+##a[href^="http://dewadominoqq.com/"]
 ##a[href^="http://dewahoki.club/"]
 ##a[href^="http://dewiqq.org/"]
 ##a[href^="http://domino168.com/"]
@@ -753,6 +756,7 @@ totojitu.gif|
 ##a[href^="http://jasa888.com/"]
 ##a[href^="http://jasaqq.com/"]
 ##a[href^="http://jendralpoker.co/"]
+##a[href^="http://lintasqq.online/"]
 ##a[href^="http://mainqq.com/"]
 ##a[href^="http://meja13.net/"]
 ##a[href^="http://mkvpoker.club/"]
@@ -771,6 +775,7 @@ totojitu.gif|
 ##a[href^="http://togellounge99.com/"]
 ##a[href^="http://trikqq.com/"]
 ##a[href^="http://utamaqq.me/"]
+##a[href^="http://vipmandiriqq.com/"]
 ##a[href^="http://www.abgqq.com/"]
 ##a[href^="http://www.aoecash.com/"]
 ##a[href^="http://www.arenacash88.com/"]
@@ -782,6 +787,7 @@ totojitu.gif|
 ##a[href^="http://www.bursabet.net/"]
 ##a[href^="http://www.dewahoki.club/"]
 ##a[href^="http://www.domino168.com/"]
+##a[href^="http://www.elang88.com/"]
 ##a[href^="http://www.gemarcapsa.com/"]
 ##a[href^="http://www.gemarpoker.com/"]
 ##a[href^="http://www.hnbwin.com/"]
@@ -790,6 +796,7 @@ totojitu.gif|
 ##a[href^="http://www.ibcqq.me/"]
 ##a[href^="http://www.id-13.com/"]
 ##a[href^="http://www.idb365.com/"]
+##a[href^="http://www.idrajaqq.com/"]
 ##a[href^="http://www.indomb.com"]
 ##a[href^="http://www.indopk365.com/"]
 ##a[href^="http://www.infolinks.com/join-us"]
@@ -800,6 +807,7 @@ totojitu.gif|
 ##a[href^="http://www.jayamania.net"]
 ##a[href^="http://www.lapakgol.com/"]
 ##a[href^="http://www.liga888.com/"]
+##a[href^="http://www.mainidb.com/"]
 ##a[href^="http://www.maxbbm.com"]
 ##a[href^="http://www.pasaranqq.com/"]
 ##a[href^="http://www.pkq13.com/"]
@@ -7978,6 +7986,8 @@ iklan300x250.gif|
 ##.gbcontent
 ##.gpcontent
 ~kontan.co.id,~manteb.in,~securitylink.biz##.iklan
+##.iklan1
+##.iklan2
 ##.iklan728
 ##.iklan_semprot
 ##.iklan_semprot_h
