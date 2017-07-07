@@ -300,6 +300,7 @@ cinemaindo.web.id,filmbagus21.info##.modal
 detik.com##.normalbanner
 animeindo.id##.nyaa300
 animeindo.id##.nyaa728
+www.detik.com##.otp.detikads
 detik.com##.otp_banner_close
 susterbokep.com##.overlay
 tribunnews.com##.ovh[style="width:468px;height:60px"]
@@ -310,6 +311,7 @@ film-ganool.com##.random
 www.kaskus.co.id##.rb-3.banner-frame.col-sm-12
 okezone.com##.rc-ad-300x250
 unixmen.com##.reveal-modal-bg
+www.senimovies.net##.rsablock
 bokepml.online##.s-sponsor
 republika.co.id##.set-ads-468
 cinemaindo.com##.side:nth-of-type(7)
@@ -358,6 +360,7 @@ torjack.net##a[href="https://mypayingads.com/ref/59039/signup"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 dramaid.com##a[href^="//elangcapsa.net/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
+hentai2read.com##a[href^="//www.nutaku.net/signup/"]
 cinema2satu.id##a[href^="http://adserver.adreactor.com/servlet/view/window/url/zone"]
 bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 kshowid.com##a[href^="http://jokersakong.com/"]
