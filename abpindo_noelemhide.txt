@@ -15,7 +15,6 @@
 %include abpindo_annoyance.txt%
 %include abpindo_judi.txt%
 %include abpindo_prank.txt%
-%include abpindo_scam.txt%
 %include abpindo_general_block.txt%
 %include abpindo_specific_block.txt%
 %include abpindo_whitelist.txt%
