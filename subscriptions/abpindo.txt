@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PblqpnUk7zGFJ/+Xw+VMdQ
+! Checksum: 0Z2/8riEh1zZgLYSNLtIUg
 ! Title: ABPindo
-! Last modified: 08 Juli 2017, 18:52:47 WIB
+! Last modified: 09 Juli 2017, 10:46:15 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -29,6 +29,7 @@
 ||6a0e2d19ac28.com^$popup,third-party
 ||8a333bc2b4d6.com^$popup,third-party
 ||9icmzvn6.website^$popup,third-party
+||abrts.pro^$document$popup,third-party
 ||ad.adflazz.com^$third-party
 ||addesigner.com^$third-party
 ||adexchangecloud.com^$popup,third-party
@@ -65,6 +66,7 @@
 ||clksite.com^$third-party
 ||codeonclick.com^$popup,third-party
 ||com-878979.info^$popup,third-party
+||cpaclickoffers.com^$popup,third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
 ||d15cjcet1djbmv.cloudfront.net^
 ||d28k9nkt2spnp.cloudfront.net^
@@ -84,6 +86,7 @@
 ||everyday-carry.com^$popup,third-party
 ||eze99.net^$popup,third-party
 ||flexterkita.com^$third-party
+||fnkyyrgraizy.com^$popup,third-party
 ||fnkyyrgraizy.com^third-party
 ||fonderreaders.info^$popup,third-party
 ||forumiklan.com^$third-party
@@ -157,6 +160,7 @@
 ||paypopup.com^$third-party
 ||pippio.com^$third-party
 ||pondokiklan.com^$third-party
+||popunderjs.club^$popup,third-party
 ||promobagus.com^$third-party
 ||promotioncamp.com^$third-party
 ||props.id^$third-party
@@ -229,16 +233,21 @@
 -rajacapsa.
 -sponsorqq.
 -tiketbet.
+-togel.
 -tugupoker.
 /abgqq.
 /abgqqnew.
 /acerpoker.
 /agen688.
 /agenqq-
+/agenqqnew.
+/aoncash-
 /aoncash.
 /astonbet-
+/ayoqqnew.
 /ayoqqsakong.
 /bandar-togel.
+/BandarQ-
 /bandartaruhan.
 /bcadomino.
 /bolaketangkasan.
@@ -250,6 +259,7 @@
 /depoqq-
 /depoqq.
 /dewiqq-
+/dominoqq.
 /dotapoker.
 /dotapoker88-
 /dragonpoker.
@@ -287,7 +297,9 @@
 /jaya-bet-
 /ketuapokernew.
 /klikqq.
+/koinhoki.
 /kontolkuda.
+/lintasqq.
 /lobyqq.
 /luxury-top.
 /mastercasino88.
@@ -699,6 +711,7 @@ totojitu.gif|
 ||zonaprediksi.me^$popup,third-party
 ! *** abpindo_annoyance_elemhide.txt ***
 ##a[href*="http://Sekawanbet.com"]
+##a[href*="http://acmbet.com/"]
 ##a[href*="http://agen558.com"]
 ##a[href*="http://agenqq.online/"]
 ##a[href*="http://agentaruhan.net/"]
@@ -770,6 +783,7 @@ totojitu.gif|
 ##a[href*="http://mainqq.com/"]
 ##a[href*="http://majupoker.com/"]
 ##a[href*="http://meja13.net/"]
+##a[href*="http://mejakiu.com/"]
 ##a[href*="http://mkvpoker.club/"]
 ##a[href*="http://musimqq.com/"]
 ##a[href*="http://muvibet.com/"]
@@ -777,6 +791,7 @@ totojitu.gif|
 ##a[href*="http://obatpembesarpenisklg.id/"]
 ##a[href*="http://obatpembesarvimax.com/"]
 ##a[href*="http://obcbet.com/"]
+##a[href*="http://omi888.com/"]
 ##a[href*="http://pantauqq.com/"]
 ##a[href*="http://papabet.com/"]
 ##a[href*="http://pasaranqq.com/"]
@@ -864,13 +879,17 @@ totojitu.gif|
 ##a[href*="http://www.infoterapis.net/"]
 ##a[href*="http://www.interqq.com/"]
 ##a[href*="http://www.ivopoker.net/"]
+##a[href*="http://www.jalanalternatif.co"]
 ##a[href*="http://www.jasa888.com/"]
 ##a[href*="http://www.jayahoki.com/"]
 ##a[href*="http://www.jayamania.com/"]
 ##a[href*="http://www.jayamania.net"]
+##a[href*="http://www.kartuking.net/"]
 ##a[href*="http://www.lapakgol.com/"]
 ##a[href*="http://www.liga888.com/"]
+##a[href*="http://www.ligakita.com/"]
 ##a[href*="http://www.mainidb.com/"]
+##a[href*="http://www.maniakqq.com/ref.php"]
 ##a[href*="http://www.marina-365.net/"]
 ##a[href*="http://www.matasayu.com/"]
 ##a[href*="http://www.maxbbm.com"]
@@ -8091,21 +8110,21 @@ iklan300x250.gif|
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
 ! *** abpindo_whitelist.txt ***
-@@.png#$domain=awsubs.co|mangakita.net|narutobleachlover.net|oploverz.in|oploverz.net|sobatdrama.net
+@@.png#$domain=awsubs.co|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sobatdrama.net
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ainodorama.web.id^$generichide
-@@||ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js$domain=smallencode.com
-@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
+@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
 @@||apis.google.com/js/plusone.js$domain=smallencode.com
+@@||asiancine.com^$generichide
 @@||awsubs.co^$elemhide
 @@||cat3movie.us^$generichide
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$domain=smallencode.com
-@@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
+@@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
 @@||cinemamkv.com^$generichide
 @@||cinemamkv.xyz^$generichide
-@@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|goon.to|smallencode.com
-@@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|goon.to|smallencode.com
+@@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
+@@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
 @@||digitalponsel.com^$elemhide
 @@||dukun-cit.com^$generichide
 @@||easylist.club/popunder4.js$domain=oload.tv
@@ -8118,4 +8137,3 @@ iklan300x250.gif|
 @@||sobatdrama.net^$generichide
 @@||st.chatango.com/js/gz/emb.js$domain=smallencode.com
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
-@@||www.asiancine.com^$generichide

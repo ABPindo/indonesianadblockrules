@@ -15,6 +15,7 @@
 ||6a0e2d19ac28.com^$popup,third-party
 ||8a333bc2b4d6.com^$popup,third-party
 ||9icmzvn6.website^$popup,third-party
+||abrts.pro^$document$popup,third-party
 ||ad.adflazz.com^$third-party
 ||addesigner.com^$third-party
 ||adexchangecloud.com^$popup,third-party
@@ -51,6 +52,7 @@
 ||clksite.com^$third-party
 ||codeonclick.com^$popup,third-party
 ||com-878979.info^$popup,third-party
+||cpaclickoffers.com^$popup,third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
 ||d15cjcet1djbmv.cloudfront.net^
 ||d28k9nkt2spnp.cloudfront.net^
@@ -70,6 +72,7 @@
 ||everyday-carry.com^$popup,third-party
 ||eze99.net^$popup,third-party
 ||flexterkita.com^$third-party
+||fnkyyrgraizy.com^$popup,third-party
 ||fnkyyrgraizy.com^third-party
 ||fonderreaders.info^$popup,third-party
 ||forumiklan.com^$third-party
@@ -143,6 +146,7 @@
 ||paypopup.com^$third-party
 ||pippio.com^$third-party
 ||pondokiklan.com^$third-party
+||popunderjs.club^$popup,third-party
 ||promobagus.com^$third-party
 ||promotioncamp.com^$third-party
 ||props.id^$third-party
