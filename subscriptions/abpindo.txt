@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 0Z2/8riEh1zZgLYSNLtIUg
+! Checksum: UwB6tFUQjjwDO7aBx35rEw
 ! Title: ABPindo
-! Last modified: 09 Juli 2017, 10:46:15 WIB
+! Last modified: 10 Juli 2017, 14:13:21 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -252,6 +252,7 @@
 /bcadomino.
 /bolaketangkasan.
 /bosbobet.
+/brotogel.
 /bsakong1.
 /bsakong2.
 /bursabet-
@@ -270,6 +271,7 @@
 /fifaqq.
 /fix%2b728x90.
 /garenapoker.
+/garudaqq.
 /gebyarbola.
 /hm88poker.
 /hoki-365.
@@ -355,6 +357,7 @@
 /wigo-bet.
 /wigobet.gif|
 /wongpoker.
+/zyngaqq.
 728x90.gif|
 agen_bola_online.gif|
 agenqq.gif|
@@ -369,6 +372,7 @@ ratubola.gif|
 sarana88.gif|
 sarangbola.gif|
 sbobetqq.gif|
+SuhuBola.gif|
 totojitu.gif|
 ||116poker.com^$popup,third-party
 ||188bet.com^$popup,third-party
@@ -710,6 +714,7 @@ totojitu.gif|
 ||zenbola.com^$popup,third-party
 ||zonaprediksi.me^$popup,third-party
 ! *** abpindo_annoyance_elemhide.txt ***
+indoxxi.net##.coliklan
 ##a[href*="http://Sekawanbet.com"]
 ##a[href*="http://acmbet.com/"]
 ##a[href*="http://agen558.com"]
@@ -819,6 +824,7 @@ totojitu.gif|
 ##a[href*="http://sobatpoker88.com/"]
 ##a[href*="http://starcasino88.com/"]
 ##a[href*="http://suaraemas.com"]
+##a[href*="http://suhukiu.com/"]
 ##a[href*="http://tamanqq.com/"]
 ##a[href*="http://tfp.sapphirum.com/ref"]
 ##a[href*="http://togellounge99.com/"]
@@ -851,6 +857,7 @@ totojitu.gif|
 ##a[href*="http://www.bolasuhu.com"]
 ##a[href*="http://www.boya13.com/"]
 ##a[href*="http://www.bursabet.net/"]
+##a[href*="http://www.cyakibet77.com/"]
 ##a[href*="http://www.detikbet.net"]
 ##a[href*="http://www.dewahoki.club/"]
 ##a[href*="http://www.domino168.com/"]
@@ -865,6 +872,7 @@ totojitu.gif|
 ##a[href*="http://www.gemarcapsa.com/"]
 ##a[href*="http://www.gemarpoker.com/"]
 ##a[href*="http://www.hnbwin.com/"]
+##a[href*="http://www.hoki228.com"]
 ##a[href*="http://www.hoki228.com/"]
 ##a[href*="http://www.hokiliga.com"]
 ##a[href*="http://www.hoyapoker99.com"]
@@ -7422,7 +7430,6 @@ totojitu.gif|
 ! *** abpindo_specific_block.txt ***
 |http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
-||angel.exabytes.com.my/banners/
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -7482,6 +7489,7 @@ totojitu.gif|
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
 ||gsshop.co.id^*/background/banner-
+||gudangmovies21.co/wp-content/uploads/*.gif$image
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
@@ -7558,6 +7566,7 @@ totojitu.gif|
 ||nontonbox.tv/img/closeX.png
 ||nontonbox.tv/wp-content/uploads/*.gif
 ||nontonfilm77.com/wp-content/uploads/*.gif$image
+||nontonfilm77.com/wp-content/uploads/*.gif$image||angel.exabytes.com.my/banners/
 ||nontonfilmbaru.com/wp-content/uploads/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image

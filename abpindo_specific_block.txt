@@ -1,6 +1,5 @@
 |http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
-||angel.exabytes.com.my/banners/
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -60,6 +59,7 @@
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
 ||gsshop.co.id^*/background/banner-
+||gudangmovies21.co/wp-content/uploads/*.gif$image
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
@@ -136,6 +136,7 @@
 ||nontonbox.tv/img/closeX.png
 ||nontonbox.tv/wp-content/uploads/*.gif
 ||nontonfilm77.com/wp-content/uploads/*.gif$image
+||nontonfilm77.com/wp-content/uploads/*.gif$image||angel.exabytes.com.my/banners/
 ||nontonfilmbaru.com/wp-content/uploads/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image

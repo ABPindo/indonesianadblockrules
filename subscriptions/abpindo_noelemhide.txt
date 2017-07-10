@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TMcRaD6u5DLCfmWhGhCBOA
+! Checksum: jvFMO1JrY7ysCFDLaFJJ0w
 ! Title: ABPindo tanpa element hiding
-! Last modified: 09 Juli 2017, 10:46:15 WIB
+! Last modified: 10 Juli 2017, 14:13:21 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -252,6 +252,7 @@
 /bcadomino.
 /bolaketangkasan.
 /bosbobet.
+/brotogel.
 /bsakong1.
 /bsakong2.
 /bursabet-
@@ -270,6 +271,7 @@
 /fifaqq.
 /fix%2b728x90.
 /garenapoker.
+/garudaqq.
 /gebyarbola.
 /hm88poker.
 /hoki-365.
@@ -355,6 +357,7 @@
 /wigo-bet.
 /wigobet.gif|
 /wongpoker.
+/zyngaqq.
 728x90.gif|
 agen_bola_online.gif|
 agenqq.gif|
@@ -369,6 +372,7 @@ ratubola.gif|
 sarana88.gif|
 sarangbola.gif|
 sbobetqq.gif|
+SuhuBola.gif|
 totojitu.gif|
 ||116poker.com^$popup,third-party
 ||188bet.com^$popup,third-party
@@ -7203,7 +7207,6 @@ iklan300x250.gif|
 ! *** abpindo_specific_block.txt ***
 |http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
-||angel.exabytes.com.my/banners/
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -7263,6 +7266,7 @@ iklan300x250.gif|
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
 ||gsshop.co.id^*/background/banner-
+||gudangmovies21.co/wp-content/uploads/*.gif$image
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
@@ -7339,6 +7343,7 @@ iklan300x250.gif|
 ||nontonbox.tv/img/closeX.png
 ||nontonbox.tv/wp-content/uploads/*.gif
 ||nontonfilm77.com/wp-content/uploads/*.gif$image
+||nontonfilm77.com/wp-content/uploads/*.gif$image||angel.exabytes.com.my/banners/
 ||nontonfilmbaru.com/wp-content/uploads/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image
