@@ -235,11 +235,9 @@
 ||888crow.com^$popup,third-party
 ||888daren.com^$popup,third-party
 ||888galaxy.com^$popup,third-party
-||888games.com^$popup,third-party
 ||888holdingsplc.com^$popup,third-party
 ||888k7.com^$popup,third-party
 ||888ladies.com^$popup,third-party
-||888poker.com^$popup,third-party
 ||888poker.net^$popup,third-party
 ||888sport.com^$popup,third-party
 ||888suncity.com^$popup,third-party
@@ -1218,7 +1216,6 @@
 ||bandaragenbola.org^$popup,third-party
 ||bandaragenbolaterbaik.com^$popup,third-party
 ||bandaragensbobet.com^$popup,third-party
-||bandarasia.com^$popup,third-party
 ||bandarbaccarat.com^$popup,third-party
 ||bandarbaccarat.net^$popup,third-party
 ||bandarbet.com^$popup,third-party
@@ -1444,7 +1441,6 @@
 ||bet16.com^$popup,third-party
 ||bet2001.com^$popup,third-party
 ||bet24.com^$popup,third-party
-||bet2win.eu.com^$popup,third-party
 ||bet3000.com^$popup,third-party
 ||bet4dtoto.com^$popup,third-party
 ||bet5333.com^$popup,third-party
@@ -1492,7 +1488,6 @@
 ||betfreak.net^$popup,third-party
 ||betfred.biz^$popup,third-party
 ||betfred.com^$popup,third-party
-||betfred.eu.com^$popup,third-party
 ||betgenius.com^$popup,third-party
 ||bethelp.com^$popup,third-party
 ||bethoki168.com^$popup,third-party
@@ -1554,7 +1549,6 @@
 ||betsoftgaming.com^$popup,third-party
 ||betsonic.com^$popup,third-party
 ||betspace.com^$popup,third-party
-||betsson.com^$popup,third-party
 ||betstations.biz^$popup,third-party
 ||betstations.com^$popup,third-party
 ||betstations.info^$popup,third-party
@@ -1995,7 +1989,6 @@
 ||casino-solera.com^$popup,third-party
 ||casino-supplier.net^$popup,third-party
 ||casino-vulcan.com^$popup,third-party
-||casino-x.com^$popup,third-party
 ||casino.8betstreet.com^$popup,third-party
 ||casino.biz^$popup,third-party
 ||casino.carrieshosting.com^$popup,third-party
@@ -2604,7 +2597,6 @@
 ||eurocasino-fi.com^$popup,third-party
 ||eurocasinobet.com^$popup,third-party
 ||eurocasinot.net^$popup,third-party
-||eurogrand.com^$popup,third-party
 ||eurokingclub.com^$popup,third-party
 ||euromaxplay.com^$popup,third-party
 ||europacasino.org^$popup,third-party
@@ -2739,7 +2731,6 @@
 ||freetipsbola.com^$popup,third-party
 ||freshsextv.info^$popup,third-party
 ||fugupoker.com^$popup,third-party
-||fulltiltpoker.com^$popup,third-party
 ||fun688.com^$popup,third-party
 ||fun788.com^$popup,third-party
 ||fun88.com^$popup,third-party
@@ -4777,7 +4768,6 @@
 ||prediksitoptogel.com^$popup,third-party
 ||premiumtradings.com^$popup,third-party
 ||presidentialsuitecasino.com^$popup,third-party
-||prestigecasino.com^$popup,third-party
 ||prima-pulsa.com^$popup,third-party
 ||primadonashop.com^$popup,third-party
 ||primecasino.com^$popup,third-party
@@ -5438,7 +5428,6 @@
 ||sundulbet.info^$popup,third-party
 ||sundulbet.net^$popup,third-party
 ||sundulbet.org^$popup,third-party
-||sunmaker.com^$popup,third-party
 ||sunpoker.com^$popup,third-party
 ||sunraygaming.com^$popup,third-party
 ||sunsetcasino.com^$popup,third-party
@@ -5801,7 +5790,6 @@
 ||tingtongbet.com^$popup,third-party
 ||tipcasino.com^$popup,third-party
 ||tiphoneshop.com^$popup,third-party
-||tipico.com^$popup,third-party
 ||tipico7.com^$popup,third-party
 ||tipovi365.com^$popup,third-party
 ||tipsberjudi.com^$popup,third-party
@@ -6043,7 +6031,6 @@
 ||undianpoin777.com^$popup,third-party
 ||undiantogel.com^$popup,third-party
 ||undisputed-betting.com^$popup,third-party
-||unibet.com^$popup,third-party
 ||unibet.net^$popup,third-party
 ||unitedgames.net^$popup,third-party
 ||unobet.com^$popup,third-party
@@ -6185,10 +6172,6 @@
 ||whiterosebingo.com^$popup,third-party
 ||wikibola.com^$popup,third-party
 ||wildjackcasino.com^$popup,third-party
-||williamhill.com^$popup,third-party
-||williamhill.eu.com^$popup,third-party
-||williamhillcasino.com^$popup,third-party
-||williamhillpoker.com^$popup,third-party
 ||win29.com^$popup,third-party
 ||win456.com^$popup,third-party
 ||win4d.net^$popup,third-party
@@ -6236,7 +6219,6 @@
 ||workshop77.com^$popup,third-party
 ||world-cup-betting-2010.com^$popup,third-party
 ||worldbet.com^$popup,third-party
-||worldbet.eu.com^$popup,third-party
 ||worldcasinodirectory.com^$popup,third-party
 ||worldcasinojobs.com^$popup,third-party
 ||worldcasinoyellowpages.com^$popup,third-party

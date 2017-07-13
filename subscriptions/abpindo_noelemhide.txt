@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jvFMO1JrY7ysCFDLaFJJ0w
+! Checksum: Z2JnrmBfqFzmNomIQuEowg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 10 Juli 2017, 14:13:21 WIB
+! Last modified: 13 Juli 2017, 07:38:00 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -12,9 +12,7 @@
 ! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
 !
 ! *** abpindo_adservers.txt ***
-||04dn8g4f.space^$popup,third-party
 ||05ee3a24ed11df058c8.com^$popup,third-party
-||104.198.61.40^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$popup,third-party
 ||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
@@ -27,6 +25,7 @@
 ||66cpwgln.space^$popup,third-party
 ||690179b5160e450.com^$popup,third-party
 ||6a0e2d19ac28.com^$popup,third-party
+||6c37f8a12dede103bf7.com^$popup,third-party
 ||8a333bc2b4d6.com^$popup,third-party
 ||9icmzvn6.website^$popup,third-party
 ||abrts.pro^$document$popup,third-party
@@ -65,7 +64,6 @@
 ||clickredirection.com^$popup,third-party
 ||clksite.com^$third-party
 ||codeonclick.com^$popup,third-party
-||com-878979.info^$popup,third-party
 ||cpaclickoffers.com^$popup,third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
 ||d15cjcet1djbmv.cloudfront.net^
@@ -90,7 +88,6 @@
 ||fnkyyrgraizy.com^third-party
 ||fonderreaders.info^$popup,third-party
 ||forumiklan.com^$third-party
-||fwzlsugrflhh.com^$third-party
 ||gjeyqtunbnap.com^$popup,third-party
 ||greatwork.info^$popup,third-party
 ||groupiklan.com^$third-party
@@ -233,7 +230,6 @@
 -rajacapsa.
 -sponsorqq.
 -tiketbet.
--togel.
 -tugupoker.
 /abgqq.
 /abgqqnew.
@@ -246,8 +242,7 @@
 /astonbet-
 /ayoqqnew.
 /ayoqqsakong.
-/bandar-togel.
-/BandarQ-
+/bandarq-
 /bandartaruhan.
 /bcadomino.
 /bolaketangkasan.
@@ -304,8 +299,10 @@
 /lintasqq.
 /lobyqq.
 /luxury-top.
+/mainqq-
 /mastercasino88.
 /maxisbet-
+/mbopoker.
 /menangqq-
 /mitraqq.
 /motorqq.
@@ -345,6 +342,7 @@
 /suhubola-1.
 /suhubola.
 /suhuqq.
+/sukabandar.
 /surgabola.
 /tangkaskita.
 /texas-poker-
@@ -358,7 +356,6 @@
 /wigobet.gif|
 /wongpoker.
 /zyngaqq.
-728x90.gif|
 agen_bola_online.gif|
 agenqq.gif|
 ayoqq.gif|
@@ -372,7 +369,7 @@ ratubola.gif|
 sarana88.gif|
 sarangbola.gif|
 sbobetqq.gif|
-SuhuBola.gif|
+suhubola.gif|
 totojitu.gif|
 ||116poker.com^$popup,third-party
 ||188bet.com^$popup,third-party
@@ -403,6 +400,7 @@ totojitu.gif|
 ||angkajitutogel.net^$popup,third-party
 ||aoecash.com^$popup,third-party
 ||areabola.co^$popup,third-party
+||arenacash88.com^$popup,third-party
 ||armanipoker.com^$popup,third-party
 ||asia88bet.com^$popup,third-party
 ||asia88bet.us^$popup,third-party
@@ -418,12 +416,14 @@ totojitu.gif|
 ||axiobola.com^$popup,third-party
 ||ayomainqq.com^$popup,third-party
 ||balakqq.com^$popup,third-party
+||bandarasia.com^$popup,third-party
 ||bandarbet77.net^$popup,third-party
 ||bandarbursa.com^$popup,third-party
 ||bandarjudi.com^$popup,third-party
 ||bandarsakong.net^$popup,third-party
 ||bandartaruhan.co^$popup,third-party
 ||bandartogelsingapore.com^$popup,third-party
+||bca99.com^$popup,third-party
 ||bcadomino.com^$popup,third-party
 ||bejopoker.com^$popup,third-party
 ||belajar-bisnis.com^$popup,third-party
@@ -440,6 +440,7 @@ totojitu.gif|
 ||bla168.com^$popup,third-party
 ||block.s3block.com^$popup,third-party
 ||bola777.net^$popup,third-party
+||boladunia88bet.com^$popup,third-party
 ||bolagalaxy.com^$popup,third-party
 ||bolaketangkasan.com^$popup,third-party
 ||bolalabo.com^$popup,third-party
@@ -458,11 +459,13 @@ totojitu.gif|
 ||cashburners.biz^$popup,third-party
 ||clickadu.com^$popup,third-party
 ||cmobet.info$image,third-party
+||cyakibet77.com^$popup,third-party
 ||dadubets.com^$popup,third-party
 ||daftarbandarpoker.com^$popup,third-party
 ||daftartogelonline.info^$popup,third-party
 ||depodomino.com^$popup,third-party
 ||detikbet.net^$popup,third-party
+||dewadominoqq.com^$popup,third-party
 ||dewahoki.club^$popup,third-party
 ||dewapoker.net^$popup,third-party
 ||dewiqq.org^$popup,third-party
@@ -478,6 +481,7 @@ totojitu.gif|
 ||dwabet.asia^$popup,third-party
 ||earneasycash.info^$popup,third-party
 ||elang13.com^$popup,third-party
+||elang88.com^$popup,third-party
 ||elangbola.net^$popup,third-party
 ||elangcapsa.net^$popup,third-party
 ||elanghoki.com^$popup,third-party
@@ -529,6 +533,7 @@ totojitu.gif|
 ||idola999.com/$popup,third-party
 ||idolakini.com/$popup,third-party
 ||idomn.com^$popup,third-party
+||idrajaqq.com^$popup,third-party
 ||iklanqq.com^$popup,third-party
 ||incrasebux.com^$popup,third-party
 ||indo-13.com^$popup,third-party
@@ -547,6 +552,7 @@ totojitu.gif|
 ||investasiceria.net^$popup,third-party
 ||itubandar.com^$popup,third-party
 ||ivopoker.net^$popup,third-party
+||jalanalternatif.co^$popup,third-party
 ||japsex.org^$popup,third-party
 ||jasa888.com^$popup,third-party
 ||jasaqq.com^$popup,third-party
@@ -561,6 +567,7 @@ totojitu.gif|
 ||kakakdewa.com^$popup,third-party
 ||kakakdewa.net^$popup,third-party
 ||kamarjudi.com^$popup,third-party
+||kartuking.net^$popup,third-party
 ||kasinobet.net^$popup,third-party
 ||kayatogel.com^$popup,third-party
 ||ketuapkr.com^$popup,third-party
@@ -571,21 +578,27 @@ totojitu.gif|
 ||kontolkuda.co^$popup,third-party
 ||kosmetik-obatkuat.com^$popup,third-party
 ||lapakgol.com^$popup,third-party
+||liburpoker.com^$popup,third-party
 ||liga88.com^$popup,third-party
 ||liga888.com^$popup,third-party
+||ligakita.com^$popup,third-party
 ||linksbobet2016.com^$popup,third-party
 ||lintasqq.net^$popup,third-party
+||lintasqq.online^$popup,third-party
 ||m8livepoker.com^$popup,third-party
 ||mabosbet.com^$popup,third-party
 ||mahkotaqq.poker^$popup,third-party
 ||mainbandarsakong.com^$popup,third-party
+||mainidb.com^$popup,third-party
 ||mainqq.com^$popup,third-party
 ||majupoker.com^$popup,third-party
+||maniakqq.com^$popup,third-party
 ||marina-365.net^$popup,third-party
 ||master138.net^$popup,third-party
 ||matasayu.com^$popup,third-party
 ||maxbbm.com^$popup,third-party
 ||meja13.net^$popup,third-party
+||mejakiu.com^$popup,third-party
 ||mimpi4d.com^$popup,third-party
 ||mkvpoker.club^$popup,third-party
 ||musimqq.com^$popup,third-party
@@ -598,6 +611,7 @@ totojitu.gif|
 ||obatpembesarpenisklg.id^$popup,third-party
 ||obatpembesarvimax.com^$popup,third-party
 ||obcbet.com^$popup,third-party
+||omi888.com^$popup,third-party
 ||onclinic24.com^$popup,third-party
 ||opuspoker.com^$popup,third-party
 ||pantauqq.com^$popup,third-party
@@ -650,6 +664,7 @@ totojitu.gif|
 ||sbonaga.com^$popup,third-party
 ||sbopoker.com^$popup,third-party
 ||sbsbet.com^$popup,third-party
+||sekawanbet.com^$popup,third-party
 ||seksipoker.com^$popup,third-party
 ||senangpokerseo.com^$popup,third-party
 ||seni888.com^$popup,third-party
@@ -672,6 +687,7 @@ totojitu.gif|
 ||star88win.com^$popup,third-party
 ||starcasino88.com^$popup,third-party
 ||suaraemas.com^$popup,third-party
+||suhukiu.com^$popup,third-party
 ||sumberqq.com^$popup,third-party
 ||tamanqq.com^$popup,third-party
 ||tendangsakti.com^$popup,third-party
@@ -951,11 +967,9 @@ totojitu.gif|
 ||888crow.com^$popup,third-party
 ||888daren.com^$popup,third-party
 ||888galaxy.com^$popup,third-party
-||888games.com^$popup,third-party
 ||888holdingsplc.com^$popup,third-party
 ||888k7.com^$popup,third-party
 ||888ladies.com^$popup,third-party
-||888poker.com^$popup,third-party
 ||888poker.net^$popup,third-party
 ||888sport.com^$popup,third-party
 ||888suncity.com^$popup,third-party
@@ -1934,7 +1948,6 @@ totojitu.gif|
 ||bandaragenbola.org^$popup,third-party
 ||bandaragenbolaterbaik.com^$popup,third-party
 ||bandaragensbobet.com^$popup,third-party
-||bandarasia.com^$popup,third-party
 ||bandarbaccarat.com^$popup,third-party
 ||bandarbaccarat.net^$popup,third-party
 ||bandarbet.com^$popup,third-party
@@ -2160,7 +2173,6 @@ totojitu.gif|
 ||bet16.com^$popup,third-party
 ||bet2001.com^$popup,third-party
 ||bet24.com^$popup,third-party
-||bet2win.eu.com^$popup,third-party
 ||bet3000.com^$popup,third-party
 ||bet4dtoto.com^$popup,third-party
 ||bet5333.com^$popup,third-party
@@ -2208,7 +2220,6 @@ totojitu.gif|
 ||betfreak.net^$popup,third-party
 ||betfred.biz^$popup,third-party
 ||betfred.com^$popup,third-party
-||betfred.eu.com^$popup,third-party
 ||betgenius.com^$popup,third-party
 ||bethelp.com^$popup,third-party
 ||bethoki168.com^$popup,third-party
@@ -2270,7 +2281,6 @@ totojitu.gif|
 ||betsoftgaming.com^$popup,third-party
 ||betsonic.com^$popup,third-party
 ||betspace.com^$popup,third-party
-||betsson.com^$popup,third-party
 ||betstations.biz^$popup,third-party
 ||betstations.com^$popup,third-party
 ||betstations.info^$popup,third-party
@@ -2711,7 +2721,6 @@ totojitu.gif|
 ||casino-solera.com^$popup,third-party
 ||casino-supplier.net^$popup,third-party
 ||casino-vulcan.com^$popup,third-party
-||casino-x.com^$popup,third-party
 ||casino.8betstreet.com^$popup,third-party
 ||casino.biz^$popup,third-party
 ||casino.carrieshosting.com^$popup,third-party
@@ -3320,7 +3329,6 @@ totojitu.gif|
 ||eurocasino-fi.com^$popup,third-party
 ||eurocasinobet.com^$popup,third-party
 ||eurocasinot.net^$popup,third-party
-||eurogrand.com^$popup,third-party
 ||eurokingclub.com^$popup,third-party
 ||euromaxplay.com^$popup,third-party
 ||europacasino.org^$popup,third-party
@@ -3455,7 +3463,6 @@ totojitu.gif|
 ||freetipsbola.com^$popup,third-party
 ||freshsextv.info^$popup,third-party
 ||fugupoker.com^$popup,third-party
-||fulltiltpoker.com^$popup,third-party
 ||fun688.com^$popup,third-party
 ||fun788.com^$popup,third-party
 ||fun88.com^$popup,third-party
@@ -5493,7 +5500,6 @@ totojitu.gif|
 ||prediksitoptogel.com^$popup,third-party
 ||premiumtradings.com^$popup,third-party
 ||presidentialsuitecasino.com^$popup,third-party
-||prestigecasino.com^$popup,third-party
 ||prima-pulsa.com^$popup,third-party
 ||primadonashop.com^$popup,third-party
 ||primecasino.com^$popup,third-party
@@ -6154,7 +6160,6 @@ totojitu.gif|
 ||sundulbet.info^$popup,third-party
 ||sundulbet.net^$popup,third-party
 ||sundulbet.org^$popup,third-party
-||sunmaker.com^$popup,third-party
 ||sunpoker.com^$popup,third-party
 ||sunraygaming.com^$popup,third-party
 ||sunsetcasino.com^$popup,third-party
@@ -6517,7 +6522,6 @@ totojitu.gif|
 ||tingtongbet.com^$popup,third-party
 ||tipcasino.com^$popup,third-party
 ||tiphoneshop.com^$popup,third-party
-||tipico.com^$popup,third-party
 ||tipico7.com^$popup,third-party
 ||tipovi365.com^$popup,third-party
 ||tipsberjudi.com^$popup,third-party
@@ -6759,7 +6763,6 @@ totojitu.gif|
 ||undianpoin777.com^$popup,third-party
 ||undiantogel.com^$popup,third-party
 ||undisputed-betting.com^$popup,third-party
-||unibet.com^$popup,third-party
 ||unibet.net^$popup,third-party
 ||unitedgames.net^$popup,third-party
 ||unobet.com^$popup,third-party
@@ -6901,10 +6904,6 @@ totojitu.gif|
 ||whiterosebingo.com^$popup,third-party
 ||wikibola.com^$popup,third-party
 ||wildjackcasino.com^$popup,third-party
-||williamhill.com^$popup,third-party
-||williamhill.eu.com^$popup,third-party
-||williamhillcasino.com^$popup,third-party
-||williamhillpoker.com^$popup,third-party
 ||win29.com^$popup,third-party
 ||win456.com^$popup,third-party
 ||win4d.net^$popup,third-party
@@ -6952,7 +6951,6 @@ totojitu.gif|
 ||workshop77.com^$popup,third-party
 ||world-cup-betting-2010.com^$popup,third-party
 ||worldbet.com^$popup,third-party
-||worldbet.eu.com^$popup,third-party
 ||worldcasinodirectory.com^$popup,third-party
 ||worldcasinojobs.com^$popup,third-party
 ||worldcasinoyellowpages.com^$popup,third-party
