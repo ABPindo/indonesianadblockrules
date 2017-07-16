@@ -2,6 +2,7 @@
 ||easy-hit-counter.com^$third-party
 ||track.zerofriend.com^$popup,third-party
 ||trackdan.com^$popup
+||tracker.lazada.co.id^$third-party
 ||trackingclick.net^$popup
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
