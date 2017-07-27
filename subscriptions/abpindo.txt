@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GspprNTmNSGAg4ddKnLSDA
+! Checksum: gsHF7MWEX/sRNuXVGsvbPw
 ! Title: ABPindo
-! Last modified: 20 Juli 2017, 09:54:11 WIB
+! Last modified: 27 Juli 2017, 18:28:56 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -84,6 +84,7 @@
 ||edomz.com^$third-party
 ||everyday-carry.com^$popup,third-party
 ||eze99.net^$popup,third-party
+||fcjiqwghf.bid^$popup,third-party
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup,third-party
 ||fnkyyrgraizy.com^third-party
@@ -98,6 +99,7 @@
 ||halal.ad^$third-party
 ||hclccadfmkpw.com^$popup,third-party
 ||hsoyrqqsludd.com^$popup,third-party
+||huzcotxmghlfip.bid^popup,third-party
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
@@ -124,6 +126,7 @@
 ||iklantext.com^$third-party
 ||iklantop.net^$third-party
 ||iklanumum.com^$third-party
+||ikoh6ie.top^$popup,third-party
 ||indobanner.com^$third-party
 ||indofreeads.com^$third-party
 ||istanaiklan.com^$third-party
@@ -138,7 +141,9 @@
 ||klikabadi.com^$third-party
 ||klikabadi.net^$third-party
 ||klikajadeh.com^$third-party
+||kmiobghwsc.bid^$popup,third-party
 ||ktrackdata.com^$popup,third-party
+||l9tdhe6.com^$popup,third-party
 ||ld82ydd.com^$popup,third-party
 ||lokeriklan.com^$third-party
 ||macarier.review^$popup,third-party
@@ -172,6 +177,7 @@
 ||referral-secrets.com^$third-party
 ||replase.gq^$popup,third-party
 ||replase.ml^$popup,third-party
+||rkbjbtxhdi.bid^popup,third-party
 ||runreproducerow.com^$popup,third-party
 ||s2pops.club^$popup,third-party
 ||sanglah.com^$third-party
@@ -205,6 +211,7 @@
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
 ||xbfk51p7.review^$popup,third-party
+||xqquphzq.bid^popup,third-party
 ||yesads.com^$third-party
 ||yllix.com^$popup,third-party
 ||ylx-2.com^$third-party
@@ -241,6 +248,7 @@
 /abgqq.
 /abgqqnew.
 /acerpoker.
+/afatogel-
 /agen688.
 /agenqq-
 /agenqqnew.
@@ -262,12 +270,15 @@
 /depoqq-
 /depoqq.
 /dewiqq-
+/dewiqq.
+/domino168.
 /dominoqq.
 /dotapoker.
 /dotapoker88-
 /dragonpoker.
 /elangcapsa.
 /emasbet-
+/emasbet.
 /eyang-togel-
 /ezebet-
 /fifaqq.
@@ -413,6 +424,7 @@ totojitu.gif|
 ||agenvimaxindo.org^$popup,third-party
 ||agungpoker.com^$popup,third-party
 ||agwcash.com^$popup,third-party
+||ahliqq.org^$popup,third-party
 ||ajobola.com^$popup,third-party
 ||alampoker.com^$popup,third-party
 ||amdbet88.com^$popup,third-party
@@ -464,6 +476,7 @@ totojitu.gif|
 ||bola777.net^$popup,third-party
 ||boladunia88bet.com^$popup,third-party
 ||bolagalaxy.com^$popup,third-party
+||bolaindo77.com^$popup,third-party
 ||bolaketangkasan.com^$popup,third-party
 ||bolalabo.com^$popup,third-party
 ||bolasuhu.com^$popup,third-party
@@ -481,6 +494,7 @@ totojitu.gif|
 ||caradaftarpoker.info^$popup,third-party
 ||cash-harvest.com^$popup,third-party
 ||cashburners.biz^$popup,third-party
+||cbnpoker88.com^$popup,third-party
 ||clickadu.com^$popup,third-party
 ||cmobet.info$image,third-party
 ||cyakibet77.com^$popup,third-party
@@ -494,6 +508,7 @@ totojitu.gif|
 ||dewapoker.net^$popup,third-party
 ||dewiqq.org^$popup,third-party
 ||dinastybet.com^$popup,third-party
+||domino-168.com^$popup,third-party
 ||domino168.com^$popup,third-party
 ||domino168.net^$popup,third-party
 ||dominobet.in^$popup,third-party
@@ -532,6 +547,7 @@ totojitu.gif|
 ||goodlucky99.com^$popup,third-party
 ||gopiyopiyo.com^$popup,third-party
 ||h8indo.com^$popup,third-party
+||halobos.top^$popup,third-party
 ||halodewa.com^$popup,third-party
 ||hasiltogel.club^$popup,third-party
 ||hjtowin.online^$popup,third-party
@@ -554,6 +570,7 @@ totojitu.gif|
 ||id-13.com^$popup,third-party
 ||idb365.com^$popup,third-party
 ||idbet88.com^$popup,third-party
+||idn55bet.com^$popup,third-party
 ||idola88.com^$popup,third-party
 ||idola999.com/$popup,third-party
 ||idolakini.com/$popup,third-party
@@ -602,8 +619,10 @@ totojitu.gif|
 ||ketuapkr.com^$popup,third-party
 ||ketuapkr.net^$popup,third-party
 ||ketuapoker.net^$popup,third-party
+||klikkiu.top^$popup,third-party
 ||klikuntung.com^$popup,third-party
 ||kokibet.com$popup,third-party
+||komopoker.com^$popup,third-party
 ||kontolkuda.co^$popup,third-party
 ||kosmetik-obatkuat.com^$popup,third-party
 ||lapakgol.com^$popup,third-party
@@ -615,9 +634,11 @@ totojitu.gif|
 ||linksbobet2016.com^$popup,third-party
 ||lintasqq.net^$popup,third-party
 ||lintasqq.online^$popup,third-party
+||luxury138zz.com^$popup,third-party
 ||m88domino.net^$popup,third-party
 ||m8livepoker.com^$popup,third-party
 ||mabosbet.com^$popup,third-party
+||mahkotabola.org^$popup,third-party
 ||mahkotaqq.poker^$popup,third-party
 ||mainbandarsakong.com^$popup,third-party
 ||mainidb.com^$popup,third-party
@@ -646,6 +667,7 @@ totojitu.gif|
 ||obcbet.com^$popup,third-party
 ||omi888.com^$popup,third-party
 ||onclinic24.com^$popup,third-party
+||onesbet.com^$popup,third-party
 ||opuspoker.com^$popup,third-party
 ||pantauqq.com^$popup,third-party
 ||papabet.com^$popup,third-party
@@ -801,6 +823,7 @@ totojitu.gif|
 ##a[href*="http://agentaruhan.net/"]
 ##a[href*="http://agenvimaxindo.org"]
 ##a[href*="http://agwcash.com"]
+##a[href*="http://ahliqq.org/"]
 ##a[href*="http://ajobola.com"]
 ##a[href*="http://alampoker.com/"]
 ##a[href*="http://amdbet88.com/"]
@@ -849,6 +872,7 @@ totojitu.gif|
 ##a[href*="http://bola777.net/"]
 ##a[href*="http://boladunia88bet.com/"]
 ##a[href*="http://bolagalaxy.com"]
+##a[href*="http://bolaindo77.com/"]
 ##a[href*="http://bolaketangkasan.com/"]
 ##a[href*="http://bolalabo.com/"]
 ##a[href*="http://bolasuhu.com"]
@@ -879,6 +903,7 @@ totojitu.gif|
 ##a[href*="http://dewapoker.net/"]
 ##a[href*="http://dewiqq.org/"]
 ##a[href*="http://dinastybet.com/"]
+##a[href*="http://domino-168.com/"]
 ##a[href*="http://domino168.com/"]
 ##a[href*="http://domino168.net/"]
 ##a[href*="http://dominobet.in/"]
@@ -917,6 +942,7 @@ totojitu.gif|
 ##a[href*="http://goodlucky99.com/"]
 ##a[href*="http://gopiyopiyo.com/"]
 ##a[href*="http://h8indo.com/"]
+##a[href*="http://halobos.top/"]
 ##a[href*="http://halodewa.com/"]
 ##a[href*="http://hasiltogel.club/"]
 ##a[href*="http://hjtowin.online/"]
@@ -984,6 +1010,7 @@ totojitu.gif|
 ##a[href*="http://ketuapkr.com"]
 ##a[href*="http://ketuapkr.net"]
 ##a[href*="http://ketuapoker.net/"]
+##a[href*="http://klikkiu.top/"]
 ##a[href*="http://klikuntung.com/"]
 ##a[href*="http://kokibet.com/"]
 ##a[href*="http://kontolkuda.co/"]
@@ -998,6 +1025,7 @@ totojitu.gif|
 ##a[href*="http://lintasqq.online/"]
 ##a[href*="http://m8livepoker.com/"]
 ##a[href*="http://mabosbet.com/"]
+##a[href*="http://mahkotabola.org/"]
 ##a[href*="http://mahkotaqq.poker/"]
 ##a[href*="http://mainbandarsakong.com/"]
 ##a[href*="http://mainidb.com/"]
@@ -1153,7 +1181,6 @@ totojitu.gif|
 ##a[href*="http://www.agen688.com/"]
 ##a[href*="http://www.agungpoker.com"]
 ##a[href*="http://www.ajobola.com"]
-##a[href*="http://www.alampoker.com"]
 ##a[href*="http://www.alampoker.com/"]
 ##a[href*="http://www.aoecash.com/"]
 ##a[href*="http://www.arenacash88.com/"]
@@ -1171,6 +1198,7 @@ totojitu.gif|
 ##a[href*="http://www.boya13.com/"]
 ##a[href*="http://www.bursabet.net/"]
 ##a[href*="http://www.cacingnaga.com/id"]
+##a[href*="http://www.cbnpoker88.com/"]
 ##a[href*="http://www.cyakibet77.com/"]
 ##a[href*="http://www.detikbet.net"]
 ##a[href*="http://www.dewahoki.club/"]
@@ -1194,6 +1222,7 @@ totojitu.gif|
 ##a[href*="http://www.ibcqq.me/"]
 ##a[href*="http://www.id-13.com/"]
 ##a[href*="http://www.idb365.com/"]
+##a[href*="http://www.idn55bet.com/"]
 ##a[href*="http://www.idrajaqq.com/"]
 ##a[href*="http://www.indomb.com"]
 ##a[href*="http://www.indopk365.com/"]
@@ -1208,10 +1237,12 @@ totojitu.gif|
 ##a[href*="http://www.jayamania.com/"]
 ##a[href*="http://www.jayamania.net"]
 ##a[href*="http://www.kartuking.net/"]
+##a[href*="http://www.komopoker.com/"]
 ##a[href*="http://www.lapakgol.com/"]
 ##a[href*="http://www.liburpoker.com"]
 ##a[href*="http://www.liga888.com/"]
 ##a[href*="http://www.ligakita.com/"]
+##a[href*="http://www.luxury138zz.com/"]
 ##a[href*="http://www.m88domino.net/"]
 ##a[href*="http://www.mainidb.com/"]
 ##a[href*="http://www.maniakqq.com/ref.php"]
@@ -1255,6 +1286,7 @@ totojitu.gif|
 ##a[href*="http://zenbola.com"]
 ##a[href*="http://zonaprediksi.me/"]
 ##a[href*="https://liga77.net/"]
+##a[href*="https://www.onesbet.com/"]
 ##a[href*="https://www.vimaxasli.id/"]
 ##img[alt="Agen Bola Terpercaya"]
 ##img[alt="Agen Bola"]
@@ -3996,7 +4028,6 @@ totojitu.gif|
 ||fourseven.byethost7.com^$popup,third-party
 ||foxgambling.com^$popup,third-party
 ||foxycasino.com^$popup,third-party
-||fpctraffic2.com^$popup,third-party
 ||free-bets-uk.org^$popup,third-party
 ||free-casinos-games.com^$popup,third-party
 ||free-choice-indonesia.com^$popup,third-party
@@ -7848,6 +7879,7 @@ totojitu.gif|
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
 ||lk21.me/assets/*.gif
+||lk21.net/assets/*.gif$image
 ||lk21.org/assets/*.gif
 ||lk21.tv/assets/*.gif
 ||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_overlay.png
@@ -7879,6 +7911,7 @@ totojitu.gif|
 ||nontonfilm77.com/wp-content/uploads/*.gif$image
 ||nontonfilm77.com/wp-content/uploads/*.gif$image||angel.exabytes.com.my/banners/
 ||nontonfilmbaru.com/wp-content/uploads/*.gif$image
+||nontonfilmku.net/wp-content/uploads/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
@@ -8327,6 +8360,7 @@ layarkaca21.*##.img-responsive
 layarkaca21.*,lk21.*##.fancybox-skin
 bioskop78.com##td:nth-of-type(3)
 ! *** abpindo_general_block.txt ***
+-728-x-90.
 -iklan.gif|
 -iklan.jpg|
 -iklan.js|
@@ -8358,7 +8392,7 @@ bioskop78.com##td:nth-of-type(3)
 iklan300x250.gif|
 ! *** abpindo_general_hide.txt ***
 ###Box-Banner-ads
-###adplayer
+~4udrama.com###adplayer
 ###ads-pop
 ~cinemamkv.xyz###adsense
 ###adsground

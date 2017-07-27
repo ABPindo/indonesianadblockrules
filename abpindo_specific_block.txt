@@ -107,6 +107,7 @@
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
 ||lk21.me/assets/*.gif
+||lk21.net/assets/*.gif$image
 ||lk21.org/assets/*.gif
 ||lk21.tv/assets/*.gif
 ||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_overlay.png
@@ -138,6 +139,7 @@
 ||nontonfilm77.com/wp-content/uploads/*.gif$image
 ||nontonfilm77.com/wp-content/uploads/*.gif$image||angel.exabytes.com.my/banners/
 ||nontonfilmbaru.com/wp-content/uploads/*.gif$image
+||nontonfilmku.net/wp-content/uploads/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
