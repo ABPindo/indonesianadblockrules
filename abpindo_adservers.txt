@@ -4,9 +4,9 @@
 ||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
 ||1iklanbaris.com^$third-party
 ||1st-iklan.com^$third-party
-||23.236.55.237^$popup,third-party
 ||35.184.169.188^$popup,third-party
 ||35.184.98.90^$popup,third-party
+||35.188.14.213^$popup
 ||3b7c0f01022f61d5.com^$popup,third-party
 ||66cpwgln.space^$popup,third-party
 ||690179b5160e450.com^$popup,third-party
@@ -14,7 +14,7 @@
 ||6c37f8a12dede103bf7.com^$popup,third-party
 ||8a333bc2b4d6.com^$popup,third-party
 ||9icmzvn6.website^$popup,third-party
-||abrts.pro^$document$popup,third-party
+||abrts.pro^$popup,third-party
 ||ad.adflazz.com^$third-party
 ||addesigner.com^$third-party
 ||adexchangecloud.com^$popup,third-party
@@ -86,6 +86,7 @@
 ||hclccadfmkpw.com^$popup,third-party
 ||hsoyrqqsludd.com^$popup,third-party
 ||huzcotxmghlfip.bid^popup,third-party
+||hwoxt.com^$popup
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
@@ -183,6 +184,8 @@
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
 ||topsurfer.com^$third-party
+||track.aptitudemedia.co^$popup
+||track.spzan.com^$popup
 ||tradeadexchange.com^$popup,third-party
 ||trk.cpaoptimizer.com^$popup,third-party
 ||trndoffers.com^$popup,third-party

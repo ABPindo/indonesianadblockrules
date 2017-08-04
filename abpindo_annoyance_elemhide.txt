@@ -1,3 +1,5 @@
+amoimovie.com###popupinfoAd1
+nontonme.com##.bannermovie
 ##a[href*="http://116poker.com/"]
 ##a[href*="http://188bet.com/"]
 ##a[href*="http://188bet.net/"]
@@ -447,6 +449,7 @@
 ##a[href*="http://www.mainidb.com/"]
 ##a[href*="http://www.maniakqq.com/ref.php"]
 ##a[href*="http://www.marina-365.net/"]
+##a[href*="http://www.master88.com/"]
 ##a[href*="http://www.matasayu.com/"]
 ##a[href*="http://www.maxbbm.com"]
 ##a[href*="http://www.muvibet.net/"]
@@ -478,7 +481,9 @@
 ##a[href*="http://www.venombet.net/"]
 ##a[href*="http://www.vimaxasli.id/"]
 ##a[href*="http://www.vimaxcentral.com/"]
+##a[href*="http://www.waltpoker.com"]
 ##a[href*="http://www.wespoker.com/"]
+##a[href*="http://www.windewa.com"]
 ##a[href*="http://www.wongbet.asia/"]
 ##a[href*="http://wwwsgopoker.net"]
 ##a[href*="http://xtgem.com/click"]
