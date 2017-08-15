@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3V1Y7Y9s9md9XFpPa2rtGw
+! Checksum: LiPP74lBKWvlW3Xj5kKZcg
 ! Title: ABPindo
-! Last modified: 04 Agustus 2017, 07:32:25 WIB
+! Last modified: 15 Agustus 2017, 12:17:53 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -235,6 +235,7 @@
 -agenqq-
 -agungpoker.
 -dewiqq.
+-divaqq.
 -domino168.
 -elangcapsa-
 -emasbet.
@@ -261,10 +262,12 @@
 /ayoqqnew.
 /ayoqqsakong.
 /bandarq-
+/BandarQ.
 /bandartaruhan.
 /bcadomino.
 /bolaketangkasan.
 /bosbobet.
+/bospoker.
 /brotogel.
 /bsakong1.
 /bsakong2.
@@ -328,6 +331,7 @@
 /mitraqq.
 /motorqq.
 /musimqq.
+/musimqq300.
 /nagalaut-new.
 /nagalaut.
 /obat-kuat-sex.
@@ -957,6 +961,7 @@ nontonme.com##.bannermovie
 ##a[href*="http://hokibandarq.net/"]
 ##a[href*="http://hokiliga.com"]
 ##a[href*="http://hokipk.com"]
+##a[href*="http://hotsports7.com/"]
 ##a[href*="http://hoyacash.com"]
 ##a[href*="http://hoyacash.net"]
 ##a[href*="http://hoyajackpot.net"]
@@ -1191,6 +1196,7 @@ nontonme.com##.bannermovie
 ##a[href*="http://www.arenacash88.com/"]
 ##a[href*="http://www.asia88bet.com"]
 ##a[href*="http://www.asia88bet.us"]
+##a[href*="http://www.asiapoker77.com/"]
 ##a[href*="http://www.astrototo.com/"]
 ##a[href*="http://www.ayomainqq.com/"]
 ##a[href*="http://www.bandar228.com/"]
@@ -1214,10 +1220,12 @@ nontonme.com##.bannermovie
 ##a[href*="http://www.fast2bet.com/"]
 ##a[href*="http://www.fullbet88.com"]
 ##a[href*="http://www.gadingpoker.com"]
+##a[href*="http://www.galeripoker88.com"]
 ##a[href*="http://www.gamegua88.com/"]
 ##a[href*="http://www.ganoolqq.com"]
 ##a[href*="http://www.gemarcapsa.com/"]
 ##a[href*="http://www.gemarpoker.com/"]
+##a[href*="http://www.guepoker.com/"]
 ##a[href*="http://www.h8indo.com"]
 ##a[href*="http://www.hnbwin.com/"]
 ##a[href*="http://www.hoki228.com/"]
@@ -1242,6 +1250,7 @@ nontonme.com##.bannermovie
 ##a[href*="http://www.jayamania.com/"]
 ##a[href*="http://www.jayamania.net"]
 ##a[href*="http://www.kartuking.net/"]
+##a[href*="http://www.king368.com/"]
 ##a[href*="http://www.komopoker.com/"]
 ##a[href*="http://www.lapakgol.com/"]
 ##a[href*="http://www.liburpoker.com"]
@@ -1287,7 +1296,9 @@ nontonme.com##.bannermovie
 ##a[href*="http://www.waltpoker.com"]
 ##a[href*="http://www.wespoker.com/"]
 ##a[href*="http://www.windewa.com"]
+##a[href*="http://www.winpoker789.net"]
 ##a[href*="http://www.wongbet.asia/"]
+##a[href*="http://www.ysbjaya88.com/"]
 ##a[href*="http://wwwsgopoker.net"]
 ##a[href*="http://xtgem.com/click"]
 ##a[href*="http://ysbjaya88.com/"]
@@ -7816,6 +7827,7 @@ nontonme.com##.bannermovie
 ||detik.com/images/banners/
 ||dewa.tv/banner/
 ||dewamovie.net/wp-content/uploads/*.gif
+||dewanontons.com/wp-content/uploads/*.gif$image
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
 ||dldramaid.xyz/*.gif$image
 ||dramaid.com/banner/
@@ -7902,6 +7914,7 @@ nontonme.com##.bannermovie
 ||modemku.com/image-banner/
 ||modifikasi.com/images/banner/$third-party
 ||modifikasi.com/images/banner_
+||movieon21.com/wp-content/uploads/*.gif$image
 ||movietube21.com/wp-content/uploads/*.gif$image
 ||mractionclub.com/banner/
 ||musisi.com/musifile/images_banner/
