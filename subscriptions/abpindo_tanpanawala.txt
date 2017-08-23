@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: BjiYgCQ0LMpL0jvljG9+Rw
+! Checksum: JB9+d1CgIZPhCYmojCDA8w
 ! Title: ABPindo tanpa nawala
-! Last modified: 15 Agustus 2017, 12:17:53 WIB
+! Last modified: 23 Agustus 2017, 21:01:32 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -74,6 +74,7 @@
 ||dafa.io^$popup,third-party
 ||dearerfonder.info^$popup,third-party
 ||dewsburg.info^$third-party
+||dgnvmw.xyz^$popup
 ||dk7rftbivnkgr.cloudfront.net^
 ||dqqulesm3pfse.cloudfront.net^
 ||dubshub.com$script,third-party
@@ -82,6 +83,7 @@
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
+||engine.gamesrevenue.com^$popup
 ||everyday-carry.com^$popup,third-party
 ||eze99.net^$popup,third-party
 ||fcjiqwghf.bid^$popup,third-party
@@ -174,10 +176,12 @@
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
 ||pwdmtyzyq.com^$popup,third-party
+||q1xyxm89.com^$popup
 ||realwap.net^$third-party
 ||referral-secrets.com^$third-party
 ||replase.gq^$popup,third-party
 ||replase.ml^$popup,third-party
+||rfgodfdf.bid^$popup
 ||rkbjbtxhdi.bid^popup,third-party
 ||runreproducerow.com^$popup,third-party
 ||s2pops.club^$popup,third-party
@@ -209,6 +213,7 @@
 ||uoarbhxfyygn.com^$popup,third-party
 ||useads.com^$third-party
 ||vrewpywootyu.com^$popup,third-party
+||vtewggxzbrcv.bid^$popup
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||window-close.cf^$popup,third-party
@@ -498,6 +503,7 @@ totojitu.gif|
 ||cahayapoker.net^$popup,third-party
 ||cahayaqq.net^$popup,third-party
 ||capqq.com^$popup,third-party
+||capsa-susun.net^$popup
 ||caradaftarpoker.info^$popup,third-party
 ||cash-harvest.com^$popup,third-party
 ||cashburners.biz^$popup,third-party
@@ -1307,6 +1313,8 @@ nontonme.com##.bannermovie
 ##a[href*="https://liga77.net/"]
 ##a[href*="https://www.onesbet.com/"]
 ##a[href*="https://www.vimaxasli.id/"]
+##a[href="http://mahkotabola.org"]
+##a[href="http://www.divahoki.com/"]
 ##img[alt="Agen Bola Terpercaya"]
 ##img[alt="Agen Bola"]
 ##img[alt="Agen Judi Online"]
@@ -1347,8 +1355,8 @@ nontonme.com##.bannermovie
 ##img[title="agen bola terpecaya"]
 ##img[title="agen bola terpercaya"]
 ! *** abpindo_specific_block.txt ***
-|http://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=123videos.tv|apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=123videos.tv|apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -1902,6 +1910,7 @@ kshowid.com##a[href^="http://jokersakong.com/"]
 goon.to##a[href^="http://modescrips.info/redirect"]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 nonton33.com##a[href^="http://www.king368.com/promotion"]
+ytssubtitles.com##a[href^="https://oxhax.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 bioskop201.info,ganool.*###popupwindow
 bioskop21.co,ganool.*##.mgid
