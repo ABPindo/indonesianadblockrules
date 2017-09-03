@@ -65,6 +65,7 @@
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
+||hentaiheroes.com^$popup,domain=hentai2read.com
 ||hotabis.com/wp-content/uploads/*.gif
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
@@ -81,6 +82,7 @@
 ||indotelko.com/images/banner/
 ||indotelko.com/inc/banner.css
 ||indotelko.com/inc/c_banner.js
+||ioredi.com^$script,domain=mangakita.net
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||jasjus.net^$popup
 ||javapic.com^$third-party
@@ -117,6 +119,7 @@
 ||malamsenin.net/wp-content/uploads/2015/11/415x60.jpg$image
 ||malamsenin.org/wp-content/uploads/*.gif$image
 ||malamsenin.org/wp-content/uploads/2015/11/415x60.jpg$image
+||mangaku.web.id/Gambar/Ads720.html
 ||mediaindonesia.com/ajax/banners
 ||mediaindonesia.com/files/banners/
 ||mediaindonesia.com/public/banner/flash/

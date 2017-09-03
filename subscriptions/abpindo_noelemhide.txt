@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zf0Z+yJG2/XWO4Hzo2uwxQ
+! Checksum: aTwHkE/28o6QbC4iii0yTA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 23 Agustus 2017, 21:01:32 WIB
+! Last modified: 03 September 2017, 09:00:30 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -51,11 +51,13 @@
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
 ||apmmedia.net^$third-party
+||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
 ||baliadv.com^$third-party
 ||bellaads.com^$third-party
 ||bmnet-ads.com^$third-party
 ||bunchofwinners.win^$popup,third-party
+||cd87c85eb2890d048d2.com^$third-party
 ||cd8iw9mh.cricket^$popup,third-party
 ||cdnasiaclub.com^popup,third-party
 ||cfasync.ga^$popup,third-party
@@ -66,6 +68,7 @@
 ||clksite.com^$third-party
 ||codeonclick.com^$popup,third-party
 ||cpaclickoffers.com^$popup,third-party
+||creditcardsbest.club^$third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
 ||d15cjcet1djbmv.cloudfront.net^
 ||d28k9nkt2spnp.cloudfront.net^
@@ -169,6 +172,7 @@
 ||paypopup.com^$third-party
 ||pippio.com^$third-party
 ||pondokiklan.com^$third-party
+||popclck.net^$popup,third-party
 ||popunderjs.club^$popup,third-party
 ||promobagus.com^$third-party
 ||promotioncamp.com^$third-party
@@ -212,6 +216,7 @@
 ||u-on.eu^$popup,third-party
 ||uoarbhxfyygn.com^$popup,third-party
 ||useads.com^$third-party
+||viglink.com^$third-party
 ||vrewpywootyu.com^$popup,third-party
 ||vtewggxzbrcv.bid^$popup
 ||webiklan.com^$third-party
@@ -7351,6 +7356,7 @@ iklan300x250.gif|
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
+||hentaiheroes.com^$popup,domain=hentai2read.com
 ||hotabis.com/wp-content/uploads/*.gif
 ||id.hao123.com/resource/id/banner/
 ||idblognetwork.com/images/banner468x60/
@@ -7367,6 +7373,7 @@ iklan300x250.gif|
 ||indotelko.com/images/banner/
 ||indotelko.com/inc/banner.css
 ||indotelko.com/inc/c_banner.js
+||ioredi.com^$script,domain=mangakita.net
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||jasjus.net^$popup
 ||javapic.com^$third-party
@@ -7403,6 +7410,7 @@ iklan300x250.gif|
 ||malamsenin.net/wp-content/uploads/2015/11/415x60.jpg$image
 ||malamsenin.org/wp-content/uploads/*.gif$image
 ||malamsenin.org/wp-content/uploads/2015/11/415x60.jpg$image
+||mangaku.web.id/Gambar/Ads720.html
 ||mediaindonesia.com/ajax/banners
 ||mediaindonesia.com/files/banners/
 ||mediaindonesia.com/public/banner/flash/
