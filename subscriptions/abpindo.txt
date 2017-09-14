@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sPIKMrL3OzRoFakjRgesYw
+! Checksum: kiaDpRu3RQg5xDtK3CJ6Vw
 ! Title: ABPindo
-! Last modified: 03 September 2017, 09:00:30 WIB
+! Last modified: 14 September 2017, 07:01:28 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -57,6 +57,7 @@
 ||bellaads.com^$third-party
 ||bmnet-ads.com^$third-party
 ||bunchofwinners.win^$popup,third-party
+||c-4fambt.com^$third-party
 ||cd87c85eb2890d048d2.com^$third-party
 ||cd8iw9mh.cricket^$popup,third-party
 ||cdnasiaclub.com^popup,third-party
@@ -170,6 +171,8 @@
 ||pasangiklangratisbaris.net^$third-party
 ||pasariklanbaris.com^$third-party
 ||paypopup.com^$third-party
+||pejqoq4cafo3bg9yqqqtk5e6s6.com^$popup
+||pejqoq4cafo3bg9yqqqtk5e6s6.com^$third-party
 ||pippio.com^$third-party
 ||pondokiklan.com^$third-party
 ||popclck.net^$popup,third-party
@@ -526,6 +529,8 @@ totojitu.gif|
 ||dewapoker.net^$popup,third-party
 ||dewiqq.org^$popup,third-party
 ||dinastybet.com^$popup,third-party
+||divaindo.com^$popup,third-party
+||divaliga.com^$popup,third-party
 ||domino-168.com^$popup,third-party
 ||domino168.com^$popup,third-party
 ||domino168.net^$popup,third-party
@@ -637,6 +642,7 @@ totojitu.gif|
 ||ketuapkr.com^$popup,third-party
 ||ketuapkr.net^$popup,third-party
 ||ketuapoker.net^$popup,third-party
+||king368.com^$popup,third-party
 ||klikkiu.top^$popup,third-party
 ||klikuntung.com^$popup,third-party
 ||kokibet.com$popup,third-party
@@ -720,6 +726,7 @@ totojitu.gif|
 ||raja111.com^$popup,third-party
 ||raja365.com^$popup,third-party
 ||raja77.com^$popup,third-party
+||rajawaliqq.net^$popup,third-party
 ||ramuanobatherball.com^$popup,third-party
 ||ratubola.com^$popup,third-party
 ||rezekibola.com^$popup,third-party
@@ -755,6 +762,7 @@ totojitu.gif|
 ||situsbet368.com^$popup,third-party
 ||situsjudi.com^$popup,third-party
 ||skorbola.co^$popup,third-party
+||skybet.com^$popup,third-party
 ||sobatpkr.net^$popup,third-party
 ||sobatpoker88.com^$popup,third-party
 ||sogopoker.net^$popup,third-party
@@ -816,8 +824,6 @@ totojitu.gif|
 ||zenbola.com^$popup,third-party
 ||zonaprediksi.me^$popup,third-party
 ! *** abpindo_annoyance_elemhide.txt ***
-amoimovie.com###popupinfoAd1
-nontonme.com##.bannermovie
 ##a[href*="http://116poker.com/"]
 ##a[href*="http://188bet.com/"]
 ##a[href*="http://188bet.net/"]
@@ -923,6 +929,7 @@ nontonme.com##.bannermovie
 ##a[href*="http://dewapoker.net/"]
 ##a[href*="http://dewiqq.org/"]
 ##a[href*="http://dinastybet.com/"]
+##a[href*="http://divaliga.com"]
 ##a[href*="http://domino-168.com/"]
 ##a[href*="http://domino168.com/"]
 ##a[href*="http://domino168.net/"]
@@ -1067,6 +1074,7 @@ nontonme.com##.bannermovie
 ##a[href*="http://muvibet.net/"]
 ##a[href*="http://naloindo.net/"]
 ##a[href*="http://neobola.club/"]
+##a[href*="http://neotangkas.com"]
 ##a[href*="http://neotangkas.com/"]
 ##a[href*="http://obat-klg-herbal.com"]
 ##a[href*="http://obatjogja.com/"]
@@ -1224,6 +1232,7 @@ nontonme.com##.bannermovie
 ##a[href*="http://www.cyakibet77.com/"]
 ##a[href*="http://www.detikbet.net"]
 ##a[href*="http://www.dewahoki.club/"]
+##a[href*="http://www.divaindo.com/"]
 ##a[href*="http://www.domino168.com/"]
 ##a[href*="http://www.elang88.com/"]
 ##a[href*="http://www.elangbola.net"]
@@ -1261,6 +1270,7 @@ nontonme.com##.bannermovie
 ##a[href*="http://www.jayamania.com/"]
 ##a[href*="http://www.jayamania.net"]
 ##a[href*="http://www.kartuking.net/"]
+##a[href*="http://www.king368.com"]
 ##a[href*="http://www.king368.com/"]
 ##a[href*="http://www.komopoker.com/"]
 ##a[href*="http://www.lapakgol.com/"]
@@ -8109,6 +8119,7 @@ indotelko.com###more_stories
 viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
+amoimovie.com###popupinfoAd1
 nonton21.tv###previewBox
 nonton21.tv,nontonserial.com###previewBox2
 nonton21.tv###previewBox3
@@ -8225,6 +8236,7 @@ lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
 tekno.kompas.com##.banner_right2
+nontonme.com##.bannermovie
 modifikasi.com##.bannerpos
 www.nontonme.com##.banners
 nontonmovie.web.id,videocrot.org##.bannersinglefot

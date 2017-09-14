@@ -117,6 +117,7 @@ indotelko.com###more_stories
 viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
+amoimovie.com###popupinfoAd1
 nonton21.tv###previewBox
 nonton21.tv,nontonserial.com###previewBox2
 nonton21.tv###previewBox3
@@ -233,6 +234,7 @@ lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
 tekno.kompas.com##.banner_right2
+nontonme.com##.bannermovie
 modifikasi.com##.bannerpos
 www.nontonme.com##.banners
 nontonmovie.web.id,videocrot.org##.bannersinglefot

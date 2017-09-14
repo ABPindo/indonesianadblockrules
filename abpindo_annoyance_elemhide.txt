@@ -1,5 +1,3 @@
-amoimovie.com###popupinfoAd1
-nontonme.com##.bannermovie
 ##a[href*="http://116poker.com/"]
 ##a[href*="http://188bet.com/"]
 ##a[href*="http://188bet.net/"]
@@ -105,6 +103,7 @@ nontonme.com##.bannermovie
 ##a[href*="http://dewapoker.net/"]
 ##a[href*="http://dewiqq.org/"]
 ##a[href*="http://dinastybet.com/"]
+##a[href*="http://divaliga.com"]
 ##a[href*="http://domino-168.com/"]
 ##a[href*="http://domino168.com/"]
 ##a[href*="http://domino168.net/"]
@@ -249,6 +248,7 @@ nontonme.com##.bannermovie
 ##a[href*="http://muvibet.net/"]
 ##a[href*="http://naloindo.net/"]
 ##a[href*="http://neobola.club/"]
+##a[href*="http://neotangkas.com"]
 ##a[href*="http://neotangkas.com/"]
 ##a[href*="http://obat-klg-herbal.com"]
 ##a[href*="http://obatjogja.com/"]
@@ -406,6 +406,7 @@ nontonme.com##.bannermovie
 ##a[href*="http://www.cyakibet77.com/"]
 ##a[href*="http://www.detikbet.net"]
 ##a[href*="http://www.dewahoki.club/"]
+##a[href*="http://www.divaindo.com/"]
 ##a[href*="http://www.domino168.com/"]
 ##a[href*="http://www.elang88.com/"]
 ##a[href*="http://www.elangbola.net"]
@@ -443,6 +444,7 @@ nontonme.com##.bannermovie
 ##a[href*="http://www.jayamania.com/"]
 ##a[href*="http://www.jayamania.net"]
 ##a[href*="http://www.kartuking.net/"]
+##a[href*="http://www.king368.com"]
 ##a[href*="http://www.king368.com/"]
 ##a[href*="http://www.komopoker.com/"]
 ##a[href*="http://www.lapakgol.com/"]
