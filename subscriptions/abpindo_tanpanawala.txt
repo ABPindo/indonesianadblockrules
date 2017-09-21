@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CctDEv0FR3qyksLC73caTQ
+! Checksum: flw0gAWPt0F3xWU/ad9KYw
 ! Title: ABPindo tanpa nawala
-! Last modified: 21 September 2017, 16:56:49 WIB
+! Last modified: 21 September 2017, 19:28:03 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -747,6 +747,7 @@ totojitu.gif|
 ||raja77.com^$popup,third-party
 ||rajacapsa.info^$popup,third-party
 ||rajaqq.info^$popup,third-party
+||rajaqq.info^$third-party
 ||rajawaliqq.net^$popup,third-party
 ||ramuanobatherball.com^$popup,third-party
 ||ratubola.com^$popup,third-party
@@ -948,6 +949,7 @@ totojitu.gif|
 ##a[href*="http://cmcwin.com/"]
 ##a[href*="http://cmobet.info/"]
 ##a[href*="http://cyakibet77.com/"]
+##a[href*="http://dadubets.com"]
 ##a[href*="http://dadubets.com/"]
 ##a[href*="http://daftarbandarpoker.com/"]
 ##a[href*="http://daftartogelonline.info/"]
@@ -976,6 +978,7 @@ totojitu.gif|
 ##a[href*="http://elangbola.net"]
 ##a[href*="http://elangcapsa.net/"]
 ##a[href*="http://elanghoki.com/"]
+##a[href*="http://en.dompetbola.com/"]
 ##a[href*="http://ezebet.biz/"]
 ##a[href*="http://ezebet.org/"]
 ##a[href*="http://fadly168.ga/"]
@@ -1145,6 +1148,7 @@ totojitu.gif|
 ##a[href*="http://pusatbet.com/"]
 ##a[href*="http://pusatqq.org/"]
 ##a[href*="http://qq2889yes.com/"]
+##a[href*="http://qqboya.com/"]
 ##a[href*="http://qqdomino.net"]
 ##a[href*="http://qsng.cn/"]
 ##a[href*="http://raja111.com"]
@@ -1237,6 +1241,7 @@ totojitu.gif|
 ##a[href*="http://window-close.gq/"]
 ##a[href*="http://wongbet.asia/"]
 ##a[href*="http://wongpkr.com/"]
+##a[href*="http://www.11juni.com"]
 ##a[href*="http://www.11juni.com/"]
 ##a[href*="http://www.233bet.co"]
 ##a[href*="http://www.365kiu.com/"]
@@ -1293,6 +1298,7 @@ totojitu.gif|
 ##a[href*="http://www.guepoker.com/"]
 ##a[href*="http://www.h8indo.com"]
 ##a[href*="http://www.hnbwin.com/"]
+##a[href*="http://www.hoki228.com"]
 ##a[href*="http://www.hoki228.com/"]
 ##a[href*="http://www.hokiliga.com"]
 ##a[href*="http://www.hoyapoker99.com"]
@@ -1334,6 +1340,7 @@ totojitu.gif|
 ##a[href*="http://www.neobola.club/"]
 ##a[href*="http://www.opuspoker.com/"]
 ##a[href*="http://www.pasaranqq.com/"]
+##a[href*="http://www.pialasports.com"]
 ##a[href*="http://www.pkq13.com/"]
 ##a[href*="http://www.poker158.com/"]
 ##a[href*="http://www.pokernasional.com/"]
@@ -1569,6 +1576,7 @@ totojitu.gif|
 ||musisi.com/musifile/images_banner/
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
+||n21.tv/wp-content/uploads/*.gif$image
 ||nonton.club/wp-content/uploads/*.gif$image
 ||nonton21.tv/wp-content/uploads/*.gif$image
 ||nontonbareng.tv/img/closeX.png
@@ -1755,6 +1763,7 @@ gadismalam.net###semprot_ads_side_left
 gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
+cinemaqq.com###sgcboxOverlay
 gopego.com###showcase1
 gopego.com###showcase2
 banyakfilm.pw###sidebar > .sidebarborder:nth-of-type(2) > .sidebar-right > .textwidget
