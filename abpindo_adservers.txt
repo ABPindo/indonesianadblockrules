@@ -4,9 +4,7 @@
 ||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
 ||1iklanbaris.com^$third-party
 ||1st-iklan.com^$third-party
-||35.184.169.188^$popup,third-party
 ||35.184.98.90^$popup,third-party
-||35.188.14.213^$popup
 ||3b7c0f01022f61d5.com^$popup,third-party
 ||66cpwgln.space^$popup,third-party
 ||690179b5160e450.com^$popup,third-party
@@ -28,7 +26,6 @@
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
 ||adsdelivery.bid^$popup,third-party
-||adsglow.net^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
 ||afbcashidr.com^$popup,third-party
@@ -36,7 +33,6 @@
 ||alertpay.com^$third-party
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
-||apmmedia.net^$third-party
 ||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
 ||baliadv.com^$third-party
@@ -52,21 +48,15 @@
 ||clickforfreeandready2updating.bid^
 ||clickmedia.co.id^$third-party
 ||clickredirection.com^$popup,third-party
-||clksite.com^$third-party
 ||codeonclick.com^$popup,third-party
 ||cpaclickoffers.com^$popup,third-party
 ||creditcardsbest.club^$third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
-||d15cjcet1djbmv.cloudfront.net^
-||d28k9nkt2spnp.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
-||d6swopgiplmy0.cloudfront.net^
 ||dafa.io^$popup,third-party
 ||dearerfonder.info^$popup,third-party
 ||dewsburg.info^$third-party
 ||dgnvmw.xyz^$popup
-||dk7rftbivnkgr.cloudfront.net^
-||dqqulesm3pfse.cloudfront.net^
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com^$popup,third-party
 ||dzbx8qv1at614.cloudfront.net^
@@ -197,7 +187,6 @@
 ||topsurfer.com^$third-party
 ||track.aptitudemedia.co^$popup
 ||track.spzan.com^$popup
-||tradeadexchange.com^$popup,third-party
 ||trk.cpaoptimizer.com^$popup,third-party
 ||trndoffers.com^$popup,third-party
 ||tummiarunzpf.com^$popup,third-party
@@ -205,7 +194,6 @@
 ||u-on.eu^$popup,third-party
 ||uoarbhxfyygn.com^$popup,third-party
 ||useads.com^$third-party
-||viglink.com^$third-party
 ||vrewpywootyu.com^$popup,third-party
 ||vtewggxzbrcv.bid^$popup
 ||webiklan.com^$third-party
@@ -217,5 +205,4 @@
 ||yesads.com^$third-party
 ||yllix.com^$popup,third-party
 ||ylx-2.com^$third-party
-||ylx-4.com^$third-party
 ||yx-ads6.com^$third-party
