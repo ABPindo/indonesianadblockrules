@@ -403,5 +403,6 @@ lihat.co.id##img[width="300"][height="250"]
 layarkaca21.*###ptbanner
 layarkaca21.*##.img-responsive
 layarkaca21.*,lk21.*##.fancybox-skin
+nontonanime.id##script:contains(function YB)
 satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)

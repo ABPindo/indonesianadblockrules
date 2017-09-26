@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2lOztOMsDPA9Xh8c2+vh+w
+! Checksum: ThGg3h86CL+SIsdj5SWqaA
 ! Title: ABPindo
-! Last modified: 21 September 2017, 19:28:03 WIB
+! Last modified: 26 September 2017, 12:33:23 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -147,10 +147,12 @@
 ||masteriklan.net^$third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
+||mobalert.online^$popup
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
 ||octafx.com^$popup,third-party
 ||offerjuice.me^$popup,third-party
+||ohlpmbbiw.bid^$popup
 ||onclkds.com^$popup,third-party
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
@@ -174,6 +176,7 @@
 ||pusatiklan.com^$third-party
 ||pwdmtyzyq.com^$popup,third-party
 ||q1xyxm89.com^$popup
+||qwvktoqxqum.bid^$popup
 ||realwap.net^$third-party
 ||referral-secrets.com^$third-party
 ||replase.gq^$popup,third-party
@@ -208,6 +211,7 @@
 ||u-on.eu^$popup,third-party
 ||uoarbhxfyygn.com^$popup,third-party
 ||useads.com^$third-party
+||vqozayvwb.bid^$popup
 ||vrewpywootyu.com^$popup,third-party
 ||vtewggxzbrcv.bid^$popup
 ||webiklan.com^$third-party
@@ -658,6 +662,8 @@ totojitu.gif|
 ||komopoker.com^$popup,third-party
 ||kontolkuda.co^$popup,third-party
 ||kosmetik-obatkuat.com^$popup,third-party
+||lacakqq.com^$popup
+||lacakqq.com^$third-party
 ||lapakgol.com^$popup,third-party
 ||liburpoker.com^$popup,third-party
 ||liga-emas.com^$popup,third-party
@@ -789,6 +795,7 @@ totojitu.gif|
 ||sobatpkr.net^$popup,third-party
 ||sobatpoker88.com^$popup,third-party
 ||sogopoker.net^$popup,third-party
+||spbobet1.com^$popup
 ||sportsbet.io^$third-party
 ||sportsmansclub.net^$popup,third-party
 ||star88bet.com^$popup,third-party
@@ -7879,8 +7886,8 @@ totojitu.gif|
 ||ypmate.com^
 ||zentastic.com^
 ! *** abpindo_specific_block.txt ***
-|http://$script,third-party,xmlhttprequest,domain=123videos.tv|apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=123videos.tv|apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=123videos.tv|animekita.net|apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|nontonanime.id|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=123videos.tv|animekita.net|apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|nontonanime.id|smallencode.com
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -7957,7 +7964,7 @@ totojitu.gif|
 ||images.gameweb.co.id/gw/ads/
 ||img.banggood.com/deals/affiliate_member_banner/
 ||imgbox.com/*.gif$image,domain=cinemaindo.web.id
-||imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|sodasusu.com|sukabookie.com|www.filmapik.in|www.ganool.li|zonalendir.net
+||imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|nontonanime.id|sodasusu.com|sukabookie.com|www.filmapik.in|www.ganool.li|zonalendir.net
 ||indo168.online/wp-content/uploads/*.gif$image
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
@@ -8476,6 +8483,7 @@ lihat.co.id##img[width="300"][height="250"]
 layarkaca21.*###ptbanner
 layarkaca21.*##.img-responsive
 layarkaca21.*,lk21.*##.fancybox-skin
+nontonanime.id##script:contains(function YB)
 satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
 ! *** abpindo_general_block.txt ***
@@ -8593,9 +8601,11 @@ iklan300x250.gif|
 @@||awsubs.co^$elemhide
 @@||cat3movie.us^$generichide
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$domain=smallencode.com
+@@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
 @@||cinemamkv.com^$generichide
 @@||cinemamkv.xyz^$generichide
+@@||code.jquery.com/jquery-1.11.0.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
 @@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
 @@||digitalponsel.com^$elemhide
@@ -8608,5 +8618,7 @@ iklan300x250.gif|
 @@||smallencode.disqus.com/count.js$domain=smallencode.com
 @@||sobatdrama.net^$generichide
 @@||st.chatango.com/js/gz/emb.js$domain=smallencode.com
+@@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
+@@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
 @@||www.googletagmanager.com/gtm.js$script,domain=tokopedia.com
