@@ -40,6 +40,7 @@
 ||bmnet-ads.com^$third-party
 ||bunchofwinners.win^$popup,third-party
 ||c-4fambt.com^$third-party
+||cashinme.com^$third-party
 ||cd87c85eb2890d048d2.com^$third-party
 ||cd8iw9mh.cricket^$popup,third-party
 ||cdnasiaclub.com^popup,third-party
@@ -57,6 +58,7 @@
 ||dearerfonder.info^$popup,third-party
 ||dewsburg.info^$third-party
 ||dgnvmw.xyz^$popup
+||download.televisionfanatic.com^$popup
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com^$popup,third-party
 ||dzbx8qv1at614.cloudfront.net^

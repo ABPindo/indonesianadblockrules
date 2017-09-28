@@ -1,4 +1,3 @@
-wowkeren.com###Ad300B
 wowkeren.com###Ad728
 icinema3satu.net###FloatAlamindawa
 lihat.co.id###Iklan-Melayang
@@ -313,6 +312,8 @@ otomania.com##.r-ads
 film-ganool.com##.random
 www.kaskus.co.id##.rb-3.banner-frame.col-sm-12
 okezone.com##.rc-ad-300x250
+indoxxi.top##.reklam-goster-sag
+indoxxi.top##.reklam-goster-solwowkeren.com###Ad300B
 unixmen.com##.reveal-modal-bg
 www.senimovies.net##.rsablock
 bokepml.online##.s-sponsor
@@ -366,9 +367,11 @@ sinemaindo.web.id##a[href^="//telolet4d.com/"]
 hentai2read.com##a[href^="//www.nutaku.net/signup/"]
 cinema2satu.id##a[href^="http://adserver.adreactor.com/servlet/view/window/url/zone"]
 bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
+46.166.167.16,ns21.me,semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 kshowid.com##a[href^="http://jokersakong.com/"]
 goon.to##a[href^="http://modescrips.info/redirect"]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
+46.166.167.16,ns21.me,semprot.com,semprotku.com##a[href^="https://goo.gl/"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 bioskop201.info,ganool.*###popupwindow

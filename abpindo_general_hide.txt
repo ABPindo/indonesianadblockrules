@@ -61,6 +61,8 @@
 ##.remodal
 ##.simple_advert
 ##.topadsense
+##a[href^="http://bit.ly/"]
+##a[href^="https://goo.gl/"]
 ##img[alt="Advertisement"]
 ##img[alt="Iklan"]
 ##img[alt="Pasang Iklan Anda Disini"]
