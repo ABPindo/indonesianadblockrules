@@ -82,7 +82,6 @@ bioskop78.com,bioskop99.mobi,nonton33.com,nonton33.tv,www.bioskop99.me###floatin
 sodasusu.com###forum_ads_8
 resep.web.id###googlebox
 icinema3satu.net###h5ab-advert-cont
-sinemaindo.web.id###hbanner
 cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
 banyakfilm.pw###header_sag
 banyakfilm.pw###header_sol
@@ -409,3 +408,6 @@ layarkaca21.*,lk21.*##.fancybox-skin
 nontonanime.id##script:contains(function YB)
 satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
+idpelago.com##.sponsor_ads:nth-of-type(1)
+idpelago.com##.sponsor_ads:nth-of-type(2)
+idpelago.com##.sponsor_ads:nth-of-type(4)
