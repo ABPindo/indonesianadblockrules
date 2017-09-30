@@ -181,6 +181,8 @@ comotin.com##.Widget:nth-of-type(3)
 sundul.com##.\33 .Premium.Sundul
 sundul.com##.\34 .Premium.Sundul
 clip.cewecewe.com##.ad
+senimovies.net##.ad-left-image
+senimovies.net##.ad-right-image
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
 indobokepz.com##.adBar-vertical.left
@@ -280,6 +282,7 @@ bioskop90.com##.headborder:nth-of-type(5)
 zonapanaz.net##.header-banner
 bioskop21.co##.hilang2
 bioskop168.co,semi168.club##.home.border
+21boxoffice.com##.idmuvi-topbanner-aftermenu
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
@@ -333,6 +336,9 @@ okezone.com##.skyscrapper
 hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
 mydramalist.com##.spnsr_right
+idpelago.com##.sponsor_ads:nth-of-type(1)
+idpelago.com##.sponsor_ads:nth-of-type(2)
+idpelago.com##.sponsor_ads:nth-of-type(4)
 okezone.com##.sponsored-belt468x60
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 nontononlinedrama.com##.td-container-wrap.td-banner-wrap-full
@@ -369,6 +375,7 @@ bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 46.166.167.16,ns21.me,semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 kshowid.com##a[href^="http://jokersakong.com/"]
 goon.to##a[href^="http://modescrips.info/redirect"]
+nontoncinema.org##a[href^="http://referral."]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 46.166.167.16,ns21.me,semprot.com,semprotku.com##a[href^="https://goo.gl/"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
@@ -408,6 +415,3 @@ layarkaca21.*,lk21.*##.fancybox-skin
 nontonanime.id##script:contains(function YB)
 satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
-idpelago.com##.sponsor_ads:nth-of-type(1)
-idpelago.com##.sponsor_ads:nth-of-type(2)
-idpelago.com##.sponsor_ads:nth-of-type(4)

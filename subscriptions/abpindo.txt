@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YIkpDL6icmXJw9OMNldGIA
+! Checksum: dD/j8trW6BOkDFcxBD1T+A
 ! Title: ABPindo
-! Last modified: 28 September 2017, 19:38:04 WIB
+! Last modified: 30 September 2017, 09:11:08 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -289,6 +289,7 @@
 /dewiqq-
 /dewiqq.
 /domino168.
+/domino99.
 /dominoqq.
 /dotapoker.
 /dotapoker88-
@@ -323,6 +324,7 @@
 /idrbola.
 /idrpoker.
 /iklanqq.
+/infoterapis-
 /intanbet.
 /itubandar.
 /ivopoker.
@@ -400,6 +402,7 @@
 /tangkaskita.
 /texas-poker-
 /texaspoker.
+/togel168-
 /togeltoto.
 /ubcwin.
 /venombet-
@@ -471,6 +474,8 @@ totojitu.gif|
 ||areabola.co^$popup,third-party
 ||arenacash88.com^$popup,third-party
 ||armanipoker.com^$popup,third-party
+||armanitogel.com^$popup
+||asalqq.com^$popup,third-party
 ||asia88bet.com^$popup,third-party
 ||asia88bet.us^$popup,third-party
 ||asiabandarkiu.com^$popup,third-party
@@ -485,6 +490,9 @@ totojitu.gif|
 ||axiobola.com^$popup,third-party
 ||ayojuara.com^$popup,third-party
 ||ayomainqq.com^$popup,third-party
+||b2poker.net^$popup
+||b2poker.net^$third-party
+||balak9.com^$popup,third-party
 ||balakqq.com^$popup,third-party
 ||bandar228.com^$popup,third-party
 ||bandarasia.com^$popup,third-party
@@ -511,6 +519,7 @@ totojitu.gif|
 ||bigextracash.com^$popup,third-party
 ||bintangbola.co^$popup,third-party
 ||bintangbola.net^$popup,third-party
+||bintangcapsa.com^$popup,third-party
 ||bisa88.com^$popup,third-party
 ||bisnishandal.com^$popup,third-party
 ||bla168.com^$popup,third-party
@@ -539,9 +548,11 @@ totojitu.gif|
 ||caradaftarpoker.info^$popup,third-party
 ||cash-harvest.com^$popup,third-party
 ||cashburners.biz^$popup,third-party
+||casinosport88.com^$popup,third-party
 ||cbnpoker88.com^$popup,third-party
 ||cendanagaming.com^$popup,third-party
 ||cendanapoker.com^$popup,third-party
+||cinaqq.com^$popup,third-party
 ||clickadu.com^$popup,third-party
 ||cmcwin.com^$popup,third-party
 ||cmobet.info$image,third-party
@@ -553,6 +564,7 @@ totojitu.gif|
 ||dahsyatqq.net^$popup,third-party
 ||depodomino.com^$popup,third-party
 ||detikbet.net^$popup,third-party
+||dewaboya.info^$popup,third-party
 ||dewadominoqq.com^$popup,third-party
 ||dewahoki.club^$popup,third-party
 ||dewanaga.com^$popup,third-party
@@ -569,6 +581,7 @@ totojitu.gif|
 ||dorabet.net^$popup,third-party
 ||doremibet.com^$popup,third-party
 ||doyankiu.com^$popup,third-party
+||duapoker.com^$popup,third-party
 ||duitbux.com^$popup,third-party
 ||dunia-bisnis.com^$popup,third-party
 ||duniaspa.com^$popup,third-party
@@ -638,10 +651,12 @@ totojitu.gif|
 ||indo-13.com^$popup,third-party
 ||indo381.com^$popup,third-party
 ||indoagenbola.com^$popup,third-party
+||indobandar88.com^$popup,third-party
 ||indokiu.com^$popup,third-party
 ||indomb.com^$popup,third-party
 ||indonesia-community.net^
 ||indopk365.com^$popup,third-party
+||indovegas88.com^$popup,third-party
 ||indowins.co^$popup,third-party
 ||indukbet.com^$popup,third-party
 ||infolinks.com^$popup,third-party
@@ -733,10 +748,13 @@ totojitu.gif|
 ||musimqq.com^$popup,third-party
 ||muvibet.com^$popup,third-party
 ||muvibet.net^$popup,third-party
+||mydragonku.com^$popup,third-party
+||myindomacau.com^$popup,third-party
 ||nagahoki.com^$popup,third-party
 ||naloindo.net^$popup,third-party
 ||neobola.club^$popup,third-party
 ||neotangkas.com^$popup,third-party
+||nomorkeluar.com^$popup,third-party
 ||obat-klg-herbal.com^$popup,third-party
 ||obatjogja.com^$popup,third-party
 ||obatpembesarpenisklg.id^$popup,third-party
@@ -766,6 +784,7 @@ totojitu.gif|
 ||poker158.com^$popup,third-party
 ||poker1945a.com^$popup,third-party
 ||pokerampm.com^$popup,third-party
+||pokerastro.com^$popup,third-party
 ||pokerdex.com^$popup,third-party
 ||pokerindo99.com^$popup,third-party
 ||pokernasional.com^$popup,third-party
@@ -777,6 +796,7 @@ totojitu.gif|
 ||premier188.com^$popup,third-party
 ||probet99.com^$popup,third-party
 ||promodewa.com^$popup,third-party
+||pulsaqq.com^$popup,third-party
 ||pusat-vimaxasli.com^$popup,third-party
 ||pusatbet.com^$popup,third-party
 ||pusatqq.org^$popup,third-party
@@ -823,9 +843,13 @@ totojitu.gif|
 ||seni888.com^$popup,third-party
 ||senibola.com^$popup,third-party
 ||sentosa88.net^$popup,third-party
+||seobandarqq365.com^$popup,third-party
+||seoincarqq.com^$popup,third-party
+||seomarina365.net^$popup,third-party
 ||sevenbola.com^$popup,third-party
 ||sevenbola.net^$popup,third-party
 ||sinarkiukiu.com^$popup,third-party
+||sinarqq.net^$popup,third-party
 ||situsbet368.com^$popup,third-party
 ||situsjudi.com^$popup,third-party
 ||skorbola.co^$popup,third-party
@@ -833,6 +857,7 @@ totojitu.gif|
 ||sobatpkr.net^$popup,third-party
 ||sobatpoker88.com^$popup,third-party
 ||sogopoker.net^$popup,third-party
+||sonyqq.com^$popup,third-party
 ||spbobet1.com^$popup
 ||sportsbet.io^$third-party
 ||sportsmansclub.net^$popup,third-party
@@ -847,6 +872,8 @@ totojitu.gif|
 ||sundul99.net^$popup,third-party
 ||tamanqq.com^$popup,third-party
 ||tangkasq.com^$popup,third-party
+||tatobet.net^$popup,third-party
+||tatonaga.com^$popup,third-party
 ||telolet99.com^$popup,third-party
 ||tendangsakti.com^$popup,third-party
 ||tfp.sapphirum.com^$popup,third-party
@@ -864,6 +891,7 @@ totojitu.gif|
 ||toppoker789.net^$popup,third-party
 ||tores4d.com^$popup,third-party
 ||tri7bet.com^$popup,third-party
+||tribunbolaku.com^$popup,third-party
 ||trikqq.com^$popup,third-party
 ||tuanbola.net^$popup,third-party
 ||tugupoker.com^$popup,third-party
@@ -899,6 +927,8 @@ totojitu.gif|
 ||ysbjaya88.com^$popup,third-party
 ||zenbola.com^$popup,third-party
 ||zonaprediksi.me^$popup,third-party
+||zonawin.com^$popup,third-party
+||zonawin.net^$popup,third-party
 ! *** abpindo_annoyance_elemhide.txt ***
 ##a[href*="http://116poker.com/"]
 ##a[href*="http://188bet.com/"]
@@ -916,7 +946,7 @@ totojitu.gif|
 ##a[href*="http://acmbet.com/"]
 ##a[href*="http://acmbet.net/"]
 ##a[href*="http://adjarabet.com/"]
-##a[href*="http://agen558.com"]
+##a[href*="http://agen558.com/"]
 ##a[href*="http://agen688.com/"]
 ##a[href*="http://agenasia88.com/"]
 ##a[href*="http://agenbola.co/"]
@@ -925,9 +955,9 @@ totojitu.gif|
 ##a[href*="http://agent926.com/"]
 ##a[href*="http://agentaruhan.net/"]
 ##a[href*="http://agenvimaxindo.org"]
-##a[href*="http://agwcash.com"]
+##a[href*="http://agwcash.com/"]
 ##a[href*="http://ahliqq.org/"]
-##a[href*="http://ajobola.com"]
+##a[href*="http://ajobola.com/"]
 ##a[href*="http://alampoker.com/"]
 ##a[href*="http://amdbet88.com/"]
 ##a[href*="http://angkajitutogel.net/"]
@@ -935,7 +965,7 @@ totojitu.gif|
 ##a[href*="http://areabola.co/"]
 ##a[href*="http://arenacash88.com/"]
 ##a[href*="http://armanipoker.com/"]
-##a[href*="http://asia88bet.com"]
+##a[href*="http://asia88bet.com/"]
 ##a[href*="http://asia88bet.us"]
 ##a[href*="http://asiabandarkiu.com/"]
 ##a[href*="http://asiabolabet.com/"]
@@ -957,13 +987,13 @@ totojitu.gif|
 ##a[href*="http://bandarsakong.net/"]
 ##a[href*="http://bandartaruhan.co/"]
 ##a[href*="http://bandartogelsingapore.com/"]
-##a[href*="http://bca99.com"]
+##a[href*="http://bca99.com/"]
 ##a[href*="http://bcadomino.com/"]
 ##a[href*="http://bdrqq.com/"]
 ##a[href*="http://bejopoker.com/"]
 ##a[href*="http://belajar-bisnis.com/"]
 ##a[href*="http://benderapoker.net/"]
-##a[href*="http://bersama365.com"]
+##a[href*="http://bersama365.com/"]
 ##a[href*="http://bet365.com/"]
 ##a[href*="http://bet365.es/"]
 ##a[href*="http://bet365.net/"]
@@ -976,11 +1006,11 @@ totojitu.gif|
 ##a[href*="http://block.s3block.com/"]
 ##a[href*="http://bola777.net/"]
 ##a[href*="http://boladunia88bet.com/"]
-##a[href*="http://bolagalaxy.com"]
+##a[href*="http://bolagalaxy.com/"]
 ##a[href*="http://bolaindo77.com/"]
 ##a[href*="http://bolaketangkasan.com/"]
 ##a[href*="http://bolalabo.com/"]
-##a[href*="http://bolasuhu.com"]
+##a[href*="http://bolasuhu.com/"]
 ##a[href*="http://bolasukses.com/"]
 ##a[href*="http://bolavegas.com/"]
 ##a[href*="http://boya13.com/"]
@@ -1009,7 +1039,7 @@ totojitu.gif|
 ##a[href*="http://dewapoker.net/"]
 ##a[href*="http://dewiqq.org/"]
 ##a[href*="http://dinastybet.com/"]
-##a[href*="http://divaliga.com"]
+##a[href*="http://divaliga.com/"]
 ##a[href*="http://domino-168.com/"]
 ##a[href*="http://domino168.com/"]
 ##a[href*="http://domino168.net/"]
@@ -1032,17 +1062,17 @@ totojitu.gif|
 ##a[href*="http://ezebet.org/"]
 ##a[href*="http://fadly168.ga/"]
 ##a[href*="http://fairbet88.com/"]
-##a[href*="http://faktavimax.com"]
+##a[href*="http://faktavimax.com/"]
 ##a[href*="http://fast2bet.com/"]
 ##a[href*="http://formulabisnis.com/"]
-##a[href*="http://fullbet88.com"]
-##a[href*="http://gadingpoker.com"]
+##a[href*="http://fullbet88.com/"]
+##a[href*="http://gadingpoker.com/"]
 ##a[href*="http://galaxybola.com/"]
 ##a[href*="http://galaxytoto.com/"]
 ##a[href*="http://gamegua88.com/"]
-##a[href*="http://ganoolqq.com"]
+##a[href*="http://ganoolqq.com/"]
 ##a[href*="http://garampoker.net/"]
-##a[href*="http://garenapoker.com"]
+##a[href*="http://garenapoker.com/"]
 ##a[href*="http://gebyarbola.company/"]
 ##a[href*="http://gebyarbola.org"]
 ##a[href*="http://gemarcapsa.com/"]
@@ -1059,15 +1089,15 @@ totojitu.gif|
 ##a[href*="http://hoki228.com/"]
 ##a[href*="http://hokibandarkiu.com/"]
 ##a[href*="http://hokibandarq.net/"]
-##a[href*="http://hokiliga.com"]
-##a[href*="http://hokipk.com"]
+##a[href*="http://hokiliga.com/"]
+##a[href*="http://hokipk.com/"]
 ##a[href*="http://hotsports7.com/"]
-##a[href*="http://hoyacash.com"]
+##a[href*="http://hoyacash.com/"]
 ##a[href*="http://hoyacash.net"]
 ##a[href*="http://hoyajackpot.net"]
-##a[href*="http://hoyapoker99.com"]
+##a[href*="http://hoyapoker99.com/"]
 ##a[href*="http://hoyatoto.com/"]
-##a[href*="http://hoyatoto88.com"]
+##a[href*="http://hoyatoto88.com/"]
 ##a[href*="http://hypertracker.com/"]
 ##a[href*="http://i88cash.com/"]
 ##a[href*="http://ibcqq.me/"]
@@ -1086,7 +1116,7 @@ totojitu.gif|
 ##a[href*="http://indo-13.com/"]
 ##a[href*="http://indoagenbola.com/"]
 ##a[href*="http://indokiu.com/"]
-##a[href*="http://indomb.com"]
+##a[href*="http://indomb.com/"]
 ##a[href*="http://indopk365.com/"]
 ##a[href*="http://indowins.co/"]
 ##a[href*="http://infolinks.com/"]
@@ -1110,7 +1140,7 @@ totojitu.gif|
 ##a[href*="http://jendralpoker.co/"]
 ##a[href*="http://jokerqq.me/"]
 ##a[href*="http://jollywallet.com/"]
-##a[href*="http://josbet88.com"]
+##a[href*="http://josbet88.com/"]
 ##a[href*="http://jppoker.net/"]
 ##a[href*="http://kakakdewa.com/"]
 ##a[href*="http://kakakdewa.net/"]
@@ -1118,7 +1148,7 @@ totojitu.gif|
 ##a[href*="http://kartuking.net/"]
 ##a[href*="http://kasinobet.net"]
 ##a[href*="http://kayatogel.com/"]
-##a[href*="http://ketuapkr.com"]
+##a[href*="http://ketuapkr.com/"]
 ##a[href*="http://ketuapkr.net"]
 ##a[href*="http://ketuapoker.net/"]
 ##a[href*="http://king368.com/"]
@@ -1128,7 +1158,7 @@ totojitu.gif|
 ##a[href*="http://kontolkuda.co/"]
 ##a[href*="http://kosmetik-obatkuat.com/"]
 ##a[href*="http://lapakgol.com/"]
-##a[href*="http://liburpoker.com"]
+##a[href*="http://liburpoker.com/"]
 ##a[href*="http://liga88.com/"]
 ##a[href*="http://liga888.com/"]
 ##a[href*="http://ligakita.com/"]
@@ -1149,7 +1179,7 @@ totojitu.gif|
 ##a[href*="http://master138.net/"]
 ##a[href*="http://masterbaccarat.net/"]
 ##a[href*="http://matasayu.com/"]
-##a[href*="http://maxbbm.com"]
+##a[href*="http://maxbbm.com/"]
 ##a[href*="http://meja13.net/"]
 ##a[href*="http://meja365.net/"]
 ##a[href*="http://mejakiu.com/"]
@@ -1161,8 +1191,7 @@ totojitu.gif|
 ##a[href*="http://muvibet.net/"]
 ##a[href*="http://naloindo.net/"]
 ##a[href*="http://neobola.club/"]
-##a[href*="http://neotangkas.com/"]
-##a[href*="http://obat-klg-herbal.com"]
+##a[href*="http://obat-klg-herbal.com/"]
 ##a[href*="http://obatjogja.com/"]
 ##a[href*="http://obatpembesarpenisklg.id/"]
 ##a[href*="http://obatpembesarvimax.com/"]
@@ -1191,26 +1220,26 @@ totojitu.gif|
 ##a[href*="http://prediksitogeljitu.in/"]
 ##a[href*="http://probet99.com/"]
 ##a[href*="http://promodewa.com/"]
-##a[href*="http://pusat-vimaxasli.com"]
+##a[href*="http://pusat-vimaxasli.com/"]
 ##a[href*="http://pusatbet.com/"]
 ##a[href*="http://pusatqq.org/"]
 ##a[href*="http://qq2889yes.com/"]
 ##a[href*="http://qqboya.com/"]
 ##a[href*="http://qqdomino.net"]
 ##a[href*="http://qsng.cn/"]
-##a[href*="http://raja111.com"]
-##a[href*="http://raja365.com"]
-##a[href*="http://raja77.com"]
+##a[href*="http://raja111.com/"]
+##a[href*="http://raja365.com/"]
+##a[href*="http://raja77.com/"]
 ##a[href*="http://ramuanobatherball.com/"]
 ##a[href*="http://ratubola.com/"]
 ##a[href*="http://rezekibola.com/"]
 ##a[href*="http://rezekibola.info/"]
-##a[href*="http://royalpoker99.com"]
+##a[href*="http://royalpoker99.com/"]
 ##a[href*="http://rumahbokep.xyz/"]
 ##a[href*="http://s7bola.com/"]
 ##a[href*="http://sahabatarena.org"]
 ##a[href*="http://sahamdomino.net"]
-##a[href*="http://samsunghoki.com"]
+##a[href*="http://samsunghoki.com/"]
 ##a[href*="http://saranapoker.poker/"]
 ##a[href*="http://sbbanner.com/"]
 ##a[href*="http://sbo303.com/"]
@@ -1223,9 +1252,9 @@ totojitu.gif|
 ##a[href*="http://sbokiu.com/"]
 ##a[href*="http://sbonaga.com/"]
 ##a[href*="http://sbopoker.com/"]
-##a[href*="http://sbsbet.com"]
-##a[href*="http://sekawanbet.com"]
-##a[href*="http://seksipoker.com"]
+##a[href*="http://sbsbet.com/"]
+##a[href*="http://sekawanbet.com/"]
+##a[href*="http://seksipoker.com/"]
 ##a[href*="http://senangpokerseo.com/"]
 ##a[href*="http://seni888.com/"]
 ##a[href*="http://senibola.com/"]
@@ -1233,7 +1262,7 @@ totojitu.gif|
 ##a[href*="http://sevenbola.com/"]
 ##a[href*="http://sevenbola.net/"]
 ##a[href*="http://sinarkiukiu.com/"]
-##a[href*="http://situsbet368.com"]
+##a[href*="http://situsbet368.com/"]
 ##a[href*="http://situsjudi.com/"]
 ##a[href*="http://skorbola.co/"]
 ##a[href*="http://sobatpkr.net/"]
@@ -1246,7 +1275,7 @@ totojitu.gif|
 ##a[href*="http://star88bola.com/"]
 ##a[href*="http://star88win.com/"]
 ##a[href*="http://starcasino88.com/"]
-##a[href*="http://suaraemas.com"]
+##a[href*="http://suaraemas.com/"]
 ##a[href*="http://suhukiu.com/"]
 ##a[href*="http://sumberqq.com/"]
 ##a[href*="http://sundul99.net/"]
@@ -1262,11 +1291,11 @@ totojitu.gif|
 ##a[href*="http://togelmaya.com/"]
 ##a[href*="http://togeltoto.net/"]
 ##a[href*="http://topbet899.com/"]
-##a[href*="http://topbet99.com"]
+##a[href*="http://topbet99.com/"]
 ##a[href*="http://toppoker789.net/"]
 ##a[href*="http://tores4d.com/"]
 ##a[href*="http://tri7bet.com/"]
-##a[href*="http://tujuhbet.com"]
+##a[href*="http://tujuhbet.com/"]
 ##a[href*="http://u16822.com/"]
 ##a[href*="http://ubc7.com/"]
 ##a[href*="http://ujungkontol.com/"]
@@ -1287,7 +1316,6 @@ totojitu.gif|
 ##a[href*="http://window-close.gq/"]
 ##a[href*="http://wongbet.asia/"]
 ##a[href*="http://wongpkr.com/"]
-##a[href*="http://www.11juni.com/"]
 ##a[href*="http://www.233bet.co"]
 ##a[href*="http://www.365kiu.com/"]
 ##a[href*="http://www.7nagabet.com/"]
@@ -1298,24 +1326,22 @@ totojitu.gif|
 ##a[href*="http://www.adatogel.com/"]
 ##a[href*="http://www.agen688.com/"]
 ##a[href*="http://www.agenibc.com/"]
-##a[href*="http://www.agungpoker.com"]
-##a[href*="http://www.ajobola.com"]
-##a[href*="http://www.alampoker.com/"]
+##a[href*="http://www.agungpoker.com/"]
+##a[href*="http://www.ajobola.com/"]
 ##a[href*="http://www.aoecash.com/"]
 ##a[href*="http://www.arenacash88.com/"]
-##a[href*="http://www.asia88bet.com"]
+##a[href*="http://www.asia88bet.com/"]
 ##a[href*="http://www.asia88bet.us"]
 ##a[href*="http://www.asiapoker77.com/"]
 ##a[href*="http://www.astrototo.com/"]
 ##a[href*="http://www.ayomainqq.com/"]
 ##a[href*="http://www.bandar228.com/"]
 ##a[href*="http://www.bandarasia.com/"]
-##a[href*="http://www.bersama365.com"]
+##a[href*="http://www.bersama365.com/"]
 ##a[href*="http://www.bisa88.com/"]
 ##a[href*="http://www.bla168.com/"]
 ##a[href*="http://www.bola168.org/"]
 ##a[href*="http://www.bolalabo.com/"]
-##a[href*="http://www.bolasuhu.com/"]
 ##a[href*="http://www.boya13.com/"]
 ##a[href*="http://www.bursabet.net/"]
 ##a[href*="http://www.cacingnaga.com/id"]
@@ -1329,28 +1355,27 @@ totojitu.gif|
 ##a[href*="http://www.domino168.com/"]
 ##a[href*="http://www.elang88.com/"]
 ##a[href*="http://www.elangbola.net"]
-##a[href*="http://www.faktavimax.com"]
+##a[href*="http://www.faktavimax.com/"]
 ##a[href*="http://www.fast2bet.com/"]
-##a[href*="http://www.fullbet88.com"]
-##a[href*="http://www.gadingpoker.com"]
-##a[href*="http://www.galeripoker88.com"]
+##a[href*="http://www.fullbet88.com/"]
+##a[href*="http://www.gadingpoker.com/"]
+##a[href*="http://www.galeripoker88.com/"]
 ##a[href*="http://www.gamegua88.com/"]
-##a[href*="http://www.ganoolqq.com"]
+##a[href*="http://www.ganoolqq.com/"]
 ##a[href*="http://www.gemarcapsa.com/"]
 ##a[href*="http://www.gemarpoker.com/"]
 ##a[href*="http://www.guepoker.com/"]
-##a[href*="http://www.h8indo.com"]
+##a[href*="http://www.h8indo.com/"]
 ##a[href*="http://www.hnbwin.com/"]
-##a[href*="http://www.hoki228.com/"]
-##a[href*="http://www.hokiliga.com"]
-##a[href*="http://www.hoyapoker99.com"]
+##a[href*="http://www.hokiliga.com/"]
+##a[href*="http://www.hoyapoker99.com/"]
 ##a[href*="http://www.hoyatoto.com/"]
 ##a[href*="http://www.ibcqq.me/"]
 ##a[href*="http://www.id-13.com/"]
 ##a[href*="http://www.idb365.com/"]
 ##a[href*="http://www.idn55bet.com/"]
 ##a[href*="http://www.idrajaqq.com/"]
-##a[href*="http://www.indomb.com"]
+##a[href*="http://www.indomb.com/"]
 ##a[href*="http://www.indopk365.com/"]
 ##a[href*="http://www.infolinks.com/join-us"]
 ##a[href*="http://www.infoterapis.net/"]
@@ -1362,10 +1387,10 @@ totojitu.gif|
 ##a[href*="http://www.jayamania.com/"]
 ##a[href*="http://www.jayamania.net"]
 ##a[href*="http://www.kartuking.net/"]
-##a[href*="http://www.king368.com"]
+##a[href*="http://www.king368.com/"]
 ##a[href*="http://www.komopoker.com/"]
 ##a[href*="http://www.lapakgol.com/"]
-##a[href*="http://www.liburpoker.com"]
+##a[href*="http://www.liburpoker.com/"]
 ##a[href*="http://www.liga888.com/"]
 ##a[href*="http://www.ligakita.com/"]
 ##a[href*="http://www.luxury138zz.com/"]
@@ -1374,97 +1399,124 @@ totojitu.gif|
 ##a[href*="http://www.marina-365.net/"]
 ##a[href*="http://www.master88.com/"]
 ##a[href*="http://www.matasayu.com/"]
-##a[href*="http://www.maxbbm.com"]
+##a[href*="http://www.maxbbm.com/"]
 ##a[href*="http://www.muvibet.net/"]
-##a[href*="http://www.nagahoki.com"]
+##a[href*="http://www.nagahoki.com/"]
 ##a[href*="http://www.neobola.club/"]
 ##a[href*="http://www.opuspoker.com/"]
 ##a[href*="http://www.pasaranqq.com/"]
-##a[href*="http://www.pialasports.com"]
+##a[href*="http://www.pialasports.com/"]
 ##a[href*="http://www.pkq13.com/"]
 ##a[href*="http://www.poker158.com/"]
 ##a[href*="http://www.pokernasional.com/"]
 ##a[href*="http://www.prediksisingapore.net/"]
 ##a[href*="http://www.probet99.com/"]
 ##a[href*="http://www.qqdomino.net"]
-##a[href*="http://www.raja365.com"]
+##a[href*="http://www.raja365.com/"]
 ##a[href*="http://www.sbbanner.com/"]
 ##a[href*="http://www.sevenbola.com/"]
 ##a[href*="http://www.sevenbola.net/"]
-##a[href*="http://www.situsbet368.com"]
+##a[href*="http://www.situsbet368.com/"]
 ##a[href*="http://www.sogopoker.net/ref.php"]
 ##a[href*="http://www.telolet99.com/"]
 ##a[href*="http://www.togellounge.net"]
-##a[href*="http://www.topbet99.com"]
+##a[href*="http://www.topbet99.com/"]
 ##a[href*="http://www.trikqq.com/"]
 ##a[href*="http://www.tuanbola.net/"]
-##a[href*="http://www.tugupoker.com"]
-##a[href*="http://www.tujuhbet.com"]
+##a[href*="http://www.tugupoker.com/"]
+##a[href*="http://www.tujuhbet.com/"]
 ##a[href*="http://www.ubc7.com/"]
 ##a[href*="http://www.unogoal88.com/"]
 ##a[href*="http://www.venombet.com/"]
 ##a[href*="http://www.venombet.net/"]
 ##a[href*="http://www.vimaxasli.id/"]
 ##a[href*="http://www.vimaxcentral.com/"]
-##a[href*="http://www.waltpoker.com"]
+##a[href*="http://www.waltpoker.com/"]
 ##a[href*="http://www.wespoker.com/"]
-##a[href*="http://www.windewa.com"]
+##a[href*="http://www.windewa.com/"]
 ##a[href*="http://www.winpoker789.net"]
 ##a[href*="http://www.wongbet.asia/"]
 ##a[href*="http://www.ysbjaya88.com/"]
 ##a[href*="http://wwwsgopoker.net"]
 ##a[href*="http://ysbjaya88.com/"]
-##a[href*="http://zenbola.com"]
+##a[href*="http://zenbola.com/"]
 ##a[href*="http://zonaprediksi.me/"]
 ##a[href*="https://kartuking.net/"]
 ##a[href*="https://liga77.net/"]
-##a[href*="https://www.h8indo.com"]
+##a[href*="https://www.h8indo.com/"]
 ##a[href*="https://www.onesbet.com/"]
 ##a[href*="https://www.vimaxasli.id/"]
 ##a[href^="http://agtwpoker.com/"]
-##a[href^="http://alamiqq.com"]
+##a[href^="http://alamiqq.com/"]
+##a[href^="http://asalqq.com/"]
+##a[href^="http://balak9.com/"]
 ##a[href^="http://bdr99.com/"]
+##a[href^="http://bintangcapsa.com/"]
 ##a[href^="http://bisa88.com/"]
 ##a[href^="http://bnipoker.com/"]
 ##a[href^="http://cendanagaming.com/"]
+##a[href^="http://cinaqq.com/"]
 ##a[href^="http://dahsyatqq.net/"]
-##a[href^="http://dominobetqq.com"]
-##a[href^="http://lajupoker.com"]
+##a[href^="http://dewaboya.info/"]
+##a[href^="http://dominobetqq.com/"]
+##a[href^="http://indo381.com/"]
+##a[href^="http://indobandar88.com/"]
+##a[href^="http://lajupoker.com/"]
 ##a[href^="http://ligajudi."]
 ##a[href^="http://ligakiukiu.top/"]
 ##a[href^="http://lpkiukiu.pw/"]
 ##a[href^="http://mabesqq.net/"]
-##a[href^="http://mandirimenang.com"]
+##a[href^="http://mandirimenang.com/"]
 ##a[href^="http://mejasakong.net/"]
-##a[href^="http://neotangkas.com"]
+##a[href^="http://neotangkas.com/"]
+##a[href^="http://nomorkeluar.com/"]
 ##a[href^="http://okebos.top/"]
 ##a[href^="http://pamelapoker.co"]
 ##a[href^="http://pasaranqq.com/"]
-##a[href^="http://pokerampm.com"]
+##a[href^="http://pokerampm.com/"]
+##a[href^="http://pulsaqq.com/"]
 ##a[href^="http://rajadewabet.com/"]
-##a[href^="http://semiqq.com"]
+##a[href^="http://semiqq.com/"]
+##a[href^="http://sinarqq.net/"]
+##a[href^="http://sonyqq.com/"]
 ##a[href^="http://tangkasq.com/"]
-##a[href^="http://togel777.com"]
+##a[href^="http://tatobet.net/"]
+##a[href^="http://tatonaga.com/"]
+##a[href^="http://togel777.com/"]
+##a[href^="http://tribunbolaku.com/"]
 ##a[href^="http://trikqq.com/"]
-##a[href^="http://viva188.com"]
+##a[href^="http://viva188.com/"]
 ##a[href^="http://vivobetting.org"]
-##a[href^="http://wingsqq.com"]
+##a[href^="http://wingsqq.com/"]
 ##a[href^="http://wongpkr.net/"]
-##a[href^="http://www.11juni.com"]
+##a[href^="http://www.11juni.com/"]
+##a[href^="http://www.alampoker.com/"]
+##a[href^="http://www.b2poker.net/"]
 ##a[href^="http://www.bdrqq.com/"]
-##a[href^="http://www.bolasuhu.com"]
+##a[href^="http://www.bolasuhu.com/"]
+##a[href^="http://www.casinosport88.com/"]
 ##a[href^="http://www.cendanapoker.com/"]
-##a[href^="http://www.hoki228.com"]
-##a[href^="http://www.indukbet.com"]
+##a[href^="http://www.duapoker.com/"]
+##a[href^="http://www.hoki228.com/"]
+##a[href^="http://www.indovegas88.com/"]
+##a[href^="http://www.indukbet.com/"]
 ##a[href^="http://www.jasa888.com/"]
 ##a[href^="http://www.lig369.com/"]
 ##a[href^="http://www.liga369.com/"]
 ##a[href^="http://www.maniakqq.com/"]
-##a[href^="http://www.raja111.com"]
+##a[href^="http://www.mydragonku.com/"]
+##a[href^="http://www.myindomacau.com/"]
+##a[href^="http://www.pokerastro.com/"]
+##a[href^="http://www.raja111.com/"]
+##a[href^="http://www.seobandarqq365.com/"]
+##a[href^="http://www.seoincarqq.com/"]
+##a[href^="http://www.seomarina365.net/"]
 ##img[alt="AGENQQ"]
 ##img[alt="Agen Bola Terpercaya"]
 ##img[alt="Agen Bola"]
+##img[alt="Agen Casino Terpercaya"]
 ##img[alt="Agen Judi Online"]
+##img[alt="Agen Judi Poker"]
 ##img[alt="Agen Poker Online"]
 ##img[alt="Agen Poker Terpercaya"]
 ##img[alt="Agen Poker"]
@@ -1505,6 +1557,7 @@ totojitu.gif|
 ##img[title="7Naga Bet"]
 ##img[title="7Naga Poker"]
 ##img[title="7Naga Toto"]
+##img[title="Agen Casino Online"]
 ##img[title="Agen Taruhan Bola"]
 ##img[title="Dewa Poker"]
 ##img[title="Hokiqq"]
@@ -7823,8 +7876,6 @@ totojitu.gif|
 ||zonaglobalshop.com^$popup,third-party
 ||zonajitu.com^$popup,third-party
 ||zonatangkas.com^$popup,third-party
-||zonawin.com^$popup,third-party
-||zonawin.net^$popup,third-party
 ||zooranacasinobonuses.com^$popup,third-party
 ||zs1166.com^$popup,third-party
 ||zt2013.com^$popup,third-party
@@ -7832,7 +7883,6 @@ totojitu.gif|
 ||zzun88.com^$popup,third-party
 ||zzwin168.com^$popup,third-party
 ! *** abpindo_prank.txt ***
-||sinthaistudio.com/thehouse2/
 ! situs jail dan usil
 !
 ||1227.com^
@@ -7933,6 +7983,7 @@ totojitu.gif|
 ||selfpwn.org^
 ||sexitnow.com^
 ||shitpassion.com^
+||sinthaistudio.com/thehouse2/
 ||sourmath.com^
 ||strawpoii.me^
 ||suckdude.com^
@@ -7977,7 +8028,7 @@ totojitu.gif|
 ||bioskop855.com/wp-content/uploads/*.gif$image
 ||bioskop855.net/wp-content/uploads/*.gif$image,domain=bioskop323.com
 ||blogspot.com/*.gif$domain=film-drama.co
-||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|smallencode.com|unyil.org|zonabola.com
+||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|smallencode.com|unyil.org|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
@@ -8030,6 +8081,8 @@ totojitu.gif|
 ||hentaiheroes.com^$popup,domain=hentai2read.com
 ||hotabis.com/wp-content/uploads/*.gif
 ||id.hao123.com/resource/id/banner/
+||idbioskop.com/wp-content/uploads/*/*/300-x-250.png
+||idbioskop.com/wp-content/uploads/*/*/ad-150x300-website.jpg
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
 ||imagebam.com/*.gif$image,domain=www.ganool.li
@@ -8235,7 +8288,6 @@ bioskop78.com,bioskop99.mobi,nonton33.com,nonton33.tv,www.bioskop99.me###floatin
 sodasusu.com###forum_ads_8
 resep.web.id###googlebox
 icinema3satu.net###h5ab-advert-cont
-sinemaindo.web.id###hbanner
 cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
 banyakfilm.pw###header_sag
 banyakfilm.pw###header_sol
@@ -8335,6 +8387,8 @@ comotin.com##.Widget:nth-of-type(3)
 sundul.com##.\33 .Premium.Sundul
 sundul.com##.\34 .Premium.Sundul
 clip.cewecewe.com##.ad
+senimovies.net##.ad-left-image
+senimovies.net##.ad-right-image
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
 indobokepz.com##.adBar-vertical.left
@@ -8434,6 +8488,7 @@ bioskop90.com##.headborder:nth-of-type(5)
 zonapanaz.net##.header-banner
 bioskop21.co##.hilang2
 bioskop168.co,semi168.club##.home.border
+21boxoffice.com##.idmuvi-topbanner-aftermenu
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
@@ -8487,6 +8542,9 @@ okezone.com##.skyscrapper
 hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
 mydramalist.com##.spnsr_right
+idpelago.com##.sponsor_ads:nth-of-type(1)
+idpelago.com##.sponsor_ads:nth-of-type(2)
+idpelago.com##.sponsor_ads:nth-of-type(4)
 okezone.com##.sponsored-belt468x60
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 nontononlinedrama.com##.td-container-wrap.td-banner-wrap-full
@@ -8523,6 +8581,7 @@ bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 46.166.167.16,ns21.me,semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 kshowid.com##a[href^="http://jokersakong.com/"]
 goon.to##a[href^="http://modescrips.info/redirect"]
+nontoncinema.org##a[href^="http://referral."]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 46.166.167.16,ns21.me,semprot.com,semprotku.com##a[href^="https://goo.gl/"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
@@ -8605,9 +8664,11 @@ iklan300x250.gif|
 ###desaiklan
 ###dewiqq
 ###fbanner
+###fbbanner
 ###floatingad
 ###flowads
 ###footer-adcont
+###hbanner
 ###iklan
 ###iklan1
 ###iklan2
@@ -8618,6 +8679,7 @@ iklan300x250.gif|
 ###iklanatas
 ###iklanpersegi
 ###livechat-eye-catcher
+###pbanner
 ###popupwindow
 ###srcadsurlblock
 ###teaser2

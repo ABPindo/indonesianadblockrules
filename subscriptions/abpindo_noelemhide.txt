@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ONXfVXLN8a1xPVbD3x+mUw
+! Checksum: kokomS2oGHCAki7yyOiJhA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 28 September 2017, 19:38:04 WIB
+! Last modified: 30 September 2017, 09:11:08 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -289,6 +289,7 @@
 /dewiqq-
 /dewiqq.
 /domino168.
+/domino99.
 /dominoqq.
 /dotapoker.
 /dotapoker88-
@@ -323,6 +324,7 @@
 /idrbola.
 /idrpoker.
 /iklanqq.
+/infoterapis-
 /intanbet.
 /itubandar.
 /ivopoker.
@@ -400,6 +402,7 @@
 /tangkaskita.
 /texas-poker-
 /texaspoker.
+/togel168-
 /togeltoto.
 /ubcwin.
 /venombet-
@@ -471,6 +474,8 @@ totojitu.gif|
 ||areabola.co^$popup,third-party
 ||arenacash88.com^$popup,third-party
 ||armanipoker.com^$popup,third-party
+||armanitogel.com^$popup
+||asalqq.com^$popup,third-party
 ||asia88bet.com^$popup,third-party
 ||asia88bet.us^$popup,third-party
 ||asiabandarkiu.com^$popup,third-party
@@ -485,6 +490,9 @@ totojitu.gif|
 ||axiobola.com^$popup,third-party
 ||ayojuara.com^$popup,third-party
 ||ayomainqq.com^$popup,third-party
+||b2poker.net^$popup
+||b2poker.net^$third-party
+||balak9.com^$popup,third-party
 ||balakqq.com^$popup,third-party
 ||bandar228.com^$popup,third-party
 ||bandarasia.com^$popup,third-party
@@ -511,6 +519,7 @@ totojitu.gif|
 ||bigextracash.com^$popup,third-party
 ||bintangbola.co^$popup,third-party
 ||bintangbola.net^$popup,third-party
+||bintangcapsa.com^$popup,third-party
 ||bisa88.com^$popup,third-party
 ||bisnishandal.com^$popup,third-party
 ||bla168.com^$popup,third-party
@@ -539,9 +548,11 @@ totojitu.gif|
 ||caradaftarpoker.info^$popup,third-party
 ||cash-harvest.com^$popup,third-party
 ||cashburners.biz^$popup,third-party
+||casinosport88.com^$popup,third-party
 ||cbnpoker88.com^$popup,third-party
 ||cendanagaming.com^$popup,third-party
 ||cendanapoker.com^$popup,third-party
+||cinaqq.com^$popup,third-party
 ||clickadu.com^$popup,third-party
 ||cmcwin.com^$popup,third-party
 ||cmobet.info$image,third-party
@@ -553,6 +564,7 @@ totojitu.gif|
 ||dahsyatqq.net^$popup,third-party
 ||depodomino.com^$popup,third-party
 ||detikbet.net^$popup,third-party
+||dewaboya.info^$popup,third-party
 ||dewadominoqq.com^$popup,third-party
 ||dewahoki.club^$popup,third-party
 ||dewanaga.com^$popup,third-party
@@ -569,6 +581,7 @@ totojitu.gif|
 ||dorabet.net^$popup,third-party
 ||doremibet.com^$popup,third-party
 ||doyankiu.com^$popup,third-party
+||duapoker.com^$popup,third-party
 ||duitbux.com^$popup,third-party
 ||dunia-bisnis.com^$popup,third-party
 ||duniaspa.com^$popup,third-party
@@ -638,10 +651,12 @@ totojitu.gif|
 ||indo-13.com^$popup,third-party
 ||indo381.com^$popup,third-party
 ||indoagenbola.com^$popup,third-party
+||indobandar88.com^$popup,third-party
 ||indokiu.com^$popup,third-party
 ||indomb.com^$popup,third-party
 ||indonesia-community.net^
 ||indopk365.com^$popup,third-party
+||indovegas88.com^$popup,third-party
 ||indowins.co^$popup,third-party
 ||indukbet.com^$popup,third-party
 ||infolinks.com^$popup,third-party
@@ -733,10 +748,13 @@ totojitu.gif|
 ||musimqq.com^$popup,third-party
 ||muvibet.com^$popup,third-party
 ||muvibet.net^$popup,third-party
+||mydragonku.com^$popup,third-party
+||myindomacau.com^$popup,third-party
 ||nagahoki.com^$popup,third-party
 ||naloindo.net^$popup,third-party
 ||neobola.club^$popup,third-party
 ||neotangkas.com^$popup,third-party
+||nomorkeluar.com^$popup,third-party
 ||obat-klg-herbal.com^$popup,third-party
 ||obatjogja.com^$popup,third-party
 ||obatpembesarpenisklg.id^$popup,third-party
@@ -766,6 +784,7 @@ totojitu.gif|
 ||poker158.com^$popup,third-party
 ||poker1945a.com^$popup,third-party
 ||pokerampm.com^$popup,third-party
+||pokerastro.com^$popup,third-party
 ||pokerdex.com^$popup,third-party
 ||pokerindo99.com^$popup,third-party
 ||pokernasional.com^$popup,third-party
@@ -777,6 +796,7 @@ totojitu.gif|
 ||premier188.com^$popup,third-party
 ||probet99.com^$popup,third-party
 ||promodewa.com^$popup,third-party
+||pulsaqq.com^$popup,third-party
 ||pusat-vimaxasli.com^$popup,third-party
 ||pusatbet.com^$popup,third-party
 ||pusatqq.org^$popup,third-party
@@ -823,9 +843,13 @@ totojitu.gif|
 ||seni888.com^$popup,third-party
 ||senibola.com^$popup,third-party
 ||sentosa88.net^$popup,third-party
+||seobandarqq365.com^$popup,third-party
+||seoincarqq.com^$popup,third-party
+||seomarina365.net^$popup,third-party
 ||sevenbola.com^$popup,third-party
 ||sevenbola.net^$popup,third-party
 ||sinarkiukiu.com^$popup,third-party
+||sinarqq.net^$popup,third-party
 ||situsbet368.com^$popup,third-party
 ||situsjudi.com^$popup,third-party
 ||skorbola.co^$popup,third-party
@@ -833,6 +857,7 @@ totojitu.gif|
 ||sobatpkr.net^$popup,third-party
 ||sobatpoker88.com^$popup,third-party
 ||sogopoker.net^$popup,third-party
+||sonyqq.com^$popup,third-party
 ||spbobet1.com^$popup
 ||sportsbet.io^$third-party
 ||sportsmansclub.net^$popup,third-party
@@ -847,6 +872,8 @@ totojitu.gif|
 ||sundul99.net^$popup,third-party
 ||tamanqq.com^$popup,third-party
 ||tangkasq.com^$popup,third-party
+||tatobet.net^$popup,third-party
+||tatonaga.com^$popup,third-party
 ||telolet99.com^$popup,third-party
 ||tendangsakti.com^$popup,third-party
 ||tfp.sapphirum.com^$popup,third-party
@@ -864,6 +891,7 @@ totojitu.gif|
 ||toppoker789.net^$popup,third-party
 ||tores4d.com^$popup,third-party
 ||tri7bet.com^$popup,third-party
+||tribunbolaku.com^$popup,third-party
 ||trikqq.com^$popup,third-party
 ||tuanbola.net^$popup,third-party
 ||tugupoker.com^$popup,third-party
@@ -899,6 +927,8 @@ totojitu.gif|
 ||ysbjaya88.com^$popup,third-party
 ||zenbola.com^$popup,third-party
 ||zonaprediksi.me^$popup,third-party
+||zonawin.com^$popup,third-party
+||zonawin.net^$popup,third-party
 ! *** abpindo_judi.txt ***
 ! http://www.nawala.id/wp-content/uploads/2014/08/list_situs_judi.txt
 !
@@ -7206,8 +7236,6 @@ totojitu.gif|
 ||zonaglobalshop.com^$popup,third-party
 ||zonajitu.com^$popup,third-party
 ||zonatangkas.com^$popup,third-party
-||zonawin.com^$popup,third-party
-||zonawin.net^$popup,third-party
 ||zooranacasinobonuses.com^$popup,third-party
 ||zs1166.com^$popup,third-party
 ||zt2013.com^$popup,third-party
@@ -7215,7 +7243,6 @@ totojitu.gif|
 ||zzun88.com^$popup,third-party
 ||zzwin168.com^$popup,third-party
 ! *** abpindo_prank.txt ***
-||sinthaistudio.com/thehouse2/
 ! situs jail dan usil
 !
 ||1227.com^
@@ -7316,6 +7343,7 @@ totojitu.gif|
 ||selfpwn.org^
 ||sexitnow.com^
 ||shitpassion.com^
+||sinthaistudio.com/thehouse2/
 ||sourmath.com^
 ||strawpoii.me^
 ||suckdude.com^
@@ -7390,7 +7418,7 @@ iklan300x250.gif|
 ||bioskop855.com/wp-content/uploads/*.gif$image
 ||bioskop855.net/wp-content/uploads/*.gif$image,domain=bioskop323.com
 ||blogspot.com/*.gif$domain=film-drama.co
-||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|smallencode.com|unyil.org|zonabola.com
+||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|smallencode.com|unyil.org|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
@@ -7443,6 +7471,8 @@ iklan300x250.gif|
 ||hentaiheroes.com^$popup,domain=hentai2read.com
 ||hotabis.com/wp-content/uploads/*.gif
 ||id.hao123.com/resource/id/banner/
+||idbioskop.com/wp-content/uploads/*/*/300-x-250.png
+||idbioskop.com/wp-content/uploads/*/*/ad-150x300-website.jpg
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
 ||imagebam.com/*.gif$image,domain=www.ganool.li
