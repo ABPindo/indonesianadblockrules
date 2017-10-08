@@ -10,8 +10,6 @@
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$domain=smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
-@@||cinemamkv.com^$generichide
-@@||cinemamkv.xyz^$generichide
 @@||code.jquery.com/jquery-1.11.0.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
 @@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com

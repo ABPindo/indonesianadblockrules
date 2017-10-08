@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: G0FSMKmn68IAAqzEHKPYIQ
+! Checksum: HI9nZHgBnJ3+2r6r5HCPPg
 ! Title: ABPindo tanpa nawala
-! Last modified: 30 September 2017, 09:11:08 WIB
+! Last modified: 08 Oktober 2017, 10:44:53 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -96,6 +96,7 @@
 ||gxwjkbxubfjd.com^$popup,third-party
 ||halal.ad^$third-party
 ||hclccadfmkpw.com^$popup,third-party
+||hilltopads.net^$third-party
 ||hsoyrqqsludd.com^$popup,third-party
 ||huzcotxmghlfip.bid^popup,third-party
 ||hwoxt.com^$popup
@@ -2205,7 +2206,7 @@ hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 viva.co.id##.portlet.sideskycrapper
 otomania.com##.r-ads
 film-ganool.com##.random
-www.kaskus.co.id##.rb-3.banner-frame.col-sm-12
+kaskus.co.id##.rb-3.banner-frame.col-sm-12
 okezone.com##.rc-ad-300x250
 indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-solwowkeren.com###Ad300B
@@ -2342,7 +2343,7 @@ iklan300x250.gif|
 ###Box-Banner-ads
 ~4udrama.com###adplayer
 ###ads-pop
-~cinemamkv.xyz###adsense
+~cinemamkv.net,~cinemamkv.xyz###adsense
 ###adsground
 ###adv-placeholder
 ###bireklam
@@ -2430,8 +2431,6 @@ iklan300x250.gif|
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$domain=smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
-@@||cinemamkv.com^$generichide
-@@||cinemamkv.xyz^$generichide
 @@||code.jquery.com/jquery-1.11.0.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
 @@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
