@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HI9nZHgBnJ3+2r6r5HCPPg
+! Checksum: r6vR9HkS6t6Ka0ktq9DHBQ
 ! Title: ABPindo tanpa nawala
-! Last modified: 08 Oktober 2017, 10:44:53 WIB
+! Last modified: 10 Oktober 2017, 13:31:17 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -39,6 +39,7 @@
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
+||adscpm.site^$third-party
 ||adsdelivery.bid^$popup,third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
@@ -642,6 +643,8 @@ totojitu.gif|
 ||idb365.com^$popup,third-party
 ||idbet88.com^$popup,third-party
 ||idn55bet.com^$popup,third-party
+||idola188.info^$popup
+||idola188.info^$third-party
 ||idola88.com^$popup,third-party
 ||idola999.com/$popup,third-party
 ||idolakini.com/$popup,third-party
@@ -1447,6 +1450,12 @@ totojitu.gif|
 ##a[href*="https://www.h8indo.com/"]
 ##a[href*="https://www.onesbet.com/"]
 ##a[href*="https://www.vimaxasli.id/"]
+##a[href="//hobibet.com/"]
+##a[href^="//11juni.com/"]
+##a[href^="//www.bolasuhu.com/"]
+##a[href^="//www.hoki228.com/"]
+##a[href^="//www.jasa888.com/"]
+##a[href^="//www.raja111.com"]
 ##a[href^="http://agtwpoker.com/"]
 ##a[href^="http://alamiqq.com/"]
 ##a[href^="http://asalqq.com/"]
@@ -1460,8 +1469,11 @@ totojitu.gif|
 ##a[href^="http://dahsyatqq.net/"]
 ##a[href^="http://dewaboya.info/"]
 ##a[href^="http://dominobetqq.com/"]
+##a[href^="http://gerhanaqq.com/"]
 ##a[href^="http://indo381.com/"]
 ##a[href^="http://indobandar88.com/"]
+##a[href^="http://intanqq.net/"]
+##a[href^="http://kristalqq.com/"]
 ##a[href^="http://lajupoker.com/"]
 ##a[href^="http://ligajudi."]
 ##a[href^="http://ligakiukiu.top/"]
@@ -1474,6 +1486,7 @@ totojitu.gif|
 ##a[href^="http://okebos.top/"]
 ##a[href^="http://pamelapoker.co"]
 ##a[href^="http://pasaranqq.com/"]
+##a[href^="http://pokerajaib.com/"]
 ##a[href^="http://pokerampm.com/"]
 ##a[href^="http://pulsaqq.com/"]
 ##a[href^="http://rajadewabet.com/"]
@@ -1491,13 +1504,16 @@ totojitu.gif|
 ##a[href^="http://wingsqq.com/"]
 ##a[href^="http://wongpkr.net/"]
 ##a[href^="http://www.11juni.com/"]
+##a[href^="http://www.99dinasti.com/"]
 ##a[href^="http://www.alampoker.com/"]
 ##a[href^="http://www.b2poker.net/"]
 ##a[href^="http://www.bdrqq.com/"]
+##a[href^="http://www.bolasuhu.com"]
 ##a[href^="http://www.bolasuhu.com/"]
 ##a[href^="http://www.casinosport88.com/"]
 ##a[href^="http://www.cendanapoker.com/"]
 ##a[href^="http://www.duapoker.com/"]
+##a[href^="http://www.hoki228.com"]
 ##a[href^="http://www.hoki228.com/"]
 ##a[href^="http://www.indovegas88.com/"]
 ##a[href^="http://www.indukbet.com/"]
@@ -1505,13 +1521,18 @@ totojitu.gif|
 ##a[href^="http://www.lig369.com/"]
 ##a[href^="http://www.liga369.com/"]
 ##a[href^="http://www.maniakqq.com/"]
+##a[href^="http://www.mediaqq.com/"]
 ##a[href^="http://www.mydragonku.com/"]
 ##a[href^="http://www.myindomacau.com/"]
+##a[href^="http://www.negarakartu.com/"]
 ##a[href^="http://www.pokerastro.com/"]
+##a[href^="http://www.raja111.com"]
 ##a[href^="http://www.raja111.com/"]
 ##a[href^="http://www.seobandarqq365.com/"]
 ##a[href^="http://www.seoincarqq.com/"]
 ##a[href^="http://www.seomarina365.net/"]
+##a[href^="http://www.serbaqq.net/"]
+##a[href^="http://www.ysbindo.com/"]
 ##img[alt="AGENQQ"]
 ##img[alt="Agen Bola Terpercaya"]
 ##img[alt="Agen Bola"]
@@ -1716,7 +1737,7 @@ totojitu.gif|
 ||bioskop855.com/wp-content/uploads/*.gif$image
 ||bioskop855.net/wp-content/uploads/*.gif$image,domain=bioskop323.com
 ||blogspot.com/*.gif$domain=film-drama.co
-||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|smallencode.com|unyil.org|zonabola.com
+||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|smallencode.com|unyil.org|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
@@ -1855,6 +1876,7 @@ totojitu.gif|
 ||nontonstreaming.co/img/closeX.png
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||noobscript.com^$script,third-party
+||ns21.me/wp-content/uploads/*.gif$image
 ||ns21.org/wp-content/uploads/*.gif$image
 ||ns21.tv/wp-content/uploads/*.gif$image
 ||numpanglewat.com^$third-party
@@ -2107,7 +2129,7 @@ bokep.click##.alignnone
 palingseru.com##.alignnone.size-large.wp-image-458
 myasiantv.se##.av-content-full
 www.22cinema.com##.ayu-headads
-nonton21.tv,nontonserial.com##.ban_empat
+nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 dream.co.id##.banner-sc2
 oktavita.com##.banner-zone
 tekno.kompas.com##.banner620x80
@@ -2176,7 +2198,11 @@ bioskop90.com##.headborder:nth-of-type(5)
 zonapanaz.net##.header-banner
 bioskop21.co##.hilang2
 bioskop168.co,semi168.club##.home.border
-21boxoffice.com##.idmuvi-topbanner-aftermenu
+nontonfilm77.me##.idmuvi-afterplayer
+nontonfilm77.me##.idmuvi-floatbanner-left.idmuvi-floatbanner
+nontonfilm77.me##.idmuvi-floatbanner-right.idmuvi-floatbanner
+21boxoffice.com,nontonfilm77.me##.idmuvi-topbanner-aftermenu
+nontonfilm77.me##.idmuvi-topplayer
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
@@ -2259,6 +2285,7 @@ www.filmxy.cc##a[href="http://www.filmxy.cc/download/"]
 www.filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]
+nontonin.com##a[href="http://www.pialasports.com"]
 torjack.net##a[href="https://mypayingads.com/ref/59039/signup"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 dramaid.com##a[href^="//elangcapsa.net/"]
@@ -2314,6 +2341,7 @@ bioskop78.com##td:nth-of-type(3)
 -iklan.jpg|
 -iklan.js|
 -popads.php|
+.bid^$third-party
 .biz/iklan/
 .com/iklan/
 .id/ads/$~object-subrequest

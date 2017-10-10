@@ -213,7 +213,7 @@ bokep.click##.alignnone
 palingseru.com##.alignnone.size-large.wp-image-458
 myasiantv.se##.av-content-full
 www.22cinema.com##.ayu-headads
-nonton21.tv,nontonserial.com##.ban_empat
+nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 dream.co.id##.banner-sc2
 oktavita.com##.banner-zone
 tekno.kompas.com##.banner620x80
@@ -282,7 +282,11 @@ bioskop90.com##.headborder:nth-of-type(5)
 zonapanaz.net##.header-banner
 bioskop21.co##.hilang2
 bioskop168.co,semi168.club##.home.border
-21boxoffice.com##.idmuvi-topbanner-aftermenu
+nontonfilm77.me##.idmuvi-afterplayer
+nontonfilm77.me##.idmuvi-floatbanner-left.idmuvi-floatbanner
+nontonfilm77.me##.idmuvi-floatbanner-right.idmuvi-floatbanner
+21boxoffice.com,nontonfilm77.me##.idmuvi-topbanner-aftermenu
+nontonfilm77.me##.idmuvi-topplayer
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
@@ -365,6 +369,7 @@ www.filmxy.cc##a[href="http://www.filmxy.cc/download/"]
 www.filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
 lensaberita.net##a[href="http://www.lensaberita.net/p/cara-beriklan.html"]
 hotabis.com##a[href="http://www.pembesar-vimax-herbal.com/"]
+nontonin.com##a[href="http://www.pialasports.com"]
 torjack.net##a[href="https://mypayingads.com/ref/59039/signup"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 dramaid.com##a[href^="//elangcapsa.net/"]

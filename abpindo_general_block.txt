@@ -2,6 +2,7 @@
 -iklan.jpg|
 -iklan.js|
 -popads.php|
+.bid^$third-party
 .biz/iklan/
 .com/iklan/
 .id/ads/$~object-subrequest
