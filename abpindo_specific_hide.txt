@@ -55,6 +55,7 @@ tribunnews.com###div-Right-MediumRectangle-1
 makassar.tribunnews.com###div-Right-MediumRectangle-3
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 90animax.com###energysaving
+cmovieshd.se###epmblock
 nf21.club###fadeinbox
 idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
@@ -280,6 +281,7 @@ kompas.com##.hAds
 videocrot.org##.headbanner
 bioskop90.com##.headborder:nth-of-type(5)
 zonapanaz.net##.header-banner
+cmovieshd.se##.hidden-xs
 bioskop21.co##.hilang2
 bioskop168.co,semi168.club##.home.border
 nontonfilm77.me##.idmuvi-afterplayer
@@ -316,7 +318,6 @@ hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 viva.co.id##.portlet.sideskycrapper
 otomania.com##.r-ads
 film-ganool.com##.random
-kaskus.co.id##.rb-3.banner-frame.col-sm-12
 okezone.com##.rc-ad-300x250
 indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-solwowkeren.com###Ad300B
@@ -398,6 +399,7 @@ cinema-indo.com,cinemaindo.web.id,layarkaca21.*,layarkaca21.net,layarkaca21.web.
 cinema-indo.com,layarkaca21.*,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 cinema-indo.com,layarkaca21.net,layarkaca21.*,layarkaca21.tv,layarkaca21.web.id,lk21.org,lk21.tv,lk21.*,nonton21.net###fbbanner
 cinemaindo.web.id,layarkaca21.*,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.*,lk21.org###hbanner
+cmovieshd.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
 hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
 situshp.com##div[style="height:260px;"]
 forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
