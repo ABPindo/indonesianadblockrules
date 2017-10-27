@@ -65,6 +65,7 @@
 ##.simple_advert
 ##.topadsense
 ##a[href^="http://bit.ly/"]
+##a[href^="http://goo.gl/"]
 ##a[href^="https://goo.gl/"]
 ##img[alt="Advertisement"]
 ##img[alt="Iklan"]

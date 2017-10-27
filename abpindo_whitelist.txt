@@ -1,6 +1,7 @@
 @@.png#$domain=awsubs.co|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sobatdrama.net
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
+@@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
 @@||ainodorama.web.id^$generichide
 @@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
 @@||apis.google.com/js/plusone.js$domain=smallencode.com

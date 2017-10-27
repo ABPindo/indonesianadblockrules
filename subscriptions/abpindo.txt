@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1XiEDRRWOx9H0hs3aTczuQ
+! Checksum: LxzB+3Zh0kioSMGGms8hEA
 ! Title: ABPindo
-! Last modified: 20 Oktober 2017, 07:24:06 WIB
+! Last modified: 27 Oktober 2017, 16:29:53 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1456,6 +1456,8 @@ totojitu.gif|
 ##a[href^="//www.hoki228.com/"]
 ##a[href^="//www.jasa888.com/"]
 ##a[href^="//www.raja111.com"]
+##a[href^="http://899bola.com"]
+##a[href^="http://abgqq.net"]
 ##a[href^="http://agtwpoker.com/"]
 ##a[href^="http://alamiqq.com/"]
 ##a[href^="http://asalqq.com/"]
@@ -1469,7 +1471,9 @@ totojitu.gif|
 ##a[href^="http://dahsyatqq.net/"]
 ##a[href^="http://dewaboya.info/"]
 ##a[href^="http://dominobetqq.com/"]
+##a[href^="http://fifadomino.com"]
 ##a[href^="http://gerhanaqq.com/"]
+##a[href^="http://hokibandarq.org"]
 ##a[href^="http://indo381.com/"]
 ##a[href^="http://indobandar88.com/"]
 ##a[href^="http://intanqq.net/"]
@@ -1505,19 +1509,20 @@ totojitu.gif|
 ##a[href^="http://wongpkr.net/"]
 ##a[href^="http://www.11juni.com/"]
 ##a[href^="http://www.99dinasti.com/"]
+##a[href^="http://www.TujuhBet.com"]
 ##a[href^="http://www.alampoker.com/"]
 ##a[href^="http://www.b2poker.net/"]
 ##a[href^="http://www.bdrqq.com/"]
 ##a[href^="http://www.bolasuhu.com"]
-##a[href^="http://www.bolasuhu.com/"]
 ##a[href^="http://www.casinosport88.com/"]
 ##a[href^="http://www.cendanapoker.com/"]
 ##a[href^="http://www.duapoker.com/"]
+##a[href^="http://www.elangcapsa.net"]
 ##a[href^="http://www.hoki228.com"]
-##a[href^="http://www.hoki228.com/"]
 ##a[href^="http://www.indovegas88.com/"]
 ##a[href^="http://www.indukbet.com/"]
 ##a[href^="http://www.jasa888.com/"]
+##a[href^="http://www.ladangqq.com"]
 ##a[href^="http://www.lig369.com/"]
 ##a[href^="http://www.liga369.com/"]
 ##a[href^="http://www.maniakqq.com/"]
@@ -1527,7 +1532,6 @@ totojitu.gif|
 ##a[href^="http://www.negarakartu.com/"]
 ##a[href^="http://www.pokerastro.com/"]
 ##a[href^="http://www.raja111.com"]
-##a[href^="http://www.raja111.com/"]
 ##a[href^="http://www.seobandarqq365.com/"]
 ##a[href^="http://www.seoincarqq.com/"]
 ##a[href^="http://www.seomarina365.net/"]
@@ -8630,7 +8634,7 @@ cinema-indo.com,cinemaindo.web.id,layarkaca21.*,layarkaca21.net,layarkaca21.web.
 cinema-indo.com,layarkaca21.*,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 cinema-indo.com,layarkaca21.net,layarkaca21.*,layarkaca21.tv,layarkaca21.web.id,lk21.org,lk21.tv,lk21.*,nonton21.net###fbbanner
 cinemaindo.web.id,layarkaca21.*,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.*,lk21.org###hbanner
-cmovieshd.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
+cmovieshd.se,ganool.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
 hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
 situshp.com##div[style="height:260px;"]
 forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
@@ -8752,6 +8756,7 @@ iklan300x250.gif|
 ##.simple_advert
 ##.topadsense
 ##a[href^="http://bit.ly/"]
+##a[href^="http://goo.gl/"]
 ##a[href^="https://goo.gl/"]
 ##img[alt="Advertisement"]
 ##img[alt="Iklan"]
@@ -8767,6 +8772,7 @@ iklan300x250.gif|
 @@.png#$domain=awsubs.co|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sobatdrama.net
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
+@@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
 @@||ainodorama.web.id^$generichide
 @@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
 @@||apis.google.com/js/plusone.js$domain=smallencode.com

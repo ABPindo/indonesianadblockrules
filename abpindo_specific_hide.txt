@@ -399,7 +399,7 @@ cinema-indo.com,cinemaindo.web.id,layarkaca21.*,layarkaca21.net,layarkaca21.web.
 cinema-indo.com,layarkaca21.*,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 cinema-indo.com,layarkaca21.net,layarkaca21.*,layarkaca21.tv,layarkaca21.web.id,lk21.org,lk21.tv,lk21.*,nonton21.net###fbbanner
 cinemaindo.web.id,layarkaca21.*,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.*,lk21.org###hbanner
-cmovieshd.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
+cmovieshd.se,ganool.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
 hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
 situshp.com##div[style="height:260px;"]
 forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
