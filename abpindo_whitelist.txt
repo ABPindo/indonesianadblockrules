@@ -4,12 +4,10 @@
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
 @@||ainodorama.web.id^$generichide
 @@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
-@@||apis.google.com/js/plusone.js$domain=smallencode.com
 @@||asiancine.com^$generichide
 @@||awsubs.co^$elemhide
 @@||cat3movie.us^$generichide
-@@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$domain=smallencode.com
-@@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
+@@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id|smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
 @@||code.jquery.com/jquery-1.11.0.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
@@ -19,12 +17,8 @@
 @@||eramuslim.com^$generichide
 @@||oploverz.in^$elemhide
 @@||oploverz.net^$elemhide
-@@||platform.twitter.com/widgets.js$domain=smallencode.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
-@@||smallencode.disqus.com/count.js$domain=smallencode.com
 @@||sobatdrama.net^$generichide
-@@||st.chatango.com/js/gz/emb.js$domain=smallencode.com
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
-@@||www.googletagmanager.com/gtm.js$script,domain=tokopedia.com
