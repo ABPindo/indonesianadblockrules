@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: d3CNk/6gpQcsl2HgUMf4BA
+! Checksum: Y/tjHdtDl6U9LwhG1i5QTQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 31 Oktober 2017, 19:29:50 WIB
+! Last modified: 02 November 2017, 16:42:05 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -358,6 +358,7 @@
 /motorqq.
 /musimqq.
 /musimqq300.
+/MustikaPoker-
 /nagalaut-new.
 /nagalaut.
 /obat-kuat-sex.
@@ -407,6 +408,7 @@
 /togel168-
 /togeltoto.
 /ubcwin.
+/Vegasmarket.
 /venombet-
 /vodka728x90.
 /wedeqq.
