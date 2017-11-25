@@ -56,7 +56,8 @@ tribunnews.com###div-Right-MediumRectangle-1
 makassar.tribunnews.com###div-Right-MediumRectangle-3
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 90animax.com###energysaving
-cmovieshd.se###epmblock
+cmovieshd.se,ganool.se###epmblock
+ganool.se###epom-6c797c50-fade
 nf21.club###fadeinbox
 idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
@@ -421,5 +422,6 @@ layarkaca21.*###ptbanner
 layarkaca21.*##.img-responsive
 layarkaca21.*,lk21.*##.fancybox-skin
 nontonanime.id##script:contains(function YB)
+ganool.se##strong > .col-xs-12.col-sm-3.col-md-3.col-lg-3
 satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)

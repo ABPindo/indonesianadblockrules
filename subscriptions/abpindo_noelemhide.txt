@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Y/tjHdtDl6U9LwhG1i5QTQ
+! Checksum: ze5mZAv0W/DNo3EcTktbBw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 02 November 2017, 16:42:05 WIB
+! Last modified: 25 November 2017, 08:31:03 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -808,6 +808,7 @@ totojitu.gif|
 ||pusatqq.org^$popup,third-party
 ||qq2889yes.com^$popup,third-party
 ||qqdomino.net^$popup,third-party
+||qqsamsungbet.com^$third-party
 ||qqtangkas.com^$popup,third-party
 ||qsng.cn^$popup,third-party
 ||raja111.com^$popup,third-party
