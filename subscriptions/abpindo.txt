@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: plBJBb1s8AwD5/4Tn0NBlA
+! Checksum: XhhfyUqkMqAl/QR4HLGYxQ
 ! Title: ABPindo
-! Last modified: 25 November 2017, 08:31:03 WIB
+! Last modified: 28 November 2017, 05:42:17 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1587,7 +1587,6 @@ totojitu.gif|
 ##img[alt="Togel Online Terpercaya"]
 ##img[alt="Togel Online"]
 ##img[alt="Togel Terpercaya"]
-##img[alt="VegasMarket"
 ##img[alt="agen Bola"]
 ##img[alt="agen bandarq online"]
 ##img[alt="agen bola"]
