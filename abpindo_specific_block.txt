@@ -113,6 +113,7 @@
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
 ||lk21.co/assets/*.gif$image
+||lk21.fun/wp-content/uploads/*.gif$image
 ||lk21.me/assets/*.gif
 ||lk21.net/assets/*.gif$image
 ||lk21.org/assets/*.gif
