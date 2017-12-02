@@ -138,6 +138,8 @@
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||mobalert.online^$popup
+||mobileofferplace.site^$popup
+||motosal.net^$popup
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
 ||octafx.com^$popup,third-party
@@ -184,6 +186,7 @@
 ||serbapromo.com^$third-party
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
+||strainemergency.com^$popup
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
 ||taboola.com^$third-party

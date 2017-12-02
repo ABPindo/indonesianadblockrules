@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: nwhTWYNyQW/MQt6J/EhLeQ
+! Checksum: VsqveMwNQ0VaswIVaaX0fg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 29 November 2017, 18:54:15 WIB
+! Last modified: 02 Desember 2017, 16:06:50 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -152,6 +152,8 @@
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||mobalert.online^$popup
+||mobileofferplace.site^$popup
+||motosal.net^$popup
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
 ||octafx.com^$popup,third-party
@@ -198,6 +200,7 @@
 ||serbapromo.com^$third-party
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
+||strainemergency.com^$popup
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
 ||taboola.com^$third-party
@@ -394,6 +397,7 @@
 /sarjanapoker.
 /sbcagent.
 /sbopoker.
+/sbosbe.
 /simpatiqq.
 /situsbet368.
 /sogopoker-
@@ -464,6 +468,7 @@ totojitu.gif|
 ||agenbola.co^$popup,third-party
 ||agenbola24.org^$popup,third-party
 ||agenibc.com^$popup,third-party
+||agenjudionline.in^$third-party
 ||agenqq.online^$popup,third-party
 ||agent926.com^$popup,third-party
 ||agentaruhan.net^$popup,third-party
@@ -665,6 +670,8 @@ totojitu.gif|
 ||indomb.com^$popup,third-party
 ||indonesia-community.net^
 ||indopk365.com^$popup,third-party
+||indopokerlink.co^$popup
+||indopokerlink.co^$third-party
 ||indovegas88.com^$popup,third-party
 ||indowins.co^$popup,third-party
 ||indukbet.com^$popup,third-party
@@ -7429,7 +7436,7 @@ iklan300x250.gif|
 ||bioskop855.com/wp-content/uploads/*.gif$image
 ||bioskop855.net/wp-content/uploads/*.gif$image,domain=bioskop323.com
 ||blogspot.com/*.gif$domain=film-drama.co
-||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|smallencode.com|unyil.org|zonabola.com
+||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
@@ -7555,6 +7562,7 @@ iklan300x250.gif|
 ||n21.tv/wp-content/uploads/*.gif$image
 ||nonton.club/wp-content/uploads/*.gif$image
 ||nonton21.tv/wp-content/uploads/*.gif$image
+||nonton33.tv/wp-content/uploads/*.gif$image
 ||nontonbareng.tv/img/closeX.png
 ||nontonbareng.tv/wp-content/uploads/*.gif
 ||nontonbox.tv/img/closeX.png
@@ -7564,6 +7572,7 @@ iklan300x250.gif|
 ||nontonfilm77.com/wp-content/uploads/*.gif$image||angel.exabytes.com.my/banners/
 ||nontonfilmbaru.com/wp-content/uploads/*.gif$image
 ||nontonfilmku.net/wp-content/uploads/*.gif$image
+||nontonindrama.com/oke/*.gif$image,domain=nontononlinedrama.co
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
