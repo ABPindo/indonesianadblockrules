@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: twJZlKu5ZBTHskTGou4nWg
+! Checksum: 1Fr/jkDQjFkZ+vrQzVec6A
 ! Title: ABPindo
-! Last modified: 02 Desember 2017, 16:06:50 WIB
+! Last modified: 18 Desember 2017, 13:25:28 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1001,6 +1001,7 @@ totojitu.gif|
 ##a[href^="http://astrototo.com"]
 ##a[href^="http://axiobola.com"]
 ##a[href^="http://ayomainqq.com"]
+##a[href^="http://bagusqq.net"]
 ##a[href^="http://balak9.com"]
 ##a[href^="http://balakqq.com"]
 ##a[href^="http://bandarasia.com"]
@@ -1172,6 +1173,7 @@ totojitu.gif|
 ##a[href^="http://itubandar.com"]
 ##a[href^="http://ivopoker.net"]
 ##a[href^="http://jalanalternatif.co"]
+##a[href^="http://jaluralternatif.net"]
 ##a[href^="http://japsex.org"]
 ##a[href^="http://jasa888.com"]
 ##a[href^="http://jasaqq.com"]
@@ -1198,17 +1200,20 @@ totojitu.gif|
 ##a[href^="http://ketuapoker.net"]
 ##a[href^="http://king368.com"]
 ##a[href^="http://klikkiu.top"]
+##a[href^="http://kliksakong.com"]
 ##a[href^="http://klikuntung.com"]
 ##a[href^="http://kokibet.com"]
 ##a[href^="http://kontolkuda.co"]
 ##a[href^="http://kosmetik-obatkuat.com"]
 ##a[href^="http://kristalqq.com"]
+##a[href^="http://lagasakong.com"]
 ##a[href^="http://lajupoker.com"]
 ##a[href^="http://lapakgol.com"]
 ##a[href^="http://liburpoker.com"]
 ##a[href^="http://liga77.net"]
 ##a[href^="http://liga88.com"]
 ##a[href^="http://liga888.com"]
+##a[href^="http://ligabet365.net"]
 ##a[href^="http://ligajudi."]
 ##a[href^="http://ligakita.com"]
 ##a[href^="http://ligakiukiu.top"]
@@ -1243,6 +1248,7 @@ totojitu.gif|
 ##a[href^="http://mimpi4d.com"]
 ##a[href^="http://mingguqq.com"]
 ##a[href^="http://misapoker.com"]
+##a[href^="http://misiqiu.com"]
 ##a[href^="http://misiqq.com"]
 ##a[href^="http://mkvgames.club"]
 ##a[href^="http://mkvpoker.club"]
@@ -1527,6 +1533,7 @@ totojitu.gif|
 ##a[href^="http://www.nagahoki.com"]
 ##a[href^="http://www.negarakartu.com"]
 ##a[href^="http://www.neobola.club"]
+##a[href^="http://www.obcbet.com"]
 ##a[href^="http://www.opuspoker.com"]
 ##a[href^="http://www.pasaranqq.com"]
 ##a[href^="http://www.pialasports.com"]
@@ -1535,6 +1542,7 @@ totojitu.gif|
 ##a[href^="http://www.pokerastro.com"]
 ##a[href^="http://www.pokermon24.net"]
 ##a[href^="http://www.pokernasional.com"]
+##a[href^="http://www.pokerstar8.com"]
 ##a[href^="http://www.prediksi855.com"]
 ##a[href^="http://www.prediksisingapore.net"]
 ##a[href^="http://www.probet99.com"]
@@ -1582,6 +1590,7 @@ totojitu.gif|
 ##a[href^="https://kartuking.net"]
 ##a[href^="https://liga77.net"]
 ##a[href^="https://ompoker.com"]
+##a[href^="https://pendekarqq.net"]
 ##a[href^="https://pusatbandarq.com"]
 ##a[href^="https://www.h8indo.com"]
 ##a[href^="https://www.jituangka.com"]
@@ -8213,6 +8222,7 @@ totojitu.gif|
 ||lk21.me/assets/*.gif
 ||lk21.net/assets/*.gif$image
 ||lk21.org/assets/*.gif
+||lk21.top/assets/*.gif$image
 ||lk21.tv/assets/*.gif
 ||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_overlay.png
 ||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_sprite.png
@@ -8250,6 +8260,7 @@ totojitu.gif|
 ||nontonfilmbaru.com/wp-content/uploads/*.gif$image
 ||nontonfilmku.net/wp-content/uploads/*.gif$image
 ||nontonindrama.com/oke/*.gif$image,domain=nontononlinedrama.co
+||nontonindrama.com/okes/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
@@ -8259,6 +8270,7 @@ totojitu.gif|
 ||ns21.org/wp-content/uploads/*.gif$image
 ||ns21.tv/wp-content/uploads/*.gif$image
 ||numpanglewat.com^$third-party
+||numpangnonton.com/wp-content/uploads/*.gif$image
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
 ||pic5678.com^$third-party
 ||playwebgame.com/banner/$third-party
@@ -8409,6 +8421,7 @@ kabar2.com###leaderboard
 komikbaru.com###left-skyscraper
 nontonbokeps.com###left_ads_float_phonedevelop
 dapurpacu.com###mid-banner
+fastdrama.co,hkfree.co###modal
 indotelko.com###more_stories
 viva.co.id###otp_ads
 detik.com###otp_banner

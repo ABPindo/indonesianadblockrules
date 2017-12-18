@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VsqveMwNQ0VaswIVaaX0fg
+! Checksum: i0RF8L3R1EMku5QNexwK4g
 ! Title: ABPindo tanpa element hiding
-! Last modified: 02 Desember 2017, 16:06:50 WIB
+! Last modified: 18 Desember 2017, 13:25:28 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -7536,6 +7536,7 @@ iklan300x250.gif|
 ||lk21.me/assets/*.gif
 ||lk21.net/assets/*.gif$image
 ||lk21.org/assets/*.gif
+||lk21.top/assets/*.gif$image
 ||lk21.tv/assets/*.gif
 ||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_overlay.png
 ||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_sprite.png
@@ -7573,6 +7574,7 @@ iklan300x250.gif|
 ||nontonfilmbaru.com/wp-content/uploads/*.gif$image
 ||nontonfilmku.net/wp-content/uploads/*.gif$image
 ||nontonindrama.com/oke/*.gif$image,domain=nontononlinedrama.co
+||nontonindrama.com/okes/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.com/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/img/closeX.png
@@ -7582,6 +7584,7 @@ iklan300x250.gif|
 ||ns21.org/wp-content/uploads/*.gif$image
 ||ns21.tv/wp-content/uploads/*.gif$image
 ||numpanglewat.com^$third-party
+||numpangnonton.com/wp-content/uploads/*.gif$image
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
 ||pic5678.com^$third-party
 ||playwebgame.com/banner/$third-party
