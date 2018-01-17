@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1Fr/jkDQjFkZ+vrQzVec6A
+! Checksum: B0z+XEkT0j9UAp5suBs6ag
 ! Title: ABPindo
-! Last modified: 18 Desember 2017, 13:25:28 WIB
+! Last modified: 17 Januari 2018, 17:20:47 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -58,7 +58,7 @@
 ||cashinme.com^$third-party
 ||cd87c85eb2890d048d2.com^$third-party
 ||cd8iw9mh.cricket^$popup,third-party
-||cdnasiaclub.com^popup,third-party
+||cdnasiaclub.com^$popup,third-party
 ||cfasync.ga^$popup,third-party
 ||cjsab.com^$popup,third-party
 ||clickforfreeandready2updating.bid^
@@ -99,7 +99,7 @@
 ||hclccadfmkpw.com^$popup,third-party
 ||hilltopads.net^$third-party
 ||hsoyrqqsludd.com^$popup,third-party
-||huzcotxmghlfip.bid^popup,third-party
+||huzcotxmghlfip.bid^$popup,third-party
 ||hwoxt.com^$popup
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
@@ -188,7 +188,7 @@
 ||replase.gq^$popup,third-party
 ||replase.ml^$popup,third-party
 ||rfgodfdf.bid^$popup
-||rkbjbtxhdi.bid^popup,third-party
+||rkbjbtxhdi.bid^$popup,third-party
 ||runreproducerow.com^$popup,third-party
 ||s2pops.club^$popup,third-party
 ||sanglah.com^$third-party
@@ -226,7 +226,7 @@
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
 ||xbfk51p7.review^$popup,third-party
-||xqquphzq.bid^popup,third-party
+||xqquphzq.bid^$popup,third-party
 ||yesads.com^$third-party
 ||yllix.com^$popup,third-party
 ||ylx-2.com^$third-party
@@ -947,6 +947,8 @@ totojitu.gif|
 ||zonawin.com^$popup,third-party
 ||zonawin.net^$popup,third-party
 ! *** abpindo_annoyance_elemhide.txt ***
+##a[href^="http://www.mamatogel.info"]
+##a[href^="http://www.cemejudi.com"]
 ##a[href^="http://116poker.com"]
 ##a[href^="http://188bet.com"]
 ##a[href^="http://188bet.net"]
@@ -8105,6 +8107,7 @@ totojitu.gif|
 ! *** abpindo_specific_block.txt ***
 |http://$script,third-party,xmlhttprequest,domain=123videos.tv|animekita.net|apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|nontonanime.id|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=123videos.tv|animekita.net|apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|nontonanime.id|smallencode.com
+||lk21.pw/assets/*.gif$image
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -8305,6 +8308,8 @@ totojitu.gif|
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! *** abpindo_specific_hide.txt ***
+fastdrama.co##.modal-content
+fastdrama.co###myModal
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 icinema3satu.net###FloatAlamindawa
