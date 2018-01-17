@@ -44,7 +44,7 @@
 ||cashinme.com^$third-party
 ||cd87c85eb2890d048d2.com^$third-party
 ||cd8iw9mh.cricket^$popup,third-party
-||cdnasiaclub.com^popup,third-party
+||cdnasiaclub.com^$popup,third-party
 ||cfasync.ga^$popup,third-party
 ||cjsab.com^$popup,third-party
 ||clickforfreeandready2updating.bid^
@@ -85,7 +85,7 @@
 ||hclccadfmkpw.com^$popup,third-party
 ||hilltopads.net^$third-party
 ||hsoyrqqsludd.com^$popup,third-party
-||huzcotxmghlfip.bid^popup,third-party
+||huzcotxmghlfip.bid^$popup,third-party
 ||hwoxt.com^$popup
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
@@ -174,7 +174,7 @@
 ||replase.gq^$popup,third-party
 ||replase.ml^$popup,third-party
 ||rfgodfdf.bid^$popup
-||rkbjbtxhdi.bid^popup,third-party
+||rkbjbtxhdi.bid^$popup,third-party
 ||runreproducerow.com^$popup,third-party
 ||s2pops.club^$popup,third-party
 ||sanglah.com^$third-party
@@ -212,7 +212,7 @@
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
 ||xbfk51p7.review^$popup,third-party
-||xqquphzq.bid^popup,third-party
+||xqquphzq.bid^$popup,third-party
 ||yesads.com^$third-party
 ||yllix.com^$popup,third-party
 ||ylx-2.com^$third-party
