@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: U0CrVup3+1M+w83Jdpy1Gg
+! Checksum: f3NmPHizLGuJwU7WLwChZg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 17 Januari 2018, 17:20:48 WIB
+! Last modified: 28 Januari 2018, 12:57:21 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -29,7 +29,7 @@
 ||abrts.pro^$popup,third-party
 ||ad.adflazz.com^$third-party
 ||addesigner.com^$third-party
-||adexchangecloud.com^$popup,third-party
+||adexchangecloud.com^$third-party
 ||adexp.net^$third-party
 ||admarketplace.net^$popup,third-party
 ||adnety.com^$popup,third-party
@@ -55,7 +55,6 @@
 ||bmnet-ads.com^$third-party
 ||bunchofwinners.win^$popup,third-party
 ||c-4fambt.com^$third-party
-||cashinme.com^$third-party
 ||cd87c85eb2890d048d2.com^$third-party
 ||cd8iw9mh.cricket^$popup,third-party
 ||cdnasiaclub.com^$popup,third-party
@@ -63,8 +62,8 @@
 ||cjsab.com^$popup,third-party
 ||clickforfreeandready2updating.bid^
 ||clickmedia.co.id^$third-party
-||clickredirection.com^$popup,third-party
-||codeonclick.com^$popup,third-party
+||clickredirection.com^$third-party
+||codeonclick.com^$third-party
 ||cpaclickoffers.com^$popup,third-party
 ||creditcardsbest.club^$third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
@@ -97,7 +96,6 @@
 ||gxwjkbxubfjd.com^$popup,third-party
 ||halal.ad^$third-party
 ||hclccadfmkpw.com^$popup,third-party
-||hilltopads.net^$third-party
 ||hsoyrqqsludd.com^$popup,third-party
 ||huzcotxmghlfip.bid^$popup,third-party
 ||hwoxt.com^$popup
@@ -170,7 +168,6 @@
 ||pasariklanbaris.com^$third-party
 ||paypopup.com^$third-party
 ||pejqoq4cafo3bg9yqqqtk5e6s6.com^$popup
-||pejqoq4cafo3bg9yqqqtk5e6s6.com^$third-party
 ||pippio.com^$third-party
 ||pondokiklan.com^$third-party
 ||popclck.net^$popup,third-party
@@ -229,7 +226,6 @@
 ||xqquphzq.bid^$popup,third-party
 ||yesads.com^$third-party
 ||yllix.com^$popup,third-party
-||ylx-2.com^$third-party
 ||yx-ads6.com^$third-party
 ! *** abpindo_thirdparty.txt ***
 ||c-stat.eu^$third-party
