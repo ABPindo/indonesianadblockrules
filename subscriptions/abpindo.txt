@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RhfKaDkz/WW4EnLpnvuNPg
+! Checksum: 3KT34PKPqPOE/VWISm56fA
 ! Title: ABPindo
-! Last modified: 28 Januari 2018, 12:57:20 WIB
+! Last modified: 30 Januari 2018, 20:02:37 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -943,6 +943,13 @@ totojitu.gif|
 ||zonawin.com^$popup,third-party
 ||zonawin.net^$popup,third-party
 ! *** abpindo_annoyance_elemhide.txt ***
+##a[href^="http://bandartoke.com"]
+##a[href^="http://www.99mania.com"]
+##a[href^="http://www.gohbet.com"]
+##a[href^="http://www.pabrikpoker.com"]
+##a[href^="https://www.boladunia88bet.com"]
+##a[href^="https://www.lautpoker.com"]
+##a[href^="http://www.armanitogel.info"]
 ##a[href^="http://www.mamatogel.info"]
 ##a[href^="http://www.cemejudi.com"]
 ##a[href^="http://116poker.com"]
@@ -8104,6 +8111,7 @@ totojitu.gif|
 |http://$script,third-party,xmlhttprequest,domain=123videos.tv|animekita.net|apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|nontonanime.id|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=123videos.tv|animekita.net|apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|nontonanime.id|smallencode.com
 ||lk21.pw/assets/*.gif$image
+||ns21.top/wp-content/uploads/*.gif$image
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -8304,6 +8312,11 @@ totojitu.gif|
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! *** abpindo_specific_hide.txt ***
+bioskopkeren.online##a[href^="https://goo.gl/"]
+dewamovie.tv##a[href^="http://bit.ly"]
+lk21.pw###float-banner
+nonton33.net##a[href^="http://bit.ly"]
+ns21.top##a[href^="https://goo.gl"]
 fastdrama.co##.modal-content
 fastdrama.co###myModal
 wowkeren.com###Ad300B
