@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MWm5b0/VYsBZDIPzK9NttQ
+! Checksum: f1reQewQQFv8tIsp9El0fw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 30 Januari 2018, 20:02:39 WIB
+! Last modified: 02 Februari 2018, 21:48:11 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -97,6 +97,120 @@
 ||halal.ad^$third-party
 ||hclccadfmkpw.com^$popup,third-party
 ||hsoyrqqsludd.com^$popup,third-party
+||http://1sakong.com^$popup,third-party
+||http://899-cash.com^$popup,third-party
+||http://899cash.co^$popup,third-party
+||http://99doyan.com^$popup,third-party
+||http://afapkr.net^$popup,third-party
+||http://afatogel1.com^$popup,third-party
+||http://agensakong.org^$popup,third-party
+||http://alternatif188bet.com^$popup,third-party
+||http://anekaqq.org^$popup,third-party
+||http://angkakembar.org^$popup,third-party
+||http://asia-bandarkiu.com^$popup,third-party
+||http://asia-bandarq.com^$popup,third-party
+||http://asian4d.net^$popup,third-party
+||http://baftarbandarkiu.com^$popup,third-party
+||http://bakaratonline.com^$popup,third-party
+||http://bandarbolaasia.com^$popup,third-party
+||http://bandarkiu.mobi^$popup,third-party
+||http://bandarpoker.us^$popup,third-party
+||http://bandarq.mobi^$popup,third-party
+||http://bandarqterpercaya.net^$popup,third-party
+||http://bandarsakong.info^$popup,third-party
+||http://bandartogelsingapore.com^$popup,third-party
+||http://beliqq.me^$popup,third-party
+||http://bola168.me^$popup,third-party
+||http://caradaftarpoker.co^$popup,third-party
+||http://cariqqiu.com^$popup,third-party
+||http://ceritasex.gratis^$popup,third-party
+||http://daftarbandarkiu.com^$popup,third-party
+||http://daftarbandartogelterpercaya.com^$popup,third-party
+||http://daftardomino.net^$popup,third-party
+||http://daftarfun88.com^$popup,third-party
+||http://daftarpoker228.com^$popup,third-party
+||http://daftarqq.net^$popup,third-party
+||http://daftarqqonline.com^$popup,third-party
+||http://dewahoki.tk^$popup,third-party
+||http://divisix.org^$popup,third-party
+||http://dominoqqwin.com^$popup,third-party
+||http://doyan-99.com^$popup,third-party
+||http://doyanbandarq.com^$popup,third-party
+||http://hoki365.me^$popup,third-party
+||http://hoyajackpot.org^$popup,third-party
+||http://hoyapoker99.org^$popup,third-party
+||http://indotogel1.com^$popup,third-party
+||http://istana-impian.com^$popup,third-party
+||http://istana-impian2.net^$popup,third-party
+||http://istana3.net^$popup,third-party
+||http://istanaimpian1.com^$popup,third-party
+||http://istanaimpian2.club^$popup,third-party
+||http://istanaimpian2.me^$popup,third-party
+||http://istanaimpian3.net^$popup,third-party
+||http://jarumpoker.me^$popup,third-party
+||http://jayabola.tk^$popup,third-party
+||http://jayapokr.com^$popup,third-party
+||http://jokermerah.me^$popup,third-party
+||http://king4d.me^$popup,third-party
+||http://kitabanget.com^$popup,third-party
+||http://kiuhoki.com^$popup,third-party
+||http://kiumaster.com^$popup,third-party
+||http://kodealam2.net^$popup,third-party
+||http://liga88.me^$popup,third-party
+||http://lotus-4d.com^$popup,third-party
+||http://maenpokerasli.com^$popup,third-party
+||http://maindomino.net^$popup,third-party
+||http://maindominoqq.net^$popup,third-party
+||http://maintogelonline.me^$popup,third-party
+||http://maintogelonline.net^$popup,third-party
+||http://maruduthutabarat.com^$popup,third-party
+||http://menangqq.org^$popup,third-party
+||http://nontonbokep.mobi^$popup,third-party
+||http://nontonfilm21.club^$popup,third-party
+||http://nusantarabet4d.net^$popup,third-party
+||http://orientalpoker.net^$popup,third-party
+||http://pangerantoto1.net^$popup,third-party
+||http://pangerantoto3.com^$popup,third-party
+||http://pasangnomor2.net^$popup,third-party
+||http://pasarantogel.me^$popup,third-party
+||http://pendekarqq.co^$popup,third-party
+||http://pokergalaxy.us^$popup,third-party
+||http://promosi365.me^$popup,third-party
+||http://qqdoyan.com^$popup,third-party
+||http://qqpendekar.com^$popup,third-party
+||http://raja12shio.org^$popup,third-party
+||http://rajanusantara.org^$popup,third-party
+||http://sedapqqq.com^$popup,third-party
+||http://seniqq.me^$popup,third-party
+||http://sepakbolagol.com^$popup,third-party
+||http://shiokambing2.com^$popup,third-party
+||http://shiokuda.me^$popup,third-party
+||http://shiokuda.org^$popup,third-party
+||http://sundulqq.me^$popup,third-party
+||http://surya4d.org^$popup,third-party
+||http://togelcc1.com^$popup,third-party
+||http://togeljackpot2.com^$popup,third-party
+||http://togelmarket2.com^$popup,third-party
+||http://totobett.com^$popup,third-party
+||http://totokita.org^$popup,third-party
+||http://wahanatoto1.com^$popup,third-party
+||http://wong-poker.com^$popup,third-party
+||http://www.128cash.org^$popup,third-party
+||http://www.4dasli.com^$popup,third-party
+||http://www.dermaga4d.net^$popup,third-party
+||http://www.dewa757.org^$popup,third-party
+||http://www.domino757.net^$popup,third-party
+||http://www.hoyajackpot.com^$popup,third-party
+||http://www.inidomino.net^$popup,third-party
+||http://www.itudewa.info^$popup,third-party
+||http://www.itupk.net^$popup,third-party
+||http://www.jagoanpoker99.com^$popup,third-party
+||http://www.masterpoker99.com^$popup,third-party
+||http://www.samsunghoki.com^$popup,third-party
+||http://www.sentanapoker.net^$popup,third-party
+||http://ysbjaya88.org^$popup,third-party
+||https://asianbandarq.com^$popup,third-party
+||https://livehkpools.com^$popup,third-party
 ||huzcotxmghlfip.bid^$popup,third-party
 ||hwoxt.com^$popup
 ||iklan-indo.org^$third-party
@@ -236,7 +350,9 @@
 ||trackingclick.net^$popup
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
+||notifa.info^$script,third-party
 ! *** abpindo_annoyance.txt ***
+/Pendekarqq-
 -abgqq.
 -agen-judi-
 -agenqq-
@@ -7413,8 +7529,8 @@ totojitu.gif|
 /usahaberhasil.gif|
 iklan300x250.gif|
 ! *** abpindo_specific_block.txt ***
-|http://$script,third-party,xmlhttprequest,domain=123videos.tv|animekita.net|apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|nontonanime.id|smallencode.com
-|https://$script,third-party,xmlhttprequest,domain=123videos.tv|animekita.net|apkfullpro.net|cinemamkv.xyz|dramaid.com|filmbioskopterbaru.id|ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|nontonanime.id|smallencode.com
+|http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
+|https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
 ||lk21.pw/assets/*.gif$image
 ||ns21.top/wp-content/uploads/*.gif$image
 ||armylookfashion.com/728.swf
@@ -7433,8 +7549,11 @@ iklan300x250.gif|
 ||bioskop55.me/wp-content/uploads/*.gif$image
 ||bioskop855.com/wp-content/uploads/*.gif$image
 ||bioskop855.net/wp-content/uploads/*.gif$image,domain=bioskop323.com
-||blogspot.com/*.gif$domain=film-drama.co
-||blogspot.com/*.gif$image,domain=bioskop99.mobi|bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
+||blogspot.com/*.gif$image,domain=film-drama.co
+||blogspot.com/*.gif$image,domain=moviebaru21.com
+||blogspot.com/*.gif$image,domain=nonton33.net
+||safelinku.com/fullpage/script.js$script,thirdparty
+||blogspot.com/*.gif$image,domain=bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif

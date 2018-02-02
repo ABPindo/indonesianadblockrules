@@ -6,3 +6,4 @@
 ||trackingclick.net^$popup
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
+||notifa.info^$script,third-party
