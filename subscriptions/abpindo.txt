@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zvc/OuIllBxiSSXkjf5vXw
+! Checksum: lXvfcWWn+4XZVswmDyku5w
 ! Title: ABPindo
-! Last modified: 07 Februari 2018, 09:36:06 WIB
+! Last modified: 25 Februari 2018, 09:54:36 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -13,6 +13,7 @@
 !
 ! *** abpindo_adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
+||35.188.59.75^$popup
 ||108.168.231.179^$popup,third-party
 ||130.211.212.60^$popup,third-party
 ||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
@@ -9155,6 +9156,7 @@ iklan300x250.gif|
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
 ! *** abpindo_whitelist.txt ***
+@@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script,domain=www.samehadaku.tv
 @@.png#$domain=awsubs.co|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sobatdrama.net
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
