@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: lXvfcWWn+4XZVswmDyku5w
+! Checksum: G2/Jfs3hQNOQ3wK8VZJHFw
 ! Title: ABPindo
-! Last modified: 25 Februari 2018, 09:54:36 WIB
+! Last modified: 28 Februari 2018, 09:55:22 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -8394,14 +8394,12 @@ totojitu.gif|
 ! *** abpindo_specific_block.txt ***
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
-||lk21.pw/assets/*.gif$image
 ||365wp.org/Banner/728x90$image
-||ns21.top/wp-content/uploads/*.gif$image
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
-||bintangmawar.net/forum/med_banner.php
 ||bintangmawar.net/forum/medright_banner.php
+||bintangmawar.net/forum/med_banner.php
 ||bintangmawar.net/forum/top_banner.php
 ||bioskop168.online/wp-content/uploads/*.gif$image
 ||bioskop19.com/wp-content/uploads/*.gif$image
@@ -8413,11 +8411,10 @@ totojitu.gif|
 ||bioskop55.me/wp-content/uploads/*.gif$image
 ||bioskop855.com/wp-content/uploads/*.gif$image
 ||bioskop855.net/wp-content/uploads/*.gif$image,domain=bioskop323.com
+||blogspot.com/*.gif$image,domain=bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||blogspot.com/*.gif$image,domain=film-drama.co
 ||blogspot.com/*.gif$image,domain=moviebaru21.com
 ||blogspot.com/*.gif$image,domain=nonton33.net
-||safelinku.com/fullpage/script.js$script,thirdparty
-||blogspot.com/*.gif$image,domain=bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
@@ -8443,6 +8440,7 @@ totojitu.gif|
 ||dldramaid.xyz/*.gif$image
 ||dramaid.com/banner/
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
+||dunia21.com/assets/*.gif$image
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
 ||eramuslim.com/banners
@@ -8517,6 +8515,7 @@ totojitu.gif|
 ||lk21.me/assets/*.gif
 ||lk21.net/assets/*.gif$image
 ||lk21.org/assets/*.gif
+||lk21.pw/assets/*.gif$image
 ||lk21.top/assets/*.gif$image
 ||lk21.tv/assets/*.gif
 ||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_overlay.png
@@ -8563,6 +8562,7 @@ totojitu.gif|
 ||noobscript.com^$script,third-party
 ||ns21.me/wp-content/uploads/*.gif$image
 ||ns21.org/wp-content/uploads/*.gif$image
+||ns21.top/wp-content/uploads/*.gif$image
 ||ns21.tv/wp-content/uploads/*.gif$image
 ||numpanglewat.com^$third-party
 ||numpangnonton.com/wp-content/uploads/*.gif$image
@@ -8575,6 +8575,7 @@ totojitu.gif|
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||resep.web.id/banner/
+||safelinku.com/fullpage/script.js$script,thirdparty
 ||semi168.xyz/wp-content/uploads/*.gif$image
 ||semuaberita.com/banner/
 ||senimovies.net/wp-content/uploads/*.gif$image
