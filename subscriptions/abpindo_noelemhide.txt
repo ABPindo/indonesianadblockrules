@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LkJdhMSRJ7Ohwoq3KD/eQw
+! Checksum: QyBvawQLg5vWwqkA2Xc8xQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 02 Maret 2018, 16:42:13 WIB
+! Last modified: 16 Maret 2018, 21:26:00 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -353,14 +353,6 @@
 ||trafficfactory.biz^$popup,third-party
 ||notifa.info^$script,third-party
 ! *** abpindo_annoyance.txt ***
-||topbet99.com^$popup,third-party
-||wismaqq.com^$popup,third-party
-||www.agungpoker.me^$popup,third-party
-||www.cekakses.com^$popup,third-party
-||www.naloindo.net^$popup,third-party
-||www.togeldomino.net^$popup,third-party
-||www.aladincash7t.com^$popup,third-party
-||www.aon-bet.com^$popup,third-party
 -abgqq.
 -agen-judi-
 -agenqq-
@@ -672,6 +664,7 @@ totojitu.gif|
 ||bolaindo77.com^$popup,third-party
 ||bolaketangkasan.com^$popup,third-party
 ||bolalabo.com^$popup,third-party
+||bolapk.com^$popup,third-party
 ||bolasuhu.com^$popup,third-party
 ||bolasukses.com^$popup,third-party
 ||bolavegas.com^$popup,third-party
@@ -835,6 +828,7 @@ totojitu.gif|
 ||kakakdewa.com^$popup,third-party
 ||kakakdewa.net^$popup,third-party
 ||kamarjudi.com^$popup,third-party
+||kartuajaib.com^$popup,third-party
 ||kartuhokky.net^$popup,third-party
 ||kartuking.net^$popup,third-party
 ||kasinobet.net^$popup,third-party
@@ -886,6 +880,7 @@ totojitu.gif|
 ||master138.net^$popup,third-party
 ||masterbaccarat.net^$popup,third-party
 ||masterbandar88.com^$popup,third-party
+||masternaga.me^$popup,third-party
 ||matasayu.com^$popup,third-party
 ||maxbbm.com^$popup,third-party
 ||meja13.net^$popup,third-party
@@ -922,6 +917,7 @@ totojitu.gif|
 ||opuspoker.com^$popup,third-party
 ||orientalpoker.com^$popup,third-party
 ||pamelapoker.co^$popup,third-party
+||panenpk2.com^$popup,third-party
 ||pantauqq.com^$popup,third-party
 ||papabet.com^$popup,third-party
 ||papadewa.net^$popup,third-party
@@ -1054,6 +1050,8 @@ totojitu.gif|
 ||togeltoto.net^$popup,third-party
 ||topbet899.com^$popup,third-party
 ||topbet99.com^$popup,third-party
+||Topbet99.com^$popup,third-party
+||topbet99.com^$popup,third-party
 ||toppoker789.net^$popup,third-party
 ||tores4d.com^$popup,third-party
 ||tri7bet.com^$popup,third-party
@@ -1086,9 +1084,23 @@ totojitu.gif|
 ||wespoker.com^$popup,third-party
 ||window-close.gq^$popup,third-party
 ||wingsqq.com^$popup,third-party
+||wismaqq.com^$popup,third-party
+||won77.net^$popup,third-party
 ||wongbet.asia^$popup,third-party
 ||wongpkr.com^$popup,third-party
 ||wongpkr.net^$popup,third-party
+||agungpoker.me^$popup,third-party
+||aladincash7t.com^$popup,third-party
+||Aon-bet.com^$popup,third-party
+||aon-bet.com^$popup,third-party
+||cekakses.com^$popup,third-party
+||hdp365.com^$popup,third-party
+||komisiqq.net^$popup,third-party
+||momopk2.com^$popup,third-party
+||naloindo.net^$popup,third-party
+||omsakong.com^$popup,third-party
+||togeldomino.net^$popup,third-party
+||transpoker.com^$popup,third-party
 ||wwwsgopoker.net^$popup,third-party
 ||ysbjaya88.com^$popup,third-party
 ||zenbola.com^$popup,third-party
