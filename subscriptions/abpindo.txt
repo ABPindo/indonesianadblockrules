@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: PZK9C7UrCrtI0NSQloNkHQ
+! Checksum: dkcV7ANA3F0vs9nL4fmygg
 ! Title: ABPindo
-! Last modified: 16 Maret 2018, 21:25:58 WIB
+! Last modified: 25 Maret 2018, 18:56:56 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -493,9 +493,11 @@
 /pokerqq-new.
 /pokerqq.
 /pusatqq.
+/qqpilihan.
 /raja-poker-
 /rajacapsa-
 /rajacapsa.
+/rajajudiqq-
 /rajapoker.
 /rajatogel88-
 /rajawaliqq.
@@ -591,15 +593,19 @@ totojitu.gif|
 ||agenvimaxindo.org^$popup,third-party
 ||agtwpoker.com^$popup,third-party
 ||agungpoker.com^$popup,third-party
+||agungpoker.me^$popup,third-party
 ||agwcash.com^$popup,third-party
 ||ahliqq.org^$popup,third-party
 ||ajobola.com^$popup,third-party
+||aladincash7t.com^$popup,third-party
 ||aladinpoker.net^$popup,third-party
 ||alamiqq.com^$popup,third-party
 ||alampoker.com^$popup,third-party
 ||amdbet88.com^$popup,third-party
 ||angkajitutogel.net^$popup,third-party
 ||aoecash.com^$popup,third-party
+||aon-bet.com^$popup,third-party
+||Aon-bet.com^$popup,third-party
 ||areabola.co^$popup,third-party
 ||arenacash88.com^$popup,third-party
 ||armanipoker.com^$popup,third-party
@@ -684,6 +690,7 @@ totojitu.gif|
 ||cashburners.biz^$popup,third-party
 ||casinosport88.com^$popup,third-party
 ||cbnpoker88.com^$popup,third-party
+||cekakses.com^$popup,third-party
 ||cendanagaming.com^$popup,third-party
 ||cendanapoker.com^$popup,third-party
 ||cinaqq.com^$popup,third-party
@@ -753,6 +760,7 @@ totojitu.gif|
 ||halodewa.com^$popup,third-party
 ||hanabet.net^$popup,third-party
 ||hasiltogel.club^$popup,third-party
+||hdp365.com^$popup,third-party
 ||hjtowin.online^$popup,third-party
 ||hnbwin.com^$popup,third-party
 ||hobibet.com^$popup,third-party
@@ -840,6 +848,7 @@ totojitu.gif|
 ||klikkiu.top^$popup,third-party
 ||klikuntung.com^$popup,third-party
 ||kokibet.com$popup,third-party
+||komisiqq.net^$popup,third-party
 ||komopoker.com^$popup,third-party
 ||kontolkuda.co^$popup,third-party
 ||kosmetik-obatkuat.com^$popup,third-party
@@ -894,12 +903,14 @@ totojitu.gif|
 ||mimpi4d.com^$popup,third-party
 ||misapoker.com^$popup,third-party
 ||mkvpoker.club^$popup,third-party
+||momopk2.com^$popup,third-party
 ||musimqq.com^$popup,third-party
 ||muvibet.com^$popup,third-party
 ||muvibet.net^$popup,third-party
 ||mydragonku.com^$popup,third-party
 ||myindomacau.com^$popup,third-party
 ||nagahoki.com^$popup,third-party
+||naloindo.net^$popup,third-party
 ||naloindo.net^$popup,third-party
 ||nasapoker.net^$popup,third-party
 ||neobola.club^$popup,third-party
@@ -912,6 +923,7 @@ totojitu.gif|
 ||obcbet.com^$popup,third-party
 ||okebos.top^$popup,third-party
 ||omi888.com^$popup,third-party
+||omsakong.com^$popup,third-party
 ||onclinic24.com^$popup,third-party
 ||onesbet.com^$popup,third-party
 ||opuspoker.com^$popup,third-party
@@ -1044,6 +1056,7 @@ totojitu.gif|
 ||togelbet.com^$popup,third-party
 ||togelbet.net^$popup,third-party
 ||togelbos.com^$popup,third-party
+||togeldomino.net^$popup,third-party
 ||togellounge.net^$popup,third-party
 ||togellounge99.com^$popup,third-party
 ||togelmaya.com^$popup,third-party
@@ -1054,6 +1067,7 @@ totojitu.gif|
 ||topbet99.com^$popup,third-party
 ||toppoker789.net^$popup,third-party
 ||tores4d.com^$popup,third-party
+||transpoker.com^$popup,third-party
 ||tri7bet.com^$popup,third-party
 ||tribunbolaku.com^$popup,third-party
 ||trikqq.com^$popup,third-party
@@ -1089,18 +1103,6 @@ totojitu.gif|
 ||wongbet.asia^$popup,third-party
 ||wongpkr.com^$popup,third-party
 ||wongpkr.net^$popup,third-party
-||agungpoker.me^$popup,third-party
-||aladincash7t.com^$popup,third-party
-||Aon-bet.com^$popup,third-party
-||aon-bet.com^$popup,third-party
-||cekakses.com^$popup,third-party
-||hdp365.com^$popup,third-party
-||komisiqq.net^$popup,third-party
-||momopk2.com^$popup,third-party
-||naloindo.net^$popup,third-party
-||omsakong.com^$popup,third-party
-||togeldomino.net^$popup,third-party
-||transpoker.com^$popup,third-party
 ||wwwsgopoker.net^$popup,third-party
 ||ysbjaya88.com^$popup,third-party
 ||zenbola.com^$popup,third-party
@@ -1297,6 +1299,7 @@ totojitu.gif|
 ##a[href^="http://elangcapsa.net"]
 ##a[href^="http://elanghoki.com"]
 ##a[href^="http://en.dompetbola.com"]
+##a[href^="http://enjoydomino.com/"]
 ##a[href^="http://ezebet.biz"]
 ##a[href^="http://ezebet.org"]
 ##a[href^="http://fadly168.ga/"]
@@ -1796,6 +1799,7 @@ totojitu.gif|
 ##a[href^="http://www.jalanalternatif.co"]
 ##a[href^="http://www.jarumpk.com"]
 ##a[href^="http://www.jasa888.com"]
+##a[href^="http://www.javtoys.com"]
 ##a[href^="http://www.jayahoki.com"]
 ##a[href^="http://www.jayamania.com"]
 ##a[href^="http://www.jayamania.net"]
@@ -8433,14 +8437,15 @@ totojitu.gif|
 ! *** abpindo_specific_block.txt ***
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
-||bioskop007.me/wp-content/uploads/*.gif$image
 ||365wp.org/Banner/728x90$image
+||animeindo.net/wp-content/uploads/*.gif$image
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
 ||bintangmawar.net/forum/medright_banner.php
 ||bintangmawar.net/forum/med_banner.php
 ||bintangmawar.net/forum/top_banner.php
+||bioskop007.me/wp-content/uploads/*.gif$image
 ||bioskop168.online/wp-content/uploads/*.gif$image
 ||bioskop19.com/wp-content/uploads/*.gif$image
 ||bioskop21.in/rtr$script,domain=bioskop21.info
@@ -8702,6 +8707,7 @@ bioskop90.com,bioskop90.me,cinema007.com,nontononline99.com###floating_banner_le
 bioskop90.com,nontonganool.net,sejutafilm.com##.sidebarborder:nth-of-type(2)
 bioskopfilm21.net###idmuvi-popup
 bioskopgalaxy21.com,semi168.xyz,tvkabel.net,www.indostreamings.xyz##.textwidget
+bioskopkeren.club##a[href^="https://goo.gl"]
 bioskopkeren.online##a[href^="https://goo.gl/"]
 bioskopmovie.tv###directorio > .random > center
 bioskoptigalima.com,icinema3satu.net##.textwidget img
@@ -8951,6 +8957,9 @@ makassar.tribunnews.com###wideskyscraper
 mangacanblog.com###close
 mangafap.com###lbanner
 mangaku.web.id##.adv
+mangapark.net##.kiwi-ad-sticky-wrapper
+mangapark.net##.kiwiad-desktop-popup-300x600-overlay
+mangapark.net##.kiwiad-popup-ad-container
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.bannerpos
 modifikasi.com##.cell_banner_inside

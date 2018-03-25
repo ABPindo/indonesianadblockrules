@@ -59,6 +59,7 @@ bioskop90.com,bioskop90.me,cinema007.com,nontononline99.com###floating_banner_le
 bioskop90.com,nontonganool.net,sejutafilm.com##.sidebarborder:nth-of-type(2)
 bioskopfilm21.net###idmuvi-popup
 bioskopgalaxy21.com,semi168.xyz,tvkabel.net,www.indostreamings.xyz##.textwidget
+bioskopkeren.club##a[href^="https://goo.gl"]
 bioskopkeren.online##a[href^="https://goo.gl/"]
 bioskopmovie.tv###directorio > .random > center
 bioskoptigalima.com,icinema3satu.net##.textwidget img
@@ -308,6 +309,9 @@ makassar.tribunnews.com###wideskyscraper
 mangacanblog.com###close
 mangafap.com###lbanner
 mangaku.web.id##.adv
+mangapark.net##.kiwi-ad-sticky-wrapper
+mangapark.net##.kiwiad-desktop-popup-300x600-overlay
+mangapark.net##.kiwiad-popup-ad-container
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.bannerpos
 modifikasi.com##.cell_banner_inside
