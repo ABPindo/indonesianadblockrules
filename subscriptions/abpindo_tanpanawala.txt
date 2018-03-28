@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1738giDWf8UvFcS5Zzs3nw
+! Checksum: PBHRyNPB1TG3AA5mjyH0RA
 ! Title: ABPindo tanpa nawala
-! Last modified: 28 Maret 2018, 18:51:04 WIB
+! Last modified: 28 Maret 2018, 20:54:32 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -604,8 +604,8 @@ totojitu.gif|
 ||amdbet88.com^$popup,third-party
 ||angkajitutogel.net^$popup,third-party
 ||aoecash.com^$popup,third-party
-||aon-bet.com^$popup,third-party
 ||Aon-bet.com^$popup,third-party
+||aon-bet.com^$popup,third-party
 ||areabola.co^$popup,third-party
 ||arenacash88.com^$popup,third-party
 ||armanipoker.com^$popup,third-party
@@ -871,6 +871,7 @@ totojitu.gif|
 ||lintasqq.net^$popup,third-party
 ||lintasqq.online^$popup,third-party
 ||lpkiukiu.pw^$popup,third-party
+||luckypoker188.com^$popup,third-party
 ||luxury138zz.com^$popup,third-party
 ||m88domino.net^$popup,third-party
 ||m8livepoker.com^$popup,third-party
@@ -921,6 +922,7 @@ totojitu.gif|
 ||obatpembesarpenisklg.id^$popup,third-party
 ||obatpembesarvimax.com^$popup,third-party
 ||obcbet.com^$popup,third-party
+||obccash.com^$popup,third-party
 ||okebos.top^$popup,third-party
 ||omi888.com^$popup,third-party
 ||omsakong.com^$popup,third-party
@@ -954,6 +956,7 @@ totojitu.gif|
 ||pokerindo99.com^$popup,third-party
 ||pokernasional.com^$popup,third-party
 ||pokeronlinecc.com^$popup,third-party
+||pokerpediaz.com^$popup,third-party
 ||pokerqq13.net^$popup,third-party
 ||pokerstar8.com^$popup,third-party
 ||pokerzara.net^$popup,third-party
@@ -1078,6 +1081,7 @@ totojitu.gif|
 ||ubc7.com^$popup,third-party
 ||ujungkontol.com^$popup,third-party
 ||unogoal88.com^$popup,third-party
+||usahatoto.com^$popup,third-party
 ||utamaqq.me^$popup,third-party
 ||vegas303.com^$popup,third-party
 ||venombet.com^$popup,third-party
@@ -1098,6 +1102,7 @@ totojitu.gif|
 ||wespoker.com^$popup,third-party
 ||window-close.gq^$popup,third-party
 ||wingsqq.com^$popup,third-party
+||winwinbola.com^$popup,third-party
 ||wismaqq.com^$popup,third-party
 ||won77.net^$popup,third-party
 ||wongbet.asia^$popup,third-party
@@ -1686,6 +1691,7 @@ totojitu.gif|
 ##a[href^="http://wedepoker.com"]
 ##a[href^="http://window-close.gq"]
 ##a[href^="http://wingsqq.com"]
+##a[href^="http://winwinbola.com"]
 ##a[href^="http://wismaqq.com"]
 ##a[href^="http://won77.net"]
 ##a[href^="http://wong-poker.com"]
@@ -1815,6 +1821,7 @@ totojitu.gif|
 ##a[href^="http://www.liga369.com"]
 ##a[href^="http://www.liga888.com"]
 ##a[href^="http://www.ligakita.com"]
+##a[href^="http://www.luckypoker188.com"]
 ##a[href^="http://www.luxury138zz.com"]
 ##a[href^="http://www.m88domino.net"]
 ##a[href^="http://www.mainidb.com"]
@@ -1842,6 +1849,7 @@ totojitu.gif|
 ##a[href^="http://www.negarakartu.com"]
 ##a[href^="http://www.neobola.club"]
 ##a[href^="http://www.obcbet.com"]
+##a[href^="http://www.obccash.com"]
 ##a[href^="http://www.omsakong.com"]
 ##a[href^="http://www.opuspoker.com"]
 ##a[href^="http://www.pabrikpoker.com"]
@@ -1854,6 +1862,7 @@ totojitu.gif|
 ##a[href^="http://www.pokerastro.com"]
 ##a[href^="http://www.pokermon24.net"]
 ##a[href^="http://www.pokernasional.com"]
+##a[href^="http://www.pokerpediaz.com"]
 ##a[href^="http://www.pokerstar8.com"]
 ##a[href^="http://www.pokerzara.net"]
 ##a[href^="http://www.prediksi855.com"]
@@ -1892,6 +1901,7 @@ totojitu.gif|
 ##a[href^="http://www.tujuhbet.com"]
 ##a[href^="http://www.ubc7.com"]
 ##a[href^="http://www.unogoal88.com"]
+##a[href^="http://www.usahatoto.com"]
 ##a[href^="http://www.venombet.com"]
 ##a[href^="http://www.venombet.net"]
 ##a[href^="http://www.vimaxasli.id"]
@@ -2356,6 +2366,7 @@ animeindo.net###videoad1
 animeindo.web.id##.in_up_ad-area
 antaranews.com##.ads_top_728
 awsubs.co,benfile.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.org,kabar2.com,mangacanblog.com,mangakita.net,mangaku.web.id,nontonbokeps.com,nusareborn.in,rumahbokep.org,semuaberita.com###btm_banner
+awsubs.id##a[href^="https://goo.gl"]
 b201.info##.lenyap
 b201.info,bioskop201.biz###kayan_reklam_sag
 b201.info,bioskop201.biz###kayan_reklam_sol
@@ -2500,6 +2511,7 @@ ganool.*,ganool.is,ganool.ph##.col-xs-12.col-md-6.col-lg-6
 ganool.se###epom-6c797c50-fade
 ganool.se##strong > .col-xs-12.col-sm-3.col-md-3.col-lg-3
 ganool.st##.col-xs-12.col-md-6.col-lg-6
+ganool.web.id###floating_ads_bottom_textcss2
 ganoollk21.info##.inner-floatbanner-bottom
 ganoolmovie.video##a[href="http://bit.ly"]
 ganoolmovie.video##a[href^="http://bit.ly"]
@@ -2635,6 +2647,9 @@ lihat.co.id##img[width="300"][height="250"]
 liputan6.com##.box-ads-right
 lk21.me,nontonmovie.web.id###fbbanner
 lk21.pw###float-banner
+lk21.web.id###top-banner
+lk21.web.id##a[href^="http://bit.ly"]
+lk21.web.id##a[href^="http://goo.gl"]
 log.viva.co.id###bottomframe-ad
 log.viva.co.id###skinframe-ad-left
 loveindonesia.com##.ad_990_80
