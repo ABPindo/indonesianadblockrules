@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: b2K/KHJRuKUTV6g9QqhCJQ
+! Checksum: vZSbenlyW0cvu6zgELNnHw
 ! Title: ABPindo
-! Last modified: 28 Maret 2018, 20:54:30 WIB
+! Last modified: 04 Mei 2018, 16:56:24 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -8618,6 +8618,7 @@ totojitu.gif|
 ||noobscript.com^$script,third-party
 ||ns21.me/wp-content/uploads/*.gif$image
 ||ns21.org/wp-content/uploads/*.gif$image
+||ns21.pw/wp-content/uploads/*.gif$image
 ||ns21.top/wp-content/uploads/*.gif$image
 ||ns21.tv/wp-content/uploads/*.gif$image
 ||numpanglewat.com^$third-party
@@ -8878,6 +8879,7 @@ indoxtream.com##.sidebar-widget:nth-of-type(4)
 indoxxi.net##.coliklan
 indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-sol
+indoxxi.tv###home-bnner-content
 indoxxi.tv###top-bnner-content
 inilah.com##.bt-g1.b-g3.wb-300x100
 inilah.com##.bt-g1.b-g3.wb-300x250

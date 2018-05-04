@@ -171,6 +171,7 @@
 ||noobscript.com^$script,third-party
 ||ns21.me/wp-content/uploads/*.gif$image
 ||ns21.org/wp-content/uploads/*.gif$image
+||ns21.pw/wp-content/uploads/*.gif$image
 ||ns21.top/wp-content/uploads/*.gif$image
 ||ns21.tv/wp-content/uploads/*.gif$image
 ||numpanglewat.com^$third-party
