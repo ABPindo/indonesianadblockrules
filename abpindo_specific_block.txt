@@ -21,6 +21,7 @@
 ||bioskop855.com/wp-content/uploads/*.gif$image
 ||bioskop855.net/wp-content/uploads/*.gif$image,domain=bioskop323.com
 ||blogspot.com/*.gif$image,domain=bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
+||blogspot.com/*.gif$image,domain=drakorindo.tv
 ||blogspot.com/*.gif$image,domain=film-drama.co
 ||blogspot.com/*.gif$image,domain=moviebaru21.com
 ||blogspot.com/*.gif$image,domain=nonton33.net
@@ -51,6 +52,7 @@
 ||dramaid.com/banner/
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||dunia21.com/assets/*.gif$image
+||dunia21.net/assets/*.gif$image
 ||dunia21.tv/assets/*.gif$image
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
@@ -173,6 +175,7 @@
 ||nontonstreaming.co/img/closeX.png
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||noobscript.com^$script,third-party
+||ns21.co/wp-content/uploads/*.gif$image
 ||ns21.me/wp-content/uploads/*.gif$image
 ||ns21.org/wp-content/uploads/*.gif$image
 ||ns21.pw/wp-content/uploads/*.gif$image
