@@ -1,6 +1,7 @@
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
 ||365wp.org/Banner/728x90$image
+||adsimg.kompas.com^$domain=kompas.com
 ||angel.exabytes.com.my/banners/
 ||animeindo.net/wp-content/uploads/*.gif$image
 ||armylookfashion.com/728.swf
@@ -191,6 +192,7 @@
 ||postimg.org/*.gif$image,domain=cinemaindo.web.id|downloadfilmbaru.com|filmbagus21.info|filmbagus21.web.id|layarkaca21.net|layarkaca21.web.id|nontonmovie.web.id|r-l.me|zonabola.com
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
+||pwbjlbz.com^$domain=kompas.com
 ||resep.web.id/banner/
 ||safelinku.com/fullpage/script.js$script,thirdparty
 ||semi168.xyz/wp-content/uploads/*.gif$image
