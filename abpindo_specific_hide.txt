@@ -1,3 +1,10 @@
+inet.detik.com##.balloon.detikads
+lk21tv.com###float-banner
+lk21tv.com###float-bottom-banner
+lk21tv.com###middle-banner
+lk21tv.com###ptbanner
+lk21tv.com###top-banner
+ninemanga.com##.sitemaji_banner
 123drakor.com##a[href^="http://bit.ly"]
 123drakor.com##a[href^="https://goo.gl"]
 173.199.167.192,krucil.com,krucil.net###KD_adpB
