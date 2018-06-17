@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #!C:\Python33 python.exe
 """ FOP
     Filter Orderer and Preener
@@ -16,7 +17,7 @@
     You should have received a copy of the GNU General Public License
     along with this program. If not, see <http://www.gnu.org/licenses/>."""
 # FOP version number
-VERSION = 3.8
+VERSION = 3.9
 
 # Import the key modules
 import collections, filecmp, os, re, subprocess, sys
@@ -33,14 +34,14 @@ from urllib.parse import urlparse
 # Compile regular expressions to match important filter parts (derived from Wladimir Palant's Adblock Plus source code)
 ELEMENTDOMAINPATTERN = re.compile(r"^([^\/\*\|\@\"\!]*?)#\@?#")
 FILTERDOMAINPATTERN = re.compile(r"(?:\$|\,)domain\=([^\,\s]+)$")
-ELEMENTPATTERN = re.compile(r"^([^\/\*\|\@\"\!]*?)(#\@?#)([^{}]+)$")
+ELEMENTPATTERN = re.compile(r"^([^\/\*\|\@\"\!]*?)(#\@?#?)([^{}]+)$")
 OPTIONPATTERN = re.compile(r"^(.*)\$(~?[\w\-]+(?:=[^,\s]+)?(?:,~?[\w\-]+(?:=[^,\s]+)?)*)$")
 
 # Compile regular expressions that match element tags and pseudo classes and strings and tree selectors; "@" indicates either the beginning or the end of a selector
 SELECTORPATTERN = re.compile(r"(?<=[\s\[@])([a-zA-Z]*[A-Z][a-zA-Z0-9]*)((?=([\[\]\^\*\$=:@#\.]))|(?=(\s(?:[+>~]|\*|[a-zA-Z][a-zA-Z0-9]*[\[:@\s#\.]|[#\.][a-zA-Z][a-zA-Z0-9]*))))")
 PSEUDOPATTERN = re.compile(r"(\:[a-zA-Z\-]*[A-Z][a-zA-Z\-]*)(?=([\(\:\@\s]))")
 REMOVALPATTERN = re.compile(r"((?<=([>+~,]\s))|(?<=(@|\s|,)))(\*)(?=([#\.\[\:]))")
-ATTRIBUTEVALUEPATTERN = re.compile(r"^([^\'\"\\]|\\.)*(\"(?:[^\"\\]|\\.)*\"|\'(?:[^\'\\]|\\.)*\')")
+ATTRIBUTEVALUEPATTERN = re.compile(r"^([^\'\"\\]|\\.)*(\"(?:[^\"\\]|\\.)*\"|\'(?:[^\'\\]|\\.)*\')|\*")
 TREESELECTOR = re.compile(r"(\\.|[^\+\>\~\\\ \t])\s*([\+\>\~\ \t])\s*(\D)")
 UNICODESELECTOR = re.compile(r"\\[0-9a-fA-F]{1,6}\s[a-zA-Z]*[A-Z]")
 
@@ -55,14 +56,14 @@ IGNORE = ("CC-BY-SA.txt", "easytest.txt", "GPL.txt", "MPL.txt",
           "enhancedstats-addon.txt", "fanboy-tracking", "firefox-regional", "other")
 
 # List all Adblock Plus options (excepting domain, which is handled separately), as of version 1.3.9
-KNOWNOPTIONS = ("collapse", "document", "elemhide",
-                "font", "image", "match-case", "object", "media",
-                "object-subrequest", "other", "popup", "script",
-                "stylesheet", "subdocument", "third-party", "xmlhttprequest")
+KNOWNOPTIONS = ("collapse", "csp", "document", "elemhide",
+                "font", "genericblock", "generichide", "image", "match-case",
+                "object", "media", "object-subrequest", "other", "ping", "popup", "rewrite",
+                "script", "stylesheet", "subdocument", "third-party", "websocket", "webrtc", "xmlhttprequest")
 
 # List the supported revision control system commands
 REPODEF = collections.namedtuple("repodef", "name, directory, locationoption, repodirectoryoption, checkchanges, difference, commit, pull, push")
-GIT = REPODEF(["git"], "./.git/", "--work-tree=", "--git-dir=", ["status", "-s", "--untracked-files=no"], ["diff"], ["commit", "-m"], ["pull"], ["push"])
+GIT = REPODEF(["git"], "./.git/", "--work-tree=", "--git-dir=", ["status", "-s", "--untracked-files=no"], ["diff"], ["commit", "-a", "-m"], ["pull"], ["push"])
 HG = REPODEF(["hg"], "./.hg/", "-R", None, ["stat", "-q"], ["diff"], ["commit", "-m"], ["pull"], ["push"])
 REPOTYPES = (GIT, HG)
 
@@ -163,25 +164,30 @@ def fopsort (filename):
                 domains1 = re.search(DOMAINPATTERN, uncombinedFilters[i])
                 if i+1 < len(uncombinedFilters) and domains1:
                     domains2 = re.search(DOMAINPATTERN, uncombinedFilters[i+1])
-                if not domains1 or i+1 == len(uncombinedFilters) or not domains2 or len(domains1.group(1)) == 0 or len(domains2.group(1)) == 0:
+                    domain1str = domains1.group(1)
+                
+                if not domains1 or i+1 == len(uncombinedFilters) or not domains2 or len(domain1str) == 0 or len(domains2.group(1)) == 0:
                     # last filter or filter didn't match regex or no domains
                     combinedFilters.append(uncombinedFilters[i])
-                elif domains1.group(0).replace(domains1.group(1), domains2.group(1), 1) != domains2.group(0):
-                    # non-identical filters shouldn't be combined
-                    combinedFilters.append(uncombinedFilters[i])
-                elif re.sub(DOMAINPATTERN, "", uncombinedFilters[i]) == re.sub(DOMAINPATTERN, "", uncombinedFilters[i+1]):
-                    # identical filters. Try to combine them...
-                    newDomains = "{d1}{sep}{d2}".format(d1=domains1.group(1), sep=domainseparator, d2=domains2.group(1))
-                    newDomains = domainseparator.join(sorted(set(newDomains.split(domainseparator)), key = lambda domain: domain.strip("~")))
-                    if newDomains.count("~") > 0 and newDomains.count("~") != newDomains.count(domainseparator) + 1:
-                        # skip combining rules with both included and excluded domains. It can go wrong in many ways and is not worth the code needed to do it correctly
-                        combinedFilters.append(uncombinedFilters[i])
-                    else:
-                        domainssubstitute = domains1.group(0).replace(domains1.group(1), newDomains, 1)
-                        uncombinedFilters[i+1] = re.sub(DOMAINPATTERN, domainssubstitute, uncombinedFilters[i])
                 else:
-                    # non-identical filters shouldn't be combined
-                    combinedFilters.append(uncombinedFilters[i])
+                    domain2str = domains2.group(1)
+                    if domains1.group(0).replace(domain1str, domain2str, 1) != domains2.group(0):
+                        # non-identical filters shouldn't be combined
+                        combinedFilters.append(uncombinedFilters[i])
+                    elif re.sub(DOMAINPATTERN, "", uncombinedFilters[i]) == re.sub(DOMAINPATTERN, "", uncombinedFilters[i+1]):
+                        # identical filters. Try to combine them...
+                        newDomains = "{d1}{sep}{d2}".format(d1=domain1str, sep=domainseparator, d2=domain2str)
+                        newDomains = domainseparator.join(sorted(set(newDomains.split(domainseparator)), key = lambda domain: domain.strip("~")))
+                        if (domain1str.count("~") != domain1str.count(domainseparator) + 1) != (domain2str.count("~") != domain2str.count(domainseparator) + 1):
+                            # do not combine rules containing included domains with rules containing only excluded domains
+                            combinedFilters.append(uncombinedFilters[i])
+                        else:
+                            # either both contain one or more included domains, or both contain only excluded domains
+                            domainssubstitute = domains1.group(0).replace(domain1str, newDomains, 1)
+                            uncombinedFilters[i+1] = re.sub(DOMAINPATTERN, domainssubstitute, uncombinedFilters[i])
+                    else:
+                        # non-identical filters shouldn't be combined
+                        combinedFilters.append(uncombinedFilters[i])
             return combinedFilters
 
 
@@ -324,7 +330,12 @@ def commit (repository, basecommand, userchanges):
         print("\nNo changes have been recorded by the repository.")
         return
     print("\nThe following changes have been recorded by the repository:")
-    print(difference.decode("utf-8"))
+    try:
+        print(difference.decode("utf-8"))
+    except UnicodeEncodeError:
+        print("\nERROR: DIFF CONTAINED UNKNOWN CHARACTER(S). Showing unformatted diff instead:\n");
+        print(difference)
+
     try:
         # Persistently request a suitable comment
         while True:
@@ -373,7 +384,7 @@ def removeunnecessarywildcards (filtertext):
     while len(filtertext) > 1 and filtertext[0] == "*" and not filtertext[1] == "|" and not filtertext[1] == "!":
         filtertext = filtertext[1:]
         hadStar = True
-    while len(filtertext) > 1 and filtertext[-1] == "*" and not filtertext[-2] == "|":
+    while len(filtertext) > 1 and filtertext[-1] == "*" and not filtertext[-2] == "|" and not filtertext[-2] == " ": 
         filtertext = filtertext[:-1]
         hadStar = True
     if hadStar and filtertext[0] == "/" and filtertext[-1] == "/":

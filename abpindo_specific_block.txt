@@ -7,8 +7,8 @@
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
-||bintangmawar.net/forum/medright_banner.php
 ||bintangmawar.net/forum/med_banner.php
+||bintangmawar.net/forum/medright_banner.php
 ||bintangmawar.net/forum/top_banner.php
 ||bioskop007.me/wp-content/uploads/*.gif$image
 ||bioskop168.online/wp-content/uploads/*.gif$image
@@ -21,11 +21,7 @@
 ||bioskop55.me/wp-content/uploads/*.gif$image
 ||bioskop855.com/wp-content/uploads/*.gif$image
 ||bioskop855.net/wp-content/uploads/*.gif$image,domain=bioskop323.com
-||blogspot.com/*.gif$image,domain=bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|duniasex.ws|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|neumanga.tv|nonton.club|nonton33.com|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
-||blogspot.com/*.gif$image,domain=drakorindo.tv
-||blogspot.com/*.gif$image,domain=film-drama.co
-||blogspot.com/*.gif$image,domain=moviebaru21.com
-||blogspot.com/*.gif$image,domain=nonton33.net
+||blogspot.com/*.gif$image,domain=bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|duniasex.ws|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|movie76.net|moviebaru21.com|neumanga.tv|nonton.club|nonton33.com|nonton33.net|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.kaskus.com/img/skin/*.gif
@@ -40,7 +36,7 @@
 ||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$script,~third-party
 ||cinemaqq.com/wp-content/uploads/*.gif$image
 ||cinemastar21.com/wp-content/uploads/*.gif$image
-||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.nl|ganool.ph|goody.to|goon.to|mangatown.com|ganool.li
+||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.li|ganool.nl|ganool.ph|goody.to|goon.to|mangatown.com
 ||coblos.net^*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif
 ||detik.com/images/banners/
@@ -166,7 +162,6 @@
 ||nontonbox.tv/wp-content/uploads/*.gif
 ||nontondramaonline.co/oke/*.gif$image
 ||nontonfilm77.com/wp-content/uploads/*.gif$image
-||nontonfilm77.com/wp-content/uploads/*.gif$image
 ||nontonfilmbaru.com/wp-content/uploads/*.gif$image
 ||nontonfilmku.net/wp-content/uploads/*.gif$image
 ||nontonindrama.com/oke/*.gif$image,domain=nontononlinedrama.co
@@ -194,7 +189,7 @@
 ||pulsk.com/img/x.png
 ||pwbjlbz.com^$domain=kompas.com
 ||resep.web.id/banner/
-||safelinku.com/fullpage/script.js$script,thirdparty
+||safelinku.com/fullpage/script.js$script,third-party
 ||semi168.xyz/wp-content/uploads/*.gif$image
 ||semuaberita.com/banner/
 ||senimovies.net/wp-content/uploads/*.gif$image
@@ -204,8 +199,7 @@
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
-||tinypic.com/*.gif$image,domain=bioskop78.com|bioskop78.net|icinema3satu.net|nontonfilm.mobi|nontonganool.net
-||tinypic.com/*.gif$image,domain=movie303.com|nonton33.tv
+||tinypic.com/*.gif$image,domain=bioskop78.com|bioskop78.net|icinema3satu.net|movie303.com|nonton33.tv|nontonfilm.mobi|nontonganool.net
 ||tribunnews.com/stylesheets/close.gif
 ||tvkabel.net/prom/*.gif
 ||upload.coblos.net/images/*.gif
