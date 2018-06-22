@@ -223,7 +223,6 @@ mangaku.web.id##.adv
 dramacool.io,dramanice.io,k-vid.com##.adv-space
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
-webpcmag.com##.afs_ads
 indoxtream.com##.aligncenter
 bokep.click##.alignnone
 palingseru.com##.alignnone.size-large.wp-image-458
@@ -278,6 +277,7 @@ juragan21.com##.cintasemprot_floating_banner_bottom
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
+kompas.com##.clearfix.kcm__rectangle.kcm
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 ganool.st##.col-xs-12.col-md-6.col-lg-6
@@ -387,7 +387,6 @@ iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
 bioskop19.com##a[href="http://162.144.35.114/"]
 bioskop54.com,bioskop90.me##a[href="http://45.63.19.229/"]
-ganoolmovie.video##a[href="http://bit.ly"]
 kshowid.com##a[href="http://kshowid.com/advertising/"]
 filmxy.cc##a[href="http://www.filmxy.cc/download/"]
 filmxy.cc##a[href="http://www.filmxy.cc/watch/"]

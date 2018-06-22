@@ -22,9 +22,9 @@
 ||abrts.pro^$popup,third-party
 ||ad.adflazz.com^$third-party
 ||addesigner.com^$third-party
-||adexchangecloud.com^$third-party
 ||adexp.net^$third-party
 ||admarketplace.net^$popup,third-party
+||admp.io^$third-party
 ||adnety.com^$popup,third-party
 ||adplus.co.id^$third-party
 ||adpop-1.com^$third-party
@@ -56,13 +56,11 @@
 ||baftarbandarkiu.com^$popup,third-party
 ||bakaratonline.com^$popup,third-party
 ||baliadv.com^$third-party
-||bandarbolaasia.com^$popup,third-party
 ||bandarkiu.mobi^$popup,third-party
 ||bandarpoker.us^$popup,third-party
 ||bandarq.mobi^$popup,third-party
 ||bandarqterpercaya.net^$popup,third-party
 ||bandarsakong.info^$popup,third-party
-||bandartogelsingapore.com^$popup,third-party
 ||beliqq.me^$popup,third-party
 ||bellaads.com^$third-party
 ||bmnet-ads.com^$third-party
@@ -79,8 +77,6 @@
 ||cjsab.com^$popup,third-party
 ||clickforfreeandready2updating.bid^
 ||clickmedia.co.id^$third-party
-||clickredirection.com^$third-party
-||codeonclick.com^$third-party
 ||cpaclickoffers.com^$popup,third-party
 ||creditcardsbest.club^$third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
@@ -122,6 +118,7 @@
 ||fonderreaders.info^$popup,third-party
 ||forumiklan.com^$third-party
 ||gahhlbxdgw.com^$popup,third-party
+||gehzj.com^$third-party
 ||gjeyqtunbnap.com^$popup,third-party
 ||greatwork.info^$popup,third-party
 ||groupiklan.com^$third-party

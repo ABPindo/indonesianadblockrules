@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cGhID8gQvnMrhXiFt2Rk0w
+! Checksum: oCK01al4VJ29vZi03NxbLA
 ! Title: ABPindo tanpa nawala
-! Last modified: 15 Juni 2018, 16:13:35 WIB
+! Last modified: 23 Juni 2018, 05:47:53 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -36,9 +36,9 @@
 ||abrts.pro^$popup,third-party
 ||ad.adflazz.com^$third-party
 ||addesigner.com^$third-party
-||adexchangecloud.com^$third-party
 ||adexp.net^$third-party
 ||admarketplace.net^$popup,third-party
+||admp.io^$third-party
 ||adnety.com^$popup,third-party
 ||adplus.co.id^$third-party
 ||adpop-1.com^$third-party
@@ -70,13 +70,11 @@
 ||baftarbandarkiu.com^$popup,third-party
 ||bakaratonline.com^$popup,third-party
 ||baliadv.com^$third-party
-||bandarbolaasia.com^$popup,third-party
 ||bandarkiu.mobi^$popup,third-party
 ||bandarpoker.us^$popup,third-party
 ||bandarq.mobi^$popup,third-party
 ||bandarqterpercaya.net^$popup,third-party
 ||bandarsakong.info^$popup,third-party
-||bandartogelsingapore.com^$popup,third-party
 ||beliqq.me^$popup,third-party
 ||bellaads.com^$third-party
 ||bmnet-ads.com^$third-party
@@ -93,8 +91,6 @@
 ||cjsab.com^$popup,third-party
 ||clickforfreeandready2updating.bid^
 ||clickmedia.co.id^$third-party
-||clickredirection.com^$third-party
-||codeonclick.com^$third-party
 ||cpaclickoffers.com^$popup,third-party
 ||creditcardsbest.club^$third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
@@ -136,6 +132,7 @@
 ||fonderreaders.info^$popup,third-party
 ||forumiklan.com^$third-party
 ||gahhlbxdgw.com^$popup,third-party
+||gehzj.com^$third-party
 ||gjeyqtunbnap.com^$popup,third-party
 ||greatwork.info^$popup,third-party
 ||groupiklan.com^$third-party
@@ -605,7 +602,6 @@ totojitu.gif|
 ||amdbet88.com^$popup,third-party
 ||angkajitutogel.net^$popup,third-party
 ||aoecash.com^$popup,third-party
-||Aon-bet.com^$popup,third-party
 ||aon-bet.com^$popup,third-party
 ||areabola.co^$popup,third-party
 ||arenacash88.com^$popup,third-party
@@ -634,6 +630,7 @@ totojitu.gif|
 ||bandar228.com^$popup,third-party
 ||bandarasia.com^$popup,third-party
 ||bandarbet77.net^$popup,third-party
+||bandarbolaasia.com^$popup,third-party
 ||bandarbursa.com^$popup,third-party
 ||bandarjudi.com^$popup,third-party
 ||bandarqq.com^$popup,third-party
@@ -1065,7 +1062,6 @@ totojitu.gif|
 ||togelmaya.com^$popup,third-party
 ||togeltoto.net^$popup,third-party
 ||topbet899.com^$popup,third-party
-||Topbet99.com^$popup,third-party
 ||topbet99.com^$popup,third-party
 ||toppoker789.net^$popup,third-party
 ||tores4d.com^$popup,third-party
@@ -2185,7 +2181,6 @@ totojitu.gif|
 ||dewa.tv/banner/
 ||dewamovie.net/wp-content/uploads/*.gif
 ||dewanontons.com/wp-content/uploads/*.gif
-||dewanontons.com/wp-content/uploads/*.gif$image
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
 ||dldramaid.xyz/*.gif$image
 ||dramaid.com/banner/
@@ -2331,7 +2326,7 @@ totojitu.gif|
 ||pulsk.com/img/x.png
 ||pwbjlbz.com^$domain=kompas.com
 ||resep.web.id/banner/
-||safelinku.com/fullpage/script.js$script,thirdparty
+||safelinku.com/fullpage/script.js$script,third-party
 ||semi168.xyz/wp-content/uploads/*.gif$image
 ||semuaberita.com/banner/
 ||senimovies.net/wp-content/uploads/*.gif$image
@@ -2578,7 +2573,6 @@ mangaku.web.id##.adv
 dramacool.io,dramanice.io,k-vid.com##.adv-space
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
-webpcmag.com##.afs_ads
 indoxtream.com##.aligncenter
 bokep.click##.alignnone
 palingseru.com##.alignnone.size-large.wp-image-458
@@ -2633,6 +2627,7 @@ juragan21.com##.cintasemprot_floating_banner_bottom
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
+kompas.com##.clearfix.kcm__rectangle.kcm
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 ganool.st##.col-xs-12.col-md-6.col-lg-6
@@ -2742,7 +2737,6 @@ iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
 bioskop19.com##a[href="http://162.144.35.114/"]
 bioskop54.com,bioskop90.me##a[href="http://45.63.19.229/"]
-ganoolmovie.video##a[href="http://bit.ly"]
 kshowid.com##a[href="http://kshowid.com/advertising/"]
 filmxy.cc##a[href="http://www.filmxy.cc/download/"]
 filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
