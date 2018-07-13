@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Hd1TGD31FOWlfhUcABUIXw
+! Checksum: ZvNINQlS9xKo5gxOTWNRpg
 ! Title: ABPindo tanpa nawala
-! Last modified: 13 Juli 2018, 07:39:40 WIB
+! Last modified: 14 Juli 2018, 06:33:13 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2631,6 +2631,7 @@ filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 kompas.com##.clearfix.kcm__big.kcm
 kompas.com##.clearfix.kcm__rectangle.kcm
 kompas.com##.clearfix.kcm__top.kcm
+kompas.com##.clearfix.kcm__tower.kcm
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 ganool.st##.col-xs-12.col-md-6.col-lg-6
