@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NfdYFKPfidloViippL1Gow
+! Checksum: 6IpdkfK54oajpNlOZ84Bbw
 ! Title: ABPindo
-! Last modified: 14 Juli 2018, 06:33:09 WIB
+! Last modified: 16 Juli 2018, 20:02:56 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -46,6 +46,7 @@
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
+||adsco.re^$third-party
 ||adscpm.site^$third-party
 ||adsdelivery.bid^$popup,third-party
 ||adskom.com^$third-party
@@ -8603,6 +8604,8 @@ totojitu.gif|
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||n21.tv/wp-content/uploads/*.gif$image
+||nobartv.com/adsLoader/$xmlhttprequest
+||nobartv.com/img/banner/*.gif
 ||nonton.club/wp-content/uploads/*.gif$image
 ||nonton21.tv/wp-content/uploads/*.gif$image
 ||nonton33.tv/wp-content/uploads/*.gif$image
@@ -8787,6 +8790,7 @@ lk21tv.com###middle-banner
 fastdrama.co,hkfree.co###modal
 indotelko.com###more_stories
 fastdrama.co###myModal
+nobartv.com###nbpopx-wrapper
 viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
@@ -8978,6 +8982,7 @@ detik.com##.iklan_tengah
 cinemaindo.web.id,layarkaca21.net,nonton21.net##.img-responsive
 animeindo.web.id##.in_up_ad-area
 ganoollk21.info##.inner-floatbanner-bottom
+nobartv.com##.jx-ads.nobar-ads
 kompas.com##.kcm__horizontal.kcm
 mangapark.net##.kiwi-ad-sticky-wrapper
 mangapark.net##.kiwiad-desktop-popup-300x600-overlay

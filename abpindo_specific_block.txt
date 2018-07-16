@@ -153,6 +153,8 @@
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||n21.tv/wp-content/uploads/*.gif$image
+||nobartv.com/adsLoader/$xmlhttprequest
+||nobartv.com/img/banner/*.gif
 ||nonton.club/wp-content/uploads/*.gif$image
 ||nonton21.tv/wp-content/uploads/*.gif$image
 ||nonton33.tv/wp-content/uploads/*.gif$image
