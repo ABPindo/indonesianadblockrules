@@ -452,3 +452,5 @@ layarkaca21.*,lk21.*##.fancybox-skin
 ganool.se##strong > .col-xs-12.col-sm-3.col-md-3.col-lg-3
 satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
+tetew.info,greget.space##h2
+tetew.info,greget.space##.c-message > div:nth-of-type(1)
