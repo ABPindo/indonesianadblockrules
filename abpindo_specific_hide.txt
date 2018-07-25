@@ -456,3 +456,5 @@ tetew.info,greget.space##h2
 tetew.info,greget.space##.c-message > div:nth-of-type(1)
 tribunnews.com###wideskyscraper
 detik.com,finance.detik.com,food.detik.com,health.detik.com,hot.detik.com,inet.detik.com,m.detik.com,news.detik.com,oto.detik.com,sport.detik.com,travel.detik.com,wolipop.detik.com##.detikads
+kaskus.co.id##.more-like:has-text(More from Jual Beli)
+kaskus.co.id##.header__kasad
