@@ -72,6 +72,7 @@ lk21.pw,lk21tv.com###float-banner
 lk21tv.com###float-bottom-banner
 remo-xp.com###float-left
 remo-xp.com###float-right
+awsubs.co###floatads
 moviebaru21.com###floatads1
 komiku.net###floatads2
 komiku.net###floatads3
@@ -317,6 +318,8 @@ kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
+awsubs.co##.iklanhead
+awsubs.co##.iklansamping
 cinemaindo.web.id,layarkaca21.net,nonton21.net##.img-responsive
 animeindo.video,animeindo.web.id##.in_up_ad-area
 ganoollk21.info##.inner-floatbanner-bottom
@@ -333,6 +336,7 @@ b201.info##.lenyap
 nontonbokeps.com##.mask-ads
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 dapurpacu.com##.mid-banner
+awsubs.co##.minipusat
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
@@ -347,6 +351,7 @@ susterbokep.com##.overlay
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 viva.co.id##.portlet.sideskycrapper
+awsubs.co##.pusat728
 otomania.com##.r-ads
 film-ganool.com##.random
 okezone.com##.rc-ad-300x250
@@ -362,6 +367,7 @@ cinemaindo.com##.side:nth-of-type(9)
 indoxtream.com##.sidebar-widget:nth-of-type(1)
 indoxtream.com##.sidebar-widget:nth-of-type(3)
 indoxtream.com##.sidebar-widget:nth-of-type(4)
+awsubs.co##.sidebar_right
 bioskop90.com,nontonganool.net,sejutafilm.com##.sidebarborder:nth-of-type(2)
 nontonganool.net##.sidebarborder:nth-of-type(4)
 nontonganool.net##.sidebarborder:nth-of-type(5)
@@ -460,10 +466,3 @@ layarkaca21.*,lk21.*##.fancybox-skin
 ganool.se##strong > .col-xs-12.col-sm-3.col-md-3.col-lg-3
 satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
-awsubs.co##.iklanhead
-awsubs.co##.iklansamping
-awsubs.co##.pusat728
-awsubs.co##.minipusat
-awsubs.co##.iklansamping
-awsubs.co##.sidebar_right
-awsubs.co###floatads
