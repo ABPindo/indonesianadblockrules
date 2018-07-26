@@ -466,3 +466,5 @@ layarkaca21.*,lk21.*##.fancybox-skin
 ganool.se##strong > .col-xs-12.col-sm-3.col-md-3.col-lg-3
 satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
+animeindo.co##.marginads
+animeindo.co##.marginbot:has-text(Banner)
