@@ -470,3 +470,4 @@ animeindo.co##.marginads
 animeindo.co##.marginbot:has-text(Banner)
 animekompi.web.id##.headads
 animekompi.web.id##.cads
+anibatch.me###sidebarid\ text-5:has-text(BANNER)
