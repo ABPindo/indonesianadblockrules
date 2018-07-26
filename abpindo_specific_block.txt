@@ -6,8 +6,8 @@
 ||365wp.org/Banner/728x90$image
 ||adsimg.kompas.com^$domain=kompas.com
 ||angel.exabytes.com.my/banners/
-||anibatch.me/wp-content/uploads/*/*/*.gif
-||animeindo.co/wp-content/*/*/*/*.gif
+||anibatch.me/wp-content/uploads/*.gif$image
+||animeindo.co/wp-content/uploads/*.gif$image
 ||animeindo.net/wp-content/uploads/*.gif$image
 ||animekompi.web.id/wp-content/uploads/*/*/ANTIBLOCKER2.jpg
 ||animekompi.web.id/wp-content/uploads/*/*/antiblocker3-1.jpg
@@ -173,7 +173,7 @@
 ||nontonfilm77.com/wp-content/uploads/*.gif$image
 ||nontonfilmbaru.com/wp-content/uploads/*.gif$image
 ||nontonfilmku.net/wp-content/uploads/*.gif$image
-||nontongratis88.com/wp-content/uploads/*/*/*.gif
+||nontongratis88.com/wp-content/uploads/*.gif$image
 ||nontonindrama.com/oke/*.gif$image,domain=nontononlinedrama.co
 ||nontonindrama.com/okes/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
@@ -220,3 +220,4 @@
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
+||*.wp.com/nontongratis88.com/wp-content/uploads/*.gif$image
