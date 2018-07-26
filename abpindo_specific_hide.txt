@@ -460,6 +460,7 @@ ganool-link.com,ganool.*,ganool.link,untukku.com###footer-adcont
 ganool.*###srcadsurlblock
 ganool.*,ganool.is,ganool.ph##.col-xs-12.col-md-6.col-lg-6
 greget.space,tetew.info##h2
+icinema3satu.*##.textwidget:has-text(SPACE)
 cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
 lihat.co.id##img[style="border:0;display:block;"]
@@ -473,4 +474,3 @@ layarkaca21.*,lk21.*##.fancybox-skin
 ganool.se##strong > .col-xs-12.col-sm-3.col-md-3.col-lg-3
 satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
-icinema3satu.*##.textwidget:has-text(SPACE)
