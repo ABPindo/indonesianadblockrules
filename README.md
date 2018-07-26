@@ -1,10 +1,10 @@
 # ABPindo
-ABPindo merupakan filter AdblockPlus compatible untuk memblokir iklan mengganggu di situs berbahasa Indonesia. Walaupun tidak semua iklan dapat diblok namun paling tidak dapat mengurangi ''penampakan'' iklan tersebut. 
+ABPindo merupakan filter AdblockPlus compatible untuk memblokir iklan mengganggu di situs berbahasa Indonesia. Walaupun tidak semua iklan dapat diblok namun paling tidak dapat mengurangi "penampakan" iklan. 
 
 ## Keuntungan
 - Tampilan website menjadi lebih bersih. Pengunjung website lebih fokus terhadap konten website, tanpa terganggu dengan iklan yang kadang menyamar menjadi konten website.
 - Terjaga dari penipuan. Iklan yang menyamar menjadi tombol pembaharuan program, menyamar menjadi tombol download, menyamar memberikan promo palsu merupakan beberapa contoh iklan yang sering kita jumpai. Setidaknya jika iklan tersebut tidak muncul kita terhindar dari penipuan.
-- Waktu membuka laman situs menjadi lebih cepat. Iklan dengan isi gambar halaman penuh, gambar bergerak atau bahkan video terkadang menjadi masalah bagi pengguna internet dengan akses terbatas. Terkadang saat kita membuka situs yang muncul lebih dulu malah iklannya daripada konten website. Sering pula waktu membuka halaman menjadi lebih lama karena harus menunggu iklan muncul.
+- Waktu membuka laman situs menjadi lebih cepat. Iklan animasi/video terkadang menjadi masalah bagi pengguna internet dengan akses terbatas. Terkadang saat mengunjungi blog orang yang muncul lebih dulu bukan konten blognya, tapi malah iklannya. Sering pula waktu membuka halaman menjadi lebih lama karena harus menunggu iklan video selesai.
 
 ## Cara Menggunakan 
 - Jalankan peramban favoritmu (firefox, chrome, opera, safari, ...)
