@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6IpdkfK54oajpNlOZ84Bbw
+! Checksum: shol12YJ2arXnFTCrGxjhg
 ! Title: ABPindo
-! Last modified: 16 Juli 2018, 20:02:56 WIB
+! Last modified: 26 Juli 2018, 11:17:51 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -8884,6 +8884,7 @@ dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
 grid.id##.ads_sky
 antaranews.com##.ads_top_728
+samehadaku.tv##.adsbyadop
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
 mangaku.web.id##.adv
@@ -8895,7 +8896,6 @@ bokep.click##.alignnone
 palingseru.com##.alignnone.size-large.wp-image-458
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
-inet.detik.com##.balloon.detikads
 nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 dream.co.id##.banner-sc2
 oktavita.com##.banner-zone
@@ -8956,6 +8956,7 @@ tribunnews.com##.content [style="width:160px; height:600px;"]
 bioskop201.biz##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
 teknologi.inilah.com##.d.wp-120x600
+detik.com##.detikads
 dewanontons.com##.dewa_floating_bottom
 layarkaca21.tv,lk21.tv##.fancybox-skin
 nonton33.tv##.filmborder > table
@@ -8975,6 +8976,7 @@ nontonfilm77.me##.idmuvi-floatbanner-left.idmuvi-floatbanner
 nontonfilm77.me##.idmuvi-floatbanner-right.idmuvi-floatbanner
 21boxoffice.com,nonton789.com,nontonfilm77.me##.idmuvi-topbanner-aftermenu
 nontonfilm77.me##.idmuvi-topplayer
+mangaku.in##.iframeiklan
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
@@ -9053,6 +9055,7 @@ teknologi.inilah.com##.wb-300x250
 173.199.189.86,forumbokep.com,idfl.*,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,kikil.net,sodasusu.com,unyil.net,vocland.com###ad_global_below_navbar
 22cinema.download,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.*,ganool.nl,ganool.ph,kikil.net,komiku.net,movie76.net,nontonmovie.web.id,layarbiru21.com###teaser3
 22cinema.download,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.*,ganool.nl,ganool.ph,komiku.net,movie76.net,nontonmovie.web.id###teaser2
+mangaku.in##[href^="https://bit.ly"]
 idfl.me##[id^="yui-gen"].postcontainer
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
