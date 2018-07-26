@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Isa37+g7Gs+1Agp07nD8hw
+! Checksum: nobbiU51IvLSSESW06Fguw
 ! Title: ABPindo tanpa nawala
-! Last modified: 26 July 2018, 20:00:56 WIB
+! Last modified: 26 July 2018, 20:04:05 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2682,7 +2682,7 @@ bioskop168.co,semi168.club##.home.border
 nontonfilm77.me##.idmuvi-afterplayer
 nontonfilm77.me##.idmuvi-floatbanner-left.idmuvi-floatbanner
 nontonfilm77.me##.idmuvi-floatbanner-right.idmuvi-floatbanner
-21boxoffice.com,nonton789.com,nontonfilm77.me##.idmuvi-topbanner-aftermenu
+21boxoffice.com,nonton789.com,nontonfilm77.me,nontongratis88.com##.idmuvi-topbanner-aftermenu
 nontonfilm77.me##.idmuvi-topplayer
 mangaku.in##.iframeiklan
 kosmo.com.my##.iklan-puff
