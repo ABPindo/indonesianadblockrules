@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oMpRtfHx92CLB9N24gcMcA
+! Checksum: dntHA1CUERSA/LGAicvkrA
 ! Title: ABPindo
-! Last modified: 26 July 2018, 15:27:59 WIB
+! Last modified: 26 July 2018, 16:10:39 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -6691,6 +6691,7 @@ totojitu.gif|
 ||pokerheaven.com^$popup,third-party
 ||pokerhost.com^$popup,third-party
 ||pokerihuone.com^$popup,third-party
+||pokerindo88.com^$popup,third-party
 ||pokerinside.com^$popup,third-party
 ||pokerkings.com^$popup,third-party
 ||pokerlistings.com^$popup,third-party
@@ -8456,7 +8457,11 @@ totojitu.gif|
 ||365wp.org/Banner/728x90$image
 ||adsimg.kompas.com^$domain=kompas.com
 ||angel.exabytes.com.my/banners/
+||anibatch.me/wp-content/uploads/*/*/*.gif
+||animeindo.co/wp-content/*/*/*/*.gif
 ||animeindo.net/wp-content/uploads/*.gif$image
+||animekompi.web.id/wp-content/uploads/*/*/ANTIBLOCKER2.jpg
+||animekompi.web.id/wp-content/uploads/*/*/antiblocker3-1.jpg
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -8822,6 +8827,7 @@ cinemaindo.tv###sidebar_right > .side:nth-of-type(6) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(7) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(8) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(9) > .textwidget
+anibatch.me###sidebarid\ text-5:has-text(BANNER)
 zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
 detik.com###skinad
@@ -8940,6 +8946,7 @@ kompas.com##.boxSkinAd
 inilah.com##.bt-g1.b-g3.wb-300x100
 inilah.com##.bt-g1.b-g3.wb-300x250
 greget.space,tetew.info##.c-message > div:nth-of-type(1)
+animekompi.web.id##.cads
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
@@ -8969,6 +8976,7 @@ dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
 detik.com##.frame_iklan_baris
 kompas.com##.hAds
+animekompi.web.id##.headads
 videocrot.org##.headbanner
 bioskop90.com##.headborder:nth-of-type(5)
 zonapanaz.net##.header-banner
@@ -9001,6 +9009,8 @@ mangapark.net##.kiwiad-popup-ad-container
 indonesiamovies21.com##.ktz-banneraftercontent
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 b201.info##.lenyap
+animeindo.co##.marginads
+animeindo.co##.marginbot:has-text(Banner)
 nontonbokeps.com##.mask-ads
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 dapurpacu.com##.mid-banner
@@ -9224,6 +9234,7 @@ iklan300x250.gif|
 ##.iklanright
 ##.ktz-aftermenubanner
 ##.ktz-bannersingletop
+##.marginads
 ##.mgid
 ##.minipusat
 ##.pasangiklan
