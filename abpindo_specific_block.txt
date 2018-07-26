@@ -6,7 +6,11 @@
 ||365wp.org/Banner/728x90$image
 ||adsimg.kompas.com^$domain=kompas.com
 ||angel.exabytes.com.my/banners/
+||anibatch.me/wp-content/uploads/*/*/*.gif
+||animeindo.co/wp-content/*/*/*/*.gif
 ||animeindo.net/wp-content/uploads/*.gif$image
+||animekompi.web.id/wp-content/uploads/*/*/ANTIBLOCKER2.jpg
+||animekompi.web.id/wp-content/uploads/*/*/antiblocker3-1.jpg
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -169,6 +173,7 @@
 ||nontonfilm77.com/wp-content/uploads/*.gif$image
 ||nontonfilmbaru.com/wp-content/uploads/*.gif$image
 ||nontonfilmku.net/wp-content/uploads/*.gif$image
+||nontongratis88.com/wp-content/uploads/*/*/*.gif
 ||nontonindrama.com/oke/*.gif$image,domain=nontononlinedrama.co
 ||nontonindrama.com/okes/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image

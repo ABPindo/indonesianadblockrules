@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 #!C:\strawberry\perl\bin -w
 # Script for the generation of the EasyList subscriptions
 # Copyright 2011 Wladimir Palant and Michael
@@ -242,17 +243,17 @@ sub convertToTPL
       #Remove unnecessary slashes and spaces
       $line =~ s/ \/$//;
       $line =~ s/ $//;
-		
+
       #Remove beginning and end anchors
       unless ($line =~ m/^\|\|/)
       {
         $line =~ s/^\|//;
       }
       $line =~ s/\|($|\$)//;
-		
+
       #Translate the script option to "*.js"
       $line =~ s/\$script$/\*\.js/;
-		
+
       #Translate whitelists, making them wider if necessary
       if ($line =~ m/^@@\|\|.*?(^|\/)/)
       {

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6bq66lUrhutCX+2koHRayg
+! Checksum: 5Z7BfQ+hExmL0B+6FrgxdQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 26 Juli 2018, 11:21:06 WIB
+! Last modified: 26 July 2018, 17:11:45 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -5790,6 +5790,7 @@ totojitu.gif|
 ||pokerheaven.com^$popup,third-party
 ||pokerhost.com^$popup,third-party
 ||pokerihuone.com^$popup,third-party
+||pokerindo88.com^$popup,third-party
 ||pokerinside.com^$popup,third-party
 ||pokerkings.com^$popup,third-party
 ||pokerlistings.com^$popup,third-party
@@ -7586,7 +7587,11 @@ iklan300x250.gif|
 ||365wp.org/Banner/728x90$image
 ||adsimg.kompas.com^$domain=kompas.com
 ||angel.exabytes.com.my/banners/
+||anibatch.me/wp-content/uploads/*/*/*.gif
+||animeindo.co/wp-content/*/*/*/*.gif
 ||animeindo.net/wp-content/uploads/*.gif$image
+||animekompi.web.id/wp-content/uploads/*/*/ANTIBLOCKER2.jpg
+||animekompi.web.id/wp-content/uploads/*/*/antiblocker3-1.jpg
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -7749,6 +7754,7 @@ iklan300x250.gif|
 ||nontonfilm77.com/wp-content/uploads/*.gif$image
 ||nontonfilmbaru.com/wp-content/uploads/*.gif$image
 ||nontonfilmku.net/wp-content/uploads/*.gif$image
+||nontongratis88.com/wp-content/uploads/*/*/*.gif
 ||nontonindrama.com/oke/*.gif$image,domain=nontononlinedrama.co
 ||nontonindrama.com/okes/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
