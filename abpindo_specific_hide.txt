@@ -468,3 +468,5 @@ satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
 animeindo.co##.marginads
 animeindo.co##.marginbot:has-text(Banner)
+animekompi.web.id##.headads
+animekompi.web.id##.cads
