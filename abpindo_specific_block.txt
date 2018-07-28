@@ -12,6 +12,7 @@
 ||detik.com/live/js/msite/maeg_preview.js$script
 ||detik.com/mobile/js/it.mobile.js$script
 ||img.akubebas.com/images/*.gif$image
+||modifikasi.com/images/banner/*.gif$image
 ||.wp.com/nontongratis88.com/wp-content/uploads/*.gif$image
 ||.uxvcjlat.com^$inline-script,third-party
 ||365wp.org/Banner/728x90$image
