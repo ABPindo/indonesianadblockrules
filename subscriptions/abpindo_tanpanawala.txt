@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DClBJiDHXFr8TQowEW2Lfw
+! Checksum: hO3i7Eqa2vUC6XJebvT2fQ
 ! Title: ABPindo tanpa nawala
-! Last modified: 29 Juli 2018, 20:07:22 WIB
+! Last modified: 29 Juli 2018, 20:57:59 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -20,7 +20,6 @@
 ||1iklanbaris.com^$third-party
 ||1sakong.com^$popup,third-party
 ||1st-iklan.com^$third-party
-||35.184.98.90^$popup,third-party
 ||35.188.59.75^$popup
 ||3b7c0f01022f61d5.com^$popup,third-party
 ||4dasli.com^$popup,third-party
@@ -46,7 +45,6 @@
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
-||adsco.re^$third-party
 ||adscpm.site^$third-party
 ||adsdelivery.bid^$popup,third-party
 ||adskom.com^$third-party
@@ -285,7 +283,6 @@
 ||rkbjbtxhdi.bid^$popup,third-party
 ||runreproducerow.com^$popup,third-party
 ||s2pops.club^$popup,third-party
-||samsunghoki.com^$popup,third-party
 ||sanglah.com^$third-party
 ||scriptall.ml^$popup,third-party
 ||sebar.idblognetwork.com^$third-party
@@ -2469,7 +2466,6 @@ lk21.pw,lk21tv.com###float-banner
 lk21tv.com###float-bottom-banner
 remo-xp.com###float-left
 remo-xp.com###float-right
-awsubs.co###floatads
 moviebaru21.com###floatads1
 komiku.net###floatads2
 komiku.net###floatads3
@@ -2626,7 +2622,6 @@ antaranews.com##.ads_top_728
 ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
 samehadaku.tv##.adsbyadop
-eramuslim.com##.adsbygoogle
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
 mangaku.in,mangaku.web.id##.adv
@@ -2661,7 +2656,6 @@ lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
 tekno.kompas.com##.banner_right2
-eramuslim.com##.bannerad
 modifikasi.com##.bannercol
 modifikasi.com##.bannerfloat
 nontonme.com##.bannermovie
@@ -2734,7 +2728,6 @@ ainimeindo.com##.iklan300
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
-awsubs.co##.iklanhead
 awsubs.co##.iklansamping
 cinemaindo.web.id,layarkaca21.net,nonton21.net##.img-responsive
 animeindo.video,animeindo.web.id##.in_up_ad-area
@@ -2749,27 +2742,22 @@ mangapark.net##.kiwiad-popup-ad-container
 indonesiamovies21.com##.ktz-banneraftercontent
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 b201.info##.lenyap
-animeindo.co##.marginads
 animeindo.co##.marginbot:has-text(Banner)
 nontonbokeps.com##.mask-ads
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 dapurpacu.com##.mid-banner
-awsubs.co##.minipusat
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
 fastdrama.co##.modal-content
-kaskus.co.id##.more-like:has-text(More from Jual Beli)
 detik.com##.normalbanner
 animeindo.id##.nyaa300
 animeindo.id##.nyaa728
-detik.com##.otp.detikads
 detik.com##.otp_banner_close
 susterbokep.com##.overlay
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 viva.co.id##.portlet.sideskycrapper
-awsubs.co##.pusat728
 otomania.com##.r-ads
 film-ganool.com##.random
 okezone.com##.rc-ad-300x250
@@ -3002,7 +2990,6 @@ iklan300x250.gif|
 @@||ainodorama.web.id^$generichide
 @@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
 @@||asiancine.com^$generichide
-@@||awsubs.co^$elemhide
 @@||cat3movie.us^$generichide
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id|smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com

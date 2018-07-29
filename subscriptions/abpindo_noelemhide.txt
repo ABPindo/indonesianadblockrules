@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: k6xgMH/AHgzdkFpu3U6/VQ
+! Checksum: jrBIJhHFIfocmeRIb9NhfA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 29 Juli 2018, 20:07:20 WIB
+! Last modified: 29 Juli 2018, 20:57:57 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -20,7 +20,6 @@
 ||1iklanbaris.com^$third-party
 ||1sakong.com^$popup,third-party
 ||1st-iklan.com^$third-party
-||35.184.98.90^$popup,third-party
 ||35.188.59.75^$popup
 ||3b7c0f01022f61d5.com^$popup,third-party
 ||4dasli.com^$popup,third-party
@@ -46,7 +45,6 @@
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
-||adsco.re^$third-party
 ||adscpm.site^$third-party
 ||adsdelivery.bid^$popup,third-party
 ||adskom.com^$third-party
@@ -285,7 +283,6 @@
 ||rkbjbtxhdi.bid^$popup,third-party
 ||runreproducerow.com^$popup,third-party
 ||s2pops.club^$popup,third-party
-||samsunghoki.com^$popup,third-party
 ||sanglah.com^$third-party
 ||scriptall.ml^$popup,third-party
 ||sebar.idblognetwork.com^$third-party
@@ -7834,7 +7831,6 @@ iklan300x250.gif|
 @@||ainodorama.web.id^$generichide
 @@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
 @@||asiancine.com^$generichide
-@@||awsubs.co^$elemhide
 @@||cat3movie.us^$generichide
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id|smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com

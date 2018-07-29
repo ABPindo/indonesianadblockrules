@@ -72,7 +72,6 @@ lk21.pw,lk21tv.com###float-banner
 lk21tv.com###float-bottom-banner
 remo-xp.com###float-left
 remo-xp.com###float-right
-awsubs.co###floatads
 moviebaru21.com###floatads1
 komiku.net###floatads2
 komiku.net###floatads3
@@ -229,7 +228,6 @@ antaranews.com##.ads_top_728
 ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
 samehadaku.tv##.adsbyadop
-eramuslim.com##.adsbygoogle
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
 mangaku.in,mangaku.web.id##.adv
@@ -264,7 +262,6 @@ lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
 tekno.kompas.com##.banner_right2
-eramuslim.com##.bannerad
 modifikasi.com##.bannercol
 modifikasi.com##.bannerfloat
 nontonme.com##.bannermovie
@@ -337,7 +334,6 @@ ainimeindo.com##.iklan300
 kosmo.com.my##.iklanBox
 komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
-awsubs.co##.iklanhead
 awsubs.co##.iklansamping
 cinemaindo.web.id,layarkaca21.net,nonton21.net##.img-responsive
 animeindo.video,animeindo.web.id##.in_up_ad-area
@@ -352,27 +348,22 @@ mangapark.net##.kiwiad-popup-ad-container
 indonesiamovies21.com##.ktz-banneraftercontent
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 b201.info##.lenyap
-animeindo.co##.marginads
 animeindo.co##.marginbot:has-text(Banner)
 nontonbokeps.com##.mask-ads
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 dapurpacu.com##.mid-banner
-awsubs.co##.minipusat
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
 fastdrama.co##.modal-content
-kaskus.co.id##.more-like:has-text(More from Jual Beli)
 detik.com##.normalbanner
 animeindo.id##.nyaa300
 animeindo.id##.nyaa728
-detik.com##.otp.detikads
 detik.com##.otp_banner_close
 susterbokep.com##.overlay
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 viva.co.id##.portlet.sideskycrapper
-awsubs.co##.pusat728
 otomania.com##.r-ads
 film-ganool.com##.random
 okezone.com##.rc-ad-300x250

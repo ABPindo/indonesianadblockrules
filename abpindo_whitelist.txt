@@ -5,7 +5,6 @@
 @@||ainodorama.web.id^$generichide
 @@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
 @@||asiancine.com^$generichide
-@@||awsubs.co^$elemhide
 @@||cat3movie.us^$generichide
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id|smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
