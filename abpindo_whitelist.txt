@@ -14,7 +14,7 @@
 @@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
 @@||digitalponsel.com^$elemhide
 @@||dukun-cit.com^$generichide
-@@||eramuslim.com^$generichide
+!@@||eramuslim.com^$generichide
 @@||oploverz.in^$elemhide
 @@||oploverz.net^$elemhide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com

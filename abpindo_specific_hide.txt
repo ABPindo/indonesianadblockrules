@@ -1,15 +1,3 @@
-indoxx1.com###home-bnner2-content
-indoxx1.com###player-side-right
-autonetmagz.com##.anm__flying--ads-holder
-eramuslim.com##.bannerad
-eramuslim.com##.adsbygoogle
-eramuslim.com###peluang
-~eramuslim.com###topAd
-gridoto.com##.ads__boxr
-modifikasi.com##.banner-top
-modifikasi.com##.bannercol
-modifikasi.com##.bannerfloat
-cinemaindo.ws##.idmuvi-topbanner-aftermenu
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 icinema3satu.net###FloatAlamindawa
@@ -108,6 +96,7 @@ banyakfilm.pw###header_sag
 banyakfilm.pw###header_sol
 indosiar.com###headerbanner
 indoxx1.com,indoxxi.tv###home-bnner-content
+indoxx1.com###home-bnner2-content
 topfilmz.com###idb3
 lensaindonesia.com###idcomboard1.com-728x90
 lensaindonesia.com###idcomright1.com-300x250
@@ -141,6 +130,8 @@ nobartv.com###nbpopx-wrapper
 viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
+eramuslim.com###peluang
+indoxx1.com###player-side-right
 amoimovie.com###popupinfoAd1
 nonton21.tv###previewBox
 nonton21.tv,nontonserial.com###previewBox2
@@ -186,6 +177,7 @@ videocrot.org###text-6 > .textwidget
 indotelko.com###title_kanal
 lk21.web.id,lk21tv.com###top-banner
 indoxxi.tv,xx1.tv###top-bnner-content
+~eramuslim.com###topAd
 detik.com###top_banner
 blogspot.com,jakbos.com###topbar
 tvkabel.net###tutup
@@ -231,9 +223,11 @@ grid.id##.ads-mr
 kompas.com##.ads2
 dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
+gridoto.com##.ads__boxr
 grid.id##.ads_sky
 antaranews.com##.ads_top_728
 samehadaku.tv##.adsbyadop
+eramuslim.com##.adsbygoogle
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
 mangaku.in,mangaku.web.id##.adv
@@ -243,10 +237,12 @@ teknoup.com##.advertisement_box2
 indoxtream.com##.aligncenter
 bokep.click##.alignnone
 palingseru.com##.alignnone.size-large.wp-image-458
+autonetmagz.com##.anm__flying--ads-holder
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 dream.co.id##.banner-sc2
+modifikasi.com##.banner-top
 oktavita.com##.banner-zone
 tekno.kompas.com##.banner620x80
 kompas.com##.bannerAdB
@@ -266,6 +262,9 @@ lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
 tekno.kompas.com##.banner_right2
+eramuslim.com##.bannerad
+modifikasi.com##.bannercol
+modifikasi.com##.bannerfloat
 nontonme.com##.bannermovie
 modifikasi.com##.bannerpos
 nontonme.com##.banners
@@ -328,7 +327,7 @@ bioskop168.co,semi168.club##.home.border
 nontonfilm77.me##.idmuvi-afterplayer
 nontonfilm77.me##.idmuvi-floatbanner-left.idmuvi-floatbanner
 nontonfilm77.me##.idmuvi-floatbanner-right.idmuvi-floatbanner
-21boxoffice.com,nonton789.com,nontonfilm77.me,nontongratis88.com##.idmuvi-topbanner-aftermenu
+21boxoffice.com,cinemaindo.ws,nonton789.com,nontonfilm77.me,nontongratis88.com##.idmuvi-topbanner-aftermenu
 nontonfilm77.me##.idmuvi-topplayer
 mangaku.in##.iframeiklan
 kosmo.com.my##.iklan-puff

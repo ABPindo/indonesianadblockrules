@@ -8,7 +8,6 @@
 ||1st-iklan.com^$third-party
 ||35.184.98.90^$popup,third-party
 ||35.188.59.75^$popup
-||xqkzsifxgv.com^$script,domain=kissasian.sh
 ||3b7c0f01022f61d5.com^$popup,third-party
 ||4dasli.com^$popup,third-party
 ||66cpwgln.space^$popup,third-party
@@ -323,6 +322,7 @@
 ||window-close.ga^$popup,third-party
 ||wong-poker.com^$popup,third-party
 ||xbfk51p7.review^$popup,third-party
+||xqkzsifxgv.com^$script,domain=kissasian.sh
 ||xqquphzq.bid^$popup,third-party
 ||yesads.com^$third-party
 ||yllix.com^$popup,third-party
