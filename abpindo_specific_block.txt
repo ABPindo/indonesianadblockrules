@@ -1,9 +1,5 @@
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
-||malesbanget.com/js/live/mbdc_inrect1.js$script
-||malesbanget.com/js/live/mbdc_inrect2.js$script
-||malesbanget.com/js/live/mbdc_lgbanner.js$script
-||malesbanget.com/js/live/mbdc_billboard.js$script
 ||.uxvcjlat.com^$inline-script,third-party
 ||.wp.com/nontongratis88.com/wp-content/uploads/*.gif$image
 ||365wp.org/Banner/728x90$image
@@ -162,6 +158,10 @@
 ||malamsenin.net/wp-content/uploads/2015/11/415x60.jpg$image
 ||malamsenin.org/wp-content/uploads/*.gif$image
 ||malamsenin.org/wp-content/uploads/2015/11/415x60.jpg$image
+||malesbanget.com/js/live/mbdc_billboard.js$script
+||malesbanget.com/js/live/mbdc_inrect1.js$script
+||malesbanget.com/js/live/mbdc_inrect2.js$script
+||malesbanget.com/js/live/mbdc_lgbanner.js$script
 ||mangaku.web.id/Gambar/Ads720.html
 ||mediaindonesia.com/ajax/banners
 ||mediaindonesia.com/files/banners/
