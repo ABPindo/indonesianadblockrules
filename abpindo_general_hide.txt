@@ -1,5 +1,3 @@
-##.ad-left-image
-##.ad-right-image
 ###Box-Banner-ads
 ~4udrama.com###adplayer
 ###ads-pop
@@ -35,6 +33,8 @@
 ###top_ad_full
 ###tupiklan
 ##.SectionAds
+##.ad-left-image
+##.ad-right-image
 ##.ad_primex
 ##.ads-pop
 ##.adspace_300
