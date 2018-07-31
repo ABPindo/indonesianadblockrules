@@ -1,6 +1,7 @@
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
 ||.bp.blogspot.com/*.gif$image,domain=layarkeren.com
+||.pgi.tribunnews.com^$inline-script
 ||.wp.com/nontongratis88.com/wp-content/uploads/*.gif$image
 ||365wp.org/Banner/728x90$image
 ||adsimg.kompas.com^$domain=kompas.com
