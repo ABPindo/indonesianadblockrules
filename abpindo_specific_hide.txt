@@ -1,3 +1,7 @@
+tribunnews.com##img[src*=".pgi.tribunnews.com/"]
+tribunnews.com##iframe[title="3rd party ad content"]
+kompas.com##iframe[src*=uxvcjlat.com/]
+kompas.com##iframe[title="3rd party ad content"]
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 icinema3satu.net###FloatAlamindawa
