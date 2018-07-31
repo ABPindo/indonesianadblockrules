@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oZHvq0Yxwp/IgXmqGP4Gqw
+! Checksum: 1RXctzUdgVPBqPD2jMmRwA
 ! Title: ABPindo tanpa nawala
-! Last modified: 30 Juli 2018, 13:14:18 WIB
+! Last modified: 31 Juli 2018, 20:15:43 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -431,7 +431,7 @@
 /abgqq.
 /abgqqnew.
 /acerpoker.
-/AFAPOKER.
+/afapoker.
 /afatogel-
 /agen688.
 /agenqq-
@@ -444,7 +444,7 @@
 /ayoqqsakong.
 /bacanpoker.
 /bandarq-
-/BandarQ.
+/bandarq.
 /bandarqq.
 /bandartaruhan.
 /bcadomino.
@@ -534,14 +534,14 @@
 /motorqq.
 /musimqq.
 /musimqq300.
-/MustikaPoker-
+/mustikapoker-
 /nagalaut-new.
 /nagalaut.
 /obat-kuat-sex.
 /opuspoker-
 /pantauqq.
 /papabet.
-/Pendekarqq-
+/pendekarqq-
 /pesonaqq.
 /pialabet.
 /pialaqq.
@@ -565,7 +565,7 @@
 /rdomino.
 /rgo-casino-
 /rgo-poker-
-/RGOBET.
+/rgobet.
 /royalbola.
 /royaljackpot.
 /royalpoker99.
@@ -591,7 +591,7 @@
 /togel168-
 /togeltoto.
 /ubcwin.
-/Vegasmarket.
+/vegasmarket.
 /venombet-
 /vodka728x90.
 /wedeqq.
@@ -701,7 +701,7 @@ totojitu.gif|
 ||bandarsakong.net^$popup,third-party
 ||bandartaruhan.co^$popup,third-party
 ||bandartogelsingapore.com^$popup,third-party
-||Barakjudi.com^$popup,third-party
+||barakjudi.com^$popup,third-party
 ||bca99.com^$popup,third-party
 ||bcadomino.com^$popup,third-party
 ||bdr99.com^$popup,third-party
@@ -2928,8 +2928,11 @@ ganool.*###srcadsurlblock
 ganool.*,ganool.is,ganool.ph##.col-xs-12.col-md-6.col-lg-6
 greget.space,tetew.info##h2
 icinema3satu.*##.textwidget:has-text(SPACE)
+kompas.com##iframe[src*=uxvcjlat.com/]
+kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
+tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 icinema3satu.net##img[style="height: 125px; width: 125px;"]
 icinema3satu.net##img[style="height:125x;width:125px;"]

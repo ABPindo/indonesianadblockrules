@@ -1,7 +1,3 @@
-tribunnews.com##img[src*=".pgi.tribunnews.com/"]
-tribunnews.com##iframe[title="3rd party ad content"]
-kompas.com##iframe[src*=uxvcjlat.com/]
-kompas.com##iframe[title="3rd party ad content"]
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 icinema3satu.net###FloatAlamindawa
@@ -474,8 +470,11 @@ ganool.*###srcadsurlblock
 ganool.*,ganool.is,ganool.ph##.col-xs-12.col-md-6.col-lg-6
 greget.space,tetew.info##h2
 icinema3satu.*##.textwidget:has-text(SPACE)
+kompas.com##iframe[src*=uxvcjlat.com/]
+kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
+tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 icinema3satu.net##img[style="height: 125px; width: 125px;"]
 icinema3satu.net##img[style="height:125x;width:125px;"]
