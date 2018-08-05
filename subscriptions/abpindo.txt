@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: men1vAKV4BjdP5Dk0xByZw
+! Checksum: /8jdvvVt9Lz4pkSH5kXTiA
 ! Title: ABPindo
-! Last modified: 05 Agustus 2018, 18:30:15 WIB
+! Last modified: 05 Agustus 2018, 19:35:04 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1120,17 +1120,22 @@ totojitu.gif|
 ||zonawin.com^$popup,third-party
 ||zonawin.net^$popup,third-party
 ! *** abpindo_annoyance_elemhide.txt ***
+jakbos.net###ad_divLeft
 ##[href^="http://388poker."]
 ##[href^="http://bandartoke.com"]
+##[href^="http://betlive889.com"]
 ##[href^="http://bolped77."]
+##[href^="http://casinoitu."]
 ##[href^="http://garudakiu."]
 ##[href^="http://gebyarliga."]
 ##[href^="http://go88sbo.com"]
 ##[href^="http://hariqq."]
 ##[href^="http://hdpbola."]
 ##[href^="http://istana168."]
+##[href^="http://itupoker77.com"]
 ##[href^="http://itutoto."]
 ##[href^="http://josbet.bid"]
+##[href^="http://kursiqq."]
 ##[href^="http://lapakqq."]
 ##[href^="http://lazabet."]
 ##[href^="http://liganation."]
@@ -1140,9 +1145,11 @@ totojitu.gif|
 ##[href^="http://parisbola."]
 ##[href^="http://pokerbola."]
 ##[href^="http://qqasli."]
+##[href^="http://qqnalo."]
 ##[href^="http://qqterbaik.com"]
 ##[href^="http://ratukasino."]
 ##[href^="http://sbosbet."]
+##[href^="http://tangkas9.com"]
 ##[href^="http://vodkapoker."]
 ##[href^="http://warungqqasia."]
 ##[href^="http://wismaqq2."]
@@ -1152,6 +1159,7 @@ totojitu.gif|
 ##[href^="http://www.armanitogel."]
 ##[href^="http://www.asiaqq."]
 ##[href^="http://www.betawiqq."]
+##[href^="http://www.bola83.com"]
 ##[href^="http://www.bosspkr.com"]
 ##[href^="http://www.dewatogel."]
 ##[href^="http://www.diskonqq."]
@@ -1161,11 +1169,15 @@ totojitu.gif|
 ##[href^="http://www.guepoker."]
 ##[href^="http://www.hdpbola."]
 ##[href^="http://www.hobi88."]
+##[href^="http://www.indodewa365.com"]
+##[href^="http://www.indowin99."]
 ##[href^="http://www.ketuapoker."]
 ##[href^="http://www.kontolkuda."]
+##[href^="http://www.liga-emas."]
 ##[href^="http://www.momopoker88."]
 ##[href^="http://www.pemaincash.com"]
 ##[href^="http://www.poker5stars.com"]
+##[href^="http://www.qqpokerplay."]
 ##[href^="http://www.royalkasino.com"]
 ##[href^="http://www.royalku."]
 ##[href^="http://www.sbysport.com"]
