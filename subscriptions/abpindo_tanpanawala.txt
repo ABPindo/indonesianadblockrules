@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jn5uI3KsKPtmCQnETyGFUA
+! Checksum: ox5kxsWT2MH0pT3Eptoc3g
 ! Title: ABPindo tanpa nawala
-! Last modified: 03 Agustus 2018, 20:03:48 WIB
+! Last modified: 05 Agustus 2018, 18:30:18 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1973,7 +1973,12 @@ totojitu.gif|
 ##img[alt="7naga bet"]
 ##img[alt="7naga poker"]
 ##img[alt="7naga toto"]
+##img[alt="Agen Bola Online"]
 ##img[alt="Agen Bola"]
+##img[alt="Agen Judi Bola"]
+##img[alt="Agen Judi Online"]
+##img[alt="Agen Judi Poker"]
+##img[alt="Agen Poker Online"]
 ##img[alt="Agen Poker"]
 ##img[alt="AgenQQ"]
 ##img[alt="Bandar Bakong"]
@@ -1987,9 +1992,12 @@ totojitu.gif|
 ##img[alt="Obat Pembesar Penis"]
 ##img[alt="Poker Online"]
 ##img[alt="Taruhan Bola"]
+##img[alt="TexasPoker"]
+##img[alt="Texaspoker"]
 ##img[alt="Togel Online"]
 ##img[alt="Togel Terpercaya"]
 ##img[alt="Vimax Asli"]
+##img[alt="Wigobet"]
 ##img[alt="agen bandarq online"]
 ##img[alt="agen bola terpecaya"]
 ##img[alt="agen bola terpercaya"]
@@ -2834,7 +2842,7 @@ teknologi.inilah.com##.wb-300x250
 22cinema.download,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.*,ganool.nl,ganool.ph,kikil.net,komiku.net,movie76.net,nontonmovie.web.id,layarbiru21.com###teaser3
 22cinema.download,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.*,ganool.nl,ganool.ph,komiku.net,movie76.net,nontonmovie.web.id###teaser2
 sinemaindo.web.id##[href^="http://bit.ly"]
-mangaku.in##[href^="https://bit.ly"]
+mangaku.in,ns21.club##[href^="https://bit.ly"]
 idfl.me##[id^="yui-gen"].postcontainer
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
