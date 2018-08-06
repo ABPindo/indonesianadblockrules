@@ -204,8 +204,6 @@ sundul.com##.\33 .Premium.Sundul
 sundul.com##.\34 .Premium.Sundul
 clip.cewecewe.com##.ad
 senimovies.net##.ad-float-image
-senimovies.net##.ad-left-image
-senimovies.net##.ad-right-image
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
 indobokepz.com##.adBar-vertical.left
@@ -438,7 +436,6 @@ bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 cinemamovie365.com##a[href^="http://gemapkr.com/"]
 lk21.web.id,nonton33.net##a[href^="http://goo.gl"]
 goon.to##a[href^="http://modescrips.info/redirect"]
-cinemastar21.com##a[href^="http://muvibet."]
 nontoncinema.org##a[href^="http://referral."]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 123drakor.com,awsubs.id,bioskopkeren.club,bioskopkeren.xyz,drakorindo.tv,idbioskop.com,moviebaru21.com,nonton33.net,ns21.top,serunonton.com##a[href^="https://goo.gl"]
