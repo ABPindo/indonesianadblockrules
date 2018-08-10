@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rrViATuT/NnBA5/s1eTrkg
+! Checksum: Z03suhEHl7xyNewOYne8zw
 ! Title: ABPindo
-! Last modified: 06 Agustus 2018, 10:58:00 WIB
+! Last modified: 10 Agustus 2018, 14:14:55 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -384,6 +384,7 @@
 /agenqqnew.
 /aoncash-
 /aoncash.
+/asiaqq-
 /astonbet-
 /ayoqqnew.
 /ayoqqsakong.
@@ -401,6 +402,7 @@
 /bsakong1.
 /bsakong2.
 /bursabet-
+/DamQQ.
 /danaqq.
 /depoqq-
 /depoqq.
@@ -419,6 +421,7 @@
 /emasbet.
 /eyang-togel-
 /ezebet-
+/ezebet.
 /fifaqq.
 /fix%2b728x90.
 /garenapoker.
@@ -453,6 +456,8 @@
 /jasaqq.
 /jasaqqsakong.
 /jaya-bet-
+/jempolqq-
+/Josbet-
 /ketuapokernew.
 /klikqq.
 /koinhoki.
@@ -471,6 +476,7 @@
 /mahkotaqq.
 /mainqq-
 /mainqq.
+/MANIAQQ-
 /mastercasino88.
 /maxisbet-
 /mbopoker.
@@ -523,6 +529,8 @@
 /sbcagent.
 /sbopoker.
 /sbosbe.
+/sbypoker_
+/sbysport_
 /simpatiqq.
 /situsbet368.
 /sogopoker-
@@ -1125,7 +1133,6 @@ totojitu.gif|
 ||zonawin.com^$popup,third-party
 ||zonawin.net^$popup,third-party
 ! *** abpindo_annoyance_elemhide.txt ***
-jakbos.net###ad_divLeft
 ##[href^="Http://www.DuniaSarana."]
 ##[href^="Http://www.EradominoQQ."]
 ##[href^="Http://www.RoyalKasino."]
@@ -1156,6 +1163,7 @@ jakbos.net###ad_divLeft
 ##[href^="http://daftarpoker228.com"]
 ##[href^="http://daftarqq."]
 ##[href^="http://daftarqqonline.com"]
+##[href^="http://dewaitu."]
 ##[href^="http://eze99."]
 ##[href^="http://garudakiu."]
 ##[href^="http://gebyarliga."]
@@ -1206,8 +1214,10 @@ jakbos.net###ad_divLeft
 ##[href^="http://qqterbaik."]
 ##[href^="http://ratukasino."]
 ##[href^="http://sbosbet."]
+##[href^="http://sbypoker."]
 ##[href^="http://sedapqqq.com"]
 ##[href^="http://seniqq."]
+##[href^="http://sentanapoker."]
 ##[href^="http://shiokambing2.com"]
 ##[href^="http://shiokuda."]
 ##[href^="http://star88win."]
@@ -1219,6 +1229,7 @@ jakbos.net###ad_divLeft
 ##[href^="http://togelmarket2.com"]
 ##[href^="http://totobett.com"]
 ##[href^="http://vodkapoker."]
+##[href^="http://wap.togeltoto."]
 ##[href^="http://warungqqasia."]
 ##[href^="http://wismaqq2."]
 ##[href^="http://www.22hok.com"]
@@ -1240,6 +1251,7 @@ jakbos.net###ad_divLeft
 ##[href^="http://www.diskonqq."]
 ##[href^="http://www.duniasarana."]
 ##[href^="http://www.eradominoqq."]
+##[href^="http://www.ezebet."]
 ##[href^="http://www.gemardepo.com"]
 ##[href^="http://www.guepoker."]
 ##[href^="http://www.hanabet88.com"]
@@ -1262,6 +1274,7 @@ jakbos.net###ad_divLeft
 ##[href^="http://www.pemaincash.com"]
 ##[href^="http://www.poker5stars.com"]
 ##[href^="http://www.pokerzara."]
+##[href^="http://www.qqjempol."]
 ##[href^="http://www.qqpokerplay."]
 ##[href^="http://www.royalkasino.com"]
 ##[href^="http://www.royalku."]
@@ -2017,11 +2030,13 @@ jakbos.net###ad_divLeft
 ##img[alt="7naga poker"]
 ##img[alt="7naga toto"]
 ##img[alt="AFAPOKER"]
+##img[alt="AduQQ"]
 ##img[alt="Agen Bola Online"]
 ##img[alt="Agen Bola Terpercaya"]
 ##img[alt="Agen Bola"]
 ##img[alt="Agen Casino Online"]
 ##img[alt="Agen Judi Bola"]
+##img[alt="Agen Judi Online Terpercaya di Indonesia"]
 ##img[alt="Agen Judi Online"]
 ##img[alt="Agen Judi Poker"]
 ##img[alt="Agen Poker Online"]
@@ -2101,8 +2116,11 @@ jakbos.net###ad_divLeft
 ##img[title="HokiQQ"]
 ##img[title="Judi Online"]
 ##img[title="Poker Bola"]
+##img[title="RGOBET"]
 ##img[title="Sbosbet"]
 ##img[title="Togel Domino"]
+##img[title="TogelDulu"]
+##img[title="WarungQQ"]
 ##img[title="agen bola terpecaya"]
 ##img[title="agen bola terpercaya"]
 ##img[title="agen casino online"]
@@ -2110,6 +2128,7 @@ jakbos.net###ad_divLeft
 ##img[title="agen togel online"]
 ##img[title="bandar sakong"]
 ##img[title="bandarq online"]
+##img[title="hoyajackpot"]
 ##img[title="indobet - agen bola online"]
 ##img[title="jayabet"]
 ##img[title="judi bola online"]
@@ -9316,6 +9335,7 @@ bioskop78.com##td:nth-of-type(3)
 iklan300x250.gif|
 ! *** abpindo_general_hide.txt ***
 ###Box-Banner-ads
+###ad_divLeft
 ~4udrama.com###adplayer
 ###ads-pop
 ~cinemamkv.net,~cinemamkv.xyz###adsense
