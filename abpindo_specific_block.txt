@@ -108,6 +108,7 @@
 ||images.gameweb.co.id/gw/ads/
 ||img.akubebas.com/images/*.gif$image
 ||img.banggood.com/deals/affiliate_member_banner/
+||img.sukipli.com/*.gif$image,thirdparty
 ||imgbox.com/*.gif$image,domain=cinemaindo.web.id
 ||imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|forumbookie.com|forumjudi.org|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|nontonanime.id|sodasusu.com|sukabookie.com|www.filmapik.in|www.ganool.li|zonalendir.net
 ||indo168.online/wp-content/uploads/*.gif$image
