@@ -47,7 +47,11 @@
 ##.forads
 ##.gbcontent
 ##.gpcontent
+##.idmuvi-afterplayer
+##.idmuvi-floatbanner
 ##.idmuvi-topbanner
+##.idmuvi-topbanner-aftermenu
+##.idmuvi-topplayer
 ~kontan.co.id,~manteb.in,~securitylink.biz##.iklan
 ##.iklan1
 ##.iklan2

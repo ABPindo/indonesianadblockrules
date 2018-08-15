@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: I3w1DeVDJWgQItc1++XsbQ
+! Checksum: MXEtCzEtLwmPldal4JsGgw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 15 Agustus 2018, 06:01:02 WIB
+! Last modified: 15 Agustus 2018, 10:53:28 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -415,6 +415,7 @@
 /astonbet.
 /astonwin.
 /auxbet.
+/avoqq.
 /ayoqqnew.
 /ayoqqsakong.
 /b2poker.
@@ -489,6 +490,7 @@
 /DuniaSarana.
 /elangbola.
 /elangcapsa.
+/elangqq-
 /emasbet-
 /emasbet.
 /EradominoQQ.
@@ -496,6 +498,7 @@
 /eze99.
 /ezebet-
 /ezebet.
+/fifaqq-
 /fifaqq.
 /fix%2b728x90.
 /garampoker.
@@ -519,6 +522,7 @@
 /hokibandarq.
 /hokibet365.
 /hokinewmay.
+/hokinusa.
 /hokiqq-1.
 /hokiqq.
 /hoya-jackpot.
@@ -561,6 +565,7 @@
 /jamhoki.
 /japsex.
 /jarumpoker.
+/jasagol-
 /jasaqq-
 /jasaqq.
 /jasaqqsakong.
@@ -574,6 +579,7 @@
 /jokerqq.
 /Josbet-
 /josbet.
+/josbet88-
 /jpbet.
 /jppoker.
 /kartudomino.
@@ -584,10 +590,12 @@
 /ketuapoker.
 /ketuapokernew.
 /king4d.
+/klik66-
 /klikkiu.
 /klikqq.
 /kodealam2.
 /koinhoki.
+/kokoqq.
 /kontolkuda.
 /kucingpoker.
 /kursiqq.
@@ -624,6 +632,7 @@
 /mainqq.
 /mamatogel.
 /MANIAQQ-
+/maniaqq.
 /marina-365.
 /master138.
 /masterbaccarat.
@@ -642,6 +651,7 @@
 /mitraqq.
 /mkvgames.
 /mkvpoker.
+/mobapoker-
 /momopoker88.
 /motorqq.
 /musimqq.
@@ -821,6 +831,7 @@ agenqq.gif|
 ayoqq.gif|
 banner728.gif|
 bundapoker.gif|
+initogel.net^$third-party
 jayabet.gif|
 nagalaut728.gif|
 raja365.gif|
