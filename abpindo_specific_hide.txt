@@ -33,8 +33,8 @@ tribunnews.com###bannerkubawah
 kotakgame.com###bannertheme_left
 kotakgame.com###bannertheme_right
 bioskop78.com###billboard_banner
-bioskop168.co,bioskop168.online,semi168.club###bioskop-kanan
-bioskop168.co,bioskop168.online,semi168.club###bioskop-kiri
+bioskop168.co,bioskop168.online,bioskop168.pro,semi168.club###bioskop-kanan
+bioskop168.co,bioskop168.online,bioskop168.pro,semi168.club###bioskop-kiri
 bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
@@ -142,6 +142,7 @@ zonabola.com###rAds
 utusan.com.my###rec_ad4
 komikbaru.com###right-skyscraper
 susterbokep.com###right_ads_float_phonedevelop
+lk21tv.com###rotating
 gadismalam.net###semprot_ads_side_left
 gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
@@ -325,6 +326,7 @@ cmovieshd.se##.hidden-xs
 bioskop21.co##.hilang2
 bioskop168.co,semi168.club##.home.border
 mangaku.in##.iframeiklan
+~bioskop45.com##.iklan
 kosmo.com.my##.iklan-puff
 ainimeindo.com##.iklan300
 kosmo.com.my##.iklanBox
@@ -367,6 +369,7 @@ okezone.com##.rc-ad-300x250
 indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-sol
 unixmen.com##.reveal-modal-bg
+senimovie.info##.rsABlock
 bokepml.online##.s-sponsor
 republika.co.id##.set-ads-468
 cinemaindo.com##.side:nth-of-type(7)
@@ -404,7 +407,10 @@ lapar.com##.top-banner
 xx1.me##.top-bnner.lazy
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
-bokepml.gq##[href^="https://goo.gl"]
+bioskop45.com,gudangmovies21.cc,layarmovie21.co,nonton-streaming.com##[href^="http://bit.ly"]
+bioskop168.pro##[href^="http://linkalternatif."]
+bioskop45.com,bokepml.gq,www1.lk-21.me##[href^="https://goo.gl"]
+bioskop168.pro##[href^="https://tinyurl.com"]
 idfl.me##[id^="yui-gen"].postcontainer
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 bioskop78.com##a:nth-of-type(2)
@@ -484,3 +490,4 @@ senimovies.*##.rsablock
 satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
 nontondrama.me##tr
+~lk21.*###fbanner
