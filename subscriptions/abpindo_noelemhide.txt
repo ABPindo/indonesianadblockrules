@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YBKUC4PuIXT9aDxTtY3QVA
+! Checksum: 2or/ToIK1fFNWJRmPb1lwA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 16 Agustus 2018, 18:39:39 WIB
+! Last modified: 17 Agustus 2018, 08:20:41 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1897,7 +1897,7 @@ totojitu.gif|
 ||zonawin.com^$popup,third-party
 ||zonawin.net^$popup,third-party
 ||zynga365.com^$third-party
-! *** abpindo_judi.txt ***
+! *** abpindo_annoyance_judi.txt ***
 ! http://www.nawala.id/wp-content/uploads/2014/08/list_situs_judi.txt
 !
 ||0016.com^$popup,third-party
@@ -8209,7 +8209,7 @@ totojitu.gif|
 ||zunjue88.com^$popup,third-party
 ||zzun88.com^$popup,third-party
 ||zzwin168.com^$popup,third-party
-! *** abpindo_prank.txt ***
+! *** abpindo_annoyance_prank.txt ***
 ! situs jail dan usil
 !
 ||1227.com^
@@ -8335,37 +8335,6 @@ totojitu.gif|
 ||yellaface.com^
 ||ypmate.com^
 ||zentastic.com^
-! *** abpindo_general_block.txt ***
--iklan.gif|
--iklan.jpg|
--iklan.js|
--popads.php|
-.bid^$third-party
-.biz/iklan/
-.com/iklan/
-.id/ads/$~object-subrequest
-.id/adv/
-.id/iklan/
-.info/iklan/
-.me/iklan/
-.my/iklan/
-.net/iklan/
-.tv/iklan/
-/ads/iklan.
-/adsterra.js|
-/adtrace2.js|
-/adv/iklan.
-/bb17-iklan.
-/iklancpm.
-/images/iklan/*
-/internetsehatdanamanfastnet.html|
-/revenuehits.js|
-/SkinADkanan.
-/SkinADkiri.
-/uploads/iklan/*
-/usaha-berhasil.gif|
-/usahaberhasil.gif|
-iklan300x250.gif|
 ! *** abpindo_specific_block.txt ***
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|filmbioskopterbaru.id|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|mangaid.co|smallencode.com
@@ -8612,6 +8581,37 @@ iklan300x250.gif|
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
+! *** abpindo_general_block.txt ***
+-iklan.gif|
+-iklan.jpg|
+-iklan.js|
+-popads.php|
+.bid^$third-party
+.biz/iklan/
+.com/iklan/
+.id/ads/$~object-subrequest
+.id/adv/
+.id/iklan/
+.info/iklan/
+.me/iklan/
+.my/iklan/
+.net/iklan/
+.tv/iklan/
+/ads/iklan.
+/adsterra.js|
+/adtrace2.js|
+/adv/iklan.
+/bb17-iklan.
+/iklancpm.
+/images/iklan/*
+/internetsehatdanamanfastnet.html|
+/revenuehits.js|
+/SkinADkanan.
+/SkinADkiri.
+/uploads/iklan/*
+/usaha-berhasil.gif|
+/usahaberhasil.gif|
+iklan300x250.gif|
 ! *** abpindo_whitelist.txt ***
 @@.png#$domain=awsubs.co|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sobatdrama.net
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
