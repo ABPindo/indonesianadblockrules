@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: OOTSoxRkMx2/1Y0T6NzPjw
+! Checksum: 52zfhZ8VSzW9mcaDSg4k+w
 ! Title: ABPindo
-! Last modified: 17 Agustus 2018, 08:20:39 WIB
+! Last modified: 19 Agustus 2018, 14:01:49 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2126,6 +2126,7 @@ totojitu.gif|
 ##[href^="https://livehkpools.com"]
 ##[href^="https://lotustogel."]
 ##[href^="https://rajaremi.com"]
+##[href^="https://sakongkiu."]
 ##[href^="https://www.Aon-bet."]
 ##[href^="https://www.ArmaniQQ."]
 ##[href^="https://www.IbcWin."]
@@ -2151,11 +2152,13 @@ totojitu.gif|
 ##a[href$="/jokerbet"]
 ##a[href$="/josbet"]
 ##a[href$="/mobapoker"]
+##a[href$="/okecgoaloo"]
 ##a[href$="/ratuqq"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
+##a[href$="ref=bokepmania"]
 ##a[href^="Http://www.DuniaSarana."]
 ##a[href^="http://103.10.200.57"]
 ##a[href^="http://103.10.200.61"]
@@ -2497,6 +2500,7 @@ totojitu.gif|
 ##a[href^="http://mimpi4d.com"]
 ##a[href^="http://mingguqq.com"]
 ##a[href^="http://misapoker.com"]
+##a[href^="http://misi-qq."]
 ##a[href^="http://misiqiu.com"]
 ##a[href^="http://misiqq.com"]
 ##a[href^="http://mkvgames."]
@@ -2612,6 +2616,7 @@ totojitu.gif|
 ##a[href^="http://suhukiu.com"]
 ##a[href^="http://sumberqq.com"]
 ##a[href^="http://sundul99."]
+##a[href^="http://suryaemas.net"]
 ##a[href^="http://tahunqq."]
 ##a[href^="http://tamanqq.com"]
 ##a[href^="http://tangkasq.com"]
@@ -2706,6 +2711,7 @@ totojitu.gif|
 ##a[href^="http://www.bdrqq.com"]
 ##a[href^="http://www.benderabet.com"]
 ##a[href^="http://www.bersama365.com"]
+##a[href^="http://www.betkiukiu."]
 ##a[href^="http://www.betsaja."]
 ##a[href^="http://www.bisa88.com"]
 ##a[href^="http://www.bla168.com"]
@@ -2861,6 +2867,7 @@ totojitu.gif|
 ##a[href^="http://www.sentanapoker."]
 ##a[href^="http://www.seobandarqq365.com"]
 ##a[href^="http://www.seoincarqq.com"]
+##a[href^="http://www.seoincarqq.net"]
 ##a[href^="http://www.seomarina365."]
 ##a[href^="http://www.serbaqq."]
 ##a[href^="http://www.sevenbola."]
@@ -2920,6 +2927,7 @@ totojitu.gif|
 ##a[href^="https://www.aon-bet.com"]
 ##a[href^="https://www.aonbet.com"]
 ##a[href^="https://www.asiabet66."]
+##a[href^="https://www.barutogel."]
 ##a[href^="https://www.bejototo.com"]
 ##a[href^="https://www.boladunia88bet.com"]
 ##a[href^="https://www.h8indo.com"]
@@ -2958,6 +2966,7 @@ totojitu.gif|
 ##img[alt="Agen SBOBET"]
 ##img[alt="Agen Sbobet"]
 ##img[alt="Agen Tangkas"]
+##img[alt="Agen poker"]
 ##img[alt="AgenQQ"]
 ##img[alt="BANDARQ ONLINE"]
 ##img[alt="Bandar Bakong"]
@@ -2972,7 +2981,10 @@ totojitu.gif|
 ##img[alt="Domino 99"]
 ##img[alt="GoldenPoker"]
 ##img[alt="HokiQQ"]
+##img[alt="Judi Bola"]
 ##img[alt="Judi Online"]
+##img[alt="Judi bola online"]
+##img[alt="Judi bola"]
 ##img[alt="Kakak Dewa"]
 ##img[alt="LigaQQ"]
 ##img[alt="Live Score"]
@@ -3018,6 +3030,7 @@ totojitu.gif|
 ##img[alt="agen togel"]
 ##img[alt="bandar judi bola"]
 ##img[alt="bandar sakong"]
+##img[alt="bandar togel"]
 ##img[alt="bandarq online"]
 ##img[alt="betting togel online"]
 ##img[alt="brotogel"]
@@ -3052,6 +3065,7 @@ totojitu.gif|
 ##img[alt="texaspoker."]
 ##img[alt="togel Online"]
 ##img[alt="togel online terpercaya"]
+##img[alt="togel online"]
 ##img[alt="vegas811"]
 ##img[alt="wigobet"]
 ##img[title=" judi bola online"]
@@ -10401,6 +10415,7 @@ iklan300x250.gif|
 ##.remodal
 ##.simple_advert
 ##.topadsense
+##a.single_ad_728x90
 ##img[alt="Advertisement"]
 ##img[alt="Iklan"]
 ##img[alt="Pasang Iklan Anda Disini"]
