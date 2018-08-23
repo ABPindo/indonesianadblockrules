@@ -65,8 +65,9 @@
 ##.idmuvi-footerbanner
 ##.idmuvi-topbanner
 ##.idmuvi-topbanner-aftermenu
+##.idmuvi-topbanner-archive
 ##.idmuvi-topplayer
-~kontan.co.id,~manteb.in,~securitylink.biz##.iklan
+~awsubs.co,~kontan.co.id,~manteb.in,~securitylink.biz##.iklan
 ##.iklan-kanan
 ##.iklan-kiri
 ##.iklan1
