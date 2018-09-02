@@ -14,7 +14,7 @@
 %include abpindo_thirdparty.txt%
 %include abpindo_annoyance.txt%
 %include abpindo_annoyance_elemhide.txt%
-%include abpindo_annoyance_judi.txt%
+%include abpindo_annoyance_judi_nawala.txt%
 %include abpindo_annoyance_prank.txt%
 %include abpindo_specific_block.txt%
 %include abpindo_specific_hide.txt%
