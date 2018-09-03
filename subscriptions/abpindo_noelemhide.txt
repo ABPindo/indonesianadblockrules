@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZNhTIdab5tDmMtinYSgH3Q
+! Checksum: LTTpbnMwyxybUJ5aLHixfQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 02 September 2018, 07:27:35 WIB
+! Last modified: 03 September 2018, 20:04:48 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -697,6 +697,7 @@
 /pokerbola.
 /pokerboya.
 /pokergalaxy.
+/pokerintan-
 /pokerintan.
 /pokermas99.
 /pokermon24.
@@ -1189,6 +1190,7 @@ totojitu.gif|
 ||elanghoki.com^$popup,third-party
 ||elanghoki.com^$third-party
 ||enjoydomino.com^$third-party
+||eze99.win^$popup
 ||ezebet.biz^$popup,third-party
 ||ezebet.org^$popup,third-party
 ||fadly168.ga^$popup,third-party
