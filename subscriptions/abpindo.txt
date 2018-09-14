@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: x60DvQgSbSJiepOt/6utFQ
+! Checksum: MHSgbzq0E2GxrRsvYnzY9Q
 ! Title: ABPindo
-! Last modified: 03 September 2018, 20:04:47 WIB
+! Last modified: 15 September 2018, 05:02:00 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1904,7 +1904,6 @@ totojitu.gif|
 ||zonawin.net^$popup,third-party
 ||zynga365.com^$third-party
 ! *** abpindo_annoyance_elemhide.txt ***
-##[href^="http://vegasidr."]
 ##[src="http://livesgp.top/all/result.php"]
 ##a[href$="/77megabet"]
 ##a[href$="/adscantikqq"]
@@ -2205,6 +2204,7 @@ totojitu.gif|
 ##a[href^="http://hotsports7."]
 ##a[href^="http://hoyacash."]
 ##a[href^="http://hoyajackpot."]
+##a[href^="http://hoyajp."]
 ##a[href^="http://hoyapoker99."]
 ##a[href^="http://hoyatoto."]
 ##a[href^="http://hoyatoto88."]
@@ -2572,6 +2572,7 @@ totojitu.gif|
 ##a[href^="http://vazbet."]
 ##a[href^="http://vcbola."]
 ##a[href^="http://vegas303."]
+##a[href^="http://vegasidr."]
 ##a[href^="http://venombet."]
 ##a[href^="http://vibol."]
 ##a[href^="http://vimaxasli."]
@@ -3083,6 +3084,7 @@ totojitu.gif|
 ##img[alt="judi online terpercaya"]
 ##img[alt="judi poker online"]
 ##img[alt="judi togel"]
+##img[alt="lakibet"]
 ##img[alt="lapakqq"]
 ##img[alt="mejavip"]
 ##img[alt="mustikapoker"]
