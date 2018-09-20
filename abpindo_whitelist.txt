@@ -1,4 +1,4 @@
-@@.png#$domain=awsubs.co|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sobatdrama.net
+@@.png#$domain=awsubs.co|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
@@ -17,7 +17,6 @@
 @@||oploverz.in^$elemhide
 @@||oploverz.net^$elemhide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
-@@||sobatdrama.net^$generichide
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
