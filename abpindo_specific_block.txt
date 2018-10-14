@@ -7,7 +7,6 @@
 ||.imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|filmapik.in|forumbookie.com|forumjudi.org|ganool.li|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|nontonanime.id|sodasusu.com|sukabookie.com|zonalendir.net
 ||.pgi.tribunnews.com^$inline-script
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
-||.wp.com/nontongratis88.com/wp-content/uploads/*.gif$image
 ||365wp.org/Banner/728x90$image
 ||adsimg.kompas.com^$domain=kompas.com
 ||angel.exabytes.com.my/banners/
@@ -15,8 +14,8 @@
 ||animeindo.*/wp-content/uploads/*.gif$image
 ||animeindo.co/wp-content/uploads/*.gif$image
 ||animeindo.net/wp-content/uploads/*.gif$image
-||animekompi.web.id/wp-content/uploads/*/*/ANTIBLOCKER2.jpg
-||animekompi.web.id/wp-content/uploads/*/*/antiblocker3-1.jpg
+||animekompi.web.id/wp-content/uploads/*/ANTIBLOCKER2.jpg
+||animekompi.web.id/wp-content/uploads/*/antiblocker3-1.jpg
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -85,6 +84,7 @@
 ||film-ganool.com/wp-content/uploads/*.gif
 ||film21terbaru.org/wp-content/uploads/*.gif
 ||film21terbaru.tv/wp-content/uploads/*.gif$image
+||filmace21.net/imgiklan/*.gif$image
 ||filmbaru.in/wp-content/uploads/*.gif
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||forumbookie.com/banner/
@@ -229,12 +229,14 @@
 ||semi168.xyz/wp-content/uploads/*.gif$image
 ||semuaberita.com/banner/
 ||senimovies.net/wp-content/uploads/*.gif$image
+||serunonton.*/wp-content/uploads/*.gif$image
 ||sodasusu.com/banner/
 ||solopos.com/banner/
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
+||thirdstarfilm.*/wp-content/uploads/*.gif$image
 ||tinypic.com/*.gif$image,domain=bioskop78.com|bioskop78.net|icinema3satu.net|movie303.com|nonton33.tv|nontonfilm.mobi|nontonganool.net
 ||tribunnews.com/stylesheets/close.gif
 ||tvkabel.net/prom/*.gif
