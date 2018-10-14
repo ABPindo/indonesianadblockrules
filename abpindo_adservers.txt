@@ -160,7 +160,6 @@
 ||iklantop.net^$third-party
 ||iklanumum.com^$third-party
 ||ikoh6ie.top^$popup,third-party
-||indihome.co.id
 ||indobanner.com^$third-party
 ||indofreeads.com^$third-party
 ||indotogel1.com^$popup,third-party
@@ -309,10 +308,9 @@
 ||tummiarunzpf.com^$popup,third-party
 ||twap.eu^$popup,third-party
 ||u-on.eu^$popup,third-party
-||uadexchange.com
+||uadexchange.com^$third-party
 ||uoarbhxfyygn.com^$popup,third-party
 ||useads.com^$third-party
-||uzone.id
 ||vqozayvwb.bid^$popup
 ||vrewpywootyu.com^$popup,third-party
 ||vtewggxzbrcv.bid^$popup
