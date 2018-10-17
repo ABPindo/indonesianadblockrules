@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tx3Dd1riVxgRLcCFI6eUrA
+! Checksum: cJvnEtW+DnKeomOm3vTKog
 ! Title: ABPindo
-! Last modified: 14 Oktober 2018, 09:31:31 WIB
+! Last modified: 17 Oktober 2018, 13:05:36 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -352,7 +352,6 @@
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
 ! *** abpindo_annoyance.txt ***
--abgqq.
 -agen-judi-
 -agenqq-
 -agungpoker.
@@ -375,6 +374,7 @@
 -sponsorqq.
 -tiketbet.
 -tugupoker.
+-visitogel.
 /128cash.
 /188bet.
 /1xliga.
@@ -542,6 +542,7 @@
 /IbcWin.
 /ibet44s.
 /ibobandarq.
+/ibuqq.-abgqq.
 /idolabet.
 /idrbola.
 /idrpoker.
@@ -2803,6 +2804,7 @@ totojitu.gif|
 ##a[href^="http://www.mainidb."]
 ##a[href^="http://www.mainqiu."]
 ##a[href^="http://www.mamatogel."]
+##a[href^="http://www.maniakartu."]
 ##a[href^="http://www.maniakqq."]
 ##a[href^="http://www.marina-365."]
 ##a[href^="http://www.master88."]
@@ -3017,6 +3019,7 @@ totojitu.gif|
 ##img[alt="Agen Tangkas"]
 ##img[alt="Agen Togel Online"]
 ##img[alt="Agen Togel"]
+##img[alt="Agen bola"]
 ##img[alt="Agen poker"]
 ##img[alt="AgenQQ"]
 ##img[alt="BANDAR BOLA"]
@@ -3039,6 +3042,7 @@ totojitu.gif|
 ##img[alt="HokiQQ"]
 ##img[alt="ISOPOKER "]
 ##img[alt="Ibosport"]
+##img[alt="JasaGol"]
 ##img[alt="Judi Bola"]
 ##img[alt="Judi Online"]
 ##img[alt="Judi bola online"]
@@ -3048,11 +3052,14 @@ totojitu.gif|
 ##img[alt="LigaQQ"]
 ##img[alt="Live Score"]
 ##img[alt="MEJASAKONG"]
+##img[alt="ManiaQQ"]
 ##img[alt="OBCBET"]
 ##img[alt="Obat Pembesar Penis"]
 ##img[alt="OvoQQ"]
+##img[alt="P2PLAY"]
 ##img[alt="PAUSPOKR "]
 ##img[alt="POKERPEDIAZ"]
+##img[alt="PasarOnline"]
 ##img[alt="Poker Bola"]
 ##img[alt="Poker Online Terpercaya"]
 ##img[alt="Poker Online"]
@@ -3062,6 +3069,7 @@ totojitu.gif|
 ##img[alt="SBOBET"]
 ##img[alt="Sbosbet"]
 ##img[alt="Situs Bandarq Online"]
+##img[alt="Situs Bola Indonesia"]
 ##img[alt="Situs Judi Online Terpercaya"]
 ##img[alt="Situs Togel Terpercaya"]
 ##img[alt="TEXASPOKERCC"]
@@ -3120,10 +3128,13 @@ totojitu.gif|
 ##img[alt="lakibet"]
 ##img[alt="lapakqq"]
 ##img[alt="larisqq"]
+##img[alt="luxury138"]
+##img[alt="macau club poker"]
 ##img[alt="mejavip"]
 ##img[alt="mustikapoker"]
 ##img[alt="obatpenisalami"]
 ##img[alt="permainan judi online"]
+##img[alt="poker online indonesia"]
 ##img[alt="poker online terbaik"]
 ##img[alt="poker online terpercaya"]
 ##img[alt="poker online"]

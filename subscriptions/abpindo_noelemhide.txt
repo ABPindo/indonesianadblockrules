@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: b05KjZDChHDrb6LXrVJkfw
+! Checksum: DTLkRDIxdz0a7GWL7BnLSw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 14 Oktober 2018, 09:31:33 WIB
+! Last modified: 17 Oktober 2018, 13:05:38 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -352,7 +352,6 @@
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
 ! *** abpindo_annoyance.txt ***
--abgqq.
 -agen-judi-
 -agenqq-
 -agungpoker.
@@ -375,6 +374,7 @@
 -sponsorqq.
 -tiketbet.
 -tugupoker.
+-visitogel.
 /128cash.
 /188bet.
 /1xliga.
@@ -542,6 +542,7 @@
 /IbcWin.
 /ibet44s.
 /ibobandarq.
+/ibuqq.-abgqq.
 /idolabet.
 /idrbola.
 /idrpoker.
