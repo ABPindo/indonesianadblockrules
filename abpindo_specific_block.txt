@@ -85,6 +85,7 @@
 ||film21terbaru.org/wp-content/uploads/*.gif
 ||film21terbaru.tv/wp-content/uploads/*.gif$image
 ||filmace21.net/imgiklan/*.gif$image
+||filmace21.net/imgiklanz/*.gif$image
 ||filmbaru.in/wp-content/uploads/*.gif
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||forumbookie.com/banner/

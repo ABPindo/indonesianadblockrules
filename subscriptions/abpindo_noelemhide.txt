@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DTLkRDIxdz0a7GWL7BnLSw
+! Checksum: NQjrYsL6noq6cNwn2PlMbQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 17 Oktober 2018, 13:05:38 WIB
+! Last modified: 04 November 2018, 14:23:58 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -322,6 +322,7 @@
 ||tummiarunzpf.com^$popup,third-party
 ||twap.eu^$popup,third-party
 ||u-on.eu^$popup,third-party
+||uadexchange.com^$third-party
 ||uoarbhxfyygn.com^$popup,third-party
 ||useads.com^$third-party
 ||vqozayvwb.bid^$popup
@@ -8436,6 +8437,7 @@ totojitu.gif|
 ||film21terbaru.org/wp-content/uploads/*.gif
 ||film21terbaru.tv/wp-content/uploads/*.gif$image
 ||filmace21.net/imgiklan/*.gif$image
+||filmace21.net/imgiklanz/*.gif$image
 ||filmbaru.in/wp-content/uploads/*.gif
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||forumbookie.com/banner/
@@ -8599,6 +8601,7 @@ totojitu.gif|
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! *** abpindo_general_block.txt ***
+-728-x-90.
 -iklan.gif|
 -iklan.jpg|
 -iklan.js|

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cJvnEtW+DnKeomOm3vTKog
+! Checksum: VBYqTuvd/rWRUlaXLJvf/g
 ! Title: ABPindo
-! Last modified: 17 Oktober 2018, 13:05:36 WIB
+! Last modified: 04 November 2018, 14:23:55 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -322,6 +322,7 @@
 ||tummiarunzpf.com^$popup,third-party
 ||twap.eu^$popup,third-party
 ||u-on.eu^$popup,third-party
+||uadexchange.com^$third-party
 ||uoarbhxfyygn.com^$popup,third-party
 ||useads.com^$third-party
 ||vqozayvwb.bid^$popup
@@ -1946,6 +1947,7 @@ totojitu.gif|
 ##a[href^="Http://www.DuniaSarana."]
 ##a[href^="Http://www.EradominoQQ."]
 ##a[href^="Http://www.RoyalKasino."]
+##a[href^="http://103.10.200.48/"]
 ##a[href^="http://103.10.200.57"]
 ##a[href^="http://103.10.200.61"]
 ##a[href^="http://116poker."]
@@ -2224,6 +2226,7 @@ totojitu.gif|
 ##a[href^="http://i88cash."]
 ##a[href^="http://ibcqq."]
 ##a[href^="http://ibobandarq."]
+##a[href^="http://ibuqq."]
 ##a[href^="http://icebola88."]
 ##a[href^="http://id-13."]
 ##a[href^="http://idb365."]
@@ -2285,6 +2288,7 @@ totojitu.gif|
 ##a[href^="http://jayapokr."]
 ##a[href^="http://jendralpoker."]
 ##a[href^="http://joindomino365."]
+##a[href^="http://joinqiu."]
 ##a[href^="http://jokerbet888."]
 ##a[href^="http://jokermerah."]
 ##a[href^="http://jokerqq."]
@@ -2428,6 +2432,7 @@ totojitu.gif|
 ##a[href^="http://papadewa."]
 ##a[href^="http://paperbola."]
 ##a[href^="http://parisbola."]
+##a[href^="http://parisdomino."]
 ##a[href^="http://pasangnomor2."]
 ##a[href^="http://pasaranqq."]
 ##a[href^="http://pasarantogel."]
@@ -2446,6 +2451,7 @@ totojitu.gif|
 ##a[href^="http://pokerdex."]
 ##a[href^="http://pokergalaxy."]
 ##a[href^="http://pokerindo99."]
+##a[href^="http://pokermeja."]
 ##a[href^="http://pokerqq13."]
 ##a[href^="http://prediksisingapore."]
 ##a[href^="http://prediksitogeljitu."]
@@ -2464,6 +2470,7 @@ totojitu.gif|
 ##a[href^="http://qqboya."]
 ##a[href^="http://qqdomino."]
 ##a[href^="http://qqdoyan."]
+##a[href^="http://qqmaju."]
 ##a[href^="http://qqnalo."]
 ##a[href^="http://qqpendekar."]
 ##a[href^="http://qqterbaik."]
@@ -2773,6 +2780,7 @@ totojitu.gif|
 ##a[href^="http://www.javtoys."]
 ##a[href^="http://www.jayahoki."]
 ##a[href^="http://www.jayamania."]
+##a[href^="http://www.juara855."]
 ##a[href^="http://www.kaisar365."]
 ##a[href^="http://www.kartu855."]
 ##a[href^="http://www.kartuking."]
@@ -2862,6 +2870,7 @@ totojitu.gif|
 ##a[href^="http://www.ptliga365."]
 ##a[href^="http://www.qbandars."]
 ##a[href^="http://www.qqdomino."]
+##a[href^="http://www.qqhok."]
 ##a[href^="http://www.qqjempol."]
 ##a[href^="http://www.qqpokerplay."]
 ##a[href^="http://www.qqsamsung128."]
@@ -2872,6 +2881,7 @@ totojitu.gif|
 ##a[href^="http://www.redmiqq."]
 ##a[href^="http://www.royalkasino."]
 ##a[href^="http://www.royalku."]
+##a[href^="http://www.samsungbni."]
 ##a[href^="http://www.samsunghoki."]
 ##a[href^="http://www.sanadomino."]
 ##a[href^="http://www.sbbanner."]
@@ -9725,6 +9735,7 @@ totojitu.gif|
 ||film21terbaru.org/wp-content/uploads/*.gif
 ||film21terbaru.tv/wp-content/uploads/*.gif$image
 ||filmace21.net/imgiklan/*.gif$image
+||filmace21.net/imgiklanz/*.gif$image
 ||filmbaru.in/wp-content/uploads/*.gif
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||forumbookie.com/banner/
@@ -10300,7 +10311,9 @@ lapar.com##.top-banner
 xx1.me##.top-bnner.lazy
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
+cdramabase.com##.wpa
 bioskop168.pro##[href^="http://linkalternatif."]
+dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 nontonsub.com##[href^="https://bit.ly/"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 idfl.me##[id^="yui-gen"].postcontainer
@@ -10368,6 +10381,8 @@ tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 lihat.co.id##img[width="300"][height="250"]
+indoxxi.*###home-bnner-content
+indoxxi.*###home-bnner2-content
 layarkaca21.*###fbanner
 layarkaca21.*###ptbanner
 layarkaca21.*##.img-responsive
@@ -10387,6 +10402,7 @@ bioskop78.com##td:nth-of-type(3)
 nontondrama.me##tr
 ~lk21.*###fbanner
 ! *** abpindo_general_block.txt ***
+-728-x-90.
 -iklan.gif|
 -iklan.jpg|
 -iklan.js|
