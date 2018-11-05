@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VBYqTuvd/rWRUlaXLJvf/g
+! Checksum: 93p0ICFrS3ngtFr9/OGoLg
 ! Title: ABPindo
-! Last modified: 04 November 2018, 14:23:55 WIB
+! Last modified: 05 November 2018, 15:24:45 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9976,6 +9976,7 @@ moviebaru21.com###floatads1
 komiku.net###floatads2
 komiku.net###floatads3
 sinemaindo.web.id###floatbtmleft
+awsubs.co###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 173.199.189.86,bioskop55.club,bioskop55.me,bioskop90.com,bioskopgalaxy21.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,juragantomatx.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
