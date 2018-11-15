@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 93p0ICFrS3ngtFr9/OGoLg
+! Checksum: uvkx09sXaPVw8D8MndNjQA
 ! Title: ABPindo
-! Last modified: 05 November 2018, 15:24:45 WIB
+! Last modified: 15 November 2018, 15:49:26 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -549,6 +549,7 @@
 /idrpoker.
 /iklanqq.
 /Imcpoker-
+/imcpoker.
 /indorajaqq.
 /indowin99.
 /indowins.
@@ -689,6 +690,7 @@
 /papabet.
 /papadewa.
 /parisbola.
+/parisqq.
 /pasangnomor2.
 /pemaintogel.
 /pendekarqq-
@@ -1941,6 +1943,7 @@ totojitu.gif|
 ##a[href$="/sindoqq"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
+##a[href$="/tri7bet"]
 ##a[href$="/ulrnaga"]
 ##a[href$="ref=bokepmania"]
 ##a[href="http://www.ligapojok."]
@@ -1977,11 +1980,13 @@ totojitu.gif|
 ##a[href^="http://Rajanusantara."]
 ##a[href^="http://Topbet99."]
 ##a[href^="http://abgqq."]
+##a[href^="http://abgqq88."]
 ##a[href^="http://acerpoker."]
 ##a[href^="http://acmbet."]
 ##a[href^="http://adjarabet."]
 ##a[href^="http://adubalak."]
 ##a[href^="http://aduqkartuqq."]
+##a[href^="http://aduqq88."]
 ##a[href^="http://afapkr."]
 ##a[href^="http://afatogel1."]
 ##a[href^="http://agen558."]
@@ -2470,6 +2475,7 @@ totojitu.gif|
 ##a[href^="http://qqboya."]
 ##a[href^="http://qqdomino."]
 ##a[href^="http://qqdoyan."]
+##a[href^="http://qqhebat."]
 ##a[href^="http://qqmaju."]
 ##a[href^="http://qqnalo."]
 ##a[href^="http://qqpendekar."]
@@ -2530,6 +2536,7 @@ totojitu.gif|
 ##a[href^="http://singa168."]
 ##a[href^="http://situsbet368."]
 ##a[href^="http://situsjudi."]
+##a[href^="http://situskiu."]
 ##a[href^="http://skorbola."]
 ##a[href^="http://sobatpkr."]
 ##a[href^="http://sobatpoker88."]
@@ -2559,8 +2566,10 @@ totojitu.gif|
 ##a[href^="http://taruhanbet."]
 ##a[href^="http://tatobet."]
 ##a[href^="http://tatonaga."]
+##a[href^="http://tebet88."]
 ##a[href^="http://temanjudi."]
 ##a[href^="http://tendangsakti."]
+##a[href^="http://terminal4d."]
 ##a[href^="http://terminalbet."]
 ##a[href^="http://tfp.sapphirum."]
 ##a[href^="http://themobiletracker."]
@@ -2635,6 +2644,7 @@ totojitu.gif|
 ##a[href^="http://www.365kiu."]
 ##a[href^="http://www.396club."]
 ##a[href^="http://www.4dasli."]
+##a[href^="http://www.5starbet."]
 ##a[href^="http://www.7nagabet."]
 ##a[href^="http://www.7nagapoker."]
 ##a[href^="http://www.7nagatoto."]
@@ -2655,6 +2665,7 @@ totojitu.gif|
 ##a[href^="http://www.aoecash."]
 ##a[href^="http://www.arenacash88."]
 ##a[href^="http://www.armanitogel."]
+##a[href^="http://www.aseangol."]
 ##a[href^="http://www.asia88bet."]
 ##a[href^="http://www.asiapoker77."]
 ##a[href^="http://www.asiaqq."]
@@ -2681,6 +2692,7 @@ totojitu.gif|
 ##a[href^="http://www.bla168."]
 ##a[href^="http://www.bola168."]
 ##a[href^="http://www.bola83."]
+##a[href^="http://www.bolaafb."]
 ##a[href^="http://www.bolalabo."]
 ##a[href^="http://www.bolasuhu."]
 ##a[href^="http://www.bosspkr."]
@@ -2805,6 +2817,7 @@ totojitu.gif|
 ##a[href^="http://www.ligahoki."]
 ##a[href^="http://www.ligakita."]
 ##a[href^="http://www.ligapkv."]
+##a[href^="http://www.ligapojok."]
 ##a[href^="http://www.luckypoker188."]
 ##a[href^="http://www.luxury138zz."]
 ##a[href^="http://www.m88domino."]
@@ -2867,6 +2880,7 @@ totojitu.gif|
 ##a[href^="http://www.prediksi855."]
 ##a[href^="http://www.prediksisingapore."]
 ##a[href^="http://www.probet99."]
+##a[href^="http://www.probola."]
 ##a[href^="http://www.ptliga365."]
 ##a[href^="http://www.qbandars."]
 ##a[href^="http://www.qqdomino."]
@@ -2957,6 +2971,7 @@ totojitu.gif|
 ##a[href^="https://asianbandarq."]
 ##a[href^="https://balakdewa."]
 ##a[href^="https://bolapk."]
+##a[href^="https://kakakqq."]
 ##a[href^="https://kartuajaib."]
 ##a[href^="https://kartuking."]
 ##a[href^="https://lagihoki./ "]
@@ -10026,6 +10041,7 @@ cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer
 indotelko.com###more_stories
 fastdrama.co###myModal
 nobartv.com###nbpopx-wrapper
+duniasex.co,ibugil.net###netkevin-popup
 viva.co.id###otp_ads
 detik.com###otp_banner
 lihat.co.id###overlay[style="display: block;"]
@@ -10224,6 +10240,7 @@ kompas.com##.hAds
 animekompi.web.id##.headads
 videocrot.org##.headbanner
 bioskop90.com##.headborder:nth-of-type(5)
+128.199.102.111##.header-ad-mobile
 indobokep.pro,zonapanaz.net##.header-banner
 kaskus.co.id##.header__kasad
 cmovieshd.se##.hidden-xs
@@ -10315,7 +10332,6 @@ teknologi.inilah.com##.wb-300x250
 cdramabase.com##.wpa
 bioskop168.pro##[href^="http://linkalternatif."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
-nontonsub.com##[href^="https://bit.ly/"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 idfl.me##[id^="yui-gen"].postcontainer
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
@@ -10335,7 +10351,7 @@ lk21.web.id,nonton33.net##a[href^="http://goo.gl/"]
 nontoncinema.org##a[href^="http://referral."]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
-lk-21.me,mangaku.in,ns21.club##a[href^="https://bit.ly/"]
+bioskop168.pro,dramaind.com,lk-21.me,mangaku.in,nontonsub.com,ns21.club##a[href^="https://bit.ly/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bokepml.gq,bokepngetop.com,drakorindo.tv,gelorajiwaseks.com,idbioskop.com,moviebaru21.com,nonton33.net,ns21.me,ns21.top,semprot.com,semprotku.com,serunonton.com,www1.lk-21.me##a[href^="https://goo.gl/"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
