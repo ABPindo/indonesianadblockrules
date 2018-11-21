@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum: nCn8t9C/3t9KHSacgjE8wA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 15 November 2018, 15:49:27 WIB
+! Last modified: 21 November 2018, 15:49:27 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -8366,8 +8366,6 @@ totojitu.gif|
 ||angel.exabytes.com.my/banners/
 ||anibatch.me/wp-content/uploads/*.gif$image
 ||animeindo.*/wp-content/uploads/*.gif$image
-||animeindo.co/wp-content/uploads/*.gif$image
-||animeindo.net/wp-content/uploads/*.gif$image
 ||animekompi.web.id/wp-content/uploads/*/ANTIBLOCKER2.jpg
 ||animekompi.web.id/wp-content/uploads/*/antiblocker3-1.jpg
 ||armylookfashion.com/728.swf
@@ -8384,8 +8382,6 @@ totojitu.gif|
 ||bioskop21.info/bokep.gif
 ||bioskop212.net/wp-content/uploads/*.gif$image
 ||bioskop55.*/wp-content/uploads/*.gif$image
-||bioskop55.club/wp-content/uploads/*.gif$image
-||bioskop55.me/wp-content/uploads/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
@@ -8396,9 +8392,7 @@ totojitu.gif|
 ||cinema-indo.com/banere/*.gif$image
 ||cinema007.com/wp-content/uploads/*.gif$image
 ||cinemaindo.*/wp-content/uploads/*.gif$image
-||cinemaindo.com/wp-content/uploads/*.gif$image
 ||cinemaindo.stream/*.gif$image
-||cinemaindo.tv/wp-content/uploads/*.gif$image
 ||cinemaindo.web.id/banere/
 ||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$script
 ||cinemaqq.com/wp-content/uploads/*.gif$image
@@ -8426,9 +8420,6 @@ totojitu.gif|
 ||dramaid.com/banner/
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||dunia21.*/assets/*.gif$image
-||dunia21.com/assets/*.gif$image
-||dunia21.net/assets/*.gif$image
-||dunia21.tv/assets/*.gif$image
 ||duniasex.ws/banner-
 ||ebsoft.web.id/wp-content/banners/
 ||eramuslim.com/banners
@@ -8497,20 +8488,12 @@ totojitu.gif|
 ||kumpulblogger.com/minibanner/
 ||lapak-online.net^$popup,third-party
 ||layarkaca21.*/assets/*.gif$image
-||layarkaca21.com/assets/*.gif$image
 ||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
 ||lk21.*/assets/*.gif$image
-||lk21.co/assets/*.gif$image
 ||lk21.fun/wp-content/uploads/*.gif$image
-||lk21.me/assets/*.gif$image
-||lk21.net/assets/*.gif$image
-||lk21.org/assets/*.gif$image
-||lk21.pw/assets/*.gif$image
-||lk21.top/assets/*.gif$image
-||lk21.tv/assets/*.gif$image
 ||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_overlay.png
 ||lk21.tv/wp-content/themes/layarkaca21/images/fancybox_sprite.png
 ||lytogame.com/images/partner/$third-party
@@ -8562,12 +8545,6 @@ totojitu.gif|
 ||noobscript.com^$script,third-party
 ||ns21.*/wp-content/uploads/*.gif$image
 ||ns21.club/wp-content/uploads/*.gif$image||.uxvcjlat.com^$inline-script,third-party
-||ns21.co/wp-content/uploads/*.gif$image
-||ns21.me/wp-content/uploads/*.gif$image
-||ns21.org/wp-content/uploads/*.gif$image
-||ns21.pw/wp-content/uploads/*.gif$image
-||ns21.top/wp-content/uploads/*.gif$image
-||ns21.tv/wp-content/uploads/*.gif$image
 ||numpanglewat.com^$third-party
 ||numpangnonton.com/wp-content/uploads/*.gif$image
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
@@ -8659,3 +8636,4 @@ iklan300x250.gif|
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
 @@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script,domain=www.samehadaku.tv
+
