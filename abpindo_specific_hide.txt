@@ -6,6 +6,7 @@ indogamers.com###IklanIDGS
 lihat.co.id###Kolom-Iklan-728
 lihat.co.id###Kolom-random-300
 lihat.co.id###SidebarIklan-wrapper
+utusan.com.my###Taboola_widget
 chip.co.id###TopBannerBg
 hi10anime.com###__admvnlb__modal_container
 mangacanblog.com###aa
@@ -274,6 +275,7 @@ nontonme.com##.banners
 nontonmovie.web.id,videocrot.org##.bannersinglefot
 elde.tv##.bannerwrap
 bharian.com.my##.bh-ad
+bharian.com.my##.block-bh-googledfp
 bioskop99.me##.bot.ads
 beritagar.id##.bottom-20.box-widget.right-300.banner300x250.banner
 kabar24.com##.bottom-frame-banner-close-btn
@@ -293,6 +295,7 @@ animekompi.web.id##.cads
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
+bharian.com.my##.center-block.img-responsive
 dramaqu.net##.cfmonitor
 lusuh.com##.cintalusuh_floating_banner_top
 juragan21.com##.cintasemprot_floating_banner_bottom
@@ -317,6 +320,7 @@ layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
 detik.com##.frame_iklan_baris
+utusan.com.my##.g-slice__item:-abp-has(div[id="DFP-ads"])
 myasiantv.se##.glx-link
 myasiantv.se##.glx-teaser
 kompas.com##.hAds
@@ -356,6 +360,7 @@ nontonbokeps.com##.mask-ads
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 bioskop21.co##.mgid
 dapurpacu.com##.mid-banner
+astroawani.com##.middle-ad-cont
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
@@ -367,6 +372,7 @@ detik.com##.otp_banner_close
 susterbokep.com##.overlay
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
+beritaharian.sg##.pane-block:-abp-has(div[id^="dfp-ad"])
 viva.co.id##.portlet.sideskycrapper
 otomania.com##.r-ads
 film-ganool.com##.random
@@ -403,11 +409,13 @@ idpelago.com##.sponsor_ads:nth-of-type(4)
 okezone.com##.sponsored-belt468x60
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 nontononlinedrama.com##.td-container-wrap.td-banner-wrap-full
+mediapermata.com.bn##.td-header-rec-wrap
 film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
 bioskopgalaxy21.com,indostreamings.xyz,semi168.xyz,tvkabel.net##.textwidget
 bioskoptigalima.com,icinema3satu.net##.textwidget img
 klikseru.com##.textwidget img[width="300"][height="250"]
+utusan.com.my##.tonal__standfirst
 lapar.com##.top-banner
 xx1.me##.top-bnner.lazy
 otomotif.kompas.com##.w340.r-ads.right > ul > li
@@ -501,11 +509,3 @@ satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
 nontondrama.me##tr
 ~lk21.*###fbanner
-bharian.com.my##.block-bh-googledfp
-bharian.com.my##.center-block.img-responsive
-utusan.com.my##.g-slice__item:-abp-has(div[id="DFP-ads"])
-utusan.com.my##.tonal__standfirst
-utusan.com.my###Taboola_widget
-astroawani.com##.middle-ad-cont
-beritaharian.sg##.pane-block:-abp-has(div[id^="dfp-ad"])
-mediapermata.com.bn##.td-header-rec-wrap
