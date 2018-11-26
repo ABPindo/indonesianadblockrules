@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YOFcJaL8i51SJ0dEaS5oXA
+! Checksum: jS8Apd3qTujDneJfaRdZtg
 ! Title: ABPindo
-! Last modified: 26 November 2018, 06:15:07 WIB
+! Last modified: 27 November 2018, 05:24:21 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1950,7 +1950,6 @@ totojitu.gif|
 ##a[href$="/tri7bet"]
 ##a[href$="/ulrnaga"]
 ##a[href$="ref=bokepmania"]
-##a[href="http://www.ligapojok."]
 ##a[href^="Http://www.DuniaSarana."]
 ##a[href^="Http://www.EradominoQQ."]
 ##a[href^="Http://www.RoyalKasino."]
