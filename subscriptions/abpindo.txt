@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jS8Apd3qTujDneJfaRdZtg
+! Checksum: oPUOWHiTWXcDZqINlFeieg
 ! Title: ABPindo
-! Last modified: 27 November 2018, 05:24:21 WIB
+! Last modified: 30 November 2018, 16:33:48 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -502,7 +502,6 @@
 /eze99.
 /ezebet-
 /ezebet.
-/ezgif-
 /fifaqq-
 /fifaqq.
 /fix%2b728x90.
@@ -1128,7 +1127,6 @@ totojitu.gif|
 ||cinaqq.com^$popup,third-party
 ||cinaqq.com^$third-party
 ||clickadu.com^$popup,third-party
-||clickadu.com^$third-party
 ||cmcwin.com^$popup,third-party
 ||cmcwin.com^$third-party
 ||cmobet.info$image,third-party
@@ -1345,7 +1343,6 @@ totojitu.gif|
 ||indukbet.com^$popup,third-party
 ||indukbet.com^$third-party
 ||infolinks.com^$popup,third-party
-||infolinks.com^$third-party
 ||infoterapis.net^$popup,third-party
 ||inibos.com^$popup,third-party
 ||inibos.com^$third-party
@@ -9767,6 +9764,7 @@ totojitu.gif|
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
+||ganool.city/iklan/$image
 ||ganool.link/wp-content/uploads/*.gif
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
@@ -10094,7 +10092,6 @@ sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
 harianjogja.com,solopos.com###solopos_float
 downloadfilmbaru.com###sticky-ads
-www.bioskoponline.org###sticky_ad_bar
 detik.com###sto_banner
 cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,neumanga.tv###teaser1
 22cinema.download,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,komiku.net,movie76.net,nontonmovie.web.id###teaser2
@@ -10155,7 +10152,6 @@ grid.id##.ads_sky
 antaranews.com##.ads_top_728
 ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
-samehadaku.tv##.adsbyadop
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
 mangaku.in,mangaku.web.id##.adv
@@ -10169,6 +10165,7 @@ autonetmagz.com##.anm__flying--ads-holder
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 nonton21.tv,nontonserial.com,ns21.me##.ban_empat
+nanime.in##.banner
 dewabioskop21.asia##.banner-left
 dewabioskop21.asia##.banner-right
 dream.co.id##.banner-sc2
@@ -10298,6 +10295,7 @@ susterbokep.com##.overlay
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 beritaharian.sg##.pane-block:-abp-has(div[id^="dfp-ad"])
+indoxxi.one##.popUpBannerBox
 viva.co.id##.portlet.sideskycrapper
 otomania.com##.r-ads
 film-ganool.com##.random
@@ -10360,7 +10358,6 @@ torjack.net##a[href="https://mypayingads.com/ref/59039/signup"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
 hentai2read.com##a[href^="//www.nutaku.net/signup/"]
-cinema2satu.id##a[href^="http://adserver.adreactor.com/servlet/view/window/url/zone"]
 bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 123drakor.com,46.166.167.16,bioskop168.pro,bioskop45.com,bioskopbokep21.com,bokepngetop.com,bokeponline.download,dewamovie.tv,drakorindo.tv,filmbioskop21.co,gandhool.net,ganoolmovie.video,gudangmovies21.cc,idbioskop.com,indomovies.club,layarmovie21.co,lk21.cam,lk21.web.id,nonton-streaming.com,nonton33.net,nonton789.com,nontondrama.me,nontonsub.co,nontonsub.com,ns21.me,sashahillfilm.com,satujiwa.net,semprot.com,semprotku.com,sinemaindo.web.id,thirdstarfilm.com##a[href^="http://bit.ly/"]
 lk21.web.id,nonton33.net##a[href^="http://goo.gl/"]
@@ -10473,7 +10470,6 @@ iklan300x250.gif|
 ~4udrama.com###adplayer
 ###ads-pop
 ~cinemamkv.net,~cinemamkv.xyz###adsense
-###adsground
 ###adv-placeholder
 ###bireklam
 ###bottom_exclusive_ads
