@@ -510,3 +510,4 @@ satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
 nontondrama.me##tr
 ~lk21.*###fbanner
+nanime.in##.banner
