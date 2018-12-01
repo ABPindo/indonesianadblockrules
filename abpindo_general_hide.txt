@@ -23,8 +23,13 @@
 ###flowads
 ###footer-adcont
 ###hbanner
+###idblog-adb-enabled
+###idmuvi-adb-enabled
 ###idmuvi-popup
 ###iklan
+###iklan-pos
+###iklan-sidebar
+###iklan-text
 ###iklan1
 ###iklan2
 ###iklan3
@@ -55,6 +60,7 @@
 ##.forads
 ##.gbcontent
 ##.gpcontent
+##.idblog-center-ads
 ##.idblog-topbanner-aftermenu
 ##.idmuvi-afterplayer
 ##.idmuvi-floatbanner
@@ -77,7 +83,9 @@
 ##.iklanhead
 ##.iklanleft
 ##.iklanmini
+##.iklanpusat
 ##.iklanright
+##.kotak_iklan
 ##.ktz-aftermenubanner
 ##.ktz-bannersingletop
 ##.marginads
@@ -88,6 +96,7 @@
 ##.pusat728
 ##.remodal
 ##.simple_advert
+##.subiklan
 ##.topadsense
 ##a.single_ad_728x90
 ##img[alt="Advertisement"]

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qugTqGFqdwAlTjv1DW9vyw
+! Checksum: DauoKPZ8tWx9oUoPNdcT/A
 ! Title: ABPindo tanpa element hiding
-! Last modified: 01 Desember 2018, 08:02:43 WIB
+! Last modified: 01 Desember 2018, 13:45:07 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1910,6 +1910,8 @@ totojitu.gif|
 ||wongbet.asia^$third-party
 ||wongpkr.com^$popup,third-party
 ||wongpkr.net^$popup,third-party
+||www.lotusbola.com^$popup,third-party
+||www.senigoal.net^$popup,third-party
 ||wwwsgopoker.^$third-party
 ||wwwsgopoker.net^$popup,third-party
 ||ysbindo.com^$third-party
