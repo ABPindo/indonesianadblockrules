@@ -1,4 +1,4 @@
-@@.png#$domain=awsubs.co|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net
+@@.png$domain=awsubs.co|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
@@ -22,3 +22,4 @@
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
 @@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script,domain=www.samehadaku.tv
 cnet.com#@#img[alt="Advertisement"]
+@@.png$image,domain=dutaislam.com
