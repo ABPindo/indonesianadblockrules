@@ -14,6 +14,7 @@
 @@||digitalponsel.com^$elemhide
 @@||dukun-cit.com^$generichide
 !@@||eramuslim.com^$generichide
+@@.png$image,domain=dutaislam.com
 @@||oploverz.in^$elemhide
 @@||oploverz.net^$elemhide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
@@ -22,4 +23,3 @@
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
 @@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script,domain=www.samehadaku.tv
 cnet.com#@#img[alt="Advertisement"]
-@@.png$image,domain=dutaislam.com

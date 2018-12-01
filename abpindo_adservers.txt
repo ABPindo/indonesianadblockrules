@@ -1,8 +1,3 @@
-||accesstrade.co.id^$third-party
-||adshost.site^$third-party
-||www.adflazz.com^$third-party
-||iklaninter.net^$third-party
-||easyhits4u.com^$third-party
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||128cash.org^$popup,third-party
@@ -24,6 +19,7 @@
 ||99doyan.com^$popup,third-party
 ||9icmzvn6.website^$popup,third-party
 ||abrts.pro^$popup,third-party
+||accesstrade.co.id^$third-party
 ||ad.adflazz.com^$third-party
 ||addesigner.com^$third-party
 ||adexp.net^$third-party
@@ -38,6 +34,7 @@
 ||adsbingo.com^$third-party
 ||adscpm.site^$third-party
 ||adsdelivery.bid^$popup,third-party
+||adshost.site^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
 ||adxscope.com^$third-party
@@ -110,6 +107,7 @@
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com^$popup,third-party
 ||dzbx8qv1at614.cloudfront.net^
+||easyhits4u.com^$third-party
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
@@ -156,6 +154,7 @@
 ||iklangratismu.com^$third-party
 ||iklanhemat.com^$third-party
 ||iklanhoki.com^$third-party
+||iklaninter.net^$third-party
 ||iklanoke.com^$third-party
 ||iklanonlinemu.com^$third-party
 ||iklanpasanggratis.com^$third-party
@@ -325,6 +324,7 @@
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
 ||wong-poker.com^$popup,third-party
+||www.adflazz.com^$third-party
 ||xbfk51p7.review^$popup,third-party
 ||xqkzsifxgv.com^$script,domain=kissasian.sh
 ||xqquphzq.bid^$popup,third-party

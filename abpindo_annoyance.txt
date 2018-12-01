@@ -996,6 +996,8 @@ totojitu.gif|
 ||interqq.com^$third-party
 ||interwin.me^$popup,third-party
 ||interwin.net^$popup,third-party
+||interwin.org^$popup,third-party
+||interwin.org^$third-party
 ||interwin88.^$third-party
 ||inulpoker1.com^$popup,third-party
 ||inulpoker1.com^$third-party
@@ -1558,5 +1560,3 @@ totojitu.gif|
 ||zonawin.com^$popup,third-party
 ||zonawin.net^$popup,third-party
 ||zynga365.com^$third-party
-||interwin.org^$third-party
-||interwin.org^$popup,third-party
