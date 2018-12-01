@@ -511,3 +511,4 @@ bioskop78.com##td:nth-of-type(3)
 nontondrama.me##tr
 ~lk21.*###fbanner
 nanime.in##.banner
+otakufile.com##a[href^="https://bit.ly/"]

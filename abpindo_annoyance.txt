@@ -1558,3 +1558,5 @@ totojitu.gif|
 ||zonawin.com^$popup,third-party
 ||zonawin.net^$popup,third-party
 ||zynga365.com^$third-party
+||interwin.org^$third-party
+||interwin.org^$popup,third-party
