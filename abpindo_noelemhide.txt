@@ -12,9 +12,10 @@
 !
 %include abpindo_adservers.txt%
 %include abpindo_thirdparty.txt%
-%include abpindo_annoyance.txt%
+%include abpindo_general_block.txt%
+%include abpindo_specific_block.txt%
+%include abpindo_whitelist.txt%
+%include abpindo_annoyance_thirdparty.txt%
+%include abpindo_annoyance_general_block.txt%
 %include abpindo_annoyance_judi_nawala.txt%
 %include abpindo_annoyance_prank.txt%
-%include abpindo_specific_block.txt%
-%include abpindo_general_block.txt%
-%include abpindo_whitelist.txt%
