@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: jCKbV8iPEfQIT2CIjnYtvQ
+! Checksum: nUswLA5DnpWafjkgI18ZKg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 02 Desember 2018, 14:50:03 WIB
+! Last modified: 05 Desember 2018, 18:35:54 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -380,6 +380,7 @@
 /adv/iklan.
 /banner_iklan/*
 /bb17-iklan.
+/ezgif-$image
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
@@ -800,6 +801,8 @@ cnet.com#@#img[alt="Advertisement"]
 ||astonbola.com^$popup,third-party
 ||astonbola.com^$third-party
 ||astonwin.com^$popup,third-party
+||astonwin.org^$popup
+||astonwin.org^$third-party
 ||astrototo.com^$popup,third-party
 ||astrototo.com^$third-party
 ||auxbet.net^$popup,third-party

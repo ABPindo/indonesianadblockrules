@@ -127,6 +127,8 @@
 ||astonbola.com^$popup,third-party
 ||astonbola.com^$third-party
 ||astonwin.com^$popup,third-party
+||astonwin.org^$popup
+||astonwin.org^$third-party
 ||astrototo.com^$popup,third-party
 ||astrototo.com^$third-party
 ||auxbet.net^$popup,third-party
