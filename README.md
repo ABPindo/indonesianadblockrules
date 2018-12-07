@@ -1,8 +1,8 @@
 # ABPindo
-ABPindo merupakan filter Adblock Plus compatible untuk memblokir iklan mengganggu di situs berbahasa Indonesia. Walaupun tidak semua iklan dapat diblok namun paling tidak dapat mengurangi "penampakan" iklan.
+ABPindo merupakan filter Adblock Plus compatible untuk memblokir iklan mengganggu di situs berbahasa Indonesia dan Malaysia. Walaupun tidak semua iklan dapat diblokir namun paling tidak dapat mengurangi "penampakan" iklan.
 
 ## Keuntungan
-- Tampilan website menjadi lebih bersih. Pengunjung website lebih fokus terhadap konten website, tanpa terganggu dengan iklan yang kadang menyamar menjadi konten website.
+- Tampilan website menjadi lebih bersih. Pengunjung website lebih fokus terhadap konten website, tanpa terganggu dengan iklan yang kadang membaur dengan konten website.
 - Terjaga dari penipuan. Iklan yang menyamar menjadi tombol pembaharuan program, menyamar menjadi tombol download, menyamar memberikan promo palsu merupakan beberapa contoh iklan yang sering kita jumpai. Setidaknya jika iklan tersebut tidak muncul kita terhindar dari penipuan.
 - Waktu membuka laman situs menjadi lebih cepat. Iklan animasi/video terkadang menjadi masalah bagi pengguna internet dengan akses terbatas. Terkadang saat mengunjungi blog orang yang muncul lebih dulu bukan konten blognya, tapi malah iklannya. Sering pula waktu membuka halaman menjadi lebih lama karena harus menunggu iklan video selesai.
 
@@ -13,7 +13,7 @@ ABPindo merupakan filter Adblock Plus compatible untuk memblokir iklan menggangg
 <code>https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt</code>
 
 ## Ingin berkontribusi
-Mungkin ada banyak situs yang terlewat, entah karena situsnya telah diperbaharui atau karena situsnya belum ditambahkan ke dalam ABPindo. Oleh karena itu jika menemukan hal-hal tersebut bisa menyampaikan lewat
+Masih banyak situs yang terlewat, entah karena situsnya telah diperbaharui atau karena situsnya belum ditambahkan ke dalam ABPindo. Oleh karena itu jika menemukan hal-hal tersebut bisa membantu kami lewat
 - [GitHub issue tracker](https://github.com/ABPindo/indonesianadblockrules/issues) atau dengan
 - [Submit a pull request](https://github.com/ABPindo/indonesianadblockrules/pulls)
 
