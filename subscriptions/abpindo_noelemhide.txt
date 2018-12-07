@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: XhAoKpxOgo0OxMlJ3cD7Ew
+! Checksum: F5ZzHiz/9KojfAy7v7KU9A
 ! Title: ABPindo tanpa element hiding
-! Last modified: 07 Desember 2018, 13:40:34 WIB
+! Last modified: 08 Desember 2018, 06:00:22 WIB
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -702,8 +702,8 @@ cnet.com#@#img[alt="Advertisement"]
 ||7nagatoto.com^$third-party
 ||88beto.com^$popup,third-party
 ||88beto.com^$third-party
+||88indo.com^$popup,third-party
 ||88indo.com^$third-party
-||88indo.com^popup,third-party
 ||899-cash.com^$third-party
 ||899bola.com^$third-party
 ||899cash.net^$popup,third-party
@@ -944,7 +944,7 @@ cnet.com#@#img[alt="Advertisement"]
 ||clickadu.com^$popup,third-party
 ||cmcwin.com^$popup,third-party
 ||cmcwin.com^$third-party
-||cmobet.info$image,third-party
+||cmobet.info$third-party
 ||cyakibet.com^$popup,third-party
 ||cyakibet.com^$third-party
 ||cyakibet77.com^$popup,third-party
@@ -1146,7 +1146,7 @@ cnet.com#@#img[alt="Advertisement"]
 ||indokiu.com^$third-party
 ||indomb.com^$popup,third-party
 ||indomb.com^$third-party
-||indonesia-community.net^
+||indonesia-community.net^$third-party
 ||indopk365.com^$popup,third-party
 ||indopk365.com^$third-party
 ||indopokerlink.co^$popup

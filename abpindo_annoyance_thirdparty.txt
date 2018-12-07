@@ -28,8 +28,8 @@
 ||7nagatoto.com^$third-party
 ||88beto.com^$popup,third-party
 ||88beto.com^$third-party
+||88indo.com^$popup,third-party
 ||88indo.com^$third-party
-||88indo.com^popup,third-party
 ||899-cash.com^$third-party
 ||899bola.com^$third-party
 ||899cash.net^$popup,third-party
@@ -270,7 +270,7 @@
 ||clickadu.com^$popup,third-party
 ||cmcwin.com^$popup,third-party
 ||cmcwin.com^$third-party
-||cmobet.info$image,third-party
+||cmobet.info$third-party
 ||cyakibet.com^$popup,third-party
 ||cyakibet.com^$third-party
 ||cyakibet77.com^$popup,third-party
@@ -472,7 +472,7 @@
 ||indokiu.com^$third-party
 ||indomb.com^$popup,third-party
 ||indomb.com^$third-party
-||indonesia-community.net^
+||indonesia-community.net^$third-party
 ||indopk365.com^$popup,third-party
 ||indopk365.com^$third-party
 ||indopokerlink.co^$popup
