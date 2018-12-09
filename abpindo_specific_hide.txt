@@ -560,3 +560,4 @@ www.kurazone.net##.anuads
 nekopoi.*##div[class^="adsgen"]
 nekopoi.*##div[class^="mobileads"]
 nekopoi.*##a[href^="http://bit.ly/"]
+majalahikan.com##.adsbygoogle
