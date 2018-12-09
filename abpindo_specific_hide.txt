@@ -518,3 +518,38 @@ satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
 nontondrama.me##tr
 ~lk21.*###fbanner
+neonime.net##a[href^="https://bit.ly/"]
+neonime.net###player35 > .block-player
+neonime.net###player34 > .block-player
+neonime.net###player33 > .block-player
+neonime.net###player32 > .block-player
+neonime.net###player31 > .block-player
+neonime.net###player30 > .block-player
+neonime.net###player29 > .block-player
+neonime.net###player28 > .block-player
+neonime.net###player27 > .block-player
+neonime.net###player25 > .block-player
+neonime.net###player24 > .block-player
+neonime.net###player23 > .block-player
+neonime.net###player22 > .block-player
+neonime.net###player21 > .block-player
+neonime.net###player20 > .block-player
+neonime.net###player19 > .block-player
+neonime.net###player18 > .block-player
+neonime.net###player17 > .block-player
+neonime.net###player16 > .block-player
+neonime.net###player15 > .block-player
+neonime.net###player14 > .block-player
+neonime.net###player13 > .block-player
+neonime.net###player12 > .block-player
+neonime.net###player11 > .block-player
+neonime.net###player10 > .block-player
+neonime.net###player9 > .block-player
+neonime.net###player8 > .block-player
+neonime.net###player7 > .block-player
+neonime.net###player6 > .block-player
+neonime.net###player5 > .block-player
+neonime.net###player4 > .block-player
+neonime.net###player3 > .block-player
+neonime.net###player2 > .block-player
+neonime.net###player1 > .block-player
