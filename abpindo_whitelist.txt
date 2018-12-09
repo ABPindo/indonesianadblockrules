@@ -14,6 +14,7 @@
 @@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
 @@||digitalponsel.com^$elemhide
 @@||dukun-cit.com^$generichide
+@@||hightech.web.id^$generichide
 @@||oploverz.in^$elemhide
 @@||oploverz.net^$elemhide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
@@ -22,4 +23,3 @@
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
 @@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script,domain=www.samehadaku.tv
 cnet.com#@#img[alt="Advertisement"]
-@@||hightech.web.id^$generichide
