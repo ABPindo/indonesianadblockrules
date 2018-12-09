@@ -272,6 +272,7 @@ antaranews.com##.ads_top_728
 ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
 ~anibatch.id##.adsbox
+majalahikan.com##.adsbygoogle
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
 mangaku.in,mangaku.web.id##.adv
@@ -282,6 +283,7 @@ indoxtream.com##.aligncenter
 bokep.click##.alignnone
 palingseru.com##.alignnone.size-large.wp-image-458
 autonetmagz.com##.anm__flying--ads-holder
+www.kurazone.net##.anuads
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 nonton21.tv,nontonserial.com,ns21.me##.ban_empat
@@ -350,6 +352,7 @@ kompas.com##.clearfix.kcm__big.kcm
 kompas.com##.clearfix.kcm__rectangle.kcm
 kompas.com##.clearfix.kcm__top.kcm
 kompas.com##.clearfix.kcm__tower.kcm
+www.mivo.com##.clearfix.top-ads
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 ganool.is,ganool.ph,ganool.se,ganool.st##.col-xs-12.col-md-6.col-lg-6
@@ -543,6 +546,9 @@ layarkaca21.*,lk21.*###fbbanner
 layarkaca21.*,lk21.*###hbanner
 layarkaca21.*,lk21.*###pbanner
 layarkaca21.*,lk21.*##.fancybox-skin
+nekopoi.*##a[href^="http://bit.ly/"]
+nekopoi.*##div[class^="adsgen"]
+nekopoi.*##div[class^="mobileads"]
 nonton33.*###ads_banner_left1
 nonton33.*###floating_banner_bot
 nonton33.*##.filmborder > table
@@ -554,10 +560,3 @@ satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
 nontondrama.me##tr
 ~lk21.*###fbanner
-neumanga.tv##.ads
-www.mivo.com##.clearfix.top-ads
-www.kurazone.net##.anuads
-nekopoi.*##div[class^="adsgen"]
-nekopoi.*##div[class^="mobileads"]
-nekopoi.*##a[href^="http://bit.ly/"]
-majalahikan.com##.adsbygoogle

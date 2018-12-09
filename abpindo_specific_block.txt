@@ -34,6 +34,7 @@
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif
 ||cdn.livechatinc.com/tracking.js
+||cdn.staticaly.com/gh/sotazer/sotazone/*/kurazoneAdblock.js
 ||cekerayam.xyz/wp-content/uploads/*.gif
 ||cinema-indo.com/banere/*.gif$image
 ||cinema007.com/wp-content/uploads/*.gif$image
@@ -89,6 +90,7 @@
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
 ||gsshop.co.id^*/background/banner-
+||gudangmovies21.cc/wp-content/uploads/*.gif$image
 ||gudangmovies21.co/wp-content/uploads/*.gif$image
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
@@ -140,6 +142,7 @@
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
 ||lk21.*/assets/*.gif$image
+||lk21.*/wp-content/uploads/*.gif$image
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||malamsenin.net/wp-content/uploads/*.gif$image
@@ -219,10 +222,7 @@
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||videocrot.org/wp-content/uploads/*/iklan.gif
+||www.mangacanblog.com/adblock/src/adblock-checker.js
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-||www.mangacanblog.com/adblock/src/adblock-checker.js
-||cdn.staticaly.com/gh/sotazer/sotazone/*/kurazoneAdblock.js
-||gudangmovies21.cc/wp-content/uploads/*.gif$image
-||lk21.*/wp-content/uploads/*.gif$image

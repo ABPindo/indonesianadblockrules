@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MJPjW+/MPvxjJpO9qSVIcA
+! Checksum: /eqtH3cIXwKCmAQN4kKonw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2018 Desember 09, 17:41:04
+! Last modified: 2018 Desember 09, 21:37:32
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -428,6 +428,7 @@ iklan300x250.gif|
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif
 ||cdn.livechatinc.com/tracking.js
+||cdn.staticaly.com/gh/sotazer/sotazone/*/kurazoneAdblock.js
 ||cekerayam.xyz/wp-content/uploads/*.gif
 ||cinema-indo.com/banere/*.gif$image
 ||cinema007.com/wp-content/uploads/*.gif$image
@@ -483,6 +484,7 @@ iklan300x250.gif|
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
 ||gsshop.co.id^*/background/banner-
+||gudangmovies21.cc/wp-content/uploads/*.gif$image
 ||gudangmovies21.co/wp-content/uploads/*.gif$image
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
@@ -534,6 +536,7 @@ iklan300x250.gif|
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
 ||lk21.*/assets/*.gif$image
+||lk21.*/wp-content/uploads/*.gif$image
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||malamsenin.net/wp-content/uploads/*.gif$image
@@ -613,15 +616,19 @@ iklan300x250.gif|
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||videocrot.org/wp-content/uploads/*/iklan.gif
+||www.mangacanblog.com/adblock/src/adblock-checker.js
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! *** abpindo_whitelist.txt ***
 !@@||eramuslim.com^$generichide
 @@.png$domain=awsubs.co|dutaislam.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net
+@@.png$image,domain=www.klikshowtime.com
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
+@@||adturl.com^$generichide
+@@||adturl.us^$generichide
 @@||ainodorama.web.id^$generichide
 @@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
 @@||asiancine.com^$generichide
@@ -633,15 +640,26 @@ iklan300x250.gif|
 @@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
 @@||digitalponsel.com^$elemhide
 @@||dukun-cit.com^$generichide
+@@||eirudo.com^$generichide
 @@||hightech.web.id^$generichide
+@@||klikshowtime.com^$generichide
+@@||majalahikan.com^$generichide
+@@||mivo.com^$generichide
+@@||nekopoi.*/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$first-party,script
+@@||neumanga.tv^$generichide
 @@||oploverz.in^$elemhide
 @@||oploverz.net^$elemhide
+@@||otakuindo.net^$generichide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
+@@||teknologilink.com/js/advertisement.js
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
 @@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script,domain=www.samehadaku.tv
+aplikasipc.com#@#.afs_ads
+bagilagi.com#@##banner_ad
 cnet.com#@#img[alt="Advertisement"]
+kangibay.net#@##banner_ad
 ! *** abpindo_annoyance_thirdparty.txt ***
 ||116poker.com^$popup,third-party
 ||116poker.com^$third-party
@@ -1811,6 +1829,7 @@ cnet.com#@#img[alt="Advertisement"]
 /bursabet.
 /cacingnaga.
 /cahayaqq.
+/capsaqqnew.
 /caradaftarpoker.
 /casinoitu.
 /cmobet.
@@ -1902,6 +1921,7 @@ cnet.com#@#img[alt="Advertisement"]
 /idrbola.
 /idrpoker.
 /iklanqq.
+/imcpkr.
 /Imcpoker-
 /imcpoker.
 /indorajaqq.
@@ -2091,6 +2111,7 @@ cnet.com#@#img[alt="Advertisement"]
 /rajatogel88-
 /rajawaliqq.
 /rajawalisport.
+/ratubet728x90.
 /ratukasino.
 /ratuqq.
 /rctiqq.
@@ -2114,6 +2135,7 @@ cnet.com#@#img[alt="Advertisement"]
 /sbcagent.
 /sbobet19.
 /sbonaga-
+/sbonew.
 /sbopoker.
 /sbosbe.
 /sbosbet.
@@ -2178,6 +2200,7 @@ cnet.com#@#img[alt="Advertisement"]
 /vivobetting.
 /vodka728x90.
 /vodkapoker.
+/warnaqq.
 /wedeqq.
 /wigo-bet-
 /wigo-bet.
