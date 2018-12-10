@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4gGYSkaKAvtC2lLDWCL3eg
+! Checksum: +lSckVrI8o3bE3IL8JBNRQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2018 Desember 09, 21:43:30
+! Last modified: 2018 Desember 10, 19:33:43
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -645,8 +645,13 @@ iklan300x250.gif|
 @@||majalahikan.com^$generichide
 @@||mivo.com^$generichide
 @@||nekopoi.*/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
+@@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
+@@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
+@@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
 @@||neumanga.tv^$generichide
 @@||oploverz.*^$elemhide
+@@||oploverz.in^$elemhide
+@@||oploverz.net^$elemhide
 @@||otakuindo.net^$generichide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||teknologilink.com/js/advertisement.js

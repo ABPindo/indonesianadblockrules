@@ -22,8 +22,13 @@
 @@||majalahikan.com^$generichide
 @@||mivo.com^$generichide
 @@||nekopoi.*/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
+@@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
+@@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
+@@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
 @@||neumanga.tv^$generichide
 @@||oploverz.*^$elemhide
+@@||oploverz.in^$elemhide
+@@||oploverz.net^$elemhide
 @@||otakuindo.net^$generichide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||teknologilink.com/js/advertisement.js
