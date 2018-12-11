@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +lSckVrI8o3bE3IL8JBNRQ
+! Checksum: NdBGNCGDoUlNYyHUKCHFXQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2018 Desember 10, 19:33:43
+! Last modified: 2018 Desember 11, 10:02:37
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -634,6 +634,7 @@ iklan300x250.gif|
 @@||cat3movie.us^$generichide
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id|smallencode.com
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
+@@||cinemamkv.net^$generichide
 @@||code.jquery.com/jquery-1.11.0.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
 @@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
