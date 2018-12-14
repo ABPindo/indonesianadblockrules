@@ -1,5 +1,5 @@
 !@@||eramuslim.com^$generichide
-@@.png$domain=awsubs.co|dutaislam.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|www.klikshowtime.com
+@@.png$image,domain=awsubs.co|dutaislam.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|www.klikshowtime.com
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
@@ -32,6 +32,7 @@
 @@||oploverz.net^$elemhide
 @@||otakuindo.net^$generichide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
+@@||sdrama.com^$generichide
 @@||teknologilink.com/js/advertisement.js
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
