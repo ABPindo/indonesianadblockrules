@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/ABPindo%202.png" width="360"></p>
+
 # ABPindo
 ABPindo merupakan filter Adblock Plus compatible untuk memblokir iklan mengganggu di situs berbahasa Indonesia dan Malaysia. Walaupun tidak semua iklan dapat diblokir namun paling tidak dapat mengurangi "penampakan" iklan.
 
@@ -9,8 +11,14 @@ ABPindo merupakan filter Adblock Plus compatible untuk memblokir iklan menggangg
 ## Cara Menggunakan
 - Jalankan peramban web favoritmu (Firefox, Chrome, Opera, Safari, ...)
 - Pasang pengaya/ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard AdBlocker](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenisnya
-- Pilih ABPindo sebagai filter atau masukkan filter ABPindo secara manual
-<code>https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt</code>
+- Pilih ABPindo sebagai filter atau masukkan filter ABPindo secara manual <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt`
+
+## Macam filter ABPindo
+| Filter| Deskripsi|
+| ------------- |-------------|
+| ABPindo|Filter default [uBlock Origin](https://github.com/gorhill/uBlock#installation), [Adblock Plus](https://adblockplus.org/en/) regional Indonesia dan Malaysia <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt`|
+| ABPindo_noelementhide|ABPindo tanpa filter element hide <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt`|
+| ABPindo_noannoyance|ABPindo tanpa filter judi (annoyance) <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt`|
 
 ## Ingin berkontribusi
 Masih banyak situs yang terlewat, entah karena situsnya telah diperbaharui atau karena situsnya belum ditambahkan ke dalam ABPindo. Oleh karena itu jika menemukan hal-hal tersebut bisa membantu kami lewat
