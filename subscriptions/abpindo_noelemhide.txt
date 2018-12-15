@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: XOEO3wpFjQob0QfDNm7+aA
+! Checksum: kXvupgAAYzs9DIij7mqZAg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2018 Desember 15, 06:55:38
+! Last modified: 2018 Desember 15, 15:32:39
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -3860,6 +3860,7 @@ kangibay.net#@##banner_ad
 /hanabet.
 /hariqq.
 /hdpbola.
+/hebatqq.
 /hjtowin.
 /hkpool.
 /hm88poker.
@@ -3905,6 +3906,7 @@ kangibay.net#@##banner_ad
 /intanbet.
 /intanqq.
 /interwin.
+/ISIQQ-
 /istana168.
 /istana3.
 /itubandar.

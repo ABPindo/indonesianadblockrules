@@ -131,7 +131,7 @@ indotelko.com###more_stories
 fastdrama.co###myModal
 hdtvku.com###mybannerpopup
 nobartv.com###nbpopx-wrapper
-sidrama.com###netkevin-overlay
+sidrama.com,www.ibugil.net###netkevin-overlay
 duniasex.co,ibugil.net,sidrama.com###netkevin-popup
 viva.co.id###otp_ads
 detik.com###otp_banner
@@ -406,6 +406,8 @@ indoxxi.top##.reklam-goster-sol
 unixmen.com##.reveal-modal-bg
 senimovie.info##.rsABlock
 bokepml.online##.s-sponsor
+www.ibugil.net##.semprotpokemon_1
+www.ibugil.net##.semprotpokemon_2
 republika.co.id##.set-ads-468
 cinemaindo.com##.side:nth-of-type(7)
 cinemaindo.com##.side:nth-of-type(8)
