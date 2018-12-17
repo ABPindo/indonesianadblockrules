@@ -27,7 +27,7 @@
 @@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
 @@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
 @@||neumanga.tv^$generichide
-@@||oploverz.*^$elemhide
+@@||oploverz.$elemhide
 @@||oploverz.in^$elemhide
 @@||oploverz.net^$elemhide
 @@||otakuindo.net^$generichide

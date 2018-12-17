@@ -8,7 +8,6 @@
 ###btm_banner
 ###cfs_top_div
 ###desaiklan
-###dewiqq
 ###fbanner
 ###fbbanner
 ###float-banner.visible-lg
@@ -95,9 +94,9 @@
 ##.pusat728
 ##.remodal
 ##.simple_advert
+##.single_ad_728x90
 ##.subiklan
 ##.topadsense
-##a.single_ad_728x90
 ##img[alt="Advertisement"]
 ##img[alt="Iklan"]
 ##img[alt="Pasang Iklan Anda Disini"]

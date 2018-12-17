@@ -207,7 +207,7 @@ kapanlagi.com###v8-leaderboard
 indotelko.com###vertical_top_kanal
 torjack.net###videoOverAd
 animeindo.net###videoad1
-makassar.tribunnews.com,tribunnews.com###wideskyscraper
+tribunnews.com###wideskyscraper
 bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
 nontonfilm77.com###wrap > table
@@ -442,7 +442,6 @@ bioskopgalaxy21.com,indostreamings.xyz,semi168.xyz,tvkabel.net##.textwidget
 bioskop007.club##.textwidget > p
 bioskoptigalima.com,icinema3satu.net##.textwidget img
 klikseru.com##.textwidget img[width="300"][height="250"]
-icinema3satu.co##.textwidget:has-text(SPACE)
 utusan.com.my##.tonal__standfirst
 lapar.com##.top-banner
 xx1.me##.top-bnner.lazy
