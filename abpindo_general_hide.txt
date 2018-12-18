@@ -61,6 +61,7 @@
 ##.idblog-center-ads
 ##.idblog-topbanner-aftermenu
 ##.idmuvi-afterplayer
+##.idmuvi-banner-aftercontent
 ##.idmuvi-floatbanner
 ##.idmuvi-floatbanner-footer
 ##.idmuvi-floatbanner-left
@@ -91,6 +92,7 @@
 ##.minipusat
 ##.pasangiklan
 ##.pengiklan
+##.popUpBannerBox
 ##.pusat728
 ##.remodal
 ##.simple_advert
