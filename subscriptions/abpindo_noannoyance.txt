@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Mk0qPUeIDJBD5WY/qe/5Aw
+! Checksum: eQr5zADh5FmhJC2Rkjc0uA
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2018 Desember 19, 05:45:41
+! Last modified: 2018 Desember 20, 06:58:43
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -51,7 +51,6 @@
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
 ||adxscope.com^$third-party
-||afapkr.net^$popup,third-party
 ||afbcashidr.com^$popup,third-party
 ||ajangiklangratis.com^$third-party
 ||alertpay.com^$third-party
@@ -65,15 +64,10 @@
 ||baliadv.com^$third-party
 ||bellaads.com^$third-party
 ||bmnet-ads.com^$third-party
-||bunchofwinners.win^$popup,third-party
 ||c-4fambt.com^$third-party
 ||cd87c85eb2890d048d2.com^$third-party
-||cd8iw9mh.cricket^$popup,third-party
-||cdnasiaclub.com^$popup,third-party
-||ceritasex.gratis^$popup,third-party
 ||cfasync.ga^$popup,third-party
 ||cjsab.com^$popup,third-party
-||clickforfreeandready2updating.bid^
 ||clickmedia.co.id^$third-party
 ||cpaclickoffers.com^$popup,third-party
 ||creditcardsbest.club^$third-party
@@ -84,8 +78,6 @@
 ||daftarfun88.com^$popup,third-party
 ||dearerfonder.info^$popup,third-party
 ||dermaga4d.net^$popup,third-party
-||dewa757.org^$popup,third-party
-||dewahoki.tk^$popup,third-party
 ||dewsburg.info^$third-party
 ||dgnvmw.xyz^$popup
 ||divisix.org^$popup,third-party
@@ -94,14 +86,12 @@
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com^$popup,third-party
 ||dzbx8qv1at614.cloudfront.net^
-||easyhits4u.com^$third-party
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
 ||engine.gamesrevenue.com^$popup
 ||everyday-carry.com^$popup,third-party
 ||eze99.net^$popup,third-party
-||fcjiqwghf.bid^$popup,third-party
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup,third-party
 ||fnkyyrgraizy.com^third-party
@@ -116,8 +106,6 @@
 ||gxwjkbxubfjd.com^$popup,third-party
 ||halal.ad^$third-party
 ||hclccadfmkpw.com^$popup,third-party
-||hoki365.me^$popup,third-party
-||huzcotxmghlfip.bid^$popup,third-party
 ||hwoxt.com^$popup
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
@@ -158,7 +146,6 @@
 ||istanaimpian2.me^$popup,third-party
 ||istanaimpian3.net^$popup,third-party
 ||itudewa.info^$popup,third-party
-||itupk.net^$popup,third-party
 ||iupqelechcmj.com^$popup,third-party
 ||jagoiklan.com^$third-party
 ||jagopromo.com^$third-party
@@ -177,13 +164,10 @@
 ||klikabadi.com^$third-party
 ||klikabadi.net^$third-party
 ||klikajadeh.com^$third-party
-||kmiobghwsc.bid^$popup,third-party
 ||kodealam2.net^$popup,third-party
-||ktrackdata.com^$popup,third-party
 ||l9tdhe6.com^$popup,third-party
 ||ld82ydd.com^$popup,third-party
 ||liga88.me^$popup,third-party
-||livehkpools.com^$popup,third-party
 ||lokeriklan.com^$third-party
 ||lotus-4d.com^$popup,third-party
 ||macarier.review^$popup,third-party
@@ -196,15 +180,11 @@
 ||motosal.net^$popup
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
-||nontonbokep.mobi^$popup,third-party
-||nontonfilm21.club^$popup,third-party
 ||octafx.com^$popup,third-party
 ||offerjuice.me^$popup,third-party
-||ohlpmbbiw.bid^$popup
 ||onclkds.com^$popup,third-party
 ||onedollarptc.com^$third-party
 ||openadserving.com^$third-party
-||ov2ochu.bid^$popup,third-party
 ||paidforfree.com^$third-party
 ||pasangiklan.com^$third-party
 ||pasangiklangratisbaris.com^$third-party
@@ -224,15 +204,12 @@
 ||pusatiklan.com^$third-party
 ||pwdmtyzyq.com^$popup,third-party
 ||q1xyxm89.com^$popup
-||qwvktoqxqum.bid^$popup
 ||raja12shio.org^$popup,third-party
 ||rajanusantara.org^$popup,third-party
 ||realwap.net^$third-party
 ||referral-secrets.com^$third-party
 ||replase.gq^$popup,third-party
 ||replase.ml^$popup,third-party
-||rfgodfdf.bid^$popup
-||rkbjbtxhdi.bid^$popup,third-party
 ||runreproducerow.com^$popup,third-party
 ||s2pops.club^$popup,third-party
 ||sanglah.com^$third-party
@@ -258,9 +235,6 @@
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
 ||topsurfer.com^$third-party
-||track.aptitudemedia.co^$popup
-||track.spzan.com^$popup
-||trk.cpaoptimizer.com^$popup,third-party
 ||trndoffers.com^$popup,third-party
 ||tummiarunzpf.com^$popup,third-party
 ||twap.eu^$popup,third-party
@@ -268,9 +242,7 @@
 ||uadexchange.com^$third-party
 ||uoarbhxfyygn.com^$popup,third-party
 ||useads.com^$third-party
-||vqozayvwb.bid^$popup
 ||vrewpywootyu.com^$popup,third-party
-||vtewggxzbrcv.bid^$popup
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||window-close.cf^$popup,third-party
@@ -280,12 +252,17 @@
 ||xqkzsifxgv.com^$script,domain=kissasian.sh
 ||yesads.com^$third-party
 ||yllix.com^$popup,third-party
-||ysbjaya88.org^$popup,third-party
 ||yx-ads6.com^$third-party
 ! *** abpindo_thirdparty.txt ***
 ||c-stat.eu^$third-party
 ||easy-hit-counter.com^$third-party
+||easyhits4u.com^$third-party
+||ktrackdata.com^$popup,third-party
 ||notifa.info^$script,third-party
+||themobiletracker.$third-party
+||themobiletracker.com^$popup
+||track.aptitudemedia.co^$popup
+||track.spzan.com^$popup
 ||track.zerofriend.com^$popup,third-party
 ||trackdan.com^$popup
 ||tracker.beritagar.id^
@@ -293,15 +270,15 @@
 ||trackingclick.net^$popup
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
+||trk.cpaoptimizer.com^$popup,third-party
 ! *** abpindo_general_block.txt ***
 -728-x-90.
 -iklan.gif|
 -iklan.jpg|
 -iklan.js|
 -popads.php|
--rgocasino-
--rgocasino.
 -slot-iklan-
+.bid^$popup
 .bid^$third-party
 .biz/iklan/
 .com/iklan/

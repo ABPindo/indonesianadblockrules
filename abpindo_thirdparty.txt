@@ -1,6 +1,12 @@
 ||c-stat.eu^$third-party
 ||easy-hit-counter.com^$third-party
+||easyhits4u.com^$third-party
+||ktrackdata.com^$popup,third-party
 ||notifa.info^$script,third-party
+||themobiletracker.$third-party
+||themobiletracker.com^$popup
+||track.aptitudemedia.co^$popup
+||track.spzan.com^$popup
 ||track.zerofriend.com^$popup,third-party
 ||trackdan.com^$popup
 ||tracker.beritagar.id^
@@ -8,3 +14,4 @@
 ||trackingclick.net^$popup
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
+||trk.cpaoptimizer.com^$popup,third-party

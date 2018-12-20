@@ -3,9 +3,8 @@
 -iklan.jpg|
 -iklan.js|
 -popads.php|
--rgocasino-
--rgocasino.
 -slot-iklan-
+.bid^$popup
 .bid^$third-party
 .biz/iklan/
 .com/iklan/
