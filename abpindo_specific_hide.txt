@@ -371,6 +371,8 @@ ganoollk21.info##.inner-floatbanner-bottom
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
 kompas.com##.kcm__horizontal.kcm
+kompas.com##.kcm__stick--left
+kompas.com##.kcm__stick--right
 mangapark.net##.kiwi-ad-sticky-wrapper
 mangapark.net##.kiwiad-desktop-popup-300x600-overlay
 mangapark.net##.kiwiad-popup-ad-container

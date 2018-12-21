@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: lLft8HLne+2kHPcynRXqgA
+! Checksum: OS5ENmL+0WVwaxQYj6u74A
 ! Title: ABPindo_tanpanawala sekarang menjadi ABPindo_noannoyance
-! Last modified: 2018 Desember 20, 06:58:43
+! Last modified: 2018 Desember 21, 19:38:43
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1024,6 +1024,8 @@ ganoollk21.info##.inner-floatbanner-bottom
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
 kompas.com##.kcm__horizontal.kcm
+kompas.com##.kcm__stick--left
+kompas.com##.kcm__stick--right
 mangapark.net##.kiwi-ad-sticky-wrapper
 mangapark.net##.kiwiad-desktop-popup-300x600-overlay
 mangapark.net##.kiwiad-popup-ad-container
