@@ -1,4 +1,3 @@
-ld2tv.com##.img-banner
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 lihat.co.id###Iklan-Melayang
@@ -323,6 +322,7 @@ juragan21.com##.cintasemprot_floating_banner_bottom
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
+www.grid.id##.clearfix.ads__horizontal
 kompas.com##.clearfix.kcm__big.kcm
 kompas.com##.clearfix.kcm__rectangle.kcm
 kompas.com##.clearfix.kcm__top.kcm
@@ -366,6 +366,7 @@ suki48.web.id##.iklanSUKI
 komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 awsubs.co##.iklansamping
+ld2tv.com##.img-banner
 cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21tv.com,nonton21.net##.img-responsive
 animeindo.video,animeindo.web.id##.in_up_ad-area
 ganoollk21.info##.inner-floatbanner-bottom
@@ -391,6 +392,7 @@ file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
 fastdrama.co##.modal-content
+nextren.grid.id##.mt20.top1
 detik.com##.normalbanner
 animeindo.id##.nyaa300
 animeindo.id##.nyaa728
@@ -472,7 +474,7 @@ bokepml.online,lk21.web.id,nonton33.net##a[href^="http://goo.gl/"]
 nontoncinema.org##a[href^="http://referral."]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
-animeku.tv,bioskop168.pro,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,indoxxi.top,lk-21.me,mangaku.in,neonime.net,nontonsub.com,ns21.club,otakufile.com##a[href^="https://bit.ly/"]
+animeindo.co,animeku.tv,bioskop168.pro,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,indoxxi.top,lk-21.me,mangaku.in,neonime.net,nontonsub.com,ns21.club,otakufile.com##a[href^="https://bit.ly/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,bokepml.gq,bokepngetop.com,drakorindo.tv,gelorajiwaseks.com,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,semprot.com,semprotku.com,serunonton.com,www1.lk-21.me##a[href^="https://goo.gl/"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
@@ -493,6 +495,7 @@ bokeponline.*##a[href^="http://bit.ly/"]
 bokeponline.*##a[href^="https://bit.ly/"]
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
+nextren.grid.id##div.banner-r
 cmovieshd.se,ganool.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
 hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
