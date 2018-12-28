@@ -131,17 +131,18 @@ indotelko.com###more_stories
 fastdrama.co###myModal
 hdtvku.com###mybannerpopup
 nobartv.com###nbpopx-wrapper
-sidrama.com,www.ibugil.net###netkevin-overlay
+cafecinema.cc,sidrama.com,www.ibugil.net###netkevin-overlay
 duniasex.co,ibugil.net,sidrama.com###netkevin-popup
 viva.co.id###otp_ads
 detik.com###otp_banner
-dunia21.net###overlay-pop
+dunia21.net,dunia21.org###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
 cinema-indo.com,cinemaindo.web.id,layarkaca21.net,layarkaca21.web.id,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
 eramuslim.com###peluang
 indoxx1.com###player-side-right
 iyottube.com###playerOverlay
 indoxx1.pw###popup
+cafecinema.cc###popup_content
 amoimovie.com###popupinfoAd1
 bioskop201.info###popupwindow
 nonton21.tv###previewBox
@@ -378,6 +379,7 @@ kompas.com##.kcm__stick--right
 mangapark.net##.kiwi-ad-sticky-wrapper
 mangapark.net##.kiwiad-desktop-popup-300x600-overlay
 mangapark.net##.kiwiad-popup-ad-container
+awsubs.co##.klnrec
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 indonesiamovies21.com##.ktz-banneraftercontent
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
@@ -453,6 +455,7 @@ xx1.me##.top-bnner.lazy
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
 cdramabase.com##.wpa
+jalantikus.com##[class^="ad-"][class*="-container"]
 bioskop168.pro##[href^="http://linkalternatif."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
@@ -477,6 +480,8 @@ hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
 animeindo.co,animeku.tv,bioskop168.pro,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,indoxxi.top,lk-21.me,mangaku.in,neonime.net,nontonsub.com,ns21.club,otakufile.com##a[href^="https://bit.ly/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,bokepml.gq,bokepngetop.com,drakorindo.tv,gelorajiwaseks.com,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,semprot.com,semprotku.com,serunonton.com,www1.lk-21.me##a[href^="https://goo.gl/"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
+awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
+awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 bioskop007.*###floating_banner_left
 bioskop007.*###floating_banner_right
@@ -493,6 +498,8 @@ bokepml.*##a[href^="http://bit.ly/"]
 bokepml.*##a[href^="http://goo.gl/"]
 bokeponline.*##a[href^="http://bit.ly/"]
 bokeponline.*##a[href^="https://bit.ly/"]
+cafecinema.*###netkevin-overlay
+cafecinema.*###popup_content
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 nextren.grid.id##div.banner-r

@@ -20,6 +20,8 @@
 @@||eirudo.com^$generichide
 @@||hightech.web.id^$generichide
 @@||klikshowtime.com^$generichide
+@@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$first-party,image
+@@||komikcast.com^$generichide
 @@||majalahikan.com^$generichide
 @@||mivo.com^$generichide
 @@||nekopoi.*/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
@@ -37,8 +39,9 @@
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
+@@||www.google-analytics.com/analytics.js$script,domain=www.pricebook.co.id
 @@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script
-aplikasipc.com#@#.afs_ads
-bagilagi.com#@##banner_ad
-cnet.com#@#img[alt="Advertisement"]
-kangibay.net#@##banner_ad
+~aplikasipc.com##.afs_ads
+~bagilagi.com###banner_ad
+~cnet.com##img[alt="Advertisement"]
+~kangibay.net###banner_ad

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: pHE+T0zWM5ncDU5gwgtTsQ
+! Checksum: Yn9d87+ZUjBfKabeBoE47g
 ! Title: ABPindo_tanpanawala sekarang menjadi ABPindo_noannoyance
-! Last modified: 2018 Desember 27, 17:14:43
+! Last modified: 2018 Desember 28, 18:37:57
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -425,7 +425,6 @@ iklan300x250.gif|
 ! *** abpindo_specific_block.txt ***
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
-||.bp.blogspot.com/*.gif$image,domain=awsubs.co|bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|duniasex.ws|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|layarkeren.com|mangaindo.net|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|nontonin.co|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||.cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.li|ganool.nl|ganool.ph|goody.to|goon.to|mangatown.com
 ||.imgbox.com/*.gif$image,domain=cinemaindo.web.id
 ||.imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|filmapik.in|forumbookie.com|forumjudi.org|ganool.li|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|nontonanime.id|sodasusu.com|sukabookie.com|zonalendir.net
@@ -454,6 +453,7 @@ iklan300x250.gif|
 ||bioskop212.net/wp-content/uploads/*.gif$image
 ||bioskop55.*/wp-content/uploads/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
+||bp.blogspot.com/*.gif$image,domain=awsubs.co|bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|duniasex.ws|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|mangaindo.net|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
@@ -786,17 +786,18 @@ indotelko.com###more_stories
 fastdrama.co###myModal
 hdtvku.com###mybannerpopup
 nobartv.com###nbpopx-wrapper
-sidrama.com,www.ibugil.net###netkevin-overlay
+cafecinema.cc,sidrama.com,www.ibugil.net###netkevin-overlay
 duniasex.co,ibugil.net,sidrama.com###netkevin-popup
 viva.co.id###otp_ads
 detik.com###otp_banner
-dunia21.net###overlay-pop
+dunia21.net,dunia21.org###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
 cinema-indo.com,cinemaindo.web.id,layarkaca21.net,layarkaca21.web.id,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
 eramuslim.com###peluang
 indoxx1.com###player-side-right
 iyottube.com###playerOverlay
 indoxx1.pw###popup
+cafecinema.cc###popup_content
 amoimovie.com###popupinfoAd1
 bioskop201.info###popupwindow
 nonton21.tv###previewBox
@@ -1033,6 +1034,7 @@ kompas.com##.kcm__stick--right
 mangapark.net##.kiwi-ad-sticky-wrapper
 mangapark.net##.kiwiad-desktop-popup-300x600-overlay
 mangapark.net##.kiwiad-popup-ad-container
+awsubs.co##.klnrec
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 indonesiamovies21.com##.ktz-banneraftercontent
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
@@ -1108,6 +1110,7 @@ xx1.me##.top-bnner.lazy
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
 cdramabase.com##.wpa
+jalantikus.com##[class^="ad-"][class*="-container"]
 bioskop168.pro##[href^="http://linkalternatif."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
@@ -1132,6 +1135,8 @@ hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
 animeindo.co,animeku.tv,bioskop168.pro,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,indoxxi.top,lk-21.me,mangaku.in,neonime.net,nontonsub.com,ns21.club,otakufile.com##a[href^="https://bit.ly/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,bokepml.gq,bokepngetop.com,drakorindo.tv,gelorajiwaseks.com,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,semprot.com,semprotku.com,serunonton.com,www1.lk-21.me##a[href^="https://goo.gl/"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
+awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
+awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 bioskop007.*###floating_banner_left
 bioskop007.*###floating_banner_right
@@ -1148,6 +1153,8 @@ bokepml.*##a[href^="http://bit.ly/"]
 bokepml.*##a[href^="http://goo.gl/"]
 bokeponline.*##a[href^="http://bit.ly/"]
 bokeponline.*##a[href^="https://bit.ly/"]
+cafecinema.*###netkevin-overlay
+cafecinema.*###popup_content
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 nextren.grid.id##div.banner-r
@@ -1224,6 +1231,8 @@ bioskop78.com##td:nth-of-type(3)
 @@||eirudo.com^$generichide
 @@||hightech.web.id^$generichide
 @@||klikshowtime.com^$generichide
+@@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$first-party,image
+@@||komikcast.com^$generichide
 @@||majalahikan.com^$generichide
 @@||mivo.com^$generichide
 @@||nekopoi.*/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
@@ -1241,11 +1250,12 @@ bioskop78.com##td:nth-of-type(3)
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
+@@||www.google-analytics.com/analytics.js$script,domain=www.pricebook.co.id
 @@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script
-aplikasipc.com#@#.afs_ads
-bagilagi.com#@##banner_ad
-cnet.com#@#img[alt="Advertisement"]
-kangibay.net#@##banner_ad
+~aplikasipc.com##.afs_ads
+~bagilagi.com###banner_ad
+~cnet.com##img[alt="Advertisement"]
+~kangibay.net###banner_ad
 ! *** abpindo_annoyance_thirdparty.txt ***
 ||116poker.$third-party
 ||116poker.com^$popup
@@ -3949,6 +3959,7 @@ kangibay.net#@##banner_ad
 ##a[href$="/arenawin"]
 ##a[href$="/bet88me"]
 ##a[href$="/bromopoker"]
+##a[href$="/cantikqq"]
 ##a[href$="/cmd368"]
 ##a[href$="/dorapoker"]
 ##a[href$="/hdpbet"]
@@ -3956,6 +3967,7 @@ kangibay.net#@##banner_ad
 ##a[href$="/itupk"]
 ##a[href$="/jokerbet"]
 ##a[href$="/josbet"]
+##a[href$="/ligapoker"]
 ##a[href$="/mobapoker"]
 ##a[href$="/okecgoaloo"]
 ##a[href$="/ratuqq"]
@@ -3967,6 +3979,7 @@ kangibay.net#@##banner_ad
 ##a[href$="/ularnaga"]
 ##a[href$="/ulrnaga"]
 ##a[href$="ref=bokepmania"]
+##a[href^="Http://ApiBet."]
 ##a[href^="Http://www.DuniaSarana."]
 ##a[href^="Http://www.EradominoQQ."]
 ##a[href^="Http://www.RoyalKasino."]
@@ -5970,6 +5983,7 @@ kangibay.net#@##banner_ad
 /musimqq.
 /musimqq300.
 /mustikapoker-
+/mutiarapoker.
 /muvibet-
 /muvibet.
 /nagalaut-new.
