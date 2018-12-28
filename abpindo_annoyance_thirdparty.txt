@@ -598,8 +598,8 @@
 ||cash-harvest.$third-party
 ||cash-harvest.com^$popup
 ||cashbet99.$third-party
+||cashburners.$popup
 ||cashburners.$third-party
-||cashburners.biz^$popup
 ||casinobandarjudi.com^$third-party
 ||casinoclubpoker.com^$third-party
 ||casinoitu.$third-party
@@ -713,9 +713,8 @@
 ||dewaboya.$third-party
 ||dewadominoqq.$third-party
 ||dewadominoqq.com^$popup
+||dewahoki.$popup
 ||dewahoki.$third-party
-||dewahoki.^$popup
-||dewahoki.^$popup,third-party
 ||dewaitu.$third-party
 ||dewajudi.$third-party
 ||dewajudibet.com^$third-party
@@ -1049,8 +1048,6 @@
 ||indukbet.$third-party
 ||indukbet.com^$popup
 ||infojudi.$third-party
-||infolinks.$third-party
-||infolinks.com^$popup
 ||infoterapis.$popup
 ||infoterapis.$third-party
 ||infotogel.$third-party
@@ -1392,8 +1389,6 @@
 ||ligaqq.$third-party
 ||linksbobet2016.$third-party
 ||linksbobet2016.com^$popup
-||linktrack.$popup
-||linktrack.$third-party
 ||lintasanqq.$third-party
 ||lintasqq.$popup
 ||lintasqq.$third-party

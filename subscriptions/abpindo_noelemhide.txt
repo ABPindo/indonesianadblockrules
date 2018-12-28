@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: pXG2D27dsWVf0YEE9h47sA
+! Checksum: mDPqz36OAfDb2pypJ8/zGg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2018 Desember 28, 18:37:57
+! Last modified: 2018 Desember 28, 19:55:20
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -50,7 +50,6 @@
 ||adshost.site^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
-||adxscope.com^$third-party
 ||afbcashidr.com^$popup,third-party
 ||ajangiklangratis.com^$third-party
 ||alertpay.com^$third-party
@@ -257,7 +256,6 @@
 ! *** abpindo_thirdparty.txt ***
 ||c-stat.eu^$third-party
 ||easy-hit-counter.com^$third-party
-||easyhits4u.com^$third-party
 ||ktrackdata.com^$popup,third-party
 ||notifa.info^$script,third-party
 ||themobiletracker.$third-party
@@ -419,7 +417,6 @@ iklan300x250.gif|
 ||imagebam.com/*.gif$image,domain=www.ganool.li
 ||images.gameweb.co.id/gw/ads/
 ||img.akubebas.com/images/*.gif$image
-||img.banggood.com/deals/affiliate_member_banner/
 ||img.sukipli.com/*.gif$image,third-party
 ||indo168.online/wp-content/uploads/*.gif$image
 ||indobokepz.com/images/banner/
@@ -561,7 +558,7 @@ iklan300x250.gif|
 @@||eirudo.com^$generichide
 @@||hightech.web.id^$generichide
 @@||klikshowtime.com^$generichide
-@@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$first-party,image
+@@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$image
 @@||komikcast.com^$generichide
 @@||majalahikan.com^$generichide
 @@||mivo.com^$generichide
@@ -1187,8 +1184,8 @@ iklan300x250.gif|
 ||cash-harvest.$third-party
 ||cash-harvest.com^$popup
 ||cashbet99.$third-party
+||cashburners.$popup
 ||cashburners.$third-party
-||cashburners.biz^$popup
 ||casinobandarjudi.com^$third-party
 ||casinoclubpoker.com^$third-party
 ||casinoitu.$third-party
@@ -1302,9 +1299,8 @@ iklan300x250.gif|
 ||dewaboya.$third-party
 ||dewadominoqq.$third-party
 ||dewadominoqq.com^$popup
+||dewahoki.$popup
 ||dewahoki.$third-party
-||dewahoki.^$popup
-||dewahoki.^$popup,third-party
 ||dewaitu.$third-party
 ||dewajudi.$third-party
 ||dewajudibet.com^$third-party
@@ -1638,8 +1634,6 @@ iklan300x250.gif|
 ||indukbet.$third-party
 ||indukbet.com^$popup
 ||infojudi.$third-party
-||infolinks.$third-party
-||infolinks.com^$popup
 ||infoterapis.$popup
 ||infoterapis.$third-party
 ||infotogel.$third-party
@@ -1981,8 +1975,6 @@ iklan300x250.gif|
 ||ligaqq.$third-party
 ||linksbobet2016.$third-party
 ||linksbobet2016.com^$popup
-||linktrack.$popup
-||linktrack.$third-party
 ||lintasanqq.$third-party
 ||lintasqq.$popup
 ||lintasqq.$third-party
@@ -3561,7 +3553,6 @@ iklan300x250.gif|
 /ligakiukiu.
 /liganation.
 /ligapoker.
-/linktrack.
 /lintasqq.
 /lobbyqq.
 /lobyqq.

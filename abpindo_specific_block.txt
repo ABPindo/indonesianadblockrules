@@ -108,7 +108,6 @@
 ||imagebam.com/*.gif$image,domain=www.ganool.li
 ||images.gameweb.co.id/gw/ads/
 ||img.akubebas.com/images/*.gif$image
-||img.banggood.com/deals/affiliate_member_banner/
 ||img.sukipli.com/*.gif$image,third-party
 ||indo168.online/wp-content/uploads/*.gif$image
 ||indobokepz.com/images/banner/

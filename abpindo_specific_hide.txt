@@ -523,7 +523,6 @@ ganool.*,lk21.*###fbanner
 greget.space,tetew.info##h2
 icinema3satu.*##.textwidget:has-text(SPACE)
 idfl.*###ad_global_below_navbar
-kompas.com##iframe[src*="uxvcjlat.com/"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)

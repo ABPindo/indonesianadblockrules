@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Fb5Wo2nbfI1+5O0i9RU5JQ
+! Checksum: v2sinXZENYB72NpkRcXwWQ
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2018 Desember 28, 18:37:57
+! Last modified: 2018 Desember 28, 19:55:20
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -50,7 +50,6 @@
 ||adshost.site^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
-||adxscope.com^$third-party
 ||afbcashidr.com^$popup,third-party
 ||ajangiklangratis.com^$third-party
 ||alertpay.com^$third-party
@@ -257,7 +256,6 @@
 ! *** abpindo_thirdparty.txt ***
 ||c-stat.eu^$third-party
 ||easy-hit-counter.com^$third-party
-||easyhits4u.com^$third-party
 ||ktrackdata.com^$popup,third-party
 ||notifa.info^$script,third-party
 ||themobiletracker.$third-party
@@ -532,7 +530,6 @@ iklan300x250.gif|
 ||imagebam.com/*.gif$image,domain=www.ganool.li
 ||images.gameweb.co.id/gw/ads/
 ||img.akubebas.com/images/*.gif$image
-||img.banggood.com/deals/affiliate_member_banner/
 ||img.sukipli.com/*.gif$image,third-party
 ||indo168.online/wp-content/uploads/*.gif$image
 ||indobokepz.com/images/banner/
@@ -1177,7 +1174,6 @@ ganool.*,lk21.*###fbanner
 greget.space,tetew.info##h2
 icinema3satu.*##.textwidget:has-text(SPACE)
 idfl.*###ad_global_below_navbar
-kompas.com##iframe[src*="uxvcjlat.com/"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
@@ -1230,7 +1226,7 @@ bioskop78.com##td:nth-of-type(3)
 @@||eirudo.com^$generichide
 @@||hightech.web.id^$generichide
 @@||klikshowtime.com^$generichide
-@@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$first-party,image
+@@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$image
 @@||komikcast.com^$generichide
 @@||majalahikan.com^$generichide
 @@||mivo.com^$generichide
