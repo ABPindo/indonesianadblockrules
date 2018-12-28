@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: mDPqz36OAfDb2pypJ8/zGg
+! Checksum: UxF/huS58iWTEf7DXVflkg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2018 Desember 28, 19:55:20
+! Last modified: 2018 Desember 28, 19:56:36
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -307,6 +307,9 @@
 /usahaberhasil.gif|
 iklan300x250.gif|
 ! *** abpindo_specific_block.txt ***
+kompas.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
+kompas.com## + js(abort-on-property-read.js, $getWin)
+tribunnews.com## + js(abort-on-property-read.js, $getWin)
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 ||.cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.li|ganool.nl|ganool.ph|goody.to|goon.to|mangatown.com
