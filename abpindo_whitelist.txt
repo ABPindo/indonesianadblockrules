@@ -41,7 +41,3 @@
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
 @@||www.google-analytics.com/analytics.js$script,domain=www.pricebook.co.id
 @@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script
-~aplikasipc.com##.afs_ads
-~bagilagi.com###banner_ad
-~cnet.com##img[alt="Advertisement"]
-~kangibay.net###banner_ad

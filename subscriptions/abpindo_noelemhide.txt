@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LOzE+AJYvlhKjRC7Ha5fjg
+! Checksum: 42d+kE7JBCAHZgi8mMBJ+w
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2018 Desember 29, 08:01:18
+! Last modified: 2018 Desember 30, 05:31:40
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -578,10 +578,6 @@ tribunnews.com## + js(abort-on-property-read.js, $getWin)
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
 @@||www.google-analytics.com/analytics.js$script,domain=www.pricebook.co.id
 @@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script
-~aplikasipc.com##.afs_ads
-~bagilagi.com###banner_ad
-~cnet.com##img[alt="Advertisement"]
-~kangibay.net###banner_ad
 ! *** abpindo_annoyance_thirdparty.txt ***
 ||116poker.$third-party
 ||116poker.com^$popup
