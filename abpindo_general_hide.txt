@@ -1,4 +1,5 @@
 ###Box-Banner-ads
+###ad_box_1
 ###ad_divLeft
 ~4udrama.com###adplayer
 ###ads-pop
@@ -48,13 +49,17 @@
 ##.ad-left-image
 ##.ad-right-image
 ##.ad_primex
+##.ads-container
 ##.ads-pop
 ##.ads__side
+##.adsbymgid
+##.adsbyrunactive
 ##.adspace_300
 ##.adtext01
 ##.adunits.ads
 ##.bgads
 ##.bireklam
+##.disads300px
 ##.fake_player
 ##.forads
 ##.gbcontent
@@ -78,6 +83,7 @@
 ##.iklan1
 ##.iklan2
 ##.iklan728
+##.iklan_kiri
 ##.iklan_semprot
 ##.iklan_semprot_h
 ##.iklanhead

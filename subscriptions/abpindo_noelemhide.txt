@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4kD5fFESwVG1VjiO6RYKDg
+! Checksum: tcxmkN4LcIDlnu3bjss9Nw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 Januari 03, 09:34:14
+! Last modified: 2019 Januari 04, 19:28:20
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -535,6 +535,11 @@ tribunnews.com## + js(abort-on-property-read.js, $getWin)
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! *** abpindo_whitelist.txt ***
+@@.png$image,domain=komikstation.com|www.biargreget.top
+@@||biargreget.top^$generichide
+@@||komikstation.com^$generichide
+@@||kumpulmanga.org/wp-content/themes/RemIcyV2/lib/js/advertisement.js$script,domain=kumpulmanga.org
+@@||mangasave.us^$generichide
 !@@||eramuslim.com^$generichide
 @@.png$image,domain=awsubs.co|dutaislam.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|www.klikshowtime.com
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv

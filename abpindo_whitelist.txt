@@ -1,3 +1,8 @@
+@@.png$image,domain=komikstation.com|www.biargreget.top
+@@||biargreget.top^$generichide
+@@||komikstation.com^$generichide
+@@||kumpulmanga.org/wp-content/themes/RemIcyV2/lib/js/advertisement.js$script,domain=kumpulmanga.org
+@@||mangasave.us^$generichide
 !@@||eramuslim.com^$generichide
 @@.png$image,domain=awsubs.co|dutaislam.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|www.klikshowtime.com
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
