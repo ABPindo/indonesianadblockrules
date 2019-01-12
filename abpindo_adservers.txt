@@ -20,6 +20,7 @@
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
 ||ad.adflazz.com^$third-party
+||adcalm.com^$third-party
 ||addesigner.com^$third-party
 ||adexp.net^$third-party
 ||admarketplace.net^$popup,third-party
@@ -54,6 +55,7 @@
 ||c-4fambt.com^$third-party
 ||cd87c85eb2890d048d2.com^$third-party
 ||cfasync.ga^$popup,third-party
+||chidsimp.com^
 ||cjsab.com^$popup,third-party
 ||clickmedia.co.id^$third-party
 ||cpaclickoffers.com^$popup,third-party
@@ -77,6 +79,7 @@
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
 ||engine.gamesrevenue.com^$popup
+||epu.sh^$third-party
 ||everyday-carry.com^$popup,third-party
 ||eze99.net^$popup,third-party
 ||flexterkita.com^$third-party

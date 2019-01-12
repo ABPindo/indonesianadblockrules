@@ -188,6 +188,7 @@ tribunnews.com## + js(abort-on-property-read.js, $getWin)
 ||nontonstreaming.co/wp-content/uploads/*.gif
 ||noobscript.com^$script,third-party
 ||ns21.*/wp-content/uploads/*.gif$image
+||ns21.*/wp-includes/js/hoverIntent.min.js
 ||numpanglewat.com^$third-party
 ||numpangnonton.*/wp-content/uploads/*.gif$image
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
