@@ -1,6 +1,3 @@
-cinemamkv.net## + js(abort-on-property-read.js, go_get_url)
-cinemamkv.net## + js(nowebrtc.js)
-cinemamkv.net## + js(set-constant.js, _ocads, noopFunc)
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 lihat.co.id###Iklan-Melayang
@@ -526,9 +523,6 @@ cafecinema.*###popup_content
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 cinemaindo.*##a[href^="https://bit.ly/"]
-cinemamkv.*##+js(abort-on-property-read.js, go_get_url)
-cinemamkv.*##+js(nowebrtc.js)
-cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 dewamovie.*##a[href^="http://bit.ly/"]
 nextren.grid.id##div.banner-r
 cmovieshd.se,ganool.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn

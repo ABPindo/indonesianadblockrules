@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: E2uHM35HMn6x4RKc5JWk8A
+! Checksum: SDmkYQnmPWyiL/GPSZ/4TQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 Januari 13, 15:27:39
+! Last modified: 2019 Januari 13, 15:35:01
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -314,9 +314,6 @@
 /usahaberhasil.gif|
 iklan300x250.gif|
 ! *** abpindo_specific_block.txt ***
-kompas.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
-kompas.com## + js(abort-on-property-read.js, $getWin)
-tribunnews.com## + js(abort-on-property-read.js, $getWin)
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 ||.cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.li|ganool.nl|ganool.ph|goody.to|goon.to|mangatown.com
@@ -540,6 +537,15 @@ tribunnews.com## + js(abort-on-property-read.js, $getWin)
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
+! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
+kompas.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
+kompas.com,tribunnews.com## + js(abort-on-property-read.js, $getWin)
+cinemamkv.net## + js(abort-on-property-read.js, go_get_url)
+cinemamkv.net## + js(nowebrtc.js)
+cinemamkv.net## + js(set-constant.js, _ocads, noopFunc)
+cinemamkv.*##+js(abort-on-property-read.js, go_get_url)
+cinemamkv.*##+js(nowebrtc.js)
+cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 ! *** abpindo_whitelist.txt ***
 @@.png$image,domain=komikstation.com|www.biargreget.top
 @@||biargreget.top^$generichide

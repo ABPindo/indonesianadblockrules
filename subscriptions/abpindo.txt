@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: au6P+cYyLdH4x/Y6M1IRrg
+! Checksum: o9hwicqgYoitJg5LHk8eRw
 ! Title: ABPindo
-! Last modified: 2019 Januari 13, 15:27:39
+! Last modified: 2019 Januari 13, 15:35:01
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -433,9 +433,6 @@ iklan300x250.gif|
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
-kompas.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
-kompas.com## + js(abort-on-property-read.js, $getWin)
-tribunnews.com## + js(abort-on-property-read.js, $getWin)
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 ||.cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.li|ganool.nl|ganool.ph|goody.to|goon.to|mangatown.com
@@ -659,10 +656,16 @@ tribunnews.com## + js(abort-on-property-read.js, $getWin)
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-! *** abpindo_specific_hide.txt ***
+! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
+kompas.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
+kompas.com,tribunnews.com## + js(abort-on-property-read.js, $getWin)
 cinemamkv.net## + js(abort-on-property-read.js, go_get_url)
 cinemamkv.net## + js(nowebrtc.js)
 cinemamkv.net## + js(set-constant.js, _ocads, noopFunc)
+cinemamkv.*##+js(abort-on-property-read.js, go_get_url)
+cinemamkv.*##+js(nowebrtc.js)
+cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
+! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 lihat.co.id###Iklan-Melayang
@@ -1188,9 +1191,6 @@ cafecinema.*###popup_content
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 cinemaindo.*##a[href^="https://bit.ly/"]
-cinemamkv.*##+js(abort-on-property-read.js, go_get_url)
-cinemamkv.*##+js(nowebrtc.js)
-cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 dewamovie.*##a[href^="http://bit.ly/"]
 nextren.grid.id##div.banner-r
 cmovieshd.se,ganool.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
