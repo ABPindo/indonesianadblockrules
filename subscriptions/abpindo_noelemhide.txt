@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: SDmkYQnmPWyiL/GPSZ/4TQ
+! Checksum: 3180zNwG9gWnzQpmm6n4cw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 Januari 13, 15:35:01
+! Last modified: 2019 Januari 15, 10:13:37
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -48,7 +48,6 @@
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
 ||adscpm.site^$third-party
-||adsdelivery.bid^$popup,third-party
 ||adshost.site^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
@@ -319,8 +318,6 @@ iklan300x250.gif|
 ||.cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.li|ganool.nl|ganool.ph|goody.to|goon.to|mangatown.com
 ||.imgbox.com/*.gif$image,domain=cinemaindo.web.id
 ||.imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|ayononton.co|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|filmapik.in|forumbookie.com|forumjudi.org|ganool.li|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|nontonanime.id|sodasusu.com|sukabookie.com|zonalendir.net
-||.pgi.tribunnews.com^$inline-script
-||.uxvcjlat.com^$inline-script,third-party
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
 ||adsimg.kompas.com^$domain=kompas.com
@@ -342,7 +339,8 @@ iklan300x250.gif|
 ||bioskop212.*/wp-content/uploads/*.gif$image
 ||bioskop55.*/wp-content/uploads/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=awsubs.co|bioskopgalaxy21.com|bioskoptigalima.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|duniasex.ws|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|mangaindo.net|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
+||bioskopxxi.*/wp-content/uploads/*.gif$image
+||bp.blogspot.com/*.gif$image,domain=awsubs.co|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|mangaindo.net|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
@@ -397,11 +395,13 @@ iklan300x250.gif|
 ||forumidn.com^$popup,domain=susterbokep.com
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
+||galaxyxxi.*/wp-content/uploads/*.gif$image
 ||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
 ||ganool.city/iklan/$image
 ||ganool.link/wp-content/uploads/*.gif
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
+||grandxxi.*/img/banner/*.gif$image
 ||gsshop.co.id^*/background/banner-
 ||gudangmovies21.*/wp-content/uploads/*.gif$image
 ||harakah.net.my/images/stories/iklan/
@@ -454,6 +454,7 @@ iklan300x250.gif|
 ||linkgenerator.xyz$script,third-party
 ||lk21.*/assets/*.gif$image
 ||lk21.*/wp-content/uploads/*.gif$image
+||lkxxi.*/wp-content/uploads/*.gif$image
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||malamsenin.net/wp-content/uploads/*.gif$image
@@ -522,6 +523,7 @@ iklan300x250.gif|
 ||sodasusu.com/banner/
 ||solopos.com/banner/
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
+||sukanonton.*/wp-content/uploads/*.gif$image
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
@@ -3319,6 +3321,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /acerpoker.
 /acmbet.
 /afapkr.
+/AFAPOKER-
 /afapoker.
 /AFAPOKER_
 /afatogel-
@@ -3425,6 +3428,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /dorabet.
 /dotapoker.
 /dotapoker88-
+/doyanqq.
 /dracobets.
 /dragonpoker.
 /DuniaSarana.
@@ -3445,6 +3449,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /garampoker.
 /garenapoker.
 /garudakiu.
+/garudaqq-
 /garudaqq.
 /gebyarbola.
 /gebyarliga.

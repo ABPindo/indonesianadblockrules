@@ -34,7 +34,6 @@
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
 ||adscpm.site^$third-party
-||adsdelivery.bid^$popup,third-party
 ||adshost.site^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party

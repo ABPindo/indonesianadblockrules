@@ -20,6 +20,7 @@ dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 dapurpacu.com###ads-vert-300
 ~anibatch.id,~cinemamkv.net,~cinemamkv.xyz,~paraedu.id###adsense
+bioskopgaul.com###adsimgxatas
 tvkabel.net###adv
 unixmen.com###an-Modal
 inilah.com,kompasiana.com###anchormasklink
@@ -88,7 +89,7 @@ bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,biosk
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_right
 bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-cinema-indo.co,nontonbp.com###floating_banner_top1
+cinema-indo.co,nontonbp.com,www.filmdewasa.me###floating_banner_top1
 bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_banner_tops
 ganool-link.com,ganool.link,untukku.com###footer-adcont
 sodasusu.com###forum_ads_8
@@ -104,7 +105,6 @@ lensaindonesia.com###idcomright1.com-300x250
 lensaindonesia.com###idcomright2.com-300x250
 lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
-nontongratis88.com###idmuvi-adb-enabled
 mylinkgen.com###iklan-atas
 mylinkgen.com###iklan-bawah
 lihat.co.id###iklan-dalam-postingan-300
@@ -125,7 +125,7 @@ kabar2.com###leaderboard
 komikbaru.com###left-skyscraper
 nontonbokeps.com###left_ads_float_phonedevelop
 dapurpacu.com###mid-banner
-lk21tv.com###middle-banner
+ganool.watch,lk21tv.com###middle-banner
 fastdrama.co,hkfree.co###modal
 cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
@@ -144,9 +144,9 @@ eramuslim.com###peluang
 indoxx1.com###player-side-right
 iyottube.com###playerOverlay
 indoxx1.pw###popup
-cafecinema.cc###popup_content
+cafecinema.cc,lk21.io###popup_content
 amoimovie.com###popupinfoAd1
-bioskop201.info###popupwindow
+layarxxi.online###popuppress-9119
 nonton21.tv###previewBox
 nonton21.tv,nontonserial.com###previewBox2
 lk21.li,nonton21.tv###previewBox3
@@ -194,7 +194,8 @@ hotabis.com###text-28 > .textwidget
 videocrot.org###text-30 > .textwidget
 videocrot.org###text-6 > .textwidget
 indotelko.com###title_kanal
-kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,sinemaindo.web.id###top-banner
+ganool.watch,kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,sinemaindo.web.id###top-banner
+layarxxi.online###top-banner-content
 indoxxi.tv,xx1.tv###top-bnner-content
 ~eramuslim.com###topAd
 detik.com###top_banner
@@ -267,8 +268,8 @@ myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 nanime.in##.banner
-dewabioskop21.asia##.banner-left
-dewabioskop21.asia##.banner-right
+dewabioskop21.asia,dewabioskop21.org,www.dewabioskop21.org##.banner-left
+dewabioskop21.asia,dewabioskop21.org,www.dewabioskop21.org##.banner-right
 dream.co.id##.banner-sc2
 modifikasi.com##.banner-top
 oktavita.com##.banner-zone
@@ -357,7 +358,7 @@ myasiantv.se##.glx-link
 myasiantv.se##.glx-teaser
 kompas.com##.hAds
 animekompi.web.id##.headads
-videocrot.org##.headbanner
+bokepfull.fun,videocrot.org##.headbanner
 bioskop90.com##.headborder:nth-of-type(5)
 128.199.102.111##.header-ad-mobile
 indobokep.pro,zonapanaz.net##.header-banner
@@ -372,7 +373,6 @@ kosmo.com.my##.iklan-puff
 ainimeindo.com##.iklan300
 kosmo.com.my##.iklanBox
 suki48.web.id##.iklanSUKI
-komikbaru.com##.iklan_kiri
 detik.com##.iklan_tengah
 awsubs.co##.iklansamping
 ld2tv.com##.img-banner
@@ -413,7 +413,6 @@ susterbokep.com##.overlay
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 beritaharian.sg##.pane-block:-abp-has(div[id^="dfp-ad"])
-indoxxi.one##.popUpBannerBox
 viva.co.id##.portlet.sideskycrapper
 otomania.com##.r-ads
 film-ganool.com##.random
@@ -461,8 +460,9 @@ bioskop007.club##.textwidget > p
 bioskoptigalima.com,icinema3satu.net##.textwidget img
 klikseru.com##.textwidget img[width="300"][height="250"]
 utusan.com.my##.tonal__standfirst
-lapar.com##.top-banner
+lapar.com,nontonitu.com##.top-banner
 xx1.me##.top-bnner.lazy
+bioskopxxi.net,sinemakaca.com##.ujipopup
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
 cdramabase.com##.wpa
@@ -483,12 +483,12 @@ seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
 hentai2read.com##a[href^="//www.nutaku.net/signup/"]
 bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
-01nonton.com,123drakor.com,46.166.167.16,bioskop168.co,bioskop168.online,bioskop168.pro,bioskop45.com,bioskopbokep21.com,bokepml.online,bokepngetop.com,bokeponline.download,dewamovie.tv,drakorindo.tv,filmbioskop21.co,filmroster.tv,gandhool.net,ganoolmovie.video,gudangmovies21.cc,idbioskop.com,indomovies.club,indomv.net,indoxx1.club,layarmovie21.co,lk21.cam,lk21.rip,lk21.web.id,nekopoi.care,nekopoi.cash,nekopoi.lol,nonton-streaming.com,nonton33.net,nonton789.com,nontondrama.me,nontongratis88.com,nontonsub.co,nontonsub.com,ns21.me,sashahillfilm.com,satujiwa.net,semprot.com,semprotku.com,sinemaindo.web.id,sukamovie.mobi,thirdstarfilm.com,zonabola.id##a[href^="http://bit.ly/"]
+01nonton.com,123drakor.com,46.166.167.16,bioskop168.co,bioskop168.online,bioskop168.pro,bioskop45.com,bioskopbokep21.com,bokepml.online,bokepngetop.com,bokeponline.download,dewamovie.tv,drakorindo.tv,filmbioskop21.co,filmroster.tv,gandhool.net,ganoolmovie.video,gudangmovies21.cc,idbioskop.com,indomovies.club,indomv.net,indoxx1.club,layarmovie21.co,layarxxi.online,lk21.cam,lk21.rip,lk21.web.id,nekopoi.care,nekopoi.cash,nekopoi.lol,nonton-streaming.com,nonton33.net,nonton789.com,nontondrama.me,nontongratis88.com,nontonsub.co,nontonsub.com,ns21.me,sashahillfilm.com,satujiwa.net,semprot.com,semprotku.com,sinemaindo.web.id,sukamovie.mobi,thirdstarfilm.com,zonabola.id##a[href^="http://bit.ly/"]
 bokepml.online,lk21.web.id,nonton33.net##a[href^="http://goo.gl/"]
 nontoncinema.org##a[href^="http://referral."]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
-animeindo.co,animeku.tv,bioskop168.pro,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,indoxxi.top,layarindo21.pro,lk-21.me,mangaku.in,neonime.net,nontonsub.com,ns21.club,otakufile.com##a[href^="https://bit.ly/"]
+animeindo.co,animeku.tv,bioskop168.pro,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,indoxxi.top,layarindo21.pro,lk-21.me,lk21indo.co,mangaku.in,neonime.net,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com##a[href^="https://bit.ly/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,bokepml.gq,bokepngetop.com,drakorindo.tv,gelorajiwaseks.com,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,semprot.com,semprotku.com,serunonton.com,www1.lk-21.me##a[href^="https://goo.gl/"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
@@ -510,7 +510,9 @@ bioskop55.*###floating_banner_left
 bioskop55.*###floating_banner_right
 bioskop90.*###floating_banner_left
 bioskopbokep21.*##a[href^="http://bit.ly/"]
+bioskopgaul.*###adsimgxatas
 bioskopkeren.*##a[href^="https://bit.ly/"]
+bioskopxxi.*##.ujipopup
 ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .hideviews.bannerslot1
 ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .mainContainer > .mainContent > .hideviews.bannerslot1
 bokepml.*##a[href^="http://bit.ly/"]
@@ -558,7 +560,6 @@ idfl.*###ad_global_below_navbar
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
-~cnet.com##img[alt="Advertisement"]
 tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
@@ -577,6 +578,8 @@ layarkaca21.*###ptbanner
 layarkaca21.*##.fancybox-skin
 layarkaca21.*##.img-responsive
 layarmovie21.*##a[href^="http://bit.ly/"]
+layarxxi.*###top-banner-content
+layarxxi.*##a[href^="http://bit.ly/"]
 ldtv.*##.axdx-header
 lk-21.*##a[href^="https://bit.ly/"]
 lk21.*###fbanner
@@ -584,6 +587,7 @@ lk21.*###fbbanner
 lk21.*###fixedban
 lk21.*###hbanner
 lk21.*###pbanner
+lk21.*###popup_content
 lk21.*###previewBox3
 lk21.*###previewBox4
 lk21.*##.fancybox-skin
@@ -611,6 +615,7 @@ otakufile.*##a[href^="https://bit.ly/"]
 senimovie.*##.ad-float-image
 senimovies.*##.rsablock
 sinemaindo.*##a[href^="http://bit.ly/"]
+sinemakaca.*##.ujipopup
 streamxxi.*##a[href^="http://bit.ly/"]
 sukamovie.*##a[href^="http://bit.ly/"]
 satujiwa.org##table

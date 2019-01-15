@@ -49,6 +49,7 @@
 ##.ad-left-image
 ##.ad-right-image
 ##.ad_primex
+##.adace-slot
 ##.ads-container
 ##.ads-pop
 ##.ads__side
@@ -68,6 +69,7 @@
 ##.idblog-topbanner-aftermenu
 ##.idmuvi-afterplayer
 ##.idmuvi-banner-aftercontent
+##.idmuvi-center-ads
 ##.idmuvi-floatbanner
 ##.idmuvi-floatbanner-footer
 ##.idmuvi-floatbanner-left
@@ -78,6 +80,7 @@
 ##.idmuvi-topbanner-archive
 ##.idmuvi-topplayer
 ~awsubs.co,~kontan.co.id,~manteb.in,~securitylink.biz##.iklan
+##.iklan-bawah
 ##.iklan-kanan
 ##.iklan-kiri
 ##.iklan1
@@ -106,7 +109,7 @@
 ##.single_ad_728x90
 ##.subiklan
 ##.topadsense
-##img[alt="Advertisement"]
+~cnet.com##img[alt="Advertisement"]
 ##img[alt="Iklan"]
 ##img[alt="Pasang Iklan Anda Disini"]
 ##img[alt="Pasang Iklan Murah"]
