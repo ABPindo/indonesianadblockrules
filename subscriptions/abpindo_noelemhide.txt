@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: p6yhMGzL0GUpT4N/FphSug
+! Checksum: EQR3Dqux0kIHR63n+dzeRA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 Januari 16, 11:19:48
+! Last modified: 2019 Januari 17, 06:04:49
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -253,6 +253,7 @@
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
 ||www.adflazz.com^$third-party
+||www.ucvrtwfh.com^$third-party
 ||xbfk51p7.review^$popup,third-party
 ||xqkzsifxgv.com^$script,domain=kissasian.sh
 ||yesads.com^$third-party
@@ -537,6 +538,7 @@ iklan300x250.gif|
 ||videocrot.org/wp-content/uploads/*/iklan.gif
 ||www.conan.id/wp-content/uploads/2018/*.gif$image
 ||www.mangacanblog.com/adblock/src/adblock-checker.js
+||www.streamingbokeps.*/ngiklan/$image
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
@@ -3319,6 +3321,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /28bet.
 /388poker.
 /899cash.
+/Abgqq-
 /abgqq.
 /abgqqnew.
 /acerpoker.
@@ -3352,6 +3355,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /asian4d.
 /asiaqq-
 /asiaqq.
+/asliqq.
 /astonbet-
 /astonbet.
 /astonwin.
@@ -3369,6 +3373,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /bandarq.
 /BANDARQ168.
 /bandarqq.
+/bandarqq365.
 /bandarqterpercaya.
 /bandarsakong.
 /bandartaruhan.
@@ -3424,6 +3429,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /diskonqq.
 /divisix.
 /domino168.
+/domino365.
 /domino757.
 /domino99.
 /dominobet.
@@ -3438,6 +3444,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /elangbola.
 /elangcapsa.
 /elangqq-
+/elangqq.
 /emasbet-
 /emasbet.
 /emoqq-
@@ -3499,6 +3506,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /imcpkr.
 /Imcpoker-
 /imcpoker.
+/incarqq.
 /indorajaqq.
 /indowin99.
 /indowins.
@@ -3513,7 +3521,9 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /itubandar.
 /itudewa.
 /itupk.
+/itupoker-
 /itupoker.
+/ituqq.
 /ItuToto.
 /IvoPoker.
 /jagoanpoker.
@@ -3575,6 +3585,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /liganation.
 /ligapoker.
 /lintasqq.
+/Live-Casino.
 /lobbyqq.
 /lobyqq.
 /lotustogel.
@@ -3597,6 +3608,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /masterbaccarat.
 /mastercasino88.
 /masternaga.
+/masterpoker99.
 /maxisbet-
 /maxisbet.
 /mbopoker.
@@ -3622,6 +3634,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /nagalaut-new.
 /nagalaut.
 /naloindo.
+/naloqq.
 /nasapoker.
 /neobola.
 /nikeqq.
@@ -3662,6 +3675,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /pokermas99.
 /pokermon24.
 /pokernusa-
+/pokerpromo.
 /pokerqq-new.
 /pokerqq.
 /pokerqq13.
@@ -3755,6 +3769,7 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 /surya4d.
 /tahunqq.
 /tangkaskita.
+/tangkaspro.
 /tatobet.
 /texas-poker-
 /texaspoker.
