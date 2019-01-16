@@ -1,8 +1,5 @@
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
-||.cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.li|ganool.nl|ganool.ph|goody.to|goon.to|mangatown.com
-||.imgbox.com/*.gif$image,domain=cinemaindo.web.id
-||.imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|ayononton.co|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|filmapik.in|forumbookie.com|forumjudi.org|ganool.li|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|nontonanime.id|sodasusu.com|sukabookie.com|zonalendir.net
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
 ||adsimg.kompas.com^$domain=kompas.com
@@ -40,6 +37,7 @@
 ||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$script
 ||cinemaqq.*/wp-content/uploads/*.gif$image
 ||cinemastar21.*/wp-content/uploads/*.gif$image
+||cloudfront.net^$script,domain=filmku.net|ganool.is|ganool.li|ganool.nl|ganool.ph|goody.to|goon.to|mangatown.com
 ||coblos.net/*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif
 ||detik.com/images/banners/
@@ -105,6 +103,8 @@
 ||images.gameweb.co.id/gw/ads/
 ||img.akubebas.com/images/*.gif$image
 ||img.sukipli.com/*.gif$image,third-party
+||imgbox.com/*.gif$image,domain=cinemaindo.web.id
+||imgur.com/*.gif$image,domain=abgbugil.net|animekompi.web.id|ayononton.co|bioskop78.com|bioskop78.net|capcus.net|cinemaindo.web.id|downloadfilmbaru.com|filmapik.in|forumbookie.com|forumjudi.org|ganool.li|ibugil.net|indobugil.net|kabar2.com|kikil.net|lensaberita.net|ngobrolbola.com|nontonanime.id|sodasusu.com|sukabookie.com|zonalendir.net
 ||indo168.*/wp-content/uploads/*.gif$image
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/
@@ -220,6 +220,7 @@
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||videocrot.org/wp-content/uploads/*/iklan.gif
+||www.conan.id/wp-content/uploads/2018/*.gif$image
 ||www.mangacanblog.com/adblock/src/adblock-checker.js
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
