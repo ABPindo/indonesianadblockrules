@@ -1,10 +1,13 @@
-@@.png$image,domain=komikstation.com|shirosafe.web.id|www.biargreget.top|www.komikindo.web.id
+@@.png$image,domain=komikstation.com|shirosafe.web.id|www.biargreget.top|www.komikindo.web.id|www.riauonline.co.id
 @@/adaffiliate_/$domain=shirosafe.web.id
+@@www.riauonline.co.id^$generichide
 @@||biargreget.top^$generichide
+@@||idsly.co/webroot/js/ads.js$script,~third-party
 @@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
 @@||kumpulmanga.org/wp-content/themes/RemIcyV2/lib/js/advertisement.js$script,domain=kumpulmanga.org
 @@||mangasave.us^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=www.datasekolah.co.id
 @@||shirosafe.web.id^$generichide
 @@||www.duosia.id/wp-content/cache/min/1/wp-content/themes/jannah/assets/js/advertisement-$script,domain=www.duosia.id
 !@@||eramuslim.com^$generichide

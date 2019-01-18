@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Hi8RG/u7Qo0zNZZds7awXg
+! Checksum: B0Q2WFCUJQrVN0ZwEAk5nQ
 ! Title: ABPindo_tanpanawala sekarang menjadi ABPindo_noannoyance
-! Last modified: 2019 Januari 18, 14:44:47
+! Last modified: 2019 Januari 18, 16:56:14
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -376,6 +376,7 @@ iklan300x250.gif|
 ##.ads-pop
 ##.ads__side
 ~anibatch.id##.adsbox
+~datasekolah.co.id##.adsbygoogle
 ##.adsbymgid
 ##.adsbyrunactive
 ##.adspace_300
@@ -1000,6 +1001,7 @@ kabar24.com##.bottom-leaderboard-cont
 gopego.com##.box
 uzone.id##.box-ads-300x250
 liputan6.com##.box-ads-right
+eka.web.id##.box-banner
 kompas.com##.boxBanner1
 kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
@@ -1176,7 +1178,7 @@ bokepml.online,lk21.web.id,nonton33.net##a[href^="http://goo.gl/"]
 nontoncinema.org##a[href^="http://referral."]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
-animeindo.co,animeku.tv,bioskop168.pro,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,indoxxi.top,layarindo21.pro,lk-21.me,lk21indo.co,mangaku.in,neonime.net,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com##a[href^="https://bit.ly/"]
+animeindo.co,animeku.tv,bioskop168.pro,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,eka.web.id,indoxxi.top,layarindo21.pro,lk-21.me,lk21indo.co,mangaku.in,neonime.net,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com##a[href^="https://bit.ly/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,bokepml.gq,bokepngetop.com,drakorindo.tv,gelorajiwaseks.com,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,semprot.com,semprotku.com,serunonton.com,www1.lk-21.me##a[href^="https://goo.gl/"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
@@ -1312,13 +1314,16 @@ bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
 ! *** abpindo_whitelist.txt ***
-@@.png$image,domain=komikstation.com|shirosafe.web.id|www.biargreget.top|www.komikindo.web.id
+@@.png$image,domain=komikstation.com|shirosafe.web.id|www.biargreget.top|www.komikindo.web.id|www.riauonline.co.id
 @@/adaffiliate_/$domain=shirosafe.web.id
+@@www.riauonline.co.id^$generichide
 @@||biargreget.top^$generichide
+@@||idsly.co/webroot/js/ads.js$script,~third-party
 @@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
 @@||kumpulmanga.org/wp-content/themes/RemIcyV2/lib/js/advertisement.js$script,domain=kumpulmanga.org
 @@||mangasave.us^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=www.datasekolah.co.id
 @@||shirosafe.web.id^$generichide
 @@||www.duosia.id/wp-content/cache/min/1/wp-content/themes/jannah/assets/js/advertisement-$script,domain=www.duosia.id
 !@@||eramuslim.com^$generichide
@@ -4046,6 +4051,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||zynga365.$third-party
 ||zyngaqq.$third-party
 ! *** abpindo_annoyance_general_hide.txt ***
+##[href^="http://www.capsa228.com/"]
 ##[src="http://livesgp."]
 ##a[href$="/77megabet"]
 ##a[href$="/adscantikqq"]
