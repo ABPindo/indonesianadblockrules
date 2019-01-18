@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: B0Q2WFCUJQrVN0ZwEAk5nQ
+! Checksum: OqmIaxw9HBjNpErm3hyxgg
 ! Title: ABPindo_tanpanawala sekarang menjadi ABPindo_noannoyance
-! Last modified: 2019 Januari 18, 16:56:14
+! Last modified: 2019 Januari 18, 17:16:46
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -941,7 +941,6 @@ grid.id##.ads_sky
 antaranews.com##.ads_top_728
 ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
-majalahikan.com##.adsbygoogle
 www.pontianakpost.co.id##.adsense
 www.ganol.si##.adsincenter
 kshowid.com##.adssingle
@@ -1085,7 +1084,6 @@ b201.info##.lenyap
 animeindo.co##.marginbot:-abp-contains(Banner)
 nontonbokeps.com##.mask-ads
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
-bioskop21.co,ganool.is,ganool.ph,ganool.se,ganool.st##.mgid
 dapurpacu.com##.mid-banner
 astroawani.com##.middle-ad-cont
 file.rocks##.mobi.content-left
@@ -1314,61 +1312,58 @@ bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
 ! *** abpindo_whitelist.txt ***
-@@.png$image,domain=komikstation.com|shirosafe.web.id|www.biargreget.top|www.komikindo.web.id|www.riauonline.co.id
-@@/adaffiliate_/$domain=shirosafe.web.id
-@@www.riauonline.co.id^$generichide
-@@||biargreget.top^$generichide
-@@||idsly.co/webroot/js/ads.js$script,~third-party
-@@||komikindo.web.id^$generichide
-@@||komikstation.com^$generichide
-@@||kumpulmanga.org/wp-content/themes/RemIcyV2/lib/js/advertisement.js$script,domain=kumpulmanga.org
-@@||mangasave.us^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=www.datasekolah.co.id
-@@||shirosafe.web.id^$generichide
-@@||www.duosia.id/wp-content/cache/min/1/wp-content/themes/jannah/assets/js/advertisement-$script,domain=www.duosia.id
 !@@||eramuslim.com^$generichide
-@@.png$image,domain=awsubs.co|dutaislam.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|www.klikshowtime.com
+@@.png$image,domain=awsubs.co|dutaislam.com|komikstation.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
+@@||adturl.$generichide
 @@||adturl.com^$generichide
 @@||adturl.us^$generichide
 @@||ainodorama.web.id^$generichide
-@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=ganool-link.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
+@@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=smallencode.com
 @@||asiancine.com^$generichide
+@@||biargreget.top^$generichide
 @@||cat3movie.us^$generichide
-@@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id|smallencode.com
-@@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|smallencode.com
+@@||cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js$script,domain=smallencode.com
+@@||cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js$script,domain=smallencode.com
 @@||cinemamkv.net^$generichide
 @@||code.jquery.com/jquery-1.11.0.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
-@@||connect.facebook.net/en_US/all.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
-@@||connect.facebook.net/en_US/sdk.js$script,domain=ganool.is|ganool.sc|ganool.st|goody.to|smallencode.com
+@@||connect.facebook.net/en_US/all.js$script,domain=smallencode.com
+@@||connect.facebook.net/en_US/sdk.js$script,domain=smallencode.com
 @@||digitalponsel.com^$elemhide
 @@||dukun-cit.com^$generichide
 @@||eirudo.com^$generichide
 @@||hightech.web.id^$generichide
+@@||idsly.co/webroot/js/ads.js$script,~third-party
 @@||klikshowtime.com^$generichide
-@@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$image
+@@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$image,~third-party
 @@||komikcast.com^$generichide
+@@||komikindo.web.id^$generichide
+@@||komikstation.com^$generichide
+@@||kumpulmanga.org/wp-content/themes/RemIcyV2/lib/js/advertisement.js$script,~third-party
 @@||majalahikan.com^$generichide
+@@||mangasave.us^$generichide
 @@||mivo.com^$generichide
-@@||nekopoi.*/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
-@@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
-@@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
-@@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script
+@@||nekopoi.*/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
+@@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
+@@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
+@@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||neumanga.tv^$generichide
 @@||oploverz.$elemhide
-@@||oploverz.in^$elemhide
-@@||oploverz.net^$elemhide
 @@||otakuindo.net^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=www.datasekolah.co.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
+@@||riauonline.co.id^$generichide
 @@||sdrama.com^$generichide
-@@||teknologilink.com/js/advertisement.js
+@@||shirosafe.web.id^$generichide
+@@||teknologilink.com/js/advertisement.js$script,~third-party
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||wp.com/wp-content/js/$script,domain=smallencode.com
+@@||www.duosia.id/wp-content/cache/min/1/wp-content/themes/jannah/assets/js/advertisement-$script,~third-party
 @@||www.google-analytics.com/analytics.js$script,domain=www.pricebook.co.id
-@@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script
+@@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script,~third-party
 ! *** abpindo_annoyance_thirdparty.txt ***
 ||116poker.$popup
 ||116poker.$third-party
@@ -1471,8 +1466,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||aduqq.$third-party
 ||aduqq88.$third-party
 ||aduqvip.$third-party
+||afapkr.$popup
 ||afapkr.$third-party
-||afapkr.net^$popup,third-party
 ||afapoker.$popup
 ||afapoker.$third-party
 ||afapoker69.$third-party
@@ -1767,16 +1762,16 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||bandarjudisbobet.$third-party
 ||bandarjuditaruhan.$third-party
 ||bandarjuditogel.com^$third-party
+||bandarkiu.$popup
 ||bandarkiu.$third-party
-||bandarkiu.mobi^$popup,third-party
-||bandarpoker.$popup,third-party
+||bandarpoker.$popup
 ||bandarpoker.$third-party
+||bandarq.$popup
 ||bandarq.$third-party
-||bandarq.mobi^$popup,third-party
 ||bandarq168.$third-party
 ||bandarqq.$popup
 ||bandarqq.$third-party
-||bandarqterpercaya.$popup,third-party
+||bandarqterpercaya.$popup
 ||bandarqterpercaya.$third-party
 ||bandarsakong.$popup
 ||bandarsakong.$third-party
@@ -1815,7 +1810,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||bejototo.$third-party
 ||belajar-bisnis.$popup
 ||belajar-bisnis.$third-party
-||beliqq.$popup,third-party
+||beliqq.$popup
 ||beliqq.$third-party
 ||belitogel.com^$third-party
 ||bendera-bet.$third-party
@@ -1927,7 +1922,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||btybet.$popup
 ||btybet.$third-party
 ||bukutogel.com^$third-party
-||bunchofwinners.win^$popup,third-party
+||bunchofwinners.$popup
 ||bursabet.$popup
 ||bursabet.$third-party
 ||bursajudibola.com^$third-party
@@ -2034,7 +2029,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||daftarbandarpoker.$popup
 ||daftarbandarpoker.$third-party
 ||daftarbandartogelterpercaya.$popup
-||daftardomino.$popup,third-party
+||daftardomino.$popup
 ||daftardomino.$third-party
 ||daftarfun88.$third-party
 ||daftarjudibola.com^$third-party
@@ -2047,7 +2042,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||daftarpoker228.$third-party
 ||daftarpoker88.$third-party
 ||daftarpokeronline.com^$third-party
-||daftarqq.$popup,third-party
+||daftarqq.$popup
 ||daftarqq.$third-party
 ||daftarqqonline.$popup
 ||daftarqqonline.$third-party
@@ -2078,8 +2073,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||dermaga4d.$third-party
 ||detikbet.$popup
 ||detikbet.$third-party
+||dewa757.$popup
 ||dewa757.$third-party
-||dewa757.org^$popup,third-party
 ||dewabet.$third-party
 ||dewaboya.$popup
 ||dewaboya.$third-party
@@ -2125,7 +2120,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||domino-qq.$third-party
 ||domino168.$popup
 ||domino168.$third-party
-||domino757.$popup,third-party
+||domino757.$popup
 ||domino757.$third-party
 ||domino99.$third-party
 ||dominobet.$third-party
@@ -2313,8 +2308,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||hobibet.$third-party
 ||hoki228.$popup
 ||hoki228.$third-party
+||hoki365.$popup
 ||hoki365.$third-party
-||hoki365.me^$popup,third-party
 ||hokibandar.$third-party
 ||hokibandarkiu.$popup
 ||hokibandarkiu.$third-party
@@ -2350,7 +2345,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||hoyanew.$third-party
 ||hoyapoker.$third-party
 ||hoyapoker99.$popup
-||hoyapoker99.$popup,third-party
 ||hoyapoker99.$third-party
 ||hoyatoto.$popup
 ||hoyatoto.$third-party
@@ -2427,7 +2421,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||infototobet.$third-party
 ||inibos.$popup
 ||inibos.$third-party
-||inidomino.$popup,third-party
+||inidomino.$popup
 ||inidomino.$third-party
 ||inipoker.com^$third-party
 ||intanbet.$third-party
@@ -2461,8 +2455,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||itubd.$third-party
 ||itucasino.$third-party
 ||itudewa.$third-party
+||itupk.$popup
 ||itupk.$third-party
-||itupk.net^$popup,third-party
 ||itupoker.$third-party
 ||itupoker77.$third-party
 ||ituqq.$third-party
@@ -2820,7 +2814,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||mainqq.$third-party
 ||mainsakong.$third-party
 ||maintogel.$third-party
-||maintogelonline.$popup,third-party
+||maintogelonline.$popup
 ||maintogelonline.$third-party
 ||majupoker.$popup
 ||majupoker.$third-party
@@ -2892,7 +2886,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||mejasakong.$popup
 ||mejasakong.$third-party
 ||membertoto.$third-party
-||menangqq.$popup,third-party
+||menangqq.$popup
 ||menangqq.$third-party
 ||mestresdopoker.com^$third-party
 ||mgmcash88.$popup
@@ -2975,7 +2969,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||nontonbokep.mobi^$popup,third-party
 ||nontonfilm21.$third-party
 ||nusantarabet.$third-party
-||nusantarabet4d.$popup,third-party
+||nusantarabet4d.$popup
 ||nusantarabet4d.$third-party
 ||nztoto.com^$third-party
 ||obat-klg-herbal.$popup
@@ -3034,7 +3028,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||opuspoker.$popup
 ||opuspoker.$third-party
 ||orientalpoker.$popup
-||orientalpoker.$popup,third-party
 ||orientalpoker.$third-party
 ||pabrikpoker.$third-party
 ||pacificpoker.com^$third-party
@@ -3048,7 +3041,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||panenpk2.$third-party
 ||panenpoker.$third-party
 ||pangerantoto.$third-party
-||pangerantoto1.$popup,third-party
+||pangerantoto1.$popup
 ||pangerantoto1.$third-party
 ||pangerantoto3.$popup
 ||pangerantoto3.$third-party
@@ -3079,7 +3072,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||pasaranqq.$popup
 ||pasaranqq.$third-party
 ||pasarantaruhanbola.$third-party
-||pasarantogel.$popup,third-party
+||pasarantogel.$popup
 ||pasarantogel.$third-party
 ||pasarbet.$third-party
 ||pasarjudiibcbet.com^$third-party
@@ -3171,7 +3164,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||pokerdex.$popup
 ||pokerdex.$third-party
 ||pokerdynasti.com^$third-party
-||pokergalaxy.$popup,third-party
+||pokergalaxy.$popup
 ||pokergalaxy.$third-party
 ||pokergo.$third-party
 ||pokergo8.$third-party
@@ -3468,10 +3461,10 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||senibola.$popup
 ||senibola.$third-party
 ||senigoal.$third-party
-||seniqq.$popup,third-party
+||seniqq.$popup
 ||seniqq.$third-party
 ||sentabet.$third-party
-||sentanapoker.$popup,third-party
+||sentanapoker.$popup
 ||sentanapoker.$third-party
 ||sentapoker.$third-party
 ||sentosa88.$popup
@@ -3585,7 +3578,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||sumberqq.$third-party
 ||sundul99.$popup
 ||sundul99.$third-party
-||sundulqq.$popup,third-party
+||sundulqq.$popup
 ||sundulqq.$third-party
 ||sunpoker.com^$third-party
 ||sunshine-poker.com^$third-party
@@ -3863,7 +3856,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||totojt.com^$third-party
 ||totoking.$third-party
 ||totokini.$third-party
-||totokita.$popup,third-party
+||totokita.$popup
 ||totokita.$third-party
 ||totokl.$third-party
 ||totomaster.com^$third-party
@@ -4037,7 +4030,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||ysbjaya.$third-party
 ||ysbjaya88.$popup
 ||ysbjaya88.$third-party
-||ysbjaya88.org^$popup,third-party
 ||zenbola.$popup
 ||zenbola.$third-party
 ||zeushoki.$third-party

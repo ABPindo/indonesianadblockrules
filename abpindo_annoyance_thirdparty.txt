@@ -99,8 +99,8 @@
 ||aduqq.$third-party
 ||aduqq88.$third-party
 ||aduqvip.$third-party
+||afapkr.$popup
 ||afapkr.$third-party
-||afapkr.net^$popup,third-party
 ||afapoker.$popup
 ||afapoker.$third-party
 ||afapoker69.$third-party
@@ -395,16 +395,16 @@
 ||bandarjudisbobet.$third-party
 ||bandarjuditaruhan.$third-party
 ||bandarjuditogel.com^$third-party
+||bandarkiu.$popup
 ||bandarkiu.$third-party
-||bandarkiu.mobi^$popup,third-party
-||bandarpoker.$popup,third-party
+||bandarpoker.$popup
 ||bandarpoker.$third-party
+||bandarq.$popup
 ||bandarq.$third-party
-||bandarq.mobi^$popup,third-party
 ||bandarq168.$third-party
 ||bandarqq.$popup
 ||bandarqq.$third-party
-||bandarqterpercaya.$popup,third-party
+||bandarqterpercaya.$popup
 ||bandarqterpercaya.$third-party
 ||bandarsakong.$popup
 ||bandarsakong.$third-party
@@ -443,7 +443,7 @@
 ||bejototo.$third-party
 ||belajar-bisnis.$popup
 ||belajar-bisnis.$third-party
-||beliqq.$popup,third-party
+||beliqq.$popup
 ||beliqq.$third-party
 ||belitogel.com^$third-party
 ||bendera-bet.$third-party
@@ -555,7 +555,7 @@
 ||btybet.$popup
 ||btybet.$third-party
 ||bukutogel.com^$third-party
-||bunchofwinners.win^$popup,third-party
+||bunchofwinners.$popup
 ||bursabet.$popup
 ||bursabet.$third-party
 ||bursajudibola.com^$third-party
@@ -662,7 +662,7 @@
 ||daftarbandarpoker.$popup
 ||daftarbandarpoker.$third-party
 ||daftarbandartogelterpercaya.$popup
-||daftardomino.$popup,third-party
+||daftardomino.$popup
 ||daftardomino.$third-party
 ||daftarfun88.$third-party
 ||daftarjudibola.com^$third-party
@@ -675,7 +675,7 @@
 ||daftarpoker228.$third-party
 ||daftarpoker88.$third-party
 ||daftarpokeronline.com^$third-party
-||daftarqq.$popup,third-party
+||daftarqq.$popup
 ||daftarqq.$third-party
 ||daftarqqonline.$popup
 ||daftarqqonline.$third-party
@@ -706,8 +706,8 @@
 ||dermaga4d.$third-party
 ||detikbet.$popup
 ||detikbet.$third-party
+||dewa757.$popup
 ||dewa757.$third-party
-||dewa757.org^$popup,third-party
 ||dewabet.$third-party
 ||dewaboya.$popup
 ||dewaboya.$third-party
@@ -753,7 +753,7 @@
 ||domino-qq.$third-party
 ||domino168.$popup
 ||domino168.$third-party
-||domino757.$popup,third-party
+||domino757.$popup
 ||domino757.$third-party
 ||domino99.$third-party
 ||dominobet.$third-party
@@ -941,8 +941,8 @@
 ||hobibet.$third-party
 ||hoki228.$popup
 ||hoki228.$third-party
+||hoki365.$popup
 ||hoki365.$third-party
-||hoki365.me^$popup,third-party
 ||hokibandar.$third-party
 ||hokibandarkiu.$popup
 ||hokibandarkiu.$third-party
@@ -978,7 +978,6 @@
 ||hoyanew.$third-party
 ||hoyapoker.$third-party
 ||hoyapoker99.$popup
-||hoyapoker99.$popup,third-party
 ||hoyapoker99.$third-party
 ||hoyatoto.$popup
 ||hoyatoto.$third-party
@@ -1055,7 +1054,7 @@
 ||infototobet.$third-party
 ||inibos.$popup
 ||inibos.$third-party
-||inidomino.$popup,third-party
+||inidomino.$popup
 ||inidomino.$third-party
 ||inipoker.com^$third-party
 ||intanbet.$third-party
@@ -1089,8 +1088,8 @@
 ||itubd.$third-party
 ||itucasino.$third-party
 ||itudewa.$third-party
+||itupk.$popup
 ||itupk.$third-party
-||itupk.net^$popup,third-party
 ||itupoker.$third-party
 ||itupoker77.$third-party
 ||ituqq.$third-party
@@ -1448,7 +1447,7 @@
 ||mainqq.$third-party
 ||mainsakong.$third-party
 ||maintogel.$third-party
-||maintogelonline.$popup,third-party
+||maintogelonline.$popup
 ||maintogelonline.$third-party
 ||majupoker.$popup
 ||majupoker.$third-party
@@ -1520,7 +1519,7 @@
 ||mejasakong.$popup
 ||mejasakong.$third-party
 ||membertoto.$third-party
-||menangqq.$popup,third-party
+||menangqq.$popup
 ||menangqq.$third-party
 ||mestresdopoker.com^$third-party
 ||mgmcash88.$popup
@@ -1603,7 +1602,7 @@
 ||nontonbokep.mobi^$popup,third-party
 ||nontonfilm21.$third-party
 ||nusantarabet.$third-party
-||nusantarabet4d.$popup,third-party
+||nusantarabet4d.$popup
 ||nusantarabet4d.$third-party
 ||nztoto.com^$third-party
 ||obat-klg-herbal.$popup
@@ -1662,7 +1661,6 @@
 ||opuspoker.$popup
 ||opuspoker.$third-party
 ||orientalpoker.$popup
-||orientalpoker.$popup,third-party
 ||orientalpoker.$third-party
 ||pabrikpoker.$third-party
 ||pacificpoker.com^$third-party
@@ -1676,7 +1674,7 @@
 ||panenpk2.$third-party
 ||panenpoker.$third-party
 ||pangerantoto.$third-party
-||pangerantoto1.$popup,third-party
+||pangerantoto1.$popup
 ||pangerantoto1.$third-party
 ||pangerantoto3.$popup
 ||pangerantoto3.$third-party
@@ -1707,7 +1705,7 @@
 ||pasaranqq.$popup
 ||pasaranqq.$third-party
 ||pasarantaruhanbola.$third-party
-||pasarantogel.$popup,third-party
+||pasarantogel.$popup
 ||pasarantogel.$third-party
 ||pasarbet.$third-party
 ||pasarjudiibcbet.com^$third-party
@@ -1799,7 +1797,7 @@
 ||pokerdex.$popup
 ||pokerdex.$third-party
 ||pokerdynasti.com^$third-party
-||pokergalaxy.$popup,third-party
+||pokergalaxy.$popup
 ||pokergalaxy.$third-party
 ||pokergo.$third-party
 ||pokergo8.$third-party
@@ -2096,10 +2094,10 @@
 ||senibola.$popup
 ||senibola.$third-party
 ||senigoal.$third-party
-||seniqq.$popup,third-party
+||seniqq.$popup
 ||seniqq.$third-party
 ||sentabet.$third-party
-||sentanapoker.$popup,third-party
+||sentanapoker.$popup
 ||sentanapoker.$third-party
 ||sentapoker.$third-party
 ||sentosa88.$popup
@@ -2213,7 +2211,7 @@
 ||sumberqq.$third-party
 ||sundul99.$popup
 ||sundul99.$third-party
-||sundulqq.$popup,third-party
+||sundulqq.$popup
 ||sundulqq.$third-party
 ||sunpoker.com^$third-party
 ||sunshine-poker.com^$third-party
@@ -2491,7 +2489,7 @@
 ||totojt.com^$third-party
 ||totoking.$third-party
 ||totokini.$third-party
-||totokita.$popup,third-party
+||totokita.$popup
 ||totokita.$third-party
 ||totokl.$third-party
 ||totomaster.com^$third-party
@@ -2665,7 +2663,6 @@
 ||ysbjaya.$third-party
 ||ysbjaya88.$popup
 ||ysbjaya88.$third-party
-||ysbjaya88.org^$popup,third-party
 ||zenbola.$popup
 ||zenbola.$third-party
 ||zeushoki.$third-party
