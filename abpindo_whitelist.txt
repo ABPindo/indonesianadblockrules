@@ -1,8 +1,12 @@
-@@.png$image,domain=komikstation.com|www.biargreget.top
+@@.png$image,domain=komikstation.com|shirosafe.web.id|www.biargreget.top|www.komikindo.web.id
+@@/adaffiliate_/$domain=shirosafe.web.id
 @@||biargreget.top^$generichide
+@@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
 @@||kumpulmanga.org/wp-content/themes/RemIcyV2/lib/js/advertisement.js$script,domain=kumpulmanga.org
 @@||mangasave.us^$generichide
+@@||shirosafe.web.id^$generichide
+@@||www.duosia.id/wp-content/cache/min/1/wp-content/themes/jannah/assets/js/advertisement-$script,domain=www.duosia.id
 !@@||eramuslim.com^$generichide
 @@.png$image,domain=awsubs.co|dutaislam.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|www.klikshowtime.com
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv

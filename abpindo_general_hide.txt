@@ -3,7 +3,9 @@
 ###ad_divLeft
 ~4udrama.com###adplayer
 ###ads-pop
+~anibatch.id,~cinemamkv.net,~cinemamkv.xyz,~kurikulum.co.id,~paraedu.id###adsense
 ###adv-placeholder
+~bagilagi.com,~kangibay.net###banner_ad
 ###bireklam
 ###bottom_exclusive_ads
 ###btm_banner
@@ -43,6 +45,7 @@
 ###srcadsurlblock
 ###teaser2
 ###teaser3
+~eramuslim.com###topAd
 ###top_ad_full
 ###tupiklan
 ##.SectionAds
@@ -53,13 +56,16 @@
 ##.ads-container
 ##.ads-pop
 ##.ads__side
+~anibatch.id##.adsbox
 ##.adsbymgid
 ##.adsbyrunactive
 ##.adspace_300
 ##.adtext01
 ##.adunits.ads
+~aplikasipc.com##.afs_ads
 ##.bgads
 ##.bireklam
+~indoxx1.club##.content-kuss-ads
 ##.disads300px
 ##.fake_player
 ##.forads
@@ -79,7 +85,7 @@
 ##.idmuvi-topbanner-aftermenu
 ##.idmuvi-topbanner-archive
 ##.idmuvi-topplayer
-~awsubs.co,~kontan.co.id,~manteb.in,~securitylink.biz##.iklan
+~awsubs.co,~bioskop45.com,~kontan.co.id,~manteb.in,~securitylink.biz##.iklan
 ##.iklan-bawah
 ##.iklan-kanan
 ##.iklan-kiri

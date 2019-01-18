@@ -19,7 +19,6 @@ harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 dapurpacu.com###ads-vert-300
-~anibatch.id,~cinemamkv.net,~cinemamkv.xyz,~paraedu.id###adsense
 bioskopgaul.com###adsimgxatas
 tvkabel.net###adv
 www.streamingbokeps.co###advertisement
@@ -33,7 +32,6 @@ tempointeraktif.com###banner-bawah
 duniaku.net###banner-popup-desktop
 filmbagus88.net###banner-right
 panduanpercuma.info###banner125
-~bagilagi.com,~kangibay.net###banner_ad
 hdtvku.com###bannerkategoriheader
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
 tribunnews.com###bannerku
@@ -199,7 +197,6 @@ indotelko.com###title_kanal
 ganool.watch,kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,sinemaindo.web.id###top-banner
 layarxxi.online###top-banner-content
 indoxxi.tv,xx1.tv###top-bnner-content
-~eramuslim.com###topAd
 detik.com###top_banner
 blogspot.com,jakbos.com###topbar
 tvkabel.net###tutup
@@ -252,8 +249,8 @@ grid.id##.ads_sky
 antaranews.com##.ads_top_728
 ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
-~anibatch.id##.adsbox
 majalahikan.com##.adsbygoogle
+www.pontianakpost.co.id##.adsense
 www.ganol.si##.adsincenter
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
@@ -261,7 +258,6 @@ mangaku.in,mangaku.web.id##.adv
 dramacool.io,dramanice.io,k-vid.com##.adv-space
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
-~aplikasipc.com##.afs_ads
 indoxtream.com##.aligncenter
 bokep.click##.alignnone
 palingseru.com##.alignnone.size-large.wp-image-458
@@ -344,7 +340,6 @@ tempo.co##.closebanner2
 ganool.is,ganool.ph,ganool.se,ganool.st##.col-xs-12.col-md-6.col-lg-6
 indoxxi.net##.coliklan
 tribunnews.com##.content [style="width:160px; height:600px;"]
-~indoxx1.club##.content-kuss-ads
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
@@ -371,7 +366,6 @@ cmovieshd.se##.hidden-xs
 bioskop21.co##.hilang2
 bioskop168.co,semi168.club##.home.border
 mangaku.in##.iframeiklan
-~bioskop45.com##.iklan
 kosmo.com.my##.iklan-puff
 ainimeindo.com##.iklan300
 kosmo.com.my##.iklanBox

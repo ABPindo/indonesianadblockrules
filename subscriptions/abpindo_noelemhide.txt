@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EQR3Dqux0kIHR63n+dzeRA
+! Checksum: 07LDqA3dqYJmVuXipb8omA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 Januari 17, 06:04:49
+! Last modified: 2019 Januari 18, 14:44:47
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -198,6 +198,7 @@
 ||pasariklanbaris.com^$third-party
 ||paypopup.com^$third-party
 ||pippio.com^$third-party
+||pndelfast.com^
 ||pondokiklan.com^$third-party
 ||popclck.net^$popup,third-party
 ||popunderjs.club^$popup,third-party
@@ -312,6 +313,7 @@
 /uploads/iklan/*
 /usaha-berhasil.gif|
 /usahaberhasil.gif|
+/wp-content/plugins/wp-adblock-dedect/js/dedect.js$script
 iklan300x250.gif|
 ! *** abpindo_specific_block.txt ***
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
@@ -543,20 +545,30 @@ iklan300x250.gif|
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
-kompas.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
-kompas.com,tribunnews.com## + js(abort-on-property-read.js, $getWin)
-cinemamkv.net## + js(abort-on-property-read.js, go_get_url)
-cinemamkv.net## + js(nowebrtc.js)
-cinemamkv.net## + js(set-constant.js, _ocads, noopFunc)
 cinemamkv.*##+js(abort-on-property-read.js, go_get_url)
 cinemamkv.*##+js(nowebrtc.js)
 cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
+cinemamkv.net## + js(abort-on-property-read.js, go_get_url)
+cinemamkv.net## + js(nowebrtc.js)
+cinemamkv.net## + js(set-constant.js, _ocads, noopFunc)
+ganol.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+ganol.*##+js(nowebrtc.js)
+ganol.*##+js(setInterval-defuser.js, (), 500)
+ganool.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+ganool.*##+js(nowebrtc.js)
+ganool.*##+js(setInterval-defuser.js, (), 500)
+kompas.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
+kompas.com,tribunnews.com## + js(abort-on-property-read.js, $getWin)
 ! *** abpindo_whitelist.txt ***
-@@.png$image,domain=komikstation.com|www.biargreget.top
+@@.png$image,domain=komikstation.com|shirosafe.web.id|www.biargreget.top|www.komikindo.web.id
+@@/adaffiliate_/$domain=shirosafe.web.id
 @@||biargreget.top^$generichide
+@@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
 @@||kumpulmanga.org/wp-content/themes/RemIcyV2/lib/js/advertisement.js$script,domain=kumpulmanga.org
 @@||mangasave.us^$generichide
+@@||shirosafe.web.id^$generichide
+@@||www.duosia.id/wp-content/cache/min/1/wp-content/themes/jannah/assets/js/advertisement-$script,domain=www.duosia.id
 !@@||eramuslim.com^$generichide
 @@.png$image,domain=awsubs.co|dutaislam.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|www.klikshowtime.com
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
