@@ -1,5 +1,8 @@
 !@@||eramuslim.com^$generichide
-@@.png$image,domain=awsubs.co|dutaislam.com|komikstation.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
+@@.png$image,domain=awsubs.co|dutaislam.com|idsly.net|komikstation.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
+@@apkmod.id^$generichide
+@@idsly.net^$generichide
+@@nama.web.id^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
@@ -41,6 +44,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=www.datasekolah.co.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||riauonline.co.id^$generichide
+@@||rukim.id/wp-content/themes/jannah/assets/js/advertisement.js$script,~third-party
 @@||sdrama.com^$generichide
 @@||shirosafe.web.id^$generichide
 @@||teknologilink.com/js/advertisement.js$script,~third-party
