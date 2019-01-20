@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 6cqbLBn0kveTM0h8LrA48g
+! Checksum: pfh/uuQIj74NtSokmieGjQ
 ! Title: ABPindo
-! Last modified: 2019 Januari 19, 20:46:33
+! Last modified: 2019 Januari 20, 20:34:09
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -686,7 +686,7 @@ ganol.*##+js(setInterval-defuser.js, (), 500)
 ganool.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 ganool.*##+js(nowebrtc.js)
 ganool.*##+js(setInterval-defuser.js, (), 500)
-kompas.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
+kompas.com,tribunnews.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
 kompas.com,tribunnews.com## + js(abort-on-property-read.js, $getWin)
 oload.*##+js(openload.co.js)
 oload.*##+js(window.open-defuser.js)
