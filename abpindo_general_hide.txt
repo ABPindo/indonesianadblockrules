@@ -3,6 +3,8 @@
 ###ad_divLeft
 ~4udrama.com###adplayer
 ###ads-pop
+###ads_banner_left
+###ads_banner_right
 ~anibatch.id,~cinemamkv.net,~cinemamkv.xyz,~kurikulum.co.id,~paraedu.id###adsense
 ###adv-placeholder
 ~bagilagi.com,~kangibay.net###banner_ad
@@ -63,7 +65,7 @@
 ##.adspace_300
 ##.adtext01
 ##.adunits.ads
-~aplikasipc.com##.afs_ads
+~aplikasipc.com,~fmlawkers.club##.afs_ads
 ##.bgads
 ##.bireklam
 ~indoxx1.club##.content-kuss-ads

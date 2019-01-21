@@ -1,5 +1,5 @@
 !@@||eramuslim.com^$generichide
-@@.png$image,domain=awsubs.co|dutaislam.com|idsly.net|komikstation.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
+@@.png$image,domain=anisubindo.video|awsubs.co|dutaislam.com|idsly.net|komikstation.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
 @@apkmod.id^$generichide
 @@idsly.net^$generichide
 @@nama.web.id^$generichide
@@ -11,6 +11,7 @@
 @@||adturl.us^$generichide
 @@||ainodorama.web.id^$generichide
 @@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js$script,domain=smallencode.com
+@@||anisubindo.$generichide
 @@||asiancine.com^$generichide
 @@||biargreget.top^$generichide
 @@||cat3movie.us^$generichide
@@ -34,6 +35,7 @@
 @@||majalahikan.com^$generichide
 @@||mangasave.us^$generichide
 @@||mivo.com^$generichide
+@@||nekonime.$generichide
 @@||nekopoi.*/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
