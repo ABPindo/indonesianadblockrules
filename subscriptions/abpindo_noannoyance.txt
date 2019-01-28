@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: z4xrJSkiTy43MXX/f9mXvw
+! Checksum: 1RJNVx30omWStlRaL19GJw
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 Januari 21, 20:03:57
+! Last modified: 2019 Januari 28, 20:37:44
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -102,6 +102,7 @@
 ||fonderreaders.info^$popup,third-party
 ||forumiklan.com^$third-party
 ||furocmay.com^$popup
+||fuxoasim.link^
 ||gahhlbxdgw.com^$popup,third-party
 ||gehzj.com^$third-party
 ||gjeyqtunbnap.com^$popup,third-party
@@ -323,7 +324,7 @@ iklan300x250.gif|
 ###ads-pop
 ###ads_banner_left
 ###ads_banner_right
-~anibatch.id,~cinemamkv.net,~cinemamkv.xyz,~kurikulum.co.id,~paraedu.id###adsense
+~anibatch.id,~cinemamkv.net,~cinemamkv.xyz,~gurusd.web.id,~kurikulum.co.id,~paraedu.id###adsense
 ###adv-placeholder
 ~bagilagi.com,~kangibay.net###banner_ad
 ###bireklam
@@ -511,6 +512,7 @@ iklan300x250.gif|
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||dunia21.*/assets/*.gif$image
 ||duniasex.ws/banner-
+||dwanonton.*/wp-content/uploads/*.gif$image
 ||ebsoft.web.id/wp-content/banners/
 ||eramuslim.com/banners
 ||ewetot.com^$image,object,domain=bintangmawar.net
@@ -689,6 +691,8 @@ ganol.*##+js(setInterval-defuser.js, (), 500)
 ganool.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 ganool.*##+js(nowebrtc.js)
 ganool.*##+js(setInterval-defuser.js, (), 500)
+komikcast.com## + js(abort-on-property-read.js, document.onclick)
+komikcast.com## + js(addEventListener-defuser.js, load, onload)
 kompas.com,tribunnews.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
 kompas.com,tribunnews.com## + js(abort-on-property-read.js, $getWin)
 oload.*##+js(openload.co.js)
@@ -965,7 +969,7 @@ myasiantv.se##.av-content-full
 nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 nanime.in##.banner
 dewabioskop21.asia,dewabioskop21.org,www.dewabioskop21.org##.banner-left
-www.dewabioskop21.org##.banner-middle
+dewabioskop21.org,www.dewabioskop21.org##.banner-middle
 dewabioskop21.asia,dewabioskop21.org,www.dewabioskop21.org##.banner-right
 dream.co.id##.banner-sc2
 modifikasi.com##.banner-top
@@ -996,6 +1000,7 @@ modifikasi.com##.bannerpos
 nontonme.com##.banners
 nontonmovie.web.id,videocrot.org##.bannersinglefot
 elde.tv##.bannerwrap
+inet.detik.com##.bb_banner
 bharian.com.my##.bh-ad
 bharian.com.my##.block-bh-googledfp
 neonime.net##.block-player
@@ -1074,7 +1079,7 @@ awsubs.co##.iklansamping
 ld2tv.com##.img-banner
 cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21tv.com,nonton21.net##.img-responsive
 animeindo.video,animeindo.web.id##.in_up_ad-area
-ganoollk21.info##.inner-floatbanner-bottom
+ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
 kompas.com##.kcm__horizontal.kcm

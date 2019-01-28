@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GDMw7h4HT2l7gxSz1AT+7w
+! Checksum: NBOmYYNUmTDWbXvE3dcGgg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 Januari 21, 20:03:57
+! Last modified: 2019 Januari 28, 20:37:44
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -102,6 +102,7 @@
 ||fonderreaders.info^$popup,third-party
 ||forumiklan.com^$third-party
 ||furocmay.com^$popup
+||fuxoasim.link^
 ||gahhlbxdgw.com^$popup,third-party
 ||gehzj.com^$third-party
 ||gjeyqtunbnap.com^$popup,third-party
@@ -380,6 +381,7 @@ iklan300x250.gif|
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||dunia21.*/assets/*.gif$image
 ||duniasex.ws/banner-
+||dwanonton.*/wp-content/uploads/*.gif$image
 ||ebsoft.web.id/wp-content/banners/
 ||eramuslim.com/banners
 ||ewetot.com^$image,object,domain=bintangmawar.net
@@ -558,6 +560,8 @@ ganol.*##+js(setInterval-defuser.js, (), 500)
 ganool.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 ganool.*##+js(nowebrtc.js)
 ganool.*##+js(setInterval-defuser.js, (), 500)
+komikcast.com## + js(abort-on-property-read.js, document.onclick)
+komikcast.com## + js(addEventListener-defuser.js, load, onload)
 kompas.com,tribunnews.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
 kompas.com,tribunnews.com## + js(abort-on-property-read.js, $getWin)
 oload.*##+js(openload.co.js)
@@ -3318,18 +3322,21 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 -hokiqq-
 -incarqq.
 -indopokerlink-
--JakartaQQ-
+-jakartaqq-
+-jakartaqq.
 -jasaqq-
 -jasaqq.
+-ligacapsa-
+-ligapoker-
 -misiqq-
 -mutiarapoker.gif|
--Pokerindo-
+-pokerindo-
 -rajacapsa.
 -rgocasino-
 -rgocasino.
 -sponsorqq.
 -tiketbet.
--Transpoker.
+-transpoker.
 -tugupoker-
 -tugupoker.
 -visitogel.
@@ -3341,15 +3348,16 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /28bet.
 /388poker.
 /899cash.
-/Abgqq-
+/abgqq-
 /abgqq.
 /abgqqnew.
 /acerpoker.
 /acmbet.
 /afapkr.
-/AFAPOKER-
+/afapoker-
 /afapoker.
-/AFAPOKER_
+/afapoker_
+/afapokersky.
 /afatogel-
 /agen688.
 /agenbola.
@@ -3362,7 +3370,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /agungpoker.
 /ahliqq.
 /alampoker.
-/amanQQ.
+/amanqq.
 /anekaqq.
 /angkajitutogel.
 /angkakembar.
@@ -3370,7 +3378,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /aoncash-
 /aoncash.
 /areabola.
-/ArmaniQQ.
+/armaniqq.
 /armanitogel.
 /asia88bet.
 /asian4d.
@@ -3392,7 +3400,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /bandarpoker.
 /bandarq-
 /bandarq.
-/BANDARQ168.
+/bandarq168.
 /bandarqq.
 /bandarqq365.
 /bandarqterpercaya.
@@ -3402,7 +3410,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /beliqq.
 /benderapoker.
 /bet2indo-
-/BET2POKER-
+/bet2poker-
 /bet365.
 /betawiqq.
 /bethost24.
@@ -3415,6 +3423,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /bolped77.
 /bosbobet.
 /bospoker.
+/bosqq.
 /brotogel.
 /bsakong1.
 /bsakong2.
@@ -3431,7 +3440,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /daftarqq.
 /daftartogelonline.
 /dahsyatqq.
-/DamQQ.
+/damqq.
 /danaqq.
 /demenqq-
 /depoqq-
@@ -3461,7 +3470,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /doyanqq.
 /dracobets.
 /dragonpoker.
-/DuniaSarana.
+/duniasarana.
 /elangbola.
 /elangcapsa.
 /elangqq-
@@ -3469,7 +3478,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /emasbet-
 /emasbet.
 /emoqq-
-/EradominoQQ.
+/eradominoqq.
 /eyang-togel-
 /eze99.
 /ezebet-
@@ -3498,7 +3507,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /hoki-qq-
 /hoki365.
 /hokibandarq.
-/Hokibet-
+/hokibet-
 /hokibet365.
 /hokicapsa.
 /hokinewmay.
@@ -3515,7 +3524,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /hoyapoker.
 /hoyapoker99.
 /ibcqq.
-/IbcWin.
+/ibcwin.
 /ibet44s.
 /ibobandarq.
 /ibuqq.-abgqq.
@@ -3525,7 +3534,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /iklanqq.
 /iklanx.
 /imcpkr.
-/Imcpoker-
+/imcpoker-
 /imcpoker.
 /incarqq.
 /indorajaqq.
@@ -3536,7 +3545,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /intanbet.
 /intanqq.
 /interwin.
-/ISIQQ-
+/isiqq-
 /istana168.
 /istana3.
 /itubandar.
@@ -3545,8 +3554,8 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /itupoker-
 /itupoker.
 /ituqq.
-/ItuToto.
-/IvoPoker.
+/itutoto.
+/ivopoker.
 /jagoanpoker.
 /jagodomino.
 /jalanalternatif.
@@ -3564,9 +3573,10 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /jayamania.
 /jempolqq-
 /jendralpoker.
+/joindomino.
 /jokermerah.
 /jokerqq.
-/Josbet-
+/josbet-
 /josbet.
 /josbet88-
 /jpbet.
@@ -3606,7 +3616,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /liganation.
 /ligapoker.
 /lintasqq.
-/Live-Casino.
+/live-casino.
 /lobbyqq.
 /lobyqq.
 /lotustogel.
@@ -3621,8 +3631,9 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /mainqiu.
 /mainqq-
 /mainqq.
+/majuqq.
 /mamatogel.
-/MANIAQQ-
+/maniaqq-
 /maniaqq.
 /marina-365.
 /master138.
@@ -3664,7 +3675,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /obobet-
 /obobet.
 /okebos.
-/OLOPOKER-
+/olopoker-
 /omdomino.
 /ompokerasia.
 /opuspoker-
@@ -3672,7 +3683,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /orientalpoker.
 /pamelapoker.
 /panenpoker.
-/Pangerantoto1.
+/pangerantoto1.
 /pantauqq.
 /papabet.
 /papadewa.
@@ -3686,7 +3697,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /pialabet.
 /pialaqq.
 /poker021.
-/POKERASTRO-
+/pokerastro-
 /pokerastro.
 /pokerbola.
 /pokerboya.
@@ -3719,7 +3730,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /rajacapsa-
 /rajacapsa.
 /rajajudiqq-
-/Rajanusantara.
+/rajanusantara.
 /rajapoker.
 /rajasakong88.
 /rajatogel88-
@@ -3734,14 +3745,15 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /rgo-casino-
 /rgo-poker-
 /rgobet.
-/RGOBET_
+/rgobet_
 /rgobetnew.
+/rgosky.
 /royalbola.
 /royaljackpot.
-/RoyalKasino.
+/royalkasino.
 /royalpoker99.
 /rumahbokep.
-/Sahabat-Arena-
+/sahabat-arena-
 /sahabatarena.
 /sahamdomino.
 /saranapoker.
@@ -3821,9 +3833,9 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /wedeqq.
 /wigo-bet-
 /wigo-bet.
-/WIGOBET-
+/wigobet-
 /wigobet.
-/WIGOBETNEW.
+/wigobetnew.
 /window-close.
 /winning365-
 /winpoker789.

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HX+p2yMomOhx7W15qLdD0A
+! Checksum: bJu8Es1FMXez136L1rcBgA
 ! Title: ABPindo_tanpanawala sekarang menjadi ABPindo_noannoyance
-! Last modified: 2019 Januari 21, 20:03:57
+! Last modified: 2019 Januari 28, 20:37:45
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -103,6 +103,7 @@
 ||fonderreaders.info^$popup,third-party
 ||forumiklan.com^$third-party
 ||furocmay.com^$popup
+||fuxoasim.link^
 ||gahhlbxdgw.com^$popup,third-party
 ||gehzj.com^$third-party
 ||gjeyqtunbnap.com^$popup,third-party
@@ -324,7 +325,7 @@ iklan300x250.gif|
 ###ads-pop
 ###ads_banner_left
 ###ads_banner_right
-~anibatch.id,~cinemamkv.net,~cinemamkv.xyz,~kurikulum.co.id,~paraedu.id###adsense
+~anibatch.id,~cinemamkv.net,~cinemamkv.xyz,~gurusd.web.id,~kurikulum.co.id,~paraedu.id###adsense
 ###adv-placeholder
 ~bagilagi.com,~kangibay.net###banner_ad
 ###bireklam
@@ -512,6 +513,7 @@ iklan300x250.gif|
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||dunia21.*/assets/*.gif$image
 ||duniasex.ws/banner-
+||dwanonton.*/wp-content/uploads/*.gif$image
 ||ebsoft.web.id/wp-content/banners/
 ||eramuslim.com/banners
 ||ewetot.com^$image,object,domain=bintangmawar.net
@@ -690,6 +692,8 @@ ganol.*##+js(setInterval-defuser.js, (), 500)
 ganool.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 ganool.*##+js(nowebrtc.js)
 ganool.*##+js(setInterval-defuser.js, (), 500)
+komikcast.com## + js(abort-on-property-read.js, document.onclick)
+komikcast.com## + js(addEventListener-defuser.js, load, onload)
 kompas.com,tribunnews.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
 kompas.com,tribunnews.com## + js(abort-on-property-read.js, $getWin)
 oload.*##+js(openload.co.js)
@@ -966,7 +970,7 @@ myasiantv.se##.av-content-full
 nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 nanime.in##.banner
 dewabioskop21.asia,dewabioskop21.org,www.dewabioskop21.org##.banner-left
-www.dewabioskop21.org##.banner-middle
+dewabioskop21.org,www.dewabioskop21.org##.banner-middle
 dewabioskop21.asia,dewabioskop21.org,www.dewabioskop21.org##.banner-right
 dream.co.id##.banner-sc2
 modifikasi.com##.banner-top
@@ -997,6 +1001,7 @@ modifikasi.com##.bannerpos
 nontonme.com##.banners
 nontonmovie.web.id,videocrot.org##.bannersinglefot
 elde.tv##.bannerwrap
+inet.detik.com##.bb_banner
 bharian.com.my##.bh-ad
 bharian.com.my##.block-bh-googledfp
 neonime.net##.block-player
@@ -1075,7 +1080,7 @@ awsubs.co##.iklansamping
 ld2tv.com##.img-banner
 cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21tv.com,nonton21.net##.img-responsive
 animeindo.video,animeindo.web.id##.in_up_ad-area
-ganoollk21.info##.inner-floatbanner-bottom
+ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
 kompas.com##.kcm__horizontal.kcm
@@ -4480,6 +4485,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://indobet77."]
 ##a[href^="http://indobola88a."]
 ##a[href^="http://indodewa365."]
+##a[href^="http://indodingdong."]
 ##a[href^="http://indokiu."]
 ##a[href^="http://indomaxb."]
 ##a[href^="http://indomb."]
@@ -5206,6 +5212,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.maxbbm."]
 ##a[href^="http://www.maxisbet."]
 ##a[href^="http://www.mediaqq."]
+##a[href^="http://www.megaqq."]
 ##a[href^="http://www.mejajoker."]
 ##a[href^="http://www.mgmcash88."]
 ##a[href^="http://www.mgmdomino."]
@@ -5317,6 +5324,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.unikpoker."]
 ##a[href^="http://www.unogoal88."]
 ##a[href^="http://www.usahatoto."]
+##a[href^="http://www.vegas1001."]
 ##a[href^="http://www.venombet."]
 ##a[href^="http://www.vimaxasli."]
 ##a[href^="http://www.vimaxcentral."]
@@ -5811,18 +5819,21 @@ zonabola.*##a[href^="http://bit.ly/"]
 -hokiqq-
 -incarqq.
 -indopokerlink-
--JakartaQQ-
+-jakartaqq-
+-jakartaqq.
 -jasaqq-
 -jasaqq.
+-ligacapsa-
+-ligapoker-
 -misiqq-
 -mutiarapoker.gif|
--Pokerindo-
+-pokerindo-
 -rajacapsa.
 -rgocasino-
 -rgocasino.
 -sponsorqq.
 -tiketbet.
--Transpoker.
+-transpoker.
 -tugupoker-
 -tugupoker.
 -visitogel.
@@ -5834,15 +5845,16 @@ zonabola.*##a[href^="http://bit.ly/"]
 /28bet.
 /388poker.
 /899cash.
-/Abgqq-
+/abgqq-
 /abgqq.
 /abgqqnew.
 /acerpoker.
 /acmbet.
 /afapkr.
-/AFAPOKER-
+/afapoker-
 /afapoker.
-/AFAPOKER_
+/afapoker_
+/afapokersky.
 /afatogel-
 /agen688.
 /agenbola.
@@ -5855,7 +5867,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /agungpoker.
 /ahliqq.
 /alampoker.
-/amanQQ.
+/amanqq.
 /anekaqq.
 /angkajitutogel.
 /angkakembar.
@@ -5863,7 +5875,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /aoncash-
 /aoncash.
 /areabola.
-/ArmaniQQ.
+/armaniqq.
 /armanitogel.
 /asia88bet.
 /asian4d.
@@ -5885,7 +5897,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /bandarpoker.
 /bandarq-
 /bandarq.
-/BANDARQ168.
+/bandarq168.
 /bandarqq.
 /bandarqq365.
 /bandarqterpercaya.
@@ -5895,7 +5907,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /beliqq.
 /benderapoker.
 /bet2indo-
-/BET2POKER-
+/bet2poker-
 /bet365.
 /betawiqq.
 /bethost24.
@@ -5908,6 +5920,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /bolped77.
 /bosbobet.
 /bospoker.
+/bosqq.
 /brotogel.
 /bsakong1.
 /bsakong2.
@@ -5924,7 +5937,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /daftarqq.
 /daftartogelonline.
 /dahsyatqq.
-/DamQQ.
+/damqq.
 /danaqq.
 /demenqq-
 /depoqq-
@@ -5954,7 +5967,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /doyanqq.
 /dracobets.
 /dragonpoker.
-/DuniaSarana.
+/duniasarana.
 /elangbola.
 /elangcapsa.
 /elangqq-
@@ -5962,7 +5975,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /emasbet-
 /emasbet.
 /emoqq-
-/EradominoQQ.
+/eradominoqq.
 /eyang-togel-
 /eze99.
 /ezebet-
@@ -5991,7 +6004,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /hoki-qq-
 /hoki365.
 /hokibandarq.
-/Hokibet-
+/hokibet-
 /hokibet365.
 /hokicapsa.
 /hokinewmay.
@@ -6008,7 +6021,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /hoyapoker.
 /hoyapoker99.
 /ibcqq.
-/IbcWin.
+/ibcwin.
 /ibet44s.
 /ibobandarq.
 /ibuqq.-abgqq.
@@ -6018,7 +6031,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /iklanqq.
 /iklanx.
 /imcpkr.
-/Imcpoker-
+/imcpoker-
 /imcpoker.
 /incarqq.
 /indorajaqq.
@@ -6029,7 +6042,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /intanbet.
 /intanqq.
 /interwin.
-/ISIQQ-
+/isiqq-
 /istana168.
 /istana3.
 /itubandar.
@@ -6038,8 +6051,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 /itupoker-
 /itupoker.
 /ituqq.
-/ItuToto.
-/IvoPoker.
+/itutoto.
+/ivopoker.
 /jagoanpoker.
 /jagodomino.
 /jalanalternatif.
@@ -6057,9 +6070,10 @@ zonabola.*##a[href^="http://bit.ly/"]
 /jayamania.
 /jempolqq-
 /jendralpoker.
+/joindomino.
 /jokermerah.
 /jokerqq.
-/Josbet-
+/josbet-
 /josbet.
 /josbet88-
 /jpbet.
@@ -6099,7 +6113,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /liganation.
 /ligapoker.
 /lintasqq.
-/Live-Casino.
+/live-casino.
 /lobbyqq.
 /lobyqq.
 /lotustogel.
@@ -6114,8 +6128,9 @@ zonabola.*##a[href^="http://bit.ly/"]
 /mainqiu.
 /mainqq-
 /mainqq.
+/majuqq.
 /mamatogel.
-/MANIAQQ-
+/maniaqq-
 /maniaqq.
 /marina-365.
 /master138.
@@ -6157,7 +6172,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /obobet-
 /obobet.
 /okebos.
-/OLOPOKER-
+/olopoker-
 /omdomino.
 /ompokerasia.
 /opuspoker-
@@ -6165,7 +6180,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /orientalpoker.
 /pamelapoker.
 /panenpoker.
-/Pangerantoto1.
+/pangerantoto1.
 /pantauqq.
 /papabet.
 /papadewa.
@@ -6179,7 +6194,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /pialabet.
 /pialaqq.
 /poker021.
-/POKERASTRO-
+/pokerastro-
 /pokerastro.
 /pokerbola.
 /pokerboya.
@@ -6212,7 +6227,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /rajacapsa-
 /rajacapsa.
 /rajajudiqq-
-/Rajanusantara.
+/rajanusantara.
 /rajapoker.
 /rajasakong88.
 /rajatogel88-
@@ -6227,14 +6242,15 @@ zonabola.*##a[href^="http://bit.ly/"]
 /rgo-casino-
 /rgo-poker-
 /rgobet.
-/RGOBET_
+/rgobet_
 /rgobetnew.
+/rgosky.
 /royalbola.
 /royaljackpot.
-/RoyalKasino.
+/royalkasino.
 /royalpoker99.
 /rumahbokep.
-/Sahabat-Arena-
+/sahabat-arena-
 /sahabatarena.
 /sahamdomino.
 /saranapoker.
@@ -6314,9 +6330,9 @@ zonabola.*##a[href^="http://bit.ly/"]
 /wedeqq.
 /wigo-bet-
 /wigo-bet.
-/WIGOBET-
+/wigobet-
 /wigobet.
-/WIGOBETNEW.
+/wigobetnew.
 /window-close.
 /winning365-
 /winpoker789.

@@ -62,6 +62,7 @@
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||dunia21.*/assets/*.gif$image
 ||duniasex.ws/banner-
+||dwanonton.*/wp-content/uploads/*.gif$image
 ||ebsoft.web.id/wp-content/banners/
 ||eramuslim.com/banners
 ||ewetot.com^$image,object,domain=bintangmawar.net
@@ -240,6 +241,8 @@ ganol.*##+js(setInterval-defuser.js, (), 500)
 ganool.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 ganool.*##+js(nowebrtc.js)
 ganool.*##+js(setInterval-defuser.js, (), 500)
+komikcast.com## + js(abort-on-property-read.js, document.onclick)
+komikcast.com## + js(addEventListener-defuser.js, load, onload)
 kompas.com,tribunnews.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
 kompas.com,tribunnews.com## + js(abort-on-property-read.js, $getWin)
 oload.*##+js(openload.co.js)
