@@ -14,6 +14,7 @@
 %include abpindo_thirdparty.txt%
 %include abpindo_general_block.txt%
 %include abpindo_specific_block.txt%
+%include abpindo_specific_ublock.txt%
 %include abpindo_whitelist.txt%
 %include abpindo_annoyance_thirdparty.txt%
 %include abpindo_annoyance_general_block.txt%
