@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NBOmYYNUmTDWbXvE3dcGgg
+! Checksum: LmBFWp0UM9riSXynVmWTXQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 Januari 28, 20:37:44
+! Last modified: 2019 Februari 01, 07:05:47
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -86,6 +86,7 @@
 ||divisix.org^$popup,third-party
 ||download.televisionfanatic.com^$popup
 ||doyan-99.com^$popup,third-party
+||drda5yf9kgz5p.cloudfront.net^
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com^$popup,third-party
 ||dzbx8qv1at614.cloudfront.net^
@@ -548,6 +549,7 @@ iklan300x250.gif|
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
+animeindo.moe## + js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 cinemamkv.*##+js(abort-on-property-read.js, go_get_url)
 cinemamkv.*##+js(nowebrtc.js)
 cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
@@ -560,14 +562,17 @@ ganol.*##+js(setInterval-defuser.js, (), 500)
 ganool.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 ganool.*##+js(nowebrtc.js)
 ganool.*##+js(setInterval-defuser.js, (), 500)
+justjared.com## + js(abort-on-property-read.js, $getWin)
 komikcast.com## + js(abort-on-property-read.js, document.onclick)
 komikcast.com## + js(addEventListener-defuser.js, load, onload)
-kompas.com,tribunnews.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
-kompas.com,tribunnews.com## + js(abort-on-property-read.js, $getWin)
+kompas.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
+kompas.com## + js(abort-on-property-read.js, $getWin)
+nimeindo.*##+js(setInterval-defuser.js, (), 500)
 oload.*##+js(openload.co.js)
 oload.*##+js(window.open-defuser.js)
 overlordfree.web.id## + js(abort-on-property-write.js, ai_adb_overlay)
 overlordfree.web.id## + js(set-constant.js, showAds, true)
+tribunnews.com## + js(abort-on-property-read.js, $getWin)
 ! *** abpindo_whitelist.txt ***
 !@@||eramuslim.com^$generichide
 @@.png$image,domain=anisubindo.video|awsubs.co|dutaislam.com|idsly.net|komikstation.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
@@ -597,6 +602,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 @@||eirudo.com^$generichide
 @@||hightech.web.id^$generichide
 @@||idsly.co/webroot/js/ads.js$script,~third-party
+@@||indexmovie.download^$generichide
 @@||klikshowtime.com^$generichide
 @@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$image,~third-party
 @@||komikcast.com^$generichide
@@ -3334,6 +3340,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 -rajacapsa.
 -rgocasino-
 -rgocasino.
+-sirajaqq-
 -sponsorqq.
 -tiketbet.
 -transpoker.
@@ -3536,6 +3543,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /imcpkr.
 /imcpoker-
 /imcpoker.
+/imcqq.
 /incarqq.
 /indorajaqq.
 /indowin99.
@@ -3602,6 +3610,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /langitqq.
 /lapakpoker.
 /lapakqq.
+/LAYARQQ.
 /lazabet-
 /lazabet.
 /lazacasino.
@@ -3660,6 +3669,7 @@ overlordfree.web.id## + js(set-constant.js, showAds, true)
 /musimqq.
 /musimqq300.
 /mustikapoker-
+/mutiarapoker-
 /mutiarapoker.
 /muvibet-
 /muvibet.

@@ -26,6 +26,7 @@
 @@||eirudo.com^$generichide
 @@||hightech.web.id^$generichide
 @@||idsly.co/webroot/js/ads.js$script,~third-party
+@@||indexmovie.download^$generichide
 @@||klikshowtime.com^$generichide
 @@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$image,~third-party
 @@||komikcast.com^$generichide
