@@ -79,6 +79,7 @@ remo-xp.com###float-right
 moviebaru21.com###floatads1
 komiku.net###floatads2
 komiku.net###floatads3
+nontonsini.com###floatbawah
 sinemaindo.web.id###floatbtmleft
 awsubs.co###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
@@ -131,6 +132,7 @@ cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer
 indotelko.com###more_stories
 fastdrama.co###myModal
 hdtvku.com###mybannerpopup
+hdtvku.com###mybannerpopup2
 nobartv.com###nbpopx-wrapper
 cafecinema.cc,sidrama.com,www.ibugil.net###netkevin-overlay
 duniasex.co,ibugil.net,sidrama.com###netkevin-popup
@@ -514,6 +516,8 @@ bioskopkeren.*##a[href^="https://bit.ly/"]
 bioskopxxi.*##.ujipopup
 ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .hideviews.bannerslot1
 ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .mainContainer > .mainContent > .hideviews.bannerslot1
+bokepfull.*###kontolbanner
+bokepindoxxx.*##.videoOverAdBig
 bokepml.*##a[href^="http://bit.ly/"]
 bokepml.*##a[href^="http://goo.gl/"]
 bokepngetop.*##a[href^="http://bit.ly/"]

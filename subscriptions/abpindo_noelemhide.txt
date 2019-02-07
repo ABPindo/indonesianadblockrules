@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2NKUO9KQwku/tPKHdkHvmA
+! Checksum: OZUZqVGSa6lm5j0+/zHcVg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 February 04, 08:14:30
+! Last modified: 2019 February 07, 09:07:40
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -544,6 +544,7 @@ iklan300x250.gif|
 ||videocrot.org/wp-content/uploads/*/iklan.gif
 ||www.conan.id/wp-content/uploads/2018/*.gif$image
 ||www.mangacanblog.com/adblock/src/adblock-checker.js
+||www.nontondramas.*/wp-content/uploads/*.gif$image
 ||www.streamingbokeps.*/ngiklan/$image
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
@@ -551,6 +552,9 @@ iklan300x250.gif|
 ! *** abpindo_specific_ublock.txt ***
 ! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
 animeindo.moe##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+animeindo.moe##+js(setInterval-defuser.js, (), 500)
+animeindo.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+animeindo.*##+js(setInterval-defuser.js, (), 500)
 cinemamkv.*##+js(abort-on-property-read.js, go_get_url)
 cinemamkv.*##+js(nowebrtc.js)
 cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
@@ -569,7 +573,6 @@ komikcast.com##+js(addEventListener-defuser.js, load, onload)
 kompas.com##+js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
 kompas.com##+js(abort-on-property-read.js, $getWin)
 kompas.com##^script:has-text(axtd)
-nimeindo.*##+js(setInterval-defuser.js, (), 500)
 oload.*##+js(openload.co.js)
 oload.*##+js(window.open-defuser.js)
 overlordfree.web.id##+js(abort-on-property-write.js, ai_adb_overlay)

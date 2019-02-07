@@ -42,6 +42,7 @@
 ###iklanatas
 ###iklanpersegi
 ###livechat-eye-catcher
+###netkevin-popup
 ###pbanner
 ###popupwindow
 ###srcadsurlblock
@@ -90,6 +91,7 @@
 ##.idmuvi-topplayer
 ~awsubs.co,~bioskop45.com,~kontan.co.id,~manteb.in,~securitylink.biz##.iklan
 ##.iklan-bawah
+##.iklan-bawah-player
 ##.iklan-kanan
 ##.iklan-kiri
 ##.iklan1
