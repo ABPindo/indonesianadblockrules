@@ -16,6 +16,7 @@
 ###fbanner
 ###fbbanner
 ###float-banner.visible-lg
+###float-bottom-banner
 ###floating_banner_bottom
 ###floating_banner_bottoms
 ###floating_banner_left
@@ -121,6 +122,7 @@
 ##.single_ad_728x90
 ##.subiklan
 ##.topadsense
+##.visible-lg
 ~cnet.com##img[alt="Advertisement"]
 ##img[alt="Iklan"]
 ##img[alt="Pasang Iklan Anda Disini"]
