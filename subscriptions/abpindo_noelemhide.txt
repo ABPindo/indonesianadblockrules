@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5JWjhS3EoOn++h5NtTjCIw
+! Checksum: 9XsomUanw7R6hJ5jFISDig
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 February 08, 19:57:54
+! Last modified: 2019 February 10, 14:39:35
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -342,7 +342,7 @@ iklan300x250.gif|
 ||bioskop55.*/wp-content/uploads/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=awsubs.co|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|mangaindo.net|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=awsubs.co|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|mangaindo.net|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
@@ -507,6 +507,7 @@ iklan300x250.gif|
 ||nontonmovie.web.id/banere/*.gif$image
 ||nontonserial.*/wp-content/uploads/*.gif$image
 ||nontonstreaming.co/wp-content/uploads/*.gif
+||nontonsub.*/wp-content/uploads/*.gif$image
 ||noobscript.com^$script,third-party
 ||ns21.*/wp-content/uploads/*.gif$image
 ||ns21.*/wp-includes/js/hoverIntent.min.js
@@ -2205,6 +2206,8 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 ||musimqq.$popup
 ||musimqq.$third-party
 ||musimqq300.$third-party
+||musimqq365.$popup
+||musimqq365.$third-party
 ||musimtogel.$third-party
 ||musimtoto.$third-party
 ||mustika168.$third-party
@@ -3339,6 +3342,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 -jasaqq.
 -ligacapsa-
 -ligapoker-
+-LIGAQQ.
 -misiqq-
 -mutiarapoker.gif|
 -pokerindo-
@@ -3413,6 +3417,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /bandarq-
 /bandarq.
 /bandarq168.
+/bandarq728x90.
 /bandarqq.
 /bandarqq365.
 /bandarqterpercaya.
@@ -3426,6 +3431,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /bet365.
 /betawiqq.
 /bethost24.
+/betking88-
 /betsaja.
 /bianglalaqq.
 /bintangbola.
@@ -3628,6 +3634,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /ligajudi.
 /ligakiukiu.
 /liganation.
+/ligapoker-
 /ligapoker.
 /lintasqq.
 /live-casino.
@@ -3704,6 +3711,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /papadewa.
 /parisbola.
 /parisqq.
+/parisqq728x90.
 /pasangnomor2.
 /pemaintogel.
 /pendekarqq-
