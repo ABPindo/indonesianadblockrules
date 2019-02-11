@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: en4wEngsZWltBJH1eHneww
+! Checksum: XFPKl0mYkz2JBST3LiIcKQ
 ! Title: ABPindo_tanpanawala sekarang menjadi ABPindo_noannoyance
-! Last modified: 2019 February 10, 14:39:36
+! Last modified: 2019 February 11, 14:02:01
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -443,7 +443,6 @@ iklan300x250.gif|
 ##.single_ad_728x90
 ##.subiklan
 ##.topadsense
-##.visible-lg
 ~cnet.com##img[alt="Advertisement"]
 ##img[alt="Iklan"]
 ##img[alt="Pasang Iklan Anda Disini"]
