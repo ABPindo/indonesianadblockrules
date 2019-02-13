@@ -39,7 +39,6 @@
 ||adstars.co.id^$third-party
 ||afbcashidr.com^$popup,third-party
 ||aj1052.online^$popup
-||aj1052.online^$third-party
 ||ajangiklangratis.com^$third-party
 ||alertpay.com^$third-party
 ||ampclicks.com^$popup,third-party
@@ -53,9 +52,8 @@
 ||bellaads.com^$third-party
 ||bmnet-ads.com^$third-party
 ||c-4fambt.com^$third-party
-||cd87c85eb2890d048d2.com^$third-party
 ||cfasync.ga^$popup,third-party
-||chidsimp.com^
+||chidsimp.com^$third-party
 ||cjsab.com^$popup,third-party
 ||clickmedia.co.id^$third-party
 ||cpaclickoffers.com^$popup,third-party
@@ -89,7 +87,6 @@
 ||fonderreaders.info^$popup,third-party
 ||forumiklan.com^$third-party
 ||furocmay.com^$popup
-||fuxoasim.link^
 ||gahhlbxdgw.com^$popup,third-party
 ||gehzj.com^$third-party
 ||gjeyqtunbnap.com^$popup,third-party
@@ -160,7 +157,6 @@
 ||kodealam2.net^$popup,third-party
 ||l9tdhe6.com^$popup,third-party
 ||ld82ydd.com^$popup,third-party
-||liga88.me^$popup,third-party
 ||lokeriklan.com^$third-party
 ||lotus-4d.com^$popup,third-party
 ||macarier.review^$popup,third-party
@@ -186,7 +182,6 @@
 ||pasariklanbaris.com^$third-party
 ||paypopup.com^$third-party
 ||pippio.com^$third-party
-||pndelfast.com^
 ||pondokiklan.com^$third-party
 ||popclck.net^$popup,third-party
 ||popunderjs.club^$popup,third-party
@@ -219,11 +214,9 @@
 ||shiokuda.org^$popup,third-party
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
-||strainemergency.com^$popup
 ||sumberiklan.com^$third-party
 ||surya4d.org^$popup,third-party
 ||suryaiklan.com^$third-party
-||taboola.com^$third-party
 ||teliad.com^$third-party
 ||theclickers.net^$third-party
 ||tinggalklik.com^$third-party
