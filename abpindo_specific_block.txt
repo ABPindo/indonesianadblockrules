@@ -127,6 +127,7 @@
 ||kaskus.com/images/banner-wap/
 ||kdramaindo.*/wp-content/uploads/*.gif$image
 ||kebagi.com/*.gif$image,third-party
+||keepimg.com/*.gif$image,domain=idfl.me
 ||keripikcadas.com/banner/
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
 ||kompas.com/data/banner/

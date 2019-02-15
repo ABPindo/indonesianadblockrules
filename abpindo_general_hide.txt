@@ -57,6 +57,7 @@
 ##.ad-right-image
 ##.ad_primex
 ##.adace-slot
+##.adcontainer
 ##.ads-container
 ##.ads-pop
 ##.ads__side
@@ -68,6 +69,7 @@
 ##.adtext01
 ##.adunits.ads
 ~aplikasipc.com,~fmlawkers.club##.afs_ads
+##.banner-iklan
 ##.bgads
 ##.bireklam
 ~indoxx1.club##.content-kuss-ads
