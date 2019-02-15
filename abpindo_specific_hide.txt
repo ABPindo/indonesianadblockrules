@@ -578,11 +578,11 @@ indomovies.*##a[href^="http://bit.ly/"]
 indomv.*##a[href^="http://bit.ly/"]
 indoxxi.*###home-bnner-content
 indoxxi.*###home-bnner2-content
-indoxxi.*##a[href^="https://bit.ly/"]
+indoxxi.*###jwflag
 indoxxi.*###player-side-left
 indoxxi.*###player-side-right
-indoxxi.*###jwflag
 indoxxi.*###pushnotif
+indoxxi.*##a[href^="https://bit.ly/"]
 layarindo21.*##a[href^="https://bit.ly/"]
 layarkaca21.*###fbanner
 layarkaca21.*###fbbanner
