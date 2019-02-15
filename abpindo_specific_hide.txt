@@ -573,6 +573,10 @@ indomv.*##a[href^="http://bit.ly/"]
 indoxxi.*###home-bnner-content
 indoxxi.*###home-bnner2-content
 indoxxi.*##a[href^="https://bit.ly/"]
+indoxxi.*###player-side-left
+indoxxi.*###player-side-right
+indoxxi.*###jwflag
+indoxxi.*###pushnotif
 layarindo21.*##a[href^="https://bit.ly/"]
 layarkaca21.*###fbanner
 layarkaca21.*###fbbanner
