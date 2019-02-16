@@ -606,6 +606,10 @@ lk21.*###previewBox3
 lk21.*###previewBox4
 lk21.*##.fancybox-skin
 lk21.*##a[href^="http://bit.ly/"]
+lk21.*###float-1-wrap
+lk21.*###float-2-wrap
+lk21.*###float-3-wrap
+lk21.*###float-4-wrap
 mangaku.*##a[href^="https://bit.ly/"]
 nekopoi.*##a[href^="http://bit.ly/"]
 nekopoi.*##div[class^="adsgen"]
