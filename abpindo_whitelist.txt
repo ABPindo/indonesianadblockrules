@@ -58,4 +58,4 @@
 @@||www.duosia.id/wp-content/cache/min/1/wp-content/themes/jannah/assets/js/advertisement-$script,~third-party
 @@||www.google-analytics.com/analytics.js$script,domain=www.pricebook.co.id
 @@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script,~third-party
-@@||cdn.akubebas.com/jw/7.12.6/provider.hlsjs.js$script,domain=indoxxi.bz
+@@||cdn.akubebas.com^$generichide
