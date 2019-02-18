@@ -1,7 +1,5 @@
 |http://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
 |https://$script,third-party,xmlhttprequest,domain=animekita.net|apkfullpro.net|cinemamkv.net|dramaid.com|ganool.is|ganool.sc|ganool.st|ganool.zone|goody.to|goon.to|smallencode.com
-||terafile.net/*.xml$first-party,xmlhttprequest
-||terafile.net/luxury3.xml$first-party,xmlhttprequest
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
 ||adsimg.kompas.com^$domain=kompas.com
@@ -218,6 +216,8 @@
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
+||terafile.net/*.xml$first-party,xmlhttprequest
+||terafile.net/luxury3.xml$first-party,xmlhttprequest
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
 ||tinypic.com/*.gif$image,domain=bioskop78.com|bioskop78.net|icinema3satu.net|movie303.com|nonton33.tv|nontonfilm.mobi|nontonganool.net
 ||tribunnews.com/stylesheets/close.gif

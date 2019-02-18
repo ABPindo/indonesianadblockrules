@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HoHCfyu1I9vj2uxYKSQGEg
+! Checksum: TpuFd06iBxEJGDXQoEHMpA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 February 15, 17:48:25
+! Last modified: 2019 February 18, 13:07:09
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -529,6 +529,8 @@ iklan300x250.gif|
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
+||terafile.net/*.xml$first-party,xmlhttprequest
+||terafile.net/luxury3.xml$first-party,xmlhttprequest
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
 ||tinypic.com/*.gif$image,domain=bioskop78.com|bioskop78.net|icinema3satu.net|movie303.com|nonton33.tv|nontonfilm.mobi|nontonganool.net
 ||tribunnews.com/stylesheets/close.gif

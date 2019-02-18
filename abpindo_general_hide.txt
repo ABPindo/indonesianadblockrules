@@ -1,6 +1,4 @@
-###switch-ad
 ###Box-Banner-ads
-###banner_top_detail
 ###ad_box_1
 ###ad_divLeft
 ~4udrama.com###adplayer
@@ -10,6 +8,7 @@
 ~anibatch.id,~cinemamkv.net,~cinemamkv.xyz,~gurusd.web.id,~kurikulum.co.id,~paraedu.id###adsense
 ###adv-placeholder
 ~bagilagi.com,~kangibay.net###banner_ad
+###banner_top_detail
 ###bireklam
 ###bottom_exclusive_ads
 ###btm_banner
@@ -49,6 +48,7 @@
 ###pbanner
 ###popupwindow
 ###srcadsurlblock
+###switch-ad
 ###teaser2
 ###teaser3
 ~eramuslim.com###topAd
