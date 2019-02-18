@@ -57,7 +57,8 @@
 ||dewanontons.com/wp-content/uploads/*.gif
 ||dewantn.com/wp-content/uploads/*.gif$image
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
-||dldramaid.xyz/*.gif$image
+||dldramaid.
+/*.gif$image
 ||dramaid.com/banner/
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||dunia21.*/assets/*.gif$image
@@ -141,6 +142,7 @@
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
 ||jomys.xyz$script,third-party
+||*.xyz$script,third-party
 ||lk21.*/assets/*.gif$image
 ||lk21.*/wp-content/uploads/*.gif$image
 ||lkxxi.*/wp-content/uploads/*.gif$image
