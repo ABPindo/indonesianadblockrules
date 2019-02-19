@@ -139,7 +139,6 @@
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
 ||jomys.xyz$script,third-party
-||*.xyz$script,third-party
 ||lk21.*/assets/*.gif$image
 ||lk21.*/wp-content/uploads/*.gif$image
 ||lkxxi.*/wp-content/uploads/*.gif$image
