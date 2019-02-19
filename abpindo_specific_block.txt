@@ -119,6 +119,7 @@
 ||jasjus.net^$popup
 ||javapic.com^$third-party
 ||jingkrak.com^$third-party
+||jomys.xyz$script,third-party
 ||juragan21.com/wp-content/uploads/*.gif
 ||kampus.us/banners/
 ||kaskus.co.id/images/banner-wap/
@@ -138,7 +139,6 @@
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
-||jomys.xyz$script,third-party
 ||lk21.*/assets/*.gif$image
 ||lk21.*/wp-content/uploads/*.gif$image
 ||lkxxi.*/wp-content/uploads/*.gif$image

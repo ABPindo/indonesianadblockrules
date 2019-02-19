@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Ad5MPlQgp19aLuhrXYR7/g
+! Checksum: eREW0Wo3HIJr3Lp108YYJQ
 ! Title: ABPindo_tanpanawala sekarang menjadi ABPindo_noannoyance
-! Last modified: 2019 February 19, 20:15:57
+! Last modified: 2019 February 20, 05:28:23
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -521,8 +521,6 @@ iklan300x250.gif|
 ||dewanontons.com/wp-content/uploads/*.gif
 ||dewantn.com/wp-content/uploads/*.gif$image
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
-||dldramaid.xyz/*.gif$image
-||dramaid.com/banner/
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||dunia21.*/assets/*.gif$image
 ||duniasex.ws/banner-
@@ -585,6 +583,7 @@ iklan300x250.gif|
 ||jasjus.net^$popup
 ||javapic.com^$third-party
 ||jingkrak.com^$third-party
+||jomys.xyz$script,third-party
 ||juragan21.com/wp-content/uploads/*.gif
 ||kampus.us/banners/
 ||kaskus.co.id/images/banner-wap/
