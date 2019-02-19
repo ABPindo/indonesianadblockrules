@@ -216,8 +216,8 @@
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
-||terafile.net/*.xml$first-party,xmlhttprequest
-||terafile.net/luxury3.xml$first-party,xmlhttprequest
+||terafile.net/*.xml$~third-party,xmlhttprequest
+||terafile.net/luxury3.xml$~third-party,xmlhttprequest
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
 ||tinypic.com/*.gif$image,domain=bioskop78.com|bioskop78.net|icinema3satu.net|movie303.com|nonton33.tv|nontonfilm.mobi|nontonganool.net
 ||tribunnews.com/stylesheets/close.gif

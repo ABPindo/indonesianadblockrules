@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TpuFd06iBxEJGDXQoEHMpA
+! Checksum: LmQ+4qZQcgwAulYJxhwczw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 February 18, 13:07:09
+! Last modified: 2019 February 19, 20:15:57
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -68,6 +68,8 @@
 ||c-4fambt.com^$third-party
 ||cfasync.ga^$popup,third-party
 ||chidsimp.com^$third-party
+||chqspuonctkgz.com^$popup
+||chqspuonctkgz.com^$third-party
 ||cjsab.com^$popup,third-party
 ||clickmedia.co.id^$third-party
 ||cpaclickoffers.com^$popup,third-party
@@ -95,10 +97,12 @@
 ||epu.sh^$third-party
 ||everyday-carry.com^$popup,third-party
 ||eze99.net^$popup,third-party
+||fairnessels.com^
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup,third-party
 ||fnkyyrgraizy.com^third-party
 ||fonderreaders.info^$popup,third-party
+||fortpush.com^
 ||forumiklan.com^$third-party
 ||furocmay.com^$popup
 ||gahhlbxdgw.com^$popup,third-party
@@ -110,7 +114,10 @@
 ||gxwjkbxubfjd.com^$popup,third-party
 ||halal.ad^$third-party
 ||hclccadfmkpw.com^$popup,third-party
+||hdnvtfyvyhq.com^$popup
 ||hwoxt.com^$popup
+||iarfina.pw^$popup
+||iarfina.pw^$third-party
 ||iklan-indo.org^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
@@ -161,6 +168,7 @@
 ||jjxsdkphpcwu.com^$popup,third-party
 ||jokermerah.me^$popup,third-party
 ||juruiklan.com^$third-party
+||keqi7dh3df.com^
 ||king4d.me^$popup,third-party
 ||kitabanget.com^$popup,third-party
 ||kiuhoki.com^$popup,third-party
@@ -249,6 +257,9 @@
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
 ||www.adflazz.com^$third-party
+||www.bnjhbghjznq.com^
+||www.chqspuonctkgz.com^
+||www.hdnvtfyvyhq.com^
 ||www.ucvrtwfh.com^$third-party
 ||xbfk51p7.review^$popup,third-party
 ||xqkzsifxgv.com^$script,domain=kissasian.sh
@@ -529,8 +540,8 @@ iklan300x250.gif|
 ||susterbokep.com/wp-content/uploads/*.gif
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
-||terafile.net/*.xml$first-party,xmlhttprequest
-||terafile.net/luxury3.xml$first-party,xmlhttprequest
+||terafile.net/*.xml$~third-party,xmlhttprequest
+||terafile.net/luxury3.xml$~third-party,xmlhttprequest
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
 ||tinypic.com/*.gif$image,domain=bioskop78.com|bioskop78.net|icinema3satu.net|movie303.com|nonton33.tv|nontonfilm.mobi|nontonganool.net
 ||tribunnews.com/stylesheets/close.gif
@@ -3333,10 +3344,12 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 -hokiqq-
 -incarqq.
 -indopokerlink-
+-Itubandar-
 -jakartaqq-
 -jakartaqq.
 -jasaqq-
 -jasaqq.
+-JuaraQQ-
 -ligacapsa-
 -ligapoker-
 -LIGAQQ.
@@ -3361,6 +3374,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /28bet.
 /388poker.
 /899cash.
+/aabet.
 /abgqq-
 /abgqq.
 /abgqqnew.
@@ -3383,6 +3397,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /agungpoker.
 /ahliqq.
 /alampoker.
+/AlexisBola.
 /amanqq.
 /anekaqq.
 /angkajitutogel.
@@ -3415,6 +3430,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /bandarq.
 /bandarq168.
 /bandarq728x90.
+/bandarqq-
 /bandarqq.
 /bandarqq365.
 /bandarqterpercaya.
@@ -3447,6 +3463,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /cacingnaga.
 /cahayaqq.
 /cantikqq-
+/cantikqq.
 /capsaqqnew.
 /caradaftarpoker.
 /casinoitu.
@@ -3486,6 +3503,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /dracobets.
 /dragonpoker.
 /duniasarana.
+/Duniavegas-
 /elangbola.
 /elangcapsa.
 /elangqq-
@@ -3520,6 +3538,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /hobi88.
 /hoki-365.
 /hoki-qq-
+/HOKI365-
 /hoki365.
 /hokibandarq.
 /hokibet-
@@ -3551,6 +3570,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /imcpkr.
 /imcpoker-
 /imcpoker.
+/imcqq-
 /imcqq.
 /incarqq.
 /indorajaqq.
@@ -3565,6 +3585,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /istana168.
 /istana3.
 /itubandar.
+/itucasino.
 /itudewa.
 /itupk.
 /itupoker-
@@ -3597,6 +3618,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /josbet88-
 /jpbet.
 /jppoker.
+/JUARACAPSA-
 /kartudomino.
 /kartuhokky.
 /kartuking.
@@ -3627,7 +3649,9 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /liga88.
 /ligabet365.
 /ligacapsa-
+/ligacapsa.
 /ligacash.
+/Ligahokie-
 /ligajudi.
 /ligakiukiu.
 /liganation.
@@ -3662,6 +3686,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /maxisbet-
 /maxisbet.
 /mbopoker.
+/Meja-365.
 /meja13.
 /meja365.
 /mejasakong.
@@ -3739,6 +3764,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /pusatqq.
 /qbandars.
 /qqasli.
+/qqdewa.
 /qqdomino.
 /qqemas.
 /qqjempol.
@@ -3764,6 +3790,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /rezekibola.
 /rgo-casino-
 /rgo-poker-
+/RGOBET-
 /rgobet.
 /rgobet_
 /rgobetnew.
@@ -3849,6 +3876,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /vivobetting.
 /vodka728x90.
 /vodkapoker.
+/WARNAQQ-
 /warnaqq.
 /wedeqq.
 /wigo-bet-
@@ -3868,6 +3896,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /yoyopoker.
 /ysbjaya-
 /ysbjaya88.
+/ZEUPOKER-
 /zonaprediksi.
 /zyngaqq.
 agen_bola_online.gif|
