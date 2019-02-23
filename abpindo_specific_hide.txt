@@ -1,5 +1,3 @@
-blog.tribunjualbeli.com###div-Top-Leaderboard
-blog.tribunjualbeli.com###div-Right-MediumRectangle-1
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 lihat.co.id###Iklan-Melayang
@@ -60,8 +58,9 @@ kompas.com###crt-f6d317f5
 bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
-tribunnews.com###div-Right-MediumRectangle-1
+blog.tribunjualbeli.com,tribunnews.com###div-Right-MediumRectangle-1
 makassar.tribunnews.com###div-Right-MediumRectangle-3
+blog.tribunjualbeli.com###div-Top-Leaderboard
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 90animax.com###energysaving
 cmovieshd.se,ganool.se###epmblock

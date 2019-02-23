@@ -1,4 +1,3 @@
-###v-overlay
 ###Box-Banner-ads
 ###ad_box_1
 ###ad_divLeft
@@ -55,6 +54,7 @@
 ~eramuslim.com###topAd
 ###top_ad_full
 ###tupiklan
+###v-overlay
 ##.SectionAds
 ##.ad-left-image
 ##.ad-right-image
