@@ -1,4 +1,3 @@
-||05ee3a24ed11df058c8.com^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||128cash.org^$popup,third-party
 ||130.211.212.60^$popup,third-party
@@ -176,6 +175,7 @@
 ||mobalert.online^$popup
 ||mobileofferplace.site^$popup
 ||motosal.net^$popup
+||mousheen.net^
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
 ||octafx.com^$popup,third-party
@@ -190,6 +190,7 @@
 ||pasangnomor2.net^$popup,third-party
 ||pasariklanbaris.com^$third-party
 ||paypopup.com^$third-party
+||phastoag.com^
 ||pippio.com^$third-party
 ||pondokiklan.com^$third-party
 ||popclck.net^$popup,third-party
@@ -247,8 +248,10 @@
 ||www.adflazz.com^$third-party
 ||www.bnjhbghjznq.com^
 ||www.chqspuonctkgz.com^
+||www.cjnoeafncyzb.com^
 ||www.hdnvtfyvyhq.com^
 ||www.ucvrtwfh.com^$third-party
+||www.vjrpdagpjwyt.com^||05ee3a24ed11df058c8.com^$popup,third-party
 ||xbfk51p7.review^$popup,third-party
 ||xqkzsifxgv.com^$script,domain=kissasian.sh
 ||yesads.com^$third-party
