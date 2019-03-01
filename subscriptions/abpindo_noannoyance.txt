@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UTQRoorRIDmQtnOBqTVjdQ
+! Checksum: 0uc4dXaUfUs4Xd0k0FkhBw
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 February 28, 18:32:53
+! Last modified: 2019 March 01, 16:44:44
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -881,7 +881,7 @@ indoxx1.pw###popup
 cafecinema.cc,lk21.io###popup_content
 amoimovie.com###popupinfoAd1
 layarxxi.online###popuppress-9119
-nonton21.tv###previewBox
+lk21.li,nonton21.tv###previewBox
 nonton21.tv,nontonserial.com###previewBox2
 lk21.li,nonton21.tv###previewBox3
 lk21.li,nonton21.tv,nontonserial.com###previewBox4

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sGZ1Yy0RrnpUytDYQnfzLA
+! Checksum: ZucQ30yFV4MfB7b10mXB+w
 ! Title: ABPindo
-! Last modified: 2019 February 28, 18:32:52
+! Last modified: 2019 March 01, 16:44:44
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -881,7 +881,7 @@ indoxx1.pw###popup
 cafecinema.cc,lk21.io###popup_content
 amoimovie.com###popupinfoAd1
 layarxxi.online###popuppress-9119
-nonton21.tv###previewBox
+lk21.li,nonton21.tv###previewBox
 nonton21.tv,nontonserial.com###previewBox2
 lk21.li,nonton21.tv###previewBox3
 lk21.li,nonton21.tv,nontonserial.com###previewBox4
@@ -4166,6 +4166,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href$="/ularnaga"]
 ##a[href$="/ulrnaga"]
 ##a[href$="/vvipwin"]
+##a[href$="/wedeqq"]
 ##a[href$="ref=bokepmania"]
 ##a[href="http://103.10.201.26"]
 ##a[href^="Http://ApiBet."]
@@ -4448,6 +4449,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://duapoker."]
 ##a[href^="http://duitbux."]
 ##a[href^="http://dunia-bisnis."]
+##a[href^="http://dunialotto1."]
 ##a[href^="http://duniaspa."]
 ##a[href^="http://dwabet."]
 ##a[href^="http://earneasycash."]
@@ -4904,6 +4906,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://sanadomino."]
 ##a[href^="http://saranapoker."]
 ##a[href^="http://saranaqq."]
+##a[href^="http://saranghoki1."]
 ##a[href^="http://sbbanner."]
 ##a[href^="http://sbo303."]
 ##a[href^="http://sbobet."]
@@ -5428,6 +5431,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.windewa."]
 ##a[href^="http://www.winft95."]
 ##a[href^="http://www.wingspoker."]
+##a[href^="http://www.winning365."]
 ##a[href^="http://www.winnipoker."]
 ##a[href^="http://www.winpoker789."]
 ##a[href^="http://www.won77."]
@@ -5925,6 +5929,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 -agenqq-
 -agungpoker.
 -bolaonline.
+-Capsa365.
 -cariqq-
 -dewiqq.
 -divaqq.
@@ -5942,6 +5947,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 -jasaqq-
 -jasaqq.
 -JuaraQQ-
+-JuaraQQ.
 -ligacapsa-
 -ligapoker-
 -LIGAQQ.
@@ -5958,6 +5964,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 -tugupoker-
 -tugupoker.
 -visitogel.
+-WARNAQQ-
 /128cash.
 /188bet.
 /1xbet.
@@ -6442,6 +6449,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /tahunqq.
 /tangkaskita.
 /tangkaspro.
+/Tatacasino.
 /tatobet.
 /texas-poker-
 /texaspoker.

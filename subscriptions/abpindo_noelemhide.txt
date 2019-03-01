@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 45ntsFQ1WzKLGNCvlVosLQ
+! Checksum: rybKVGx3nLcJONSelHmSEA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 February 28, 18:32:53
+! Last modified: 2019 March 01, 16:44:44
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -3329,6 +3329,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 -agenqq-
 -agungpoker.
 -bolaonline.
+-Capsa365.
 -cariqq-
 -dewiqq.
 -divaqq.
@@ -3346,6 +3347,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 -jasaqq-
 -jasaqq.
 -JuaraQQ-
+-JuaraQQ.
 -ligacapsa-
 -ligapoker-
 -LIGAQQ.
@@ -3362,6 +3364,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 -tugupoker-
 -tugupoker.
 -visitogel.
+-WARNAQQ-
 /128cash.
 /188bet.
 /1xbet.
@@ -3846,6 +3849,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /tahunqq.
 /tangkaskita.
 /tangkaspro.
+/Tatacasino.
 /tatobet.
 /texas-poker-
 /texaspoker.
