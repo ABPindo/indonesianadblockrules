@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rybKVGx3nLcJONSelHmSEA
+! Checksum: q5p2mpdf2cZUlo9V43ghRA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 March 01, 16:44:44
+! Last modified: 2019 March 03, 20:33:59
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -204,6 +204,7 @@
 ||pasangnomor2.net^$popup,third-party
 ||pasariklanbaris.com^$third-party
 ||paypopup.com^$third-party
+||peevopoy.com^
 ||phastoag.com^
 ||pippio.com^$third-party
 ||pondokiklan.com^$third-party
@@ -322,6 +323,7 @@
 /revenuehits.js|
 /SkinADkanan.
 /SkinADkiri.
+/smartfren/ads.
 /uploads/iklan/*
 /usaha-berhasil.gif|
 /usahaberhasil.gif|
@@ -632,6 +634,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 @@||otakuindo.net^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=www.bloggerszones.com|www.datasekolah.co.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
+@@||radarlombok.co.id^$generichide
 @@||riauonline.co.id^$generichide
 @@||rukim.id/wp-content/themes/jannah/assets/js/advertisement.js$script,~third-party
 @@||sdrama.com^$generichide
@@ -3900,6 +3903,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 /zonaprediksi.
 /zyngaqq.
 agen_bola_online.gif|
+agenbola.gif|
 agenqq.gif|
 ayoqq.gif|
 banner728.gif|
