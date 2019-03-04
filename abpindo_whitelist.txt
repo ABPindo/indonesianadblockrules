@@ -57,3 +57,4 @@
 @@||www.duosia.id/wp-content/cache/min/1/wp-content/themes/jannah/assets/js/advertisement-$script,~third-party
 @@||www.google-analytics.com/analytics.js$script,domain=www.pricebook.co.id
 @@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script,~third-party
+@@||advertising-indonesia.id^$~third-party
