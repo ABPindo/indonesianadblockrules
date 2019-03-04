@@ -65,7 +65,7 @@
 ##.ads-pop
 ##.ads__side
 ~anibatch.id##.adsbox
-~datasekolah.co.id##.adsbygoogle
+~aktual.id,~datasekolah.co.id##.adsbygoogle
 ##.adsbymgid
 ##.adsbyrunactive
 ##.adspace_300
@@ -123,6 +123,7 @@
 ##.popUpBannerBox
 ##.pusat728
 ##.remodal
+~oomph.co.id##.shareit
 ##.simple_advert
 ##.single_ad_728x90
 ##.subiklan
@@ -137,5 +138,3 @@
 ##img[alt="iklan"]
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
-~aktual.id##.adsbygoogle
-~oomph.co.id##.shareit

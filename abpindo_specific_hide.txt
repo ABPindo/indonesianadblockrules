@@ -1,4 +1,3 @@
-apkmod.id##.adsbygoogle
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 lihat.co.id###Iklan-Melayang
@@ -258,7 +257,7 @@ grid.id##.ads_sky
 antaranews.com##.ads_top_728
 ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
-radarlombok.co.id##.adsbygoogle
+apkmod.id,radarlombok.co.id##.adsbygoogle
 www.pontianakpost.co.id##.adsense
 www.ganol.si##.adsincenter
 kshowid.com##.adssingle
