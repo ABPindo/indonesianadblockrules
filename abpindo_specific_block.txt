@@ -1,3 +1,5 @@
+/riandiramdani/safelinku.*/*.js$script,domain=www.kazefuri.web.id
+/wp-content/plugins/soralink/assets/js/sora.php$script,domain=animebatch.id|www.animebaru.in|www.animebatch.web.id
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
 ||adsimg.kompas.com^$domain=kompas.com
@@ -26,6 +28,7 @@
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
 ||cdn.livechatinc.com/tracking.js
+||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script,domain=myanimeindo.net
 ||cdn.staticaly.com/gh/sotazer/sotazone/*/kurazoneAdblock.js
 ||cekerayam.xyz/wp-content/uploads/*.gif$image
 ||cinema-indo.com/banere/*.gif$image
@@ -208,7 +211,6 @@
 ||susterbokep.com/wp-content/uploads/*.gif$image
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
-||terafile.net/*.xml$~third-party,xmlhttprequest
 ||terafile.net/luxury3.xml$~third-party,xmlhttprequest
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
 ||tribunnews.com/stylesheets/close.gif

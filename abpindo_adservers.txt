@@ -51,6 +51,7 @@
 ||bcajjtbzmdrl.com^$popup,third-party
 ||bellaads.com^$third-party
 ||bmnet-ads.com^$third-party
+||brand.ad^$third-party
 ||c-4fambt.com^$third-party
 ||cfasync.ga^$popup,third-party
 ||chidsimp.com^$third-party
@@ -81,6 +82,7 @@
 ||edomz.com^$third-party
 ||engine.gamesrevenue.com^$popup
 ||epu.sh^$third-party
+||etoads.net^$popup
 ||everyday-carry.com^$popup,third-party
 ||eze99.net^$popup,third-party
 ||fairnessels.com^
@@ -93,6 +95,7 @@
 ||furocmay.com^$popup
 ||gahhlbxdgw.com^$popup,third-party
 ||gehzj.com^$third-party
+||ggezvffghs.com^
 ||gjeyqtunbnap.com^$popup,third-party
 ||greatwork.info^$popup,third-party
 ||groupiklan.com^$third-party
@@ -178,6 +181,8 @@
 ||mousheen.net^
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
+||naetoris.pw^$popup
+||nuaycqtaluwha.com^
 ||octafx.com^$popup,third-party
 ||offerjuice.me^$popup,third-party
 ||onclkds.com^$popup,third-party

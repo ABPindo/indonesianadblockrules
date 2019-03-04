@@ -1,6 +1,6 @@
-@@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id
-@@.png#/adaffiliate_/$image,domain=anisubindo.video|awsubs.co|dutaislam.com|gadget2reviews.com|idsly.net|komikstation.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
-@@.png$image,domain=www.tokusatsuindo.com
+@@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id
+@@.png#$image,domain=anisubindo.video|neumanga.tv|www.komikindo.web.id|www.oploverz.in|www.tokusatsuindo.com
+@@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|dutaislam.com|gadget2reviews.com|idsly.net|komikstation.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
@@ -9,6 +9,7 @@
 @@||adturl.us^$generichide
 @@||advertising-indonesia.id^$~third-party
 @@||ainodorama.web.id^$generichide
+@@||animetake*.*^$generichide
 @@||anisubindo.$generichide
 @@||apkmod.id^$generichide
 @@||asiancine.com^$generichide
@@ -41,6 +42,7 @@
 @@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
+@@||neumanga.*^$generichide
 @@||neumanga.tv^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
