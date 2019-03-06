@@ -4,6 +4,7 @@
 ||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
 ||1iklanbaris.com^$third-party
 ||1st-iklan.com^$third-party
+||2go7v1nes8.com^
 ||35.188.59.75^$popup
 ||3b7c0f01022f61d5.com^$popup,third-party
 ||4dasli.com^$popup,third-party
@@ -252,6 +253,7 @@
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
 ||www.adflazz.com^$third-party
+||www.adtival.com^$third-party
 ||www.bnjhbghjznq.com^
 ||www.chqspuonctkgz.com^
 ||www.cjnoeafncyzb.com^

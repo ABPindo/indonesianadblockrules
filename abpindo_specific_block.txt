@@ -192,6 +192,7 @@
 ||numpanglewat.com^$third-party
 ||numpangnonton.*/wp-content/uploads/*.gif$image
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
+||pergi.klik-link.us/wpsafelink.js$script,domain=www.kazefuri.web.id
 ||pic5678.com^$third-party
 ||playwebgame.com/banner/$third-party
 ||porntrex.com/images/pt728.gif
@@ -226,3 +227,4 @@
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
+||zonawibu.me/data/ngentod.js$script,domain=web.zonawibu.me

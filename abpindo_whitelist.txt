@@ -1,6 +1,8 @@
 @@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id
 @@.png#$image,domain=anisubindo.video|neumanga.tv|www.komikindo.web.id|www.oploverz.in|www.tokusatsuindo.com
+@@.png#/$image,domain=1idsly.com
 @@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|dutaislam.com|gadget2reviews.com|idsly.net|komikstation.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
+@@||1idsly.com^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
@@ -27,6 +29,7 @@
 @@||idsly.co/webroot/js/ads.js$script,~third-party
 @@||idsly.net^$generichide
 @@||indexmovie.download^$generichide
+@@||kazefuri.web.id^$generichide
 @@||klikshowtime.com^$generichide
 @@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$image
 @@||komikcast.com^$generichide

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UA4LgIaI6VK055n/GUj0Dw
+! Checksum: NLVVxcDrr1MicZAB1uYDiA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 March 04, 19:37:02
+! Last modified: 2019 March 06, 10:57:44
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -18,6 +18,7 @@
 ||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
 ||1iklanbaris.com^$third-party
 ||1st-iklan.com^$third-party
+||2go7v1nes8.com^
 ||35.188.59.75^$popup
 ||3b7c0f01022f61d5.com^$popup,third-party
 ||4dasli.com^$popup,third-party
@@ -266,6 +267,7 @@
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
 ||www.adflazz.com^$third-party
+||www.adtival.com^$third-party
 ||www.bnjhbghjznq.com^
 ||www.chqspuonctkgz.com^
 ||www.cjnoeafncyzb.com^
@@ -531,6 +533,7 @@ iklan300x250.gif|
 ||numpanglewat.com^$third-party
 ||numpangnonton.*/wp-content/uploads/*.gif$image
 ||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
+||pergi.klik-link.us/wpsafelink.js$script,domain=www.kazefuri.web.id
 ||pic5678.com^$third-party
 ||playwebgame.com/banner/$third-party
 ||porntrex.com/images/pt728.gif
@@ -565,6 +568,7 @@ iklan300x250.gif|
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
+||zonawibu.me/data/ngentod.js$script,domain=web.zonawibu.me
 ! *** abpindo_specific_ublock.txt ***
 ! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
 animeindo.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
@@ -601,7 +605,9 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 ! *** abpindo_whitelist.txt ***
 @@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id
 @@.png#$image,domain=anisubindo.video|neumanga.tv|www.komikindo.web.id|www.oploverz.in|www.tokusatsuindo.com
+@@.png#/$image,domain=1idsly.com
 @@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|dutaislam.com|gadget2reviews.com|idsly.net|komikstation.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
+@@||1idsly.com^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
@@ -628,6 +634,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 @@||idsly.co/webroot/js/ads.js$script,~third-party
 @@||idsly.net^$generichide
 @@||indexmovie.download^$generichide
+@@||kazefuri.web.id^$generichide
 @@||klikshowtime.com^$generichide
 @@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$image
 @@||komikcast.com^$generichide
