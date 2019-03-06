@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qNdgE7MJ/8c9/UMMTpfT+A
+! Checksum: 8htqESndroYzTybnq4Kjsw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 March 06, 20:54:43
+! Last modified: 2019 March 07, 06:46:14
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -434,6 +434,7 @@ iklan300x250.gif|
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hentaiheroes.com^$popup,domain=hentai2read.com
+||hightech.web.id^*/?site=$popup
 ||hotabis.com/wp-content/uploads/*.gif$image
 ||id.hao123.com/resource/id/banner/
 ||id.techinasia.com/OneSignalSDKWorker.js

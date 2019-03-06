@@ -634,6 +634,7 @@ nekopoi.*##a[href^="http://bit.ly/"]
 nekopoi.*##div[class^="adsgen"]
 nekopoi.*##div[class^="mobileads"]
 neonime.*##a[href^="https://bit.ly/"]
+neonime.net#?#div[class] > [data-src]
 nonton33.*###ads_banner_left1
 nonton33.*###floating_banner_bot
 nonton33.*##.filmborder > table
