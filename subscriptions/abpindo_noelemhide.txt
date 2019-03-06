@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NLVVxcDrr1MicZAB1uYDiA
+! Checksum: Xj/o1dOvt3+cSV+hCS/Q2w
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 March 06, 10:57:44
+! Last modified: 2019 March 06, 15:17:07
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1763,6 +1763,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 ||itupk.$third-party
 ||itupoker.$third-party
 ||itupoker77.$third-party
+||ituqq.$popup
 ||ituqq.$third-party
 ||itutoto.$third-party
 ||ivopoker.$popup
@@ -3376,6 +3377,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 -ligacapsa-
 -ligapoker-
 -LIGAQQ.
+-melatipoker-
 -misiqq-
 -mutiarapoker.gif|
 -pokerindo-
