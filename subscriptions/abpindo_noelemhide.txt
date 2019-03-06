@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Xj/o1dOvt3+cSV+hCS/Q2w
+! Checksum: O6IpUX0fynbkTYIDrz7nWg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 March 06, 15:17:07
+! Last modified: 2019 March 06, 17:50:35
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -603,12 +603,15 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 komikindo.web.id##+js(addEventListener-defuser.js)
 mangacanblog.com##+js(abort-on-property-read.js, adblock)
 ! *** abpindo_whitelist.txt ***
+@@.jpg#$image,domain=klikshowtime.com
 @@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id
 @@.png#$image,domain=anisubindo.video|neumanga.tv|www.komikindo.web.id|www.oploverz.in|www.tokusatsuindo.com
 @@.png#/$image,domain=1idsly.com
-@@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|dutaislam.com|gadget2reviews.com|idsly.net|komikstation.com|mangakita.net|narutobleachlover.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
+@@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|dutaislam.com|gadget2reviews.com|idsly.net|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
+@@logo*.png#*/ads/$image,~third-party
 @@||1idsly.com^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
+@@||ad4msan.^$generichide
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
 @@||adturl.$generichide
@@ -652,6 +655,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 @@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||neumanga.*^$generichide
 @@||neumanga.tv^$generichide
+@@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=www.bloggerszones.com|www.datasekolah.co.id
