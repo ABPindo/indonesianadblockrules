@@ -484,6 +484,7 @@ otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
 cdramabase.com##.wpa
 jalantikus.com##[class^="ad-"][class*="-container"]
+www.kazefuri.web.id##[href="javascript:showHideGB()"]
 bioskop168.pro##[href^="http://linkalternatif."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]

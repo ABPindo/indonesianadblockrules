@@ -105,6 +105,7 @@
 ||halal.ad^$third-party
 ||hclccadfmkpw.com^$popup,third-party
 ||hdnvtfyvyhq.com^$popup
+||hitadsmedia.com^$third-party
 ||hwoxt.com^$popup
 ||iarfina.pw^$popup
 ||iarfina.pw^$third-party
@@ -264,5 +265,6 @@
 ||xqkzsifxgv.com^$script,domain=kissasian.sh
 ||yesads.com^$third-party
 ||yllix.com^$popup,third-party
+||ys3e965d.top^
 ||yx-ads6.com^$third-party
 ||zukxd6fkxqn.com^$popup
