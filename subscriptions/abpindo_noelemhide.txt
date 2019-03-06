@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: O6IpUX0fynbkTYIDrz7nWg
+! Checksum: VVwSFZUSnnEHYJdYuqCo8Q
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 March 06, 17:50:35
+! Last modified: 2019 March 06, 19:01:53
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -603,10 +603,8 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 komikindo.web.id##+js(addEventListener-defuser.js)
 mangacanblog.com##+js(abort-on-property-read.js, adblock)
 ! *** abpindo_whitelist.txt ***
-@@.jpg#$image,domain=klikshowtime.com
 @@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id
-@@.png#$image,domain=anisubindo.video|neumanga.tv|www.komikindo.web.id|www.oploverz.in|www.tokusatsuindo.com
-@@.png#/$image,domain=1idsly.com
+@@.png#$image,domain=1idsly.com|anisubindo.video|neumanga.tv|www.komikindo.web.id|www.oploverz.in|www.tokusatsuindo.com
 @@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|dutaislam.com|gadget2reviews.com|idsly.net|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
 @@logo*.png#*/ads/$image,~third-party
 @@||1idsly.com^$generichide
