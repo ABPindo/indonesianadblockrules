@@ -1,6 +1,5 @@
 ||108.168.231.179^$popup,third-party
 ||128cash.org^$popup,third-party
-||130.211.212.60^$popup,third-party
 ||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
 ||1iklanbaris.com^$third-party
 ||1st-iklan.com^$third-party
@@ -87,17 +86,14 @@
 ||etoads.net^$popup
 ||everyday-carry.com^$popup,third-party
 ||eze99.net^$popup,third-party
-||fairnessels.com^
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup,third-party
 ||fnkyyrgraizy.com^third-party
 ||fonderreaders.info^$popup,third-party
-||fortpush.com^
 ||forumiklan.com^$third-party
 ||furocmay.com^$popup
 ||gahhlbxdgw.com^$popup,third-party
 ||gehzj.com^$third-party
-||ggezvffghs.com^
 ||gjeyqtunbnap.com^$popup,third-party
 ||greatwork.info^$popup,third-party
 ||groupiklan.com^$third-party
@@ -160,7 +156,6 @@
 ||jjxsdkphpcwu.com^$popup,third-party
 ||jokermerah.me^$popup,third-party
 ||juruiklan.com^$third-party
-||keqi7dh3df.com^
 ||king4d.me^$popup,third-party
 ||kitabanget.com^$popup,third-party
 ||kiuhoki.com^$popup,third-party
@@ -185,7 +180,6 @@
 ||mrperfect.in$script,third-party
 ||mybannermaker.com^$third-party
 ||naetoris.pw^$popup
-||nuaycqtaluwha.com^
 ||octafx.com^$popup,third-party
 ||offerjuice.me^$popup,third-party
 ||onclkds.com^$popup,third-party
@@ -257,10 +251,8 @@
 ||www.adflazz.com^$third-party
 ||www.adtival.com^$third-party
 ||www.bnjhbghjznq.com^
-||www.chqspuonctkgz.com^
 ||www.cjnoeafncyzb.com^
 ||www.hdnvtfyvyhq.com^
-||www.ucvrtwfh.com^$third-party
 ||www.vjrpdagpjwyt.com^||05ee3a24ed11df058c8.com^$popup,third-party
 ||xbfk51p7.review^$popup,third-party
 ||xqkzsifxgv.com^$script,domain=kissasian.sh

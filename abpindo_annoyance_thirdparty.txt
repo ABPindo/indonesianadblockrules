@@ -1850,6 +1850,7 @@
 ||pokerstar.$third-party
 ||pokerstar8.$popup
 ||pokerstar8.$third-party
+||pokerstars.$popup
 ||pokerstars.$third-party
 ||pokerstop.com^$third-party
 ||pokersyte.com^$third-party

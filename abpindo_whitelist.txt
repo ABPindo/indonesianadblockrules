@@ -1,7 +1,9 @@
+@@.jpg#$image,domain=komikcast.com
 @@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id
 @@.png#$image,domain=1idsly.com|anisubindo.video|neumanga.tv|www.komikindo.web.id|www.oploverz.in|www.tokusatsuindo.com
 @@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|dutaislam.com|gadget2reviews.com|idsly.net|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
 @@logo*.png#*/ads/$image,~third-party
+@@||.bloggerku.com/safelink/2.0/script.js?$script,domain=www.animanganews.com
 @@||1idsly.com^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ad4msan.^$generichide
@@ -12,7 +14,7 @@
 @@||adturl.us^$generichide
 @@||advertising-indonesia.id^$~third-party
 @@||ainodorama.web.id^$generichide
-@@||animetake*.*^$generichide
+@@||animetake*.$generichide
 @@||anisubindo.$generichide
 @@||apkmod.id^$generichide
 @@||asiancine.com^$generichide
@@ -27,12 +29,11 @@
 @@||eramuslim.com^$generichide
 @@||gadget2reviews.com^$generichide
 @@||hightech.web.id^$generichide
-@@||idsly.co/webroot/js/ads.js$script,~third-party
-@@||idsly.net^$generichide
+@@||idsly.$generichide
+@@||idsly./webroot/js/ads.js$script,~third-party
 @@||indexmovie.download^$generichide
 @@||kazefuri.web.id^$generichide
 @@||klikshowtime.com^$generichide
-@@||komikcast.com/wp-content/uploads/2017/10/logov12.jpg$image
 @@||komikcast.com^$generichide
 @@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
@@ -46,7 +47,7 @@
 @@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
-@@||neumanga.*^$generichide
+@@||neumanga.$generichide
 @@||neumanga.tv^$generichide
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
