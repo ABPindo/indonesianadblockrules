@@ -1088,6 +1088,7 @@
 ||itubd.$third-party
 ||itucasino.$third-party
 ||itudewa.$third-party
+||itudewa.^$popup,third-party
 ||itupk.$popup
 ||itupk.$third-party
 ||itupoker.$third-party
@@ -1133,12 +1134,14 @@
 ||jaya-bet.$third-party
 ||jayabet.$third-party
 ||jayabola.$third-party
+||jayabola.^$popup,third-party
 ||jayahoki.$popup
 ||jayahoki.$third-party
 ||jayamania.$popup
 ||jayamania.$third-party
 ||jayapoker.com^$third-party
 ||jayapokr.$third-party
+||jayapokr.^$popup,third-party
 ||jayatogel.$third-party
 ||jdpoker.com^$third-party
 ||jempolqq.$third-party
@@ -1152,6 +1155,7 @@
 ||jokerbet88.$third-party
 ||jokerbet888.$third-party
 ||jokermerah.$third-party
+||jokermerah.^$popup,third-party
 ||jokerqq.$popup
 ||jokerqq.$third-party
 ||jokersakong.$third-party
@@ -1296,10 +1300,13 @@
 ||king368.$popup
 ||king368.$third-party
 ||king4d.$third-party
+||king4d.^$popup,third-party
 ||kingtogel.com^$third-party
 ||kitabanget.$third-party
 ||kiuhoki.$third-party
+||kiuhoki.^$popup,third-party
 ||kiumaster.$third-party
+||kiumaster.^$popup,third-party
 ||klik66.$third-party
 ||klikbet.$third-party
 ||klikkiu.$third-party
@@ -1309,6 +1316,7 @@
 ||klikuntung.$popup
 ||klikuntung.$third-party
 ||kodealam2.$third-party
+||kodealam2.^$popup,third-party
 ||koinhoki.$third-party
 ||kokibet.$popup
 ||kokibet.$third-party
@@ -2222,6 +2230,7 @@
 ||surgabola.$third-party
 ||surgajudi.com^$third-party
 ||surya4d.$third-party
+||surya4d.^$popup,third-party
 ||suryaemas.$third-party
 ||switchpoker.com^$third-party
 ||tahun-qq.$third-party

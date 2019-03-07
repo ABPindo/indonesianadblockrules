@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 9Th6hY4DFzDOkJJy9/6c1w
+! Checksum: M+dEi1PyrQLgkYOrk0seLQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 March 07, 21:51:05
+! Last modified: 2019 March 08, 05:24:28
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -12,9 +12,9 @@
 ! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
 !
 ! *** abpindo_adservers.txt ***
+||05ee3a24ed11df058c8.com^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||128cash.org^$popup,third-party
-||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
 ||1iklanbaris.com^$third-party
 ||1st-iklan.com^$third-party
 ||2go7v1nes8.com^
@@ -74,7 +74,6 @@
 ||cjsab.com^$popup,third-party
 ||click.eclk.club^$popup
 ||clickmedia.co.id^$third-party
-||cpaclickoffers.com^$popup,third-party
 ||creditcardsbest.club^$third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
 ||d24afgsm39csxt.cloudfront.net^
@@ -85,9 +84,6 @@
 ||dermaga4d.net^$popup,third-party
 ||dewsburg.info^$third-party
 ||dgnvmw.xyz^$popup
-||divisix.org^$popup,third-party
-||download.televisionfanatic.com^$popup
-||doyan-99.com^$popup,third-party
 ||drda5yf9kgz5p.cloudfront.net^
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com^$popup,third-party
@@ -95,21 +91,16 @@
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
-||engine.gamesrevenue.com^$popup
-||epu.sh^$third-party
 ||etoads.net^$popup
-||everyday-carry.com^$popup,third-party
 ||eze99.net^$popup,third-party
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup,third-party
 ||fnkyyrgraizy.com^third-party
-||fonderreaders.info^$popup,third-party
 ||forumiklan.com^$third-party
 ||furocmay.com^$popup
 ||gahhlbxdgw.com^$popup,third-party
 ||gehzj.com^$third-party
 ||gjeyqtunbnap.com^$popup,third-party
-||greatwork.info^$popup,third-party
 ||groupiklan.com^$third-party
 ||gudangbanner.com^$third-party
 ||gxwjkbxubfjd.com^$popup,third-party
@@ -120,13 +111,12 @@
 ||hwoxt.com^$popup
 ||iarfina.pw^$popup
 ||iarfina.pw^$third-party
-||iklan-indo.org^$third-party
+||iklan-indo.^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
 ||iklanads.com^$third-party
 ||iklanbarisgratis.co.uk^$third-party
-||iklanbarisgratispasang.com^$third-party
-||iklanbarisgratispasang.net^$third-party
+||iklanbarisgratispasang.^$third-party
 ||iklanbarismu.com^$third-party
 ||iklanbisnispro.com^$third-party
 ||iklanblogger.com^$third-party
@@ -158,26 +148,18 @@
 ||istanaimpian2.club^$popup,third-party
 ||istanaimpian2.me^$popup,third-party
 ||istanaimpian3.net^$popup,third-party
-||itudewa.info^$popup,third-party
 ||iupqelechcmj.com^$popup,third-party
 ||jagoiklan.com^$third-party
 ||jagopromo.com^$third-party
 ||jasaiklan.com^$third-party
 ||javaiklan.com^$third-party
-||jayabola.tk^$popup,third-party
-||jayapokr.com^$popup,third-party
 ||jillsclickcorner.com^$third-party
 ||jjxsdkphpcwu.com^$popup,third-party
-||jokermerah.me^$popup,third-party
 ||juruiklan.com^$third-party
-||king4d.me^$popup,third-party
 ||kitabanget.com^$popup,third-party
-||kiuhoki.com^$popup,third-party
-||kiumaster.com^$popup,third-party
 ||klikabadi.com^$third-party
 ||klikabadi.net^$third-party
 ||klikajadeh.com^$third-party
-||kodealam2.net^$popup,third-party
 ||l9tdhe6.com^$popup,third-party
 ||ld82ydd.com^$popup,third-party
 ||lokeriklan.com^$third-party
@@ -187,8 +169,6 @@
 ||masteriklan.net^$third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
-||mobalert.online^$popup
-||mobileofferplace.site^$popup
 ||motosal.net^$popup
 ||mousheen.net^
 ||mrperfect.in$script,third-party
@@ -201,8 +181,7 @@
 ||openadserving.com^$third-party
 ||paidforfree.com^$third-party
 ||pasangiklan.com^$third-party
-||pasangiklangratisbaris.com^$third-party
-||pasangiklangratisbaris.net^$third-party
+||pasangiklangratisbaris.^$third-party
 ||pasangnomor2.net^$popup,third-party
 ||pasariklanbaris.com^$third-party
 ||paypopup.com^$third-party
@@ -221,7 +200,6 @@
 ||pwdmtyzyq.com^$popup,third-party
 ||q1xyxm89.com^$popup
 ||raja12shio.org^$popup,third-party
-||rajanusantara.org^$popup,third-party
 ||realwap.net^$third-party
 ||referral-secrets.com^$third-party
 ||replase.gq^$popup,third-party
@@ -232,7 +210,6 @@
 ||scriptall.ml^$popup,third-party
 ||sebar.idblognetwork.com^$third-party
 ||see-work.info^$popup,third-party
-||seen-on-screen.thewhizmarketing.com^$popup,third-party
 ||sentrapromosi.com^$third-party
 ||sepakbolagol.com^$popup,third-party
 ||serbapromo.com^$third-party
@@ -242,7 +219,6 @@
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
 ||sumberiklan.com^$third-party
-||surya4d.org^$popup,third-party
 ||suryaiklan.com^$third-party
 ||teliad.com^$third-party
 ||theclickers.net^$third-party
@@ -267,12 +243,11 @@
 ||www.bnjhbghjznq.com^
 ||www.cjnoeafncyzb.com^
 ||www.hdnvtfyvyhq.com^
-||www.vjrpdagpjwyt.com^||05ee3a24ed11df058c8.com^$popup,third-party
+||www.vjrpdagpjwyt.com^
 ||xbfk51p7.review^$popup,third-party
 ||xqkzsifxgv.com^$script,domain=kissasian.sh
 ||yesads.com^$third-party
 ||yllix.com^$popup,third-party
-||ys3e965d.top^
 ||yx-ads6.com^$third-party
 ||zukxd6fkxqn.com^$popup
 ! *** abpindo_thirdparty.txt ***
@@ -1759,6 +1734,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 ||itubd.$third-party
 ||itucasino.$third-party
 ||itudewa.$third-party
+||itudewa.^$popup,third-party
 ||itupk.$popup
 ||itupk.$third-party
 ||itupoker.$third-party
@@ -1804,12 +1780,14 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 ||jaya-bet.$third-party
 ||jayabet.$third-party
 ||jayabola.$third-party
+||jayabola.^$popup,third-party
 ||jayahoki.$popup
 ||jayahoki.$third-party
 ||jayamania.$popup
 ||jayamania.$third-party
 ||jayapoker.com^$third-party
 ||jayapokr.$third-party
+||jayapokr.^$popup,third-party
 ||jayatogel.$third-party
 ||jdpoker.com^$third-party
 ||jempolqq.$third-party
@@ -1823,6 +1801,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 ||jokerbet88.$third-party
 ||jokerbet888.$third-party
 ||jokermerah.$third-party
+||jokermerah.^$popup,third-party
 ||jokerqq.$popup
 ||jokerqq.$third-party
 ||jokersakong.$third-party
@@ -1967,10 +1946,13 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 ||king368.$popup
 ||king368.$third-party
 ||king4d.$third-party
+||king4d.^$popup,third-party
 ||kingtogel.com^$third-party
 ||kitabanget.$third-party
 ||kiuhoki.$third-party
+||kiuhoki.^$popup,third-party
 ||kiumaster.$third-party
+||kiumaster.^$popup,third-party
 ||klik66.$third-party
 ||klikbet.$third-party
 ||klikkiu.$third-party
@@ -1980,6 +1962,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 ||klikuntung.$popup
 ||klikuntung.$third-party
 ||kodealam2.$third-party
+||kodealam2.^$popup,third-party
 ||koinhoki.$third-party
 ||kokibet.$popup
 ||kokibet.$third-party
@@ -2893,6 +2876,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 ||surgabola.$third-party
 ||surgajudi.com^$third-party
 ||surya4d.$third-party
+||surya4d.^$popup,third-party
 ||suryaemas.$third-party
 ||switchpoker.com^$third-party
 ||tahun-qq.$third-party
@@ -3357,7 +3341,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 -agungpoker.
 -bisabet.
 -bolaonline.
--Capsa365.
+-capsa365.
 -cariqq-
 -dewiqq.
 -divaqq.
@@ -3369,17 +3353,17 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 -hokiqq-
 -incarqq.
 -indopokerlink-
--Itubandar-
+-itubandar-
 -jakartaqq-
 -jakartaqq.
 -jasaqq-
 -jasaqq.
--JUARACAPSA-
--JuaraQQ-
--JuaraQQ.
+-juaracapsa-
+-juaraqq-
+-juaraqq.
 -ligacapsa-
 -ligapoker-
--LIGAQQ.
+-ligaqq.
 -melatipoker-
 -misiqq-
 -mutiarapoker.gif|
@@ -3394,7 +3378,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 -tugupoker-
 -tugupoker.
 -visitogel.
--WARNAQQ-
+-warnaqq-
 /128cash.
 /188bet.
 /1xbet.
@@ -3426,7 +3410,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /agungpoker.
 /ahliqq.
 /alampoker.
-/AlexisBola.
+/alexisbola.
 /amanqq.
 /anekaqq.
 /angkajitutogel.
@@ -3518,7 +3502,6 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /dewiqq-
 /dewiqq.
 /diskonqq.
-/divisix.
 /domino168.
 /domino365.
 /domino757.
@@ -3532,7 +3515,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /dracobets.
 /dragonpoker.
 /duniasarana.
-/Duniavegas-
+/duniavegas-
 /elangbola.
 /elangcapsa.
 /elangqq-
@@ -3567,7 +3550,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /hobi88.
 /hoki-365.
 /hoki-qq-
-/HOKI365-
+/hoki365-
 /hoki365.
 /hokibandarq.
 /hokibet-
@@ -3624,8 +3607,6 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /ivopoker.
 /jagoanpoker.
 /jagodomino.
-/jalanalternatif.
-/jaluralternatif.
 /jamhoki.
 /japsex.
 /jarumpoker.
@@ -3647,7 +3628,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /josbet88-
 /jpbet.
 /jppoker.
-/JUARACAPSA-
+/juaracapsa-
 /kartudomino.
 /kartuhokky.
 /kartuking.
@@ -3660,7 +3641,6 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /klikkiu.
 /klikqq-
 /klikqq.
-/kodealam2.
 /koinhoki.
 /kokoqq.
 /kontolkuda.
@@ -3669,7 +3649,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /langitqq.
 /lapakpoker.
 /lapakqq.
-/LAYARQQ.
+/layarqq.
 /lazabet-
 /lazabet.
 /lazacasino.
@@ -3680,7 +3660,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /ligacapsa-
 /ligacapsa.
 /ligacash.
-/Ligahokie-
+/ligahokie-
 /ligajudi.
 /ligakiukiu.
 /liganation.
@@ -3715,7 +3695,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /maxisbet-
 /maxisbet.
 /mbopoker.
-/Meja-365.
+/meja-365.
 /meja13.
 /meja365.
 /mejasakong.
@@ -3805,7 +3785,6 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /rajacapsa-
 /rajacapsa.
 /rajajudiqq-
-/rajanusantara.
 /rajapoker.
 /rajasakong88.
 /rajatogel88-
@@ -3819,7 +3798,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /rezekibola.
 /rgo-casino-
 /rgo-poker-
-/RGOBET-
+/rgobet-
 /rgobet.
 /rgobet_
 /rgobetnew.
@@ -3879,7 +3858,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /tahunqq.
 /tangkaskita.
 /tangkaspro.
-/Tatacasino.
+/tatacasino.
 /tatobet.
 /texas-poker-
 /texaspoker.
@@ -3906,7 +3885,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /vivobetting.
 /vodka728x90.
 /vodkapoker.
-/WARNAQQ-
+/warnaqq-
 /warnaqq.
 /wedeqq.
 /wigo-bet-
@@ -3926,7 +3905,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 /yoyopoker.
 /ysbjaya-
 /ysbjaya88.
-/ZEUPOKER-
+/zeupoker-
 /zonaprediksi.
 /zyngaqq.
 agen_bola_online.gif|

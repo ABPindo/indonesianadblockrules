@@ -312,7 +312,6 @@ elde.tv##.bannerwrap
 inet.detik.com##.bb_banner
 bharian.com.my##.bh-ad
 bharian.com.my##.block-bh-googledfp
-neonime.net##.block-player
 indoxx1.pw,sukanonton.online##.blocker.jquery-modal
 www.cosmogirl.co.id##.bnr
 bioskop99.me##.bot.ads
@@ -633,7 +632,6 @@ nekopoi.*##a[href^="http://bit.ly/"]
 nekopoi.*##div[class^="adsgen"]
 nekopoi.*##div[class^="mobileads"]
 neonime.*##a[href^="https://bit.ly/"]
-neonime.net#?#div[class] > [data-src]
 nonton33.*###ads_banner_left1
 nonton33.*###floating_banner_bot
 nonton33.*##.filmborder > table
