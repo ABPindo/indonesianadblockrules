@@ -32,6 +32,7 @@
 ||adshost.site^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
+||advertnative.com^$third-party
 ||afbcashidr.com^$popup,third-party
 ||aj1052.online^$popup
 ||ajangiklangratis.com^$third-party
