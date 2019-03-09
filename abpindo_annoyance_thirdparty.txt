@@ -67,6 +67,7 @@
 ||99dinasti.$third-party
 ||99domino.$third-party
 ||99doyan.$third-party
+||99doyan.com^$popup,third-party
 ||99mania.$third-party
 ||99poker.$third-party
 ||9bet.$third-party
@@ -1483,6 +1484,7 @@
 ||markastogel.com^$third-party
 ||markastoto.$third-party
 ||maruduthutabarat.$third-party
+||maruduthutabarat.com^$popup,third-party
 ||master138.$popup
 ||master138.$third-party
 ||master88.$third-party
