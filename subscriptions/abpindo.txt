@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wOh1enZe6uEbYIXSQT7H+A
+! Checksum: TG4Ds5fAa6jFIwKVJqYYBA
 ! Title: ABPindo
-! Last modified: 2019 March 11, 21:08:19
+! Last modified: 2019 March 11, 21:50:25
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -712,6 +712,8 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 1idsly.com##+js(nano-setInterval-booster.js)
 komikindo.web.id##+js(addEventListener-defuser.js)
 mangacanblog.com##+js(abort-on-property-read.js, adblock)
+get.web.id##+js(bab-defuser.js)
+fendy.web.id##+js(bab-defuser.js)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hMfj4WJNTRo+aiCnynhF2Q
+! Checksum: SfiSo98VOX+8EujqJqLKcQ
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 March 11, 21:08:19
+! Last modified: 2019 March 11, 21:50:25
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -335,6 +335,8 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 1idsly.com##+js(nano-setInterval-booster.js)
 komikindo.web.id##+js(addEventListener-defuser.js)
 mangacanblog.com##+js(abort-on-property-read.js, adblock)
+get.web.id##+js(bab-defuser.js)
+fendy.web.id##+js(bab-defuser.js)
 ! *** abpindo_general_hide.txt ***
 ###Box-Banner-ads
 ###ad_box_1
