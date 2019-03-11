@@ -63,6 +63,7 @@
 @@||tokusatsuindo.com^$generichide
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
+@@||updatetribun.^$generichide
 @@||www.duosia.id/wp-content/cache/min/1/wp-content/themes/jannah/assets/js/advertisement-$script,~third-party
 @@||www.google-analytics.com/analytics.js$script,domain=www.pricebook.co.id
 @@||www.samehadaku.tv/wp-content/themes/jannah/js/advertisement.js$script,~third-party

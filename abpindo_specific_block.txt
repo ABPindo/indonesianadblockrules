@@ -99,6 +99,7 @@
 ||idbioskop.com/wp-content/uploads/*/*/ad-150x300-website.jpg
 ||idblognetwork.com/images/banner468x60/
 ||idblognetwork.com/images/banner728x90/
+||idfl.*/assets/js/adst.js$script,~third-party
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||imagebam.com/*.gif$image,domain=www.ganool.li
 ||images.gameweb.co.id/gw/ads/
