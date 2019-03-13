@@ -20,6 +20,7 @@
 ||addesigner.com^$third-party
 ||adexp.net^$third-party
 ||admarketplace.net^$popup,third-party
+||admessage.support^$third-party
 ||admp.io^$third-party
 ||adnety.com^$popup,third-party
 ||adplus.co.id^$third-party
@@ -195,6 +196,7 @@
 ||serbapromo.com^$third-party
 ||shiokambing2.com^$popup,third-party
 ||shiokuda.^$popup,third-party
+||siaiscphvghttd.com^
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
 ||sumberiklan.com^$third-party
