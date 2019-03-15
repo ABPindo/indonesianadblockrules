@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /RLuU1w1QrYKnKTiEuo0Ww
+! Checksum: LNDSMSSY5GBf3NdovkCTLg
 ! Title: ABPindo_tanpanawala sekarang menjadi ABPindo_noannoyance
-! Last modified: 2019 March 13, 18:54:00
+! Last modified: 2019 March 16, 06:57:34
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -63,6 +63,7 @@
 ||bellaads.com^$third-party
 ||bmnet-ads.com^$third-party
 ||brand.ad^$third-party
+||bryvvdtek.com^
 ||c-4fambt.com^$third-party
 ||cfasync.ga^$popup,third-party
 ||cfqpxzx.com^
@@ -139,6 +140,7 @@
 ||ikoh6ie.top^$popup,third-party
 ||indobanner.com^$third-party
 ||indofreeads.com^$third-party
+||indoleads.com^
 ||istana-impian.^$popup,third-party
 ||istana-impian2.^$popup,third-party
 ||istana3.net^$popup,third-party
@@ -169,6 +171,7 @@
 ||mousheen.net^
 ||mybannermaker.com^$third-party
 ||naetoris.pw^$popup
+||nwsderzo.com^
 ||octafx.com^$popup,third-party
 ||offerjuice.me^$popup,third-party
 ||onclkds.com^$popup,third-party
@@ -717,6 +720,7 @@ komikindo.web.id##+js(addEventListener-defuser.js)
 mangacanblog.com##+js(abort-on-property-read.js, adblock)
 get.web.id##+js(bab-defuser.js)
 fendy.web.id##+js(bab-defuser.js)
+gurusd.web.id##^script:has-text(safelink)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -978,7 +982,8 @@ grid.id##.ads_sky
 antaranews.com##.ads_top_728
 ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
-apkmod.id,nama.web.id,radarlombok.co.id##.adsbygoogle
+www.eramuslim.com##.adsbyadop
+apkmod.id,nama.web.id,radarlombok.co.id,www.eramuslim.com##.adsbygoogle
 www.pontianakpost.co.id##.adsense
 www.ganol.si##.adsincenter
 kshowid.com##.adssingle
