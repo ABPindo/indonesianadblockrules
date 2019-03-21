@@ -462,6 +462,7 @@ tirto.id##.skinner-right
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
 hipwee.com##.spb_middle.spb_banner
+mydramalist.com##.spnsr
 mydramalist.com##.spnsr-top
 idpelago.com##.sponsor_ads:nth-of-type(1)
 idpelago.com##.sponsor_ads:nth-of-type(2)
@@ -480,6 +481,7 @@ utusan.com.my##.tonal__standfirst
 lapar.com,nontonitu.com##.top-banner
 xx1.me##.top-bnner.lazy
 bioskopxxi.net,sinemakaca.com##.ujipopup
+mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
