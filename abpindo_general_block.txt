@@ -16,6 +16,7 @@
 .my/iklan/
 .net/iklan/
 .tv/iklan/
+/ads_low.
 /ads/iklan.
 /adsterra.js|
 /adtrace2.js|
