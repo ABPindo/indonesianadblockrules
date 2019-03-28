@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HXqbXhXgERZ2CZo8pDmBmA
+! Checksum: WSIikd6r/e/6LbcNYvIc9w
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 March 28, 08:46:57
+! Last modified: 2019 March 28, 10:59:53
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -438,6 +438,7 @@ iklan300x250.gif|
 ##.popUpBannerBox
 ##.pusat728
 ##.remodal
+##.rkads
 ~oomph.co.id##.shareit
 ##.simple_advert
 ##.single_ad_728x90
@@ -478,7 +479,7 @@ iklan300x250.gif|
 ||bioskop55.*/wp-content/uploads/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=animeindo.moe|awsubs.co|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|mangaindo.net|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|awsubs.co|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|mangaindo.net|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
@@ -865,7 +866,7 @@ fastdrama.co###myModal
 hdtvku.com###mybannerpopup
 hdtvku.com###mybannerpopup2
 nobartv.com###nbpopx-wrapper
-cafecinema.cc,sidrama.com,www.ibugil.net###netkevin-overlay
+cafecinema.cc,lk21.world,sidrama.com,www.ibugil.net###netkevin-overlay
 duniasex.co,ibugil.net,sidrama.com###netkevin-popup
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
@@ -1237,7 +1238,8 @@ nontoncinema.org##a[href^="http://referral."]
 lk21xxi.net##a[href^="http://totalgame.online"]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
-animeindo.co,animeku.tv,bioskop168.pro,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,eka.web.id,idxxi.co,indoxxi.top,layarindo21.pro,lk-21.me,lk21indo.co,lk21n.com,mangaku.in,mangashiro.net,neonime.net,nontonbioskop21.org,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com,www.kazefuri.web.id,www.nontondramas.com##a[href^="https://bit.ly/"]
+anoboy.org##a[href^="http://www.pencetpoker."]
+animeindo.co,animeku.tv,anoboy.org,bioskop168.pro,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,eka.web.id,idxxi.co,indoxxi.top,layarindo21.pro,lk-21.me,lk21indo.co,lk21n.com,lk21xxi.co,mangaku.in,mangashiro.net,neonime.net,nontonbioskop21.org,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com,www.kazefuri.web.id,www.nontondramas.com##a[href^="https://bit.ly/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,bokepml.gq,bokepngetop.com,drakorindo.tv,gelorajiwaseks.com,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,semprot.com,semprotku.com,serunonton.com,www1.lk-21.me##a[href^="https://goo.gl/"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
