@@ -124,13 +124,17 @@
 ##.pengiklan
 ##.popUpBannerBox
 ##.pusat728
+##.qode-banner-left
+##.qode-banner-right
 ##.remodal
 ##.rkads
 ~oomph.co.id##.shareit
 ##.simple_advert
 ##.single_ad_728x90
 ##.subiklan
+##.text-center.adv
 ##.topadsense
+##[href^="https://iklango."]
 ~cnet.com##img[alt="Advertisement"]
 ##img[alt="Iklan"]
 ##img[alt="Pasang Iklan Anda Disini"]

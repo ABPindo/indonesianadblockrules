@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: cRRN2Vw9c6RjZueYJk3Odg
+! Checksum: Sd6JHE3W2Ys2kcho9qqopA
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 March 29, 19:35:30
+! Last modified: 2019 March 30, 19:15:15
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -437,13 +437,17 @@ iklan300x250.gif|
 ##.pengiklan
 ##.popUpBannerBox
 ##.pusat728
+##.qode-banner-left
+##.qode-banner-right
 ##.remodal
 ##.rkads
 ~oomph.co.id##.shareit
 ##.simple_advert
 ##.single_ad_728x90
 ##.subiklan
+##.text-center.adv
 ##.topadsense
+##[href^="https://iklango."]
 ~cnet.com##img[alt="Advertisement"]
 ##img[alt="Iklan"]
 ##img[alt="Pasang Iklan Anda Disini"]
@@ -1210,6 +1214,7 @@ utusan.com.my##.tonal__standfirst
 lapar.com,nontonitu.com##.top-banner
 xx1.me##.top-bnner.lazy
 bioskopxxi.net,sinemakaca.com##.ujipopup
+128.199.232.232##.video-archive-ad
 mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
 otomotif.kompas.com##.w340.r-ads.right > ul > li
@@ -1220,6 +1225,7 @@ jalantikus.com##[class^="ad-"][class*="-container"]
 www.kazefuri.web.id##[href="javascript:showHideGB()"]
 bioskop168.pro##[href^="http://linkalternatif."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
+bokepvid.online##[href^="https://bit.ly/"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 idfl.me##[id^="yui-gen"].postcontainer
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small

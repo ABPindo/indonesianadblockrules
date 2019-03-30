@@ -483,6 +483,7 @@ utusan.com.my##.tonal__standfirst
 lapar.com,nontonitu.com##.top-banner
 xx1.me##.top-bnner.lazy
 bioskopxxi.net,sinemakaca.com##.ujipopup
+128.199.232.232##.video-archive-ad
 mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
 otomotif.kompas.com##.w340.r-ads.right > ul > li
@@ -493,6 +494,7 @@ jalantikus.com##[class^="ad-"][class*="-container"]
 www.kazefuri.web.id##[href="javascript:showHideGB()"]
 bioskop168.pro##[href^="http://linkalternatif."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
+bokepvid.online##[href^="https://bit.ly/"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 idfl.me##[id^="yui-gen"].postcontainer
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small

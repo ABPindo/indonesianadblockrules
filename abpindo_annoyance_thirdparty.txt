@@ -1309,6 +1309,7 @@
 ||kiumaster.$third-party
 ||kiumaster.^$popup,third-party
 ||klik66.$third-party
+||klik66.co^$popup
 ||klikbet.$third-party
 ||klikkiu.$third-party
 ||klikkiu.top^$popup
@@ -2666,6 +2667,7 @@
 ||wongpoker.$third-party
 ||worldpokerdirectory.com^$third-party
 ||wpbet365.$third-party
+||www.bmwpoker.^$popup
 ||www.lotusbola.$popup
 ||www.senigoal.$popup
 ||wwwsgopoker.$popup

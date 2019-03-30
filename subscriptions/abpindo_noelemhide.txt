@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8Qm7Bb1tK6PZGxEtb1/fmA
+! Checksum: 3JQeq092ES/g10AG6NnYDA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 March 29, 19:35:30
+! Last modified: 2019 March 30, 19:15:15
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1961,6 +1961,7 @@ gurusd.web.id##^script:has-text(safelink)
 ||kiumaster.$third-party
 ||kiumaster.^$popup,third-party
 ||klik66.$third-party
+||klik66.co^$popup
 ||klikbet.$third-party
 ||klikkiu.$third-party
 ||klikkiu.top^$popup
@@ -3318,6 +3319,7 @@ gurusd.web.id##^script:has-text(safelink)
 ||wongpoker.$third-party
 ||worldpokerdirectory.com^$third-party
 ||wpbet365.$third-party
+||www.bmwpoker.^$popup
 ||www.lotusbola.$popup
 ||www.senigoal.$popup
 ||wwwsgopoker.$popup
@@ -3673,6 +3675,7 @@ gurusd.web.id##^script:has-text(safelink)
 /ligacapsa.
 /ligacash.
 /ligahokie-
+/ligahokie.
 /ligajudi.
 /ligakiukiu.
 /liganation.
@@ -3754,6 +3757,7 @@ gurusd.web.id##^script:has-text(safelink)
 /papabet.
 /papadewa.
 /parisbola.
+/parisdomino.
 /parisqq.
 /parisqq728x90.
 /pasangnomor2.
@@ -3866,6 +3870,7 @@ gurusd.web.id##^script:has-text(safelink)
 /sukabandar.
 /sundul99.
 /sundulqq.
+/superdomino.
 /surgabola.
 /surya4d.
 /tahunqq.
