@@ -1,7 +1,7 @@
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id
 @@.png#$image,domain=1idsly.com|anisubindo.video|neumanga.tv|www.komikindo.web.id|www.oploverz.in|www.tokusatsuindo.com
-@@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|dutaislam.com|gadget2reviews.com|idsly.net|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
+@@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|dutaislam.com|gadget2reviews.com|idsly.net|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.kazefuri.web.id|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
 @@/adsbygoogle.$script,domain=www.bloggerszones.com|www.datasekolah.co.id
 @@/advertisement-$script,domain=duosia.id
 @@/advertisement.$script,domain=kumpulmanga.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
