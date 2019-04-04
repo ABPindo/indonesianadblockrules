@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QCToCwTvJ/wDHrYe443o3A
+! Checksum: eGU4IbErFnxiSW3B8Pw+RA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 March 31, 18:56:17
+! Last modified: 2019 April 04, 12:26:45
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -47,6 +47,7 @@
 ||adshost.site^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
+||adtrue.com^
 ||advertnative.com^$third-party
 ||afbcashidr.com^$popup,third-party
 ||aj1052.online^$popup
@@ -113,6 +114,7 @@
 ||ianxalim.pw^
 ||iarfina.pw^$popup
 ||iarfina.pw^$third-party
+||ig0nr8hhhb.com^
 ||iklan-indo.^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
@@ -582,6 +584,7 @@ mangacanblog.com##+js(abort-on-property-read.js, adblock)
 get.web.id##+js(bab-defuser.js)
 fendy.web.id##+js(bab-defuser.js)
 gurusd.web.id##^script:has-text(safelink)
+obengplus.com##+js(bab-defuser.js)
 ! *** abpindo_whitelist.txt ***
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id

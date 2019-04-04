@@ -33,6 +33,7 @@
 ||adshost.site^$third-party
 ||adskom.com^$third-party
 ||adstars.co.id^$third-party
+||adtrue.com^
 ||advertnative.com^$third-party
 ||afbcashidr.com^$popup,third-party
 ||aj1052.online^$popup
@@ -99,6 +100,7 @@
 ||ianxalim.pw^
 ||iarfina.pw^$popup
 ||iarfina.pw^$third-party
+||ig0nr8hhhb.com^
 ||iklan-indo.^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party

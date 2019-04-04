@@ -555,6 +555,8 @@ cafecinema.*###popup_content
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 cinemaindo.*##a[href^="https://bit.ly/"]
+cinemaxx1.*###side-banner-left
+cinemaxx1.*###side-banner-right
 dewamovie.*##a[href^="http://bit.ly/"]
 www.smartphoneku.com##div.ad-before
 nextren.grid.id##div.banner-r

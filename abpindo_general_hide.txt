@@ -56,6 +56,7 @@
 ###top_ad_full
 ###tupiklan
 ###v-overlay
+###vp-advert
 ##.SectionAds
 ##.ad-left-image
 ##.ad-right-image
