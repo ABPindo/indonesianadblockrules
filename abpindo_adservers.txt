@@ -29,12 +29,15 @@
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
+||adsco.re^$third-party
 ||adscpm.site^$third-party
 ||adshost.site^$third-party
 ||adskom.com^$third-party
+||adslop.com^$third-party
 ||adstars.co.id^$third-party
 ||adtrue.com^
 ||advertnative.com^$third-party
+||aenan.pw^$third-party
 ||afbcashidr.com^$popup,third-party
 ||aj1052.online^$popup
 ||ajangiklangratis.com^$third-party
@@ -71,6 +74,7 @@
 ||dermaga4d.net^$popup,third-party
 ||dewsburg.info^$third-party
 ||dgnvmw.xyz^$popup
+||dolohen.com^$third-party
 ||drda5yf9kgz5p.cloudfront.net^
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com^$popup,third-party
@@ -144,6 +148,7 @@
 ||jagopromo.com^$third-party
 ||jasaiklan.com^$third-party
 ||javaiklan.com^$third-party
+||jhwkypuhrw.com^
 ||jillsclickcorner.com^$third-party
 ||jjxsdkphpcwu.com^$popup,third-party
 ||juruiklan.com^$third-party
@@ -153,6 +158,7 @@
 ||klikajadeh.com^$third-party
 ||l9tdhe6.com^$popup,third-party
 ||ld82ydd.com^$popup,third-party
+||lessonis.com^$third-party
 ||lokeriklan.com^$third-party
 ||macarier.review^$popup,third-party
 ||masteriklan.net^$third-party
@@ -232,7 +238,9 @@
 ||www.bnjhbghjznq.com^
 ||www.cjnoeafncyzb.com^
 ||www.hdnvtfyvyhq.com^
+||www.qhuktypo.com^
 ||www.vjrpdagpjwyt.com^
+||www.xcwnwrgvwg.com^
 ||xbfk51p7.review^$popup,third-party
 ||xqkzsifxgv.com^$script,domain=kissasian.sh
 ||yesads.com^$third-party

@@ -17,6 +17,7 @@
 @@||adturl.us^$generichide
 @@||advertising-indonesia.id^$~third-party
 @@||ainodorama.web.id^$generichide
+@@||akuno.net/webroot/js/ads.js$script,domain=akuno.net
 @@||animetake*.$generichide
 @@||anisubindo.$generichide
 @@||anoboy.$generichide
@@ -61,6 +62,8 @@
 @@||riauonline.co.id^$generichide
 @@||sdrama.com^$generichide
 @@||shirosafe.web.id^$generichide
+@@||suarankri.me^$generichide
+@@||templink.org/webroot/js/ads.js$script,domain=templink.org
 @@||tokusatsuindo.com^$generichide
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id

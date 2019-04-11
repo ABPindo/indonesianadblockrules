@@ -21,6 +21,7 @@ downloadfilmbaru.com###ads-stack
 dapurpacu.com###ads-vert-300
 premierexxi.com###ads_top_list
 bioskopgaul.com###adsimgxatas
+bioskopgaul.com###adsimgxatass
 tvkabel.net###adv
 www.streamingbokeps.co###advertisement
 www.streamingbokeps.co###advertisement-2
@@ -234,7 +235,7 @@ comotin.com##.Widget:nth-of-type(3)
 sundul.com##.\33 .Premium.Sundul
 sundul.com##.\34 .Premium.Sundul
 clip.cewecewe.com##.ad
-senimovie.info##.ad-float-image
+senimovie.info,senimovies.net##.ad-float-image
 www.wartaekonomi.co.id##.ad-inventory-wrapper
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
@@ -516,7 +517,7 @@ lk21xxi.net##a[href^="http://totalgame.online"]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
 anoboy.org##a[href^="http://www.pencetpoker."]
-animeindo.co,animeku.tv,anoboy.org,bioskop168.pro,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,eka.web.id,idxxi.co,indoxxi.top,layarindo21.pro,lk-21.me,lk21indo.co,lk21n.com,lk21xxi.co,mangaku.in,mangashiro.net,neonime.net,nontonbioskop21.org,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com,www.kazefuri.web.id,www.nontondramas.com##a[href^="https://bit.ly/"]
+animeindo.co,animeku.tv,anoboy.org,bioskop168.pro,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,eka.web.id,filmbioskop21.com,idxxi.co,indoxxi.top,layarindo21.pro,lk-21.me,lk21indo.co,lk21n.com,lk21xxi.co,mangaku.in,mangashiro.net,neonime.net,nontonbioskop21.org,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com,www.kazefuri.web.id,www.nontondramas.com##a[href^="https://bit.ly/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,bokepml.gq,bokepngetop.com,drakorindo.tv,gelorajiwaseks.com,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,semprot.com,semprotku.com,serunonton.com,www1.lk-21.me##a[href^="https://goo.gl/"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]

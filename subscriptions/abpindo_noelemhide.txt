@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3rA2OhtcRFRLL86Ib3NPUw
+! Checksum: vv+orms7ToulG6OveBI5dA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 April 04, 17:26:30
+! Last modified: 2019 April 11, 12:37:00
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -43,12 +43,15 @@
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
+||adsco.re^$third-party
 ||adscpm.site^$third-party
 ||adshost.site^$third-party
 ||adskom.com^$third-party
+||adslop.com^$third-party
 ||adstars.co.id^$third-party
 ||adtrue.com^
 ||advertnative.com^$third-party
+||aenan.pw^$third-party
 ||afbcashidr.com^$popup,third-party
 ||aj1052.online^$popup
 ||ajangiklangratis.com^$third-party
@@ -85,6 +88,7 @@
 ||dermaga4d.net^$popup,third-party
 ||dewsburg.info^$third-party
 ||dgnvmw.xyz^$popup
+||dolohen.com^$third-party
 ||drda5yf9kgz5p.cloudfront.net^
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com^$popup,third-party
@@ -158,6 +162,7 @@
 ||jagopromo.com^$third-party
 ||jasaiklan.com^$third-party
 ||javaiklan.com^$third-party
+||jhwkypuhrw.com^
 ||jillsclickcorner.com^$third-party
 ||jjxsdkphpcwu.com^$popup,third-party
 ||juruiklan.com^$third-party
@@ -167,6 +172,7 @@
 ||klikajadeh.com^$third-party
 ||l9tdhe6.com^$popup,third-party
 ||ld82ydd.com^$popup,third-party
+||lessonis.com^$third-party
 ||lokeriklan.com^$third-party
 ||macarier.review^$popup,third-party
 ||masteriklan.net^$third-party
@@ -246,7 +252,9 @@
 ||www.bnjhbghjznq.com^
 ||www.cjnoeafncyzb.com^
 ||www.hdnvtfyvyhq.com^
+||www.qhuktypo.com^
 ||www.vjrpdagpjwyt.com^
+||www.xcwnwrgvwg.com^
 ||xbfk51p7.review^$popup,third-party
 ||xqkzsifxgv.com^$script,domain=kissasian.sh
 ||yesads.com^$third-party
@@ -304,6 +312,7 @@
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
+/kaspemain.
 /revenuehits.js|
 /safelink$script,third-party
 /SkinADkanan.
@@ -460,6 +469,7 @@ iklan300x250.gif|
 ||linkgenerator.xyz$script,third-party
 ||lk21.*/assets/*.gif$image
 ||lk21.*/wp-content/uploads/*.gif$image
+||lk21n.*/wp-content/uploads/banner/*.gif$image
 ||lkxxi.*/wp-content/uploads/*.gif$image
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
@@ -586,6 +596,9 @@ get.web.id##+js(bab-defuser.js)
 fendy.web.id##+js(bab-defuser.js)
 gurusd.web.id##^script:has-text(safelink)
 obengplus.com##+js(bab-defuser.js)
+updatetribun.org##+js(addEventListener-defuser.js, load, onload)
+gembelcit.net##+js(abort-on-property-read.js, AaDetector)
+samehadaku.tv##+js(set-constant.js, $tieE3, true)
 ! *** abpindo_whitelist.txt ***
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id
@@ -606,6 +619,7 @@ obengplus.com##+js(bab-defuser.js)
 @@||adturl.us^$generichide
 @@||advertising-indonesia.id^$~third-party
 @@||ainodorama.web.id^$generichide
+@@||akuno.net/webroot/js/ads.js$script,domain=akuno.net
 @@||animetake*.$generichide
 @@||anisubindo.$generichide
 @@||anoboy.$generichide
@@ -650,6 +664,8 @@ obengplus.com##+js(bab-defuser.js)
 @@||riauonline.co.id^$generichide
 @@||sdrama.com^$generichide
 @@||shirosafe.web.id^$generichide
+@@||suarankri.me^$generichide
+@@||templink.org/webroot/js/ads.js$script,domain=templink.org
 @@||tokusatsuindo.com^$generichide
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
