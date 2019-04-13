@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /fao4u1n29XwA7Er/swvBQ
+! Checksum: yKDxS2vSbBZBNzQGbjuAXA
 ! Title: ABPindo
-! Last modified: 2019 April 11, 12:36:59
+! Last modified: 2019 April 13, 21:33:43
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -25,11 +25,12 @@
 ||899-cash.com^$popup,third-party
 ||8a333bc2b4d6.com^$popup,third-party
 ||9icmzvn6.website^$popup,third-party
-||a.brand.ad^$image
+||a.brand.ad^$image,third-party
 ||a63t9o1azf.com^$popup
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
 ||ad.adflazz.com^$third-party
+||adbsys.icu^$popup
 ||adcalm.com^$third-party
 ||addesigner.com^$third-party
 ||adexp.net^$third-party
@@ -78,6 +79,7 @@
 ||click.eclk.club^$popup
 ||clickmedia.co.id^$third-party
 ||cpmstar.com^$third-party
+||craydark.pw^$third-party
 ||creditcardsbest.club^$third-party
 ||cytochemistryrecitativewrasse.com^$popup,third-party
 ||d24afgsm39csxt.cloudfront.net^
@@ -710,6 +712,7 @@ iklan300x250.gif|
 ||zonawibu.me/data/ngentod.js$script,domain=web.zonawibu.me
 ! *** abpindo_specific_ublock.txt ***
 ! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
+1idsly.com##+js(nano-setInterval-booster.js)
 animeindo.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 animeindo.*##+js(setInterval-defuser.js, (), 500)
 animeindo.moe##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
@@ -720,34 +723,34 @@ cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 cinemamkv.net##+js(abort-on-property-read.js, go_get_url)
 cinemamkv.net##+js(nowebrtc.js)
 cinemamkv.net##+js(set-constant.js, _ocads, noopFunc)
+fendy.web.id##+js(bab-defuser.js)
 ganol.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 ganol.*##+js(nowebrtc.js)
 ganol.*##+js(setInterval-defuser.js, (), 500)
 ganool.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 ganool.*##+js(nowebrtc.js)
 ganool.*##+js(setInterval-defuser.js, (), 500)
+gembelcit.net##+js(abort-on-property-read.js, AaDetector)
+get.web.id##+js(bab-defuser.js)
+gurusd.web.id##^script:has-text(safelink)
 justjared.com##+js(abort-on-property-read.js, $getWin)
 komikcast.com##+js(abort-on-property-read.js, document.onclick)
 komikcast.com##+js(addEventListener-defuser.js, load, onload)
+komikindo.web.id##+js(addEventListener-defuser.js)
 kompas.com##+js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
 kompas.com##+js(abort-on-property-read.js, $getWin)
 kompas.com##^script:has-text(axtd)
+mangacanblog.com##+js(abort-on-property-read.js, adblock)
+obengplus.com##+js(bab-defuser.js)
 oload.*##+js(openload.co.js)
 oload.*##+js(window.open-defuser.js)
 overlordfree.web.id##+js(abort-on-property-write.js, ai_adb_overlay)
 overlordfree.web.id##+js(set-constant.js, showAds, true)
-smallencode.com##+js(abort-on-property-write.js, _pop)
-tribunnews.com##+js(abort-on-property-read.js, $getWin)
-1idsly.com##+js(nano-setInterval-booster.js)
-komikindo.web.id##+js(addEventListener-defuser.js)
-mangacanblog.com##+js(abort-on-property-read.js, adblock)
-get.web.id##+js(bab-defuser.js)
-fendy.web.id##+js(bab-defuser.js)
-gurusd.web.id##^script:has-text(safelink)
-obengplus.com##+js(bab-defuser.js)
-updatetribun.org##+js(addEventListener-defuser.js, load, onload)
-gembelcit.net##+js(abort-on-property-read.js, AaDetector)
 samehadaku.tv##+js(set-constant.js, $tieE3, true)
+smallencode.com##+js(abort-on-property-write.js, _pop)
+suarankri.me##+js(addEventListener-defuser.js, load, onload)
+tribunnews.com##+js(abort-on-property-read.js, $getWin)
+updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -1004,6 +1007,7 @@ republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
 dapurpacu.com##.ads-home
 grid.id##.ads-mr
+terasjakarta.id##.ads.single_post_content
 dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
 gridoto.com##.ads__boxr
@@ -1024,6 +1028,7 @@ teknoup.com##.advertisement_box2
 indoxtream.com##.aligncenter
 bokep.click##.alignnone
 palingseru.com##.alignnone.size-large.wp-image-458
+terasjakarta.id##.animated.ads
 autonetmagz.com##.anm__flying--ads-holder
 www.kurazone.net##.anuads
 myasiantv.se##.av-content-full
