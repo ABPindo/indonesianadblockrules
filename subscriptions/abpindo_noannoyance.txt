@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qUqpmtfXS8DvhQJQgHaDYg
+! Checksum: aIJSBZcdNCVJLSwUKedc3w
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 April 15, 21:33:38
+! Last modified: 2019 April 21, 09:31:01
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1255,7 +1255,7 @@ jalantikus.com##[class^="ad-"][class*="-container"]
 www.kazefuri.web.id##[href="javascript:showHideGB()"]
 bioskop168.pro##[href^="http://linkalternatif."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
-bokepvid.online##[href^="https://bit.ly/"]
+bokepvid.online,www.nontondramas.net##[href^="https://bit.ly/"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 idfl.me##[id^="yui-gen"].postcontainer
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
@@ -1466,6 +1466,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||cat3movie.us^$generichide
 @@||cinemamkv.net^$generichide
 @@||digitalponsel.com^$elemhide
+@@||directedlink.net^$generichide
 @@||dukun-cit.com^$generichide
 @@||dutaislam.com^$generichide
 @@||eirudo.com^$generichide

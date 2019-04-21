@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Zq315eXp8E5gIweCV7nu5w
+! Checksum: B39oBKtOJYOcra4wHjuHQQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 April 15, 21:33:38
+! Last modified: 2019 April 21, 09:31:01
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -637,6 +637,7 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 @@||cat3movie.us^$generichide
 @@||cinemamkv.net^$generichide
 @@||digitalponsel.com^$elemhide
+@@||directedlink.net^$generichide
 @@||dukun-cit.com^$generichide
 @@||dutaislam.com^$generichide
 @@||eirudo.com^$generichide
@@ -3647,6 +3648,7 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 /itupoker.
 /ituqq.
 /itutoto.
+/ituvip.
 /ivopoker.
 /jagoanpoker.
 /jagodomino.
@@ -3776,6 +3778,7 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 /olopoker-
 /omdomino.
 /ompokerasia.
+/oppabet.
 /opuspoker-
 /opuspoker.
 /orientalpoker.
