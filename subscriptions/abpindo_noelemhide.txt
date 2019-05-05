@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GCRRnlAkpVJhA4I9j8irrQ
+! Checksum: UBAIudKZ8c64jCCucdwBsw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 May 04, 15:34:27
+! Last modified: 2019 May 05, 16:54:45
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -71,6 +71,7 @@
 ||bellaads.com^$third-party
 ||bmnet-ads.com^$third-party
 ||bnjhbghjznq.com^
+||brand.ad^$third-party
 ||bryvvdtek.com^
 ||c-4fambt.com^$third-party
 ||cfasync.ga^$popup,third-party
@@ -100,6 +101,7 @@
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com^$popup,third-party
 ||dzbx8qv1at614.cloudfront.net^
+||e7393e33565ce805.com^$popup
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
@@ -309,6 +311,8 @@
 .my/iklan/
 .net/iklan/
 .tv/iklan/
+.win^$popup
+.win^$third-party
 /ads/iklan.
 /ads_low.
 /adsterra.js|
@@ -322,7 +326,6 @@
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
-/kaspemain.
 /revenuehits.js|
 /safelink$script,third-party
 /SkinADkanan.
@@ -613,6 +616,8 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 infotrendy.me##+js(addEventListener-defuser.js, load, 2000)
 jelajahinternet.me##+js(addEventListener-defuser.js, load, onload)
 merdekaid.online##+js(addEventListener-defuser.js, load, 2000)
+razerflixs.com##+js(addEventListener-defuser.js, load, onload)
+oploverz.*##+js(setTimeout-defuser.js, nextFunction, 450)
 ! *** abpindo_whitelist.txt ***
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id
@@ -3685,6 +3690,7 @@ merdekaid.online##+js(addEventListener-defuser.js, load, 2000)
 /kartuhokky.
 /kartuking.
 /kasinobet.
+/kaspemain.
 /ketuapkr.
 /ketuapoker.
 /ketuapokernew.

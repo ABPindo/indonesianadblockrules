@@ -16,6 +16,8 @@
 .my/iklan/
 .net/iklan/
 .tv/iklan/
+.win^$popup
+.win^$third-party
 /ads/iklan.
 /ads_low.
 /adsterra.js|
@@ -29,7 +31,6 @@
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
-/kaspemain.
 /revenuehits.js|
 /safelink$script,third-party
 /SkinADkanan.

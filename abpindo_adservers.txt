@@ -57,6 +57,7 @@
 ||bellaads.com^$third-party
 ||bmnet-ads.com^$third-party
 ||bnjhbghjznq.com^
+||brand.ad^$third-party
 ||bryvvdtek.com^
 ||c-4fambt.com^$third-party
 ||cfasync.ga^$popup,third-party
@@ -86,6 +87,7 @@
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com^$popup,third-party
 ||dzbx8qv1at614.cloudfront.net^
+||e7393e33565ce805.com^$popup
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
