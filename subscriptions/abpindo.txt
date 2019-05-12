@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: p66nsVSUyNgU8CCBpD9UqQ
+! Checksum: H3h8p9QtJ3yk0XRyU322wA
 ! Title: ABPindo
-! Last modified: 2019 May 11, 12:30:25
+! Last modified: 2019 May 12, 20:42:10
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -71,7 +71,6 @@
 ||bellaads.com^$third-party
 ||bmnet-ads.com^$third-party
 ||bnjhbghjznq.com^
-||brand.ad^$third-party
 ||bryvvdtek.com^
 ||c-4fambt.com^$third-party
 ||cfasync.ga^$popup,third-party
@@ -84,7 +83,6 @@
 ||click.eclk.club^$popup
 ||clickmedia.co.id^$third-party
 ||cpmstar.com^$third-party
-||craydark.pw^
 ||craydark.pw^$third-party
 ||creditcardsbest.club^$third-party
 ||d0p21g2fep.com^
@@ -109,6 +107,7 @@
 ||etoads.net^$popup
 ||exosrv.com^
 ||eze99.net^$popup,third-party
+||feewoajy.net^$third-party
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup
 ||fnkyyrgraizy.com^$third-party
@@ -254,6 +253,7 @@
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
 ||teliad.com^$third-party
+||tharbadir.com^$third-party
 ||theclickers.net^$third-party
 ||thesandonesof.info^$third-party
 ||tinggalklik.com^$third-party
@@ -279,6 +279,7 @@
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^
 ||yx-ads6.com^$third-party
+||zoagremo.net^$third-party
 ||zukxd6fkxqn.com^$popup
 ||zy16eoat1w.com^
 ! *** abpindo_thirdparty.txt ***
@@ -775,6 +776,7 @@ smallencode.com##+js(abort-on-property-write.js, _pop)
 suarankri.me##+js(addEventListener-defuser.js, load, onload)
 tribunnews.com##+js(abort-on-property-read.js, $getWin)
 updatetribun.org##+js(addEventListener-defuser.js, load, onload)
+templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -2364,8 +2366,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||eraqq.$third-party
 ||europoker.com^$third-party
 ||everypoker.com^$third-party
+||eze99.$popup
 ||eze99.$third-party
-||eze99.win^$popup
 ||ezebet.$popup
 ||ezebet.$third-party
 ||fairbet88.$popup
