@@ -11,7 +11,7 @@
 ||899-cash.com^$popup,third-party
 ||8a333bc2b4d6.com^$popup,third-party
 ||9icmzvn6.website^$popup,third-party
-||a.brand.ad^$image,third-party
+||a.brand.ad^$third-party
 ||a63t9o1azf.com^$popup
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
@@ -38,7 +38,7 @@
 ||adslop.com^$third-party
 ||adstars.co.id^$third-party
 ||adtival.com^$third-party
-||adtrue.com^
+||adtrue.com^$third-party
 ||advertnative.com^$third-party
 ||aenan.pw^$third-party
 ||afbcashidr.com^$popup,third-party
@@ -91,6 +91,7 @@
 ||edomz.com^$third-party
 ||elwraek.xyz^
 ||etoads.net^$popup
+||etoads.net^$third-party
 ||exosrv.com^
 ||eze99.net^$popup,third-party
 ||feewoajy.net^$third-party
@@ -108,8 +109,8 @@
 ||gxwjkbxubfjd.com^$popup,third-party
 ||halal.ad^$third-party
 ||hclccadfmkpw.com^$popup,third-party
-||hdnvtfyvyhq.com^
 ||hdnvtfyvyhq.com^$popup
+||hdnvtfyvyhq.com^$third-party
 ||hitadsmedia.com^$third-party
 ||hpkkzzyek.com^
 ||hwoxt.com^$popup
@@ -164,7 +165,7 @@
 ||jjxsdkphpcwu.com^$popup,third-party
 ||juruiklan.com^$third-party
 ||katurars.com^$third-party
-||kelris.pw^
+||kelris.pw^$third-party
 ||kitabanget.com^$popup,third-party
 ||klikabadi.^$third-party
 ||klikajadeh.com^$third-party
@@ -177,7 +178,7 @@
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||motosal.net^$popup
-||mousheen.net^
+||mousheen.net^$third-party
 ||mybannermaker.com^$third-party
 ||naetoris.pw^$popup
 ||nwsderzo.com^
@@ -206,7 +207,7 @@
 ||props.id^$third-party
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
-||pwdmtyzyq.com^$popup,third-party
+||pwdmtyzyq.com^
 ||pxlqyrteuuh.com^
 ||q1xyxm89.com^$popup
 ||qgpmtdrm.com^
@@ -238,6 +239,7 @@
 ||situsiklanbaris.com^$third-party
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
+||syndopop.com^$popup
 ||teliad.com^$third-party
 ||tharbadir.com^$third-party
 ||theclickers.net^$third-party
@@ -260,7 +262,7 @@
 ||window-close.ga^$popup,third-party
 ||xbfk51p7.review^$popup,third-party
 ||xcwnwrgvwg.com^
-||xqkzsifxgv.com^$script,domain=kissasian.sh
+||xqkzsifxgv.com^
 ||yesads.com^$third-party
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WkYiE+Y7wjjyJXwwVvgTAw
+! Checksum: ifncruGeGDN2sEFawzlrrw
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 May 12, 20:42:10
+! Last modified: 2019 May 12, 22:01:55
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -25,7 +25,7 @@
 ||899-cash.com^$popup,third-party
 ||8a333bc2b4d6.com^$popup,third-party
 ||9icmzvn6.website^$popup,third-party
-||a.brand.ad^$image,third-party
+||a.brand.ad^$third-party
 ||a63t9o1azf.com^$popup
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
@@ -52,7 +52,7 @@
 ||adslop.com^$third-party
 ||adstars.co.id^$third-party
 ||adtival.com^$third-party
-||adtrue.com^
+||adtrue.com^$third-party
 ||advertnative.com^$third-party
 ||aenan.pw^$third-party
 ||afbcashidr.com^$popup,third-party
@@ -105,6 +105,7 @@
 ||edomz.com^$third-party
 ||elwraek.xyz^
 ||etoads.net^$popup
+||etoads.net^$third-party
 ||exosrv.com^
 ||eze99.net^$popup,third-party
 ||feewoajy.net^$third-party
@@ -122,8 +123,8 @@
 ||gxwjkbxubfjd.com^$popup,third-party
 ||halal.ad^$third-party
 ||hclccadfmkpw.com^$popup,third-party
-||hdnvtfyvyhq.com^
 ||hdnvtfyvyhq.com^$popup
+||hdnvtfyvyhq.com^$third-party
 ||hitadsmedia.com^$third-party
 ||hpkkzzyek.com^
 ||hwoxt.com^$popup
@@ -178,7 +179,7 @@
 ||jjxsdkphpcwu.com^$popup,third-party
 ||juruiklan.com^$third-party
 ||katurars.com^$third-party
-||kelris.pw^
+||kelris.pw^$third-party
 ||kitabanget.com^$popup,third-party
 ||klikabadi.^$third-party
 ||klikajadeh.com^$third-party
@@ -191,7 +192,7 @@
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||motosal.net^$popup
-||mousheen.net^
+||mousheen.net^$third-party
 ||mybannermaker.com^$third-party
 ||naetoris.pw^$popup
 ||nwsderzo.com^
@@ -220,7 +221,7 @@
 ||props.id^$third-party
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
-||pwdmtyzyq.com^$popup,third-party
+||pwdmtyzyq.com^
 ||pxlqyrteuuh.com^
 ||q1xyxm89.com^$popup
 ||qgpmtdrm.com^
@@ -252,6 +253,7 @@
 ||situsiklanbaris.com^$third-party
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
+||syndopop.com^$popup
 ||teliad.com^$third-party
 ||tharbadir.com^$third-party
 ||theclickers.net^$third-party
@@ -274,7 +276,7 @@
 ||window-close.ga^$popup,third-party
 ||xbfk51p7.review^$popup,third-party
 ||xcwnwrgvwg.com^
-||xqkzsifxgv.com^$script,domain=kissasian.sh
+||xqkzsifxgv.com^
 ||yesads.com^$third-party
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^
@@ -1295,7 +1297,7 @@ seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
 hentai2read.com##a[href^="//www.nutaku.net/signup/"]
 bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
-01nonton.com,123drakor.com,46.166.167.16,bioskop168.co,bioskop168.online,bioskop168.pro,bioskop45.com,bioskopbokep21.com,bokepml.online,bokepngetop.com,bokeponline.download,dewamovie.tv,drakorindo.tv,filmbioskop21.co,filmroster.tv,gandhool.net,ganoolmovie.video,gudangmovies21.cc,idbioskop.com,indomovies.club,indomv.net,indoxx1.club,layarmovie21.co,layarxxi.online,lk21.cam,lk21.rip,lk21.web.id,nekopoi.care,nekopoi.cash,nekopoi.lol,nonton-streaming.com,nonton33.net,nonton789.com,nontonani.me,nontondrama.me,nontongratis88.com,nontonmovie81.com,nontonsub.co,nontonsub.com,ns21.me,sashahillfilm.com,satujiwa.net,semprot.com,semprotku.com,sinemaindo.web.id,sukamovie.mobi,thirdstarfilm.com,zonabola.id##a[href^="http://bit.ly/"]
+01nonton.com,123drakor.com,46.166.167.16,bioskop168.co,bioskop168.online,bioskop168.pro,bioskop45.com,bioskopbokep21.com,bokepml.online,bokepngetop.com,bokeponline.download,dewamovie.tv,drakorindo.tv,filmbioskop21.co,filmroster.tv,gandhool.net,ganoolmovie.video,gudangmovies21.cc,idbioskop.com,indomovies.club,indomv.net,indoxx1.club,layarmovie21.co,layarxxi.online,lk21.cam,lk21.rip,lk21.web.id,meownime.id,nekopoi.care,nekopoi.cash,nekopoi.lol,nonton-streaming.com,nonton33.net,nonton789.com,nontonani.me,nontondrama.me,nontongratis88.com,nontonmovie81.com,nontonsub.co,nontonsub.com,ns21.me,sashahillfilm.com,satujiwa.net,semprot.com,semprotku.com,sinemaindo.web.id,sukamovie.mobi,thirdstarfilm.com,zonabola.id##a[href^="http://bit.ly/"]
 bokepml.online,lk21.web.id,nonton33.net##a[href^="http://goo.gl/"]
 nontoncinema.org##a[href^="http://referral."]
 lk21xxi.net##a[href^="http://totalgame.online"]
@@ -1519,6 +1521,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||neumanga.$generichide
 @@||neumanga.tv^$generichide
+@@||ngantukberat.me/wp-content/plugins/wp-safelink-v3/assets/fuckadblock.js$script,~third-party
+@@||ngantukberat.me^$generichide
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
