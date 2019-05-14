@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KG++GEUIcCBwYV9ZhEOTvQ
+! Checksum: ZHsQPP8XbTo+K84PWppE6g
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 May 13, 09:37:07
+! Last modified: 2019 May 15, 04:58:03
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -3447,6 +3447,7 @@ templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 -sponsorqq.
 -tiketbet.
 -transpoker.
+-tri7bet.
 -tugupoker-
 -tugupoker.
 -visitogel.
@@ -3561,6 +3562,7 @@ templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 /dahsyatqq.
 /damqq.
 /danaqq.
+/datukqq.
 /demenqq-
 /depoqq-
 /depoqq.
@@ -3752,6 +3754,7 @@ templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 /lotustogel.
 /lpkiukiu.
 /luxury-top.
+/luxury777-
 /m88domino.
 /mabesqq.
 /macaubet.
@@ -3868,6 +3871,7 @@ templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 /rajacapsa-
 /rajacapsa.
 /rajajudiqq-
+/rajapoker-
 /rajapoker.
 /rajasakong88.
 /rajatogel88-
@@ -3875,6 +3879,7 @@ templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 /rajawalisport.
 /ratubet728x90.
 /ratukasino.
+/ratulotto.
 /ratuqq.
 /rctiqq.
 /rdomino.
@@ -3955,6 +3960,7 @@ templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 /togeltoto.
 /toppoker789.
 /totohoki.
+/totojek-
 /totokita.
 /toyotaqiuqiu.
 /tstotosaja.
