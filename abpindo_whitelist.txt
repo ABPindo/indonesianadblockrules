@@ -61,6 +61,7 @@
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animexin.jin-7.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||riauonline.co.id^$generichide
@@ -72,4 +73,5 @@
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||updatetribun.^$generichide
+@@||virtualdata.me/webroot/js/ads.js$script,~third-party
 @@||www.google-analytics.com/analytics.js$script,domain=www.pricebook.co.id
