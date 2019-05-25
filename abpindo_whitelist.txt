@@ -1,5 +1,3 @@
-@@||njiir.com^$generichide
-@@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=www.njiir.com
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id
 @@.png#$image,domain=1idsly.com|anisubindo.video|link.akuno.net|neumanga.tv|www.komikindo.web.id|www.oploverz.in|www.tokusatsuindo.com
@@ -30,6 +28,7 @@
 @@||biargreget.top^$generichide
 @@||cat3movie.us^$generichide
 @@||cinemamkv.net^$generichide
+@@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=www.njiir.com
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
 @@||dukun-cit.com^$generichide
@@ -60,6 +59,7 @@
 @@||neumanga.tv^$generichide
 @@||ngantukberat.me/wp-content/plugins/wp-safelink-v3/assets/fuckadblock.js$script,~third-party
 @@||ngantukberat.me^$generichide
+@@||njiir.com^$generichide
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
