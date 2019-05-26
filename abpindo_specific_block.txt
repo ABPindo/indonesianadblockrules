@@ -195,16 +195,13 @@
 ||ns21.*/wp-includes/js/hoverIntent.min.js
 ||numpanglewat.com^$third-party
 ||numpangnonton.*/wp-content/uploads/*.gif$image
-||oketekno.com/wp-content/uploads/2015/11/ezgif.com-optimize1.gif$image
 ||pergi.klik-link.us/wpsafelink.js$script,domain=www.kazefuri.web.id
-||pic5678.com^$third-party
 ||playwebgame.com/banner/$third-party
 ||porntrex.com/images/pt728.gif
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||pwbjlbz.com^$domain=kompas.com
 ||resep.web.id/banner/
-||safelinku.com/fullpage/script.js$script,third-party
 ||semi168.*/wp-content/uploads/*.gif$image
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image

@@ -2,13 +2,13 @@
 ||cfs1.uzone.id^$third-party
 ||easy-hit-counter.com^$third-party
 ||ktrackdata.com^$popup,third-party
+||themobiletracker.$popup
 ||themobiletracker.$third-party
-||themobiletracker.com^$popup
 ||track.aptitudemedia.co^$popup
 ||track.spzan.com^$popup
 ||track.zerofriend.com^$popup,third-party
 ||trackdan.com^$popup
-||tracker.beritagar.id^
+||tracker.beritagar.id^$third-party
 ||tracker.lazada.co.id^$third-party
 ||trackingclick.net^$popup
 ||trackingclick.net^$third-party
