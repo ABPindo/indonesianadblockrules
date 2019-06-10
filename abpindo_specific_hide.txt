@@ -288,6 +288,7 @@ www.dream.co.id##.banner-sc
 dream.co.id##.banner-sc2
 modifikasi.com##.banner-top
 oktavita.com##.banner-zone
+www.juragan-anime.net##.banner3
 tekno.kompas.com##.banner620x80
 kompas.com##.bannerAdB
 kompas.com##.bannerCenter
@@ -373,6 +374,7 @@ layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
 detik.com##.frame_iklan_baris
+manganime.id##.ftadss
 utusan.com.my##.g-slice__item:-abp-has(div[id="DFP-ads"])
 myasiantv.se##.glx-link
 myasiantv.se##.glx-teaser
@@ -497,6 +499,9 @@ teknologi.inilah.com##.wb-300x250
 www.medcom.id##.widebanner.banner
 cdramabase.com##.wpa
 jalantikus.com##[class^="ad-"][class*="-container"]
+neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
+idfl.top##[href="http://dewanmas.com/"]
+idfl.top##[href="http://menangvip.org/"]
 www.kazefuri.web.id##[href="javascript:showHideGB()"]
 bioskop168.pro##[href^="http://linkalternatif."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]

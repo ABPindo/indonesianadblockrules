@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EqCNvKhZuDJEOcmm9UCFYA
+! Checksum: rZnxzZ4LPz1KUONay7H+Vw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 June 05, 19:56:18
+! Last modified: 2019 June 10, 16:00:44
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -126,6 +126,7 @@
 ||iarfina.pw^$popup
 ||iarfina.pw^$third-party
 ||ig0nr8hhhb.com^
+||ihosetch.com^
 ||iklan-indo.^$third-party
 ||iklan-laris.com^$third-party
 ||iklan-sukses.com^$third-party
@@ -212,6 +213,7 @@
 ||props.id^$third-party
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
+||pvclouds.com^
 ||q1xyxm89.com^$popup
 ||raja12shio.^$popup,third-party
 ||ravalynn.pw^
@@ -401,6 +403,7 @@ iklan300x250.gif|
 ||filmace21.net/imgiklan/*.gif$image
 ||filmace21.net/imgiklanz/*.gif$image
 ||filmbaru.in/wp-content/uploads/*.gif$image
+||filmbioskop21.*/wp-content/uploads/*.gif$image
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||forumbitcoin.co.id/other/banner/*-*.$image
 ||forumbookie.com/banner/
@@ -563,6 +566,9 @@ iklan300x250.gif|
 1idsly.com##+js(nano-setInterval-booster.js)
 animeindo.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 animeindo.*##+js(setInterval-defuser.js, (), 500)
+animeindo.moe##+js(abort-on-property-read.js, Base64.encode)
+animeindo.moe##+js(abort-on-property-read.js, popjs.init)
+animeindo.moe##+js(abort-on-property-write.js, AaDetector)
 animeindo.moe##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 animeindo.moe##+js(setInterval-defuser.js, (), 500)
 cinemamkv.*##+js(abort-on-property-read.js, go_get_url)
@@ -592,7 +598,9 @@ kompas.com##+js(abort-on-property-read.js, $getWin)
 kompas.com##^script:has-text(axtd)
 mangacanblog.com##+js(abort-on-property-read.js, adblock)
 merdekaid.online##+js(addEventListener-defuser.js, load, 2000)
+muhammadyoga.me##+js(addEventListener-defuser.js, load, onload)
 neumanga.*##+js(addEventListener-defuser.js, load, nextFunction)
+njiir.com##+js(set-constant.js, safelink.adblock, false)
 obengplus.com##+js(bab-defuser.js)
 oload.*##+js(openload.co.js)
 oload.*##+js(window.open-defuser.js)
@@ -601,14 +609,14 @@ overlordfree.web.id##+js(abort-on-property-write.js, ai_adb_overlay)
 overlordfree.web.id##+js(set-constant.js, showAds, true)
 razerflixs.com##+js(addEventListener-defuser.js, load, onload)
 samehadaku.tv##+js(set-constant.js, $tieE3, true)
+shrink.vip##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 smallencode.com##+js(abort-on-property-write.js, _pop)
 suarankri.me##+js(addEventListener-defuser.js, load, onload)
 templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 tribunnews.com##+js(abort-on-property-read.js, $getWin)
 updatetribun.org##+js(addEventListener-defuser.js, load, onload)
-njiir.com##+js(set-constant.js, safelink.adblock, false)
-shrink.vip##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-muhammadyoga.me##+js(addEventListener-defuser.js, load, onload)
+superitu.com##+js(popads-dummy.js)
+hexafile.net##+js(setTimeout-defuser.js, nextFunction, 250)
 ! *** abpindo_whitelist.txt ***
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id
@@ -2070,6 +2078,7 @@ muhammadyoga.me##+js(addEventListener-defuser.js, load, onload)
 ||liga369.$third-party
 ||liga77.$popup
 ||liga77.$third-party
+||liga788.$popup
 ||liga88.$popup
 ||liga88.$third-party
 ||liga888.$popup
@@ -3766,6 +3775,7 @@ muhammadyoga.me##+js(addEventListener-defuser.js, load, onload)
 /mejasakong.
 /menangqq-
 /menangqq.
+/mewahbet.
 /mgmcash88.
 /mikirpoker.
 /mitraqq.

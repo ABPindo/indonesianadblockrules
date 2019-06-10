@@ -64,6 +64,7 @@
 ##.ads-container
 ##.ads-head
 ##.ads-pop
+~idfl.top##.adsBox
 ##.ads__side
 ~anibatch.id##.adsbox
 ~aktual.id,~datasekolah.co.id##.adsbygoogle

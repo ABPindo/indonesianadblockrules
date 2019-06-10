@@ -71,6 +71,7 @@
 ||filmace21.net/imgiklan/*.gif$image
 ||filmace21.net/imgiklanz/*.gif$image
 ||filmbaru.in/wp-content/uploads/*.gif$image
+||filmbioskop21.*/wp-content/uploads/*.gif$image
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||forumbitcoin.co.id/other/banner/*-*.$image
 ||forumbookie.com/banner/

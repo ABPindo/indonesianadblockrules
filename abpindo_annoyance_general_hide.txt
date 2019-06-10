@@ -48,6 +48,7 @@
 ##a[href$="ref=bokepmania"]
 ##a[href="http://103.10.201.26"]
 ##a[href^="Http://ApiBet."]
+##a[href^="Http://ApiKartu."]
 ##a[href^="Http://www.DewaTogel."]
 ##a[href^="Http://www.DuniaSarana."]
 ##a[href^="Http://www.EradominoQQ."]
