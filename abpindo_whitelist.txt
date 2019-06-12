@@ -39,6 +39,7 @@
 @@||hightech.web.id^$generichide
 @@||idsly.$generichide
 @@||idsly.*/webroot/js/ads.js$script,~third-party
+@@||illyasave.com^$generichide
 @@||indexmovie.download^$generichide
 @@||kazefuri.web.id^$generichide
 @@||klikshowtime.com^$generichide
@@ -64,7 +65,7 @@
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animexin.jin-7.com|belajarbro.id|dukun-cit.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animexin.jin-7.com|belajarbro.id|dukun-cit.com|www.illyasave.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||riauonline.co.id^$generichide
