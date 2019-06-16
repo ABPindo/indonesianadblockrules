@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MvE50BeTNvNV3lQjtDm6Bw
+! Checksum: 7JvAjjTo0aptMY/aWC/QrQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 June 15, 07:44:26
+! Last modified: 2019 June 16, 08:03:33
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -621,6 +621,9 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 superitu.com##+js(popads-dummy.js)
 hexafile.net##+js(setTimeout-defuser.js, nextFunction, 250)
 belajarbro.id##+js(bab-defuser.js)
+megaurl.in##+js(bab-defuser.js)
+megaurl.in##+js(abort-on-property-read.js, jQuery.adblock)
+megaurl.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 ! *** abpindo_whitelist.txt ***
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/adaffiliate_/$image,domain=shirosafe.web.id|www.kazefuri.web.id
@@ -689,7 +692,7 @@ belajarbro.id##+js(bab-defuser.js)
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animexin.jin-7.com|belajarbro.id|dukun-cit.com|www.illyasave.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animexin.jin-7.com|belajarbro.id|dukun-cit.com|www.animenyus.com|www.illyasave.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||riauonline.co.id^$generichide
