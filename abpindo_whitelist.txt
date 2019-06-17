@@ -47,6 +47,7 @@
 @@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
 @@||leantoro.com/wp-content/plugins/newkarma-core/js/fuckadblock.js$script,~third-party
+@@||lewat.club/js/ads.js$first-party,script
 @@||majalahikan.com^$generichide
 @@||mangasave.us^$generichide
 @@||mivo.com^$generichide
@@ -65,7 +66,7 @@
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animexin.jin-7.com|belajarbro.id|dukun-cit.com|www.animenyus.com|www.illyasave.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animexin.jin-7.com|belajarbro.id|dukun-cit.com|lewat.club|www.animenyus.com|www.illyasave.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||riauonline.co.id^$generichide

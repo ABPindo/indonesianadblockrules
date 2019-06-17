@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: iXsgGYYjP4v/c83FNrdDsw
+! Checksum: 3b2HJs65HEKfH2xEP0P+gQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 June 16, 08:07:53
+! Last modified: 2019 June 17, 20:36:53
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -674,6 +674,7 @@ megaurl.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
 @@||leantoro.com/wp-content/plugins/newkarma-core/js/fuckadblock.js$script,~third-party
+@@||lewat.club/js/ads.js$first-party,script
 @@||majalahikan.com^$generichide
 @@||mangasave.us^$generichide
 @@||mivo.com^$generichide
@@ -692,7 +693,7 @@ megaurl.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animexin.jin-7.com|belajarbro.id|dukun-cit.com|www.animenyus.com|www.illyasave.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animexin.jin-7.com|belajarbro.id|dukun-cit.com|lewat.club|www.animenyus.com|www.illyasave.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||riauonline.co.id^$generichide

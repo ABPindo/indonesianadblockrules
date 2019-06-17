@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: v/zcNhy7kYFzzj+0vsFYTw
+! Checksum: 88iTEBKFt76H7vS6pOQ7CA
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 June 16, 08:07:53
+! Last modified: 2019 June 17, 20:36:53
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -402,7 +402,7 @@ iklan300x250.gif|
 ~idfl.top##.adsBox
 ##.ads__side
 ~anibatch.id##.adsbox
-~aktual.id,~datasekolah.co.id##.adsbygoogle
+~aktual.id,~datasekolah.co.id,~lewat.club##.adsbygoogle
 ##.adsbymgid
 ##.adsbyrunactive
 ##.adspace_300
@@ -1512,6 +1512,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
 @@||leantoro.com/wp-content/plugins/newkarma-core/js/fuckadblock.js$script,~third-party
+@@||lewat.club/js/ads.js$first-party,script
 @@||majalahikan.com^$generichide
 @@||mangasave.us^$generichide
 @@||mivo.com^$generichide
@@ -1530,7 +1531,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animexin.jin-7.com|belajarbro.id|dukun-cit.com|www.animenyus.com|www.illyasave.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animexin.jin-7.com|belajarbro.id|dukun-cit.com|lewat.club|www.animenyus.com|www.illyasave.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||riauonline.co.id^$generichide
