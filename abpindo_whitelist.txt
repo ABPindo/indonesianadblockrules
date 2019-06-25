@@ -4,6 +4,7 @@
 @@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|dutaislam.com|gadget2reviews.com|idsly.net|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|sdrama.com|shirosafe.web.id|www.biargreget.top|www.kazefuri.web.id|www.klikshowtime.com|www.komikindo.web.id|www.riauonline.co.id
 @@/advertisement-$script,domain=duosia.id
 @@/advertisement.$script,domain=kumpulmanga.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
+@@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
 @@logo*.png#*/ads/$image,~third-party
 @@||.bloggerku.com/safelink/2.0/script.js?$script,domain=www.animanganews.com
 @@||1idsly.com^$generichide
