@@ -19,6 +19,7 @@ ABPindo merupakan filter Adblock Plus compatible untuk memblokir iklan menggangg
 | ABPindo|Filter default [uBlock Origin](https://github.com/gorhill/uBlock#installation), [Adblock Plus](https://adblockplus.org/en/) regional Indonesia dan Malaysia <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt`|
 | ABPindo_noelementhide|ABPindo tanpa filter element hide <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt`|
 | ABPindo_noannoyance|ABPindo tanpa filter judi (annoyance) <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt`|
+Wiki tentang [Penempatan daftar iklan](https://github.com/ABPindo/indonesianadblockrules/wiki/Penempatan-daftar-iklan)
 
 ## Ingin berkontribusi
 Masih banyak situs yang terlewat, entah karena situsnya telah diperbaharui atau karena situsnya belum ditambahkan ke dalam ABPindo. Oleh karena itu jika menemukan hal-hal tersebut bisa membantu kami lewat
