@@ -5,6 +5,7 @@
 @@/advertisement-$script,domain=duosia.id
 @@/advertisement.$script,domain=kumpulmanga.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
 @@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
+@@gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
 @@logo*.png#*/ads/$image,~third-party
 @@||.bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com
 @@||1idsly.com^$generichide
@@ -26,10 +27,10 @@
 @@||asiancine.com^$generichide
 @@||bagilagi.com^$generichide
 @@||biargreget.top^$generichide
+@@||bloggerku.com/safelink/2.0/script.js?$script,domain=njiir.com
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
 @@||cat3movie.us^$generichide
 @@||cinemamkv.net^$generichide
-@@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=njiir.com
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
 @@||dukun-cit.com^$generichide
@@ -50,6 +51,7 @@
 @@||komikstation.com^$generichide
 @@||leantoro.com/wp-content/plugins/newkarma-core/js/fuckadblock.js$script,~third-party
 @@||lewat.club/js/ads.js$first-party,script
+@@||ljutkeunvpn.blogspot.com^$generichide
 @@||majalahikan.com^$generichide
 @@||mangasave.us^$generichide
 @@||mivo.com^$generichide
