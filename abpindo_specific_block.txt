@@ -1,3 +1,4 @@
+$popup,domain=cinemamkv.net
 .com/em.js$script,domain=kurinaofficial.com
 /riandiramdani/safelinku.*/*.js$script,domain=www.kazefuri.web.id
 /wp-content/plugins/soralink/assets/js/sora.php$script,domain=animebatch.id|www.animebaru.in|www.animebatch.web.id

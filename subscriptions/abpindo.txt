@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8yT1k2TlUMCqzXWpt+4hgQ
+! Checksum: cCOlXqoPuaUxaw4BROc2FQ
 ! Title: ABPindo
-! Last modified: 2019 July 03, 18:47:13
+! Last modified: 2019 July 10, 06:03:04
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -217,6 +217,10 @@
 ||peevopoy.com^
 ||phastoag.com^
 ||pheergar.com^$third-party
+||pheersie.com^$popup
+||pheersie.com^$third-party
+||phengung.net^
+||phudrour.net^$popup
 ||pippio.com^$third-party
 ||pondokiklan.com^$third-party
 ||popclck.net^$popup,third-party
@@ -498,6 +502,7 @@ iklan300x250.gif|
 ##img[title="pasang iklan"]
 ##img[title="pasang-iklan"]
 ! *** abpindo_specific_block.txt ***
+$popup,domain=cinemamkv.net
 .com/em.js$script,domain=kurinaofficial.com
 /riandiramdani/safelinku.*/*.js$script,domain=www.kazefuri.web.id
 /wp-content/plugins/soralink/assets/js/sora.php$script,domain=animebatch.id|www.animebaru.in|www.animebatch.web.id
@@ -799,6 +804,9 @@ allapp.xyz##+js(addEventListener-defuser.js, load, 2000)
 adtival.network##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 dicariguru.com##+js(abort-on-property-write.js, adBlockDetected)
 tribunnews.com##+js(abort-current-inline-script.js, Math, ='\x)
+cinemamkv.net##+js(set-constant.js, _ocads, noopFunc)
+cinemamkv.net##+js(abort-on-property-read.js, go_get_url)
+cinemamkv.net##+js(nowebrtc.js)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
