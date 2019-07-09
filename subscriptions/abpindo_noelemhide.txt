@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oxpwozbwUCQgkxqd3DPKXw
+! Checksum: yaJPlqyQJRNpfKch9K+v6A
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 July 10, 06:09:16
+! Last modified: 2019 July 10, 06:38:52
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -127,6 +127,7 @@
 ||halal.ad^$third-party
 ||hclccadfmkpw.com^$popup,third-party
 ||hdnvtfyvyhq.com^$popup
+||hegarberetrof.pro^$popup
 ||herdethi.net^
 ||hitadsmedia.com^$third-party
 ||hwoxt.com^$popup
@@ -580,6 +581,7 @@ $popup,domain=cinemamkv.net
 ||www.conan.id/wp-content/uploads/2018/*.gif$image
 ||www.mangacanblog.com/adblock/src/adblock-checker.js
 ||www.nontondramas.*/wp-content/uploads/*.gif$image
+||www.seputaranime.net/wp-content/plugins/soralink/assets/js/soralink.js$script,domain=www.animebatch.id
 ||www.streamingbokeps.*/ngiklan/$image
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
@@ -587,56 +589,77 @@ $popup,domain=cinemamkv.net
 ||zonawibu.me/data/ngentod.js$script,domain=web.zonawibu.me
 ! *** abpindo_specific_ublock.txt ***
 ! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
-tribunnews.com## + js(abort-current-inline-script.js, Math, ='\x)
-awsubs.tv## + js(abort-current-inline-script.js, Math, zfgloaded)
-kompas.com## + js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
-oko.sh## + js(abort-on-property-read.js)
-justjared.com,kompas.com,tribunnews.com## + js(abort-on-property-read.js, $getWin)
-gembelcit.net## + js(abort-on-property-read.js, AaDetector)
-mangacanblog.com## + js(abort-on-property-read.js, adblock)
-adtival.network,shrink.vip,templink.org## + js(abort-on-property-read.js, app_vars.force_disable_adblock)
-animeindo.moe## + js(abort-on-property-read.js, base64.encode)
-komikcast.com## + js(abort-on-property-read.js, document.onclick)
-cinemamkv.net## + js(abort-on-property-read.js, go_get_url)
-megaurl.in## + js(abort-on-property-read.js, jquery.adblock)
-awsubs.tv## + js(abort-on-property-read.js, popjs)
-animeindo.moe## + js(abort-on-property-read.js, popjs.init)
-animeindo.moe## + js(abort-on-property-write.js, AaDetector)
-smallencode.com## + js(abort-on-property-write.js, _pop)
-dicariguru.com## + js(abort-on-property-write.js, adBlockDetected)
-overlordfree.web.id## + js(abort-on-property-write.js, ai_adb_overlay)
-komikindo.web.id,mediakita.blog## + js(addEventListener-defuser.js)
-animeindo.moe## + js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
-allapp.xyz,infotrendy.me,merdekaid.online## + js(addEventListener-defuser.js, load, 2000)
-cepmuzikindir.me,jelajahinternet.me,komikcast.com,muhammadyoga.me,razerflixs.com,suarankri.me,updatetribun.org## + js(addEventListener-defuser.js, load, onload)
-belajarbro.id,fendy.web.id,get.web.id,ld2tv.me,megaurl.in,obengplus.com## + js(bab-defuser.js)
-1idsly.com## + js(nano-setInterval-booster.js)
-cinemamkv.net## + js(nowebrtc.js)
-superitu.com## + js(popads-dummy.js)
-samehadaku.tv## + js(set-constant.js, $tieE3, true)
-cinemamkv.net## + js(set-constant.js, _ocads, noopFunc)
-njiir.com## + js(set-constant.js, safelink.adblock, false)
-overlordfree.web.id## + js(set-constant.js, showAds, true)
-animeindo.moe## + js(setInterval-defuser.js, (), 500)
-hexafile.net## + js(setTimeout-defuser.js, nextFunction, 250)
-kompas.com##^script:has-text(axtd)
-gurusd.web.id##^script:has-text(safelink)
+1idsly.com##+js(nano-setInterval-booster.js)
 animeindo.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 animeindo.*##+js(setInterval-defuser.js, (), 500)
+animeindo.moe##+js(abort-on-property-read.js, Base64.encode)
+animeindo.moe##+js(abort-on-property-read.js, popjs.init)
+animeindo.moe##+js(abort-on-property-write.js, AaDetector)
+animeindo.moe##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+animeindo.moe##+js(setInterval-defuser.js, (), 500)
+awsubs.tv##+js(abort-current-inline-script.js, Math, zfgloaded)
+awsubs.tv##+js(abort-on-property-read.js, popjs)
+belajarbro.id##+js(bab-defuser.js)
 cinemamkv.*##+js(abort-on-property-read.js, go_get_url)
 cinemamkv.*##+js(nowebrtc.js)
 cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
+cinemamkv.net##+js(abort-on-property-read.js, go_get_url)
+cinemamkv.net##+js(nowebrtc.js)
+cinemamkv.net##+js(set-constant.js, _ocads, noopFunc)
+fendy.web.id##+js(bab-defuser.js)
 ganol.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 ganol.*##+js(nowebrtc.js)
 ganol.*##+js(setInterval-defuser.js, (), 500)
 ganool.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 ganool.*##+js(nowebrtc.js)
 ganool.*##+js(setInterval-defuser.js, (), 500)
+gembelcit.net##+js(abort-on-property-read.js, AaDetector)
+get.web.id##+js(bab-defuser.js)
+gurusd.web.id##^script:has-text(safelink)
+hexafile.net##+js(setTimeout-defuser.js, nextFunction, 250)
+infotrendy.me##+js(addEventListener-defuser.js, load, 2000)
+jelajahinternet.me##+js(addEventListener-defuser.js, load, onload)
+justjared.com##+js(abort-on-property-read.js, $getWin)
+komikcast.com##+js(abort-on-property-read.js, document.onclick)
+komikcast.com##+js(addEventListener-defuser.js, load, onload)
+komikindo.web.id##+js(addEventListener-defuser.js)
+kompas.com##+js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
+kompas.com##+js(abort-on-property-read.js, $getWin)
+kompas.com##^script:has-text(axtd)
+mangacanblog.com##+js(abort-on-property-read.js, adblock)
 megaurl.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+megaurl.in##+js(abort-on-property-read.js, jQuery.adblock)
+megaurl.in##+js(bab-defuser.js)
+merdekaid.online##+js(addEventListener-defuser.js, load, 2000)
+muhammadyoga.me##+js(addEventListener-defuser.js, load, onload)
 neumanga.*##+js(addEventListener-defuser.js, load, nextFunction)
+njiir.com##+js(set-constant.js, safelink.adblock, false)
+obengplus.com##+js(bab-defuser.js)
 oload.*##+js(openload.co.js)
 oload.*##+js(window.open-defuser.js)
 oploverz.*##+js(setTimeout-defuser.js, nextFunction, 450)
+overlordfree.web.id##+js(abort-on-property-write.js, ai_adb_overlay)
+overlordfree.web.id##+js(set-constant.js, showAds, true)
+razerflixs.com##+js(addEventListener-defuser.js, load, onload)
+samehadaku.tv##+js(set-constant.js, $tieE3, true)
+shrink.vip##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+smallencode.com##+js(abort-on-property-write.js, _pop)
+suarankri.me##+js(addEventListener-defuser.js, load, onload)
+superitu.com##+js(popads-dummy.js)
+templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+tribunnews.com##+js(abort-on-property-read.js, $getWin)
+updatetribun.org##+js(addEventListener-defuser.js, load, onload)
+cepmuzikindir.me##+js(addEventListener-defuser.js, load, onload)
+ld2tv.me##+js(bab-defuser.js)
+oko.sh##+js(abort-on-property-read.js)
+allapp.xyz##+js(addEventListener-defuser.js, load, 2000)
+adtival.network##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+dicariguru.com##+js(abort-on-property-write.js, adBlockDetected)
+tribunnews.com##+js(abort-current-inline-script.js, Math, ='\x)
+cinemamkv.net##+js(set-constant.js, _ocads, noopFunc)
+cinemamkv.net##+js(abort-on-property-read.js, go_get_url)
+cinemamkv.net##+js(nowebrtc.js)
+mediakita.blog##+js(addEventListener-defuser.js)
 ! *** abpindo_whitelist.txt ***
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/adaffiliate_/$image,domain=kazefuri.web.id|shirosafe.web.id
@@ -700,6 +723,7 @@ oploverz.*##+js(setTimeout-defuser.js, nextFunction, 450)
 @@||muhammadyoga.me^$generichide
 @@||nama.web.id^$generichide
 @@||nekonime.$generichide
+@@||nekonime.tv^$generichide
 @@||nekopoi.*/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party

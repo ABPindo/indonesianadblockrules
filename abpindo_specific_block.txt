@@ -226,6 +226,7 @@ $popup,domain=cinemamkv.net
 ||www.conan.id/wp-content/uploads/2018/*.gif$image
 ||www.mangacanblog.com/adblock/src/adblock-checker.js
 ||www.nontondramas.*/wp-content/uploads/*.gif$image
+||www.seputaranime.net/wp-content/plugins/soralink/assets/js/soralink.js$script,domain=www.animebatch.id
 ||www.streamingbokeps.*/ngiklan/$image
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
