@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JRxU/0gRod0FEun/9oOEAA
+! Checksum: 1XXWZPW2cnL6LSi9tWLCGg
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 July 10, 06:38:52
+! Last modified: 2019 July 11, 10:02:17
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -15,9 +15,12 @@
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||128cash.org^$popup,third-party
+||2d7bd9e6eb370143.com^
 ||2go7v1nes8.com^
 ||35.188.59.75^$popup
 ||3b7c0f01022f61d5.com^$popup,third-party
+||47f624b2e6c6072e.com^
+||564d28256cddaeba.com^
 ||66cpwgln.space^$popup,third-party
 ||690179b5160e450.com^$popup,third-party
 ||6a0e2d19ac28.com^$popup,third-party
@@ -810,6 +813,7 @@ cinemamkv.net##+js(set-constant.js, _ocads, noopFunc)
 cinemamkv.net##+js(abort-on-property-read.js, go_get_url)
 cinemamkv.net##+js(nowebrtc.js)
 mediakita.blog##+js(addEventListener-defuser.js)
+streamxxi.com##+js(bab-defuser.js)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
