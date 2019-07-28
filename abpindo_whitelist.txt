@@ -57,6 +57,7 @@
 @@||majalahikan.com^$generichide
 @@||mangasave.us^$generichide
 @@||mivo.com^$generichide
+@@||modecepat.com/js/ads.js$first-party,script
 @@||muhammadyoga.me^$generichide
 @@||nama.web.id^$generichide
 @@||nekonime.$generichide
@@ -73,7 +74,7 @@
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|lewat.club
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|lewat.club|modecepat.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||riauonline.co.id^$generichide
