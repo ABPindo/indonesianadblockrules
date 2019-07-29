@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 9l4z8QQRZhkf99+ruO4QdA
+! Checksum: uM4DV15vV8a+64tZ5pb8tg
 ! Title: ABPindo
-! Last modified: 2019 July 28, 08:14:36
+! Last modified: 2019 July 29, 19:07:32
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1540,6 +1540,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||ad4msan.^$generichide
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
+@@||adsafelink.net/webroot/js/ads.js$script,~third-party
 @@||adturl.$generichide
 @@||adturl.com^$generichide
 @@||adturl.us^$generichide

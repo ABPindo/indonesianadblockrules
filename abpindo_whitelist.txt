@@ -14,6 +14,7 @@
 @@||ad4msan.^$generichide
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
+@@||adsafelink.net/webroot/js/ads.js$script,~third-party
 @@||adturl.$generichide
 @@||adturl.com^$generichide
 @@||adturl.us^$generichide

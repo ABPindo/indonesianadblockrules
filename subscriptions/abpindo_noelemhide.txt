@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EvBYnClSBnY5Xh/zVw+Gew
+! Checksum: afsEW2alaOC/0nYTN4LZGA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 July 28, 08:14:36
+! Last modified: 2019 July 29, 19:07:32
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -697,6 +697,7 @@ streamxxi.com##+js(bab-defuser.js)
 @@||ad4msan.^$generichide
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
+@@||adsafelink.net/webroot/js/ads.js$script,~third-party
 @@||adturl.$generichide
 @@||adturl.com^$generichide
 @@||adturl.us^$generichide
