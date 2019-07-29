@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Xaka2Ng6ZPvtn77FWcCoSQ
+! Checksum: 4qELnLCajWc3/3FlE0g40A
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 July 29, 19:07:32
+! Last modified: 2019 July 29, 20:36:01
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -239,6 +239,7 @@
 ||pheersie.com^$third-party
 ||phengung.net^$third-party
 ||phudrour.net^$popup
+||phywyzpugswttb.com^$third-party
 ||pippio.com^$third-party
 ||pondokiklan.com^$third-party
 ||popclck.net^$popup,third-party
