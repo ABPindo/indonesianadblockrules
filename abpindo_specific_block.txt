@@ -1,5 +1,4 @@
-$popup,domain=cinemamkv.net|mangacanblog.com
-.com/em.js$script,domain=kurinaofficial.com
+$popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
 /riandiramdani/safelinku.*/*.js$script,domain=www.kazefuri.web.id
 /wp-content/plugins/soralink/assets/js/sora.php$script,domain=animebatch.id|www.animebaru.in|www.animebatch.web.id
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com

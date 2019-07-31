@@ -79,6 +79,7 @@
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||riauonline.co.id^$generichide
+@@||safe.mirrordown.com/js/ads.js$script,~third-party
 @@||sdrama.com^$generichide
 @@||shirosafe.web.id^$generichide
 @@||suarankri.me^$generichide
