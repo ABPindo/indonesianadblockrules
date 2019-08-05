@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: S84K385rwWZQcLudf+LSKQ
+! Checksum: 0G4Xz5AMdnDZbNLvpKJ4rw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 August 03, 20:24:22
+! Last modified: 2019 August 05, 20:31:42
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -685,6 +685,8 @@ cinemamkv.net##+js(abort-on-property-read.js, go_get_url)
 cinemamkv.net##+js(nowebrtc.js)
 mediakita.blog##+js(addEventListener-defuser.js)
 streamxxi.com##+js(bab-defuser.js)
+adsafelink.net##+js(abort-on-property-read, app_vars.force_disable_adblock)
+adsafelink.net##+js(set-constant, blurred, false)
 ! *** abpindo_whitelist.txt ***
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/adaffiliate_/$image,domain=kazefuri.web.id|shirosafe.web.id
