@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: LOxgHN9lA++XhqkhqjeifQ
+! Checksum: 4DVabRoVH9FbDZ7WsPXCGw
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 August 05, 20:31:42
+! Last modified: 2019 August 10, 19:21:40
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -837,6 +837,9 @@ mediakita.blog##+js(addEventListener-defuser.js)
 streamxxi.com##+js(bab-defuser.js)
 adsafelink.net##+js(abort-on-property-read, app_vars.force_disable_adblock)
 adsafelink.net##+js(set-constant, blurred, false)
+razorlink.us##+js(set-constant, safelink.adblock, false)
+razorlink.us##+js(nano-sib)
+razorlink.us##+js(aopr, atob)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -1566,6 +1569,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
 @@||cat3movie.us^$generichide
 @@||cinemamkv.net^$generichide
+@@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=www.razorlink.us
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
 @@||dukun-cit.com^$generichide
@@ -1611,6 +1615,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|lewat.club|modecepat.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
+@@||razorlink.us^$generichide
 @@||riauonline.co.id^$generichide
 @@||safe.mirrordown.com/js/ads.js$script,~third-party
 @@||sdrama.com^$generichide
