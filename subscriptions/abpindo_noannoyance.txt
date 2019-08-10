@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4DVabRoVH9FbDZ7WsPXCGw
+! Checksum: kqqAUIH9YUaryf0gigMFOQ
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 August 10, 19:21:40
+! Last modified: 2019 August 10, 19:35:12
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -840,6 +840,7 @@ adsafelink.net##+js(set-constant, blurred, false)
 razorlink.us##+js(set-constant, safelink.adblock, false)
 razorlink.us##+js(nano-sib)
 razorlink.us##+js(aopr, atob)
+blogrp.me##+js(abort-on-property-read, app_vars.force_disable_adblock)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -1584,6 +1585,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||ijobanana.xyz^$generichide
 @@||illyasave.com^$generichide
 @@||indexmovie.download^$generichide
+@@||kabarviral.blog/js/ads.js$script,~third-party
 @@||kazefuri.web.id^$generichide
 @@||klikshowtime.com^$generichide
 @@||komikcast.com^$generichide
