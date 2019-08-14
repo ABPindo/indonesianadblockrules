@@ -8,6 +8,7 @@
 @@gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
 @@logo*.png#*/ads/$image,~third-party
 @@png#/*/adv/$image,domain=ijobanana.xyz
+@@png#/adaffiliate_/$image,domain=www.sanjayaops.com
 @@||.bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com
 @@||1idsly.com^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
@@ -77,12 +78,13 @@
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|lewat.club|modecepat.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|lewat.club|modecepat.com|www.nekopoi.web.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||razorlink.us^$generichide
 @@||riauonline.co.id^$generichide
 @@||safe.mirrordown.com/js/ads.js$script,~third-party
+@@||sanjayaops.com^$generichide
 @@||sdrama.com^$generichide
 @@||shirosafe.web.id^$generichide
 @@||suarankri.me^$generichide
