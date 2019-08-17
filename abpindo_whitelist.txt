@@ -6,6 +6,7 @@
 @@/advertisement.$script,domain=kumpulmanga.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
 @@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
 @@gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
+@@jpg#/adaffiliate_/$image,domain=kaze-batch.blogspot.com
 @@logo*.png#*/ads/$image,~third-party
 @@png#/*/adv/$image,domain=ijobanana.xyz
 @@png#/adaffiliate_/$image,domain=www.sanjayaops.com
@@ -50,6 +51,7 @@
 @@||illyasave.com^$generichide
 @@||indexmovie.download^$generichide
 @@||kabarviral.blog/js/ads.js$script,~third-party
+@@||kaze-batch.blogspot.com^$generichide
 @@||kazefuri.web.id^$generichide
 @@||klikshowtime.com^$generichide
 @@||komikcast.com^$generichide
