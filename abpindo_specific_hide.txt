@@ -503,6 +503,7 @@ jalantikus.com##[class^="ad-"][class*="-container"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
+kazefuri.blogspot.com##[href="http://www.cocobet.com/"]
 www.kazefuri.web.id##[href="https://kdslots.com/"]
 www.kazefuri.web.id##[href="javascript:showHideGB()"]
 animeboy.me##[href^="http://bit.ly/"]
