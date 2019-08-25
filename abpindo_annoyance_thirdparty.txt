@@ -1677,6 +1677,8 @@
 ||opuspoker.$third-party
 ||orientalpoker.$popup
 ||orientalpoker.$third-party
+||ovowin.$popup
+||ovowin.$third-party
 ||pabrikpoker.$third-party
 ||pacificpoker.com^$third-party
 ||pamelapoker.$popup
@@ -2112,6 +2114,8 @@
 ||senigoal.$third-party
 ||seniqq.$popup
 ||seniqq.$third-party
+||seniwin.$popup
+||seniwin.$third-party
 ||sentabet.$third-party
 ||sentanapoker.$popup
 ||sentanapoker.$third-party

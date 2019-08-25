@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3DfRDL0J2petiLCioiXUEg
+! Checksum: IMFE/+PPqBcuv2UNg18b6Q
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 August 20, 18:24:28
+! Last modified: 2019 August 25, 07:03:30
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1226,6 +1226,7 @@ cmovieshd.se##.hidden-xs
 bioskop21.co##.hilang2
 bioskop168.co,semi168.club##.home.border
 filmace21.net##.idmupi-topbanner
+layarlebar21.id##.idmuvi-afterplayer
 mangaku.in##.iframeiklan
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
@@ -1578,6 +1579,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||ijobanana.xyz^$generichide
 @@||illyasave.com^$generichide
 @@||indexmovie.download^$generichide
+@@||indozone.me^$generichide
 @@||kabarviral.blog/js/ads.js$script,~third-party
 @@||kaze-batch.blogspot.com^$generichide
 @@||kazefuri.blogspot.com^$generichide
@@ -1609,7 +1611,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|lewat.club|modecepat.com|www.nekopoi.web.id
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|indozone.me|lewat.club|modecepat.com|www.nekopoi.web.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||razorlink.us^$generichide

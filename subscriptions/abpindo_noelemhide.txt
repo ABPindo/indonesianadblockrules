@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: s34dIc+k0FSaxQahoo3Omw
+! Checksum: SoB8nPc3bmUBcTXW1ld/1g
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 August 20, 18:24:28
+! Last modified: 2019 August 25, 07:03:30
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -734,6 +734,7 @@ neowin.net##+js(abort-on-property-read, _sp_.mms.startMsg)
 @@||ijobanana.xyz^$generichide
 @@||illyasave.com^$generichide
 @@||indexmovie.download^$generichide
+@@||indozone.me^$generichide
 @@||kabarviral.blog/js/ads.js$script,~third-party
 @@||kaze-batch.blogspot.com^$generichide
 @@||kazefuri.blogspot.com^$generichide
@@ -765,7 +766,7 @@ neowin.net##+js(abort-on-property-read, _sp_.mms.startMsg)
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|lewat.club|modecepat.com|www.nekopoi.web.id
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|indozone.me|lewat.club|modecepat.com|www.nekopoi.web.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||razorlink.us^$generichide
@@ -2461,6 +2462,8 @@ neowin.net##+js(abort-on-property-read, _sp_.mms.startMsg)
 ||opuspoker.$third-party
 ||orientalpoker.$popup
 ||orientalpoker.$third-party
+||ovowin.$popup
+||ovowin.$third-party
 ||pabrikpoker.$third-party
 ||pacificpoker.com^$third-party
 ||pamelapoker.$popup
@@ -2896,6 +2899,8 @@ neowin.net##+js(abort-on-property-read, _sp_.mms.startMsg)
 ||senigoal.$third-party
 ||seniqq.$popup
 ||seniqq.$third-party
+||seniwin.$popup
+||seniwin.$third-party
 ||sentabet.$third-party
 ||sentanapoker.$popup
 ||sentanapoker.$third-party
@@ -3620,16 +3625,19 @@ neowin.net##+js(abort-on-property-read, _sp_.mms.startMsg)
 /brotogel.
 /bsakong1.
 /bsakong2.
+/buanabet.
 /bursabet-
 /bursabet.
 /cacingnaga.
 /cahayaqq.
 /cantikqq-
 /cantikqq.
+/capsa228.
 /capsaqqnew.
 /caradaftarpoker.
 /casinoitu.
 /cmobet.
+/cocobet.
 /daftardomino.
 /daftarqq.
 /daftartogelonline.
@@ -3753,6 +3761,7 @@ neowin.net##+js(abort-on-property-read, _sp_.mms.startMsg)
 /itubandar.
 /itucasino.
 /itudewa.
+/itugol.
 /itupk.
 /itupoker-
 /itupoker.
@@ -3979,6 +3988,7 @@ neowin.net##+js(abort-on-property-read, _sp_.mms.startMsg)
 /sahabatarena.
 /sahamdomino.
 /saranapoker.
+/saranghoki2.
 /sarangtogel.
 /sarjanapoker.
 /sbcagent.
@@ -4048,6 +4058,7 @@ neowin.net##+js(abort-on-property-read, _sp_.mms.startMsg)
 /tugupoker.
 /ubcwin.
 /utamaqq.
+/vegasidn.
 /vegasmarket.
 /venombet-
 /venombet.
