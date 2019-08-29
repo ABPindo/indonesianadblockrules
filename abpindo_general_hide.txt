@@ -1,4 +1,3 @@
-woof.tube#@#.adsbox
 ###Box-Banner-ads
 ###ad_box_1
 ###ad_divLeft
@@ -67,6 +66,7 @@ woof.tube#@#.adsbox
 ##.ads-pop
 ~idfl.top##.adsBox
 ##.ads__side
+woof.tube#@#.adsbox
 ~anibatch.id##.adsbox
 ~aktual.id,~datasekolah.co.id,~lewat.club##.adsbygoogle
 ##.adsbymgid

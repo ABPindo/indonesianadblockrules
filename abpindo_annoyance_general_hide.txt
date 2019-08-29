@@ -1,5 +1,3 @@
-##a[href$="/adsmurnibet"]
-##a[href^="http://gounibet."]
 ###judi
 ###togel
 ##[src="http://livesgp."]
@@ -16,6 +14,7 @@
 ##a[href$="/adsligacapsa "]
 ##a[href$="/adsligacapsa"]
 ##a[href$="/adsligapoker"]
+##a[href$="/adsmurnibet"]
 ##a[href$="/adspriaqq"]
 ##a[href$="/adsrumahsakong"]
 ##a[href$="/arenawin"]
@@ -390,6 +389,7 @@
 ##a[href^="http://gohbet."]
 ##a[href^="http://goodlucky99."]
 ##a[href^="http://gopiyopiyo."]
+##a[href^="http://gounibet."]
 ##a[href^="http://h8indo."]
 ##a[href^="http://halobos."]
 ##a[href^="http://halodewa."]
