@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: u0qEkYNOhS6pqpnGITk4Wg
+! Checksum: 3XUmEnuGaSf9Q9iorvqtyw
 ! Title: ABPindo
-! Last modified: 2019 August 30, 21:39:24
+! Last modified: 2019 August 30, 21:43:15
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -96,6 +96,7 @@
 ||daftarfun88.com^$popup,third-party
 ||dairouzy.net^$popup
 ||dalj98ktasppa.cloudfront.net^
+||daurifek.net^$third-party
 ||dearerfonder.info^$popup,third-party
 ||dermaga4d.net^$popup,third-party
 ||dewsburg.info^$third-party
@@ -507,10 +508,8 @@ iklan300x250.gif|
 ! *** abpindo_specific_block.txt ***
 $popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
 $xmlhttprequest,domain=mangacanblog.com
-/plugins/soralink/*.js$script,domain=anitoki.com|maxnime.com
-/plugins/soralink/*/sora$script,domain=animebaru.in|animebatch.id|animebatch.web.id
-/riandiramdani/safelinku.*/*.js$script,domain=kazefuri.web.id
-/wp-content/plugins/soralink/assets/js/soralink.js$script,domain=batch.id
+/plugins/soralink/*.js$script,domain=animebaru.in|animebatch.id|animebatch.web.id|anitoki.com|batch.id|maxnime.com
+/riandiramdani/safelink*.js$script,domain=kazefuri.web.id
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
 ||adsafelink.com/js/webscript.js$script,domain=downloadbatch.com|wibudesu.com
@@ -531,6 +530,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bioskop19.*/wp-content/uploads/*.gif$image
 ||bioskop21.*/wp-content/uploads/*.gif$image
 ||bioskop212.*/wp-content/uploads/*.gif$image
+||bioskop45.me/Banner/*.gif$image
 ||bioskop55.*/wp-content/uploads/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
@@ -598,6 +598,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
 ||globalinew.com/wpsafelink.js?v=1.8$script,domain=www.daizurin.com
+||gmovies.org/wp-content/uploads/*.gif$image
 ||grandxxi.*/img/banner/*.gif$image
 ||gsshop.co.id^*/background/banner-
 ||gudangmovies21.*/wp-content/uploads/*.gif$image
@@ -836,6 +837,7 @@ anitoki.com##+js(abort-on-property-read, Base64.encode)
 lewat.club##+js(noeval)
 lewat.club##+js(window.open-defuser)
 daizurin.com##+js(setTimeout-defuser, nextFunction, 250)
+anibatch.id##+js(abort-on-property-read, anOptions)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -1105,9 +1107,8 @@ ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
 woof.tube#@#.adsbox
 www.eramuslim.com##.adsbyadop
-paraedu.id##.adsbygoogle
+apkmod.id,nama.web.id,paraedu.id,radarlombok.co.id,www.eramuslim.com##.adsbygoogle
 aktual.id,datasekolah.co.id#@#.adsbygoogle
-apkmod.id,nama.web.id,radarlombok.co.id,www.eramuslim.com##.adsbygoogle
 www.pontianakpost.co.id##.adsense
 www.ganol.si##.adsincenter
 kshowid.com##.adssingle
@@ -5341,6 +5342,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.7nagabet."]
 ##a[href^="http://www.7nagapoker."]
 ##a[href^="http://www.7nagatoto."]
+##a[href^="http://www.99cashgg."]
 ##a[href^="http://www.99dinasti."]
 ##a[href^="http://www.99mania."]
 ##a[href^="http://www.HdpBola.net"]
@@ -6606,6 +6608,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /lobyqq.
 /lotustogel.
 /lpkiukiu.
+/luxury-pop-up-
 /luxury-top.
 /luxury777-
 /m88domino.

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: b8ic9zF7DCFtLd2Ii+QUbw
+! Checksum: MyVlCJlSQJAewdfaLs17lA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 August 30, 21:39:24
+! Last modified: 2019 August 30, 21:43:15
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -96,6 +96,7 @@
 ||daftarfun88.com^$popup,third-party
 ||dairouzy.net^$popup
 ||dalj98ktasppa.cloudfront.net^
+||daurifek.net^$third-party
 ||dearerfonder.info^$popup,third-party
 ||dermaga4d.net^$popup,third-party
 ||dewsburg.info^$third-party
@@ -367,10 +368,8 @@ iklan300x250.gif|
 ! *** abpindo_specific_block.txt ***
 $popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
 $xmlhttprequest,domain=mangacanblog.com
-/plugins/soralink/*.js$script,domain=anitoki.com|maxnime.com
-/plugins/soralink/*/sora$script,domain=animebaru.in|animebatch.id|animebatch.web.id
-/riandiramdani/safelinku.*/*.js$script,domain=kazefuri.web.id
-/wp-content/plugins/soralink/assets/js/soralink.js$script,domain=batch.id
+/plugins/soralink/*.js$script,domain=animebaru.in|animebatch.id|animebatch.web.id|anitoki.com|batch.id|maxnime.com
+/riandiramdani/safelink*.js$script,domain=kazefuri.web.id
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
 ||adsafelink.com/js/webscript.js$script,domain=downloadbatch.com|wibudesu.com
@@ -391,6 +390,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bioskop19.*/wp-content/uploads/*.gif$image
 ||bioskop21.*/wp-content/uploads/*.gif$image
 ||bioskop212.*/wp-content/uploads/*.gif$image
+||bioskop45.me/Banner/*.gif$image
 ||bioskop55.*/wp-content/uploads/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
@@ -458,6 +458,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
 ||globalinew.com/wpsafelink.js?v=1.8$script,domain=www.daizurin.com
+||gmovies.org/wp-content/uploads/*.gif$image
 ||grandxxi.*/img/banner/*.gif$image
 ||gsshop.co.id^*/background/banner-
 ||gudangmovies21.*/wp-content/uploads/*.gif$image
@@ -696,6 +697,7 @@ anitoki.com##+js(abort-on-property-read, Base64.encode)
 lewat.club##+js(noeval)
 lewat.club##+js(window.open-defuser)
 daizurin.com##+js(setTimeout-defuser, nextFunction, 250)
+anibatch.id##+js(abort-on-property-read, anOptions)
 ! *** abpindo_whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
 @@.jpg#$image,domain=komikcast.com
@@ -3869,6 +3871,7 @@ daizurin.com##+js(setTimeout-defuser, nextFunction, 250)
 /lobyqq.
 /lotustogel.
 /lpkiukiu.
+/luxury-pop-up-
 /luxury-top.
 /luxury777-
 /m88domino.
