@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: MyVlCJlSQJAewdfaLs17lA
+! Checksum: OCKF2ggWoSiNTunIEEQJGg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 August 30, 21:43:15
+! Last modified: 2019 August 31, 06:48:30
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -370,6 +370,7 @@ $popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
 $xmlhttprequest,domain=mangacanblog.com
 /plugins/soralink/*.js$script,domain=animebaru.in|animebatch.id|animebatch.web.id|anitoki.com|batch.id|maxnime.com
 /riandiramdani/safelink*.js$script,domain=kazefuri.web.id
+/wpsafelink.js$script,domain=lucikun.com|shitaranime.com
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
 ||adsafelink.com/js/webscript.js$script,domain=downloadbatch.com|wibudesu.com
