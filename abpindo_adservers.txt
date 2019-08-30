@@ -1,4 +1,3 @@
-||adtival.network^$third-party
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||128cash.org^$popup,third-party
@@ -41,6 +40,7 @@
 ||adtimeselaras.com^$popup
 ||adtimeselaras.com^$third-party
 ||adtival.com^$third-party
+||adtival.network^$third-party
 ||adtng.com^$popup
 ||advertnative.com^$third-party
 ||aenan.pw^$third-party

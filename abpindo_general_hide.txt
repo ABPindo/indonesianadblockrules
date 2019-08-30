@@ -1,13 +1,10 @@
-##.iklan-atas.ads
 ###Box-Banner-ads
 ###ad_box_1
 ###ad_divLeft
 ###ads-pop
 ###ads_banner_left
 ###ads_banner_right
-~anibatch.id,~cinemamkv.net,~cinemamkv.xyz,~gurusd.web.id,~kurikulum.co.id,~paraedu.id###adsense
 ###adv-placeholder
-~bagilagi.com,~kangibay.net###banner_ad
 ###banner_top_detail
 ###bireklam
 ###bottom_exclusive_ads
@@ -51,7 +48,6 @@
 ###switch-ad
 ###teaser2
 ###teaser3
-~eramuslim.com###topAd
 ###top_ad_full
 ###tupiklan
 ###v-overlay
@@ -65,21 +61,15 @@
 ##.ads-container
 ##.ads-head
 ##.ads-pop
-~idfl.top##.adsBox
 ##.ads__side
-woof.tube#@#.adsbox
-~anibatch.id##.adsbox
-~aktual.id,~datasekolah.co.id,~lewat.club##.adsbygoogle
 ##.adsbymgid
 ##.adsbyrunactive
 ##.adspace_300
 ##.adtext01
 ##.adunits.ads
-~animeindo.co,~animeindo.moe,~aplikasipc.com,~fmlawkers.club##.afs_ads
 ##.banner-iklan
 ##.bgads
 ##.bireklam
-~indoxx1.club##.content-kuss-ads
 ##.disads300px
 ##.fake_player
 ##.floatingBanner728
@@ -101,7 +91,7 @@ woof.tube#@#.adsbox
 ##.idmuvi-topbanner-aftermenu
 ##.idmuvi-topbanner-archive
 ##.idmuvi-topplayer
-~awsubs.co,~bioskop45.com,~kontan.co.id,~manteb.in,~securitylink.biz##.iklan
+##.iklan-atas.ads
 ##.iklan-bawah
 ##.iklan-bawah-player
 ##.iklan-kanan
@@ -132,14 +122,12 @@ woof.tube#@#.adsbox
 ##.qode-banner-right
 ##.remodal
 ##.rkads
-~oomph.co.id##.shareit
 ##.simple_advert
 ##.single_ad_728x90
 ##.subiklan
 ##.text-center.adv
 ##.topadsense
-##[href^="https://iklango."]
-~cnet.com##img[alt="Advertisement"]
+##a[href^="https://iklango."]
 ##img[alt="Iklan"]
 ##img[alt="Pasang Iklan Anda Disini"]
 ##img[alt="Pasang Iklan Murah"]

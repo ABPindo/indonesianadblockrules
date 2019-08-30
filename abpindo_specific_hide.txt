@@ -1,11 +1,3 @@
-lewat.club##[href^="https://manjur.id/search.php"]
-kabarviral.blog##[href^="https://manjur.id/search.php"]
-kawanfilm21.online###floating_banner_top1
-kawanfilm21.online##[href^="https://bit.ly/"]
-layarkacaxxi.id##a[href^="http://bit.ly/"]
-lk21c.fun##a[href^="http://rebrand.ly/"]
-lk21c.fun##a[href^="https://bit.ly/"]
-lk21c.fun##a[href^="https://rebrand.ly/"]
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 lihat.co.id###Iklan-Melayang
@@ -28,6 +20,7 @@ dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 dapurpacu.com###ads-vert-300
 premierexxi.com###ads_top_list
+gurusd.web.id,kurikulum.co.id#@##adsense
 bioskopgaul.com###adsimgxatas
 bioskopgaul.com###adsimgxatass
 tvkabel.net###adv
@@ -105,7 +98,7 @@ bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,biosk
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_right
 bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-cinema-indo.co,nontonbp.com,www.filmdewasa.me###floating_banner_top1
+cinema-indo.co,kawanfilm21.online,nontonbp.com,www.filmdewasa.me###floating_banner_top1
 bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_banner_tops
 ganool-link.com,ganool.link,untukku.com###footer-adcont
 gadgetren.com###footer_sticky_inside
@@ -271,7 +264,10 @@ grid.id##.ads_sky
 antaranews.com##.ads_top_728
 ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
+woof.tube#@#.adsbox
 www.eramuslim.com##.adsbyadop
+paraedu.id##.adsbygoogle
+aktual.id,datasekolah.co.id#@#.adsbygoogle
 apkmod.id,nama.web.id,radarlombok.co.id,www.eramuslim.com##.adsbygoogle
 www.pontianakpost.co.id##.adsense
 www.ganol.si##.adsincenter
@@ -281,6 +277,7 @@ mangaku.in,mangaku.web.id##.adv
 dramacool.io,dramanice.io,k-vid.com##.adv-space
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
+aplikasipc.com#@#.afs_ads
 indoxtream.com##.aligncenter
 bokep.click##.alignnone
 palingseru.com##.alignnone.size-large.wp-image-458
@@ -466,6 +463,7 @@ www.ibugil.net##.semprotpokemon_1
 www.ibugil.net##.semprotpokemon_2
 republika.co.id##.set-ads-468
 kazemanga.xyz##.sg-popup-builder-content
+oomph.co.id#@#.shareit
 cinemaindo.com##.side:nth-of-type(7)
 cinemaindo.com##.side:nth-of-type(8)
 cinemaindo.com##.side:nth-of-type(9)
@@ -520,7 +518,8 @@ www.kazefuri.web.id##[href="javascript:showHideGB()"]
 animeboy.me##[href^="http://bit.ly/"]
 bioskop168.pro##[href^="http://linkalternatif."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
-bokepvid.online,www.nontondramas.net##[href^="https://bit.ly/"]
+bokepvid.online,kawanfilm21.online,www.nontondramas.net##[href^="https://bit.ly/"]
+kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 idfl.me##[id^="yui-gen"].postcontainer
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
@@ -535,18 +534,20 @@ seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
 hentai2read.com##a[href^="//www.nutaku.net/signup/"]
 bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
-01nonton.com,123drakor.com,46.166.167.16,bioskop168.co,bioskop168.online,bioskop168.pro,bioskop45.com,bioskopbokep21.com,bokepml.online,bokepngetop.com,bokeponline.download,dewamovie.tv,drakorindo.tv,filmbioskop21.co,filmroster.tv,gandhool.net,ganoolmovie.video,gudangmovies21.cc,idbioskop.com,indomovies.club,indomv.net,indoxx1.club,layarmovie21.co,layarxxi.online,lk21.cam,lk21.rip,lk21.web.id,meownime.id,nekopoi.care,nekopoi.cash,nekopoi.lol,nonton-streaming.com,nonton33.net,nonton789.com,nontonani.me,nontondrama.me,nontongratis88.com,nontonmovie81.com,nontonsub.co,nontonsub.com,ns21.me,sashahillfilm.com,satujiwa.net,semprot.com,semprotku.com,sinemaindo.web.id,sukamovie.mobi,thirdstarfilm.com,zonabola.id##a[href^="http://bit.ly/"]
+01nonton.com,123drakor.com,46.166.167.16,bioskop168.co,bioskop168.online,bioskop168.pro,bioskop45.com,bioskopbokep21.com,bokepml.online,bokepngetop.com,bokeponline.download,dewamovie.tv,drakorindo.tv,filmbioskop21.co,filmroster.tv,gandhool.net,ganoolmovie.video,gudangmovies21.cc,idbioskop.com,indomovies.club,indomv.net,indoxx1.club,layarkacaxxi.id,layarmovie21.co,layarxxi.online,lk21.cam,lk21.rip,lk21.web.id,meownime.id,nekopoi.care,nekopoi.cash,nekopoi.lol,nonton-streaming.com,nonton33.net,nonton789.com,nontonani.me,nontondrama.me,nontongratis88.com,nontonmovie81.com,nontonsub.co,nontonsub.com,ns21.me,sashahillfilm.com,satujiwa.net,semprot.com,semprotku.com,sinemaindo.web.id,sukamovie.mobi,thirdstarfilm.com,zonabola.id##a[href^="http://bit.ly/"]
 kazefuri.web.id##a[href^="http://cocobet."]
 bokepml.online,lk21.web.id,nonton33.net##a[href^="http://goo.gl/"]
+lk21c.fun##a[href^="http://rebrand.ly/"]
 nontoncinema.org##a[href^="http://referral."]
 lk21xxi.net##a[href^="http://totalgame.online"]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 kazefuri.web.id##a[href^="http://www.cocobet."]
 hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
 anoboy.org##a[href^="http://www.pencetpoker."]
-animeindo.co,animeku.tv,anoboy.org,bioskop168.pro,bioskopbos.com,bioskopkeren.fun,bokepvid.club,cinemaindo.pro,dramaind.com,dunia21.top,eka.web.id,filmbioskop21.com,idxxi.co,indoxxi.top,layarindo21.pro,lk-21.me,lk21indo.co,lk21n.com,lk21xxi.co,mangaku.in,mangashiro.net,neonime.net,nontonbioskop21.org,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com,www.kazefuri.web.id,www.nontondramas.com,www.subindo.id##a[href^="https://bit.ly/"]
+animeindo.co,animeku.tv,anoboy.org,bioskop168.pro,bioskopbos.com,bioskopkeren.fun,bokepvid.club,cinemaindo.pro,dramaind.com,dunia21.top,eka.web.id,filmbioskop21.com,idxxi.co,indoxxi.top,layarindo21.pro,lk-21.me,lk21c.fun,lk21indo.co,lk21n.com,lk21xxi.co,mangaku.in,mangashiro.net,neonime.net,nontonbioskop21.org,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com,www.kazefuri.web.id,www.nontondramas.com,www.subindo.id##a[href^="https://bit.ly/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,bokepml.gq,bokepngetop.com,drakorindo.tv,gelorajiwaseks.com,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,semprot.com,semprotku.com,serunonton.com,www1.lk-21.me##a[href^="https://goo.gl/"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
+lk21c.fun##a[href^="https://rebrand.ly/"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
 awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]

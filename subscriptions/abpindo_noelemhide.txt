@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VglCxMWAbAOI8v3pEArUiA
+! Checksum: b8ic9zF7DCFtLd2Ii+QUbw
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 August 29, 19:59:09
+! Last modified: 2019 August 30, 21:39:24
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -54,6 +54,7 @@
 ||adtimeselaras.com^$popup
 ||adtimeselaras.com^$third-party
 ||adtival.com^$third-party
+||adtival.network^$third-party
 ||adtng.com^$popup
 ||advertnative.com^$third-party
 ||aenan.pw^$third-party
@@ -369,9 +370,10 @@ $xmlhttprequest,domain=mangacanblog.com
 /plugins/soralink/*.js$script,domain=anitoki.com|maxnime.com
 /plugins/soralink/*/sora$script,domain=animebaru.in|animebatch.id|animebatch.web.id
 /riandiramdani/safelinku.*/*.js$script,domain=kazefuri.web.id
+/wp-content/plugins/soralink/assets/js/soralink.js$script,domain=batch.id
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
-||adsafelink.com/js/webscript.js$script,domain=downloadbatch.com
+||adsafelink.com/js/webscript.js$script,domain=downloadbatch.com|wibudesu.com
 ||adsimg.kompas.com^$domain=kompas.com
 ||angel.exabytes.com.my/banners/
 ||anibatch.*/wp-content/uploads/*.gif$image
@@ -455,6 +457,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||ganool.link/wp-content/uploads/*.gif$image
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
+||globalinew.com/wpsafelink.js?v=1.8$script,domain=www.daizurin.com
 ||grandxxi.*/img/banner/*.gif$image
 ||gsshop.co.id^*/background/banner-
 ||gudangmovies21.*/wp-content/uploads/*.gif$image
@@ -514,6 +517,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||linkgenerator.xyz$script,third-party
 ||lk21.*/assets/*.gif$image
 ||lk21.*/wp-content/uploads/*.gif$image
+||lk21c.fun/wp-content/uploads/*.gif$image
 ||lk21n.*/wp-content/uploads/banner/*.gif$image
 ||lkxxi.*/wp-content/uploads/*.gif$image
 ||lytogame.com/images/partner/$third-party
@@ -543,6 +547,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||n21.*/wp-content/uploads/*.gif$image
+||ngasih.info/wpsafelink.js?ver=1.9$script,domain=sinanime.net
 ||nobartv.com/adsLoader/$xmlhttprequest
 ||nobartv.com/img/banner/*.gif$image
 ||nonton.club/wp-content/uploads/*.gif$image
@@ -688,6 +693,9 @@ neowin.net##+js(abort-on-property-read, _sp_.mms.startMsg)
 infosehatku.club##+js(addEventListener-defuser, load, onload)
 downloadbatch.com##+js(abort-on-property-write, adBlockDetected)
 anitoki.com##+js(abort-on-property-read, Base64.encode)
+lewat.club##+js(noeval)
+lewat.club##+js(window.open-defuser)
+daizurin.com##+js(setTimeout-defuser, nextFunction, 250)
 ! *** abpindo_whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
 @@.jpg#$image,domain=komikcast.com
@@ -3505,6 +3513,7 @@ anitoki.com##+js(abort-on-property-read, Base64.encode)
 -elangcapsa-
 -emasbet.
 -hanabet.
+-hitsbola-*.gif|
 -hoki365.
 -hokiqq-
 -incarqq.
@@ -3518,6 +3527,7 @@ anitoki.com##+js(abort-on-property-read, Base64.encode)
 -juaraqq-
 -juaraqq.
 -kartu66-728-
+-klik365-728-
 -klik66-728-
 -klikqq-728-
 -liga99-728-
@@ -3527,6 +3537,7 @@ anitoki.com##+js(abort-on-property-read, Base64.encode)
 -ligaqq.
 -melatipoker-
 -misiqq-
+-murnibet-728
 -mutiarapoker.gif|
 -oppabetnew.
 -pokerindo-
@@ -3552,6 +3563,7 @@ anitoki.com##+js(abort-on-property-read, Base64.encode)
 /233bet.
 /28bet.
 /388poker.
+/728-x-90-
 /899cash.
 /aabet.
 /abgqq-
@@ -3570,6 +3582,7 @@ anitoki.com##+js(abort-on-property-read, Base64.encode)
 /agenbola24.
 /agenqq-
 /agenqq.
+/agenqq365-
 /agenqqnew.
 /agentaruhan.
 /agenvimaxindo.
@@ -3603,6 +3616,7 @@ anitoki.com##+js(abort-on-property-read, Base64.encode)
 /b2poker.
 /bacanpoker.
 /bagusqq.
+/BalakQQ-
 /bandarbet77.
 /bandarkiu.
 /bandarpoker.
@@ -3627,6 +3641,7 @@ anitoki.com##+js(abort-on-property-read, Base64.encode)
 /betking88-
 /betsaja.
 /bianglalaqq.
+/Bijitogel-
 /bintangbola.
 /bola168.
 /bola777.
@@ -3766,6 +3781,7 @@ anitoki.com##+js(abort-on-property-read, Base64.encode)
 /indowins.
 /infoterapis-
 /inidomino.
+/Intanbet.
 /intanbet.
 /intanqq.
 /interwin.
@@ -3846,6 +3862,7 @@ anitoki.com##+js(abort-on-property-read, Base64.encode)
 /liganation.
 /ligapoker-
 /ligapoker.
+/LintasQQ-
 /lintasqq.
 /live-casino.
 /lobbyqq.
@@ -3863,6 +3880,7 @@ anitoki.com##+js(abort-on-property-read, Base64.encode)
 /mainqiu.
 /mainqq-
 /mainqq.
+/MajuQQ-
 /majuqq.
 /mamatogel.
 /maniaqq-
