@@ -4,7 +4,7 @@ $xmlhttprequest,domain=mangacanblog.com
 /wpsafelink.js$script,domain=daizurin.com|lucikun.com|shitaranime.com|sinanime.net
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
-||adsafelink.com/js/webscript.js$script,domain=downloadbatch.com|wibudesu.com
+||adsafelink.com/js/webscript.js$script,third-party
 ||adsimg.kompas.com^$domain=kompas.com
 ||angel.exabytes.com.my/banners/
 ||anibatch.*/wp-content/uploads/*.gif$image

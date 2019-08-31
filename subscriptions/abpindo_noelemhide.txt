@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xkKfVsRfwC98WDkVQzeZtw
+! Checksum: c9z/BxawtEuHZIC0cojdzg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 August 31, 07:06:55
+! Last modified: 2019 August 31, 08:26:24
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -349,6 +349,7 @@
 /adv/iklan.
 /banner_iklan/*
 /bb17-iklan.
+/blockadblock.$script
 /ezgif-$image
 /ezgif.*.gif$image,~third-party
 /iklancpm.
@@ -373,7 +374,7 @@ $xmlhttprequest,domain=mangacanblog.com
 /wpsafelink.js$script,domain=daizurin.com|lucikun.com|shitaranime.com|sinanime.net
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
-||adsafelink.com/js/webscript.js$script,domain=downloadbatch.com|wibudesu.com
+||adsafelink.com/js/webscript.js$script,third-party
 ||adsimg.kompas.com^$domain=kompas.com
 ||angel.exabytes.com.my/banners/
 ||anibatch.*/wp-content/uploads/*.gif$image
@@ -696,6 +697,8 @@ lewat.club##+js(noeval)
 lewat.club##+js(window.open-defuser)
 daizurin.com##+js(setTimeout-defuser, nextFunction, 250)
 anibatch.id##+js(abort-on-property-read, anOptions)
+hokiciki.org##+js(nano-setInterval-booster.js)
+linkduit.net##+js(nano-setInterval-booster.js)
 ! *** abpindo_whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
 @@.jpg#$image,domain=komikcast.com
@@ -3781,8 +3784,8 @@ anibatch.id##+js(abort-on-property-read, anOptions)
 /indowins.
 /infoterapis-
 /inidomino.
-/intanbet.
 /Intanbet.
+/intanbet.
 /intanqq.
 /interwin.
 /isiqq-
