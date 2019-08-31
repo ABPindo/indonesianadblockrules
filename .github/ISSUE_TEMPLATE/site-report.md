@@ -8,12 +8,13 @@ assignees: ''
 ---
 
 **Berikan URL**
-satu situs satu URL, yang terlihat iklan
+... satu situs satu URL, yang terlihat iklan
 
 **Jelaskan masalah**
+...
 
 **Berikan screenshot**
-jika sulit dijelaskan dengan kata-kata tolong sertakan screenshot
+... jika sulit dijelaskan dengan kata-kata tolong sertakan screenshot
 
 **Setting**
 misal:
@@ -23,4 +24,4 @@ chrome+ublock
 chrome+ABP
 
 **Usul sintak filter**
-tuliskan sintak filter jika punya ide
+... tuliskan sintak filter jika punya ide
