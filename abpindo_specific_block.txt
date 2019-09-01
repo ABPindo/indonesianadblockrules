@@ -1,3 +1,5 @@
+||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
+||impulse.forkcdn.com/impulse3/config/impulse.js
 $popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
 $xmlhttprequest,domain=mangacanblog.com
 /plugins/soralink/*.js$script,domain=animebaru.in|animebatch.id|animebatch.web.id|anitoki.com|batch.id|maxnime.com
