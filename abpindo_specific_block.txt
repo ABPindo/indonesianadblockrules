@@ -1,9 +1,3 @@
-||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
-||impulse.forkcdn.com/impulse3/config/impulse.js
-$popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
-$xmlhttprequest,domain=mangacanblog.com
-/plugins/soralink/*.js$script,domain=animebaru.in|animebatch.id|animebatch.web.id|anitoki.com|batch.id|maxnime.com
-/wpsafelink.js$script,domain=daizurin.com|lucikun.com|shitaranime.com|sinanime.net
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
 ||adsafelink.com/js/webscript.js$script,third-party
@@ -116,6 +110,8 @@ $xmlhttprequest,domain=mangacanblog.com
 ||img.akubebas.com/images/*.gif$image
 ||img.sukipli.com/*.gif$image,third-party
 ||imgur.com/*.gif$image,domain=abgbugil.net|ayononton.co|capcus.net|cinemaindo.web.id|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
+||impulse.forkcdn.com/impulse3/config/impulse.js
+||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
 ||indo168.*/wp-content/uploads/*.gif$image
 ||indobokepz.com/images/banner/
 ||indochanger.com/banner/

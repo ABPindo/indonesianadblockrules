@@ -1,3 +1,5 @@
+$popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
+$xmlhttprequest,domain=mangacanblog.com
 -728-x-90.
 -iklan.gif|
 -iklan.jpg|
@@ -31,15 +33,17 @@
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
+/plugins/soralink/*.js$script,domain=animebaru.in|animebatch.id|animebatch.web.id|anitoki.com|batch.id|maxnime.com
 /revenuehits.js|
 /safelink$script,third-party
 /SkinADkanan.
 /SkinADkiri.
 /smartfren/ads.
-/sora$script,third-party
+/soralink$script,third-party
 /uploads/iklan/*
 /usaha-berhasil.gif|
 /usahaberhasil.gif|
 /wp-content/plugins/wp-adblock-dedect/js/dedect.js$script
+/wpsafelink$script,domain=daizurin.com|lucikun.com|shitaranime.com|sinanime.net
 /wpsafelink$script,third-party
 iklan300x250.gif|
