@@ -33,6 +33,7 @@
 @@||bloggerku.com/safelink/2.0/script.js?$script,domain=njiir.com
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
 @@||cat3movie.us^$generichide
+@@||ceklink.co/js/ads.js$script,domain=ceklink.co
 @@||cinemamkv.net^$generichide
 @@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=www.razorlink.us
 @@||digitalponsel.com^$elemhide
