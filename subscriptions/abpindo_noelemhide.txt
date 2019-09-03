@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dgZOjTtfj4ur7I+36wtJIw
+! Checksum: 3Y+vQnl06xCtPM9q0JkM+Q
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 September 03, 05:22:02
+! Last modified: 2019 September 04, 05:09:50
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -42,6 +42,7 @@
 ||adplus.co.id^$third-party
 ||adpop-1.com^$third-party
 ||adpstatic.com^$third-party
+||adreach.co^$third-party
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
 ||adsbingo.com^$third-party
@@ -3787,8 +3788,8 @@ linkduit.net##+js(nano-setInterval-booster.js)
 /indowins.
 /infoterapis-
 /inidomino.
-/intanbet.
 /Intanbet.
+/intanbet.
 /intanqq.
 /interwin.
 /isiqq-
