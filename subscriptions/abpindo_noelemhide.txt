@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3Y+vQnl06xCtPM9q0JkM+Q
+! Checksum: GLYog3ZuPdeIgNSO7DqriQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 September 04, 05:09:50
+! Last modified: 2019 September 06, 17:05:54
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -111,6 +111,7 @@
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com^$popup,third-party
 ||dzbx8qv1at614.cloudfront.net^
+||e7393e33565ce805.com^
 ||e7393e33565ce805.com^$popup
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
@@ -1851,6 +1852,8 @@ linkduit.net##+js(nano-setInterval-booster.js)
 ||incrasebux.$popup
 ||incrasebux.$third-party
 ||indotogel1.$popup
+||indoxbet.$third-party
+||indoxplay.$third-party
 ||indukbet.$popup
 ||indukbet.$third-party
 ||infojudi.$third-party
@@ -3053,6 +3056,7 @@ linkduit.net##+js(nano-setInterval-booster.js)
 ||tajirqq.$third-party
 ||tamanqq.$popup
 ||tamanqq.$third-party
+||tangkas.gold$third-party
 ||tangkas9.$third-party
 ||tangkaskita.$third-party
 ||tangkaspoker.com^$third-party
