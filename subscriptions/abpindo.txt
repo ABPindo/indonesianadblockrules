@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: bpLESXxlpsnhwpciL7JmRA
+! Checksum: TQnopUfUpYkOrz8Tpx79mQ
 ! Title: ABPindo
-! Last modified: 2019 September 06, 17:05:54
+! Last modified: 2019 September 07, 20:41:38
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -754,6 +754,11 @@ iklan300x250.gif|
 ! *** abpindo_specific_ublock.txt ***
 ! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
 1idsly.com##+js(nano-setInterval-booster.js)
+adsafelink.net##+js(abort-on-property-read, app_vars.force_disable_adblock)
+adsafelink.net##+js(set-constant, blurred, false)
+adtival.network##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+allapp.xyz##+js(addEventListener-defuser.js, load, 2000)
+anibatch.id##+js(abort-on-property-read, anOptions)
 animeindo.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 animeindo.*##+js(setInterval-defuser.js, (), 500)
 animeindo.moe##+js(abort-on-property-read.js, Base64.encode)
@@ -761,15 +766,24 @@ animeindo.moe##+js(abort-on-property-read.js, popjs.init)
 animeindo.moe##+js(abort-on-property-write.js, AaDetector)
 animeindo.moe##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 animeindo.moe##+js(setInterval-defuser.js, (), 500)
+anitoki.com##+js(abort-on-property-read, Base64.encode)
 awsubs.tv##+js(abort-current-inline-script.js, Math, zfgloaded)
 awsubs.tv##+js(abort-on-property-read.js, popjs)
 belajarbro.id##+js(bab-defuser.js)
+blogrp.me##+js(abort-on-property-read, app_vars.force_disable_adblock)
+cepmuzikindir.me##+js(addEventListener-defuser.js, load, onload)
 cinemamkv.*##+js(abort-on-property-read.js, go_get_url)
 cinemamkv.*##+js(nowebrtc.js)
 cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 cinemamkv.net##+js(abort-on-property-read.js, go_get_url)
+cinemamkv.net##+js(abort-on-property-read.js, go_get_url)
+cinemamkv.net##+js(nowebrtc.js)
 cinemamkv.net##+js(nowebrtc.js)
 cinemamkv.net##+js(set-constant.js, _ocads, noopFunc)
+cinemamkv.net##+js(set-constant.js, _ocads, noopFunc)
+daizurin.com##+js(setTimeout-defuser, nextFunction, 250)
+dicariguru.com##+js(abort-on-property-write.js, adBlockDetected)
+downloadbatch.com##+js(abort-on-property-write, adBlockDetected)
 fendy.web.id##+js(bab-defuser.js)
 ganol.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 ganol.*##+js(nowebrtc.js)
@@ -781,6 +795,8 @@ gembelcit.net##+js(abort-on-property-read.js, AaDetector)
 get.web.id##+js(bab-defuser.js)
 gurusd.web.id##^script:has-text(safelink)
 hexafile.net##+js(setTimeout-defuser.js, nextFunction, 250)
+hokiciki.org##+js(nano-setInterval-booster.js)
+infosehatku.club##+js(addEventListener-defuser, load, onload)
 infotrendy.me##+js(addEventListener-defuser.js, load, 2000)
 jelajahinternet.me##+js(addEventListener-defuser.js, load, onload)
 justjared.com##+js(abort-on-property-read.js, $getWin)
@@ -790,59 +806,43 @@ komikindo.web.id##+js(addEventListener-defuser.js)
 kompas.com##+js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
 kompas.com##+js(abort-on-property-read.js, $getWin)
 kompas.com##^script:has-text(axtd)
+ld2tv.me##+js(bab-defuser.js)
+lewat.club##+js(noeval)
+lewat.club##+js(window.open-defuser)
+linkduit.net##+js(nano-setInterval-booster.js)
 mangacanblog.com##+js(abort-on-property-read.js, adblock)
+mediakita.blog##+js(addEventListener-defuser.js)
 megaurl.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 megaurl.in##+js(abort-on-property-read.js, jQuery.adblock)
 megaurl.in##+js(bab-defuser.js)
 merdekaid.online##+js(addEventListener-defuser.js, load, 2000)
 muhammadyoga.me##+js(addEventListener-defuser.js, load, onload)
+nekopoi.*##+js(abort-current-inline-script, atob, tabunder)
+nekopoi.*##+js(set-constant, isAdsDisplayed, true)
+neowin.net##+js(abort-on-property-read, _sp_.mms.startMsg)
 neumanga.*##+js(addEventListener-defuser.js, load, nextFunction)
 njiir.com##+js(set-constant.js, safelink.adblock, false)
 obengplus.com##+js(bab-defuser.js)
+oko.sh##+js(abort-on-property-read.js)
 oload.*##+js(openload.co.js)
 oload.*##+js(window.open-defuser.js)
 oploverz.*##+js(setTimeout-defuser.js, nextFunction, 450)
 overlordfree.web.id##+js(abort-on-property-write.js, ai_adb_overlay)
 overlordfree.web.id##+js(set-constant.js, showAds, true)
 razerflixs.com##+js(addEventListener-defuser.js, load, onload)
+razorlink.us##+js(aopr, atob)
+razorlink.us##+js(nano-sib)
+razorlink.us##+js(set-constant, safelink.adblock, false)
 samehadaku.tv##+js(set-constant.js, $tieE3, true)
 shrink.vip##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 smallencode.com##+js(abort-on-property-write.js, _pop)
+streamxxi.com##+js(bab-defuser.js)
 suarankri.me##+js(addEventListener-defuser.js, load, onload)
 superitu.com##+js(popads-dummy.js)
 templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
+tribunnews.com##+js(abort-current-inline-script.js, Math, ='\x)
 tribunnews.com##+js(abort-on-property-read.js, $getWin)
 updatetribun.org##+js(addEventListener-defuser.js, load, onload)
-cepmuzikindir.me##+js(addEventListener-defuser.js, load, onload)
-ld2tv.me##+js(bab-defuser.js)
-oko.sh##+js(abort-on-property-read.js)
-allapp.xyz##+js(addEventListener-defuser.js, load, 2000)
-adtival.network##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
-dicariguru.com##+js(abort-on-property-write.js, adBlockDetected)
-tribunnews.com##+js(abort-current-inline-script.js, Math, ='\x)
-cinemamkv.net##+js(set-constant.js, _ocads, noopFunc)
-cinemamkv.net##+js(abort-on-property-read.js, go_get_url)
-cinemamkv.net##+js(nowebrtc.js)
-mediakita.blog##+js(addEventListener-defuser.js)
-streamxxi.com##+js(bab-defuser.js)
-adsafelink.net##+js(abort-on-property-read, app_vars.force_disable_adblock)
-adsafelink.net##+js(set-constant, blurred, false)
-razorlink.us##+js(set-constant, safelink.adblock, false)
-razorlink.us##+js(nano-sib)
-razorlink.us##+js(aopr, atob)
-blogrp.me##+js(abort-on-property-read, app_vars.force_disable_adblock)
-nekopoi.*##+js(abort-current-inline-script, atob, tabunder)
-nekopoi.*##+js(set-constant, isAdsDisplayed, true)
-neowin.net##+js(abort-on-property-read, _sp_.mms.startMsg)
-infosehatku.club##+js(addEventListener-defuser, load, onload)
-downloadbatch.com##+js(abort-on-property-write, adBlockDetected)
-anitoki.com##+js(abort-on-property-read, Base64.encode)
-lewat.club##+js(noeval)
-lewat.club##+js(window.open-defuser)
-daizurin.com##+js(setTimeout-defuser, nextFunction, 250)
-anibatch.id##+js(abort-on-property-read, anOptions)
-hokiciki.org##+js(nano-setInterval-booster.js)
-linkduit.net##+js(nano-setInterval-booster.js)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -1559,12 +1559,14 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@/advertisement-$script,domain=duosia.id
 @@/advertisement.$script,domain=kumpulmanga.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
 @@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
+@@/js/ads.js$script,domain=adlink.pw|adsafelink.net|akuno.net|blogrp.me|ceklink.co|idsly.net|kabarviral.blog|lewat.club|modecepat.com|safe.mirrordown.com|templink.org|virtualdata.me
 @@logo*.png#*/ads/$image,~third-party
 @@png#/adaffiliate_/$image,domain=kazefuri.blogspot.com
 @@||.bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com
 @@||1idsly.com^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ad4msan.^$generichide
+@@||adlink.pw/js/ads.js$script,domain=www.adlink.pw
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
 @@||adsafelink.net/webroot/js/ads.js$script,~third-party
