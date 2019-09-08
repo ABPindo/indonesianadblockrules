@@ -107,7 +107,6 @@
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||imagebam.com/*.gif$image,domain=www.ganool.li
 ||images.gameweb.co.id/gw/ads/
-||img.akubebas.com/images/*.gif$image
 ||img.sukipli.com/*.gif$image,third-party
 ||imgur.com/*.gif$image,domain=abgbugil.net|ayononton.co|capcus.net|cinemaindo.web.id|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
 ||impulse.forkcdn.com/impulse3/config/impulse.js
