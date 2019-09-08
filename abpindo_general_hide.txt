@@ -1,5 +1,3 @@
-##.iklan
-##[href="http://ig24.me"]
 ###Box-Banner-ads
 ###ad_box_1
 ###ad_divLeft
@@ -93,6 +91,7 @@
 ##.idmuvi-topbanner-aftermenu
 ##.idmuvi-topbanner-archive
 ##.idmuvi-topplayer
+##.iklan
 ##.iklan-atas.ads
 ##.iklan-bawah
 ##.iklan-bawah-player
@@ -129,6 +128,7 @@
 ##.subiklan
 ##.text-center.adv
 ##.topadsense
+##[href="http://ig24.me"]
 ##a[href^="https://iklango."]
 ##img[alt="Iklan"]
 ##img[alt="Pasang Iklan Anda Disini"]
