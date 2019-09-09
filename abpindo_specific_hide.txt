@@ -108,8 +108,6 @@ resep.web.id###googlebox
 cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.org###hbanner
 cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
 indosiar.com###headerbanner
-indoxx1.*,indoxxi.top,indoxxi.tv###home-bnner-content
-indoxx1.*,indoxxi.top###home-bnner2-content
 topfilmz.com###idb3
 lensaindonesia.com###idcomboard1.com-728x90
 lensaindonesia.com###idcomright1.com-300x250
@@ -267,8 +265,8 @@ ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
 woof.tube#@#.adsbox
 www.eramuslim.com##.adsbyadop
-aktual.id,datasekolah.co.id#@#.adsbygoogle
 apkmod.id,nama.web.id,paraedu.id,radarlombok.co.id,www.eramuslim.com##.adsbygoogle
+aktual.id,datasekolah.co.id#@#.adsbygoogle
 www.pontianakpost.co.id##.adsense
 www.ganol.si##.adsincenter
 kshowid.com##.adssingle
@@ -400,6 +398,7 @@ bioskop168.co,semi168.club##.home.border
 filmace21.net##.idmupi-topbanner
 layarlebar21.id##.idmuvi-afterplayer
 mangaku.in##.iframeiklan
+animanganews.com#@#.iklan
 kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 suki48.web.id##.iklanSUKI
@@ -537,7 +536,6 @@ bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
 01nonton.com,123drakor.com,46.166.167.16,bioskop168.co,bioskop168.online,bioskop168.pro,bioskop45.com,bioskopbokep21.com,bokepml.online,bokepngetop.com,bokeponline.download,dewamovie.tv,drakorindo.tv,filmbioskop21.co,filmroster.tv,gandhool.net,ganoolmovie.video,gudangmovies21.cc,idbioskop.com,indomovies.club,indomv.net,indoxx1.club,layarkacaxxi.id,layarmovie21.co,layarxxi.online,lk21.cam,lk21.rip,lk21.web.id,meownime.id,nekopoi.care,nekopoi.cash,nekopoi.lol,nonton-streaming.com,nonton33.net,nonton789.com,nontonani.me,nontondrama.me,nontongratis88.com,nontonmovie81.com,nontonsub.co,nontonsub.com,ns21.me,sashahillfilm.com,satujiwa.net,semprot.com,semprotku.com,sinemaindo.web.id,sukamovie.mobi,thirdstarfilm.com,zonabola.id##a[href^="http://bit.ly/"]
 kazefuri.web.id##a[href^="http://cocobet."]
 bokepml.online,lk21.web.id,nonton33.net##a[href^="http://goo.gl/"]
-bioskopkeren.*,lk21c.fun##a[href^="http://rebrand.ly/"]
 nontoncinema.org##a[href^="http://referral."]
 lk21xxi.net##a[href^="http://totalgame.online"]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
@@ -570,6 +568,7 @@ bioskop90.*###floating_banner_left
 bioskopbokep21.*##a[href^="http://bit.ly/"]
 bioskopgaul.*###adsimgxatas
 bioskopkeren.*##a[href^="https://bit.ly/"]
+bioskopkeren.*,lk21c.fun##a[href^="http://rebrand.ly/"]
 bioskopxxi.*##.ujipopup
 ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .hideviews.bannerslot1
 ceriwis.net##body > div:nth-of-type(2) > .page > .paddingmobile > .mainContainer > .mainContent > .hideviews.bannerslot1
@@ -637,6 +636,8 @@ indomv.*##a[href^="http://bit.ly/"]
 indoxx1.*###col
 indoxx1.*###tengah
 indoxx1.*##div.content-kuss
+indoxx1.*,indoxxi.top###home-bnner2-content
+indoxx1.*,indoxxi.top,indoxxi.tv###home-bnner-content
 indoxxi.*###home-bnner-content
 indoxxi.*###home-bnner2-content
 indoxxi.*###jwflag

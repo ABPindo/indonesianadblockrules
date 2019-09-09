@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3qTvoxlKB4d/T9/WSfdh4A
+! Checksum: Mf6Noxbl7WqYnA1jxreowQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 September 08, 11:17:34
+! Last modified: 2019 September 09, 19:00:57
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -483,7 +483,6 @@ iklan300x250.gif|
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||imagebam.com/*.gif$image,domain=www.ganool.li
 ||images.gameweb.co.id/gw/ads/
-||img.akubebas.com/images/*.gif$image
 ||img.sukipli.com/*.gif$image,third-party
 ||imgur.com/*.gif$image,domain=abgbugil.net|ayononton.co|capcus.net|cinemaindo.web.id|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
 ||impulse.forkcdn.com/impulse3/config/impulse.js
@@ -738,6 +737,7 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 @@||asiancine.com^$generichide
 @@||bagilagi.com^$generichide
 @@||biargreget.top^$generichide
+@@||bloggerku.com/safelink/2.0/script.js$script,domain=animanganews.com
 @@||bloggerku.com/safelink/2.0/script.js?$script,domain=njiir.com
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
 @@||cat3movie.us^$generichide
