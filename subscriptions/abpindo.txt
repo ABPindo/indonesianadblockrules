@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: +BJGGgH7BErpwZycAGP19w
+! Checksum: CZC0BfhTrJVp3ddH+DrJzQ
 ! Title: ABPindo
-! Last modified: 2019 September 09, 19:00:57
+! Last modified: 2019 September 09, 19:22:54
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -235,6 +235,7 @@
 ||pondokiklan.com^$third-party
 ||popclck.net^$popup,third-party
 ||popunderjs.club^$popup,third-party
+||presbanise.pw^$third-party
 ||promobagus.com^$third-party
 ||promosi365.me^$popup,third-party
 ||promotioncamp.com^$third-party
@@ -4363,6 +4364,12 @@ zonabola.*##a[href^="http://bit.ly/"]
 ! *** abpindo_annoyance_general_hide.txt ***
 ###judi
 ###togel
+##[href^="http://sebariklanbaris."]
+##[href^="http://vipbandar855."]
+##[href^="http://www.aseangrup."]
+##[href^="http://www.asuspoker."]
+##[href^="http://www.crownvvip."]
+##[href^="https://liga95."]
 ##[src="http://livesgp."]
 ##a[href$="/77megabet"]
 ##a[href$="/adscantikqq"]
@@ -5879,6 +5886,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="Bandar Bola"]
 ##img[alt="Bandar Judi Online"]
 ##img[alt="Bandar Togel"]
+##img[alt="Bandar855"]
 ##img[alt="BandarCapsa"]
 ##img[alt="BandarQ Online"]
 ##img[alt="BandarQ"]
@@ -6088,6 +6096,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[title="Agen togel"]
 ##img[title="AgenQQ"]
 ##img[title="BANDAR BOLA"]
+##img[title="BANDAR855"]
 ##img[title="BANDARQ ONLINE"]
 ##img[title="BANDARQ"]
 ##img[title="Bandar Bakong"]
