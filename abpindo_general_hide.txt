@@ -2,8 +2,18 @@
 ###ad_box_1
 ###ad_divLeft
 ###ads-pop
+###ads-vert-300
 ###ads_banner_left
+###ads_banner_left1
 ###ads_banner_right
+###adsbawah1
+###adsground
+###adsimgxatas
+###adsimgxatass
+###adskanan1
+###adskiri1
+###adskiri2
+###adskiri3
 ###adv-placeholder
 ###banner_top_detail
 ###bireklam
@@ -40,7 +50,6 @@
 ###iklanarea
 ###iklanatas
 ###iklanpersegi
-###livechat-eye-catcher
 ###netkevin-popup
 ###pbanner
 ###popupwindow
@@ -62,11 +71,25 @@
 ##.ads-head
 ##.ads-pop
 ##.ads__side
+##.ads_image
+##.ads_top_728
+##.ads_top_nav
+##.adsbawah1
+##.adsbawah2
+##.adsbawah3
 ##.adsbymgid
+##.adsbyown
 ##.adsbyrunactive
+##.adskanan1
+##.adskanan2
+##.adskanan3
+##.adskiri1
+##.adskiri2
+##.adskiri3
 ##.adspace_300
+##.adspost728
 ##.adtext01
-##.adunits.ads
+##.adunits
 ##.banner-iklan
 ##.bgads
 ##.bireklam
@@ -97,6 +120,13 @@
 ##.iklan-bawah-player
 ##.iklan-kanan
 ##.iklan-kiri
+##.iklan-latest-kanan
+##.iklan-latest-kiri
+##.iklan-left
+##.iklan-pos
+##.iklan-puff
+##.iklan-right
+##.iklan-samping
 ##.iklan1
 ##.iklan2
 ##.iklan300
@@ -129,7 +159,7 @@
 ##.text-center.adv
 ##.topadsense
 ##[href="http://ig24.me"]
-##a[href^="https://iklango."]
+##[href^="https://iklango."]
 ##img[alt="Iklan"]
 ##img[alt="Pasang Iklan Anda Disini"]
 ##img[alt="Pasang Iklan Murah"]

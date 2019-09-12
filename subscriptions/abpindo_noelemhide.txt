@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Owha9tG8lIRihXglubv0uw
+! Checksum: fYNZdwgQGdiZN0zQAPqZlA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 September 12, 19:12:12
+! Last modified: 2019 September 12, 19:54:43
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -399,7 +399,7 @@ iklan300x250.gif|
 ||bioskop55.*/wp-content/uploads/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|awnime.net|awsubs.co|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|mangaindo.net|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|awnime.net|awsubs.co|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|mangaindo.net|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
@@ -703,6 +703,9 @@ templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 tribunnews.com##+js(abort-current-inline-script.js, Math, ='\x)
 tribunnews.com##+js(abort-on-property-read.js, $getWin)
 updatetribun.org##+js(addEventListener-defuser.js, load, onload)
+kabarviral.blog##+js(window.open-defuser)
+lewat.club##+js(window.open-defuser)
+kabarviral.blog##+js(noeval)
 ! *** abpindo_whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
 @@.jpg#$image,domain=komikcast.com
@@ -807,6 +810,12 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||updatetribun.^$generichide
 @@||virtualdata.me/webroot/js/ads.js$script,~third-party
+aktual.id,datasekolah.co.id#@#.adsbygoogle
+animanganews.com#@#.iklan
+aplikasipc.com#@#.afs_ads
+gurusd.web.id,kurikulum.co.id#@##adsense
+oomph.co.id#@#.shareit
+woof.tube#@#.adsbox
 ! *** abpindo_annoyance_thirdparty.txt ***
 ||116poker.$popup
 ||116poker.$third-party
@@ -3514,6 +3523,7 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 ! *** abpindo_annoyance_general_block.txt ***
 -agen-judi-
 -agen-poker-
+-agenbet.
 -agenqq-
 -agungpoker.
 -bisabet.
@@ -3795,8 +3805,8 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 /indowins.
 /infoterapis-
 /inidomino.
-/Intanbet.
 /intanbet.
+/Intanbet.
 /intanqq.
 /interwin.
 /isiqq-
