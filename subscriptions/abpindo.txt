@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: CZC0BfhTrJVp3ddH+DrJzQ
+! Checksum: gOCNJEkogSnPfzl/IBW+Eg
 ! Title: ABPindo
-! Last modified: 2019 September 09, 19:22:54
+! Last modified: 2019 September 12, 19:12:12
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1113,8 +1113,8 @@ ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
 woof.tube#@#.adsbox
 www.eramuslim.com##.adsbyadop
-apkmod.id,nama.web.id,paraedu.id,radarlombok.co.id,www.eramuslim.com##.adsbygoogle
 aktual.id,datasekolah.co.id#@#.adsbygoogle
+apkmod.id,nama.web.id,paraedu.id,radarlombok.co.id,www.eramuslim.com##.adsbygoogle
 www.pontianakpost.co.id##.adsense
 www.ganol.si##.adsincenter
 kshowid.com##.adssingle
@@ -1364,6 +1364,7 @@ kazefuri.blogspot.com##[href="http://www.cocobet."]
 www.kazefuri.web.id##[href="https://kdslots.com/"]
 www.kazefuri.web.id##[href="javascript:showHideGB()"]
 animeboy.me##[href^="http://bit.ly/"]
+kazefuri.web.id##[href^="http://dwatngkas."]
 bioskop168.pro##[href^="http://linkalternatif."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 bokepvid.online,kawanfilm21.online,www.nontondramas.net##[href^="https://bit.ly/"]
