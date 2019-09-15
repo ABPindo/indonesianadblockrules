@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: fYNZdwgQGdiZN0zQAPqZlA
+! Checksum: vvhzdX09hhvZk5qyDZOjEQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 September 12, 19:54:43
+! Last modified: 2019 September 15, 11:49:22
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -437,6 +437,7 @@ iklan300x250.gif|
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||dunia21.*/assets/*.gif$image
+||dunia21s.*/wp-content/uploads/*.gif$image
 ||duniasex.ws/banner-
 ||dwanonton.*/wp-content/uploads/*.gif$image
 ||ebsoft.web.id/wp-content/banners/
@@ -706,6 +707,8 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 kabarviral.blog##+js(window.open-defuser)
 lewat.club##+js(window.open-defuser)
 kabarviral.blog##+js(noeval)
+lewat.club##+js(aeld, click, trigger)
+lewat.club##+js(acis, $, open)
 ! *** abpindo_whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
 @@.jpg#$image,domain=komikcast.com
