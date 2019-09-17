@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: JAFmWO/6spdSy/in7XC64g
+! Checksum: FmQA0alL9IjScocNBsjhqA
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 September 17, 11:25:46
+! Last modified: 2019 September 17, 11:38:39
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -882,6 +882,7 @@ lewat.club##+js(window.open-defuser)
 kabarviral.blog##+js(noeval)
 lewat.club##+js(aeld, click, trigger)
 lewat.club##+js(acis, $, open)
+ad4msan.*##+js(abort-on-property-read, anOptions)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -1591,6 +1592,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@.jpg#/*/ads/$image,domain=anibatch.me
 @@.jpg#/adaffiliate_/$image,domain=kaze-batch.blogspot.com|kazefuri.web.id|shirosafe.web.id
 @@.png#$image,domain=1idsly.com|anisubindo.video|komikindo.web.id|link.akuno.net|neumanga.tv|oploverz.in|tokusatsuindo.com
+@@.png#*/ad/$image,domain=ad4msan.com
 @@.png#/*/adv/$image,domain=ijobanana.xyz
 @@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|biargreget.top|dutaislam.com|gadget2reviews.com|idsly.net|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sdrama.com|shirosafe.web.id|www.sanjayaops.com
 @@/advertisement-$script,domain=duosia.id
@@ -1602,7 +1604,9 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||.bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com
 @@||1idsly.com^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
+@@||ad4msan.$generichide
 @@||ad4msan.^$generichide
+@@||ad4msan.com^$generichide
 @@||adlink.pw/js/ads.js$script,domain=www.adlink.pw
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
@@ -1675,7 +1679,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|indozone.me|lewat.club|modecepat.com|www.nekopoi.web.id
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|indozone.me|lewat.club|modecepat.com|www.nekopoi.web.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||razorlink.us^$generichide
