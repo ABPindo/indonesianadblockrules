@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vvhzdX09hhvZk5qyDZOjEQ
+! Checksum: 2LjwQtL8nskgH1YWp2lMtQ
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 September 15, 11:49:22
+! Last modified: 2019 September 17, 11:25:46
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -585,6 +585,7 @@ iklan300x250.gif|
 ||pulsk.com/img/x.png
 ||pwbjlbz.com^$domain=kompas.com
 ||resep.web.id/banner/
+||rikucan.com/wp-content/themes/mh-magazine-lite/js/looping.js
 ||semi168.*/wp-content/uploads/*.gif$image
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
@@ -712,6 +713,7 @@ lewat.club##+js(acis, $, open)
 ! *** abpindo_whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
 @@.jpg#$image,domain=komikcast.com
+@@.jpg#/*/ads/$image,domain=anibatch.me
 @@.jpg#/adaffiliate_/$image,domain=kaze-batch.blogspot.com|kazefuri.web.id|shirosafe.web.id
 @@.png#$image,domain=1idsly.com|anisubindo.video|komikindo.web.id|link.akuno.net|neumanga.tv|oploverz.in|tokusatsuindo.com
 @@.png#/*/adv/$image,domain=ijobanana.xyz
@@ -737,6 +739,7 @@ lewat.club##+js(acis, $, open)
 @@||ainodorama.web.id^$generichide
 @@||akuno.net/webroot/js/ads.js$script,domain=akuno.net
 @@||akuno.net^$generichide
+@@||anibatch.me^$generichide
 @@||animetake*.$generichide
 @@||anisubindo.$generichide
 @@||anoboy.$generichide

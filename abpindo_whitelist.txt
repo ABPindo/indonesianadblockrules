@@ -1,5 +1,6 @@
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
 @@.jpg#$image,domain=komikcast.com
+@@.jpg#/*/ads/$image,domain=anibatch.me
 @@.jpg#/adaffiliate_/$image,domain=kaze-batch.blogspot.com|kazefuri.web.id|shirosafe.web.id
 @@.png#$image,domain=1idsly.com|anisubindo.video|komikindo.web.id|link.akuno.net|neumanga.tv|oploverz.in|tokusatsuindo.com
 @@.png#/*/adv/$image,domain=ijobanana.xyz
@@ -25,6 +26,7 @@
 @@||ainodorama.web.id^$generichide
 @@||akuno.net/webroot/js/ads.js$script,domain=akuno.net
 @@||akuno.net^$generichide
+@@||anibatch.me^$generichide
 @@||animetake*.$generichide
 @@||anisubindo.$generichide
 @@||anoboy.$generichide

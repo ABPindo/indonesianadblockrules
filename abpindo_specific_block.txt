@@ -1,4 +1,3 @@
-||rikucan.com/wp-content/themes/mh-magazine-lite/js/looping.js
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
 ||adsafelink.com/js/webscript.js$script,third-party
@@ -209,6 +208,7 @@
 ||pulsk.com/img/x.png
 ||pwbjlbz.com^$domain=kompas.com
 ||resep.web.id/banner/
+||rikucan.com/wp-content/themes/mh-magazine-lite/js/looping.js
 ||semi168.*/wp-content/uploads/*.gif$image
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
