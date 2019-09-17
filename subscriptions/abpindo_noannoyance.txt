@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: FmQA0alL9IjScocNBsjhqA
+! Checksum: CEbaLGVhPew+80m0yEJS0g
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 September 17, 11:38:39
+! Last modified: 2019 September 17, 19:32:38
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -14,7 +14,6 @@
 ! *** abpindo_adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||108.168.231.179^$popup,third-party
-||128cash.org^$popup,third-party
 ||2go7v1nes8.com^
 ||35.188.59.75^$popup
 ||3b7c0f01022f61d5.com^$popup,third-party
@@ -22,7 +21,7 @@
 ||690179b5160e450.com^$popup,third-party
 ||6a0e2d19ac28.com^$popup,third-party
 ||6c37f8a12dede103bf7.com^$popup,third-party
-||899-cash.com^$popup,third-party
+||86a6b542l7.com^$third-party
 ||8a333bc2b4d6.com^$popup,third-party
 ||9icmzvn6.website^$popup,third-party
 ||a.brand.ad^$third-party
@@ -42,6 +41,7 @@
 ||adplus.co.id^$third-party
 ||adpop-1.com^$third-party
 ||adpstatic.com^$third-party
+||adqy6rzwcs.com^$third-party
 ||adreach.co^$third-party
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
@@ -71,7 +71,8 @@
 ||aopxnvrugx.com^$third-party
 ||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
-||bakaratonline.com^$popup,third-party
+||bakaratonline.$popup
+||bakaratonline.$third-party
 ||baliadv.com^$third-party
 ||bcajjtbzmdrl.com^$popup,third-party
 ||bellaads.com^$third-party
@@ -94,12 +95,10 @@
 ||d3t5ngjixpjdho.cloudfront.net^
 ||daero.pw^$popup
 ||dafa.io^$popup,third-party
-||daftarfun88.com^$popup,third-party
 ||dairouzy.net^$popup
 ||dalj98ktasppa.cloudfront.net^
 ||daurifek.net^$third-party
 ||dearerfonder.info^$popup,third-party
-||dermaga4d.net^$popup,third-party
 ||dewsburg.info^$third-party
 ||dgnvmw.xyz^$popup
 ||digiads.co.id^$popup
@@ -177,7 +176,6 @@
 ||indoleads.com^$third-party
 ||istana-impian.^$popup,third-party
 ||istana-impian2.^$popup,third-party
-||istana3.net^$popup,third-party
 ||istanaiklan.com^$third-party
 ||istanaimpian1.^$popup,third-party
 ||istanaimpian2.^$popup,third-party
@@ -193,7 +191,6 @@
 ||juruiklan.com^$third-party
 ||jwpltx.com^$third-party
 ||katurars.com^$popup
-||kitabanget.com^$popup,third-party
 ||klikabadi.^$third-party
 ||klikajadeh.com^$third-party
 ||kt5850pjz0.com^$third-party
@@ -237,7 +234,6 @@
 ||popunderjs.club^$popup,third-party
 ||presbanise.pw^$third-party
 ||promobagus.com^$third-party
-||promosi365.me^$popup,third-party
 ||promotioncamp.com^$third-party
 ||props.id^$third-party
 ||publish.web.id^$third-party
@@ -245,7 +241,6 @@
 ||pushlinck.com^$third-party
 ||pushqwer.com^$third-party
 ||q1xyxm89.com^$popup
-||raja12shio.^$popup,third-party
 ||ravalynn.pw^$third-party
 ||realizerecess.com^$third-party
 ||realwap.net^$third-party
@@ -266,7 +261,6 @@
 ||sepakbolagol.com^$popup,third-party
 ||serbapromo.com^$third-party
 ||shiokambing2.com^$popup,third-party
-||shiokuda.^$popup,third-party
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
 ||stazumik.net^$third-party
@@ -657,6 +651,7 @@ iklan300x250.gif|
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||imagebam.com/*.gif$image,domain=www.ganool.li
 ||images.gameweb.co.id/gw/ads/
+||img.mittui.com/images/idxbet/bn-slots.gif$image
 ||img.sukipli.com/*.gif$image,third-party
 ||imgur.com/*.gif$image,domain=abgbugil.net|ayononton.co|capcus.net|cinemaindo.web.id|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
 ||impulse.forkcdn.com/impulse3/config/impulse.js
@@ -726,6 +721,7 @@ iklan300x250.gif|
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||n21.*/wp-content/uploads/*.gif$image
+||newlk21.*/wp-content/uploads/*.gif$image
 ||nobartv.com/adsLoader/$xmlhttprequest
 ||nobartv.com/img/banner/*.gif$image
 ||nonton.club/wp-content/uploads/*.gif$image
@@ -788,6 +784,7 @@ iklan300x250.gif|
 ! *** abpindo_specific_ublock.txt ***
 ! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
 1idsly.com##+js(nano-setInterval-booster.js)
+ad4msan.*##+js(abort-on-property-read, anOptions)
 adsafelink.net##+js(abort-on-property-read, app_vars.force_disable_adblock)
 adsafelink.net##+js(set-constant, blurred, false)
 adtival.network##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
@@ -810,10 +807,7 @@ cinemamkv.*##+js(abort-on-property-read.js, go_get_url)
 cinemamkv.*##+js(nowebrtc.js)
 cinemamkv.*##+js(set-constant.js, _ocads, noopFunc)
 cinemamkv.net##+js(abort-on-property-read.js, go_get_url)
-cinemamkv.net##+js(abort-on-property-read.js, go_get_url)
 cinemamkv.net##+js(nowebrtc.js)
-cinemamkv.net##+js(nowebrtc.js)
-cinemamkv.net##+js(set-constant.js, _ocads, noopFunc)
 cinemamkv.net##+js(set-constant.js, _ocads, noopFunc)
 daizurin.com##+js(setTimeout-defuser, nextFunction, 250)
 dicariguru.com##+js(abort-on-property-write.js, adBlockDetected)
@@ -834,6 +828,8 @@ infosehatku.club##+js(addEventListener-defuser, load, onload)
 infotrendy.me##+js(addEventListener-defuser.js, load, 2000)
 jelajahinternet.me##+js(addEventListener-defuser.js, load, onload)
 justjared.com##+js(abort-on-property-read.js, $getWin)
+kabarviral.blog##+js(noeval)
+kabarviral.blog##+js(window.open-defuser)
 komikcast.com##+js(abort-on-property-read.js, document.onclick)
 komikcast.com##+js(addEventListener-defuser.js, load, onload)
 komikindo.web.id##+js(addEventListener-defuser.js)
@@ -841,6 +837,8 @@ kompas.com##+js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
 kompas.com##+js(abort-on-property-read.js, $getWin)
 kompas.com##^script:has-text(axtd)
 ld2tv.me##+js(bab-defuser.js)
+lewat.club##+js(acis, $, open)
+lewat.club##+js(aeld, click, trigger)
 lewat.club##+js(noeval)
 lewat.club##+js(window.open-defuser)
 linkduit.net##+js(nano-setInterval-booster.js)
@@ -877,12 +875,6 @@ templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 tribunnews.com##+js(abort-current-inline-script.js, Math, ='\x)
 tribunnews.com##+js(abort-on-property-read.js, $getWin)
 updatetribun.org##+js(addEventListener-defuser.js, load, onload)
-kabarviral.blog##+js(window.open-defuser)
-lewat.club##+js(window.open-defuser)
-kabarviral.blog##+js(noeval)
-lewat.club##+js(aeld, click, trigger)
-lewat.club##+js(acis, $, open)
-ad4msan.*##+js(abort-on-property-read, anOptions)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -906,8 +898,6 @@ dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 dapurpacu.com###ads-vert-300
 premierexxi.com###ads_top_list
-bioskopgaul.com###adsimgxatas
-bioskopgaul.com###adsimgxatass
 tvkabel.net###adv
 www.streamingbokeps.co###advertisement
 www.streamingbokeps.co###advertisement-2
@@ -974,6 +964,7 @@ komiku.net###floatads2
 komiku.net###floatads3
 www.komikstation.com###floatbanner
 nontonsini.com###floatbawah
+lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
 awsubs.co###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
@@ -1019,7 +1010,7 @@ kabar2.com###leaderboard
 komikbaru.com###left-skyscraper
 nontonbokeps.com###left_ads_float_phonedevelop
 dapurpacu.com###mid-banner
-ganool.watch,lk21tv.com###middle-banner
+ganool.watch,lk21tv.com,movies21.co###middle-banner
 fastdrama.co,hkfree.co###modal
 cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
@@ -1133,7 +1124,7 @@ bharian.com.my##.adbtm
 file.rocks##.add
 radioonline.co.id,www.radioonline.my##.add-box-side
 radioonline.co.id,www.radioonline.my##.add-box-top
-22cinema.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,smallencode.com,topgans.blogspot.com##.ads
+22cinema.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
@@ -1143,6 +1134,7 @@ grid.id##.ads-mr
 terasjakarta.id##.ads.single_post_content
 dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
+lk21.host##.ads_2l
 gridoto.com##.ads__boxr
 grid.id##.ads_sky
 antaranews.com##.ads_top_728
@@ -1164,6 +1156,7 @@ palingseru.com##.alignnone.size-large.wp-image-458
 terasjakarta.id##.animated.ads
 autonetmagz.com##.anm__flying--ads-holder
 www.kurazone.net##.anuads
+lk21.host##.appup
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 nonton21.tv,nontonserial.com,ns21.me##.ban_empat
@@ -1280,7 +1273,6 @@ bioskop168.co,semi168.club##.home.border
 filmace21.net##.idmupi-topbanner
 layarlebar21.id##.idmuvi-afterplayer
 mangaku.in##.iframeiklan
-kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 suki48.web.id##.iklanSUKI
 detik.com##.iklan_tengah
@@ -1332,6 +1324,7 @@ hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 beritaharian.sg##.pane-block:-abp-has(div[id^="dfp-ad"])
 www.medcom.id##.parallax_ads
 viva.co.id##.portlet.sideskycrapper
+filem456.com##.pps-single-popup
 otomania.com##.r-ads
 film-ganool.com##.random
 okezone.com##.rc-ad-300x250
@@ -1399,7 +1392,7 @@ animeboy.me##[href^="http://bit.ly/"]
 kazefuri.web.id##[href^="http://dwatngkas."]
 bioskop168.pro##[href^="http://linkalternatif."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
-bokepvid.online,kawanfilm21.online,www.nontondramas.net##[href^="https://bit.ly/"]
+bioskop45.co,bokepvid.online,kawanfilm21.online,www.nontondramas.net##[href^="https://bit.ly/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 idfl.me##[id^="yui-gen"].postcontainer
@@ -1607,7 +1600,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||ad4msan.$generichide
 @@||ad4msan.^$generichide
 @@||ad4msan.com^$generichide
-@@||adlink.pw/js/ads.js$script,domain=www.adlink.pw
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
 @@||adsafelink.net/webroot/js/ads.js$script,~third-party
@@ -1616,7 +1608,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||adturl.us^$generichide
 @@||advertising-indonesia.id^$~third-party
 @@||ainodorama.web.id^$generichide
-@@||akuno.net/webroot/js/ads.js$script,domain=akuno.net
 @@||akuno.net^$generichide
 @@||anibatch.me^$generichide
 @@||animetake*.$generichide
@@ -1630,7 +1621,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||bloggerku.com/safelink/2.0/script.js?$script,domain=njiir.com
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
 @@||cat3movie.us^$generichide
-@@||ceklink.co/js/ads.js$script,domain=ceklink.co
 @@||cinemamkv.net^$generichide
 @@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=www.razorlink.us
 @@||digitalponsel.com^$elemhide
@@ -1689,7 +1679,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||sdrama.com^$generichide
 @@||shirosafe.web.id^$generichide
 @@||suarankri.me^$generichide
-@@||templink.org/webroot/js/ads.js$script,domain=templink.org
 @@||tokusatsuindo.com^$generichide
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id

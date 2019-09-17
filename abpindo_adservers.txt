@@ -1,6 +1,5 @@
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||108.168.231.179^$popup,third-party
-||128cash.org^$popup,third-party
 ||2go7v1nes8.com^
 ||35.188.59.75^$popup
 ||3b7c0f01022f61d5.com^$popup,third-party
@@ -8,7 +7,7 @@
 ||690179b5160e450.com^$popup,third-party
 ||6a0e2d19ac28.com^$popup,third-party
 ||6c37f8a12dede103bf7.com^$popup,third-party
-||899-cash.com^$popup,third-party
+||86a6b542l7.com^$third-party
 ||8a333bc2b4d6.com^$popup,third-party
 ||9icmzvn6.website^$popup,third-party
 ||a.brand.ad^$third-party
@@ -28,6 +27,7 @@
 ||adplus.co.id^$third-party
 ||adpop-1.com^$third-party
 ||adpstatic.com^$third-party
+||adqy6rzwcs.com^$third-party
 ||adreach.co^$third-party
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
@@ -57,7 +57,8 @@
 ||aopxnvrugx.com^$third-party
 ||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
-||bakaratonline.com^$popup,third-party
+||bakaratonline.$popup
+||bakaratonline.$third-party
 ||baliadv.com^$third-party
 ||bcajjtbzmdrl.com^$popup,third-party
 ||bellaads.com^$third-party
@@ -80,12 +81,10 @@
 ||d3t5ngjixpjdho.cloudfront.net^
 ||daero.pw^$popup
 ||dafa.io^$popup,third-party
-||daftarfun88.com^$popup,third-party
 ||dairouzy.net^$popup
 ||dalj98ktasppa.cloudfront.net^
 ||daurifek.net^$third-party
 ||dearerfonder.info^$popup,third-party
-||dermaga4d.net^$popup,third-party
 ||dewsburg.info^$third-party
 ||dgnvmw.xyz^$popup
 ||digiads.co.id^$popup
@@ -163,7 +162,6 @@
 ||indoleads.com^$third-party
 ||istana-impian.^$popup,third-party
 ||istana-impian2.^$popup,third-party
-||istana3.net^$popup,third-party
 ||istanaiklan.com^$third-party
 ||istanaimpian1.^$popup,third-party
 ||istanaimpian2.^$popup,third-party
@@ -179,7 +177,6 @@
 ||juruiklan.com^$third-party
 ||jwpltx.com^$third-party
 ||katurars.com^$popup
-||kitabanget.com^$popup,third-party
 ||klikabadi.^$third-party
 ||klikajadeh.com^$third-party
 ||kt5850pjz0.com^$third-party
@@ -223,7 +220,6 @@
 ||popunderjs.club^$popup,third-party
 ||presbanise.pw^$third-party
 ||promobagus.com^$third-party
-||promosi365.me^$popup,third-party
 ||promotioncamp.com^$third-party
 ||props.id^$third-party
 ||publish.web.id^$third-party
@@ -231,7 +227,6 @@
 ||pushlinck.com^$third-party
 ||pushqwer.com^$third-party
 ||q1xyxm89.com^$popup
-||raja12shio.^$popup,third-party
 ||ravalynn.pw^$third-party
 ||realizerecess.com^$third-party
 ||realwap.net^$third-party
@@ -252,7 +247,6 @@
 ||sepakbolagol.com^$popup,third-party
 ||serbapromo.com^$third-party
 ||shiokambing2.com^$popup,third-party
-||shiokuda.^$popup,third-party
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
 ||stazumik.net^$third-party

@@ -108,6 +108,7 @@
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||imagebam.com/*.gif$image,domain=www.ganool.li
 ||images.gameweb.co.id/gw/ads/
+||img.mittui.com/images/idxbet/bn-slots.gif$image
 ||img.sukipli.com/*.gif$image,third-party
 ||imgur.com/*.gif$image,domain=abgbugil.net|ayononton.co|capcus.net|cinemaindo.web.id|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
 ||impulse.forkcdn.com/impulse3/config/impulse.js
@@ -177,6 +178,7 @@
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||n21.*/wp-content/uploads/*.gif$image
+||newlk21.*/wp-content/uploads/*.gif$image
 ||nobartv.com/adsLoader/$xmlhttprequest
 ||nobartv.com/img/banner/*.gif$image
 ||nonton.club/wp-content/uploads/*.gif$image

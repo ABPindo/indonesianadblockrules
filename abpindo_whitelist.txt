@@ -18,7 +18,6 @@
 @@||ad4msan.$generichide
 @@||ad4msan.^$generichide
 @@||ad4msan.com^$generichide
-@@||adlink.pw/js/ads.js$script,domain=www.adlink.pw
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
 @@||adsafelink.net/webroot/js/ads.js$script,~third-party
@@ -27,7 +26,6 @@
 @@||adturl.us^$generichide
 @@||advertising-indonesia.id^$~third-party
 @@||ainodorama.web.id^$generichide
-@@||akuno.net/webroot/js/ads.js$script,domain=akuno.net
 @@||akuno.net^$generichide
 @@||anibatch.me^$generichide
 @@||animetake*.$generichide
@@ -41,7 +39,6 @@
 @@||bloggerku.com/safelink/2.0/script.js?$script,domain=njiir.com
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
 @@||cat3movie.us^$generichide
-@@||ceklink.co/js/ads.js$script,domain=ceklink.co
 @@||cinemamkv.net^$generichide
 @@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=www.razorlink.us
 @@||digitalponsel.com^$elemhide
@@ -100,7 +97,6 @@
 @@||sdrama.com^$generichide
 @@||shirosafe.web.id^$generichide
 @@||suarankri.me^$generichide
-@@||templink.org/webroot/js/ads.js$script,domain=templink.org
 @@||tokusatsuindo.com^$generichide
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id

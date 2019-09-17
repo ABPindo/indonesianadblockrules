@@ -20,8 +20,6 @@ dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 dapurpacu.com###ads-vert-300
 premierexxi.com###ads_top_list
-bioskopgaul.com###adsimgxatas
-bioskopgaul.com###adsimgxatass
 tvkabel.net###adv
 www.streamingbokeps.co###advertisement
 www.streamingbokeps.co###advertisement-2
@@ -88,6 +86,7 @@ komiku.net###floatads2
 komiku.net###floatads3
 www.komikstation.com###floatbanner
 nontonsini.com###floatbawah
+lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
 awsubs.co###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
@@ -133,7 +132,7 @@ kabar2.com###leaderboard
 komikbaru.com###left-skyscraper
 nontonbokeps.com###left_ads_float_phonedevelop
 dapurpacu.com###mid-banner
-ganool.watch,lk21tv.com###middle-banner
+ganool.watch,lk21tv.com,movies21.co###middle-banner
 fastdrama.co,hkfree.co###modal
 cinema-indo.com,layarkaca21.net,nontonmovie.web.id###modalPage > .modalContainer > .modal
 indotelko.com###more_stories
@@ -247,7 +246,7 @@ bharian.com.my##.adbtm
 file.rocks##.add
 radioonline.co.id,www.radioonline.my##.add-box-side
 radioonline.co.id,www.radioonline.my##.add-box-top
-22cinema.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,smallencode.com,topgans.blogspot.com##.ads
+22cinema.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
@@ -257,6 +256,7 @@ grid.id##.ads-mr
 terasjakarta.id##.ads.single_post_content
 dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
+lk21.host##.ads_2l
 gridoto.com##.ads__boxr
 grid.id##.ads_sky
 antaranews.com##.ads_top_728
@@ -278,6 +278,7 @@ palingseru.com##.alignnone.size-large.wp-image-458
 terasjakarta.id##.animated.ads
 autonetmagz.com##.anm__flying--ads-holder
 www.kurazone.net##.anuads
+lk21.host##.appup
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 nonton21.tv,nontonserial.com,ns21.me##.ban_empat
@@ -394,7 +395,6 @@ bioskop168.co,semi168.club##.home.border
 filmace21.net##.idmupi-topbanner
 layarlebar21.id##.idmuvi-afterplayer
 mangaku.in##.iframeiklan
-kosmo.com.my##.iklan-puff
 kosmo.com.my##.iklanBox
 suki48.web.id##.iklanSUKI
 detik.com##.iklan_tengah
@@ -446,6 +446,7 @@ hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 beritaharian.sg##.pane-block:-abp-has(div[id^="dfp-ad"])
 www.medcom.id##.parallax_ads
 viva.co.id##.portlet.sideskycrapper
+filem456.com##.pps-single-popup
 otomania.com##.r-ads
 film-ganool.com##.random
 okezone.com##.rc-ad-300x250
@@ -513,7 +514,7 @@ animeboy.me##[href^="http://bit.ly/"]
 kazefuri.web.id##[href^="http://dwatngkas."]
 bioskop168.pro##[href^="http://linkalternatif."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
-bokepvid.online,kawanfilm21.online,www.nontondramas.net##[href^="https://bit.ly/"]
+bioskop45.co,bokepvid.online,kawanfilm21.online,www.nontondramas.net##[href^="https://bit.ly/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 idfl.me##[id^="yui-gen"].postcontainer
