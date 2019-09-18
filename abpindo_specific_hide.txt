@@ -1,4 +1,3 @@
-kuyhaa-me.com,gigapurbalingga.net##center
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 lihat.co.id###Iklan-Melayang
@@ -159,8 +158,6 @@ amoimovie.com###popupinfoAd1
 layarxxi.online###popuppress-9119
 lk21.li,nonton21.tv###previewBox
 nonton21.tv,nontonserial.com###previewBox2
-lk21.li,nonton21.tv,dunia21s.*###previewBox3
-lk21.li,nonton21.tv,nontonserial.com,dunia21s.*###previewBox4
 ayononton.co,layarkaca21.com,layarkaca21.web.id,lk21tv.com###ptbanner
 zonabola.com###rAds
 utusan.com.my###rec_ad4
@@ -199,7 +196,6 @@ cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,fi
 22cinema.download,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,layarbiru21.com,movie76.net,nontonmovie.web.id###teaser3
 sodasusu.com###teaser4
 22cinema.download###teaser5
-indoxx1.club,dunia21s.*###tengah
 dunia21.top,lk21.cc###tengah > span
 indoxx1.club###tengahaa
 hotabis.com###text-28 > .textwidget
@@ -353,7 +349,7 @@ juragan21.com##.cintasemprot_floating_banner_bottom
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
-grid.id##.clearfix.ads__horizontal
+bangka.tribunnews.com,grid.id##.clearfix.ads__horizontal
 kompas.com##.clearfix.kcm__big.kcm
 kompas.com##.clearfix.kcm__rectangle.kcm
 kompas.com##.clearfix.kcm__top.kcm
@@ -578,6 +574,7 @@ bokeponline.*##a[href^="http://bit.ly/"]
 bokeponline.*##a[href^="https://bit.ly/"]
 cafecinema.*###netkevin-overlay
 cafecinema.*###popup_content
+gigapurbalingga.net,kuyhaa-me.com##center
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 cinemaindo.*##a[href^="https://bit.ly/"]
@@ -635,6 +632,7 @@ indoxx1.*###tengah
 indoxx1.*##div.content-kuss
 indoxx1.*,indoxxi.top###home-bnner2-content
 indoxx1.*,indoxxi.top,indoxxi.tv###home-bnner-content
+indoxx1.club,dunia21s.*###tengah
 indoxxi.*###home-bnner-content
 indoxxi.*###home-bnner2-content
 indoxxi.*###jwflag
@@ -671,6 +669,9 @@ lk21.*###previewBox3
 lk21.*###previewBox4
 lk21.*##.fancybox-skin
 lk21.*##a[href^="http://bit.ly/"]
+lk21.cc,dunia21s.*##tbody
+lk21.li,nonton21.tv,dunia21s.*###previewBox3
+lk21.li,nonton21.tv,nontonserial.com,dunia21s.*###previewBox4
 mangaku.*##a[href^="https://bit.ly/"]
 nekopoi.*##a[href^="http://bit.ly/"]
 nekopoi.*##div[class^="adsgen"]
@@ -698,7 +699,6 @@ sinemakaca.*##.ujipopup
 streamxxi.*##a[href^="http://bit.ly/"]
 sukamovie.*##a[href^="http://bit.ly/"]
 satujiwa.org##table
-lk21.cc,dunia21s.*##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]

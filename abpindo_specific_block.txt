@@ -149,6 +149,7 @@
 ||lk21.*/assets/*.gif$image
 ||lk21.*/wp-content/uploads/*.gif$image
 ||lk21c.fun/wp-content/uploads/*.gif$image
+||lk21i.*/wp-content/uploads/*.gif$image
 ||lk21n.*/wp-content/uploads/banner/*.gif$image
 ||lkxxi.*/wp-content/uploads/*.gif$image
 ||lytogame.com/images/partner/$third-party

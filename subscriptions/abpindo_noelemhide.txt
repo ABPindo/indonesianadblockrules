@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wPqrZBZZ0J4g3PcveQCXMA
+! Checksum: 7VGVWuGtYT1pQJMZrEKv2Q
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 September 17, 19:32:38
+! Last modified: 2019 September 18, 19:52:53
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -65,12 +65,14 @@
 ||aj1052.online^$popup
 ||ajangiklangratis.com^$third-party
 ||alertpay.com^$third-party
+||allartand.club^
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
 ||aopxnvrugx.com^$popup
 ||aopxnvrugx.com^$third-party
 ||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
+||badskies.com^$third-party
 ||bakaratonline.$popup
 ||bakaratonline.$third-party
 ||baliadv.com^$third-party
@@ -197,6 +199,8 @@
 ||l9tdhe6.com^$popup,third-party
 ||ld82ydd.com^$popup,third-party
 ||lokeriklan.com^$third-party
+||lpaizureik.com^$popup
+||lpaizureik.com^$third-party
 ||luven.xyz^$popup
 ||luven.xyz^$third-party
 ||macarier.review^$popup,third-party
@@ -279,6 +283,7 @@
 ||trendlope.com^$popup
 ||trendlope.com^$third-party
 ||trndoffers.com^$popup,third-party
+||tsyndolls.com^$popup
 ||tummiarunzpf.com^$popup,third-party
 ||u-on.eu^$popup,third-party
 ||uadexchange.com^$third-party
@@ -286,6 +291,7 @@
 ||useads.com^$third-party
 ||vidcpm.com^third-party
 ||vrewpywootyu.com^$popup,third-party
+||wbaogaqvrukprx.com^$popup
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||whjibbprhng.com^$popup,third-party
@@ -520,6 +526,7 @@ iklan300x250.gif|
 ||lk21.*/assets/*.gif$image
 ||lk21.*/wp-content/uploads/*.gif$image
 ||lk21c.fun/wp-content/uploads/*.gif$image
+||lk21i.*/wp-content/uploads/*.gif$image
 ||lk21n.*/wp-content/uploads/banner/*.gif$image
 ||lkxxi.*/wp-content/uploads/*.gif$image
 ||lytogame.com/images/partner/$third-party
@@ -3734,6 +3741,7 @@ woof.tube#@#.adsbox
 /betsaja-
 /betsaja.
 /bianglalaqq.
+/Bigwin-Banner-
 /bijitogel-
 /bintangbola.
 /bola168.

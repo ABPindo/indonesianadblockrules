@@ -51,12 +51,14 @@
 ||aj1052.online^$popup
 ||ajangiklangratis.com^$third-party
 ||alertpay.com^$third-party
+||allartand.club^
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
 ||aopxnvrugx.com^$popup
 ||aopxnvrugx.com^$third-party
 ||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
+||badskies.com^$third-party
 ||bakaratonline.$popup
 ||bakaratonline.$third-party
 ||baliadv.com^$third-party
@@ -183,6 +185,8 @@
 ||l9tdhe6.com^$popup,third-party
 ||ld82ydd.com^$popup,third-party
 ||lokeriklan.com^$third-party
+||lpaizureik.com^$popup
+||lpaizureik.com^$third-party
 ||luven.xyz^$popup
 ||luven.xyz^$third-party
 ||macarier.review^$popup,third-party
@@ -265,6 +269,7 @@
 ||trendlope.com^$popup
 ||trendlope.com^$third-party
 ||trndoffers.com^$popup,third-party
+||tsyndolls.com^$popup
 ||tummiarunzpf.com^$popup,third-party
 ||u-on.eu^$popup,third-party
 ||uadexchange.com^$third-party
@@ -272,6 +277,7 @@
 ||useads.com^$third-party
 ||vidcpm.com^third-party
 ||vrewpywootyu.com^$popup,third-party
+||wbaogaqvrukprx.com^$popup
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||whjibbprhng.com^$popup,third-party
