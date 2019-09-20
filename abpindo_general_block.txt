@@ -6,8 +6,8 @@ $xmlhttprequest,domain=mangacanblog.com
 -iklan.js|
 -popads.php|
 -slot-iklan-
-.bid^$popup
-.bid^$third-party
+.bid^$popup,third-party
+.bid^$third-party,domain=~bolly4u.asia
 .biz/iklan/
 .com/iklan/
 .id/ads/$~object-subrequest
