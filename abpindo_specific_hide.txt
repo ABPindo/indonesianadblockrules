@@ -15,6 +15,7 @@ detik.com###adpoint5
 cinemaindo.web.id,filmapik.tv###ads
 dapurpacu.com###ads-728
 dapurpacu.com###ads-960-mid
+kumparan.com###ads-container
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
@@ -150,7 +151,8 @@ dunia21.me,dunia21.net,dunia21.org###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
 cinema-indo.com,cinemaindo.web.id,layarkaca21.net,layarkaca21.web.id,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
 eramuslim.com###peluang
-indoxx1.com###player-side-right
+idxx1.top###player-side-left
+idxx1.top,indoxx1.com###player-side-right
 iyottube.com###playerOverlay
 indoxx1.pw###popup
 cafecinema.cc,lk21.io###popup_content
@@ -505,6 +507,7 @@ neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
 kazefuri.blogspot.com##[href="http://www.cocobet."]
+idxx1.top##[href="https://indoxplay.com/promosi/slots"]
 www.kazefuri.web.id##[href="https://kdslots.com/"]
 www.kazefuri.web.id##[href="javascript:showHideGB()"]
 animeboy.me##[href^="http://bit.ly/"]
@@ -516,6 +519,7 @@ kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 idfl.me##[id^="yui-gen"].postcontainer
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
+idxx1.top##a.bnner
 bioskop78.com##a:nth-of-type(2)
 bioskop19.com##a[href="http://162.144.35.114/"]
 kshowid.com##a[href="http://kshowid.com/advertising/"]
@@ -618,6 +622,9 @@ greget.space,siherp.com,tetew.info##h2
 icinema3satu.*##.textwidget:has-text(SPACE)
 idbioskop.*##a[href^="http://bit.ly/"]
 idfl.*###ad_global_below_navbar
+idxx1.*###player-side-left
+idxx1.*###player-side-right
+idxx1.*##[href="https://indoxplay.com/promosi/slots"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
