@@ -1393,6 +1393,7 @@
 ||layananqq.$third-party
 ||lazabet.$third-party
 ||lazacasino.$third-party
+||lazacasino.^$popup
 ||liburpoker.$popup
 ||liburpoker.$third-party
 ||lig369.$popup
@@ -1671,6 +1672,7 @@
 ||obccash.$third-party
 ||obipoker.$third-party
 ||obobet.$third-party
+||obobet.^$popup
 ||okebos.$third-party
 ||okebos.top^$popup
 ||okecas.$third-party
