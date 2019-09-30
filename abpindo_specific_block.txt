@@ -1,4 +1,3 @@
-||i.ibb.co/*.gif$image,domain=kazefuri.web.id
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
 ||adsafelink.com/js/webscript.js$script,third-party
@@ -98,6 +97,7 @@
 ||hentaiheroes.com^$popup,domain=hentai2read.com
 ||hightech.web.id^*/?site=$popup
 ||hotabis.com/wp-content/uploads/*.gif$image
+||i.ibb.co/*.gif$image,domain=kazefuri.web.id
 ||i.imgur.com/*.gif$image,domain=bokep24.site
 ||id.hao123.com/resource/id/banner/
 ||id.techinasia.com/OneSignalSDKWorker.js

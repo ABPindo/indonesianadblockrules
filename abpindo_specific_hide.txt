@@ -1,4 +1,3 @@
-kazefuri.web.id##[href^="https://www.indovegas."]
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 lihat.co.id###Iklan-Melayang
@@ -518,6 +517,7 @@ dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 bioskop45.co,bokepvid.online,kawanfilm21.online,www.nontondramas.net##[href^="https://bit.ly/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
+kazefuri.web.id##[href^="https://www.indovegas."]
 idfl.me##[id^="yui-gen"].postcontainer
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 idxx1.top##a.bnner
