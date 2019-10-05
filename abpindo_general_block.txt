@@ -17,6 +17,7 @@ $xmlhttprequest,domain=mangacanblog.com
 .me/iklan/
 .my/iklan/
 .net/iklan/
+.space/Banner/*.gif$image
 .tv/iklan/
 .win^$popup
 .win^$third-party

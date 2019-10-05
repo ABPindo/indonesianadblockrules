@@ -50,6 +50,7 @@
 ###iklanarea
 ###iklanatas
 ###iklanpersegi
+###myadsmodal
 ###netkevin-popup
 ###pbanner
 ###popupwindow
@@ -139,6 +140,7 @@
 ##.iklanmini
 ##.iklanpusat
 ##.iklanright
+##.kill-adblock-container
 ##.kotak_iklan
 ##.ktz-aftermenubanner
 ##.ktz-bannersingletop
