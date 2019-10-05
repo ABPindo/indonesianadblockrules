@@ -26,10 +26,12 @@ $xmlhttprequest,domain=mangacanblog.com
 /adsterra.js|
 /adtrace2.js|
 /adv/iklan.
+/banner-728px-
 /banner_iklan/*
 /bb17-iklan.
 /blockadblock.$script
 /iklancpm.
+/images/idxbet/*.gif$image
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
 /plugins/soralink/*.js$script,domain=animebaru.in|animebatch.id|animebatch.web.id|anitoki.com|batch.id|maxnime.com
