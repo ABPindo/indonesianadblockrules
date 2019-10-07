@@ -11,7 +11,7 @@ ABPindo merupakan filter Adblock Plus compatible untuk memblokir iklan menggangg
 ## Cara Menggunakan
 - Jalankan peramban web favoritmu (Firefox, Chrome, Opera, Safari, ...)
 - Pasang pengaya/ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard AdBlocker](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenisnya
-- Pilih ABPindo sebagai filter atau masukkan filter ABPindo secara manual <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt`
+- Pilih ABPindo sebagai filter atau masukkan filter ABPindo secara manual pada menu Advanced > FILTER LISTS<br/> ` https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt`
 
 ## Macam filter ABPindo
 | Filter| Deskripsi|
