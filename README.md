@@ -11,16 +11,14 @@ ABPindo merupakan filter Adblock Plus compatible untuk memblokir iklan menggangg
 ## Cara Menggunakan
 - Jalankan peramban web favoritmu (Firefox, Chrome, Opera, Safari, ...)
 - Pasang pengaya/ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenisnya
-- Klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo) atau masukkan filter ABPindo secara manual <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt`
+- Klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo) atau pilih variasi sesuai kebutuhan
 
-## Macam filter ABPindo
+## Variasi filter ABPindo
 | Subscribe Filter| Deskripsi|
 | ------------- |-------------|
 | [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)|Filter default [uBlock Origin](https://github.com/gorhill/uBlock#installation), [Adblock Plus](https://adblockplus.org/en/) regional Indonesia dan Malaysia <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt`|
 | [ABPindo_noannoyance](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt&title=ABPindo_noannoyance)|ABPindo tanpa filter judi (annoyance) <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt`|
 | [ABPindo_noelementhide](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt&title=ABPindo_noelementhide)|ABPindo tanpa filter element hide <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt`|
-
-Wiki tentang [Penempatan iklan pada file](https://github.com/ABPindo/indonesianadblockrules/wiki/Penempatan-daftar-iklan)
 
 ## Ingin berkontribusi
 Masih banyak situs yang terlewat, entah karena situsnya telah diperbaharui atau karena situsnya belum ditambahkan ke dalam ABPindo. Oleh karena itu jika menemukan hal-hal tersebut bisa membantu kami lewat
@@ -28,5 +26,6 @@ Masih banyak situs yang terlewat, entah karena situsnya telah diperbaharui atau 
 - [Submit a pull request](https://github.com/ABPindo/indonesianadblockrules/pulls)
 
 ## Catatan
-- ABPindo hanyalah filter suplemen, untuk hasil maksimal subscribe juga [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) dan [uBlock filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt&title=uBlock filters)
-- Kriteria iklan menurut ABPindo sesuai [kebijakan easylist](https://easylist.to/pages/policy.html)
+- ABPindo hanyalah filter suplemen, untuk hasil maksimal subscribe juga [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) dan [uBlock filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt&title=uBlock%20filters)
+- Wiki tentang [Penempatan iklan pada file](https://github.com/ABPindo/indonesianadblockrules/wiki/Penempatan-daftar-iklan)
+- Kriteria iklan ABPindo sesuai dengan [kebijakan easylist](https://easylist.to/pages/policy.html)
