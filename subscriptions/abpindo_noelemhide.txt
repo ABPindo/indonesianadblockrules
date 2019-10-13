@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 8Oy5vHl923Uw8TdfZq26Yg
+! Checksum: V8ykoG1OaorXIwcJ8kes4Q
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 October 13, 19:34:04
+! Last modified: 2019 October 13, 19:41:50
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -26,6 +26,7 @@
 ||6a0e2d19ac28.com^$popup,third-party
 ||6c37f8a12dede103bf7.com^$popup,third-party
 ||7667bab1751ff777.com^
+||86a6b542l7.com^
 ||86a6b542l7.com^$third-party
 ||8a333bc2b4d6.com^$popup,third-party
 ||9icmzvn6.website^$popup,third-party
@@ -202,6 +203,7 @@
 ||jillsclickcorner.com^$third-party
 ||jjxsdkphpcwu.com^$popup,third-party
 ||jsc.adskeeper.co.uk^$third-party
+||juicyads.com^$third-party
 ||juruiklan.com^$third-party
 ||jwpltx.com^$third-party
 ||katurars.com^$popup
@@ -2463,6 +2465,7 @@ woof.tube#@#.adsbox
 ||nasapoker.$third-party
 ||natabet.$third-party
 ||negarakartu.$third-party
+||nenenqq.com^
 ||neobola.$third-party
 ||neobola.club^$popup
 ||neotangkas.$popup
