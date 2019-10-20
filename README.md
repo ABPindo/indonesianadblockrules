@@ -26,4 +26,7 @@ Masih banyak situs yang terlewat, entah karena situsnya telah diperbaharui atau 
 - [Submit a pull request](https://github.com/ABPindo/indonesianadblockrules/pulls)
 
 ## Catatan
-- Kami menggunakan peramban [Firefox](https://www.mozilla.org/id/firefox/) dan pengaya [uBlock Origin](https://github.com/gorhill/uBlock#installation) dengan [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist), [EasyPrivacy](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easyprivacy.txt&title=EasyPrivacy), [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo) dan [uBlock filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt&title=uBlock%20filters) sebagai setting utama.
+Kami menggunakan pengaturan sebagai berikut: 
+- Peramban [Firefox](https://www.mozilla.org/id/firefox/) 
+- Pengaya [uBlock Origin](https://github.com/gorhill/uBlock#installation) 
+- Filter [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist), [EasyPrivacy](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easyprivacy.txt&title=EasyPrivacy), [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo) dan [uBlock filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt&title=uBlock%20filters).
