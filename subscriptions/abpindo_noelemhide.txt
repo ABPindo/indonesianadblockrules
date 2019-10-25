@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: V8ykoG1OaorXIwcJ8kes4Q
+! Checksum: gYw7wh6Fs7zPCWXPb7YiTg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 October 13, 19:41:50
+! Last modified: 2019 October 26, 06:01:27
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -306,6 +306,7 @@
 ||u-on.eu^$popup,third-party
 ||uadexchange.com^$third-party
 ||uoarbhxfyygn.com^$popup,third-party
+||uod2quk646.com^
 ||useads.com^$third-party
 ||vidcpm.com^third-party
 ||vrewpywootyu.com^$popup,third-party
@@ -316,6 +317,7 @@
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
 ||xbfk51p7.review^$popup,third-party
+||xineday.com^$third-party
 ||xqkzsifxgv.com^
 ||yesads.com^$third-party
 ||yhig.info^$third-party
@@ -531,6 +533,7 @@ iklan300x250.gif|
 ||kampus.us/banners/
 ||kaskus.co.id/images/banner-wap/
 ||kaskus.com/images/banner-wap/
+||kazefuri.web.id/wp-content/themes/Kazebaru/img/300ads.png$image
 ||kdramaindo.*/wp-content/uploads/*.gif$image
 ||kebagi.com/*.gif$image,third-party
 ||keepimg.com/*.gif$image,domain=idfl.me
@@ -734,6 +737,8 @@ tribunnews.com##+js(abort-current-inline-script.js, Math, ='\x)
 tribunnews.com##+js(abort-on-property-read.js, $getWin)
 updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 hightech.web.id##+js(abort-current-inline-script, document.getElementById, adback)
+kompasiana.com##+js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
+kompasiana.com##+js(abort-on-property-read.js, $getWin)
 ! *** abpindo_whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
 @@.jpg#$image,domain=komikcast.com
@@ -3774,6 +3779,7 @@ woof.tube#@#.adsbox
 /emasbet-
 /emasbet.
 /emoqq-
+/entertogel.
 /eradominoqq.
 /eyang-togel-
 /eze99.
@@ -3847,6 +3853,7 @@ woof.tube#@#.adsbox
 /intanbet.
 /intanqq.
 /interwin.
+/iocbet.
 /isiqq-
 /istana168.
 /istana3.
@@ -4169,6 +4176,7 @@ woof.tube#@#.adsbox
 /tuanbola.
 /tugupoker.
 /ubcwin.
+/unitogel-
 /utamaqq.
 /vegasidn.
 /vegasmarket.
