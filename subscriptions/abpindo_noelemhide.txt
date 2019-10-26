@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: gYw7wh6Fs7zPCWXPb7YiTg
+! Checksum: z0RrZgY0nsng7uDtR/qHLA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 October 26, 06:01:27
+! Last modified: 2019 October 26, 13:05:42
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -357,7 +357,7 @@ $xmlhttprequest,domain=mangacanblog.com
 -popads.php|
 -slot-iklan-
 .bid^$popup,third-party
-.bid^$third-party,domain=~bolly4u.asia
+.bid^$third-party,domain= ~ bolly4u.asia
 .biz/iklan/
 .com/iklan/
 .id/ads/$~object-subrequest

@@ -47,6 +47,7 @@ bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 log.viva.co.id###bottomframe-ad
+jogja.tribunnews.com,wartakota.tribunnews.com###boxleft > .mb20
 tribunnews.com###boxright [style="width:300px; height:250px;"]
 awsubs.co,benfile.com,blifnews.com,blogspot.com,downloadfilmbaru.com,film21terbaru.org,kabar2.com,mangacanblog.com,mangakita.net,mangaku.web.id,nontonbokeps.com,nusareborn.in,rumahbokep.org,semuaberita.com###btm_banner
 mangacanblog.com###close
@@ -351,7 +352,7 @@ juragan21.com##.cintasemprot_floating_banner_bottom
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
-bangka.tribunnews.com,grid.id##.clearfix.ads__horizontal
+bangka.tribunnews.com,grid.id,jogja.tribunnews.com##.clearfix.ads__horizontal
 kompas.com##.clearfix.kcm__big.kcm
 kompas.com##.clearfix.kcm__rectangle.kcm
 kompas.com##.clearfix.kcm__top.kcm
