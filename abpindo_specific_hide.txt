@@ -282,7 +282,7 @@ lk21.host##.appup
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 nonton21.tv,nontonserial.com,ns21.me##.ban_empat
-nanime.in##.banner
+animebatchs.com,nanime.in##.banner
 dewabioskop21.asia,dewabioskop21.org,www.dewabioskop21.org##.banner-left
 dewabioskop21.org,www.dewabioskop21.org##.banner-middle
 dewabioskop21.asia,dewabioskop21.org,www.dewabioskop21.org##.banner-right
@@ -637,6 +637,7 @@ tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 lihat.co.id##img[width="300"][height="250"]
+animebatchs.com##img[width="720"][height="90"]
 indomovies.*##a[href^="http://bit.ly/"]
 indomv.*##a[href^="http://bit.ly/"]
 indoxx1.*###col

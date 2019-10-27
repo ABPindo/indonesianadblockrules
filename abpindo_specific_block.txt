@@ -99,7 +99,7 @@
 ||hightech.web.id^*/?site=$popup
 ||hotabis.com/wp-content/uploads/*.gif$image
 ||i.ibb.co/*.gif$image,domain=kazefuri.web.id
-||i.imgur.com/*.gif$image,domain=bokep24.site
+||i.imgur.com/*.gif$image,domain=abgbugil.net|animebatchs.com|ayononton.co|bokep24.site|capcus.net|cinemaindo.web.id|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
 ||id.hao123.com/resource/id/banner/
 ||id.techinasia.com/OneSignalSDKWorker.js
 ||idbioskop.com/wp-content/uploads/*/*/300-x-250.png
@@ -112,7 +112,6 @@
 ||images.gameweb.co.id/gw/ads/
 ||img.mittui.com/images/idxbet/bn-slots.gif$image
 ||img.sukipli.com/*.gif$image,third-party
-||imgur.com/*.gif$image,domain=abgbugil.net|ayononton.co|capcus.net|cinemaindo.web.id|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
 ||impulse.forkcdn.com/impulse3/config/impulse.js
 ||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
 ||indo168.*/wp-content/uploads/*.gif$image

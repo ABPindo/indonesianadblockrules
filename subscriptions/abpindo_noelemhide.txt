@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: l9VIFf8nwLBTvBtPgZ9jtQ
+! Checksum: KuGuba98J7Wqwgf/QUzObg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 October 26, 17:29:05
+! Last modified: 2019 October 27, 14:19:14
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -500,7 +500,7 @@ iklan300x250.gif|
 ||hightech.web.id^*/?site=$popup
 ||hotabis.com/wp-content/uploads/*.gif$image
 ||i.ibb.co/*.gif$image,domain=kazefuri.web.id
-||i.imgur.com/*.gif$image,domain=bokep24.site
+||i.imgur.com/*.gif$image,domain=abgbugil.net|animebatchs.com|ayononton.co|bokep24.site|capcus.net|cinemaindo.web.id|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
 ||id.hao123.com/resource/id/banner/
 ||id.techinasia.com/OneSignalSDKWorker.js
 ||idbioskop.com/wp-content/uploads/*/*/300-x-250.png
@@ -513,7 +513,6 @@ iklan300x250.gif|
 ||images.gameweb.co.id/gw/ads/
 ||img.mittui.com/images/idxbet/bn-slots.gif$image
 ||img.sukipli.com/*.gif$image,third-party
-||imgur.com/*.gif$image,domain=abgbugil.net|ayononton.co|capcus.net|cinemaindo.web.id|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
 ||impulse.forkcdn.com/impulse3/config/impulse.js
 ||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
 ||indo168.*/wp-content/uploads/*.gif$image
