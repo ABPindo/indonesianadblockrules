@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: KuGuba98J7Wqwgf/QUzObg
+! Checksum: B5GI7UXTsc70Xi5zj5t5Mg
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 October 27, 14:19:14
+! Last modified: 2019 October 28, 19:41:53
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -777,6 +777,7 @@ animenonton.tv##+js(std, nextFunction)
 @@||anoboy.$generichide
 @@||apkmod.id^$generichide
 @@||asiancine.com^$generichide
+@@||autoride.pw^$generichide
 @@||bagilagi.com^$generichide
 @@||biargreget.top^$generichide
 @@||bloggerku.com/safelink/2.0/script.js$script,domain=animanganews.com
