@@ -1,5 +1,6 @@
 ###judi
 ###togel
+##[href^="http://idwinner."]
 ##[href^="http://ligacash."]
 ##[href^="http://ligacash168."]
 ##[href^="http://nagapokeronline."]
@@ -375,6 +376,7 @@
 ##a[href^="http://enjoydomino."]
 ##a[href^="http://enjoyhoki."]
 ##a[href^="http://enjoyqq."]
+##a[href^="http://esiapoker77."]
 ##a[href^="http://eze99."]
 ##a[href^="http://ezebet."]
 ##a[href^="http://fadly168."]

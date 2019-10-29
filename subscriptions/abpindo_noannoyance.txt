@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: zP8oq0mLjdMAT5QeOWv/qw
+! Checksum: kT3DgtK7LuwAyOeVjb1L/w
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 October 28, 19:41:53
+! Last modified: 2019 October 29, 13:32:42
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1507,6 +1507,7 @@ cinemaxx1.*###side-banner-left
 cinemaxx1.*###side-banner-right
 dewamovie.*##a[href^="http://bit.ly/"]
 www.smartphoneku.com##div.ad-before
+kazefuri.web.id##div.ads300
 nextren.grid.id##div.banner-r
 indoxx1.club##div.content-kuss
 www.medcom.id##div.showcase.banner
