@@ -163,6 +163,7 @@
 ##.text-center.adv
 ##.topadsense
 ##[href="http://ig24.me"]
+##[href^="//mellowads.com/"]
 ##[href^="https://iklango."]
 ##img[alt="Iklan"]
 ##img[alt="Pasang Iklan Anda Disini"]
