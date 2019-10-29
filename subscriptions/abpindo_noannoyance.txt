@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: kT3DgtK7LuwAyOeVjb1L/w
+! Checksum: onbCdrGJ99QWuChuX3gXBQ
 ! Title: ABPindo tanpa filter judi (annoyance)
-! Last modified: 2019 October 29, 13:32:42
+! Last modified: 2019 October 29, 19:47:27
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -916,6 +916,7 @@ hightech.web.id##+js(abort-current-inline-script, document.getElementById, adbac
 kompasiana.com##+js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
 kompasiana.com##+js(abort-on-property-read.js, $getWin)
 animenonton.tv##+js(std, nextFunction)
+mangacanblog.com##+js(acis, Math, zfgloaded)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -1636,12 +1637,13 @@ bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
 ! *** abpindo_whitelist.txt ***
-@@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
+@@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|www.mangacanblog.com
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/*/ads/$image,domain=anibatch.me
 @@.jpg#/adaffiliate_/$image,domain=kaze-batch.blogspot.com|kazefuri.web.id|shirosafe.web.id
 @@.png#$image,domain=1idsly.com|anisubindo.video|komikindo.web.id|link.akuno.net|neumanga.tv|oploverz.in|tokusatsuindo.com
 @@.png#*/ad/$image,domain=ad4msan.com
+@@.png#/*/ad/$image,domain=www.mangacanblog.com
 @@.png#/*/adv/$image,domain=ijobanana.xyz
 @@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|biargreget.top|dutaislam.com|gadget2reviews.com|idsly.net|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sdrama.com|shirosafe.web.id|www.sanjayaops.com
 @@/advertisement-$script,domain=duosia.id
@@ -1674,6 +1676,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||asiancine.com^$generichide
 @@||autoride.pw^$generichide
 @@||bagilagi.com^$generichide
+@@||batch.id/wp-content/plugins/lw-adblocker/assets/js/fuckadblock.min.js
 @@||biargreget.top^$generichide
 @@||bloggerku.com/safelink/2.0/script.js$script,domain=animanganews.com
 @@||bloggerku.com/safelink/2.0/script.js?$script,domain=njiir.com
@@ -1708,6 +1711,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 @@||lewat.club/js/ads.js$first-party,script
 @@||ljutkeunvpn.blogspot.com^$generichide
 @@||majalahikan.com^$generichide
+@@||mangacanblog.com^$generichide
 @@||mangasave.us^$generichide
 @@||mivo.com^$generichide
 @@||modecepat.com/js/ads.js$first-party,script

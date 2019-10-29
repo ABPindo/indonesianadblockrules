@@ -1,13 +1,10 @@
-@@.gif#/*/ad/$image,domain=www.mangacanblog.com
-@@.png#/*/ad/$image,domain=www.mangacanblog.com
-@@||batch.id/wp-content/plugins/lw-adblocker/assets/js/fuckadblock.min.js
-@@||mangacanblog.com^$generichide
-@@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com
+@@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|www.mangacanblog.com
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/*/ads/$image,domain=anibatch.me
 @@.jpg#/adaffiliate_/$image,domain=kaze-batch.blogspot.com|kazefuri.web.id|shirosafe.web.id
 @@.png#$image,domain=1idsly.com|anisubindo.video|komikindo.web.id|link.akuno.net|neumanga.tv|oploverz.in|tokusatsuindo.com
 @@.png#*/ad/$image,domain=ad4msan.com
+@@.png#/*/ad/$image,domain=www.mangacanblog.com
 @@.png#/*/adv/$image,domain=ijobanana.xyz
 @@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|biargreget.top|dutaislam.com|gadget2reviews.com|idsly.net|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sdrama.com|shirosafe.web.id|www.sanjayaops.com
 @@/advertisement-$script,domain=duosia.id
@@ -40,6 +37,7 @@
 @@||asiancine.com^$generichide
 @@||autoride.pw^$generichide
 @@||bagilagi.com^$generichide
+@@||batch.id/wp-content/plugins/lw-adblocker/assets/js/fuckadblock.min.js
 @@||biargreget.top^$generichide
 @@||bloggerku.com/safelink/2.0/script.js$script,domain=animanganews.com
 @@||bloggerku.com/safelink/2.0/script.js?$script,domain=njiir.com
@@ -74,6 +72,7 @@
 @@||lewat.club/js/ads.js$first-party,script
 @@||ljutkeunvpn.blogspot.com^$generichide
 @@||majalahikan.com^$generichide
+@@||mangacanblog.com^$generichide
 @@||mangasave.us^$generichide
 @@||mivo.com^$generichide
 @@||modecepat.com/js/ads.js$first-party,script
