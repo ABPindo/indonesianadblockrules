@@ -1,4 +1,3 @@
-@@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=teknorizen.blogspot.com
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|www.mangacanblog.com
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/*/ads/$image,domain=anibatch.me
@@ -9,7 +8,7 @@
 @@.png#/*/adv/$image,domain=ijobanana.xyz
 @@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|biargreget.top|dutaislam.com|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sdrama.com|shirosafe.web.id|www.sanjayaops.com
 @@/advertisement-$script,domain=duosia.id
-@@/advertisement.$script,domain=kumpulmanga.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
+@@/advertisement.$script,domain=kumpulmanga.org|mangalist.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
 @@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
 @@/js/ads.js$script,domain=adlink.pw|adsafelink.net|akuno.net|blogrp.me|ceklink.co|idsly.net|kabarviral.blog|lewat.club|modecepat.com|safe.mirrordown.com|templink.org|virtualdata.me
 @@logo*.png#*/ads/$image,~third-party
@@ -44,7 +43,7 @@
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
 @@||cat3movie.us^$generichide
 @@||cinemamkv.net^$generichide
-@@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=www.razorlink.us
+@@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=teknorizen.blogspot.com|www.razorlink.us
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
 @@||dukun-cit.com^$generichide
@@ -114,5 +113,6 @@ aktual.id,datasekolah.co.id#@#.adsbygoogle
 animanganews.com#@#.iklan
 aplikasipc.com#@#.afs_ads
 gurusd.web.id,kurikulum.co.id#@##adsense
+mangalist.org#@#.adsbygoogle
 oomph.co.id#@#.shareit
 woof.tube#@#.adsbox
