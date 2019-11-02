@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: blQXaeOaCRo3krLvibnfRA
+! Checksum: vVp0x98ngk9K0lfBANC4GA
 ! Title: ABPindo tanpa element hiding
-! Last modified: 2019 November 02, 20:59:38
+! Last modified: 2019 November 02, 21:23:07
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -753,6 +753,8 @@ mangacanblog.com##+js(acis, Math, zfgloaded)
 dramaserial.xyz##+js(acis, $, popup)
 teknorizen.*##+js(set-constant, safelink.adblock, false)
 machineworlds.me##+js(abort-on-property-read, open)
+oploverz.in##+js(acis, Object.defineProperty, vocabulary)
+oploverz.in##+js(setTimeout-defuser, nextFunction, 450)
 ! *** abpindo_whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|www.mangacanblog.com
 @@.jpg#$image,domain=komikcast.com

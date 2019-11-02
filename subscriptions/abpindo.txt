@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WHDhOcfTRVn6t6/v2I572Q
+! Checksum: bXsRhSuuATEAFx5uoD0asA
 ! Title: ABPindo
-! Last modified: 2019 November 02, 20:59:37
+! Last modified: 2019 November 02, 21:23:06
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -930,6 +930,8 @@ mangacanblog.com##+js(acis, Math, zfgloaded)
 dramaserial.xyz##+js(acis, $, popup)
 teknorizen.*##+js(set-constant, safelink.adblock, false)
 machineworlds.me##+js(abort-on-property-read, open)
+oploverz.in##+js(acis, Object.defineProperty, vocabulary)
+oploverz.in##+js(setTimeout-defuser, nextFunction, 450)
 ! *** abpindo_specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
