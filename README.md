@@ -5,8 +5,8 @@ ABPindo merupakan filter tambahan untuk melengkapi [EasyList](https://subscribe.
 
 ## Keuntungan
 - Tampilan lebih bersih. </br>Kita bisa lebih fokus terhadap konten website, tanpa risih atau terganggu oleh iklan.
-- Terjaga dari penipuan. </br>Banyak iklan yang membaur bahkan menyamar menjadi tombol pembaharuan program/ tombol download, tanpa iklan tersebut  setidaknya kita dapat terhindar dari penipuan.
-- Lebih cepat. </br>Iklan animasi/video masih menjadi masalah bagi pengguna internet dengan akses terbatas. Tanpa iklan tersebut waktu membuka laman web menjadi lebih singkat.
+- Terjaga dari penipuan. </br>Banyak iklan yang membaur bahkan menyamar menjadi tombol pembaharuan program/ tombol download, setidaknya kita dapat terhindar dari penipuan.
+- Lebih cepat. </br>Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas. Tanpa iklan tersebut waktu membuka laman web menjadi lebih singkat.
 
 ## Cara Menggunakan
 - Jalankan peramban web favoritmu (Firefox, Chrome, Opera, Safari, ...)
