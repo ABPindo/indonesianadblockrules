@@ -1,3 +1,6 @@
+$popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
+$xmlhttprequest,domain=mangacanblog.com
+*$subdocument,third-party,domain=ironysub.net
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
@@ -177,6 +180,7 @@
 ||movieon21.*/wp-content/uploads/*.gif$image
 ||movietube21.*/wp-content/uploads/*.gif$image
 ||mractionclub.com/banner/
+||muhbayu.github.io/adbdetect/js/adbdetect.packed.js
 ||musisi.com/musifile/images_banner/
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image

@@ -1,0 +1,23 @@
+[Adblock Plus 2.0]
+! Title: ABPindo_noelemhide
+! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
+! Last modified: %timestamp%
+! Expires: 4 days (update frequency)
+! Homepage: http://abpindo.blogspot.com/
+! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
+!
+! Please report any unblocked adverts or problems
+! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
+! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
+!
+!---------------------- advert blocking filters ----------------------!
+%include abpindo:src/advert/adservers.txt%
+%include abpindo:src/advert/thirdparty.txt%
+%include abpindo:src/advert/general_block.txt%
+%include abpindo:src/advert/specific_block.txt%
+%include abpindo:src/advert/specific_ublock.txt%
+%include abpindo:src/advert/whitelist.txt%
+!---------------------------- annoyance ------------------------------!
+%include abpindo:src/annoyances/annoyance_thirdparty.txt%
+%include abpindo:src/annoyances/annoyance_general_block.txt%
+%include abpindo:src/annoyances/annoyance_prank.txt%

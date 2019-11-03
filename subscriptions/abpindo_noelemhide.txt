@@ -1,17 +1,18 @@
 [Adblock Plus 2.0]
-! Checksum: vVp0x98ngk9K0lfBANC4GA
-! Title: ABPindo tanpa element hiding
-! Last modified: 2019 November 02, 21:23:07
+! Version: 19.307.913
+! Title: ABPindo_noelemhide
+! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
+! Last modified: 03 Nov 2019 15:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
-!
+! 
 ! Please report any unblocked adverts or problems
-! in the forums (http://forums.lanik.us/viewforum.php?f=94)
 ! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
 ! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
-!
-! *** abpindo_adservers.txt ***
+! 
+! ---------------------- advert blocking filters ----------------------!
+! *** abpindo:src/advert/adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||2d7bd9e6eb370143.com^
@@ -337,7 +338,7 @@
 ||zukxd6fkxqn.com^$popup
 ||zy16eoat1w.com^
 ||zywfpkagwwpm.com^
-! *** abpindo_thirdparty.txt ***
+! *** abpindo:src/advert/thirdparty.txt ***
 ||c-stat.eu^$third-party
 ||cfs1.uzone.id^$third-party
 ||easy-hit-counter.com^$third-party
@@ -355,9 +356,7 @@
 ||trackingclick.net^$third-party
 ||trafficfactory.biz^$popup,third-party
 ||trk.cpaoptimizer.com^$popup,third-party
-! *** abpindo_general_block.txt ***
-$popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
-$xmlhttprequest,domain=mangacanblog.com
+! *** abpindo:src/advert/general_block.txt ***
 -728-x-90.
 -iklan.gif|
 -iklan.jpg|
@@ -406,7 +405,10 @@ $xmlhttprequest,domain=mangacanblog.com
 /wpsafelink$script,domain=daizurin.com|lucikun.com|shitaranime.com|sinanime.net
 /wpsafelink$script,third-party
 iklan300x250.gif|
-! *** abpindo_specific_block.txt ***
+! *** abpindo:src/advert/specific_block.txt ***
+$popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
+$xmlhttprequest,domain=mangacanblog.com
+*$subdocument,third-party,domain=ironysub.net
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
@@ -586,6 +588,7 @@ iklan300x250.gif|
 ||movieon21.*/wp-content/uploads/*.gif$image
 ||movietube21.*/wp-content/uploads/*.gif$image
 ||mractionclub.com/banner/
+||muhbayu.github.io/adbdetect/js/adbdetect.packed.js
 ||musisi.com/musifile/images_banner/
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
@@ -651,7 +654,7 @@ iklan300x250.gif|
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
-! *** abpindo_specific_ublock.txt ***
+! *** abpindo:src/advert/specific_ublock.txt ***
 ! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
 1idsly.com##+js(nano-setInterval-booster.js)
 ad4msan.*##+js(abort-on-property-read, anOptions)
@@ -667,6 +670,7 @@ animeindo.moe##+js(abort-on-property-read.js, popjs.init)
 animeindo.moe##+js(abort-on-property-write.js, AaDetector)
 animeindo.moe##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 animeindo.moe##+js(setInterval-defuser.js, (), 500)
+animenonton.tv##+js(std, nextFunction)
 anitoki.com##+js(abort-on-property-read, Base64.encode)
 awsubs.tv##+js(abort-current-inline-script.js, Math, zfgloaded)
 awsubs.tv##+js(abort-on-property-read.js, popjs)
@@ -682,6 +686,7 @@ cinemamkv.net##+js(set-constant.js, _ocads, noopFunc)
 daizurin.com##+js(setTimeout-defuser, nextFunction, 250)
 dicariguru.com##+js(abort-on-property-write.js, adBlockDetected)
 downloadbatch.com##+js(abort-on-property-write, adBlockDetected)
+dramaserial.xyz##+js(acis, $, popup)
 fendy.web.id##+js(bab-defuser.js)
 ganol.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 ganol.*##+js(nowebrtc.js)
@@ -693,6 +698,7 @@ gembelcit.net##+js(abort-on-property-read.js, AaDetector)
 get.web.id##+js(bab-defuser.js)
 gurusd.web.id##^script:has-text(safelink)
 hexafile.net##+js(setTimeout-defuser.js, nextFunction, 250)
+hightech.web.id##+js(abort-current-inline-script, document.getElementById, adback)
 hokiciki.org##+js(nano-setInterval-booster.js)
 infosehatku.club##+js(addEventListener-defuser, load, onload)
 infotrendy.me##+js(addEventListener-defuser.js, load, 2000)
@@ -706,18 +712,24 @@ komikindo.web.id##+js(addEventListener-defuser.js)
 kompas.com##+js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
 kompas.com##+js(abort-on-property-read.js, $getWin)
 kompas.com##^script:has-text(axtd)
+kompasiana.com##+js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
+kompasiana.com##+js(abort-on-property-read.js, $getWin)
 ld2tv.me##+js(bab-defuser.js)
 lewat.club##+js(acis, $, open)
 lewat.club##+js(aeld, click, trigger)
 lewat.club##+js(noeval)
 lewat.club##+js(window.open-defuser)
 linkduit.net##+js(nano-setInterval-booster.js)
+machineworlds.me##+js(abort-on-property-read, open)
 mangacanblog.com##+js(abort-on-property-read.js, adblock)
+mangacanblog.com##+js(acis, Math, zfgloaded)
 mediakita.blog##+js(addEventListener-defuser.js)
 megaurl.*##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 megaurl.in##+js(abort-on-property-read.js, jQuery.adblock)
 megaurl.in##+js(bab-defuser.js)
 merdekaid.online##+js(addEventListener-defuser.js, load, 2000)
+movienear.me##+js(aopr, app_vars.force_disable_adblock)
+movienear.me##+js(window.open-defuser)
 muhammadyoga.me##+js(addEventListener-defuser.js, load, onload)
 nekopoi.*##+js(abort-current-inline-script, atob, tabunder)
 nekopoi.*##+js(set-constant, isAdsDisplayed, true)
@@ -729,6 +741,8 @@ oko.sh##+js(abort-on-property-read.js)
 oload.*##+js(openload.co.js)
 oload.*##+js(window.open-defuser.js)
 oploverz.*##+js(setTimeout-defuser.js, nextFunction, 450)
+oploverz.in##+js(acis, Object.defineProperty, vocabulary)
+oploverz.in##+js(setTimeout-defuser, nextFunction, 450)
 overlordfree.web.id##+js(abort-on-property-write.js, ai_adb_overlay)
 overlordfree.web.id##+js(set-constant.js, showAds, true)
 razerflixs.com##+js(addEventListener-defuser.js, load, onload)
@@ -741,21 +755,12 @@ smallencode.com##+js(abort-on-property-write.js, _pop)
 streamxxi.com##+js(bab-defuser.js)
 suarankri.me##+js(addEventListener-defuser.js, load, onload)
 superitu.com##+js(popads-dummy.js)
+teknorizen.*##+js(set-constant, safelink.adblock, false)
 templink.org##+js(abort-on-property-read.js, app_vars.force_disable_adblock)
 tribunnews.com##+js(abort-current-inline-script.js, Math, ='\x)
 tribunnews.com##+js(abort-on-property-read.js, $getWin)
 updatetribun.org##+js(addEventListener-defuser.js, load, onload)
-hightech.web.id##+js(abort-current-inline-script, document.getElementById, adback)
-kompasiana.com##+js(abort-current-inline-script.js, setTimeout, iframeTestTimeMS)
-kompasiana.com##+js(abort-on-property-read.js, $getWin)
-animenonton.tv##+js(std, nextFunction)
-mangacanblog.com##+js(acis, Math, zfgloaded)
-dramaserial.xyz##+js(acis, $, popup)
-teknorizen.*##+js(set-constant, safelink.adblock, false)
-machineworlds.me##+js(abort-on-property-read, open)
-oploverz.in##+js(acis, Object.defineProperty, vocabulary)
-oploverz.in##+js(setTimeout-defuser, nextFunction, 450)
-! *** abpindo_whitelist.txt ***
+! *** abpindo:src/advert/whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|www.mangacanblog.com
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/*/ads/$image,domain=anibatch.me
@@ -874,7 +879,8 @@ gurusd.web.id,kurikulum.co.id#@##adsense
 mangalist.org#@#.adsbygoogle
 oomph.co.id#@#.shareit
 woof.tube#@#.adsbox
-! *** abpindo_annoyance_thirdparty.txt ***
+! ---------------------------- annoyance ------------------------------!
+! *** abpindo:src/annoyances/annoyance_thirdparty.txt ***
 ||116poker.$popup
 ||116poker.$third-party
 ||11juni.$popup
@@ -3565,7 +3571,7 @@ woof.tube#@#.adsbox
 ||zonawin.$third-party
 ||zynga365.$third-party
 ||zyngaqq.$third-party
-! *** abpindo_annoyance_general_block.txt ***
+! *** abpindo:src/annoyances/annoyance_general_block.txt ***
 -agen-judi-
 -agen-poker-
 -agenbet.
@@ -4255,9 +4261,9 @@ sbobetqq.gif|
 spbet.gif|
 suhubola.gif|
 totojitu.gif|
-! *** abpindo_annoyance_prank.txt ***
+! *** abpindo:src/annoyances/annoyance_prank.txt ***
 ! situs jail dan usil
-!
+! 
 ||1227.com^
 ||1girl1pitcher.com^
 ||1girl1pitcher.org^
@@ -4381,3 +4387,4 @@ totojitu.gif|
 ||yellaface.com^
 ||ypmate.com^
 ||zentastic.com^
+! Checksum: EM3HOI6bxqJ+mxC5lmkZNQ
