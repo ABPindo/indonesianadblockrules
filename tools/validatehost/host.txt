@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 19.307.930
-! Last modified: 03 Nov 2019 15:30 UTC
+! Version: 19.310.1370
+! Last modified: 06 Nov 2019 22:50 UTC
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
@@ -793,6 +793,7 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 @@||ngantukberat.me/wp-content/plugins/wp-safelink-v3/assets/fuckadblock.js$script,~third-party
 @@||ngantukberat.me^$generichide
 @@||njiir.com^$generichide
+@@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
 @@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
@@ -1087,7 +1088,7 @@ antaranews.com##.ads_top_728
 ainimeindo.com##.adsbawah1
 ainimeindo.com##.adsbawah2
 www.eramuslim.com##.adsbyadop
-apkmod.id,hightech.web.id,nama.web.id,paraedu.id,radarlombok.co.id,www.eramuslim.com##.adsbygoogle
+apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id,www.eramuslim.com##.adsbygoogle
 www.pontianakpost.co.id##.adsense
 www.ganol.si##.adsincenter
 kshowid.com##.adssingle
@@ -4359,4 +4360,4 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||yellaface.com^
 ||ypmate.com^
 ||zentastic.com^
-! Checksum: QF/tpJO2EUeGmp2QwwSWtA
+! Checksum: 64dEZb6wuCEvhXb6qMpePw
