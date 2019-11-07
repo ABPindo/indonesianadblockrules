@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 19.311.543
+! Version: 201911070913
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 07 Nov 2019 09:03 UTC
+! Last modified: 07 Nov 2019 09:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -6774,8 +6774,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 /kursiqq.
 /langitqq.
 /lapakpoker.
-/lapakqq.
 /Lapakqq.
+/lapakqq.
 /layarqq.
 /lazabet-
 /lazabet.
@@ -7217,4 +7217,3 @@ totojitu.gif|
 ||yellaface.com^
 ||ypmate.com^
 ||zentastic.com^
-! Checksum: KoWaBRkFsGMyybVZM9NabA
