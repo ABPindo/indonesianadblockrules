@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 19.310.1370
-! Last modified: 06 Nov 2019 22:50 UTC
+! Version: 19.311.543
+! Last modified: 07 Nov 2019 09:03 UTC
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
@@ -747,7 +747,7 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
 @@||cat3movie.us^$generichide
 @@||cinemamkv.net^$generichide
-@@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=teknorizen.blogspot.com|www.razorlink.us
+@@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=teknorizen.blogspot.com|www.maulandaru.com|www.razorlink.us
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
 @@||dukun-cit.com^$generichide
@@ -819,6 +819,7 @@ animanganews.com#@#.iklan
 aplikasipc.com#@#.afs_ads
 gurusd.web.id,kurikulum.co.id#@##adsense
 mangalist.org#@#.adsbygoogle
+maulandaru.com#@#.adsbygoogle
 oomph.co.id#@#.shareit
 woof.tube#@#.adsbox
 ! ----------------------- element hiding rules ------------------------!
@@ -4360,4 +4361,4 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||yellaface.com^
 ||ypmate.com^
 ||zentastic.com^
-! Checksum: 64dEZb6wuCEvhXb6qMpePw
+! Checksum: nsTuvffHgurwjaZeWfdt/w
