@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 201911090228
-! Last modified: 09 Nov 2019 02:28 UTC
+! Version: 201911090240
+! Last modified: 09 Nov 2019 02:40 UTC
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
@@ -348,8 +348,8 @@
 ||trk.cpaoptimizer.com^$popup,third-party
 ! *** abpindo:src/advert/specific_block.txt ***
 $popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
+$subdocument,third-party,domain=ironysub.net
 $xmlhttprequest,domain=mangacanblog.com
-*$subdocument,third-party,domain=ironysub.net
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
@@ -452,6 +452,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||hotabis.com/wp-content/uploads/*.gif$image
 ||i.ibb.co/*.gif$image,domain=kazefuri.web.id
 ||i.imgur.com/*.gif$image,domain=abgbugil.net|animebatchs.com|ayononton.co|bokep24.site|capcus.net|cinemaindo.web.id|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
+||i1.wp.com/ryuukoi.web.id/wp-content/uploads/*/antiadblock$image
 ||id.hao123.com/resource/id/banner/
 ||id.techinasia.com/OneSignalSDKWorker.js
 ||idbioskop.com/wp-content/uploads/*/*/300-x-250.png
@@ -697,6 +698,7 @@ $xmlhttprequest,domain=mangacanblog.com
 @@||rawcdn.githack.com/KecoaTerbank/safelink/$script,domain=eleventhlevelinteractive.com
 @@||razorlink.us^$generichide
 @@||riauonline.co.id^$generichide
+@@||ryuukoi.web.id^$generichide
 @@||safe.mirrordown.com/js/ads.js$script,~third-party
 @@||sanjayaops.com^$generichide
 @@||sdrama.com^$generichide

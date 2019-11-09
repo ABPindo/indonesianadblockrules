@@ -1,7 +1,6 @@
-||i1.wp.com/ryuukoi.web.id/wp-content/uploads/*/antiadblock$image
 $popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
-$xmlhttprequest,domain=mangacanblog.com
 $subdocument,third-party,domain=ironysub.net
+$xmlhttprequest,domain=mangacanblog.com
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
@@ -104,6 +103,7 @@ $subdocument,third-party,domain=ironysub.net
 ||hotabis.com/wp-content/uploads/*.gif$image
 ||i.ibb.co/*.gif$image,domain=kazefuri.web.id
 ||i.imgur.com/*.gif$image,domain=abgbugil.net|animebatchs.com|ayononton.co|bokep24.site|capcus.net|cinemaindo.web.id|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
+||i1.wp.com/ryuukoi.web.id/wp-content/uploads/*/antiadblock$image
 ||id.hao123.com/resource/id/banner/
 ||id.techinasia.com/OneSignalSDKWorker.js
 ||idbioskop.com/wp-content/uploads/*/*/300-x-250.png

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201911090228
+! Version: 201911090239
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 09 Nov 2019 02:28 UTC
+! Last modified: 09 Nov 2019 02:39 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -407,8 +407,8 @@
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
 $popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
+$subdocument,third-party,domain=ironysub.net
 $xmlhttprequest,domain=mangacanblog.com
-*$subdocument,third-party,domain=ironysub.net
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||365wp.org/Banner/728x90$image
@@ -511,6 +511,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||hotabis.com/wp-content/uploads/*.gif$image
 ||i.ibb.co/*.gif$image,domain=kazefuri.web.id
 ||i.imgur.com/*.gif$image,domain=abgbugil.net|animebatchs.com|ayononton.co|bokep24.site|capcus.net|cinemaindo.web.id|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
+||i1.wp.com/ryuukoi.web.id/wp-content/uploads/*/antiadblock$image
 ||id.hao123.com/resource/id/banner/
 ||id.techinasia.com/OneSignalSDKWorker.js
 ||idbioskop.com/wp-content/uploads/*/*/300-x-250.png
@@ -862,6 +863,7 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 @@||rawcdn.githack.com/KecoaTerbank/safelink/$script,domain=eleventhlevelinteractive.com
 @@||razorlink.us^$generichide
 @@||riauonline.co.id^$generichide
+@@||ryuukoi.web.id^$generichide
 @@||safe.mirrordown.com/js/ads.js$script,~third-party
 @@||sanjayaops.com^$generichide
 @@||sdrama.com^$generichide
@@ -6775,8 +6777,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 /kursiqq.
 /langitqq.
 /lapakpoker.
-/Lapakqq.
 /lapakqq.
+/Lapakqq.
 /layarqq.
 /lazabet-
 /lazabet.
