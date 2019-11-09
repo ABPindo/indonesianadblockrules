@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 201911070913
-! Last modified: 07 Nov 2019 09:13 UTC
+! Version: 201911090228
+! Last modified: 09 Nov 2019 02:28 UTC
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
@@ -700,6 +700,7 @@ $xmlhttprequest,domain=mangacanblog.com
 @@||safe.mirrordown.com/js/ads.js$script,~third-party
 @@||sanjayaops.com^$generichide
 @@||sdrama.com^$generichide
+@@||shirainime.com^$generichide
 @@||shirosafe.web.id^$generichide
 @@||suarankri.me^$generichide
 @@||tokusatsuindo.com^$generichide
