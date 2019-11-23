@@ -1,6 +1,5 @@
-TITLE render ABPindo
+#!/bin/bash
 
-ECHO OFF 
 python tools/FOP.py
 
 flrender -i abpindo=. abpindo.template subscriptions/abpindo.txt

@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 201911231349
-! Last modified: 23 Nov 2019 13:49 UTC
+! Version: 201911232336
+! Last modified: 23 Nov 2019 23:36 UTC
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
@@ -4141,7 +4141,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||zyngaqq.$third-party
 ! *** abpindo:src/annoyances/annoyance_prank.txt ***
 ! situs jail dan usil
-!
+! 
 ||1227.com^
 ||1girl1pitcher.com^
 ||1girl1pitcher.org^

@@ -12,7 +12,11 @@
         {
             "label": "Generate",
             "type": "shell",
-            "command": "./build.bat",
+            "command": "./build.sh",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }
