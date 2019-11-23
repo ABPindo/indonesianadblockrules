@@ -116,6 +116,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||images.gameweb.co.id/gw/ads/
 ||img.mittui.com/images/idxbet/bn-slots.gif$image
 ||img.sukipli.com/*.gif$image,third-party
+||img.teman.stream/tb/*.gif$image,domain=bioskopkerenin.com
 ||impulse.forkcdn.com/impulse3/config/impulse.js
 ||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
 ||indo168.*/wp-content/uploads/*.gif$image

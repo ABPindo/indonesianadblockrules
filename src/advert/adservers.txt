@@ -250,6 +250,7 @@
 ||props.id^$third-party
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
+||pushlaram.com^
 ||pushlinck.com^$third-party
 ||pushqwer.com^$third-party
 ||q1xyxm89.com^$popup

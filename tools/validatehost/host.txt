@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 201911230116
-! Last modified: 23 Nov 2019 01:16 UTC
+! Version: 201911231349
+! Last modified: 23 Nov 2019 13:49 UTC
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
@@ -255,6 +255,7 @@
 ||props.id^$third-party
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
+||pushlaram.com^
 ||pushlinck.com^$third-party
 ||pushqwer.com^$third-party
 ||q1xyxm89.com^$popup
@@ -465,6 +466,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||images.gameweb.co.id/gw/ads/
 ||img.mittui.com/images/idxbet/bn-slots.gif$image
 ||img.sukipli.com/*.gif$image,third-party
+||img.teman.stream/tb/*.gif$image,domain=bioskopkerenin.com
 ||impulse.forkcdn.com/impulse3/config/impulse.js
 ||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
 ||indo168.*/wp-content/uploads/*.gif$image
@@ -711,6 +713,7 @@ $xmlhttprequest,domain=mangacanblog.com
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||updatetribun.^$generichide
 @@||virtualdata.me/webroot/js/ads.js$script,~third-party
+@@||www.kertashitam.com/js/advertisement.js$script,domain=www.kertashitam.com
 @@||zaqe.xyz^$generichide
 aktual.id,datasekolah.co.id#@#.adsbygoogle
 animanganews.com#@#.iklan
@@ -767,6 +770,8 @@ kotakgame.com###bannertheme_right
 bioskop78.com###billboard_banner
 bioskop168.co,bioskop168.online,bioskop168.pro,semi168.club###bioskop-kanan
 bioskop168.co,bioskop168.online,bioskop168.pro,semi168.club###bioskop-kiri
+kertashitam.com###blockblockA
+kertashitam.com###blockblockB:style(visibility: visible !important; display: block !important;)
 bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
@@ -1235,6 +1240,7 @@ kazefuri.blogspot.com##[href="http://www.cocobet."]
 idxx1.top##[href="https://indoxplay.com/promosi/slots"]
 www.kazefuri.web.id##[href="https://kdslots.com/"]
 www.kazefuri.web.id##[href="javascript:showHideGB()"]
+bioskopkerenin.com##[href^="http://bit.ly/"]
 kazefuri.web.id##[href^="http://dwatngkas."]
 bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]

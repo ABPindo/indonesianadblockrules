@@ -43,6 +43,8 @@ kotakgame.com###bannertheme_right
 bioskop78.com###billboard_banner
 bioskop168.co,bioskop168.online,bioskop168.pro,semi168.club###bioskop-kanan
 bioskop168.co,bioskop168.online,bioskop168.pro,semi168.club###bioskop-kiri
+kertashitam.com###blockblockA
+kertashitam.com###blockblockB:style(visibility: visible !important; display: block !important;)
 bintangmawar.net###bmpop_adpB
 detik.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
@@ -511,6 +513,7 @@ kazefuri.blogspot.com##[href="http://www.cocobet."]
 idxx1.top##[href="https://indoxplay.com/promosi/slots"]
 www.kazefuri.web.id##[href="https://kdslots.com/"]
 www.kazefuri.web.id##[href="javascript:showHideGB()"]
+bioskopkerenin.com##[href^="http://bit.ly/"]
 kazefuri.web.id##[href^="http://dwatngkas."]
 bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]
