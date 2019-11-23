@@ -1,0 +1,18 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "FOP",
+            "type": "shell",
+            "command": "./tools/FOP.py",
+            
+        }
+        {
+            "label": "Generate",
+            "type": "shell",
+            "command": "./build.bat",
+        }
+    ]
+}
