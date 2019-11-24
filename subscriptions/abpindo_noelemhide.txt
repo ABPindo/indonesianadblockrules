@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201911232336
+! Version: 201911240921
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 23 Nov 2019 23:36 UTC
+! Last modified: 24 Nov 2019 09:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -122,6 +122,7 @@
 ||dolohen.com^$third-party
 ||domnovrek.com^$third-party
 ||drda5yf9kgz5p.cloudfront.net^
+||dt2xr6g2i5.com^
 ||dubshub.com$script,third-party
 ||dulcetcgvcxr.com^$popup,third-party
 ||dzbx8qv1at614.cloudfront.net^
@@ -420,6 +421,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||animeindo.*/wp-content/uploads/*.gif$image
 ||animekompi.web.id/wp-content/uploads/*/ANTIBLOCKER2.jpg
 ||animekompi.web.id/wp-content/uploads/*/antiblocker3-1.jpg
+||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
@@ -435,7 +437,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bioskop55.*/wp-content/uploads/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|mangaindo.net|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
@@ -765,6 +767,9 @@ tribunnews.com##+js(abort-current-inline-script.js, Math, ='\x)
 tribunnews.com##+js(abort-on-property-read.js, $getWin)
 updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 komikindo.web.id##+js(bab-defuser)
+blog.taryo.net##+js(bab-defuser)
+mangaindo.web.id##+js(abort-on-property-read, anOptions)
+semawur.com##+js(aopr, open)
 ! *** abpindo:src/advert/whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|www.mangacanblog.com
 @@.jpg#$image,domain=komikcast.com
@@ -828,6 +833,7 @@ komikindo.web.id##+js(bab-defuser)
 @@||indexmovie.download^$generichide
 @@||indozone.me^$generichide
 @@||infokupedia.id^$generichide
+@@||inwepo.co^$generichide
 @@||kabarviral.blog/js/ads.js$script,~third-party
 @@||kaze-batch.blogspot.com^$generichide
 @@||kazefuri.blogspot.com^$generichide
@@ -3955,11 +3961,11 @@ woof.tube#@#.adsbox
 /langitqq.
 /lapakpoker.
 /lapakqq.
-/Lapakqq.
 /layarqq.
 /lazabet-
 /lazabet.
 /lazacasino.
+/lexispoker.
 /liga-emas.
 /liga77.
 /liga88.

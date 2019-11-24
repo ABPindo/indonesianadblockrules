@@ -464,6 +464,7 @@ kazemanga.xyz##.sg-popup-builder-content
 cinemaindo.com##.side:nth-of-type(7)
 cinemaindo.com##.side:nth-of-type(8)
 cinemaindo.com##.side:nth-of-type(9)
+batch.id##.sidebar > .klan300
 indoxtream.com##.sidebar-widget:nth-of-type(1)
 indoxtream.com##.sidebar-widget:nth-of-type(3)
 indoxtream.com##.sidebar-widget:nth-of-type(4)

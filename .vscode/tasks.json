@@ -7,8 +7,8 @@
             "label": "FOP",
             "type": "shell",
             "command": "./tools/FOP.py",
-            
-        }
+
+        },
         {
             "label": "Generate",
             "type": "shell",
@@ -17,6 +17,11 @@
                 "kind": "build",
                 "isDefault": true
             }
+        },
+        {
+            "label": "validate host",
+            "type": "shell",
+            "command": "./validatehost.sh"
         }
     ]
 }
