@@ -87,6 +87,7 @@
 ||clickmedia.co.id^$third-party
 ||cpmstar.com^$third-party
 ||craydark.pw^$third-party
+||cryaptall.club^$script,third-party
 ||d0p21g2fep.com^
 ||d2405b0jymm2dk.cloudfront.net^
 ||d24afgsm39csxt.cloudfront.net^
@@ -325,4 +326,3 @@
 ||zukxd6fkxqn.com^$popup
 ||zy16eoat1w.com^
 ||zywfpkagwwpm.com^
-||cryaptall.club^$script,third-party
