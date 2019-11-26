@@ -250,3 +250,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
+||158.69.54.218/img/closeX.png$image
+||fb21.*/img/closeX.png$image
+||fb21.*/wp-content/uploads/*.gif$image
+||158.69.54.218/wp-content/uploads/*.gif$image

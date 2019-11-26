@@ -721,3 +721,16 @@ satujiwa.org##table
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
+158.69.54.218##.ban_empat
+158.69.54.218##[href^="https://bit.ly/"]
+fb21.*##[href^="https://bit.ly/"]
+fb21.tv###fbawah
+fb21.tv###previewBox1
+fb21.tv###previewBox2
+fb21.tv###previewBox3
+fb21.tv###previewBox4
+fb21.*###fbawah
+fb21.*###previewBox1
+fb21.*###previewBox2
+fb21.*###previewBox3
+fb21.*###previewBox4
