@@ -1,5 +1,6 @@
 ###judi
 ###togel
+##[href^="http://www.9club888."]
 ##a[href$="/77megabet"]
 ##a[href$="/adscantikqq"]
 ##a[href$="/adskartu66"]
@@ -1698,6 +1699,7 @@
 ##img[alt="selebtoto"]
 ##img[alt="senibet"]
 ##img[alt="sepakbola.cc"]
+##img[alt="situs judi online" i]
 ##img[alt="situs poker online"]
 ##img[alt="situs poker"]
 ##img[alt="situs togel online"]
@@ -1923,5 +1925,3 @@
 ##img[title="togel online"]
 ##img[title="vegas811"]
 ##img[title="wigobet"]
-##img[alt="situs judi online" i]
-##[href^="http://www.9club888."]
