@@ -7,7 +7,6 @@
             "label": "FOP",
             "type": "shell",
             "command": "./tools/FOP.py",
-
         },
         {
             "label": "Generate",
