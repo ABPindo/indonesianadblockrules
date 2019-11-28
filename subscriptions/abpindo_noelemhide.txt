@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201911271205
+! Version: 201911281111
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 27 Nov 2019 12:05 UTC
+! Last modified: 28 Nov 2019 11:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -27,7 +27,6 @@
 ||6a0e2d19ac28.com^$popup,third-party
 ||6c37f8a12dede103bf7.com^$popup,third-party
 ||7667bab1751ff777.com^
-||86a6b542l7.com^
 ||86a6b542l7.com^$third-party
 ||8a333bc2b4d6.com^$popup,third-party
 ||9icmzvn6.website^$popup,third-party
@@ -243,7 +242,6 @@
 ||onclkds.com^$popup,third-party
 ||openadserving.com^$third-party
 ||oxload.icu^$third-party
-||ozonestsscareer.info^$third-party
 ||padssup.com^$third-party
 ||paidforfree.com^$third-party
 ||pasangiklan.com^$third-party
@@ -531,7 +529,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||imagebam.com/*.gif$image,domain=www.ganool.li
 ||images.gameweb.co.id/gw/ads/
-||img.mittui.com/images/idxbet/bn-slots.gif$image
 ||img.sukipli.com/*.gif$image,third-party
 ||img.teman.stream/tb/*.gif$image,domain=bioskopkerenin.com
 ||impulse.forkcdn.com/impulse3/config/impulse.js
@@ -1048,17 +1045,11 @@ woof.tube#@#.adsbox
 ||agenibc.$popup
 ||agenibc.$third-party
 ||agenjoker123.$third-party
-||agenjudi-1scasino.com^$third-party
-||agenjudi-368bet.com^$third-party
-||agenjudi-bola.$third-party
-||agenjudi-guavita.com^$third-party
-||agenjudi-ibcbet.$third-party
 ||agenjudi.$third-party
 ||agenjudi1388.$third-party
 ||agenjudi24jam.com^$third-party
 ||agenjudi338a.$third-party
 ||agenjudibacarrat.com^$third-party
-||agenjudibaroco303.com^$third-party
 ||agenjudibola.$third-party
 ||agenjudibola1388.$third-party
 ||agenjudibolaaman.com^$third-party
@@ -1071,7 +1062,6 @@ woof.tube#@#.adsbox
 ||agenjudicasino.$third-party
 ||agenjudicasinoonline.$third-party
 ||agenjudicasinoterbaik.$third-party
-||agenjudieuro2012.com^$third-party
 ||agenjudiibbcbet.$third-party
 ||agenjudiibcbet.com^$third-party
 ||agenjudionline.$third-party
@@ -1208,10 +1198,6 @@ woof.tube#@#.adsbox
 ||aseangol.$third-party
 ||aseanqq.$third-party
 ||asetbet.$third-party
-||asia-bandar.$third-party
-||asia-bandarkiu.$third-party
-||asia-bandarq.$popup
-||asia-bandarq.$third-party
 ||asia88bet.$popup
 ||asia88bet.$third-party
 ||asiabandar.$third-party
@@ -3202,7 +3188,6 @@ woof.tube#@#.adsbox
 ||taruhanboladiinternet.$third-party
 ||taruhanbolagratis.$third-party
 ||taruhanbolaibc.$third-party
-||taruhanbolaibc88.com^$third-party
 ||taruhanbolaibcbet.$third-party
 ||taruhanbolainternet.$third-party
 ||taruhanbolaku.com^$third-party
@@ -3220,7 +3205,6 @@ woof.tube#@#.adsbox
 ||taruhanbolasepak.com^$third-party
 ||taruhanbolaterpercaya.$third-party
 ||taruhancasino.com^$third-party
-||taruhancasino338.com^$third-party
 ||taruhancasinoonline.$third-party
 ||taruhanibcbet.$third-party
 ||taruhanibcbetonline.$third-party
@@ -3295,12 +3279,6 @@ woof.tube#@#.adsbox
 ||tipstaruhanibcbet.$third-party
 ||tipstaruhansbobet.$third-party
 ||tipstrikjuditogel.com^$third-party
-||togel-harian.com^$third-party
-||togel-id.com^$third-party
-||togel-king4d.com^$third-party
-||togel-mania.com^$third-party
-||togel-thailand.com^$third-party
-||togel-totojitu.com^$third-party
 ||togel.$third-party
 ||togel168.$third-party
 ||togel2.xtgem.com^$third-party
@@ -3924,7 +3902,6 @@ woof.tube#@#.adsbox
 /ituqq728.
 /itutoto.
 /ituvip.
-/ituvip.gif
 /ivopoker.
 /jagoanpoker.
 /jagodomino.
