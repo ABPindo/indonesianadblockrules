@@ -694,6 +694,9 @@ lk21.*###previewBox4
 lk21.*##.fancybox-skin
 lk21.*##a[href^="http://bit.ly/"]
 mangaku.*##a[href^="https://bit.ly/"]
+nekopoi.*##.adsgen1
+nekopoi.*##.mobileadstop
+nekopoi.*##[href^="https://bit.ly/"]
 nekopoi.*##a[href^="http://bit.ly/"]
 nekopoi.*##div[class^="adsgen"]
 nekopoi.*##div[class^="mobileads"]
@@ -724,6 +727,3 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-nekopoi.*##[href^="https://bit.ly/"]
-nekopoi.*##.adsgen1
-nekopoi.*##.mobileadstop

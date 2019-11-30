@@ -15,6 +15,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||animekompi.web.id/wp-content/uploads/*/antiblocker3-1.jpg
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
+||awnime.net/popup.htm$popup
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
 ||bintangmawar.net/forum/med_banner.php
@@ -120,6 +121,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||imagebam.com/*.gif$image,domain=www.ganool.li
 ||images.gameweb.co.id/gw/ads/
+||img.nt1.co/*.gif$image,domain=dramaserial.xyz
 ||img.sukipli.com/*.gif$image,third-party
 ||img.teman.stream/tb/*.gif$image,domain=bioskopkerenin.com
 ||impulse.forkcdn.com/impulse3/config/impulse.js
@@ -254,5 +256,3 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
-||img.nt1.co/*.gif$image,domain=dramaserial.xyz
-||awnime.net/popup.htm$popup
