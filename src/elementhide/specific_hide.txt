@@ -330,6 +330,7 @@ ceklink.co##.blog-content
 anime17.net,www.cosmogirl.co.id##.bnr
 bioskop99.me##.bot.ads
 beritagar.id##.bottom-20.box-widget.right-300.banner300x250.banner
+harianjogja.com,solopos.com##.bottom-fix
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
 gopego.com##.box
@@ -727,4 +728,3 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-harianjogja.com,solopos.com##.bottom-fix

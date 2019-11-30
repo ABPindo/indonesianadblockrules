@@ -248,6 +248,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||videocrot.org/wp-content/uploads/*/iklan.gif
+||www.akanhoki.com/GenerateAdImage$image
 ||www.conan.id/wp-content/uploads/2018/*.gif$image
 ||www.mangacanblog.com/adblock/src/adblock-checker.js
 ||www.nontondramas.*/wp-content/uploads/*.gif$image
@@ -256,4 +257,3 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
-||www.akanhoki.com/GenerateAdImage$image

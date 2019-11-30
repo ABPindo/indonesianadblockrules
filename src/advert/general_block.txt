@@ -21,6 +21,7 @@
 .win^$third-party
 /ads/iklan.
 /ads_low.
+/adsleft.$image
 /adsterra.js|
 /adtrace2.js|
 /adv/iklan.
@@ -46,4 +47,3 @@
 /wpsafelink$script,domain=daizurin.com|lucikun.com|shitaranime.com|sinanime.net
 /wpsafelink$script,third-party
 iklan300x250.gif|
-/adsleft.$image
