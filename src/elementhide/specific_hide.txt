@@ -724,3 +724,6 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
+nekopoi.*##[href^="https://bit.ly/"]
+nekopoi.*##.adsgen1
+nekopoi.*##.mobileadstop
