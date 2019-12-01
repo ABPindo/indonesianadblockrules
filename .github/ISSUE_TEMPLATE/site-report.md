@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Berikan URL**
-... satu situs satu URL, yang terlihat iklan
+... 
 
 **Jelaskan masalah**
 ...
@@ -24,4 +24,4 @@ chrome+ublock
 chrome+ABP
 
 **Usul sintak filter**
-... tuliskan sintak filter jika punya ide
+... jika punya ide, tuliskan sintak filternya 
