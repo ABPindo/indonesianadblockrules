@@ -99,9 +99,9 @@ blogspot.com###floating_banner_bottom2
 bioskop78.com,movie76.net###floating_banner_bottoms
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_left
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_right
-bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net###floating_banner_top
+bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net,nontonlk21.live###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-cinema-indo.co,kawanfilm21.online,nontonbp.com,www.filmdewasa.me###floating_banner_top1
+cinema-indo.co,kawanfilm21.online,nontonbp.com,nontonlk21.live,www.filmdewasa.me###floating_banner_top1
 bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_banner_tops
 ganool-link.com,ganool.link,untukku.com###footer-adcont
 gadgetren.com###footer_sticky_inside
@@ -152,7 +152,7 @@ mangashiro.net###openpopunder
 viva.co.id###otp_ads
 detik.com###otp_banner
 www.kricom.id###overlay
-dunia21.me,dunia21.net,dunia21.org###overlay-pop
+dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
 cinema-indo.com,cinemaindo.web.id,layarkaca21.net,layarkaca21.web.id,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
 eramuslim.com###peluang
@@ -213,7 +213,7 @@ hotabis.com###text-28 > .textwidget
 videocrot.org###text-30 > .textwidget
 videocrot.org###text-6 > .textwidget
 indotelko.com###title_kanal
-bioskopkerenin.com,dunia21.cx,ganool.watch,kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,sinemaindo.web.id###top-banner
+bioskopkerenin.com,dunia21.cx,ganool.watch,kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,movies21.co,sinemaindo.web.id###top-banner
 layarxxi.online###top-banner-content
 indoxxi.tv,xx1.tv###top-bnner-content
 detik.com###top_banner
@@ -358,7 +358,7 @@ juragan21.com##.cintasemprot_floating_banner_bottom
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
-bangka.tribunnews.com,grid.id,jogja.tribunnews.com##.clearfix.ads__horizontal
+bangka.tribunnews.com,grid.id,jogja.tribunnews.com,www.tribunnewswiki.com##.clearfix.ads__horizontal
 kompas.com##.clearfix.kcm__big.kcm
 kompas.com##.clearfix.kcm__rectangle.kcm
 kompas.com##.clearfix.kcm__top.kcm
@@ -509,6 +509,7 @@ otomotif.kompas.com##.w340.r-ads.right > ul > li
 teknologi.inilah.com##.wb-300x250
 www.medcom.id##.widebanner.banner
 cdramabase.com##.wpa
+nontonlk21.live##.wpb-outer-wrap
 jalantikus.com##[class^="ad-"][class*="-container"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 idfl.top##[href="http://dewanmas.com/"]
@@ -711,6 +712,8 @@ nonton33.*##a[href^="http://bit.ly/"]
 nonton789.*##a[href^="http://bit.ly/"]
 nontondrama.*##a[href^="http://bit.ly/"]
 nontongratis88.*##a[href^="http://bit.ly/"]
+nontonlk21.*###floating_banner_top
+nontonlk21.*###floating_banner_top1
 nontonsub.*##a[href^="http://bit.ly/"]
 ns21.*##.navbar-brand.bot
 ns21.*##a[href^="http://bit.ly/"]
@@ -728,11 +731,3 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-dunia21.wtf###overlay-pop
-movies21.co###top-banner
-nontonlk21.*###floating_banner_top
-nontonlk21.*###floating_banner_top1
-nontonlk21.live###floating_banner_top
-nontonlk21.live###floating_banner_top1
-nontonlk21.live##.wpb-outer-wrap
-www.tribunnewswiki.com##.clearfix.ads__horizontal

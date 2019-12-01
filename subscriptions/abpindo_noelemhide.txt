@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201911300555
+! Version: 201912010811
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 30 Nov 2019 05:55 UTC
+! Last modified: 01 Dec 2019 08:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -69,6 +69,7 @@
 ||afbcashidr.com^$popup,third-party
 ||ahcnxuepput.com^$popup
 ||ahcnxuepput.com^$third-party
+||ailawlani.club^$third-party
 ||aj1052.online^$popup
 ||ajangiklangratis.com^$third-party
 ||alertpay.com^$third-party
@@ -279,7 +280,7 @@
 ||replase.ml^$popup,third-party
 ||ridingintractable.com^$popup
 ||roojouma.com^$third-party
-||rufadses.net^
+||rufadses.net^$third-party
 ||runreproducerow.com^$popup,third-party
 ||s2pops.club^$popup,third-party
 ||sanglah.com^$third-party
@@ -358,7 +359,9 @@
 ||trafficfactory.biz^$popup,third-party
 ||trk.cpaoptimizer.com^$popup,third-party
 ! *** abpindo:src/advert/general_block.txt ***
+-728-x-90-
 -728-x-90.
+-729-x-90.
 -iklan.gif|
 -iklan.jpg|
 -iklan.js|
@@ -799,6 +802,7 @@ tribunnews.com##+js(abort-on-property-read.js, $getWin)
 updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 nekopoi.*##+js(aeld, , adsense)
 nekopoi.*##+js(set-constant, isAdsDisplayed, true)
+yusepjaelani.blogspot.com##+js(nostif, Debug)
 ! *** abpindo:src/advert/whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|www.mangacanblog.com
 @@.jpg#$image,domain=komikcast.com
@@ -3610,6 +3614,7 @@ woof.tube#@#.adsbox
 -capsa365.
 -cariqq-
 -dewiqq.
+-divapoker-
 -divaqq.
 -domino168.
 -elangcapsa-
@@ -3651,6 +3656,7 @@ woof.tube#@#.adsbox
 -rajakasino.
 -rgocasino-
 -rgocasino.
+-rivalqq.
 -sirajaqq-
 -sponsorqq.
 -tiketbet.
@@ -3709,7 +3715,7 @@ woof.tube#@#.adsbox
 /animeqq-
 /aoncash-
 /aoncash.
-/apibet.gif|
+/apibet.
 /areabola.
 /armaniqq.
 /armanitogel.
@@ -3746,8 +3752,6 @@ woof.tube#@#.adsbox
 /bandarqterpercaya.
 /bandarsakong.
 /bandartaruhan.
-/banner/dewatangkas.
-/banner/ligadewa.
 /bcadomino.
 /beliqq.
 /benderapoker.
@@ -3846,7 +3850,6 @@ woof.tube#@#.adsbox
 /ezebet.
 /fifaqq-
 /fifaqq.
-/fix%2b728x90.
 /garampoker.
 /garenapoker.
 /garudakiu.
@@ -3854,6 +3857,7 @@ woof.tube#@#.adsbox
 /garudaqq.
 /gebyarbola.
 /gebyarliga.
+/gerhanaqq-
 /goalgoal365-
 /goodbola-bannerfilm.
 /guepoker.
@@ -3988,6 +3992,7 @@ woof.tube#@#.adsbox
 /ligacapsa-
 /ligacapsa.
 /ligacash.
+/ligadewa.
 /ligahokie-
 /ligahokie.
 /ligajudi.
@@ -4097,6 +4102,7 @@ woof.tube#@#.adsbox
 /pialabet.
 /pialaqq.
 /poker021.
+/PokerAjaib.
 /pokerastro-
 /pokerastro.
 /pokerbola.
@@ -4223,6 +4229,7 @@ woof.tube#@#.adsbox
 /tatobet.
 /texas-poker-
 /texaspoker.
+/TEXASPOKER_
 /texasqq.
 /togel-$image
 /togel168-
