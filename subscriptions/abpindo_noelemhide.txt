@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201912010811
+! Version: 201912011302
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 01 Dec 2019 08:11 UTC
+! Last modified: 01 Dec 2019 13:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -3576,6 +3576,7 @@ woof.tube#@#.adsbox
 ||wongpkr.$third-party
 ||wongpoker.$third-party
 ||wpbet365.$third-party
+||www.396club.co^$popup
 ||www.bmwpoker.^$popup
 ||www.lotusbola.$popup
 ||www.senigoal.$popup
@@ -3830,6 +3831,7 @@ woof.tube#@#.adsbox
 /dorabet.
 /dotapoker.
 /dotapoker88-
+/dotaqiu-
 /doyanqq.
 /dracobets.
 /dragonpoker.
@@ -4155,6 +4157,7 @@ woof.tube#@#.adsbox
 /ratuqq.
 /rctiqq.
 /rdomino.
+/rejekibet.
 /rezekibola.
 /rgo-casino-
 /rgo-poker-
@@ -4249,6 +4252,7 @@ woof.tube#@#.adsbox
 /ubcwin.
 /unitogel-
 /utamaqq.
+/VEGAS78BET.
 /vegasidn.
 /vegasmarket.
 /venombet-
