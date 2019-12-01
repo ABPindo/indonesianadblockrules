@@ -728,3 +728,11 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
+dunia21.wtf###overlay-pop
+movies21.co###top-banner
+nontonlk21.*###floating_banner_top
+nontonlk21.*###floating_banner_top1
+nontonlk21.live###floating_banner_top
+nontonlk21.live###floating_banner_top1
+nontonlk21.live##.wpb-outer-wrap
+www.tribunnewswiki.com##.clearfix.ads__horizontal
