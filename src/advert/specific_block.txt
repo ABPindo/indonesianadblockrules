@@ -30,13 +30,14 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bioskop55.*/wp-content/uploads/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kombatch.com|komikcast.com|layarkeren.com|layarmovie21.co|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
 ||cdn.livechatinc.com/tracking.js
+||cdn.newparadise.xyz/ezgif-*.gif$image,domain=layarcinema.tv|lk21tv.com
 ||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script,domain=myanimeindo.net
 ||cdn.staticaly.com/gh/sotazer/sotazone/*/kurazoneAdblock.js
 ||cekerayam.xyz/wp-content/uploads/*.gif$image
@@ -257,4 +258,3 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
-||bp.blogspot.com/*.gif$image,domain=anoboy.video
