@@ -262,6 +262,7 @@ radioonline.co.id,www.radioonline.my##.add-box-top
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
+www.kompas.tv##.ads-foot
 awnime.net##.ads-header-5
 dapurpacu.com##.ads-home
 grid.id##.ads-mr
@@ -742,4 +743,3 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-www.kompas.tv##.ads-foot
