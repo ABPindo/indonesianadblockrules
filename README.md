@@ -39,4 +39,5 @@ Pengaturan standar kami sebagai berikut:
 - Prasyarat: [Python](https://www.python.org/downloads/), [pip](https://pypi.org/project/pip/)
 
 ## Mirror
-- [ABPindo GitLab](https://subscribe.adblockplus.org/?location=https://gitlab.com/ABPindo/indonesianadblockrules/raw/master/subscriptions/abpindo.txt&title=ABPindo)
+[GitLab](https://gitlab.com/ABPindo)
+[ABPindo GitLab](https://subscribe.adblockplus.org/?location=https://gitlab.com/ABPindo/indonesianadblockrules/raw/master/subscriptions/abpindo.txt&title=ABPindo)
