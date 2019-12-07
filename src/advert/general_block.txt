@@ -7,7 +7,6 @@
 -popads.php|
 -slot-iklan-
 .bid^$popup,third-party
-.bid^$third-party,domain= ~ bolly4u.asia
 .biz/iklan/
 .com/iklan/
 .id/ads/$~object-subrequest
@@ -19,8 +18,7 @@
 .net/iklan/
 .space/Banner/*.gif$image
 .tv/iklan/
-.win^$popup
-.win^$third-party
+.win^$popup,third-party
 /ads/iklan.
 /ads_low.
 /adsleft.$image
