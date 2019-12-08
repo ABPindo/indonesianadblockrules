@@ -3,8 +3,6 @@
 ||easy-hit-counter.com^$third-party
 ||hesftig.site^$third-party
 ||ktrackdata.com^$popup,third-party
-||themobiletracker.$popup
-||themobiletracker.$third-party
 ||track.aptitudemedia.co^$popup
 ||track.spzan.com^$popup
 ||track.zerofriend.com^$popup,third-party
