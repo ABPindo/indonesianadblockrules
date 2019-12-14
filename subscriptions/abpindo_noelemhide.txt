@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201912080730
+! Version: 201912140027
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 08 Dec 2019 07:30 UTC
+! Last modified: 14 Dec 2019 00:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1153,7 +1153,7 @@ woof.tube#@#.adsbox
 ||asianbrain.$third-party
 ||asianpokerseo.$popup
 ||asianpokerseo.$third-party
-||asiantogel.50webs.com^$third-party
+||asiantogel.$third-party
 ||asiapoker.$popup
 ||asiapoker.$third-party
 ||asiapoker77.$third-party
@@ -1264,6 +1264,7 @@ woof.tube#@#.adsbox
 ||bdr99.$third-party
 ||bdrqq.$popup
 ||bdrqq.$third-party
+||bebasjudi.com^$popup
 ||bejopoker.$popup
 ||bejopoker.$third-party
 ||bejoqq.$third-party
@@ -1889,6 +1890,7 @@ woof.tube#@#.adsbox
 ||inidomino.$popup
 ||inidomino.$third-party
 ||inipoker.com^$third-party
+||initogel.net^$third-party
 ||intanbet.$third-party
 ||intanku.$third-party
 ||intanqq.$third-party
@@ -3717,7 +3719,6 @@ woof.tube#@#.adsbox
 /gebyarliga.
 /gerhanaqq-
 /goalgoal365-
-/goodbola-bannerfilm.
 /guepoker.
 /halobos.
 /hanabet.
@@ -3761,6 +3762,7 @@ woof.tube#@#.adsbox
 /idrpoker.
 /iklanqq.
 /iklanx.
+/ikliknew.
 /imcpkr.
 /imcpoker-
 /imcpoker.
@@ -3868,6 +3870,7 @@ woof.tube#@#.adsbox
 /luxury-pop-up-
 /luxury-top.
 /luxury777-
+/luxury777.gif|
 /m88domino.
 /mabesqq.
 /macaubet.
@@ -4150,7 +4153,6 @@ agenqq.gif|
 ayoqq.gif|
 banner728.gif|
 bundapoker.gif|
-initogel.net^$third-party
 jayabet.gif|
 nagalaut728.gif|
 pencetpoker.

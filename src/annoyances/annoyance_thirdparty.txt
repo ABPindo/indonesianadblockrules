@@ -305,7 +305,7 @@
 ||asianbrain.$third-party
 ||asianpokerseo.$popup
 ||asianpokerseo.$third-party
-||asiantogel.50webs.com^$third-party
+||asiantogel.$third-party
 ||asiapoker.$popup
 ||asiapoker.$third-party
 ||asiapoker77.$third-party
@@ -416,6 +416,7 @@
 ||bdr99.$third-party
 ||bdrqq.$popup
 ||bdrqq.$third-party
+||bebasjudi.com^$popup
 ||bejopoker.$popup
 ||bejopoker.$third-party
 ||bejoqq.$third-party
@@ -1041,6 +1042,7 @@
 ||inidomino.$popup
 ||inidomino.$third-party
 ||inipoker.com^$third-party
+||initogel.net^$third-party
 ||intanbet.$third-party
 ||intanku.$third-party
 ||intanqq.$third-party
