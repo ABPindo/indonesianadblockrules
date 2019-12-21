@@ -96,7 +96,7 @@ www.komikstation.com###floatbanner
 nontonsini.com###floatbawah
 lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
-awsubs.co###floatcenter
+animexin.xyz,awsubs.co###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 173.199.189.86,bioskop55.club,bioskop55.me,bioskop90.com,bioskopgalaxy21.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,juragantomatx.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
@@ -519,6 +519,7 @@ cdramabase.com##.wpa
 nontonlk21.live##.wpb-outer-wrap
 jalantikus.com##[class^="ad-"][class*="-container"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
+omberbagi.com##[href$="/omberbagi"]
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
 kazefuri.blogspot.com##[href="http://www.cocobet."]
