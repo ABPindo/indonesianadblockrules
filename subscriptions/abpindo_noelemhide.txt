@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201912211435
+! Version: 201912250113
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 21 Dec 2019 14:35 UTC
+! Last modified: 25 Dec 2019 01:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -16,6 +16,7 @@
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||2go7v1nes8.com^
+||9eb10b7a3d04a.com^$popup
 ||9icmzvn6.website^$popup,third-party
 ||a.brand.ad^$third-party
 ||a63t9o1azf.com^$popup
@@ -517,6 +518,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||modifikasi.com/images/banner/*.gif$image
 ||modifikasi.com/images/banner_
 ||movie303.*/wp-content/uploads/*.gif$image
+||moviegan.com/wp-content/uploads/*.gif$image
 ||movieon21.*/wp-content/uploads/*.gif$image
 ||movietube21.*/wp-content/uploads/*.gif$image
 ||mractionclub.com/banner/
@@ -718,6 +720,7 @@ updatetribun.org##+js(addEventListener-defuser.js, load, onload)
 nekopoi.*##+js(aeld, , adsense)
 yusepjaelani.blogspot.com##+js(nostif, Debug)
 manytoon.com##+js(bab-defuser)
+anoboy.us##+js(abort-on-property-write.js, _pop)
 ! *** abpindo:src/advert/whitelist.txt ***
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|www.mangacanblog.com
 @@.jpg#$image,domain=komikcast.com
@@ -3141,6 +3144,7 @@ woof.tube#@#.adsbox
 ||togel777.$third-party
 ||togel88.$third-party
 ||togel99.com^$third-party
+||togelanak.com^$popup
 ||togelangka.com^$third-party
 ||togelasia.$third-party
 ||togelbet.$popup
@@ -4109,6 +4113,7 @@ ayoqq.gif|
 banner728.gif|
 bundapoker.gif|
 jayabet.gif|
+lvo888.gif|
 nagalaut728.gif|
 pencetpoker.
 raja365.gif|

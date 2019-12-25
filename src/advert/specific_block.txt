@@ -187,6 +187,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||modifikasi.com/images/banner/*.gif$image
 ||modifikasi.com/images/banner_
 ||movie303.*/wp-content/uploads/*.gif$image
+||moviegan.com/wp-content/uploads/*.gif$image
 ||movieon21.*/wp-content/uploads/*.gif$image
 ||movietube21.*/wp-content/uploads/*.gif$image
 ||mractionclub.com/banner/
