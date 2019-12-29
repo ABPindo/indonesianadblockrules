@@ -24,6 +24,7 @@
 ###fbbanner
 ###float-banner.visible-lg
 ###float-bottom-banner
+###floating_ads_bottom_textcss_ad
 ###floating_banner_bottom
 ###floating_banner_bottoms
 ###floating_banner_left
@@ -50,6 +51,7 @@
 ###iklanatas
 ###iklanpersegi
 ###myadsmodal
+###netkevin-overlay
 ###netkevin-popup
 ###pbanner
 ###popupwindow
@@ -109,6 +111,7 @@
 ##.idblog-topbanner-aftermenu
 ##.idmuvi-afterplayer
 ##.idmuvi-banner-aftercontent
+##.idmuvi-banner-insidecontent
 ##.idmuvi-center-ads
 ##.idmuvi-floatbanner
 ##.idmuvi-floatbanner-footer

@@ -33,7 +33,7 @@ tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 duniaku.net###banner-popup-desktop
 filmbagus88.net###banner-right
-indoxx1.co,sidrama.com###banner-tengah
+idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
 panduanpercuma.info###banner125
 hdtvku.com###bannerkategoriheader
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
@@ -99,6 +99,8 @@ lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
 animexin.xyz,awsubs.co###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
+idxxx1.com,sukamovie.club###floating_ads_bottom_textcss_ad
+idxxx1.com###floating_ads_bottom_textcss_wrap
 173.199.189.86,bioskop55.club,bioskop55.me,bioskop90.com,bioskopgalaxy21.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,juragantomatx.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
 bioskop78.com,movie76.net###floating_banner_bottoms
@@ -151,7 +153,7 @@ fastdrama.co###myModal
 hdtvku.com###mybannerpopup
 hdtvku.com###mybannerpopup2
 nobartv.com###nbpopx-wrapper
-cafecinema.cc,lk21.world,sidrama.com,www.ibugil.net###netkevin-overlay
+cafecinema.cc,dramamu.net,lk21.world,sidrama.com,www.ibugil.net###netkevin-overlay
 duniasex.co,ibugil.net,nontonfilmdrama.com,sidrama.com###netkevin-popup
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
@@ -165,7 +167,7 @@ idxx1.top###player-side-left
 idxx1.top,indoxx1.com###player-side-right
 iyottube.com###playerOverlay
 indoxx1.pw###popup
-cafecinema.cc,lk21.io###popup_content
+cafecinema.cc,dramamu.net,lk21.io###popup_content
 amoimovie.com###popupinfoAd1
 layarxxi.online###popuppress-9119
 lk21.li,nonton21.tv###previewBox
@@ -380,7 +382,7 @@ tribunnews.com##.content [style="width:160px; height:600px;"]
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
-indoxxi.pictures,pintubioskop.com,sukanonton.online##.current.ujimodal.ujipopup
+indoxxi.pictures,pintubioskop.com,sukanonton.online,www.nontonfilm25.co##.current.ujimodal.ujipopup
 teknologi.inilah.com##.d.wp-120x600
 okezone.com##.detads
 detik.com##.detikads
@@ -425,6 +427,7 @@ kompas.com##.kcm__stick--right
 mangapark.net##.kiwi-ad-sticky-wrapper
 mangapark.net##.kiwiad-desktop-popup-300x600-overlay
 mangapark.net##.kiwiad-popup-ad-container
+www.lewat.club##.klikdisini
 anoboy.id,mangashiro.net,nontondramaseri.com##.kln
 awsubs.co##.klnrec
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
@@ -506,7 +509,7 @@ bioskop007.club##.textwidget > p
 bioskoptigalima.com,icinema3satu.net##.textwidget img
 klikseru.com##.textwidget img[width="300"][height="250"]
 utusan.com.my##.tonal__standfirst
-dewabioskop21.org,lapar.com,nontonitu.com##.top-banner
+dewabioskop21.org,idxxx1.com,lapar.com,nontonitu.com##.top-banner
 xx1.me##.top-bnner.lazy
 kazefuri.web.id##.top_index_block_adnow
 bioskopxxi.net,sinemakaca.com##.ujipopup
@@ -514,6 +517,7 @@ bioskopxxi.net,sinemakaca.com##.ujipopup
 mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
 otomotif.kompas.com##.w340.r-ads.right > ul > li
+hightech.web.id##.wait
 teknologi.inilah.com##.wb-300x250
 www.medcom.id##.widebanner.banner
 cdramabase.com##.wpa
@@ -521,6 +525,7 @@ nontonlk21.live##.wpb-outer-wrap
 jalantikus.com##[class^="ad-"][class*="-container"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 omberbagi.com##[href$="/omberbagi"]
+sukamovie.club##[href$="/sukamovieclub"]
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
 kazefuri.blogspot.com##[href="http://www.cocobet."]

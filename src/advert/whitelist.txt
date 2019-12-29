@@ -37,6 +37,7 @@
 @@||autoride.pw^$generichide
 @@||bagilagi.com^$generichide
 @@||batch.id/wp-content/plugins/lw-adblocker/assets/js/fuckadblock.min.js
+@@||batch.id^$generichide
 @@||biargreget.top^$generichide
 @@||bloggerku.com/safelink/2.0/script.js$script,domain=animanganews.com
 @@||bloggerku.com/safelink/2.0/script.js?$script,domain=njiir.com
@@ -51,6 +52,7 @@
 @@||eirudo.com^$generichide
 @@||eramuslim.com^$generichide
 @@||gadget2reviews.com^$generichide
+@@||game-kentang.blogspot.com^$generichide
 @@||google-analytics.com/analytics.js$script,domain=pricebook.co.id
 @@||hightech.web.id^$generichide
 @@||idsly.$generichide
@@ -60,6 +62,7 @@
 @@||indexmovie.download^$generichide
 @@||indozone.me^$generichide
 @@||infokupedia.id^$generichide
+@@||infotekno.net^$generichide
 @@||inwepo.co^$generichide
 @@||kabarviral.blog/js/ads.js$script,~third-party
 @@||kaze-batch.blogspot.com^$generichide
@@ -124,4 +127,3 @@ oomph.co.id#@#.shareit
 qqcinema21.com#@#.headads
 short.awsubs.co#@#.iklan
 woof.tube#@#.adsbox
- @@||game-kentang.blogspot.com^$generichide
