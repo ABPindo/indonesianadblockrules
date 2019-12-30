@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201912300921
+! Version: 201912301554
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 30 Dec 2019 09:21 UTC
+! Last modified: 30 Dec 2019 15:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -17,14 +17,13 @@
 ||108.168.231.179^$popup,third-party
 ||2go7v1nes8.com^
 ||9eb10b7a3d04a.com^$popup
-||9icmzvn6.website^$popup,third-party
+||9icmzvn6.website^$popup
 ||a.brand.ad^$third-party
 ||a63t9o1azf.com^$popup
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
 ||adaranth.com^$third-party
 ||adbsys.icu^$popup
-||adcalm.com^$third-party
 ||addesigner.com^$third-party
 ||adexp.net^$third-party
 ||adflazz.com^$third-party
@@ -72,7 +71,6 @@
 ||cjsab.com^$popup,third-party
 ||click.eclk.club^$popup
 ||clickmedia.co.id^$third-party
-||cpmstar.com^$third-party
 ||craydark.pw^$third-party
 ||cryaptall.club^$script,third-party
 ||d0p21g2fep.com^
@@ -89,10 +87,8 @@
 ||digiads.co.id^$popup
 ||digiads.co.id^$third-party
 ||doathair.com^$third-party
-||dolohen.com^$third-party
 ||domnovrek.com^$third-party
 ||drda5yf9kgz5p.cloudfront.net^
-||dulcetcgvcxr.com^$popup,third-party
 ||dzbx8qv1at614.cloudfront.net^
 ||e7393e33565ce805.com^$popup
 ||eclkmpbn.com^$third-party
@@ -107,13 +103,10 @@
 ||forumiklan.com^$third-party
 ||frereadayobq.com^third-party
 ||furocmay.com^$popup
-||gahhlbxdgw.com^$popup,third-party
 ||gehzj.com^$third-party
-||gjeyqtunbnap.com^$popup,third-party
 ||groucign.com^$third-party
 ||groupiklan.com^$third-party
 ||gudangbanner.com^$third-party
-||gxwjkbxubfjd.com^$popup,third-party
 ||halal.ad^$third-party
 ||hegarberetrof.pro^$popup
 ||herdethi.net^$third-party
@@ -128,7 +121,6 @@
 ||iklanblogger.com^$third-party
 ||iklanbogor.com^$third-party
 ||iklandenpasar.com^$third-party
-||iklandiweb.com^$third-party
 ||iklangratis.com^$third-party
 ||iklangratis88.com^$third-party
 ||iklanhemat.com^$third-party
@@ -140,7 +132,6 @@
 ||iklantext.com^$third-party
 ||iklantop.net^$third-party
 ||iklanumum.com^$third-party
-||ikoh6ie.top^$popup,third-party
 ||indobanner.com^$third-party
 ||indofreeads.com^$third-party
 ||indoleads.com^$third-party
@@ -156,8 +147,6 @@
 ||jasaiklan.com^$third-party
 ||javaiklan.com^$third-party
 ||jillsclickcorner.com^$third-party
-||jjxsdkphpcwu.com^$popup,third-party
-||jsc.adskeeper.co.uk^$third-party
 ||juruiklan.com^$third-party
 ||jwpltx.com^$third-party
 ||katurars.com^$popup
@@ -170,7 +159,6 @@
 ||luven.xyz^$third-party
 ||masteriklan.net^$third-party
 ||mediab.uy^$popup,third-party
-||meloads.com^$third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||motosal.net^$popup
 ||mousheen.net^$third-party
@@ -195,7 +183,6 @@
 ||phastoag.com^$third-party
 ||pheersie.com^$popup
 ||phudrour.net^$popup
-||pippio.com^$third-party
 ||pondokiklan.com^$third-party
 ||popclck.net^$popup,third-party
 ||popunderjs.club^$popup,third-party
@@ -208,7 +195,6 @@
 ||pusatiklan.com^$third-party
 ||pushqwer.com^$third-party
 ||q1xyxm89.com^$popup
-||realizerecess.com^$third-party
 ||realwap.net^$third-party
 ||reberr.pro^$third-party
 ||referral-secrets.com^$third-party
@@ -255,18 +241,15 @@
 ||whjibbprhng.com^$popup,third-party
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
-||xbfk51p7.review^$popup,third-party
 ||yesads.com^$third-party
 ||yhig.info^$third-party
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^
 ||yx-ads6.com^$third-party
-||zinrora.pw^$third-party
 ||zukxd6fkxqn.com^$popup
 ! *** abpindo:src/advert/thirdparty.txt ***
 ||c-stat.eu^$third-party
 ||cfs1.uzone.id^$third-party
-||easy-hit-counter.com^$third-party
 ||hesftig.site^$third-party
 ||ktrackdata.com^$popup,third-party
 ||track.aptitudemedia.co^$popup
@@ -744,7 +727,6 @@ nontonsub.cc##+js(window.open-defuser)
 @@||1idsly.com^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ad4msan.$generichide
-@@||ad4msan.^$generichide
 @@||ad4msan.com^$generichide
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
@@ -757,7 +739,6 @@ nontonsub.cc##+js(window.open-defuser)
 @@||akuno.net^$generichide
 @@||anibatch.me^$generichide
 @@||animenonton.tv^$generichide
-@@||animetake*.$generichide
 @@||anisubindo.$generichide
 @@||anoboy.$generichide
 @@||apkmod.id^$generichide
@@ -767,12 +748,10 @@ nontonsub.cc##+js(window.open-defuser)
 @@||batch.id/wp-content/plugins/lw-adblocker/assets/js/fuckadblock.min.js
 @@||batch.id^$generichide
 @@||biargreget.top^$generichide
-@@||bloggerku.com/safelink/2.0/script.js$script,domain=animanganews.com
-@@||bloggerku.com/safelink/2.0/script.js?$script,domain=njiir.com
+@@||bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com|njiir.com|teknorizen.blogspot.com|www.maulandaru.com|www.razorlink.us
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
 @@||cat3movie.us^$generichide
 @@||cinemamkv.net^$generichide
-@@||d.bloggerku.com/safelink/2.0/script.js?$script,domain=teknorizen.blogspot.com|www.maulandaru.com|www.razorlink.us
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
 @@||dukun-cit.com^$generichide
@@ -801,13 +780,13 @@ nontonsub.cc##+js(window.open-defuser)
 @@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
 @@||leantoro.com/wp-content/plugins/newkarma-core/js/fuckadblock.js$script,~third-party
-@@||lewat.club/js/ads.js$first-party,script
+@@||lewat.club/js/ads.js$script,~third-party
 @@||ljutkeunvpn.blogspot.com^$generichide
 @@||majalahikan.com^$generichide
 @@||mangacanblog.com^$generichide
 @@||mangasave.us^$generichide
 @@||mivo.com^$generichide
-@@||modecepat.com/js/ads.js$first-party,script
+@@||modecepat.com/js/ads.js$script,~third-party
 @@||muhammadyoga.me^$generichide
 @@||nama.web.id^$generichide
 @@||nekonime.$generichide
