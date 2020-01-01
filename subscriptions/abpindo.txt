@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201912301554
+! Version: 202001010211
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 30 Dec 2019 15:54 UTC
+! Last modified: 01 Jan 2020 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1816,6 +1816,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||365qiuqiu.$third-party
 ||388poker.$third-party
 ||396club.$third-party
+||396club.co^$popup
 ||396dewa.$popup
 ||3poker855.com^$third-party
 ||4dasli.$popup
@@ -2232,11 +2233,10 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||blindbetpoker.com^$third-party
 ||block.s3block.$popup
 ||blogjudi.com^$third-party
+||bmwpoker.^$popup
 ||bnipoker.$popup
 ||bnipoker.$third-party
 ||bobcbet.$third-party
-||bola-judi.$third-party
-||bola-taruhan.$third-party
 ||bola168.$popup
 ||bola168.$third-party
 ||bola168bet.$third-party
@@ -2750,7 +2750,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||imcpkr.$third-party
 ||imcpoker.$third-party
 ||imcqq88.$third-party
-||incar-qq.$third-party
 ||incarsakong.$third-party
 ||incrasebux.$popup
 ||incrasebux.$third-party
@@ -3101,6 +3100,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||lotus-4d.$popup
 ||lotus-4d.$third-party
 ||lotus55.$popup
+||lotusbola.$popup
 ||lotusbola.$third-party
 ||lotustogel.$third-party
 ||lpkiukiu.$third-party
@@ -3764,6 +3764,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||seni888.$third-party
 ||senibola.$popup
 ||senibola.$third-party
+||senigoal.$popup
 ||senigoal.$third-party
 ||seniqq.$popup
 ||seniqq.$third-party
@@ -3882,7 +3883,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||sundulqq.$popup
 ||sundulqq.$third-party
 ||sunpoker.com^$third-party
-||sunshine-poker.com^$third-party
 ||surgabola.$third-party
 ||surgajudi.com^$third-party
 ||surya4d.$popup
@@ -3991,7 +3991,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||tipstaruhanbola.com^$third-party
 ||tipstaruhanibcbet.$third-party
 ||tipstaruhansbobet.$third-party
-||togel.$third-party
 ||togel168.$third-party
 ||togel2.xtgem.com^$third-party
 ||togel2000.$third-party
@@ -4129,8 +4128,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||u16822.$third-party
 ||uang365.$third-party
 ||uang4d.$third-party
-||ubc7.$popup
-||ubc7.$third-party
 ||ubcpoker.com^$third-party
 ||ubcwin.$third-party
 ||ujungkontol.$popup
@@ -4192,12 +4189,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||wahanatoto.$third-party
 ||wahanatoto1.$popup
 ||wahanatoto1.$third-party
-||wahyu88.$popup
-||wahyu88.$third-party
 ||wahyupoker.$third-party
-||waletjp.$popup
-||waletjp.$third-party
-||waltpoker.$third-party
 ||warnaqq.$third-party
 ||warung365.$third-party
 ||warungjudi.com^$third-party
@@ -4242,20 +4234,13 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||wismaqq.$popup
 ||wismaqq.$third-party
 ||wismaqq2.$third-party
-||won77.$popup
-||won77.$third-party
-||wong-poker.$popup
-||wong-poker.$third-party
+||wong-poker.net^$popup
 ||wongbet.$popup
 ||wongbet.$third-party
 ||wongpkr.$popup
 ||wongpkr.$third-party
 ||wongpoker.$third-party
 ||wpbet365.$third-party
-||www.396club.co^$popup
-||www.bmwpoker.^$popup
-||www.lotusbola.$popup
-||www.senigoal.$popup
 ||wwwsgopoker.$popup
 ||wwwsgopoker.$third-party
 ||xjudi.com^$third-party
@@ -4281,22 +4266,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 ! *** abpindo:src/annoyances/annoyance_general_hide.txt ***
 ###judi
 ###togel
-##[href="http://mboplay888.com/"]
-##[href^="http://fifacash88c.com/"]
-##[href^="http://koin4da.com/"]
-##[href^="http://qqgaming88e.com/"]
-##[href^="http://sbomoney11.com/"]
-##[href^="http://www.6qpoker99a.com/"]
-##[href^="http://www.audisipoker88.com/"]
-##[href^="http://www.cbopoker88a.com/"]
-##[href^="http://www.ibet96ace."]
-##[href^="http://www.mainkartu123.com/"]
-##[href^="http://www.markasvip.com/"]
-##[href^="http://www.panpoker88.info/"]
-##[href^="http://www.pokergading."]
-##[href^="http://www.tebakqq."]
-##[href^="https://maxbetqq.net/"]
-##[href^="https://rajakasino33m."]
+##.judi
+##.togel
 ##a[href$="/77megabet"]
 ##a[href$="/adscantikqq"]
 ##a[href$="/adskartu66"]
@@ -4470,6 +4441,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://asiabandarkiu."]
 ##a[href^="http://asiabandarqq."]
 ##a[href^="http://asiabolabet."]
+##a[href^="http://asiaforbet8.com"]
 ##a[href^="http://asiakasino."]
 ##a[href^="http://asian4d."]
 ##a[href^="http://asianbandarq."]
@@ -4666,6 +4638,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://fairbet88."]
 ##a[href^="http://faktavimax."]
 ##a[href^="http://fast2bet."]
+##a[href^="http://fifacash88c.com"]
 ##a[href^="http://fifadomino."]
 ##a[href^="http://fifaqq."]
 ##a[href^="http://formulabisnis."]
@@ -4860,6 +4833,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://kliksakong."]
 ##a[href^="http://klikuntung."]
 ##a[href^="http://kodealam2."]
+##a[href^="http://koin4da.com"]
 ##a[href^="http://kokibet."]
 ##a[href^="http://komisiqq."]
 ##a[href^="http://komopoker."]
@@ -4944,6 +4918,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://matasayu."]
 ##a[href^="http://maxbbm."]
 ##a[href^="http://mbandarq."]
+##a[href^="http://mboplay888.com"]
 ##a[href^="http://mdomino99."]
 ##a[href^="http://medanqq."]
 ##a[href^="http://mediaqq."]
@@ -5086,6 +5061,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://qqboya."]
 ##a[href^="http://qqdomino."]
 ##a[href^="http://qqdoyan."]
+##a[href^="http://qqgaming88e.com"]
 ##a[href^="http://qqgobet."]
 ##a[href^="http://qqhebat."]
 ##a[href^="http://qqmaju."]
@@ -5134,6 +5110,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://sbobetid."]
 ##a[href^="http://sbobetuk."]
 ##a[href^="http://sbokiu."]
+##a[href^="http://sbomoney11.com"]
 ##a[href^="http://sbonaga."]
 ##a[href^="http://sbopoker."]
 ##a[href^="http://sbosbet."]
@@ -5315,6 +5292,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.396club."]
 ##a[href^="http://www.4dasli."]
 ##a[href^="http://www.5starbet."]
+##a[href^="http://www.6qpoker99a.com"]
 ##a[href^="http://www.7nagabet."]
 ##a[href^="http://www.7nagapoker."]
 ##a[href^="http://www.7nagatoto."]
@@ -5349,6 +5327,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.asiaqq."]
 ##a[href^="http://www.astrototo."]
 ##a[href^="http://www.asuspoker."]
+##a[href^="http://www.audisipoker88.com"]
 ##a[href^="http://www.auxbet."]
 ##a[href^="http://www.ayomainqq."]
 ##a[href^="http://www.b2poker."]
@@ -5386,6 +5365,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.casinoitu."]
 ##a[href^="http://www.casinosport88."]
 ##a[href^="http://www.cbnpoker88."]
+##a[href^="http://www.cbopoker88a.com"]
 ##a[href^="http://www.cekakses."]
 ##a[href^="http://www.cemejudi."]
 ##a[href^="http://www.cendanapoker."]
@@ -5455,6 +5435,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.ibcqq."]
 ##a[href^="http://www.ibet44cash."]
 ##a[href^="http://www.ibet44s."]
+##a[href^="http://www.ibet96ace."]
 ##a[href^="http://www.id-13."]
 ##a[href^="http://www.id.twinbet."]
 ##a[href^="http://www.idb365."]
@@ -5537,6 +5518,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.m88domino."]
 ##a[href^="http://www.maincapsa."]
 ##a[href^="http://www.mainidb."]
+##a[href^="http://www.mainkartu123.com"]
 ##a[href^="http://www.mainqiu."]
 ##a[href^="http://www.maintokojudi."]
 ##a[href^="http://www.majudominoqq."]
@@ -5544,6 +5526,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.maniakartu."]
 ##a[href^="http://www.maniakqq."]
 ##a[href^="http://www.marina-365."]
+##a[href^="http://www.markasvip.com"]
 ##a[href^="http://www.master88."]
 ##a[href^="http://www.master88club."]
 ##a[href^="http://www.mastercapsa365."]
@@ -5584,6 +5567,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.osakapoker."]
 ##a[href^="http://www.pabrikpoker."]
 ##a[href^="http://www.panenbonus."]
+##a[href^="http://www.panpoker88.info"]
 ##a[href^="http://www.parisbola."]
 ##a[href^="http://www.pasaranindo."]
 ##a[href^="http://www.pasaranqq."]
@@ -5599,6 +5583,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.poker158."]
 ##a[href^="http://www.poker5stars."]
 ##a[href^="http://www.pokerastro."]
+##a[href^="http://www.pokergading."]
 ##a[href^="http://www.pokeridnplay."]
 ##a[href^="http://www.pokermon24."]
 ##a[href^="http://www.pokernasional."]
@@ -5659,6 +5644,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="http://www.suhubola."]
 ##a[href^="http://www.suhukiu."]
 ##a[href^="http://www.suhuqq."]
+##a[href^="http://www.tebakqq."]
 ##a[href^="http://www.telolet99."]
 ##a[href^="http://www.temanpoker99."]
 ##a[href^="http://www.terminalbet."]
@@ -5740,6 +5726,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="https://elangqq."]
 ##a[href^="https://fundomino."]
 ##a[href^="https://fundominoqq."]
+##a[href^="https://indoqq168.com"]
 ##a[href^="https://kakakqq."]
 ##a[href^="https://kartuajaib."]
 ##a[href^="https://kartuking."]
@@ -5754,6 +5741,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="https://lotustogel."]
 ##a[href^="https://makelarjudi."]
 ##a[href^="https://masterkiu."]
+##a[href^="https://maxbetqq.net"]
 ##a[href^="https://mejajoker."]
 ##a[href^="https://mukaqq."]
 ##a[href^="https://nagawinqq."]
@@ -5765,6 +5753,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="https://pusatqq."]
 ##a[href^="https://qqemas."]
 ##a[href^="https://qqsedia."]
+##a[href^="https://rajakasino33m."]
 ##a[href^="https://rajapoker."]
 ##a[href^="https://rajaremi."]
 ##a[href^="https://sakong."]
@@ -6450,6 +6439,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /cantikqq-
 /cantikqq.
 /capsa228.
+/CAPSA365.gif|
 /capsapro.
 /capsaqqnew.
 /caradaftarpoker.
@@ -6628,11 +6618,13 @@ zonabola.*##a[href^="http://bit.ly/"]
 /kartuking.
 /kasinobet.
 /kaspemain.
+/Kdslots.
 /ketuapkr.
 /ketuapoker.
 /ketuapokernew.
 /king4d.
 /klik66-
+/klik66banner.gif|
 /klikkiu.
 /klikqq-
 /klikqq.
@@ -6929,6 +6921,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /vimaxpills.
 /vivacm88.
 /vivobetting.
+/vjudi.gif|
 /vodka728x90.
 /vodkapoker.
 /warnaqq-

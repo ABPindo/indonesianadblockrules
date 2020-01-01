@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201912301554
+! Version: 202001010211
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 30 Dec 2019 15:54 UTC
+! Last modified: 01 Jan 2020 02:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -875,6 +875,7 @@ woof.tube#@#.adsbox
 ||365qiuqiu.$third-party
 ||388poker.$third-party
 ||396club.$third-party
+||396club.co^$popup
 ||396dewa.$popup
 ||3poker855.com^$third-party
 ||4dasli.$popup
@@ -1291,11 +1292,10 @@ woof.tube#@#.adsbox
 ||blindbetpoker.com^$third-party
 ||block.s3block.$popup
 ||blogjudi.com^$third-party
+||bmwpoker.^$popup
 ||bnipoker.$popup
 ||bnipoker.$third-party
 ||bobcbet.$third-party
-||bola-judi.$third-party
-||bola-taruhan.$third-party
 ||bola168.$popup
 ||bola168.$third-party
 ||bola168bet.$third-party
@@ -1809,7 +1809,6 @@ woof.tube#@#.adsbox
 ||imcpkr.$third-party
 ||imcpoker.$third-party
 ||imcqq88.$third-party
-||incar-qq.$third-party
 ||incarsakong.$third-party
 ||incrasebux.$popup
 ||incrasebux.$third-party
@@ -2160,6 +2159,7 @@ woof.tube#@#.adsbox
 ||lotus-4d.$popup
 ||lotus-4d.$third-party
 ||lotus55.$popup
+||lotusbola.$popup
 ||lotusbola.$third-party
 ||lotustogel.$third-party
 ||lpkiukiu.$third-party
@@ -2823,6 +2823,7 @@ woof.tube#@#.adsbox
 ||seni888.$third-party
 ||senibola.$popup
 ||senibola.$third-party
+||senigoal.$popup
 ||senigoal.$third-party
 ||seniqq.$popup
 ||seniqq.$third-party
@@ -2941,7 +2942,6 @@ woof.tube#@#.adsbox
 ||sundulqq.$popup
 ||sundulqq.$third-party
 ||sunpoker.com^$third-party
-||sunshine-poker.com^$third-party
 ||surgabola.$third-party
 ||surgajudi.com^$third-party
 ||surya4d.$popup
@@ -3050,7 +3050,6 @@ woof.tube#@#.adsbox
 ||tipstaruhanbola.com^$third-party
 ||tipstaruhanibcbet.$third-party
 ||tipstaruhansbobet.$third-party
-||togel.$third-party
 ||togel168.$third-party
 ||togel2.xtgem.com^$third-party
 ||togel2000.$third-party
@@ -3188,8 +3187,6 @@ woof.tube#@#.adsbox
 ||u16822.$third-party
 ||uang365.$third-party
 ||uang4d.$third-party
-||ubc7.$popup
-||ubc7.$third-party
 ||ubcpoker.com^$third-party
 ||ubcwin.$third-party
 ||ujungkontol.$popup
@@ -3251,12 +3248,7 @@ woof.tube#@#.adsbox
 ||wahanatoto.$third-party
 ||wahanatoto1.$popup
 ||wahanatoto1.$third-party
-||wahyu88.$popup
-||wahyu88.$third-party
 ||wahyupoker.$third-party
-||waletjp.$popup
-||waletjp.$third-party
-||waltpoker.$third-party
 ||warnaqq.$third-party
 ||warung365.$third-party
 ||warungjudi.com^$third-party
@@ -3301,20 +3293,13 @@ woof.tube#@#.adsbox
 ||wismaqq.$popup
 ||wismaqq.$third-party
 ||wismaqq2.$third-party
-||won77.$popup
-||won77.$third-party
-||wong-poker.$popup
-||wong-poker.$third-party
+||wong-poker.net^$popup
 ||wongbet.$popup
 ||wongbet.$third-party
 ||wongpkr.$popup
 ||wongpkr.$third-party
 ||wongpoker.$third-party
 ||wpbet365.$third-party
-||www.396club.co^$popup
-||www.bmwpoker.^$popup
-||www.lotusbola.$popup
-||www.senigoal.$popup
 ||wwwsgopoker.$popup
 ||wwwsgopoker.$third-party
 ||xjudi.com^$third-party
@@ -3524,6 +3509,7 @@ woof.tube#@#.adsbox
 /cantikqq-
 /cantikqq.
 /capsa228.
+/CAPSA365.gif|
 /capsapro.
 /capsaqqnew.
 /caradaftarpoker.
@@ -3702,11 +3688,13 @@ woof.tube#@#.adsbox
 /kartuking.
 /kasinobet.
 /kaspemain.
+/Kdslots.
 /ketuapkr.
 /ketuapoker.
 /ketuapokernew.
 /king4d.
 /klik66-
+/klik66banner.gif|
 /klikkiu.
 /klikqq-
 /klikqq.
@@ -4003,6 +3991,7 @@ woof.tube#@#.adsbox
 /vimaxpills.
 /vivacm88.
 /vivobetting.
+/vjudi.gif|
 /vodka728x90.
 /vodkapoker.
 /warnaqq-
