@@ -155,7 +155,6 @@
 ##.marginads
 ##.mgid
 ##.minipusat
-##.pasangiklan
 ##.pengiklan
 ##.popUpBannerBox
 ##.pusat728
@@ -168,16 +167,6 @@
 ##.subiklan
 ##.text-center.adv
 ##.topadsense
-##[href="http://ig24.me"]
-##[href^="//mellowads.com/"]
-##[href^="https://iklango."]
-##[href^="https://www.griya190.com"]
-##img[alt="Iklan"]
-##img[alt="Pasang Iklan Anda Disini"]
-##img[alt="Pasang Iklan Murah"]
-##img[alt="Pemasangan Iklan"]
-##img[alt="Space Iklan"]
-##img[alt="ads"]
-##img[alt="iklan"]
-##img[title="pasang iklan"]
-##img[title="pasang-iklan"]
+##a[href="http://ig24.me"]
+##a[href^="//mellowads.com/"]
+##img[alt="iklan" i]
