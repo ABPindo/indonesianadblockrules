@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202001030112
+! Version: 202001030134
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 03 Jan 2020 01:12 UTC
+! Last modified: 03 Jan 2020 01:34 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -4267,7 +4267,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 -agenqq-
 -agungpoker.
 -bandarkiu.
--banner-togel-$image
+-banner-togel-
 -bisabet.
 -bolaonline.
 -cantikqq-728-
@@ -4281,12 +4281,13 @@ zonabola.*##a[href^="http://bit.ly/"]
 -elangcapsa-
 -emasbet.
 -ezykasino.
--freebet-bonus-$image
+-freebet-bonus-
 -hanabet.
 -hitsbola-*.gif|
 -hoki365.
 -hokiqq-
 -incarqq.
+-indomaxbet-$image
 -indopokerlink-
 -itubandar-
 -jakartaqq-
@@ -4324,8 +4325,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 -rgocasino-
 -rgocasino.
 -rivalqq.
--sbcc.gif$image
--simontok.$image
+-sbcc.gif|
 -sirajaqq-
 -sponsorqq.
 -tiketbet.
@@ -4337,14 +4337,11 @@ zonabola.*##a[href^="http://bit.ly/"]
 -visitogel.
 -warnaqq-
 -wpbet365.
-/-indomaxbet-
 /128cash.
 /12naga.gif|
 /188bet.
 /1xbet.
-/1xbet250.gif$image
 /1xbet250.gif|
-/1xbetnew.gif$image
 /1xbetnew.gif|
 /1xliga.
 /233bet.
@@ -4410,7 +4407,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 /avoqq.
 /ayoqqnew.
 /ayoqqsakong.
-/b2indo.gif$image
 /b2indo.gif|
 /b2poker.
 /bacanpoker.
@@ -4470,7 +4466,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /capsapro.
 /capsaqqnew.
 /caradaftarpoker.
-/cashbackharian.gif$image
+/cashbackharian.gif|
 /casinoitu.
 /cmobet.
 /cocobet.
@@ -4502,7 +4498,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /dewiqq-
 /dewiqq.
 /diskonqq.
-/doiqq.gif$image
+/doiqq.gif|
 /domino168.
 /domino365.
 /domino757.
@@ -4533,7 +4529,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /eze99.
 /ezebet-
 /ezebet.
-/fairqq.jpg$image
+/fairqq.jpg
 /fifaqq-
 /fifaqq.
 /garampoker.
@@ -4573,10 +4569,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 /hoya-poker.
 /hoyacash.
 /hoyajackpot.
-/hoyajpnew*.$image
 /hoyajpnew-rev.
 /hoyanew.
-/hoyapkrnew*.$image
 /hoyapkrnew-rev.
 /hoyapoker.
 /hoyapoker99.
@@ -4617,7 +4611,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 /itubandar.
 /itucasino.
 /itudewa.
-/itudomino728*.$image
 /itudomino728.
 /itugol.
 /itupk.
@@ -4655,14 +4648,14 @@ zonabola.*##a[href^="http://bit.ly/"]
 /jual_obat_aborsi_
 /juaracapsa-
 /kampusbet.
-/kartu-online.gif$image
+/kartu-online.gif|
 /kartudomino.
 /kartuhoki-$image
 /kartuhokky.
 /kartuking.
 /kasinobet.
 /kaspemain.
-/kd777.gif$image
+/kd777.gif|
 /kdslots.
 /ketuapkr.
 /ketuapoker.
@@ -4709,8 +4702,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /lobyqq.
 /lotustogel.
 /lpkiukiu.
-/luxury-pop-$image
-/luxury-pop-up-
+/luxury-pop-
 /luxury-top.
 /luxury777-
 /luxury777.gif|
@@ -4775,17 +4767,16 @@ zonabola.*##a[href^="http://bit.ly/"]
 /nasapoker-
 /nasapoker.
 /neobola.
-/newafa.gif$image
+/newafa.gif
 /newhoya-
 /newjaya.
-/newrgotog.gif$image
-/newroyal.$image,domain=akurat.co
+/newrgotog.gif
 /newtexas.
 /nikeqq.
 /ninjaqq-
 /nusantarabet4d.
 /obat-kuat-sex.
-/obc.gif$image
+/obc.gif|$image
 /obobet-
 /obobet.
 /okebos.
@@ -4834,8 +4825,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 /pokerqq.
 /pokerqq13.
 /pokersgp.
-/pokerstar8-$image
-/pokerstar8.jpg$image
+/pokerstar8-
+/pokerstar8.jpg
 /pokerzara.
 /pokevita-
 /pokped-
@@ -4890,7 +4881,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /rgocasino.
 /rgosky.
 /royalbola.
-/royalflush-$image,domain=akurat.co
+/royalflush-
 /royaljackpot.
 /royalkasino.
 /royalpoker99.
@@ -4963,7 +4954,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /texaspoker.
 /texaspoker_
 /texasqq.
-/togel-$image
+/togel-$image,third-party
 /togel168-
 /togel212.
 /togelbet.
@@ -4987,7 +4978,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /vegasmarket.
 /venombet-
 /venombet.
-/vibol.$image
+/vibol.$image,third-party
 /vimaxasli.
 /vimaxpills.
 /vivacm88.
@@ -5001,7 +4992,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /wedeqq.
 /wigo-bet-
 /wigo-bet.
-/wigo.gif$image
+/wigo.gif|
 /wigobet-
 /wigobet.
 /wigobetnew.
