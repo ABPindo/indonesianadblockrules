@@ -74,6 +74,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||dunia21s.*/wp-content/uploads/*.gif$image
 ||duniasex.ws/banner-
 ||dwanonton.*/wp-content/uploads/*.gif$image
+||dwanonton.com/wp-content/uploads/*.gif$image
 ||ebsoft.web.id/wp-content/banners/
 ||eramuslim.com/banners
 ||ewetot.com^$image,object,domain=bintangmawar.net

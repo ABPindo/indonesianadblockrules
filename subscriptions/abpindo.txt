@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202001030134
+! Version: 202001040005
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 03 Jan 2020 01:34 UTC
+! Last modified: 04 Jan 2020 00:05 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -61,6 +61,7 @@
 ||aopxnvrugx.com^$popup
 ||ashaidbit.club^$third-party
 ||ashamparm.site^$third-party
+||auredzeon.com^$popup
 ||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
 ||badskies.com^$third-party
@@ -389,6 +390,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||dunia21s.*/wp-content/uploads/*.gif$image
 ||duniasex.ws/banner-
 ||dwanonton.*/wp-content/uploads/*.gif$image
+||dwanonton.com/wp-content/uploads/*.gif$image
 ||ebsoft.web.id/wp-content/banners/
 ||eramuslim.com/banners
 ||ewetot.com^$image,object,domain=bintangmawar.net
@@ -1156,6 +1158,7 @@ mangafap.com###lbanner
 kabar2.com###leaderboard
 komikbaru.com###left-skyscraper
 nontonbokeps.com###left_ads_float_phonedevelop
+dewabioskop21.org###main-popup
 dapurpacu.com###mid-banner
 dunia21.cx,ganool.watch,lk21tv.com,movies21.co###middle-banner
 fastdrama.co,hkfree.co###modal
@@ -2050,7 +2053,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 ###togel
 ##.judi
 ##.togel
-##[href^="https://pkzeus.com"]
+##[href^="http://tgks.vip"]
+##[href^="https://www.anaktogel88.net/"]
 ##a[href$="/77megabet"]
 ##a[href$="/adscantikqq"]
 ##a[href$="/adskartu66"]
@@ -3531,6 +3535,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href^="https://nusantaraqq."]
 ##a[href^="https://ompoker."]
 ##a[href^="https://pendekarqq."]
+##a[href^="https://pkzeus.com"]
 ##a[href^="https://poker357."]
 ##a[href^="https://pusatbandarq."]
 ##a[href^="https://pusatqq."]
@@ -3730,7 +3735,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="TajirQQ" i]
 ##img[alt="Tangkas Online" i]
 ##img[alt="Taruhan Bola" i]
-##img[alt="Texaspoker" i]
 ##img[alt="Texaspokercc" i]
 ##img[alt="Togel Domino" i]
 ##img[alt="Togel Online" i]
@@ -4066,7 +4070,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[title="TajirQQ" i]
 ##img[title="Tangkas Online" i]
 ##img[title="Taruhan Bola" i]
-##img[title="Texaspoker" i]
 ##img[title="Texaspokercc" i]
 ##img[title="Togel Domino" i]
 ##img[title="Togel Online" i]
@@ -4271,6 +4274,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 -bisabet.
 -bolaonline.
 -cantikqq-728-
+-cantikqq-728.gif|$image
+-capsa365-$image
 -capsa365.
 -cariqq-
 -dewatangkas-
@@ -4283,7 +4288,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 -ezykasino.
 -freebet-bonus-
 -hanabet.
--hitsbola-*.gif|
+-hitsbola-*.gif|$image
+-hoki365-$image
 -hoki365.
 -hokiqq-
 -incarqq.
@@ -4301,23 +4307,31 @@ zonabola.*##a[href^="http://bit.ly/"]
 -juaraqq.
 -kartu-online.$image
 -kartu66-728-
+-kartu66-728.gif|$image
 -klik365-728-
 -klik66-728-
+-klik66-728.gif|$image
 -klikqq-728-
+-klikqq-728.gif|$image
+-lexabet.gif|$image
 -liga99-728-
+-liga99-728.gif|$image
 -ligabola-728-
+-ligabola-728.gif|$image
 -ligacapsa-
 -ligapoker-
+-ligapoker728.gif|$image
 -ligaqq.
 -lotus2d1.
 -melatipoker-
 -misiqq-
 -murnibet-$image
 -murnibet-728
--mutiarapoker.gif|
+-mutiarapoker.gif|$image
 -oppabetnew.
 -pokerindo-
 -priaqq-728-
+-priaqq-728.gif|$image
 -qq-slot-$image
 -qqjoker-
 -rajacapsa.
@@ -4325,8 +4339,9 @@ zonabola.*##a[href^="http://bit.ly/"]
 -rgocasino-
 -rgocasino.
 -rivalqq.
--sbcc.gif|
+-sbcc.gif|$image
 -sirajaqq-
+-situs-poker-online-$image
 -sponsorqq.
 -tiketbet.
 -tototix.gif
@@ -4338,11 +4353,11 @@ zonabola.*##a[href^="http://bit.ly/"]
 -warnaqq-
 -wpbet365.
 /128cash.
-/12naga.gif|
+/12naga.gif|$image
 /188bet.
 /1xbet.
-/1xbet250.gif|
-/1xbetnew.gif|
+/1xbet250.gif|$image
+/1xbetnew.gif|$image
 /1xliga.
 /233bet.
 /28bet.
@@ -4358,7 +4373,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /acehpoke-$image
 /acerpoker.
 /acmbet.
-/adsimontok/*
+/adsimontok/*$image
 /afapkr.
 /afapoker-
 /afapoker.
@@ -4407,7 +4422,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /avoqq.
 /ayoqqnew.
 /ayoqqsakong.
-/b2indo.gif|
+/b2indo.gif|$image
 /b2poker.
 /bacanpoker.
 /bagusqq.
@@ -4426,6 +4441,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 /bandarqterpercaya.
 /bandarsakong.
 /bandartaruhan.
+/banner-lapakqq.$image
+/BANNER-liga88-$image
 /bcadomino.
 /beliqq.
 /benderapoker.
@@ -4462,11 +4479,11 @@ zonabola.*##a[href^="http://bit.ly/"]
 /cantikqq-
 /cantikqq.
 /capsa228.
-/capsa365.gif|
+/capsa365.gif|$image
 /capsapro.
 /capsaqqnew.
 /caradaftarpoker.
-/cashbackharian.gif|
+/cashbackharian.gif|$image
 /casinoitu.
 /cmobet.
 /cocobet.
@@ -4498,7 +4515,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /dewiqq-
 /dewiqq.
 /diskonqq.
-/doiqq.gif|
+/doiqq.gif|$image
 /domino168.
 /domino365.
 /domino757.
@@ -4509,9 +4526,9 @@ zonabola.*##a[href^="http://bit.ly/"]
 /dotapoker.
 /dotapoker88-
 /dotaqiu-
-/doyangoyang.gif|
+/doyangoyang.gif|$image
 /doyanqq.
-/dpbola.gif|
+/dpbola.gif|$image
 /dracobets.
 /dragonpoker.
 /duniasarana.
@@ -4981,6 +4998,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /vibol.$image,third-party
 /vimaxasli.
 /vimaxpills.
+/viralqq.gif|$image
 /vivacm88.
 /vivobetting.
 /vjudi.gif|
@@ -5001,38 +5019,40 @@ zonabola.*##a[href^="http://bit.ly/"]
 /winpoker789.
 /wismaqq.
 /wismaqq2.
-/won77.
+/won77.$image
 /wongpkr.
 /wongpoker.
 /wp-content/uploads/*/luxury.gif$image
 /yoyopoker-
-/yoyopoker.
+/yoyopoker.$image
 /ysbjaya-
 /ysbjaya88.
 /zeupoker-
-/zonaprediksi.
-/zyngaqq.
+/zonaprediksi.$image
+/zyngaqq.$image
 _indokasino.
 _penggugur_kandungan_$image
-agen_bola_online.gif|
-agenbola.gif|
-agenqq.gif|
-ayoqq.gif|
-banner728.gif|
-bundapoker.gif|
-jayabet.gif|
-lvo888.gif|
-nagalaut728.gif|
-pencetpoker.
-raja365.gif|
-rajaqq.gif|
-ratubola.gif|
-sarana88.gif|
-sarangbola.gif|
-sbobetqq.gif|
-spbet.gif|
-suhubola.gif|
-totojitu.gif|
+agen_bola_online.gif|$image
+agenbola.gif|$image
+agenqq.gif|$image
+ayoqq.gif|$image
+banner728.gif|$image
+bundapoker.gif|$image
+dewidomino.gif|$image
+itudomino.gif|$image
+jayabet.gif|$image
+lvo888.gif|$image
+nagalaut728.gif|$image
+pencetpoker.gir|$image
+raja365.gif|$image
+rajaqq.gif|$image
+ratubola.gif|$image
+sarana88.gif|$image
+sarangbola.gif|$image
+sbobetqq.gif|$image
+spbet.gif|$image
+suhubola.gif|$image
+totojitu.gif|$image
 ||116poker.$popup
 ||116poker.$third-party
 ||11juni.$popup

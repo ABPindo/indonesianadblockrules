@@ -2,7 +2,8 @@
 ###togel
 ##.judi
 ##.togel
-##[href^="https://pkzeus.com"]
+##[href^="http://tgks.vip"]
+##[href^="https://www.anaktogel88.net/"]
 ##a[href$="/77megabet"]
 ##a[href$="/adscantikqq"]
 ##a[href$="/adskartu66"]
@@ -1483,6 +1484,7 @@
 ##a[href^="https://nusantaraqq."]
 ##a[href^="https://ompoker."]
 ##a[href^="https://pendekarqq."]
+##a[href^="https://pkzeus.com"]
 ##a[href^="https://poker357."]
 ##a[href^="https://pusatbandarq."]
 ##a[href^="https://pusatqq."]
@@ -1682,7 +1684,6 @@
 ##img[alt="TajirQQ" i]
 ##img[alt="Tangkas Online" i]
 ##img[alt="Taruhan Bola" i]
-##img[alt="Texaspoker" i]
 ##img[alt="Texaspokercc" i]
 ##img[alt="Togel Domino" i]
 ##img[alt="Togel Online" i]
@@ -2018,7 +2019,6 @@
 ##img[title="TajirQQ" i]
 ##img[title="Tangkas Online" i]
 ##img[title="Taruhan Bola" i]
-##img[title="Texaspoker" i]
 ##img[title="Texaspokercc" i]
 ##img[title="Togel Domino" i]
 ##img[title="Togel Online" i]
