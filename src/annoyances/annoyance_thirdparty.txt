@@ -131,7 +131,7 @@
 ||nagapoker1.com^$third-party
 ||nagapoker88.com^$third-party
 ||nagatogel.com^$third-party
-||nenenqq.com^
+||nenenqq.com^$third-party
 ||neobola.club^$popup
 ||nztoto.com^$third-party
 ||online5poker.com^$third-party
@@ -189,7 +189,6 @@
 ||rajatogel.biz^$third-party
 ||rajatogel.com^$third-party
 ||rajatoto.com^$third-party
-||rajawaliqq.$popup
 ||recentpoker.com^$third-party
 ||redstarpoker.com^$third-party
 ||rgobet.com^$third-party

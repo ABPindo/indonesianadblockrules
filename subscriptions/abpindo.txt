@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202001040208
+! Version: 202001040236
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 04 Jan 2020 02:08 UTC
+! Last modified: 04 Jan 2020 02:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -840,6 +840,9 @@ woof.tube#@#.adsbox
 ! ----------------------- element hiding rules ------------------------!
 ! *** abpindo:src/elementhide/general_hide.txt ***
 ###Box-Banner-ads
+###Iklan-Melayang
+###Kolom-Iklan-728
+###SidebarIklan-wrapper
 ###ad_box_1
 ###ad_divLeft
 ###ads-pop
@@ -880,14 +883,21 @@ woof.tube#@#.adsbox
 ###idmuvi-adb-enabled
 ###idmuvi-popup
 ###iklan
+###iklan-atas
+###iklan-bawah
 ###iklan-pos
 ###iklan-sidebar
+###iklan-tengah
 ###iklan-text
 ###iklan1
 ###iklan2
 ###iklan3
 ###iklan4
 ###iklan_atas
+###iklan_bawah
+###iklan_kanan
+###iklan_kiri
+###iklan_tengah
 ###iklanarea
 ###iklanatas
 ###iklanpersegi
@@ -902,7 +912,6 @@ woof.tube#@#.adsbox
 ###teaser3
 ###top_ad_full
 ###tupiklan
-###v-overlay
 ###vp-advert
 ##.SectionAds
 ##.ad-left-image
@@ -918,6 +927,9 @@ woof.tube#@#.adsbox
 ##.ads_top_728
 ##.ads_top_nav
 ##.adsatas
+##.adsatas1
+##.adsatas2
+##.adsatas3
 ##.adsbawah
 ##.adsbawah1
 ##.adsbawah2
@@ -945,6 +957,7 @@ woof.tube#@#.adsbox
 ##.fake_player
 ##.floatingBanner728
 ##.forads
+##.frame_iklan_baris
 ##.gbcontent
 ##.gpcontent
 ##.headads
@@ -963,8 +976,9 @@ woof.tube#@#.adsbox
 ##.idmuvi-topbanner-aftermenu
 ##.idmuvi-topbanner-archive
 ##.idmuvi-topplayer
+##.iframeiklan
 ##.iklan
-##.iklan-atas.ads
+##.iklan-atas
 ##.iklan-bawah
 ##.iklan-bawah-player
 ##.iklan-kanan
@@ -978,24 +992,29 @@ woof.tube#@#.adsbox
 ##.iklan-samping
 ##.iklan1
 ##.iklan2
+##.iklan3
 ##.iklan300
 ##.iklan728
+##.iklanBox
+##.iklan_atas
+##.iklan_bawah
+##.iklan_kanan
 ##.iklan_kiri
 ##.iklan_semprot
 ##.iklan_semprot_h
+##.iklan_tengah
 ##.iklanhead
 ##.iklanleft
 ##.iklanmini
 ##.iklanpusat
 ##.iklanright
+##.iklanx1
 ##.kill-adblock-container
 ##.kotak_iklan
 ##.kotakiklan
 ##.ktz-aftermenubanner
 ##.ktz-bannersingletop
 ##.marginads
-##.mgid
-##.minipusat
 ##.pengiklan
 ##.popUpBannerBox
 ##.pusat728
@@ -1014,12 +1033,9 @@ woof.tube#@#.adsbox
 ! *** abpindo:src/elementhide/specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
-lihat.co.id###Iklan-Melayang
 indogamers.com###IklanIDGS
 173.199.167.192,krucil.com,krucil.net###KD_adpB
-lihat.co.id###Kolom-Iklan-728
 lihat.co.id###Kolom-random-300
-lihat.co.id###SidebarIklan-wrapper
 utusan.com.my###Taboola_widget
 chip.co.id###TopBannerBg
 hi10anime.com###__admvnlb__modal_container
@@ -1139,8 +1155,6 @@ lensaindonesia.com###idcomright1.com-300x250
 lensaindonesia.com###idcomright2.com-300x250
 lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
-mylinkgen.com###iklan-atas
-mylinkgen.com###iklan-bawah
 lihat.co.id###iklan-dalam-postingan-300
 lk21.web.id###ilang1
 cinemaindo.web.id,sinemaindo.web.id###ilang2
@@ -1405,7 +1419,6 @@ dewanontons.com##.dewa_floating_bottom
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
-detik.com##.frame_iklan_baris
 manganime.id##.ftadss
 utusan.com.my##.g-slice__item:-abp-has(div[id="DFP-ads"])
 myasiantv.se##.glx-link
@@ -1423,11 +1436,8 @@ bioskop168.co,semi168.club##.home.border
 filmace21.net##.idmupi-topbanner
 layarlebar21.id##.idmuvi-afterplayer
 mangaku.in##.iframeiklan
-kosmo.com.my##.iklanBox
 suki48.web.id##.iklanSUKI
-detik.com##.iklan_tengah
 awsubs.co##.iklansamping
-indoxxi.pictures##.iklanx1
 ld2tv.com##.img-banner
 cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21tv.com,nonton21.net##.img-responsive
 animeindo.video,animeindo.web.id##.in_up_ad-area
@@ -1701,7 +1711,6 @@ indoxxi.*###player-side-right
 indoxxi.*###pushnotif
 indoxxi.*##.blocker.jquery-modal
 indoxxi.*##.current.ujimodal.ujipopup
-indoxxi.*##.iklanx1
 indoxxi.*##.jwseed
 indoxxi.*##[href="//voastauz.net/2104418.html"]
 indoxxi.*##a[href^="https://bit.ly/"]
@@ -1903,7 +1912,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||nagapoker1.com^$third-party
 ||nagapoker88.com^$third-party
 ||nagatogel.com^$third-party
-||nenenqq.com^
+||nenenqq.com^$third-party
 ||neobola.club^$popup
 ||nztoto.com^$third-party
 ||online5poker.com^$third-party
@@ -1961,7 +1970,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||rajatogel.biz^$third-party
 ||rajatogel.com^$third-party
 ||rajatoto.com^$third-party
-||rajawaliqq.$popup
 ||recentpoker.com^$third-party
 ||redstarpoker.com^$third-party
 ||rgobet.com^$third-party
@@ -4365,6 +4373,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /526bet-$image
 /728-x-90-$image
 /899cash.
+/BANNER-liga88-$image
 /aabet.$image
 /abgqq-$image
 /abgqq.$image
@@ -4442,7 +4451,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 /bandarsakong.
 /bandartaruhan.
 /banner-lapakqq.$image
-/BANNER-liga88-$image
 /bcadomino.
 /beliqq.
 /benderapoker.
@@ -6801,6 +6809,7 @@ totojitu.gif|$image
 ||rajasakong88.$popup
 ||rajasakong88.$third-party
 ||rajatogel88.$third-party
+||rajawaliqq.$popup
 ||rajawaliqq.$third-party
 ||rajawalisport.$third-party
 ||ratubet728x90.$third-party

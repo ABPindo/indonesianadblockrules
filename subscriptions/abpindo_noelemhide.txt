@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202001040208
+! Version: 202001040236
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 04 Jan 2020 02:08 UTC
+! Last modified: 04 Jan 2020 02:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -972,7 +972,7 @@ woof.tube#@#.adsbox
 ||nagapoker1.com^$third-party
 ||nagapoker88.com^$third-party
 ||nagatogel.com^$third-party
-||nenenqq.com^
+||nenenqq.com^$third-party
 ||neobola.club^$popup
 ||nztoto.com^$third-party
 ||online5poker.com^$third-party
@@ -1030,7 +1030,6 @@ woof.tube#@#.adsbox
 ||rajatogel.biz^$third-party
 ||rajatogel.com^$third-party
 ||rajatoto.com^$third-party
-||rajawaliqq.$popup
 ||recentpoker.com^$third-party
 ||redstarpoker.com^$third-party
 ||rgobet.com^$third-party
@@ -1219,6 +1218,7 @@ woof.tube#@#.adsbox
 /526bet-$image
 /728-x-90-$image
 /899cash.
+/BANNER-liga88-$image
 /aabet.$image
 /abgqq-$image
 /abgqq.$image
@@ -1296,7 +1296,6 @@ woof.tube#@#.adsbox
 /bandarsakong.
 /bandartaruhan.
 /banner-lapakqq.$image
-/BANNER-liga88-$image
 /bcadomino.
 /beliqq.
 /benderapoker.
@@ -3655,6 +3654,7 @@ totojitu.gif|$image
 ||rajasakong88.$popup
 ||rajasakong88.$third-party
 ||rajatogel88.$third-party
+||rajawaliqq.$popup
 ||rajawaliqq.$third-party
 ||rajawalisport.$third-party
 ||ratubet728x90.$third-party

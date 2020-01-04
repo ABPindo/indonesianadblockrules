@@ -1,11 +1,8 @@
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
-lihat.co.id###Iklan-Melayang
 indogamers.com###IklanIDGS
 173.199.167.192,krucil.com,krucil.net###KD_adpB
-lihat.co.id###Kolom-Iklan-728
 lihat.co.id###Kolom-random-300
-lihat.co.id###SidebarIklan-wrapper
 utusan.com.my###Taboola_widget
 chip.co.id###TopBannerBg
 hi10anime.com###__admvnlb__modal_container
@@ -125,8 +122,6 @@ lensaindonesia.com###idcomright1.com-300x250
 lensaindonesia.com###idcomright2.com-300x250
 lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
-mylinkgen.com###iklan-atas
-mylinkgen.com###iklan-bawah
 lihat.co.id###iklan-dalam-postingan-300
 lk21.web.id###ilang1
 cinemaindo.web.id,sinemaindo.web.id###ilang2
@@ -391,7 +386,6 @@ dewanontons.com##.dewa_floating_bottom
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 teknoup.com##.footer_banner
-detik.com##.frame_iklan_baris
 manganime.id##.ftadss
 utusan.com.my##.g-slice__item:-abp-has(div[id="DFP-ads"])
 myasiantv.se##.glx-link
@@ -409,11 +403,8 @@ bioskop168.co,semi168.club##.home.border
 filmace21.net##.idmupi-topbanner
 layarlebar21.id##.idmuvi-afterplayer
 mangaku.in##.iframeiklan
-kosmo.com.my##.iklanBox
 suki48.web.id##.iklanSUKI
-detik.com##.iklan_tengah
 awsubs.co##.iklansamping
-indoxxi.pictures##.iklanx1
 ld2tv.com##.img-banner
 cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21tv.com,nonton21.net##.img-responsive
 animeindo.video,animeindo.web.id##.in_up_ad-area
@@ -687,7 +678,6 @@ indoxxi.*###player-side-right
 indoxxi.*###pushnotif
 indoxxi.*##.blocker.jquery-modal
 indoxxi.*##.current.ujimodal.ujipopup
-indoxxi.*##.iklanx1
 indoxxi.*##.jwseed
 indoxxi.*##[href="//voastauz.net/2104418.html"]
 indoxxi.*##a[href^="https://bit.ly/"]
