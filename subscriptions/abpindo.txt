@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202001040236
+! Version: 202001050106
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 04 Jan 2020 02:36 UTC
+! Last modified: 05 Jan 2020 01:06 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2053,6 +2053,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||webjuditerpercaya.com^$third-party
 ||websitejudi.com^$third-party
 ||wigobet.com^$third-party
+||wong-poker.net^$popup
 ||xjudi.com^$third-party
 ||yogapoker.com^$third-party
 ||yourpokercash.com^$third-party
@@ -2098,6 +2099,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[href$="/klik66"]
 ##a[href$="/klikqq"]
 ##a[href$="/ligapoker"]
+##a[href$="/master88"]
 ##a[href$="/megabandar"]
 ##a[href$="/mobapoker"]
 ##a[href$="/okecgoaloo"]
@@ -3663,6 +3665,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="Bandarkiu" i]
 ##img[alt="Bandarq Online" i]
 ##img[alt="Betberry" i]
+##img[alt="Bola Vegas" i]
 ##img[alt="Bola Vita" i]
 ##img[alt="Boskiukiu" i]
 ##img[alt="Capsaqq" i]
@@ -3998,6 +4001,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[title="Bandarkiu" i]
 ##img[title="Bandarq Online" i]
 ##img[title="Betberry" i]
+##img[title="Bola Vegas" i]
 ##img[title="Bola Vita" i]
 ##img[title="Boskiukiu" i]
 ##img[title="Capsaqq" i]
@@ -4374,6 +4378,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /728-x-90-$image
 /899cash.
 /BANNER-liga88-$image
+/ITCBET.gif|$image
 /aabet.$image
 /abgqq-$image
 /abgqq.$image
@@ -4471,6 +4476,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /bola777.
 /bolaketangkasan.
 /bolatangkas.
+/bolavegas-$image
 /bolavita-$image
 /bolped77.
 /bosbobet.
@@ -4518,6 +4524,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /dewaonline.
 /dewapoker.
 /dewaqq.
+/dewatangkas-$image
 /dewatangkas.
 /dewatogel.
 /dewiqq-$image
@@ -4698,6 +4705,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /kursiqq.
 /langitqq.
 /lapakpoker.
+/lapakqq-$image
 /lapakqq.
 /layarqq.
 /lazabet-$image
@@ -4889,6 +4897,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /rajawaliqq.
 /rajawalisport.
 /ratubet728x90.
+/ratucapsa-$image
 /ratukasino.
 /ratulotto.
 /ratuqq.
@@ -4982,6 +4991,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /togel-$image,third-party
 /togel168-$image
 /togel212.
+/togel88-$image
 /togelbet.
 /togeldomino.
 /togellounge.
@@ -7331,7 +7341,6 @@ totojitu.gif|$image
 ||wismaqq.$popup
 ||wismaqq.$third-party
 ||wismaqq2.$third-party
-||wong-poker.net^$popup
 ||wongbet.$popup
 ||wongbet.$third-party
 ||wongpkr.$popup
