@@ -744,3 +744,6 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
+nobarfilm21.net##.mvic-btn
+nontoncinema.org##[href$="/referral/nontoncinema"]
+premierexxi.net###ads_hd_bt
