@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202001080158
+! Version: 202001080413
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 08 Jan 2020 01:58 UTC
+! Last modified: 08 Jan 2020 04:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -38,6 +38,7 @@
 ||adreach.co^$third-party
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
+||ads.indosatooredoo.com^$third-party
 ||adsbingo.com^$third-party
 ||adsco.re^$popup
 ||adscpm.site^$third-party
@@ -1028,8 +1029,9 @@ woof.tube#@#.adsbox
 ##.subiklan
 ##.text-center.adv
 ##.topadsense
-##a[href="http://ig24.me"]
-##a[href^="//mellowads.com/"]
+##[href="http://ig24.me"]
+##[href^="//mellowads.com/"]
+##a[alt="iklan" i]
 ##img[alt="iklan" i]
 ! *** abpindo:src/elementhide/specific_hide.txt ***
 wowkeren.com###Ad300B
