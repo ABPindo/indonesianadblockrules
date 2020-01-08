@@ -11,7 +11,6 @@
 ||adaranth.com^$third-party
 ||adbsys.icu^$popup
 ||addesigner.com^$third-party
-||adexp.net^$third-party
 ||adflazz.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||admessage.support^$third-party
@@ -30,7 +29,6 @@
 ||adshost.site^$third-party
 ||adskom.com^$third-party
 ||adslop.com^$third-party
-||adstars.co.id^$third-party
 ||adtimeselaras.com^$popup
 ||adtimeselaras.com^$third-party
 ||adtival.com^$third-party
@@ -52,7 +50,7 @@
 ||azxsd.pro^$popup,third-party
 ||badskies.com^$third-party
 ||baliadv.com^$third-party
-||bcajjtbzmdrl.com^$popup,third-party
+||bcajjtbzmdrl.com^$popup
 ||bellaads.com^$third-party
 ||chidsimp.com^$third-party
 ||chqspuonctkgz.com^$popup
@@ -88,10 +86,7 @@
 ||feed.monadplug.com/propeller/*
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup
-||forumiklan.com^$third-party
-||frereadayobq.com^third-party
 ||furocmay.com^$popup
-||gehzj.com^$third-party
 ||groucign.com^$third-party
 ||groupiklan.com^$third-party
 ||gudangbanner.com^$third-party
@@ -102,7 +97,6 @@
 ||iarfina.pw^$popup
 ||iarfina.pw^$third-party
 ||iklan-laris.com^$third-party
-||iklan-sukses.com^$third-party
 ||iklanads.com^$third-party
 ||iklanbarisgratis.com^$third-party
 ||iklanbarismu.com^$third-party
@@ -113,7 +107,6 @@
 ||iklangratis88.com^$third-party
 ||iklanhemat.com^$third-party
 ||iklanhoki.com^$third-party
-||iklaninter.net^$third-party
 ||iklanoke.com^$third-party
 ||iklantanpadaftar.com^$third-party
 ||iklantelevisi.com^$third-party
@@ -139,8 +132,8 @@
 ||jwpltx.com^$third-party
 ||katurars.com^$popup
 ||klikajadeh.com^$third-party
-||l9tdhe6.com^$popup,third-party
-||ld82ydd.com^$popup,third-party
+||l9tdhe6.com^$popup
+||ld82ydd.com^$popup
 ||lokeriklan.com^$third-party
 ||lpaizureik.com^$popup
 ||luven.xyz^$popup
@@ -160,7 +153,6 @@
 ||olmsoneenh.info^$third-party
 ||onclkds.com^$popup,third-party
 ||openadserving.com^$third-party
-||oxload.icu^$third-party
 ||padssup.com^$third-party
 ||paidforfree.com^$third-party
 ||pasangiklan.com^$third-party
@@ -184,14 +176,12 @@
 ||pushqwer.com^$third-party
 ||q1xyxm89.com^$popup
 ||realwap.net^$third-party
-||reberr.pro^$third-party
-||referral-secrets.com^$third-party
 ||replase.gq^$popup,third-party
 ||replase.ml^$popup,third-party
 ||ridingintractable.com^$popup
 ||roojouma.com^$third-party
 ||rufadses.net^$third-party
-||s2pops.club^$popup,third-party
+||s2pops.club^$popup
 ||sanglah.com^$third-party
 ||sarapbeh.com^$third-party
 ||scriptall.ml^$popup,third-party
@@ -214,7 +204,6 @@
 ||topsurfer.com^$third-party
 ||trendlope.com^$popup
 ||trendlope.com^$third-party
-||trndoffers.com^$popup,third-party
 ||tsyndolls.com^$popup
 ||tummiarunzpf.com^$popup,third-party
 ||u-on.eu^$popup,third-party

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202001080413
+! Version: 202001080428
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 08 Jan 2020 04:13 UTC
+! Last modified: 08 Jan 2020 04:28 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -26,7 +26,6 @@
 ||adaranth.com^$third-party
 ||adbsys.icu^$popup
 ||addesigner.com^$third-party
-||adexp.net^$third-party
 ||adflazz.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||admessage.support^$third-party
@@ -45,7 +44,6 @@
 ||adshost.site^$third-party
 ||adskom.com^$third-party
 ||adslop.com^$third-party
-||adstars.co.id^$third-party
 ||adtimeselaras.com^$popup
 ||adtimeselaras.com^$third-party
 ||adtival.com^$third-party
@@ -67,7 +65,7 @@
 ||azxsd.pro^$popup,third-party
 ||badskies.com^$third-party
 ||baliadv.com^$third-party
-||bcajjtbzmdrl.com^$popup,third-party
+||bcajjtbzmdrl.com^$popup
 ||bellaads.com^$third-party
 ||chidsimp.com^$third-party
 ||chqspuonctkgz.com^$popup
@@ -103,10 +101,7 @@
 ||feed.monadplug.com/propeller/*
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup
-||forumiklan.com^$third-party
-||frereadayobq.com^third-party
 ||furocmay.com^$popup
-||gehzj.com^$third-party
 ||groucign.com^$third-party
 ||groupiklan.com^$third-party
 ||gudangbanner.com^$third-party
@@ -117,7 +112,6 @@
 ||iarfina.pw^$popup
 ||iarfina.pw^$third-party
 ||iklan-laris.com^$third-party
-||iklan-sukses.com^$third-party
 ||iklanads.com^$third-party
 ||iklanbarisgratis.com^$third-party
 ||iklanbarismu.com^$third-party
@@ -128,7 +122,6 @@
 ||iklangratis88.com^$third-party
 ||iklanhemat.com^$third-party
 ||iklanhoki.com^$third-party
-||iklaninter.net^$third-party
 ||iklanoke.com^$third-party
 ||iklantanpadaftar.com^$third-party
 ||iklantelevisi.com^$third-party
@@ -154,8 +147,8 @@
 ||jwpltx.com^$third-party
 ||katurars.com^$popup
 ||klikajadeh.com^$third-party
-||l9tdhe6.com^$popup,third-party
-||ld82ydd.com^$popup,third-party
+||l9tdhe6.com^$popup
+||ld82ydd.com^$popup
 ||lokeriklan.com^$third-party
 ||lpaizureik.com^$popup
 ||luven.xyz^$popup
@@ -175,7 +168,6 @@
 ||olmsoneenh.info^$third-party
 ||onclkds.com^$popup,third-party
 ||openadserving.com^$third-party
-||oxload.icu^$third-party
 ||padssup.com^$third-party
 ||paidforfree.com^$third-party
 ||pasangiklan.com^$third-party
@@ -199,14 +191,12 @@
 ||pushqwer.com^$third-party
 ||q1xyxm89.com^$popup
 ||realwap.net^$third-party
-||reberr.pro^$third-party
-||referral-secrets.com^$third-party
 ||replase.gq^$popup,third-party
 ||replase.ml^$popup,third-party
 ||ridingintractable.com^$popup
 ||roojouma.com^$third-party
 ||rufadses.net^$third-party
-||s2pops.club^$popup,third-party
+||s2pops.club^$popup
 ||sanglah.com^$third-party
 ||sarapbeh.com^$third-party
 ||scriptall.ml^$popup,third-party
@@ -229,7 +219,6 @@
 ||topsurfer.com^$third-party
 ||trendlope.com^$popup
 ||trendlope.com^$third-party
-||trndoffers.com^$popup,third-party
 ||tsyndolls.com^$popup
 ||tummiarunzpf.com^$popup,third-party
 ||u-on.eu^$popup,third-party
@@ -852,7 +841,6 @@ woof.tube#@#.adsbox
 ||agenjudibolabet.com^$third-party
 ||agenjudipoker.com^$third-party
 ||agenjudiresmi.com^$third-party
-||agenjudisukabet.com^$third-party
 ||agenjuditerbesar.com^$third-party
 ||agenjuditerpecaya.com^$third-party
 ||agenpasangtogel.com^$third-party
@@ -872,8 +860,6 @@ woof.tube#@#.adsbox
 ||beritaagenjudi.com^$third-party
 ||beritajudionline.com^$third-party
 ||bermainjudibola.com^$third-party
-||bernardleepoker.com^$third-party
-||bestpokermoments.com^$third-party
 ||bet4dtoto.com^$third-party
 ||betjudionline.com^$third-party
 ||biotogel.com^$third-party
@@ -888,7 +874,6 @@ woof.tube#@#.adsbox
 ||caramenangtogel.com^$third-party
 ||casinoclubpoker.com^$third-party
 ||casinopokercoin.com^$third-party
-||casinospokerrooms.com^$third-party
 ||cdpoker.com^$third-party
 ||celebpoker.com^$third-party
 ||chilipoker.com^$third-party
@@ -919,7 +904,6 @@ woof.tube#@#.adsbox
 ||goldtoto.com^$third-party
 ||hasiltogel.club^$popup
 ||heypoker.com^$third-party
-||hilifepoker.com^$third-party
 ||hjtowin.online^$popup
 ||hjtowin.online^$third-party
 ||hokijudi99.com^$third-party
@@ -951,7 +935,6 @@ woof.tube#@#.adsbox
 ||launchpoker.com^$third-party
 ||lintastogel.com^$third-party
 ||lotospoker.com^$third-party
-||luckyacepoker.com^$third-party
 ||luckyriverpoker.com^$third-party
 ||mainjudiinternet.com^$third-party
 ||mansionpoker.com^$third-party
@@ -967,13 +950,11 @@ woof.tube#@#.adsbox
 ||misterjudi.com^$third-party
 ||mistertogel.com^$third-party
 ||mitrapoker.com^$third-party
-||mkvpoker.club^$popup
 ||mobilepokerclub.com^$third-party
 ||muchospoker.com^$third-party
 ||naga-poker.com^$third-party
 ||nagapoker.biz^$third-party
 ||nagapoker.com^$third-party
-||nagapoker1.com^$third-party
 ||nagapoker88.com^$third-party
 ||nagatogel.com^$third-party
 ||nenenqq.com^$third-party
@@ -995,7 +976,6 @@ woof.tube#@#.adsbox
 ||playpokeronline.$third-party
 ||playwinpoker.com^$third-party
 ||poker24x7.com^$third-party
-||poker303.com^$third-party
 ||poker338a.com^$third-party
 ||poker4ever.com^$third-party
 ||pokerace.com^$third-party
@@ -1041,8 +1021,6 @@ woof.tube#@#.adsbox
 ||rumah-judi.com^$third-party
 ||rumahtaruhan.com^$third-party
 ||rumahtaruhan88.com^$third-party
-||samkokpoker.com^$third-party
-||samkoktoto.com^$third-party
 ||semarangtogel.com^$third-party
 ||setanjudi.com^$third-party
 ||sgptogel.com^$third-party
@@ -1084,7 +1062,6 @@ woof.tube#@#.adsbox
 ||togelgame.150m.com^$third-party
 ||togelholic.com^$third-party
 ||togeljakarta.com^$third-party
-||togellaos.com^$third-party
 ||togelm88.com^$third-party
 ||togelo.com^$third-party
 ||togelsemarang.com^$third-party
@@ -1103,11 +1080,8 @@ woof.tube#@#.adsbox
 ||totojt.com^$third-party
 ||totomaster.com^$third-party
 ||totos4d.com^$third-party
-||totosport99.com^$third-party
-||totost.com^$third-party
 ||truepoker.com^$third-party
 ||ubcpoker.com^$third-party
-||ultimatepoker.com^$third-party
 ||undiantogel.com^$third-party
 ||videopoker.com^$third-party
 ||warungjudi.com^$third-party
@@ -1117,9 +1091,7 @@ woof.tube#@#.adsbox
 ||webjuditerpercaya.com^$third-party
 ||websitejudi.com^$third-party
 ||wigobet.com^$third-party
-||wong-poker.net^$popup
 ||xjudi.com^$third-party
-||yogapoker.com^$third-party
 ||yourpokercash.com^$third-party
 ! *** abpindo:src/annoyances/annoyance_general_domain.txt ***
 /128cash.$image,third-party
