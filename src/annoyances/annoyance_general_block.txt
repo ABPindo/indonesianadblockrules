@@ -601,6 +601,7 @@
 /qqemas.
 /qqjempol.
 /qqjoker.
+/qqjoker.$image
 /qqnalo.
 /qqpilihan.
 /qqpokerplay.
@@ -3088,5 +3089,3 @@ totojitu.gif|$image
 ||zonawin.$third-party
 ||zynga365.$third-party
 ||zyngaqq.$third-party
-/ituqq.$image
-/qqjoker.$image

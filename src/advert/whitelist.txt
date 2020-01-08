@@ -51,8 +51,8 @@
 @@||game-kentang.blogspot.com^$generichide
 @@||google-analytics.com/analytics.js$script,domain=pricebook.co.id
 @@||hightech.web.id^$generichide
-@@||idsly.com^$generichide
 @@||idsly.com/webroot/js/ads.js$script,~third-party
+@@||idsly.com^$generichide
 @@||ijobanana.xyz^$generichide
 @@||illyasave.com^$generichide
 @@||indexmovie.download^$generichide

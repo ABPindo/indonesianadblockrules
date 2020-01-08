@@ -17,7 +17,7 @@ harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 dapurpacu.com###ads-vert-300
-premierexxi.com###ads_hd_bt
+premierexxi.com,premierexxi.net###ads_hd_bt
 premierexxi.com###ads_top_list
 tvkabel.net###adv
 www.streamingbokeps.co###advertisement
@@ -442,6 +442,7 @@ www.viki.com##.mod-advertisement-label
 cinemaindo.web.id,filmbagus21.info##.modal
 fastdrama.co##.modal-content
 nextren.grid.id##.mt20.top1
+nobarfilm21.net##.mvic-btn
 ns21.tv,ns21.us##.navbar-brand.bot
 detik.com##.normalbanner
 animeindo.id##.nyaa300
@@ -517,6 +518,7 @@ nontonlk21.live##.wpb-outer-wrap
 jalantikus.com##[class^="ad-"][class*="-container"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 omberbagi.com##[href$="/omberbagi"]
+nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
@@ -744,6 +746,3 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-nobarfilm21.net##.mvic-btn
-nontoncinema.org##[href$="/referral/nontoncinema"]
-premierexxi.net###ads_hd_bt
