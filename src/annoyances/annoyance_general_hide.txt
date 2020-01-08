@@ -2,8 +2,6 @@
 ###togel
 ##.judi
 ##.togel
-##[href^="http://tgks.vip"]
-##[href^="https://www.anaktogel88.net/"]
 ##a[href$="/77megabet"]
 ##a[href$="/adscantikqq"]
 ##a[href$="/adskartu66"]
@@ -932,6 +930,7 @@
 ##a[href^="http://terminal4d."]
 ##a[href^="http://terminalbet."]
 ##a[href^="http://tfp.sapphirum."]
+##a[href^="http://tgks.vip"]
 ##a[href^="http://themobiletracker."]
 ##a[href^="http://togel777."]
 ##a[href^="http://togelbet."]
@@ -1512,6 +1511,7 @@
 ##a[href^="https://www.IbcWin."]
 ##a[href^="https://www.aladincash7."]
 ##a[href^="https://www.aladincash7t."]
+##a[href^="https://www.anaktogel88.net/"]
 ##a[href^="https://www.aon-bet."]
 ##a[href^="https://www.aonbet."]
 ##a[href^="https://www.armaniqq."]
