@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202001080428
+! Version: 202001090441
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 08 Jan 2020 04:28 UTC
+! Last modified: 09 Jan 2020 04:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -795,7 +795,6 @@ bagas31.info##+js(abort-current-inline-script, atob, decodeURIComponent)
 @@||njiir.com^$generichide
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
-@@||oploverz.$elemhide
 @@||otakuindo.net^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|indozone.me|lewat.club|modecepat.com|sedot.link|www.nekopoi.web.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
