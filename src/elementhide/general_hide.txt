@@ -186,6 +186,7 @@
 ##.subiklan
 ##.text-center.adv
 ##.topadsense
+##[href$="/?ref=lk21ads"]
 ##[href="http://ig24.me"]
 ##[href^="//mellowads.com/"]
 ##a[alt="iklan" i]

@@ -335,6 +335,7 @@
 /pokerbola.$image,third-party
 /pokerboya.$image,third-party
 /pokergalaxy.$image,third-party
+/PokerHalo.$image,third-party
 /pokerintan.$image,third-party
 /pokermas99.$image,third-party
 /pokermon24.$image,third-party
@@ -1194,8 +1195,8 @@
 ||entertogel.$image,third-party
 ||eradominoqq.$image,third-party
 ||eraqq.$image,third-party
-||eze99.$image,third-party
-||eze99.$popup
+||eze99.me^$image,third-party
+||eze99.me^$popup
 ||ezebet.$image,third-party
 ||ezebet.$popup
 ||fairbet88.$image,third-party
