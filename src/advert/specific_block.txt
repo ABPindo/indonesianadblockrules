@@ -1,7 +1,9 @@
 $popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
 $subdocument,third-party,domain=ironysub.net
 $xmlhttprequest,domain=mangacanblog.com
-/floating-ads-bottom/$image,domain=sukamovie.club
+.gif$image,domain=lk21.london
+/floating-ads-bottom/*$image,domain=sukamovie.club
+/lebahmovie.com/wp-content/uploads/*.gif$image,domain=lebahmovie.com
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||158.69.54.218/img/closeX.png$image
