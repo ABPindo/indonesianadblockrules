@@ -191,3 +191,5 @@
 ##[href^="//mellowads.com/"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
+##.current.ujimodal.ujipopup
+##.show-first-ads
