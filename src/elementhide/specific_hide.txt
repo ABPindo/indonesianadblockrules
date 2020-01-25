@@ -138,7 +138,7 @@ mangafap.com###lbanner
 kabar2.com###leaderboard
 komikbaru.com###left-skyscraper
 nontonbokeps.com###left_ads_float_phonedevelop
-dewabioskop21.org###main-popup
+dewabioskop21.org,dwa21.org###main-popup
 dapurpacu.com###mid-banner
 dunia21.cx,ganool.watch,lk21tv.com,movies21.co###middle-banner
 fastdrama.co,hkfree.co###modal
@@ -514,6 +514,7 @@ teknologi.inilah.com##.wb-300x250
 www.medcom.id##.widebanner.banner
 cdramabase.com##.wpa
 nontonlk21.live##.wpb-outer-wrap
+dwa21.org##[class*="banner"]
 jalantikus.com##[class^="ad-"][class*="-container"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 omberbagi.com##[href$="/omberbagi"]
@@ -745,5 +746,3 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-dwa21.org##[class*="banner"]
-dwa21.org###main-popup
