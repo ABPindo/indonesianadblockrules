@@ -4,6 +4,7 @@
 ##.togel
 ##[href$="/bokepmobile"]
 ##[href^="http://toto228.com"]
+##[href^="http://www.menubola.life/"]
 ##[href^="https://bandarqq."]
 ##[href^="https://capsa365."]
 ##[href^="https://www.bandarqq."]
@@ -2162,6 +2163,7 @@
 ##img[alt="inidewa365" i]
 ##img[alt="intanbet" i]
 ##img[alt="iocbet" i]
+##img[alt="itcbet" i]
 ##img[alt="itucasino" i]
 ##img[alt="javtoys" i]
 ##img[alt="jayabet" i]
@@ -2263,5 +2265,3 @@
 ##img[alt="wigobet" i]
 ##img[alt="zeupoker" i]
 ##img[src="http://livesgp."]
-##img[alt="itcbet" i]
-##[href^="http://www.menubola.life/"]
