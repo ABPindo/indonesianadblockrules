@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 202001090443
-! Last modified: 09 Jan 2020 04:43 UTC
+! Version: 202002010135
+! Last modified: 01 Feb 2020 01:35 UTC
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
