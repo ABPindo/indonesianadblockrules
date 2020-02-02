@@ -36,7 +36,6 @@
 ||aenan.pw^$third-party
 ||afbcashidr.com^$popup,third-party
 ||ahcnxuepput.com^$popup
-||ailawlani.club^$third-party
 ||aj1052.online^$popup
 ||ajangiklangratis.com^$third-party
 ||alertpay.com^$third-party
@@ -82,8 +81,6 @@
 ||edomz.com^$third-party
 ||etoads.net^$popup
 ||etoads.net^$third-party
-||feed.monad-rtb.com^$third-party
-||feed.monadplug.com/propeller/*
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup
 ||furocmay.com^$popup
@@ -94,8 +91,6 @@
 ||hegarberetrof.pro^$popup
 ||herdethi.net^$third-party
 ||hitadsmedia.com^$third-party
-||iarfina.pw^$popup
-||iarfina.pw^$third-party
 ||iklan-laris.com^$third-party
 ||iklanads.com^$third-party
 ||iklanbarisgratis.com^$third-party
@@ -167,7 +162,6 @@
 ||popclck.net^$popup,third-party
 ||popunderjs.club^$popup,third-party
 ||presbanise.pw^$third-party
-||proglack.site^
 ||promobagus.com^$third-party
 ||promotioncamp.com^$third-party
 ||props.id^$third-party

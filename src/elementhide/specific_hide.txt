@@ -12,11 +12,9 @@ detik.com###adpoint5
 cinemaindo.web.id,filmapik.tv###ads
 dapurpacu.com###ads-728
 dapurpacu.com###ads-960-mid
-kumparan.com###ads-container
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
-dapurpacu.com###ads-vert-300
 premierexxi.com,premierexxi.net###ads_hd_bt
 premierexxi.com###ads_top_list
 tvkabel.net###adv
@@ -254,8 +252,6 @@ loveindonesia.com##.ad_990_80
 terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
-radioonline.co.id,www.radioonline.my##.add-box-side
-radioonline.co.id,www.radioonline.my##.add-box-top
 192.99.70.18,22cinema.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
@@ -361,7 +357,6 @@ juragan21.com##.cintasemprot_floating_banner_bottom
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
-bangka.tribunnews.com,grid.id,jogja.tribunnews.com,www.tribunnewswiki.com##.clearfix.ads__horizontal
 kompas.com##.clearfix.kcm__big.kcm
 kompas.com##.clearfix.kcm__rectangle.kcm
 kompas.com##.clearfix.kcm__top.kcm
