@@ -20,9 +20,7 @@
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
 @@||adsafelink.net/webroot/js/ads.js$script,~third-party
-@@||adturl.$generichide
 @@||adturl.com^$generichide
-@@||adturl.us^$generichide
 @@||advertising-indonesia.id^$~third-party
 @@||ainodorama.web.id^$generichide
 @@||akuno.net^$generichide
@@ -39,14 +37,12 @@
 @@||biargreget.top^$generichide
 @@||bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com|njiir.com|teknorizen.blogspot.com|www.maulandaru.com|www.razorlink.us
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
-@@||cat3movie.us^$generichide
 @@||cinemamkv.net^$generichide
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
 @@||dukun-cit.com^$generichide
 @@||dutaislam.com^$generichide
 @@||eirudo.com^$generichide
-@@||eramuslim.com^$generichide
 @@||gadget2reviews.com^$generichide
 @@||game-kentang.blogspot.com^$generichide
 @@||google-analytics.com/analytics.js$script,domain=pricebook.co.id
@@ -62,8 +58,6 @@
 @@||inwepo.co^$generichide
 @@||kabarviral.blog/js/ads.js$script,~third-party
 @@||kaze-batch.blogspot.com^$generichide
-@@||kazefuri.blogspot.com^$generichide
-@@||kazefuri.web.id^$generichide
 @@||klikshowtime.com^$generichide
 @@||komikcast.com^$generichide
 @@||komikindo.web.id^$generichide
@@ -80,7 +74,6 @@
 @@||nama.web.id^$generichide
 @@||nekonime.$generichide
 @@||nekonime.tv^$generichide
-@@||nekopoi.*/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
@@ -117,6 +110,8 @@ animanganews.com#@#.iklan
 aplikasipc.com#@#.afs_ads
 gurusd.web.id,kurikulum.co.id#@##adsense
 layarlebar21.org#@#.idmuvi-topplayer
+layarlebarxxi.com#@#.idmuvi-afterplayer
+layarlebarxxi.com#@#.idmuvi-topplayer
 mangalist.org#@#.adsbygoogle
 maulandaru.com#@#.adsbygoogle
 oomph.co.id#@#.shareit
