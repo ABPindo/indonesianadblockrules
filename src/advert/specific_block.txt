@@ -229,7 +229,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||numpangnonton.*/wp-content/uploads/*.gif$image
 ||pergi.klik-link.us/wpsafelink.js$script,domain=www.kazefuri.web.id
 ||playwebgame.com/banner/$third-party
-||porntrex.com/images/pt728.gif
 ||primbon.com/banner/ilmugendam.gif
 ||pulsk.com/img/x.png
 ||pwbjlbz.com^$domain=kompas.com
