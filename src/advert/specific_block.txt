@@ -1,7 +1,7 @@
 $popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
 $subdocument,third-party,domain=ironysub.net
 $xmlhttprequest,domain=mangacanblog.com
-.gif$image,domain=anime-indo.id|lk21.london
+.gif$image,domain=anime-indo.id|bioskopkerenin.org|lk21.london
 /floating-ads-bottom/*$image,domain=sukamovie.club
 /lebahmovie.com/wp-content/uploads/*.gif$image,domain=lebahmovie.com
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
@@ -34,7 +34,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|layarkeren.com|layarmovie21.co|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|www.lk21id.com|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|layarkeren.com|layarkeren.info|layarmovie21.co|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|www.lk21id.com|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
