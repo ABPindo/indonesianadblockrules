@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202002191417
+! Version: 202002200238
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 19 Feb 2020 14:17 UTC
+! Last modified: 20 Feb 2020 02:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2111,6 +2111,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /bolped77.$image,third-party
 /bosbobet.$image,third-party
 /bospoker.$image,third-party
+/bromopoker.$image,third-party
 /brotogel.$image,third-party
 /bsakong1.$image,third-party
 /bsakong2.$image,third-party
@@ -2136,6 +2137,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /dermaga4d.$image,third-party
 /detikbet.$image,third-party
 /dewa757.$image,third-party
+/dewabetQQ.$image,third-party
 /dewaboya.$image,third-party
 /dewadominoqq.$image,third-party
 /dewahoki.$image,third-party
@@ -2426,6 +2428,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /royaljackpot.$image,third-party
 /royalkasino.$image,third-party
 /royalpoker99.$image,third-party
+/ruangQQ.$image,third-party
 /rumahbokep.$image,third-party
 /sahabatarena.$image,third-party
 /sahamdomino.$image,third-party
@@ -2492,6 +2495,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /tuanbola.$image,third-party
 /tugupoker.$image,third-party
 /ubcwin.$image,third-party
+/unikpoker.$image,third-party
 /utamaqq.$image,third-party
 /vegas78bet.$image,third-party
 /vegasidn.$image,third-party
@@ -2987,7 +2991,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||boyapoker.$image,third-party
 ||boyaqq.$image,third-party
 ||bromopk.$image,third-party
-||bromopoker.$image,third-party
 ||brotogel.$image,third-party
 ||bsakong1.$image,third-party
 ||bsakong2.$image,third-party
@@ -4689,7 +4692,6 @@ zonabola.*##a[href^="http://bit.ly/"]
 ||ujungkontol.$image,third-party
 ||ujungkontol.$popup
 ||ulrnaga.$image,third-party
-||unikpoker.$image,third-party
 ||universal-qq.$image,third-party
 ||unogoal88.$image,third-party
 ||unogoal88.$popup
@@ -7088,6 +7090,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 -agenbet.$image
 -agenqq-$image
 -agungpoker.$image
+-bandarbetqq-$image
 -bandarkiu.$image
 -banner-togel-$image
 -bisabet.$image
@@ -7117,6 +7120,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 -itubandar-$image
 -jakartaqq-$image
 -jakartaqq.$image
+-jasacash.gif|$image
 -jasaqq-$image
 -jasaqq.$image
 -joker123_$image
