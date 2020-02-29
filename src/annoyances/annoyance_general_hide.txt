@@ -2,13 +2,19 @@
 ###togel
 ##.judi
 ##.togel
+##[href$="/exsapoker"]
 ##[href^="http://sq881sq.com/"]
 ##[href^="http://toto228.com"]
+##[href^="http://www.m388bet.me/"]
 ##[href^="http://www.menubola.life/"]
+##[href^="http://www.rumahcash7.com"]
 ##[href^="https://bandarqq."]
 ##[href^="https://capsa365."]
+##[href^="https://fivestarsbet.com"]
 ##[href^="https://www.bandarqq."]
 ##[href^="https://www.dewaqq."]
+##[href^="https://www.momoidnpoker.com"]
+##[href^="https://zetapoker99.com"]
 ##a[alt="QQJOKER" i]
 ##a[alt="Texaspoker" i]
 ##a[alt="capsapro" i]

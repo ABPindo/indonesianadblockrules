@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202002200658
+! Version: 202002291010
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 20 Feb 2020 06:58 UTC
+! Last modified: 29 Feb 2020 10:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -381,6 +381,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||dunia21s.*/wp-content/uploads/*.gif$image
 ||duniasex.ws/banner-
 ||dwanonton.*/wp-content/uploads/*.gif$image
+||dwanonton.com/static/banner/*.gif$image
 ||dwanonton.com/wp-content/uploads/*.gif$image
 ||ebsoft.web.id/wp-content/banners/
 ||eramuslim.com/banners
@@ -806,7 +807,7 @@ nontonsub.top##+js(window.open-defuser)
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|indozone.me|lewat.club|modecepat.com|sedot.link|www.nekopoi.web.id
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|indozone.me|lewat.club|modecepat.com|sedot.link|www.infolokerserang.com|www.nekopoi.web.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||rawcdn.githack.com/KecoaTerbank/safelink/$script,domain=eleventhlevelinteractive.com
@@ -4013,6 +4014,8 @@ woof.tube#@#.adsbox
 /bandarq-$image
 /bandarqq-$image
 /banner-lapakqq.$image
+/banner/hokicash/*$image
+/banner/kartuacak/*$image
 /bet2indo-$image
 /bet2poker-$image
 /bet2poker_$image
@@ -4039,6 +4042,7 @@ woof.tube#@#.adsbox
 /dotaqiu-$image
 /doyangoyang.gif|$image
 /dpbola.gif|$image
+/duniacash-$image
 /duniavegas-$image
 /elangqq-$image
 /emasbet-$image
@@ -4050,11 +4054,13 @@ woof.tube#@#.adsbox
 /fifaqq-$image
 /garudaqq-$image
 /gerhanaqq-$image
+/gilapoker-$image
 /goalgoal365-$image
 /goodbola-bannerfilm.gif|
 /hoki-qq-$image
 /hoki365-$image
 /hokibet-$image
+/hokicash-$image
 /ibcqq.$image
 /iblis4d-$image
 /idx-promo-$image
@@ -4085,13 +4091,17 @@ woof.tube#@#.adsbox
 /klik66-$image
 /klik66banner.gif|
 /klikqq-$image
+/klikvegas-$image
 /lapakqq-$image
 /lazabet-$image
+/legendpoker-$image
 /ligacapsa-$image
 /ligahokie-$image
 /ligapoker-$image
 /lintasqq-$image
 /liveklik-baru.$image
+/loketpoker-$image
+/lumbungpoker-$image
 /luxury-pop-$image
 /luxury777-$image
 /luxury777.gif|
@@ -4126,6 +4136,7 @@ woof.tube#@#.adsbox
 /pendekarqq-$image
 /pkutama2-$image
 /poker24s-$image
+/poker7club-$image
 /pokerastro-$image
 /pokerintan-$image
 /pokernusa-$image
@@ -4183,6 +4194,7 @@ woof.tube#@#.adsbox
 /wigo.gif|
 /wigobet-$image
 /winning365-$image
+/wismaqq-$image
 /won77.$image
 /wp-content/uploads/*/luxury.gif$image
 /yoyopoker-$image

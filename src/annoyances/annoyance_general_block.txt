@@ -127,6 +127,8 @@
 /bandarq-$image
 /bandarqq-$image
 /banner-lapakqq.$image
+/banner/hokicash/*$image
+/banner/kartuacak/*$image
 /bet2indo-$image
 /bet2poker-$image
 /bet2poker_$image
@@ -153,6 +155,7 @@
 /dotaqiu-$image
 /doyangoyang.gif|$image
 /dpbola.gif|$image
+/duniacash-$image
 /duniavegas-$image
 /elangqq-$image
 /emasbet-$image
@@ -164,11 +167,13 @@
 /fifaqq-$image
 /garudaqq-$image
 /gerhanaqq-$image
+/gilapoker-$image
 /goalgoal365-$image
 /goodbola-bannerfilm.gif|
 /hoki-qq-$image
 /hoki365-$image
 /hokibet-$image
+/hokicash-$image
 /ibcqq.$image
 /iblis4d-$image
 /idx-promo-$image
@@ -199,13 +204,17 @@
 /klik66-$image
 /klik66banner.gif|
 /klikqq-$image
+/klikvegas-$image
 /lapakqq-$image
 /lazabet-$image
+/legendpoker-$image
 /ligacapsa-$image
 /ligahokie-$image
 /ligapoker-$image
 /lintasqq-$image
 /liveklik-baru.$image
+/loketpoker-$image
+/lumbungpoker-$image
 /luxury-pop-$image
 /luxury777-$image
 /luxury777.gif|
@@ -240,6 +249,7 @@
 /pendekarqq-$image
 /pkutama2-$image
 /poker24s-$image
+/poker7club-$image
 /pokerastro-$image
 /pokerintan-$image
 /pokernusa-$image
@@ -297,6 +307,7 @@
 /wigo.gif|
 /wigobet-$image
 /winning365-$image
+/wismaqq-$image
 /won77.$image
 /wp-content/uploads/*/luxury.gif$image
 /yoyopoker-$image

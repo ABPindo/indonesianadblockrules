@@ -283,6 +283,7 @@ myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 158.69.54.218,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 animebatchs.com,nanime.in,www.juragan-anime.net##.banner
+dwanonton.com##.banner-common
 dewabioskop21.asia,dewabioskop21.org,www.dewabioskop21.org##.banner-left
 dewabioskop21.org,www.dewabioskop21.org##.banner-middle
 dewabioskop21.asia,dewabioskop21.org,www.dewabioskop21.org##.banner-right
@@ -412,6 +413,7 @@ indonesiamovies21.com##.ktz-banneraftercontent
 anime17.net##.ktz_banner
 faktabali.com##.ktzsingle-bannerright
 kumpulmanga.org##.kzl-header.kzl
+dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 b201.info##.lenyap
 belapendidikan.com##.majalahpro-core-floatbanner
@@ -444,6 +446,7 @@ okezone.com##.rc-ad-300x250
 indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-sol
 unixmen.com##.reveal-modal-bg
+dwanonton.com##.right.banner-vertical
 senimovie.info##.rsABlock
 bokepml.online##.s-sponsor
 www.ibugil.net##.semprotpokemon_1
@@ -611,6 +614,7 @@ dunia21.*##a[href^="https://bit.ly/"]
 dunia21s.*###previewBox3
 dunia21s.*###previewBox4
 duniafilm21.*##.ads
+dwanonton.*##.banner-common
 fb21.*###fbawah
 fb21.*###previewBox1
 fb21.*###previewBox2
