@@ -241,6 +241,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||senimovies.*/wp-content/uploads/*.gif$image
 ||serunonton.*/wp-content/uploads/*.gif$image
 ||shorten.sh/js/full-page-script.js$script
+||sobatkeren.club/img/banner/*.gif$image
 ||sodasusu.com/banner/
 ||solopos.com/banner/
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
