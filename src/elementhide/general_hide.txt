@@ -52,6 +52,7 @@
 ###iklan2
 ###iklan3
 ###iklan4
+###iklan700
 ###iklan_atas
 ###iklan_bawah
 ###iklan_kanan
@@ -193,4 +194,3 @@
 ##[href^="//mellowads.com/"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
-###iklan700
