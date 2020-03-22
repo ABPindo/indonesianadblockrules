@@ -163,9 +163,11 @@ $xmlhttprequest,domain=mangacanblog.com
 ||kotakgame.com/images/bnr/partner/*.jpg
 ||krucil.net/banner/
 ||kumpulblogger.com/minibanner/
+||kuyhaa-me.com/meongvpn.js$script,domain=www.kuyhaa-me.com
 ||lapak-online.net^$popup,third-party
 ||layarkaca21.*/assets/*.gif$image
 ||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
+||layshyjar.com^$script,domain=anime-indo.id
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
@@ -268,5 +270,3 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
-||kuyhaa-me.com/meongvpn.js$script,domain=www.kuyhaa-me.com
-||layshyjar.com^$script,domain=anime-indo.id
