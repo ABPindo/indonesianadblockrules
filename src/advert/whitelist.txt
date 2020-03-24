@@ -6,7 +6,7 @@
 @@.png#*/ad/$image,domain=ad4msan.com
 @@.png#/*/ad/$image,domain=www.mangacanblog.com
 @@.png#/*/adv/$image,domain=ijobanana.xyz
-@@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|biargreget.top|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sdrama.com|shirosafe.web.id|www.sanjayaops.com
+@@.png#/adaffiliate_/$image,domain=anisubindo.video|awsubs.co|biargreget.top|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sdrama.com|shirosafe.web.id|www.sanjayaops.com
 @@/advertisement-$script,domain=duosia.id
 @@/advertisement.$script,domain=kumpulmanga.org|mangalist.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
 @@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
@@ -15,7 +15,6 @@
 @@||.bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com
 @@||1idsly.com^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
-@@||ad4msan.$generichide
 @@||ad4msan.com^$generichide
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
@@ -26,8 +25,6 @@
 @@||akuno.net^$generichide
 @@||anibatch.me^$generichide
 @@||animenonton.tv^$generichide
-@@||anisubindo.$generichide
-@@||anoboy.$generichide
 @@||apkmod.id^$generichide
 @@||asiancine.com^$generichide
 @@||autoride.pw^$generichide
@@ -72,12 +69,10 @@
 @@||muhammadyoga.me^$generichide
 @@||nama.web.id^$generichide
 @@||nanonime.com^$generichide
-@@||nekonime.$generichide
 @@||nekonime.tv^$generichide
 @@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
-@@||neumanga.$generichide
 @@||neumanga.tv^$generichide
 @@||ngantukberat.me/wp-content/plugins/wp-safelink-v3/assets/fuckadblock.js$script,~third-party
 @@||ngantukberat.me^$generichide
