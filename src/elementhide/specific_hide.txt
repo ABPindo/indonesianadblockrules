@@ -734,3 +734,6 @@ bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
 nekonime.com##[href^="//wizliebeg.com/"]
+drakorindo.fun###sg-popup-content-wrapper-3560
+drakorindo.fun###sgpb-popup-dialog-main-div-wrapper
+drakorindo.fun##.sgpb-popup-overlay.sgpb-popup-overlay-3560.sgpb-theme-6-overlay
