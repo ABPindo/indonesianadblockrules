@@ -6,7 +6,7 @@
 @@.png#*/ad/$image,domain=ad4msan.com
 @@.png#/*/ad/$image,domain=www.mangacanblog.com
 @@.png#/*/adv/$image,domain=ijobanana.xyz
-@@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|biargreget.top|dutaislam.com|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sdrama.com|shirosafe.web.id|www.sanjayaops.com
+@@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|biargreget.top|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sdrama.com|shirosafe.web.id|www.sanjayaops.com
 @@/advertisement-$script,domain=duosia.id
 @@/advertisement.$script,domain=kumpulmanga.org|mangalist.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
 @@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
@@ -41,7 +41,6 @@
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
 @@||dukun-cit.com^$generichide
-@@||dutaislam.com^$generichide
 @@||eirudo.com^$generichide
 @@||gadget2reviews.com^$generichide
 @@||game-kentang.blogspot.com^$generichide
