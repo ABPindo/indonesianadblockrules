@@ -11,6 +11,7 @@
 @@/advertisement.$script,domain=kumpulmanga.org|mangalist.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
 @@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
 @@/js/ads.js$script,domain=adlink.pw|adsafelink.net|akuno.net|blogrp.me|ceklink.co|idsly.net|kabarviral.blog|lewat.club|modecepat.com|safe.mirrordown.com|templink.org|virtualdata.me
+@@logo*.png#*/ads/$image,domain=anoboy.best
 @@logo*.png#*/ads/$image,~third-party
 @@||.bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com
 @@||1idsly.com^$generichide
@@ -25,6 +26,7 @@
 @@||akuno.net^$generichide
 @@||anibatch.me^$generichide
 @@||animenonton.tv^$generichide
+@@||anoboy.best^$generichide
 @@||apkmod.id^$generichide
 @@||asiancine.com^$generichide
 @@||autoride.pw^$generichide
@@ -115,5 +117,3 @@ qqcinema21.com#@#.headads
 short.awsubs.co#@#.iklan
 sporcle.com#@#.remodal
 woof.tube#@#.adsbox
-@@||anoboy.best^$generichide
-@@logo*.png#*/ads/$image,domain=anoboy.best
