@@ -732,3 +732,4 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
+dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
