@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202003220919
+! Version: 202003240146
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 22 Mar 2020 09:19 UTC
+! Last modified: 24 Mar 2020 01:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -738,7 +738,7 @@ kawanfilm21.org#@#+js(abort-current-inline-script, adtival_base64_encode)
 @@.png#*/ad/$image,domain=ad4msan.com
 @@.png#/*/ad/$image,domain=www.mangacanblog.com
 @@.png#/*/adv/$image,domain=ijobanana.xyz
-@@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|biargreget.top|dutaislam.com|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sdrama.com|shirosafe.web.id|www.sanjayaops.com
+@@.png#/adaffiliate_/$image,domain=anisubindo.video|anoboy.id|awsubs.co|biargreget.top|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sdrama.com|shirosafe.web.id|www.sanjayaops.com
 @@/advertisement-$script,domain=duosia.id
 @@/advertisement.$script,domain=kumpulmanga.org|mangalist.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
 @@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
@@ -773,7 +773,6 @@ kawanfilm21.org#@#+js(abort-current-inline-script, adtival_base64_encode)
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
 @@||dukun-cit.com^$generichide
-@@||dutaislam.com^$generichide
 @@||eirudo.com^$generichide
 @@||gadget2reviews.com^$generichide
 @@||game-kentang.blogspot.com^$generichide
@@ -1488,6 +1487,7 @@ detik.com##.normalbanner
 animeindo.id##.nyaa300
 animeindo.id##.nyaa728
 detik.com##.otp_banner_close
+dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
 susterbokep.com##.overlay
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
