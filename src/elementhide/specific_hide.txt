@@ -738,3 +738,6 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
+www.kabargames.id##.legend_banner-container
+www.kabargames.id##.stickybanner
+www.kabargames.id###main-banner-middle
