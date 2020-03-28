@@ -194,5 +194,6 @@
 ##[href="https://bit.ly/jayapokerbanner"]
 ##[href="https://bit.ly/totobetbanner"]
 ##[href^="//mellowads.com/"]
+##[id^="rn_ad_native_"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]

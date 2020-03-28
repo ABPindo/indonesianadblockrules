@@ -234,6 +234,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||nt1.co/js/jquery.floating_popup.$script
 ||numpanglewat.com^$third-party
 ||numpangnonton.*/wp-content/uploads/*.gif$image
+||pastebin.com/raw/*$script,domain=tokubatch.com
 ||pergi.klik-link.us/wpsafelink.js$script,domain=www.kazefuri.web.id
 ||playwebgame.com/banner/$third-party
 ||primbon.com/banner/ilmugendam.gif
@@ -272,4 +273,3 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
-||pastebin.com/raw/*$script,domain=tokubatch.com

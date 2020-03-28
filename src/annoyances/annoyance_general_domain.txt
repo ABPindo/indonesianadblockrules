@@ -181,6 +181,7 @@
 /imcpoker.$image,third-party
 /incarqq.$image,third-party
 /indorajaqq.$image,third-party
+/indotogel.$image
 /indowin99.$image,third-party
 /indowins.$image,third-party
 /inidomino.$image,third-party
@@ -263,6 +264,7 @@
 /luxury-top.$image,third-party
 /m88domino.$image,third-party
 /mabesqq.$image,third-party
+/macaubet.$image
 /macaubet.$image,third-party
 /mahkotabola.$image,third-party
 /mahkotaqq.$image,third-party
@@ -2774,5 +2776,3 @@
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/indotogel.$image
-/macaubet.$image
