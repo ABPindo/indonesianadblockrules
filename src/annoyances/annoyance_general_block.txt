@@ -13,6 +13,7 @@
 -cantikqq-728.gif|$image
 -capsa365-$image
 -capsa365.$image
+-capsaqq-$image
 -cariqq-$image
 -dewatangkas-$image
 -dewiqq.$image
@@ -27,6 +28,7 @@
 -hitsbola-*.gif|$image
 -hoki365-$image
 -hoki365.$image
+-hokicapsa-$image
 -hokiqq-$image
 -incarqq.$image
 -indomaxbet-$image
@@ -99,6 +101,8 @@
 /526bet-$image
 /728-x-90-$image
 /BANNER-liga88-$image
+/Banner-Poker$image,third-party
+/Banner-Suhubola-$image,third-party
 /ITCBET.gif|$image
 /NIKMATIQQ.$image
 /aabet.$image
@@ -106,6 +110,7 @@
 /abgqq.$image
 /acehbola-$image
 /acehpoke-$image
+/adaqq-$image,third-party
 /adsimontok/*$image
 /afapoker-$image
 /afapoker_$image
