@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202004060559
+! Version: 202004100817
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 06 Apr 2020 05:59 UTC
+! Last modified: 10 Apr 2020 08:17 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -103,6 +103,7 @@
 ||etoads.net^$third-party
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup
+||fryawlauk.com^$script
 ||furocmay.com^$popup
 ||fuyuap.xyz^
 ||groucign.com^$third-party
@@ -829,7 +830,7 @@ kawanfilm21.org#@#+js(abort-current-inline-script, adtival_base64_encode)
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|indozone.me|lewat.club|modecepat.com|sedot.link|www.infolokerserang.com|www.nekopoi.web.id
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|illyasave.com|indozone.me|lewat.club|modecepat.com|sedot.link|www.infolokerserang.com|www.nekopoi.web.id|www.pugam.com
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||rawcdn.githack.com/KecoaTerbank/safelink/$script,domain=eleventhlevelinteractive.com
@@ -1394,6 +1395,7 @@ bharian.com.my##.bh-ad
 bharian.com.my##.block-bh-googledfp
 indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-modal
 ceklink.co##.blog-content
+103.194.171.75,idtube.me##.bm.overlay
 anime17.net,www.cosmogirl.co.id##.bnr
 bioskop99.me##.bot.ads
 beritagar.id##.bottom-20.box-widget.right-300.banner300x250.banner
@@ -1576,7 +1578,10 @@ www.medcom.id##.widebanner.banner
 cdramabase.com##.wpa
 nontonlk21.live##.wpb-outer-wrap
 dwa21.org##[class*="banner"]
+kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
+mydramalist.com##[class^=spnsr-top-]
+mydramalist.com##[class^=spnsr-wrapper-]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 omberbagi.com##[href$="/omberbagi"]
 nontoncinema.org##[href$="/referral/nontoncinema"]
@@ -4900,6 +4905,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="https://fivestarsbet.com"]
 ##[href^="https://hahatogel.net"]
 ##[href^="https://hokianda.com"]
+##[href^="https://indoxbet.com"]
 ##[href^="https://jcapsa.com"]
 ##[href^="https://judiayambangkok.net"]
 ##[href^="https://m303bet."]

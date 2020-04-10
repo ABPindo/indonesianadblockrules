@@ -326,6 +326,7 @@ bharian.com.my##.bh-ad
 bharian.com.my##.block-bh-googledfp
 indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-modal
 ceklink.co##.blog-content
+103.194.171.75,idtube.me##.bm.overlay
 anime17.net,www.cosmogirl.co.id##.bnr
 bioskop99.me##.bot.ads
 beritagar.id##.bottom-20.box-widget.right-300.banner300x250.banner
@@ -508,7 +509,10 @@ www.medcom.id##.widebanner.banner
 cdramabase.com##.wpa
 nontonlk21.live##.wpb-outer-wrap
 dwa21.org##[class*="banner"]
+kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
+mydramalist.com##[class^=spnsr-top-]
+mydramalist.com##[class^=spnsr-wrapper-]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 omberbagi.com##[href$="/omberbagi"]
 nontoncinema.org##[href$="/referral/nontoncinema"]
