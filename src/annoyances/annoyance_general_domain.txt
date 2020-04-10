@@ -267,7 +267,6 @@
 /luxury-top.$image,third-party
 /m88domino.$image,third-party
 /mabesqq.$image,third-party
-/macaubet.$image
 /macaubet.$image,third-party
 /mahkotabola.$image,third-party
 /mahkotaqq.$image,third-party
@@ -769,7 +768,6 @@
 ||astonbola.$image,third-party
 ||astonbola.$popup
 ||astonwin.$image,third-party
-||astonwin.$popup
 ||astrototo.$image,third-party
 ||astrototo.$popup
 ||auxbet.$image,third-party
@@ -1767,7 +1765,6 @@
 ||mabosbet.$popup
 ||macan365.$image,third-party
 ||macantogel.$image,third-party
-||macaubet.$image,third-party
 ||maenpokerasli.$image,third-party
 ||maenpokerasli.$popup
 ||mahkotabola.$image,third-party
@@ -1988,7 +1985,6 @@
 ||oppabet.$image,third-party
 ||oppopoker.$image,third-party
 ||opuspoker.$image,third-party
-||opuspoker.$popup
 ||orientalpoker.$image,third-party
 ||orientalpoker.$popup
 ||otto4d.$image,third-party
@@ -2429,7 +2425,6 @@
 ||star88bola.$image,third-party
 ||star88bola.$popup
 ||star88win.$image,third-party
-||star88win.$popup
 ||starbola88.$image,third-party
 ||starcasino88.$image,third-party
 ||starcasino88.$popup

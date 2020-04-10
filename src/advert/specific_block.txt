@@ -168,7 +168,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||lapak-online.net^$popup,third-party
 ||layarkaca21.*/assets/*.gif$image
 ||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
-||layshyjar.com^$script,domain=anime-indo.id
 ||lendir.org/banner/
 ||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
