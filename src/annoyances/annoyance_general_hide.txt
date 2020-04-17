@@ -1,6 +1,8 @@
 ###judi
 ###togel
 ##.judi
+##.lazyloaded.dominowalet
+##.lazyloaded.happypoker
 ##.togel
 ##[href$="/exsapoker"]
 ##[href=^"http://imcqq."]
@@ -52,6 +54,8 @@
 ##[href^="https://www.mpo189.org"]
 ##[href^="https://zetapoker99.com"]
 ##[href^="https://zeuspkv.com"]
+##a[alt="AHABET" i]
+##a[alt="INDOTOGEL" i]
 ##a[alt="QQJOKER" i]
 ##a[alt="Texaspoker" i]
 ##a[alt="capsapro" i]
@@ -1616,6 +1620,7 @@
 ##a[title="7naga toto" i]
 ##a[title="AFAPOKER" i]
 ##a[title="AGEN JUDI" i]
+##a[title="AHABET" i]
 ##a[title="AVOQQ" i]
 ##a[title="AWBET" i]
 ##a[title="AduQQ" i]
@@ -1696,6 +1701,7 @@
 ##a[title="IBUQQ" i]
 ##a[title="ID88.Com" i]
 ##a[title="IMCQQ" i]
+##a[title="INDOTOGEL" i]
 ##a[title="ISOPOKER " i]
 ##a[title="ITCBET" i]
 ##a[title="Ibosport" i]
@@ -1975,6 +1981,7 @@
 ##img[alt="7naga toto" i]
 ##img[alt="AFAPOKER" i]
 ##img[alt="AGEN JUDI" i]
+##img[alt="AHABET" i]
 ##img[alt="AVOQQ" i]
 ##img[alt="AWBET" i]
 ##img[alt="AduQQ" i]
@@ -2053,6 +2060,7 @@
 ##img[alt="HokiQQ" i]
 ##img[alt="IBUQQ" i]
 ##img[alt="IMCQQ" i]
+##img[alt="INDOTOGEL" i]
 ##img[alt="ISOPOKER " i]
 ##img[alt="Ibosport" i]
 ##img[alt="Indomaxbet" i]
@@ -2329,6 +2337,8 @@
 ##img[class="happypoker" i]
 ##img[src="http://livesgp."]
 ##img[title=" situs judi bola" i]
+##img[title="AHABET" i]
+##img[title="INDOTOGEL" i]
 ##img[title="PLAY303" i]
 ##img[title="QQHOK" i]
 ##img[title="kokipoker" i]
