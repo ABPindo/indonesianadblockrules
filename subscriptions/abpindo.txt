@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202004261034
+! Version: 202004270939
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 26 Apr 2020 10:34 UTC
+! Last modified: 27 Apr 2020 09:39 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -147,6 +147,7 @@
 ||ld82ydd.com^$popup
 ||leoceran.pw^$popup
 ||lokeriklan.com^$third-party
+||lopzitpup.com^$script
 ||lpaizureik.com^$popup
 ||luven.xyz^$popup
 ||luven.xyz^$third-party
@@ -868,6 +869,7 @@ woof.tube#@#.adsbox
 ###ads_banner_left
 ###ads_banner_left1
 ###ads_banner_right
+###ads_hd_bt
 ###adsbawah1
 ###adsimgxatas
 ###adsimgxatass
@@ -4884,6 +4886,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="https://agpkv.com"]
 ##[href^="https://bandarqq."]
 ##[href^="https://bebasjudi88.com"]
+##[href^="https://bukaipo.com"]
 ##[href^="https://capsa365."]
 ##[href^="https://capsaratu."]
 ##[href^="https://dominowalet99.com"]
@@ -7186,6 +7189,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="ARENAQQ" i]
 ##img[alt="ARTISQQ" i]
 ##img[alt="ASEANQQ" i]
+##img[alt="ASIAFORBET" i]
 ##img[alt="ASIANPOKER88" i]
 ##img[alt="ASIAQQ" i]
 ##img[alt="ASIKBANDARQQ" i]
@@ -7330,6 +7334,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="FAIRQQ" i]
 ##img[alt="FIFAQQ" i]
 ##img[alt="FUNDOMINO" i]
+##img[alt="G11BET" i]
 ##img[alt="GADISQQ" i]
 ##img[alt="GARAMPOKER" i]
 ##img[alt="GARENAQQ" i]
@@ -7841,6 +7846,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[src="http://livesgp."]
 ##img[title=" situs judi bola" i]
 ##img[title="AHABET" i]
+##img[title="ASIAFORBET" i]
+##img[title="G11BET" i]
 ##img[title="INDOTOGEL" i]
 ##img[title="PLAY303" i]
 ##img[title="QQHOK" i]
