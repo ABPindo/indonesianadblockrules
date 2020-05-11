@@ -744,3 +744,5 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
+139.99.120.222##.ban_empat
+139.99.120.222##[href^="https://bit.ly/"]
