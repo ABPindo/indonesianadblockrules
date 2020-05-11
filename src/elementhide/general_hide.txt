@@ -185,6 +185,7 @@
 ##.show-first-ads
 ##.simple_advert
 ##.single_ad_728x90
+##.skin-iklan
 ##.subiklan
 ##.text-center.adv
 ##.topadsense
@@ -194,7 +195,6 @@
 ##[href="https://bit.ly/totobetbanner"]
 ##[href^="//mellowads.com/"]
 ##[id^="rn_ad_native_"]
+##[src="/assets/kdslot.gif"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
-##.skin-iklan
-##[src="/assets/kdslot.gif"]
