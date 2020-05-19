@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202005190913
+! Version: 202005192241
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 19 May 2020 09:13 UTC
+! Last modified: 19 May 2020 22:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpindo.blogspot.com/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -163,6 +163,7 @@
 ||offerjuice.me^$popup,third-party
 ||ofphanpytor.com^$popup
 ||ojeergoy.com^
+||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
 ||olmsoneenh.info^$third-party
 ||onclkds.com^$popup,third-party
@@ -4865,9 +4866,11 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##.togel
 ##[href$="/exsapoker"]
 ##[href=^"http://imcqq."]
+##[href^="http://99rolet.net"]
 ##[href^="http://aduqq55."]
 ##[href^="http://idpialaqq."]
 ##[href^="http://indoforbet.com"]
+##[href^="http://pelakor.org"]
 ##[href^="http://pemburujanda.net"]
 ##[href^="http://qqgaming88.com"]
 ##[href^="http://qqsenang.net"]
@@ -4876,6 +4879,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="http://toto228.com"]
 ##[href^="http://www.hokicashwin.com"]
 ##[href^="http://www.king88hoki.com"]
+##[href^="http://www.kokipoker.net"]
 ##[href^="http://www.m388bet.me/"]
 ##[href^="http://www.maxbetqq.net"]
 ##[href^="http://www.menubola.life/"]
