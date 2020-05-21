@@ -4,7 +4,7 @@
 ##.lazyloaded.dominowalet
 ##.lazyloaded.happypoker
 ##.togel
-##[href$="/exsapoker"]
+##a[href$="/exsapoker"]
 ##[href^="http://imcqq."]
 ##[href^="http://99rolet.net"]
 ##[href^="http://aduqq55."]
@@ -3014,3 +3014,7 @@
 ##img[title="oriqq" i]
 ##img[title="pokerlounge99" i]
 ##[href^="https://luxury138.cc"]
+##[href^="http://1001win.fun"]
+##img[alt="1001win" i]
+##[href^="http://qqangpao.net"]
+##img[alt="iklan qqangpao" i]
