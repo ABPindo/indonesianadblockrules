@@ -5,7 +5,7 @@
 ##.lazyloaded.happypoker
 ##.togel
 ##[href$="/exsapoker"]
-##[href=^"http://imcqq."]
+##[href^="http://imcqq."]
 ##[href^="http://99rolet.net"]
 ##[href^="http://aduqq55."]
 ##[href^="http://idpialaqq."]
