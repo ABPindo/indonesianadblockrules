@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202005240936
+! Version: 202005241020
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 24 May 2020 09:36 UTC
+! Last modified: 24 May 2020 10:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -49,7 +49,6 @@
 ||afbcashidr.com^$popup,third-party
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
-||ajangiklangratis.com^$third-party
 ||alertpay.com^$third-party
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
@@ -90,15 +89,12 @@
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
-||elfirkelk.com^$script
 ||epfcfhtjxqd.com^$popup
 ||etoads.net^$popup
 ||etoads.net^$third-party
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup
 ||frpiksdeygy.com^$popup
-||frpiksdeygy.com^$third-party
-||fryawlauk.com^$script
 ||furocmay.com^$popup
 ||groucign.com^$third-party
 ||groupiklan.com^$third-party
@@ -121,7 +117,6 @@
 ||iklanhemat.com^$third-party
 ||iklanhoki.com^$third-party
 ||iklanoke.com^$third-party
-||iklantanpadaftar.com^$third-party
 ||iklantelevisi.com^$third-party
 ||iklantext.com^$third-party
 ||iklantop.net^$third-party
@@ -166,7 +161,6 @@
 ||ojeergoy.com^
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
-||olmsoneenh.info^$third-party
 ||onclkds.com^$popup,third-party
 ||openadserving.com^$third-party
 ||padssup.com^$third-party
@@ -213,7 +207,6 @@
 ||syndopop.com^$popup
 ||teliad.com^$third-party
 ||theclickers.net^$third-party
-||thesandonesof.info^$third-party
 ||tidnqztumpnk.com^$popup
 ||tinfunshe.club^$script
 ||tinggalklik.com^$third-party
@@ -237,7 +230,6 @@
 ||whjibbprhng.com^$popup,third-party
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
-||wizliebeg.com^$script
 ||www.iwtserve.com^$popup
 ||www.olenation.org^$popup
 ||yesads.com^$third-party
@@ -861,6 +853,7 @@ qqcinema21.com#@#.headads
 short.awsubs.co#@#.iklan
 sporcle.com#@#.remodal
 woof.tube#@#.adsbox
+www.eramuslim.com#@#.adsbygoogle
 ! ---------------------------- annoyance ------------------------------!
 ! *** abpindo:src/annoyances/annoyance_thirdparty.txt ***
 ||24hpoker.com^$third-party
@@ -4168,7 +4161,6 @@ woof.tube#@#.adsbox
 /obobet-$image
 /olopoker-$image
 /opuspoker-$image
-/oriqq728x90.gif|$image
 /pemainkasino-$image
 /pendekarqq-$image
 /pkutama2-$image
