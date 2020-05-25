@@ -37,7 +37,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.xyz|layarmovie21.co|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|www.lk21id.com|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.xyz|layarmovie21.co|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|www.lk21id.com|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||cat3movie.us/banners/
 ||cat3movie.us/popup.js
@@ -119,7 +119,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||hightech.web.id^*/?site=$popup
 ||hotabis.com/wp-content/uploads/*.gif$image
 ||i.ibb.co/*.gif$image,domain=kazefuri.web.id
-||i.imgur.com/*.gif$image,domain=abgbugil.net|animebatchs.com|ayononton.co|bokep24.site|capcus.net|cinemaindo.web.id|gudangfilm.top|ibugil.net|indobugil.net|kabar2.com|kikil.net|ngobrolbola.com|sodasusu.com|zonalendir.net
+||i.imgur.com/*.gif$image,domain=abgbugil.net|animebatchs.com|ayononton.co|bokep24.site|capcus.net|cinemaindo.web.id|gudangfilm.top|ibugil.net|indobugil.net|kabar2.com|kikil.net|nekopoi.care|ngobrolbola.com|sodasusu.com|zonalendir.net
 ||i1.wp.com/ryuukoi.web.id/wp-content/uploads/*/antiadblock$image
 ||id.hao123.com/resource/id/banner/
 ||id.techinasia.com/OneSignalSDKWorker.js
@@ -207,6 +207,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||n21.*/wp-content/uploads/*.gif$image
+||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||newlk21.*/wp-content/uploads/*.gif$image
 ||nobartv.com/adsLoader/$xmlhttprequest
 ||nobartv.com/img/banner/*.gif$image

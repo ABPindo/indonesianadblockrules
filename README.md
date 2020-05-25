@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/ABPindo%202.png" width="240"></p>
+<p align="center"><img src="https://github.com/ABPindo/indonesianadblockrules/raw/master/src/ABPindo%202.png" width="240"></p>
 
 # ABPindo
 ABPindo merupakan filter tambahan untuk melengkapi [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) memblokir iklan mengganggu di situs berbahasa Indonesia dan Malaysia. ABPindo menggunakan sintak [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters), dan kompatibel dengan pengaya/ekstensi [uBlock](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), atau adblocker sejenisnya.
@@ -22,13 +22,13 @@ ABPindo merupakan filter tambahan untuk melengkapi [EasyList](https://subscribe.
 
 ## Ingin berkontribusi
 Masih banyak situs yang terlewat, entah karena situsnya telah diperbaharui atau karena situsnya belum dijangkau ABPindo. Oleh karena itu jika menemukan hal-hal tersebut bisa membantu kami melalui
-- [GitHub issue tracker](https://github.com/ABPindo/indonesianadblockrules/issues) 
-- [Submit a pull request](https://github.com/ABPindo/indonesianadblockrules/pulls) 
+- [GitHub issue tracker](https://github.com/ABPindo/indonesianadblockrules/issues)
+- [Submit a pull request](https://github.com/ABPindo/indonesianadblockrules/pulls)
 
 ## Pengaturan standar
-Pengaturan standar kami sebagai berikut: 
-- Peramban [Firefox](https://www.mozilla.org/id/firefox/) 
-- Pengaya [uBlock](https://github.com/gorhill/uBlock#installation) 
+Pengaturan standar kami sebagai berikut:
+- Peramban [Firefox](https://www.mozilla.org/id/firefox/)
+- Pengaya [uBlock](https://github.com/gorhill/uBlock#installation)
 - Filter : [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist), [EasyPrivacy](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easyprivacy.txt&title=EasyPrivacy), [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo) dan [uBlock filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt&title=uBlock%20filters).
 
 ## Bagi pengembang

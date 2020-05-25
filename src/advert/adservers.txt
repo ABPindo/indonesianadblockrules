@@ -34,7 +34,6 @@
 ||afbcashidr.com^$popup,third-party
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
-||ajangiklangratis.com^$third-party
 ||alertpay.com^$third-party
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
@@ -51,6 +50,7 @@
 ||cjsab.com^$popup,third-party
 ||click.eclk.club^$popup
 ||clickmedia.co.id^$third-party
+||clicks.pipaffiliates.com^
 ||craydark.pw^$third-party
 ||d0p21g2fep.com^
 ||d2405b0jymm2dk.cloudfront.net^
@@ -74,15 +74,12 @@
 ||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
-||elfirkelk.com^$script
 ||epfcfhtjxqd.com^$popup
 ||etoads.net^$popup
 ||etoads.net^$third-party
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup
 ||frpiksdeygy.com^$popup
-||frpiksdeygy.com^$third-party
-||fryawlauk.com^$script
 ||furocmay.com^$popup
 ||groucign.com^$third-party
 ||groupiklan.com^$third-party
@@ -105,7 +102,6 @@
 ||iklanhemat.com^$third-party
 ||iklanhoki.com^$third-party
 ||iklanoke.com^$third-party
-||iklantanpadaftar.com^$third-party
 ||iklantelevisi.com^$third-party
 ||iklantext.com^$third-party
 ||iklantop.net^$third-party
@@ -148,8 +144,8 @@
 ||offerjuice.me^$popup,third-party
 ||ofphanpytor.com^$popup
 ||ojeergoy.com^
+||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
-||olmsoneenh.info^$third-party
 ||onclkds.com^$popup,third-party
 ||openadserving.com^$third-party
 ||padssup.com^$third-party
@@ -196,7 +192,6 @@
 ||syndopop.com^$popup
 ||teliad.com^$third-party
 ||theclickers.net^$third-party
-||thesandonesof.info^$third-party
 ||tidnqztumpnk.com^$popup
 ||tinfunshe.club^$script
 ||tinggalklik.com^$third-party
@@ -210,6 +205,7 @@
 ||uadexchange.com^$third-party
 ||uoarbhxfyygn.com^$popup,third-party
 ||uofmnbkm.com^$popup
+||urt7bpvfz4am.com^$script
 ||useads.com^$third-party
 ||vidcpm.com^third-party
 ||vrewpywootyu.com^$popup,third-party
@@ -219,7 +215,6 @@
 ||whjibbprhng.com^$popup,third-party
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
-||wizliebeg.com^$script
 ||www.iwtserve.com^$popup
 ||www.olenation.org^$popup
 ||yesads.com^$third-party
