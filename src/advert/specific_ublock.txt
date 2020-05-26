@@ -1,4 +1,4 @@
-! Filters optimized for uBlock (https://github.com/uBlockOrigin/uAssets)
+! Scriptlets filters for uBlock (https://github.com/gorhill/uBlock/wiki/Resources-Library)
 1idsly.com##+js(nano-setInterval-booster)
 ac-mo.com,higud.com##+js(window.open-defuser)
 ad4msan.com##+js(abort-on-property-read, anOptions)

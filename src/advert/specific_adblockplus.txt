@@ -1,0 +1,2 @@
+! Snippet filters for Adblock Plus 3.3 (https://help.eyeo.com/adblockplus/snippet-filters-tutorial)
+bagas31.info#$#abort-on-property-write atob
