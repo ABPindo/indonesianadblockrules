@@ -153,3 +153,4 @@ kazefuri.me##+js(aopr, glxopen)
 apk.miuiku.com##+js(window.open-defuser)
 apk.miuiku.com##+js(set, blurred, false)
 apk.miuiku.com##.klikdisini
+selebsquad.com##+js(set, config.adblock, null)
