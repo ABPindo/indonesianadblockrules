@@ -747,3 +747,5 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
+gudangpemain.com##.blocker-overlay
+gudangpemain.com##.blocker-notice
