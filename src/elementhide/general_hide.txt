@@ -198,3 +198,4 @@
 ##[src="/assets/kdslot.gif"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
+##img[alt^="asiaforbet" i]

@@ -149,3 +149,7 @@ updatetribun.org##+js(addEventListener-defuser, load, onload)
 updatetribun.org##+js(nano-setInterval-booster)
 wikitrik.com##+js(nano-setInterval-booster)
 yusepjaelani.blogspot.com##+js(no-setTimeout-if, Debug)
+kazefuri.me##+js(aopr, glxopen)
+apk.miuiku.com##+js(window.open-defuser)
+apk.miuiku.com##+js(set, blurred, false)
+apk.miuiku.com##.klikdisini
