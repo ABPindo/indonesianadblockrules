@@ -8,7 +8,7 @@ chip.co.id###TopBannerBg
 mangacanblog.com###aa
 173.199.189.86,forumbokep.com,idfl.biz,idfl.info,idfl.me,idfl.my.id,indofiles.web.id,kikil.net,sodasusu.com,unyil.net,vocland.com###ad_global_below_navbar
 detik.com###adpoint5
-cinemaindo.web.id,filmapik.tv###ads
+budiarto.id,cinemaindo.web.id,filmapik.tv###ads
 dapurpacu.com###ads-728
 dapurpacu.com###ads-960-mid
 harianjogja.com,solopos.com###ads-float
@@ -749,4 +749,3 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-budiarto.id###ads
