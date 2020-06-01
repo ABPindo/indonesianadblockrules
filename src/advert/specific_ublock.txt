@@ -154,3 +154,6 @@ apk.miuiku.com##+js(window.open-defuser)
 apk.miuiku.com##+js(set, blurred, false)
 apk.miuiku.com##.klikdisini
 selebsquad.com##+js(set, config.adblock, null)
+cinema-mkv.com##+js(abort-current-inline-script, Math, zfgloaded)
+cinema-mkv.com##+js(abort-on-property-read, go_get_url)
+cinema-mkv.com##+js(set-constant, _ocads, noopFunc)
