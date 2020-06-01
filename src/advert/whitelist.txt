@@ -36,6 +36,7 @@
 @@||biargreget.top^$generichide
 @@||bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com|njiir.com|teknorizen.blogspot.com|www.maulandaru.com|www.razorlink.us
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
+@@||cinema-mkv.com^$generichide
 @@||cinemamkv.net^$generichide
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
@@ -118,4 +119,3 @@ short.awsubs.co#@#.iklan
 sporcle.com#@#.remodal
 woof.tube#@#.adsbox
 www.eramuslim.com#@#.adsbygoogle
-@@||cinema-mkv.com^$generichide
