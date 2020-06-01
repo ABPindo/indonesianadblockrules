@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202006010858
+! Version: 202006010916
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 01 Jun 2020 08:58 UTC
+! Last modified: 01 Jun 2020 09:16 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -4113,6 +4113,7 @@ www.eramuslim.com#@#.adsbygoogle
 /imcpoker-$image
 /imcqq-$image
 /imcqq.$image
+/indotogel.gif$image
 /infoterapis-$image
 /isiqq-$image
 /itupk.$image
@@ -4122,6 +4123,7 @@ www.eramuslim.com#@#.adsbygoogle
 /jasagol-$image
 /jasaqq-$image
 /jaya-bet-$image
+/jayapokernew.gif$image
 /jempolqq-$image
 /josbet-$image
 /josbet88-$image
@@ -4231,6 +4233,7 @@ www.eramuslim.com#@#.adsbygoogle
 /togel168-$image
 /togel88-$image
 /totobet.gif$image
+/totobetnew.gif$image
 /totojek-$image
 /unitogel-$image
 /venombet-$image
@@ -4253,7 +4256,6 @@ www.eramuslim.com#@#.adsbygoogle
 /zonaprediksi.$image
 /zyngaqq.$image
 _indokasino.$image
-_penggugur_kandungan_$image
 agen_bola_online.gif|$image
 agenbola.gif|$image
 agenqq.gif|$image
