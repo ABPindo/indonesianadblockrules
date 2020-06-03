@@ -749,3 +749,5 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
+dewanonton.vip##.banner-common
+dewanonton.vip##.banner-premium
