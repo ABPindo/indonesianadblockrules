@@ -286,9 +286,10 @@ myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 139.99.120.222,158.69.54.218,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 animebatchs.com,nanime.in,www.juragan-anime.net##.banner
-dwanonton.com##.banner-common
+dewanonton.vip,dwanonton.com##.banner-common
 dewabioskop21.asia,dewabioskop21.org,www.dewabioskop21.org##.banner-left
 dewabioskop21.org,www.dewabioskop21.org##.banner-middle
+dewanonton.vip##.banner-premium
 dewabioskop21.asia,dewabioskop21.org,www.dewabioskop21.org##.banner-right
 www.dream.co.id##.banner-sc
 dream.co.id##.banner-sc2
@@ -749,5 +750,3 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-dewanonton.vip##.banner-common
-dewanonton.vip##.banner-premium
