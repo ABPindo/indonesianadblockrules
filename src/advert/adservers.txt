@@ -51,6 +51,7 @@
 ||click.eclk.club^$popup
 ||clickmedia.co.id^$third-party
 ||clicks.pipaffiliates.com^
+||clicks.pipaffiliates.com^$popup
 ||craydark.pw^$third-party
 ||d0p21g2fep.com^
 ||d2405b0jymm2dk.cloudfront.net^
@@ -187,6 +188,8 @@
 ||serbapromo.com^$third-party
 ||shiiuojjccp.com^$popup
 ||shiokambing2.com^$popup,third-party
+||shqbsdjatunl.com^$popup
+||shqbsdjatunl.com^$third-party
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
 ||sumberiklan.com^$third-party
@@ -205,6 +208,8 @@
 ||tummiarunzpf.com^$popup,third-party
 ||u-on.eu^$popup,third-party
 ||uadexchange.com^$third-party
+||ueuodgnrhb.com^$popup
+||ueuodgnrhb.com^$third-party
 ||uoarbhxfyygn.com^$popup,third-party
 ||uofmnbkm.com^$popup
 ||urt7bpvfz4am.com^$script
@@ -219,6 +224,7 @@
 ||window-close.ga^$popup,third-party
 ||www.iwtserve.com^$popup
 ||www.olenation.org^$popup
+||www.shqbsdjatunl.com^$third-party
 ||yesads.com^$third-party
 ||yhig.info^$third-party
 ||yllix.com^$popup,third-party

@@ -121,6 +121,7 @@
 ##.gbcontent
 ##.gpcontent
 ##.headads
+##.header-ad-mobile
 ##.idblog-center-ads
 ##.idblog-topbanner-aftermenu
 ##.idmuvi-afterplayer
@@ -169,6 +170,7 @@
 ##.iklanpusat
 ##.iklanright
 ##.iklanx1
+##.inside-player-ad
 ##.kill-adblock-container
 ##.kotak_iklan
 ##.kotakiklan
@@ -189,6 +191,7 @@
 ##.subiklan
 ##.text-center.adv
 ##.topadsense
+##.under-player-ad
 ##[href$="/?ref=lk21ads"]
 ##[href="http://ig24.me"]
 ##[href="https://bit.ly/jayapokerbanner"]
