@@ -237,6 +237,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||nt1.co/js/jquery.floating_popup.$script
 ||numpanglewat.com^$third-party
 ||numpangnonton.*/wp-content/uploads/*.gif$image
+||pakbos21.org/wp-content/uploads/*.gif$image,~third-party
 ||pastebin.com/raw/*$script,domain=tokubatch.com
 ||pergi.klik-link.us/wpsafelink.js$script,domain=www.kazefuri.web.id
 ||playwebgame.com/banner/$third-party
@@ -245,6 +246,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||pwbjlbz.com^$domain=kompas.com
 ||resep.web.id/banner/
 ||rikucan.com/wp-content/themes/mh-magazine-lite/js/looping.js
+||sdk.ian029dkl3osl930sian.club/mango.js$script
 ||semi168.*/wp-content/uploads/*.gif$image
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
@@ -276,5 +278,3 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
-||pakbos21.org/wp-content/uploads/*.gif$image,~third-party
-||sdk.ian029dkl3osl930sian.club/mango.js$script

@@ -523,6 +523,7 @@ neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 omberbagi.com##[href$="/omberbagi"]
 nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
+pakbos21.org##[href="//dumbpop.com/help.xml"]
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
 kazefuri.blogspot.com##[href="http://www.cocobet."]
@@ -751,4 +752,3 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-pakbos21.org##[href="//dumbpop.com/help.xml"]
