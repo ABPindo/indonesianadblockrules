@@ -276,3 +276,5 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
+||pakbos21.org/wp-content/uploads/*.gif$image,~third-party
+||sdk.ian029dkl3osl930sian.club/mango.js$script
