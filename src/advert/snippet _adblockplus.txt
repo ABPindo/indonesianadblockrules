@@ -1,4 +1,4 @@
 ! Snippet filters for Adblock Plus 3.3 (https://help.eyeo.com/adblockplus/snippet-filters-tutorial)
-bagas31.info#$#abort-on-property-write atob
 animeindo.moe#$#abort-on-property-read AaDetector
 animeindo.moe#$#abort-on-property-read popjs.init
+bagas31.info#$#abort-on-property-write atob
