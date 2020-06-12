@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202006112203
+! Version: 202006120950
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 11 Jun 2020 22:03 UTC
+! Last modified: 12 Jun 2020 09:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -597,7 +597,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
 ! *** abpindo:src/advert/snippet _adblockplus.txt ***
 ! Snippet filters for Adblock Plus 3.3 (https://help.eyeo.com/adblockplus/snippet-filters-tutorial)
-kurina.vip#$#abort-current-inline-script Math zfgloaded
+kurina.vip,mangacanblog.com#$#abort-current-inline-script Math zfgloaded
 animeindo.moe#$#abort-on-property-read AaDetector
 animeindo.moe#$#abort-on-property-read popjs.init
 bagas31.info#$#abort-on-property-write atob
@@ -1096,7 +1096,7 @@ www.komikstation.com###floatbanner
 nontonsini.com###floatbawah
 lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
-animexin.xyz,awsubs.co###floatcenter
+149.28.158.117,animexin.xyz,awsubs.co###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com,sukamovie.club###floating_ads_bottom_textcss_ad
 idxxx1.com###floating_ads_bottom_textcss_wrap
@@ -1434,6 +1434,7 @@ www.kabargames.id##.legend_banner-container
 b201.info##.lenyap
 belapendidikan.com##.majalahpro-core-floatbanner
 www.smartphoneku.com##.margin-right-40.left.pullquotes
+mangacanblog.com##.mas_tamvan
 nontonbokeps.com##.mask-ads
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 dapurpacu.com##.mid-banner
