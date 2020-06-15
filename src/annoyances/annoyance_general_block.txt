@@ -100,7 +100,6 @@
 /365qiuqiu-$image
 /526bet-$image
 /728-x-90-$image
-/AAgenQQ.gif|$image
 /BANNER-liga88-$image
 /Banner-Poker$image,third-party
 /Banner-Suhubola-$image,third-party
@@ -194,7 +193,6 @@
 /imcpoker-$image
 /imcqq-$image
 /imcqq.$image
-/indotogel.gif$image
 /infoterapis-$image
 /isiqq-$image
 /itupk.$image
@@ -290,12 +288,9 @@
 /rgobet_$image
 /rgocasino-$image
 /royalflush-$image
-/rpk99-$image
 /sahabat-arena-$image
 /sahamqq.$image
 /santapoker.gif$image
-/sbcc-$image
-/sbcc.gif$image
 /sbo-money-$image
 /sbonaga-$image
 /sbypoker_$image
@@ -328,8 +323,7 @@
 /wigobet-$image
 /winning365-$image
 /wismaqq-$image
-/won77.$image
-/wp-content/uploads/*/luxury.gif$image
+/wp-content/uploads/*/luxury.gif$image,third-party
 /yoyopoker-$image
 /yoyopoker.$image
 /ysbjaya-$image

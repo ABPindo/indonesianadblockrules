@@ -224,7 +224,6 @@
 ||window-close.ga^$popup,third-party
 ||www.iwtserve.com^$popup
 ||www.olenation.org^$popup
-||www.shqbsdjatunl.com^$third-party
 ||yesads.com^$third-party
 ||yhig.info^$third-party
 ||yllix.com^$popup,third-party
