@@ -1,6 +1,5 @@
 ! Snippet filters for Adblock Plus 3.3 (https://help.eyeo.com/adblockplus/snippet-filters-tutorial)
 kurina.vip,mangacanblog.com#$#abort-current-inline-script Math zfgloaded
-animeindo.moe#$#abort-on-property-read AaDetector
+animeindo.moe,gembelcit.net#$#abort-on-property-read AaDetector
 animeindo.moe#$#abort-on-property-read popjs.init
 bagas31.info#$#abort-on-property-write atob
-gembelcit.net#$#abort-on-property-read AaDetector
