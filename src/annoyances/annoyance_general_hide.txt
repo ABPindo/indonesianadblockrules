@@ -4,6 +4,8 @@
 ##.lazyloaded.dominowalet
 ##.lazyloaded.happypoker
 ##.togel
+##[href$="/angelpoker"]
+##[href$="/ubcpoker"]
 ##[href^="Http://ApiBet."]
 ##[href^="Http://ApiKartu."]
 ##[href^="Http://www.DewaTogel."]
@@ -761,6 +763,7 @@
 ##[href^="http://qq288hh."]
 ##[href^="http://qq8778.online/"]
 ##[href^="http://qqangpao.net"]
+##[href^="http://qqangpao.online/"]
 ##[href^="http://qqasli."]
 ##[href^="http://qqboya."]
 ##[href^="http://qqdomino."]
@@ -1443,6 +1446,7 @@
 ##[href^="https://365indoqiu."]
 ##[href^="https://3mkartu.com"]
 ##[href^="https://6kartudewa.net/"]
+##[href^="https://77hoki.com"]
 ##[href^="https://9411532.com/"]
 ##[href^="https://99cashbali.com"]
 ##[href^="https://agenimc5."]
@@ -1477,6 +1481,7 @@
 ##[href^="https://indoxbet.com"]
 ##[href^="https://jcapsa.com"]
 ##[href^="https://judiayambangkok.net"]
+##[href^="https://k9win-indonesia.com"]
 ##[href^="https://kakakqq."]
 ##[href^="https://kartuajaib."]
 ##[href^="https://kartuking."]
@@ -2225,6 +2230,7 @@
 ##a[title="domino QQ" i]
 ##a[title="domino99" i]
 ##a[title="dominoQQ" i]
+##a[title="dorabet" i]
 ##a[title="entertogel" i]
 ##a[title="ganoolQQ" i]
 ##a[title="garudaQQ" i]

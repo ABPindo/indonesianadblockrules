@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202007050214
+! Version: 202007051000
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 05 Jul 2020 02:14 UTC
+! Last modified: 05 Jul 2020 10:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -389,6 +389,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||detik.com/mobile/js/it.mobile.js$script
 ||dewa.tv/banner/
 ||dewamovie.*/wp-content/uploads/*.gif$image
+||dewanonton.*/static/banner/*.gif$image,~third-party
 ||dewanontons.com/wp-content/uploads/*.gif$image
 ||dewantn.com/wp-content/uploads/*.gif$image
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
@@ -438,7 +439,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||hotabis.com/wp-content/uploads/*.gif$image
 ||i.ibb.co/*.gif$image,domain=kazefuri.web.id
 ||i.imgur.com/*.gif$image,domain=abgbugil.net|animebatchs.com|ayononton.co|bokep24.site|capcus.net|cinemaindo.web.id|gudangfilm.top|ibugil.net|indobugil.net|kabar2.com|kikil.net|nekopoi.care|ngobrolbola.com|sodasusu.com|zonalendir.net
-||i1.wp.com/ryuukoi.web.id/wp-content/uploads/*/antiadblock$image
 ||id.hao123.com/resource/id/banner/
 ||id.techinasia.com/OneSignalSDKWorker.js
 ||idbioskop.com/wp-content/uploads/*/*/300-x-250.png
@@ -557,8 +557,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||pergi.klik-link.us/wpsafelink.js$script,domain=www.kazefuri.web.id
 ||playwebgame.com/banner/$third-party
 ||primbon.com/banner/ilmugendam.gif
-||pulsk.com/img/x.png
-||pwbjlbz.com^$domain=kompas.com
 ||resep.web.id/banner/
 ||rikucan.com/wp-content/themes/mh-magazine-lite/js/looping.js
 ||sdk.ian029dkl3osl930sian.club/mango.js$script
@@ -575,7 +573,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||susterbokep.com/wp-content/uploads/*.gif$image
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
-||terafile.net/luxury3.xml$~third-party,xmlhttprequest
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
 ||tribunnews.com/stylesheets/close.gif
 ||tvkabel.net/prom/*.gif$image
@@ -583,6 +580,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||videocrot.org/wp-content/uploads/*/iklan.gif
+||wp.com/ryuukoi.web.id/wp-content/uploads/*/antiadblock$image
 ||www.akanhoki.com/GenerateAdImage$image
 ||www.conan.id/wp-content/uploads/2018/*.gif$image
 ||www.mangacanblog.com/adblock/src/adblock-checker.js
