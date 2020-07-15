@@ -3070,3 +3070,7 @@
 ##img[alt^="situs poker" i]
 ##img[class="happypoker" i]
 ##img[src="http://livesgp."]
+##a[title^="Live Casino Online" i]
+##img[alt^="Live Casino Online" i]
+##a[title^="1POKER" i]
+##img[alt^="1POKER" i]
