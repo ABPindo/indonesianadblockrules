@@ -98,6 +98,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||filmbaru.in/wp-content/uploads/*.gif$image
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
+||fix.samlike.net/fixsafe.js$script,domain=www.animebatch.web.id
 ||forumbitcoin.co.id/other/banner/*-*.$image
 ||forumbookie.com/banner/
 ||forumidn.com^$popup,domain=susterbokep.com
@@ -237,6 +238,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||nt1.co/js/jquery.floating_popup.$script
 ||numpanglewat.com^$third-party
 ||numpangnonton.*/wp-content/uploads/*.gif$image
+||onsafelink.com/js/full-page-script.js$script,domain=bakacan.id
 ||pakbos21.org/wp-content/uploads/*.gif$image,~third-party
 ||pastebin.com/raw/*$script,domain=tokubatch.com
 ||pergi.klik-link.us/wpsafelink.js$script,domain=www.kazefuri.web.id
@@ -276,5 +278,3 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
-||fix.samlike.net/fixsafe.js$script,domain=www.animebatch.web.id
-||onsafelink.com/js/full-page-script.js$script,domain=bakacan.id
