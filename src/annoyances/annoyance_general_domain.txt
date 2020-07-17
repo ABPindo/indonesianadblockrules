@@ -1688,8 +1688,6 @@
 ||layananqq.$image,third-party
 ||layarqq.$image,third-party
 ||lazabet.$image,third-party
-||lazacasino.$image,third-party
-||lazacasino.^$popup
 ||lexispoker.$image,third-party
 ||liburpoker.$image,third-party
 ||liburpoker.$popup
@@ -2425,8 +2423,7 @@
 ||star88bola.$popup
 ||star88win.$image,third-party
 ||starbola88.$image,third-party
-||starcasino88.$image,third-party
-||starcasino88.$popup
+
 ||stardomino.$image,third-party
 ||stardomino.$popup
 ||starsbet.$image,third-party
