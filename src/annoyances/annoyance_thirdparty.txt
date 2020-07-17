@@ -103,6 +103,8 @@
 ||kedaijudi.com^$third-party
 ||kingtogel.com^$third-party
 ||launchpoker.com^$third-party
+||lazacasino.com^$image,third-party
+||lazacasino.com^$popup
 ||lintastogel.com^$third-party
 ||lotospoker.com^$third-party
 ||luckyriverpoker.com^$third-party
@@ -204,6 +206,8 @@
 ||situstaruhan.com^$third-party
 ||situstogelonline.com^$third-party
 ||star88win.net^$popup
+||starcasino88.net^$image,third-party
+||starcasino88.net^$popup
 ||sukajudibola.com^$third-party
 ||sunpoker.com^$third-party
 ||surgajudi.com^$third-party
@@ -267,7 +271,3 @@
 ||www.master88indo.net^$popup
 ||xjudi.com^$third-party
 ||yourpokercash.com^$third-party
-||lazacasino.com^$popup
-||starcasino88.net^$popup
-||lazacasino.com^$image,third-party
-||starcasino88.net^$image,third-party
