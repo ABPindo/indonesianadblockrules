@@ -1,0 +1,15 @@
+[Adblock Plus 2.0]
+# Title: ABPindo (hosts)
+# Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
+# Last modified: %timestamp%
+# Expires: 4 days (update frequency)
+# Homepage: https://github.com/ABPindo/indonesianadblockrules/
+# Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
+#
+# Please report any unblocked adverts or problems
+# GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
+# GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
+#
+#---------------------- advert blocking filters ----------------------!
+%include https://raw.githubusercontent.com/dead-hosts/indonesianadblockrules-validate-hosts_git_ABPindo/master/output/hosts/ACTIVE/hosts%
+
