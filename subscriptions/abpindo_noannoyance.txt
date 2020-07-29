@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202007250840
+! Version: 202007291033
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 25 Jul 2020 08:40 UTC
+! Last modified: 29 Jul 2020 10:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -142,6 +142,7 @@
 ||juruiklan.com^$third-party
 ||katurars.com^$popup
 ||klikajadeh.com^$third-party
+||kozoysnsx.com^$popup
 ||l9tdhe6.com^$popup
 ||ld82ydd.com^$popup
 ||leoceran.pw^$popup
@@ -238,13 +239,16 @@
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
 ||www.iwtserve.com^$popup
+||www.kozoysnsx.com^
 ||www.olenation.org^$popup
+||www.zuyejecgb.com^
 ||yesads.com^$third-party
 ||yhig.info^$third-party
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^$third-party
 ||yx-ads6.com^$third-party
 ||zukxd6fkxqn.com^$popup
+||zuyejecgb.com^$popup
 ! *** abpindo:src/advert/thirdparty.txt ***
 ||c-stat.eu^$third-party
 ||cfs1.uzone.id^$third-party
