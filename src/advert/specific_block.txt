@@ -280,3 +280,4 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
 ||raw.githack.com/jefcom/jefar/master/jefar.js$script
+||wp.com/animelu.com/wp-content/uploads/*.gif$image,domain=animelu.com
