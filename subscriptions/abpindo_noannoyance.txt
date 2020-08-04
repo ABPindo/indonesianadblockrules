@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202008042153
+! Version: 202008042253
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 04 Aug 2020 21:53 UTC
+! Last modified: 04 Aug 2020 22:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -564,6 +564,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||pergi.klik-link.us/wpsafelink.js$script,domain=www.kazefuri.web.id
 ||playwebgame.com/banner/$third-party
 ||primbon.com/banner/ilmugendam.gif
+||raw.githack.com/jefcom/jefar/master/jefar.js$script
 ||resep.web.id/banner/
 ||rikucan.com/wp-content/themes/mh-magazine-lite/js/looping.js
 ||sdk.ian029dkl3osl930sian.club/mango.js$script
@@ -587,6 +588,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||videocrot.org/wp-content/uploads/*/iklan.gif
+||wp.com/animelu.com/wp-content/uploads/*.gif$image,domain=animelu.com
 ||wp.com/ryuukoi.web.id/wp-content/uploads/*/antiadblock$image
 ||www.akanhoki.com/GenerateAdImage$image
 ||www.conan.id/wp-content/uploads/2018/*.gif$image
