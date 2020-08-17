@@ -2,7 +2,7 @@ $popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
 $subdocument,third-party,domain=ironysub.net
 $xmlhttprequest,domain=mangacanblog.com
 *$popup,third-party,domain=kurina.vip
-.gif$image,domain=anime-indo.id|bioskopkerenin.org|lk21.london|movieajip.online
+.gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|movieajip.online
 .gif$image,third-party,domain=lk21tv.com
 /floating-ads-bottom/*$image,domain=sukamovie.club
 /lebahmovie.com/wp-content/uploads/*.gif$image,domain=lebahmovie.com
@@ -281,4 +281,3 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
-.gif$image,domain=ld2tv.net
