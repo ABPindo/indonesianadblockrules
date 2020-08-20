@@ -262,7 +262,6 @@
 /newhoya-$image
 /newrgotog.gif
 /ninjaqq-$image
-/obc.gif|$image
 /obobet-$image
 /olopoker-$image
 /opuspoker-$image
@@ -307,8 +306,8 @@
 /sbypoker_$image
 /sbysport_$image
 /seksipoker-$image
-/selebtoto.com
-/senyumqq-GIF.gif|$image
+/selebtoto.$image
+/uploads/*/senyumqq-|$image
 /sifujudi-$image
 /simpatiqq-$image
 /sogopoker-$image
@@ -320,7 +319,6 @@
 /togel-$image,third-party
 /togel168-$image
 /togel88-$image
-/totobet.gif$image
 /totobetnew.gif$image
 /totojek-$image
 /unitogel-$image
@@ -365,3 +363,11 @@ sbobetqq.gif|$image
 spbet.gif|$image
 suhubola.gif|$image
 totojitu.gif|$image
+/uploads/*/TOTOBET-$image
+/uploads/*/jayapoker-$image
+/uploads/*/Ahabet-$image
+/uploads/*/Indotogel-$image
+/uploads/*/TOTOBET-$image
+/uploads/*/vipslot.$image
+/uploads/*/indotogel.$image
+/uploads/*/ahabet.$image
