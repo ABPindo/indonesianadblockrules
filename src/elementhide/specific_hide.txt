@@ -182,8 +182,6 @@ gadismalam.net###semprot_ads_side_right
 drakorindo.fun###sg-popup-content-wrapper-3560
 cinemaqq.com###sgcboxOverlay
 drakorindo.fun,kazemanga.xyz###sgpb-popup-dialog-main-div-wrapper
-gopego.com###showcase1
-gopego.com###showcase2
 nontonfilm88.com###sidebar-right
 cinemaindo.tv###sidebar_right > .side:nth-of-type(5) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(6) > .textwidget
@@ -622,8 +620,6 @@ nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
-forums.mangafox.me##div[style="margin:10px 0;width:186px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:right"]
-forums.mangafox.me##div[style="margin:10px 0;width:728px;height:90px;background:#fff;border:1px solid #dadada;overflow:hidden;padding:2px;text-align:center;float:left"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 drakorindo.*##a[href^="http://bit.ly/"]
 dramacool.*,dramanice.*##.adv-space
