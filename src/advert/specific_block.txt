@@ -260,6 +260,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||susterbokep.com/wp-content/uploads/*.gif$image
+||syndication.rightnativecontent.com/javascripts/adx-delivery.min.js$script,domain=kurina.vip
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
