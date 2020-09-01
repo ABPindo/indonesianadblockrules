@@ -257,6 +257,7 @@ www.kompas.tv##.ads-foot
 awnime.net##.ads-header-5
 dapurpacu.com##.ads-home
 grid.id##.ads-mr
+www.tek.id##.ads-popup__inner
 terasjakarta.id##.ads.single_post_content
 dapurpacu.com##.ads2-home
 kompas.com##.adsMR1Lipsus1
@@ -751,4 +752,3 @@ bioskop78.com##td:nth-of-type(3)
 terbit21.*###ptbanner
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-www.tek.id##.ads-popup__inner
