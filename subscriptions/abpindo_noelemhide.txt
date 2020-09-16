@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202009150825
+! Version: 202009160327
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 15 Sep 2020 08:25 UTC
+! Last modified: 16 Sep 2020 03:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -363,7 +363,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.xyz|layarmovie21.co|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|www.lk21id.com|www.oploverz.in|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.xyz|layarmovie21.co|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|satujiwa.org|senimovies.net|smallencode.com|unyil.org|www.lk21id.com|www.oploverz.in|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
@@ -874,6 +874,7 @@ www.eramuslim.com#@#.adsbygoogle
 ||nenenqq.com^$third-party
 ||neobola.club^$popup
 ||nztoto.com^$third-party
+||obobet.net^$popup
 ||online5poker.com^$third-party
 ||onlineactionpoker.com^$third-party
 ||onlinepoker66.com^$third-party
@@ -1012,6 +1013,7 @@ www.eramuslim.com#@#.adsbygoogle
 ||www.master88indo.net^$popup
 ||xjudi.com^$third-party
 ||yourpokercash.com^$third-party
+||yoyopoker.net^$popup
 ! *** abpindo:src/annoyances/annoyance_general_domain.txt ***
 /128cash.$image,third-party
 /188bet.$image,third-party
@@ -2963,8 +2965,6 @@ www.eramuslim.com#@#.adsbygoogle
 ||obccash.$image,third-party
 ||obccash.$popup
 ||obipoker.$image,third-party
-||obobet.$image,third-party
-||obobet.^$popup
 ||okebos.$image,third-party
 ||okebos.top^$popup
 ||okecas.$image,third-party
@@ -3771,7 +3771,6 @@ www.eramuslim.com#@#.adsbygoogle
 ||wwwsgopoker.$image,third-party
 ||wwwsgopoker.$popup
 ||yoyopoker.$image,third-party
-||yoyopoker.$popup
 ||ysbjaya.$image,third-party
 ||ysbjaya88.$image,third-party
 ||ysbjaya88.$popup
@@ -3966,6 +3965,7 @@ www.eramuslim.com#@#.adsbygoogle
 /elangqq-$image
 /emasbet-$image
 /emoqq-$image
+/enakbet-$image
 /enakbet.gif|$image
 /eyang-togel-$image
 /eze99.$image
@@ -4093,6 +4093,7 @@ www.eramuslim.com#@#.adsbygoogle
 /santapoker.gif$image
 /sbo-money-$image
 /sbonaga-$image
+/sbotop-$image
 /sbypoker_$image
 /sbysport_$image
 /seksipoker-$image

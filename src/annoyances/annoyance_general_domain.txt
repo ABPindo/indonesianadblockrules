@@ -1948,8 +1948,6 @@
 ||obccash.$image,third-party
 ||obccash.$popup
 ||obipoker.$image,third-party
-||obobet.$image,third-party
-||obobet.^$popup
 ||okebos.$image,third-party
 ||okebos.top^$popup
 ||okecas.$image,third-party
@@ -2756,7 +2754,6 @@
 ||wwwsgopoker.$image,third-party
 ||wwwsgopoker.$popup
 ||yoyopoker.$image,third-party
-||yoyopoker.$popup
 ||ysbjaya.$image,third-party
 ||ysbjaya88.$image,third-party
 ||ysbjaya88.$popup

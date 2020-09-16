@@ -170,6 +170,7 @@
 ##.iklanpusat
 ##.iklanright
 ##.iklanx1
+##.infeed-ads
 ##.inside-player-ad
 ##.kill-adblock-container
 ##.kotak_iklan
@@ -194,9 +195,7 @@
 ##.under-player-ad
 ##[href$="/?ref=lk21ads"]
 ##[href="http://ig24.me"]
-
 ##[href^="//mellowads.com/"]
 ##[id^="rn_ad_native_"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
-##.infeed-ads
