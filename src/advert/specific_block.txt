@@ -285,3 +285,4 @@ $xmlhttprequest,domain=mangacanblog.com
 ||nontondrama.*/wp-content/uploads/*.gif$image
 ||layarkeren.*/wp-content/uploads/*.gif$image
 ||bp.blogspot.com/*.gif$image,domain=layarkeren.site
+||indoxximovie.com/wp-content/uploads/2020/06/realbola.jpg$image
