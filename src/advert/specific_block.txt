@@ -282,3 +282,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
+||nontondrama.*/wp-content/uploads/*.gif$image
+||layarkeren.*/wp-content/uploads/*.gif$image
+||bp.blogspot.com/*.gif$image,domain=layarkeren.site
