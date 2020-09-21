@@ -150,6 +150,7 @@ duniasex.co,ibugil.net,nontonfilmdrama.com,sidrama.com###netkevin-popup
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
 detik.com###otp_banner
+layarkeren.site###ouibounce-modal
 www.kricom.id###overlay
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
@@ -238,6 +239,7 @@ comotin.com##.Widget:nth-of-type(2)
 comotin.com##.Widget:nth-of-type(3)
 sundul.com##.\33 .Premium.Sundul
 sundul.com##.\34 .Premium.Sundul
+indoxximovie.com##._ning_link.strack_cli
 clip.cewecewe.com##.ad
 senimovie.info,senimovies.net##.ad-float-image
 www.wartaekonomi.co.id##.ad-inventory-wrapper
@@ -752,5 +754,3 @@ bioskop78.com##td:nth-of-type(3)
 terbit21.*###ptbanner
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-layarkeren.site###ouibounce-modal
-indoxximovie.com##._ning_link.strack_cli
