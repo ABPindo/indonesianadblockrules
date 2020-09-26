@@ -504,6 +504,7 @@ klikseru.com##.textwidget img[width="300"][height="250"]
 utusan.com.my##.tonal__standfirst
 dewabioskop21.org,idxxx1.com,lapar.com,nontonitu.com##.top-banner
 xx1.me##.top-bnner.lazy
+www.goblintv.xyz##.tutup.banner
 bioskopxxi.net,sinemakaca.com##.ujipopup
 128.199.102.111##.under-player-ad-mobile
 128.199.232.232##.video-archive-ad
@@ -754,4 +755,3 @@ bioskop78.com##td:nth-of-type(3)
 terbit21.*###ptbanner
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-www.goblintv.xyz##.tutup.banner
