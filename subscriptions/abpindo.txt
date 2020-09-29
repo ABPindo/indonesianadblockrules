@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202009270505
+! Version: 202009290604
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 27 Sep 2020 05:05 UTC
+! Last modified: 29 Sep 2020 06:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -578,6 +578,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||numpanglewat.com^$third-party
 ||numpangnonton.*/wp-content/uploads/*.gif$image
 ||onsafelink.com/js/full-page-script.js$script,domain=bakacan.id
+||paid4link.com/js/full-page-script.js$script
 ||pakbos21.org/wp-content/uploads/*.gif$image,~third-party
 ||pastebin.com/raw/*$script,domain=tokubatch.com
 ||pergi.klik-link.us/wpsafelink.js$script,domain=www.kazefuri.web.id
@@ -4866,6 +4867,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="http://aladinpoker."]
 ##[href^="http://alamiqq."]
 ##[href^="http://alampoker."]
+##[href^="http://alexavegascasino.win"]
 ##[href^="http://alternatif188bet."]
 ##[href^="http://alto123."]
 ##[href^="http://aman99."]
@@ -5072,6 +5074,8 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="http://duniaspa."]
 ##[href^="http://dwabet."]
 ##[href^="http://dwatngks."]
+##[href^="http://dwcash.us/"]
+##[href^="http://dwscr.xyz/"]
 ##[href^="http://earneasycash."]
 ##[href^="http://elang-qq."]
 ##[href^="http://elang13."]

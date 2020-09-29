@@ -243,6 +243,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||numpanglewat.com^$third-party
 ||numpangnonton.*/wp-content/uploads/*.gif$image
 ||onsafelink.com/js/full-page-script.js$script,domain=bakacan.id
+||paid4link.com/js/full-page-script.js$script
 ||pakbos21.org/wp-content/uploads/*.gif$image,~third-party
 ||pastebin.com/raw/*$script,domain=tokubatch.com
 ||pergi.klik-link.us/wpsafelink.js$script,domain=www.kazefuri.web.id
@@ -285,4 +286,3 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
-||paid4link.com/js/full-page-script.js$script
