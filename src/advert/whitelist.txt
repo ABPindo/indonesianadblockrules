@@ -1,12 +1,12 @@
-@@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|www.mangacanblog.com
+@@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|mangacanblog.com
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/*/ads/$image,domain=anibatch.me
 @@.jpg#/adaffiliate_/$image,domain=kaze-batch.blogspot.com|kazefuri.web.id|shirosafe.web.id
 @@.png#$image,domain=1idsly.com|anisubindo.video|komikindo.web.id|link.akuno.net|neumanga.tv|oploverz.in|tokusatsuindo.com
 @@.png#*/ad/$image,domain=ad4msan.com
-@@.png#/*/ad/$image,domain=www.mangacanblog.com
+@@.png#/*/ad/$image,domain=mangacanblog.com
 @@.png#/*/adv/$image,domain=ijobanana.xyz
-@@.png#/adaffiliate_/$image,domain=anisubindo.video|awsubs.co|biargreget.top|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sdrama.com|shirosafe.web.id|www.sanjayaops.com
+@@.png#/adaffiliate_/$image,domain=anisubindo.video|awsubs.co|biargreget.top|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sanjayaops.com|sdrama.com|shirosafe.web.id
 @@/advertisement-$script,domain=duosia.id
 @@/advertisement.$script,domain=kumpulmanga.org|mangalist.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
 @@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
@@ -34,7 +34,7 @@
 @@||batch.id/wp-content/plugins/lw-adblocker/assets/js/fuckadblock.min.js
 @@||batch.id^$generichide
 @@||biargreget.top^$generichide
-@@||bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com|njiir.com|teknorizen.blogspot.com|www.maulandaru.com|www.razorlink.us
+@@||bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com|maulandaru.com|njiir.com|razorlink.us|teknorizen.blogspot.com
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
 @@||cinema-mkv.com^$generichide
 @@||cinemamkv.net^$generichide
@@ -58,6 +58,7 @@
 @@||inwepo.co^$generichide
 @@||kabarviral.blog/js/ads.js$script,~third-party
 @@||kaze-batch.blogspot.com^$generichide
+@@||kertashitam.com/js/advertisement.js$script,domain=kertashitam.com
 @@||klikshowtime.com^$generichide
 @@||komikcast.com^$generichide
 @@||komikindo.web.id^$generichide
@@ -85,7 +86,7 @@
 @@||omahkpop.com^$generichide
 @@||oploverz.in^$generichide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|gembelcit.net|illyasave.com|indozone.me|lewat.club|modecepat.com|sedot.link|www.aksensei.com|www.infolokerserang.com|www.nekopoi.web.id|www.pugam.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|aksensei.com|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|gembelcit.net|illyasave.com|indozone.me|infolokerserang.com|lewat.club|modecepat.com|nekopoi.web.id|pugam.com|sedot.link
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||rawcdn.githack.com/KecoaTerbank/safelink/$script,domain=eleventhlevelinteractive.com
@@ -103,12 +104,12 @@
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||updatetribun.^$generichide
 @@||virtualdata.me/webroot/js/ads.js$script,~third-party
-@@||www.kertashitam.com/js/advertisement.js$script,domain=www.kertashitam.com
 @@||zaqe.xyz^$generichide
 aktual.id,datasekolah.co.id#@#.adsbygoogle
 animanganews.com#@#.iklan
 aplikasipc.com#@#.afs_ads
 digikala.com#@#.remodal
+eramuslim.com#@#.adsbygoogle
 filmdewasaku.org#@#.idmuvi-topbanner-aftermenu
 gurusd.web.id,kurikulum.co.id#@##adsense
 layarlebar21.org#@#.idmuvi-topplayer
@@ -122,4 +123,3 @@ short.awsubs.co#@#.iklan
 sporcle.com#@#.remodal
 totolink.id#@#.social-circle
 woof.tube#@#.adsbox
-www.eramuslim.com#@#.adsbygoogle
