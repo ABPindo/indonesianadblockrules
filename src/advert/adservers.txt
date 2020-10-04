@@ -137,6 +137,7 @@
 ||istanaimpian2.com^$popup,third-party
 ||istanaimpian3.com^$popup,third-party
 ||iupqelechcmj.com^$popup,third-party
+||iwtserve.com^$popup
 ||jagoiklan.com^$third-party
 ||jagopromo.com^$third-party
 ||jasaiklan.com^$third-party
@@ -147,6 +148,7 @@
 ||kdbumyha.com^$popup
 ||kdbumyha.com^$script
 ||klikajadeh.com^$third-party
+||kozoysnsx.com^
 ||kozoysnsx.com^$popup
 ||l9tdhe6.com^$popup
 ||ld82ydd.com^$popup
@@ -170,6 +172,7 @@
 ||offerjuice.me^$popup,third-party
 ||ofphanpytor.com^$popup
 ||ojeergoy.com^
+||olenation.org^$popup
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
 ||onclkds.com^$popup,third-party
@@ -255,10 +258,6 @@
 ||whjibbprhng.com^$popup,third-party
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
-||www.iwtserve.com^$popup
-||www.kozoysnsx.com^
-||www.olenation.org^$popup
-||www.zuyejecgb.com^
 ||x-tags.net^
 ||yesads.com^$third-party
 ||yhig.info^$third-party
@@ -266,4 +265,5 @@
 ||ys3e965d.top^$third-party
 ||yx-ads6.com^$third-party
 ||zukxd6fkxqn.com^$popup
+||zuyejecgb.com^
 ||zuyejecgb.com^$popup
