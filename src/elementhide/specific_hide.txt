@@ -407,6 +407,7 @@ layarlebar21.id##.idmuvi-afterplayer
 suki48.web.id##.iklanSUKI
 awsubs.co##.iklansamping
 ld2tv.com##.img-banner
+dutafilm.us##.imgbanner
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
@@ -757,4 +758,3 @@ bioskop78.com##td:nth-of-type(3)
 terbit21.*###ptbanner
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-dutafilm.us##.imgbanner
