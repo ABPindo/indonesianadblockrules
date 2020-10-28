@@ -47,7 +47,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||cat3movie.us/popup.js
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
-||cdn.livechatinc.com/tracking.js
 ||cdn.newparadise.xyz/ezgif-*.gif$image,domain=layarcinema.tv|lk21tv.com
 ||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script,domain=myanimeindo.net
 ||cdn.staticaly.com/gh/sotazer/sotazone/*/kurazoneAdblock.js
