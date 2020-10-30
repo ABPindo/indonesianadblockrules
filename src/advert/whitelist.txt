@@ -104,6 +104,7 @@
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||updatetribun.^$generichide
 @@||virtualdata.me/webroot/js/ads.js$script,~third-party
+@@||www.googletagmanager.com/gtm.js$script,domain=inet.detik.com
 @@||zaqe.xyz^$generichide
 aktual.id,datasekolah.co.id#@#.adsbygoogle
 animanganews.com#@#.iklan
@@ -123,4 +124,3 @@ short.awsubs.co#@#.iklan
 sporcle.com#@#.remodal
 totolink.id#@#.social-circle
 woof.tube#@#.adsbox
-@@||www.googletagmanager.com/gtm.js$script,domain=inet.detik.com
