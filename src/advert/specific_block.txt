@@ -5,6 +5,7 @@ $xmlhttprequest,domain=mangacanblog.com
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|movieajip.online
 .gif$image,third-party,domain=lk21tv.com
 /floating-ads-bottom/*$image,domain=sukamovie.club
+/images/idxbet/*$image,domain=idtube.me
 /lebahmovie.com/wp-content/uploads/*.gif$image,domain=lebahmovie.com
 /popup.htm$popup,domain=awnime.net
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
