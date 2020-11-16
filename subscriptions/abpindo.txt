@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202011090921
+! Version: 202011160953
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 09 Nov 2020 09:21 UTC
+! Last modified: 16 Nov 2020 09:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -4840,6 +4840,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##[href^="http://899cash."]
 ##[href^="http://8mpoker."]
 ##[href^="http://8togel."]
+##[href^="http://978bet13.com"]
 ##[href^="http://988bet."]
 ##[href^="http://99abgqq."]
 ##[href^="http://99capsaqq99.com/"]
@@ -6695,10 +6696,12 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[title="HONORQQ" i]
 ##a[title="HUJANQQ" i]
 ##a[title="HeloQQ" i]
+##a[title="Hoki Slot" i]
 ##a[title="HokiQQ" i]
 ##a[title="IBCQQ" i]
 ##a[title="IBUQQ" i]
 ##a[title="ID88.Com" i]
+##a[title="IDN POKER ONLINE" i]
 ##a[title="IDOLAQQ" i]
 ##a[title="IDRPOKER" i]
 ##a[title="ILMU99" i]
@@ -7253,6 +7256,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##a[title^="agen casino" i]
 ##a[title^="agen judi" i]
 ##a[title^="agen poker" i]
+##a[title^="agen slot casino" i]
 ##a[title^="agen togel" i]
 ##a[title^="bandar judi" i]
 ##a[title^="bandar poker" i]
@@ -7482,10 +7486,12 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt="HONORQQ" i]
 ##img[alt="HUJANQQ" i]
 ##img[alt="HeloQQ" i]
+##img[alt="Hoki Slot" i]
 ##img[alt="HokiQQ" i]
 ##img[alt="IBCQQ" i]
 ##img[alt="IBUQQ" i]
 ##img[alt="ID88.Com" i]
+##img[alt="IDN POKER ONLINE" i]
 ##img[alt="IDOLAQQ" i]
 ##img[alt="IDRPOKER" i]
 ##img[alt="ILMU99" i]
@@ -8041,6 +8047,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 ##img[alt^="agen casino" i]
 ##img[alt^="agen judi" i]
 ##img[alt^="agen poker" i]
+##img[alt^="agen slot casino" i]
 ##img[alt^="agen togel" i]
 ##img[alt^="bandar judi" i]
 ##img[alt^="bandar poker" i]
@@ -8322,6 +8329,7 @@ zonabola.*##a[href^="http://bit.ly/"]
 /newafa.gif
 /newhoya-$image
 /newrgotog.gif
+/ngiklan/ad$image
 /ninjaqq-$image
 /obobet-$image
 /olopoker-$image
