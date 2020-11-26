@@ -16,6 +16,7 @@
 ||a63t9o1azf.com^$popup
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
+||ad-loupe.com^$image,third-party
 ||adaranth.com^$third-party
 ||adbsys.icu^$popup
 ||addesigner.com^$third-party
@@ -67,6 +68,7 @@
 ||csf.uzone.id^
 ||d01.notifa.info^
 ||d0p21g2fep.com^
+||d1f05vr3sjsuy7.cloudfront.net^$script
 ||d2405b0jymm2dk.cloudfront.net^
 ||d24afgsm39csxt.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
@@ -270,5 +272,3 @@
 ||zukxd6fkxqn.com^$popup
 ||zuyejecgb.com^
 ||zuyejecgb.com^$popup
-||d1f05vr3sjsuy7.cloudfront.net^$script
-||ad-loupe.com^$image,third-party
