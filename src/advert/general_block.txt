@@ -32,6 +32,7 @@
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
+/itugol.gif$image
 /plugins/soralink/*.js$script,domain=animebaru.in|animebatch.id|animebatch.web.id|anitoki.com|batch.id|maxnime.com
 /revenuehits.js|
 /safelink$script,third-party
@@ -46,4 +47,3 @@
 /wpsafelink$script,domain=daizurin.com|lucikun.com|shitaranime.com|sinanime.net
 /wpsafelink$script,third-party
 iklan300x250.gif|
-/itugol.gif$image
