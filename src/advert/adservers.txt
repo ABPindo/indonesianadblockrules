@@ -17,6 +17,7 @@
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
 ||ad-loupe.com^$image,third-party
+||ad-loupe.com^$third-party
 ||adaranth.com^$third-party
 ||adbsys.icu^$popup
 ||addesigner.com^$third-party
@@ -223,6 +224,7 @@
 ||sebar.idblognetwork.com^$third-party
 ||see-work.info^$popup,third-party
 ||sentrapromosi.com^$third-party
+||serbada.com^$image,third-party
 ||serbapromo.com^$third-party
 ||shiiuojjccp.com^$popup
 ||shiokambing2.com^$popup,third-party
@@ -272,5 +274,3 @@
 ||zukxd6fkxqn.com^$popup
 ||zuyejecgb.com^
 ||zuyejecgb.com^$popup
-||ad-loupe.com^$third-party
-||serbada.com^$image,third-party

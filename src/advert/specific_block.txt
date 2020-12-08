@@ -282,8 +282,8 @@ $xmlhttprequest,domain=mangacanblog.com
 ||videocrot.org/wp-content/uploads/*/iklan.gif
 ||wp.com/animelu.com/wp-content/uploads/*.gif$image,domain=animelu.com
 ||wp.com/ryuukoi.web.id/wp-content/uploads/*/antiadblock$image
+||www.riau24.com/portal/adv/$image
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
-||www.riau24.com/portal/adv/$image
