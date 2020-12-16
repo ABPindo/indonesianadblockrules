@@ -759,3 +759,7 @@ bioskop78.com##td:nth-of-type(3)
 terbit21.*###ptbanner
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
+www.inibaru.id##.mb-4.bg-grey.text-center
+www.inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
+www.inibaru.id##.ads-sticky-right
+www.inibaru.id##.ads-sticky-left
