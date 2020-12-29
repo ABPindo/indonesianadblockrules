@@ -764,3 +764,8 @@ bioskop78.com##td:nth-of-type(3)
 terbit21.*###ptbanner
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
+139.99.33.192##.banner-float-bottom
+139.99.33.192###adsimgxbawah
+
+139.99.33.192###adsimgxatas2
+||bp.blogspot.com/*.gif$image,domain=139.99.33.192
