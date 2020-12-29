@@ -15,6 +15,8 @@ harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 premierexxi.com###ads_top_list
+139.99.33.192###adsimgxatas2
+139.99.33.192###adsimgxbawah
 tvkabel.net###adv
 streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2
@@ -292,6 +294,7 @@ myasiantv.se##.av-content-full
 139.99.120.222,158.69.54.218,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 animebatchs.com,goblintvfree.com,juragan-anime.net,nanime.in##.banner
 dewanonton.vip,dwanonton.com##.banner-common
+139.99.33.192##.banner-float-bottom
 dewabioskop21.asia,dewabioskop21.org##.banner-left
 dewabioskop21.org##.banner-middle
 dewanonton.vip##.banner-premium
@@ -764,8 +767,4 @@ bioskop78.com##td:nth-of-type(3)
 terbit21.*###ptbanner
 thirdstarfilm.*##a[href^="http://bit.ly/"]
 zonabola.*##a[href^="http://bit.ly/"]
-139.99.33.192##.banner-float-bottom
-139.99.33.192###adsimgxbawah
-
-139.99.33.192###adsimgxatas2
 ||bp.blogspot.com/*.gif$image,domain=139.99.33.192
