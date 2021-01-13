@@ -10,7 +10,7 @@
 .bid^$popup,third-party
 .biz/iklan/
 .com/iklan/
-.id/ads/$~object-subrequest
+.id/ads/
 .id/adv/
 .id/iklan/
 .info/iklan/
