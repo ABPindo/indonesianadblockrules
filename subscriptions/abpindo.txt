@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202101212143
+! Version: 202101212215
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 21 Jan 2021 21:43 UTC
+! Last modified: 21 Jan 2021 22:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -16,10 +16,13 @@
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||108.168.231.179^$popup,third-party
 ||188affiliates.com^$third-party
+||1b969cef84d93b43.com^
 ||2go7v1nes8.com^
 ||34667c8ece5.com^
 ||3r1kwxcd.top^$third-party
 ||64p3am9x95ct.com^$popup
+||6631f33cf2a1032b.com^
+||995db2642d3d852b.com^
 ||9eb10b7a3d04a.com^$popup
 ||9icmzvn6.website^$popup
 ||a.brand.ad^$third-party
@@ -66,6 +69,8 @@
 ||baliadv.com^$third-party
 ||bcajjtbzmdrl.com^$popup
 ||bellaads.com^$third-party
+||browsertelemetry.tk^
+||cea9d3d4f74fb831.com^
 ||cfs.u-ad.info^
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
@@ -85,6 +90,7 @@
 ||d2jn12r3o7an7z.cloudfront.net^
 ||d3t5ngjixpjdho.cloudfront.net^
 ||d72gb9oukw3j.com^$popup
+||d824d7f5cbcb0e00.com^
 ||daero.pw^$popup
 ||dafa.io^$popup,third-party
 ||dairouzy.net^$popup
@@ -6332,6 +6338,7 @@ bioskop78.com##td:nth-of-type(3)
 ##a[title="1188POKER" i]
 ##a[title="1POKER" i]
 ##a[title="1xbet" i]
+##a[title="33sbet" i]
 ##a[title="381bet" i]
 ##a[title="388hero"]
 ##a[title="526betclub" i]
@@ -7127,6 +7134,7 @@ bioskop78.com##td:nth-of-type(3)
 ##img[alt="1188POKER" i]
 ##img[alt="1POKER" i]
 ##img[alt="1xbet" i]
+##img[alt="33sbet" i]
 ##img[alt="381bet" i]
 ##img[alt="388hero"]
 ##img[alt="526betclub" i]
