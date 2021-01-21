@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202101212033
+! Version: 202101212143
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 21 Jan 2021 20:33 UTC
+! Last modified: 21 Jan 2021 21:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -32,8 +32,6 @@
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
 ||ad-loupe.com^$image,third-party
-||ad-loupe.com^$third-party
-||adaranth.com^$third-party
 ||adbsys.icu^$popup
 ||addesigner.com^$third-party
 ||adflazz.com^$third-party
@@ -65,8 +63,6 @@
 ||auredzeon.com^$popup
 ||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
-||backwardkneesencroach.com^$third-party
-||badskies.com^$third-party
 ||baliadv.com^$third-party
 ||bcajjtbzmdrl.com^$popup
 ||bellaads.com^$third-party
@@ -84,7 +80,6 @@
 ||csf.uzone.id^
 ||d01.notifa.info^
 ||d0p21g2fep.com^
-||d1f05vr3sjsuy7.cloudfront.net^$script
 ||d2405b0jymm2dk.cloudfront.net^
 ||d24afgsm39csxt.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
@@ -103,12 +98,10 @@
 ||drda5yf9kgz5p.cloudfront.net^
 ||dzbx8qv1at614.cloudfront.net^
 ||e7393e33565ce805.com^$popup
-||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
 ||edspectsm.fun^$third-party
 ||epfcfhtjxqd.com^$popup
-||estoopsi.com^
 ||etoads.net^$popup
 ||etoads.net^$third-party
 ||flexterkita.com^$third-party
@@ -117,7 +110,6 @@
 ||fryruejoust.cam^$popup
 ||furocmay.com^$popup
 ||gbrrrxbodqdlq.com^$popup
-||gbrrrxbodqdlq.com^$script
 ||goingsilltrusty.com^
 ||groucign.com^$third-party
 ||groupiklan.com^$third-party
@@ -165,24 +157,19 @@
 ||juruiklan.com^$third-party
 ||katurars.com^$popup
 ||kdbumyha.com^$popup
-||kdbumyha.com^$script
 ||klikajadeh.com^$third-party
-||kozoysnsx.com^
 ||kozoysnsx.com^$popup
 ||l9tdhe6.com^$popup
 ||ld82ydd.com^$popup
 ||leoceran.pw^$popup
 ||lokeriklan.com^$third-party
-||lopzitpup.com^$script
 ||lpaizureik.com^$popup
 ||lugtardam.com^$script
 ||luven.xyz^$popup
-||luven.xyz^$third-party
 ||masteriklan.net^$third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||misxgkvnlf.com^$popup
-||misxgkvnlf.com^$script
 ||motosal.net^$popup
 ||mousheen.net^$third-party
 ||mybannermaker.com^$third-party
@@ -191,7 +178,6 @@
 ||octafx.com^$popup,third-party
 ||offerjuice.me^$popup,third-party
 ||ofphanpytor.com^$popup
-||ojeergoy.com^
 ||olenation.org^$popup
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
@@ -210,7 +196,6 @@
 ||paypopup.com^$third-party
 ||pc3ads.com^$third-party
 ||peevopoy.com^$third-party
-||phastoag.com^$third-party
 ||phca85g3n400.com^$third-party
 ||pheersie.com^$popup
 ||phudrour.net^$popup
@@ -244,7 +229,6 @@
 ||shiiuojjccp.com^$popup
 ||shiokambing2.com^$popup,third-party
 ||shqbsdjatunl.com^$popup
-||shqbsdjatunl.com^$third-party
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
 ||sumberiklan.com^$third-party
@@ -265,14 +249,10 @@
 ||u-on.eu^$popup,third-party
 ||uadexchange.com^$third-party
 ||ueuodgnrhb.com^$popup
-||ueuodgnrhb.com^$third-party
 ||uieoogjarimcey.com^$popup
-||uieoogjarimcey.com^$script
 ||uoarbhxfyygn.com^$popup,third-party
 ||uofmnbkm.com^$popup
-||urt7bpvfz4am.com^$script
 ||useads.com^$third-party
-||vidcpm.com^$third-party
 ||vrewpywootyu.com^$popup,third-party
 ||wbaogaqvrukprx.com^$popup
 ||webiklan.com^$third-party
@@ -287,7 +267,6 @@
 ||ys3e965d.top^$third-party
 ||yx-ads6.com^$third-party
 ||zukxd6fkxqn.com^$popup
-||zuyejecgb.com^
 ||zuyejecgb.com^$popup
 ! *** abpindo:src/advert/thirdparty.txt ***
 ||c-stat.eu^$third-party
@@ -606,8 +585,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||nt1.co/js/jquery.floating_popup.$script
 ||numpanglewat.com^$third-party
 ||numpangnonton.*/wp-content/uploads/*.gif$image
-||onsafelink.com/js/full-page-script.js$script,domain=bakacan.id
-||paid4link.com/js/full-page-script.js$script
 ||pakbos21.org/wp-content/uploads/*.gif$image,~third-party
 ||pastebin.com/raw/*$script,domain=tokubatch.com
 ||pergi.klik-link.us/wpsafelink.js$script,domain=kazefuri.web.id
@@ -622,7 +599,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
 ||serunonton.*/wp-content/uploads/*.gif$image
-||shorten.sh/js/full-page-script.js$script
 ||sobatkeren.club/img/banner/*.gif$image
 ||sodasusu.com/banner/
 ||solopos.com/banner/
@@ -630,7 +606,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||susterbokep.com/wp-content/uploads/*.gif$image
-||syndication.rightnativecontent.com/javascripts/adx-delivery.min.js$script,domain=kurina.vip
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
@@ -830,7 +805,6 @@ woof.tube#@#.adsbox
 ||celebpoker.com^$third-party
 ||chilipoker.com^$third-party
 ||clickadu.com^$popup
-||clickadu.com^$third-party
 ||coltpoker.com^$third-party
 ||coolhandpoker.com^$third-party
 ||cyberjudi.com^$third-party
@@ -1241,7 +1215,6 @@ woof.tube#@#.adsbox
 /imcpoker.$image,third-party
 /incarqq.$image,third-party
 /indorajaqq.$image,third-party
-/indotogel.$image
 /indowin99.$image,third-party
 /indowins.$image,third-party
 /inidomino.$image,third-party
@@ -3932,7 +3905,6 @@ woof.tube#@#.adsbox
 /526bet-$image
 /720x90-jkt2u-$image
 /728-x-90-$image
-/AAgenQQ.gif|$image
 /BANNER-liga88-$image
 /Banner-Bandar303.gif|$image
 /Banner-Poker$image,third-party
@@ -4165,7 +4137,6 @@ woof.tube#@#.adsbox
 /uploads/*/Indotogel-$image
 /uploads/*/TOTOBET-$image
 /uploads/*/ahabet.$image
-/uploads/*/indotogel.$image
 /uploads/*/jayapoker-$image
 /uploads/*/senyumqq-|$image
 /uploads/*/vipslot.$image
