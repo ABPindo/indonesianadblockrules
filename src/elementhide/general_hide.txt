@@ -85,7 +85,6 @@ giladrakor.com###ouibounce-modal
 ##.ads__side
 ##.ads_image
 ##.ads_top_728
-##.ads_top_nav
 ##.adsatas
 ##.adsatas1
 ##.adsatas2
@@ -200,6 +199,5 @@ giladrakor.com###ouibounce-modal
 ##[href^="//mellowads.com/"]
 ##[href^="http://www.ituvipwd.com"]
 ##[href^="https://www.ituqqwd.com"]
-##[id^="rn_ad_native_"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]

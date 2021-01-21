@@ -17,8 +17,6 @@
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
 ||ad-loupe.com^$image,third-party
-||ad-loupe.com^$third-party
-||adaranth.com^$third-party
 ||adbsys.icu^$popup
 ||addesigner.com^$third-party
 ||adflazz.com^$third-party
@@ -50,8 +48,6 @@
 ||auredzeon.com^$popup
 ||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
-||backwardkneesencroach.com^$third-party
-||badskies.com^$third-party
 ||baliadv.com^$third-party
 ||bcajjtbzmdrl.com^$popup
 ||bellaads.com^$third-party
@@ -69,7 +65,6 @@
 ||csf.uzone.id^
 ||d01.notifa.info^
 ||d0p21g2fep.com^
-||d1f05vr3sjsuy7.cloudfront.net^$script
 ||d2405b0jymm2dk.cloudfront.net^
 ||d24afgsm39csxt.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
@@ -88,12 +83,10 @@
 ||drda5yf9kgz5p.cloudfront.net^
 ||dzbx8qv1at614.cloudfront.net^
 ||e7393e33565ce805.com^$popup
-||eclkmpbn.com^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
 ||edspectsm.fun^$third-party
 ||epfcfhtjxqd.com^$popup
-||estoopsi.com^
 ||etoads.net^$popup
 ||etoads.net^$third-party
 ||flexterkita.com^$third-party
@@ -102,7 +95,6 @@
 ||fryruejoust.cam^$popup
 ||furocmay.com^$popup
 ||gbrrrxbodqdlq.com^$popup
-||gbrrrxbodqdlq.com^$script
 ||goingsilltrusty.com^
 ||groucign.com^$third-party
 ||groupiklan.com^$third-party
@@ -150,24 +142,19 @@
 ||juruiklan.com^$third-party
 ||katurars.com^$popup
 ||kdbumyha.com^$popup
-||kdbumyha.com^$script
 ||klikajadeh.com^$third-party
-||kozoysnsx.com^
 ||kozoysnsx.com^$popup
 ||l9tdhe6.com^$popup
 ||ld82ydd.com^$popup
 ||leoceran.pw^$popup
 ||lokeriklan.com^$third-party
-||lopzitpup.com^$script
 ||lpaizureik.com^$popup
 ||lugtardam.com^$script
 ||luven.xyz^$popup
-||luven.xyz^$third-party
 ||masteriklan.net^$third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||misxgkvnlf.com^$popup
-||misxgkvnlf.com^$script
 ||motosal.net^$popup
 ||mousheen.net^$third-party
 ||mybannermaker.com^$third-party
@@ -176,7 +163,6 @@
 ||octafx.com^$popup,third-party
 ||offerjuice.me^$popup,third-party
 ||ofphanpytor.com^$popup
-||ojeergoy.com^
 ||olenation.org^$popup
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
@@ -195,7 +181,6 @@
 ||paypopup.com^$third-party
 ||pc3ads.com^$third-party
 ||peevopoy.com^$third-party
-||phastoag.com^$third-party
 ||phca85g3n400.com^$third-party
 ||pheersie.com^$popup
 ||phudrour.net^$popup
@@ -229,7 +214,6 @@
 ||shiiuojjccp.com^$popup
 ||shiokambing2.com^$popup,third-party
 ||shqbsdjatunl.com^$popup
-||shqbsdjatunl.com^$third-party
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
 ||sumberiklan.com^$third-party
@@ -250,14 +234,10 @@
 ||u-on.eu^$popup,third-party
 ||uadexchange.com^$third-party
 ||ueuodgnrhb.com^$popup
-||ueuodgnrhb.com^$third-party
 ||uieoogjarimcey.com^$popup
-||uieoogjarimcey.com^$script
 ||uoarbhxfyygn.com^$popup,third-party
 ||uofmnbkm.com^$popup
-||urt7bpvfz4am.com^$script
 ||useads.com^$third-party
-||vidcpm.com^$third-party
 ||vrewpywootyu.com^$popup,third-party
 ||wbaogaqvrukprx.com^$popup
 ||webiklan.com^$third-party
@@ -272,5 +252,4 @@
 ||ys3e965d.top^$third-party
 ||yx-ads6.com^$third-party
 ||zukxd6fkxqn.com^$popup
-||zuyejecgb.com^
 ||zuyejecgb.com^$popup

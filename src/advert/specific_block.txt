@@ -244,8 +244,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||nt1.co/js/jquery.floating_popup.$script
 ||numpanglewat.com^$third-party
 ||numpangnonton.*/wp-content/uploads/*.gif$image
-||onsafelink.com/js/full-page-script.js$script,domain=bakacan.id
-||paid4link.com/js/full-page-script.js$script
 ||pakbos21.org/wp-content/uploads/*.gif$image,~third-party
 ||pastebin.com/raw/*$script,domain=tokubatch.com
 ||pergi.klik-link.us/wpsafelink.js$script,domain=kazefuri.web.id
@@ -260,7 +258,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
 ||serunonton.*/wp-content/uploads/*.gif$image
-||shorten.sh/js/full-page-script.js$script
 ||sobatkeren.club/img/banner/*.gif$image
 ||sodasusu.com/banner/
 ||solopos.com/banner/
@@ -268,7 +265,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||susterbokep.com/wp-content/uploads/*.gif$image
-||syndication.rightnativecontent.com/javascripts/adx-delivery.min.js$script,domain=kurina.vip
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
