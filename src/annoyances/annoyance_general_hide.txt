@@ -5,6 +5,7 @@
 ##.judi
 ##.togel
 ##[href$="/bandarpokerpulsa"]
+##[href$="/rajasloto"]
 ##[href="http://probet228.com"]
 ##[href^="//zukxd6fkxqn.com/"]
 ##[href^="Http://ApiBet."]
@@ -2405,6 +2406,7 @@
 ##a[title="pokercip" i]
 ##a[title="pokerlounge99" i]
 ##a[title="promo togel" i]
+##a[title="promosi kdslots" i]
 ##a[title="qqangpao" i]
 ##a[title="qqturbo" i]
 ##a[title="rajajudiQQ" i]
@@ -3205,6 +3207,7 @@
 ##img[alt="pokercip" i]
 ##img[alt="pokerlounge99" i]
 ##img[alt="promo togel" i]
+##img[alt="promosi kdslots" i]
 ##img[alt="qqangpao" i]
 ##img[alt="qqturbo" i]
 ##img[alt="rajajudiQQ" i]
@@ -3298,6 +3301,3 @@
 ##img[class="happypoker" i]
 ##img[src="http://livesgp."]
 ##img[title="ALIENBOLA" i]
-##[href$="/rajasloto"]
-##a[title="promosi kdslots" i]
-##img[alt="promosi kdslots" i]
