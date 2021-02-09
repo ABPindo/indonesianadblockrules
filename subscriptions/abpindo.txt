@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202102010845
+! Version: 202102092357
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Feb 2021 08:45 UTC
+! Last modified: 09 Feb 2021 23:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -386,7 +386,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.site|layarkeren.xyz|layarmovie21.co|lk21id.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|oploverz.in|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=139.99.33.192|animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.site|layarkeren.xyz|layarmovie21.co|lk21id.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|oploverz.in|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
@@ -1321,7 +1321,7 @@ kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 otakuindo.org##.box_banner
-neonime.com##.box_item_berlangganan
+neonime.com,neonime.vip##.box_item_berlangganan
 46.166.167.16##.breadBoxBottom
 inilah.com##.bt-g1.b-g3.wb-300x100
 inilah.com##.bt-g1.b-g3.wb-300x250
@@ -1362,6 +1362,7 @@ dewanontons.com##.dewa_floating_bottom
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
+drakorasia.net##.floatingads
 teknoup.com##.footer_banner
 manganime.id##.ftadss
 myasiantv.se##.glx-link
@@ -1581,7 +1582,6 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-||bp.blogspot.com/*.gif$image,domain=139.99.33.192
 ! --------------------------- annoyances ------------------------------!
 ! *** abpindo:src/annoyances/annoyance_thirdparty.txt ***
 ||24hpoker.com^$third-party
@@ -4640,6 +4640,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href$="/bandarpokerpulsa"]
 ##[href$="/rajasloto"]
 ##[href="http://probet228.com"]
+##[href="https://superitc.biz/"]
 ##[href^="//zukxd6fkxqn.com/"]
 ##[href^="Http://ApiBet."]
 ##[href^="Http://ApiKartu."]
@@ -5489,6 +5490,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://sevenbola."]
 ##[href^="http://shiokambing2."]
 ##[href^="http://shiokuda."]
+##[href^="http://shiro888slot.com"]
 ##[href^="http://siapbet."]
 ##[href^="http://sifubet."]
 ##[href^="http://sifujudi."]
@@ -6264,6 +6266,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="https://zetapoker99.com"]
 ##[href^="https://zeuspkv.com"]
 ##[src$="/assets/kdslot.gif"]
+##[title="Inidewa365" i]
 ##a[href$="/77megabet"]
 ##a[href$="/LonteQQ"]
 ##a[href$="/adscantikqq"]
