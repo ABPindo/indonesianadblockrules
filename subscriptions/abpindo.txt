@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202102122241
+! Version: 202103041251
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 12 Feb 2021 22:41 UTC
+! Last modified: 04 Mar 2021 12:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1125,6 +1125,7 @@ layarkeren.site###ouibounce-modal
 kricom.id###overlay
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
+oploverz.bz###overplay
 cinema-indo.com,cinemaindo.web.id,layarkaca21.net,layarkaca21.web.id,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
 eramuslim.com###peluang
 idxx1.top###player-side-left
@@ -1444,6 +1445,8 @@ ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
 republika.co.id##.set-ads-468
 kazemanga.xyz##.sg-popup-builder-content
+oploverz.bz##.sg-popup-content
+oploverz.bz##.sgpb-popup-overlay
 drakorindo.fun##.sgpb-popup-overlay.sgpb-popup-overlay-3560.sgpb-theme-6-overlay
 cinemaindo.com##.side:nth-of-type(7)
 cinemaindo.com##.side:nth-of-type(8)
@@ -1577,7 +1580,8 @@ jakbos.com##img:nth-of-type(2)
 tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
-lihat.co.id##img[width="300"][height="250"]
+lihat.co.id,oploverz.bz##img[width="300"][height="250"]
+oploverz.bz##img[width="300"][height="300"]
 animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
