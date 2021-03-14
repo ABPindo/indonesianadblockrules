@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202103041251
+! Version: 202103142214
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 04 Mar 2021 12:51 UTC
+! Last modified: 14 Mar 2021 22:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -6142,6 +6142,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="https://fivestarsbet.com"]
 ##[href^="https://fundomino."]
 ##[href^="https://fundominoqq."]
+##[href^="https://habaneroslot."]
 ##[href^="https://hahatogel.net"]
 ##[href^="https://hokianda.com"]
 ##[href^="https://id.maindulu77.com"]
@@ -6274,6 +6275,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="https://zeuspkv.com"]
 ##[src$="/assets/kdslot.gif"]
 ##[title="Inidewa365" i]
+##[title="okeplay777" i]
 ##a[href$="/77megabet"]
 ##a[href$="/LonteQQ"]
 ##a[href$="/adscantikqq"]
@@ -6351,6 +6353,7 @@ bioskop78.com##td:nth-of-type(3)
 ##a[title="1xbet" i]
 ##a[title="33sbet" i]
 ##a[title="381bet" i]
+##a[title="388HERO" i]
 ##a[title="388hero"]
 ##a[title="526betclub" i]
 ##a[title="5Starsbet" i]
