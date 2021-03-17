@@ -21,6 +21,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||animeindo.*/wp-content/uploads/*.gif$image
 ||animekompi.web.id/wp-content/uploads/*/ANTIBLOCKER2.jpg
 ||animekompi.web.id/wp-content/uploads/*/antiblocker3-1.jpg
+||animexin.*/wp-content/uploads/*.gif$image,~third-party
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
 ||awnime.net/popup.htm$popup
