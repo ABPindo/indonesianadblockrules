@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202104031035
+! Version: 202104040359
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 03 Apr 2021 10:35 UTC
+! Last modified: 04 Apr 2021 03:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -6361,6 +6361,7 @@ bioskop78.com##td:nth-of-type(3)
 ##a[title="526betclub" i]
 ##a[title="5Starsbet" i]
 ##a[title="77 BANDAR" i]
+##a[title="777qiuqiu" i]
 ##a[title="7KARTU" i]
 ##a[title="7UPCASH" i]
 ##a[title="7naga bet" i]
@@ -6751,6 +6752,7 @@ bioskop78.com##td:nth-of-type(3)
 ##a[title="PONDOKPOKER" i]
 ##a[title="PRIAQQ" i]
 ##a[title="PRUPOKER" i]
+##a[title="PURIBET" i]
 ##a[title="PasarOnline" i]
 ##a[title="Poker Ace" i]
 ##a[title="Poker Bola" i]
@@ -7158,6 +7160,7 @@ bioskop78.com##td:nth-of-type(3)
 ##img[alt="526betclub" i]
 ##img[alt="5Starsbet" i]
 ##img[alt="77 BANDAR" i]
+##img[alt="777qiuqiu" i]
 ##img[alt="7KARTU" i]
 ##img[alt="7UPCASH" i]
 ##img[alt="7naga bet" i]
@@ -7551,6 +7554,7 @@ bioskop78.com##td:nth-of-type(3)
 ##img[alt="PONDOKPOKER" i]
 ##img[alt="PRIAQQ" i]
 ##img[alt="PRUPOKER" i]
+##img[alt="PURIBET" i]
 ##img[alt="PasarOnline" i]
 ##img[alt="Poker Ace" i]
 ##img[alt="Poker Bola" i]
@@ -8060,6 +8064,7 @@ bioskop78.com##td:nth-of-type(3)
 /ITCBET.gif|$image
 /JuaraCapsa.gif|$image
 /NIKMATIQQ.$image
+/PURIBET.gif|$image
 /ZEUSPOKER.gif|$image
 /aabet.$image
 /abgqq-$image
