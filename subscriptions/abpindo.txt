@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202104040359
+! Version: 202104190937
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 04 Apr 2021 03:59 UTC
+! Last modified: 19 Apr 2021 09:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1175,7 +1175,7 @@ downloadfilmbaru.com###sticky-ads
 detik.com###sto_banner
 cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,filmroster.online,mangashiro.net,neumanga.tv###teaser1
 22cinema.download,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,komiku.net,movie76.net,nontonmovie.web.id###teaser2
-22cinema.download,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,layarbiru21.com,movie76.net,nontonmovie.web.id###teaser3
+22cinema.download,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,layarbiru21.com,movie76.net,nontonmovie.web.id###teaser3
 sodasusu.com###teaser4
 22cinema.download###teaser5
 indoxx1.club###tengah
@@ -4991,6 +4991,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://galeripoker88."]
 ##[href^="http://gamebandarq."]
 ##[href^="http://gamegua88."]
+##[href^="http://gameslotgacor.com"]
 ##[href^="http://gangrumah."]
 ##[href^="http://ganoolqq."]
 ##[href^="http://garampoker."]
