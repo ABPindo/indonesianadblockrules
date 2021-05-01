@@ -276,6 +276,7 @@ inews.id##.ads_sticky_footer
 eramuslim.com##.adsbyadop
 apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
 pontianakpost.co.id##.adsense
+gamebrott.com##.adsense-header-in-article
 ganol.si##.adsincenter
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
@@ -619,4 +620,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-gamebrott.com##.adsense-header-in-article
