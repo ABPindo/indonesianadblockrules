@@ -118,6 +118,7 @@ giladrakor.com###ouibounce-modal
 ##.fake_player
 ##.floatingBanner728
 ##.forads
+##.fotads_showalign
 ##.frame_iklan_baris
 ##.gbcontent
 ##.gpcontent
@@ -166,6 +167,7 @@ giladrakor.com###ouibounce-modal
 ##.iklan_semprot_h
 ##.iklan_tengah
 ##.iklanhead
+##.iklanlebar
 ##.iklanleft
 ##.iklanmini
 ##.iklanpusat
@@ -201,5 +203,3 @@ giladrakor.com###ouibounce-modal
 ##[href^="https://www.ituqqwd.com"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
-##.fotads_showalign
-##.iklanlebar

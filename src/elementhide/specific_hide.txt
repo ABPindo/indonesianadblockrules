@@ -338,7 +338,7 @@ bharian.com.my##.bh-ad
 bharian.com.my##.block-bh-googledfp
 gudangpemain.com##.blocker-notice
 gudangpemain.com##.blocker-overlay
-indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-modal
+didrakorindo.com,indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-modal
 ceklink.co##.blog-content
 103.194.171.75,idtube.me##.bm.overlay
 anime17.net,cosmogirl.co.id##.bnr
@@ -390,7 +390,7 @@ tribunnews.com##.content [style="width:160px; height:600px;"]
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
-indoxxi.pictures,nontonfilm25.co,pintubioskop.com,sukanonton.online##.current.ujimodal.ujipopup
+didrakorindo.com,indoxxi.pictures,nontonfilm25.co,pintubioskop.com,sukanonton.online##.current.ujimodal.ujipopup
 teknologi.inilah.com##.d.wp-120x600
 okezone.com##.detads
 detik.com##.detikads
@@ -398,7 +398,7 @@ dewanontons.com##.dewa_floating_bottom
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
-drakorasia.net##.floatingads
+drakorasia.net,ryuukoi.web.id##.floatingads
 teknoup.com##.footer_banner
 manganime.id##.ftadss
 myasiantv.se##.glx-link
@@ -621,6 +621,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-didrakorindo.com##.blocker.jquery-modal
-didrakorindo.com##.current.ujimodal.ujipopup
-ryuukoi.web.id##.floatingads
