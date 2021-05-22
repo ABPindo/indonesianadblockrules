@@ -376,8 +376,10 @@ filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 kompas.com##.clearfix.kcm__big.kcm
 kompas.com##.clearfix.kcm__rectangle.kcm
+kompas.com##.clearfix.kcm__sticky.kcm
 kompas.com##.clearfix.kcm__top.kcm
 kompas.com##.clearfix.kcm__tower.kcm
+kompas.com##.clearfix.kcm__track.kcm
 mivo.com##.clearfix.top-ads
 tempo.co##.closebanner1
 tempo.co##.closebanner2
@@ -425,6 +427,8 @@ ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
 indoxx1.art,indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
+kompas.com##.kcm
+kompas.com##.kcm__articleList
 kompas.com##.kcm__horizontal.kcm
 kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
@@ -621,8 +625,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-kompas.com##.kcm__articleList
-kompas.com##.clearfix.kcm__track.kcm
-kompas.com##.clearfix.kcm__sticky.kcm
-kompas.com##.clearfix.kcm__track.kcm
-kompas.com##.kcm
