@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202107170910
+! Version: 202107172302
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 17 Jul 2021 09:10 UTC
+! Last modified: 17 Jul 2021 23:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -4671,6 +4671,7 @@ bioskop78.com##td:nth-of-type(3)
 ##.judi
 ##.togel
 ##[href$="/bandarpokerpulsa"]
+##[href$="/mahadewa88"]
 ##[href$="/rajasloto"]
 ##[href="http://probet228.com"]
 ##[href="https://superitc.biz/"]
@@ -4719,6 +4720,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://899bola."]
 ##[href^="http://899cash."]
 ##[href^="http://8mpoker."]
+##[href^="http://8sbopoker.com"]
 ##[href^="http://8togel."]
 ##[href^="http://978bet13.com"]
 ##[href^="http://978bet31.com"]
@@ -5147,6 +5149,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://itutoto."]
 ##[href^="http://ivopoker."]
 ##[href^="http://jagoanpoker99."]
+##[href^="http://jagoonline88."]
 ##[href^="http://jakartaqq."]
 ##[href^="http://jakbos."]
 ##[href^="http://jalanalternatif."]
@@ -5286,6 +5289,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://mantapkiu."]
 ##[href^="http://marina-365."]
 ##[href^="http://maruduthutabarat."]
+##[href^="http://maspoker."]
 ##[href^="http://master138."]
 ##[href^="http://master88."]
 ##[href^="http://masterbaccarat."]
@@ -5413,6 +5417,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://pokerbola."]
 ##[href^="http://pokerdex."]
 ##[href^="http://pokergalaxy."]
+##[href^="http://pokeribc."]
 ##[href^="http://pokerindo99."]
 ##[href^="http://pokerlahan.fun/ref.php"]
 ##[href^="http://pokermeja."]
@@ -5868,6 +5873,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="http://www.indopk365."]
 ##[href^="http://www.indopokers."]
 ##[href^="http://www.indorajaqq."]
+##[href^="http://www.indosevenbet."]
 ##[href^="http://www.indovegas88."]
 ##[href^="http://www.indowin99."]
 ##[href^="http://www.indukbet."]
@@ -6230,6 +6236,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="https://prediksidukuntogel.top/"]
 ##[href^="https://pusatbandarq."]
 ##[href^="https://pusatqq."]
+##[href^="https://pusbet3.com"]
 ##[href^="https://pusbet7.com/"]
 ##[href^="https://qqangpao."]
 ##[href^="https://qqemas."]
@@ -6241,6 +6248,7 @@ bioskop78.com##td:nth-of-type(3)
 ##[href^="https://rajakasino33m."]
 ##[href^="https://rajapoker."]
 ##[href^="https://rajaremi."]
+##[href^="https://ratucapsa365.net"]
 ##[href^="https://refpaqutiu.top/"]
 ##[href^="https://sakong."]
 ##[href^="https://sakongkiu."]
@@ -7213,6 +7221,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="5Starsbet" i]
 ##img[alt="77 BANDAR" i]
 ##img[alt="777qiuqiu" i]
+##img[alt="77LUCKS" i]
 ##img[alt="7KARTU" i]
 ##img[alt="7UPCASH" i]
 ##img[alt="7naga bet" i]
@@ -7307,6 +7316,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="BERKAHPOKER" i]
 ##img[alt="BETFLIX" i]
 ##img[alt="BIJIQQ" i]
+##img[alt="BIMABET" i]
 ##img[alt="BISAQQ" i]
 ##img[alt="BOLAVITA" i]
 ##img[alt="BONUSQQ" i]
@@ -7530,6 +7540,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="MAINQQ" i]
 ##img[alt="MAJUQQ" i]
 ##img[alt="MAKAUQQ" i]
+##img[alt="MANDALATOTO" i]
 ##img[alt="MANDIRIQQ" i]
 ##img[alt="MARIOQQ" i]
 ##img[alt="MASTERDOMINO88" i]
@@ -7548,6 +7559,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="MENUQQ" i]
 ##img[alt="MGMPOKER" i]
 ##img[alt="MITRACAPSA" i]
+##img[alt="MKVGAMES" i]
 ##img[alt="MKVPoker" i]
 ##img[alt="MULAIQQ" i]
 ##img[alt="MURAHQQ" i]
@@ -7586,6 +7598,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="PAKQQ" i]
 ##img[alt="PANADOLQQ" i]
 ##img[alt="PANASQQ" i]
+##img[alt="PANCATOTO" i]
 ##img[alt="PARISQQ" i]
 ##img[alt="PASARPOKER" i]
 ##img[alt="PASARQQ" i]
@@ -7696,6 +7709,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="SHINCHANPOKER" i]
 ##img[alt="SMSQQ" i]
 ##img[alt="SOSMEDQQ" i]
+##img[alt="STARS77" i]
 ##img[alt="SUGUSQQ" i]
 ##img[alt="SUHUQQ" i]
 ##img[alt="SUKSESDOMINO" i]
@@ -7759,6 +7773,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="Wigobet" i]
 ##img[alt="WongQQ" i]
 ##img[alt="YAKINQQ" i]
+##img[alt="Z11BET" i]
 ##img[alt="ZEUPOKER" i]
 ##img[alt="ZEUSBOLA" i]
 ##img[alt="ZEUSPOKER99" i]
@@ -8128,7 +8143,10 @@ leon.bet#@#a[href$="/slots"]
 /ITCBET.gif|$image
 /JuaraCapsa.gif|$image
 /NIKMATIQQ.$image
+/PKVHOKI.gif|$image
 /PURIBET.gif|$image
+/Poker228.gif|$image
+/ZEUS%2BPOKER.gif|$image
 /ZEUSPOKER.gif|$image
 /aabet.$image
 /abgqq-$image
