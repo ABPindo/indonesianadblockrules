@@ -131,6 +131,7 @@ harakahdaily.net###jsemrp_372_719
 harakahdaily.net###jsemrp_373_873
 harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
+kompas.tv###jxOutstreamContainer
 b201.info,bioskop201.biz###kayan_reklam_sag
 b201.info,bioskop201.biz###kayan_reklam_sol
 zonabola.com###lAds
@@ -259,11 +260,13 @@ file.rocks##.add
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
+kompas.tv##.ads-big
 kompas.tv##.ads-foot
 awnime.net##.ads-header-5
 dapurpacu.com##.ads-home
 grid.id##.ads-mr
 tek.id##.ads-popup__inner
+kompas.tv##.ads-right2
 www.inibaru.id##.ads-sticky-left
 www.inibaru.id##.ads-sticky-right
 terasjakarta.id##.ads.single_post_content
@@ -397,6 +400,7 @@ windowsreport.com##.code-block-3.code-block
 dream.co.id##.col-banner
 ganool.is,ganool.ph,ganool.se,ganool.st##.col-xs-12.col-md-6.col-lg-6
 indoxxi.net##.coliklan
+kompas.tv##.container_skinad
 tribunnews.com##.content [style="width:160px; height:600px;"]
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
@@ -460,6 +464,7 @@ mangacanblog.com##.mas_tamvan
 nontonbokeps.com##.mask-ads
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 www.inibaru.id##.mb-4.bg-grey.text-center
+kompas.tv##.mgidclsbanner
 dapurpacu.com##.mid-banner
 astroawani.com##.middle-ad-cont
 file.rocks##.mobi.content-left
