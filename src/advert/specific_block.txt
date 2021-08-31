@@ -13,6 +13,8 @@ $xmlhttprequest,domain=mangacanblog.com
 ||158.69.54.218/img/closeX.png$image
 ||158.69.54.218/wp-content/uploads/*.gif$image
 ||365wp.org/Banner/728x90$image
+||96.43.139.236/banner/$image
+||96.43.139.237/banner/$image
 ||adsafelink.com/js/webscript.js$script,third-party
 ||adsimg.kompas.com^$domain=kompas.com
 ||akanhoki.com/GenerateAdImage$image
