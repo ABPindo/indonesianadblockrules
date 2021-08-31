@@ -218,7 +218,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||n21.*/wp-content/uploads/*.gif$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||newlk21.*/wp-content/uploads/*.gif$image
-||nlop.xyz/dcba/*$xhr,domain=www.kurina.me
 ||nobartv.com/adsLoader/$xmlhttprequest
 ||nobartv.com/img/banner/*.gif$image
 ||nonton.club/wp-content/uploads/*.gif$image
