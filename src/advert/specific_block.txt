@@ -295,3 +295,4 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bookmtpo.com/topt/$subdocument
 ||newsocko.com/ps6ryte/$subdocument
 ||baztnnews24.com/post_r/$subdocument
+||popcashjs.b-cdn.net^$script,domain=www.kurina.me
