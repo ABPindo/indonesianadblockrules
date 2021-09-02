@@ -225,7 +225,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||n21.*/wp-content/uploads/*.gif$image
-||nanime.biz^$3p
+||nanime.biz^$third-party
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||newlk21.*/wp-content/uploads/*.gif$image
 ||newsocko.com/ps6ryte/$subdocument
