@@ -175,6 +175,8 @@ giladrakor.com###ouibounce-modal
 ##.iklanx1
 ##.infeed-ads
 ##.inside-player-ad
+##.ivs-overlay-adcontainer
+##.ivs-overlay-ads
 ##.kill-adblock-container
 ##.kotak_iklan
 ##.kotakiklan
@@ -203,5 +205,3 @@ giladrakor.com###ouibounce-modal
 ##[href^="https://www.ituqqwd.com"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
-##.ivs-overlay-ads
-##.ivs-overlay-adcontainer

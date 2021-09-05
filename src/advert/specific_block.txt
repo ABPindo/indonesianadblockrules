@@ -16,7 +16,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||96.43.139.236/banner/$image
 ||96.43.139.237/banner/$image
 ||adsafelink.com/js/webscript.js$script,third-party
-
 ||akanhoki.com/GenerateAdImage$image
 ||angel.exabytes.com.my/banners/
 ||anibatch.*/wp-content/uploads/*.gif$image

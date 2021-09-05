@@ -37,6 +37,7 @@
 ||adsbingo.com^$third-party
 ||adscpm.site^$third-party
 ||adshost.site^$third-party
+||adsimg.kompas.com^$third-party
 ||adskom.com^$third-party
 ||adslop.com^$third-party
 ||adtimeselaras.com^$popup
@@ -261,4 +262,3 @@
 ||yx-ads6.com^$third-party
 ||zukxd6fkxqn.com^$popup
 ||zuyejecgb.com^$popup
-||adsimg.kompas.com^$third-party
