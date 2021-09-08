@@ -106,6 +106,7 @@
 /Banner-Poker$image,third-party
 /Banner-Suhubola-$image,third-party
 /Betcoin-$image
+/Dazbet.gif$image
 /ITCBET.gif|$image
 /JuaraCapsa.gif|$image
 /NIKMATIQQ.$image
@@ -195,9 +196,11 @@
 /garudaqq-$image
 /gerhanaqq-$image
 /gilapoker-$image
+/gitartogel.gif|$image,third-party
 /goalgoal365-$image
 /goodbola-bannerfilm.gif|
 /hahatogel-gif$image
+/hkindo.gif|$image,third-party
 /hoki-qq-$image
 /hoki365-$image
 /hokibet-$image
@@ -236,11 +239,13 @@
 /klik66banner.gif|
 /klikqq-$image
 /klikvegas-$image
+/lapak-poker.gif|$image
 /lapakqq-$image
 /lazabet-$image
 /legendpoker-$image
 /ligacapsa-$image
 /ligacash-$image
+/ligacash.gif|$image
 /ligahokie-$image
 /ligapoker-$image
 /lintasqq-$image
@@ -255,6 +260,7 @@
 /mainqq-$image
 /majuqq-$image
 /mamibit-$image
+/mandalatoto.gif|$image
 /maniaqq-$image
 /master88-$image
 /maxisbet-$image

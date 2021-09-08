@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202109052255
+! Version: 202109081018
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 05 Sep 2021 22:55 UTC
+! Last modified: 08 Sep 2021 10:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -19,7 +19,6 @@
 ||1b969cef84d93b43.com^
 ||2go7v1nes8.com^
 ||34667c8ece5.com^
-||3r1kwxcd.top^$third-party
 ||64p3am9x95ct.com^$popup
 ||6631f33cf2a1032b.com^
 ||995db2642d3d852b.com^
@@ -185,7 +184,6 @@
 ||octafx.com^$popup,third-party
 ||offer.popsads.link^$script
 ||offerjuice.me^$popup,third-party
-||ofphanpytor.com^$popup
 ||olenation.org^$popup
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
@@ -216,7 +214,6 @@
 ||props.id^$third-party
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
-||pushqwer.com^$third-party
 ||q1xyxm89.com^$popup
 ||realwap.net^$third-party
 ||replase.gq^$popup,third-party
@@ -296,8 +293,6 @@
 ||traffic-monetizer.com^$third-party
 ||trafficfactory.biz^$popup,third-party
 ||trk.cpaoptimizer.com^$popup,third-party
-||urnkawsxxh.com^$script
-||xrqrpdxqpm.com^$script
 ! *** abpindo:src/advert/general_block.txt ***
 &adtype=$popup
 -728-x-90-
@@ -377,7 +372,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
 ||awnime.net/popup.htm$popup
-||baztnnews24.com/post_r/$subdocument
 ||bingofreebonus.net/bfbcontent/locker.js?
 ||bintangmawar.net/forum/bot_banner.php
 ||bintangmawar.net/forum/med_banner.php
@@ -393,7 +387,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bookmtpo.com/topt/$subdocument
 ||bp.blogspot.com/*.gif$image,domain=139.99.33.192|animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.asia|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.site|layarkeren.xyz|layarmovie21.co|lk21id.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|oploverz.in|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
@@ -434,7 +427,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||dewanontons.com/wp-content/uploads/*.gif$image
 ||dewantn.com/wp-content/uploads/*.gif$image
 ||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
-||dohealforyou.com/home_wo/$subdocument
 ||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||dunia21.*/assets/*.gif$image
 ||dunia21s.*/wp-content/uploads/*.gif$image
@@ -456,8 +448,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
 ||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||fix.samlike.net/fixsafe.js$script,domain=animebatch.web.id
-||fizrnews.com/pt_ryte/$subdocument
-||footpetoo.com/girm_t/$subdocument
 ||footpetsobest.com/5re64cdr/$subdocument
 ||forumbitcoin.co.id/other/banner/*-*.$image
 ||forumbookie.com/banner/
@@ -529,7 +519,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||kompas.com/data/banner/
 ||kotakgame.com/images/bnr/partner/*.jpg
 ||krucil.net/banner/
-||kumpulblogger.com/minibanner/
 ||kuyhaa-me.com/meongvpn.js$script,domain=kuyhaa-me.com
 ||lapak-online.net^$popup,third-party
 ||layarkaca21.*/assets/*.gif$image
@@ -578,7 +567,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||nanime.biz^$third-party
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||newlk21.*/wp-content/uploads/*.gif$image
-||newsocko.com/ps6ryte/$subdocument
 ||nobartv.com/adsLoader/$xmlhttprequest
 ||nobartv.com/img/banner/*.gif$image
 ||nonton.club/wp-content/uploads/*.gif$image
@@ -608,7 +596,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||numpangnonton.*/wp-content/uploads/*.gif$image
 ||pakbos21.org/wp-content/uploads/*.gif$image,~third-party
 ||pastebin.com/raw/*$script,domain=tokubatch.com
-||pergi.klik-link.us/wpsafelink.js$script,domain=kazefuri.web.id
 ||playwebgame.com/banner/$third-party
 ||popcashjs.b-cdn.net^$script,domain=www.kurina.me
 ||primbon.com/banner/ilmugendam.gif
@@ -629,9 +616,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||susterbokep.com/wp-content/uploads/*.gif$image
 ||tambahketinggian.com/banner/
-||techcrunchman.com/post_news/$subdocument
-||techitdoit.com/p_news/$subdocument
-||techoykd.com/new_topic/$subdocument
 ||tempo.co/webtorial/like/remodal
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
 ||tribunnews.com/stylesheets/close.gif
@@ -640,7 +624,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||videocrot.org/wp-content/uploads/*/iklan.gif
-||whattoexpectheal.com/home_news/$subdocument
 ||wp.com/animelu.com/wp-content/uploads/*.gif$image,domain=animelu.com
 ||wp.com/ryuukoi.web.id/wp-content/uploads/*/antiadblock$image
 ||www.riau24.com/portal/adv/$image
@@ -1155,7 +1138,6 @@ woof.tube#@#.adsbox
 /dahsyatqq.$image,third-party
 /danaqq.$image,third-party
 /datukqq.$image,third-party
-/Dazbet.gif$image
 /depoqq.$image,third-party
 /dermaga4d.$image,third-party
 /detikbet.$image,third-party
@@ -1298,7 +1280,6 @@ woof.tube#@#.adsbox
 /kucingpoker.$image,third-party
 /kursiqq.$image,third-party
 /langitqq.$image,third-party
-/lapak-poker.gif|$image
 /lapakpoker.$image,third-party
 /lapakqq.$image,third-party
 /layarqq.$image,third-party
@@ -1311,7 +1292,6 @@ woof.tube#@#.adsbox
 /ligabet365.$image,third-party
 /ligacapsa.$image,third-party
 /ligacash.$image,third-party
-/ligacash.gif|$image
 /ligadewa.$image,third-party
 /ligahokie.$image,third-party
 /ligajudi.$image,third-party
@@ -1336,7 +1316,6 @@ woof.tube#@#.adsbox
 /mainqq.$image,third-party
 /majuqq.$image,third-party
 /mamatogel.$image,third-party
-/mandalatoto.gif|$image
 /maniaqq.$image,third-party
 /marina-365.$image,third-party
 /master138.$image,third-party
@@ -3938,6 +3917,7 @@ woof.tube#@#.adsbox
 /Banner-Poker$image,third-party
 /Banner-Suhubola-$image,third-party
 /Betcoin-$image
+/Dazbet.gif$image
 /ITCBET.gif|$image
 /JuaraCapsa.gif|$image
 /NIKMATIQQ.$image
@@ -4027,9 +4007,11 @@ woof.tube#@#.adsbox
 /garudaqq-$image
 /gerhanaqq-$image
 /gilapoker-$image
+/gitartogel.gif|$image,third-party
 /goalgoal365-$image
 /goodbola-bannerfilm.gif|
 /hahatogel-gif$image
+/hkindo.gif|$image,third-party
 /hoki-qq-$image
 /hoki365-$image
 /hokibet-$image
@@ -4068,11 +4050,13 @@ woof.tube#@#.adsbox
 /klik66banner.gif|
 /klikqq-$image
 /klikvegas-$image
+/lapak-poker.gif|$image
 /lapakqq-$image
 /lazabet-$image
 /legendpoker-$image
 /ligacapsa-$image
 /ligacash-$image
+/ligacash.gif|$image
 /ligahokie-$image
 /ligapoker-$image
 /lintasqq-$image
@@ -4087,6 +4071,7 @@ woof.tube#@#.adsbox
 /mainqq-$image
 /majuqq-$image
 /mamibit-$image
+/mandalatoto.gif|$image
 /maniaqq-$image
 /master88-$image
 /maxisbet-$image

@@ -95,7 +95,6 @@ lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
 149.28.158.117,animexin.xyz,awsubs.co###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
-idxxx1.com,sukamovie.club###floating_ads_bottom_textcss_ad
 idxxx1.com###floating_ads_bottom_textcss_wrap
 173.199.189.86,bioskop55.club,bioskop55.me,bioskop90.com,bioskopgalaxy21.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,forumbokep.com,juragantomatx.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
@@ -354,7 +353,6 @@ didrakorindo.com,indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-
 ceklink.co##.blog-content
 103.194.171.75,idtube.me##.bm.overlay
 anime17.net,cosmogirl.co.id##.bnr
-manhwahentai.me,manytoon.com##.body-top-ads
 bioskop99.me##.bot.ads
 beritagar.id##.bottom-20.box-widget.right-300.banner300x250.banner
 harianjogja.com,solopos.com##.bottom-fix
@@ -392,7 +390,6 @@ kompas.com##.clearfix.kcm__sticky.kcm
 kompas.com##.clearfix.kcm__top.kcm
 kompas.com##.clearfix.kcm__tower.kcm
 kompas.com##.clearfix.kcm__track.kcm
-mivo.com##.clearfix.top-ads
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 inidramaku.net##.cm-popup-modal
@@ -437,15 +434,10 @@ ld2tv.com##.img-banner
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
-www.kompasiana.com##.js-giant-wp-sticky.banner-right.banner
 indoxx1.art,indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
 kompas.com##.kcm
-kompas.com##.kcm__articleList
-kompas.com##.kcm__horizontal.kcm
-kompas.com##.kcm__stick--left
-kompas.com##.kcm__stick--right
 apk.miuiku.com,lewat.club##.klikdisini
 anoboy.id,mangashiro.net,nontondramaseri.com##.kln
 awsubs.co##.klnrec
@@ -492,11 +484,6 @@ film-ganool.com##.random
 okezone.com##.rc-ad-300x250
 indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-sol
-tribunnews.com##.reserved_box_1.reserved_box_ads
-tribunnews.com##.reserved_box_1_1.reserved_box_ads
-tribunnews.com##.reserved_box_2.reserved_box_ads
-tribunnews.com##.reserved_box_2_2.reserved_box_ads
-tribunnews.com##.reserved_box_5.reserved_box_ads
 unixmen.com##.reveal-modal-bg
 dwanonton.com##.right.banner-vertical
 senimovie.info##.rsABlock
@@ -549,7 +536,6 @@ xx1.me##.top-bnner.lazy
 goblintv.xyz##.tutup.banner
 bioskopxxi.net,sinemakaca.com##.ujipopup
 128.199.102.111##.under-player-ad-mobile
-128.199.232.232##.video-archive-ad
 mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
 otomotif.kompas.com##.w340.r-ads.right > ul > li
