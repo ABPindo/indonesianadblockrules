@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202109081018
+! Version: 202109102154
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 08 Sep 2021 10:18 UTC
+! Last modified: 10 Sep 2021 21:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1413,6 +1413,7 @@ indoxx1.art,indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
 kompas.com##.kcm
+kompas.com##.kcm__articleList
 apk.miuiku.com,lewat.club##.klikdisini
 anoboy.id,mangashiro.net,nontondramaseri.com##.kln
 awsubs.co##.klnrec
@@ -6381,8 +6382,8 @@ bioskop78.com##td:nth-of-type(3)
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-##a[href$="/slots"]
 leon.bet#@#a[href$="/slots"]
+##a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
