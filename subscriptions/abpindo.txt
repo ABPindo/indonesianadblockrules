@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202109182240
+! Version: 202109182245
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 18 Sep 2021 22:40 UTC
+! Last modified: 18 Sep 2021 22:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2335,6 +2335,7 @@ bioskop78.com##td:nth-of-type(3)
 /tangkaspro.$image,third-party
 /tatacasino.$image,third-party
 /tatobet.$image,third-party
+/TelurQQ.$image
 /texaspoker.$image,third-party
 /texasqq.$image,third-party
 /togel212.$image,third-party
@@ -7214,6 +7215,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="1POKER" i]
 ##img[alt="1xbet" i]
 ##img[alt="33sbet" i]
+##img[alt="365agen" i]
 ##img[alt="381bet" i]
 ##img[alt="388hero"]
 ##img[alt="526betclub" i]
@@ -7750,6 +7752,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="TajirQQ" i]
 ##img[alt="Tangkas Online" i]
 ##img[alt="Taruhan Bola" i]
+##img[alt="Telurqq" i]
 ##img[alt="Texaspoker" i]
 ##img[alt="Texaspokercc" i]
 ##img[alt="Togel Domino" i]
@@ -8139,6 +8142,7 @@ leon.bet#@#a[href$="/slots"]
 /1xbet250.gif|$image
 /1xbetnew.gif|$image
 /28bet.$image
+/365agen-$image
 /365qiuqiu-$image
 /526bet-$image
 /720x90-jkt2u-$image
