@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202109260027
+! Version: 202110121133
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 26 Sep 2021 00:27 UTC
+! Last modified: 12 Oct 2021 11:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -629,6 +629,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||videocrot.org/wp-content/uploads/*/iklan.gif
 ||wp.com/animelu.com/wp-content/uploads/*.gif$image,domain=animelu.com
 ||wp.com/ryuukoi.web.id/wp-content/uploads/*/antiadblock$image
+||www.cararegistrasi.com/img/download_1.png$image
 ||www.riau24.com/portal/adv/$image
 ||www.shrinkads.com/js/xe.js$script
 ||yourhealthnoone.com/wt213ad/$subdocument
@@ -972,6 +973,7 @@ giladrakor.com###ouibounce-modal
 ##[href="http://ig24.me"]
 ##[href^="//mellowads.com/"]
 ##[href^="http://www.ituvipwd.com"]
+##[href^="https://ascertaincrescenthandbag.com/"]
 ##[href^="https://www.ituqqwd.com"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
@@ -1607,6 +1609,7 @@ jakbos.com##img:nth-of-type(2)
 tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
+funtasticko.net##img[width="1020"][height="350"]
 lihat.co.id,oploverz.bz##img[width="300"][height="250"]
 oploverz.bz##img[width="300"][height="300"]
 animebatchs.com##img[width="720"][height="90"]
