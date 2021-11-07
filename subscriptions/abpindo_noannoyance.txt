@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202110302209
+! Version: 202111071136
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 30 Oct 2021 22:09 UTC
+! Last modified: 07 Nov 2021 11:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -370,6 +370,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||animekompi.web.id/wp-content/uploads/*/ANTIBLOCKER2.jpg
 ||animekompi.web.id/wp-content/uploads/*/antiblocker3-1.jpg
 ||animexin.*/wp-content/uploads/*.gif$image,~third-party
+||anoboy.media/img/*.gif
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
 ||awnime.net/popup.htm$popup
@@ -1147,6 +1148,8 @@ idxx1.top###player-side-left
 idxx1.top,indoxx1.com###player-side-right
 iyottube.com###playerOverlay
 indoxx1.pw###popup
+anoboy.media###popup_bawah
+anoboy.media###popup_box
 cafecinema.cc,dramamu.net,lk21.io###popup_content
 amoimovie.com###popupinfoAd1
 layarxxi.online###popuppress-9119
@@ -1539,11 +1542,15 @@ nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
 pakbos21.org##[href="//dumbpop.com/help.xml"]
 idfl.me##[href="http://bit.ly/adsvbola"]
+anoboy.media##[href="http://click2go.me/aksesklik4a"]
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
 kazefuri.blogspot.com##[href="http://www.cocobet."]
+anoboy.media##[href="https://144.126.241.203/invite/c6c83up"]
+anoboy.media##[href="https://bit.ly/anoboySG88"]
 idxx1.top##[href="https://indoxplay.com/promosi/slots"]
 kazefuri.web.id##[href="https://kdslots.com/"]
+anoboy.media##[href="https://kliksaya.info/mcdanoboy"]
 dl.ocanoke.com##[href="https://www.ocanoke.com/"]
 kazefuri.web.id##[href="javascript:showHideGB()"]
 nekonime.com##[href^="//wizliebeg.com/"]

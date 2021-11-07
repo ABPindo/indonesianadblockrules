@@ -165,6 +165,8 @@ idxx1.top###player-side-left
 idxx1.top,indoxx1.com###player-side-right
 iyottube.com###playerOverlay
 indoxx1.pw###popup
+anoboy.media###popup_bawah
+anoboy.media###popup_box
 cafecinema.cc,dramamu.net,lk21.io###popup_content
 amoimovie.com###popupinfoAd1
 layarxxi.online###popuppress-9119
@@ -557,11 +559,15 @@ nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
 pakbos21.org##[href="//dumbpop.com/help.xml"]
 idfl.me##[href="http://bit.ly/adsvbola"]
+anoboy.media##[href="http://click2go.me/aksesklik4a"]
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
 kazefuri.blogspot.com##[href="http://www.cocobet."]
+anoboy.media##[href="https://144.126.241.203/invite/c6c83up"]
+anoboy.media##[href="https://bit.ly/anoboySG88"]
 idxx1.top##[href="https://indoxplay.com/promosi/slots"]
 kazefuri.web.id##[href="https://kdslots.com/"]
+anoboy.media##[href="https://kliksaya.info/mcdanoboy"]
 dl.ocanoke.com##[href="https://www.ocanoke.com/"]
 kazefuri.web.id##[href="javascript:showHideGB()"]
 nekonime.com##[href^="//wizliebeg.com/"]
@@ -637,9 +643,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-anoboy.media###popup_box
-anoboy.media###popup_bawah
-anoboy.media##[href="https://kliksaya.info/mcdanoboy"]
-anoboy.media##[href="https://bit.ly/anoboySG88"]
-anoboy.media##[href="http://click2go.me/aksesklik4a"]
-anoboy.media##[href="https://144.126.241.203/invite/c6c83up"]
