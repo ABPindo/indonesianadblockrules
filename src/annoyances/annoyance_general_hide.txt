@@ -4,11 +4,14 @@
 ##.happypoker
 ##.judi
 ##.togel
+##[href$="/AgenIDNPoker"]
 ##[href$="/bandarpokerpulsa"]
+##[href$="/emas188manhwaland"]
 ##[href$="/ibetwinasia"]
 ##[href$="/mahadewa88"]
 ##[href$="/rajasloto"]
 ##[href="http://probet228.com"]
+##[href="https://bit.ly/emas188manhwa"]
 ##[href="https://superitc.biz/"]
 ##[href^="//zukxd6fkxqn.com/"]
 ##[href^="Http://ApiBet."]
@@ -709,6 +712,7 @@
 ##[href^="http://opuspoker."]
 ##[href^="http://orientalpoker."]
 ##[href^="http://pabrikpoker."]
+##[href^="http://paiza99casino.win"]
 ##[href^="http://pamelapoker."]
 ##[href^="http://panenpk2."]
 ##[href^="http://panenpoker."]
@@ -1726,8 +1730,8 @@
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]

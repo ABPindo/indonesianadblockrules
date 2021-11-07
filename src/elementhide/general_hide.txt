@@ -24,6 +24,7 @@
 ###btm_banner
 ###cfs_top_div
 ###desaiklan
+###df-wrapper-ads-top
 ###fbanner
 ###fbbanner
 ###float-banner.visible-lg
@@ -169,6 +170,7 @@ giladrakor.com###ouibounce-modal
 ##.iklanlebar
 ##.iklanleft
 ##.iklanmini
+##.iklanpost
 ##.iklanpusat
 ##.iklanright
 ##.iklanx1
@@ -184,6 +186,7 @@ giladrakor.com###ouibounce-modal
 ##.marginads
 ##.pengiklan
 ##.popUpBannerBox
+##.popupflyin-clicks-area
 ##.pusat728
 ##.qode-banner-left
 ##.qode-banner-right
