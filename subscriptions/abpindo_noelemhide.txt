@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202111071223
+! Version: 202111231327
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 07 Nov 2021 12:23 UTC
+! Last modified: 23 Nov 2021 13:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -282,6 +282,7 @@
 ||hesftig.site^$third-party
 ||ktrackdata.com^$popup,third-party
 ||moneyfree.co^$third-party
+||nonegrysu.pro^$popup
 ||profitsurvey365.live^$script
 ||track.aptitudemedia.co^$popup
 ||track.avxid.com^$third-party
@@ -887,6 +888,7 @@ woof.tube#@#.adsbox
 /Dazbet.gif$image
 /ITCBET.gif|$image
 /JuaraCapsa.gif|$image
+/MEJAHOKI.gif|$image
 /NIKMATIQQ.$image
 /PESBOLA-$image
 /PKVHOKI.gif|$image
@@ -934,6 +936,7 @@ woof.tube#@#.adsbox
 /bet2indo-$image
 /bet2poker-$image
 /bet2poker_$image
+/betcoin.gif|$image
 /betking88-$image
 /betsaja-$image
 /bigwin-banner-$image
@@ -987,6 +990,7 @@ woof.tube#@#.adsbox
 /hokicash-$image
 /ibcqq.$image
 /iblis4d-$image
+/idngg.gif|$image
 /idrbet-$image
 /idx-promo-$image
 /iklanratu.$image
@@ -1130,6 +1134,7 @@ woof.tube#@#.adsbox
 /uploads/*/jayapoker-$image
 /uploads/*/senyumqq-|$image
 /uploads/*/vipslot.$image
+/vegasgg.gif|$image
 /vegashoki.gif|$image
 /venombet-$image
 /vibol.$image,third-party
