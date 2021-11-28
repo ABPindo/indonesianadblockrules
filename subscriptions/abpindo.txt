@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202111231327
+! Version: 202111282211
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 23 Nov 2021 13:27 UTC
+! Last modified: 28 Nov 2021 22:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -894,6 +894,7 @@ giladrakor.com###ouibounce-modal
 ##.disads300px
 ##.fake_player
 ##.floatingBanner728
+##.footer-ad-mobile
 ##.forads
 ##.fotads_showalign
 ##.frame_iklan_baris
@@ -1723,6 +1724,7 @@ bioskop78.com##td:nth-of-type(3)
 -tri7bet.$image
 -tugupoker-$image
 -tugupoker.$image
+-unibet-$image
 -viralqq-$image
 -visitogel.$image
 -warnaqq-$image
@@ -1752,6 +1754,7 @@ bioskop78.com##td:nth-of-type(3)
 /PKVHOKI.gif|$image
 /PURIBET.gif|$image
 /Poker228.gif|$image
+/Unibet99-$image
 /VISABET88.gif$image
 /ZEUS%2BPOKER.gif|$image
 /ZEUSPOKER.gif|$image
@@ -1783,6 +1786,7 @@ bioskop78.com##td:nth-of-type(3)
 /auxbet-$image
 /avoqq.$image
 /b2indo.gif|$image
+/bacanpoker-$image
 /balakqq-$image
 /bandarq-$image
 /bandarqq-$image
@@ -1913,6 +1917,7 @@ bioskop78.com##td:nth-of-type(3)
 /misiqq-$image
 /mitrahoki-$image
 /mobapoker-$image
+/modalqq.gif$image
 /mustikapoker-$image
 /mutiarapoker-$image
 /muvibet-$image
@@ -1984,6 +1989,7 @@ bioskop78.com##td:nth-of-type(3)
 /togel88-$image
 /totobetnew.gif$image
 /totojek-$image
+/transqq.gif$image
 /unitogel-$image
 /uploads/*/Ahabet-$image
 /uploads/*/Indotogel-$image
@@ -5778,6 +5784,7 @@ totojitu.gif|$image
 ##[href^="http://totohoki1."]
 ##[href^="http://totokita."]
 ##[href^="http://totosuper123.net/"]
+##[href^="http://totosuper8.net"]
 ##[href^="http://totosuper99.org/"]
 ##[href^="http://toyoqq88.net"]
 ##[href^="http://transpoker."]
@@ -6387,6 +6394,7 @@ totojitu.gif|$image
 ##[href^="https://pojokpoker.net"]
 ##[href^="https://poker357."]
 ##[href^="https://pokerjenius.net"]
+##[href^="https://pokervking.net"]
 ##[href^="https://prediksidara.com"]
 ##[href^="https://prediksidukuntogel.top/"]
 ##[href^="https://pusatbandarq."]
@@ -6540,8 +6548,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
@@ -8174,6 +8182,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt^="Bandar Poker" i]
 ##img[alt^="Bandar Togel" i]
 ##img[alt^="CMD368" i]
+##img[alt^="IDN Poker" i]
 ##img[alt^="Judi Bola" i]
 ##img[alt^="Judi Online" i]
 ##img[alt^="Judi bola" i]
