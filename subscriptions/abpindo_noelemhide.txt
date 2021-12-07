@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202111282211
+! Version: 202112071227
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 28 Nov 2021 22:11 UTC
+! Last modified: 07 Dec 2021 12:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -329,6 +329,7 @@
 /banner_iklan/*
 /bb17-iklan.
 /iklancpm.
+/images/idxbet/*$image
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
 /itugol.gif$image
@@ -347,27 +348,14 @@
 /wpsafelink$script,third-party
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
-$popup,domain=cinemamkv.net|kurina.co|mangacanblog.com
-$subdocument,third-party,domain=ironysub.net
-$xmlhttprequest,domain=mangacanblog.com
-*$popup,third-party,domain=kurina.vip
-.gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|movieajip.online
-.gif$image,third-party,domain=lk21tv.com
-/floating-ads-bottom/*$image,domain=sukamovie.club
-/images/idxbet/*$image,domain=idtube.me
-/lebahmovie.com/wp-content/uploads/*.gif$image,domain=lebahmovie.com
-/popup.htm$popup,domain=awnime.net
+.gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21tv.com|movieajip.online
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
-||158.69.54.218/img/closeX.png$image
-||158.69.54.218/wp-content/uploads/*.gif$image
-||365wp.org/Banner/728x90$image
-||96.43.139.236/banner/$image
-||96.43.139.237/banner/$image
 ||adsafelink.com/js/webscript.js$script,third-party
 ||akanhoki.com/GenerateAdImage$image
 ||angel.exabytes.com.my/banners/
 ||anibatch.*/wp-content/uploads/*.gif$image
+||anichin.my.id/wp-content/uploads/*.gif$image
 ||animeindo.*/wp-content/uploads/*.gif$image
 ||animekompi.web.id/wp-content/uploads/*/ANTIBLOCKER2.jpg
 ||animekompi.web.id/wp-content/uploads/*/antiblocker3-1.jpg
@@ -376,11 +364,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
 ||awnime.net/popup.htm$popup
-||bingofreebonus.net/bfbcontent/locker.js?
-||bintangmawar.net/forum/bot_banner.php
-||bintangmawar.net/forum/med_banner.php
-||bintangmawar.net/forum/medright_banner.php
-||bintangmawar.net/forum/top_banner.php
 ||bioskop007.*/wp-content/uploads/*.gif$image
 ||bioskop168.*/wp-content/uploads/*.gif$image
 ||bioskop19.*/wp-content/uploads/*.gif$image
@@ -395,11 +378,8 @@ $xmlhttprequest,domain=mangacanblog.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
-||cat3movie.us/banners/
-||cat3movie.us/popup.js
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
-||cdn.newparadise.xyz/ezgif-*.gif$image,domain=layarcinema.tv|lk21tv.com
 ||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script,domain=myanimeindo.net
 ||cdn.staticaly.com/gh/sotazer/sotazone/*/kurazoneAdblock.js
 ||cekerayam.xyz/wp-content/uploads/*.gif$image
@@ -410,7 +390,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$script
 ||cinemaqq.*/wp-content/uploads/*.gif$image
 ||cinemastar21.*/wp-content/uploads/*.gif$image
-||coblos.net/*.swf$domain=bintangmawar.net
 ||comotin.com/wp-content/uploads/*.gif$image
 ||conan.id/wp-content/uploads/2018/*.gif$image
 ||detik.com/images/banners/
@@ -425,21 +404,16 @@ $xmlhttprequest,domain=mangacanblog.com
 ||detik.com/live/js/msite/maeg_preview.js$script
 ||detik.com/live/js/msite/maegv2.js$script
 ||detik.com/mobile/js/it.mobile.js$script
-||dewa.tv/banner/
 ||dewamovie.*/wp-content/uploads/*.gif$image
 ||dewanonton.*/static/banner/*.gif$image,~third-party
 ||dewanontons.com/wp-content/uploads/*.gif$image
 ||dewantn.com/wp-content/uploads/*.gif$image
-||dl.dropboxusercontent.com/u/122336262/JavaScript/allscript4.js
-||drtuber.com/templates/drtuber/js/adx_flash_embed.js?
 ||dunia21.*/assets/*.gif$image
 ||dunia21s.*/wp-content/uploads/*.gif$image
-||duniasex.ws/banner-
 ||dwanonton.*/wp-content/uploads/*.gif$image
 ||dwanonton.com/static/banner/*.gif$image
 ||ebsoft.web.id/wp-content/banners/
 ||eramuslim.com/banners
-||ewetot.com^$image,object,domain=bintangmawar.net
 ||fansubupdate.com/res/img/sampleads/
 ||fb21.*/img/closeX.png$image
 ||fb21.*/wp-content/uploads/*.gif$image
@@ -450,16 +424,12 @@ $xmlhttprequest,domain=mangacanblog.com
 ||filmace21.net/imgiklanz/*.gif$image
 ||filmbaru.in/wp-content/uploads/*.gif$image
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
-||filmku.net/wp-content/themes/SuperAds.$script,domain=filmku.net
 ||fix.samlike.net/fixsafe.js$script,domain=animebatch.web.id
-||footpetsobest.com/5re64cdr/$subdocument
 ||forumbitcoin.co.id/other/banner/*-*.$image
 ||forumbookie.com/banner/
-||forumidn.com^$popup,domain=susterbokep.com
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||galaxyxxi.*/wp-content/uploads/*.gif$image
-||gambar123.com/vb/images/xyz_$image,domain=46.166.167.16|semprot.com|semprotku.com
 ||ganool.city/iklan/$image
 ||ganool.link/wp-content/uploads/*.gif$image
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
@@ -474,11 +444,10 @@ $xmlhttprequest,domain=mangacanblog.com
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
-||hentaiheroes.com^$popup,domain=hentai2read.com
 ||hightech.web.id^*/?site=$popup
 ||hotabis.com/wp-content/uploads/*.gif$image
 ||i.ibb.co/*.gif$image,domain=kazefuri.web.id
-||i.imgur.com/*.gif$image,domain=abgbugil.net|animebatchs.com|ayononton.co|bokep24.site|capcus.net|cinemaindo.web.id|gudangfilm.top|ibugil.net|indobugil.net|kabar2.com|kikil.net|nekopoi.care|ngobrolbola.com|sodasusu.com|zonalendir.net
+||i.imgur.com/*.gif$image,domain=animebatchs.com|ayononton.co|cinemaindo.web.id|gudangfilm.top
 ||id.hao123.com/resource/id/banner/
 ||id.techinasia.com/OneSignalSDKWorker.js
 ||idbioskop.com/wp-content/uploads/*/*/300-x-250.png
@@ -495,8 +464,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||img.topddl.net^$image,domain=nanimex.com
 ||impulse.forkcdn.com/impulse3/config/impulse.js
 ||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
-||indo168.*/wp-content/uploads/*.gif$image
-||indobokepz.com/images/banner/
 ||indochanger.com/banner/
 ||indocinema21.com/banner/
 ||indoforum.top/banners/
@@ -506,10 +473,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||indotelko.com/inc/c_banner.js
 ||indoxximovie.com/wp-content/uploads/2020/06/realbola.jpg$image
 ||jagatreview.com/wp-content/uploads/*-SKIN-
-||jasjus.net^$popup
-||javapic.com^$third-party
-||jingkrak.com^$third-party
-||jomys.xyz$script,third-party
 ||juragan21.com/wp-content/uploads/*.gif$image
 ||kampus.us/banners/
 ||kaskus.co.id/images/banner-wap/
@@ -517,19 +480,14 @@ $xmlhttprequest,domain=mangacanblog.com
 ||kazefuri.web.id/wp-content/themes/Kazebaru/img/300ads.png$image
 ||kdramaindo.*/wp-content/uploads/*.gif$image
 ||kebagi.com/*.gif$image,third-party
-||keepimg.com/*.gif$image,domain=idfl.me
-||keripikcadas.com/banner/
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
 ||kompas.com/data/banner/
 ||kotakgame.com/images/bnr/partner/*.jpg
-||krucil.net/banner/
 ||kuyhaa-me.com/meongvpn.js$script,domain=kuyhaa-me.com
 ||lapak-online.net^$popup,third-party
 ||layarkaca21.*/assets/*.gif$image
 ||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
 ||layarkeren.*/wp-content/uploads/*.gif$image
-||lendir.org/banner/
-||link.ganool.co.in/links.js$domain=ganool.run
 ||linkgenerator.xyz$script,third-party
 ||lk21.*/assets/*.gif$image
 ||lk21.*/wp-content/uploads/*.gif$image
@@ -540,21 +498,15 @@ $xmlhttprequest,domain=mangacanblog.com
 ||lkxxi.*/wp-content/uploads/*.gif$image
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
-||malamsenin.net/wp-content/uploads/*.gif$image
-||malamsenin.net/wp-content/uploads/2015/11/415x60.jpg$image
-||malamsenin.org/wp-content/uploads/*.gif$image
-||malamsenin.org/wp-content/uploads/2015/11/415x60.jpg$image
 ||malesbanget.com/js/live/mbdc_billboard.js$script
 ||malesbanget.com/js/live/mbdc_inrect1.js$script
 ||malesbanget.com/js/live/mbdc_inrect2.js$script
 ||malesbanget.com/js/live/mbdc_lgbanner.js$script
 ||mangacanblog.com/adblock/src/adblock-checker.js
 ||mangaku.web.id/Gambar/Ads720.html
-||media.giphy.com/media/*/giphy.gif$image,domain=animeindo.moe
 ||mediaindonesia.com/ajax/banners
 ||mediaindonesia.com/files/banners/
 ||mediaindonesia.com/public/banner/flash/
-||modemku.com/image-banner/
 ||modifikasi.com/images/banner/$third-party
 ||modifikasi.com/images/banner/*.gif$image
 ||modifikasi.com/images/banner_
@@ -567,9 +519,7 @@ $xmlhttprequest,domain=mangacanblog.com
 ||musisi.com/musifile/images_banner/
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
-||n21.*/wp-content/uploads/*.gif$image
 ||nanime.biz^$third-party
-||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||newlk21.*/wp-content/uploads/*.gif$image
 ||nobartv.com/adsLoader/$xmlhttprequest
 ||nobartv.com/img/banner/*.gif$image
@@ -593,35 +543,21 @@ $xmlhttprequest,domain=mangacanblog.com
 ||nontonstreaming.co/wp-content/uploads/*.gif$image
 ||nontonsub.*/wp-content/uploads/*.gif$image
 ||noobscript.com^$script,third-party
-||ns21.*/wp-content/uploads/*.gif$image
-||ns21.*/wp-includes/js/hoverIntent.min.js
-||nt1.co/js/jquery.floating_popup.$script
-||numpanglewat.com^$third-party
-||numpangnonton.*/wp-content/uploads/*.gif$image
-||pakbos21.org/wp-content/uploads/*.gif$image,~third-party
-||pastebin.com/raw/*$script,domain=tokubatch.com
 ||playwebgame.com/banner/$third-party
-||popcashjs.b-cdn.net^$script,domain=www.kurina.me
 ||primbon.com/banner/ilmugendam.gif
 ||raw.githack.com/jefcom/jefar/master/jefar.js$script
 ||resep.web.id/banner/
 ||rikucan.com/wp-content/themes/mh-magazine-lite/js/looping.js
 ||safelinkblog.com/js/v2.js$script
-||sdk.ian029dkl3osl930sian.club/mango.js$script
-||semi168.*/wp-content/uploads/*.gif$image
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
 ||serunonton.*/wp-content/uploads/*.gif$image
-||sextgem.com/banner/*.gif$image
 ||snacklink.id/js/web-script.js$script
 ||snacklink.id/js/web-script.js$script,third-party
 ||sobatkeren.club/img/banner/*.gif$image
-||sodasusu.com/banner/
 ||solopos.com/banner/
-||streamingbokeps.*/ngiklan/$image
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
-||susterbokep.com/wp-content/uploads/*.gif$image
 ||tambahketinggian.com/banner/
 ||tempo.co/webtorial/like/remodal
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
@@ -630,8 +566,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||upload.coblos.net/images/*.gif$image
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
-||videocrot.org/wp-content/uploads/*/iklan.gif
-||wp.com/animelu.com/wp-content/uploads/*.gif$image,domain=animelu.com
 ||wp.com/ryuukoi.web.id/wp-content/uploads/*/antiadblock$image
 ||www.cararegistrasi.com/img/download_1.png$image
 ||www.riau24.com/portal/adv/$image
@@ -640,7 +574,6 @@ $xmlhttprequest,domain=mangacanblog.com
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-||zonawibu.me/data/ngentod.js$script,domain=zonawibu.cc
 ! *** abpindo:src/advert/snippet _adblockplus.txt ***
 ! Snippet filters for Adblock Plus 3.3 (https://help.eyeo.com/adblockplus/snippet-filters-tutorial)
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
@@ -1143,6 +1076,7 @@ woof.tube#@#.adsbox
 /vegashoki.gif|$image
 /venombet-$image
 /vibol.$image,third-party
+/vip/rajaelang.gif$image
 /viralqq.gif|$image
 /vjudi.gif|
 /w88131-$image
