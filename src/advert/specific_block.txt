@@ -206,6 +206,7 @@
 ||snacklink.id/js/web-script.js$script,third-party
 ||sobatkeren.club/img/banner/*.gif$image
 ||solopos.com/banner/
+||statically.io/*.ttgambar.xyz/*.jpg$popup
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||tambahketinggian.com/banner/
