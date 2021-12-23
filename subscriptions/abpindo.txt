@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202112131500
+! Version: 202112231159
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 13 Dec 2021 15:00 UTC
+! Last modified: 23 Dec 2021 11:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -220,6 +220,7 @@
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
 ||q1xyxm89.com^$popup
+||rccsekuitas.com^$script
 ||realwap.net^$third-party
 ||replase.gq^$popup,third-party
 ||replase.ml^$popup,third-party
@@ -711,7 +712,7 @@ sporcle.com#@#.remodal
 totolink.id#@#.social-circle
 woof.tube#@#.adsbox
 ! ----------------------- element hiding rules ------------------------!
-! *** abpindo:src/elementhide/general_hide.txt ***
+! *** abpindo:src/advert/general_hide.txt ***
 ###Box-Banner-ads
 ###Iklan-Melayang
 ###Kolom-Iklan-728
@@ -923,7 +924,7 @@ giladrakor.com###ouibounce-modal
 ##[href^="https://www.ituqqwd.com"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
-! *** abpindo:src/elementhide/specific_hide.txt ***
+! *** abpindo:src/advert/specific_hide.txt ***
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 indogamers.com###IklanIDGS
@@ -1717,6 +1718,7 @@ bioskop78.com##td:nth-of-type(3)
 /dotaqiu-$image
 /doyangoyang.gif|$image
 /dpbola.gif|$image
+/duniabet.gif|$image
 /duniacash-$image
 /duniavegas-$image
 /elangqq-$image
@@ -1743,6 +1745,7 @@ bioskop78.com##td:nth-of-type(3)
 /hokibet-$image
 /hokicash-$image
 /ibcqq.$image
+/ibetwin.gif|$image
 /iblis4d-$image
 /idngg.gif|$image
 /idrbet-$image
@@ -1777,6 +1780,7 @@ bioskop78.com##td:nth-of-type(3)
 /klik66banner.gif|
 /klikqq-$image
 /klikvegas-$image
+/koinslots.gif|$image
 /lapak-poker.gif|$image
 /lapakqq-$image
 /lazabet-$image
@@ -1800,6 +1804,7 @@ bioskop78.com##td:nth-of-type(3)
 /mamibit-$image
 /mandalatoto.gif|$image
 /maniaqq-$image
+/maniaslot.gif|$image
 /master88-$image
 /maxisbet-$image
 /megabet-$image
@@ -4924,6 +4929,7 @@ totojitu.gif|$image
 ##[href^="http://bisa88."]
 ##[href^="http://bisnishandal."]
 ##[href^="http://bit.ly/airasiabet"]
+##[href^="http://bit.ly/duniabet"]
 ##[href^="http://bla168."]
 ##[href^="http://block.s3block."]
 ##[href^="http://bltks.club/"]
@@ -5487,6 +5493,7 @@ totojitu.gif|$image
 ##[href^="http://premier188."]
 ##[href^="http://probet.biz"]
 ##[href^="http://probet228.com"]
+##[href^="http://probet228.org/"]
 ##[href^="http://probet24.site/"]
 ##[href^="http://probet99."]
 ##[href^="http://promodewa."]
@@ -6202,6 +6209,7 @@ totojitu.gif|$image
 ##[href^="http://zynga365."]
 ##[href^="http://zyngaqq."]
 ##[href^="https://1001win.loan/"]
+##[href^="https://167.172.95.197/register"]
 ##[href^="https://1xliga."]
 ##[href^="https://2capsaqq.com"]
 ##[href^="https://337poker."]
@@ -6441,8 +6449,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-##a[href$="/slots"]
 leon.bet#@#a[href$="/slots"]
+##a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]

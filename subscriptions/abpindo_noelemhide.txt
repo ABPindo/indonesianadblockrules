@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202112131500
+! Version: 202112231159
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 13 Dec 2021 15:00 UTC
+! Last modified: 23 Dec 2021 11:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -220,6 +220,7 @@
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
 ||q1xyxm89.com^$popup
+||rccsekuitas.com^$script
 ||realwap.net^$third-party
 ||replase.gq^$popup,third-party
 ||replase.ml^$popup,third-party
@@ -903,6 +904,7 @@ woof.tube#@#.adsbox
 /dotaqiu-$image
 /doyangoyang.gif|$image
 /dpbola.gif|$image
+/duniabet.gif|$image
 /duniacash-$image
 /duniavegas-$image
 /elangqq-$image
@@ -929,6 +931,7 @@ woof.tube#@#.adsbox
 /hokibet-$image
 /hokicash-$image
 /ibcqq.$image
+/ibetwin.gif|$image
 /iblis4d-$image
 /idngg.gif|$image
 /idrbet-$image
@@ -963,6 +966,7 @@ woof.tube#@#.adsbox
 /klik66banner.gif|
 /klikqq-$image
 /klikvegas-$image
+/koinslots.gif|$image
 /lapak-poker.gif|$image
 /lapakqq-$image
 /lazabet-$image
@@ -986,6 +990,7 @@ woof.tube#@#.adsbox
 /mamibit-$image
 /mandalatoto.gif|$image
 /maniaqq-$image
+/maniaslot.gif|$image
 /master88-$image
 /maxisbet-$image
 /megabet-$image

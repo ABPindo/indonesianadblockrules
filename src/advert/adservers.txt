@@ -205,6 +205,7 @@
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
 ||q1xyxm89.com^$popup
+||rccsekuitas.com^$script
 ||realwap.net^$third-party
 ||replase.gq^$popup,third-party
 ||replase.ml^$popup,third-party
