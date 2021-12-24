@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202112231159
+! Version: 202112241349
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 23 Dec 2021 11:59 UTC
+! Last modified: 24 Dec 2021 13:49 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -21,6 +21,7 @@
 ||34667c8ece5.com^
 ||64p3am9x95ct.com^$popup
 ||6631f33cf2a1032b.com^
+||98e22a373e.com^
 ||995db2642d3d852b.com^
 ||9eb10b7a3d04a.com^$popup
 ||9icmzvn6.website^$popup
@@ -66,7 +67,9 @@
 ||auredzeon.com^$popup
 ||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
+||b9645fef65.com^
 ||baliadv.com^$third-party
+||bastingestival.com^
 ||bcajjtbzmdrl.com^$popup
 ||bellaads.com^$third-party
 ||browsertelemetry.tk^
@@ -242,6 +245,8 @@
 ||shqbsdjatunl.com^$popup
 ||sitti.co.id^$third-party
 ||situsiklanbaris.com^$third-party
+||spanuletubings.com^$popup,third-party
+||spewyelks.com^
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
 ||syndopop.com^$popup
@@ -274,6 +279,7 @@
 ||window-close.ga^$popup,third-party
 ||x-tags.net^
 ||xcnqoertn.xyz^
+||yawnspuker.com^
 ||yesads.com^$third-party
 ||yhig.info^$third-party
 ||yllix.com^$popup,third-party
@@ -282,8 +288,10 @@
 ||zukxd6fkxqn.com^$popup
 ||zuyejecgb.com^$popup
 ! *** abpindo:src/advert/thirdparty.txt ***
+||144.126.241.203^$popup,third-party
 ||c-stat.eu^$third-party
 ||cfs1.uzone.id^$third-party
+||cutt.ly^$popup,third-party
 ||hesftig.site^$third-party
 ||ktrackdata.com^$popup,third-party
 ||moneyfree.co^$third-party
@@ -561,6 +569,7 @@ iklan300x250.gif|
 ||snacklink.id/js/web-script.js$script,third-party
 ||sobatkeren.club/img/banner/*.gif$image
 ||solopos.com/banner/
+||statically.io/*.ttgambar.xyz/*.jpg$popup
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||tambahketinggian.com/banner/
@@ -1447,9 +1456,11 @@ idfl.me##[href="http://bit.ly/adsvbola"]
 anoboy.media##[href="http://click2go.me/aksesklik4a"]
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
+filmbokep21.shop##[href="http://sbovn88.net/"]
 kazefuri.blogspot.com##[href="http://www.cocobet."]
 anoboy.media##[href="https://144.126.241.203/invite/c6c83up"]
 anoboy.media##[href="https://bit.ly/anoboySG88"]
+filmbokep21.shop##[href="https://bolakantor.org/"]
 idxx1.top##[href="https://indoxplay.com/promosi/slots"]
 kazefuri.web.id##[href="https://kdslots.com/"]
 anoboy.media##[href="https://kliksaya.info/mcdanoboy"]
@@ -6449,8 +6460,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
