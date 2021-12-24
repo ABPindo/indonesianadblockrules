@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202112241419
+! Version: 202112241430
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 24 Dec 2021 14:19 UTC
+! Last modified: 24 Dec 2021 14:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1070,6 +1070,7 @@ kabar2.com###leaderboard
 komikbaru.com###left-skyscraper
 kabargames.id###main-banner-middle
 dewabioskop21.org,dwa21.org###main-popup
+sindonews.com###me-div-gpt-ad-parallax
 dapurpacu.com###mid-banner
 dunia21.cx,ganool.watch,lk21tv.com,movies21.co###middle-banner
 fastdrama.co,hkfree.co###modal
@@ -1382,6 +1383,7 @@ detik.com##.otp_banner_close
 dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
+sindonews.com##.parallax-ad
 medcom.id##.parallax_ads
 viva.co.id##.portlet.sideskycrapper
 filem456.com##.pps-single-popup
