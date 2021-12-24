@@ -45,6 +45,7 @@ awsubs.co,benfile.com,blifnews.com,film21terbaru.org,kabar2.com,mangacanblog.com
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 indoxx1.club###col
+pikiran-rakyat.com###cont-megabillboard
 indostreamings.xyz###content > div:nth-of-type(1)
 kompas.com###crt-225c8f8a
 kompas.com###crt-4f9f1ad0
@@ -270,6 +271,7 @@ myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 139.99.120.222,158.69.54.218,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 animebatchs.com,goblintvfree.com,juragan-anime.net,nanime.in##.banner
+kompasiana.com##.banner-center
 www.kompasiana.com##.banner-center.banner-carpet-read.banner
 www.kompasiana.com##.banner-center.banner-ribbon.banner
 www.kompasiana.com##.banner-center.banner-top
@@ -279,6 +281,7 @@ www.kompasiana.com##.banner-dable.banner
 www.kompasiana.com##.banner-gennie.banner
 164.68.127.15##.banner-img
 dewabioskop21.asia,dewabioskop21.org##.banner-left
+kompasiana.com##.banner-mgid
 www.kompasiana.com##.banner-mgid-read.banner
 dewabioskop21.org##.banner-middle
 dewanonton.vip##.banner-premium
@@ -600,6 +603,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-pikiran-rakyat.com###cont-megabillboard
-kompasiana.com##.banner-center
-kompasiana.com##.banner-mgid
