@@ -18,6 +18,7 @@
 ###adskiri2
 ###adskiri3
 ###adv-placeholder
+###banner_iklan_top
 ###banner_top_detail
 ###bireklam
 ###bottom_exclusive_ads
@@ -77,6 +78,7 @@ giladrakor.com###ouibounce-modal
 ###tupiklan
 ###vp-advert
 ##.SectionAds
+##.ad-description
 ##.ad-left-image
 ##.ad-right-image
 ##.ad_primex
