@@ -115,6 +115,7 @@ giladrakor.com###ouibounce-modal
 ##.banner-iklan
 ##.bgads
 ##.bireklam
+##.box_item_ads_popup
 ##.current.ujimodal.ujipopup
 ##.disads300px
 ##.fake_player
@@ -211,4 +212,3 @@ giladrakor.com###ouibounce-modal
 ##[href^="https://www.ituqqwd.com"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
-##.box_item_ads_popup
