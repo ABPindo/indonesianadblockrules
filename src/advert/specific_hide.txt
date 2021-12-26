@@ -605,3 +605,10 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+motorplus-online.com##.nkt__stick--left
+motorplus-online.com##.nkt__stick--right
+motorplus-online.com##.ads__boxr--big.ads__boxr
+motorplus-online.com##.js-tower-sticky.clearfix.kcm__tower.kcm
+motorplus-online.com###ad-genie-container
+motorplus-online.com##.ads__boxr
+motorplus-online.com###div-paralax-container
