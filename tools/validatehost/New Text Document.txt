@@ -1,0 +1,4 @@
+#!/bin/bash
+adblock2hosts --ip 0.0.0.0 -o host0.txt host.txt
+pip install --user --upgrade adblock-decoder
+read -p "Press any key to resume ..."

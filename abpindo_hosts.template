@@ -10,6 +10,9 @@
 # GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
 # GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
 #
-#---------------------- advert blocking filters ----------------------!
-%include https://raw.githubusercontent.com/dead-hosts/indonesianadblockrules-validate-hosts_git_ABPindo/master/output/hosts/ACTIVE/hosts%
-
+!---------------------- advert blocking filters ----------------------!
+%include abpindo:src/advert/adservers.txt%
+%include abpindo:src/advert/thirdparty.txt%
+!--------------------------- annoyances ------------------------------!
+%include abpindo:src/annoyances/annoyance_thirdparty.txt%
+%include abpindo:src/annoyances/annoyance_prank.txt%
