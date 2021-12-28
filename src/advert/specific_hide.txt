@@ -242,6 +242,7 @@ kompas.tv##.ads-foot
 awnime.net##.ads-header-5
 dapurpacu.com##.ads-home
 grid.id##.ads-mr
+kompas.com##.ads-on-body
 tek.id##.ads-popup__inner
 kompas.tv##.ads-right2
 www.inibaru.id##.ads-sticky-left
@@ -415,6 +416,7 @@ indoxx1.art,indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
 kompas.com##.kcm
+kompas.com##.kcm-track-sticky
 kompas.com##.kcm__articleList
 apk.miuiku.com,lewat.club##.klikdisini
 anoboy.id,mangashiro.net,nontondramaseri.com##.kln
@@ -448,6 +450,7 @@ motorplus-online.com##.nkt__stick--right
 detik.com##.normalbanner
 animeindo.id##.nyaa300
 animeindo.id##.nyaa728
+kompas.com##.ol_big_inner
 detik.com##.otp_banner_close
 dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
 tribunnews.com##.ovh[style="width:468px;height:60px"]
@@ -456,6 +459,7 @@ sindonews.com##.parallax-ad
 medcom.id##.parallax_ads
 viva.co.id##.portlet.sideskycrapper
 filem456.com##.pps-single-popup
+kompas.com##.pushdown-banner
 otomania.com##.r-ads
 film-ganool.com##.random
 okezone.com##.rc-ad-300x250
@@ -470,6 +474,7 @@ kazemanga.xyz##.sg-popup-builder-content
 oploverz.bz##.sg-popup-content
 oploverz.bz##.sgpb-popup-overlay
 drakorindo.fun##.sgpb-popup-overlay.sgpb-popup-overlay-3560.sgpb-theme-6-overlay
+kompas.com##.show.ol_promo
 cinemaindo.com##.side:nth-of-type(7)
 cinemaindo.com##.side:nth-of-type(8)
 cinemaindo.com##.side:nth-of-type(9)
@@ -557,6 +562,7 @@ kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 kazefuri.web.id##[href^="https://www.indovegas."]
 idfl.me##[id^="yui-gen"].postcontainer
+kompas.com##[src^="https://adsimg.kompas.com"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 idtube.me,idxx1.top##a.bnner
 bioskop78.com##a:nth-of-type(2)
