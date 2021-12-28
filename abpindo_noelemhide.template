@@ -22,5 +22,5 @@
 %include abpindo:src/annoyances/annoyance_general_block.txt%
 %include abpindo:src/annoyances/annoyance_general_domain.txt%
 %include abpindo:src/annoyances/annoyance_prank.txt%
-%include abpindo:src/annoyances/annoyance_specific_block%
+%include abpindo:src/annoyances/annoyance_specific_block.txt%
 %include abpindo:src/annoyances/annoyance_thirdparty.txt%

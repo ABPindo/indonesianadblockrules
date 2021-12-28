@@ -13,3 +13,6 @@
 !---------------------- advert blocking filters ----------------------!
 %include abpindo:src/advert/adservers.txt%
 %include abpindo:src/advert/thirdparty.txt%
+!--------------------------- annoyances ------------------------------!
+%include abpindo:src/annoyances/annoyance_thirdparty.txt%
+%include abpindo:src/annoyances/annoyance_prank.txt%
