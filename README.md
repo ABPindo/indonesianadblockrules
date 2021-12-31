@@ -17,22 +17,22 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 - Klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo) atau pilih variasi sesuai kebutuhan.
 
 ## Variasi filter ABPindo
-| Subscribe Filter| Deskripsi|
+| Subscribe Filter|Keterangan|
 | ------------- |-------------|
-| [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)|Filter lengkap sebagai default [uBlock Origin](https://github.com/gorhill/uBlock#installation), [Adblock Plus](https://adblockplus.org/en/) regional Indonesia dan Malaysia <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt`|
-| [ABPindo_noannoyance](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt&title=ABPindo_noannoyance)|ABPindo tanpa filter judi (annoyance) <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt`|
-| [ABPindo_noelementhide](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt&title=ABPindo_noelementhide)|ABPindo tanpa filter element hide <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt`|
-| [ABPindo_host](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt)| Rekomentasi Host file ABPindo yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk [pi-hole](https://github.com/pi-hole) atau pemblokir berbasis DNS<br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt`|
-| [ABPindo_host_annoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts_annoyance.txt)| Host file ABPindo yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk [pi-hole](https://github.com/pi-hole) atau pemblokir berbasis DNS <br/>`https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts_annoyance.txt`|
+| [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)|Filter lengkap sebagai default [uBlock Origin](https://github.com/gorhill/uBlock#installation), [Adblock Plus](https://adblockplus.org/en/) regional Indonesia dan Malaysia|
+| [ABPindo_noannoyance](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt&title=ABPindo_noannoyance)|ABPindo tanpa filter annoyance (judi) |
+| [ABPindo_noelementhide](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt&title=ABPindo_noelementhide)|ABPindo tanpa filter element hide|
+| [ABPindo_host](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt)| Rekomentasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk [pi-hole](https://github.com/pi-hole) atau pemblokir berbasis DNS|
+| [ABPindo_host_annoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts_annoyance.txt)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk [pi-hole](https://github.com/pi-hole) atau pemblokir berbasis DNS|
 
 
 ## Ingin berkontribusi
-Masih banyak situs yang terlewat, entah karena situsnya telah diperbaharui atau karena situsnya belum dijangkau ABPindo. Oleh karena itu jika menemukan hal-hal tersebut bisa membantu Kami melalui:
+Masih ada situs yang terlewat, entah karena situsnya telah diperbaharui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
 - [GitHub issue tracker](https://github.com/ABPindo/indonesianadblockrules/issues)
 - [Submit a pull request](https://github.com/ABPindo/indonesianadblockrules/pulls)
 
 ## Pengaturan standar
-Pengaturan standar Kami sebagai berikut:
+Lingkungan pengujian Kami sebagai berikut:
 - Peramban [Firefox](https://www.mozilla.org/id/firefox/).
 - Pengaya [uBlock](https://github.com/gorhill/uBlock#installation).
 - Filter : [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist), [EasyPrivacy](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easyprivacy.txt&title=EasyPrivacy), [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo) dan [uBlock filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt&title=uBlock%20filters).
