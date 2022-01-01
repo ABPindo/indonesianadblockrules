@@ -7,7 +7,7 @@ ABPindo merupakan filter tambahan untuk melengkapi [EasyList](https://subscribe.
 - Tampilan lebih bersih </br>
 Kita bisa lebih fokus terhadap konten website, tanpa risih atau terganggu oleh iklan.
 - Terjaga dari penipuan </br>
-Banyak iklan yang membaur bahkan menyamar menjadi tombol pembaharuan program/ tombol download, setidaknya kita dapat terhindar dari penipuan.
+Banyak iklan yang membaur bahkan menyamar menjadi tombol pembaruan program/ tombol download, setidaknya kita dapat terhindar dari penipuan.
 - Lebih cepat </br>
 Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas. Tanpa iklan tersebut waktu membuka laman web menjadi lebih singkat.
 
@@ -27,7 +27,7 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 
 
 ## Ingin berkontribusi
-Masih ada situs yang terlewat, entah karena situsnya telah diperbaharui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
+Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
 - [GitHub issue tracker](https://github.com/ABPindo/indonesianadblockrules/issues)
 - [Submit a pull request](https://github.com/ABPindo/indonesianadblockrules/pulls)
 
