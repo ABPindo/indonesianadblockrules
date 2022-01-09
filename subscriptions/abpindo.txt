@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202201031413
+! Version: 202201092222
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 03 Jan 2022 14:13 UTC
+! Last modified: 09 Jan 2022 22:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -58,6 +58,7 @@
 ||adtimeselaras.com^$popup
 ||adtimeselaras.com^$third-party
 ||afbcashidr.com^$popup,third-party
+||agletmagilp.com^$script
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
 ||alertpay.com^$third-party
@@ -229,6 +230,7 @@
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
 ||q1xyxm89.com^$popup
+||randallbesin.com^
 ||rccsekuitas.com^$script
 ||realwap.net^$third-party
 ||replase.gq^$popup,third-party
@@ -387,6 +389,7 @@ iklan300x250.gif|
 ||animekompi.web.id/wp-content/uploads/*/antiblocker3-1.jpg
 ||animexin.*/wp-content/uploads/*.gif$image,~third-party
 ||anoboy.media/img/*.gif
+||anoboy.watch/img/*.gif$image,domain=anoboy.watch
 ||api.flygame.io/sdk/widget/id_jpnn.1540.js$script,domain=m.jpnn.com
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
@@ -401,7 +404,7 @@ iklan300x250.gif|
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=139.99.33.192|animeindo.moe|anoboy.org|anoboy.video|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.asia|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.site|layarkeren.xyz|layarmovie21.co|lk21id.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|oploverz.in|otakudesu.info|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=139.99.33.192|animeindo.moe|anoboy.org|anoboy.video|anoboy.watch|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.asia|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.site|layarkeren.xyz|layarmovie21.co|lk21id.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|oploverz.in|otakudesu.info|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
@@ -1114,8 +1117,8 @@ eramuslim.com###peluang
 idxx1.top###player-side-left
 idxx1.top,indoxx1.com###player-side-right
 indoxx1.pw###popup
-anoboy.media###popup_bawah
-anoboy.media###popup_box
+anoboy.media,anoboy.watch###popup_bawah
+anoboy.media,anoboy.watch###popup_box
 cafecinema.cc,dramamu.net,lk21.io###popup_content
 amoimovie.com###popupinfoAd1
 layarxxi.online###popuppress-9119
