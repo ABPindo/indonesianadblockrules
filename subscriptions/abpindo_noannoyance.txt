@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202201092223
+! Version: 202201131203
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 09 Jan 2022 22:23 UTC
+! Last modified: 13 Jan 2022 12:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -15,6 +15,7 @@
 ! *** abpindo:src/advert/adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||108.168.231.179^$popup,third-party
+||1486050000.rsc.cdn77.org^
 ||188affiliates.com^$third-party
 ||1b969cef84d93b43.com^
 ||2go7v1nes8.com^
@@ -91,6 +92,7 @@
 ||csf.uzone.id^
 ||d01.notifa.info^
 ||d0p21g2fep.com^
+||d231vab146qzfb.cloudfront.net^
 ||d2405b0jymm2dk.cloudfront.net^
 ||d24afgsm39csxt.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
@@ -173,6 +175,7 @@
 ||jillsclickcorner.com^$third-party
 ||jnwsrqxrdqct.top^$popup
 ||juruiklan.com^$third-party
+||katukaunamiss.com^
 ||katurars.com^$popup
 ||kdbumyha.com^$popup
 ||kiltyyoginis.com^
@@ -185,6 +188,7 @@
 ||lpaizureik.com^$popup
 ||lugtardam.com^$script
 ||luven.xyz^$popup
+||mafrarc3e9h.com^
 ||masteriklan.net^$third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
@@ -287,6 +291,8 @@
 ||whjibbprhng.com^$popup,third-party
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
+||www.bekdbxdhrffnj.com^
+||www.seyevjpcjkcnka.com^
 ||x-tags.net^
 ||xcnqoertn.xyz^
 ||yawnspuker.com^
@@ -439,6 +445,7 @@ iklan300x250.gif|
 ||dewanonton.*/static/banner/*.gif$image,~third-party
 ||dewanontons.com/wp-content/uploads/*.gif$image
 ||dewantn.com/wp-content/uploads/*.gif$image
+||doodcdn.com/ads/ad.js
 ||dunia21.*/assets/*.gif$image
 ||dunia21s.*/wp-content/uploads/*.gif$image
 ||dwanonton.*/wp-content/uploads/*.gif$image
@@ -469,6 +476,7 @@ iklan300x250.gif|
 ||gets.kadal.club/js/getlinkz.js$script,domain=alex71.com
 ||gm21.xyz/wp-content/uploads/*.gif$image,~third-party
 ||gmovies.org/wp-content/uploads/*.gif$image
+||googleusercontent.com$domain=80.209.252.146
 ||grandxxi.*/img/banner/*.gif$image
 ||gsshop.co.id^*/background/banner-
 ||gudangmovies21.*/wp-content/uploads/*.gif$image
@@ -972,6 +980,7 @@ dapurpacu.com###ads-728
 dapurpacu.com###ads-960-mid
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
+80.209.252.146###ads-pop
 downloadfilmbaru.com###ads-stack
 premierexxi.com###ads_top_list
 139.99.33.192###adsimgxatas2
@@ -1061,6 +1070,7 @@ bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live###floating_banner_top1
 bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_banner_tops
+80.209.252.146###floattop
 lk21c.fun###flobwh
 gadgetren.com###footer_sticky_inside
 resep.web.id###googlebox
@@ -1164,6 +1174,7 @@ indotelko.com###title_kanal
 bioskopkerenin.com,dunia21.cx,ganool.watch,ganool21.watch,kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,movies21.co,sinemaindo.web.id###top-banner
 layarxxi.online###top-banner-content
 indoxxi.tv,xx1.tv###top-bnner-content
+80.209.252.146###top6
 detik.com###top_banner
 tvkabel.net###tutup
 tvkabel.net###tutup2
