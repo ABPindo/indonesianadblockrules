@@ -149,7 +149,7 @@ cafecinema.cc,dramamu.net,lk21.world,sidrama.com###netkevin-overlay
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
 detik.com###otp_banner
-layarkeren.site###ouibounce-modal
+drakorindo.best,layarkeren.site###ouibounce-modal
 kricom.id###overlay
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
@@ -553,7 +553,7 @@ dl.ocanoke.com##[href="https://www.ocanoke.com/"]
 kazefuri.web.id##[href="javascript:showHideGB()"]
 nekonime.com##[href^="//wizliebeg.com/"]
 akurat.co##[href^="http://152.44.32.81"]
-bioskopkerenin.com##[href^="http://bit.ly/"]
+bioskopkerenin.com,drakorindo.best##[href^="http://bit.ly/"]
 kazefuri.web.id##[href^="http://dwatngkas."]
 bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]
