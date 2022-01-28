@@ -13,7 +13,7 @@ flrender -i abpindo=. abpindo_noelemhide.template subscriptions/abpindo_noelemhi
 adblock2hosts --ip 0.0.0.0 -o subscriptions/hosts.txt subscriptions/abpindo_hosts.txt
 adblock2hosts --ip 0.0.0.0 -o subscriptions/hosts_annoyance.txt subscriptions/abpindo_hosts_annoyance.txt
 
-adblock2hosts --ip "" -o subscriptions/hosts_domain.txt subscriptions/abpindo_hosts.txt
-adblock2hosts --ip "" -o subscriptions/hosts_domain_annoyance.txt subscriptions/abpindo_hosts_annoyance.txt
+adblock2hosts --ip "" -o subscriptions/domain.txt subscriptions/abpindo_hosts.txt
+adblock2hosts --ip "" -o subscriptions/domain_annoyance.txt subscriptions/abpindo_hosts_annoyance.txt
 
 read -p "Press any key to resume ..."
