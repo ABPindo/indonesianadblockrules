@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202201281322
+! Version: 202201281329
 # Title: ABPindo (hosts)
 # Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
 # Last modified: %timestamp%
@@ -192,6 +192,7 @@
 ||mousheen.net^$third-party
 ||mybannermaker.com^$third-party
 ||naetoris.pw^$popup
+||nakedfulfilhairy.com^
 ||newsupdatewe.info^$third-party
 ||octafx.com^$popup,third-party
 ||offer.popsads.link^$script
