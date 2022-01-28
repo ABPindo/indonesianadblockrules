@@ -63,6 +63,7 @@
 @@||komikcast.com^$generichide
 @@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
+@@||kuronime.tv^$generichide
 @@||leantoro.com/wp-content/plugins/newkarma-core/js/fuckadblock.js$script,~third-party
 @@||lewat.club/js/ads.js$script,~third-party
 @@||ljutkeunvpn.blogspot.com^$generichide
@@ -125,4 +126,3 @@ short.awsubs.co#@#.iklan
 sporcle.com#@#.remodal
 totolink.id#@#.social-circle
 woof.tube#@#.adsbox
-@@||kuronime.tv^$generichide
