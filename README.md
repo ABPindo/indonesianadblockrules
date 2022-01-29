@@ -26,7 +26,7 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 | [ABPindo_host_annoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts_annoyance.txt)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk [pi-hole](https://github.com/pi-hole) atau pemblokir berbasis DNS|
 | [ABPindo_domain](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)| Rekomendasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk pemblokir berbasis DNS yang tidak mendukung file hosts|
 | [ABPindo_domain_annoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain_annoyance.txt)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk pemblokir berbasis DNS yang tidak mendukung file hosts|
-| [ABPindo_dnsmasq](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)| Rekomendasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk [dnsmasq](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=summary)|
+| [ABPindo_dnsmasq](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)| Rekomendasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk [dnsmasq](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=summary)|
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
