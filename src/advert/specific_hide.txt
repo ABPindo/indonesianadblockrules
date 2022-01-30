@@ -624,3 +624,12 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+gridoto.com##.clearfix.ads__top-big250
+gridoto.com##.ads__stick--left
+gridoto.com##.ads__stick--right
+gridoto.com##.ads_below_photo
+gridoto.com##.read__left
+gridoto.com##.ads-liftdown
+gridoto.com##.pushdown-banner
+gridoto.com###jxOutstreamContainer
+gridoto.com##.ads-on
