@@ -28,6 +28,7 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 | [ABPindo_domain_annoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain_annoyance.txt)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk pemblokir berbasis DNS yang tidak mendukung file hosts|
 | [ABPindo_dnsmasq](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)| Rekomendasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk [dnsmasq](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=summary)|
 | [ABPindo_aghome](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt)| Rekomendasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)|
+| [ABPindo_aghome_annoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome_annoyance.txt)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)|
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
