@@ -26,10 +26,6 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install --upgrade python-abp
-    - name: Orderer and Preener
-      run: |
         python tools/FOP.py
-    - name: render it and save it into
-      run: |
         flrender -i abpindo=. abpindo_hosts.template subscriptions/abpindo_hosts.txt
       
