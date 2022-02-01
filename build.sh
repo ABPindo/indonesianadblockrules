@@ -16,6 +16,9 @@ adblock2hosts --ip 0.0.0.0 -o subscriptions/hosts_annoyance.txt subscriptions/ab
 adblock2hosts --ip "" -o subscriptions/domain.txt subscriptions/abpindo_hosts.txt
 adblock2hosts --ip "" -o subscriptions/domain_annoyance.txt subscriptions/abpindo_hosts_annoyance.txt
 
+python tools/domains_to_dnsmasq.py subscriptions/hosts.txt subscriptions/dnsmasq.txt
+python tools/domains_to_dnsmasq.py subscriptions/hosts_annoyance.txt subscriptions/dnsmasq_annoyance.txt
+
 #adblock2hosts -o subscriptions/domain.txt subscriptions/abpindo_hosts.txt
 #adblock2hosts -o subscriptions/domain_annoyance.txt subscriptions/abpindo_hosts_annoyance.txt
 
