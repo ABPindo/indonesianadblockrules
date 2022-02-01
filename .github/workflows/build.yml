@@ -17,8 +17,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: "actions/checkout@v2.3.4"
-    - name: Set up Python 3.10
+    - uses: actions/checkout@v2
+    - name: Set up Python 3
       uses: actions/setup-python@v2
       with:
         python-version: "3.x"
@@ -27,5 +27,8 @@ jobs:
         python -m pip install --upgrade pip
         pip install --upgrade python-abp
         python tools/FOP.py
+    - name: Install dependencies
+      run: |
         flrender -i abpindo=. abpindo_hosts.template subscriptions/abpindo_hosts.txt
+        shell: bash
       
