@@ -1,6 +1,6 @@
 # This workflow will install Python dependencies
 
-name: Build
+name: decoder
 
 on:
   push:
@@ -24,7 +24,6 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install --upgrade python-abp
-        python tools/FOP.py
-        #flrender -i abpindo=. abpindo_hosts.template subscriptions/abpindo_hosts.txt
-      
+        pip install --user --upgrade adblock-decoder
+        adblock2hosts --ip 0.0.0.0 -o subscriptions/hosts.txt subscriptions/abpindo_hosts.txt
+        adblock2hosts --ip 0.0.0.0 -o subscriptions/hosts_annoyance.txt subscriptions/abpindo_hosts_annoyance.txt
