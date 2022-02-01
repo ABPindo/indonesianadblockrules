@@ -1,0 +1,3 @@
+[submodule "abp/filters"]
+	path = abp/filters
+	url = https://github.com/adblockplus/python-abp.git
