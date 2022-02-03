@@ -32,6 +32,9 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 | [ABPindo_dnsmasq_annoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance.txt)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk [Dnsmasq](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=summary)|
 | [ABPindo_dnsmasq_server](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_server.txt)| Rekomendasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk [Dnsmasq](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=summary)|
 | [ABPindo_dnsmasq_annoyance_server](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance_server.txt)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk [Dnsmasq](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=summary)|
+| [ABPindo_TPL](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.tpl)| Rekomendasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk Microsoft Internet Explorer|
+| [ABPindo_annoyance_TPL](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_annoyance.tpl)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk Microsoft Internet Explorer|
+
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
