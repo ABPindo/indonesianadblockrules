@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202202031429
+! Version: 202202051344
 # Title: ABPindo (hosts)
 # Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
 # Last modified: %timestamp%
@@ -392,6 +392,7 @@
 ||dewijudi.com^$third-party
 ||dewitogel.com^$third-party
 ||dutatoto.com^$third-party
+||emputogel.com^$third-party
 ||europoker.com^$third-party
 ||everypoker.com^$third-party
 ||feltpoker.com^$third-party
@@ -601,7 +602,7 @@
 ||yourpokercash.com^$third-party
 ||yoyopoker.net^$popup
 ! *** abpindo:src/annoyances/annoyance_prank.txt ***
-! situs jail dan usil
+! situs usil dan prank
 ! 
 ||1227.com^
 ||1girl1pitcher.com^
