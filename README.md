@@ -16,22 +16,25 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 - Pasang pengaya/ekstensi [uBlock](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenisnya.
 - Klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo) atau pilih variasi sesuai kebutuhan.
 
-## Variasi filter ABPindo
-| Subscribe Filter|Keterangan|
+## Langganan Filter utama
+| Langganan|Keterangan|
 | ------------- |-------------|
 | [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)|Filter lengkap sebagai default [uBlock Origin](https://github.com/gorhill/uBlock#installation), [Adblock Plus](https://adblockplus.org/en/) regional Indonesia dan Malaysia|
 | [ABPindo_noannoyance](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt&title=ABPindo_noannoyance)|ABPindo tanpa filter annoyance (judi) |
 | [ABPindo_noelementhide](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt&title=ABPindo_noelementhide)|ABPindo tanpa filter element hide|
-| [ABPindo_host](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt)| Rekomendasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk [pi-hole](https://github.com/pi-hole) atau pemblokir berbasis DNS|
-| [ABPindo_host_annoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts_annoyance.txt)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk [pi-hole](https://github.com/pi-hole) atau pemblokir berbasis DNS|
-| [ABPindo_domain](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)| Rekomendasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk pemblokir berbasis DNS yang tidak mendukung file hosts|
-| [ABPindo_domain_annoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain_annoyance.txt)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk pemblokir berbasis DNS yang tidak mendukung file hosts|
-| [ABPindo_aghome](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_aghome.txt)| Rekomendasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)|
-| [ABPindo_aghome_annoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_aghome_annoyance.txt)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)|
-| [ABPindo_dnsmasq](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq.txt)| Rekomendasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk [Dnsmasq](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=summary)|
-| [ABPindo_dnsmasq_annoyance](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance.txt)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk [Dnsmasq](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=summary)|
-| [ABPindo_dnsmasq_server](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_server.txt)| Rekomendasi ABPindo Host file yang hanya terdiri dari domain adserver dan third-party dan digunakan untuk [Dnsmasq](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=summary)|
-| [ABPindo_dnsmasq_annoyance_server](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance_server.txt)| ABPindo Host file yang terdiri dari adserver, third-party, dan annoyance (judi) dan digunakan untuk [Dnsmasq](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=summary)|
+
+## Variasi filter ABPindo untuk DNS
+|Sintak|ABPindo*|ABPindo_annoyance**|
+| ------------- |-------------|-------------|
+|Hosts ([pi-hole](https://github.com/pi-hole/pi-hole)) |[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt)|[link2](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts_annoyance.txt)|
+|Hosts domain_only|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)|[link2](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain_annoyance.txt)|
+|[AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_aghome.txt)|[link2](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_aghome_annoyance.txt)|
+|[Dnsmasq address=/](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq.txt)|[link2](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance.txt)|
+|[Dnsmasq server=/](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_server.txt)|[link2](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance_server.txt)|
+
+keterangan
+*Terdiri dari domain ABPindo_adserver dan ABPindo_third-party. 
+**terdiri dari ABPindo_adserver, ABPindo_third-party, dan ABPindo_annoyance (judi).
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
