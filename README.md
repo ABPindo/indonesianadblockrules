@@ -33,8 +33,8 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 |[Dnsmasq server=/](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_server.txt)|[link2](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance_server.txt)|
 
 keterangan
-*Terdiri dari domain ABPindo_adserver dan ABPindo_third-party. 
-**terdiri dari ABPindo_adserver, ABPindo_third-party, dan ABPindo_annoyance (judi).
+- *Terdiri dari domain ABPindo_adserver dan ABPindo_third-party
+- **terdiri dari ABPindo_adserver, ABPindo_third-party, dan ABPindo_annoyance (judi)
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
