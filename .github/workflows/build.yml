@@ -1,5 +1,4 @@
 # This workflow will install Python dependencies
-
 name: Build
 
 on:
@@ -12,19 +11,22 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3
       uses: actions/setup-python@v2
       with:
         python-version: "3.x"
-    - name: Install dependencies
+    - name: upgrade pip
       run: |
         python -m pip install --upgrade pip
-        pip install --upgrade python-abp
+    - name: Install dependencies
+      run: |
         python tools/FOP.py
-        #flrender -i abpindo=. abpindo_hosts.template subscriptions/abpindo_hosts.txt
-      
+    - name: python-abp
+      run: |
+        pip install --upgrade python-abp
+    - name: render
+      run: |
+        flrender -i abpindo=. abpindo_hosts.template subscriptions/abpindo_hosts.txt  
