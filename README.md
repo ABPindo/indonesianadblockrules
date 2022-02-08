@@ -24,17 +24,17 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 | [ABPindo_noelementhide](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt&title=ABPindo_noelementhide)|ABPindo tanpa filter element hide|
 
 ## Variasi filter ABPindo untuk DNS
-|Sintak|ABPindo*|ABPindo_annoyance**|
+|Sintak|ABPindo*|ABPindo_noannoyance**|
 | ------------- |-------------|-------------|
-|Hosts ([pi-hole](https://github.com/pi-hole/pi-hole)) |[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt)|[link2](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts_annoyance.txt)|
-|Hosts domain_only|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)|[link2](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain_annoyance.txt)|
-|[AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_aghome.txt)|[link2](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_aghome_annoyance.txt)|
-|[Dnsmasq address=/](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq.txt)|[link2](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance.txt)|
-|[Dnsmasq server=/](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_server.txt)|[link2](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance_server.txt)|
+|Hosts ([pi-hole](https://github.com/pi-hole/pi-hole)) |[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts_noannoyance.txt)|
+|Domain|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain_noannoyance.txt)|
+|[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_aghome.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_aghome_noannoyance.txt)|
+|[Dnsmasq address=/](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_noannoyance.txt)|
+|[Dnsmasq server=/](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_server.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_noannoyance_server.txt)|
 
 keterangan
-- *Terdiri dari domain ABPindo_adserver dan ABPindo_third-party
-- **terdiri dari ABPindo_adserver, ABPindo_third-party, dan ABPindo_annoyance (judi)
+- *Filter lengkap sebagai default regional Indonesia dan Malaysia
+- **ABPindo tanpa filter annoyance (judi)
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
@@ -50,6 +50,9 @@ Lingkungan pengujian Kami sebagai berikut:
 ## Bagi pengembang
 - [Kebijakan ABPindo tentang iklan](https://easylist.to/pages/policy.html)
 - [Adblock Plus filters explained](https://adblockplus.org/filter-cheatsheet)
+- [How to write filters | Adblock Plus Help Center](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
+- [How to create your own custom filter list : AdBlock Help](https://help.getadblock.com/support/solutions/articles/6000165012-how-to-create-your-own-personal-filter-list)
+- [DNS filtering rules syntax | AdGuard Knowledgebase](https://kb.adguard.com/en/general/dns-filtering-syntax)
 - [uBlock Static filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 - [Python-abp : utilities untuk rendering filter ABPindo](https://github.com/adblockplus/python-abp)
 - Prasyarat: [Python](https://www.python.org/downloads/), [pip](https://pypi.org/project/pip/)
