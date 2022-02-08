@@ -1,5 +1,6 @@
 ###judi
 ###togel
+##.ads-sticky-bottom
 ##.dominowalet
 ##.happypoker
 ##.judi
@@ -3400,4 +3401,3 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt^="togel online" i]
 ##img[class="happypoker" i]
 ##img[src="http://livesgp."]
-##.ads-sticky-bottom
