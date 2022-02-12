@@ -400,6 +400,7 @@ okezone.com##.detads
 detik.com##.detikads
 dewanontons.com##.dewa_floating_bottom
 layarkaca21.tv,lk21.tv##.fancybox-skin
+winpoin.com##.feedme-header-desktop.adsbygoogle
 dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
 drakorasia.net,ryuukoi.web.id##.floatingads
@@ -638,4 +639,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-winpoin.com##.feedme-header-desktop.adsbygoogle

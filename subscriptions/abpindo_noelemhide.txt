@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202202080555
+! Version: 202202120311
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 08 Feb 2022 05:55 UTC
+! Last modified: 12 Feb 2022 03:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -33,6 +33,7 @@
 ||a04.uadexchange.com^
 ||a05.uadexchange.com^
 ||a63t9o1azf.com^$popup
+||a937a51544.85e954452d.com^$third-party
 ||aa9271e4a2.4d4ac172b7.com^
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
@@ -262,6 +263,7 @@
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
 ||syndopop.com^$popup
+||taoyinbiacid.com^
 ||teliad.com^$third-party
 ||theclickers.net^$third-party
 ||tidnqztumpnk.com^$popup
@@ -616,7 +618,7 @@ iklan300x250.gif|
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=komikcastid.com
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=komikcastid.com,mangakita.net
 ! *** abpindo:src/advert/snippet _adblockplus.txt ***
 ! Snippet filters for Adblock Plus 3.3 (https://help.eyeo.com/adblockplus/snippet-filters-tutorial)
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
