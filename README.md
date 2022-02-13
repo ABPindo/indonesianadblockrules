@@ -24,14 +24,14 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 | [ABPindo_noelementhide](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt&title=ABPindo_noelementhide)|ABPindo tanpa filter element hide|
 
 ## Variasi filter ABPindo untuk DNS
-|Sintak|ABPindo*|ABPindo_annoyance**|
-| ------------- |-------------|-------------|
-|Hosts ([pi-hole](https://github.com/pi-hole/pi-hole)) |[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts_annoyance.txt)|
-|Domain|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain_annoyance.txt)|
-|[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome_annoyance.txt)|
-|[Dnsmasq address=/](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance.txt)|
-|[Dnsmasq server=/](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_server.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance_server.txt)|
-|[BIND RPZ](https://gitlab.isc.org/isc-projects/bind9.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz_annoyance.txt)
+|Sintak|ABPindo*|ABPindo_annoyance**|Example|
+| ------------- |-------------|-------------|-------------|
+|Hosts ([pi-hole](https://github.com/pi-hole/pi-hole)) |[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts_annoyance.txt)|`0.0.0.0 example.com`|
+|Domain |[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain_annoyance.txt)|`example.com`|
+|Adblock-style ([AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style))|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome_annoyance.txt)|`\|\|example.org^`|
+|[Dnsmasq1](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance.txt)|`address=/example.com/0.0.0.0`|
+|[Dnsmasq2](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_server.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance_server.txt)|`server=/example.com/`|
+|[BIND RPZ](https://gitlab.isc.org/isc-projects/bind9.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz_annoyance.txt)|`example.com CNAME .`|
 
 Keterangan:
 - *Terdiri dari domain ABPindo_adserver dan ABPindo_third-party
