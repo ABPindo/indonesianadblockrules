@@ -21,6 +21,9 @@ python tools/domains_to_dnsmasq_address.py subscriptions/hosts_annoyance.txt sub
 python tools/domains_to_dnsmasq_server.py subscriptions/hosts.txt subscriptions/dnsmasq_server.txt
 python tools/domains_to_dnsmasq_server.py subscriptions/hosts_annoyance.txt subscriptions/dnsmasq_annoyance_server.txt
 
+python tools/domains_to_rpz.py subscriptions/hosts.txt subscriptions/rpz.txt
+python tools/domains_to_rpz.py subscriptions/hosts_annoyance.txt subscriptions/rpz_annoyance.txt
+
 #adblock2hosts -o subscriptions/domain.txt subscriptions/abpindo_hosts.txt
 #adblock2hosts -o subscriptions/domain_annoyance.txt subscriptions/abpindo_hosts_annoyance.txt
 

@@ -11,7 +11,7 @@ if len(sys.argv) != 3:
 	print("Wrong number of arguments.\nHelp: {} {} [input file] [output file]".format(sys.executable,sys.argv[0]))
 	sys.exit()
 else:
-	print("Generating the dnsmasq version from domains file {}...".format(sys.argv[1]))
+	print("Generating the dnsmasq_server version from domains file {}...".format(sys.argv[1]))
 	domainsfile = open(sys.argv[1],"r")
 	outputfile = open(sys.argv[2],"w")
 	lines = domainsfile.read().split("\n")

@@ -11,7 +11,7 @@ if len(sys.argv) != 3:
 	print("Wrong number of arguments.\nHelp: {} {} [input file] [output file]".format(sys.executable,sys.argv[0]))
 	sys.exit()
 else:
-	print("Generating the dnsmasq_address version from domains file {}...".format(sys.argv[1]))
+	print("Generating the rpz version from domains file {}...".format(sys.argv[1]))
 	domainsfile = open(sys.argv[1],"r")
 	outputfile = open(sys.argv[2],"w")
 	lines = domainsfile.read().split("\n")
@@ -22,12 +22,12 @@ else:
 			continue
 		elif line.startswith("127.0.0.1") or line.startswith("0.0.0.0"):
 			try:
-				outputfile.write("address=/{}/0.0.0.0".format(line.split(" ")[1]))
+				outputfile.write("{} CNAME .".format(line.split(" ")[1]))
 			except:
 				# this may fail, don't crash
 				pass
 		else:
-			outputfile.write("address=/{}/0.0.0.0".format(line))
+			outputfile.write("{} CNAME .".format(line))
 		outputfile.write("\n")
 		
 
