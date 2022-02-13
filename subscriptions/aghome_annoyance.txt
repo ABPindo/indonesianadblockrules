@@ -1,17 +1,3 @@
-! Version: 202202010955
-# Title: ABPindo (AdGuard Home)
-# Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
-# Last modified: %timestamp%
-# Expires: 4 days (update frequency)
-# Homepage: https://github.com/ABPindo/indonesianadblockrules/
-# Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
-#
-# Please report any unblocked adverts or problems
-# GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
-# GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
-#
-! ---------------------- advert blocking filters ----------------------!
-! *** abpindo:src/advert/adservers.txt ***
 ||05ee3a24ed11df058c8.com^
 ||108.168.231.179^
 ||1486050000.rsc.cdn77.org^
@@ -32,6 +18,7 @@
 ||a04.uadexchange.com^
 ||a05.uadexchange.com^
 ||a63t9o1azf.com^
+||a937a51544.85e954452d.com^
 ||aa9271e4a2.4d4ac172b7.com^
 ||abrts.pro^
 ||accesstrade.co.id^
@@ -228,6 +215,7 @@
 ||props.id^
 ||publish.web.id^
 ||pusatiklan.com^
+||pvwtkxcpsrcsd.com^
 ||q1xyxm89.com^
 ||randallbesin.com^
 ||rccsekuitas.com^
@@ -249,6 +237,7 @@
 ||sentrapromosi.com^
 ||serbada.com^
 ||serbapromo.com^
+||shiiticprating.com^
 ||shiiuojjccp.com^
 ||shiokambing2.com^
 ||shqbsdjatunl.com^
@@ -259,6 +248,7 @@
 ||sumberiklan.com^
 ||suryaiklan.com^
 ||syndopop.com^
+||taoyinbiacid.com^
 ||teliad.com^
 ||theclickers.net^
 ||tidnqztumpnk.com^
@@ -299,7 +289,6 @@
 ||yx-ads6.com^
 ||zukxd6fkxqn.com^
 ||zuyejecgb.com^
-! *** abpindo:src/advert/thirdparty.txt ***
 ||144.126.241.203^
 ||c-stat.eu^
 ||cfs1.uzone.id^
@@ -321,8 +310,6 @@
 ||traffic-monetizer.com^
 ||trafficfactory.biz^
 ||trk.cpaoptimizer.com^
-! --------------------------- annoyances ------------------------------!
-! *** abpindo:src/annoyances/annoyance_thirdparty.txt ***
 ||24hpoker.com^
 ||32redpoker.com^
 ||3poker855.com^
@@ -389,6 +376,7 @@
 ||dewijudi.com^
 ||dewitogel.com^
 ||dutatoto.com^
+||emputogel.com^
 ||europoker.com^
 ||everypoker.com^
 ||feltpoker.com^
@@ -597,9 +585,6 @@
 ||xjudi.com^
 ||yourpokercash.com^
 ||yoyopoker.net^
-! *** abpindo:src/annoyances/annoyance_prank.txt ***
-! situs jail dan usil
-! 
 ||1227.com^
 ||1girl1pitcher.com^
 ||1girl1pitcher.org^
@@ -620,7 +605,7 @@
 ||4girlsfingerpaint.com^
 ||4girlsfingerpaint.org^
 ||ballsack.org^
-||bangun3.com/admin
+||bangun3.com^
 ||bestshockers.com^
 ||bluewaffle.biz^
 ||bluewaffle.com^
@@ -698,7 +683,7 @@
 ||selfpwn.org^
 ||sexitnow.com^
 ||shitpassion.com^
-||sinthaistudio.con^
+||sinthaistudio.com^
 ||sourmath.com^
 ||strawpoii.me^
 ||suckdude.com^

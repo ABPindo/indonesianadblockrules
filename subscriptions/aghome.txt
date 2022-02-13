@@ -1,19 +1,5 @@
-! Version: 202202010955
-# Title: ABPindo (AdGuard Home)
-# Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
-# Last modified: %timestamp%
-# Expires: 4 days (update frequency)
-# Homepage: https://github.com/ABPindo/indonesianadblockrules/
-# Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
-#
-# Please report any unblocked adverts or problems
-# GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
-# GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
-#
-! ---------------------- advert blocking filters ----------------------!
-! *** abpindo:src/advert/adservers.txt ***
-||05ee3a24ed11df058c8.com
-||108.168.231.179
+||05ee3a24ed11df058c8.com^
+||108.168.231.179^
 ||1486050000.rsc.cdn77.org^
 ||188affiliates.com^
 ||1b969cef84d93b43.com^
@@ -32,16 +18,17 @@
 ||a04.uadexchange.com^
 ||a05.uadexchange.com^
 ||a63t9o1azf.com^
+||a937a51544.85e954452d.com^
 ||aa9271e4a2.4d4ac172b7.com^
-||abrts.pro
+||abrts.pro^
 ||accesstrade.co.id^
 ||ad-loupe.com^
 ||adbsys.icu^
 ||addesigner.com^
 ||adflazz.com^
-||admarketplace.net
+||admarketplace.net^
 ||admp.io^
-||adnety.com
+||adnety.com^
 ||adplus.co.id^
 ||adpop-1.com^
 ||adpstatic.com^
@@ -58,17 +45,17 @@
 ||adslop.com^
 ||adtimeselaras.com^
 ||adtimeselaras.com^
-||afbcashidr.com
+||afbcashidr.com^
 ||agletmagilp.com^
 ||ahcnxuepput.com^
 ||aj1052.online^
 ||alertpay.com^
-||ampclicks.com
+||ampclicks.com^
 ||anekaiklan.com^
 ||aopxnvrugx.com^
 ||auredzeon.com^
-||axzsd.pro
-||azxsd.pro
+||axzsd.pro^
+||azxsd.pro^
 ||b9645fef65.com^
 ||baliadv.com^
 ||bastingestival.com^
@@ -83,7 +70,7 @@
 ||cfs2.uzone.id^
 ||chidsimp.com^
 ||chqspuonctkgz.com^
-||cjsab.com
+||cjsab.com^
 ||click.eclk.club^
 ||clickmedia.co.id^
 ||clicks.pipaffiliates.com^
@@ -97,9 +84,9 @@
 ||d824d7f5cbcb0e00.com^
 ||d95d1c685a.6c142df43a.com^
 ||daero.pw^
-||dafa.io
+||dafa.io^
 ||dairouzy.net^
-||dearerfonder.info
+||dearerfonder.info^
 ||dewsburg.info^
 ||digiads.co.id^
 ||digiads.co.id^
@@ -154,13 +141,13 @@
 ||indobanner.com^
 ||indofreeads.com^
 ||indoleads.com^
-||istana-impian.com
-||istana-impian2.com
+||istana-impian.com^
+||istana-impian2.com^
 ||istanaiklan.com^
-||istanaimpian1.com
-||istanaimpian2.com
-||istanaimpian3.com
-||iupqelechcmj.com
+||istanaimpian1.com^
+||istanaimpian2.com^
+||istanaimpian3.com^
+||iupqelechcmj.com^
 ||iwtserve.com^
 ||jagoiklan.com^
 ||jagopromo.com^
@@ -183,7 +170,7 @@
 ||lugtardam.com^
 ||luven.xyz^
 ||masteriklan.net^
-||mediab.uy
+||mediab.uy^
 ||mesiniklan.andipublisher.com^
 ||mifsirnhvvrps.top^
 ||misxgkvnlf.com^
@@ -193,13 +180,13 @@
 ||naetoris.pw^
 ||nakedfulfilhairy.com^
 ||newsupdatewe.info^
-||octafx.com
+||octafx.com^
 ||offer.popsads.link^
-||offerjuice.me
+||offerjuice.me^
 ||olenation.org^
 ||olkrzytv.com^
 ||olmsoneenh.info^
-||onclkds.com
+||onclkds.com^
 ||onigagalai.ru^
 ||openadserving.com^
 ||ourtherss.top^
@@ -220,20 +207,21 @@
 ||pheersie.com^
 ||phudrour.net^
 ||pondokiklan.com^
-||popclck.net
-||popunderjs.club
+||popclck.net^
+||popunderjs.club^
 ||presbanise.pw^
 ||promobagus.com^
 ||promotioncamp.com^
 ||props.id^
 ||publish.web.id^
 ||pusatiklan.com^
+||pvwtkxcpsrcsd.com^
 ||q1xyxm89.com^
 ||randallbesin.com^
 ||rccsekuitas.com^
 ||realwap.net^
-||replase.gq
-||replase.ml
+||replase.gq^
+||replase.ml^
 ||repsrowedpay.com^
 ||ridingintractable.com^
 ||roojouma.com^
@@ -242,23 +230,25 @@
 ||sanglah.com^
 ||sarapbeh.com^
 ||sawnowepage.com^
-||scriptall.ml
+||scriptall.ml^
 ||sebar.idblognetwork.com^
-||see-work.info
+||see-work.info^
 ||sekaneemits.com^
 ||sentrapromosi.com^
 ||serbada.com^
 ||serbapromo.com^
+||shiiticprating.com^
 ||shiiuojjccp.com^
-||shiokambing2.com
+||shiokambing2.com^
 ||shqbsdjatunl.com^
 ||sitti.co.id^
 ||situsiklanbaris.com^
-||spanuletubings.com
+||spanuletubings.com^
 ||spewyelks.com^
 ||sumberiklan.com^
 ||suryaiklan.com^
 ||syndopop.com^
+||taoyinbiacid.com^
 ||teliad.com^
 ||theclickers.net^
 ||tidnqztumpnk.com^
@@ -269,24 +259,24 @@
 ||trendlope.com^
 ||trendlope.com^
 ||tsyndolls.com^
-||tummiarunzpf.com
+||tummiarunzpf.com^
 ||tylosischewer.com^
 ||u-ad.info^
-||u-on.eu
+||u-on.eu^
 ||uadexchange.com^
 ||ueuodgnrhb.com^
 ||uieoogjarimcey.com^
-||uoarbhxfyygn.com
+||uoarbhxfyygn.com^
 ||uofmnbkm.com^
 ||useads.com^
 ||utopia.ad-loupe.com^
-||vrewpywootyu.com
+||vrewpywootyu.com^
 ||wbaogaqvrukprx.com^
 ||webiklan.com^
 ||weblogiklan.com^
-||whjibbprhng.com
-||window-close.cf
-||window-close.ga
+||whjibbprhng.com^
+||window-close.cf^
+||window-close.ga^
 ||www.bekdbxdhrffnj.com^
 ||www.seyevjpcjkcnka.com^
 ||x-tags.net^
@@ -294,30 +284,29 @@
 ||yawnspuker.com^
 ||yesads.com^
 ||yhig.info^
-||yllix.com
+||yllix.com^
 ||ys3e965d.top^
 ||yx-ads6.com^
 ||zukxd6fkxqn.com^
 ||zuyejecgb.com^
-! *** abpindo:src/advert/thirdparty.txt ***
-||144.126.241.203
+||144.126.241.203^
 ||c-stat.eu^
 ||cfs1.uzone.id^
-||cutt.ly
+||cutt.ly^
 ||hesftig.site^
-||ktrackdata.com
+||ktrackdata.com^
 ||moneyfree.co^
 ||nonegrysu.pro^
 ||profitsurvey365.live^
 ||track.aptitudemedia.co^
 ||track.avxid.com^
 ||track.spzan.com^
-||track.zerofriend.com
+||track.zerofriend.com^
 ||trackdan.com^
 ||tracker.beritagar.id^
 ||tracker.lazada.co.id^
 ||trackingclick.net^
 ||trackingclick.net^
 ||traffic-monetizer.com^
-||trafficfactory.biz
-||trk.cpaoptimizer.com
+||trafficfactory.biz^
+||trk.cpaoptimizer.com^
