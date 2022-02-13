@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202202130046
+! Version: 202202131237
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 13 Feb 2022 00:46 UTC
+! Last modified: 13 Feb 2022 12:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -682,6 +682,8 @@ iklan300x250.gif|
 @@||infokupedia.id^$generichide
 @@||infotekno.net^$generichide
 @@||inwepo.co^$generichide
+@@||js.rfp.fout.jp/rfp-display.js$script,domain=www.funtasticko.net
+@@||js.rfp.fout.jp/rfp-infeed.js$script,domain=www.funtasticko.net
 @@||kabarviral.blog/js/ads.js$script,~third-party
 @@||kaze-batch.blogspot.com^$generichide
 @@||kertashitam.com/js/advertisement.js$script,domain=kertashitam.com
@@ -1580,6 +1582,7 @@ ytssubtitles.com##a[href^="https://oxhax.com/"]
 lk21c.fun##a[href^="https://rebrand.ly/"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
 awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
+otakudesu.pro##a[rel^="nofollow noopener"] > img[src$=".gif"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 gatsunime.org##a[target="_blank"][rel^="noopener noreferrer"] > img[src$=".gif"]
 bioskop168.co,bioskop168.online,bioskop168.pro##bioskop-kanan
@@ -1727,6 +1730,7 @@ bioskop78.com##td:nth-of-type(3)
 /DEWABANDAR-$image
 /Dazbet.gif$image
 /ITCBET.gif|$image
+/JAYAPOKER_*.gif$image
 /JuaraCapsa.gif|$image
 /MEJAHOKI.gif|$image
 /NIKMATIQQ.$image
@@ -6313,6 +6317,7 @@ totojitu.gif|$image
 ##[href^="https://agenimc5."]
 ##[href^="https://agpkv.com"]
 ##[href^="https://asianbandarq."]
+##[href^="https://bacanpoker.cyou/"]
 ##[href^="https://balakdewa."]
 ##[href^="https://bandarbet303.club/"]
 ##[href^="https://bandarenjoy."]

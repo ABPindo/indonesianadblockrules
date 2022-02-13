@@ -56,6 +56,8 @@
 @@||infokupedia.id^$generichide
 @@||infotekno.net^$generichide
 @@||inwepo.co^$generichide
+@@||js.rfp.fout.jp/rfp-display.js$script,domain=www.funtasticko.net
+@@||js.rfp.fout.jp/rfp-infeed.js$script,domain=www.funtasticko.net
 @@||kabarviral.blog/js/ads.js$script,~third-party
 @@||kaze-batch.blogspot.com^$generichide
 @@||kertashitam.com/js/advertisement.js$script,domain=kertashitam.com
@@ -126,5 +128,3 @@ short.awsubs.co#@#.iklan
 sporcle.com#@#.remodal
 totolink.id#@#.social-circle
 woof.tube#@#.adsbox
-@@||js.rfp.fout.jp/rfp-display.js$script,domain=www.funtasticko.net
-@@||js.rfp.fout.jp/rfp-infeed.js$script,domain=www.funtasticko.net
