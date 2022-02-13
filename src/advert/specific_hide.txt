@@ -604,7 +604,7 @@ animebatch.web.id,animeindo.co,animeku.tv,anoboy.org,bioskop168.pro,bioskopbos.c
 torjack.net##a[href^="https://mypayingads.com"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
 lk21c.fun##a[href^="https://rebrand.ly/"]
-otakudesu.pro##a[rel*="nofollow"] > img[src*="bp.blogspot.com"]
+otakudesu.pro##a[rel^="nofollow noopener"]>img[src$=".gif"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
 awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
