@@ -40,3 +40,5 @@ hentai2read.com##a[href^="//www.nutaku.net/signup/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
+mediahiburan.my##.td-container-wrap.td-banner-bg.td-banner-wrap-full
+mediahiburan.my##.adplaceholder-mrec
