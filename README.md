@@ -9,7 +9,7 @@ ABPindo merupakan filter tambahan untuk melengkapi [EasyList](https://subscribe.
 
 [Dnsmasq](https://github.com/imp/dnsmasq/blob/master/dnsmasq.conf.example)
 
-[BIND](https://www.isc.org/docs/BIND_RPZ.pdf) 
+[RPZ](https://www.isc.org/docs/BIND_RPZ.pdf) 
 
 Dan kompatibel dengan:
 
