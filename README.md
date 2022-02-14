@@ -24,18 +24,18 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 | [ABPindo_noelementhide](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt&title=ABPindo_noelementhide)|ABPindo tanpa filter element hide|
 
 ## Variasi filter ABPindo untuk DNS
-|Sintak|ABPindo*|ABPindo_annoyance**|Example|
+|Sintak|ABPindo*|ABPindo_annoyance**|Contoh|
 | ------------- |-------------|-------------|-------------|
-|Hosts ([pi-hole](https://github.com/pi-hole/pi-hole)) |[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts_annoyance.txt)|`0.0.0.0 example.com`|
-|Domain |[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain_annoyance.txt)|`example.com`|
-|Adblock-style ([AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style))|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome_annoyance.txt)|`\|\|example.org^`|
+|Hosts [(AdAway)](https://github.com/AdAway/AdAway) |[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts_annoyance.txt)|`0.0.0.0 example.com`|
+|Domain [(Pi-Hole)](https://github.com/pi-hole/pi-hole) |[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain_annoyance.txt)|`example.com`|
+|Adblocker-syntax domains [(AdGuard Home)](https://github.com/AdguardTeam/AdGuardHome)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome_annoyance.txt)|`\|\|example.com^`|
 |[Dnsmasq1](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance.txt)|`address=/example.com/0.0.0.0`|
 |[Dnsmasq2](http://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_server.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance_server.txt)|`server=/example.com/`|
-|[BIND RPZ](https://gitlab.isc.org/isc-projects/bind9.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz_annoyance.txt)|`example.com CNAME .`|
+|[BIND RPZ (Respone Policy Zone)](https://gitlab.isc.org/isc-projects/bind9.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz_annoyance.txt)|`example.com CNAME .`|
 
 Keterangan:
-- *Terdiri dari domain ABPindo_adserver dan ABPindo_third-party
-- **terdiri dari ABPindo_adserver, ABPindo_third-party, dan ABPindo_annoyance (judi)
+- *Filter default yang terdiri dari domain ABPindo_adserver dan ABPindo_third-party
+- **Filter default ditambah ABPindo_annoyance (judi)
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
@@ -53,6 +53,7 @@ Lingkungan pengujian Kami sebagai berikut:
 - [Adblock Plus filters explained](https://adblockplus.org/filter-cheatsheet)
 - [uBlock Static filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 - [DNS filtering rules syntax | AdGuard Knowledgebase](https://kb.adguard.com/en/general/dns-filtering-syntax)
+- [Tutorial on Configuring BIND to use Response Policy Zones](https://www.isc.org/docs/BIND_RPZ.pdf)
 - [Python-abp : utilities untuk rendering filter ABPindo](https://github.com/adblockplus/python-abp)
 - Prasyarat: [Python](https://www.python.org/downloads/), [pip](https://pypi.org/project/pip/)
 
