@@ -16,7 +16,7 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 - Pasang pengaya/ekstensi [uBlock](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenisnya.
 - Klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo) atau pilih variasi sesuai kebutuhan.
 
-## Langganan Filter utama
+## Langganan Filter utama untuk browser
 | Langganan|Keterangan|
 | ------------- |-------------|
 | [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)|Filter lengkap sebagai default [uBlock Origin](https://github.com/gorhill/uBlock#installation), [Adblock Plus](https://adblockplus.org/en/) regional Indonesia dan Malaysia|
@@ -36,6 +36,7 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 Keterangan:
 - *Filter default yang terdiri dari domain ABPindo_adserver dan ABPindo_third-party
 - **Filter default ditambah ABPindo_annoyance (judi)
+- Sintak DNS blocker memiliki kemampuan pemblokiran yang berbeda dengan versi browser, sehingga untuk menghindari kesalahan blokir terdiri dari _adserver dan _third-party
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
