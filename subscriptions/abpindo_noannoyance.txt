@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202202131237
+! Version: 202202160559
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 13 Feb 2022 12:37 UTC
+! Last modified: 16 Feb 2022 05:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -992,6 +992,7 @@ downloadfilmbaru.com###ads-stack
 premierexxi.com###ads_top_list
 139.99.33.192###adsimgxatas2
 139.99.33.192###adsimgxbawah
+kontan.co.id###adsoutsream
 tvkabel.net###adv
 unixmen.com###an-Modal
 inilah.com,kompasiana.com###anchormasklink
@@ -1387,6 +1388,7 @@ kompas.com##.hAds
 bioskop90.com##.headborder:nth-of-type(5)
 128.199.102.111##.header-ad-mobile
 kaskus.co.id##.header__kasad
+kontan.co.id##.heightads250
 malaysiakini.com##.hero_adslot
 cmovieshd.se##.hidden-xs
 bioskop21.co##.hilang2

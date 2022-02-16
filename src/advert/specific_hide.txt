@@ -17,6 +17,7 @@ downloadfilmbaru.com###ads-stack
 premierexxi.com###ads_top_list
 139.99.33.192###adsimgxatas2
 139.99.33.192###adsimgxbawah
+kontan.co.id###adsoutsream
 tvkabel.net###adv
 unixmen.com###an-Modal
 inilah.com,kompasiana.com###anchormasklink
@@ -412,6 +413,7 @@ kompas.com##.hAds
 bioskop90.com##.headborder:nth-of-type(5)
 128.199.102.111##.header-ad-mobile
 kaskus.co.id##.header__kasad
+kontan.co.id##.heightads250
 malaysiakini.com##.hero_adslot
 cmovieshd.se##.hidden-xs
 bioskop21.co##.hilang2
@@ -640,5 +642,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-kontan.co.id##.heightads250
-kontan.co.id###adsoutsream
