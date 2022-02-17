@@ -78,6 +78,7 @@
 ||compulsivehemisphere.com^$popup
 ||craydark.pw^$third-party
 ||csf.uzone.id^
+||cymaisefacsim.com^$script
 ||d01.notifa.info^
 ||d0p21g2fep.com^
 ||d72gb9oukw3j.com^$popup
@@ -86,6 +87,7 @@
 ||daero.pw^$popup
 ||dafa.io^$popup,third-party
 ||dairouzy.net^$popup
+||daredstrapelinor.com^$script
 ||dearerfonder.info^$popup,third-party
 ||dewsburg.info^$third-party
 ||digiads.co.id^$popup
@@ -167,6 +169,7 @@
 ||leoceran.pw^$popup
 ||lokeriklan.com^$third-party
 ||lpaizureik.com^$popup
+||lsgqlgoc.com^
 ||lugtardam.com^$script
 ||luven.xyz^$popup
 ||masteriklan.net^$third-party
@@ -289,5 +292,3 @@
 ||yx-ads6.com^$third-party
 ||zukxd6fkxqn.com^$popup
 ||zuyejecgb.com^$popup
-||cymaisefacsim.com^$script
-||daredstrapelinor.com^$script
