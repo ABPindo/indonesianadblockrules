@@ -36,7 +36,7 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 Keterangan:
 - *Filter default yang terdiri dari domain ABPindo_adserver dan ABPindo_third-party
 - **Filter default ditambah ABPindo_annoyance (judi)
-- Sintak DNS blocker memiliki kemampuan pemblokiran yang berbeda dengan versi browser, sehingga untuk menghindari kesalahan blokir terdiri dari ABPindo_adserver dan ABPindo_third-party
+- Sintak DNS blocker memiliki kemampuan pemblokiran yang berbeda dengan versi pengaya/ekstensi, sehingga untuk menghindari kesalahan blokir terdiri dari ABPindo_adserver dan ABPindo_third-party
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
