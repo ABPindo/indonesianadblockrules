@@ -34,8 +34,8 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 |RPZ (Respone Policy Zone) [BIND](https://gitlab.isc.org/isc-projects/bind9.git)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz.txt)|[link](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz_annoyance.txt)|`example.com CNAME .`|
 
 Keterangan:
-- * Filter default yang terdiri dari domain ABPindo_adserver dan ABPindo_third-party
-- ** Filter default ditambah ABPindo_annoyance (judi)
+- *Filter default yang terdiri dari domain ABPindo_adserver dan ABPindo_third-party
+- **Filter default ditambah ABPindo_annoyance (judi)
 - Sintak DNS blocker memiliki kemampuan pemblokiran yang berbeda dengan versi browser, sehingga untuk menghindari kesalahan blokir terdiri dari ABPindo_adserver dan ABPindo_third-party
 
 ## Ingin berkontribusi
