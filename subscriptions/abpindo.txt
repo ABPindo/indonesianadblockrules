@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202202171212
+! Version: 202202191908
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 17 Feb 2022 12:12 UTC
+! Last modified: 19 Feb 2022 19:08 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -621,7 +621,7 @@ iklan300x250.gif|
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=komikcastid.com,mangakita.net
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|mangakita.net
 ! *** abpindo:src/advert/snippet _adblockplus.txt ***
 ! Snippet filters for Adblock Plus 3.3 (https://help.eyeo.com/adblockplus/snippet-filters-tutorial)
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
@@ -1799,6 +1799,7 @@ bioskop78.com##td:nth-of-type(3)
 /bursabet-$image
 /cantikqq-$image
 /capsa365.gif|$image
+/captainqq.gif$image
 /cashbackharian.gif|$image
 /damqq-$image
 /damqq.$image
@@ -7492,6 +7493,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="BOSQQ" i]
 ##img[alt="BOTAKQQ" i]
 ##img[alt="BOYAQQ" i]
+##img[alt="BROVEGAS" i]
 ##img[alt="BUAYAPOKER" i]
 ##img[alt="BUKAQQ" i]
 ##img[alt="BUNDAPOKER" i]
@@ -7539,6 +7541,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="CafeQQ" i]
 ##img[alt="Capsa365" i]
 ##img[alt="Capsaqq" i]
+##img[alt="CaptainQQ" i]
 ##img[alt="Casino Online" i]
 ##img[alt="Ceme Judi" i]
 ##img[alt="Cicipoker" i]
@@ -7555,6 +7558,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="DEWAQQ" i]
 ##img[alt="DEWIQQ" i]
 ##img[alt="DINASTIPOKER" i]
+##img[alt="DMBET99" i]
 ##img[alt="DNAPoker" i]
 ##img[alt="DOMINO 206" i]
 ##img[alt="DOMINO228" i]
@@ -7595,6 +7599,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="GUDANGPOKER" i]
 ##img[alt="GUDANGQQ" i]
 ##img[alt="GUNUNGPOKER" i]
+##img[alt="GURITA168" i]
 ##img[alt="GanoolQQ" i]
 ##img[alt="Gaple Online" i]
 ##img[alt="GerhanaQQ" i]
@@ -8042,6 +8047,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="dominoQQ" i]
 ##img[alt="dorabet" i]
 ##img[alt="entertogel" i]
+##img[alt="gacor88" i]
 ##img[alt="ganoolQQ" i]
 ##img[alt="garudaQQ" i]
 ##img[alt="gerhanaQQ" i]
@@ -8192,9 +8198,12 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt^="Judi Online" i]
 ##img[alt^="Judi bola" i]
 ##img[alt^="Live Casino Online" i]
+##img[alt^="POKERBOYA" i]
 ##img[alt^="Poker Bola" i]
 ##img[alt^="Poker Online" i]
+##img[alt^="SEPAKBOLACC" i]
 ##img[alt^="Situs Judi" i]
+##img[alt^="WIGOBET" i]
 ##img[alt^="agen bola" i]
 ##img[alt^="agen capsa" i]
 ##img[alt^="agen casino" i]
