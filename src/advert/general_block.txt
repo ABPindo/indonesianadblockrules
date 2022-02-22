@@ -31,10 +31,8 @@
 /bannerlonteqq.gif|
 /bb17-iklan.
 /iklancpm.
-/images/idxbet/*$image
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
-/itugol.gif$image
 /Ligadunia365.gif|
 /Pkv-Games.gif|
 /plugins/soralink/*.js$script,domain=animebaru.in|animebatch.id|animebatch.web.id|anitoki.com|batch.id|maxnime.com
@@ -44,11 +42,9 @@
 /SkinADkiri.
 /smartfren/ads.
 /soralink$script,third-party
-/TelurQQ.gif|
 /uploads/iklan/*
 /usaha-berhasil.gif|
 /usahaberhasil.gif|
-/Viralqq.gif|
 /wp-content/plugins/wp-adblock-dedect/js/dedect.js$script
 /wpsafelink$script,domain=daizurin.com|lucikun.com|shitaranime.com|sinanime.net
 /wpsafelink$script,third-party

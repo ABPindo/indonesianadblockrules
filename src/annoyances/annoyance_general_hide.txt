@@ -1,6 +1,5 @@
 ###judi
 ###togel
-##.ads-sticky-bottom
 ##.dominowalet
 ##.happypoker
 ##.judi
@@ -11,7 +10,6 @@
 ##[href$="/ibetwinasia"]
 ##[href$="/mahadewa88"]
 ##[href$="/rajasloto"]
-##[href="http://probet228.com"]
 ##[href="https://bit.ly/emas188manhwa"]
 ##[href="https://superitc.biz/"]
 ##[href^="//zukxd6fkxqn.com/"]
@@ -1313,6 +1311,7 @@
 ##[href^="http://www.megaqq."]
 ##[href^="http://www.mejajoker."]
 ##[href^="http://www.memberasean.net"]
+##[href^="http://www.memeksange.org"]
 ##[href^="http://www.menubola.life/"]
 ##[href^="http://www.mgmcash88."]
 ##[href^="http://www.mgmdomino."]
