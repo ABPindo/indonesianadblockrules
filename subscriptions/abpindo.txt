@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202202191908
+! Version: 202202221150
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 19 Feb 2022 19:08 UTC
+! Last modified: 22 Feb 2022 11:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1606,7 +1606,7 @@ hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
-komikcast.com##iframe[style*="z-index: 2147483647"]
+kiryuu.id,komikcast.com##iframe[style*="z-index: 2147483647"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
@@ -1734,6 +1734,7 @@ bioskop78.com##td:nth-of-type(3)
 /Betcoin-$image
 /DEWABANDAR-$image
 /Dazbet.gif$image
+/IBCDOMINO.gif$image
 /ITCBET.gif|$image
 /JAYAPOKER_*.gif$image
 /JuaraCapsa.gif|$image
@@ -6359,6 +6360,7 @@ totojitu.gif|$image
 ##[href^="https://habaneroslot."]
 ##[href^="https://hahatogel.net"]
 ##[href^="https://hokianda.com"]
+##[href^="https://ibcpoker.org"]
 ##[href^="https://id.maindulu77.com"]
 ##[href^="https://indobet77.pro"]
 ##[href^="https://indobet77.xyz"]
