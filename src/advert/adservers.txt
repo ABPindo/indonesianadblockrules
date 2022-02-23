@@ -12,11 +12,6 @@
 ||9eb10b7a3d04a.com^$popup
 ||9icmzvn6.website^$popup
 ||a.brand.ad^$third-party
-||a01.uadexchange.com^
-||a02.uadexchange.com^
-||a03.uadexchange.com^
-||a04.uadexchange.com^
-||a05.uadexchange.com^
 ||a63t9o1azf.com^$popup
 ||a937a51544.85e954452d.com^$third-party
 ||aa9271e4a2.4d4ac172b7.com^
@@ -103,8 +98,6 @@
 ||etoads.net^$third-party
 ||finkyepbows.com^
 ||fkglkpkgkduh.top^$popup
-||fkglkpkgkduh.top^$subdocument
-||fkglkpkgkduh.top^$xhr
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup
 ||frpiksdeygy.com^$popup

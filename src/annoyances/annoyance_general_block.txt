@@ -110,6 +110,7 @@
 /Betcoin-$image
 /DEWABANDAR-$image
 /Dazbet.gif$image
+/IBCDOMINO.gif$image
 /ITCBET.gif|$image
 /JAYAPOKER_*.gif$image
 /JuaraCapsa.gif|$image
@@ -119,6 +120,7 @@
 /PKVHOKI.gif|$image
 /PURIBET.gif|$image
 /Poker228.gif|$image
+/TelurQQ.gif|$image
 /Unibet99-$image
 /VISABET88.gif$image
 /ZEUS%2BPOKER.gif|$image
@@ -175,6 +177,7 @@
 /bursabet-$image
 /cantikqq-$image
 /capsa365.gif|$image
+/captainqq.gif$image
 /cashbackharian.gif|$image
 /damqq-$image
 /damqq.$image
@@ -373,11 +376,11 @@
 /vibol.$image,third-party
 /vip/rajaelang.gif$image
 /viralqq.gif|$image
-/vjudi.gif|
+/vjudi.gif|$image
 /w88131-$image
 /warnaqq-$image
 /wigo-bet-$image
-/wigo.gif|
+/wigo.gif|$image
 /wigobet-$image
 /winning365-$image
 /wiropoker.gif|$image
