@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/ABPindo/indonesianadblockrules/raw/master/src/ABPindo%202.png" width="240"></p>
 
 # ABPindo
-ABPindo merupakan filter tambahan untuk melengkapi [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) memblokir iklan mengganggu di situs berbahasa Indonesia dan Malaysia. ABPindo menggunakan sintak [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters), dan kompatibel dengan pengaya/ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), atau adblocker sejenisnya.
+ABPindo merupakan filter tambahan untuk melengkapi filter internasional seperti [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) atau [AdGuard Base filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt) memblokir iklan mengganggu di situs berbahasa Indonesia dan Malaysia. ABPindo menggunakan sintak [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters), dan kompatibel dengan pengaya/ekstensi [Adblock Plus](https://adblockplus.org/), [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), atau adblocker sejenisnya.
 
 ## Keuntungan
 - Tampilan lebih bersih </br>
@@ -14,7 +14,7 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 ## Cara Menggunakan
 - Jalankan peramban web favoritmu (Firefox, Chrome, Opera, Safari, ...).
 - Pasang pengaya/ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenisnya.
-- Klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo) atau pilih variasi sesuai kebutuhan.
+- Nyalakan filter ABPindo atau klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)
 
 ## Langganan Filter utama untuk browser
 | Langganan|Keterangan|
@@ -36,7 +36,7 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 Keterangan:
 - *Filter default yang terdiri dari domain ABPindo_adserver dan ABPindo_third-party
 - **Filter default ditambah ABPindo_annoyance (judi)
-- Sintak DNS blocker memiliki kemampuan pemblokiran yang berbeda dengan versi browser, sehingga untuk menghindari kesalahan blokir terdiri dari ABPindo_adserver dan ABPindo_third-party
+- Sintak DNS blocker memiliki kemampuan pemblokiran yang berbeda dengan versi pengaya/ekstensi, sehingga untuk menghindari kesalahan blokir hanya dibuat terdiri dari ABPindo_adserver dan ABPindo_third-party
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
@@ -54,8 +54,6 @@ Lingkungan pengujian Kami sebagai berikut:
 - [Adblock Plus filters explained](https://adblockplus.org/filter-cheatsheet)
 - [uBlock Static filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 - [DNS filtering rules syntax | AdGuard Knowledgebase](https://kb.adguard.com/en/general/dns-filtering-syntax)
-- [Tutorial on Configuring BIND to use Response Policy Zones](https://www.isc.org/docs/BIND_RPZ.pdf)
-- [dnsmasq/dnsmasq.conf.example at master · imp/dnsmasq](https://github.com/imp/dnsmasq/blob/master/dnsmasq.conf.example)
 - [Python-abp : utilities untuk rendering filter ABPindo](https://github.com/adblockplus/python-abp)
 - Prasyarat: [Python](https://www.python.org/downloads/), [pip](https://pypi.org/project/pip/)
 
