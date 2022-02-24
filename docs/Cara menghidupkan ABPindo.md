@@ -10,4 +10,4 @@
 - buka pengaturan
 - klik *Filters*/*Penyaring*
 - klik *language-specific*/*bahasa-tertentu*
-- cari ABPindo kemudian aktifkan# 
+- cari ABPindo kemudian aktifkan
