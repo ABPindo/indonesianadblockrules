@@ -1,4 +1,4 @@
-Acceptable Ads adalah whitelist (daftar putih) untuk mengizinkan iklan yang tidak menggangu.matikan Acceptable Ads untuk pengalaman browsing yang lebih bersih
+**Acceptable Ads** adalah whitelist (daftar putih) untuk mengizinkan iklan yang tidak menggangu.matikan Acceptable Ads untuk pengalaman browsing yang lebih bersih
 
 Adblock Plus Chrome
 - Dari bilah alat browser klik ikon Adblock Plus 
