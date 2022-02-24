@@ -1,4 +1,4 @@
-Tutorial ini berguna terutama untuk pengguna Samsung
+**Tutorial ini berguna terutama untuk pengguna Samsung**
 - Unduh [Adblock Plus](https://play.google.com/store/apps/details?id=org.adblockplus.adblockplussbrowser), [AdBlock](https://play.google.com/store/apps/details?id=com.betafish.adblocksbrowser) atau [AdGuard Content Blocker](https://play.google.com/store/apps/details?id=com.adguard.android.contentblocker) dari [Google play store](https://play.google.com)
 - buka Samsung Internet Browser
 - klik pilihan pada pojok kanan atas
@@ -15,4 +15,4 @@ Tutorial ini berguna terutama untuk pengguna Samsung
 - klik filter
 - cari ABPindo kemudian aktifkan
 
-Catatan: Untuk pengalaman browsing lebih bebas iklan disarankan untuk menonaktifkan *Allow some non-intrusive advertising*
+**Catatan**: Untuk pengalaman browsing lebih bebas iklan disarankan untuk menonaktifkan *Allow some non-intrusive advertising*
