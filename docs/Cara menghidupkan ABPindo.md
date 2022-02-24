@@ -1,4 +1,4 @@
-Cara ini diperuntukkan untuk software/pengaya pemblokir iklan yang menggunakan ABPindo sebagai filter default regional indonesia/malaysia
+**Cara ini diperuntukkan untuk software/pengaya pemblokir iklan yang menggunakan ABPindo sebagai filter default regional indonesia/malaysia**
 
 [uBlock Origin](https://ublockorigin.com)/[Adnauseam](https://adnauseam.io)
 - buka *dashboard*
@@ -10,5 +10,4 @@ Cara ini diperuntukkan untuk software/pengaya pemblokir iklan yang menggunakan A
 - buka pengaturan
 - klik *Filters*/*Penyaring*
 - klik *language-specific*/*bahasa-tertentu*
-- cari ABPindo kemudian aktifkan
-
+- cari ABPindo kemudian aktifkan# 
