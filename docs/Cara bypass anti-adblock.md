@@ -1,4 +1,6 @@
-**Subscribe atau Aktifkan filter Adblock Warning Removal List**
+**Cara ini mungkin membantu mengatasi situs yang menggunakan anti-adblock**
+
+Subscribe atau Aktifkan filter Adblock Warning Removal List
 
 [Subscribe](https://subscribe.adblockplus.org/?location=https%3A%2F%2Feasylist-downloads.adblockplus.org%2Fantiadblockfilters.txt&title=Adblock%20Warning%20Removal%20List)
 
