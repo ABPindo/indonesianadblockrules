@@ -14,3 +14,5 @@ Tutorial ini berguna terutama untuk pengguna Samsung
 - klik pilihan di pojok kiri atas
 - klik filter
 - cari ABPindo kemudian aktifkan
+
+Catatan: Untuk pengalaman browsing lebih bebas iklan disarankan untuk menonaktifkan *Allow some non-intrusive advertising*
