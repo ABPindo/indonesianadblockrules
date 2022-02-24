@@ -28,8 +28,8 @@ Adblock Plus iOS
 - dari pengaturan klik *Acceptable Ads*
 - matikan *Allow some non-intrusive advertising*
 
-Adblock Plus Samsung Internet
+Adblock Plus for Samsung Internet
 - Buka Adblock Plus for Samsung Internet
 - hapus centang *Allow some non-intrusive advertising* atau *Allow Acceptable Ads*
 
-
+Sumber:https://adblockplus.org/acceptable-ads
