@@ -13,8 +13,8 @@ flrender -i abpindo=. abpindo_noelemhide.template subscriptions/abpindo_noelemhi
 adblock2hosts --ip 0.0.0.0 -o subscriptions/hosts.txt subscriptions/abpindo_hosts.txt
 adblock2hosts --ip 0.0.0.0 -o subscriptions/hosts_annoyance.txt subscriptions/abpindo_hosts_annoyance.txt
 
-adblock2hosts --ip "" -o subscriptions/domain.txt subscriptions/abpindo_hosts.txt
-adblock2hosts --ip "" -o subscriptions/domain_annoyance.txt subscriptions/abpindo_hosts_annoyance.txt
+adblock2plain -o subscriptions/domain.txt subscriptions/abpindo_hosts.txt
+adblock2plain -o subscriptions/domain_annoyance.txt subscriptions/abpindo_hosts_annoyance.txt
 
 python tools/hosts_to_dnsmasq_address.py subscriptions/hosts.txt subscriptions/dnsmasq.txt
 python tools/hosts_to_dnsmasq_address.py subscriptions/hosts_annoyance.txt subscriptions/dnsmasq_annoyance.txt
