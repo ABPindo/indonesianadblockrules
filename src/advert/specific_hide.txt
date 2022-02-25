@@ -247,6 +247,7 @@ kompas.tv##.ads-big
 kompas.tv##.ads-foot
 awnime.net##.ads-header-5
 dapurpacu.com##.ads-home
+kompas.com##.ads-latest-wrap
 gridoto.com##.ads-liftdown
 grid.id##.ads-mr
 gridoto.com##.ads-on
@@ -475,6 +476,7 @@ sindonews.com##.parallax-ad
 medcom.id##.parallax_ads
 viva.co.id##.portlet.sideskycrapper
 filem456.com##.pps-single-popup
+kompas.com##.premium_div
 gridoto.com,kompas.com##.pushdown-banner
 otomania.com##.r-ads
 film-ganool.com##.random
