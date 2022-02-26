@@ -4,7 +4,11 @@ Pengaya/ekstensi browser:
 
 - [Adblock Plus](https://adblockplus.org)
 
-- [uBlock Origin](https://github.com/gorhill/uBlock#installation)
+- [AdBlock](https://getadblock.com)
+
+- [uBlock Origin](https://ublockorigin.com/)
+
+- [AdNauseam](https://adnauseam.io/)
 
 - [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html)
 
