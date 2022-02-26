@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202202261436
+! Version: 202202261527
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 26 Feb 2022 14:36 UTC
+! Last modified: 26 Feb 2022 15:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1701,6 +1701,7 @@ bioskop78.com##td:nth-of-type(3)
 -warnaqq-$image
 -wpbet365.$image
 /12naga.gif|$image
+/1Poker-$image
 /1xbet.$image
 /1xbet250.gif|$image
 /1xbetnew.gif|$image
@@ -6531,8 +6532,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
@@ -7625,6 +7626,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="POKERPELANGI" i]
 ##img[alt="POKERWALET" i]
 ##img[alt="PONDOKPOKER" i]
+##img[alt="POSTOGEL" i]
 ##img[alt="PRIAQQ" i]
 ##img[alt="PRUPOKER" i]
 ##img[alt="PURIBET" i]
@@ -8113,9 +8115,11 @@ leon.bet#@#a[href$="/slots"]
 ! *** abpindo:src/annoyances/annoyance_specific_hide.txt ***
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 173.199.189.86,forumbokep.com,kikil.net,sodasusu.com,unyil.net,vocland.com###ad_global_below_navbar
+perawabokep.cam###ads
 94.237.74.225,streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB
+164.68.105.199###fixedban
 unyil.net###float-atas
 forumbokep.com,juragantomatx.com,klikseru.com,krucil.net,vocland.com###floating_banner_bottom
 sodasusu.com###forum_ads_8
@@ -8132,6 +8136,7 @@ sodasusu.com###sodasusu_ads_side_right
 sodasusu.com###teaser4
 videocrot.org###text-30 > .textwidget
 videocrot.org###text-6 > .textwidget
+158.69.0.212###top-banner
 nontonbokeps.com###under-video-ads
 indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
