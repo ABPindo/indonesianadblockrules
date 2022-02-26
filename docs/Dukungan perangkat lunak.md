@@ -14,11 +14,15 @@
 
 - [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html)
 
+**Browser dengan built-in Ad-block:**
+
 - [Opera built-in Ad-block](https://www.opera.com/id/features/ad-blocker)
 
 - [Vivaldi built-in Ad-block](https://vivaldi.com/id/features/ad-blocker/)
 
 - [Brave browser Shields](https://support.brave.com/hc/en-us/articles/360022973471-What-is-Shields-)
+
+- [Adblock Browser](https://play.google.com/store/apps/details?id=org.adblockplus.browser)
 
 **Software pemblokir iklan berbasis DNS, file Hosts, maupun Jaringan:**
 
