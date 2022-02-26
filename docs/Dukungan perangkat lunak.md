@@ -34,7 +34,7 @@
 
 - [HostsMan](https://www.abelhadigital.com/hostsman/)
 
-- [Blokada](https://blokada.org)
+- [Blokada 4](https://blokada.org)
 
 - [DNS66](https://github.com/julian-klode/dns66)
 
