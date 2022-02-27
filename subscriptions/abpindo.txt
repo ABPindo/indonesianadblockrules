@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202202270034
+! Version: 202202270647
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 27 Feb 2022 00:34 UTC
+! Last modified: 27 Feb 2022 06:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -958,6 +958,7 @@ giladrakor.com###ouibounce-modal
 ##[href="http://ig24.me"]
 ##[href^="//mellowads.com/"]
 ##[href^="https://ascertaincrescenthandbag.com/"]
+##[href^="https://yllix.com/advertisers/"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
 ! *** abpindo:src/advert/specific_hide.txt ***
@@ -5095,6 +5096,7 @@ totojitu.gif|$image
 ##[href^="http://dewanaga."]
 ##[href^="http://dewanmas."]
 ##[href^="http://dewapoker."]
+##[href^="http://dewapokeronline.win/"]
 ##[href^="http://dewaqq."]
 ##[href^="http://dewiqq."]
 ##[href^="http://dinastybet."]
@@ -5540,6 +5542,7 @@ totojitu.gif|$image
 ##[href^="http://pialaqq.win/"]
 ##[href^="http://pialasports."]
 ##[href^="http://pilarqq."]
+##[href^="http://pk8.asia/"]
 ##[href^="http://pk8.asia/indocabe"]
 ##[href^="http://pkq13."]
 ##[href^="http://pkr88.cc"]
