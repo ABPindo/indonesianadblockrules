@@ -40,6 +40,8 @@
 
 - [Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen)
 
+- [dnscrypt-proxy](https://dnscrypt.info)
+
 **Software server DNS:**
 
 - [Pi-Hole](https://pi-hole.net)
