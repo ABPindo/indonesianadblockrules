@@ -26,6 +26,12 @@
 ###cfs_top_div
 ###desaiklan
 ###df-wrapper-ads-top
+###div-ad-read_body_1
+###div-ad-right_1
+###div-ad-right_2
+###div-ad-right_3
+###div-ad-skin_left
+###div-ad-skin_right
 ###fbanner
 ###fbbanner
 ###float-banner.visible-lg
@@ -79,6 +85,7 @@ giladrakor.com###ouibounce-modal
 ###vp-advert
 ##.SectionAds
 ##.ad-description
+##.ad-ekspose
 ##.ad-left-image
 ##.ad-right-image
 ##.ad_primex
@@ -208,6 +215,10 @@ giladrakor.com###ouibounce-modal
 ##.text-center.adv
 ##.topadsense
 ##.under-player-ad
+##[class="widget-ads1"]
+##[class="widget-ads2"]
+##[class="widget-ads3"]
+##[class="widget-ads4"]
 ##[href$="/?ref=lk21ads"]
 ##[href="http://ig24.me"]
 ##[href^="//mellowads.com/"]
@@ -215,14 +226,3 @@ giladrakor.com###ouibounce-modal
 ##[href^="https://yllix.com/advertisers/"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
-##.ad-ekspose
-###div-ad-read_body_1
-##[class="widget-ads1"]
-##[class="widget-ads2"]
-##[class="widget-ads3"]
-##[class="widget-ads4"]
-###div-ad-skin_left
-###div-ad-skin_right
-###div-ad-right_1
-###div-ad-right_2
-###div-ad-right_3

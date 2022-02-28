@@ -239,6 +239,7 @@ loveindonesia.com##.ad_990_80
 terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
+suara.com##.adds-top.add
 192.99.70.18,22cinema.com,95.216.163.177,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
@@ -307,6 +308,7 @@ www.kompasiana.com##.banner-right.banner
 dream.co.id##.banner-sc
 dream.co.id##.banner-sc2
 modifikasi.com##.banner-top
+suara.com##.banner-top-m.widget-ads-top
 oktavita.com##.banner-zone
 juragan-anime.net##.banner3
 tekno.kompas.com##.banner620x80
@@ -474,6 +476,13 @@ tribunnews.com##.ovh[style="width:468px;height:60px"]
 hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 sindonews.com##.parallax-ad
 medcom.id##.parallax_ads
+suara.com##.placeholder_expose
+suara.com##.placeholder_leaderboard
+suara.com##.placeholder_medium
+suara.com##.placeholder_r1
+suara.com##.placeholder_r2
+suara.com##.placeholder_r3
+suara.com##.placeholder_read_body
 viva.co.id##.portlet.sideskycrapper
 filem456.com##.pps-single-popup
 kompas.com##.premium_div
@@ -619,6 +628,7 @@ smartphoneku.com##div.ad-before
 kazefuri.web.id##div.ads300
 nextren.grid.id##div.banner-r
 indoxx1.club##div.content-kuss
+suara.com##div.placeholder_pariwara
 medcom.id##div.showcase.banner
 medcom.id##div.skycrapper.banner
 cerpen.co.id##div.ui_adblock
@@ -641,13 +651,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-suara.com##.placeholder_read_body
-suara.com##.placeholder_r2
-suara.com##.placeholder_r1
-suara.com##.placeholder_leaderboard
-suara.com##.placeholder_r3
-suara.com##.placeholder_medium
-suara.com##.placeholder_expose
-suara.com##div.placeholder_pariwara
-suara.com##.banner-top-m.widget-ads-top
-suara.com##.adds-top.add

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202202270647
+! Version: 202202280427
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 27 Feb 2022 06:47 UTC
+! Last modified: 28 Feb 2022 04:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -772,6 +772,12 @@ woof.tube#@#.adsbox
 ###cfs_top_div
 ###desaiklan
 ###df-wrapper-ads-top
+###div-ad-read_body_1
+###div-ad-right_1
+###div-ad-right_2
+###div-ad-right_3
+###div-ad-skin_left
+###div-ad-skin_right
 ###fbanner
 ###fbbanner
 ###float-banner.visible-lg
@@ -825,6 +831,7 @@ giladrakor.com###ouibounce-modal
 ###vp-advert
 ##.SectionAds
 ##.ad-description
+##.ad-ekspose
 ##.ad-left-image
 ##.ad-right-image
 ##.ad_primex
@@ -954,6 +961,10 @@ giladrakor.com###ouibounce-modal
 ##.text-center.adv
 ##.topadsense
 ##.under-player-ad
+##[class="widget-ads1"]
+##[class="widget-ads2"]
+##[class="widget-ads3"]
+##[class="widget-ads4"]
 ##[href$="/?ref=lk21ads"]
 ##[href="http://ig24.me"]
 ##[href^="//mellowads.com/"]
@@ -1203,6 +1214,7 @@ loveindonesia.com##.ad_990_80
 terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
+suara.com##.adds-top.add
 192.99.70.18,22cinema.com,95.216.163.177,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
@@ -1271,6 +1283,7 @@ www.kompasiana.com##.banner-right.banner
 dream.co.id##.banner-sc
 dream.co.id##.banner-sc2
 modifikasi.com##.banner-top
+suara.com##.banner-top-m.widget-ads-top
 oktavita.com##.banner-zone
 juragan-anime.net##.banner3
 tekno.kompas.com##.banner620x80
@@ -1438,6 +1451,13 @@ tribunnews.com##.ovh[style="width:468px;height:60px"]
 hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 sindonews.com##.parallax-ad
 medcom.id##.parallax_ads
+suara.com##.placeholder_expose
+suara.com##.placeholder_leaderboard
+suara.com##.placeholder_medium
+suara.com##.placeholder_r1
+suara.com##.placeholder_r2
+suara.com##.placeholder_r3
+suara.com##.placeholder_read_body
 viva.co.id##.portlet.sideskycrapper
 filem456.com##.pps-single-popup
 kompas.com##.premium_div
@@ -1583,6 +1603,7 @@ smartphoneku.com##div.ad-before
 kazefuri.web.id##div.ads300
 nextren.grid.id##div.banner-r
 indoxx1.club##div.content-kuss
+suara.com##div.placeholder_pariwara
 medcom.id##div.showcase.banner
 medcom.id##div.skycrapper.banner
 cerpen.co.id##div.ui_adblock
@@ -6538,8 +6559,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
