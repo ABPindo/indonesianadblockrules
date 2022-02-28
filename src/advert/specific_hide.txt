@@ -641,3 +641,13 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+suara.com##.placeholder_read_body
+suara.com##.placeholder_r2
+suara.com##.placeholder_r1
+suara.com##.placeholder_leaderboard
+suara.com##.placeholder_r3
+suara.com##.placeholder_medium
+suara.com##.placeholder_expose
+suara.com##div.placeholder_pariwara
+suara.com##.banner-top-m.widget-ads-top
+suara.com##.adds-top.add
