@@ -16,7 +16,7 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 - Pasang pengaya/ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenisnya.
 - Nyalakan filter ABPindo atau klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)
 
-**PERINGATAN: Banyak [pemblokir iklan palsu](https://www.tomsguide.com/news/fake-ad-block-ransomware-miner) yang berkeliaran di chrome web store yang bisa membahayakan browser maupun perangkat anda. Sebaiknya berhati-hatilah dan jangan asal-asalan mengunduh/menginstal software/pengaya pemblokir iklan. Pemblokir iklan di [daftar ini](https://github.com/ABPindo/indonesianadblockrules/blob/master/docs/Dukungan%20perangkat%20lunak.md) relatif aman untuk digunakan**
+**PERINGATAN: Banyak [pemblokir iklan palsu](https://github.com/O7zSO31IVg/indonesianadblockrules/blob/master/docs/Pemblokir%20iklan%20palsu.md) yang berkeliaran di chrome web store yang bisa membahayakan browser maupun perangkat anda. Sebaiknya berhati-hatilah dan jangan asal-asalan mengunduh/menginstal software/pengaya pemblokir iklan. Pemblokir iklan di [daftar ini](https://github.com/ABPindo/indonesianadblockrules/blob/master/docs/Dukungan%20perangkat%20lunak.md) relatif aman untuk digunakan**
 
 ## Langganan Filter utama untuk browser
 | Langganan|Keterangan|
