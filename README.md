@@ -16,16 +16,12 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 - Pasang pengaya/ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenisnya.
 - Nyalakan filter ABPindo atau klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)
 
-**PERINGATAN: Banyak [pemblokir iklan palsu](https://github.com/O7zSO31IVg/indonesianadblockrules/blob/master/docs/Pemblokir%20iklan%20palsu.md) yang berkeliaran di chrome web store yang bisa membahayakan browser maupun perangkat anda. Sebaiknya berhati-hatilah dan jangan asal-asalan mengunduh/menginstal software/pengaya pemblokir iklan. Pemblokir iklan di [daftar ini](https://github.com/ABPindo/indonesianadblockrules/blob/master/docs/Dukungan%20perangkat%20lunak.md) relatif aman untuk digunakan**
-
 ## Langganan Filter utama untuk browser
 | Langganan|Keterangan|
 | ------------- |-------------|
 | [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)|Filter lengkap sebagai default [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/) regional Indonesia dan Malaysia|
 | [ABPindo_noannoyance](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt&title=ABPindo_noannoyance)|ABPindo tanpa filter annoyance (judi) |
 | [ABPindo_noelementhide](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt&title=ABPindo_noelementhide)|ABPindo tanpa filter element hide|
-| [EasyList+ABPindo](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/abpindo+easylist.txt&title=EasyList+ABPindo)|Filter kombinasi EasyList dan ABPindo
-| [EasyList+ABPindo (TPL)](https://easylist-downloads.adblockplus.org/abpindo+easylist.tpl)|Filter kombinasi EasyList dan ABPindo khusus [fitur TPL](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/gg593069(v=vs.85)) internet explorer 9 keatas
 
 ## Variasi filter ABPindo untuk DNS
 |Sintak|ABPindo*|ABPindo_annoyance**|Contoh|
