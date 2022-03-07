@@ -2,17 +2,16 @@
 
 **Pengaya/ekstensi browser:**
 
+- [uBlock Origin](https://github.com/gorhill/uBlock)
+
 - [Adblock Plus](https://adblockplus.org)
 
 - [AdBlock](https://getadblock.com)
 
-- [AdBlocker Ultimate](https://adblockultimate.net)
-
-- [uBlock Origin](https://ublockorigin.com/)
+- [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html)
 
 - [AdNauseam](https://adnauseam.io/)
 
-- [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html)
 
 **Browser dengan built-in Ad-block:**
 
