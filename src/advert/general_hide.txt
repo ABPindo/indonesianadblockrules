@@ -226,3 +226,6 @@ giladrakor.com###ouibounce-modal
 ##[href^="https://yllix.com/advertisers/"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
+##.ads_2c
+##.ads_2r
+##.ads_2l
