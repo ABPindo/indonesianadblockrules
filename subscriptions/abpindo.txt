@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202202280427
+! Version: 202203130239
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 28 Feb 2022 04:27 UTC
+! Last modified: 13 Mar 2022 02:39 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -115,6 +115,7 @@
 ||fkglkpkgkduh.top^$popup
 ||flexterkita.com^$third-party
 ||floridcoxae.com^$script
+||flurrylimmu.com^
 ||fnkyyrgraizy.com^$popup
 ||frpiksdeygy.com^$popup
 ||fryruejoust.cam^$popup
@@ -132,6 +133,7 @@
 ||hitadsmedia.com^$third-party
 ||hoegutvie.com^$popup
 ||hosillfir.site^
+||hqchbs.com^
 ||ibnads.xl.co.id^$third-party
 ||iklan-laris.com^$third-party
 ||iklanads.com^$third-party
@@ -179,6 +181,7 @@
 ||lokeriklan.com^$third-party
 ||lpaizureik.com^$popup
 ||lsgqlgoc.com^
+||luckyads.pro^$third-party
 ||lugtardam.com^$script
 ||luven.xyz^$popup
 ||masteriklan.net^$third-party
@@ -838,6 +841,9 @@ giladrakor.com###ouibounce-modal
 ##.ads-head
 ##.ads-pop
 ##.ads-sticky-bottom
+##.ads_2c
+##.ads_2l
+##.ads_2r
 ##.ads__side
 ##.ads_image
 ##.ads_top_728
@@ -1127,7 +1133,7 @@ mangashiro.net###openpopunder
 viva.co.id###otp_ads
 detik.com###otp_banner
 drakorindo.best,gatsunime.org,layarkeren.site###ouibounce-modal
-kricom.id###overlay
+149.56.24.226,kricom.id###overlay
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
 oploverz.bz###overplay
@@ -1746,12 +1752,14 @@ bioskop78.com##td:nth-of-type(3)
 /JAYAPOKER_*.gif$image
 /JuaraCapsa.gif|$image
 /MEJAHOKI.gif|$image
+/MacauDewa-$image
 /NIKMATIQQ.$image
 /PESBOLA-$image
 /PKVHOKI.gif|$image
 /PURIBET.gif|$image
 /Poker228.gif|$image
 /TelurQQ.gif|$image
+/TradisiBet_$image
 /Unibet99-$image
 /VISABET88.gif$image
 /ZEUS%2BPOKER.gif|$image
@@ -1763,6 +1771,7 @@ bioskop78.com##td:nth-of-type(3)
 /acehpoke-$image
 /adaqq-$image,third-party
 /adsimontok/*$image
+/aduqq-$image
 /afapoker-$image
 /afapoker_$image
 /afatogel-$image
@@ -1937,6 +1946,7 @@ bioskop78.com##td:nth-of-type(3)
 /pancatoto.gif|$image
 /pemainkasino-$image
 /pendekarqq-$image
+/pentaslot.gif$image
 /pkutama2-$image
 /poker24s-$image
 /poker7club-$image
@@ -1962,6 +1972,7 @@ bioskop78.com##td:nth-of-type(3)
 /rajapoker-$image
 /rajatogel88-$image
 /ratucapsa-$image
+/ratuqq.gif$image
 /rgo-casino-$image
 /rgo-poker-$image
 /rgobet-$image
@@ -6502,6 +6513,7 @@ totojitu.gif|$image
 ##[href^="https://zetapoker99.com"]
 ##[href^="https://zeuspkv.com"]
 ##[src$="/assets/kdslot.gif"]
+##[src="/sukabt-test"]
 ##[title="ALIENBOLA" i]
 ##[title="Inidewa365" i]
 ##[title="okeplay777" i]
@@ -6559,8 +6571,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-##a[href$="/slots"]
 leon.bet#@#a[href$="/slots"]
+##a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
@@ -7295,6 +7307,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="AGUNGQQ" i]
 ##img[alt="AHABET" i]
 ##img[alt="AHLIQQ" i]
+##img[alt="AIRASIABET" i]
 ##img[alt="AJOQQ" i]
 ##img[alt="AKUQQ" i]
 ##img[alt="AMANQQ" i]
@@ -7343,6 +7356,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="Agen bola" i]
 ##img[alt="AgenQQ" i]
 ##img[alt="Apibet" i]
+##img[alt="Ayopoker" i]
 ##img[alt="BABAPOKER" i]
 ##img[alt="BABEQQ" i]
 ##img[alt="BADUTQQ" i]
@@ -7386,6 +7400,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="Bandarkiu" i]
 ##img[alt="Betberry" i]
 ##img[alt="Biangqq" i]
+##img[alt="Bola Togel" i]
 ##img[alt="Bola Vegas" i]
 ##img[alt="Bola Vita" i]
 ##img[alt="Boskiukiu" i]
@@ -7539,6 +7554,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="KOKOQQ" i]
 ##img[alt="KOMPASQQ" i]
 ##img[alt="KONTOLKUDA" i]
+##img[alt="Kaikoslot" i]
 ##img[alt="Kakak Dewa" i]
 ##img[alt="KastilPoker" i]
 ##img[alt="LADANGQQ" i]
@@ -7596,6 +7612,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="MURNIQQ" i]
 ##img[alt="MUTIARAPOKER" i]
 ##img[alt="MacauBet" i]
+##img[alt="Macaudewa" i]
 ##img[alt="Macauslot188" i]
 ##img[alt="Makauqq" i]
 ##img[alt="Mandala Toto" i]
@@ -7903,6 +7920,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="mewahbet" i]
 ##img[alt="mpojackpot" i]
 ##img[alt="mustikapoker" i]
+##img[alt="nagaikan" i]
 ##img[alt="nikmatqq" i]
 ##img[alt="nonton video bokep" i]
 ##img[alt="novapoker" i]

@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202202280427
+! Version: 202203130239
 # Title: ABPindo (hosts)
 # Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
 # Last modified: %timestamp%
@@ -115,6 +115,7 @@
 ||fkglkpkgkduh.top^$popup
 ||flexterkita.com^$third-party
 ||floridcoxae.com^$script
+||flurrylimmu.com^
 ||fnkyyrgraizy.com^$popup
 ||frpiksdeygy.com^$popup
 ||fryruejoust.cam^$popup
@@ -132,6 +133,7 @@
 ||hitadsmedia.com^$third-party
 ||hoegutvie.com^$popup
 ||hosillfir.site^
+||hqchbs.com^
 ||ibnads.xl.co.id^$third-party
 ||iklan-laris.com^$third-party
 ||iklanads.com^$third-party
@@ -179,6 +181,7 @@
 ||lokeriklan.com^$third-party
 ||lpaizureik.com^$popup
 ||lsgqlgoc.com^
+||luckyads.pro^$third-party
 ||lugtardam.com^$script
 ||luven.xyz^$popup
 ||masteriklan.net^$third-party

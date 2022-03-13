@@ -116,12 +116,14 @@
 /JAYAPOKER_*.gif$image
 /JuaraCapsa.gif|$image
 /MEJAHOKI.gif|$image
+/MacauDewa-$image
 /NIKMATIQQ.$image
 /PESBOLA-$image
 /PKVHOKI.gif|$image
 /PURIBET.gif|$image
 /Poker228.gif|$image
 /TelurQQ.gif|$image
+/TradisiBet_$image
 /Unibet99-$image
 /VISABET88.gif$image
 /ZEUS%2BPOKER.gif|$image
@@ -133,6 +135,7 @@
 /acehpoke-$image
 /adaqq-$image,third-party
 /adsimontok/*$image
+/aduqq-$image
 /afapoker-$image
 /afapoker_$image
 /afatogel-$image
@@ -307,6 +310,7 @@
 /pancatoto.gif|$image
 /pemainkasino-$image
 /pendekarqq-$image
+/pentaslot.gif$image
 /pkutama2-$image
 /poker24s-$image
 /poker7club-$image
@@ -332,6 +336,7 @@
 /rajapoker-$image
 /rajatogel88-$image
 /ratucapsa-$image
+/ratuqq.gif$image
 /rgo-casino-$image
 /rgo-poker-$image
 /rgobet-$image
@@ -418,8 +423,3 @@ sbobetqq.gif|$image
 spbet.gif|$image
 suhubola.gif|$image
 totojitu.gif|$image
-/MacauDewa-$image
-/TradisiBet_$image
-/ratuqq.gif$image
-/aduqq-$image
-/pentaslot.gif$image
