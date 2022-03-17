@@ -6,7 +6,7 @@
 5. Pilih pemblokir konten
 6. Aktifkan pemblokir konten dan pilih salah atau software yang telah diunduh tadi (Adblock Plus, AdBlock, AdGuard Content Blocker)
 7. Buka software pemblokir konten
-8.Aktifkan ABPindo:
+8. Aktifkan ABPindo:
 - Untuk Adblock Plus/AdBlock
 1. Pada *ad blocking options* klik language
 2. Aktifkan *Bahasa Indonesia*
