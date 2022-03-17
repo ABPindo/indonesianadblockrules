@@ -637,7 +637,7 @@ hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
-kiryuu.id,komikcast.com##iframe[style*="z-index: 2147483647"]
+kiryuu.id,komikcast.com,komikstation.co##iframe[style*="z-index: 2147483647"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
