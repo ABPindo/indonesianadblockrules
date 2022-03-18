@@ -130,6 +130,7 @@ harakahdaily.net###jsemrp_372_719
 harakahdaily.net###jsemrp_373_873
 harakahdaily.net###jsemrp_374_469
 harakahdaily.net###jsemrp_380_290
+anoboy.digital###judi2
 185.231.223.76###jwp_gmn_adss
 gridoto.com,kompas.tv###jxOutstreamContainer
 b201.info,bioskop201.biz###kayan_reklam_sag
@@ -164,8 +165,8 @@ eramuslim.com###peluang
 idxx1.top###player-side-left
 idxx1.top,indoxx1.com###player-side-right
 indoxx1.pw###popup
-anoboy.media,anoboy.watch###popup_bawah
-anoboy.media,anoboy.watch###popup_box
+anoboy.digital,anoboy.media,anoboy.watch###popup_bawah
+anoboy.digital,anoboy.media,anoboy.watch###popup_box
 cafecinema.cc,dramamu.net,lk21.io###popup_content
 amoimovie.com###popupinfoAd1
 layarxxi.online###popuppress-9119
@@ -404,6 +405,7 @@ teknologi.inilah.com##.d.wp-120x600
 okezone.com##.detads
 detik.com##.detikads
 dewanontons.com##.dewa_floating_bottom
+anoboy.digital##.download
 layarkaca21.tv,lk21.tv##.fancybox-skin
 winpoin.com##.feedme-header-desktop.adsbygoogle
 dapurpacu.com##.fixed-ads-atas
@@ -567,7 +569,7 @@ nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
 pakbos21.org##[href="//dumbpop.com/help.xml"]
 idfl.me##[href="http://bit.ly/adsvbola"]
-anoboy.media##[href="http://click2go.me/aksesklik4a"]
+anoboy.digital,anoboy.media##[href="http://click2go.me/aksesklik4a"]
 idfl.top##[href="http://dewanmas.com/"]
 idfl.top##[href="http://menangvip.org/"]
 filmbokep21.shop##[href="http://sbovn88.net/"]
@@ -602,6 +604,7 @@ bioskop19.com##a[href="http://162.144.35.114/"]
 kshowid.com##a[href="http://kshowid.com/advertising/"]
 filmxy.cc##a[href="http://www.filmxy.cc/download/"]
 filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
+anoboy.digital##a[href^="https://144.126.241.203/"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
@@ -613,7 +616,7 @@ filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
 kazefuri.web.id##a[href^="http://www.cocobet."]
 hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
 anoboy.org##a[href^="http://www.pencetpoker."]
-animebatch.web.id,animeindo.co,animeku.tv,anoboy.org,bioskop168.pro,bioskopbos.com,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,eka.web.id,filmbioskop21.com,idxxi.co,indoxxi.top,kazefuri.web.id,layarindo21.pro,lk-21.me,lk21c.fun,lk21indo.co,lk21n.com,lk21xxi.co,mangaku.in,mangashiro.net,neonime.net,nontonbioskop21.org,nontondramas.com,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com,subindo.id##a[href^="https://bit.ly/"]
+animebatch.web.id,animeindo.co,animeku.tv,anoboy.digital,anoboy.org,bioskop168.pro,bioskopbos.com,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,eka.web.id,filmbioskop21.com,idxxi.co,indoxxi.top,kazefuri.web.id,layarindo21.pro,lk-21.me,lk21c.fun,lk21indo.co,lk21n.com,lk21xxi.co,mangaku.in,mangashiro.net,neonime.net,nontonbioskop21.org,nontondramas.com,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com,subindo.id##a[href^="https://bit.ly/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,drakorindo.tv,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,serunonton.com##a[href^="https://goo.gl/"]
 torjack.net##a[href^="https://mypayingads.com"]
 ytssubtitles.com##a[href^="https://oxhax.com/"]
