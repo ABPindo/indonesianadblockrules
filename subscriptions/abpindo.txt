@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202203181016
+! Version: 202203192312
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 18 Mar 2022 10:16 UTC
+! Last modified: 19 Mar 2022 23:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -55,6 +55,7 @@
 ||adslop.com^$third-party
 ||adtimeselaras.com^$popup
 ||adtimeselaras.com^$third-party
+||advertica-cdn2.com^$third-party
 ||afbcashidr.com^$popup,third-party
 ||agletmagilp.com^$script
 ||ahcnxuepput.com^$popup
@@ -169,6 +170,7 @@
 ||jillsclickcorner.com^$third-party
 ||jnwsrqxrdqct.top^$popup
 ||juruiklan.com^$third-party
+||kambingjantan.cc/*.gif$domain=manhwalands.xyz
 ||katukaunamiss.com^
 ||katurars.com^$popup
 ||kdbumyha.com^$popup
@@ -282,6 +284,7 @@
 ||uadexchange.com^$third-party
 ||ueuodgnrhb.com^$popup
 ||uieoogjarimcey.com^$popup
+||unawakegaleus.com^
 ||uoarbhxfyygn.com^$popup,third-party
 ||uofmnbkm.com^$popup
 ||useads.com^$third-party
@@ -1766,6 +1769,7 @@ bioskop78.com##td:nth-of-type(3)
 /PKVHOKI.gif|$image
 /PURIBET.gif|$image
 /Poker228.gif|$image
+/TOTOKL-NEW.gif$image
 /TelurQQ.gif|$image
 /TradisiBet_$image
 /Unibet99-$image
@@ -4853,8 +4857,10 @@ totojitu.gif|$image
 ##[href$="/ibetwinasia"]
 ##[href$="/mahadewa88"]
 ##[href$="/rajasloto"]
+##[href="https://128.199.178.246/"]
 ##[href="https://beacons.ai/komik4d"]
 ##[href="https://hasil-keluaran-hk.com/redirecting"]
+##[href="https://indo7bet.biz/"]
 ##[href^="//zukxd6fkxqn.com/"]
 ##[href^="Http://ApiBet."]
 ##[href^="Http://ApiKartu."]
@@ -4947,6 +4953,7 @@ totojitu.gif|$image
 ##[href^="http://agungpoker."]
 ##[href^="http://agwcash."]
 ##[href^="http://ahliqq."]
+##[href^="http://airasiabt.fun/"]
 ##[href^="http://ajobola."]
 ##[href^="http://aktorqq."]
 ##[href^="http://aladincash7."]
@@ -4983,6 +4990,7 @@ totojitu.gif|$image
 ##[href^="http://asia88bet."]
 ##[href^="http://asiabandarkiu."]
 ##[href^="http://asiabandarqq."]
+##[href^="http://asiabet8.cc/"]
 ##[href^="http://asiabolabet."]
 ##[href^="http://asiaforbet8.com"]
 ##[href^="http://asiakasino."]
@@ -5813,6 +5821,7 @@ totojitu.gif|$image
 ##[href^="http://totokita."]
 ##[href^="http://totosuper123.net/"]
 ##[href^="http://totosuper8.net"]
+##[href^="http://totosuper99.com/"]
 ##[href^="http://totosuper99.org/"]
 ##[href^="http://toyoqq88.net"]
 ##[href^="http://transpoker."]
@@ -6368,6 +6377,7 @@ totojitu.gif|$image
 ##[href^="https://bit.ly/adsapik"]
 ##[href^="https://bit.ly/emas188manhwa"]
 ##[href^="https://bmwqq."]
+##[href^="https://bolaindonesia.me/"]
 ##[href^="https://bolakantor."]
 ##[href^="https://bolapk."]
 ##[href^="https://bukaipo.com"]
@@ -6387,6 +6397,7 @@ totojitu.gif|$image
 ##[href^="https://hahatogel.net"]
 ##[href^="https://hokianda.com"]
 ##[href^="https://ibcpoker.org"]
+##[href^="https://icon338.cc/"]
 ##[href^="https://id.maindulu77.com"]
 ##[href^="https://indobet77.pro"]
 ##[href^="https://indobet77.xyz"]
@@ -6582,8 +6593,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-##a[href$="/slots"]
 leon.bet#@#a[href$="/slots"]
+##a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
@@ -8213,6 +8224,11 @@ ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
 mediahiburan.my##.td-container-wrap.td-banner-bg.td-banner-wrap-full
 melayusex.tube##[href="//7c0616849b.com/load.xml"]
+##[href="https://bit.ly/77dragonbanyakmenang"]
+##[href="https://bit.ly/77lucksmenangbanyak"]
+##[href="https://bit.ly/joker99menangterus"]
+##[href="https://bit.ly/luck99gacorbanget"]
+##[href="https://bit.ly/stars77cepetmenang"]
 manhwaindo.id##[href="https://xcashshop.com/"]
 manhwaindo.id##[href^="https://www.rekeningku.com/"]
 hentai2read.com##a[href^="//www.nutaku.net/signup/"]

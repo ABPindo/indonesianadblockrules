@@ -40,6 +40,7 @@
 ||adslop.com^$third-party
 ||adtimeselaras.com^$popup
 ||adtimeselaras.com^$third-party
+||advertica-cdn2.com^$third-party
 ||afbcashidr.com^$popup,third-party
 ||agletmagilp.com^$script
 ||ahcnxuepput.com^$popup
@@ -292,4 +293,3 @@
 ||yx-ads6.com^$third-party
 ||zukxd6fkxqn.com^$popup
 ||zuyejecgb.com^$popup
-||advertica-cdn2.com^$third-party
