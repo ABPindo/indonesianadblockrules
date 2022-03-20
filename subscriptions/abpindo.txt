@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202203192319
+! Version: 202203201134
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 19 Mar 2022 23:19 UTC
+! Last modified: 20 Mar 2022 11:34 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1164,6 +1164,7 @@ dunia21s.fun,fb21.tv,lk21.li,nonton21.tv,nontonserial.com###previewBox4
 ayononton.co,dunia21.cx,layarkaca21.com,layarkaca21.web.id,lk21tv.com,terbit21.cool###ptbanner
 zonabola.com###rAds
 utusan.com.my###rec_ad4
+193.178.172.113###repop
 komikbaru.com###right-skyscraper
 lk21tv.com###rotating
 youtube-mp3.my###sadl
@@ -6593,8 +6594,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
@@ -7708,7 +7709,14 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="QBANDAR" i]
 ##img[alt="QIUQIU99" i]
 ##img[alt="QQ online" i]
+##img[alt="QQ101" i]
+##img[alt="QQ228" i]
 ##img[alt="QQ39bet" i]
+##img[alt="QQ724" i]
+##img[alt="QQ801" i]
+##img[alt="QQ820" i]
+##img[alt="QQ828" i]
+##img[alt="QQ882" i]
 ##img[alt="QQ998" i]
 ##img[alt="QQANGPAO" i]
 ##img[alt="QQEmas" i]
@@ -7963,6 +7971,9 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="pokerlounge99" i]
 ##img[alt="promo togel" i]
 ##img[alt="promosi kdslots" i]
+##img[alt="qq1x2" i]
+##img[alt="qq808" i]
+##img[alt="qq8889" i]
 ##img[alt="qqturbo" i]
 ##img[alt="rajaremi" i]
 ##img[alt="ratucapsa" i]
