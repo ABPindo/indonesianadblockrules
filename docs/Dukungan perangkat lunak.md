@@ -2,7 +2,7 @@
 
 **Pengaya/ekstensi browser:**
 
-- [uBlock Origin](https://ublockorigin.com/)
+- [uBlock Origin](https://github.com/gorhill/uBlock)
 
 - [Adblock Plus](https://adblockplus.org)
 
