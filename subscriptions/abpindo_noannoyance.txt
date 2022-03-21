@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202203201134
+! Version: 202203210130
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 20 Mar 2022 11:34 UTC
+! Last modified: 21 Mar 2022 01:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -386,6 +386,7 @@ iklan300x250.gif|
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21tv.com|movieajip.online
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
+||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
 ||adsafelink.com/js/webscript.js$script,third-party
 ||akanhoki.com/GenerateAdImage$image
@@ -402,6 +403,7 @@ iklan300x250.gif|
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
 ||awnime.net/popup.htm$popup
+||banibajury.website^$popup,domain=komikcast.com
 ||bioskop007.*/wp-content/uploads/*.gif$image
 ||bioskop168.*/wp-content/uploads/*.gif$image
 ||bioskop19.*/wp-content/uploads/*.gif$image
@@ -617,6 +619,7 @@ iklan300x250.gif|
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
+||yxcblckd.com^$domain=komikcast.com
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|mangakita.net
 ! *** abpindo:src/advert/snippet _adblockplus.txt ***
@@ -686,7 +689,6 @@ iklan300x250.gif|
 @@||kaze-batch.blogspot.com^$generichide
 @@||kertashitam.com/js/advertisement.js$script,domain=kertashitam.com
 @@||klikshowtime.com^$generichide
-@@||komikcast.com^$generichide
 @@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
 @@||kuronime.tv^$generichide
@@ -1451,6 +1453,7 @@ file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
 fastdrama.co##.modal-content
+detik.com##.mr2:-abp-has([id^="div-gpt-ad"])
 nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
 kompas.com##.native-wrap

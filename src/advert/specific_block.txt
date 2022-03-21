@@ -1,6 +1,7 @@
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21tv.com|movieajip.online
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
+||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
 ||adsafelink.com/js/webscript.js$script,third-party
 ||akanhoki.com/GenerateAdImage$image
@@ -17,6 +18,7 @@
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
 ||awnime.net/popup.htm$popup
+||banibajury.website^$popup,domain=komikcast.com
 ||bioskop007.*/wp-content/uploads/*.gif$image
 ||bioskop168.*/wp-content/uploads/*.gif$image
 ||bioskop19.*/wp-content/uploads/*.gif$image
@@ -232,5 +234,6 @@
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
+||yxcblckd.com^$domain=komikcast.com
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|mangakita.net
