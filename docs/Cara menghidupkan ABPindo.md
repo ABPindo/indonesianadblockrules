@@ -1,6 +1,6 @@
 Apabila bahasa antarmuda browser sudah menggunakan bahasa indonesia atau malaysia, secara default saat memasang uBlock/AdBlock Plus/AdGuard akan otomatis berlangganan ABPindo. Namun apabila ABPindo tidak terpasang otomatis, gunakan cara ini:
 
-### [uBlock Origin](https://ublockorigin.com)/[AdNauseam](https://adnauseam.io) ###
+### [uBlock Origin](https://ublockorigin.com) ###
 1. Klik icon uBlock
 2. Klik icon *Open the dashboard*
 3. Klik tab *Filter lists*
