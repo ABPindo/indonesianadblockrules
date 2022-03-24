@@ -1,4 +1,4 @@
-ABPindo perangkat lunak dengan sintak: 
+ABPindo tersedia dengan varian penulisan sintak: 
 
 - [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
 
