@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202203241021
+! Version: 202203241313
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 24 Mar 2022 10:21 UTC
+! Last modified: 24 Mar 2022 13:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -131,6 +131,7 @@
 ||gudangbanner.com^$third-party
 ||gypsiedjilt.com^
 ||halal.ad^$third-party
+||hedgehoghugsyou.com^
 ||hegarberetrof.pro^$popup
 ||herdethi.net^$third-party
 ||hitadsmedia.com^$third-party
@@ -138,6 +139,8 @@
 ||hosillfir.site^
 ||hqchbs.com^
 ||ibnads.xl.co.id^$third-party
+||ihqfiimrbcf.com^$popup
+||ihqfiimrbcf.com^$xmlhttprequest
 ||iklan-laris.com^$third-party
 ||iklanads.com^$third-party
 ||iklanbarisgratis.com^$third-party
@@ -211,6 +214,7 @@
 ||openadserving.com^$third-party
 ||ourtherss.top^$third-party
 ||ovibospeseta.com^
+||p.eeco.xyz^$xmlhttprequest
 ||p01.notifa.info^
 ||p02.notifa.info^
 ||p03.notifa.info^
@@ -1102,6 +1106,7 @@ bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_ba
 80.209.252.146###floattop
 lk21c.fun###flobwh
 gadgetren.com###footer_sticky_inside
+mangaku.site###ftadsth
 resep.web.id###googlebox
 cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.org###hbanner
 cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
@@ -1277,7 +1282,7 @@ gamebrott.com##.adsense-header-in-article
 ganol.si##.adsincenter
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
-mangaku.in,mangaku.web.id##.adv
+mangaku.in,mangaku.site,mangaku.web.id##.adv
 dramacool.io,dramanice.io,k-vid.com##.adv-space
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
@@ -1437,7 +1442,7 @@ kompas.com##.kcm
 kompas.com##.kcm-track-sticky
 kompas.com##.kcm__articleList
 apk.miuiku.com,lewat.club##.klikdisini
-anoboy.id,kazefuri.net,mangakita.net,mangashiro.net,nontondramaseri.com##.kln
+anoboy.id,kazefuri.net,kiryuu.id,mangakita.net,mangashiro.net,nontondramaseri.com##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
