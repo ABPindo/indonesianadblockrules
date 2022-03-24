@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202203210130
+! Version: 202203241021
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 21 Mar 2022 01:30 UTC
+! Last modified: 24 Mar 2022 10:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -22,6 +22,7 @@
 ||34667c8ece5.com^
 ||64p3am9x95ct.com^$popup
 ||6631f33cf2a1032b.com^
+||964aa09226.866e69bc8e.com^
 ||98e22a373e.com^
 ||995db2642d3d852b.com^
 ||9eb10b7a3d04a.com^$popup
@@ -106,6 +107,7 @@
 ||doathair.com^$third-party
 ||domnovrek.com^$third-party
 ||e7393e33565ce805.com^$popup
+||earn-bitcoins.net^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
 ||edspectsm.fun^$third-party
@@ -167,6 +169,7 @@
 ||jagopromo.com^$third-party
 ||jasaiklan.com^$third-party
 ||javaiklan.com^$third-party
+||jeniusplay.com^
 ||jillsclickcorner.com^$third-party
 ||jnwsrqxrdqct.top^$popup
 ||juruiklan.com^$third-party
@@ -234,6 +237,7 @@
 ||pusatiklan.com^$third-party
 ||pvwtkxcpsrcsd.com^
 ||q1xyxm89.com^$popup
+||qprskl.com^
 ||randallbesin.com^
 ||rccsekuitas.com^$script
 ||realwap.net^$third-party
@@ -564,6 +568,7 @@ iklan300x250.gif|
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||nanime.biz^$third-party
+||nekonime.best/iklan/$image
 ||nekonime.site/iklan/
 ||newlk21.*/wp-content/uploads/*.gif$image
 ||nobartv.com/adsLoader/$xmlhttprequest
@@ -824,6 +829,7 @@ woof.tube#@#.adsbox
 ###iklan_tengah
 ###iklanarea
 ###iklanatas
+###iklanbawah
 ###iklanpersegi
 ###myadsmodal
 ###netkevin-overlay
@@ -938,7 +944,9 @@ giladrakor.com###ouibounce-modal
 ##.iklan_semprot
 ##.iklan_semprot_h
 ##.iklan_tengah
+##.iklanatas
 ##.iklanbanner
+##.iklanfull
 ##.iklanhead
 ##.iklanlebar
 ##.iklanleft
@@ -1079,7 +1087,7 @@ komikstation.com###floatbanner
 nontonsini.com###floatbawah
 lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
-149.28.158.117,animexin.xyz,awsubs.co###floatcenter
+149.28.158.117,animexin.xyz,anixlife.xyz,awsubs.co###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com###floating_ads_bottom_textcss_wrap
 173.199.189.86,bioskop55.club,bioskop55.me,bioskop90.com,bioskopgalaxy21.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,juragantomatx.com###floating_banner_bottom

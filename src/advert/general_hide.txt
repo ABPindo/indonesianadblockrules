@@ -69,6 +69,7 @@
 ###iklan_tengah
 ###iklanarea
 ###iklanatas
+###iklanbawah
 ###iklanpersegi
 ###myadsmodal
 ###netkevin-overlay
@@ -183,7 +184,9 @@ giladrakor.com###ouibounce-modal
 ##.iklan_semprot
 ##.iklan_semprot_h
 ##.iklan_tengah
+##.iklanatas
 ##.iklanbanner
+##.iklanfull
 ##.iklanhead
 ##.iklanlebar
 ##.iklanleft
@@ -229,6 +232,3 @@ giladrakor.com###ouibounce-modal
 ##[href^="https://yllix.com/advertisers/"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
-##.iklanatas
-##.iklanfull
-###iklanbawah

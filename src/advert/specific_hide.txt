@@ -92,7 +92,7 @@ komikstation.com###floatbanner
 nontonsini.com###floatbawah
 lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
-149.28.158.117,animexin.xyz,awsubs.co###floatcenter
+149.28.158.117,animexin.xyz,anixlife.xyz,awsubs.co###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com###floating_ads_bottom_textcss_wrap
 173.199.189.86,bioskop55.club,bioskop55.me,bioskop90.com,bioskopgalaxy21.com,bioskoptigalima.com,blogspot.com,filmbioskop.my.id,juragantomatx.com###floating_banner_bottom
@@ -660,4 +660,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-anixlife.xyz###floatcenter
