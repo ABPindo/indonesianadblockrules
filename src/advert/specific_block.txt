@@ -204,6 +204,7 @@
 ||nontonstreaming.co/wp-content/uploads/*.gif$image
 ||nontonsub.*/wp-content/uploads/*.gif$image
 ||noobscript.com^$script,third-party
+||onicdn.xyz/adam/poker88
 ||playwebgame.com/banner/$third-party
 ||primbon.com/banner/ilmugendam.gif
 ||raw.githack.com/jefcom/jefar/master/jefar.js$script
