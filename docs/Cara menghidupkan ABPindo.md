@@ -1,4 +1,4 @@
-Apabila bahasa antarmuda browser sudah menggunakan bahasa indonesia atau malaysia, secara default saat memasang uBlock/AdBlock Plus/AdGuard akan otomatis berlangganan ABPindo. Namun apabila ABPindo tidak terpasang otomatis, gunakan cara ini:
+Apabila bahasa antarmuka browser sudah menggunakan bahasa indonesia atau malaysia, secara default saat memasang uBlock/AdBlock Plus/AdGuard akan otomatis berlangganan ABPindo. Namun apabila ABPindo tidak terpasang otomatis, gunakan cara ini:
 
 ### [uBlock Origin](https://github.com/gorhill/uBlock) ###
 1. Klik icon uBlock
