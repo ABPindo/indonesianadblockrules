@@ -1,6 +1,6 @@
 Apabila bahasa antarmuka browser sudah menggunakan bahasa Indonesia atau Malaysia, secara default saat memasang uBlock/AdBlock Plus/AdGuard akan secara otomatis berlangganan ABPindo. Namun apabila ABPindo tidak terpasang secara otomatis, gunakan cara ini:
 
-### [uBlock Origin](https://github.com/gorhill/uBlock) ###
+### [uBlock Origin](https://github.com/gorhill/uBlock)
 1. Klik icon uBlock
 2. Klik icon *Open the dashboard*
 3. Klik tab *Filter lists*
@@ -9,7 +9,7 @@ Apabila bahasa antarmuka browser sudah menggunakan bahasa Indonesia atau Malaysi
 6. Cari *IDN, MYS: ABPindo* kemudian centang untuk mengaktifkan
 7. Klik *Apply changes*
     
-### [AdGuard](https://adguard.com) ###
+### [AdGuard](https://adguard.com)
 1. Buka pengaturan
 2. Klik *Filters*/*Penyaring*
 3. Klik *language-specific*/*bahasa-tertentu*
