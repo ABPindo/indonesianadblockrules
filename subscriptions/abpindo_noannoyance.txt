@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202203251149
+! Version: 202203282225
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 25 Mar 2022 11:49 UTC
+! Last modified: 28 Mar 2022 22:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -616,6 +616,7 @@ iklan300x250.gif|
 ||tempo.co/webtorial/like/remodal
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
 ||tribunnews.com/stylesheets/close.gif
+||ttgambar.xyz$popup
 ||tvkabel.net/prom/*.gif$image
 ||upload.coblos.net/images/*.gif$image
 ||uploadboy.com/bannerset/
@@ -630,7 +631,7 @@ iklan300x250.gif|
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||yxcblckd.com^$domain=komikcast.com
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|mangakita.net
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net
 ! *** abpindo:src/advert/snippet _adblockplus.txt ***
 ! Snippet filters for Adblock Plus 3.3 (https://help.eyeo.com/adblockplus/snippet-filters-tutorial)
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
@@ -742,24 +743,19 @@ iklan300x250.gif|
 @@||virtualdata.me/webroot/js/ads.js$script,~third-party
 @@||www.googletagmanager.com/gtm.js$script,domain=inet.detik.com
 @@||zaqe.xyz^$generichide
-aktual.id,datasekolah.co.id#@#.adsbygoogle
-animanganews.com#@#.iklan
-aplikasipc.com#@#.afs_ads
-digikala.com#@#.remodal
-eramuslim.com#@#.adsbygoogle
-filmdewasaku.org#@#.idmuvi-topbanner-aftermenu
+! 
 gurusd.web.id,kurikulum.co.id#@##adsense
-layarlebar21.org#@#.idmuvi-topplayer
-layarlebarxxi.com#@#.idmuvi-afterplayer
-layarlebarxxi.com#@#.idmuvi-topplayer
-mangalist.org#@#.adsbygoogle
-maulandaru.com#@#.adsbygoogle
-oomph.co.id#@#.shareit
-qqcinema21.com#@#.headads
-short.awsubs.co#@#.iklan
-sporcle.com#@#.remodal
-totolink.id#@#.social-circle
 woof.tube#@#.adsbox
+aktual.id,datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbygoogle
+aplikasipc.com#@#.afs_ads
+qqcinema21.com#@#.headads
+layarlebarxxi.com#@#.idmuvi-afterplayer
+filmdewasaku.org#@#.idmuvi-topbanner-aftermenu
+layarlebar21.org,layarlebarxxi.com#@#.idmuvi-topplayer
+animanganews.com,short.awsubs.co#@#.iklan
+digikala.com,sporcle.com#@#.remodal
+oomph.co.id#@#.shareit
+totolink.id#@#.social-circle
 ! ----------------------- element hiding rules ------------------------!
 ! *** abpindo:src/advert/general_hide.txt ***
 ###Box-Banner-ads
