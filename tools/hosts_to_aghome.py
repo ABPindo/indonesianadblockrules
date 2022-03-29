@@ -1,7 +1,6 @@
 # source: https://gist.github.com/iam-py-test/ba35ce681e195c690ea3590f79479a3b
 # how to use: domains_to_dnsmasq hosts-input.txt hosts-output.txt
 
-import os
 import sys
 
 
