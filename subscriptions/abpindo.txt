@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202203251149
+! Version: 202203282231
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 25 Mar 2022 11:49 UTC
+! Last modified: 28 Mar 2022 22:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -616,6 +616,7 @@ iklan300x250.gif|
 ||tempo.co/webtorial/like/remodal
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
 ||tribunnews.com/stylesheets/close.gif
+||ttgambar.xyz$popup
 ||tvkabel.net/prom/*.gif$image
 ||upload.coblos.net/images/*.gif$image
 ||uploadboy.com/bannerset/
@@ -630,7 +631,7 @@ iklan300x250.gif|
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||yxcblckd.com^$domain=komikcast.com
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|mangakita.net
+/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net
 ! *** abpindo:src/advert/snippet _adblockplus.txt ***
 ! Snippet filters for Adblock Plus 3.3 (https://help.eyeo.com/adblockplus/snippet-filters-tutorial)
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
@@ -661,10 +662,6 @@ iklan300x250.gif|
 @@||adturl.com^$generichide
 @@||advertising-indonesia.id^$~third-party
 @@||ainodorama.web.id^$generichide
-@@||akuno.net^$generichide
-@@||anibatch.me^$generichide
-@@||animenonton.tv^$generichide
-@@||anoboy.best^$generichide
 @@||apkmod.id^$generichide
 @@||asiancine.com^$generichide
 @@||autoride.pw^$generichide
@@ -674,8 +671,6 @@ iklan300x250.gif|
 @@||biargreget.top^$generichide
 @@||bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com|maulandaru.com|njiir.com|razorlink.us|teknorizen.blogspot.com
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
-@@||cinema-mkv.com^$generichide
-@@||cinemamkv.net^$generichide
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
 @@||dramaencode.com^$generichide
@@ -688,8 +683,6 @@ iklan300x250.gif|
 @@||idsly.com/webroot/js/ads.js$script,~third-party
 @@||idsly.com^$generichide
 @@||illyasave.com^$generichide
-@@||indexmovie.download^$generichide
-@@||indozone.me^$generichide
 @@||infotekno.net^$generichide
 @@||inwepo.co^$generichide
 @@||js.rfp.fout.jp/rfp-display.js$script,domain=www.funtasticko.net
@@ -700,7 +693,6 @@ iklan300x250.gif|
 @@||klikshowtime.com^$generichide
 @@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
-@@||kuronime.tv^$generichide
 @@||leantoro.com/wp-content/plugins/newkarma-core/js/fuckadblock.js$script,~third-party
 @@||lewat.club/js/ads.js$script,~third-party
 @@||ljutkeunvpn.blogspot.com^$generichide
@@ -716,7 +708,6 @@ iklan300x250.gif|
 @@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||ngantukberat.me/wp-content/plugins/wp-safelink-v3/assets/fuckadblock.js$script,~third-party
 @@||ngantukberat.me^$generichide
-@@||njiir.com^$generichide
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
 @@||oploverz.in^$generichide
@@ -741,25 +732,19 @@ iklan300x250.gif|
 @@||urbandigital.id/wp-content/plugins/ad-inserter-pro/images/ads.png$image,~third-party
 @@||virtualdata.me/webroot/js/ads.js$script,~third-party
 @@||www.googletagmanager.com/gtm.js$script,domain=inet.detik.com
-@@||zaqe.xyz^$generichide
-aktual.id,datasekolah.co.id#@#.adsbygoogle
-animanganews.com#@#.iklan
-aplikasipc.com#@#.afs_ads
-digikala.com#@#.remodal
-eramuslim.com#@#.adsbygoogle
-filmdewasaku.org#@#.idmuvi-topbanner-aftermenu
+! 
 gurusd.web.id,kurikulum.co.id#@##adsense
-layarlebar21.org#@#.idmuvi-topplayer
-layarlebarxxi.com#@#.idmuvi-afterplayer
-layarlebarxxi.com#@#.idmuvi-topplayer
-mangalist.org#@#.adsbygoogle
-maulandaru.com#@#.adsbygoogle
-oomph.co.id#@#.shareit
-qqcinema21.com#@#.headads
-short.awsubs.co#@#.iklan
-sporcle.com#@#.remodal
-totolink.id#@#.social-circle
 woof.tube#@#.adsbox
+aktual.id,datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbygoogle
+aplikasipc.com#@#.afs_ads
+qqcinema21.com#@#.headads
+layarlebarxxi.com#@#.idmuvi-afterplayer
+filmdewasaku.org#@#.idmuvi-topbanner-aftermenu
+layarlebar21.org,layarlebarxxi.com#@#.idmuvi-topplayer
+animanganews.com,short.awsubs.co#@#.iklan
+digikala.com,sporcle.com#@#.remodal
+oomph.co.id#@#.shareit
+totolink.id#@#.social-circle
 ! ----------------------- element hiding rules ------------------------!
 ! *** abpindo:src/advert/general_hide.txt ***
 ###Box-Banner-ads
@@ -4894,6 +4879,7 @@ totojitu.gif|$image
 ##[href^="http://103.10.201.26"]
 ##[href^="http://116poker."]
 ##[href^="http://11juni."]
+##[href^="http://128.199.117.89/"]
 ##[href^="http://128.199.142.177/"]
 ##[href^="http://139.59.96.74"]
 ##[href^="http://142.44.144.187"]
@@ -4911,6 +4897,7 @@ totojitu.gif|$image
 ##[href^="http://45.63.19.229"]
 ##[href^="http://4dasli."]
 ##[href^="http://4dhoki."]
+##[href^="http://51.79.169.33/"]
 ##[href^="http://560bet."]
 ##[href^="http://588poker."]
 ##[href^="http://5starsbet."]
@@ -6368,16 +6355,22 @@ totojitu.gif|$image
 ##[href^="https://1001win.loan/"]
 ##[href^="https://128.199.132.128/"]
 ##[href^="https://128.199.25.237/"]
+##[href^="https://13.250.221.149/"]
 ##[href^="https://167.172.95.197/register"]
+##[href^="https://18.140.221.249/"]
+##[href^="https://192.53.115.182/"]
 ##[href^="https://1xliga."]
 ##[href^="https://2capsaqq.com"]
+##[href^="https://3.0.11.134/"]
 ##[href^="https://3.1.126.175/"]
 ##[href^="https://337poker."]
 ##[href^="https://365indoqiu."]
 ##[href^="https://3mkartu.com"]
 ##[href^="https://54.179.243.161"]
+##[href^="https://54.251.104.51/"]
 ##[href^="https://6kartudewa.net/"]
 ##[href^="https://77hoki.com"]
+##[href^="https://91.233.198.25/"]
 ##[href^="https://9411532.com/"]
 ##[href^="https://99capsamu99.com"]
 ##[href^="https://99cashbali.com"]
@@ -6400,6 +6393,7 @@ totojitu.gif|$image
 ##[href^="https://bisakaya.org"]
 ##[href^="https://bit.ly/adsapik"]
 ##[href^="https://bit.ly/emas188manhwa"]
+##[href^="https://bit.ly/go-bacot"]
 ##[href^="https://bmwqq."]
 ##[href^="https://bolaindonesia.me/"]
 ##[href^="https://bolakantor."]
@@ -6617,8 +6611,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
@@ -8219,11 +8213,13 @@ leon.bet#@#a[href$="/slots"]
 ! *** abpindo:src/annoyances/annoyance_specific_hide.txt ***
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 perawabokep.cam###ads
+164.132.158.237###adsic364x90-bokep
 94.237.74.225,streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB
 164.68.105.199###fixedban
 unyil.net###float-atas
+75.119.147.12###floating_banner_top1
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
 manhwaid.org###ouibounce-modal
