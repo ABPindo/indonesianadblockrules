@@ -1,5 +1,5 @@
 | Nama File | Keterangan | Contoh|
-| ------------- | ------------- | ----- |
+| --------- | ---------- | ----- |
 | abpindo_adservers.txt | Domain penyedia layanan iklan pihak ketiga | domainikan.id^$thirdparty |
 | abpindo_general_block.txt | Filter blokir umum, gunakan dengan bijak agar memfilter iklan saja |.id/ikan/|
 | abpindo_general_hide.txt | Filter penyembunyi umum, gunakan dengan bijak agar menyembunyikan iklan saja|##.ikan |
