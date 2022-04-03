@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202204010653
+! Version: 202204030748
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 01 Apr 2022 06:53 UTC
+! Last modified: 03 Apr 2022 07:48 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -393,6 +393,7 @@ iklan300x250.gif|
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21tv.com|movieajip.online
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
+||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
 ||adsafelink.com/js/webscript.js$script,third-party
@@ -739,7 +740,7 @@ aktual.id,datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbyg
 aplikasipc.com#@#.afs_ads
 qqcinema21.com#@#.headads
 layarlebarxxi.com#@#.idmuvi-afterplayer
-filmdewasaku.org#@#.idmuvi-topbanner-aftermenu
+109.234.34.246,filmdewasaku.org#@#.idmuvi-topbanner-aftermenu
 layarlebar21.org,layarlebarxxi.com#@#.idmuvi-topplayer
 animanganews.com,short.awsubs.co#@#.iklan
 digikala.com,sporcle.com#@#.remodal
@@ -854,6 +855,7 @@ totolink.id#@#.social-circle
 /720x90-jkt2u-$image
 /728-x-90-$image
 /BANNER-liga88-$image
+/BETSLOT.gif|$image
 /Banner-Bandar303.gif|$image
 /Banner-Poker$image,third-party
 /Banner-Suhubola-$image,third-party

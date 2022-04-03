@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202204010653
+! Version: 202204030748
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Apr 2022 06:53 UTC
+! Last modified: 03 Apr 2022 07:48 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -393,6 +393,7 @@ iklan300x250.gif|
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21tv.com|movieajip.online
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
+||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
 ||adsafelink.com/js/webscript.js$script,third-party
@@ -739,7 +740,7 @@ aktual.id,datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbyg
 aplikasipc.com#@#.afs_ads
 qqcinema21.com#@#.headads
 layarlebarxxi.com#@#.idmuvi-afterplayer
-filmdewasaku.org#@#.idmuvi-topbanner-aftermenu
+109.234.34.246,filmdewasaku.org#@#.idmuvi-topbanner-aftermenu
 layarlebar21.org,layarlebarxxi.com#@#.idmuvi-topplayer
 animanganews.com,short.awsubs.co#@#.iklan
 digikala.com,sporcle.com#@#.remodal
@@ -1088,7 +1089,7 @@ bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,biosk
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_right
 bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net,nontonlk21.live###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live###floating_banner_top1
+109.234.34.246,cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live###floating_banner_top1
 bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_banner_tops
 80.209.252.146###floattop
 lk21c.fun###flobwh
@@ -1259,6 +1260,7 @@ bisnis.com##.adsPushdown
 lk21.host##.ads_2l
 gridoto.com,motorplus-online.com##.ads__boxr
 motorplus-online.com##.ads__boxr--big.ads__boxr
+grid.id##.ads__skyscraper
 gridoto.com##.ads__stick--left
 gridoto.com##.ads__stick--right
 gridoto.com##.ads_below_photo
@@ -1423,7 +1425,7 @@ ld2tv.com##.img-banner
 103.194.171.75,dutafilm.us##.imgbanner
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
-ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
+109.234.34.246,ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
 motorplus-online.com##.js-tower-sticky.clearfix.kcm__tower.kcm
 indoxx1.art,indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
@@ -1461,8 +1463,8 @@ nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
 kompas.com##.native-wrap
 ns21.tv,ns21.us##.navbar-brand.bot
-motorplus-online.com##.nkt__stick--left
-motorplus-online.com##.nkt__stick--right
+grid.id,motorplus-online.com##.nkt__stick--left
+grid.id,motorplus-online.com##.nkt__stick--right
 detik.com##.normalbanner
 animeindo.id##.nyaa300
 animeindo.id##.nyaa728
@@ -1759,6 +1761,7 @@ bioskop78.com##td:nth-of-type(3)
 /720x90-jkt2u-$image
 /728-x-90-$image
 /BANNER-liga88-$image
+/BETSLOT.gif|$image
 /Banner-Bandar303.gif|$image
 /Banner-Poker$image,third-party
 /Banner-Suhubola-$image,third-party
@@ -6614,8 +6617,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]

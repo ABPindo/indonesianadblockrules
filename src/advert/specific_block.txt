@@ -1,6 +1,7 @@
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21tv.com|movieajip.online
 ||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
 ||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
+||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
 ||adsafelink.com/js/webscript.js$script,third-party
@@ -238,6 +239,5 @@
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||yxcblckd.com^$domain=komikcast.com
-||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net
