@@ -666,3 +666,6 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 109.234.34.246##.inner-floatbanner-bottom
 109.234.34.246###floating_banner_top1
+grid.id##.nkt__stick--left
+grid.id##.nkt__stick--right
+grid.id##.ads__skyscraper
