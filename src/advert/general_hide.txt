@@ -93,6 +93,7 @@ giladrakor.com###ouibounce-modal
 ##.ads-head
 ##.ads-pop
 ##.ads-sticky-bottom
+##.ads1
 ##.ads728-slot
 ##.ads_2c
 ##.ads_2l
@@ -111,6 +112,7 @@ giladrakor.com###ouibounce-modal
 ##.adsbymgid
 ##.adsbyown
 ##.adsbyrunactive
+##.adsgen1
 ##.adsimgs
 ##.adskanan
 ##.adskanan1
@@ -207,6 +209,9 @@ giladrakor.com###ouibounce-modal
 ##.ktz-aftermenubanner
 ##.ktz-bannersingletop
 ##.marginads
+##.mobileAd_bottom_floating
+##.mobileads
+##.mobileadstop
 ##.pengiklan
 ##.popUpBannerBox
 ##.popupflyin-clicks-area
