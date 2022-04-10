@@ -47,6 +47,7 @@
 ###flowads
 ###footer-adcont
 ###hbanner
+###idbannerplayer.idmuvi-bannerplayer
 ###idblog-adb-enabled
 ###idmuvi-adb-enabled
 ###idmuvi-popup
@@ -239,4 +240,3 @@ giladrakor.com###ouibounce-modal
 ##[href^="https://yllix.com/advertisers/"]
 ##a[alt="iklan" i]
 ##img[alt="iklan" i]
-###idbannerplayer.idmuvi-bannerplayer
