@@ -7,14 +7,20 @@ assignees: ''
 
 ---
 
-**Berikan URL**
-...
+## Berikan URL
+`contohURL.com`
 
-**Jelaskan masalah**
-...
+## Jelaskan masalah
+Jelaskan secara singkat tentang Pull Request
 
-**Berikan screenshot**
-... jika sulit dijelaskan dengan kata-kata tolong sertakan screenshot
+## Berikan screenshot (pilihan)
+jika sulit dijelaskan dengan kata-kata tolong sertakan screenshot
 
-**Usul sintak filter**
+## Lingkungan pengujian
+- [] Firefox
+- [] Chrome
+- [] uBlock Origin
+- [] Adblock Plus
+
+## Usul sintak filter
 ... jika punya ide, tuliskan sintak filternya
