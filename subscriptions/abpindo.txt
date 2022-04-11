@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202204100230
+! Version: 202204110202
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 10 Apr 2022 02:30 UTC
+! Last modified: 11 Apr 2022 02:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1140,6 +1140,12 @@ mangafap.com###lbanner
 5.182.209.205###le_header_ads
 kabar2.com###leaderboard
 komikbaru.com###left-skyscraper
+www.lingohut.com###lht2_lesson_after_vocab2_300x250_phone
+www.lingohut.com###lht2_lesson_bottom_300x250_phone
+www.lingohut.com###lht2_lesson_top_320x50_phone
+www.lingohut.com###lht_base_bot_320x50_phone
+www.lingohut.com###lht_lesson_right2_300x250_desktop
+www.lingohut.com###lht_lesson_right_300x250_desktop
 kabargames.id###main-banner-middle
 dewabioskop21.org,dwa21.org###main-popup
 sindonews.com###me-div-gpt-ad-parallax
@@ -1211,7 +1217,7 @@ dunia21.top,lk21.cc###tengah > span
 indoxx1.club###tengahaa
 hotabis.com###text-28 > .textwidget
 indotelko.com###title_kanal
-bioskopkerenin.com,dunia21.cx,ganool.watch,ganool21.watch,kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,movies21.co,sinemaindo.web.id###top-banner
+bioskopkerenin.com,dunia21.cx,ganool.watch,ganool21.watch,kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,movies21.co,sinemaindo.web.id,terbit21.in###top-banner
 layarxxi.online###top-banner-content
 indoxxi.tv,xx1.tv###top-bnner-content
 80.209.252.146###top6
@@ -1454,6 +1460,8 @@ indonesiamovies21.com##.ktz-banneraftercontent
 anime17.net##.ktz_banner
 faktabali.com##.ktzsingle-bannerright
 kumpulmanga.org##.kzl-header.kzl
+188.166.39.172##.lazyloaded.ls-is-cached.bannerdua
+188.166.39.172##.lazyloaded.ls-is-cached.bannersatu
 dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
@@ -1540,6 +1548,8 @@ idpelago.com##.sponsor_ads:nth-of-type(1)
 idpelago.com##.sponsor_ads:nth-of-type(2)
 idpelago.com##.sponsor_ads:nth-of-type(4)
 okezone.com##.sponsored-belt468x60
+radenku.com##.sticky-ads
+radenku.com##.sticky-ads-content
 www.kompasiana.com##.sticky-right.banner-center.banner-sky.ads__skyscraper.ads
 kabargames.id##.stickybanner
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
@@ -1596,6 +1606,7 @@ kazefuri.web.id##[href^="http://dwatngkas."]
 bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
+188.166.39.172##[href^="https://137.184.194.29/"]
 139.99.120.222,158.69.54.218,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.net,manganime.in,movieajip.online,www.nontondramas.net##[href^="https://bit.ly/"]
 animexin.xyz##[href^="https://ligaciputra3.com"]
 194.163.183.129##[href^="https://luxury138.link/"]
@@ -4878,6 +4889,7 @@ totojitu.gif|$image
 ##[href$="/casino"]
 ##[href$="/emas188manhwaland"]
 ##[href$="/ibetwinasia"]
+##[href$="/itudomid"]
 ##[href$="/mahadewa88"]
 ##[href$="/rajasloto"]
 ##[href="https://128.199.178.246/"]
@@ -5711,6 +5723,7 @@ totojitu.gif|$image
 ##[href^="http://remiku."]
 ##[href^="http://rezekibola."]
 ##[href^="http://rgtogel."]
+##[href^="http://ronaldo4d.club"]
 ##[href^="http://royalkasino."]
 ##[href^="http://royalku."]
 ##[href^="http://royalpoker99."]
@@ -6376,11 +6389,13 @@ totojitu.gif|$image
 ##[href^="https://128.199.132.128/"]
 ##[href^="https://128.199.25.237/"]
 ##[href^="https://13.250.221.149/"]
+##[href^="https://139.99.116.123/"]
 ##[href^="https://167.172.95.197/register"]
 ##[href^="https://170.187.225.84/"]
 ##[href^="https://172.104.41.68/register"]
 ##[href^="https://18.140.221.249/"]
 ##[href^="https://192.53.115.182/"]
+##[href^="https://192.53.172.56/register"]
 ##[href^="https://1xliga."]
 ##[href^="https://2capsaqq.com"]
 ##[href^="https://3.0.11.134/"]
@@ -6388,6 +6403,7 @@ totojitu.gif|$image
 ##[href^="https://337poker."]
 ##[href^="https://365indoqiu."]
 ##[href^="https://3mkartu.com"]
+##[href^="https://54.151.184.106/id-ID/Member/Register/"]
 ##[href^="https://54.179.243.161"]
 ##[href^="https://54.251.104.51/"]
 ##[href^="https://6kartudewa.net/"]
@@ -6408,12 +6424,15 @@ totojitu.gif|$image
 ##[href^="https://bandarq365."]
 ##[href^="https://bandarqq."]
 ##[href^="https://bandarqq365."]
+##[href^="https://bandarxlbig.com"]
 ##[href^="https://bandarzeus.com"]
 ##[href^="https://bebasjudi88.com"]
 ##[href^="https://betflix.id"]
 ##[href^="https://betkini."]
 ##[href^="https://bets78."]
 ##[href^="https://bisakaya.org"]
+##[href^="https://bisnis4d.co"]
+##[href^="https://bit.ly/Pentaslot"]
 ##[href^="https://bit.ly/adsapik"]
 ##[href^="https://bit.ly/emas188manhwa"]
 ##[href^="https://bit.ly/go-bacot"]
@@ -6519,6 +6538,7 @@ totojitu.gif|$image
 ##[href^="https://w88mania.com/"]
 ##[href^="https://wahanabet."]
 ##[href^="https://warnaqqpkv.com"]
+##[href^="https://warnetvegas1.com"]
 ##[href^="https://www.2capsaqq."]
 ##[href^="https://www.33s.com"]
 ##[href^="https://www.365capsa."]
@@ -6634,8 +6654,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
@@ -8080,6 +8100,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt^="bandar judi" i]
 ##img[alt^="bandar poker" i]
 ##img[alt^="bolatogel" i]
+##img[alt^="happypoker" i]
 ##img[alt^="hydro88" i]
 ##img[alt^="jalan138" i]
 ##img[alt^="judi bola" i]
@@ -8092,8 +8113,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt^="situs togel" i]
 ##img[alt^="slot online termurah"]
 ##img[alt^="togel online" i]
-##img[class="happypoker" i]
-##img[src="http://livesgp."]
+##img[src^="http://livesgp."]
 ! *** abpindo:src/annoyances/annoyance_prank.txt ***
 ! situs usil dan prank
 ! 
