@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202204110202
+! Version: 202204142143
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 11 Apr 2022 02:02 UTC
+! Last modified: 14 Apr 2022 21:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -124,6 +124,7 @@
 ||fryruejoust.cam^$popup
 ||furocmay.com^$popup
 ||gbrrrxbodqdlq.com^$popup
+||ghaahq.com^
 ||goingsilltrusty.com^
 ||groucign.com^$third-party
 ||groupiklan.com^$third-party
@@ -490,6 +491,7 @@ iklan300x250.gif|
 ||gets.kadal.club/js/getlinkz.js$script,domain=alex71.com
 ||gm21.xyz/wp-content/uploads/*.gif$image,~third-party
 ||gmovies.org/wp-content/uploads/*.gif$image
+||google.co.id/search?q=$popup,domain=komikav.com,komikcast.com
 ||googleusercontent.com$domain=80.209.252.146
 ||grandxxi.*/img/banner/*.gif$image
 ||gsshop.co.id^*/background/banner-
@@ -6654,8 +6656,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-##a[href$="/slots"]
 leon.bet#@#a[href$="/slots"]
+##a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
