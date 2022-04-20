@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202204172227
+! Version: 202204200525
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
 ! Last modified: 17 Apr 2022 22:27 UTC
@@ -394,9 +394,9 @@
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21tv.com|movieajip.online
+.wp.com/animenonton.*/wp-content/uploads/*.gif$image
+.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 /assets/*.gif$image,domain=149.56.24.226
-||.wp.com/animenonton.*/wp-content/uploads/*.gif$image
-||.wp.com/hotabis.com/wp-content/uploads/*.gif$image,domain=hotabis.com
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
@@ -643,6 +643,7 @@ iklan300x250.gif|
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 ! Scriptlets filters for uBlock (https://github.com/gorhill/uBlock/wiki/Resources-Library)
 ! *** abpindo:src/advert/whitelist.txt ***
+@@.bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|mangacanblog.com
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/*/ads/$image,domain=anibatch.me
@@ -658,7 +659,6 @@ iklan300x250.gif|
 @@/js/ads.js$script,domain=adlink.pw|adsafelink.net|akuno.net|blogrp.me|ceklink.co|idsly.net|kabarviral.blog|lewat.club|modecepat.com|safe.mirrordown.com|templink.org|virtualdata.me
 @@logo*.png#*/ads/$image,domain=anoboy.best
 @@logo*.png#*/ads/$image,~third-party
-@@||.bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com
 @@||1idsly.com^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ad4msan.com^$generichide
