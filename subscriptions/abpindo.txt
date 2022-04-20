@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202204172227
+! Version: 202204200517
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
 ! Last modified: 17 Apr 2022 22:27 UTC
@@ -430,6 +430,7 @@ iklan300x250.gif|
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
+||cakrawalanews.co.id/images/banner/
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
 ||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script,domain=myanimeindo.net
@@ -1914,6 +1915,7 @@ bioskop78.com##td:nth-of-type(3)
 /idngg.gif|$image
 /idrbet-$image
 /idx-promo-$image
+/iklan_banner_$image
 /iklanratu.$image
 /images/idxbet/*$image
 /imcpoker-$image
