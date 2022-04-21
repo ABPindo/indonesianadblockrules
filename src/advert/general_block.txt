@@ -30,6 +30,7 @@
 /banner_iklan/*
 /bannerlonteqq.gif|
 /bb17-iklan.
+/iklan_banner_$image
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
@@ -49,4 +50,3 @@
 /wpsafelink$script,domain=daizurin.com|lucikun.com|shitaranime.com|sinanime.net
 /wpsafelink$script,third-party
 iklan300x250.gif|
-/iklan_banner_$image
