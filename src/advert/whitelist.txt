@@ -13,7 +13,6 @@
 @@/js/ads.js$script,domain=adlink.pw|adsafelink.net|akuno.net|blogrp.me|ceklink.co|idsly.net|kabarviral.blog|lewat.club|modecepat.com|safe.mirrordown.com|templink.org|virtualdata.me
 @@logo*.png#*/ads/$image,domain=anoboy.best
 @@logo*.png#*/ads/$image,~third-party
-@@||.bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com
 @@||1idsly.com^$generichide
 @@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ad4msan.com^$generichide
