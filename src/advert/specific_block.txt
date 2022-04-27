@@ -30,6 +30,7 @@
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
+||blogger.googleusercontent.com/*.gif$image,domain=www.ngefilm21.top
 ||bp.blogspot.com/*.gif$image,domain=139.99.33.192|animeindo.moe|anoboy.org|anoboy.video|anoboy.watch|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.asia|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.site|layarkeren.xyz|layarmovie21.co|lk21id.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|oploverz.in|otakudesu.info|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
@@ -242,6 +243,5 @@
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||yxcblckd.com^$domain=komikcast.com
-||blogger.googleusercontent.com/*.gif$image,domain=www.ngefilm21.top
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id

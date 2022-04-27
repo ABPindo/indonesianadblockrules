@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202204241339
+! Version: 202204272143
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 24 Apr 2022 13:39 UTC
+! Last modified: 27 Apr 2022 21:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -274,6 +274,7 @@
 ||uofmnbkm.com^$popup
 ||useads.com^$third-party
 ||utopia.ad-loupe.com^$third-party
+||vkwaeo.com^
 ||vrewpywootyu.com^$popup,third-party
 ||wbaogaqvrukprx.com^$popup
 ||webiklan.com^$third-party
@@ -281,6 +282,7 @@
 ||whjibbprhng.com^$popup,third-party
 ||window-close.cf^$popup,third-party
 ||window-close.ga^$popup,third-party
+||wkuave.com^
 ||x-tags.net^
 ||yesads.com^$third-party
 ||yhig.info^$third-party
@@ -395,6 +397,7 @@ iklan300x250.gif|
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
+||blogger.googleusercontent.com/*.gif$image,domain=www.ngefilm21.top
 ||bp.blogspot.com/*.gif$image,domain=139.99.33.192|animeindo.moe|anoboy.org|anoboy.video|anoboy.watch|awnime.net|awsubs.co|awsubs.tv|bioskopgalaxy21.com|bioskoptigalima.com|bokepman.com|bolehnonton.net|cinema81.net|cinemamovie21.net|cinemamovie365.com|drakorindo.asia|drakorindo.co|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|dwanonton.com|film-drama.co|filmbagus21.space|filmbagus88.net|filmku.net|idkomik.com|juragantomatx.com|kawanfilm21.org|kawanfilm21.pro|kawanfilm21.win|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lapakfilm.club|layarkeren.com|layarkeren.info|layarkeren.site|layarkeren.xyz|layarmovie21.co|lk21id.com|mangaindo.net|mangashiro.co|movie303.com|movie76.net|moviebaru21.com|nekopoi.care|neonime.com|neonime.net|neumanga.tv|nonton-streaming.com|nonton.club|nonton33.com|nonton33.net|nonton33.org|nonton33.tv|nontonbp.com|nontondrama.me|nontonfilm.mobi|nontonfilm21.club|nontonin.co|nontonmovie33.net|oploverz.in|otakudesu.info|satujiwa.org|senimovies.net|smallencode.com|unyil.org|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
@@ -1767,12 +1770,14 @@ bioskop78.com##td:nth-of-type(3)
 /ITCBET.gif|$image
 /JAYAPOKER_*.gif$image
 /JuaraCapsa.gif|$image
+/KaikoSlot.gif|$image
 /MEJAHOKI.gif|$image
 /MacauDewa-$image
 /NIKMATIQQ.$image
 /PESBOLA-$image
 /PKVHOKI.gif|$image
 /PURIBET.gif|$image
+/PentaSlot.gif|$image
 /Poker228.gif|$image
 /TOTOKL-NEW.gif$image
 /TelurQQ.gif|$image
@@ -6643,8 +6648,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-##a[href$="/slots"]
 leon.bet#@#a[href$="/slots"]
+##a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
