@@ -55,6 +55,7 @@ indostreamings.xyz###content > div:nth-of-type(1)
 kompas.com###crt-225c8f8a
 kompas.com###crt-4f9f1ad0
 kompas.com###crt-f6d317f5
+stocksetup.kontan.co.id###dablewidget_RoOGdzom
 ggwp.id###detailSkinAdLeft
 ggwp.id###detailSkinAdRight
 bioskopmovie.tv###directorio > .random > center
@@ -62,6 +63,7 @@ tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
 blog.tribunjualbeli.com,tribunnews.com###div-Right-MediumRectangle-1
 makassar.tribunnews.com###div-Right-MediumRectangle-3
+stocksetup.kontan.co.id###div-Skycrapper-Stocksetup
 blog.tribunjualbeli.com###div-Top-Leaderboard
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 motorplus-online.com###div-paralax-container
@@ -435,6 +437,8 @@ bioskop90.com##.headborder:nth-of-type(5)
 128.199.102.111##.header-ad-mobile
 kaskus.co.id##.header__kasad
 kontan.co.id##.heightads250
+stocksetup.kontan.co.id##.heightads600.pad-t.pad-r.pad-l.pad-10
+stocksetup.kontan.co.id##.heightads90.ads-middle-list-news
 malaysiakini.com##.hero_adslot
 cmovieshd.se##.hidden-xs
 bioskop21.co##.hilang2
@@ -559,6 +563,7 @@ nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
+stocksetup.kontan.co.id##.text-center.center.width-px-1100
 bioskopgalaxy21.com,indostreamings.xyz,semi168.xyz,tvkabel.net##.textwidget
 bioskop007.club##.textwidget > p
 bioskoptigalima.com,icinema3satu.net##.textwidget img
@@ -679,8 +684,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-stocksetup.kontan.co.id##.heightads90.ads-middle-list-news
-stocksetup.kontan.co.id##.heightads600.pad-t.pad-r.pad-l.pad-10
-stocksetup.kontan.co.id##.text-center.center.width-px-1100
-stocksetup.kontan.co.id###div-Skycrapper-Stocksetup
-stocksetup.kontan.co.id###dablewidget_RoOGdzom
