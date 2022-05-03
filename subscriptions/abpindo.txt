@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202205031100
+! Version: 202205031336
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 03 May 2022 11:00 UTC
+! Last modified: 03 May 2022 13:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -738,6 +738,7 @@ totolink.id#@#.social-circle
 ###ads_banner_left1
 ###ads_banner_right
 ###ads_hd_bt
+###ads_top_list
 ###adsbawah1
 ###adsimgxatas
 ###adsimgxatass
@@ -985,11 +986,9 @@ harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 80.209.252.146###ads-pop
 downloadfilmbaru.com###ads-stack
-premierexxi.com###ads_top_list
 139.99.33.192###adsimgxatas2
 139.99.33.192###adsimgxbawah
 kontan.co.id###adsoutsream
-tvkabel.net###adv
 unixmen.com###an-Modal
 tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
@@ -1000,7 +999,6 @@ tempointeraktif.com###banner-bawah
 duniaku.net###banner-popup-desktop
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
-panduanpercuma.info###banner125
 hdtvku.com###bannerkategoriheader
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
 tribunnews.com###bannerku
@@ -1152,7 +1150,6 @@ indoxx1.pw###popup
 anoboy.digital,anoboy.media,anoboy.watch###popup_bawah
 anoboy.digital,anoboy.media,anoboy.watch###popup_box
 cafecinema.cc,dramamu.net,lk21.io###popup_content
-amoimovie.com###popupinfoAd1
 layarxxi.online###popuppress-9119
 lk21.li,nonton21.tv###previewBox
 fb21.tv###previewBox1
@@ -1169,9 +1166,8 @@ lk21tv.com###rotating
 youtube-mp3.my###sadl
 youtube-mp3.my###sadr
 animeindo.net###sct_banner_top
-drakorindo.fun###sg-popup-content-wrapper-3560
 cinemaqq.com###sgcboxOverlay
-drakorindo.fun,kazemanga.xyz###sgpb-popup-dialog-main-div-wrapper
+kazemanga.xyz###sgpb-popup-dialog-main-div-wrapper
 nontonfilm88.com###sidebar-right
 cinemaindo.tv###sidebar_right > .side:nth-of-type(5) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(6) > .textwidget
@@ -1339,7 +1335,6 @@ bharian.com.my##.block-bh-googledfp
 gudangpemain.com##.blocker-notice
 gudangpemain.com##.blocker-overlay
 didrakorindo.com,indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-modal
-ceklink.co##.blog-content
 kazefuri.net##.blox
 103.194.171.75,idtube.me##.bm.overlay
 anime17.net,cosmogirl.co.id##.bnr
@@ -1445,7 +1440,6 @@ dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
 b201.info##.lenyap
-belapendidikan.com##.majalahpro-core-floatbanner
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
@@ -1500,7 +1494,6 @@ republika.co.id##.set-ads-468
 kazemanga.xyz##.sg-popup-builder-content
 oploverz.bz##.sg-popup-content
 oploverz.bz##.sgpb-popup-overlay
-drakorindo.fun##.sgpb-popup-overlay.sgpb-popup-overlay-3560.sgpb-theme-6-overlay
 kompas.com##.show.ol_promo
 cinemaindo.com##.side:nth-of-type(7)
 cinemaindo.com##.side:nth-of-type(8)
@@ -1562,7 +1555,6 @@ oploverz.fan##[class^="sgpb-"]
 mydramalist.com##[class^=spnsr-top-]
 mydramalist.com##[class^=spnsr-wrapper-]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
-omberbagi.com##[href$="/omberbagi"]
 nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
 pakbos21.org##[href="//dumbpop.com/help.xml"]
@@ -1617,8 +1609,6 @@ anoboy.org##a[href^="http://www.pencetpoker."]
 anoboy.digital##a[href^="https://144.126.241.203/"]
 animebatch.web.id,animeindo.co,animeku.tv,anoboy.digital,anoboy.org,bioskop168.pro,bioskopbos.com,bioskopkeren.fun,cinemaindo.pro,dramaind.com,dunia21.top,eka.web.id,filmbioskop21.com,idxxi.co,indoxxi.top,kazefuri.web.id,layarindo21.pro,lk-21.me,lk21c.fun,lk21indo.co,lk21n.com,lk21xxi.co,mangaku.in,mangashiro.net,neonime.net,nontonbioskop21.org,nontondramas.com,nontongratis88.net,nontonsub.com,ns21.club,otakufile.com,subindo.id##a[href^="https://bit.ly/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,drakorindo.tv,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,serunonton.com##a[href^="https://goo.gl/"]
-torjack.net##a[href^="https://mypayingads.com"]
-ytssubtitles.com##a[href^="https://oxhax.com/"]
 lk21c.fun##a[href^="https://rebrand.ly/"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
 awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
@@ -6663,8 +6653,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]

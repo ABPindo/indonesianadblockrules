@@ -10,6 +10,7 @@
 ###ads_banner_left1
 ###ads_banner_right
 ###ads_hd_bt
+###ads_top_list
 ###adsbawah1
 ###adsimgxatas
 ###adsimgxatass
@@ -240,4 +241,3 @@ giladrakor.com###ouibounce-modal
 ##a[alt="iklan" i]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-###ads_top_list
