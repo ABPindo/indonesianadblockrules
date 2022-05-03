@@ -686,3 +686,4 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 dutafilm.observer##.imgbanner
+149.56.24.226##.warning-modal
