@@ -449,7 +449,7 @@ nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
 awsubs.co##.iklansamping
 ld2tv.com##.img-banner
-103.194.171.75,dutafilm.us##.imgbanner
+103.194.171.75,dutafilm.observer,dutafilm.us##.imgbanner
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 109.234.34.246,ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
@@ -559,6 +559,7 @@ radenku.com##.sticky-ads
 radenku.com##.sticky-ads-content
 www.kompasiana.com##.sticky-right.banner-center.banner-sky.ads__skyscraper.ads
 kabargames.id##.stickybanner
+dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 film21terbaru.org##.teaser3
@@ -578,6 +579,7 @@ mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 hightech.web.id##.wait
+149.56.24.226##.warning-modal
 teknologi.inilah.com##.wb-300x250
 medcom.id##.widebanner.banner
 cdramabase.com##.wpa
@@ -684,6 +686,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-dutafilm.observer##.swal-overlay--show-modal.swal-overlay
-dutafilm.observer##.imgbanner
-149.56.24.226##.warning-modal

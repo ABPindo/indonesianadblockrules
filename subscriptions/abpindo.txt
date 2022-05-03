@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202205011341
+! Version: 202205031100
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 May 2022 13:41 UTC
+! Last modified: 03 May 2022 11:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1420,7 +1420,7 @@ nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
 awsubs.co##.iklansamping
 ld2tv.com##.img-banner
-103.194.171.75,dutafilm.us##.imgbanner
+103.194.171.75,dutafilm.observer,dutafilm.us##.imgbanner
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 109.234.34.246,ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
@@ -1530,6 +1530,7 @@ radenku.com##.sticky-ads
 radenku.com##.sticky-ads-content
 www.kompasiana.com##.sticky-right.banner-center.banner-sky.ads__skyscraper.ads
 kabargames.id##.stickybanner
+dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 film21terbaru.org##.teaser3
@@ -1549,6 +1550,7 @@ mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
 otomotif.kompas.com##.w340.r-ads.right > ul > li
 hightech.web.id##.wait
+149.56.24.226##.warning-modal
 teknologi.inilah.com##.wb-300x250
 medcom.id##.widebanner.banner
 cdramabase.com##.wpa
@@ -1776,6 +1778,7 @@ bioskop78.com##td:nth-of-type(3)
 /JAYAPOKER_*.gif$image
 /JuaraCapsa.gif|$image
 /KaikoSlot.gif|$image
+/Luxury777.mp4|$media
 /MEJAHOKI.gif|$image
 /MacauDewa-$image
 /NIKMATIQQ.$image
@@ -4878,6 +4881,7 @@ totojitu.gif|$image
 ##[href$="/rajasloto"]
 ##[href="https://128.199.178.246/"]
 ##[href="https://172.104.39.221/slots/pragmatic"]
+##[href="https://188.166.222.66/"]
 ##[href="https://beacons.ai/komik4d"]
 ##[href="https://bit.ly/77dragonbanyakmenang"]
 ##[href="https://bit.ly/77lucksmenangbanyak"]
@@ -4886,6 +4890,7 @@ totojitu.gif|$image
 ##[href="https://bit.ly/stars77cepetmenang"]
 ##[href="https://hasil-keluaran-hk.com/redirecting"]
 ##[href="https://indo7bet.biz/"]
+##[href="https://linktr.ee/bigsloto_id"]
 ##[href^="//zukxd6fkxqn.com/"]
 ##[href^="Http://ApiBet."]
 ##[href^="Http://ApiKartu."]
@@ -4904,6 +4909,7 @@ totojitu.gif|$image
 ##[href^="http://128.199.142.177/"]
 ##[href^="http://139.59.96.74"]
 ##[href^="http://142.44.144.187"]
+##[href^="http://143.198.45.189/"]
 ##[href^="http://188.166.64.6"]
 ##[href^="http://188bet."]
 ##[href^="http://1sakong."]
@@ -6148,6 +6154,7 @@ totojitu.gif|$image
 ##[href^="http://www.lapak88."]
 ##[href^="http://www.lapakdewa.cc"]
 ##[href^="http://www.lapakgol."]
+##[href^="http://www.last88as.com/"]
 ##[href^="http://www.lazacasino."]
 ##[href^="http://www.lensa.vip/anichin"]
 ##[href^="http://www.liburpoker."]
@@ -6385,6 +6392,7 @@ totojitu.gif|$image
 ##[href^="https://13.250.221.149/"]
 ##[href^="https://139.99.116.123/"]
 ##[href^="https://167.172.95.197/register"]
+##[href^="https://167.99.30.155/register"]
 ##[href^="https://170.187.225.84/"]
 ##[href^="https://172.104.168.127/register"]
 ##[href^="https://172.104.41.68/register"]
@@ -6444,6 +6452,8 @@ totojitu.gif|$image
 ##[href^="https://capsaratu."]
 ##[href^="https://cdc88.id/"]
 ##[href^="https://cibaibin.com"]
+##[href^="https://dewa-casino.win"]
+##[href^="https://dewavegascasino.win"]
 ##[href^="https://dingdongasia."]
 ##[href^="https://dominowalet99.com"]
 ##[href^="https://elangqq."]
@@ -6653,8 +6663,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-##a[href$="/slots"]
 leon.bet#@#a[href$="/slots"]
+##a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
@@ -7770,7 +7780,9 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="QIUQIU99" i]
 ##img[alt="QQ online" i]
 ##img[alt="QQ101" i]
+##img[alt="QQ188" i]
 ##img[alt="QQ228" i]
+##img[alt="QQ288" i]
 ##img[alt="QQ39bet" i]
 ##img[alt="QQ724" i]
 ##img[alt="QQ801" i]
@@ -7987,6 +7999,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="judi bola online" i]
 ##img[alt="judi online terpercaya" i]
 ##img[alt="judi poker online" i]
+##img[alt="judi slot online" i]
 ##img[alt="judi togel" i]
 ##img[alt="judikartu" i]
 ##img[alt="junior toto" i]
@@ -8005,6 +8018,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="luxury111" i]
 ##img[alt="luxury138" i]
 ##img[alt="macau club poker" i]
+##img[alt="mantul138" i]
 ##img[alt="maxbetqq" i]
 ##img[alt="mejasakong" i]
 ##img[alt="mejavip" i]
@@ -8061,6 +8075,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="situs togel online" i]
 ##img[alt="situs togel" i]
 ##img[alt="slot game" i]
+##img[alt="slot online" i]
 ##img[alt="streaming video bokep" i]
 ##img[alt="superdomino" i]
 ##img[alt="tajirQQ" i]
