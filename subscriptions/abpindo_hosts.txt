@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202205191059
+! Version: 202205191113
 # Title: ABPindo (hosts)
 # Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
 # Last modified: %timestamp%
@@ -14,8 +14,6 @@
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ||05ee3a24ed11df058c8.com^$popup,third-party
-||108.168.231.179^$popup,third-party
-||1486050000.rsc.cdn77.org^
 ||188affiliates.com^$third-party
 ||1b969cef84d93b43.com^
 ||2go7v1nes8.com^
@@ -25,7 +23,6 @@
 ||995db2642d3d852b.com^
 ||9eb10b7a3d04a.com^$popup
 ||9icmzvn6.website^$popup
-||a.brand.ad^$third-party
 ||a63t9o1azf.com^$popup
 ||abrts.pro^$popup,third-party
 ||accesstrade.co.id^$third-party
@@ -34,7 +31,6 @@
 ||addesigner.com^$third-party
 ||adflazz.com^$third-party
 ||admarketplace.net^$popup,third-party
-||admp.io^$third-party
 ||adnety.com^$popup,third-party
 ||adplus.co.id^$third-party
 ||adpop-1.com^$third-party
@@ -66,11 +62,10 @@
 ||azxsd.pro^$popup,third-party
 ||b9645fef65.com^
 ||baliadv.com^$third-party
-||bastingestival.com^
 ||bcajjtbzmdrl.com^$popup
 ||bellaads.com^$third-party
 ||bourranuncurbs.com^
-||browsertelemetry.tk^
+||brand.ad^$third-party
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||cfs.u-ad.info^
@@ -78,10 +73,7 @@
 ||cfs2.uzone.id^
 ||chidsimp.com^$third-party
 ||chqspuonctkgz.com^$popup
-||cjsab.com^$popup,third-party
-||click.eclk.club^$popup
 ||clickmedia.co.id^$third-party
-||clicks.pipaffiliates.com^
 ||clicks.pipaffiliates.com^$popup
 ||compulsivehemisphere.com^$popup
 ||craydark.pw^$third-party
@@ -92,16 +84,11 @@
 ||d824d7f5cbcb0e00.com^
 ||d95d1c685a.6c142df43a.com^
 ||daero.pw^$popup
-||dafa.io^$popup,third-party
 ||dairouzy.net^$popup
 ||dearerfonder.info^$popup,third-party
 ||dewsburg.info^$third-party
-||digiads.co.id^$popup
 ||digiads.co.id^$third-party
-||doathair.com^$third-party
-||domnovrek.com^$third-party
 ||e7393e33565ce805.com^$popup
-||earn-bitcoins.net^$third-party
 ||eclkmpsa.com^$third-party
 ||edomz.com^$third-party
 ||edspectsm.fun^$third-party
@@ -119,7 +106,6 @@
 ||ghaahq.com^
 ||goingsilltrusty.com^
 ||groupiklan.com^$third-party
-||grushashuka.pro^$popup
 ||gudangbanner.com^$third-party
 ||halal.ad^$third-party
 ||hegarberetrof.pro^$popup
@@ -127,10 +113,8 @@
 ||hitadsmedia.com^$third-party
 ||hoegutvie.com^$popup
 ||hosillfir.site^
-||hqchbs.com^
 ||ibnads.xl.co.id^$third-party
 ||ihqfiimrbcf.com^$popup
-||ihqfiimrbcf.com^$xmlhttprequest
 ||iklan-laris.com^$third-party
 ||iklanads.com^$third-party
 ||iklanbarisgratis.com^$third-party
@@ -166,8 +150,6 @@
 ||jjekxle.com^
 ||jnwsrqxrdqct.top^$popup
 ||juruiklan.com^$third-party
-||katukaunamiss.com^
-||katurars.com^$popup
 ||kdbumyha.com^$popup
 ||klikajadeh.com^$third-party
 ||kozoysnsx.com^$popup
@@ -280,19 +262,14 @@
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||whjibbprhng.com^$popup,third-party
-||window-close.cf^$popup,third-party
-||window-close.ga^$popup,third-party
-||wkuave.com^
-||x-tags.net^
 ||yesads.com^$third-party
-||yhig.info^$third-party
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^$third-party
 ||yx-ads6.com^$third-party
 ||zukxd6fkxqn.com^$popup
 ||zuyejecgb.com^$popup
 ! *** abpindo:src/advert/thirdparty.txt ***
-||144.126.241.203^$popup,third-party
+||browsertelemetry.tk^
 ||c-stat.eu^$third-party
 ||cfs1.uzone.id^$third-party
 ||hesftig.site^$third-party
