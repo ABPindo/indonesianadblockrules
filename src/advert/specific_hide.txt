@@ -472,6 +472,7 @@ smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 www.inibaru.id##.mb-4.bg-grey.text-center
+www.kompasiana.com##.mb20.mt20.banner-dable-read.banner
 detik.com##.megabillboard
 kompas.tv##.mgidclsbanner
 dapurpacu.com##.mid-banner
@@ -675,4 +676,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-www.kompasiana.com##.mb20.mt20.banner-dable-read.banner

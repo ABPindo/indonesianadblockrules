@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202205031336
+! Version: 202205191059
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 03 May 2022 13:36 UTC
+! Last modified: 19 May 2022 10:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -163,9 +163,9 @@
 ||jasaiklan.com^$third-party
 ||javaiklan.com^$third-party
 ||jillsclickcorner.com^$third-party
+||jjekxle.com^
 ||jnwsrqxrdqct.top^$popup
 ||juruiklan.com^$third-party
-||kambingjantan.cc/*.gif$domain=manhwalands.xyz
 ||katukaunamiss.com^
 ||katurars.com^$popup
 ||kdbumyha.com^$popup
@@ -295,7 +295,6 @@
 ||144.126.241.203^$popup,third-party
 ||c-stat.eu^$third-party
 ||cfs1.uzone.id^$third-party
-||cutt.ly^$popup,third-party
 ||hesftig.site^$third-party
 ||ktrackdata.com^$popup,third-party
 ||moneyfree.co^$third-party
@@ -504,6 +503,7 @@ iklan300x250.gif|
 ||indoxximovie.com/wp-content/uploads/2020/06/realbola.jpg$image
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||juragan21.com/wp-content/uploads/*.gif$image
+||kambingjantan.cc/*.gif$domain=manhwalands.xyz
 ||kampus.us/banners/
 ||kaskus.co.id/images/banner-wap/
 ||kaskus.com/images/banner-wap/
@@ -598,6 +598,7 @@ iklan300x250.gif|
 ||tribunnews.com/stylesheets/close.gif
 ||ttgambar.xyz$popup
 ||tvkabel.net/prom/*.gif$image
+||ultima7.fun^$popup,third-party
 ||upload.coblos.net/images/*.gif$image
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
@@ -1444,6 +1445,7 @@ smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 www.inibaru.id##.mb-4.bg-grey.text-center
+www.kompasiana.com##.mb20.mt20.banner-dable-read.banner
 detik.com##.megabillboard
 kompas.tv##.mgidclsbanner
 dapurpacu.com##.mid-banner
