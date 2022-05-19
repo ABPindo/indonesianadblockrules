@@ -76,7 +76,6 @@
 ###myadsmodal
 ###netkevin-overlay
 ###netkevin-popup
-giladrakor.com###ouibounce-modal
 ###pbanner
 ###popupwindow
 ###srcadsurlblock
@@ -200,6 +199,7 @@ giladrakor.com###ouibounce-modal
 ##.iklanpusat
 ##.iklanright
 ##.iklanx1
+##.ikltop
 ##.infeed-ads
 ##.inside-player-ad
 ##.ivs-overlay-adcontainer
@@ -241,4 +241,3 @@ giladrakor.com###ouibounce-modal
 ##a[alt="iklan" i]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-##.ikltop

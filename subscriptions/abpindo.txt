@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202205191207
+! Version: 202205191215
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 19 May 2022 12:07 UTC
+! Last modified: 19 May 2022 12:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -800,7 +800,6 @@ totolink.id#@#.social-circle
 ###myadsmodal
 ###netkevin-overlay
 ###netkevin-popup
-giladrakor.com###ouibounce-modal
 ###pbanner
 ###popupwindow
 ###srcadsurlblock
@@ -924,6 +923,7 @@ giladrakor.com###ouibounce-modal
 ##.iklanpusat
 ##.iklanright
 ##.iklanx1
+##.ikltop
 ##.infeed-ads
 ##.inside-player-ad
 ##.ivs-overlay-adcontainer
@@ -1133,7 +1133,7 @@ cafecinema.cc,dramamu.net,lk21.world,sidrama.com###netkevin-overlay
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
 detik.com###otp_banner
-drakorindo.best,gatsunime.org,layarkeren.site###ouibounce-modal
+drakorindo.best,gatsunime.org,giladrakor.com,layarkeren.site###ouibounce-modal
 149.56.24.226,kricom.id###overlay
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
@@ -6403,6 +6403,7 @@ totojitu.gif|$image
 ##[href^="https://54.151.184.106/id-ID/Member/Register/"]
 ##[href^="https://54.179.243.161"]
 ##[href^="https://54.251.104.51/"]
+##[href^="https://69702145.xyz/"]
 ##[href^="https://6kartudewa.net/"]
 ##[href^="https://77hoki.com"]
 ##[href^="https://91.233.198.25/"]
