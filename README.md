@@ -7,7 +7,7 @@ ABPindo merupakan filter tambahan untuk melengkapi filter internasional seperti 
 - Tampilan lebih bersih </br>
 Kita bisa lebih fokus terhadap konten website, tanpa risih atau terganggu oleh iklan.
 - Terjaga dari penipuan </br>
-Banyak iklan yang membaur bahkan menyamar menjadi tombol pembaruan program/ tombol download, setidaknya kita dapat terhindar dari penipuan.
+Banyak iklan yang membaur bahkan menyamar menjadi tombol pembaruan program/tombol download, setidaknya kita dapat terhindar dari penipuan.
 - Lebih cepat </br>
 Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas. Tanpa iklan tersebut waktu membuka laman web menjadi lebih singkat.
 
@@ -31,7 +31,7 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 |Adblocker-syntax domains [(AdGuard Home)](https://github.com/AdguardTeam/AdGuardHome)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome_annoyance.txt)|`\|\|example.com^`|
 |[Dnsmasq1](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance.txt)|`address=/example.com/0.0.0.0`|
 |[Dnsmasq2](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_server.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_annoyance_server.txt)|`server=/example.com/`|
-|RPZ (Respone Policy Zone) [BIND](https://gitlab.isc.org/isc-projects/bind9.git)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz_annoyance.txt)|`example.com CNAME .`|
+|RPZ (Response Policy Zone) [BIND](https://gitlab.isc.org/isc-projects/bind9.git)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz_annoyance.txt)|`example.com CNAME .`|
 
 Keterangan:
 - *Filter default yang terdiri dari domain ABPindo_adserver dan ABPindo_third-party.
