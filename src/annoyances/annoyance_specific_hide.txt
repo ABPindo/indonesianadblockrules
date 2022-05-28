@@ -45,3 +45,4 @@ hentai2read.com##a[href^="//www.nutaku.net/signup/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
+194.233.87.224##.banner-img
