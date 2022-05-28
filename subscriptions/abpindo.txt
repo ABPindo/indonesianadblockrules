@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202205191215
+! Version: 202205280046
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 19 May 2022 12:15 UTC
+! Last modified: 28 May 2022 00:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -166,6 +166,7 @@
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
 ||topsurfer.com^$third-party
+||traditionallyobjectlessblinked.com^$popup
 ||u-ad.info^
 ||u-on.eu^$popup,third-party
 ||uadexchange.com^$third-party
@@ -925,6 +926,7 @@ totolink.id#@#.social-circle
 ##.iklanx1
 ##.ikltop
 ##.infeed-ads
+##.inner-floatbanner-bottom
 ##.inside-player-ad
 ##.ivs-overlay-adcontainer
 ##.ivs-overlay-ads
@@ -1423,7 +1425,7 @@ kompas.com##.kcm
 kompas.com##.kcm-track-sticky
 kompas.com##.kcm__articleList
 apk.miuiku.com,lewat.club##.klikdisini
-anoboy.id,kazefuri.net,kiryuu.id,komikindo.me,mangakita.net,mangashiro.net,nontondramaseri.com##.kln
+anoboy.id,kazefuri.net,kiryuu.id,komikindo.me,mangakita.net,mangashiro.net,mareceh.com,nontondramaseri.com##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -1944,10 +1946,12 @@ bioskop78.com##td:nth-of-type(3)
 /menangqq-$image
 /merdeka99.$image
 /merdekabet365.$image
+/mildcasino.gif$image
 /misiqq-$image
 /mitrahoki-$image
 /mobapoker-$image
 /modalqq.gif$image
+/modalqq.webp$image
 /mustikapoker-$image
 /mutiarapoker-$image
 /muvibet-$image
@@ -2025,6 +2029,7 @@ bioskop78.com##td:nth-of-type(3)
 /totojek-$image
 /transqq.gif$image
 /unitogel-$image
+/unovegas.gif$image
 /uploads/*/Ahabet-$image
 /uploads/*/Indotogel-$image
 /uploads/*/TOTOBET-$image
@@ -4870,11 +4875,16 @@ totojitu.gif|$image
 ##[href="https://172.104.39.221/slots/pragmatic"]
 ##[href="https://188.166.222.66/"]
 ##[href="https://beacons.ai/komik4d"]
+##[href="https://bit.ly/3MkSOdI"]
 ##[href="https://bit.ly/77dragonbanyakmenang"]
 ##[href="https://bit.ly/77lucksmenangbanyak"]
+##[href="https://bit.ly/KaikoSLOT"]
+##[href="https://bit.ly/PentaSLOT"]
+##[href="https://bit.ly/Rusia777"]
 ##[href="https://bit.ly/joker99menangterus"]
 ##[href="https://bit.ly/luck99gacorbanget"]
 ##[href="https://bit.ly/rusia777"]
+##[href="https://bit.ly/sLot235"]
 ##[href="https://bit.ly/slot235"]
 ##[href="https://bit.ly/stars77cepetmenang"]
 ##[href="https://hasil-keluaran-hk.com/redirecting"]
@@ -5138,6 +5148,7 @@ totojitu.gif|$image
 ##[href^="http://cashburners."]
 ##[href^="http://casinoitu."]
 ##[href^="http://casinosport88."]
+##[href^="http://casinovegas88.win/"]
 ##[href^="http://cbnpoker88."]
 ##[href^="http://cbopoker88d.com"]
 ##[href^="http://cekakses."]
@@ -5169,6 +5180,7 @@ totojitu.gif|$image
 ##[href^="http://dahsyatqq."]
 ##[href^="http://depodomino."]
 ##[href^="http://detikbet."]
+##[href^="http://dewa-casino.win/"]
 ##[href^="http://dewaboya."]
 ##[href^="http://dewadominoqq."]
 ##[href^="http://dewahoki."]
@@ -5659,6 +5671,7 @@ totojitu.gif|$image
 ##[href^="http://prediksitogeljitu."]
 ##[href^="http://premier188."]
 ##[href^="http://probet.biz"]
+##[href^="http://probet188.org/"]
 ##[href^="http://probet228.com"]
 ##[href^="http://probet228.org"]
 ##[href^="http://probet24.site"]
@@ -6379,6 +6392,7 @@ totojitu.gif|$image
 ##[href^="http://zynga365."]
 ##[href^="http://zyngaqq."]
 ##[href^="https://1001win.loan/"]
+##[href^="https://126845.cc/"]
 ##[href^="https://128.199.132.128/"]
 ##[href^="https://128.199.25.237/"]
 ##[href^="https://13.250.221.149/"]
@@ -6403,6 +6417,7 @@ totojitu.gif|$image
 ##[href^="https://54.151.184.106/id-ID/Member/Register/"]
 ##[href^="https://54.179.243.161"]
 ##[href^="https://54.251.104.51/"]
+##[href^="https://69702145.net"]
 ##[href^="https://69702145.xyz/"]
 ##[href^="https://6kartudewa.net/"]
 ##[href^="https://77hoki.com"]
@@ -6454,6 +6469,7 @@ totojitu.gif|$image
 ##[href^="https://fivestarsbet.com"]
 ##[href^="https://fundomino."]
 ##[href^="https://fundominoqq."]
+##[href^="https://grubhub.pro"]
 ##[href^="https://habaneroslot."]
 ##[href^="https://hahatogel.net"]
 ##[href^="https://hokianda.com"]
@@ -6464,6 +6480,7 @@ totojitu.gif|$image
 ##[href^="https://indobet77.xyz"]
 ##[href^="https://indoqq168.com"]
 ##[href^="https://indoxbet.com"]
+##[href^="https://investopedia.link"]
 ##[href^="https://jcapsa.com"]
 ##[href^="https://judiayambangkok.net"]
 ##[href^="https://k9win-indonesia.com"]
@@ -6656,8 +6673,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-##a[href$="/slots"]
 leon.bet#@#a[href$="/slots"]
+##a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
@@ -7535,6 +7552,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="DOYAN99" i]
 ##img[alt="DRAGONPOKER88" i]
 ##img[alt="DUFANQQ" i]
+##img[alt="DWVGAMING" i]
 ##img[alt="Dewataqq" i]
 ##img[alt="DivaQQ" i]
 ##img[alt="Domino 99" i]
@@ -7974,6 +7992,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="hokiQQ" i]
 ##img[alt="hokisport" i]
 ##img[alt="hoyajackpot" i]
+##img[alt="iklan JadwalBola" i]
 ##img[alt="iklan qqangpao" i]
 ##img[alt="iklan ratu" i]
 ##img[alt="imcceme " i]
@@ -8265,6 +8284,8 @@ leon.bet#@#a[href$="/slots"]
 ||krucil.net/banner/
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||sodasusu.com/banner/
+||vast.pornhd.asia/bmama/dewavegas.gif$image
+||vast.pornhd.asia/bnl/*.gif$image,third-party
 ! *** abpindo:src/annoyances/annoyance_specific_hide.txt ***
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 perawabokep.cam,perawanbokep.cam###ads
@@ -8277,7 +8298,7 @@ unyil.net###float-atas
 75.119.147.12###floating_banner_top1
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
-manhwaid.org###ouibounce-modal
+indosemi45.org,manhwaid.org###ouibounce-modal
 iyottube.com###playerOverlay
 susterbokep.com###right_ads_float_phonedevelop
 gadismalam.net###semprot_ads_side_left
@@ -8295,9 +8316,11 @@ indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 semprot.com#@#.adVertical
 mediahiburan.my##.adplaceholder-mrec
+154.26.132.73,194.233.87.224##.banner-img
 manhwahentai.me,manytoon.com,www.webtoon.xyz##.c-ads.ad
 bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
+indosemi45.org##.idmuvi-banner-beforecontent
 manhwalist.com##.kln
 manhwaland.top##.kln.mlb.blox
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
