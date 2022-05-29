@@ -11,6 +11,7 @@
 ! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
 ! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
 ! 
+! Redirect: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noadult.txt
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ||188affiliates.com^$third-party
