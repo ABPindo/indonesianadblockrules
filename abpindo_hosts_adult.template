@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-# Title: ABPindo (hosts)
+# Title: ABPindo (hosts adult)
 # Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
 # Last modified: %timestamp%
 # Expires: 4 days (update frequency)
@@ -13,6 +13,5 @@
 !---------------------- advert blocking filters ----------------------!
 %include abpindo:src/advert/adservers.txt%
 %include abpindo:src/advert/thirdparty.txt%
-!--------------------------- annoyances ------------------------------!
-%include abpindo:src/annoyances/annoyance_thirdparty.txt%
-%include abpindo:src/annoyances/annoyance_prank.txt%
+!--------------------------- adult ------------------------------!
+%include abpindo:src/adult/adult_thirdparty.txt%

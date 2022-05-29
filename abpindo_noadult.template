@@ -15,9 +15,9 @@
 %include abpindo:src/advert/thirdparty.txt%
 %include abpindo:src/advert/general_block.txt%
 %include abpindo:src/advert/specific_block.txt%
-%include abpindo:src/advert/snippet _adblockplus.txt%
+%include abpindo:src/advert/snippet_adblockplus.txt%
 %include abpindo:src/advert/scriptlet_ublock.txt%
-%include abpindo:src/advert/whitelist.txt%
+%include abpindo:src/advert/allowlist.txt%
 !----------------------- element hiding rules ------------------------!
 %include abpindo:src/advert/general_hide.txt%
 %include abpindo:src/advert/specific_hide.txt%
