@@ -58,6 +58,7 @@ ggwp.id###detailSkinAdRight
 bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
+www.parapuan.co###div-Inside-MediumRectangle
 blog.tribunjualbeli.com,tribunnews.com###div-Right-MediumRectangle-1
 makassar.tribunnews.com###div-Right-MediumRectangle-3
 stocksetup.kontan.co.id###div-Skycrapper-Stocksetup
@@ -246,6 +247,7 @@ indoxximovie.com##._ning_link.strack_cli
 clip.cewecewe.com##.ad
 senimovie.info,senimovies.net##.ad-float-image
 wartaekonomi.co.id##.ad-inventory-wrapper
+www.parapuan.co##.ad-photo
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
 loveindonesia.com##.ad_990_80
@@ -286,6 +288,7 @@ gridoto.com##.ads__stick--left
 gridoto.com##.ads__stick--right
 gridoto.com##.ads_below_photo
 grid.id##.ads_sky
+duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
 eramuslim.com##.adsbyadop
 apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
@@ -402,11 +405,14 @@ kompas.com##.clearfix.kcm__tower.kcm
 kompas.com##.clearfix.kcm__track.kcm
 tempo.co##.closebanner1
 tempo.co##.closebanner2
+www.parapuan.co##.cls-outstream
 inidramaku.net##.cm-popup-modal
 windowsreport.com##.code-block-3.code-block
 dream.co.id##.col-banner
 ganool.is,ganool.ph,ganool.se,ganool.st##.col-xs-12.col-md-6.col-lg-6
 indoxxi.net##.coliklan
+www.parapuan.co##.commSkin__fluid--left.commSkin__fluid
+www.parapuan.co##.commSkin__fluid--right.commSkin__fluid
 kompas.tv##.container_skinad
 tribunnews.com##.content [style="width:160px; height:600px;"]
 nontonplus.com##.content-kuss-ikln
@@ -473,6 +479,7 @@ mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 www.inibaru.id##.mb-4.bg-grey.text-center
 www.kompasiana.com##.mb20.mt20.banner-dable-read.banner
+www.parapuan.co##.mb3.gpt-ad-head-wrapper.widget
 detik.com##.megabillboard
 kompas.tv##.mgidclsbanner
 dapurpacu.com##.mid-banner
@@ -518,6 +525,7 @@ indoxxi.top##.reklam-goster-sol
 unixmen.com##.reveal-modal-bg
 dwanonton.com##.right.banner-vertical
 senimovie.info##.rsABlock
+duwitmu.com##.section_sticky_ads_bottom
 semprot.com##.semprotnenenmontok_2
 republika.co.id##.set-ads-468
 kazemanga.xyz##.sg-popup-builder-content
@@ -676,11 +684,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-duwitmu.com##.section_sticky_ads_bottom
-duwitmu.com##.ads_square_banner
-www.parapuan.co##.commSkin__fluid--left.commSkin__fluid
-www.parapuan.co##.mb3.gpt-ad-head-wrapper.widget
-www.parapuan.co##.commSkin__fluid--right.commSkin__fluid
-www.parapuan.co##.ad-photo
-www.parapuan.co###div-Inside-MediumRectangle
-www.parapuan.co##.cls-outstream
