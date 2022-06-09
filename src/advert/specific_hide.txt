@@ -678,3 +678,9 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 duwitmu.com##.section_sticky_ads_bottom
 duwitmu.com##.ads_square_banner
+www.parapuan.co##.commSkin__fluid--left.commSkin__fluid
+www.parapuan.co##.mb3.gpt-ad-head-wrapper.widget
+www.parapuan.co##.commSkin__fluid--right.commSkin__fluid
+www.parapuan.co##.ad-photo
+www.parapuan.co###div-Inside-MediumRectangle
+www.parapuan.co##.cls-outstream
