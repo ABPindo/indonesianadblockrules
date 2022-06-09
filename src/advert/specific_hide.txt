@@ -684,3 +684,11 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+www.sonora.id##.banner__top.banner
+www.sonora.id##.banner__giant.banner
+www.sonora.id##.banner__right.banner
+www.sonora.id##.banner__left.banner
+www.sonora.id##.banner-skin--right
+www.sonora.id##.banner-skin--left
+www.sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
+www.sonora.id###div-Inside-MediumRectangle
