@@ -58,7 +58,7 @@ ggwp.id###detailSkinAdRight
 bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
-www.parapuan.co###div-Inside-MediumRectangle
+www.parapuan.co,www.sonora.id###div-Inside-MediumRectangle
 blog.tribunjualbeli.com,tribunnews.com###div-Right-MediumRectangle-1
 makassar.tribunnews.com###div-Right-MediumRectangle-3
 stocksetup.kontan.co.id###div-Skycrapper-Stocksetup
@@ -327,6 +327,8 @@ www.kompasiana.com##.banner-right-big.banner
 www.kompasiana.com##.banner-right.banner
 dream.co.id##.banner-sc
 dream.co.id##.banner-sc2
+www.sonora.id##.banner-skin--left
+www.sonora.id##.banner-skin--right
 modifikasi.com##.banner-top
 suara.com##.banner-top-m.widget-ads-top
 oktavita.com##.banner-zone
@@ -345,6 +347,10 @@ kompas.com##.bannerR3
 kompas.com##.bannerR3A
 indonesiasatu.kompas.com##.bannerTop1
 kompas.com##.bannerTopOut
+www.sonora.id##.banner__giant.banner
+www.sonora.id##.banner__left.banner
+www.sonora.id##.banner__right.banner
+www.sonora.id##.banner__top.banner
 lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
@@ -453,7 +459,7 @@ ld2tv.com##.img-banner
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 109.234.34.246,ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
-motorplus-online.com##.js-tower-sticky.clearfix.kcm__tower.kcm
+motorplus-online.com,www.sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
 indoxx1.art,indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
@@ -684,11 +690,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-www.sonora.id##.banner__top.banner
-www.sonora.id##.banner__giant.banner
-www.sonora.id##.banner__right.banner
-www.sonora.id##.banner__left.banner
-www.sonora.id##.banner-skin--right
-www.sonora.id##.banner-skin--left
-www.sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
-www.sonora.id###div-Inside-MediumRectangle

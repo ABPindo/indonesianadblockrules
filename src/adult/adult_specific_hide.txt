@@ -23,6 +23,7 @@ videocrot.org###text-30 > .textwidget
 videocrot.org###text-6 > .textwidget
 158.69.0.212###top-banner
 nontonbokeps.com###under-video-ads
+lonteku.sbs###wpb_overlay
 indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 semprot.com#@#.adVertical
@@ -39,8 +40,7 @@ susterbokep.com##.overlay
 bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
+lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-lonteku.sbs###wpb_overlay
-lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
