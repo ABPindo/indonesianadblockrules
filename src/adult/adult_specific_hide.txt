@@ -42,3 +42,5 @@ ibugil.net##.semprotpokemon_2
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
+lonteku.sbs###wpb_overlay
+lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
