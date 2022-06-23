@@ -98,7 +98,7 @@
 ||gets.kadal.club/js/getlinkz.js$script,domain=alex71.com
 ||gm21.xyz/wp-content/uploads/*.gif$image,~third-party
 ||gmovies.org/wp-content/uploads/*.gif$image
-||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com
+||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com|manhwaindo.id
 ||googleusercontent.com$domain=80.209.252.146
 ||grandxxi.*/img/banner/*.gif$image
 ||gsshop.co.id^*/background/banner-
