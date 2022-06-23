@@ -111,6 +111,7 @@
 /Banner-Suhubola-$image,third-party
 /Betcoin-$image
 /DEWABANDAR-$image
+/DEWALIVE_$image
 /Dazbet.gif$image
 /HOKI69.gif|$image
 /IBCDOMINO.gif$image
@@ -127,6 +128,7 @@
 /PURIBET.gif|$image
 /PentaSlot.gif|$image
 /Poker228.gif|$image
+/SBOBETMAIN-$image
 /TOTOKL-NEW.gif$image
 /TelurQQ.gif|$image
 /TradisiBet_$image
@@ -437,5 +439,3 @@ sbobetqq.gif|$image
 spbet.gif|$image
 suhubola.gif|$image
 totojitu.gif|$image
-/SBOBETMAIN-$image
-/DEWALIVE_$image
