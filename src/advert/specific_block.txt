@@ -246,5 +246,6 @@
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||yxcblckd.com^$domain=komikcast.com
 ||65.108.132.145/wp-content/uploads/*.gif$image,~third-party
+||beritabaru.news/sc/detect-click.js
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
