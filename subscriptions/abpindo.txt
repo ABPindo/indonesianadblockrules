@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202206230904
+! Version: 202207012354
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 23 Jun 2022 09:04 UTC
+! Last modified: 01 Jul 2022 23:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -4885,6 +4885,7 @@ totojitu.gif|$image
 ##.happypoker
 ##.judi
 ##.togel
+##[href$=".win/simantan"]
 ##[href$="/AgenIDNPoker" i]
 ##[href$="/bandarpokerpulsa"]
 ##[href$="/casino"]
@@ -4955,6 +4956,7 @@ totojitu.gif|$image
 ##[href^="http://365indoqiu."]
 ##[href^="http://365kiu."]
 ##[href^="http://365qiuqiu."]
+##[href^="http://388hero.link/register/9FDF0D11"]
 ##[href^="http://388poker."]
 ##[href^="http://396club."]
 ##[href^="http://45.63.19.229"]
@@ -5134,6 +5136,7 @@ totojitu.gif|$image
 ##[href^="http://bintangbola."]
 ##[href^="http://bintangcapsa."]
 ##[href^="http://bisa88."]
+##[href^="http://bisnis4d.link/register/W37JB9DW"]
 ##[href^="http://bisnishandal."]
 ##[href^="http://bit.ly/airasiabet"]
 ##[href^="http://bit.ly/duniabet"]
@@ -5267,6 +5270,7 @@ totojitu.gif|$image
 ##[href^="http://elangpoker365.com/"]
 ##[href^="http://elangqq."]
 ##[href^="http://en.dompetbola."]
+##[href^="http://enakbet.link/register/582613D4"]
 ##[href^="http://enjoydepo."]
 ##[href^="http://enjoydomino."]
 ##[href^="http://enjoyhoki."]
@@ -5876,6 +5880,7 @@ totojitu.gif|$image
 ##[href^="http://tfp.sapphirum."]
 ##[href^="http://tgks.vip"]
 ##[href^="http://themobiletracker."]
+##[href^="http://timnas138.link/register/YK4J65P0"]
 ##[href^="http://togel381.com/"]
 ##[href^="http://togel777."]
 ##[href^="http://togelbet."]
@@ -6518,6 +6523,7 @@ totojitu.gif|$image
 ##[href^="https://habaneroslot."]
 ##[href^="https://hahatogel.net"]
 ##[href^="https://hokianda.com"]
+##[href^="https://ibcdomino88.org/"]
 ##[href^="https://ibcpoker.org"]
 ##[href^="https://icon338.cc/"]
 ##[href^="https://id.maindulu77.com"]
@@ -6572,6 +6578,7 @@ totojitu.gif|$image
 ##[href^="https://pusbet7.com/"]
 ##[href^="https://qqangpao."]
 ##[href^="https://qqemas."]
+##[href^="https://qqliga338.cc/"]
 ##[href^="https://qqrolet77.com"]
 ##[href^="https://qqsedia."]
 ##[href^="https://qqturbo.pw"]
