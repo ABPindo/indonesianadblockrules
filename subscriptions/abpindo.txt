@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202207012354
+! Version: 202207020044
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Jul 2022 23:54 UTC
+! Last modified: 02 Jul 2022 00:44 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1782,6 +1782,7 @@ bioskop78.com##td:nth-of-type(3)
 /Dazbet.gif$image
 /HOKI69.gif|$image
 /IBCDOMINO.gif$image
+/IDRBET.gif$image
 /ITCBET.gif|$image
 /JAYAPOKER_*.gif$image
 /JuaraCapsa.gif|$image
@@ -1900,6 +1901,7 @@ bioskop78.com##td:nth-of-type(3)
 /hoki365-$image
 /hokibet-$image
 /hokicash-$image
+/iacbet-$image
 /ibcqq.$image
 /ibetwin.gif|$image
 /iblis4d-$image
@@ -2035,6 +2037,7 @@ bioskop78.com##td:nth-of-type(3)
 /sbysport_$image
 /seksipoker-$image
 /selebtoto.$image
+/sexysloto.gif$image
 /sifujudi-$image
 /simpatiqq-$image
 /sogopoker-$image
@@ -4890,12 +4893,17 @@ totojitu.gif|$image
 ##[href$="/bandarpokerpulsa"]
 ##[href$="/casino"]
 ##[href$="/cewekgenit"]
+##[href$="/duniabet"]
 ##[href$="/emas188manhwaland"]
 ##[href$="/ibetwinasia"]
 ##[href$="/itudomid"]
 ##[href$="/jambulmemek"]
 ##[href$="/mahadewa88"]
 ##[href$="/rajasloto"]
+##[href="http://3vip.club/tantenakal"]
+##[href="http://7mter.pw/abgcrot"]
+##[href="http://7mter.pw/tantenakal"]
+##[href="http://mldc.me/indocabe"]
 ##[href="http://unvg.me/simantan"]
 ##[href="https://128.199.178.246/"]
 ##[href="https://157.245.201.128/"]
@@ -4925,6 +4933,7 @@ totojitu.gif|$image
 ##[href="https://klik.fun/ngefilm2188"]
 ##[href="https://klik.fun/ngefilm88"]
 ##[href="https://linktr.ee/bigsloto_id"]
+##[href="https://linktr.ee/gacor88_id"]
 ##[href="https://rebrand.ly/mesinGOCROT"]
 ##[href="https://tinyurl.com/maniaslot88"]
 ##[href^="//zukxd6fkxqn.com/"]
@@ -6050,6 +6059,7 @@ totojitu.gif|$image
 ##[href^="http://www.bolahaha.net/"]
 ##[href^="http://www.bolalabo."]
 ##[href^="http://www.bolasuhu."]
+##[href^="http://www.boshepoker.uno/"]
 ##[href^="http://www.bosspkr."]
 ##[href^="http://www.boya13."]
 ##[href^="http://www.bromopk."]
@@ -6219,6 +6229,7 @@ totojitu.gif|$image
 ##[href^="http://www.ligakita."]
 ##[href^="http://www.ligapkv."]
 ##[href^="http://www.ligapojok."]
+##[href^="http://www.lolipoker.xyz/"]
 ##[href^="http://www.lotusbola."]
 ##[href^="http://www.luckypoker188."]
 ##[href^="http://www.luxury138zz."]
@@ -6550,6 +6561,7 @@ totojitu.gif|$image
 ##[href^="https://livehkpools."]
 ##[href^="https://lotustogel."]
 ##[href^="https://luxury138."]
+##[href^="https://m.ultima7.club/register"]
 ##[href^="https://m.ultima7.fun/register"]
 ##[href^="https://m303bet."]
 ##[href^="https://makelarjudi."]
@@ -6632,12 +6644,14 @@ totojitu.gif|$image
 ##[href^="https://www.bdrqq."]
 ##[href^="https://www.bejototo."]
 ##[href^="https://www.boladunia88bet."]
+##[href^="https://www.boshepoker.art/"]
 ##[href^="https://www.buanabet."]
 ##[href^="https://www.cantikpkr.com"]
 ##[href^="https://www.capsa228."]
 ##[href^="https://www.capsaq."]
 ##[href^="https://www.cbogaming.com"]
 ##[href^="https://www.dewaqq."]
+##[href^="https://www.fafafagacor.club"]
 ##[href^="https://www.fafafaslot."]
 ##[href^="https://www.gilapoker.asia"]
 ##[href^="https://www.h8indo."]
@@ -6657,6 +6671,7 @@ totojitu.gif|$image
 ##[href^="https://www.lapak.poker/"]
 ##[href^="https://www.lautpoker."]
 ##[href^="https://www.login9bet.club"]
+##[href^="https://www.lux138.shop/register"]
 ##[href^="https://www.mahadewapkr."]
 ##[href^="https://www.md88.bet"]
 ##[href^="https://www.mdewa.com"]
@@ -7468,6 +7483,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="ADUQQ" i]
 ##img[alt="AFAPOKER" i]
 ##img[alt="AGEN JUDI" i]
+##img[alt="AGEN LAPAKQQ" i]
 ##img[alt="AGENQQ365" i]
 ##img[alt="AGUNGQQ" i]
 ##img[alt="AHABET" i]
@@ -7655,12 +7671,14 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="HeloQQ" i]
 ##img[alt="Hoki Slot" i]
 ##img[alt="IAC bet" i]
+##img[alt="IACBET" i]
 ##img[alt="IBCQQ" i]
 ##img[alt="IBUQQ" i]
 ##img[alt="ID88.Com" i]
 ##img[alt="IDN POKER ONLINE" i]
 ##img[alt="IDNCASH" i]
 ##img[alt="IDOLAQQ" i]
+##img[alt="IDRBET" i]
 ##img[alt="IDRPOKER" i]
 ##img[alt="ILMU99" i]
 ##img[alt="IMCPOKER" i]
@@ -7763,6 +7781,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="MASTERKIU" i]
 ##img[alt="MASTERPOKER88" i]
 ##img[alt="MASTERPOKERQQ" i]
+##img[alt="MASTERQQ" i]
 ##img[alt="MATAQQ" i]
 ##img[alt="MEDANQQ" i]
 ##img[alt="MEGAPOKER88" i]
@@ -7922,6 +7941,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="SEPAKBOLACC" i]
 ##img[alt="SERVERPKV" i]
 ##img[alt="SHINCHANPOKER" i]
+##img[alt="SLOTKING69" i]
 ##img[alt="SMSQQ" i]
 ##img[alt="SOSMEDQQ" i]
 ##img[alt="STARS77" i]
@@ -8137,6 +8157,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="senibet" i]
 ##img[alt="senyumqq" i]
 ##img[alt="sepakbola.cc" i]
+##img[alt="sexysloto" i]
 ##img[alt="sifujudi" i]
 ##img[alt="situs agen domino" i]
 ##img[alt="situs agen poker" i]
@@ -8177,6 +8198,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt^="Game Poker Online" i]
 ##img[alt^="IDN Poker" i]
 ##img[alt^="Live Casino Online" i]
+##img[alt^="PARISBOLA" i]
 ##img[alt^="POKERBOYA" i]
 ##img[alt^="Poker Bola" i]
 ##img[alt^="SEPAKBOLACC" i]
