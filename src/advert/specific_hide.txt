@@ -403,6 +403,7 @@ sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 gridoto.com##.clearfix.ads__top-big250
+www.kompasiana.com##.clearfix.banner-horizontal.ads-horizontal
 kompas.com##.clearfix.kcm__big.kcm
 kompas.com##.clearfix.kcm__rectangle.kcm
 kompas.com##.clearfix.kcm__sticky.kcm
@@ -691,4 +692,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-www.kompasiana.com##.clearfix.banner-horizontal.ads-horizontal
