@@ -51,10 +51,10 @@ Lingkungan pengujian Kami sebagai berikut:
 
 ## Bagi pengembang
 - [Kebijakan ABPindo tentang iklan](https://easylist.to/pages/policy.html)
-- [Adblock Plus filters explained](https://adblockplus.org/filter-cheatsheet)
+- [How to write filters | Adblock Plus Help Center](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
 - [uBlock Static filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
-- [DNS filtering rules syntax | AdGuard Knowledgebase](https://kb.adguard.com/en/general/dns-filtering-syntax)
-- [Python-abp : utilities untuk rendering filter ABPindo](https://github.com/adblockplus/python-abp)
+- [DNS filtering rules syntax | AdGuard DNS Knowledge Base](https://adguard-dns.io/kb/general/dns-filtering-syntax/)
+- [Python-abp : utilitas untuk rendering filter ABPindo](https://github.com/adblockplus/python-abp)
 - Prasyarat: [Python](https://www.python.org/downloads/), [pip](https://pypi.org/project/pip/)
 
 ## Mirror
