@@ -697,3 +697,5 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+detik.com###adv-caption-lead
+detik.com###leaderboard[style*="width: 750px;height: 100px;"]
