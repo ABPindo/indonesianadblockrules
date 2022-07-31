@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202207310826
+! Version: 202207311310
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 31 Jul 2022 08:26 UTC
+! Last modified: 31 Jul 2022 13:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -991,6 +991,7 @@ downloadfilmbaru.com###ads-stack
 139.99.33.192###adsimgxatas2
 139.99.33.192###adsimgxbawah
 kontan.co.id###adsoutsream
+detik.com###adv-caption-lead
 unixmen.com###an-Modal
 tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
@@ -1118,6 +1119,7 @@ pkspiyungan.org###largebanner
 mangafap.com###lbanner
 5.182.209.205###le_header_ads
 kabar2.com###leaderboard
+detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 komikbaru.com###left-skyscraper
 www.lingohut.com###lht2_lesson_after_vocab2_300x250_phone
 www.lingohut.com###lht2_lesson_bottom_300x250_phone
@@ -6777,8 +6779,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]

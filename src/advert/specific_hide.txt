@@ -17,6 +17,7 @@ downloadfilmbaru.com###ads-stack
 139.99.33.192###adsimgxatas2
 139.99.33.192###adsimgxbawah
 kontan.co.id###adsoutsream
+detik.com###adv-caption-lead
 unixmen.com###an-Modal
 tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
@@ -144,6 +145,7 @@ pkspiyungan.org###largebanner
 mangafap.com###lbanner
 5.182.209.205###le_header_ads
 kabar2.com###leaderboard
+detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 komikbaru.com###left-skyscraper
 www.lingohut.com###lht2_lesson_after_vocab2_300x250_phone
 www.lingohut.com###lht2_lesson_bottom_300x250_phone
@@ -697,5 +699,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-detik.com###adv-caption-lead
-detik.com###leaderboard[style*="width: 750px;height: 100px;"]
