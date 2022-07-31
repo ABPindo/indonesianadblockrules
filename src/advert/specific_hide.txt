@@ -389,8 +389,8 @@ kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 otakuindo.org##.box_banner
-194.163.183.129##.box_item_berlangganan_popup
 neonime.com,neonime.vip##.box_item_berlangganan
+194.163.183.129##.box_item_berlangganan_popup
 inilah.com##.bt-g1.b-g3.wb-300x100
 inilah.com##.bt-g1.b-g3.wb-300x250
 greget.space,siherp.com,tetew.info##.c-message > div:nth-of-type(1)
@@ -399,6 +399,7 @@ mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
 bharian.com.my##.center-block.img-responsive
+news.okezone.com##.center-paralax
 dramaqu.net##.cfmonitor
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
@@ -436,6 +437,7 @@ layarkaca21.tv,lk21.tv##.fancybox-skin
 winpoin.com##.feedme-header-desktop.adsbygoogle
 dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
+news.okezone.com##.flying_ads
 teknoup.com##.footer_banner
 manganime.id##.ftadss
 myasiantv.se##.glx-link
@@ -627,7 +629,7 @@ bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 188.166.39.172##[href^="https://137.184.194.29/"]
-139.99.120.222,158.69.54.218,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.net,manganime.in,movieajip.online,www.nontondramas.net,otakudesu.watch##[href^="https://bit.ly/"]
+139.99.120.222,158.69.54.218,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
 animexin.xyz##[href^="https://ligaciputra3.com"]
 194.163.183.129##[href^="https://luxury138.link/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
@@ -695,5 +697,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-news.okezone.com##.flying_ads
-news.okezone.com##.center-paralax
