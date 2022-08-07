@@ -6,10 +6,11 @@ streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB
 164.68.105.199###fixedban
 unyil.net###float-atas
-75.119.147.12###floating_banner_top1
+154.12.229.9,75.119.147.12###floating_banner_top1
+157.245.195.114###floating_bot.btm_ban
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
-indosemi45.org,manhwaid.org###ouibounce-modal
+154.12.229.9,indosemi45.org,manhwaid.org###ouibounce-modal
 iyottube.com###playerOverlay
 susterbokep.com###right_ads_float_phonedevelop
 gadismalam.net###semprot_ads_side_left
@@ -22,6 +23,7 @@ sodasusu.com###teaser4
 videocrot.org###text-30 > .textwidget
 videocrot.org###text-6 > .textwidget
 158.69.0.212###top-banner
+173.249.49.204###tutupen
 nontonbokeps.com###under-video-ads
 lonteku.sbs###wpb_overlay
 indobokepz.com##.adBar-vertical.left
@@ -41,11 +43,7 @@ bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
+173.249.49.204##[href="https://bit.ly/idx-xx"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-154.12.229.9###ouibounce-modal
-154.12.229.9###floating_banner_top1
-173.249.49.204###tutupen
-173.249.49.204##[href="https://bit.ly/idx-xx"]
-157.245.195.114###floating_bot.btm_ban
