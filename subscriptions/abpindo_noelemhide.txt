@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202208071041
+! Version: 202208091324
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 07 Aug 2022 10:41 UTC
+! Last modified: 09 Aug 2022 13:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -362,6 +362,8 @@
 /wpsafelink$script,third-party
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
+.gif$domain=dunia21.club,image
+.gif$domain=dutafilm.cfd,image
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21tv.com|movieajip.online
 /assets/*.gif$image,domain=149.56.24.226
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
@@ -1361,6 +1363,7 @@ totojitu.gif|$image
 /dewaitu.$image,third-party
 /dewamainqq.$image,third-party
 /dewaonline.$image,third-party
+/dewapker.$image
 /dewapoker.$image,third-party
 /dewaqq.$image,third-party
 /dewatangkas.$image,third-party
@@ -1453,6 +1456,7 @@ totojitu.gif|$image
 /itubandar.$image,third-party
 /itucasino.$image,third-party
 /itudewa.$image,third-party
+/itudomino.$image
 /itudomino728.$image,third-party
 /itugol.$image,third-party
 /itupoker.$image,third-party

@@ -1,3 +1,5 @@
+.gif$domain=dunia21.club,image
+.gif$domain=dutafilm.cfd,image
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21tv.com|movieajip.online
 /assets/*.gif$image,domain=149.56.24.226
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
@@ -247,7 +249,5 @@
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||yxcblckd.com^$domain=komikcast.com
-.gif$domain=dunia21.club,image
-.gif$domain=dutafilm.cfd,image
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
