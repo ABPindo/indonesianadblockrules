@@ -699,3 +699,6 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+investor.id##.underlay-ad-text-box
+investor.id##.ad-box-wrappr
+investor.id##.row > .show-desktop > div
