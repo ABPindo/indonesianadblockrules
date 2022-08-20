@@ -1,15 +1,15 @@
 <p align="center"><img src="https://github.com/ABPindo/indonesianadblockrules/raw/master/src/ABPindo%202.png" width="240"></p>
 
 # ABPindo
-ABPindo merupakan filter tambahan untuk melengkapi filter internasional seperti [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) atau [AdGuard Base filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt) memblokir iklan mengganggu di situs berbahasa Indonesia dan Malaysia. ABPindo menggunakan sintak [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters), dan kompatibel dengan pengaya/ekstensi [Adblock Plus](https://adblockplus.org/), [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), atau adblocker sejenisnya.
+ABPindo merupakan daftar penapis/penyaring iklan di situs berbahasa Indonesia dan Malaysia, guna melengkapi penapis internasional seperti [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) atau [AdGuard Base filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt). ABPindo menggunakan sintak [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters), dan kompatibel dengan pengaya/ekstensi [Adblock Plus](https://adblockplus.org/), [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), atau adblocker sejenisnya. Kini ABPindo juga menyediakan dukungan dengan sintak host dan domain, yang kompatibel dengan [AdAway](https://github.com/AdAway/AdAway), [Pi-Hole](https://github.com/pi-hole/pi-hole), [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome), dan penapis berbasis DNS lainnya.
 
 ## Keuntungan
 - Tampilan lebih bersih </br>
-Kita bisa lebih fokus terhadap konten website, tanpa risih atau terganggu oleh iklan.
+Tak perlu risih dengan iklan promosi, iklan judi, dan iklan dewasa
 - Terjaga dari penipuan </br>
-Banyak iklan yang membaur bahkan menyamar menjadi tombol pembaruan program/tombol download, setidaknya kita dapat terhindar dari penipuan.
+Lupakan iklan yang membaur/menyamar menjadi tombol update atau tombol download
 - Lebih cepat </br>
-Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas. Tanpa iklan tersebut waktu membuka laman web menjadi lebih singkat.
+Tanpa iklan waktu membuka laman web menjadi lebih singkat
 
 ## Cara Menggunakan
 - Jalankan peramban web favoritmu (Firefox, Chrome, Opera, Safari, ...).
@@ -34,9 +34,9 @@ Iklan animasi/video menjadi masalah bagi pengguna internet dengan akses terbatas
 |RPZ (Response Policy Zone) [BIND](https://gitlab.isc.org/isc-projects/bind9.git)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz_adult.txt)|`example.com CNAME .`|
 
 Keterangan:
-- *Filter default yang terdiri dari domain ABPindo_adserver dan ABPindo_third-party.
-- **Filter default ditambah ABPindo_adult (judi).
-- Sintak DNS blocker memiliki kemampuan pemblokiran yang berbeda dengan versi pengaya/ekstensi, sehingga untuk menghindari kesalahan blokir, filter DNS blocker hanya dibuat dari ABPindo_adserver dan ABPindo_third-party.
+- Sintak penapis berbasis DNS memiliki cara kerja pemblokiran yang berbeda dari pengaya/ekstensi, sehingga untuk menghindari kesalahan blokir, default ABPindo pada penapis berbasis DNS hanya terdiri dari ABPindo_adserver dan ABPindo_third-party.
+*ABPindo terdiri dari domain ABPindo_adserver dan ABPindo_third-party.
+**ABPindo_adult terdiri dari domain ABPindo_adserver, ABPindo_third-party dan ABPindo_adult (iklan judi dan dewasa).
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
