@@ -35,8 +35,8 @@ Tanpa iklan waktu membuka laman web menjadi lebih singkat
 
 Keterangan:
 - Sintak penapis berbasis DNS memiliki cara kerja pemblokiran yang berbeda dari pengaya/ekstensi, sehingga untuk menghindari kesalahan blokir, default ABPindo pada penapis berbasis DNS hanya terdiri dari ABPindo_adserver dan ABPindo_third-party.
-*ABPindo terdiri dari domain ABPindo_adserver dan ABPindo_third-party.
-**ABPindo_adult terdiri dari domain ABPindo_adserver, ABPindo_third-party dan ABPindo_adult (iklan judi dan dewasa).
+- *ABPindo terdiri dari domain ABPindo_adserver dan ABPindo_third-party.
+- **ABPindo_adult terdiri dari domain ABPindo_adserver, ABPindo_third-party dan ABPindo_adult (iklan judi dan dewasa).
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
