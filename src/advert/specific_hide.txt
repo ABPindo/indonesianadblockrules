@@ -18,6 +18,8 @@ downloadfilmbaru.com###ads-stack
 139.99.33.192###adsimgxbawah
 kontan.co.id###adsoutsream
 detik.com###adv-caption-lead
+detik.com###adv-caption-mr1
+detik.com###adv-caption-mr2
 unixmen.com###an-Modal
 tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
@@ -703,6 +705,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-detik.com###adv-caption-lead
-detik.com###adv-caption-mr1
-detik.com###adv-caption-mr2
