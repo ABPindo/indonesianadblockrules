@@ -1,4 +1,5 @@
 ###judi
+###judi2
 ###togel
 ##.ads-1xbet
 ##.dominowalet
@@ -1718,6 +1719,7 @@
 ##[href^="https://pusbet7.com/"]
 ##[href^="https://qqangpao."]
 ##[href^="https://qqemas."]
+##[href^="https://qqholic3.com/"]
 ##[href^="https://qqliga338.cc/"]
 ##[href^="https://qqrolet77.com"]
 ##[href^="https://qqsedia."]
@@ -1877,8 +1879,8 @@
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
@@ -3233,6 +3235,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="jendralpoker" i]
 ##img[alt="jeniuspoker" i]
 ##img[alt="josbet" i]
+##img[alt="jpdewa" i]
 ##img[alt="jpslot88" i]
 ##img[alt="judi bola online" i]
 ##img[alt="judi online terpercaya" i]
@@ -3318,6 +3321,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="slot gacor" i]
 ##img[alt="slot game" i]
 ##img[alt="slot online" i]
+##img[alt="slotguru" i]
 ##img[alt="streaming video bokep" i]
 ##img[alt="superdomino" i]
 ##img[alt="tajirQQ" i]
@@ -3385,10 +3389,6 @@ leon.bet#@#a[href$="/slots"]
 ##img[src$="/assets/kdslot.gif"]
 ##img[src$="/sukabt-test"]
 ##img[src^="http://livesgp."]
-##[href^="https://qqholic3.com/"]
-###judi2
-##img[alt="jpdewa" i]
-##img[alt="slotguru" i]
 !
 ##[href="http://081364439991.org/register/WB6Q4079"]
 ##[href="http://7mter.pw/abgcrot"]
