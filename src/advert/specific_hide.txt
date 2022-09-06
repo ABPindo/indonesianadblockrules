@@ -705,3 +705,14 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+detik.com##.mr2-scrollpage-height
+detik.com##.mr1-scrollpage-height
+detik.com##.mr.mr1
+detik.com##.mr.mr2
+kompas.com##.clearfix.kcm__horizontal.kcm
+kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm
+kompas.com##.kcm__stick--left
+kompas.com##.kcm__stick--right
+kompas.com##.video-box-wrap
+kompas.com##.kcm__superbig.kcm
+kompas.com###credential_picker_container
