@@ -716,3 +716,7 @@ kompas.com##.kcm__stick--right
 kompas.com##.video-box-wrap
 kompas.com##.kcm__superbig.kcm
 kompas.com###credential_picker_container
+tempo.co##.banner320x480
+tempo.co##.bg-black.bannerhead
+tempo.co##.banner-fix-bottom
+tempo.co##.bannerhead
