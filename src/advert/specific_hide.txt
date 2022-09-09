@@ -52,6 +52,7 @@ downloadfilmbaru.com###close-ads-stack
 indoxx1.club###col
 pikiran-rakyat.com###cont-megabillboard
 indostreamings.xyz###content > div:nth-of-type(1)
+kompas.com###credential_picker_container
 kompas.com###crt-225c8f8a
 kompas.com###crt-4f9f1ad0
 kompas.com###crt-f6d317f5
@@ -319,6 +320,7 @@ animebatchs.com,goblintvfree.com,juragan-anime.net,nanime.in##.banner
 kompasiana.com##.banner-center
 dewanonton.vip,dwanonton.com##.banner-common
 www.kompasiana.com##.banner-dable.banner
+tempo.co##.banner-fix-bottom
 139.99.33.192##.banner-float-bottom
 51.81.238.0##.banner-float-bottom-2.banner-float-bottom
 www.kompasiana.com##.banner-gennie.banner
@@ -339,6 +341,7 @@ modifikasi.com##.banner-top
 suara.com##.banner-top-m.widget-ads-top
 oktavita.com##.banner-zone
 juragan-anime.net##.banner3
+tempo.co##.banner320x480
 tekno.kompas.com##.banner620x80
 kompas.com##.bannerAdB
 kompas.com##.bannerCenter
@@ -363,6 +366,7 @@ lapar.com##.banner_main
 tekno.kompas.com##.banner_right2
 modifikasi.com##.bannercol
 modifikasi.com##.bannerfloat
+tempo.co##.bannerhead
 waralabakan.com##.banneritem
 nontonme.com##.bannermovie
 modifikasi.com##.bannerpos
@@ -372,6 +376,7 @@ elde.tv##.bannerwrap
 budiarto.id##.bausastra-ads
 inet.detik.com##.bb_banner
 tribunnews.com##.belanja-picks
+tempo.co##.bg-black.bannerhead
 www.inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
 bharian.com.my##.bh-ad
 bharian.com.my##.block-bh-googledfp
@@ -413,6 +418,7 @@ filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 gridoto.com##.clearfix.ads__top-big250
 www.kompasiana.com##.clearfix.banner-horizontal.ads-horizontal
 kompas.com##.clearfix.kcm__big.kcm
+kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.clearfix.kcm__rectangle.kcm
 kompas.com##.clearfix.kcm__sticky.kcm
 kompas.com##.clearfix.kcm__top.kcm
@@ -469,6 +475,7 @@ ld2tv.com##.img-banner
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 109.234.34.246,ganoollk21.info,juraganfilm.com##.inner-floatbanner-bottom
+kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm
 motorplus-online.com,www.sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
 indoxx1.art,indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
@@ -476,6 +483,9 @@ kaskus.co.id##.kasad-h
 kompas.com##.kcm
 kompas.com##.kcm-track-sticky
 kompas.com##.kcm__articleList
+kompas.com##.kcm__stick--left
+kompas.com##.kcm__stick--right
+kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
 anoboy.id,kazefuri.net,kiryuu.id,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com##.kln
 mangaceng.com##.kln.mlb.blox
@@ -504,6 +514,10 @@ file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
 fastdrama.co##.modal-content
+detik.com##.mr.mr1
+detik.com##.mr.mr2
+detik.com##.mr1-scrollpage-height
+detik.com##.mr2-scrollpage-height
 detik.com##.mr2:-abp-has([id^="div-gpt-ad"])
 nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
@@ -595,6 +609,7 @@ goblintv.xyz##.tutup.banner
 bioskopxxi.net,sinemakaca.com##.ujipopup
 128.199.102.111##.under-player-ad-mobile
 investor.id##.underlay-ad-text-box
+kompas.com##.video-box-wrap
 mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
 otomotif.kompas.com##.w340.r-ads.right > ul > li
@@ -705,18 +720,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-detik.com##.mr2-scrollpage-height
-detik.com##.mr1-scrollpage-height
-detik.com##.mr.mr1
-detik.com##.mr.mr2
-kompas.com##.clearfix.kcm__horizontal.kcm
-kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm
-kompas.com##.kcm__stick--left
-kompas.com##.kcm__stick--right
-kompas.com##.video-box-wrap
-kompas.com##.kcm__superbig.kcm
-kompas.com###credential_picker_container
-tempo.co##.banner320x480
-tempo.co##.bg-black.bannerhead
-tempo.co##.banner-fix-bottom
-tempo.co##.bannerhead
