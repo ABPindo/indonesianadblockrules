@@ -705,3 +705,7 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+tempo.co##.banner320x480
+tempo.co##.bg-black.bannerhead
+tempo.co##.banner-fix-bottom
+tempo.co##.bannerhead
