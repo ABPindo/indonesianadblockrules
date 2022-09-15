@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202209101002
+! Version: 202209151127
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 10 Sep 2022 10:02 UTC
+! Last modified: 15 Sep 2022 11:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -36,7 +36,6 @@
 ||adskom.com^$third-party
 ||adslop.com^$third-party
 ||adstarsmedia.co.id^$third-party
-||adtimeselaras.com^$popup
 ||adtimeselaras.com^$third-party
 ||advertica-cdn2.com^$third-party
 ||alertpay.com^$third-party
@@ -47,7 +46,6 @@
 ||berangkasilmu.com^$third-party
 ||bourranuncurbs.com^
 ||brand.ad^$third-party
-||browsertelemetry.tk^$third-party
 ||caribanner.bid^$third-party
 ||cdnasiaclub.com^$third-party
 ||cfs.u-ad.info^
@@ -62,7 +60,6 @@
 ||digiads.co.id^$third-party
 ||eclkmpsa.com^$third-party
 ||ena-native-ads4.com^$third-party
-||etoads.net^$popup
 ||etoads.net^$third-party
 ||filebanner.com^$third-party
 ||forumiklan.com^$third-party
@@ -225,7 +222,6 @@
 ||fryruejoust.cam^$popup
 ||furocmay.com^$popup
 ||gbrrrxbodqdlq.com^$popup
-||ghaahq.com^
 ||ghaahq.com^$third-party
 ||hegarberetrof.pro^$popup
 ||hoegutvie.com^$popup
@@ -233,7 +229,6 @@
 ||iupqelechcmj.com^$popup,third-party
 ||iwtserve.com^$popup
 ||jillsclickcorner.com^$third-party
-||jjekxle.com^
 ||jjekxle.com^$third-party
 ||jnwsrqxrdqct.top^$popup
 ||juruiklan.com^$third-party
@@ -241,7 +236,6 @@
 ||kozoysnsx.com^$popup
 ||l9tdhe6.com^$popup
 ||ld82ydd.com^$popup
-||leoceran.pw^$popup
 ||leoceran.pw^$third-party
 ||lpaizureik.com^$popup
 ||lsgqlgoc.com^
@@ -271,7 +265,6 @@
 ||shqbsdjatunl.com^$popup
 ||tidnqztumpnk.com^$popup
 ||tinfunshe.club^$script
-||trendlope.com^$popup
 ||trendlope.com^$third-party
 ||tsyndolls.com^$popup
 ||tummiarunzpf.com^$popup,third-party
@@ -306,7 +299,6 @@
 ||trackdan.com^$popup
 ||tracker.beritagar.id^$third-party
 ||tracker.lazada.co.id^$third-party
-||trackingclick.net^$popup
 ||trackingclick.net^$third-party
 ||traffic-monetizer.com^$third-party
 ||trafficfactory.biz^$popup,third-party
