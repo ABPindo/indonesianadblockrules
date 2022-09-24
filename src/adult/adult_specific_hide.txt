@@ -6,7 +6,7 @@ streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB
 164.68.105.199###fixedban
 unyil.net###float-atas
-154.12.229.9,75.119.147.12###floating_banner_top1
+154.12.229.9,45.67.231.215,75.119.147.12###floating_banner_top1
 157.245.195.114###floating_bot.btm_ban
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
@@ -47,4 +47,3 @@ lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-45.67.231.215###floating_banner_top1

@@ -227,6 +227,7 @@ hotabis.com###text-28 > .textwidget
 indotelko.com###title_kanal
 bioskopkerenin.com,dunia21.cx,ganool.watch,ganool21.watch,kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,movies21.co,sinemaindo.web.id,terbit21.in###top-banner
 layarxxi.online###top-banner-content
+orami.co.id###top-banner-parallax
 indoxxi.tv,xx1.tv###top-bnner-content
 80.209.252.146###top6
 detik.com###top_banner
@@ -329,6 +330,7 @@ dewabioskop21.asia,dewabioskop21.org##.banner-left
 kompasiana.com##.banner-mgid
 www.kompasiana.com##.banner-mgid-read.banner
 dewabioskop21.org##.banner-middle
+orami.co.id##.banner-parallax
 dewanonton.vip##.banner-premium
 dewabioskop21.asia,dewabioskop21.org##.banner-right
 www.kompasiana.com##.banner-right-big.banner
@@ -726,5 +728,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-orami.co.id###top-banner-parallax
-orami.co.id##.banner-parallax
