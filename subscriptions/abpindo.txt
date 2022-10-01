@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202209241415
+! Version: 202210010931
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 24 Sep 2022 14:15 UTC
+! Last modified: 01 Oct 2022 09:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -6679,6 +6679,7 @@ totojitu.gif|$image
 ##[href^="https://hahatogel.net"]
 ##[href^="https://heyslot88.quest/register"]
 ##[href^="https://hokianda.com"]
+##[href^="https://hokiom88.com/register"]
 ##[href^="https://ibcdomino88.org/"]
 ##[href^="https://ibcpoker.org"]
 ##[href^="https://icon338.cc/"]
@@ -7901,6 +7902,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="KOKOQQ" i]
 ##img[alt="KOMPASQQ" i]
 ##img[alt="KONTOLKUDA" i]
+##img[alt="KPKTOTO" i]
 ##img[alt="KaikoSlot" i]
 ##img[alt="Kaikoslot" i]
 ##img[alt="Kakak Dewa" i]
@@ -7946,6 +7948,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="MASTERPOKERQQ" i]
 ##img[alt="MASTERQQ" i]
 ##img[alt="MATAQQ" i]
+##img[alt="MBO4D" i]
 ##img[alt="MEDANQQ" i]
 ##img[alt="MEGAPOKER88" i]
 ##img[alt="MEJAQQ" i]
@@ -8242,8 +8245,10 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="goldenpoker" i]
 ##img[alt="hm88poker" i]
 ##img[alt="hokiQQ" i]
+##img[alt="hokiom88" i]
 ##img[alt="hokisport" i]
 ##img[alt="hoyajackpot" i]
+##img[alt="i58bet" i]
 ##img[alt="iklan JadwalBola" i]
 ##img[alt="iklan qqangpao" i]
 ##img[alt="iklan ratu" i]
