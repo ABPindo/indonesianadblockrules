@@ -114,7 +114,7 @@ bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_ba
 80.209.252.146###floattop
 lk21c.fun###flobwh
 gadgetren.com###footer_sticky_inside
-mangaku.site###ftadsth
+mangaku.site,mangaku.vip###ftadsth
 resep.web.id###googlebox
 cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.org###hbanner
 cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
@@ -451,6 +451,7 @@ layarkaca21.tv,lk21.tv##.fancybox-skin
 winpoin.com##.feedme-header-desktop.adsbygoogle
 dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
+manganime.in##.float_tengah
 news.okezone.com##.flying_ads
 teknoup.com##.footer_banner
 manganime.id##.ftadss
@@ -566,6 +567,7 @@ investor.id##.row > .show-desktop > div
 senimovie.info##.rsABlock
 duwitmu.com##.section_sticky_ads_bottom
 semprot.com##.semprotnenenmontok_2
+manganime.in##.separator
 republika.co.id##.set-ads-468
 kazemanga.xyz##.sg-popup-builder-content
 oploverz.bz##.sg-popup-content
