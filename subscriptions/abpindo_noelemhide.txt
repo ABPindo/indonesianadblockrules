@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202210110454
+! Version: 202210110634
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 11 Oct 2022 04:54 UTC
+! Last modified: 11 Oct 2022 06:34 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -44,7 +44,6 @@
 ||baliadv.com^$third-party
 ||bellaads.com^$third-party
 ||berangkasilmu.com^$third-party
-||bourranuncurbs.com^
 ||brand.ad^$third-party
 ||caribanner.bid^$third-party
 ||cdnasiaclub.com^$third-party
@@ -176,7 +175,6 @@
 ! 
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||1b969cef84d93b43.com^
-||2go7v1nes8.com^
 ||34667c8ece5.com^
 ||508327fbe9.95bd06d118.com^
 ||64p3am9x95ct.com^$popup
@@ -187,7 +185,6 @@
 ||a63t9o1azf.com^$popup
 ||abrts.pro^$popup,third-party
 ||afbcashidr.com^$popup,third-party
-||agletmagilp.com^$script
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
 ||aopxnvrugx.com^$popup
@@ -196,7 +193,6 @@
 ||azxsd.pro^$popup,third-party
 ||b9645fef65.com^
 ||bcajjtbzmdrl.com^$popup
-||binmenkollast.com^
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||chidsimp.com^$third-party
@@ -210,12 +206,10 @@
 ||dairouzy.net^$popup
 ||dearerfonder.info^$popup,third-party
 ||doathair.com^$third-party
-||ducmiptu.net^
 ||e7393e33565ce805.com^$popup
 ||edomz.com^$third-party
 ||edspectsm.fun^$third-party
 ||epfcfhtjxqd.com^$popup
-||finkyepbows.com^
 ||fkglkpkgkduh.top^$popup
 ||flexterkita.com^$third-party
 ||fnkyyrgraizy.com^$popup
@@ -271,7 +265,6 @@
 ||trvwjyjgkgeagd.com^
 ||tsyndolls.com^$popup
 ||tummiarunzpf.com^$popup,third-party
-||tylosischewer.com^
 ||uamrnaakv.com^
 ||ueuodgnrhb.com^$popup
 ||uieoogjarimcey.com^$popup
@@ -835,13 +828,13 @@ totolink.id#@#.social-circle
 /Banner-Poker$image
 /Banner-Suhubola-$image
 /Betcoin-$image
-/DEWABANDAR-$image
 /DEWALIVE_$image
 /Dazbet.gif$image
 /HOKI69.gif|$image
 /IBCDOMINO.gif$image
 /IDRBET.gif$image
 /ITCBET.gif|$image
+/Indotogel-$image
 /JAYAPOKER_*.gif$image
 /JuaraCapsa.gif|$image
 /KaikoSlot.gif|$image
@@ -849,15 +842,14 @@ totolink.id#@#.social-circle
 /MACAU442NET.gif$image
 /MEJAHOKI.gif|$image
 /MacauDewa-$image
-/Mitrahoki-$image
 /NIKMATIQQ.$image
 /PESBOLA-$image
 /PKVHOKI.gif|$image
 /PURIBET.gif|$image
-/PentaSlot.gif|$image
 /Poker228.gif|$image
 /QQ36Bet-$image
 /SBOBETMAIN-$image
+/TOTOBET-$image
 /TOTOKL-NEW.gif$image
 /TelurQQ.gif|$image
 /TradisiBet_$image
@@ -1007,7 +999,7 @@ totolink.id#@#.social-circle
 /jasahoki88-$image
 /jasaqq-$image
 /jaya-bet-$image
-/jayapoker_$image
+/jayapoker-$image
 /jayapokernew.gif$image
 /jempolqq-$image
 /josbet-$image
@@ -1018,7 +1010,6 @@ totolink.id#@#.social-circle
 /juaracapsa-$image
 /kartu-online.gif|
 /kartuhoki-$image
-/kd777.gif|
 /kd777.gif|$image
 /kdslots-$image
 /klik66-$image
@@ -1043,7 +1034,6 @@ totolink.id#@#.social-circle
 /liveklik-baru.$image
 /loketpoker-$image
 /lonteqq-$image
-/lonteqq-banner.gif|$image
 /lumbungpoker-$image
 /luxury-pop-$image
 /luxury777-$image
@@ -1075,11 +1065,9 @@ totolink.id#@#.social-circle
 /nagaikan.gif|$image
 /nasa-poker-$image
 /nasapoker-$image
-/newafa.gif
 /newafa.gif|$image
 /newhoya-$image
 /newjaya.gif|$image
-/newrgotog.gif
 /newrgotog.gif|$image
 /newtexas.gif|$image
 /ngiklan/ad$image
@@ -1105,7 +1093,6 @@ totolink.id#@#.social-circle
 /pokerintan-$image
 /pokernusa-$image
 /pokerstar8-$image
-/pokerstar8.jpg
 /pokerstar8.jpg$image
 /pokevita-$image
 /pokped-$image
@@ -1149,6 +1136,7 @@ totolink.id#@#.social-circle
 /sbysport_$image
 /seksipoker-$image
 /selebtoto.$image
+/senyumqq-$image
 /sepakbolacc.gif$image
 /sexysloto.gif$image
 /sifujudi-$image
@@ -1174,13 +1162,6 @@ totolink.id#@#.social-circle
 /ubcpkr25-$image
 /unitogel-$image
 /unovegas.gif$image
-/uploads/*/Ahabet-$image
-/uploads/*/Indotogel-$image
-/uploads/*/TOTOBET-$image
-/uploads/*/ahabet.$image
-/uploads/*/jayapoker-$image
-/uploads/*/senyumqq-|$image
-/uploads/*/vipslot.$image
 /vegasgg.gif|$image
 /vegashoki.gif|$image
 /venombet-$image
@@ -1343,7 +1324,6 @@ totojitu.gif|$image
 /daftartogelonline.$image,third-party
 /dahsyatqq.$image,third-party
 /danaqq.$image,third-party
-/datukqq.$image
 /datukqq.$image,third-party
 /depoqq.$image,third-party
 /dermaga4d.$image,third-party
@@ -1429,7 +1409,6 @@ totojitu.gif|$image
 /idrbola.$image,third-party
 /idrpoker.$image,third-party
 /iklanqq.$image,third-party
-/iklanratu.$image
 /iklanx.$image,third-party
 /ikliknew.$image,third-party
 /imcpkr.$image,third-party
@@ -1574,17 +1553,14 @@ totojitu.gif|$image
 /obat-kuat-sex.$image,third-party
 /obobet.$image,third-party
 /okebos.$image,third-party
-/okeslot.$image
 /omdomino.$image,third-party
 /ompokerasia.$image,third-party
 /oppabet.$image,third-party
 /opuspoker.$image,third-party
 /orientalpoker.$image,third-party
-/oriqq.$image
 /otto4d.$image,third-party
 /ovovegas-$image
 /pamelapoker.$image,third-party
-/pancatoto.$image
 /panenpoker.$image,third-party
 /pangerantoto1.$image,third-party
 /pantauqq.$image,third-party
@@ -1600,7 +1576,6 @@ totojitu.gif|$image
 /pesonaqq.$image,third-party
 /pialabet.$image,third-party
 /pialaqq.$image,third-party
-/pkvhoki.$image
 /poker021.$image,third-party
 /pokerajaib.$image,third-party
 /pokerastro.$image,third-party
@@ -1725,7 +1700,6 @@ totojitu.gif|$image
 /totojek.$image,third-party
 /totokita.$image,third-party
 /toyotaqiuqiu.$image,third-party
-/transqq.$image
 /tstotosaja.$image,third-party
 /tuanbola.$image,third-party
 /tugupoker.$image,third-party
@@ -1739,6 +1713,7 @@ totojitu.gif|$image
 /venombet.$image,third-party
 /vimaxasli.$image,third-party
 /vimaxpills.$image,third-party
+/vipslot.$image
 /vipslot77.$image
 /vivacm88.$image,third-party
 /vivobetting.$image,third-party
@@ -1751,7 +1726,6 @@ totojitu.gif|$image
 /wigobetnew.$image,third-party
 /window-close.$image,third-party
 /winpoker789.$image,third-party
-/wiropoker.$image
 /wismaqq.$image,third-party
 /wismaqq2.$image,third-party
 /wongpkr.$image,third-party
