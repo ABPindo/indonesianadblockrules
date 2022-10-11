@@ -143,7 +143,7 @@ b201.info,bioskop201.biz###kayan_reklam_sol
 zonabola.com###lAds
 pkspiyungan.org###largebanner
 mangafap.com###lbanner
-5.182.209.205,filmapik.kim###le_header_ads
+5.182.209.205,filmapik.kim,filmapik.sbs###le_header_ads
 kabar2.com###leaderboard
 detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 komikbaru.com###left-skyscraper
@@ -694,4 +694,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-5.182.209.205,filmapik.sbs###le_header_ads
