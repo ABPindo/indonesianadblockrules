@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202210121110
+! Version: 202210141227
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 12 Oct 2022 11:10 UTC
+! Last modified: 14 Oct 2022 12:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1162,7 +1162,7 @@ harianjogja.com,solopos.com###solopos_float
 detik.com###sto_banner
 65.108.132.145,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,filmroster.online,mangashiro.net,neumanga.tv,oploverz.fan###teaser1
 22cinema.download,65.108.132.145,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,komiku.net,movie76.net,nontonmovie.web.id###teaser2
-22cinema.download,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,layarbiru21.com,movie76.net,nontonmovie.web.id###teaser3
+22cinema.download,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,layarbiru21.com,lmanime.com,movie76.net,nontonmovie.web.id###teaser3
 22cinema.download###teaser5
 indoxx1.club###tengah
 dunia21.top,lk21.cc###tengah > span
@@ -1362,6 +1362,7 @@ kompas.com##.clearfix.kcm__track.kcm
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 www.parapuan.co##.cls-outstream
+onlinemetro.id##.cls.code-block-center
 inidramaku.net##.cm-popup-modal
 windowsreport.com##.code-block-3.code-block
 dream.co.id##.col-banner
@@ -1455,6 +1456,7 @@ nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
 kompas.com##.native-wrap
 ns21.tv,ns21.us##.navbar-brand.bot
+jurnalisindonesia.id##.nkt__stick
 grid.id,motorplus-online.com##.nkt__stick--left
 grid.id,motorplus-online.com##.nkt__stick--right
 detik.com##.normalbanner
