@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202210191213
+! Version: 202210221013
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 19 Oct 2022 12:13 UTC
+! Last modified: 22 Oct 2022 10:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -355,6 +355,7 @@ iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
 .gif$domain=dunia21.club,image
 .gif$domain=dutafilm.cfd,image
+.gif$domain=lk21official.org,image
 .gif$image,domain=anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21official.biz|lk21tv.com|movieajip.online
 /assets/*.gif$image,domain=149.56.24.226
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
@@ -1365,6 +1366,7 @@ www.parapuan.co##.cls-outstream
 onlinemetro.id##.cls.code-block-center
 inidramaku.net##.cm-popup-modal
 windowsreport.com##.code-block-3.code-block
+rasa.my##.code-block-6
 dream.co.id##.col-banner
 ganool.is,ganool.ph,ganool.se,ganool.st##.col-xs-12.col-md-6.col-lg-6
 indoxxi.net##.coliklan
@@ -1628,6 +1630,7 @@ medcom.id##div.skycrapper.banner
 cerpen.co.id##div.ui_adblock
 cmovieshd.se,ganool.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
 hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
+rasa.my##div[data-ub-carousel]
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
@@ -6587,6 +6590,7 @@ totojitu.gif|$image
 ##[href^="https://bolakantor."]
 ##[href^="https://bolapk."]
 ##[href^="https://bukaipo.com"]
+##[href^="https://campaign.dewakdslots.com/"]
 ##[href^="https://campaign.kdaffiliates.com/"]
 ##[href^="https://capsa365."]
 ##[href^="https://capsaindo1."]
@@ -7986,6 +7990,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="QQ882" i]
 ##img[alt="QQ998" i]
 ##img[alt="QQANGPAO" i]
+##img[alt="QQCALO" i]
 ##img[alt="QQEmas" i]
 ##img[alt="QQHOK" i]
 ##img[alt="QQHOLIC" i]
@@ -8295,6 +8300,7 @@ leon.bet#@#a[href$="/slots"]
 ##img[alt="texas poker" i]
 ##img[alt="texaspokercc" i]
 ##img[alt="togeldomino" i]
+##img[alt="toto88" i]
 ##img[alt="totobet" i]
 ##img[alt="vegas811" i]
 ##img[alt="wahana303" i]
