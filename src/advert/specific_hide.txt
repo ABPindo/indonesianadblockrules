@@ -503,7 +503,7 @@ detik.com##.mr.mr1
 detik.com##.mr.mr2
 detik.com##.mr1-scrollpage-height
 detik.com##.mr2-scrollpage-height
-detik.com##.mr2:-abp-has([id^="div-gpt-ad"])
+detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
 nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
 kompas.com##.native-wrap
