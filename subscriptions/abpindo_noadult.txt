@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202210221013
+! Version: 202210251024
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 22 Oct 2022 10:13 UTC
+! Last modified: 25 Oct 2022 10:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -968,7 +968,7 @@ downloadfilmbaru.com###ads-stack
 kontan.co.id###adsoutsream
 detik.com###adv-caption-lead
 cnnindonesia.com,detik.com###adv-caption-mr1
-detik.com###adv-caption-mr2
+cnnindonesia.com,detik.com###adv-caption-mr2
 unixmen.com###an-Modal
 tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
@@ -1095,6 +1095,7 @@ pkspiyungan.org###largebanner
 mangafap.com###lbanner
 5.182.209.205,filmapik.kim,filmapik.sbs###le_header_ads
 kabar2.com###leaderboard
+detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 komikbaru.com###left-skyscraper
 www.lingohut.com###lht2_lesson_after_vocab2_300x250_phone
@@ -1449,11 +1450,10 @@ file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
 fastdrama.co##.modal-content
-detik.com##.mr.mr1
-detik.com##.mr.mr2
 detik.com##.mr1-scrollpage-height
+detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
 detik.com##.mr2-scrollpage-height
-detik.com##.mr2:-abp-has([id^="div-gpt-ad"])
+detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
 nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
 kompas.com##.native-wrap
@@ -1465,6 +1465,7 @@ detik.com##.normalbanner
 animeindo.id##.nyaa300
 animeindo.id##.nyaa728
 kompas.com##.ol_big_inner
+kompas.com##.osmplaceonsite.ads-partner-wrap
 detik.com##.otp_banner_close
 dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
 tribunnews.com##.ovh[style="width:468px;height:60px"]
