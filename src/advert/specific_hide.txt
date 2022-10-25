@@ -438,7 +438,7 @@ dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
 news.okezone.com##.flying_ads
-teknoup.com##.footer_banner
+cnnindonesia.com,teknoup.com##.footer_banner
 manganime.id##.ftadss
 myasiantv.se##.glx-link
 myasiantv.se##.glx-teaser
@@ -502,6 +502,7 @@ cinemaindo.web.id,filmbagus21.info##.modal
 fastdrama.co##.modal-content
 detik.com##.mr1-scrollpage-height
 detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
+cnnindonesia.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
 detik.com##.mr2-scrollpage-height
 detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
 nextren.grid.id##.mt20.top1
@@ -699,5 +700,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-cnnindonesia.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
-cnnindonesia.com##.footer_banner
