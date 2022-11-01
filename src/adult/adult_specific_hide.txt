@@ -18,7 +18,7 @@ gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
-komik18.art,komikdewasa.me,manhwaindo.me###teaser3
+doujinlands.com,komik18.art,komikdewasa.me,manhwaindo.me###teaser3
 sodasusu.com###teaser4
 videocrot.org###text-30 > .textwidget
 videocrot.org###text-6 > .textwidget
@@ -48,4 +48,3 @@ lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-doujinlands.com###teaser3
