@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202211011103
+! Version: 202211051310
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Nov 2022 11:03 UTC
+! Last modified: 05 Nov 2022 13:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1249,6 +1249,7 @@ mangaku.in,mangaku.site,mangaku.web.id##.adv
 dramacool.io,dramanice.io,k-vid.com##.adv-space
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
+ceklist.id##.affcoups
 indoxtream.com##.aligncenter
 palingseru.com##.alignnone.size-large.wp-image-458
 terasjakarta.id##.animated.ads
@@ -1525,6 +1526,7 @@ tirto.id##.skinner-left
 tirto.id##.skinner-right
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
+zigi.id##.slot-iklan
 hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
 idpelago.com##.sponsor_ads:nth-of-type(1)
@@ -8431,6 +8433,7 @@ leon.bet#@#a[href$="/slots"]
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 perawabokep.cam,perawanbokep.cam###ads
+139.99.33.222###adsimgxatas2
 94.237.74.225,streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB
