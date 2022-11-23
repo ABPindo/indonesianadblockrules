@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202211131255
+! Version: 202211231019
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 13 Nov 2022 12:55 UTC
+! Last modified: 23 Nov 2022 10:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -6844,8 +6844,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-##a[href$="/slots"]
 leon.bet#@#a[href$="/slots"]
+##a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
@@ -8419,6 +8419,7 @@ leon.bet#@#a[href$="/slots"]
 ! *** abpindo:src/adult/adult_specific_block.txt ***
 .gif$domain=ceritaseksindo.com,image
 .gif$domain=malemjumat.biz,image
+.gif$domain=malemjumat.lol,image
 ||96.43.139.236/banner/$image
 ||96.43.139.237/banner/$image
 ||bintangmawar.net/forum/bot_banner.php
@@ -8434,7 +8435,7 @@ leon.bet#@#a[href$="/slots"]
 ||vast.pornhd.asia/bnl/*.gif$image,third-party
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
 173.199.167.192,krucil.com,krucil.net###KD_adpB
-perawabokep.cam,perawanbokep.cam###ads
+malemjumat.lol,perawabokep.cam,perawanbokep.cam###ads
 139.99.33.222###adsimgxatas2
 94.237.74.225,streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2
