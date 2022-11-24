@@ -73,6 +73,7 @@
 ||dewanontons.com/wp-content/uploads/*.gif$image
 ||dewantn.com/wp-content/uploads/*.gif$image
 ||doodcdn.com/ads/ad.js
+||dramaday.net/soundtrack.js$script
 ||dunia21.*/assets/*.gif$image
 ||dunia21s.*/wp-content/uploads/*.gif$image
 ||dwanonton.*/wp-content/uploads/*.gif$image
@@ -250,6 +251,5 @@
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||yxcblckd.com^$domain=komikcast.com
-||dramaday.net/soundtrack.js$script
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id

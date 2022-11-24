@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202211231019
+! Version: 202211241033
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 23 Nov 2022 10:19 UTC
+! Last modified: 24 Nov 2022 10:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -428,6 +428,7 @@ iklan300x250.gif|
 ||dewanontons.com/wp-content/uploads/*.gif$image
 ||dewantn.com/wp-content/uploads/*.gif$image
 ||doodcdn.com/ads/ad.js
+||dramaday.net/soundtrack.js$script
 ||dunia21.*/assets/*.gif$image
 ||dunia21s.*/wp-content/uploads/*.gif$image
 ||dwanonton.*/wp-content/uploads/*.gif$image
@@ -1018,6 +1019,7 @@ stocksetup.kontan.co.id###div-Skycrapper-Stocksetup
 blog.tribunjualbeli.com###div-Top-Leaderboard
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 motorplus-online.com###div-paralax-container
+www.grid.id###div-top-banner-transparent
 90animax.com###energysaving
 cmovieshd.se,ganool.se###epmblock
 negumo.com###fab
@@ -1221,7 +1223,7 @@ gridoto.com##.ads-liftdown
 grid.id##.ads-mr
 gridoto.com##.ads-on
 kompas.com##.ads-on-body
-kompas.com##.ads-partner-wrap
+kompas.com,www.grid.id##.ads-partner-wrap
 tribunnews.com##.ads-placeholder
 tribunnews.com##.ads-placeholder-inside
 tek.id##.ads-popup__inner
@@ -1231,6 +1233,7 @@ www.inibaru.id##.ads-sticky-left
 www.inibaru.id##.ads-sticky-right
 terasjakarta.id##.ads.single_post_content
 dapurpacu.com##.ads2-home
+drakorasia.us##.ads728-slot-panjang
 kompas.com##.adsMR1Lipsus1
 bisnis.com##.adsPushdown
 gridoto.com,motorplus-online.com##.ads__boxr
