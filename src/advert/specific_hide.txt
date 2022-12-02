@@ -98,8 +98,9 @@ komiku.net###floatads3
 komikstation.com###floatbanner
 nontonsini.com###floatbawah
 lk21.host###floatbot
+samehadaku.win###floatbottom
 sinemaindo.web.id###floatbtmleft
-149.28.158.117,animexin.xyz,anixlife.xyz,awsubs.co###floatcenter
+149.28.158.117,animexin.xyz,anixlife.xyz,awsubs.co,samehadaku.win###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com###floating_ads_bottom_textcss_wrap
 blogspot.com###floating_banner_bottom2
@@ -260,7 +261,7 @@ terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
 suara.com##.adds-top.add
-192.99.70.18,22cinema.com,95.216.163.177,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,smallencode.com,topgans.blogspot.com##.ads
+192.99.70.18,22cinema.com,95.216.163.177,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,samehadaku.win,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
@@ -297,6 +298,7 @@ apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
 ganol.si##.adsincenter
+samehadaku.win##.adsrow
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
 mangaku.in,mangaku.site,mangaku.web.id##.adv
@@ -508,8 +510,8 @@ fastdrama.co##.modal-content
 detik.com##.mr1-scrollpage-height
 detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
 cnnindonesia.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
-detik.com##.mr2-scrollpage-height
-detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
+cnnindonesia.com,detik.com##.mr2-scrollpage-height
+cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
 nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
 kompas.com##.native-wrap
@@ -706,9 +708,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-cnnindonesia.com##.mr2-scrollpage-height
-cnnindonesia.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
-samehadaku.win###floatbottom
-samehadaku.win###floatcenter
-samehadaku.win##.ads
-samehadaku.win##.adsrow
