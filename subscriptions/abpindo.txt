@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202212020356
+! Version: 202212030942
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 02 Dec 2022 03:56 UTC
+! Last modified: 03 Dec 2022 09:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -223,6 +223,7 @@
 ||ihqfiimrbcf.com^$popup
 ||iupqelechcmj.com^$popup,third-party
 ||iwtserve.com^$popup
+||jame3s67jo9yc4e.com^$script
 ||jillsclickcorner.com^$third-party
 ||jjekxle.com^$third-party
 ||jnwsrqxrdqct.top^$popup
@@ -238,6 +239,7 @@
 ||midgerelativelyhoax.com^
 ||mifsirnhvvrps.top^$popup
 ||misxgkvnlf.com^$popup
+||mormonwalty.com^$script
 ||motosal.net^$popup
 ||mousheen.net^$third-party
 ||naetoris.pw^$popup
@@ -248,6 +250,7 @@
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
 ||ourtherss.top^$third-party
+||owlunimmvn.com^$script
 ||pheersie.com^$popup
 ||phudrour.net^$popup
 ||pvwtkxcpsrcsd.com^
@@ -6854,8 +6857,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-leon.bet#@#a[href$="/slots"]
 ##a[href$="/slots"]
+leon.bet#@#a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
@@ -8465,7 +8468,7 @@ gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
-doujinlands.com,komik18.art,komikdewasa.me,manhwaindo.me###teaser3
+doujinlands.com,komik18.art,komikdewasa.me,komikmanhwa.me,manhwaindo.me###teaser3
 sodasusu.com###teaser4
 videocrot.org###text-30 > .textwidget
 videocrot.org###text-6 > .textwidget
@@ -8482,6 +8485,7 @@ mediahiburan.my##.adplaceholder-mrec
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
 komikdewasa.me,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com##.kln
+komik18.art##.kln.mlb.blox
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay

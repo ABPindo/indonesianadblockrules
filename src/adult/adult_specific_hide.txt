@@ -19,7 +19,7 @@ gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
-doujinlands.com,komik18.art,komikdewasa.me,manhwaindo.me###teaser3
+doujinlands.com,komik18.art,komikdewasa.me,komikmanhwa.me,manhwaindo.me###teaser3
 sodasusu.com###teaser4
 videocrot.org###text-30 > .textwidget
 videocrot.org###text-6 > .textwidget
@@ -36,6 +36,7 @@ mediahiburan.my##.adplaceholder-mrec
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
 komikdewasa.me,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com##.kln
+komik18.art##.kln.mlb.blox
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
@@ -49,5 +50,3 @@ lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-komik18.art##.kln.mlb.blox
-komikmanhwa.me###teaser3
