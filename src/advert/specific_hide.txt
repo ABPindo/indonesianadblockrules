@@ -507,11 +507,11 @@ file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
 fastdrama.co##.modal-content
-detik.com##.mr1-scrollpage-height
+cnbcindonesia.com,cnnindonesia.com,detik.com##.mr1-scrollpage-height
 detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
-cnnindonesia.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
-cnnindonesia.com,detik.com##.mr2-scrollpage-height
-cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
+cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
+cnbcindonesia.com,cnnindonesia.com,detik.com##.mr2-scrollpage-height
+cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
 nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
 kompas.com##.native-wrap
