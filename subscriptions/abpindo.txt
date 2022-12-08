@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202212041038
+! Version: 202212081137
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 04 Dec 2022 10:38 UTC
+! Last modified: 08 Dec 2022 11:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1055,7 +1055,7 @@ nontonsini.com###floatbawah
 lk21.host###floatbot
 samehadaku.win###floatbottom
 sinemaindo.web.id###floatbtmleft
-149.28.158.117,animexin.xyz,anixlife.xyz,awsubs.co,samehadaku.win###floatcenter
+149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,samehadaku.win###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com###floating_ads_bottom_textcss_wrap
 blogspot.com###floating_banner_bottom2
@@ -1402,6 +1402,7 @@ manganime.in##.float_tengah
 news.okezone.com##.flying_ads
 cnnindonesia.com,teknoup.com##.footer_banner
 manganime.id##.ftadss
+samehadaku.win##.gambarku
 myasiantv.se##.glx-link
 myasiantv.se##.glx-teaser
 kompas.com##.hAds
@@ -1586,6 +1587,7 @@ pakbos21.org##[href="//dumbpop.com/help.xml"]
 idfl.me##[href="http://bit.ly/adsvbola"]
 anoboy.digital,anoboy.media##[href="http://click2go.me/aksesklik4a"]
 filmbokep21.shop##[href="http://sbovn88.net/"]
+samehadaku.win##[href="http://www.70284385.com/id-id/betting.aspx"]
 anoboy.media##[href="https://144.126.241.203/invite/c6c83up"]
 anoboy.media##[href="https://bit.ly/anoboySG88"]
 idxx1.top##[href="https://indoxplay.com/promosi/slots"]
@@ -1650,7 +1652,7 @@ rasa.my##div[data-ub-carousel]
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
-bacamanga.id,kiryuu.id,komikcast.com,komikstation.co##iframe[style*="z-index: 2147483647"]
+bacamanga.id,kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
@@ -6857,8 +6859,8 @@ totojitu.gif|$image
 ##a[href$="/rotitogel"]
 ##a[href$="/royalbet"]
 ##a[href$="/sindoqq"]
-##a[href$="/slots"]
 leon.bet#@#a[href$="/slots"]
+##a[href$="/slots"]
 ##a[href$="/sodasusu"]
 ##a[href$="/tahunqq"]
 ##a[href$="/togeltoto8"]
