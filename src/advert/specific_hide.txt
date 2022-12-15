@@ -1,5 +1,6 @@
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
+nanimex.in###iklanFloat
 indogamers.com###IklanIDGS
 lihat.co.id###Kolom-random-300
 utusan.com.my###Taboola_widget
@@ -507,6 +508,7 @@ astroawani.com##.middle-ad-cont
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
+nanimex.in##.modal-backdrop
 fastdrama.co##.modal-content
 cnbcindonesia.com,cnnindonesia.com,detik.com##.mr1-scrollpage-height
 detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
