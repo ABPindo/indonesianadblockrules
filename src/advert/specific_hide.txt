@@ -714,3 +714,12 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+bisnis.com##.banner.billboardBottom
+bisnis.com##.banner.billboardBig.billboard
+bisnis.com##.banner.billboardRectangle.billboard
+bisnis.com##.banner.billboardTop.billboard
+bisnis.com##.banner.billboardRectangle.billboard
+bisnis.com##.skyscrapper--right
+bisnis.com##.skyscrapper--left
+bisnis.com##.flying_carpet_show_inner
+bisnis.com##.flying_carpet_show
