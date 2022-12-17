@@ -1,6 +1,5 @@
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
-nanimex.in###iklanFloat
 indogamers.com###IklanIDGS
 lihat.co.id###Kolom-random-300
 utusan.com.my###Taboola_widget
@@ -130,6 +129,7 @@ lensaindonesia.com###idcomright2.com-300x250
 lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
 lihat.co.id###iklan-dalam-postingan-300
+nanimex.in###iklanFloat
 185.231.223.76###iklap
 185.231.223.76###iklhead
 lk21.web.id###ilang1
@@ -341,6 +341,10 @@ www.sonora.id##.banner-skin--right
 modifikasi.com##.banner-top
 suara.com##.banner-top-m.widget-ads-top
 oktavita.com##.banner-zone
+bisnis.com##.banner.billboardBig.billboard
+bisnis.com##.banner.billboardBottom
+bisnis.com##.banner.billboardRectangle.billboard
+bisnis.com##.banner.billboardTop.billboard
 juragan-anime.net##.banner3
 tempo.co##.banner320x480
 kompas.com##.bannerAdB
@@ -446,6 +450,8 @@ dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
 news.okezone.com##.flying_ads
+bisnis.com##.flying_carpet_show
+bisnis.com##.flying_carpet_show_inner
 cnnindonesia.com,teknoup.com##.footer_banner
 manganime.id##.ftadss
 samehadaku.win##.gambarku
@@ -587,6 +593,8 @@ tirto.id##.skinner-left
 tirto.id##.skinner-right
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
+bisnis.com##.skyscrapper--left
+bisnis.com##.skyscrapper--right
 zigi.id##.slot-iklan
 hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
@@ -714,12 +722,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-bisnis.com##.banner.billboardBottom
-bisnis.com##.banner.billboardBig.billboard
-bisnis.com##.banner.billboardRectangle.billboard
-bisnis.com##.banner.billboardTop.billboard
-bisnis.com##.banner.billboardRectangle.billboard
-bisnis.com##.skyscrapper--right
-bisnis.com##.skyscrapper--left
-bisnis.com##.flying_carpet_show_inner
-bisnis.com##.flying_carpet_show

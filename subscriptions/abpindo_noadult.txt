@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202212081137
+! Version: 202212171152
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 08 Dec 2022 11:37 UTC
+! Last modified: 17 Dec 2022 11:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -128,6 +128,7 @@
 ||parentelement.ml^$third-party
 ||pasangiklan.com^$third-party
 ||pasariklanbaris.com^$third-party
+||payingbeswim.com^
 ||paypopup.com^$third-party
 ||pc3ads.com^$third-party
 ||pondokiklan.com^$third-party
@@ -316,6 +317,7 @@
 .bid^$popup,third-party
 .biz/iklan/
 .com/iklan/
+.gif$image,domain=15.235.11.45|oploverz.co.in
 .id/ads/
 .id/adv/
 .id/iklan/
@@ -1084,6 +1086,7 @@ lensaindonesia.com###idcomright2.com-300x250
 lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
 lihat.co.id###iklan-dalam-postingan-300
+nanimex.in###iklanFloat
 185.231.223.76###iklap
 185.231.223.76###iklhead
 lk21.web.id###ilang1
@@ -1295,6 +1298,10 @@ www.sonora.id##.banner-skin--right
 modifikasi.com##.banner-top
 suara.com##.banner-top-m.widget-ads-top
 oktavita.com##.banner-zone
+bisnis.com##.banner.billboardBig.billboard
+bisnis.com##.banner.billboardBottom
+bisnis.com##.banner.billboardRectangle.billboard
+bisnis.com##.banner.billboardTop.billboard
 juragan-anime.net##.banner3
 tempo.co##.banner320x480
 kompas.com##.bannerAdB
@@ -1400,6 +1407,8 @@ dapurpacu.com##.fixed-ads-atas
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
 news.okezone.com##.flying_ads
+bisnis.com##.flying_carpet_show
+bisnis.com##.flying_carpet_show_inner
 cnnindonesia.com,teknoup.com##.footer_banner
 manganime.id##.ftadss
 samehadaku.win##.gambarku
@@ -1416,6 +1425,7 @@ cmovieshd.se##.hidden-xs
 bioskop21.co##.hilang2
 bioskop168.co,semi168.club##.home.border
 filmace21.net##.idmupi-topbanner
+nanimex.in##.iklan
 nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
 awsubs.co##.iklansamping
@@ -1435,7 +1445,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-anoboy.id,kazefuri.net,kiryuu.id,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com##.kln
+15.235.11.45,anoboy.id,kazefuri.net,kiryuu.id,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -1462,6 +1472,7 @@ astroawani.com##.middle-ad-cont
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
+nanimex.in##.modal-backdrop
 fastdrama.co##.modal-content
 cnbcindonesia.com,cnnindonesia.com,detik.com##.mr1-scrollpage-height
 detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
@@ -1539,6 +1550,8 @@ tirto.id##.skinner-left
 tirto.id##.skinner-right
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
+bisnis.com##.skyscrapper--left
+bisnis.com##.skyscrapper--right
 zigi.id##.slot-iklan
 hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
