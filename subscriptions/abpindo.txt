@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
-! Version: 202212171158
+! Version: 202212201121
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 17 Dec 2022 11:58 UTC
+! Last modified: 20 Dec 2022 11:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
-!
+! 
 ! Please report any unblocked adverts or problems
 ! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
 ! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
-!
+! 
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ||188affiliates.com^$third-party
@@ -173,7 +173,7 @@
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
 ||yx-ads6.com^$third-party
-!
+! 
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||1b969cef84d93b43.com^
 ||34667c8ece5.com^
@@ -708,7 +708,7 @@ iklan300x250.gif|
 @@||urbandigital.id/wp-content/plugins/ad-inserter-pro/images/ads.png$image,~third-party
 @@||virtualdata.me/webroot/js/ads.js$script,~third-party
 @@||www.googletagmanager.com/gtm.js$script,domain=inet.detik.com
-!
+! 
 gurusd.web.id,kurikulum.co.id#@##adsense
 woof.tube#@#.adsbox
 aktual.id,datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbygoogle
@@ -2188,7 +2188,7 @@ sbobetqq.gif|$image
 spbet.gif|$image
 suhubola.gif|$image
 totojitu.gif|$image
-!
+! 
 /128cash.$image,third-party
 /188bet.$image,third-party
 /1xliga.$image,third-party
