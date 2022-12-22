@@ -400,6 +400,7 @@ kompas.com##.boxBanner3
 kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 otakuindo.org##.box_banner
+otakudesu.bid##.box_item_ads_popup
 neonime.com,neonime.vip##.box_item_berlangganan
 194.163.183.129##.box_item_berlangganan_popup
 inilah.com##.bt-g1.b-g3.wb-300x100
@@ -468,7 +469,8 @@ cmovieshd.se##.hidden-xs
 bioskop21.co##.hilang2
 bioskop168.co,semi168.club##.home.border
 filmace21.net##.idmupi-topbanner
-nanimex.in##.iklan
+otakudesu.bid,nanimex.in##.iklan
+otakudesu.bid###iklanbawah
 nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
 awsubs.co##.iklansamping
