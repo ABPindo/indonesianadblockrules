@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202212201512
+! Version: 202212232122
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 20 Dec 2022 15:12 UTC
+! Last modified: 23 Dec 2022 21:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -487,6 +487,7 @@ iklan300x250.gif|
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||imagebam.com/*.gif$image,domain=ganool.li
 ||images.gameweb.co.id/gw/ads/
+||img.gm21.download/*.webp$image
 ||img.nt1.co/*.gif$image,domain=dramaserial.xyz
 ||img.sukipli.com/*.gif$image,third-party
 ||img.teman.stream/tb/*.gif$image,domain=bioskopkerenin.com
@@ -1419,6 +1420,7 @@ totojitu.gif|$image
 /ibuqq.$image,third-party
 /idolabet.$image,third-party
 /idrbola.$image,third-party
+/idrbt.webp$image
 /idrpoker.$image,third-party
 /iklanqq.$image,third-party
 /iklanx.$image,third-party
@@ -1447,6 +1449,7 @@ totojitu.gif|$image
 /ituqq728.$image,third-party
 /itutoto.$image,third-party
 /ituvip.$image,third-party
+/ituvp.webp$image
 /ivopoker.$image,third-party
 /jagoanpoker.$image,third-party
 /jagodomino.$image,third-party

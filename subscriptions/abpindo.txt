@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202212201512
+! Version: 202212232122
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 20 Dec 2022 15:12 UTC
+! Last modified: 23 Dec 2022 21:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -487,6 +487,7 @@ iklan300x250.gif|
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||imagebam.com/*.gif$image,domain=ganool.li
 ||images.gameweb.co.id/gw/ads/
+||img.gm21.download/*.webp$image
 ||img.nt1.co/*.gif$image,domain=dramaserial.xyz
 ||img.sukipli.com/*.gif$image,third-party
 ||img.teman.stream/tb/*.gif$image,domain=bioskopkerenin.com
@@ -1618,7 +1619,7 @@ bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 188.166.39.172##[href^="https://137.184.194.29/"]
-139.99.120.222,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
+139.99.120.222,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,gudangmovies21.cfd,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 idfl.me##[id^="yui-gen"].postcontainer
@@ -2379,6 +2380,7 @@ totojitu.gif|$image
 /ibuqq.$image,third-party
 /idolabet.$image,third-party
 /idrbola.$image,third-party
+/idrbt.webp$image
 /idrpoker.$image,third-party
 /iklanqq.$image,third-party
 /iklanx.$image,third-party
@@ -2407,6 +2409,7 @@ totojitu.gif|$image
 /ituqq728.$image,third-party
 /itutoto.$image,third-party
 /ituvip.$image,third-party
+/ituvp.webp$image
 /ivopoker.$image,third-party
 /jagoanpoker.$image,third-party
 /jagodomino.$image,third-party

@@ -127,6 +127,7 @@
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||imagebam.com/*.gif$image,domain=ganool.li
 ||images.gameweb.co.id/gw/ads/
+||img.gm21.download/*.webp$image
 ||img.nt1.co/*.gif$image,domain=dramaserial.xyz
 ||img.sukipli.com/*.gif$image,third-party
 ||img.teman.stream/tb/*.gif$image,domain=bioskopkerenin.com
@@ -252,6 +253,5 @@
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||yxcblckd.com^$domain=komikcast.com
-||img.gm21.download/*.webp$image
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
