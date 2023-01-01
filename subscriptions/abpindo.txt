@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202212232122
+! Version: 202301011302
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 23 Dec 2022 21:22 UTC
+! Last modified: 01 Jan 2023 13:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1019,7 +1019,7 @@ ggwp.id###detailSkinAdRight
 bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
-www.parapuan.co,www.sonora.id###div-Inside-MediumRectangle
+bolasport.com,www.parapuan.co,www.sonora.id###div-Inside-MediumRectangle
 blog.tribunjualbeli.com,tribunnews.com###div-Right-MediumRectangle-1
 makassar.tribunnews.com###div-Right-MediumRectangle-3
 stocksetup.kontan.co.id###div-Skycrapper-Stocksetup
@@ -1230,9 +1230,9 @@ awnime.net##.ads-header-5
 kompas.com##.ads-latest-wrap
 gridoto.com##.ads-liftdown
 grid.id##.ads-mr
-gridoto.com##.ads-on
+bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
-kompas.com,www.grid.id##.ads-partner-wrap
+bolasport.com,kompas.com,www.grid.id##.ads-partner-wrap
 tribunnews.com##.ads-placeholder
 tribunnews.com##.ads-placeholder-inside
 tek.id##.ads-popup__inner
@@ -1247,9 +1247,10 @@ kompas.com##.adsMR1Lipsus1
 bisnis.com##.adsPushdown
 gridoto.com,motorplus-online.com##.ads__boxr
 grid.id##.ads__skyscraper
-gridoto.com##.ads__stick--left
-gridoto.com##.ads__stick--right
-gridoto.com##.ads_below_photo
+bolasport.com,gridoto.com##.ads__stick--left
+bolasport.com,gridoto.com##.ads__stick--right
+bolasport.com##.ads__top-big
+bolasport.com,gridoto.com##.ads_below_photo
 grid.id##.ads_sky
 duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
@@ -1383,7 +1384,9 @@ kompas.com##.clearfix.kcm__tower.kcm
 kompas.com##.clearfix.kcm__track.kcm
 tempo.co##.closebanner1
 tempo.co##.closebanner2
-www.parapuan.co##.cls-outstream
+bolasport.com##.cls-composite
+bolasport.com##.cls-geniee
+bolasport.com,www.parapuan.co##.cls-outstream
 onlinemetro.id##.cls.code-block-center
 inidramaku.net##.cm-popup-modal
 windowsreport.com##.code-block-3.code-block
@@ -1405,6 +1408,7 @@ dewanontons.com##.dewa_floating_bottom
 anoboy.digital##.download
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
+bolasport.com##.float-ads
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
 news.okezone.com##.flying_ads
@@ -1467,7 +1471,7 @@ www.inibaru.id##.mb-4.bg-grey.text-center
 www.kompasiana.com##.mb20.mt20.banner-dable-read.banner
 www.parapuan.co##.mb3.gpt-ad-head-wrapper.widget
 cnbcindonesia.com,detik.com##.megabillboard
-kompas.tv##.mgidclsbanner
+bolasport.com,kompas.tv##.mgidclsbanner
 dapurpacu.com##.mid-banner
 astroawani.com##.middle-ad-cont
 file.rocks##.mobi.content-left
@@ -1513,7 +1517,7 @@ suara.com##.placeholder_read_body
 viva.co.id##.portlet.sideskycrapper
 filem456.com##.pps-single-popup
 kompas.com##.premium_div
-gridoto.com,kompas.com##.pushdown-banner
+bolasport.com,gridoto.com,kompas.com##.pushdown-banner
 otomania.com##.r-ads
 film-ganool.com##.random
 okezone.com##.rc-ad-300x250
