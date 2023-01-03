@@ -19,7 +19,7 @@ gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
-doujinlands.com,komik18.art,komikdewasa.me,komikmanhwa.me,manhwaindo.me###teaser3
+doujinlands.com,komik18.art,komikdewasa.art,komikdewasa.me,komikmanhwa.me,manhwaindo.me###teaser3
 sodasusu.com###teaser4
 videocrot.org###text-30 > .textwidget
 videocrot.org###text-6 > .textwidget
@@ -44,11 +44,10 @@ bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
 207.244.225.48##.underlay
+komikdewasa.art##.wp-image-80765.size-full.alignnone
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 173.249.49.204##[href="https://bit.ly/idx-xx"]
 139.99.33.205##[href^="https://bit.ly/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-komikdewasa.art###teaser3
-komikdewasa.art##.wp-image-80765.size-full.alignnone
