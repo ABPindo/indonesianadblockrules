@@ -51,3 +51,4 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
 komikdewasa.art###teaser3
+komikdewasa.art##.wp-image-80765.size-full.alignnone
