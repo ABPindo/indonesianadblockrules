@@ -96,6 +96,7 @@ moviebaru21.com###floatads1
 komiku.net###floatads2
 komiku.net###floatads3
 komikstation.com###floatbanner
+layardrama21.icu###floatbanner-bottom
 nontonsini.com###floatbawah
 lk21.host###floatbot
 samehadaku.win###floatbottom
@@ -610,6 +611,7 @@ idpelago.com##.sponsor_ads:nth-of-type(4)
 okezone.com##.sponsored-belt468x60
 kabargames.id##.stickybanner
 dutafilm.observer##.swal-overlay--show-modal.swal-overlay
+hijabista.com.my,majalahpama.my,nona.my,vanillakismis.my##.td-banner-bg.td-banner-wrap-full
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 film21terbaru.org##.teaser3
@@ -729,8 +731,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-layardrama21.icu###floatbanner-bottom
-hijabista.com.my##.td-banner-bg.td-banner-wrap-full
-nona.my##.td-banner-bg.td-banner-wrap-full
-vanillakismis.my##.td-banner-bg.td-banner-wrap-full
-majalahpama.my##.td-banner-bg.td-banner-wrap-full
