@@ -33,6 +33,7 @@
 ###div-ad-skin_left
 ###div-ad-skin_right
 ###float-banner.visible-lg
+###floatadsbawah
 ###floating_ads_bottom_textcss_ad
 ###floatingad
 ###flowads
@@ -229,4 +230,3 @@
 ##a[alt="iklan" i]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-###floatadsbawah

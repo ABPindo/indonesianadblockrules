@@ -4,6 +4,7 @@ malemjumat.lol,perawabokep.cam,perawanbokep.cam###ads
 94.237.74.225,streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB
+103.194.170.153###btm_bannerMobile
 164.68.105.199###fixedban
 unyil.net###float-atas
 154.12.229.9,45.67.231.215,75.119.147.12###floating_banner_top1
@@ -32,7 +33,7 @@ indobokepz.com##.adBar-vertical.right
 semprot.com#@#.adVertical
 mediahiburan.my##.adplaceholder-mrec
 154.26.132.73,194.233.87.224##.banner-img
-68.65.123.84,avtub.sx,simontok.cx##.blocker.jquery-modal
+68.65.123.84,avtub.io,avtub.sx,simontok.cx##.blocker.jquery-modal
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
 komikdewasa.me,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com##.kln
@@ -52,5 +53,3 @@ avtub.io##[href^="https://adstub.net/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-103.194.170.153###btm_bannerMobile
-avtub.io##.blocker.jquery-modal
