@@ -1,5 +1,5 @@
 173.199.167.192,krucil.com,krucil.net###KD_adpB
-malemjumat.lol,perawabokep.cam,perawanbokep.cam###ads
+malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
 139.99.33.222###adsimgxatas2
 94.237.74.225,streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2
@@ -7,7 +7,9 @@ bintangmawar.net###bmpop_adpB
 103.194.170.153###btm_bannerMobile
 164.68.105.199###fixedban
 unyil.net###float-atas
+sangetods.net###floatads
 154.12.229.9,45.67.231.215,75.119.147.12###floating_banner_top1
+ruangbokep.top###floating_bot
 157.245.195.114###floating_bot.btm_ban
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
@@ -22,15 +24,14 @@ sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
 doujinlands.com,komik18.art,komikdewasa.art,komikdewasa.me,komikmanhwa.me,manhwaindo.me###teaser3
 sodasusu.com###teaser4
-videocrot.org###text-30 > .textwidget
-videocrot.org###text-6 > .textwidget
 158.69.0.212###top-banner
 173.249.49.204###tutupen
 nontonbokeps.com###under-video-ads
 lonteku.sbs###wpb_overlay
+sangetods.net##.active.adde_modal-overlay
 indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
-semprot.com#@#.adVertical
+sangetods.net##.adde_modal_detector-show.adde_modal_detector
 mediahiburan.my##.adplaceholder-mrec
 154.26.132.73,194.233.87.224##.banner-img
 68.65.123.84,avtub.io,avtub.sx,simontok.cx##.blocker.jquery-modal
@@ -48,16 +49,7 @@ ibugil.net##.semprotpokemon_2
 komikdewasa.art##.wp-image-80765.size-full.alignnone
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 173.249.49.204##[href="https://bit.ly/idx-xx"]
-avtub.io##[href^="https://adstub.net/"]
 139.99.33.205##[href^="https://bit.ly/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-ruangbokep.top###floating_bot
-malemjumat.mom###ads
-sangetods.net###floatads
-sangetods.net##.adde_modal_detector-show.adde_modal_detector
-sangetods.net##.active.adde_modal-overlay
-komik18.art###teaser3
-manhwaindo.me###teaser3
-207.244.225.48###ouibounce-modal

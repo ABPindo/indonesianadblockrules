@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202301141057
+! Version: 202301141312
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 14 Jan 2023 10:57 UTC
+! Last modified: 14 Jan 2023 13:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -182,6 +182,7 @@
 ||9icmzvn6.website^$popup
 ||a63t9o1azf.com^$popup
 ||abrts.pro^$popup,third-party
+||adeumssp.com^
 ||afbcashidr.com^$popup,third-party
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
@@ -751,6 +752,7 @@ totolink.id#@#.social-circle
 -hokicapsa-$image
 -hokiqq-$image
 -incarqq.$image
+-indo-bokep-banner-$image
 -indomaxbet-$image
 -indopokerlink-$image
 -itubandar-$image
@@ -783,6 +785,7 @@ totolink.id#@#.social-circle
 -ligaqq.$image
 -lonteqq-$image
 -lotus2d1.$image
+-macaubet.gif$image
 -melatipoker-$image
 -misiqq-$image
 -murnibet-$image
@@ -826,6 +829,7 @@ totolink.id#@#.social-circle
 /720x90-jkt2u-$image
 /728-x-90-$image
 /ADLVSLOT.webp$image
+/Agen-Judi-Online-Terpercaya.gif$image
 /BANNER-liga88-$image
 /BETSLOT.gif|$image
 /Banner-Bandar303.gif|$image
@@ -854,6 +858,8 @@ totolink.id#@#.social-circle
 /Poker228.gif|$image
 /QQ36Bet-$image
 /SBOBETMAIN-$image
+/SBOslot138.webp$image
+/SLOT-GACOR.gif$image
 /TOTOBET-$image
 /TOTOKL-NEW.gif$image
 /TelurQQ.gif|$image
