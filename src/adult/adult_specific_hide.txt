@@ -53,3 +53,4 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
 103.194.170.153###btm_bannerMobile
+avtub.io##.blocker.jquery-modal
