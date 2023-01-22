@@ -34,7 +34,7 @@ indobokepz.com##.adBar-vertical.right
 sangetods.net##.adde_modal_detector-show.adde_modal_detector
 mediahiburan.my##.adplaceholder-mrec
 154.26.132.73,194.233.87.224##.banner-img
-68.65.123.84,avtub.io,avtub.sx,simontok.cx##.blocker.jquery-modal
+68.65.123.84,avtub.io,avtub.sx,simontok.cx,simontok.ink##.blocker.jquery-modal
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
 komikdewasa.me,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com##.kln
@@ -53,4 +53,3 @@ lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-simontok.ink##.blocker.jquery-modal
