@@ -1,7 +1,7 @@
 .gif$domain=dunia21.club,image
 .gif$domain=dutafilm.cfd,image
 .gif$domain=lk21official.org,image
-.gif$image,domain=15.235.11.45|anime-indo.id|bioskopkerenin.org|ld2tv.net|lk21.london|lk21official.biz|lk21tv.com|movieajip.online
+.gif$image,domain=15.235.11.45|anime-indo.id|bioskopkerenin.org|ld2tv.net|movieajip.online
 /assets/*.gif$image,domain=149.56.24.226
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
@@ -55,6 +55,7 @@
 ||cinemastar21.*/wp-content/uploads/*.gif$image
 ||comotin.com/wp-content/uploads/*.gif$image
 ||conan.id/wp-content/uploads/2018/*.gif$image
+||d21.*/*.gif$image
 ||desustream.me/banner/$image
 ||detik.com/images/banners/
 ||detik.com/live/css/desktop/dads.css$stylesheet
@@ -74,7 +75,7 @@
 ||dewantn.com/wp-content/uploads/*.gif$image
 ||doodcdn.com/ads/ad.js
 ||dramaday.net/soundtrack.js$script
-||dunia21.*/assets/*.gif$image
+||dunia21.*/*.gif$image
 ||dunia21s.*/wp-content/uploads/*.gif$image
 ||dwanonton.*/wp-content/uploads/*.gif$image
 ||dwanonton.com/static/banner/*.gif$image
@@ -134,6 +135,7 @@
 ||img.topddl.net^$image,domain=nanimex.com
 ||impulse.forkcdn.com/impulse3/config/impulse.js
 ||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
+||indexmovies.*/*.gif$image
 ||indochanger.com/banner/
 ||indocinema21.com/banner/
 ||indoforum.top/banners/
@@ -156,15 +158,16 @@
 ||kotakgame.com/images/bnr/partner/*.jpg
 ||kuyhaa-me.com/meongvpn.js$script,domain=kuyhaa-me.com
 ||lapak-online.net^$popup,third-party
-||layarkaca21.*/assets/*.gif$image
+||layarkaca21.*/*.gif$image
 ||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
 ||layarkeren.*/wp-content/uploads/*.gif$image
 ||linkgenerator.xyz$script,third-party
-||lk21.*/assets/*.gif$image
+||lk21.*/*.gif$image
 ||lk21.*/wp-content/uploads/*.gif$image
 ||lk21c.*/wp-content/uploads/*.gif$image
 ||lk21i.*/wp-content/uploads/*.gif$image
 ||lk21n.*/wp-content/uploads/banner/*.gif$image
+||lk21official.*/*.gif$image
 ||lk21v.*/wp-content/uploads/*.gif$image
 ||lkxxi.*/wp-content/uploads/*.gif$image
 ||lytogame.com/images/partner/$third-party
