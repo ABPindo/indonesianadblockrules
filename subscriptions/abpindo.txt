@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202302091212
+! Version: 202302131400
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 09 Feb 2023 12:12 UTC
+! Last modified: 13 Feb 2023 14:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1451,7 +1451,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-15.235.11.45,45.12.2.2,anichin.vip,anoboy.id,kazefuri.net,kiryuu.id,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in##.kln
+15.235.11.45,45.12.2.2,anichin.vip,anoboy.id,kazefuri.net,kiryuu.id,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -1637,6 +1637,7 @@ bioskop19.com##a[href="http://162.144.35.114/"]
 kshowid.com##a[href="http://kshowid.com/advertising/"]
 filmxy.cc##a[href="http://www.filmxy.cc/download/"]
 filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
+westmanga.info##a[href="https://klik.fun/Kp7S5"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
