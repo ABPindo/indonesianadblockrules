@@ -1,3 +1,4 @@
+.gif$image,domain=komikmanhwa.me
 ||96.43.139.236/banner/$image
 ||96.43.139.237/banner/$image
 ||bintangmawar.net/forum/bot_banner.php
@@ -11,4 +12,3 @@
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||slunkenchukkar.com/nwnJuadwxPHeiD3/52345$script,domain=manhwaid.club
 ||sodasusu.com/banner/
-.gif$image,domain=komikmanhwa.me
