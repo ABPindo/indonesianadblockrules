@@ -186,6 +186,7 @@
 ##.iklanright
 ##.iklanx1
 ##.ikltop
+##.inarticle-ads
 ##.infeed-ads
 ##.inner-floatbanner-bottom
 ##.inside-player-ad
@@ -217,6 +218,7 @@
 ##.text-center.adv
 ##.topadsense
 ##.under-player-ad
+##.wrapper-ads
 ##[class="widget-ads1"]
 ##[class="widget-ads2"]
 ##[class="widget-ads3"]
@@ -229,5 +231,3 @@
 ##a[alt="iklan" i]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-##.inarticle-ads
-##.wrapper-ads
