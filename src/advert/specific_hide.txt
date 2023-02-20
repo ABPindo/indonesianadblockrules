@@ -99,7 +99,7 @@ komikstation.com###floatbanner
 layardrama21.icu###floatbanner-bottom
 nontonsini.com###floatbawah
 lk21.host###floatbot
-samehadaku.win###floatbottom
+samehadaku.run,samehadaku.win,###floatbottom
 sinemaindo.web.id###floatbtmleft
 149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,samehadaku.win###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
@@ -299,6 +299,7 @@ bolasport.com,gridoto.com##.ads_below_photo
 grid.id##.ads_sky
 duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
+samehadaku.run##.ads
 apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
@@ -700,6 +701,7 @@ animebatch.web.id,animeindo.co,animeku.tv,anoboy.digital,anoboy.org,bioskop168.p
 194.163.183.129##a[href^="https://cek.to/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,drakorindo.tv,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,serunonton.com##a[href^="https://goo.gl/"]
 lk21c.fun##a[href^="https://rebrand.ly/"]
+samehadaku.run##a[rel*="nofollow"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
 awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
 otakudesu.pro##a[rel^="nofollow noopener"] > img[src$=".gif"]
