@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202302172341
+! Version: 202302230946
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 17 Feb 2023 23:41 UTC
+! Last modified: 23 Feb 2023 09:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1054,7 +1054,7 @@ komikstation.com###floatbanner
 layardrama21.icu###floatbanner-bottom
 nontonsini.com###floatbawah
 lk21.host###floatbot
-samehadaku.win###floatbottom
+samehadaku.run,samehadaku.win###floatbottom
 sinemaindo.web.id###floatbtmleft
 149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,samehadaku.win###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
@@ -1220,7 +1220,7 @@ terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
 suara.com##.adds-top.add
-192.99.70.18,22cinema.com,95.216.163.177,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,samehadaku.win,smallencode.com,topgans.blogspot.com##.ads
+192.99.70.18,22cinema.com,95.216.163.177,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,samehadaku.run,samehadaku.win,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
@@ -1536,6 +1536,7 @@ duwitmu.com##.section_sticky_ads_bottom
 semprot.com##.semprotnenenmontok_2
 manganime.in##.separator
 republika.co.id##.set-ads-468
+komikindo.pro##.setdah
 kazemanga.xyz##.sg-popup-builder-content
 oploverz.bz##.sg-popup-content
 15.235.11.45,65.108.132.145##.sgpb-popup-dialog-main-div-wrapper
@@ -1655,6 +1656,7 @@ animebatch.web.id,animeindo.co,animeku.tv,anoboy.digital,anoboy.org,bioskop168.p
 194.163.183.129##a[href^="https://cek.to/"]
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,drakorindo.tv,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,serunonton.com##a[href^="https://goo.gl/"]
 lk21c.fun##a[href^="https://rebrand.ly/"]
+samehadaku.run##a[rel*="nofollow"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
 awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
 otakudesu.pro##a[rel^="nofollow noopener"] > img[src$=".gif"]
@@ -1820,7 +1822,9 @@ bioskop78.com##td:nth-of-type(3)
 /ITCBET.gif|$image
 /Indotogel-$image
 /JAYAPOKER_*.gif$image
+/JUDIKARTU.gif$image
 /JuaraCapsa.gif|$image
+/KLIKHOKI-720x$image
 /KaikoSlot.gif|$image
 /Luxury777.mp4|$media
 /MACAU442NET.gif$image
