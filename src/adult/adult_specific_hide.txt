@@ -22,7 +22,7 @@ gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
-doujinlands.com,komik18.art,komikdewasa.art,komikdewasa.me,komikmanhwa.me,manhwaindo.me###teaser3
+doujinlands.com,kanzenin.xyz,komik18.art,komikdewasa.art,komikdewasa.me,komikmanhwa.me,kumapoi.me,manhwaindo.me,sektedoujin.lol###teaser3
 sodasusu.com###teaser4
 158.69.0.212###top-banner
 173.249.49.204###tutupen
@@ -33,6 +33,7 @@ indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 sangetods.net##.adde_modal_detector-show.adde_modal_detector
 mediahiburan.my##.adplaceholder-mrec
+komikindo.info##.ads
 154.26.132.73,194.233.87.224##.banner-img
 68.65.123.84,avtub.io,avtub.sx,simontok.cx,simontok.ink##.blocker.jquery-modal
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
@@ -50,12 +51,8 @@ komikdewasa.art##.wp-image-80765.size-full.alignnone
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 173.249.49.204##[href="https://bit.ly/idx-xx"]
 komikmanhwa.me##[href="https://klik.fun/ZyslX"]
+manhwadesu.org##[href="https://klik.gg/manhwadesu"]
 139.99.33.205##[href^="https://bit.ly/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-kanzenin.xyz###teaser3
-komikindo.info##.ads
-kumapoi.me###teaser3
-sektedoujin.lol###teaser3
-manhwadesu.org##[href="https://klik.gg/manhwadesu"]
