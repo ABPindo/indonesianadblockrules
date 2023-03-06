@@ -91,6 +91,7 @@
 ||houseoftoto.com^$third-party
 ||infotogelharian.com^$third-party
 ||inipoker.com^$third-party
+||investopedia.today^
 ||ipoker.com^$third-party
 ||jagopoker.com^$third-party
 ||jayapoker.com^$third-party
@@ -281,4 +282,3 @@
 ||xjudi.com^$third-party
 ||yourpokercash.com^$third-party
 ||yoyopoker.net^$popup
-||investopedia.today^

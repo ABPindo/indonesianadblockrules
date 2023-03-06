@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202303021305
+! Version: 202303061246
 # Title: ABPindo (hosts adult)
 # Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
 # Last modified: %timestamp%
@@ -396,6 +396,7 @@
 ||houseoftoto.com^$third-party
 ||infotogelharian.com^$third-party
 ||inipoker.com^$third-party
+||investopedia.today^
 ||ipoker.com^$third-party
 ||jagopoker.com^$third-party
 ||jayapoker.com^$third-party
