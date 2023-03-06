@@ -99,8 +99,9 @@ komikstation.com###floatbanner
 layardrama21.icu###floatbanner-bottom
 nontonsini.com###floatbawah
 lk21.host###floatbot
+samehadaku.run###floatbottom
 sinemaindo.web.id###floatbtmleft
-149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co###floatcenter
+149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,samehadaku.run###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com###floating_ads_bottom_textcss_wrap
 blogspot.com###floating_banner_bottom2
@@ -302,10 +303,7 @@ apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
 ganol.si##.adsincenter
-samehadaku.win##.adsrow
-samehadaku.run###floatcenter
-samehadaku.run##.adsrow
-samehadaku.run###floatbottom
+samehadaku.run,samehadaku.win##.adsrow
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
 mangaku.in,mangaku.site,mangaku.web.id##.adv
