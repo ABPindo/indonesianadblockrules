@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202303090134
+! Version: 202303101305
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 09 Mar 2023 01:34 UTC
+! Last modified: 10 Mar 2023 13:05 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -355,8 +355,7 @@
 /wpsafelink$script,third-party
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.org|lk21tv.com|movieajip.online|otakudesu.ltd
-.gif$image,from=oploverz.tv
+.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.org|lk21tv.com|movieajip.online|oploverz.tv|otakudesu.ltd
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
