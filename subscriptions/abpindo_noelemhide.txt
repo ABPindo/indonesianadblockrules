@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202303101305
+! Version: 202303141340
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 10 Mar 2023 13:05 UTC
+! Last modified: 14 Mar 2023 13:40 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -184,6 +184,7 @@
 ||abrts.pro^$popup,third-party
 ||adeumssp.com^
 ||afbcashidr.com^$popup,third-party
+||afdashrafi.com^
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
 ||aopxnvrugx.com^$popup
@@ -928,12 +929,14 @@ totolink.id#@#.social-circle
 /betsaja-$image
 /bigwin-banner-$image
 /bijitogel-$image
+/bisnis4d-
 /bokep-update.gif|$image
 /bolagila-$image
 /bolavegas-$image
 /bolavita-$image
 /bosqq.$image
 /bursabet-$image
+/buyspinslot-
 /buyspinslot.gif$image
 /cantikqq-$image
 /capsa365.gif|$image
@@ -1025,6 +1028,7 @@ totolink.id#@#.social-circle
 /jpslot88-$image
 /jual_obat_aborsi_$image
 /juaracapsa-$image
+/kaikoslot-
 /kartu-online.gif|
 /kartuhoki-$image
 /kd777.gif|$image
@@ -1099,6 +1103,7 @@ totolink.id#@#.social-circle
 /pancatoto.gif|$image
 /pemainkasino-$image
 /pendekarqq-$image
+/pentaslot-
 /pentaslot.gif$image
 /pkutama2-$image
 /poker24s-$image
