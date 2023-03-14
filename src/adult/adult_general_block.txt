@@ -125,9 +125,7 @@
 /ITCBET.gif|$image
 /Indotogel-$image
 /JAYAPOKER_*.gif$image
-/JUDIKARTU.gif$image
 /JuaraCapsa.gif|$image
-/KLIKHOKI-720x$image
 /KaikoSlot.gif|$image
 /Luxury777.mp4|$media
 /MACAU442NET.gif$image
@@ -383,7 +381,7 @@
 /pancatoto.gif|$image
 /pemainkasino-$image
 /pendekarqq-$image
-/pentaslot-
+/pentaslot-$image
 /pentaslot.gif$image
 /pkutama2-$image
 /poker24s-$image
@@ -404,7 +402,6 @@
 /qq-simpati-$image
 /qq101_$image
 /qq188_$image
-/qq39-$image
 /qqangpao-$image
 /qqhok-gif$image
 /qqholic-$image
@@ -881,7 +878,7 @@ totojitu.gif|$image
 /pasangnomor2.$image,third-party
 /pemaintogel.$image,third-party
 /pendekarqq.$image,third-party
-/Pentaslot.webp$image
+/Pentaslot.$image
 /pesonaqq.$image,third-party
 /pialabet.$image,third-party
 /pialaqq.$image,third-party
