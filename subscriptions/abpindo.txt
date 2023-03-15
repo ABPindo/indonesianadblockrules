@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202303141348
+! Version: 202303150511
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 14 Mar 2023 13:48 UTC
+! Last modified: 15 Mar 2023 05:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1119,7 +1119,7 @@ kabargames.id###main-banner-middle
 dewabioskop21.org,dwa21.org###main-popup
 sindonews.com###me-div-gpt-ad-parallax
 dapurpacu.com###mid-banner
-dunia21.cx,ganool.watch,lk21tv.com,movies21.co###middle-banner
+dunia21.cx,ganool.watch,lk21tv.com,movies21.co,terbit21.cafe###middle-banner
 fastdrama.co,hkfree.co###modal
 indotelko.com###more_stories
 fastdrama.co###myModal
@@ -1150,6 +1150,7 @@ dunia21s.fun,fb21.tv,lk21.li,nonton21.tv###previewBox3
 dunia21s.fun,fb21.tv,lk21.li,nonton21.tv,nontonserial.com###previewBox4
 185.231.223.76,gomunime.biz###promoContainer
 ayononton.co,dunia21.cx,layarkaca21.com,layarkaca21.web.id,lk21tv.com,terbit21.cool###ptbanner
+terbit21.cafe###ptbanner.row
 zonabola.com###rAds
 utusan.com.my###rec_ad4
 193.178.172.113###repop
@@ -1182,7 +1183,7 @@ dunia21.top,lk21.cc###tengah > span
 indoxx1.club###tengahaa
 hotabis.com###text-28 > .textwidget
 indotelko.com###title_kanal
-bioskopkerenin.com,dunia21.cx,ganool.watch,ganool21.watch,kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,movies21.co,sinemaindo.web.id,terbit21.in###top-banner
+bioskopkerenin.com,dunia21.cx,ganool.watch,ganool21.watch,kebioskop21.com,kebioskop21.online,lk21.web.id,lk21tv.com,movies21.co,sinemaindo.web.id,terbit21.cafe,terbit21.in###top-banner
 layarxxi.online###top-banner-content
 orami.co.id###top-banner-parallax
 indoxxi.tv,xx1.tv###top-bnner-content
