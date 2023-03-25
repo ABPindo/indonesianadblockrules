@@ -54,6 +54,7 @@
 ###iklan3
 ###iklan4
 ###iklan700
+###iklanFloat
 ###iklan_atas
 ###iklan_bawah
 ###iklan_kanan
@@ -152,6 +153,7 @@
 ##.iklan-atas
 ##.iklan-bawah
 ##.iklan-bawah-player
+##.iklan-header-item
 ##.iklan-kanan
 ##.iklan-kiri
 ##.iklan-latest-kanan
@@ -231,6 +233,3 @@
 ##a[alt="iklan" i]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-###iklanFloat
-##.iklan-bawah
-##.iklan-header-item

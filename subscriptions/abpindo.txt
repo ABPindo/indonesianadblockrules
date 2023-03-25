@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202303252303
+! Version: 202303252321
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 25 Mar 2023 23:03 UTC
+! Last modified: 25 Mar 2023 23:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -47,7 +47,6 @@
 ||brand.ad^$third-party
 ||caribanner.bid^$third-party
 ||cdnasiaclub.com^$third-party
-||cfs.u-ad.info^
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
 ||clickmedia.co.id^$third-party
@@ -774,6 +773,7 @@ totolink.id#@#.social-circle
 ###iklan3
 ###iklan4
 ###iklan700
+###iklanFloat
 ###iklan_atas
 ###iklan_bawah
 ###iklan_kanan
@@ -872,6 +872,7 @@ totolink.id#@#.social-circle
 ##.iklan-atas
 ##.iklan-bawah
 ##.iklan-bawah-player
+##.iklan-header-item
 ##.iklan-kanan
 ##.iklan-kiri
 ##.iklan-latest-kanan
@@ -1444,6 +1445,7 @@ suki48.web.id##.iklanSUKI
 awsubs.co##.iklansamping
 ld2tv.com##.img-banner
 dutafilm.cfd,dutafilm.observer,dutafilm.us##.imgbanner
+nanimex1.com##.in.modal-backdrop
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 motorplus-online.com,www.sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
@@ -1812,6 +1814,7 @@ bioskop78.com##td:nth-of-type(3)
 /Banner-Poker$image
 /Banner-Suhubola-$image
 /Betcoin-$image
+/CIKASLOT-$image
 /DEWALIVE_$image
 /Dazbet.gif$image
 /Dewatogel-$image
@@ -1829,6 +1832,7 @@ bioskop78.com##td:nth-of-type(3)
 /MEJAHOKI.gif|$image
 /MacauDewa-$image
 /NIKMATIQQ.$image
+/NewPentaSlot.gif|$image
 /PESBOLA-$image
 /PINK4D.webp|$image
 /PISANGBET-$image
@@ -1905,6 +1909,7 @@ bioskop78.com##td:nth-of-type(3)
 /bigwin-banner-$image
 /bijitogel-$image
 /bisnis4d-
+/bisnis4d.gif|$image
 /bokep-update.gif|$image
 /bolagila-$image
 /bolavegas-$image
@@ -2079,7 +2084,6 @@ bioskop78.com##td:nth-of-type(3)
 /pemainkasino-$image
 /pendekarqq-$image
 /pentaslot-$image
-/pentaslot.gif$image
 /pkutama2-$image
 /poker24s-$image
 /poker7club-$image

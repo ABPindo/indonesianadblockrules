@@ -490,6 +490,7 @@ suki48.web.id##.iklanSUKI
 awsubs.co##.iklansamping
 ld2tv.com##.img-banner
 dutafilm.cfd,dutafilm.observer,dutafilm.us##.imgbanner
+nanimex1.com##.in.modal-backdrop
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 motorplus-online.com,www.sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
@@ -739,4 +740,3 @@ animebatchs.com##img[width="720"][height="90"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-nanimex1.com##.in.modal-backdrop
