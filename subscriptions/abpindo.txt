@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202303271450
+! Version: 202304041018
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 27 Mar 2023 14:50 UTC
+! Last modified: 04 Apr 2023 10:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -355,7 +355,7 @@
 /wpsafelink$script,third-party
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.org|lk21tv.com|movieajip.online|oploverz.tv|otakudesu.ltd
+.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|movieajip.online|oploverz.tv|otakudesu.ltd
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
@@ -378,13 +378,6 @@ iklan300x250.gif|
 ||awnime.net/popup.htm$popup
 ||banibajury.website^$popup,domain=komikcast.com
 ||beritabaru.news/sc/detect-click.js
-||bioskop007.*/wp-content/uploads/*.gif$image
-||bioskop168.*/wp-content/uploads/*.gif$image
-||bioskop19.*/wp-content/uploads/*.gif$image
-||bioskop21.*/wp-content/uploads/*.gif$image
-||bioskop212.*/wp-content/uploads/*.gif$image
-||bioskop45.*/Banner/*.gif$image
-||bioskop55.*/wp-content/uploads/*.gif$image
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
@@ -399,13 +392,6 @@ iklan300x250.gif|
 ||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script,domain=myanimeindo.net
 ||cdn.staticaly.com/gh/sotazer/sotazone/*/kurazoneAdblock.js
 ||cekerayam.xyz/wp-content/uploads/*.gif$image
-||cinema-indo.com/banere/*.gif$image
-||cinema007.*/wp-content/uploads/*.gif$image
-||cinemaindo.*/wp-content/uploads/*.gif$image
-||cinemaindo.web.id/banere/
-||cinemaindo.web.id/temane/aa/ada.js?id=1461751640199$script
-||cinemaqq.*/wp-content/uploads/*.gif$image
-||cinemastar21.*/wp-content/uploads/*.gif$image
 ||comotin.com/wp-content/uploads/*.gif$image
 ||conan.id/wp-content/uploads/2018/*.gif$image
 ||desustream.me/banner/$image
@@ -421,26 +407,14 @@ iklan300x250.gif|
 ||detik.com/live/js/msite/maeg_preview.js$script
 ||detik.com/live/js/msite/maegv2.js$script
 ||detik.com/mobile/js/it.mobile.js$script
-||dewamovie.*/wp-content/uploads/*.gif$image
-||dewanonton.*/static/banner/*.gif$image,~third-party
 ||dewanontons.com/wp-content/uploads/*.gif$image
 ||dewantn.com/wp-content/uploads/*.gif$image
 ||doodcdn.com/ads/ad.js
 ||dramaday.net/soundtrack.js$script
-||dunia21.*/assets/*.gif$image
-||dunia21s.*/wp-content/uploads/*.gif$image
-||dwanonton.*/wp-content/uploads/*.gif$image
 ||dwanonton.com/static/banner/*.gif$image
 ||ebsoft.web.id/wp-content/banners/
 ||eramuslim.com/banners
 ||fansubupdate.com/res/img/sampleads/
-||fb21.*/img/closeX.png$image
-||fb21.*/wp-content/uploads/*.gif$image
-||film-ganool.*/wp-content/uploads/*.gif$image
-||film21terbaru.org/wp-content/uploads/*.gif$image
-||film21terbaru.tv/wp-content/uploads/*.gif$image
-||filmace21.net/imgiklan/*.gif$image
-||filmace21.net/imgiklanz/*.gif$image
 ||filmbaru.in/wp-content/uploads/*.gif$image
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
 ||fix.samlike.net/fixsafe.js$script,domain=animebatch.web.id
@@ -509,7 +483,6 @@ iklan300x250.gif|
 ||kotakgame.com/images/bnr/partner/*.jpg
 ||kuyhaa-me.com/meongvpn.js$script,domain=kuyhaa-me.com
 ||lapak-online.net^$popup,third-party
-||layarkaca21.*/assets/*.gif$image
 ||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
 ||layarkeren.*/wp-content/uploads/*.gif$image
 ||linkgenerator.xyz$script,third-party
@@ -534,7 +507,6 @@ iklan300x250.gif|
 ||modifikasi.com/images/banner/$third-party
 ||modifikasi.com/images/banner/*.gif$image
 ||modifikasi.com/images/banner_
-||movie303.*/wp-content/uploads/*.gif$image
 ||moviegan.com/wp-content/uploads/*.gif$image
 ||movieon21.*/wp-content/uploads/*.gif$image
 ||movietube21.*/wp-content/uploads/*.gif$image
@@ -546,22 +518,17 @@ iklan300x250.gif|
 ||nanime.biz^$third-party
 ||nekonime.best/iklan/$image
 ||nekonime.site/iklan/
-||newlk21.*/wp-content/uploads/*.gif$image
 ||nobartv.com/adsLoader/$xmlhttprequest
 ||nobartv.com/img/banner/*.gif$image
 ||nonton.club/wp-content/uploads/*.gif$image
-||nonton21.*/wp-content/uploads/*.gif$image
-||nonton33.*/wp-content/uploads/*.gif$image
 ||nontonbareng.tv/wp-content/uploads/*.gif$image
 ||nontonbox.tv/img/closeX.png
 ||nontonbox.tv/wp-content/uploads/*.gif$image
 ||nontondrama.*/wp-content/uploads/*.gif$image
 ||nontondramaonline.co/oke/*.gif$image
 ||nontondramas.*/wp-content/uploads/*.gif$image
-||nontonfilm77.*/wp-content/uploads/*.gif$image
 ||nontonfilmbaru.*/wp-content/uploads/*.gif$image
 ||nontonfilmku.*/wp-content/uploads/*.gif$image
-||nontongratis88.*/wp-content/uploads/*.gif$image
 ||nontonindrama.com/oke/*.gif$image
 ||nontonindrama.com/okes/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
