@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202304041018
+! Version: 202304081140
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 04 Apr 2023 10:18 UTC
+! Last modified: 08 Apr 2023 11:40 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1041,7 +1041,7 @@ mangaku.site,mangaku.vip###ftadsth
 resep.web.id###googlebox
 cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.org###hbanner
 cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
-bioskopkeren.beauty,bioskopkeren.bond###headads
+bioskopkeren.beauty,bioskopkeren.bond,download.bioskopkeren.sbs###headads
 indosiar.com###headerbanner
 indoxxi.top,indoxxi.tv###home-bnner-content
 indoxxi.top###home-bnner2-content
@@ -1071,7 +1071,7 @@ b201.info,bioskop201.biz###kayan_reklam_sol
 zonabola.com###lAds
 pkspiyungan.org###largebanner
 mangafap.com###lbanner
-5.182.209.205,filmapik.kim,filmapik.sbs###le_header_ads
+5.182.209.205,filmapik.kim,filmapik.sbs,filmapik21.space###le_header_ads
 kabar2.com###leaderboard
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 detik.com###leaderboard[style*="width: 750px;height: 100px;"]
@@ -2250,6 +2250,7 @@ totojitu.gif|$image
 /bandarqterpercaya.$image,third-party
 /bandarsakong.$image,third-party
 /bandartaruhan.$image,third-party
+/bandarxl.gif|$image
 /bandarxlnew.$image
 /bcadomino.$image,third-party
 /beliqq.$image,third-party
@@ -2345,6 +2346,7 @@ totojitu.gif|$image
 /hdpbola.$image,third-party
 /hebatqq.$image,third-party
 /hjtowin.$image,third-party
+/hkindo.webp$image
 /hkpool.$image,third-party
 /hm88poker.$image,third-party
 /hobi88.$image,third-party
@@ -2660,6 +2662,7 @@ totojitu.gif|$image
 /tangkaskita.$image,third-party
 /tangkaspro.$image,third-party
 /tatacasino.$image,third-party
+/Tato888.webp|$image
 /tatobet.$image,third-party
 /texaspoker.$image,third-party
 /texasqq.$image,third-party
