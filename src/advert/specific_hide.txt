@@ -80,6 +80,8 @@ nontonserial.com###fatas
 cinema-indo.com,cinemaindo.web.id,filmbagus21.info,filmbagus21.web.id,ganool.li,layarkaca21.com,layarkaca21.net,layarkaca21.tv,layarkaca21.web.id,lk21.org,lk21.tv,nonton21.net,nontonmovie.web.id###fbanner
 fb21.tv,nonton21.tv,nontonserial.com###fbawah
 cinema-indo.com,layarkaca21.net,layarkaca21.tv,layarkaca21.web.id,lk21.me,lk21.org,lk21.tv,nonton21.net,nontonmovie.web.id###fbbanner
+layarkaca21.*###fbbanner
+layarkaca21.*###fbanner
 indoxx1.pw###ffbp
 indoxxi.pictures###ffbp-bg
 indoxxi.pictures###ffbp-body
@@ -118,6 +120,7 @@ gadgetren.com###footer_sticky_inside
 mangaku.site,mangaku.vip###ftadsth
 resep.web.id###googlebox
 cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.org###hbanner
+layarkaca21.*###hbanner
 cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
 bioskopkeren.beauty,bioskopkeren.bond,download.bioskopkeren.sbs###headads
 indosiar.com###headerbanner
@@ -181,6 +184,7 @@ dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
 15.235.11.45,65.108.132.145,oploverz.bz###overplay
 cinema-indo.com,cinemaindo.web.id,layarkaca21.net,layarkaca21.web.id,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
+layarkaca21.*###pbanner
 eramuslim.com###peluang
 idxx1.top###player-side-left
 idxx1.top,indoxx1.com###player-side-right
@@ -196,6 +200,7 @@ dunia21s.fun,fb21.tv,lk21.li,nonton21.tv###previewBox3
 dunia21s.fun,fb21.tv,lk21.li,nonton21.tv,nontonserial.com###previewBox4
 185.231.223.76,gomunime.biz###promoContainer
 ayononton.co,dunia21.cx,layarkaca21.com,layarkaca21.web.id,lk21tv.com,terbit21.cool###ptbanner
+layarkaca21.*###ptbanner
 terbit21.cafe###ptbanner.row
 zonabola.com###rAds
 utusan.com.my###rec_ad4
