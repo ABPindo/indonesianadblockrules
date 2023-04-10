@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202304081140
+! Version: 202304101023
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 08 Apr 2023 11:40 UTC
+! Last modified: 10 Apr 2023 10:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1097,7 +1097,7 @@ nobartv.com###nbpopx-wrapper
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
 detik.com###otp_banner
-drakorindo.best,gatsunime.org,giladrakor.com,gudangmovies21.lol,layarkeren.site###ouibounce-modal
+drakorindo.best,gatsunime.org,giladrakor.com,gudangmovies21.lol,gudangmovies21.skin,layarkeren.site###ouibounce-modal
 149.56.24.226,kricom.id###overlay
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
@@ -1648,6 +1648,7 @@ rasa.my##div[data-ub-carousel]
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
+gudangmovies21.*###ouibounce-modal
 bacamanga.id,kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
