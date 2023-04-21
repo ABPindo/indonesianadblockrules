@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202304161411
+! Version: 202304212219
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 16 Apr 2023 14:11 UTC
+! Last modified: 21 Apr 2023 22:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -956,6 +956,7 @@ tempointeraktif.com###banner-bawah
 duniaku.net###banner-popup-desktop
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
+komikcast.site###bannerhomefooter
 hdtvku.com###bannerkategoriheader
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
 tribunnews.com###bannerku
@@ -1028,7 +1029,7 @@ nontonsini.com###floatbawah
 lk21.host###floatbot
 samehadaku.run###floatbottom
 sinemaindo.web.id###floatbtmleft
-149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,samehadaku.run###floatcenter
+149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,isekaisubs.web.id,samehadaku.run###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com###floating_ads_bottom_textcss_wrap
 blogspot.com###floating_banner_bottom2
@@ -1147,8 +1148,8 @@ tribunnews.com###skinads
 log.viva.co.id###skinframe-ad-left
 harianjogja.com,solopos.com###solopos_float
 detik.com###sto_banner
-15.235.11.45,65.108.132.145,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,filmroster.online,luciferdonghua.in,mangashiro.net,neumanga.tv,oploverz.fan,oploverz.tv,realmscans.com###teaser1
-22cinema.download,65.108.132.145,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,komiku.net,luciferdonghua.in,movie76.net,nontonmovie.web.id,realmscans.com###teaser2
+15.235.11.45,65.108.132.145,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,filmroster.online,isekaisubs.web.id,luciferdonghua.in,mangashiro.net,neumanga.tv,oploverz.fan,oploverz.tv,realmscans.com###teaser1
+22cinema.download,65.108.132.145,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,isekaisubs.web.id,komiku.net,luciferdonghua.in,movie76.net,nontonmovie.web.id,realmscans.com###teaser2
 15.235.11.45,22cinema.download,45.12.2.2,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,layarbiru21.com,lmanime.com,luciferdonghua.co.in,luciferdonghua.in,movie76.net,nontonmovie.web.id,oploverz.info,oploverz.tv,realmscans.com###teaser3
 22cinema.download###teaser5
 indoxx1.club###tengah
@@ -1398,7 +1399,7 @@ bisnis.com##.flying_carpet_show
 bisnis.com##.flying_carpet_show_inner
 cnnindonesia.com,teknoup.com##.footer_banner
 manganime.id##.ftadss
-komikindo.id##.gambar_pemanis
+komikcast.net,komikindo.id,komikindo.pro##.gambar_pemanis
 myasiantv.se##.glx-link
 myasiantv.se##.glx-teaser
 kompas.com##.hAds
@@ -1431,7 +1432,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,15.235.11.45,45.12.2.2,anichin.vip,animasu.nl,anoboy.id,kazefuri.net,kiryuu.id,komikindo.co,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.info,oploverz.tv,westmanga.info##.kln
+107.152.37.223,15.235.11.45,45.12.2.2,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kiryuu.id,komikindo.co,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.info,oploverz.tv,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -1588,6 +1589,7 @@ idfl.me##[href="http://bit.ly/adsvbola"]
 anoboy.digital,anoboy.media##[href="http://click2go.me/aksesklik4a"]
 filmbokep21.shop##[href="http://sbovn88.net/"]
 anoboy.media##[href="https://144.126.241.203/invite/c6c83up"]
+komikcast.site##[href="https://bit.ly/KaikoSLOT"]
 anoboy.media##[href="https://bit.ly/anoboySG88"]
 idxx1.top##[href="https://indoxplay.com/promosi/slots"]
 anoboy.media##[href="https://kliksaya.info/mcdanoboy"]
