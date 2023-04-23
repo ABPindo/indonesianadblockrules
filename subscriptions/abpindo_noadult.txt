@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202304212219
+! Version: 202304231312
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 21 Apr 2023 22:19 UTC
+! Last modified: 23 Apr 2023 13:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE

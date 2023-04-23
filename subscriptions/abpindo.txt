@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202304212219
+! Version: 202304231312
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 21 Apr 2023 22:19 UTC
+! Last modified: 23 Apr 2023 13:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2361,6 +2361,7 @@ totojitu.gif|$image
 /garudaqq.$image,third-party
 /gebyarbola.$image,third-party
 /gebyarliga.$image,third-party
+/GITARTOGEL-$image
 /guepoker.$image,third-party
 /halobos.$image,third-party
 /hanabet.$image,third-party
@@ -2630,10 +2631,12 @@ totojitu.gif|$image
 /rgobetnew.$image,third-party
 /rgocasino.$image,third-party
 /rgosky.$image,third-party
+/ronaldo4d-$image
 /royalbola.$image,third-party
 /royaljackpot.$image,third-party
 /royalkasino.$image,third-party
 /royalpoker99.$image,third-party
+/royalslot88-$image
 /ruangQQ.$image,third-party
 /rumahbokep.$image,third-party
 /sahabatarena.$image,third-party
@@ -2687,6 +2690,7 @@ totojitu.gif|$image
 /Tato888.webp|$image
 /tatobet.$image,third-party
 /texaspoker.$image,third-party
+/texaspokercc.gif|$image
 /texasqq.$image,third-party
 /togel212.$image,third-party
 /togelbet.$image,third-party
@@ -2730,6 +2734,7 @@ totojitu.gif|$image
 /wongpkr.$image,third-party
 /wongpoker.$image,third-party
 /ysbjaya88.$image,third-party
+388hero.gif|$image
 ||116poker.$image,third-party
 ||116poker.$popup
 ||11juni.$image,third-party
