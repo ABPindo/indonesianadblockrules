@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202304292331
+! Version: 202304301247
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 29 Apr 2023 23:31 UTC
+! Last modified: 30 Apr 2023 12:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1951,7 +1951,6 @@ bioskop78.com##td:nth-of-type(3)
 /gdgpkr200-$image
 /gerhanaqq-$image
 /gilapoker-$image
-/gitartogel.gif|$image
 /goalgoal365-$image
 /goodbola-bannerfilm.gif|
 /hahatogel-gif$image
@@ -2234,6 +2233,7 @@ totojitu.gif|$image
 /agenvimaxindo.$image,third-party
 /agungpoker.$image,third-party
 /ahabet.$image,third-party
+/AHABET.$image,third-party
 /ahabetx900.$image
 /ahliqq.$image,third-party
 /alampoker.$image,third-party
@@ -2373,7 +2373,7 @@ totojitu.gif|$image
 /hdpbola.$image,third-party
 /hebatqq.$image,third-party
 /hjtowin.$image,third-party
-/hkindo.webp$image
+/hkindo.$image,third-party
 /hkpool.$image,third-party
 /hm88poker.$image,third-party
 /hobi88.$image,third-party
@@ -2404,7 +2404,7 @@ totojitu.gif|$image
 /ibuqq.$image,third-party
 /idolabet.$image,third-party
 /idrbola.$image,third-party
-/idrbt.webp$image
+/idrbt.webp$image,third-party
 /idrpoker.$image,third-party
 /iklanqq.$image,third-party
 /iklanx.$image,third-party
@@ -2414,6 +2414,7 @@ totojitu.gif|$image
 /incarqq.$image,third-party
 /indorajaqq.$image,third-party
 /indotogel.$image,third-party
+/INDOTOGEL.$image,third-party
 /indowin99.$image,third-party
 /indowins.$image,third-party
 /inidomino.$image,third-party
@@ -2576,7 +2577,7 @@ totojitu.gif|$image
 /pasangnomor2.$image,third-party
 /pemaintogel.$image,third-party
 /pendekarqq.$image,third-party
-/Pentaslot.$image
+/Pentaslot.$image,third-party
 /pesonaqq.$image,third-party
 /pialabet.$image,third-party
 /pialaqq.$image,third-party
@@ -2585,10 +2586,11 @@ totojitu.gif|$image
 /pokerastro.$image,third-party
 /pokerbola.$image,third-party
 /pokerboya.$image,third-party
+/POKERBOYA.$image,third-party
 /pokergalaxy.$image,third-party
 /PokerHalo.$image,third-party
 /pokerintan.$image,third-party
-/pokerkiu.$image
+/pokerkiu.$image,third-party
 /pokermas99.$image,third-party
 /pokermon24.$image,third-party
 /pokerpromo.$image,third-party
@@ -2600,11 +2602,11 @@ totojitu.gif|$image
 /pop-grand77.$image,third-party
 /prediksisingapore.$image,third-party
 /prediksitogeljitu.$image,third-party
-/probet24.$image
+/probet24.$image,third-party
 /promosi365.$image,third-party
 /pusatqq.$image,third-party
 /qbandars.$image,third-party
-/qq1bet.$image
+/qq1bet.$image,third-party
 /qqalfa.$image,third-party
 /qqasli.$image,third-party
 /qqdewa.$image,third-party
@@ -2613,7 +2615,7 @@ totojitu.gif|$image
 /qqjempol.$image,third-party
 /qqjoker.$image,third-party
 /qqnalo.$image,third-party
-/qqpedia.$image
+/qqpedia.$image,third-party
 /qqpilihan.$image,third-party
 /qqpokerplay.$image,third-party
 /qqsamsung.$image,third-party
@@ -2633,8 +2635,10 @@ totojitu.gif|$image
 /rejekibet.$image,third-party
 /rezekibola.$image,third-party
 /rgobet.$image,third-party
+/RGOBET.$image,third-party
 /rgobetnew.$image,third-party
 /rgocasino.$image,third-party
+/RGOCASINO.$image,third-party
 /rgosky.$image,third-party
 /ronaldo4d-$image
 /ronaldo4d.gif$image
@@ -2697,6 +2701,7 @@ totojitu.gif|$image
 /Tato888.webp|$image
 /tatobet.$image,third-party
 /texaspoker.$image,third-party
+/TEXASPOKERCC-$image
 /TEXASPOKERCC.$image,third-party
 /texaspokercc.gif|$image
 /texasqq.$image,third-party
@@ -2707,6 +2712,7 @@ totojitu.gif|$image
 /togeltoto.$image,third-party
 /toppoker789.$image,third-party
 /totobet.$image,third-party
+/TOTOBET.$image,third-party
 /totohoki.$image,third-party
 /totojek.$image,third-party
 /totokita.$image,third-party
@@ -2725,8 +2731,8 @@ totojitu.gif|$image
 /venombet.$image,third-party
 /vimaxasli.$image,third-party
 /vimaxpills.$image,third-party
-/vipslot.$image
-/vipslot77.$image
+/vipslot.$image,third-party
+/vipslot77.$image,third-party
 /vivacm88.$image,third-party
 /vivobetting.$image,third-party
 /vodka728x90.$image,third-party
@@ -2734,6 +2740,7 @@ totojitu.gif|$image
 /warnaqq.$image,third-party
 /wedeqq.$image,third-party
 /wigo-bet.$image,third-party
+/WIGOBET.$image,third-party
 /wigobet.$image,third-party
 /wigobetnew.$image,third-party
 /window-close.$image,third-party
