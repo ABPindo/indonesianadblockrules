@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202305130042
+! Version: 202305130945
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 13 May 2023 00:42 UTC
+! Last modified: 13 May 2023 09:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2235,6 +2235,7 @@ totojitu.gif|$image
 /agungpoker.$image,third-party
 /AHABET.$image,third-party
 /ahabet.$image,third-party
+/AHABET.webp$image
 /ahabetx900.$image
 /ahliqq.$image,third-party
 /alampoker.$image,third-party
@@ -2414,8 +2415,9 @@ totojitu.gif|$image
 /imcpoker.$image,third-party
 /incarqq.$image,third-party
 /indorajaqq.$image,third-party
-/INDOTOGEL.$image,third-party
 /indotogel.$image,third-party
+/INDOTOGEL.$image,third-party
+/INDOTOGEL.webp$image
 /indowin99.$image,third-party
 /indowins.$image,third-party
 /inidomino.$image,third-party
@@ -2638,8 +2640,9 @@ totojitu.gif|$image
 /RGOBET.$image,third-party
 /rgobet.$image,third-party
 /rgobetnew.$image,third-party
-/RGOCASINO.$image,third-party
 /rgocasino.$image,third-party
+/RGOCASINO.$image,third-party
+/RGOCASINO.webp$image
 /rgosky.$image,third-party
 /ronaldo4d-$image
 /ronaldo4d.gif$image
@@ -2705,6 +2708,7 @@ totojitu.gif|$image
 /TEXASPOKERCC-$image
 /TEXASPOKERCC.$image,third-party
 /texaspokercc.gif|$image
+/TEXASPOKERCC.webp$image
 /texasqq.$image,third-party
 /togel212.$image,third-party
 /togelbet.$image,third-party
@@ -2712,8 +2716,8 @@ totojitu.gif|$image
 /togellounge.$image,third-party
 /togeltoto.$image,third-party
 /toppoker789.$image,third-party
-/TOTOBET.$image,third-party
 /totobet.$image,third-party
+/TOTOBET.$image,third-party
 /totohoki.$image,third-party
 /totojek.$image,third-party
 /totokita.$image,third-party
