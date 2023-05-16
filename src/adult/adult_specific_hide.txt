@@ -58,6 +58,7 @@ manhwadesu.org##[href="https://klik.gg/manhwadesu"]
 xtubecinema.club##[href^="/GoUrl.php?ads="]
 139.99.33.205##[href^="https://bit.ly/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
+samehadaku.cam##a[rel*="nofollow"]
 anoboy.*###popup_bawah
 anoboy.*###popup_box
 anoboy.*##[href="https://klik.gg/anoboy"]
