@@ -23,7 +23,6 @@
 %include abpindo:src/advert/specific_hide.txt%
 !--------------------------- adult ------------------------------!
 %include abpindo:src/adult/adult_general_block.txt%
-%include abpindo:src/adult/adult_general_domain.txt%
 %include abpindo:src/adult/adult_general_hide.txt%
 %include abpindo:src/adult/adult_specific_block.txt%
 %include abpindo:src/adult/adult_specific_hide.txt%
