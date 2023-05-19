@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202305190253
+! Version: 202305190314
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 19 May 2023 02:53 UTC
+! Last modified: 19 May 2023 03:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1588,11 +1588,9 @@ sukamovie.club##[href$="/sukamovieclub"]
 pakbos21.org##[href="//dumbpop.com/help.xml"]
 idfl.me##[href="http://bit.ly/adsvbola"]
 anoboy.digital,anoboy.media##[href="http://click2go.me/aksesklik4a"]
-filmbokep21.shop##[href="http://sbovn88.net/"]
 anoboy.media##[href="https://144.126.241.203/invite/c6c83up"]
 komikcast.site##[href="https://bit.ly/KaikoSLOT"]
 anoboy.media##[href="https://bit.ly/anoboySG88"]
-idxx1.top##[href="https://indoxplay.com/promosi/slots"]
 anoboy.media##[href="https://kliksaya.info/mcdanoboy"]
 dl.ocanoke.com##[href="https://www.ocanoke.com/"]
 15.235.11.45##[href="https://yukclick.me/oploverzpopluxury111"]
@@ -1601,7 +1599,6 @@ nekonime.com##[href^="//wizliebeg.com/"]
 akurat.co##[href^="http://152.44.32.81"]
 bioskopkerenin.com,drakorindo.best##[href^="http://bit.ly/"]
 kazefuri.web.id##[href^="http://dwatngkas."]
-otakudesu.watch##[href^="http://enakbet.link/"]
 bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
@@ -2234,7 +2231,6 @@ totojitu.gif|$image
 /agentaruhan.$image,third-party
 /agenvimaxindo.$image,third-party
 /agungpoker.$image,third-party
-/AHABET.$image,third-party
 /ahabet.$image,third-party
 /AHABET.webp$image
 /ahabetx900.$image
@@ -2417,8 +2413,6 @@ totojitu.gif|$image
 /incarqq.$image,third-party
 /indorajaqq.$image,third-party
 /indotogel.$image,third-party
-/INDOTOGEL.$image,third-party
-/INDOTOGEL.webp$image
 /indowin99.$image,third-party
 /indowins.$image,third-party
 /inidomino.$image,third-party
@@ -2591,7 +2585,6 @@ totojitu.gif|$image
 /pokerastro.$image,third-party
 /pokerbola.$image,third-party
 /pokerboya.$image,third-party
-/POKERBOYA.$image,third-party
 /pokergalaxy.$image,third-party
 /PokerHalo.$image,third-party
 /pokerintan.$image,third-party
@@ -2640,11 +2633,8 @@ totojitu.gif|$image
 /rejekibet.$image,third-party
 /rezekibola.$image,third-party
 /rgobet.$image,third-party
-/RGOBET.$image,third-party
 /rgobetnew.$image,third-party
-/RGOCASINO.$image,third-party
 /rgocasino.$image,third-party
-/RGOCASINO.webp$image
 /rgosky.$image,third-party
 /ronaldo4d-$image
 /ronaldo4d.gif$image
@@ -2718,7 +2708,6 @@ totojitu.gif|$image
 /togellounge.$image,third-party
 /togeltoto.$image,third-party
 /toppoker789.$image,third-party
-/TOTOBET.$image,third-party
 /totobet.$image,third-party
 /totohoki.$image,third-party
 /totojek.$image,third-party
@@ -2747,7 +2736,6 @@ totojitu.gif|$image
 /warnaqq.$image,third-party
 /wedeqq.$image,third-party
 /wigo-bet.$image,third-party
-/WIGOBET.$image,third-party
 /wigobet.$image,third-party
 /wigobetnew.$image,third-party
 /window-close.$image,third-party
@@ -5051,16 +5039,15 @@ totojitu.gif|$image
 ##.togel
 ##[href$=".win/simantan"]
 ##[href$="/77megabet"]
-##[href$="/AgenIDNPoker"]
+##[href$="/AgenIDNPoker" i]
 ##[href$="/KaikoSLOT" i]
-##[href$="/KaikoSLOT"]
-##[href$="/KaikoSlot"]
-##[href$="/LonteQQ"]
+##[href$="/KaikoSlot" i]
+##[href$="/LonteQQ" i]
 ##[href$="/PentaSLOT" i]
 ##[href$="/PentaSLOT"]
 ##[href$="/Pentaslot"]
-##[href$="/Saldobet"]
-##[href$="/abgcrot"]
+##[href$="/Saldobet" i]
+##[href$="/abgcrot" i]
 ##[href$="/adlvslotgacor"]
 ##[href$="/adscantikqq"]
 ##[href$="/adskartu66"]
@@ -5077,9 +5064,9 @@ totojitu.gif|$image
 ##[href$="/adsmurnibet"]
 ##[href$="/adspriaqq"]
 ##[href$="/adsrumahsakong"]
-##[href$="/agenbola"]
+##[href$="/agenbola" i]
 ##[href$="/angelpoker"]
-##[href$="/arenawin"]
+##[href$="/arenawin" i]
 ##[href$="/asikspin"]
 ##[href$="/bandarpokerpulsa"]
 ##[href$="/bandarq365"]
@@ -5119,13 +5106,13 @@ totojitu.gif|$image
 ##[href$="/kdslotsfreechip"]
 ##[href$="/klik66"]
 ##[href$="/klikqq"]
-##[href$="/koinslots"]
+##[href$="/koinslots" i]
 ##[href$="/kointoto"]
-##[href$="/komik4d"]
+##[href$="/komik4d" i]
 ##[href$="/lapakslot"]
-##[href$="/ligadunia"]
-##[href$="/ligapoker"]
-##[href$="/ligasloto"]
+##[href$="/ligadunia" i]
+##[href$="/ligapoker" i]
+##[href$="/ligasloto" i]
 ##[href$="/linkwebgacor"]
 ##[href$="/mahadewa"]
 ##[href$="/mahadewa88"]
@@ -5135,27 +5122,27 @@ totojitu.gif|$image
 ##[href$="/master88"]
 ##[href$="/megabandar"]
 ##[href$="/memeksiana5"]
-##[href$="/mesinGOCROT"]
+##[href$="/mesinGOCROT" i]
 ##[href$="/mobapoker"]
 ##[href$="/mtphoki"]
 ##[href$="/nexiabet/"]
 ##[href$="/okecgoaloo"]
 ##[href$="/okekiuhoki"]
 ##[href$="/paragonslot77"]
-##[href$="/pedasbet"]
+##[href$="/pedasbet" i]
 ##[href$="/perawanbokepxgl"]
 ##[href$="/pokercantik"]
 ##[href$="/pokermon24"]
 ##[href$="/pokerslotgacor"]
-##[href$="/rajasloto"]
-##[href$="/ratuqq"]
+##[href$="/promosi/slots"]
+##[href$="/rajasloto" i]
+##[href$="/ratuqq" i]
 ##[href$="/rotitogel"]
 ##[href$="/royalbet"]
 ##[href$="/sbopoker/"]
-##[href$="/sindoqq"]
+##[href$="/sindoqq" i]
 ##[href$="/slotmesinpulsa"]
 leon.bet#@#[href$="/slots"]
-##[href$="/slots"]
 ##[href$="/sodasusu"]
 ##[href$="/tahunqq"]
 ##[href$="/tantemontok"]
@@ -5173,12 +5160,9 @@ leon.bet#@#[href$="/slots"]
 ##[href$="ref=bokepmania"]
 ##[href="http://51.79.155.108/hokibet99/"]
 ##[href="https://172.104.39.221/slots/pragmatic"]
-##[href="https://bit.ly/KaikoSLOT"]
-##[href="https://bit.ly/PentaSLOT"]
 ##[href="https://hasil-keluaran-hk.com/redirecting"]
 ##[href="https://themarket.life/register/YKRGLNP8"]
 ##[href^="//zukxd6fkxqn.com/"]
-##[href^="/GoUrl.php?ads="]
 ##[href^="http://081364439991.org/register/"]
 ##[href^="http://1001win.fun"]
 ##[href^="http://1001win.site"]
@@ -5511,7 +5495,6 @@ leon.bet#@#[href$="/slots"]
 ##[href^="http://duniaspa."]
 ##[href^="http://dwabet."]
 ##[href^="http://dwabt.vip"]
-##[href^="http://dwabt.vip/"]
 ##[href^="http://dwatngks."]
 ##[href^="http://dwcash.net"]
 ##[href^="http://dwcash.us"]
@@ -6769,7 +6752,6 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://bisakaya.org"]
 ##[href^="https://bisnis4d.co"]
 ##[href^="https://bisnis4d.vip"]
-##[href^="https://bisnis4d.vip/"]
 ##[href^="https://bit.ly/Pentaslot"]
 ##[href^="https://bit.ly/adsapik"]
 ##[href^="https://bit.ly/emas188manhwa"]
@@ -6857,7 +6839,6 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://mboplay88.com"]
 ##[href^="https://mejajoker."]
 ##[href^="https://menangslot.casino"]
-##[href^="https://menangslot.casino/"]
 ##[href^="https://mponaga88.com"]
 ##[href^="https://mukaqq."]
 ##[href^="https://murahbet2.com"]
@@ -6902,7 +6883,6 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://sakong."]
 ##[href^="https://sakongkiu."]
 ##[href^="https://sbcc2023.com"]
-##[href^="https://sbobet."]
 ##[href^="https://sbobet.host"]
 ##[href^="https://sbopokerindo.club/"]
 ##[href^="https://scr99bet."]
@@ -6924,7 +6904,6 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://undef8trust."]
 ##[href^="https://unibet99.me"]
 ##[href^="https://unibet99.pro"]
-##[href^="https://unibet99.pro/"]
 ##[href^="https://unibetasia."]
 ##[href^="https://uniplay99.uk/"]
 ##[href^="https://untunginslot.com/"]
@@ -8632,7 +8611,6 @@ leon.bet#@#[href$="/slots"]
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 dutasex.bio,dutasex.top,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
-139.99.33.222###adsimgxatas2
 94.237.74.225,streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB

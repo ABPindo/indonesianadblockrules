@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202305190253
+! Version: 202305190314
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 19 May 2023 02:53 UTC
+! Last modified: 19 May 2023 03:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1588,11 +1588,9 @@ sukamovie.club##[href$="/sukamovieclub"]
 pakbos21.org##[href="//dumbpop.com/help.xml"]
 idfl.me##[href="http://bit.ly/adsvbola"]
 anoboy.digital,anoboy.media##[href="http://click2go.me/aksesklik4a"]
-filmbokep21.shop##[href="http://sbovn88.net/"]
 anoboy.media##[href="https://144.126.241.203/invite/c6c83up"]
 komikcast.site##[href="https://bit.ly/KaikoSLOT"]
 anoboy.media##[href="https://bit.ly/anoboySG88"]
-idxx1.top##[href="https://indoxplay.com/promosi/slots"]
 anoboy.media##[href="https://kliksaya.info/mcdanoboy"]
 dl.ocanoke.com##[href="https://www.ocanoke.com/"]
 15.235.11.45##[href="https://yukclick.me/oploverzpopluxury111"]
@@ -1601,7 +1599,6 @@ nekonime.com##[href^="//wizliebeg.com/"]
 akurat.co##[href^="http://152.44.32.81"]
 bioskopkerenin.com,drakorindo.best##[href^="http://bit.ly/"]
 kazefuri.web.id##[href^="http://dwatngkas."]
-otakudesu.watch##[href^="http://enakbet.link/"]
 bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]

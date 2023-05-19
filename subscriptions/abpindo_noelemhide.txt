@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202305190253
+! Version: 202305190314
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 19 May 2023 02:53 UTC
+! Last modified: 19 May 2023 03:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1234,7 +1234,6 @@ totojitu.gif|$image
 /agentaruhan.$image,third-party
 /agenvimaxindo.$image,third-party
 /agungpoker.$image,third-party
-/AHABET.$image,third-party
 /ahabet.$image,third-party
 /AHABET.webp$image
 /ahabetx900.$image
@@ -1417,8 +1416,6 @@ totojitu.gif|$image
 /incarqq.$image,third-party
 /indorajaqq.$image,third-party
 /indotogel.$image,third-party
-/INDOTOGEL.$image,third-party
-/INDOTOGEL.webp$image
 /indowin99.$image,third-party
 /indowins.$image,third-party
 /inidomino.$image,third-party
@@ -1591,7 +1588,6 @@ totojitu.gif|$image
 /pokerastro.$image,third-party
 /pokerbola.$image,third-party
 /pokerboya.$image,third-party
-/POKERBOYA.$image,third-party
 /pokergalaxy.$image,third-party
 /PokerHalo.$image,third-party
 /pokerintan.$image,third-party
@@ -1640,11 +1636,8 @@ totojitu.gif|$image
 /rejekibet.$image,third-party
 /rezekibola.$image,third-party
 /rgobet.$image,third-party
-/RGOBET.$image,third-party
 /rgobetnew.$image,third-party
-/RGOCASINO.$image,third-party
 /rgocasino.$image,third-party
-/RGOCASINO.webp$image
 /rgosky.$image,third-party
 /ronaldo4d-$image
 /ronaldo4d.gif$image
@@ -1718,7 +1711,6 @@ totojitu.gif|$image
 /togellounge.$image,third-party
 /togeltoto.$image,third-party
 /toppoker789.$image,third-party
-/TOTOBET.$image,third-party
 /totobet.$image,third-party
 /totohoki.$image,third-party
 /totojek.$image,third-party
@@ -1747,7 +1739,6 @@ totojitu.gif|$image
 /warnaqq.$image,third-party
 /wedeqq.$image,third-party
 /wigo-bet.$image,third-party
-/WIGOBET.$image,third-party
 /wigobet.$image,third-party
 /wigobetnew.$image,third-party
 /window-close.$image,third-party
