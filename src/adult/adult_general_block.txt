@@ -716,6 +716,7 @@ totojitu.gif|$image
 /ibet44s.$image,third-party
 /ibobandarq.$image,third-party
 /IBOSPORT-$image
+/ibosport-$image
 /ibosport.$image,third-party
 /ibuqq.$image,third-party
 /idolabet.$image,third-party
@@ -769,6 +770,7 @@ totojitu.gif|$image
 /jokerqq.$image,third-party
 /josbet.$image,third-party
 /JPDEWA.$image
+/JPDEWA.gif$image
 /jppoker.$image,third-party
 /JUDIKARTU.gif|$image
 /Kaikoslot.webp$image
@@ -786,6 +788,7 @@ totojitu.gif|$image
 /ketuapokernew.$image,third-party
 /king4d.$image,third-party
 /kiosqq.$image
+/klikhoki-$image
 /KLIKHOKI-$image
 /klikkiu.$image,third-party
 /klikqq.$image,third-party
@@ -3344,6 +3347,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/JPDEWA.gif$image
-/ibosport-$image
-/klikhoki-$image
