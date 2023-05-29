@@ -98,9 +98,9 @@ komikstation.com###floatbanner
 layardrama21.icu###floatbanner-bottom
 nontonsini.com###floatbawah
 lk21.host###floatbot
-samehadaku.cam,samehadaku.run###floatbottom
+
 sinemaindo.web.id###floatbtmleft
-149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,isekaisubs.web.id,samehadaku.cam,samehadaku.run###floatcenter
+
 ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com###floating_ads_bottom_textcss_wrap
 blogspot.com###floating_banner_bottom2
@@ -308,7 +308,7 @@ apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
 ganol.si##.adsincenter
-samehadaku.run,samehadaku.win##.adsrow
+
 kshowid.com##.adssingle
 cinemaindo.com,cinemaindo.stream##.adstops
 mangaku.in,mangaku.site,mangaku.web.id##.adv
@@ -702,7 +702,7 @@ animebatch.web.id,animeindo.co,animeku.tv,anoboy.digital,anoboy.org,bioskop168.p
 123drakor.com,46.166.167.16,awsubs.id,bioskop45.com,bioskopkeren.club,bioskopkeren.online,bioskopkeren.xyz,bioskopxx1.com,drakorindo.tv,idbioskop.com,indoxxi.top,moviebaru21.com,nonton33.net,ns21.me,ns21.top,serunonton.com##a[href^="https://goo.gl/"]
 lk21c.fun##a[href^="https://rebrand.ly/"]
 komikindo.co##a[href^="https://shope.ee/"]
-samehadaku.cam##a[rel*=”nofollow”][target="_blank"] > img[src$=".gif"]
+
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
 awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
 otakudesu.pro##a[rel^="nofollow noopener"] > img[src$=".gif"]
@@ -718,6 +718,7 @@ nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
 smartphoneku.com##div.ad-before
 nextren.grid.id##div.banner-r
+149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,isekaisubs.web.id###floatcenter
 indoxx1.club##div.content-kuss
 suara.com##div.placeholder_pariwara
 medcom.id##div.showcase.banner
@@ -755,3 +756,16 @@ samehadaku.day##.ads
 samehadaku.day###floatbottom
 samehadaku.day##a[href][target="_blank"] > img[src$=".gif"]
 samehadaku.day###floatcenter
+samehadaku.cam##a[href][target="_blank"] > img[src$=".gif"]
+samehadaku.run##a[href][target="_blank"] > img[src$=".gif"]
+samehadaku.run##.adsrow
+samehadaku.win##.adsrow
+samehadaku.cam###floatbottom
+samehadaku.run###floatbottom
+samehadaku.run###floatcenter
+samehadaku.cam###floatcenter
+samehadaku.*##.adsrow
+samehadaku.*##.ads
+samehadaku.*###floatbottom
+samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
+samehadaku.*###floatcenter
