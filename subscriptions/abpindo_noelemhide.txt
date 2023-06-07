@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202305291419
+! Version: 202306071219
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 29 May 2023 14:19 UTC
+! Last modified: 07 Jun 2023 12:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -314,7 +314,6 @@
 .bid^$popup,third-party
 .biz/iklan/
 .com/iklan/
-.gif$image,domain=15.235.11.45|oploverz.co.in
 .id/ads/
 .id/adv/
 .id/iklan/
@@ -355,7 +354,7 @@
 /wpsafelink$script,third-party
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|movieajip.online|oploverz.tv|otakudesu.ltd
+.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|movieajip.online|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
@@ -1401,8 +1400,8 @@ totojitu.gif|$image
 /ibcwin.$image,third-party
 /ibet44s.$image,third-party
 /ibobandarq.$image,third-party
-/IBOSPORT-$image
 /ibosport-$image
+/IBOSPORT-$image
 /ibosport.$image,third-party
 /ibuqq.$image,third-party
 /idolabet.$image,third-party
@@ -1637,6 +1636,7 @@ totojitu.gif|$image
 /rctiqq.$image,third-party
 /rdomino.$image,third-party
 /rejekibet.$image,third-party
+/REMIPOKER_$image
 /rezekibola.$image,third-party
 /rgobet.$image,third-party
 /rgobetnew.$image,third-party
