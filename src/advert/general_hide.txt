@@ -240,3 +240,4 @@
 ##a[alt="iklan" i]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
+##[href^="https://www.totalping.com"]
