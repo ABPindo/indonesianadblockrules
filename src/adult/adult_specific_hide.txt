@@ -8,7 +8,7 @@ bintangmawar.net###bmpop_adpB
 unyil.net###float-atas
 sangetods.net###floatads
 154.12.229.9,45.67.231.215,75.119.147.12###floating_banner_top1
-kebokepanku.xyz,ruangbokep.top,streamingbokeponline.site###floating_bot
+kamarbokep.xyz,kebokepanku.xyz,ruangbokep.sbs,ruangbokep.top,streamingbokeponline.site,streamingbokeponline.top###floating_bot
 157.245.195.114###floating_bot.btm_ban
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
@@ -58,7 +58,6 @@ manhwadesu.org##[href="https://klik.gg/manhwadesu"]
 xtubecinema.club##[href^="/GoUrl.php?ads="]
 139.99.33.205##[href^="https://bit.ly/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
-kamarbokep.xyz###floating_bot
 anoboy.*###popup_bawah
 anoboy.*###popup_box
 anoboy.*##[href="https://klik.gg/anoboy"]
@@ -70,5 +69,3 @@ komikdewasa.*###teaser3
 komikdewasa.*##.kln
 komikindo.*##.ads
 perawanbokep.*###ads
-ruangbokep.sbs###floating_bot
-streamingbokeponline.top###floating_bot
