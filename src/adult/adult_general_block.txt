@@ -743,6 +743,7 @@ totojitu.gif|$image
 /itubandar.$image,third-party
 /itucasino.$image,third-party
 /itudewa.$image,third-party
+/ituDomino.$image
 /itudomino.$image
 /itudomino728.$image,third-party
 /itugol.$image,third-party
@@ -3348,4 +3349,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/ituDomino.$image

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202306181303
+! Version: 202306232221
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 18 Jun 2023 13:03 UTC
+! Last modified: 23 Jun 2023 22:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1038,7 +1038,7 @@ bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,biosk
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_right
 bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net,nontonlk21.live###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live,zonafilm.icu###floating_banner_top1
+46.149.76.81,cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live,zonafilm.icu###floating_banner_top1
 bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_banner_tops
 80.209.252.146###floattop
 lk21c.fun###flobwh
@@ -1386,6 +1386,7 @@ nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
 teknologi.inilah.com##.d.wp-120x600
+pricebook.co.id##.description-ads
 okezone.com##.detads
 detik.com##.detikads
 dewanontons.com##.dewa_floating_bottom
@@ -1433,7 +1434,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,15.235.11.45,45.12.2.2,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kiryuu.id,komikindo.co,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
+107.152.37.223,15.235.11.45,45.12.2.2,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -2431,6 +2432,7 @@ totojitu.gif|$image
 /itubandar.$image,third-party
 /itucasino.$image,third-party
 /itudewa.$image,third-party
+/ituDomino.$image
 /itudomino.$image
 /itudomino728.$image,third-party
 /itugol.$image,third-party
@@ -8616,10 +8618,12 @@ leon.bet#@#[href$="/slots"]
 ||krucil.net/banner/
 ||malemjumat.mom/banner/*.gif$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
+||pemersatudotfun.com/ads.js$script
 ||slunkenchukkar.com/nwnJuadwxPHeiD3/52345$script,domain=manhwaid.club
 ||sodasusu.com/banner/
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
 173.199.167.192,krucil.com,krucil.net###KD_adpB
+pemersatudotfun.com#@##adright
 dutasex.bio,dutasex.top,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
 94.237.74.225,streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2

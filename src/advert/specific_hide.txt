@@ -109,7 +109,7 @@ bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,biosk
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_right
 bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net,nontonlk21.live###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live,zonafilm.icu###floating_banner_top1
+46.149.76.81,cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live,zonafilm.icu###floating_banner_top1
 bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_banner_tops
 80.209.252.146###floattop
 lk21c.fun###flobwh
@@ -457,6 +457,7 @@ nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
 teknologi.inilah.com##.d.wp-120x600
+pricebook.co.id##.description-ads
 okezone.com##.detads
 detik.com##.detikads
 dewanontons.com##.dewa_floating_bottom
@@ -504,7 +505,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,15.235.11.45,45.12.2.2,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kiryuu.id,komikindo.co,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
+107.152.37.223,15.235.11.45,45.12.2.2,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -755,6 +756,3 @@ samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-pricebook.co.id##.description-ads
-komikcast.io##.kln
-46.149.76.81###floating_banner_top1
