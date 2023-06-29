@@ -724,6 +724,8 @@ medcom.id##div.skycrapper.banner
 cerpen.co.id##div.ui_adblock
 cmovieshd.se,ganool.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
 hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
+tokopedia.com#?#div[data-testid="divProductWrapper"]:-abp-has(span[data-testid="divSRPTopadsIcon"])
+tokopedia.com#?#div[data-testid="master-product-card"]:-abp-has(span[data-testid="linkProductTopads"])
 rasa.my##div[data-ub-carousel]
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
