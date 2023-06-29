@@ -179,6 +179,7 @@
 ||nontonstreaming.co/wp-content/uploads/*.gif$image
 ||nontonsub.*/wp-content/uploads/*.gif$image
 ||noobscript.com^$script,third-party
+||obengplus.com/adblock-hunter.js$script
 ||onicdn.xyz/adam/poker88
 ||pacapa.my.id^$popup,third-party
 ||playwebgame.com/banner/$third-party
@@ -216,6 +217,5 @@
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||yxcblckd.com^$domain=komikcast.com
-||obengplus.com/adblock-hunter.js$script
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
