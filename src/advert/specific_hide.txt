@@ -392,6 +392,7 @@ inet.detik.com##.bb_banner
 tribunnews.com##.belanja-picks
 www.inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
 bharian.com.my##.bh-ad
+bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
 bharian.com.my##.block-bh-googledfp
 gudangpemain.com##.blocker-notice
 gudangpemain.com##.blocker-overlay
@@ -462,6 +463,7 @@ okezone.com##.detads
 detik.com##.detikads
 dewanontons.com##.dewa_floating_bottom
 anoboy.digital##.download
+m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 bolasport.com##.float-ads
