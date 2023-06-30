@@ -758,3 +758,4 @@ samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+anichin.top##.kln
