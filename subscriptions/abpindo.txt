@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202306290628
+! Version: 202306300939
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 29 Jun 2023 06:28 UTC
+! Last modified: 30 Jun 2023 09:39 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1322,6 +1322,7 @@ inet.detik.com##.bb_banner
 tribunnews.com##.belanja-picks
 www.inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
 bharian.com.my##.bh-ad
+bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
 bharian.com.my##.block-bh-googledfp
 gudangpemain.com##.blocker-notice
 gudangpemain.com##.blocker-overlay
@@ -1392,6 +1393,7 @@ okezone.com##.detads
 detik.com##.detikads
 dewanontons.com##.dewa_floating_bottom
 anoboy.digital##.download
+m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 bolasport.com##.float-ads
@@ -1435,7 +1437,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,15.235.11.45,45.12.2.2,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
+107.152.37.223,15.235.11.45,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -2407,8 +2409,8 @@ totojitu.gif|$image
 /ibcwin.$image,third-party
 /ibet44s.$image,third-party
 /ibobandarq.$image,third-party
-/ibosport-$image
 /IBOSPORT-$image
+/ibosport-$image
 /ibosport.$image,third-party
 /ibuqq.$image,third-party
 /idolabet.$image,third-party
@@ -2481,8 +2483,8 @@ totojitu.gif|$image
 /ketuapokernew.$image,third-party
 /king4d.$image,third-party
 /kiosqq.$image
-/KLIKHOKI-$image
 /klikhoki-$image
+/KLIKHOKI-$image
 /klikkiu.$image,third-party
 /klikqq.$image,third-party
 /koinhoki.$image,third-party
@@ -8038,6 +8040,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="KIMPOKER" i]
 ##img[alt="KIPASQQ" i]
 ##img[alt="KLIK66" i]
+##img[alt="KLIKHOKI" i]
 ##img[alt="KLIKQQ" i]
 ##img[alt="KOINSLOTS" i]
 ##img[alt="KOKI Poker" i]
