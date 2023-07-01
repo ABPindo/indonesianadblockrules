@@ -572,6 +572,7 @@ suara.com##.placeholder_read_body
 viva.co.id##.portlet.sideskycrapper
 filem456.com##.pps-single-popup
 kompas.com##.premium_div
+blibli.com#?#.product__card:-abp-has(.product__tag__ads)
 bolasport.com,gridoto.com,kompas.com##.pushdown-banner
 otomania.com##.r-ads
 film-ganool.com##.random
