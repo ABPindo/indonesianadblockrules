@@ -733,7 +733,7 @@ tokopedia.com#?#div[data-testid="divProductWrapper"]:-abp-has(span[data-testid="
 tokopedia.com##div[data-testid="featuredShopCntr"]
 tokopedia.com#?#div[data-testid="lazy-frame"]:-abp-has(span[data-testid="lblProdTopads"])
 tokopedia.com#?#div[data-testid="master-product-card"]:-abp-has(span[data-testid^="linkProductTopads"])
-tokopedia.com#?#div[data-testid="topadsCPMWrapper"]
+tokopedia.com##div[data-testid="topadsCPMWrapper"]
 tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
 rasa.my##div[data-ub-carousel]
 ns21.tv,ns21.us##div[id^="previewBox"]
