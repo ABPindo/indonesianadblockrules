@@ -741,6 +741,8 @@ situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 filmapik21.*###le_header_ads
 gudangmovies21.*###ouibounce-modal
+gudangmovies21.*###sgpb-popup-dialog-main-div-wrapper
+gudangmovies21.*##.sgpb-popup-overlay
 bacamanga.id,kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
