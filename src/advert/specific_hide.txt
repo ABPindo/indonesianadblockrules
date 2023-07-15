@@ -16,12 +16,13 @@ downloadfilmbaru.com###ads-stack
 kontan.co.id###adsoutsream
 detik.com###adv-caption-lead
 cnnindonesia.com,detik.com###adv-caption-mr1
-cnnindonesia.com,detik.com###adv-caption-mr2
+cnnindonesia.com,detik.com,haibunda.com###adv-caption-mr2
 unixmen.com###an-Modal
 tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
 zonabola.com###aside img[width="300"][height="250"]
 indotelko.com###baca_juga
+haibunda.com###balloonads
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 duniaku.net###banner-popup-desktop
@@ -39,7 +40,7 @@ bioskop78.com###billboard_banner
 bioskop168.co,bioskop168.online,bioskop168.pro###bioskop-kiri
 kertashitam.com###blockblockA
 kertashitam.com###blockblockB:style(visibility: visible !important; display: block !important;)
-detik.com,pikiran-rakyat.com###bottom_banner
+detik.com,haibunda.com,pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 log.viva.co.id###bottomframe-ad
 wartakota.tribunnews.com###boxleft > .mb20
@@ -179,6 +180,7 @@ drakorindo.best,gatsunime.org,giladrakor.com,gudangmovies21.lol,gudangmovies21.s
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
 15.235.11.45,65.108.132.145,oploverz.best,oploverz.bz,oploverz.info,oploverz.love,oploverz.top###overplay
+haibunda.com###parallaxdetail
 cinema-indo.com,cinemaindo.web.id,layarkaca21.net,layarkaca21.web.id,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
 eramuslim.com###peluang
 idxx1.top###player-side-left
@@ -284,6 +286,8 @@ tribunnews.com##.ads-placeholder
 tribunnews.com##.ads-placeholder-inside
 tek.id##.ads-popup__inner
 kompas.tv##.ads-right2
+haibunda.com##.ads-scrollpage-container
+haibunda.com##.ads-scrollpage-height
 detik.com##.ads-slot
 www.inibaru.id##.ads-sticky-left
 www.inibaru.id##.ads-sticky-right
@@ -392,6 +396,7 @@ inet.detik.com##.bb_banner
 tribunnews.com##.belanja-picks
 www.inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
 bharian.com.my##.bh-ad
+haibunda.com##.billboard__banner
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
 bharian.com.my##.block-bh-googledfp
 gudangpemain.com##.blocker-notice
@@ -520,13 +525,15 @@ dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
 b201.info##.lenyap
+haibunda.com#?#.m-r1:-abp-has(#adv-caption-mr1)
+haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 www.inibaru.id##.mb-4.bg-grey.text-center
 www.kompasiana.com##.mb20.mt20.banner-dable-read.banner
 www.parapuan.co##.mb3.gpt-ad-head-wrapper.widget
-cnbcindonesia.com,detik.com##.megabillboard
+cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
 bolasport.com,kompas.tv##.mgidclsbanner
 dapurpacu.com##.mid-banner
 astroawani.com##.middle-ad-cont
@@ -535,10 +542,10 @@ file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
 nanimex.in##.modal-backdrop
 fastdrama.co##.modal-content
-cnbcindonesia.com,cnnindonesia.com,detik.com##.mr1-scrollpage-height
+cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr1-scrollpage-height
 detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
 cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
-cnbcindonesia.com,cnnindonesia.com,detik.com##.mr2-scrollpage-height
+cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr2-scrollpage-height
 cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
 nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
@@ -770,15 +777,3 @@ tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-haibunda.com###adv-caption-mr2
-haibunda.com###balloonads
-haibunda.com###bottom_banner
-haibunda.com###parallaxdetail
-haibunda.com##.ads-scrollpage-container
-haibunda.com##.ads-scrollpage-height
-haibunda.com##.billboard__banner
-haibunda.com##.megabillboard
-haibunda.com##.mr1-scrollpage-height
-haibunda.com##.mr2-scrollpage-height
-haibunda.com#?#.m-r1:-abp-has(#adv-caption-mr1)
-haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
