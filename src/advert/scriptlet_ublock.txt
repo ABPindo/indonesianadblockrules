@@ -1,1 +1,2 @@
-! Scriptlets filters for uBlock (https://github.com/gorhill/uBlock/wiki/Resources-Library)
+netq.me##+js(no-fetch-if, clarity.ms)
+netq.me##+js(nostif, console)
