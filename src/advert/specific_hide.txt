@@ -777,3 +777,6 @@ tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+layardrama21.rest##.gmr-bannerpopup
+layardrama21.rest##.idmuvi-floatbanner
+layardrama21.rest##[href^="//avgirls.asia/"]
