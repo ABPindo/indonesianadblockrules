@@ -482,6 +482,7 @@ manganime.id##.ftadss
 komikcast.net,komikindo.id,komikindo.pro##.gambar_pemanis
 myasiantv.se##.glx-link
 myasiantv.se##.glx-teaser
+layardrama21.rest##.gmr-bannerpopup
 kompas.com##.hAds
 bioskop90.com##.headborder:nth-of-type(5)
 kaskus.co.id##.header__kasad
@@ -493,6 +494,7 @@ cmovieshd.se##.hidden-xs
 bioskop21.co##.hilang2
 bioskop168.co,semi168.club##.home.border
 filmace21.net##.idmupi-topbanner
+layardrama21.rest##.idmuvi-floatbanner
 nanimex.in##.iklan
 nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
@@ -675,6 +677,7 @@ anoboy.media##[href="https://kliksaya.info/mcdanoboy"]
 dl.ocanoke.com##[href="https://www.ocanoke.com/"]
 15.235.11.45##[href="https://yukclick.me/oploverzpopluxury111"]
 kazefuri.web.id##[href="javascript:showHideGB()"]
+layardrama21.rest##[href^="//avgirls.asia/"]
 nekonime.com##[href^="//wizliebeg.com/"]
 akurat.co##[href^="http://152.44.32.81"]
 bioskopkerenin.com,drakorindo.best##[href^="http://bit.ly/"]
@@ -777,6 +780,3 @@ tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-layardrama21.rest##.gmr-bannerpopup
-layardrama21.rest##.idmuvi-floatbanner
-layardrama21.rest##[href^="//avgirls.asia/"]
