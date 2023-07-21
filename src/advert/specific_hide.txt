@@ -470,6 +470,7 @@ detik.com##.detikads
 dewanontons.com##.dewa_floating_bottom
 anoboy.digital##.download
 m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
+thejakartapost.com##.expandable-bottom-sticky
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 bolasport.com##.float-ads
