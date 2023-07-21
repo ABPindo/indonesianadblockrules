@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202307200341
+! Version: 202307212216
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 20 Jul 2023 03:41 UTC
+! Last modified: 21 Jul 2023 22:16 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -576,6 +576,8 @@ iklan300x250.gif|
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
+info.gambar.pro##+js(nano-sib)
+info.gambar.pro,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
 netq.me##+js(nostif, console)
 ! *** abpindo:src/advert/allowlist.txt ***
@@ -964,7 +966,7 @@ tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
 kotakgame.com###bannertheme_left
 kotakgame.com###bannertheme_right
-detik.com###billboard
+beritasatu.com,detik.com###billboard
 bioskop78.com###billboard_banner
 bioskop168.co,bioskop168.online,bioskop168.pro###bioskop-kiri
 kertashitam.com###blockblockA
@@ -1391,6 +1393,7 @@ tribunnews.com##.content [style="width:160px; height:600px;"]
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
+beritasatu.com#?#.d-flex.w-100:-abp-has([id^="div-gpt-ad"])
 teknologi.inilah.com##.d.wp-120x600
 pricebook.co.id##.description-ads
 okezone.com##.detads
@@ -1398,6 +1401,7 @@ detik.com##.detikads
 dewanontons.com##.dewa_floating_bottom
 anoboy.digital##.download
 m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
+thejakartapost.com##.expandable-bottom-sticky
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 bolasport.com##.float-ads
@@ -1577,6 +1581,7 @@ xx1.me##.top-bnner.lazy
 goblintv.xyz##.tutup.banner
 bioskopxxi.net,sinemakaca.com##.ujipopup
 128.199.102.111##.under-player-ad-mobile
+beritasatu.com##.underlay-ad
 investor.id##.underlay-ad-text-box
 kompas.com##.video-box-wrap
 mydramalist.com##.vip-info
@@ -1690,6 +1695,7 @@ tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 funtasticko.net##img[width="1020"][height="350"]
+info.gambar.pro##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 layarkaca21.*###fbanner
 layarkaca21.*###fbbanner
