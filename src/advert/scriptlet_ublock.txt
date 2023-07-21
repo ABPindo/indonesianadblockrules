@@ -1,2 +1,3 @@
+thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
 netq.me##+js(nostif, console)
