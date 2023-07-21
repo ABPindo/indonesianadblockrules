@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202307212216
+! Version: 202307212238
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 21 Jul 2023 22:16 UTC
+! Last modified: 21 Jul 2023 22:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1209,6 +1209,7 @@ spbet.gif|$image
 suhubola.gif|$image
 totojitu.gif|$image
 ! 
+-slot-gacor.$image
 /128cash.$image,third-party
 /188bet.$image,third-party
 /1xliga.$image,third-party
@@ -1476,8 +1477,8 @@ totojitu.gif|$image
 /ketuapokernew.$image,third-party
 /king4d.$image,third-party
 /kiosqq.$image
-/klikhoki-$image
 /KLIKHOKI-$image
+/klikhoki-$image
 /klikkiu.$image,third-party
 /klikqq.$image,third-party
 /koinhoki.$image,third-party
@@ -4092,7 +4093,6 @@ totojitu.gif|$image
 ||biotogel.com^$third-party
 ||blindbetpoker.com^$third-party
 ||blogjudi.com^$third-party
-||bokep8.icu^$third-party
 ||bolajudicasino.com^$third-party
 ||bosqq.online^$third-party
 ||bukutogel.com^$third-party
