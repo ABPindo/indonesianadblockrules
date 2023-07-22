@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202307212327
+! Version: 202307220059
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 21 Jul 2023 23:27 UTC
+! Last modified: 22 Jul 2023 00:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2254,6 +2254,7 @@ totojitu.gif|$image
 /7upcash-530.$image
 /8080SPORT.$image,third-party
 /899cash.$image,third-party
+/8togel-$image
 /abgqqnew.$image,third-party
 /acerpoker.$image,third-party
 /acmbet.$image,third-party
@@ -2400,6 +2401,7 @@ totojitu.gif|$image
 /garudaqq.$image,third-party
 /gebyarbola.$image,third-party
 /gebyarliga.$image,third-party
+/gitarpoker-$image
 /GITARTOGEL-$image
 /GITARTOGEL.$image,third-party
 /guepoker.$image,third-party
@@ -2509,8 +2511,8 @@ totojitu.gif|$image
 /ketuapokernew.$image,third-party
 /king4d.$image,third-party
 /kiosqq.$image
-/KLIKHOKI-$image
 /klikhoki-$image
+/KLIKHOKI-$image
 /klikkiu.$image,third-party
 /klikqq.$image,third-party
 /koinhoki.$image,third-party
@@ -2585,6 +2587,7 @@ totojitu.gif|$image
 /muvibet.$image,third-party
 /nagalaut-new.$image,third-party
 /nagalaut.$image,third-party
+/nagapoker-$image
 /naloindo.$image,third-party
 /naloqq.$image,third-party
 /nasapoker.$image,third-party
@@ -5201,7 +5204,9 @@ leon.bet#@#[href$="/slots"]
 ##[href$="/~ligadewa"]
 ##[href$="ref=bokepmania"]
 ##[href="http://51.79.155.108/hokibet99/"]
+##[href="http://probet188.xyz/"]
 ##[href="https://172.104.39.221/slots/pragmatic"]
+##[href="https://apiservices.shop/apFmUK"]
 ##[href="https://hasil-keluaran-hk.com/redirecting"]
 ##[href="https://themarket.life/register/YKRGLNP8"]
 ##[href^="//zukxd6fkxqn.com/"]
@@ -7556,6 +7561,7 @@ leon.bet#@#[href$="/slots"]
 ##[title="TogelDulu" i]
 ##[title="Togeldomino" i]
 ##[title="UtamaBet" i]
+##[title="VEGAS88" i]
 ##[title="VIPADUQ" i]
 ##[title="VIPBANDARQ" i]
 ##[title="VIPDOMINO" i]
@@ -7881,6 +7887,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="BIMABET" i]
 ##img[alt="BISAQQ" i]
 ##img[alt="BISNIS4D" i]
+##img[alt="BOLATANGKAS" i]
 ##img[alt="BOLAVITA" i]
 ##img[alt="BONUSQQ" i]
 ##img[alt="BORNEO POKER" i]
@@ -7993,6 +8000,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="GEMILANG POKER" i]
 ##img[alt="GG DOMINO" i]
 ##img[alt="GIATQQ" i]
+##img[alt="GITARPOKER" i]
 ##img[alt="GITARTOGEL" i]
 ##img[alt="GOLDENQQ" i]
 ##img[alt="GUDANGPOKER" i]
@@ -8057,6 +8065,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="JITUPOKER" i]
 ##img[alt="JOINDOMINO" i]
 ##img[alt="JOINPKV" i]
+##img[alt="JOKERBET888" i]
 ##img[alt="JOKERNET88" i]
 ##img[alt="JUARAPOKER" i]
 ##img[alt="JURAGANQQ" i]
@@ -8663,11 +8672,11 @@ leon.bet#@#[href$="/slots"]
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 pemersatu.top,pemersatudotfun.com#@##adright
-dutasex.bio,dutasex.top,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
+cctvbokep.help,dutasex.bio,dutasex.top,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
 94.237.74.225,streamingbokeps.co###advertisement
 streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB
-103.194.170.153,xtubecinema.club###btm_bannerMobile
+103.194.170.153,xtubecinema.club,xtubecinema.top###btm_bannerMobile
 164.68.105.199,bokepid.wiki###fixedban
 unyil.net###float-atas
 sangetods.net###floatads
@@ -8705,11 +8714,15 @@ indobokep.pro,zonapanaz.net##.header-banner
 komikdewasa.me,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com##.kln
 komik18.art##.kln.mlb.blox
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
+sebokep.com##.lazyloaded.ads-50
 nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
 bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
+sebokep.com##.sg-popup-builder-content
+sebokep.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
+sebokep.com##.sgpb-popup-overlay
 207.244.225.48##.underlay
 komikdewasa.art##.wp-image-80765.size-full.alignnone
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper

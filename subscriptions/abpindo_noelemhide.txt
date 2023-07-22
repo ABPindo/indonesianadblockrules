@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202307212327
+! Version: 202307220059
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 21 Jul 2023 23:27 UTC
+! Last modified: 22 Jul 2023 00:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1222,6 +1222,7 @@ totojitu.gif|$image
 /7upcash-530.$image
 /8080SPORT.$image,third-party
 /899cash.$image,third-party
+/8togel-$image
 /abgqqnew.$image,third-party
 /acerpoker.$image,third-party
 /acmbet.$image,third-party
@@ -1368,6 +1369,7 @@ totojitu.gif|$image
 /garudaqq.$image,third-party
 /gebyarbola.$image,third-party
 /gebyarliga.$image,third-party
+/gitarpoker-$image
 /GITARTOGEL-$image
 /GITARTOGEL.$image,third-party
 /guepoker.$image,third-party
@@ -1477,8 +1479,8 @@ totojitu.gif|$image
 /ketuapokernew.$image,third-party
 /king4d.$image,third-party
 /kiosqq.$image
-/KLIKHOKI-$image
 /klikhoki-$image
+/KLIKHOKI-$image
 /klikkiu.$image,third-party
 /klikqq.$image,third-party
 /koinhoki.$image,third-party
@@ -1553,6 +1555,7 @@ totojitu.gif|$image
 /muvibet.$image,third-party
 /nagalaut-new.$image,third-party
 /nagalaut.$image,third-party
+/nagapoker-$image
 /naloindo.$image,third-party
 /naloqq.$image,third-party
 /nasapoker.$image,third-party
