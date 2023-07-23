@@ -522,6 +522,7 @@ spbet.gif|$image
 suhubola.gif|$image
 totojitu.gif|$image
 !
+-slot-gacor$image
 -slot-gacor.$image
 /128cash.$image,third-party
 /188bet.$image,third-party
@@ -680,6 +681,7 @@ totojitu.gif|$image
 /garenapoker.$image,third-party
 /garudakiu.$image,third-party
 /garudaqq.$image,third-party
+/GBOSLOT-$image
 /gebyarbola.$image,third-party
 /gebyarliga.$image,third-party
 /gitarpoker-$image
@@ -746,8 +748,8 @@ totojitu.gif|$image
 /itubandar.$image,third-party
 /itucasino.$image,third-party
 /itudewa.$image,third-party
-/itudomino.$image
 /ituDomino.$image
+/itudomino.$image
 /itudomino728.$image,third-party
 /itugol.$image,third-party
 /itupoker.$image,third-party
@@ -792,8 +794,8 @@ totojitu.gif|$image
 /ketuapokernew.$image,third-party
 /king4d.$image,third-party
 /kiosqq.$image
-/klikhoki-$image
 /KLIKHOKI-$image
+/klikhoki-$image
 /klikkiu.$image,third-party
 /klikqq.$image,third-party
 /koinhoki.$image,third-party
@@ -3353,4 +3355,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/GBOSLOT-$image
