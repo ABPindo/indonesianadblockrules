@@ -1,3 +1,4 @@
+doroni.me##+js(acs, getComputedStyle, , cpm)
 info.gambar.pro##+js(nano-sib)
 info.gambar.pro,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
