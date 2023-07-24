@@ -531,6 +531,9 @@ dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
 b201.info##.lenyap
+shinigami.id##.lepopup-popup-container
+shinigami.id##.lepopup-popup-loader
+shinigami.id##.lepopup-popup-overlay
 haibunda.com#?#.m-r1:-abp-has(#adv-caption-mr1)
 haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
 smartphoneku.com##.margin-right-40.left.pullquotes
