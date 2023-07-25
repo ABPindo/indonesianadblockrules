@@ -483,6 +483,7 @@ bolasport.com##.float-ads
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
 news.okezone.com##.flying_ads
+katadata.co.id##.flying_carpet_div
 bisnis.com##.flying_carpet_show
 bisnis.com##.flying_carpet_show_inner
 cnnindonesia.com,teknoup.com##.footer_banner
@@ -706,6 +707,7 @@ tirto.id##[id^="gpt-inline"]
 idfl.me##[id^="yui-gen"].postcontainer
 kompas.com##[src^="https://adsimg.kompas.com"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
+katadata.co.id##[style="height:0; min-height:180px;"]
 idtube.me,idxx1.top##a.bnner
 bioskop78.com##a:nth-of-type(2)
 bioskop19.com##a[href="http://162.144.35.114/"]
@@ -749,6 +751,7 @@ suara.com##div.placeholder_pariwara
 medcom.id##div.showcase.banner
 medcom.id##div.skycrapper.banner
 cerpen.co.id##div.ui_adblock
+katadata.co.id#?#div:-abp-has(> [id^="div-gpt-ad"][class^="paralax"])
 cmovieshd.se,ganool.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
 hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
 tokopedia.com#?#div[data-testid="CPMWrapper"]:-abp-has(span:-abp-contains(/^Ad$/))
