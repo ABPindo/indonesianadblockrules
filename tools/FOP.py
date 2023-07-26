@@ -221,7 +221,7 @@ def fopsort (filename):
                 uncombinedFilters = sorted(set(section), key = lambda rule: re.sub(ELEMENTDOMAINPATTERN, "", rule))
                 outputfile.write("{filters}\n".format(filters = "\n".join(combinefilters(uncombinedFilters, ELEMENTDOMAINPATTERN, ","))))
             else:
-                uncombinedFilters = sorted(set(section), key = str.lower)
+                uncombinedFilters = sorted(sorted(set(section)), key = str.lower)
                 outputfile.write("{filters}\n".format(filters = "\n".join(combinefilters(uncombinedFilters, FILTERDOMAINPATTERN, "|"))))
 
         for line in inputfile:
