@@ -751,7 +751,7 @@ suara.com##div.placeholder_pariwara
 medcom.id##div.showcase.banner
 medcom.id##div.skycrapper.banner
 cerpen.co.id##div.ui_adblock
-katadata.co.id#?#div:-abp-has(> [id^="div-gpt-ad"][class^="paralax"])
+katadata.co.id#?#div:-abp-has( > [id^="div-gpt-ad"][class^="paralax"])
 cmovieshd.se,ganool.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
 hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
 tokopedia.com#?#div[data-testid="CPMWrapper"]:-abp-has(span:-abp-contains(/^Ad$/))
