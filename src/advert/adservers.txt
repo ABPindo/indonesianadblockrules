@@ -1,3 +1,4 @@
+! Confirmed ad servers
 ||188affiliates.com^$third-party
 ||accesstrade.co.id^$third-party
 ||ad-loupe.com^$third-party
@@ -154,7 +155,7 @@
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
 ||yx-ads6.com^$third-party
-!
+! Potential ad servers
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||1b969cef84d93b43.com^
 ||34667c8ece5.com^
