@@ -1,3 +1,14 @@
+! Entity filters
+anoboy.*###popup_bawah
+anoboy.*###popup_box
+anoboy.*##[href="https://klik.gg/anoboy"]
+anoboy.*##[href="https://klik.gg/anoboyvip"]
+dutasex.*###ads
+komikdewasa.*###teaser3
+komikdewasa.*##.kln
+komikindo.*##.ads
+perawanbokep.*###ads
+! Non-entity filters
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 pemersatu.top,pemersatudotfun.com#@##adright
 cctvbokep.help,dutasex.bio,dutasex.top,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
@@ -63,14 +74,5 @@ manhwadesu.org##[href="https://klik.gg/manhwadesu"]
 xtubecinema.club##[href^="/GoUrl.php?ads="]
 139.99.33.205##[href^="https://bit.ly/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
-anoboy.*###popup_bawah
-anoboy.*###popup_box
-anoboy.*##[href="https://klik.gg/anoboy"]
-anoboy.*##[href="https://klik.gg/anoboyvip"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-dutasex.*###ads
-komikdewasa.*###teaser3
-komikdewasa.*##.kln
-komikindo.*##.ads
-perawanbokep.*###ads

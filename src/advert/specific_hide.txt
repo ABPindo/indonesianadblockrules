@@ -1,3 +1,26 @@
+! Entity filters
+bioskopkeren.*###headads
+bioskopkeren.*###ptbanner
+bioskopkeren.*###top-banner
+filmapik21.*###le_header_ads
+gudangmovies21.*###ouibounce-modal
+gudangmovies21.*###sgpb-popup-dialog-main-div-wrapper
+gudangmovies21.*##.sgpb-popup-overlay
+layarkaca21.*###fbanner
+layarkaca21.*###fbbanner
+layarkaca21.*###hbanner
+layarkaca21.*###pbanner
+layarkaca21.*###ptbanner
+oploverz.*###teaser1
+oploverz.*###teaser2
+oploverz.*###teaser3
+oploverz.*##.kln
+samehadaku.*###floatbottom
+samehadaku.*###floatcenter
+samehadaku.*##.ads
+samehadaku.*##.adsrow
+samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
+! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 indogamers.com###IklanIDGS
@@ -738,9 +761,6 @@ republika.co.id##a[style="width: 100%; height: 100%; display: block; position: f
 gatsunime.org##a[target="_blank"][rel^="noopener noreferrer"] > img[src$=".gif"]
 mangakita.net##a[title^="manga4d"]
 bioskop168.co,bioskop168.online,bioskop168.pro##bioskop-kanan
-bioskopkeren.*###headads
-bioskopkeren.*###ptbanner
-bioskopkeren.*###top-banner
 gigapurbalingga.net,kuyhaa-me.com##center
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
@@ -766,10 +786,6 @@ rasa.my##div[data-ub-carousel]
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
-filmapik21.*###le_header_ads
-gudangmovies21.*###ouibounce-modal
-gudangmovies21.*###sgpb-popup-dialog-main-div-wrapper
-gudangmovies21.*##.sgpb-popup-overlay
 bacamanga.id,kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
@@ -781,20 +797,6 @@ funtasticko.net##img[width="1020"][height="350"]
 info.gambar.pro##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
-layarkaca21.*###fbanner
-layarkaca21.*###fbbanner
-layarkaca21.*###hbanner
-layarkaca21.*###pbanner
-layarkaca21.*###ptbanner
-oploverz.*###teaser1
-oploverz.*###teaser2
-oploverz.*###teaser3
-oploverz.*##.kln
-samehadaku.*###floatbottom
-samehadaku.*###floatcenter
-samehadaku.*##.ads
-samehadaku.*##.adsrow
-samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
 tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
 satujiwa.org##table
 lk21.cc##tbody
