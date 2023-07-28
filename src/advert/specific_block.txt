@@ -122,6 +122,7 @@
 ||kazefuri.web.id/wp-content/themes/Kazebaru/img/300ads.png$image
 ||kdramaindo.*/wp-content/uploads/*.gif$image
 ||kebagi.com/*.gif$image,third-party
+||kentut.xyz/data/*.gif$image
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
 ||komikcast.io/wp-content/uploads/*.gif$image,domain=komikcast.io
 ||kompas.com/data/banner/
