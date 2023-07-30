@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202307271209
+! Version: 202307300746
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 27 Jul 2023 12:09 UTC
+! Last modified: 30 Jul 2023 07:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -13,6 +13,7 @@
 ! 
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
+! Confirmed ad servers
 ||188affiliates.com^$third-party
 ||accesstrade.co.id^$third-party
 ||ad-loupe.com^$third-party
@@ -169,7 +170,7 @@
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
 ||yx-ads6.com^$third-party
-! 
+! Potential ad servers
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||1b969cef84d93b43.com^
 ||34667c8ece5.com^
@@ -218,6 +219,7 @@
 ||gbrrrxbodqdlq.com^$popup
 ||ghaahq.com^$third-party
 ||hegarberetrof.pro^$popup
+||highwaycpmrevenue.com^$popup
 ||hoegutvie.com^$popup
 ||ihqfiimrbcf.com^$popup
 ||isortflorent.com^
@@ -478,6 +480,7 @@ iklan300x250.gif|
 ||kazefuri.web.id/wp-content/themes/Kazebaru/img/300ads.png$image
 ||kdramaindo.*/wp-content/uploads/*.gif$image
 ||kebagi.com/*.gif$image,third-party
+||kentut.xyz/data/*.gif$image
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
 ||komikcast.io/wp-content/uploads/*.gif$image,domain=komikcast.io
 ||kompas.com/data/banner/
@@ -584,6 +587,7 @@ info.gambar.pro,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
 netq.me##+js(nostif, console)
 ! *** abpindo:src/advert/allowlist.txt ***
+! Allowlist for network filters
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|mangacanblog.com
 @@.jpg#$image,domain=komikcast.com
 @@.jpg#/*/ads/$image,domain=anibatch.me
@@ -676,7 +680,7 @@ netq.me##+js(nostif, console)
 @@||urbandigital.id/wp-content/plugins/ad-inserter-pro/images/ads.png$image,~third-party
 @@||virtualdata.me/webroot/js/ads.js$script,~third-party
 @@||www.googletagmanager.com/gtm.js$script,domain=inet.detik.com
-! 
+! Allowlist for element hiding filters
 gurusd.web.id,kurikulum.co.id#@##adsense
 woof.tube#@#.adsbox
 aktual.id,datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbygoogle
@@ -1215,6 +1219,7 @@ spbet.gif|$image
 suhubola.gif|$image
 totojitu.gif|$image
 ! 
+-banner-winstar138.gif|$image
 -slot-gacor$image
 -slot-gacor.$image
 /128cash.$image,third-party
@@ -1417,6 +1422,7 @@ totojitu.gif|$image
 /ibosport-$image
 /ibosport.$image,third-party
 /ibuqq.$image,third-party
+/IDNGOAL.gif|$image
 /idolabet.$image,third-party
 /idrbola.$image,third-party
 /idrbt.webp$image,third-party
@@ -4118,7 +4124,7 @@ totojitu.gif|$image
 ||casinoclubpoker.com^$third-party
 ||casinopokercoin.com^$third-party
 ||cdpoker.com^$third-party
-||cds.bet^$image,third-party
+||cds.bet/*.gif^$image,third-party
 ||celebpoker.com^$third-party
 ||chilipoker.com^$third-party
 ||clickadu.com^$popup

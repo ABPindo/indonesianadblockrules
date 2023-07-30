@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202307271209
+! Version: 202307300746
 # Title: ABPindo (hosts adult)
 # Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
 # Last modified: %timestamp%
@@ -13,6 +13,7 @@
 #
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
+! Confirmed ad servers
 ||188affiliates.com^$third-party
 ||accesstrade.co.id^$third-party
 ||ad-loupe.com^$third-party
@@ -169,7 +170,7 @@
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
 ||yx-ads6.com^$third-party
-! 
+! Potential ad servers
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||1b969cef84d93b43.com^
 ||34667c8ece5.com^
@@ -218,6 +219,7 @@
 ||gbrrrxbodqdlq.com^$popup
 ||ghaahq.com^$third-party
 ||hegarberetrof.pro^$popup
+||highwaycpmrevenue.com^$popup
 ||hoegutvie.com^$popup
 ||ihqfiimrbcf.com^$popup
 ||isortflorent.com^
@@ -354,7 +356,7 @@
 ||casinoclubpoker.com^$third-party
 ||casinopokercoin.com^$third-party
 ||cdpoker.com^$third-party
-||cds.bet^$image,third-party
+||cds.bet/*.gif^$image,third-party
 ||celebpoker.com^$third-party
 ||chilipoker.com^$third-party
 ||clickadu.com^$popup
