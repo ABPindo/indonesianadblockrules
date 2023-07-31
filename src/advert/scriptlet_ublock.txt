@@ -1,5 +1,6 @@
 doroni.me##+js(acs, getComputedStyle, , cpm)
-info.gambar.pro##+js(nano-sib)
+info.gambar.pro,jenismac.com##+js(nano-sib)
 info.gambar.pro,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
+jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
