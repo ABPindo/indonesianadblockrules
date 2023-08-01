@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202307300746
+! Version: 202308011147
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 30 Jul 2023 07:46 UTC
+! Last modified: 01 Aug 2023 11:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -582,9 +582,10 @@ iklan300x250.gif|
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 doroni.me##+js(acs, getComputedStyle, , cpm)
-info.gambar.pro##+js(nano-sib)
+info.gambar.pro,jenismac.com##+js(nano-sib)
 info.gambar.pro,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
+jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 ! *** abpindo:src/advert/allowlist.txt ***
 ! Allowlist for network filters
@@ -1088,6 +1089,7 @@ cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.org###
 cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
 bioskopkeren.beauty,bioskopkeren.bond,bioskopkeren.sbs###headads
 indosiar.com###headerbanner
+jenismac.com###hello
 indoxxi.top,indoxxi.tv###home-bnner-content
 indoxxi.top###home-bnner2-content
 topfilmz.com###idb3
@@ -1152,6 +1154,7 @@ cinema-indo.com,cinemaindo.web.id,layarkaca21.net,layarkaca21.web.id,lk21.org,no
 eramuslim.com###peluang
 idxx1.top###player-side-left
 idxx1.top,indoxx1.com###player-side-right
+kuramanime.xyz###playerOverplay
 indoxx1.pw###popup
 anoboy.digital,anoboy.media,anoboy.watch###popup_bawah
 anoboy.digital,anoboy.media,anoboy.watch###popup_box
@@ -1191,7 +1194,7 @@ harianjogja.com,solopos.com###solopos_float
 detik.com###sto_banner
 15.235.11.45,65.108.132.145,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,filmroster.online,isekaisubs.web.id,luciferdonghua.in,mangashiro.net,neumanga.tv,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser1
 22cinema.download,65.108.132.145,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,isekaisubs.web.id,komiku.net,luciferdonghua.in,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser2
-15.235.11.45,22cinema.download,45.12.2.2,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,layarbiru21.com,lmanime.com,luciferdonghua.co.in,luciferdonghua.in,mangakita.net,mangakyo.org,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser3
+15.235.11.45,22cinema.download,45.12.2.2,animasu.cc,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,kuramanime.xyz,layarbiru21.com,lmanime.com,luciferdonghua.co.in,luciferdonghua.in,mangakita.net,mangakyo.org,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser3
 22cinema.download###teaser5
 indoxx1.club###tengah
 dunia21.top,lk21.cc###tengah > span
@@ -1504,6 +1507,7 @@ b201.info##.lenyap
 shinigami.id##.lepopup-popup-container
 shinigami.id##.lepopup-popup-loader
 shinigami.id##.lepopup-popup-overlay
+animasu.cc##.lmd-iklan
 haibunda.com#?#.m-r1:-abp-has(#adv-caption-mr1)
 haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
 smartphoneku.com##.margin-right-40.left.pullquotes
@@ -1664,7 +1668,7 @@ bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 188.166.39.172##[href^="https://137.184.194.29/"]
-139.99.120.222,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,gudangmovies21.cfd,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
+139.99.120.222,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,gudangmovies21.cfd,kawanfilm21.online,kawanfilm21.pro,kuramanime.xyz,lk21go.fun,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 tirto.id##[id^="gpt-inline"]

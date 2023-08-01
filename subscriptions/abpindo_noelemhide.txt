@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202307300746
+! Version: 202308011147
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 30 Jul 2023 07:46 UTC
+! Last modified: 01 Aug 2023 11:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -582,9 +582,10 @@ iklan300x250.gif|
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 doroni.me##+js(acs, getComputedStyle, , cpm)
-info.gambar.pro##+js(nano-sib)
+info.gambar.pro,jenismac.com##+js(nano-sib)
 info.gambar.pro,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
+jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 ! *** abpindo:src/advert/allowlist.txt ***
 ! Allowlist for network filters
