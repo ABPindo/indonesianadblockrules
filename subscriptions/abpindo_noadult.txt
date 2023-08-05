@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202308011148
+! Version: 202308051056
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 01 Aug 2023 11:48 UTC
+! Last modified: 05 Aug 2023 10:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1133,6 +1133,7 @@ animasu.nl###lmd-iklan
 kabargames.id###main-banner-middle
 dewabioskop21.org,dwa21.org###main-popup
 sindonews.com###me-div-gpt-ad-parallax
+detik.com###megabillboard-desktop
 dapurpacu.com###mid-banner
 dunia21.cx,ganool.watch,lk21tv.com,movies21.co,terbit21.cafe###middle-banner
 fastdrama.co,hkfree.co###modal
@@ -1304,7 +1305,7 @@ myasiantv.se##.av-content-full
 webdesign.tutsplus.com##.avert
 22cinema.com##.ayu-headads
 139.99.120.222,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
-animebatchs.com,goblintvfree.com,juragan-anime.net,nanime.in##.banner
+animebatchs.com,goblintvfree.com,juragan-anime.net,merdeka.com,nanime.in##.banner
 kompasiana.com##.banner-center
 dewanonton.vip,dwanonton.com##.banner-common
 www.kompasiana.com##.banner-dable.banner
@@ -1513,6 +1514,7 @@ haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
+merdeka.com##.masthead
 www.inibaru.id##.mb-4.bg-grey.text-center
 www.kompasiana.com##.mb20.mt20.banner-dable-read.banner
 www.parapuan.co##.mb3.gpt-ad-head-wrapper.widget
@@ -1550,6 +1552,7 @@ cnnindonesia.com##.para_abs
 cnnindonesia.com##.para_fix
 cnnindonesia.com##.paradetail
 idntimes.com,sindonews.com##.parallax-ad
+detik.com##.parallax_abs
 medcom.id##.parallax_ads
 briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
 suara.com##.placeholder_expose
@@ -1596,6 +1599,7 @@ awsubs.co##.sidebar_right
 bioskop90.com,nontonganool.net,sejutafilm.com##.sidebarborder:nth-of-type(2)
 nontonganool.net##.sidebarborder:nth-of-type(4)
 nontonganool.net##.sidebarborder:nth-of-type(5)
+detik.com##.sisip_video_ds
 ninemanga.com##.sitemaji_banner
 detik.com##.skinad_1
 detik.com##.skinad_2

@@ -59,7 +59,7 @@ sebokep.com##.lazyloaded.ads-50
 nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
 agenbokep.co##.pop-overlay
-agenbokep.co##.popbox
+agenbokep.co,agenbokep.pro##.popbox
 bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
@@ -76,11 +76,9 @@ anoboy.ink##[href="https://klik.gg/anoboy"]
 anoboy.ink##[href="https://klik.gg/anoboyvip"]
 manhwadesu.org##[href="https://klik.gg/manhwadesu"]
 xtubecinema.club##[href^="/GoUrl.php?ads="]
-139.99.33.205##[href^="https://bit.ly/"]
+139.99.33.205,pecintabokep.club##[href^="https://bit.ly/"]
 slurr.my.id##[href^="https://scratchy-trick.com/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
+pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
-pecintabokep.club##[href^="https://bit.ly/"]
-agenbokep.pro##.popbox

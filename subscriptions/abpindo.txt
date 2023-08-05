@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202308011148
+! Version: 202308051056
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Aug 2023 11:48 UTC
+! Last modified: 05 Aug 2023 10:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1133,6 +1133,7 @@ animasu.nl###lmd-iklan
 kabargames.id###main-banner-middle
 dewabioskop21.org,dwa21.org###main-popup
 sindonews.com###me-div-gpt-ad-parallax
+detik.com###megabillboard-desktop
 dapurpacu.com###mid-banner
 dunia21.cx,ganool.watch,lk21tv.com,movies21.co,terbit21.cafe###middle-banner
 fastdrama.co,hkfree.co###modal
@@ -1304,7 +1305,7 @@ myasiantv.se##.av-content-full
 webdesign.tutsplus.com##.avert
 22cinema.com##.ayu-headads
 139.99.120.222,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
-animebatchs.com,goblintvfree.com,juragan-anime.net,nanime.in##.banner
+animebatchs.com,goblintvfree.com,juragan-anime.net,merdeka.com,nanime.in##.banner
 kompasiana.com##.banner-center
 dewanonton.vip,dwanonton.com##.banner-common
 www.kompasiana.com##.banner-dable.banner
@@ -1513,6 +1514,7 @@ haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
+merdeka.com##.masthead
 www.inibaru.id##.mb-4.bg-grey.text-center
 www.kompasiana.com##.mb20.mt20.banner-dable-read.banner
 www.parapuan.co##.mb3.gpt-ad-head-wrapper.widget
@@ -1550,6 +1552,7 @@ cnnindonesia.com##.para_abs
 cnnindonesia.com##.para_fix
 cnnindonesia.com##.paradetail
 idntimes.com,sindonews.com##.parallax-ad
+detik.com##.parallax_abs
 medcom.id##.parallax_ads
 briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
 suara.com##.placeholder_expose
@@ -1596,6 +1599,7 @@ awsubs.co##.sidebar_right
 bioskop90.com,nontonganool.net,sejutafilm.com##.sidebarborder:nth-of-type(2)
 nontonganool.net##.sidebarborder:nth-of-type(4)
 nontonganool.net##.sidebarborder:nth-of-type(5)
+detik.com##.sisip_video_ds
 ninemanga.com##.sitemaji_banner
 detik.com##.skinad_1
 detik.com##.skinad_2
@@ -5148,6 +5152,7 @@ totojitu.gif|$image
 ##[href$="/agenbola" i]
 ##[href$="/angelpoker"]
 ##[href$="/arenawin" i]
+##[href$="/asiabokep"]
 ##[href$="/asikspin"]
 ##[href$="/bandarpokerpulsa"]
 ##[href$="/bandarq365"]
@@ -5162,6 +5167,7 @@ totojitu.gif|$image
 ##[href$="/casino"]
 ##[href$="/cewekgenit"]
 ##[href$="/cmd368"]
+##[href$="/cuanbokep"]
 ##[href$="/daftartotosuper"]
 ##[href$="/dorapoker"]
 ##[href$="/duniabet"]
@@ -5171,6 +5177,7 @@ totojitu.gif|$image
 ##[href$="/fastbet99/"]
 ##[href$="/filmlokal"]
 ##[href$="/forslotindo"]
+##[href$="/gacorbokep"]
 ##[href$="/hdpbet"]
 ##[href$="/ibetwinasia"]
 ##[href$="/idncash"]
@@ -5181,6 +5188,7 @@ totojitu.gif|$image
 ##[href$="/itupk"]
 ##[href$="/jambulmemek"]
 ##[href$="/jayapokerbanner"]
+##[href$="/joinbokep"]
 ##[href$="/jokerbet"]
 ##[href$="/josbet"]
 ##[href$="/kartu66"]
@@ -5798,6 +5806,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="http://kartudomino."]
 ##[href^="http://kartuhokky."]
 ##[href^="http://kartuking."]
+##[href^="http://kartupk.me/"]
 ##[href^="http://kartuqq."]
 ##[href^="http://kasinobet."]
 ##[href^="http://kayatogel."]
@@ -8784,7 +8793,7 @@ sebokep.com##.lazyloaded.ads-50
 nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
 agenbokep.co##.pop-overlay
-agenbokep.co##.popbox
+agenbokep.co,agenbokep.pro##.popbox
 bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
@@ -8801,9 +8810,10 @@ anoboy.ink##[href="https://klik.gg/anoboy"]
 anoboy.ink##[href="https://klik.gg/anoboyvip"]
 manhwadesu.org##[href="https://klik.gg/manhwadesu"]
 xtubecinema.club##[href^="/GoUrl.php?ads="]
-139.99.33.205##[href^="https://bit.ly/"]
+139.99.33.205,pecintabokep.club##[href^="https://bit.ly/"]
 slurr.my.id##[href^="https://scratchy-trick.com/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
+pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
 ! *** abpindo:src/adult/adult_thirdparty.txt ***
