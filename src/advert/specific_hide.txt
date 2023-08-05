@@ -806,3 +806,5 @@ satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 detik.com##.sisip_video_ds
+detik.com##.parallax_abs
+detik.com###megabillboard-desktop
