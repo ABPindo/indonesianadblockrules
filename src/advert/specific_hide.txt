@@ -23,6 +23,7 @@ samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
+starringheavenlyrics.blogspot.com###HTML2
 indogamers.com###IklanIDGS
 lihat.co.id###Kolom-random-300
 utusan.com.my###Taboola_widget
@@ -557,6 +558,7 @@ indonesiamovies21.com##.ktz-banneraftercontent
 anime17.net##.ktz_banner
 faktabali.com##.ktzsingle-bannerright
 kumpulmanga.org##.kzl-header.kzl
+starringheavenlyrics.blogspot.com##.lalulintas
 188.166.39.172##.lazyloaded.ls-is-cached.bannerdua
 188.166.39.172##.lazyloaded.ls-is-cached.bannersatu
 dwanonton.com##.left.banner-vertical
