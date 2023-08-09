@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202308091320
+! Version: 202308091338
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 09 Aug 2023 13:20 UTC
+! Last modified: 09 Aug 2023 13:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -333,14 +333,10 @@
 /adv/iklan.
 /banner-728px-
 /banner_iklan/*
-/bannerlonteqq.gif|
-/bb17-iklan.
 /iklan_banner_$image
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
-/Ligadunia365.gif|
-/Pkv-Games.gif|
 /revenuehits.js|
 /safelink$script,third-party
 /SkinADkanan.
@@ -350,9 +346,6 @@
 /uploads/iklan/*
 /usaha-berhasil.gif|
 /usahaberhasil.gif|
-/wp-content/plugins/wp-adblock-dedect/js/dedect.js$script
-/wpsafelink$script,domain=daizurin.com|lucikun.com|shitaranime.com|sinanime.net
-/wpsafelink$script,third-party
 _TimAds_Banner_$image
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
@@ -618,10 +611,7 @@ tipskerja.com##+js(refresh-defuser)
 @@||asiancine.com^$generichide
 @@||autoride.pw^$generichide
 @@||bagilagi.com^$generichide
-@@||batch.id/wp-content/plugins/lw-adblocker/assets/js/fuckadblock.min.js
-@@||batch.id^$generichide
 @@||biargreget.top^$generichide
-@@||bloggerku.com/safelink/2.0/script.js?$script,domain=animanganews.com|maulandaru.com|njiir.com|razorlink.us|teknorizen.blogspot.com
 @@||blogrp.me/webroot/js/ads.js$script,~third-party
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
@@ -1298,6 +1288,8 @@ totojitu.gif|$image
 /bandartaruhan.$image,third-party
 /bandarxl.gif|$image
 /bandarxlnew.$image
+/bannerlonteqq.gif|$image
+/bb17-iklan.
 /bcadomino.$image,third-party
 /beliqq.$image,third-party
 /benderapoker.$image,third-party
@@ -1521,6 +1513,7 @@ totojitu.gif|$image
 /ligacapsa.$image,third-party
 /ligacash.$image,third-party
 /ligadewa.$image,third-party
+/Ligadunia365.gif|
 /ligahokie.$image,third-party
 /ligajudi.$image,third-party
 /ligakiukiu.$image,third-party
@@ -1612,6 +1605,7 @@ totojitu.gif|$image
 /pesonaqq.$image,third-party
 /pialabet.$image,third-party
 /pialaqq.$image,third-party
+/Pkv-Games.gif|
 /poker021.$image,third-party
 /pokerajaib.$image,third-party
 /pokerastro.$image,third-party
