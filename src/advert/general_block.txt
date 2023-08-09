@@ -17,7 +17,6 @@
 .me/iklan/
 .my/iklan/
 .net/iklan/
-.space/Banner/*.gif$image
 .tv/iklan/
 .win^$popup,third-party
 /ads/iklan.
@@ -48,4 +47,5 @@
 /wp-content/plugins/wp-adblock-dedect/js/dedect.js$script
 /wpsafelink$script,domain=daizurin.com|lucikun.com|shitaranime.com|sinanime.net
 /wpsafelink$script,third-party
+_TimAds_Banner_$image
 iklan300x250.gif|
