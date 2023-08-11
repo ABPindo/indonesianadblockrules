@@ -6,6 +6,7 @@ filmapik21.*###le_header_ads
 gudangmovies21.*###ouibounce-modal
 gudangmovies21.*###sgpb-popup-dialog-main-div-wrapper
 gudangmovies21.*##.sgpb-popup-overlay
+komikcast.*##.kln
 layarkaca21.*###fbanner
 layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
@@ -20,7 +21,6 @@ samehadaku.*###floatcenter
 samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
-komikcast.*##.kln
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -53,7 +53,7 @@ tempointeraktif.com###banner-bawah
 duniaku.net###banner-popup-desktop
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
-komikcast.site###bannerhomefooter
+komikcast.site,komikcast.vip###bannerhomefooter
 hdtvku.com###bannerkategoriheader
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
 tribunnews.com###bannerku
@@ -811,4 +811,3 @@ tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-komikcast.vip###bannerhomefooter

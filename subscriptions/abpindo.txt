@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202308091338
+! Version: 202308111154
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 09 Aug 2023 13:38 UTC
+! Last modified: 11 Aug 2023 11:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -475,7 +475,7 @@ iklan300x250.gif|
 ||kebagi.com/*.gif$image,third-party
 ||kentut.xyz/data/*.gif$image
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
-||komikcast.io/wp-content/uploads/*.gif$image,domain=komikcast.io
+||komikcast.*/wp-content/uploads/*.gif$image,~third-party
 ||kompas.com/data/banner/
 ||kotakgame.com/images/bnr/partner/*.jpg
 ||kuyhaa-me.com/meongvpn.js$script,domain=kuyhaa-me.com
@@ -570,7 +570,6 @@ iklan300x250.gif|
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-||yxcblckd.com^$domain=komikcast.com
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
 ! Miscellanous popups
@@ -583,7 +582,7 @@ netq.me##+js(no-fetch-if, clarity.ms)
 jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 kiryuu.id##+js(nowoif)
-tipskerja.com##+js(refresh-defuser)
+tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
 ! *** abpindo:src/advert/allowlist.txt ***
 ! Allowlist for network filters
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|mangacanblog.com
@@ -942,6 +941,7 @@ filmapik21.*###le_header_ads
 gudangmovies21.*###ouibounce-modal
 gudangmovies21.*###sgpb-popup-dialog-main-div-wrapper
 gudangmovies21.*##.sgpb-popup-overlay
+komikcast.*##.kln
 layarkaca21.*###fbanner
 layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
@@ -988,7 +988,7 @@ tempointeraktif.com###banner-bawah
 duniaku.net###banner-popup-desktop
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
-komikcast.site###bannerhomefooter
+komikcast.site,komikcast.vip###bannerhomefooter
 hdtvku.com###bannerkategoriheader
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
 tribunnews.com###bannerku
@@ -1654,7 +1654,6 @@ pakbos21.org##[href="//dumbpop.com/help.xml"]
 idfl.me##[href="http://bit.ly/adsvbola"]
 anoboy.digital,anoboy.media##[href="http://click2go.me/aksesklik4a"]
 anoboy.media##[href="https://144.126.241.203/invite/c6c83up"]
-komikcast.site##[href="https://bit.ly/KaikoSLOT"]
 anoboy.media##[href="https://bit.ly/anoboySG88"]
 anoboy.media##[href="https://kliksaya.info/mcdanoboy"]
 dl.ocanoke.com##[href="https://www.ocanoke.com/"]
