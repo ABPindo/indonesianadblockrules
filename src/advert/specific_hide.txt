@@ -20,6 +20,7 @@ samehadaku.*###floatcenter
 samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
+komikcast.*##.kln
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -718,7 +719,6 @@ pakbos21.org##[href="//dumbpop.com/help.xml"]
 idfl.me##[href="http://bit.ly/adsvbola"]
 anoboy.digital,anoboy.media##[href="http://click2go.me/aksesklik4a"]
 anoboy.media##[href="https://144.126.241.203/invite/c6c83up"]
-komikcast.site##[href="https://bit.ly/KaikoSLOT"]
 anoboy.media##[href="https://bit.ly/anoboySG88"]
 anoboy.media##[href="https://kliksaya.info/mcdanoboy"]
 dl.ocanoke.com##[href="https://www.ocanoke.com/"]
@@ -811,3 +811,4 @@ tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+komikcast.vip###bannerhomefooter
