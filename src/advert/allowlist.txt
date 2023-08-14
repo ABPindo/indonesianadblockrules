@@ -7,7 +7,6 @@
 @@.png#*/ad/$image,domain=ad4msan.com
 @@.png#/*/ad/$image,domain=mangacanblog.com
 @@.png#/adaffiliate_/$image,domain=anisubindo.video|awsubs.co|biargreget.top|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sanjayaops.com|sdrama.com|shirosafe.web.id
-@@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
 @@/js/ads.js$script,domain=adlink.pw|adsafelink.net|akuno.net|blogrp.me|ceklink.co|idsly.net|kabarviral.blog|lewat.club|modecepat.com|safe.mirrordown.com|templink.org|virtualdata.me
 @@logo*.png#*/ads/$image,~third-party
 @@||1idsly.com^$generichide
