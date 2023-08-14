@@ -12,7 +12,6 @@
 @@||ad4msan.com^$generichide
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
-@@||adsafelink.net/webroot/js/ads.js$script,~third-party
 @@||adturl.com^$generichide
 @@||advertising-indonesia.id^$~third-party
 @@||ainodorama.web.id^$generichide
@@ -37,19 +36,16 @@
 @@||inwepo.co^$generichide
 @@||js.rfp.fout.jp/rfp-display.js$script,domain=www.funtasticko.net
 @@||js.rfp.fout.jp/rfp-infeed.js$script,domain=www.funtasticko.net
-@@||kabarviral.blog/js/ads.js$script,~third-party
 @@||kaze-batch.blogspot.com^$generichide
 @@||kertashitam.com/js/advertisement.js$script,domain=kertashitam.com
 @@||klikshowtime.com^$generichide
 @@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
 @@||leantoro.com/wp-content/plugins/newkarma-core/js/fuckadblock.js$script,~third-party
-@@||lewat.club/js/ads.js$script,~third-party
 @@||ljutkeunvpn.blogspot.com^$generichide
 @@||majalahikan.com^$generichide
 @@||mangacanblog.com^$generichide
 @@||mivo.com^$generichide
-@@||modecepat.com/js/ads.js$script,~third-party
 @@||nama.web.id^$generichide
 @@||nanonime.com^$generichide
 @@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
@@ -67,7 +63,6 @@
 @@||razorlink.us^$generichide
 @@||riauonline.co.id^$generichide
 @@||ryuukoi.web.id^$generichide
-@@||safe.mirrordown.com/js/ads.js$script,~third-party
 @@||sanjayaops.com^$generichide
 @@||sdrama.com^$generichide
 @@||shirainime.com^$generichide
@@ -78,7 +73,6 @@
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||updatetribun.^$generichide
 @@||urbandigital.id/wp-content/plugins/ad-inserter-pro/images/ads.png$image,~third-party
-@@||virtualdata.me/webroot/js/ads.js$script,~third-party
 @@||www.googletagmanager.com/gtm.js$script,domain=inet.detik.com
 ! Allowlist for element hiding filters
 gurusd.web.id,kurikulum.co.id#@##adsense
