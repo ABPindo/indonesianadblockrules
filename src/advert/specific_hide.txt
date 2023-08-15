@@ -811,3 +811,4 @@ tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+anixverse.com###floatads1
