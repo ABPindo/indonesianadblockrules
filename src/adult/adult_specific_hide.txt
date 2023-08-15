@@ -21,12 +21,12 @@ bintangmawar.net###bmpop_adpB
 164.68.105.199,bokepid.wiki###fixedban
 unyil.net###float-atas
 sangetods.net###floatads
-154.12.229.9,45.67.231.215,75.119.147.12###floating_banner_top1
+149.102.130.200,154.12.229.9,194.163.158.12,45.67.231.215,75.119.147.12,81.0.220.98,89.117.61.35###floating_banner_top1
 kamarbokep.xyz,kebokepanku.xyz,ruangbokep.sbs,ruangbokep.top,streamingbokeponline.site,streamingbokeponline.top###floating_bot
 157.245.195.114###floating_bot.btm_ban
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
-154.12.229.9,207.244.225.48,indosemi45.org,manhwaid.org###ouibounce-modal
+149.102.130.200,154.12.229.9,207.244.225.48,indosemi45.org,manhwaid.org###ouibounce-modal
 iyottube.co,iyottube.com###playerOverlay
 susterbokep.com###right_ads_float_phonedevelop
 gadismalam.net###semprot_ads_side_left
@@ -56,6 +56,7 @@ komikdewasa.me,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com##.kln
 komik18.art##.kln.mlb.blox
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 sebokep.com##.lazyloaded.ads-50
+216.155.135.144##.lazyloaded.loaded.ads-50
 nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
 agenbokep.co##.pop-overlay
@@ -82,9 +83,3 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-149.102.130.200###ouibounce-modal
-149.102.130.200###floating_banner_top1
-194.163.158.12###floating_banner_top1
-89.117.61.35###floating_banner_top1
-81.0.220.98###floating_banner_top1
-216.155.135.144##.lazyloaded.loaded.ads-50
