@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202308111154
+! Version: 202308151145
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 11 Aug 2023 11:54 UTC
+! Last modified: 15 Aug 2023 11:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -583,6 +583,7 @@ jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 kiryuu.id##+js(nowoif)
 tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
+gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 ! *** abpindo:src/advert/allowlist.txt ***
 ! Allowlist for network filters
 @@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|mangacanblog.com
@@ -593,16 +594,11 @@ tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
 @@.png#*/ad/$image,domain=ad4msan.com
 @@.png#/*/ad/$image,domain=mangacanblog.com
 @@.png#/adaffiliate_/$image,domain=anisubindo.video|awsubs.co|biargreget.top|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sanjayaops.com|sdrama.com|shirosafe.web.id
-@@/advertisement.$script,domain=kumpulmanga.org|mangalist.org|rukim.id|samehadaku.tv|teknologilink.com|wizardsubs.com
-@@/fuckadblock.js$domain=baritopost.co.id|listingberita.com|suaranasional.com
-@@/js/ads.js$script,domain=adlink.pw|adsafelink.net|akuno.net|blogrp.me|ceklink.co|idsly.net|kabarviral.blog|lewat.club|modecepat.com|safe.mirrordown.com|templink.org|virtualdata.me
 @@logo*.png#*/ads/$image,~third-party
 @@||1idsly.com^$generichide
-@@||4dbl0ck.info/popunder.js$script,domain=oload.tv
 @@||ad4msan.com^$generichide
 @@||ads.id^$~third-party
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
-@@||adsafelink.net/webroot/js/ads.js$script,~third-party
 @@||adturl.com^$generichide
 @@||advertising-indonesia.id^$~third-party
 @@||ainodorama.web.id^$generichide
@@ -611,7 +607,6 @@ tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
 @@||autoride.pw^$generichide
 @@||bagilagi.com^$generichide
 @@||biargreget.top^$generichide
-@@||blogrp.me/webroot/js/ads.js$script,~third-party
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
 @@||doroni.me^$generichide
@@ -622,46 +617,34 @@ tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
 @@||eirudo.com^$generichide
 @@||gadget2reviews.com^$generichide
 @@||game-kentang.blogspot.com^$generichide
-@@||google-analytics.com/analytics.js$script,domain=pricebook.co.id
 @@||hightech.web.id^$generichide
-@@||idsly.com/webroot/js/ads.js$script,~third-party
-@@||idsly.com^$generichide
 @@||illyasave.com^$generichide
 @@||infotekno.net^$generichide
 @@||inwepo.co^$generichide
 @@||js.rfp.fout.jp/rfp-display.js$script,domain=www.funtasticko.net
 @@||js.rfp.fout.jp/rfp-infeed.js$script,domain=www.funtasticko.net
-@@||kabarviral.blog/js/ads.js$script,~third-party
 @@||kaze-batch.blogspot.com^$generichide
-@@||kertashitam.com/js/advertisement.js$script,domain=kertashitam.com
 @@||klikshowtime.com^$generichide
 @@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
-@@||leantoro.com/wp-content/plugins/newkarma-core/js/fuckadblock.js$script,~third-party
-@@||lewat.club/js/ads.js$script,~third-party
 @@||ljutkeunvpn.blogspot.com^$generichide
 @@||majalahikan.com^$generichide
 @@||mangacanblog.com^$generichide
 @@||mivo.com^$generichide
-@@||modecepat.com/js/ads.js$script,~third-party
 @@||nama.web.id^$generichide
 @@||nanonime.com^$generichide
 @@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
-@@||ngantukberat.me/wp-content/plugins/wp-safelink-v3/assets/fuckadblock.js$script,~third-party
-@@||ngantukberat.me^$generichide
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ad4msan.win|aksensei.com|animenyus.com|animexin.jin-7.com|belajarbro.id|datasekolah.co.id|dukun-cit.com|gembelcit.net|illyasave.com|indozone.me|infolokerserang.com|lewat.club|modecepat.com|nekopoi.web.id|pugam.com|sedot.link|www.download.web.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||rawcdn.githack.com/KecoaTerbank/safelink/$script,domain=eleventhlevelinteractive.com
 @@||razorlink.us^$generichide
 @@||riauonline.co.id^$generichide
 @@||ryuukoi.web.id^$generichide
-@@||safe.mirrordown.com/js/ads.js$script,~third-party
 @@||sanjayaops.com^$generichide
 @@||sdrama.com^$generichide
 @@||shirainime.com^$generichide
@@ -671,9 +654,6 @@ tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||updatetribun.^$generichide
-@@||urbandigital.id/wp-content/plugins/ad-inserter-pro/images/ads.png$image,~third-party
-@@||virtualdata.me/webroot/js/ads.js$script,~third-party
-@@||www.googletagmanager.com/gtm.js$script,domain=inet.detik.com
 ! Allowlist for element hiding filters
 gurusd.web.id,kurikulum.co.id#@##adsense
 woof.tube#@#.adsbox
