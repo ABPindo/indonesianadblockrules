@@ -806,9 +806,11 @@ tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 funtasticko.net##img[width="1020"][height="350"]
+info.gambar.pro,info.mapsaddress.com##img[width="240"][height="240"]
 info.gambar.pro##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
+info.gambar.pro,info.mapsaddress.com#?#p:-abp-has(> a[href="#downloadnow"])
 tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
 satujiwa.org##table
 lk21.cc##tbody
