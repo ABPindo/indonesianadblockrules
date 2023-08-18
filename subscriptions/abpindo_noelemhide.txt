@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202308151206
+! Version: 202308180540
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 15 Aug 2023 12:06 UTC
+! Last modified: 18 Aug 2023 05:40 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -573,11 +573,12 @@ iklan300x250.gif|
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
 ! Miscellanous popups
-*$popup,domain=kiryuu.id
+*$popup,domain=info.mapsaddress.com,kiryuu.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 doroni.me##+js(acs, getComputedStyle, , cpm)
-info.gambar.pro,jenismac.com##+js(nano-sib)
-info.gambar.pro,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
+info.mapsaddress.com##+js(aeld, click, linkOpened)
+info.gambar.pro,info.mapsaddress.com,jenismac.com##+js(nano-sib)
+info.gambar.pro,info.mapsaddress.com,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
 jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
@@ -653,7 +654,6 @@ gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 @@||tokusatsuindo.com^$generichide
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
-@@||updatetribun.^$generichide
 ! Allowlist for element hiding filters
 gurusd.web.id,kurikulum.co.id#@##adsense
 woof.tube#@#.adsbox
@@ -1389,7 +1389,7 @@ totolink.id#@#.social-circle
 ||agtwpoker.$popup
 ||agungpoker.$image,third-party
 ||agungpoker.$popup
-||agungqiu.^$third-party
+||agungqiu.$third-party
 ||agungqq.$image,third-party
 ||agwcash.$image,third-party
 ||agwcash.$popup
@@ -1592,7 +1592,7 @@ totolink.id#@#.social-circle
 ||beritataruhanbola.$image,third-party
 ||bersama365.$image,third-party
 ||bersama365.$popup
-||bet2link.^$third-party
+||bet2link.$third-party
 ||bet2poker.$image,third-party
 ||bet365.$image,third-party
 ||bet88me.$image,third-party
@@ -1625,7 +1625,7 @@ totolink.id#@#.social-circle
 ||bla168.$image,third-party
 ||bla168.$popup
 ||block.s3block.$popup
-||bmwpoker.^$popup
+||bmwpoker.$popup
 ||bnipoker.$image,third-party
 ||bnipoker.$popup
 ||bobcbet.$image,third-party
@@ -1742,7 +1742,7 @@ totolink.id#@#.social-circle
 ||cintapoker.$image,third-party
 ||citybet.$image,third-party
 ||cmcbet.$image,third-party
-||cmcpoker.^$third-party
+||cmcpoker.$third-party
 ||cmcwin.$image,third-party
 ||cmcwin.$popup
 ||cmd368.$image,third-party
@@ -2653,7 +2653,7 @@ totolink.id#@#.social-circle
 ||obatjogja.$image,third-party
 ||obatjogja.$popup
 ||obatpembesarpenisklg.$image,third-party
-||obatpembesarpenisklg.^$popup
+||obatpembesarpenisklg.$popup
 ||obatpembesarvimax.$image,third-party
 ||obatpembesarvimax.$popup
 ||obcbet.$image,third-party

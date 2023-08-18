@@ -59,8 +59,8 @@ sebokep.com##.lazyloaded.ads-50
 216.155.135.144##.lazyloaded.loaded.ads-50
 nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
-agenbokep.co##.pop-overlay
-agenbokep.co,agenbokep.pro##.popbox
+agenbokep.co,agenbokep.guru##.pop-overlay
+agenbokep.co,agenbokep.guru,agenbokep.pro##.popbox
 bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
@@ -83,5 +83,3 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-agenbokep.guru##.pop-overlay
-agenbokep.guru##.popbox

@@ -810,7 +810,7 @@ info.gambar.pro,info.mapsaddress.com##img[width="240"][height="240"]
 info.gambar.pro##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
-info.gambar.pro,info.mapsaddress.com#?#p:-abp-has(> a[href="#downloadnow"])
+info.gambar.pro,info.mapsaddress.com#?#p:-abp-has( > a[href="#downloadnow"])
 tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
 satujiwa.org##table
 lk21.cc##tbody

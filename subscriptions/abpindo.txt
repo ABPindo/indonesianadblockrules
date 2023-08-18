@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202308151206
+! Version: 202308180540
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 15 Aug 2023 12:06 UTC
+! Last modified: 18 Aug 2023 05:40 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -573,11 +573,12 @@ iklan300x250.gif|
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
 ! Miscellanous popups
-*$popup,domain=kiryuu.id
+*$popup,domain=info.mapsaddress.com,kiryuu.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 doroni.me##+js(acs, getComputedStyle, , cpm)
-info.gambar.pro,jenismac.com##+js(nano-sib)
-info.gambar.pro,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
+info.mapsaddress.com##+js(aeld, click, linkOpened)
+info.gambar.pro,info.mapsaddress.com,jenismac.com##+js(nano-sib)
+info.gambar.pro,info.mapsaddress.com,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
 jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
@@ -653,7 +654,6 @@ gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 @@||tokusatsuindo.com^$generichide
 @@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 @@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
-@@||updatetribun.^$generichide
 ! Allowlist for element hiding filters
 gurusd.web.id,kurikulum.co.id#@##adsense
 woof.tube#@#.adsbox
@@ -1721,9 +1721,11 @@ tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 funtasticko.net##img[width="1020"][height="350"]
+info.gambar.pro,info.mapsaddress.com##img[width="240"][height="240"]
 info.gambar.pro##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
+info.gambar.pro,info.mapsaddress.com#?#p:-abp-has( > a[href="#downloadnow"])
 tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
 satujiwa.org##table
 lk21.cc##tbody
@@ -2450,7 +2452,7 @@ bioskop78.com##td:nth-of-type(3)
 ||agtwpoker.$popup
 ||agungpoker.$image,third-party
 ||agungpoker.$popup
-||agungqiu.^$third-party
+||agungqiu.$third-party
 ||agungqq.$image,third-party
 ||agwcash.$image,third-party
 ||agwcash.$popup
@@ -2653,7 +2655,7 @@ bioskop78.com##td:nth-of-type(3)
 ||beritataruhanbola.$image,third-party
 ||bersama365.$image,third-party
 ||bersama365.$popup
-||bet2link.^$third-party
+||bet2link.$third-party
 ||bet2poker.$image,third-party
 ||bet365.$image,third-party
 ||bet88me.$image,third-party
@@ -2686,7 +2688,7 @@ bioskop78.com##td:nth-of-type(3)
 ||bla168.$image,third-party
 ||bla168.$popup
 ||block.s3block.$popup
-||bmwpoker.^$popup
+||bmwpoker.$popup
 ||bnipoker.$image,third-party
 ||bnipoker.$popup
 ||bobcbet.$image,third-party
@@ -2803,7 +2805,7 @@ bioskop78.com##td:nth-of-type(3)
 ||cintapoker.$image,third-party
 ||citybet.$image,third-party
 ||cmcbet.$image,third-party
-||cmcpoker.^$third-party
+||cmcpoker.$third-party
 ||cmcwin.$image,third-party
 ||cmcwin.$popup
 ||cmd368.$image,third-party
@@ -3714,7 +3716,7 @@ bioskop78.com##td:nth-of-type(3)
 ||obatjogja.$image,third-party
 ||obatjogja.$popup
 ||obatpembesarpenisklg.$image,third-party
-||obatpembesarpenisklg.^$popup
+||obatpembesarpenisklg.$popup
 ||obatpembesarvimax.$image,third-party
 ||obatpembesarvimax.$popup
 ||obcbet.$image,third-party
@@ -6860,6 +6862,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://dewa-casino.win"]
 ##[href^="https://dewavegascasino.win"]
 ##[href^="https://dingdongasia."]
+##[href^="https://diputerin.com/"]
 ##[href^="https://dominowalet99.com"]
 ##[href^="https://duniaslot.biz/"]
 ##[href^="https://duniaslot77.co"]
@@ -8782,8 +8785,8 @@ sebokep.com##.lazyloaded.ads-50
 216.155.135.144##.lazyloaded.loaded.ads-50
 nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
-agenbokep.co##.pop-overlay
-agenbokep.co,agenbokep.pro##.popbox
+agenbokep.co,agenbokep.guru##.pop-overlay
+agenbokep.co,agenbokep.guru,agenbokep.pro##.popbox
 bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
