@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202308180540
+! Version: 202308231136
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 18 Aug 2023 05:40 UTC
+! Last modified: 23 Aug 2023 11:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -965,6 +965,7 @@ indotelko.com###baca_juga
 haibunda.com###balloonads
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
+jendelakaba.com###banner-popup
 duniaku.net###banner-popup-desktop
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
@@ -1435,7 +1436,12 @@ manganime.id##.ftadss
 komikcast.net,komikindo.id,komikindo.pro##.gambar_pemanis
 myasiantv.se##.glx-link
 myasiantv.se##.glx-teaser
+jendelakaba.com##.gmr-banner-afterrelpost
+jendelakaba.com##.gmr-banner-logo
 layardrama21.rest##.gmr-bannerpopup
+jendelakaba.com##.gmr-footerbanner
+jendelakaba.com##.gmr-topbanner
+jendelakaba.com##.gmr-verytopbanner
 kompas.com##.hAds
 bioskop90.com##.headborder:nth-of-type(5)
 kaskus.co.id##.header__kasad
@@ -1468,7 +1474,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
+107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent

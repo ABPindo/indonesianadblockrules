@@ -22,7 +22,7 @@ bintangmawar.net###bmpop_adpB
 unyil.net###float-atas
 sangetods.net###floatads
 149.102.130.200,154.12.229.9,194.163.158.12,45.67.231.215,75.119.147.12,81.0.220.98,89.117.61.35###floating_banner_top1
-kamarbokep.xyz,kebokepanku.xyz,ruangbokep.sbs,ruangbokep.top,streamingbokeponline.site,streamingbokeponline.top###floating_bot
+kamarbokep.xyz,kebokepanku.xyz,ruangbokep.bond,ruangbokep.sbs,ruangbokep.top,sibokep.bond,streamingbokeponline.site,streamingbokeponline.top###floating_bot
 157.245.195.114###floating_bot.btm_ban
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
@@ -35,7 +35,7 @@ gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
-doujinlands.com,kanzenin.xyz,komik18.art,komikdewasa.art,komikdewasa.me,komikmanhwa.me,kumapoi.me,manhwaindo.me,sektedoujin.lol###teaser3
+doujinlands.com,kanzenin.xyz,komik18.art,komikdewasa.art,komikdewasa.me,komikmanhwa.me,kumapoi.me,manhwaindo.me,pemersatu.link,sektedoujin.lol###teaser3
 sodasusu.com###teaser4
 158.69.0.212###top-banner
 173.249.49.204###tutupen
@@ -83,6 +83,3 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-ruangbokep.bond###floating_bot
-sibokep.bond###floating_bot
-pemersatu.link###teaser3
