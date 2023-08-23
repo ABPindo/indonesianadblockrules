@@ -50,6 +50,7 @@ indotelko.com###baca_juga
 haibunda.com###balloonads
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
+jendelakaba.com###banner-popup
 duniaku.net###banner-popup-desktop
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
@@ -520,7 +521,12 @@ manganime.id##.ftadss
 komikcast.net,komikindo.id,komikindo.pro##.gambar_pemanis
 myasiantv.se##.glx-link
 myasiantv.se##.glx-teaser
+jendelakaba.com##.gmr-banner-afterrelpost
+jendelakaba.com##.gmr-banner-logo
 layardrama21.rest##.gmr-bannerpopup
+jendelakaba.com##.gmr-footerbanner
+jendelakaba.com##.gmr-topbanner
+jendelakaba.com##.gmr-verytopbanner
 kompas.com##.hAds
 bioskop90.com##.headborder:nth-of-type(5)
 kaskus.co.id##.header__kasad
