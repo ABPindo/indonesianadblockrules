@@ -1,13 +1,4 @@
 ! Allowlist for network filters
-@@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|mangacanblog.com
-@@.jpg#$image,domain=komikcast.com
-@@.jpg#/*/ads/$image,domain=anibatch.me
-@@.jpg#/adaffiliate_/$image,domain=kaze-batch.blogspot.com|kazefuri.web.id|shirosafe.web.id
-@@.png#$image,domain=1idsly.com|anisubindo.video|komikindo.web.id|link.akuno.net|neumanga.tv|oploverz.in|tokusatsuindo.com
-@@.png#*/ad/$image,domain=ad4msan.com
-@@.png#/*/ad/$image,domain=mangacanblog.com
-@@.png#/adaffiliate_/$image,domain=anisubindo.video|awsubs.co|biargreget.top|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sanjayaops.com|sdrama.com|shirosafe.web.id
-@@logo*.png#*/ads/$image,~third-party
 @@||1idsly.com^$generichide
 @@||ad4msan.com^$generichide
 @@||ads.id^$~third-party
@@ -54,7 +45,6 @@
 @@||otakuindo.net^$generichide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
-@@||rawcdn.githack.com/KecoaTerbank/safelink/$script,domain=eleventhlevelinteractive.com
 @@||razorlink.us^$generichide
 @@||riauonline.co.id^$generichide
 @@||ryuukoi.web.id^$generichide
@@ -64,8 +54,6 @@
 @@||shirosafe.web.id^$generichide
 @@||suarankri.me^$generichide
 @@||tokusatsuindo.com^$generichide
-@@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
-@@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 ! Allowlist for element hiding filters
 gurusd.web.id,kurikulum.co.id#@##adsense
 woof.tube#@#.adsbox
