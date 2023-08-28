@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202308240018
+! Version: 202308281115
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 24 Aug 2023 00:18 UTC
+! Last modified: 28 Aug 2023 11:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -573,29 +573,20 @@ iklan300x250.gif|
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
 ! Miscellanous popups
-*$popup,domain=info.mapsaddress.com,kiryuu.id
+*$popup,domain=info.mapsaddress.com|info.vebma.com|kiryuu.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 doroni.me##+js(acs, getComputedStyle, , cpm)
-info.mapsaddress.com##+js(aeld, click, linkOpened)
-info.gambar.pro,info.mapsaddress.com,jenismac.com##+js(nano-sib)
-info.gambar.pro,info.mapsaddress.com,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
+info.mapsaddress.com,info.vebma.com##+js(aeld, click, linkOpened)
+info.gambar.pro,info.mapsaddress.com,info.vebma.com,jenismac.com##+js(nano-sib)
+info.gambar.pro,info.mapsaddress.com,info.vebma.com,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
 jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
-kiryuu.id##+js(nowoif)
+anichin.top,kiryuu.id##+js(nowoif)
 tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
 gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 ! *** abpindo:src/advert/allowlist.txt ***
 ! Allowlist for network filters
-@@.gif#/*/ad/$image,domain=ljutkeunvpn.blogspot.com|mangacanblog.com
-@@.jpg#$image,domain=komikcast.com
-@@.jpg#/*/ads/$image,domain=anibatch.me
-@@.jpg#/adaffiliate_/$image,domain=kaze-batch.blogspot.com|kazefuri.web.id|shirosafe.web.id
-@@.png#$image,domain=1idsly.com|anisubindo.video|komikindo.web.id|link.akuno.net|neumanga.tv|oploverz.in|tokusatsuindo.com
-@@.png#*/ad/$image,domain=ad4msan.com
-@@.png#/*/ad/$image,domain=mangacanblog.com
-@@.png#/adaffiliate_/$image,domain=anisubindo.video|awsubs.co|biargreget.top|gadget2reviews.com|idsly.net|kazefuri.blogspot.com|kazefuri.web.id|klikshowtime.com|komikindo.web.id|komikstation.com|mangakita.net|neumanga.tv|oploverz.in|oploverz.net|riauonline.co.id|sanjayaops.com|sdrama.com|shirosafe.web.id
-@@logo*.png#*/ads/$image,~third-party
 @@||1idsly.com^$generichide
 @@||ad4msan.com^$generichide
 @@||ads.id^$~third-party
@@ -642,7 +633,6 @@ gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 @@||otakuindo.net^$generichide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
-@@||rawcdn.githack.com/KecoaTerbank/safelink/$script,domain=eleventhlevelinteractive.com
 @@||razorlink.us^$generichide
 @@||riauonline.co.id^$generichide
 @@||ryuukoi.web.id^$generichide
@@ -652,8 +642,6 @@ gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 @@||shirosafe.web.id^$generichide
 @@||suarankri.me^$generichide
 @@||tokusatsuindo.com^$generichide
-@@||unpkg.com/flickity@2.0.10/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
-@@||unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js$script,domain=animekita.net|mangaid.co|nontonanime.id
 ! Allowlist for element hiding filters
 gurusd.web.id,kurikulum.co.id#@##adsense
 woof.tube#@#.adsbox
@@ -1173,7 +1161,7 @@ harianjogja.com,solopos.com###solopos_float
 detik.com###sto_banner
 15.235.11.45,65.108.132.145,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,filmroster.online,isekaisubs.web.id,luciferdonghua.in,mangashiro.net,neumanga.tv,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser1
 22cinema.download,65.108.132.145,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,isekaisubs.web.id,komiku.net,luciferdonghua.in,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser2
-15.235.11.45,22cinema.download,45.12.2.2,animasu.cc,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,kuramanime.xyz,layarbiru21.com,lmanime.com,luciferdonghua.co.in,luciferdonghua.in,mangaindo.me,mangakita.net,mangakyo.org,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser3
+15.235.11.45,22cinema.download,45.12.2.2,animasu.cc,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,kuramanime.xyz,layarbiru21.com,lmanime.com,luciferdonghua.co.in,luciferdonghua.in,mangaindo.me,mangakita.net,mangakyo.org,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com,warungkomik.com###teaser3
 22cinema.download###teaser5
 indoxx1.club###tengah
 dunia21.top,lk21.cc###tengah > span
@@ -1728,12 +1716,13 @@ tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 funtasticko.net##img[width="1020"][height="350"]
-info.gambar.pro,info.mapsaddress.com##img[width="240"][height="240"]
-info.gambar.pro##img[width="320"][height="105"]
+info.gambar.pro,info.mapsaddress.com,info.vebma.com##img[width="240"][height="240"]
+info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
-info.gambar.pro,info.mapsaddress.com#?#p:-abp-has( > a[href="#downloadnow"])
+info.gambar.pro,info.mapsaddress.com,info.vebma.com#?#p:-abp-has( > a[href="#downloadnow"])
 tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
+info.vebma.com#?#span:-abp-contains(Advertisement)
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
@@ -6960,6 +6949,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://pkrboyagacor.com/"]
 ##[href^="https://pkzeus.com"]
 ##[href^="https://playbook88vip.com"]
+##[href^="https://playbook88vip.net/"]
 ##[href^="https://pojokpoker.net"]
 ##[href^="https://poker357."]
 ##[href^="https://pokerjenius.net"]
@@ -8734,6 +8724,7 @@ leon.bet#@#[href$="/slots"]
 ||wibufile.com/api/beenv^
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
 ! Entity filters
+agenbokep.*##.popbox
 anoboy.*###popup_bawah
 anoboy.*###popup_box
 anoboy.*##[href="https://klik.gg/anoboy"]
@@ -8743,10 +8734,12 @@ komikdewasa.*###teaser3
 komikdewasa.*##.kln
 komikindo.*##.ads
 perawanbokep.*###ads
+ruangbokep.*###floating_bot
+streamingbokeponline.*###floating_bot
 ! Non-entity filters
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 pemersatu.top,pemersatudotfun.com#@##adright
-cctvbokep.help,dutasex.bio,dutasex.top,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
+cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
 ceritasexindonesia.com###adsic728
 ceritasexindonesia.com###adsic7282
 94.237.74.225,streamingbokeps.co###advertisement
