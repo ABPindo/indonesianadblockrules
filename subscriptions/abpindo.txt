@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202308281115
+! Version: 202308311242
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 28 Aug 2023 11:15 UTC
+! Last modified: 31 Aug 2023 12:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -304,7 +304,6 @@
 ||trafficfactory.biz^$popup,third-party
 ||trk.cpaoptimizer.com^$popup,third-party
 ! *** abpindo:src/advert/general_block.txt ***
-&adtype=$popup
 -728-x-90-
 -728-x-90.
 -729-x-90.
@@ -1086,7 +1085,6 @@ pkspiyungan.org###largebanner
 mangafap.com###lbanner
 5.182.209.205,filmapik.kim,filmapik.sbs,filmapik21.space###le_header_ads
 kabar2.com###leaderboard
-detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 komikbaru.com###left-skyscraper
 www.lingohut.com###lht2_lesson_after_vocab2_300x250_phone
@@ -1336,7 +1334,6 @@ tribunnews.com##.belanja-picks
 www.inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
 bharian.com.my##.bh-ad
 haibunda.com##.billboard__banner
-bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
 bharian.com.my##.block-bh-googledfp
 gudangpemain.com##.blocker-notice
 gudangpemain.com##.blocker-overlay
@@ -1401,7 +1398,6 @@ tribunnews.com##.content [style="width:160px; height:600px;"]
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
 lensaindonesia.com##.ctnitem.ctncom
-beritasatu.com#?#.d-flex.w-100:-abp-has([id^="div-gpt-ad"])
 tirto.id##.d-sidebar
 teknologi.inilah.com##.d.wp-120x600
 pricebook.co.id##.description-ads
@@ -1409,7 +1405,6 @@ okezone.com##.detads
 detik.com##.detikads
 dewanontons.com##.dewa_floating_bottom
 anoboy.digital##.download
-m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
 thejakartapost.com##.expandable-bottom-sticky
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
@@ -1481,8 +1476,6 @@ shinigami.id##.lepopup-popup-container
 shinigami.id##.lepopup-popup-loader
 shinigami.id##.lepopup-popup-overlay
 animasu.cc##.lmd-iklan
-haibunda.com#?#.m-r1:-abp-has(#adv-caption-mr1)
-haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
@@ -1502,10 +1495,7 @@ cinemaindo.web.id,filmbagus21.info##.modal
 nanimex.in##.modal-backdrop
 fastdrama.co##.modal-content
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr1-scrollpage-height
-detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
-cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr2-scrollpage-height
-cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
 nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
 kompas.com##.native-wrap
@@ -1528,7 +1518,6 @@ cnnindonesia.com##.paradetail
 idntimes.com,sindonews.com##.parallax-ad
 detik.com##.parallax_abs
 medcom.id##.parallax_ads
-briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
 suara.com##.placeholder_expose
 suara.com##.placeholder_leaderboard
 suara.com##.placeholder_medium
@@ -1539,7 +1528,6 @@ suara.com##.placeholder_read_body
 viva.co.id##.portlet.sideskycrapper
 filem456.com##.pps-single-popup
 kompas.com##.premium_div
-blibli.com#?#.product__card:-abp-has(.product__tag__ads)
 bolasport.com,gridoto.com,kompas.com##.pushdown-banner
 otomania.com##.r-ads
 film-ganool.com##.random
@@ -1693,17 +1681,10 @@ suara.com##div.placeholder_pariwara
 medcom.id##div.showcase.banner
 medcom.id##div.skycrapper.banner
 cerpen.co.id##div.ui_adblock
-katadata.co.id#?#div:-abp-has( > [id^="div-gpt-ad"][class^="paralax"])
 cmovieshd.se,ganool.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
 hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
-tokopedia.com#?#div[data-testid="CPMWrapper"]:-abp-has(span:-abp-contains(/^Ad$/))
-tokopedia.com#?#div[data-testid="divProduct"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
-tokopedia.com#?#div[data-testid="divProductWrapper"]:-abp-has(span[data-testid="divSRPTopadsIcon"])
 tokopedia.com##div[data-testid="featuredShopCntr"]
-tokopedia.com#?#div[data-testid="lazy-frame"]:-abp-has(span[data-testid="lblProdTopads"])
-tokopedia.com#?#div[data-testid="master-product-card"]:-abp-has(span[data-testid^="linkProductTopads"])
 tokopedia.com##div[data-testid="topadsCPMWrapper"]
-tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
 rasa.my##div[data-ub-carousel]
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
@@ -1720,12 +1701,31 @@ info.gambar.pro,info.mapsaddress.com,info.vebma.com##img[width="240"][height="24
 info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
-info.gambar.pro,info.mapsaddress.com,info.vebma.com#?#p:-abp-has( > a[href="#downloadnow"])
-tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
-info.vebma.com#?#span:-abp-contains(Advertisement)
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+! ABP-specific Filters
+detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
+bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
+beritasatu.com#?#.d-flex.w-100:-abp-has([id^="div-gpt-ad"])
+m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
+haibunda.com#?#.m-r1:-abp-has(#adv-caption-mr1)
+haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
+detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
+cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
+cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
+briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
+blibli.com#?#.product__card:-abp-has(.product__tag__ads)
+katadata.co.id#?#div:-abp-has( > [id^="div-gpt-ad"][class^="paralax"])
+tokopedia.com#?#div[data-testid="CPMWrapper"]:-abp-has(span:-abp-contains(/^Ad$/))
+tokopedia.com#?#div[data-testid="divProduct"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
+tokopedia.com#?#div[data-testid="divProductWrapper"]:-abp-has(span[data-testid="divSRPTopadsIcon"])
+tokopedia.com#?#div[data-testid="lazy-frame"]:-abp-has(span[data-testid="lblProdTopads"])
+tokopedia.com#?#div[data-testid="master-product-card"]:-abp-has(span[data-testid^="linkProductTopads"])
+tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
+info.gambar.pro,info.mapsaddress.com,info.vebma.com#?#p:-abp-has( > a[href="#downloadnow"])
+tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
+info.vebma.com#?#span:-abp-contains(Advertisement)
 ! --------------------------- adult ------------------------------!
 ! *** abpindo:src/adult/adult_general_block.txt ***
 ! 
