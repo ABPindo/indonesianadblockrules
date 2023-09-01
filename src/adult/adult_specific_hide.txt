@@ -11,6 +11,8 @@ komikindo.*##.ads
 perawanbokep.*###ads
 ruangbokep.*###floating_bot
 streamingbokeponline.*###floating_bot
+shinigami.*##.lepopup-popup-overlay
+shinigami.*##.lepopup-popup-container
 ! Non-entity filters
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 pemersatu.top,pemersatudotfun.com#@##adright
