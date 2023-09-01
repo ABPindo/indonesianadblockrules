@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202308311242
+! Version: 202309011132
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 31 Aug 2023 12:42 UTC
+! Last modified: 01 Sep 2023 11:32 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -935,6 +935,7 @@ chip.co.id###TopBannerBg
 mangacanblog.com###aa
 motorplus-online.com###ad-genie-container
 detik.com###adpoint5
+mirrorkomik.net###adrandpop
 budiarto.id,cinemaindo.web.id,filmapik.tv###ads
 dapurpacu.com###ads-728
 dapurpacu.com###ads-960-mid
@@ -948,6 +949,7 @@ cnnindonesia.com,detik.com,haibunda.com###adv-caption-mr2
 unixmen.com###an-Modal
 tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
+mirrorkomik.net###aplikasi
 zonabola.com###aside img[width="300"][height="250"]
 indotelko.com###baca_juga
 haibunda.com###balloonads
@@ -4937,6 +4939,7 @@ info.vebma.com#?#span:-abp-contains(Advertisement)
 /pkutama2-$image
 /Pkv-Games.gif|$image
 /PKVHOKI.gif|$image
+/PoinBet-$image
 /Poker228.gif|$image
 /poker24s-$image
 /poker7club-$image
@@ -6912,6 +6915,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://kasinowarkop.com/"]
 ##[href^="https://kdpoker."]
 ##[href^="https://kdslots."]
+##[href^="https://klik.bet/"]
 ##[href^="https://kokas88.com"]
 ##[href^="https://lagihoki."]
 ##[href^="https://lapakceme."]
@@ -8735,6 +8739,8 @@ komikdewasa.*##.kln
 komikindo.*##.ads
 perawanbokep.*###ads
 ruangbokep.*###floating_bot
+shinigami.*##.lepopup-popup-container
+shinigami.*##.lepopup-popup-overlay
 streamingbokeponline.*###floating_bot
 ! Non-entity filters
 173.199.167.192,krucil.com,krucil.net###KD_adpB

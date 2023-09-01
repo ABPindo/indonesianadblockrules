@@ -32,6 +32,7 @@ chip.co.id###TopBannerBg
 mangacanblog.com###aa
 motorplus-online.com###ad-genie-container
 detik.com###adpoint5
+mirrorkomik.net###adrandpop
 budiarto.id,cinemaindo.web.id,filmapik.tv###ads
 dapurpacu.com###ads-728
 dapurpacu.com###ads-960-mid
@@ -45,6 +46,7 @@ cnnindonesia.com,detik.com,haibunda.com###adv-caption-mr2
 unixmen.com###an-Modal
 tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
+mirrorkomik.net###aplikasi
 zonabola.com###aside img[width="300"][height="250"]
 indotelko.com###baca_juga
 haibunda.com###balloonads
@@ -801,8 +803,6 @@ doroni.me##ins.adsbygoogle
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-mirrorkomik.net###adrandpop
-mirrorkomik.net###aplikasi
 ! ABP-specific Filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
