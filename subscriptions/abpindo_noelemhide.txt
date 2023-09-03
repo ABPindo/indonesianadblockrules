@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202309011132
+! Version: 202309031154
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 01 Sep 2023 11:32 UTC
+! Last modified: 03 Sep 2023 11:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -581,7 +581,7 @@ info.gambar.pro,info.mapsaddress.com,info.vebma.com,thejakartapost.com##+js(no-f
 netq.me##+js(no-fetch-if, clarity.ms)
 jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
-anichin.top,kiryuu.id##+js(nowoif)
+anichin.top,kimcilonly.site,kiryuu.id##+js(nowoif)
 tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
 gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 ! *** abpindo:src/advert/allowlist.txt ***
@@ -3489,6 +3489,7 @@ totolink.id#@#.social-circle
 -capsa365.$image
 -capsaqq-$image
 -cariqq-$image
+-cashback-slot-$image
 -dewatangkas-$image
 -dewiqq.$image
 -divapoker-$image
@@ -3804,6 +3805,7 @@ totolink.id#@#.social-circle
 /loketpoker-$image
 /lonteqq-$image
 /lumbungpoker-$image
+/lux111.gif|$image
 /luxury-pop-$image
 /luxury777-$image
 /luxury777.gif|
@@ -4038,6 +4040,7 @@ totojitu.gif|$image
 ||krucil.net/banner/
 ||malemjumat.mom/banner/*.gif$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
+||pemersatu.top/wp-content/themes/pemersatublack/public/anticurang/*$script,~third-party
 ||pemersatudotfun.com/ads.js$script
 ||slunkenchukkar.com/nwnJuadwxPHeiD3/52345$script,domain=manhwaid.club
 ||sodasusu.com/banner/

@@ -5,7 +5,6 @@ info.gambar.pro,info.mapsaddress.com,info.vebma.com,thejakartapost.com##+js(no-f
 netq.me##+js(no-fetch-if, clarity.ms)
 jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
-anichin.top,kiryuu.id##+js(nowoif)
+anichin.top,kimcilonly.site,kiryuu.id##+js(nowoif)
 tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
 gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
-kimcilonly.site##+js(nowoif)

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202309011132
+! Version: 202309031154
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Sep 2023 11:32 UTC
+! Last modified: 03 Sep 2023 11:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -581,7 +581,7 @@ info.gambar.pro,info.mapsaddress.com,info.vebma.com,thejakartapost.com##+js(no-f
 netq.me##+js(no-fetch-if, clarity.ms)
 jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
-anichin.top,kiryuu.id##+js(nowoif)
+anichin.top,kimcilonly.site,kiryuu.id##+js(nowoif)
 tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
 gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 ! *** abpindo:src/advert/allowlist.txt ***
@@ -1486,8 +1486,9 @@ www.inibaru.id##.mb-4.bg-grey.text-center
 www.kompasiana.com##.mb20.mt20.banner-dable-read.banner
 www.parapuan.co##.mb3.gpt-ad-head-wrapper.widget
 cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
-juraganfilm.icu##.mfp-inline-holder.mfp-s-ready.mfp-container
+37.49.229.132,juraganfilm.icu##.mfp-inline-holder.mfp-s-ready.mfp-container
 juraganfilm.icu##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile
+37.49.229.132##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-bg
 bolasport.com,kompas.tv##.mgidclsbanner
 dapurpacu.com##.mid-banner
 astroawani.com##.middle-ad-cont
@@ -4562,6 +4563,7 @@ info.vebma.com#?#span:-abp-contains(Advertisement)
 -capsa365.$image
 -capsaqq-$image
 -cariqq-$image
+-cashback-slot-$image
 -dewatangkas-$image
 -dewiqq.$image
 -divapoker-$image
@@ -4877,6 +4879,7 @@ info.vebma.com#?#span:-abp-contains(Advertisement)
 /loketpoker-$image
 /lonteqq-$image
 /lumbungpoker-$image
+/lux111.gif|$image
 /luxury-pop-$image
 /luxury777-$image
 /luxury777.gif|
@@ -6876,6 +6879,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://gacormenang.com/"]
 ##[href^="https://ggbet777.click/register"]
 ##[href^="https://ggjudi."]
+##[href^="https://ggslot777.store/"]
 ##[href^="https://gitartogel77.com/"]
 ##[href^="https://grubhub.pro"]
 ##[href^="https://gubernurtoto.com/"]
@@ -8722,6 +8726,7 @@ leon.bet#@#[href$="/slots"]
 ||krucil.net/banner/
 ||malemjumat.mom/banner/*.gif$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
+||pemersatu.top/wp-content/themes/pemersatublack/public/anticurang/*$script,~third-party
 ||pemersatudotfun.com/ads.js$script
 ||slunkenchukkar.com/nwnJuadwxPHeiD3/52345$script,domain=manhwaid.club
 ||sodasusu.com/banner/
@@ -8801,6 +8806,7 @@ ibugil.net##.semprotpokemon_2
 sebokep.com##.sg-popup-builder-content
 sebokep.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
 sebokep.com##.sgpb-popup-overlay
+nomat.fun##.show.popup
 207.244.225.48##.underlay
 komikdewasa.art##.wp-image-80765.size-full.alignnone
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper

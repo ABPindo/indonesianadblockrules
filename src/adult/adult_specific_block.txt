@@ -10,8 +10,8 @@
 ||krucil.net/banner/
 ||malemjumat.mom/banner/*.gif$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
+||pemersatu.top/wp-content/themes/pemersatublack/public/anticurang/*$script,~third-party
 ||pemersatudotfun.com/ads.js$script
 ||slunkenchukkar.com/nwnJuadwxPHeiD3/52345$script,domain=manhwaid.club
 ||sodasusu.com/banner/
 ||wibufile.com/api/beenv^
-||pemersatu.top/wp-content/themes/pemersatublack/public/anticurang/*$script,~third-party
