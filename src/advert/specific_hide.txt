@@ -393,10 +393,10 @@ www.sonora.id##.banner-skin--right
 modifikasi.com##.banner-top
 suara.com##.banner-top-m.widget-ads-top
 oktavita.com##.banner-zone
-bisnis.com##.banner.billboardBig.billboard
-bisnis.com##.banner.billboardBottom
-bisnis.com##.banner.billboardRectangle.billboard
-bisnis.com##.banner.billboardTop.billboard
+bisnis.com##.billboardBig.billboard
+bisnis.com##.billboardBottom
+bisnis.com##.billboardRectangle.billboard
+bisnis.com##.billboardTop.billboard
 juragan-anime.net##.banner3
 tempo.co##.banner320x480
 kompas.com##.bannerAdB
@@ -804,6 +804,13 @@ doroni.me##ins.adsbygoogle
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+bisnis.com##.billboardPushdown
+bisnis.com##.billboardLeaderboard.billboard
+bisnis.com##.billboardFlyingBanner
+bisnis.com##.billboardFlyingFix
+bisnis.com##.billboardFlyingInner
+bisnis.com##.billboardFlying
+bisnis.com##.billboardRectangle.billboard
 ! ABP-specific Filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
