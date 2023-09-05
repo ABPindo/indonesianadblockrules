@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202309031154
+! Version: 202309051107
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 03 Sep 2023 11:54 UTC
+! Last modified: 05 Sep 2023 11:07 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1296,10 +1296,6 @@ www.sonora.id##.banner-skin--right
 modifikasi.com##.banner-top
 suara.com##.banner-top-m.widget-ads-top
 oktavita.com##.banner-zone
-bisnis.com##.banner.billboardBig.billboard
-bisnis.com##.banner.billboardBottom
-bisnis.com##.banner.billboardRectangle.billboard
-bisnis.com##.banner.billboardTop.billboard
 juragan-anime.net##.banner3
 tempo.co##.banner320x480
 kompas.com##.bannerAdB
@@ -1335,6 +1331,16 @@ inet.detik.com##.bb_banner
 tribunnews.com##.belanja-picks
 www.inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
 bharian.com.my##.bh-ad
+bisnis.com##.billboardBig.billboard
+bisnis.com##.billboardBottom
+bisnis.com##.billboardFlying
+bisnis.com##.billboardFlyingBanner
+bisnis.com##.billboardFlyingFix
+bisnis.com##.billboardFlyingInner
+bisnis.com##.billboardLeaderboard.billboard
+bisnis.com##.billboardPushdown
+bisnis.com##.billboardRectangle.billboard
+bisnis.com##.billboardTop.billboard
 haibunda.com##.billboard__banner
 bharian.com.my##.block-bh-googledfp
 gudangpemain.com##.blocker-notice
