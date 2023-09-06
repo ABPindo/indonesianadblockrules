@@ -4,7 +4,6 @@
 ###SidebarIklan-wrapper
 ###ad_box_1
 ###ad_divLeft
-###ads-pop
 ###ads-vert-300
 ###ads_banner_left
 ###ads_banner_left1
@@ -241,3 +240,5 @@
 ##a[alt="iklan" i]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
+##.idmuvi-bannerplayer
+##.idmuvi-bannerplayer-wrap
