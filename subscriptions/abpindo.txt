@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202309051107
+! Version: 202309061302
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 05 Sep 2023 11:07 UTC
+! Last modified: 06 Sep 2023 13:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -574,6 +574,7 @@ iklan300x250.gif|
 ! Miscellanous popups
 *$popup,domain=info.mapsaddress.com|info.vebma.com|kiryuu.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
+juraganfilm.ink##+js(abort-on-property-read, $.magnificPopup.open)
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.mapsaddress.com,info.vebma.com##+js(aeld, click, linkOpened)
 info.gambar.pro,info.mapsaddress.com,info.vebma.com,jenismac.com##+js(nano-sib)
@@ -663,7 +664,6 @@ totolink.id#@#.social-circle
 ###SidebarIklan-wrapper
 ###ad_box_1
 ###ad_divLeft
-###ads-pop
 ###ads-vert-300
 ###ads_banner_left
 ###ads_banner_left1
@@ -804,6 +804,8 @@ totolink.id#@#.social-circle
 ##.idmuvi-banner-aftercontent
 ##.idmuvi-banner-beforecontent
 ##.idmuvi-banner-insidecontent
+##.idmuvi-bannerplayer
+##.idmuvi-bannerplayer-wrap
 ##.idmuvi-center-ads
 ##.idmuvi-floatbanner
 ##.idmuvi-floatbanner-footer
@@ -1695,6 +1697,7 @@ hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
 tokopedia.com##div[data-testid="featuredShopCntr"]
 tokopedia.com##div[data-testid="topadsCPMWrapper"]
 rasa.my##div[data-ub-carousel]
+139.99.61.225##div[id^="floating_banner_bottom"]
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
@@ -4895,6 +4898,7 @@ info.vebma.com#?#span:-abp-contains(Advertisement)
 /MACAU442NET.gif$image
 /macaubet-$image
 /MacauDewa-$image
+/maincuan.gif|$image
 /mainqq-$image
 /majuqq-$image
 /mamibit-$image
@@ -5118,6 +5122,7 @@ totojitu.gif|$image
 ##.judi
 ##.togel
 ##[href$=".win/simantan"]
+##[href$="/388hero"]
 ##[href$="/77megabet"]
 ##[href$="/AgenIDNPoker" i]
 ##[href$="/KaikoSLOT" i]
@@ -5152,6 +5157,7 @@ totojitu.gif|$image
 ##[href$="/asikspin"]
 ##[href$="/bandarpokerpulsa"]
 ##[href$="/bandarq365"]
+##[href$="/bandarxl"]
 ##[href$="/bebasjudi1"]
 ##[href$="/bet88me"]
 ##[href$="/betmovie"]
@@ -5169,6 +5175,7 @@ totojitu.gif|$image
 ##[href$="/duniabet"]
 ##[href$="/dut4f1lm"]
 ##[href$="/emas188manhwaland"]
+##[href$="/enakslot"]
 ##[href$="/exsapoker"]
 ##[href$="/fastbet99/"]
 ##[href$="/filmlokal"]
@@ -5202,6 +5209,7 @@ totojitu.gif|$image
 ##[href$="/mahadewa"]
 ##[href$="/mahadewa88"]
 ##[href$="/mahadewapoker"]
+##[href$="/maincuan"]
 ##[href$="/mangapptoto"]
 ##[href$="/maniaslot"]
 ##[href$="/master88"]

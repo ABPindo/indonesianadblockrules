@@ -144,6 +144,8 @@
 ##.idmuvi-banner-aftercontent
 ##.idmuvi-banner-beforecontent
 ##.idmuvi-banner-insidecontent
+##.idmuvi-bannerplayer
+##.idmuvi-bannerplayer-wrap
 ##.idmuvi-center-ads
 ##.idmuvi-floatbanner
 ##.idmuvi-floatbanner-footer
@@ -240,5 +242,3 @@
 ##a[alt="iklan" i]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-##.idmuvi-bannerplayer
-##.idmuvi-bannerplayer-wrap
