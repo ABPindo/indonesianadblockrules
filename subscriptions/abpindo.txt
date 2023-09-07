@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202309061302
+! Version: 202309070433
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 06 Sep 2023 13:02 UTC
+! Last modified: 07 Sep 2023 04:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -649,7 +649,7 @@ aktual.id,datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbyg
 aplikasipc.com#@#.afs_ads
 qqcinema21.com#@#.headads
 layarlebarxxi.com#@#.idmuvi-afterplayer
-109.234.34.246,filmdewasaku.org#@#.idmuvi-topbanner-aftermenu
+109.234.34.246,filmdewasaku.org,layardrama21.com#@#.idmuvi-topbanner-aftermenu
 layarlebar21.org,layarlebarxxi.com#@#.idmuvi-topplayer
 animanganews.com,short.awsubs.co#@#.iklan
 tokosatu.com#@#.popupflyin-clicks-area
@@ -5259,6 +5259,7 @@ leon.bet#@#[href$="/slots"]
 ##[href="https://apiservices.shop/apFmUK"]
 ##[href="https://hasil-keluaran-hk.com/redirecting"]
 ##[href="https://themarket.life/register/YKRGLNP8"]
+##[href^="//avgirls.asia/"]
 ##[href^="//zukxd6fkxqn.com/"]
 ##[href^="http://081364439991.org/register/"]
 ##[href^="http://1001win.fun"]
@@ -6828,6 +6829,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://77hoki.com"]
 ##[href^="https://8080sport2023.com"]
 ##[href^="https://80sportbet.com/"]
+##[href^="https://8togel45.com/"]
 ##[href^="https://91.233.198.25/"]
 ##[href^="https://94.237.73.68/account/register"]
 ##[href^="https://9411532.com/"]
