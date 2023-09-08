@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202309081059
+! Version: 202309081409
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 08 Sep 2023 10:59 UTC
+! Last modified: 08 Sep 2023 14:09 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -4899,6 +4899,7 @@ info.vebma.com#?#span:-abp-contains(Advertisement)
 /MACAU442NET.gif$image
 /macaubet-$image
 /MacauDewa-$image
+/maincuan-$image
 /maincuan.gif|$image
 /mainqq-$image
 /majuqq-$image
@@ -5069,6 +5070,7 @@ info.vebma.com#?#span:-abp-contains(Advertisement)
 /wigobet-$image
 /willwin8.gif|$image
 /winning365-$image
+/WinsGoal.gif|$image
 /wiropoker.gif|$image
 /wismaqq-$image
 /yoyopoker-$image
@@ -6839,6 +6841,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://INDOLIGA338.COM/"]
 ##[href^="https://Slotguru88.live"]
 ##[href^="https://adstub.net/"]
+##[href^="https://afiliasi-id.ekings.com/"]
 ##[href^="https://agenimc5."]
 ##[href^="https://agpkv.com"]
 ##[href^="https://ahabetgacor.com/"]
@@ -7943,6 +7946,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="BABEQQ" i]
 ##img[alt="BADUTQQ" i]
 ##img[alt="BALAKQQ" i]
+##img[alt="BALI777" i]
 ##img[alt="BANDARQ168" i]
 ##img[alt="BANDARQ228" i]
 ##img[alt="BANDARQIU" i]
@@ -8472,6 +8476,8 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="WINTOGEL" i]
 ##img[alt="WONGPOKER" i]
 ##img[alt="Wigobet" i]
+##img[alt="WinsGoal" i]
+##img[alt="Winstar138" i]
 ##img[alt="WongQQ" i]
 ##img[alt="YAKINQQ" i]
 ##img[alt="Z11BET" i]
@@ -8681,6 +8687,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt^="IDN Poker" i]
 ##img[alt^="Kaiko Slot" i]
 ##img[alt^="Live Casino Online" i]
+##img[alt^="Main Cuan Slot" i]
 ##img[alt^="Megajudi" i]
 ##img[alt^="Megapulsa" i]
 ##img[alt^="Megasloto" i]
