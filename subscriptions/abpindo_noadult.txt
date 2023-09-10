@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202309081409
+! Version: 202309100658
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 08 Sep 2023 14:09 UTC
+! Last modified: 10 Sep 2023 06:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -904,6 +904,28 @@ totolink.id#@#.social-circle
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
 ! *** abpindo:src/advert/specific_hide.txt ***
+! ABP-specific Filters
+detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
+bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
+beritasatu.com#?#.d-flex.w-100:-abp-has([id^="div-gpt-ad"])
+m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
+haibunda.com#?#.m-r1:-abp-has(#adv-caption-mr1)
+haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
+detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
+cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
+cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
+briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
+blibli.com#?#.product__card:-abp-has(.product__tag__ads)
+katadata.co.id#?#div:-abp-has( > [id^="div-gpt-ad"][class^="paralax"])
+tokopedia.com#?#div[data-testid="CPMWrapper"]:-abp-has(span:-abp-contains(/^Ad$/))
+tokopedia.com#?#div[data-testid="divProduct"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
+tokopedia.com#?#div[data-testid="divProductWrapper"]:-abp-has(span[data-testid="divSRPTopadsIcon"])
+tokopedia.com#?#div[data-testid="lazy-frame"]:-abp-has(span[data-testid="lblProdTopads"])
+tokopedia.com#?#div[data-testid="master-product-card"]:-abp-has(span[data-testid^="linkProductTopads"])
+tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
+info.gambar.pro,info.mapsaddress.com,info.vebma.com#?#p:-abp-has( > a[href="#downloadnow"])
+tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
+info.vebma.com#?#span:-abp-contains(Advertisement)
 ! Entity filters
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
@@ -1322,6 +1344,7 @@ detik.com##.banner_inside_article
 lapar.com##.banner_main
 modifikasi.com##.bannercol
 modifikasi.com##.bannerfloat
+tempo.co##.bannerfull
 tempo.co##.bannerhead
 waralabakan.com##.banneritem
 nontonme.com##.bannermovie
@@ -1334,6 +1357,7 @@ inet.detik.com##.bb_banner
 tribunnews.com##.belanja-picks
 www.inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
 bharian.com.my##.bh-ad
+detik.com##.billboard-top
 bisnis.com##.billboardBig.billboard
 bisnis.com##.billboardBottom
 bisnis.com##.billboardFlying
@@ -1528,6 +1552,7 @@ cnnindonesia.com##.para_abs
 cnnindonesia.com##.para_fix
 cnnindonesia.com##.paradetail
 idntimes.com,sindonews.com##.parallax-ad
+tempo.co##.parallax-box
 detik.com##.parallax_abs
 medcom.id##.parallax_ads
 suara.com##.placeholder_expose
@@ -1683,6 +1708,7 @@ republika.co.id##a[style="width: 100%; height: 100%; display: block; position: f
 gatsunime.org##a[target="_blank"][rel^="noopener noreferrer"] > img[src$=".gif"]
 mangakita.net##a[title^="manga4d"]
 bioskop168.co,bioskop168.online,bioskop168.pro##bioskop-kanan
+tempo.co##body:remove-class(pad-apps)
 gigapurbalingga.net,kuyhaa-me.com##center
 nontonfilm88.com##center > table
 klikseru.com##center img[width="728"][height="70"]
@@ -1717,25 +1743,3 @@ doroni.me##ins.adsbygoogle
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
-! ABP-specific Filters
-detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
-bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
-beritasatu.com#?#.d-flex.w-100:-abp-has([id^="div-gpt-ad"])
-m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
-haibunda.com#?#.m-r1:-abp-has(#adv-caption-mr1)
-haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
-detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
-cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
-cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
-briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
-blibli.com#?#.product__card:-abp-has(.product__tag__ads)
-katadata.co.id#?#div:-abp-has( > [id^="div-gpt-ad"][class^="paralax"])
-tokopedia.com#?#div[data-testid="CPMWrapper"]:-abp-has(span:-abp-contains(/^Ad$/))
-tokopedia.com#?#div[data-testid="divProduct"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
-tokopedia.com#?#div[data-testid="divProductWrapper"]:-abp-has(span[data-testid="divSRPTopadsIcon"])
-tokopedia.com#?#div[data-testid="lazy-frame"]:-abp-has(span[data-testid="lblProdTopads"])
-tokopedia.com#?#div[data-testid="master-product-card"]:-abp-has(span[data-testid^="linkProductTopads"])
-tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
-info.gambar.pro,info.mapsaddress.com,info.vebma.com#?#p:-abp-has( > a[href="#downloadnow"])
-tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
-info.vebma.com#?#span:-abp-contains(Advertisement)
