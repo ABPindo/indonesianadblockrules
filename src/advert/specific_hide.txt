@@ -812,6 +812,9 @@ doroni.me##ins.adsbygoogle
 satujiwa.org##table
 lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
+tempo.co##.bannerfull
+tempo.co##.parallax-box
+tempo.co##body:remove-class(pad-apps)
 ! ABP-specific Filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
