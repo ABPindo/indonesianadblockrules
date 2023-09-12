@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202309100658
+! Version: 202309121217
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 10 Sep 2023 06:58 UTC
+! Last modified: 12 Sep 2023 12:17 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -348,7 +348,7 @@
 _TimAds_Banner_$image
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|movieajip.online|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd
+.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|movieajip.online|nontondrama.*|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
@@ -864,6 +864,7 @@ totolink.id#@#.social-circle
 ##.ivs-overlay-adcontainer
 ##.ivs-overlay-ads
 ##.kill-adblock-container
+##.klan300
 ##.kotak_iklan
 ##.kotakiklan
 ##.ktz-aftermenubanner
@@ -904,28 +905,6 @@ totolink.id#@#.social-circle
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
 ! *** abpindo:src/advert/specific_hide.txt ***
-! ABP-specific Filters
-detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
-bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
-beritasatu.com#?#.d-flex.w-100:-abp-has([id^="div-gpt-ad"])
-m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
-haibunda.com#?#.m-r1:-abp-has(#adv-caption-mr1)
-haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
-detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
-cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
-cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
-briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
-blibli.com#?#.product__card:-abp-has(.product__tag__ads)
-katadata.co.id#?#div:-abp-has( > [id^="div-gpt-ad"][class^="paralax"])
-tokopedia.com#?#div[data-testid="CPMWrapper"]:-abp-has(span:-abp-contains(/^Ad$/))
-tokopedia.com#?#div[data-testid="divProduct"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
-tokopedia.com#?#div[data-testid="divProductWrapper"]:-abp-has(span[data-testid="divSRPTopadsIcon"])
-tokopedia.com#?#div[data-testid="lazy-frame"]:-abp-has(span[data-testid="lblProdTopads"])
-tokopedia.com#?#div[data-testid="master-product-card"]:-abp-has(span[data-testid^="linkProductTopads"])
-tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
-info.gambar.pro,info.mapsaddress.com,info.vebma.com#?#p:-abp-has( > a[href="#downloadnow"])
-tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
-info.vebma.com#?#span:-abp-contains(Advertisement)
 ! Entity filters
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
@@ -940,6 +919,7 @@ layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
 layarkaca21.*###pbanner
 layarkaca21.*###ptbanner
+nontondrama.*##[href^="https://yukclick.me/dunia21"]
 oploverz.*###teaser1
 oploverz.*###teaser2
 oploverz.*###teaser3
@@ -992,7 +972,7 @@ tribunnews.com###bannerkubawah
 kotakgame.com###bannertheme_left
 kotakgame.com###bannertheme_right
 beritasatu.com,detik.com###billboard
-bioskop78.com###billboard_banner
+bioskop78.com,cnbcindonesia.com###billboard_banner
 bioskop168.co,bioskop168.online,bioskop168.pro###bioskop-kiri
 tirto.id###bkgOverlay
 kertashitam.com###blockblockA
@@ -1036,9 +1016,6 @@ idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonserial.com###fatas
-cinema-indo.com,cinemaindo.web.id,filmbagus21.info,filmbagus21.web.id,ganool.li,layarkaca21.com,layarkaca21.net,layarkaca21.tv,layarkaca21.web.id,lk21.org,lk21.tv,nonton21.net,nontonmovie.web.id###fbanner
-fb21.tv,nonton21.tv,nontonserial.com###fbawah
-cinema-indo.com,layarkaca21.net,layarkaca21.tv,layarkaca21.web.id,lk21.me,lk21.org,lk21.tv,nonton21.net,nontonmovie.web.id###fbbanner
 indoxx1.pw###ffbp
 indoxxi.pictures###ffbp-bg
 indoxxi.pictures###ffbp-body
@@ -1124,6 +1101,7 @@ animasu.nl###lmd-iklan
 kabargames.id###main-banner-middle
 dewabioskop21.org,dwa21.org###main-popup
 sindonews.com###me-div-gpt-ad-parallax
+haibunda.com###megabillboard
 detik.com###megabillboard-desktop
 dapurpacu.com###mid-banner
 dunia21.cx,ganool.watch,lk21tv.com,movies21.co,terbit21.cafe###middle-banner
@@ -1142,7 +1120,6 @@ dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
 15.235.11.45,65.108.132.145,oploverz.best,oploverz.bz,oploverz.info,oploverz.love,oploverz.top###overplay
 haibunda.com###parallaxdetail
-cinema-indo.com,cinemaindo.web.id,layarkaca21.net,layarkaca21.web.id,lk21.org,nonton21.net,nontonmovie.web.id###pbanner
 eramuslim.com###peluang
 idxx1.top###player-side-left
 idxx1.top,indoxx1.com###player-side-right
@@ -1159,8 +1136,6 @@ fb21.tv,nonton21.tv,nontonserial.com###previewBox2
 dunia21s.fun,fb21.tv,lk21.li,nonton21.tv###previewBox3
 dunia21s.fun,fb21.tv,lk21.li,nonton21.tv,nontonserial.com###previewBox4
 185.231.223.76,gomunime.biz###promoContainer
-ayononton.co,bioskopkeren.dev,dunia21.cx,dunia21.green,layarkaca21.com,layarkaca21.web.id,lk21tv.com,terbit21.cool###ptbanner
-terbit21.cafe###ptbanner.row
 zonabola.com###rAds
 utusan.com.my###rec_ad4
 193.178.172.113###repop
@@ -1251,7 +1226,7 @@ tek.id##.ads-popup__inner
 kompas.tv##.ads-right2
 haibunda.com##.ads-scrollpage-container
 haibunda.com##.ads-scrollpage-height
-detik.com##.ads-slot
+beautynesia.id,detik.com##.ads-slot
 www.inibaru.id##.ads-sticky-left
 www.inibaru.id##.ads-sticky-right
 terasjakarta.id##.ads.single_post_content
@@ -1438,7 +1413,6 @@ teknologi.inilah.com##.d.wp-120x600
 pricebook.co.id##.description-ads
 okezone.com##.detads
 detik.com##.detikads
-dewanontons.com##.dewa_floating_bottom
 anoboy.digital##.download
 thejakartapost.com##.expandable-bottom-sticky
 layarkaca21.tv,lk21.tv##.fancybox-skin
@@ -1450,11 +1424,9 @@ news.okezone.com##.flying_ads
 katadata.co.id##.flying_carpet_div
 bisnis.com##.flying_carpet_show
 bisnis.com##.flying_carpet_show_inner
-cnnindonesia.com,teknoup.com##.footer_banner
+cnnindonesia.com,insertlive.com,teknoup.com##.footer_banner
 manganime.id##.ftadss
 komikcast.net,komikindo.id,komikindo.pro##.gambar_pemanis
-myasiantv.se##.glx-link
-myasiantv.se##.glx-teaser
 jendelakaba.com##.gmr-banner-afterrelpost
 jendelakaba.com##.gmr-banner-logo
 layardrama21.rest##.gmr-bannerpopup
@@ -1468,9 +1440,6 @@ kontan.co.id##.heightads250
 stocksetup.kontan.co.id##.heightads600.pad-t.pad-r.pad-l.pad-10
 stocksetup.kontan.co.id##.heightads90.ads-middle-list-news
 malaysiakini.com##.hero_adslot
-cmovieshd.se##.hidden-xs
-bioskop21.co##.hilang2
-bioskop168.co,semi168.club##.home.border
 filmace21.net##.idmupi-topbanner
 layardrama21.rest##.idmuvi-floatbanner
 samehadaku.skin##.ik-overlay
@@ -1528,8 +1497,6 @@ astroawani.com##.middle-ad-cont
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
-nanimex.in##.modal-backdrop
-fastdrama.co##.modal-content
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr1-scrollpage-height
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr2-scrollpage-height
 nextren.grid.id##.mt20.top1
@@ -1546,11 +1513,10 @@ kompas.com##.ol_big_inner
 detik.com##.otp_banner_close
 dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
 tribunnews.com##.ovh[style="width:468px;height:60px"]
-hdfree.se##.page > div:nth-of-type(4) > div:nth-of-type(1)
 cnnindonesia.com##.paraA.para
 cnnindonesia.com##.para_abs
 cnnindonesia.com##.para_fix
-cnnindonesia.com##.paradetail
+cnnindonesia.com,haibunda.com,insertlive.com##.paradetail
 idntimes.com,sindonews.com##.parallax-ad
 tempo.co##.parallax-box
 detik.com##.parallax_abs
@@ -1587,17 +1553,6 @@ oploverz.bz,oploverz.top##.sg-popup-content
 65.108.132.145,oploverz.bz,oploverz.top##.sgpb-popup-overlay
 15.235.11.45##.sgpb-popup-overlay.sgpb-popup-overlay-19287.sgpb-theme-1-overlay
 kompas.com##.show.ol_promo
-cinemaindo.com##.side:nth-of-type(7)
-cinemaindo.com##.side:nth-of-type(8)
-cinemaindo.com##.side:nth-of-type(9)
-batch.id##.sidebar > .klan300
-indoxtream.com##.sidebar-widget:nth-of-type(1)
-indoxtream.com##.sidebar-widget:nth-of-type(3)
-indoxtream.com##.sidebar-widget:nth-of-type(4)
-awsubs.co##.sidebar_right
-bioskop90.com,nontonganool.net,sejutafilm.com##.sidebarborder:nth-of-type(2)
-nontonganool.net##.sidebarborder:nth-of-type(4)
-nontonganool.net##.sidebarborder:nth-of-type(5)
 detik.com##.sisip_video_ds
 ninemanga.com##.sitemaji_banner
 detik.com##.skinad_1
@@ -1620,35 +1575,22 @@ dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 hijabista.com.my,majalahpama.my,nona.my,vanillakismis.my##.td-banner-bg.td-banner-wrap-full
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
-107.152.37.223,film21terbaru.org##.teaser3
 internetpositif.uzone.id##.text-align-center.box-ads-content
 stocksetup.kontan.co.id##.text-center.center.width-px-1100
-bioskop007.club##.textwidget > p
-bioskoptigalima.com,icinema3satu.net##.textwidget img
 klikseru.com##.textwidget img[width="300"][height="250"]
 utusan.com.my##.tonal__standfirst
-dewabioskop21.org,idxxx1.com,lapar.com,nontonitu.com##.top-banner
-xx1.me##.top-bnner.lazy
-goblintv.xyz##.tutup.banner
-bioskopxxi.net,sinemakaca.com##.ujipopup
-128.199.102.111##.under-player-ad-mobile
 beritasatu.com##.underlay-ad
 investor.id##.underlay-ad-text-box
 kompas.com##.video-box-wrap
 mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
-otomotif.kompas.com##.w340.r-ads.right > ul > li
 hightech.web.id##.wait
-149.56.24.226##.warning-modal
 teknologi.inilah.com##.wb-300x250
 medcom.id##.widebanner.banner
 cdramabase.com##.wpa
-nontonlk21.live##.wpb-outer-wrap
 dwa21.org##[class*="banner"]
 kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
-mydramalist.com##[class^=spnsr-top-]
-mydramalist.com##[class^=spnsr-wrapper-]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
@@ -1658,32 +1600,21 @@ anoboy.digital,anoboy.media##[href="http://click2go.me/aksesklik4a"]
 anoboy.media##[href="https://144.126.241.203/invite/c6c83up"]
 anoboy.media##[href="https://bit.ly/anoboySG88"]
 anoboy.media##[href="https://kliksaya.info/mcdanoboy"]
-dl.ocanoke.com##[href="https://www.ocanoke.com/"]
-15.235.11.45##[href="https://yukclick.me/oploverzpopluxury111"]
 kazefuri.web.id##[href="javascript:showHideGB()"]
 layardrama21.rest##[href^="//avgirls.asia/"]
 nekonime.com##[href^="//wizliebeg.com/"]
 akurat.co##[href^="http://152.44.32.81"]
-bioskopkerenin.com,drakorindo.best##[href^="http://bit.ly/"]
 kazefuri.web.id##[href^="http://dwatngkas."]
-bioskop168.pro##[href^="http://linkalternatif."]
-192.99.70.18##[href^="http://rebrand.ly/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
-188.166.39.172##[href^="https://137.184.194.29/"]
 139.99.120.222,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,gudangmovies21.cfd,kawanfilm21.online,kawanfilm21.pro,kuramanime.xyz,lk21go.fun,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
-bioskop168.pro##[href^="https://tinyurl.com/"]
 tirto.id##[id^="gpt-inline"]
 idfl.me##[id^="yui-gen"].postcontainer
 kompas.com##[src^="https://adsimg.kompas.com"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 katadata.co.id##[style="height:0; min-height:180px;"]
 idtube.me,idxx1.top##a.bnner
-bioskop78.com##a:nth-of-type(2)
-bioskop19.com##a[href="http://162.144.35.114/"]
 kshowid.com##a[href="http://kshowid.com/advertising/"]
-filmxy.cc##a[href="http://www.filmxy.cc/download/"]
-filmxy.cc##a[href="http://www.filmxy.cc/watch/"]
 westmanga.info##a[href="https://klik.fun/Kp7S5"]
 samehadaku.cam,samehadaku.day,samehadaku.run##a[href][target="_blank"] > img[src$=".gif"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
@@ -1719,8 +1650,6 @@ suara.com##div.placeholder_pariwara
 medcom.id##div.showcase.banner
 medcom.id##div.skycrapper.banner
 cerpen.co.id##div.ui_adblock
-cmovieshd.se,ganool.se##div:nth-of-type(2) > div > .btn-block.btn-lg.btn-success.btn
-hdfree.se##div:nth-of-type(4) > div:nth-of-type(2)
 tokopedia.com##div[data-testid="featuredShopCntr"]
 tokopedia.com##div[data-testid="topadsCPMWrapper"]
 rasa.my##div[data-ub-carousel]
@@ -1741,8 +1670,28 @@ info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 satujiwa.org##table
-lk21.cc##tbody
-bioskop78.com##td:nth-of-type(3)
+! ABP-specific Filters
+detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
+bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
+beritasatu.com#?#.d-flex.w-100:-abp-has([id^="div-gpt-ad"])
+m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
+haibunda.com#?#.m-r1:-abp-has(#adv-caption-mr1)
+haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
+detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
+cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
+cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
+briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
+blibli.com#?#.product__card:-abp-has(.product__tag__ads)
+katadata.co.id#?#div:-abp-has( > [id^="div-gpt-ad"][class^="paralax"])
+tokopedia.com#?#div[data-testid="CPMWrapper"]:-abp-has(span:-abp-contains(/^Ad$/))
+tokopedia.com#?#div[data-testid="divProduct"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
+tokopedia.com#?#div[data-testid="divProductWrapper"]:-abp-has(span[data-testid="divSRPTopadsIcon"])
+tokopedia.com#?#div[data-testid="lazy-frame"]:-abp-has(span[data-testid="lblProdTopads"])
+tokopedia.com#?#div[data-testid="master-product-card"]:-abp-has(span[data-testid^="linkProductTopads"])
+tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
+info.gambar.pro,info.mapsaddress.com,info.vebma.com#?#p:-abp-has( > a[href="#downloadnow"])
+tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
+info.vebma.com#?#span:-abp-contains(Advertisement)
 ! --------------------------- adult ------------------------------!
 ! *** abpindo:src/adult/adult_general_block.txt ***
 ! 

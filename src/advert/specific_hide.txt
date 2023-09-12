@@ -12,6 +12,7 @@ layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
 layarkaca21.*###pbanner
 layarkaca21.*###ptbanner
+nontondrama.*##[href^="https://yukclick.me/dunia21"]
 oploverz.*###teaser1
 oploverz.*###teaser2
 oploverz.*###teaser3
@@ -21,7 +22,6 @@ samehadaku.*###floatcenter
 samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
-nontondrama.*##[href^="https://yukclick.me/dunia21"]
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -65,7 +65,7 @@ tribunnews.com###bannerkubawah
 kotakgame.com###bannertheme_left
 kotakgame.com###bannertheme_right
 beritasatu.com,detik.com###billboard
-bioskop78.com###billboard_banner
+bioskop78.com,cnbcindonesia.com###billboard_banner
 bioskop168.co,bioskop168.online,bioskop168.pro###bioskop-kiri
 tirto.id###bkgOverlay
 kertashitam.com###blockblockA
@@ -194,6 +194,7 @@ animasu.nl###lmd-iklan
 kabargames.id###main-banner-middle
 dewabioskop21.org,dwa21.org###main-popup
 sindonews.com###me-div-gpt-ad-parallax
+haibunda.com###megabillboard
 detik.com###megabillboard-desktop
 dapurpacu.com###mid-banner
 dunia21.cx,ganool.watch,lk21tv.com,movies21.co,terbit21.cafe###middle-banner
@@ -318,7 +319,7 @@ tek.id##.ads-popup__inner
 kompas.tv##.ads-right2
 haibunda.com##.ads-scrollpage-container
 haibunda.com##.ads-scrollpage-height
-detik.com##.ads-slot
+beautynesia.id,detik.com##.ads-slot
 www.inibaru.id##.ads-sticky-left
 www.inibaru.id##.ads-sticky-right
 terasjakarta.id##.ads.single_post_content
@@ -516,7 +517,7 @@ news.okezone.com##.flying_ads
 katadata.co.id##.flying_carpet_div
 bisnis.com##.flying_carpet_show
 bisnis.com##.flying_carpet_show_inner
-cnnindonesia.com,teknoup.com##.footer_banner
+cnnindonesia.com,insertlive.com,teknoup.com##.footer_banner
 manganime.id##.ftadss
 komikcast.net,komikindo.id,komikindo.pro##.gambar_pemanis
 jendelakaba.com##.gmr-banner-afterrelpost
@@ -608,7 +609,7 @@ tribunnews.com##.ovh[style="width:468px;height:60px"]
 cnnindonesia.com##.paraA.para
 cnnindonesia.com##.para_abs
 cnnindonesia.com##.para_fix
-cnnindonesia.com##.paradetail
+cnnindonesia.com,haibunda.com,insertlive.com##.paradetail
 idntimes.com,sindonews.com##.parallax-ad
 tempo.co##.parallax-box
 detik.com##.parallax_abs
@@ -762,12 +763,6 @@ info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 satujiwa.org##table
-haibunda.com###megabillboard
-haibunda.com##.paradetail
-insertlive.com##.paradetail
-insertlive.com##.footer_banner
-beautynesia.id##.ads-slot
-cnbcindonesia.com###billboard_banner
 ! ABP-specific Filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)

@@ -1,4 +1,3 @@
-##.klan300
 ###Box-Banner-ads
 ###Iklan-Melayang
 ###Kolom-Iklan-728
@@ -204,6 +203,7 @@
 ##.ivs-overlay-adcontainer
 ##.ivs-overlay-ads
 ##.kill-adblock-container
+##.klan300
 ##.kotak_iklan
 ##.kotakiklan
 ##.ktz-aftermenubanner
