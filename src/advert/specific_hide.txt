@@ -840,3 +840,5 @@ lk21.cc##tbody
 bioskop78.com##td:nth-of-type(3)
 haibunda.com###megabillboard
 haibunda.com##.paradetail
+insertlive.com##.paradetail
+insertlive.com##.footer_banner
