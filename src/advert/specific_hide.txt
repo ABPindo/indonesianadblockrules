@@ -43,6 +43,7 @@ samehadaku.*###floatcenter
 samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
+nontondrama.*##[href^="https://yukclick.me/dunia21"]
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
