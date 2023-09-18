@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202309160842
+! Version: 202309181146
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 16 Sep 2023 08:42 UTC
+! Last modified: 18 Sep 2023 11:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1114,7 +1114,7 @@ nobartv.com###nbpopx-wrapper
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
 detik.com###otp_banner
-drakorindo.best,gatsunime.org,giladrakor.com,gudangmovies21.lol,gudangmovies21.skin,layarkeren.site,mangakita.net###ouibounce-modal
+94.250.202.221,drakorindo.best,gatsunime.org,giladrakor.com,gudangmovies21.lol,gudangmovies21.skin,layarkeren.site,mangakita.net###ouibounce-modal
 149.56.24.226,kricom.id###overlay
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
@@ -1212,6 +1212,7 @@ republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
 kompas.tv##.ads-big
+alinea.id##.ads-billboard
 kompas.tv##.ads-foot
 awnime.net##.ads-header-5
 kompas.com##.ads-latest-wrap
@@ -1462,7 +1463,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikstation.co,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
+107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikstation.co,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -1608,6 +1609,7 @@ kazefuri.web.id##[href^="http://dwatngkas."]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 139.99.120.222,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,gudangmovies21.cfd,kawanfilm21.online,kawanfilm21.pro,kuramanime.xyz,lk21go.fun,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
+lk21official.wiki##[href^="https://yukclick.me/dunia21"]
 tirto.id##[id^="gpt-inline"]
 idfl.me##[id^="yui-gen"].postcontainer
 kompas.com##[src^="https://adsimg.kompas.com"]
@@ -6908,6 +6910,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://m.ultima7.fun/register"]
 ##[href^="https://m303bet."]
 ##[href^="https://makelarjudi."]
+##[href^="https://maret88lucky.store/"]
 ##[href^="https://marislot88.net/register"]
 ##[href^="https://masterkiu."]
 ##[href^="https://maxbetqq.net"]
@@ -7983,6 +7986,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="DANAQQ" i]
 ##img[alt="DAPATQQ" i]
 ##img[alt="DATUKQQ" i]
+##img[alt="DEBUTOTO" i]
 ##img[alt="DELIMAPOKER" i]
 ##img[alt="DEPOQQ" i]
 ##img[alt="DEPOTOTO" i]
