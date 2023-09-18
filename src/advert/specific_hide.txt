@@ -23,6 +23,7 @@ samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
 ! Non-entity filters
+kazefuri.vip##.kln
 alinea.id##.ads-billboard
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
