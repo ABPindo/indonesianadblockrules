@@ -23,7 +23,6 @@ samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
 ! Non-entity filters
-komikindo.tv##.gambar_pemanis
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -521,7 +520,7 @@ bisnis.com##.flying_carpet_show
 bisnis.com##.flying_carpet_show_inner
 cnnindonesia.com,insertlive.com,teknoup.com##.footer_banner
 manganime.id##.ftadss
-komikcast.net,komikindo.id,komikindo.pro##.gambar_pemanis
+komikcast.net,komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
 jendelakaba.com##.gmr-banner-afterrelpost
 jendelakaba.com##.gmr-banner-logo
 layardrama21.rest##.gmr-bannerpopup
