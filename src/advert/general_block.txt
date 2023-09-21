@@ -4,6 +4,7 @@
 -iklan.gif|
 -iklan.jpg|
 -iklan.js|
+-mall-pesta-gajian$image
 -popads.php|
 -slot-iklan-
 .bid^$popup,third-party
@@ -30,6 +31,7 @@
 /iklancpm.
 /images/iklan/*
 /internetsehatdanamanfastnet.html|
+/promosi-diskon-$image
 /revenuehits.js|
 /safelink$script,third-party
 /SkinADkanan.
@@ -41,5 +43,3 @@
 /usahaberhasil.gif|
 _TimAds_Banner_$image
 iklan300x250.gif|
-/promosi-diskon-$image
--mall-pesta-gajian$image
