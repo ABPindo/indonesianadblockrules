@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202309211058
+! Version: 202309251243
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 21 Sep 2023 10:58 UTC
+! Last modified: 25 Sep 2023 12:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -951,7 +951,7 @@ dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 kontan.co.id###adsoutsream
 detik.com###adv-caption-lead
-cnnindonesia.com,detik.com###adv-caption-mr1
+cnnindonesia.com,detik.com,haibunda.com###adv-caption-mr1
 cnnindonesia.com,detik.com,haibunda.com###adv-caption-mr2
 unixmen.com###an-Modal
 tribunnews.com###anchorads
@@ -973,7 +973,7 @@ tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
 kotakgame.com###bannertheme_left
 kotakgame.com###bannertheme_right
-beritasatu.com,detik.com###billboard
+beritasatu.com,cnnindonesia.com,detik.com###billboard
 bioskop78.com,cnbcindonesia.com###billboard_banner
 bioskop168.co,bioskop168.online,bioskop168.pro###bioskop-kiri
 tirto.id###bkgOverlay
@@ -1227,9 +1227,9 @@ tribunnews.com##.ads-placeholder
 tribunnews.com##.ads-placeholder-inside
 tek.id##.ads-popup__inner
 kompas.tv##.ads-right2
-haibunda.com##.ads-scrollpage-container
-haibunda.com##.ads-scrollpage-height
-beautynesia.id,detik.com##.ads-slot
+detik.com,haibunda.com##.ads-scrollpage-container
+cnnindonesia.com,haibunda.com##.ads-scrollpage-height
+beautynesia.id,cnnindonesia.com,detik.com##.ads-slot
 www.inibaru.id##.ads-sticky-left
 www.inibaru.id##.ads-sticky-right
 terasjakarta.id##.ads.single_post_content
@@ -1427,7 +1427,7 @@ news.okezone.com##.flying_ads
 katadata.co.id##.flying_carpet_div
 bisnis.com##.flying_carpet_show
 bisnis.com##.flying_carpet_show_inner
-cnnindonesia.com,insertlive.com,teknoup.com##.footer_banner
+cnnindonesia.com,detik.com,insertlive.com,teknoup.com##.footer_banner
 manganime.id##.ftadss
 komikcast.net,komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
 jendelakaba.com##.gmr-banner-afterrelpost
@@ -1643,6 +1643,7 @@ otakudesu.pro##a[rel^="nofollow noopener"] > img[src$=".gif"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 gatsunime.org##a[target="_blank"][rel^="noopener noreferrer"] > img[src$=".gif"]
 mangakita.net##a[title^="manga4d"]
+cnnindonesia.com##article .parallaxindetail
 bioskop168.co,bioskop168.online,bioskop168.pro##bioskop-kanan
 tempo.co##body:remove-class(pad-apps)
 gigapurbalingga.net,kuyhaa-me.com##center
