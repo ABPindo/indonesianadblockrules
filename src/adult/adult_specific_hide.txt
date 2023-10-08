@@ -14,6 +14,8 @@ ruangbokep.*###floating_bot
 shinigami.*##.lepopup-popup-container
 shinigami.*##.lepopup-popup-overlay
 streamingbokeponline.*###floating_bot
+komikremaja.*###teaser3
+komikremaja.*##.kln
 ! Non-entity filters
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 pemersatu.top,pemersatudotfun.com,pemersatufun.site#@##adright
