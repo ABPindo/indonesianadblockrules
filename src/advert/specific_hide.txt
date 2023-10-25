@@ -770,6 +770,7 @@ satujiwa.org##table
 lk21official.co##a[href][target="_blank"][rel="nofollow"] > img[src$=".gif"]
 motorplus-online.com##.ads-partner-wrap
 motorplus-online.com##.cls-outstream
+komikremaja.club##.kln
 ! ABP-specific Filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
