@@ -313,7 +313,7 @@ gridoto.com##.ads-liftdown
 grid.id##.ads-mr
 bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
-bolasport.com,kompas.com,www.grid.id##.ads-partner-wrap
+bolasport.com,kompas.com,motorplus-online.com,www.grid.id##.ads-partner-wrap
 tribunnews.com##.ads-placeholder
 tribunnews.com##.ads-placeholder-inside
 tek.id##.ads-popup__inner
@@ -487,7 +487,7 @@ tempo.co##.closebanner1
 tempo.co##.closebanner2
 bolasport.com##.cls-composite
 bolasport.com##.cls-geniee
-bolasport.com,www.parapuan.co##.cls-outstream
+bolasport.com,motorplus-online.com,www.parapuan.co##.cls-outstream
 onlinemetro.id##.cls.code-block-center
 inidramaku.net##.cm-popup-modal
 windowsreport.com##.code-block-3.code-block
@@ -556,7 +556,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikstation.co,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
+107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -713,6 +713,7 @@ semarangkota.com##a.thirstylink
 kshowid.com##a[href="http://kshowid.com/advertising/"]
 westmanga.info##a[href="https://klik.fun/Kp7S5"]
 samehadaku.cam,samehadaku.day,samehadaku.run##a[href][target="_blank"] > img[src$=".gif"]
+lk21official.co##a[href][target="_blank"][rel="nofollow"] > img[src$=".gif"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
@@ -767,10 +768,6 @@ info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 satujiwa.org##table
-lk21official.co##a[href][target="_blank"][rel="nofollow"] > img[src$=".gif"]
-motorplus-online.com##.ads-partner-wrap
-motorplus-online.com##.cls-outstream
-komikremaja.club##.kln
 ! ABP-specific Filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
