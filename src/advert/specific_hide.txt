@@ -452,6 +452,8 @@ kabar24.com##.bottom-leaderboard-cont
 gopego.com##.box
 beautynesia.id##.box-ads--container
 uzone.id##.box-ads-300x250
+uzone.id##.box-ads-billboard
+uzone.id##.box-ads-billboard-mobile
 liputan6.com##.box-ads-right
 eka.web.id##.box-banner
 kompas.com##.boxBanner1
@@ -636,6 +638,7 @@ unixmen.com##.reveal-modal-bg
 dwanonton.com##.right.banner-vertical
 investor.id##.row > .show-desktop > div
 senimovie.info##.rsABlock
+uzone.id##.section-ads-mid
 duwitmu.com##.section_sticky_ads_bottom
 semprot.com##.semprotnenenmontok_2
 manganime.in##.separator
@@ -768,9 +771,6 @@ info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 satujiwa.org##table
-uzone.id##.box-ads-billboard
-uzone.id##.section-ads-mid
-uzone.id##.box-ads-billboard-mobile
 ! ABP-specific Filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
