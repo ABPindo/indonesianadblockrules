@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202311062123
+! Version: 202311062204
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 06 Nov 2023 21:23 UTC
+! Last modified: 06 Nov 2023 22:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1467,7 +1467,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
+107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,tv1.anikor.lol,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -1584,6 +1584,7 @@ mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 internetpositif.uzone.id##.text-align-center.box-ads-content
 stocksetup.kontan.co.id##.text-center.center.width-px-1100
 klikseru.com##.textwidget img[width="300"][height="250"]
+thejakartapost.com##.tjp-placeholder-ads
 utusan.com.my##.tonal__standfirst
 beritasatu.com##.underlay-ad
 investor.id##.underlay-ad-text-box

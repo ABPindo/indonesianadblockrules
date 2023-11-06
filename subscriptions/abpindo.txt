@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202311062123
+! Version: 202311062204
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 06 Nov 2023 21:23 UTC
+! Last modified: 06 Nov 2023 22:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1467,7 +1467,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
+107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,tv1.anikor.lol,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -1584,6 +1584,7 @@ mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 internetpositif.uzone.id##.text-align-center.box-ads-content
 stocksetup.kontan.co.id##.text-center.center.width-px-1100
 klikseru.com##.textwidget img[width="300"][height="250"]
+thejakartapost.com##.tjp-placeholder-ads
 utusan.com.my##.tonal__standfirst
 beritasatu.com##.underlay-ad
 investor.id##.underlay-ad-text-box
@@ -6860,6 +6861,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://foodandwine.pro/register/"]
 ##[href^="https://fundomino."]
 ##[href^="https://fundominoqq."]
+##[href^="https://gacoer777.com/"]
 ##[href^="https://gacormenang.com/"]
 ##[href^="https://ggbet777.click/register"]
 ##[href^="https://ggjudi."]
@@ -6867,6 +6869,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://gitartogel77.com/"]
 ##[href^="https://grubhub.pro"]
 ##[href^="https://gubernurtoto.com/"]
+##[href^="https://h5.rp777wind.com/"]
 ##[href^="https://habaneroslot."]
 ##[href^="https://hahatogel.net"]
 ##[href^="https://happyslot99.sbs"]
@@ -7005,6 +7008,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://uniplay99.uk/"]
 ##[href^="https://untunginslot.com/"]
 ##[href^="https://vipfc88.com"]
+##[href^="https://vpn89.site/"]
 ##[href^="https://w88mania.com/"]
 ##[href^="https://wahanabet."]
 ##[href^="https://warnaqqpkv.com"]
@@ -7958,6 +7962,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="BandarQ" i]
 ##img[alt="BandarXL" i]
 ##img[alt="Bandarkiu" i]
+##img[alt="BantengMerah" i][src$=".gif"]
 ##img[alt="Betberry" i]
 ##img[alt="Biangqq" i]
 ##img[alt="Binomo" i]
@@ -8110,6 +8115,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="JOKERBET888" i]
 ##img[alt="JOKERNET88" i]
 ##img[alt="JUARAPOKER" i]
+##img[alt="JUDI89" i]
 ##img[alt="JURAGANQQ" i]
 ##img[alt="Jakartaqq" i]
 ##img[alt="JasaGol" i]
@@ -8200,6 +8206,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="MITRACAPSA" i]
 ##img[alt="MKVGAMES" i]
 ##img[alt="MKVPoker" i]
+##img[alt="MPO777" i]
 ##img[alt="MULAIQQ" i]
 ##img[alt="MURAHQQ" i]
 ##img[alt="MURNIQQ" i]
@@ -8601,6 +8608,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="rimbatoto" i]
 ##img[alt="rivalqq" i]
 ##img[alt="royalflush88" i]
+##img[alt="rp777" i]
 ##img[alt="saranatogel" i]
 ##img[alt="sbobet" i]
 ##img[alt="sbotop" i]
@@ -8639,6 +8647,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="totomaniac" i]
 ##img[alt="vegas811" i]
 ##img[alt="wahana303" i]
+##img[alt="ws138" i]
 ##img[alt^="AGEN SABUNG" i]
 ##img[alt^="Agen Online" i]
 ##img[alt^="Agen Poker" i]
@@ -8704,6 +8713,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt^="togel singapore" i]
 ##img[alt^="togel terbesar" i]
 ##img[alt^="video bokep online" i]
+##img[title^="Bandar Taruhan" i]
 ! *** abpindo:src/adult/adult_specific_block.txt ***
 .gif$image,domain=komikmanhwa.me
 ||96.43.139.236/banner/$image
