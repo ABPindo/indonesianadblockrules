@@ -305,6 +305,8 @@ republika.co.id##.ads-120__right
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
+dailysocial.id##.ads-article-inner
+dailysocial.id##.ads-article-sidebar
 kompas.tv##.ads-big
 alinea.id##.ads-billboard
 kompas.tv##.ads-foot
@@ -505,6 +507,7 @@ kompas.tv##.container_skinad
 tribunnews.com##.content [style="width:160px; height:600px;"]
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
+dailysocial.id##.cover-ads-article
 lensaindonesia.com##.ctnitem.ctncom
 tirto.id##.d-sidebar
 teknologi.inilah.com##.d.wp-120x600
@@ -601,6 +604,7 @@ nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
 kompas.com##.native-wrap
 ns21.tv,ns21.us##.navbar-brand.bot
+dailysocial.id##.news__detail-ads
 jurnalisindonesia.id##.nkt__stick
 grid.id,motorplus-online.com##.nkt__stick--left
 grid.id,motorplus-online.com##.nkt__stick--right
@@ -774,10 +778,6 @@ info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 satujiwa.org##table
-dailysocial.id##.ads-article-inner
-dailysocial.id##.ads-article-sidebar
-dailysocial.id##.cover-ads-article
-dailysocial.id##.news__detail-ads
 ! ABP-specific Filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)

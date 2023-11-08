@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202311081203
+! Version: 202311081213
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 08 Nov 2023 12:03 UTC
+! Last modified: 08 Nov 2023 12:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1214,6 +1214,8 @@ republika.co.id##.ads-120__right
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
+dailysocial.id##.ads-article-inner
+dailysocial.id##.ads-article-sidebar
 kompas.tv##.ads-big
 alinea.id##.ads-billboard
 kompas.tv##.ads-foot
@@ -1414,6 +1416,7 @@ kompas.tv##.container_skinad
 tribunnews.com##.content [style="width:160px; height:600px;"]
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
+dailysocial.id##.cover-ads-article
 lensaindonesia.com##.ctnitem.ctncom
 tirto.id##.d-sidebar
 teknologi.inilah.com##.d.wp-120x600
@@ -1510,6 +1513,7 @@ nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
 kompas.com##.native-wrap
 ns21.tv,ns21.us##.navbar-brand.bot
+dailysocial.id##.news__detail-ads
 jurnalisindonesia.id##.nkt__stick
 grid.id,motorplus-online.com##.nkt__stick--left
 grid.id,motorplus-online.com##.nkt__stick--right
