@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202311081213
+! Version: 202311232137
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 08 Nov 2023 12:13 UTC
+! Last modified: 23 Nov 2023 21:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -575,6 +575,7 @@ iklan300x250.gif|
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
 ! Miscellanous popups
 *$popup,domain=info.mapsaddress.com|info.vebma.com|kiryuu.id
+.gif$image,domain=oploverz.*
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 juraganfilm.ink##+js(abort-on-property-read, $.magnificPopup.open)
 doroni.me##+js(acs, getComputedStyle, , cpm)
@@ -7062,6 +7063,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://www.jituangka."]
 ##[href^="https://www.jpbet."]
 ##[href^="https://www.k9win-id3.com"]
+##[href^="https://www.kelasatas99.com/"]
 ##[href^="https://www.kuncihijau."]
 ##[href^="https://www.lakibet."]
 ##[href^="https://www.lakipoker."]
