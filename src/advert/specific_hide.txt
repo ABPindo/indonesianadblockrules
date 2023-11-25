@@ -1,4 +1,5 @@
 ! Entity filters
+185.217.95.48##.kln
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
@@ -22,7 +23,6 @@ samehadaku.*###floatcenter
 samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
-185.217.95.48##.kln
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728

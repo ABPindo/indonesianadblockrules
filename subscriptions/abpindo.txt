@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202311232137
+! Version: 202311252213
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 23 Nov 2023 21:37 UTC
+! Last modified: 25 Nov 2023 22:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -577,14 +577,14 @@ iklan300x250.gif|
 *$popup,domain=info.mapsaddress.com|info.vebma.com|kiryuu.id
 .gif$image,domain=oploverz.*
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
-juraganfilm.ink##+js(abort-on-property-read, $.magnificPopup.open)
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.mapsaddress.com,info.vebma.com##+js(aeld, click, linkOpened)
+juraganfilm.ink##+js(aopr, $.magnificPopup.open)
 info.gambar.pro,info.mapsaddress.com,info.vebma.com,jenismac.com##+js(nano-sib)
 info.gambar.pro,info.mapsaddress.com,info.vebma.com,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
 subindojav.cc##+js(no-window-open-if)
-jenismac.com##+js(noeval-if, /chp_?ad/)
+5.253.86.213,jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 anichin.top,kimcilonly.site,kiryuu.id##+js(nowoif)
 tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
@@ -909,6 +909,7 @@ totolink.id#@#.social-circle
 ##img[alt="iklan" i]
 ! *** abpindo:src/advert/specific_hide.txt ***
 ! Entity filters
+185.217.95.48##.kln
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
@@ -1035,7 +1036,7 @@ anixverse.com,moviebaru21.com###floatads1
 komiku.net###floatads2
 komiku.net###floatads3
 komikstation.com###floatbanner
-layardrama21.icu###floatbanner-bottom
+5.253.86.213,layardrama21.icu###floatbanner-bottom
 nontonsini.com###floatbawah
 lk21.host###floatbot
 samehadaku.cam,samehadaku.day,samehadaku.run###floatbottom
