@@ -27,6 +27,14 @@ suara.com##.bg-ads-sticky-top
 suara.com##.bg-ads-sticky-side
 suara.com##.placeholder_belt
 suara.com###anchorads
+grid.id##.top_banner-wrapper
+grid.id##.skin_ads
+grid.id##.ads_wrapper
+grid.id##.bottom_banner-wrapper.relative
+grid.id##.ads_imr2
+grid.id##.relative.skycrapper
+grid.id##.relative.below_photo
+grid.id##.relative.w-full
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
