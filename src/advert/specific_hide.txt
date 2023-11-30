@@ -23,6 +23,10 @@ samehadaku.*###floatcenter
 samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
+suara.com##.bg-ads-sticky-top
+suara.com##.bg-ads-sticky-side
+suara.com##.placeholder_belt
+suara.com###anchorads
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
