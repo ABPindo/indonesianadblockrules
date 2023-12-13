@@ -36,6 +36,8 @@ samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
 ! Non-entity filters
+viva.co.id##.slotiklan
+viva.co.id##.giant-banner
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
