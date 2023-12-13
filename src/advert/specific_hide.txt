@@ -36,8 +36,6 @@ samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
 ! Non-entity filters
-viva.co.id##.slotiklan
-viva.co.id##.giant-banner
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -543,6 +541,7 @@ bisnis.com##.flying_carpet_show_inner
 cnnindonesia.com,detik.com,insertlive.com,teknoup.com##.footer_banner
 manganime.id##.ftadss
 komikcast.net,komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
+viva.co.id##.giant-banner
 jendelakaba.com##.gmr-banner-afterrelpost
 jendelakaba.com##.gmr-banner-logo
 layardrama21.rest##.gmr-bannerpopup
@@ -683,6 +682,7 @@ okezone.com##.skyscrapper
 bisnis.com##.skyscrapper--left
 bisnis.com##.skyscrapper--right
 zigi.id##.slot-iklan
+viva.co.id##.slotiklan
 hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
 idpelago.com##.sponsor_ads:nth-of-type(1)
