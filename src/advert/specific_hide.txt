@@ -36,6 +36,8 @@ samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
 ! Non-entity filters
+briliobeauty.net##.ads-container
+briliobeauty.net##.showcase.placeholder-container
 popbela.com##.megabillboard-container
 gridoto.com##.ads-partner-wrap
 gridoto.com##.cls-outstream
