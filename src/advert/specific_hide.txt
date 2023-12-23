@@ -36,6 +36,7 @@ samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
 ! Non-entity filters
+popbela.com##.megabillboard-container
 gridoto.com##.ads-partner-wrap
 gridoto.com##.cls-outstream
 gridoto.com##.ads__stick
