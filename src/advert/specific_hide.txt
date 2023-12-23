@@ -36,6 +36,16 @@ samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
 ! Non-entity filters
+gridoto.com##.ads-partner-wrap
+gridoto.com##.cls-outstream
+gridoto.com##.ads__stick
+gridoto.com##.ads__stick__fluid
+gridoto.com##.ads__stick__fluid--left
+gridoto.com##.ads__stick__fluid--right
+gridoto.com##.ads__stick__wrap
+gridoto.com##.js-ads-stick
+gridoto.com##.ads
+gridoto.com##.float-ads
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
