@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202312240021
+! Version: 202312240043
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 24 Dec 2023 00:21 UTC
+! Last modified: 24 Dec 2023 00:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -909,19 +909,6 @@ totolink.id#@#.social-circle
 ##img[alt="iklan" i]
 ! *** abpindo:src/advert/specific_hide.txt ***
 ! Entity filters
-suara.com###anchorads
-grid.id##.ads_imr2
-grid.id##.ads_wrapper
-suara.com##.bg-ads-sticky-side
-suara.com##.bg-ads-sticky-top
-grid.id##.bottom_banner-wrapper.relative
-185.217.95.48##.kln
-suara.com##.placeholder_belt
-grid.id##.relative.below_photo
-grid.id##.relative.skycrapper
-grid.id##.relative.w-full
-grid.id##.skin_ads
-grid.id##.top_banner-wrapper
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
@@ -945,6 +932,10 @@ samehadaku.*###floatcenter
 samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
+shinigami.*##.lepopup-popup-container
+shinigami.*##.lepopup-popup-loader
+shinigami.*##.lepopup-popup-overlay
+shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -964,7 +955,7 @@ dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
 kontan.co.id###adsoutsream
 unixmen.com###an-Modal
-tribunnews.com###anchorads
+suara.com,tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
 mirrorkomik.net###aplikasi
 zonabola.com###aside img[width="300"][height="250"]
@@ -1255,9 +1246,11 @@ bolasport.com##.ads__top-big
 gridoto.com##.ads__top-big250
 klikanggaran.com,www.hops.id##.ads__under__image
 bolasport.com,gridoto.com##.ads_below_photo
+grid.id##.ads_imr2
 grid.id##.ads_sky
 duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
+grid.id##.ads_wrapper
 apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
 107.152.37.223##.adscenter
 pontianakpost.co.id##.adsense
@@ -1341,6 +1334,8 @@ elde.tv##.bannerwrap
 budiarto.id##.bausastra-ads
 tribunnews.com##.belanja-picks
 manganime.live##.berlangganan-500
+suara.com##.bg-ads-sticky-side
+suara.com##.bg-ads-sticky-top
 www.inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
 bharian.com.my##.bh-ad
 bisnis.com##.billboardBig.billboard
@@ -1365,6 +1360,7 @@ bioskop99.me##.bot.ads
 harianjogja.com,solopos.com##.bottom-fix
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
+grid.id##.bottom_banner-wrapper.relative
 gopego.com##.box
 uzone.id##.box-ads-300x250
 uzone.id##.box-ads-billboard
@@ -1475,7 +1471,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,tv1.anikor.lol,westmanga.info##.kln
+107.152.37.223,15.235.11.45,157.245.12.72,185.217.95.48,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,tv1.anikor.lol,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -1489,9 +1485,6 @@ dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
 b201.info##.lenyap
-shinigami.id##.lepopup-popup-container
-shinigami.id##.lepopup-popup-loader
-shinigami.id##.lepopup-popup-overlay
 animasu.cc##.lmd-iklan
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
@@ -1526,6 +1519,7 @@ tribunnews.com##.ovh[style="width:468px;height:60px"]
 idntimes.com,sindonews.com##.parallax-ad
 tempo.co##.parallax-box
 medcom.id##.parallax_ads
+suara.com##.placeholder_belt
 suara.com##.placeholder_expose
 suara.com##.placeholder_leaderboard
 suara.com##.placeholder_medium
@@ -1543,6 +1537,9 @@ okezone.com##.rc-ad-300x250
 gridoto.com##.read__left
 indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-sol
+grid.id##.relative.below_photo
+grid.id##.relative.skycrapper
+grid.id##.relative.w-full
 unixmen.com##.reveal-modal-bg
 dwanonton.com##.right.banner-vertical
 investor.id##.row > .show-desktop > div
@@ -1561,6 +1558,7 @@ oploverz.bz,oploverz.top##.sg-popup-content
 kompas.com##.show.ol_promo
 briliobeauty.net##.showcase.placeholder-container
 ninemanga.com##.sitemaji_banner
+grid.id##.skin_ads
 tirto.id##.skinner-left
 tirto.id##.skinner-right
 kabar24.com##.skycapper
@@ -1585,6 +1583,7 @@ stocksetup.kontan.co.id##.text-center.center.width-px-1100
 klikseru.com##.textwidget img[width="300"][height="250"]
 thejakartapost.com##.tjp-placeholder-ads
 utusan.com.my##.tonal__standfirst
+grid.id##.top_banner-wrapper
 beritasatu.com##.underlay-ad
 investor.id##.underlay-ad-text-box
 kompas.com##.video-box-wrap
