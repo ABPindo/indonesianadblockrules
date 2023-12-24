@@ -1,17 +1,4 @@
 ! Entity filters
-suara.com###anchorads
-grid.id##.ads_imr2
-grid.id##.ads_wrapper
-suara.com##.bg-ads-sticky-side
-suara.com##.bg-ads-sticky-top
-grid.id##.bottom_banner-wrapper.relative
-185.217.95.48##.kln
-suara.com##.placeholder_belt
-grid.id##.relative.below_photo
-grid.id##.relative.skycrapper
-grid.id##.relative.w-full
-grid.id##.skin_ads
-grid.id##.top_banner-wrapper
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
@@ -35,7 +22,24 @@ samehadaku.*###floatcenter
 samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##a[href][target="_blank"] > img[src$=".gif"]
+shinigami.*##.lepopup-popup-container
+shinigami.*##.lepopup-popup-loader
+shinigami.*##.lepopup-popup-overlay
+shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
+suara.com###anchorads
+grid.id##.ads_imr2
+grid.id##.ads_wrapper
+suara.com##.bg-ads-sticky-side
+suara.com##.bg-ads-sticky-top
+grid.id##.bottom_banner-wrapper.relative
+185.217.95.48##.kln
+suara.com##.placeholder_belt
+grid.id##.relative.below_photo
+grid.id##.relative.skycrapper
+grid.id##.relative.w-full
+grid.id##.skin_ads
+grid.id##.top_banner-wrapper
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -579,9 +583,6 @@ dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
 b201.info##.lenyap
-shinigami.id##.lepopup-popup-container
-shinigami.id##.lepopup-popup-loader
-shinigami.id##.lepopup-popup-overlay
 animasu.cc##.lmd-iklan
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
