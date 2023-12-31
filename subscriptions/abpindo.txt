@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202312262357
+! Version: 202312310528
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 26 Dec 2023 23:57 UTC
+! Last modified: 31 Dec 2023 05:28 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -635,6 +635,7 @@ gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
 @@||otakuindo.net^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=193.142.147.230
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||razorlink.us^$generichide
@@ -1702,6 +1703,7 @@ detik.com##.billboard-top
 beautynesia.id##.box-ads--container
 detik.com##.detikads
 cnnindonesia.com,detik.com,insertlive.com,teknoup.com##.footer_banner
+193.142.147.230#@#.idmuvi-topbanner-aftermenu
 cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr1-scrollpage-height
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr2-scrollpage-height

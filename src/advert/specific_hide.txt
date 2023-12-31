@@ -792,6 +792,7 @@ detik.com##.billboard-top
 beautynesia.id##.box-ads--container
 detik.com##.detikads
 cnnindonesia.com,detik.com,insertlive.com,teknoup.com##.footer_banner
+193.142.147.230#@#.idmuvi-topbanner-aftermenu
 cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr1-scrollpage-height
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr2-scrollpage-height
@@ -807,7 +808,6 @@ detik.com##.sisip_video_ds
 detik.com##.skinad_1
 detik.com##.skinad_2
 cnnindonesia.com##article .parallaxindetail
-193.142.147.230#@#.idmuvi-topbanner-aftermenu
 ! ABP-specific Filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
