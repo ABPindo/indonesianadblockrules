@@ -1,4 +1,5 @@
 ! Entity filters
+kuramanime.*##[href^="https://bit.ly/"]
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
