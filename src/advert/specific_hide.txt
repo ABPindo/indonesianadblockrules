@@ -1,5 +1,4 @@
 ! Entity filters
-kuramanime.*##[href^="https://bit.ly/"]
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
@@ -8,6 +7,7 @@ gudangmovies21.*###ouibounce-modal
 gudangmovies21.*###sgpb-popup-dialog-main-div-wrapper
 gudangmovies21.*##.sgpb-popup-overlay
 komikcast.*##.kln
+kuramanime.*##[href^="https://bit.ly/"]
 layarkaca21.*###fbanner
 layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
