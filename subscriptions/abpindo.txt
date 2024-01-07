@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202401070013
+! Version: 202401071333
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 07 Jan 2024 00:13 UTC
+! Last modified: 07 Jan 2024 13:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -583,10 +583,9 @@ juraganfilm.ink##+js(aopr, $.magnificPopup.open)
 info.gambar.pro,info.mapsaddress.com,info.vebma.com,jenismac.com##+js(nano-sib)
 info.gambar.pro,info.mapsaddress.com,info.vebma.com,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
-subindojav.cc##+js(no-window-open-if)
 5.253.86.213,jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
-anichin.top,kimcilonly.site,kiryuu.id##+js(nowoif)
+anichin.top,kimcilonly.site,kiryuu.id,subindojav.cc##+js(nowoif)
 tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
 gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 ! *** abpindo:src/advert/allowlist.txt ***
@@ -984,6 +983,7 @@ kertashitam.com###blockblockB:style(visibility: visible !important; display: blo
 tirto.id###bn-premium
 indogamers.com###bottombanner
 log.viva.co.id###bottomframe-ad
+kompas.com###box-zone_osm
 wartakota.tribunnews.com###boxleft > .mb20
 tribunnews.com###boxright [style="width:300px; height:250px;"]
 awsubs.co,benfile.com,blifnews.com,film21terbaru.org,kabar2.com,mangacanblog.com,mangakita.net,mangaku.web.id,nusareborn.in,semuaberita.com###btm_banner
@@ -1442,6 +1442,7 @@ layardrama21.rest##.gmr-bannerpopup
 jendelakaba.com##.gmr-footerbanner
 jendelakaba.com##.gmr-topbanner
 jendelakaba.com##.gmr-verytopbanner
+kompas.com##.gramedia__gate
 kompas.com##.hAds
 bioskop90.com##.headborder:nth-of-type(5)
 kaskus.co.id##.header__kasad
@@ -1467,6 +1468,7 @@ motorplus-online.com,www.sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
 indoxx1.art,indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
+kompas.com##.kcm-track
 kompas.com##.kcm-track-sticky
 kompas.com##.kcm__articleList
 kompas.com##.kcm__stick--left
@@ -1698,12 +1700,14 @@ cnnindonesia.com##.ad_billboard
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-container
 cnnindonesia.com,haibunda.com##.ads-scrollpage-height
 beautynesia.id,cnnindonesia.com,detik.com##.ads-slot
+tempo.co##.banner970x250
 detik.com##.banner_inside_article
 detik.com##.bb_banner
 detik.com##.billboard-top
 beautynesia.id##.box-ads--container
 detik.com##.detikads
 cnnindonesia.com,detik.com,insertlive.com,teknoup.com##.footer_banner
+tempo.co##.head-banner
 193.142.147.230#@#.idmuvi-topbanner-aftermenu
 cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr1-scrollpage-height
@@ -1732,6 +1736,7 @@ cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com#?#.mr1:-abp-has([id^="
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
 briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
 blibli.com#?#.product__card:-abp-has(.product__tag__ads)
+kompas.com#?#div:-abp-has( > #gpt-passback)
 katadata.co.id#?#div:-abp-has( > [id^="div-gpt-ad"][class^="paralax"])
 tokopedia.com#?#div[data-testid="CPMWrapper"]:-abp-has(span:-abp-contains(/^Ad$/))
 tokopedia.com#?#div[data-testid="divProduct"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
@@ -8903,7 +8908,7 @@ bokepkita.pro##.btm_ban
 indoporn.pro##.full-brkas-container
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
-komikdewasa.me,lendirpedia.fun,manhwaindo.cfd,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,skandalpedia.rest##.kln
+185.217.95.43,komikdewasa.me,lendirpedia.fun,manhwaindo.cfd,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,skandalpedia.rest##.kln
 komik18.art##.kln.mlb.blox
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 sebokep.com##.lazyloaded.ads-50
