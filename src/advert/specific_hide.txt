@@ -610,6 +610,7 @@ animeindo.id##.nyaa728
 kompas.com##.ol_big_inner
 dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
 tribunnews.com##.ovh[style="width:468px;height:60px"]
+my-best.com##.p-press__ad
 idntimes.com,sindonews.com##.parallax-ad
 tempo.co##.parallax-box
 medcom.id##.parallax_ads
