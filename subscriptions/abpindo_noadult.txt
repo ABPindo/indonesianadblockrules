@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202401112155
+! Version: 202401112202
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 11 Jan 2024 21:55 UTC
+! Last modified: 11 Jan 2024 22:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -588,6 +588,7 @@ netq.me##+js(nostif, console)
 anichin.top,kimcilonly.site,kiryuu.id,subindojav.cc##+js(nowoif)
 tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
 gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
+carisinyal.com##+js(rmnt, script, showModal)
 ! *** abpindo:src/advert/allowlist.txt ***
 ! Allowlist for network filters
 @@||1idsly.com^$generichide
@@ -1036,11 +1037,13 @@ komiku.net###floatads2
 komiku.net###floatads3
 komikstation.com###floatbanner
 5.253.86.213,layardrama21.icu###floatbanner-bottom
+bgibola.lat###floatbannerkanan
+bgibola.lat###floatbannerkiri
 nontonsini.com###floatbawah
 lk21.host###floatbot
 samehadaku.cam,samehadaku.day,samehadaku.run###floatbottom
 sinemaindo.web.id###floatbtmleft
-149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,isekaisubs.web.id,samehadaku.cam,samehadaku.day,samehadaku.run###floatcenter
+149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,bgibola.lat,isekaisubs.web.id,samehadaku.cam,samehadaku.day,samehadaku.run###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 mgkomik.com###floating_ads_bottom_textcss_container
 idxxx1.com###floating_ads_bottom_textcss_wrap
@@ -1048,7 +1051,7 @@ blogspot.com###floating_banner_bottom2
 bioskop78.com,movie76.net###floating_banner_bottoms
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_left
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_right
-bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net,nontonlk21.live###floating_banner_top
+bgibola.lat,bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net,nontonlk21.live###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 46.149.76.81,cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live,zonafilm.icu###floating_banner_top1
 bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_banner_tops
@@ -1129,6 +1132,7 @@ indoxx1.pw###popup
 anoboy.digital,anoboy.media,anoboy.watch###popup_bawah
 anoboy.digital,anoboy.media,anoboy.watch###popup_box
 cafecinema.cc,dramamu.net,lk21.io###popup_content
+bgibola.lat###popupklan
 layarxxi.online###popuppress-9119
 tirto.id###premium
 lk21.li,nonton21.tv###previewBox
@@ -1323,6 +1327,7 @@ www.sonora.id##.banner__right.banner
 www.sonora.id##.banner__top.banner
 lapar.com,loveindonesia.com##.banner_box
 lapar.com##.banner_main
+bgibola.lat##.bannerbawahheader
 modifikasi.com##.bannercol
 modifikasi.com##.bannerfloat
 tempo.co##.bannerfull
@@ -1405,6 +1410,7 @@ bolasport.com##.cls-geniee
 bolasport.com,gridoto.com,motorplus-online.com,www.parapuan.co##.cls-outstream
 onlinemetro.id##.cls.code-block-center
 inidramaku.net##.cm-popup-modal
+carisinyal.com##.code-block
 windowsreport.com##.code-block-3.code-block
 rasa.my##.code-block-6
 dream.co.id##.col-banner
@@ -1463,6 +1469,7 @@ dutafilm.cfd,dutafilm.observer,dutafilm.us##.imgbanner
 nanimex1.com##.in.modal-backdrop
 animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
+bgibola.lat##.inline-banner
 gridoto.com##.js-ads-stick
 motorplus-online.com,www.sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
 indoxx1.art,indoxxi.bz##.jwseed
@@ -1522,6 +1529,7 @@ animeindo.id##.nyaa728
 kompas.com##.ol_big_inner
 dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
 tribunnews.com##.ovh[style="width:468px;height:60px"]
+my-best.com##.p-press__ad
 idntimes.com,sindonews.com##.parallax-ad
 tempo.co##.parallax-box
 medcom.id##.parallax_ads
