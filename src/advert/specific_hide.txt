@@ -28,6 +28,13 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
+bgibola.lat###popupklan
+bgibola.lat###floatcenter
+bgibola.lat###floatbannerkiri
+bgibola.lat###floatbannerkanan
+bgibola.lat##.bannerbawahheader
+bgibola.lat###floating_banner_top
+bgibola.lat##.inline-banner
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
