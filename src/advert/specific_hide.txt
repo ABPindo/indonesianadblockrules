@@ -28,10 +28,6 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
-shinigamitoon.com##.lepopup-popup-container
-shinigamitoon.com##.lepopup-popup-overlay
-shinigamitoon.com##.lepopup-popup-overlay
-shinigamitoon.com##img[alt="Advertisement"]
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -583,6 +579,8 @@ dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
 b201.info##.lenyap
+shinigamitoon.com##.lepopup-popup-container
+shinigamitoon.com##.lepopup-popup-overlay
 animasu.cc##.lmd-iklan
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
@@ -767,6 +765,7 @@ bacamanga.id,kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
+shinigamitoon.com##img[alt="Advertisement"]
 tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
