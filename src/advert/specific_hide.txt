@@ -28,6 +28,10 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
+shinigamitoon.com##.lepopup-popup-container
+shinigamitoon.com##.lepopup-popup-overlay
+shinigamitoon.com##.lepopup-popup-overlay
+shinigamitoon.com##img[alt="Advertisement"]
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
