@@ -55,6 +55,8 @@ Lingkungan pengujian Kami sebagai berikut:
 - [uBlock Static filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 - [DNS filtering rules syntax | AdGuard DNS Knowledge Base](https://adguard-dns.io/kb/general/dns-filtering-syntax/)
 - [Python-abp : utilitas untuk rendering filter ABPindo](https://github.com/adblockplus/python-abp)
+- [PyFunceble : utilitas untuk cek domain ABPindo](https://github.com/funilrys/PyFunceble)
+- [adblock-decoder : utilitas untuk konversi filter ABPindo ke format hosts dan plain text](https://github.com/PyFunceble/adblock-decoder)
 - Prasyarat: [Python](https://www.python.org/downloads/), [pip](https://pypi.org/project/pip/)
 
 ## Mirror
