@@ -31,12 +31,12 @@ bintangmawar.net###bmpop_adpB
 164.68.105.199,bokepid.wiki###fixedban
 unyil.net###float-atas
 sangetods.net###floatads
-149.102.130.200,154.12.229.9,194.163.158.12,45.67.231.215,75.119.147.12,81.0.220.98,89.117.61.35###floating_banner_top1
+149.102.130.200,154.12.229.9,161.97.116.33,194.163.158.12,45.67.231.215,75.119.147.12,81.0.220.98,89.117.61.35###floating_banner_top1
 kamarbokep.xyz,kebokepanku.xyz,ruangbokep.bond,ruangbokep.sbs,ruangbokep.top,sibokep.bond,streamingbokeponline.site,streamingbokeponline.top###floating_bot
 157.245.195.114###floating_bot.btm_ban
 sodasusu.com###forum_ads_8
 nontonbokeps.com###left_ads_float_phonedevelop
-149.102.130.200,154.12.229.9,185.217.95.30,207.244.225.48,indosemi45.org,manhwaid.org###ouibounce-modal
+149.102.130.200,154.12.229.9,161.97.116.33,173.212.245.75,185.217.95.30,207.244.225.48,81.0.220.98,indosemi45.org,manhwaid.org###ouibounce-modal
 iyottube.co,iyottube.com###playerOverlay
 susterbokep.com###right_ads_float_phonedevelop
 gadismalam.net###semprot_ads_side_left
@@ -63,10 +63,10 @@ bokepkita.pro##.btm_ban
 indoporn.pro##.full-brkas-container
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
-185.217.95.43,komikdewasa.me,lendirpedia.fun,manhwaindo.cfd,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,skandalpedia.rest##.kln
+185.217.95.43,komikdewasa.me,lendirpedia.fun,manhwaindo.cfd,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,skandalpedia.mom,skandalpedia.rest##.kln
 komik18.art##.kln.mlb.blox
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
-sebokep.com##.lazyloaded.ads-50
+194.233.73.15,sebokep.com##.lazyloaded.ads-50
 216.155.135.144##.lazyloaded.loaded.ads-50
 manadobaswara.com##.manado-widget
 nontonbokeps.com##.mask-ads
@@ -96,9 +96,3 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-skandalpedia.mom##.kln
-173.212.245.75###ouibounce-modal
-81.0.220.98###ouibounce-modal
-161.97.116.33###floating_banner_top1
-161.97.116.33###ouibounce-modal
-194.233.73.15##.lazyloaded.ads-50

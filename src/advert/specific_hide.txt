@@ -28,10 +28,6 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
-www.tek.id##.flying_carpet_show_fix
-www.tek.id##.flying_carpet_show_inner
-www.tek.id##.flying_carpet_show
-173.249.59.185###ouibounce-modal
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -211,7 +207,7 @@ hdtvku.com###mybannerpopup2
 nobartv.com###nbpopx-wrapper
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
-94.250.202.221,drakorindo.best,gatsunime.org,giladrakor.com,gudangmovies21.lol,gudangmovies21.skin,layarkeren.site,mangakita.net###ouibounce-modal
+173.249.59.185,94.250.202.221,drakorindo.best,gatsunime.org,giladrakor.com,gudangmovies21.lol,gudangmovies21.skin,layarkeren.site,mangakita.net###ouibounce-modal
 149.56.24.226,kricom.id###overlay
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
@@ -530,8 +526,9 @@ readwebtoons.com##.float-ck
 manganime.in##.float_tengah
 news.okezone.com##.flying_ads
 katadata.co.id##.flying_carpet_div
-bisnis.com##.flying_carpet_show
-bisnis.com##.flying_carpet_show_inner
+bisnis.com,www.tek.id##.flying_carpet_show
+www.tek.id##.flying_carpet_show_fix
+bisnis.com,www.tek.id##.flying_carpet_show_inner
 manganime.id##.ftadss
 komikcast.net,komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
 viva.co.id##.giant-banner

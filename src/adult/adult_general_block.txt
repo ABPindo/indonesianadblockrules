@@ -360,6 +360,7 @@
 /dewadominoqq.$image,third-party
 /dewahoki.$image,third-party
 /dewaitu.$image,third-party
+/dewalive.gif$image
 /DEWALIVE_$image
 /dewamainqq.$image,third-party
 /dewancash.gif$image
@@ -763,6 +764,7 @@
 /nagalaut-new.$image,third-party
 /nagalaut.$image,third-party
 /nagapoker-$image
+/nagapoker.gif$image
 /naloindo.$image,third-party
 /naloqq.$image,third-party
 /nasa-poker-$image
@@ -3448,5 +3450,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/dewalive.gif$image
-/nagapoker.gif$image
