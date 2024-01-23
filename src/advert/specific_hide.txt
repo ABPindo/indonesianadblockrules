@@ -28,6 +28,9 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
+www.tek.id##.flying_carpet_show_fix
+www.tek.id##.flying_carpet_show_inner
+www.tek.id##.flying_carpet_show
 173.249.59.185###ouibounce-modal
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
