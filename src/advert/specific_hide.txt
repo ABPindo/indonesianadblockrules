@@ -845,6 +845,10 @@ tokopedia.com#?#div[data-testid="divProductWrapper"]:-abp-has(span[data-testid="
 tokopedia.com#?#div[data-testid="lazy-frame"]:-abp-has(span[data-testid="lblProdTopads"])
 tokopedia.com#?#div[data-testid="master-product-card"]:-abp-has(span[data-testid^="linkProductTopads"])
 tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
-info.gambar.pro,info.mapsaddress.com,info.vebma.com#?#p:-abp-has( > a[href="#downloadnow"])
+info.gambar.pro,info.mapsaddress.com,info.vebma.com,cloud.majalahhewan.com#?#p:-abp-has( > a[href="#downloadnow"])
 tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
-info.vebma.com#?#span:-abp-contains(Advertisement)
+info.vebma.com,cloud.majalahhewan.com#?#span:-abp-contains(Advertisement)
+! Adtival
+!#if ext_ublock
+info.gambar.pro,info.mapsaddress.com,info.vebma.com,cloud.majalahhewan.com##:is(.text-primary.inline-block, button.text-primary):others()
+!#endif
