@@ -35,6 +35,7 @@ indogamers.com###IklanIDGS
 lihat.co.id###Kolom-random-300
 utusan.com.my###Taboola_widget
 chip.co.id###TopBannerBg
+kompas.tv###_popIn_recommend_word
 mangacanblog.com###aa
 motorplus-online.com###ad-genie-container
 mirrorkomik.net###adrandpop
@@ -304,10 +305,8 @@ republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
 dailysocial.id##.ads-article-inner
 dailysocial.id##.ads-article-sidebar
-kompas.tv##.ads-big
 alinea.id##.ads-billboard
 briliobeauty.net##.ads-container
-kompas.tv##.ads-foot
 awnime.net##.ads-header-5
 kompas.com##.ads-latest-wrap
 gridoto.com##.ads-liftdown
@@ -318,7 +317,6 @@ bolasport.com,gridoto.com,kompas.com,motorplus-online.com,www.grid.id##.ads-part
 tribunnews.com##.ads-placeholder
 tribunnews.com##.ads-placeholder-inside
 tek.id##.ads-popup__inner
-kompas.tv##.ads-right2
 www.inibaru.id##.ads-sticky-left
 www.inibaru.id##.ads-sticky-right
 terasjakarta.id##.ads.single_post_content
@@ -359,6 +357,7 @@ dramacool.io,dramanice.io,k-vid.com##.adv-space
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
 ceklist.id##.affcoups
+kompas.tv##.alert
 indoxtream.com##.aligncenter
 palingseru.com##.alignnone.size-large.wp-image-458
 terasjakarta.id##.animated.ads
@@ -700,6 +699,7 @@ cdramabase.com##.wpa
 dwa21.org##[class*="banner"]
 kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
+kompas.tv##[class^=ads-]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
