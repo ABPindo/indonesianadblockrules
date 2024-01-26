@@ -807,6 +807,7 @@ cnnindonesia.com##.ad_billboard
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-container
 cnnindonesia.com,haibunda.com##.ads-scrollpage-height
 beautynesia.id,cnnindonesia.com,detik.com##.ads-slot
+haibunda.com##.ads_native_d
 detik.com##.banner_inside_article
 detik.com##.bb_banner
 detik.com##.billboard-top
@@ -815,16 +816,17 @@ cnnindonesia.com##.detail_ads
 cnbcindonesia.com,detik.com##.detikads
 cnnindonesia.com,detik.com,insertlive.com##.footer_banner
 cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
-cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr1-scrollpage-height
-cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr2-scrollpage-height
+cnbcindonesia.com,cnnindonesia.com,detik.com##.mr1-scrollpage-height
+cnbcindonesia.com,cnnindonesia.com,detik.com##.mr2-scrollpage-height
 detik.com##.normalbanner
 detik.com##.otp_banner_close
 cnnindonesia.com##.paraA.para
 cnnindonesia.com##.para_abs
 cnnindonesia.com##.para_fix
 cnnindonesia.com,haibunda.com,insertlive.com##.paradetail
+haibunda.com##.parallax1
 detik.com##.parallax_abs
-cnnindonesia.com,detik.com##.parallaxindetail
+cnnindonesia.com,detik.com,haibunda.com##.parallaxindetail
 detik.com##.sisip_video_ds
 detik.com##.skinad_1
 detik.com##.skinad_2
@@ -834,11 +836,11 @@ detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
 beritasatu.com#?#.d-flex.w-100:-abp-has([id^="div-gpt-ad"])
 m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
-haibunda.com#?#.m-r1:-abp-has(#adv-caption-mr1)
-haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
+haibunda.com#?#.m-r1:-abp-has([id^="div-gpt-ad"])
+haibunda.com#?#.m-r2:-abp-has([id^="div-gpt-ad"])
 detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
-cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
-cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
+cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
+cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
 briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
 blibli.com#?#.product__card:-abp-has(.product__tag__ads)
 kompas.com#?#div:-abp-has( > #gpt-passback)
