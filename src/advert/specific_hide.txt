@@ -812,7 +812,7 @@ detik.com##.bb_banner
 detik.com##.billboard-top
 beautynesia.id##.box-ads--container
 cnnindonesia.com##.detail_ads
-detik.com##.detikads
+cnbcindonesia.com,detik.com##.detikads
 cnnindonesia.com,detik.com,insertlive.com##.footer_banner
 cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr1-scrollpage-height
