@@ -830,6 +830,7 @@ cnnindonesia.com,detik.com,haibunda.com##.parallaxindetail
 detik.com##.sisip_video_ds
 detik.com##.skinad_1
 detik.com##.skinad_2
+insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
 cnnindonesia.com##article .parallaxindetail
 ! ABP-specific filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
