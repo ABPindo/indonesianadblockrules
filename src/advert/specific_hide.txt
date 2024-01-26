@@ -798,7 +798,6 @@ cnbcindonesia.com###billboard_banner
 detik.com,haibunda.com###bottom_banner
 detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 detik.com###megabillboard-desktop
-cnnindonesia.com###mr3
 detik.com###otp_banner
 detik.com###skinad
 detik.com###sto_banner
@@ -832,7 +831,6 @@ detik.com##.sisip_video_ds
 detik.com##.skinad_1
 detik.com##.skinad_2
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
-cnnindonesia.com##article .parallaxindetail
 ! ABP-specific filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
@@ -843,6 +841,7 @@ haibunda.com#?#.m-r2:-abp-has([id^="div-gpt-ad"])
 detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
 cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
 cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
+cnnindonesia.com#?#.mr3:-abp-has([id^="div-gpt-ad"])
 briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
 blibli.com#?#.product__card:-abp-has(.product__tag__ads)
 kompas.com#?#div:-abp-has( > #gpt-passback)
