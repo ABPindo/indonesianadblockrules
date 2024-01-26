@@ -91,6 +91,7 @@ stocksetup.kontan.co.id###dablewidget_RoOGdzom
 tirto.id###delayedPopup
 ggwp.id###detailSkinAdLeft
 ggwp.id###detailSkinAdRight
+kapanlagi.com###dfp-bframe-cont
 bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
@@ -511,6 +512,7 @@ tribunnews.com##.content [style="width:160px; height:600px;"]
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
 dailysocial.id##.cover-ads-article
+kapanlagi.com##.crm-wrapper
 lensaindonesia.com##.ctnitem.ctncom
 tirto.id##.d-sidebar
 teknologi.inilah.com##.d.wp-120x600
