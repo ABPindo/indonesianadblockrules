@@ -66,12 +66,14 @@ tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
 kotakgame.com###bannertheme_left
 kotakgame.com###bannertheme_right
+beritasatu.com###billboard
 bioskop78.com###billboard_banner
 bioskop168.co,bioskop168.online,bioskop168.pro###bioskop-kiri
 tirto.id###bkgOverlay
 kertashitam.com###blockblockA
 kertashitam.com###blockblockB:style(visibility: visible !important; display: block !important;)
 tirto.id###bn-premium
+pikiran-rakyat.com###bottom_banner
 indogamers.com###bottombanner
 log.viva.co.id###bottomframe-ad
 kompas.com###box-zone_osm
@@ -397,6 +399,7 @@ suara.com##.banner-top-m.widget-ads-top
 oktavita.com##.banner-zone
 juragan-anime.net##.banner3
 tempo.co##.banner320x480
+tempo.co##.banner970x250
 kompas.com##.bannerAdB
 kompas.com##.bannerCenter
 kompas.com##.bannerCenter1SubRubrik
@@ -528,6 +531,7 @@ katadata.co.id##.flying_carpet_div
 bisnis.com,www.tek.id##.flying_carpet_show
 www.tek.id##.flying_carpet_show_fix
 bisnis.com,www.tek.id##.flying_carpet_show_inner
+teknoup.com##.footer_banner
 manganime.id##.ftadss
 komikcast.net,komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
 viva.co.id##.giant-banner
@@ -539,6 +543,7 @@ jendelakaba.com##.gmr-topbanner
 jendelakaba.com##.gmr-verytopbanner
 kompas.com##.gramedia__gate
 kompas.com##.hAds
+tempo.co##.head-banner
 bioskop90.com##.headborder:nth-of-type(5)
 kaskus.co.id##.header__kasad
 kontan.co.id##.heightads250
@@ -784,14 +789,14 @@ info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 satujiwa.org##table
-!
+! Detik Network
 detik.com###adpoint5
 detik.com###adv-caption-lead
 cnnindonesia.com,detik.com,haibunda.com###adv-caption-mr1
 cnnindonesia.com,detik.com,haibunda.com###adv-caption-mr2
-beritasatu.com,cnnindonesia.com,detik.com###billboard
+cnnindonesia.com,detik.com###billboard
 cnbcindonesia.com###billboard_banner
-detik.com,haibunda.com,pikiran-rakyat.com###bottom_banner
+detik.com,haibunda.com###bottom_banner
 detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 detik.com###megabillboard-desktop
 detik.com###otp_banner
@@ -802,15 +807,12 @@ cnnindonesia.com##.ad_billboard
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-container
 cnnindonesia.com,haibunda.com##.ads-scrollpage-height
 beautynesia.id,cnnindonesia.com,detik.com##.ads-slot
-tempo.co##.banner970x250
 detik.com##.banner_inside_article
 detik.com##.bb_banner
 detik.com##.billboard-top
 beautynesia.id##.box-ads--container
 detik.com##.detikads
-cnnindonesia.com,detik.com,insertlive.com,teknoup.com##.footer_banner
-tempo.co##.head-banner
-193.142.147.230#@#.idmuvi-topbanner-aftermenu
+cnnindonesia.com,detik.com,insertlive.com##.footer_banner
 cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr1-scrollpage-height
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com##.mr2-scrollpage-height
