@@ -798,6 +798,7 @@ cnbcindonesia.com###billboard_banner
 detik.com,haibunda.com###bottom_banner
 detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 detik.com###megabillboard-desktop
+cnnindonesia.com###mr3
 detik.com###otp_banner
 detik.com###skinad
 detik.com###sto_banner
@@ -810,6 +811,7 @@ detik.com##.banner_inside_article
 detik.com##.bb_banner
 detik.com##.billboard-top
 beautynesia.id##.box-ads--container
+cnnindonesia.com##.detail_ads
 detik.com##.detikads
 cnnindonesia.com,detik.com,insertlive.com##.footer_banner
 cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
