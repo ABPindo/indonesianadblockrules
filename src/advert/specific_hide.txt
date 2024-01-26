@@ -789,10 +789,6 @@ animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 satujiwa.org##table
 ! Detik Network
-detik.com###adpoint5
-detik.com###adv-caption-lead
-cnnindonesia.com,detik.com,haibunda.com###adv-caption-mr1
-cnnindonesia.com,detik.com,haibunda.com###adv-caption-mr2
 cnnindonesia.com,detik.com###billboard
 cnbcindonesia.com###billboard_banner
 detik.com,haibunda.com###bottom_banner
@@ -816,13 +812,8 @@ cnnindonesia.com##.detail_ads
 cnbcindonesia.com,detik.com##.detikads
 cnnindonesia.com,detik.com,insertlive.com##.footer_banner
 cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
-cnbcindonesia.com,cnnindonesia.com,detik.com##.mr1-scrollpage-height
-cnbcindonesia.com,cnnindonesia.com,detik.com##.mr2-scrollpage-height
 detik.com##.normalbanner
 detik.com##.otp_banner_close
-cnnindonesia.com##.paraA.para
-cnnindonesia.com##.para_abs
-cnnindonesia.com##.para_fix
 cnnindonesia.com,haibunda.com,insertlive.com##.paradetail
 haibunda.com##.parallax1
 detik.com##.parallax_abs
