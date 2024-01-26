@@ -854,6 +854,3 @@ info.vebma.com,cloud.majalahhewan.com#?#span:-abp-contains(Advertisement)
 !#if ext_ublock
 info.gambar.pro,info.mapsaddress.com,info.vebma.com,cloud.majalahhewan.com##:is(.text-primary.inline-block, button.text-primary):others()
 !#endif
-! Exception Filters
-nge-film21.info#@#.idmuvi-banner-aftercontent
-193.142.147.230#@#.idmuvi-topbanner-aftermenu
