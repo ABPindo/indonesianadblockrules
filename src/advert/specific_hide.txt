@@ -822,7 +822,7 @@ cnnindonesia.com##.para_abs
 cnnindonesia.com##.para_fix
 cnnindonesia.com,haibunda.com,insertlive.com##.paradetail
 detik.com##.parallax_abs
-cnnindonesia.com##.parallaxindetail
+cnnindonesia.com,detik.com##.parallaxindetail
 detik.com##.sisip_video_ds
 detik.com##.skinad_1
 detik.com##.skinad_2
