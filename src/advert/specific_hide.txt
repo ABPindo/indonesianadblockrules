@@ -308,10 +308,12 @@ republika.co.id##.ads-300-video
 dailysocial.id##.ads-article-inner
 dailysocial.id##.ads-article-sidebar
 alinea.id##.ads-billboard
+okezone.com##.ads-bottom-fixed
 briliobeauty.net##.ads-container
 awnime.net##.ads-header-5
 kompas.com##.ads-latest-wrap
 gridoto.com##.ads-liftdown
+okezone.com##.ads-mega-box
 grid.id##.ads-mr
 bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
@@ -480,7 +482,7 @@ mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
 okezone.com##.center-ban
 bharian.com.my##.center-block.img-responsive
-news.okezone.com##.center-paralax
+okezone.com##.center-paralax
 dramaqu.net##.cfmonitor
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
@@ -526,7 +528,7 @@ dapurpacu.com##.fixed-ads-atas
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
-news.okezone.com##.flying_ads
+okezone.com##.flying_ads
 katadata.co.id##.flying_carpet_div
 bisnis.com,www.tek.id##.flying_carpet_show
 www.tek.id##.flying_carpet_show_fix
