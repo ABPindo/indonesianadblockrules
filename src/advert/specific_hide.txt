@@ -29,13 +29,6 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
-bgibola.com###popupklan
-bgibola.com###floatcenter
-bgibola.com###floatbannerkiri
-bgibola.com###floatbannerkanan
-bgibola.com###popupklanfooter
-bgibola.com###floating_banner_top
-bgibola.com##.pc-only.inline-banner
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -138,13 +131,13 @@ komiku.net###floatads2
 komiku.net###floatads3
 komikstation.com###floatbanner
 5.253.86.213,layardrama21.icu###floatbanner-bottom
-bgibola.lat###floatbannerkanan
-bgibola.lat###floatbannerkiri
+bgibola.com,bgibola.lat###floatbannerkanan
+bgibola.com,bgibola.lat###floatbannerkiri
 nontonsini.com###floatbawah
 lk21.host###floatbot
 samehadaku.cam,samehadaku.day,samehadaku.run###floatbottom
 sinemaindo.web.id###floatbtmleft
-149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,bgibola.lat,isekaisubs.web.id,samehadaku.cam,samehadaku.day,samehadaku.run###floatcenter
+149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,bgibola.com,bgibola.lat,isekaisubs.web.id,samehadaku.cam,samehadaku.day,samehadaku.run###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 mgkomik.com###floating_ads_bottom_textcss_container
 idxxx1.com###floating_ads_bottom_textcss_wrap
@@ -152,7 +145,7 @@ blogspot.com###floating_banner_bottom2
 bioskop78.com,movie76.net###floating_banner_bottoms
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_left
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_right
-bgibola.lat,bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net,nontonlk21.live###floating_banner_top
+bgibola.com,bgibola.lat,bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net,nontonlk21.live###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
 46.149.76.81,cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live,zonafilm.icu###floating_banner_top1
 bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_banner_tops
@@ -233,7 +226,8 @@ indoxx1.pw###popup
 anoboy.digital,anoboy.media,anoboy.watch###popup_bawah
 anoboy.digital,anoboy.media,anoboy.watch###popup_box
 cafecinema.cc,dramamu.net,lk21.io###popup_content
-bgibola.lat###popupklan
+bgibola.com,bgibola.lat###popupklan
+bgibola.com###popupklanfooter
 layarxxi.online###popuppress-9119
 tirto.id###premium
 lk21.li,nonton21.tv###previewBox
@@ -638,6 +632,7 @@ my-best.com##.p-press__ad
 idntimes.com,sindonews.com##.parallax-ad
 tempo.co##.parallax-box
 medcom.id##.parallax_ads
+bgibola.com##.pc-only.inline-banner
 suara.com##.placeholder_belt
 suara.com##.placeholder_expose
 suara.com##.placeholder_leaderboard
