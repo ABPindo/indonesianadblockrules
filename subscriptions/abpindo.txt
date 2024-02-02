@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202402011425
+! Version: 202402022209
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Feb 2024 14:25 UTC
+! Last modified: 02 Feb 2024 22:09 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -583,7 +583,7 @@ juraganfilm.ink##+js(aopr, $.magnificPopup.open)
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com,jenismac.com##+js(nano-sib)
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
-5.253.86.213,jenismac.com##+js(noeval-if, /chp_?ad/)
+193.142.147.230,5.253.86.213,ainzscans.net,igobokep.cam,jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 anichin.top,kimcilonly.site,kiryuu.id,subindojav.cc##+js(nowoif)
 okezone.com##+js(rc, content-wrap)
@@ -636,7 +636,6 @@ carisinyal.com##+js(rmnt, script, showModal)
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
 @@||otakuindo.net^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=193.142.147.230|ainzscans.net|igobokep.cam
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||razorlink.us^$generichide
@@ -648,6 +647,10 @@ carisinyal.com##+js(rmnt, script, showModal)
 @@||shirosafe.web.id^$generichide
 @@||suarankri.me^$generichide
 @@||tokusatsuindo.com^$generichide
+! ABP-specific allowlist for network filters
+! #if ext_abp
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=193.142.147.230|ainzscans.net|igobokep.cam
+! #endif
 ! Allowlist for element hiding filters
 gurusd.web.id,kurikulum.co.id#@##adsense
 woof.tube#@#.adsbox
@@ -952,6 +955,7 @@ chip.co.id###TopBannerBg
 kompas.tv###_popIn_recommend_word
 mangacanblog.com###aa
 motorplus-online.com###ad-genie-container
+suara.com###adds-top
 mirrorkomik.net###adrandpop
 budiarto.id,cinemaindo.web.id,filmapik.tv###ads
 dapurpacu.com###ads-728
@@ -966,7 +970,6 @@ inilah.com,kompasiana.com###anchormasklink
 mirrorkomik.net###aplikasi
 zonabola.com###aside img[width="300"][height="250"]
 indotelko.com###baca_juga
-haibunda.com###balloonads
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 jendelakaba.com###banner-popup
@@ -997,7 +1000,7 @@ awsubs.co,benfile.com,blifnews.com,film21terbaru.org,kabar2.com,mangacanblog.com
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 indoxx1.club###col
-ayojakarta.com,pikiran-rakyat.com###cont-megabillboard
+ayojakarta.com,jawapos.com,pikiran-rakyat.com###cont-megabillboard
 indostreamings.xyz###content > div:nth-of-type(1)
 kompas.com###credential_picker_container
 kompas.com###crt-225c8f8a
@@ -1005,9 +1008,11 @@ kompas.com###crt-4f9f1ad0
 kompas.com###crt-f6d317f5
 stocksetup.kontan.co.id###dablewidget_RoOGdzom
 tirto.id###delayedPopup
+suara.com###desktop-native-1
+suara.com###desktop-native-2
 ggwp.id###detailSkinAdLeft
 ggwp.id###detailSkinAdRight
-kapanlagi.com###dfp-bframe-cont
+kapanlagi.com,liputan6.com###dfp-bframe-cont
 bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
@@ -1017,6 +1022,7 @@ makassar.tribunnews.com###div-Right-MediumRectangle-3
 stocksetup.kontan.co.id###div-Skycrapper-Stocksetup
 blog.tribunjualbeli.com###div-Top-Leaderboard
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
+suara.com###div-ad-dbt
 motorplus-online.com###div-paralax-container
 www.grid.id###div-top-banner-transparent
 90animax.com###energysaving
@@ -1088,6 +1094,7 @@ nanimex.in###iklanFloat
 185.231.223.76###iklhead
 lk21.web.id###ilang1
 cinemaindo.web.id,sinemaindo.web.id###ilang2
+jawapos.com###in_image
 downloadfilmbaru.com###itro_opaco
 downloadfilmbaru.com###itro_popup
 harakahdaily.net###jsemrp_372_719
@@ -1114,7 +1121,6 @@ animasu.nl###lmd-iklan
 kabargames.id###main-banner-middle
 dewabioskop21.org,dwa21.org###main-popup
 sindonews.com###me-div-gpt-ad-parallax
-haibunda.com###megabillboard
 dapurpacu.com###mid-banner
 dunia21.cx,ganool.watch,lk21tv.com,movies21.co,terbit21.cafe###middle-banner
 fastdrama.co,hkfree.co###modal
@@ -1130,7 +1136,7 @@ viva.co.id###otp_ads
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
 15.235.11.45,65.108.132.145,oploverz.best,oploverz.bz,oploverz.info,oploverz.love,oploverz.top###overplay
-haibunda.com###parallaxdetail
+suara.com###pariwara_dua
 eramuslim.com###peluang
 idxx1.top###player-side-left
 idxx1.top,indoxx1.com###player-side-right
@@ -1215,7 +1221,7 @@ terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
 suara.com##.adds-top.add
-192.99.70.18,22cinema.com,95.216.163.177,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,republika.co.id,samehadaku.cam,samehadaku.day,smallencode.com,topgans.blogspot.com##.ads
+192.99.70.18,22cinema.com,95.216.163.177,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,jawapos.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,republika.co.id,samehadaku.cam,samehadaku.day,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-120__left
 republika.co.id##.ads-120__right
 republika.co.id##.ads-160
@@ -1313,7 +1319,6 @@ dream.co.id##.banner-sc2
 www.sonora.id##.banner-skin--left
 www.sonora.id##.banner-skin--right
 modifikasi.com##.banner-top
-suara.com##.banner-top-m.widget-ads-top
 oktavita.com##.banner-zone
 juragan-anime.net##.banner3
 tempo.co##.banner320x480
@@ -1364,7 +1369,6 @@ bisnis.com##.billboardLeaderboard.billboard
 bisnis.com##.billboardPushdown
 bisnis.com##.billboardRectangle.billboard
 bisnis.com##.billboardTop.billboard
-haibunda.com##.billboard__banner
 bharian.com.my##.block-bh-googledfp
 gudangpemain.com##.blocker-notice
 gudangpemain.com##.blocker-overlay
@@ -1545,6 +1549,7 @@ my-best.com##.p-press__ad
 idntimes.com,sindonews.com##.parallax-ad
 tempo.co##.parallax-box
 medcom.id##.parallax_ads
+suara.com##.parallax_swipe
 bgibola.com##.pc-only.inline-banner
 suara.com##.placeholder_belt
 suara.com##.placeholder_expose
@@ -1619,7 +1624,9 @@ cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
 hightech.web.id##.wait
 teknologi.inilah.com##.wb-300x250
 medcom.id##.widebanner.banner
+suara.com##.widget-ads-top
 cdramabase.com##.wpa
+jawapos.com##[class$="__disclaimer"]
 dwa21.org##[class*="banner"]
 kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
@@ -1642,6 +1649,7 @@ dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 139.99.120.222,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,gudangmovies21.cfd,kawanfilm21.online,kawanfilm21.pro,kuramanime.xyz,lk21go.fun,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 lk21official.wiki##[href^="https://yukclick.me/dunia21"]
+suara.com##[id^="berita-terkait-"]
 tirto.id##[id^="gpt-inline"]
 idfl.me##[id^="yui-gen"].postcontainer
 kompas.com##[src^="https://adsimg.kompas.com"]
@@ -1709,12 +1717,15 @@ animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 satujiwa.org##table
 ! Detik Network
+haibunda.com###balloonads
 cnnindonesia.com,detik.com###billboard
 cnbcindonesia.com###billboard_banner
 detik.com,haibunda.com###bottom_banner
 detik.com###leaderboard[style*="width: 750px;height: 100px;"]
+haibunda.com###megabillboard
 detik.com###megabillboard-desktop
 detik.com###otp_banner
+haibunda.com###parallaxdetail
 detik.com###skinad
 detik.com###sto_banner
 detik.com###top_banner
@@ -1727,6 +1738,7 @@ haibunda.com##.ads_native_d
 detik.com##.banner_inside_article
 detik.com##.bb_banner
 detik.com##.billboard-top
+haibunda.com##.billboard__banner
 beautynesia.id##.box-ads--container
 cnnindonesia.com##.detail_ads
 cnbcindonesia.com,detik.com##.detikads
