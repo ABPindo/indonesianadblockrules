@@ -84,7 +84,7 @@ awsubs.co,benfile.com,blifnews.com,film21terbaru.org,kabar2.com,mangacanblog.com
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 indoxx1.club###col
-ayojakarta.com,pikiran-rakyat.com###cont-megabillboard
+ayojakarta.com,jawapos.com,pikiran-rakyat.com###cont-megabillboard
 indostreamings.xyz###content > div:nth-of-type(1)
 kompas.com###credential_picker_container
 kompas.com###crt-225c8f8a
@@ -178,6 +178,7 @@ nanimex.in###iklanFloat
 185.231.223.76###iklhead
 lk21.web.id###ilang1
 cinemaindo.web.id,sinemaindo.web.id###ilang2
+jawapos.com###in_image
 downloadfilmbaru.com###itro_opaco
 downloadfilmbaru.com###itro_popup
 harakahdaily.net###jsemrp_372_719
@@ -303,7 +304,8 @@ loveindonesia.com##.ad_990_80
 terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
-192.99.70.18,22cinema.com,95.216.163.177,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,republika.co.id,samehadaku.cam,samehadaku.day,smallencode.com,topgans.blogspot.com##.ads
+suara.com##.adds-top.add
+192.99.70.18,22cinema.com,95.216.163.177,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,jawapos.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,republika.co.id,samehadaku.cam,samehadaku.day,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-120__left
 republika.co.id##.ads-120__right
 republika.co.id##.ads-160
@@ -708,6 +710,7 @@ teknologi.inilah.com##.wb-300x250
 medcom.id##.widebanner.banner
 suara.com##.widget-ads-top
 cdramabase.com##.wpa
+jawapos.com##[class$="__disclaimer"]
 dwa21.org##[class*="banner"]
 kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
