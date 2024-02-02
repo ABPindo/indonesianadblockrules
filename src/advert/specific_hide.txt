@@ -96,7 +96,7 @@ suara.com###desktop-native-1
 suara.com###desktop-native-2
 ggwp.id###detailSkinAdLeft
 ggwp.id###detailSkinAdRight
-kapanlagi.com###dfp-bframe-cont
+kapanlagi.com,liputan6.com###dfp-bframe-cont
 bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
