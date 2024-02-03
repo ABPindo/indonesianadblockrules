@@ -6,11 +6,11 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
-! 
+!
 ! Please report any unblocked adverts or problems
 ! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
 ! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
-! 
+!
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ! Confirmed ad servers
@@ -1885,9 +1885,7 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 -sbcc.gif|$image
 -sirajaqq-$image
 -situs-poker-online-$image
--slot-gacor$image
 -slot-gacor.$image
--slot-gacor.$media
 -sponsorqq.$image
 -tiketbet.$image
 -tototix.gif$image
