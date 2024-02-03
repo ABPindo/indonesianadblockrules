@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
-! Version: 202402031251
+! Version: 202402032237
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 03 Feb 2024 12:51 UTC
+! Last modified: 03 Feb 2024 22:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
-!
+! 
 ! Please report any unblocked adverts or problems
 ! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
 ! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
-!
+! 
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ! Confirmed ad servers
@@ -714,7 +714,6 @@ totolink.id#@#.social-circle
 ###gpt-ad-middleleaderboard
 ###gpt-ad-mr1
 ###gpt-ad-mr2
-###idbannerplayer.idmuvi-bannerplayer
 ###idblog-adb-enabled
 ###idmuvi-adb-enabled
 ###idmuvi-popup
@@ -1088,7 +1087,6 @@ lensaindonesia.com###idcomright2.com-300x250
 lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
 lihat.co.id###iklan-dalam-postingan-300
-nanimex.in###iklanFloat
 45.12.2.2###iklantengah1
 185.231.223.76###iklap
 185.231.223.76###iklhead
@@ -1408,7 +1406,6 @@ sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 grid.id##.clearfix.ads__horizontal
-gridoto.com##.clearfix.ads__top-big250
 kompas.com##.clearfix.kcm__big.kcm
 kompas.com##.clearfix.kcm__horizontal.kcm
 kompas.com##.clearfix.kcm__rectangle.kcm
@@ -1474,9 +1471,7 @@ stocksetup.kontan.co.id##.heightads600.pad-t.pad-r.pad-l.pad-10
 stocksetup.kontan.co.id##.heightads90.ads-middle-list-news
 malaysiakini.com##.hero_adslot
 filmace21.net##.idmupi-topbanner
-layardrama21.rest##.idmuvi-floatbanner
 samehadaku.skin##.ik-overlay
-nanimex.in##.iklan
 nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
 awsubs.co##.iklansamping
@@ -1886,6 +1881,7 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 -sirajaqq-$image
 -situs-poker-online-$image
 -slot-gacor.$image
+-slot-gacor.$media
 -sponsorqq.$image
 -tiketbet.$image
 -tototix.gif$image
@@ -1904,9 +1900,7 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /188bet.$image,third-party
 /1Poker-$image
 /1xbet.$image
-/1xbet250.gif$image
 /1xbet250.gif|$image
-/1xbetnew.gif$image
 /1xbetnew.gif|$image
 /1xliga.$image,third-party
 /233bet.$image,third-party
@@ -1937,7 +1931,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /acmbet.$image,third-party
 /adaqq-$image
 /ADLVSLOT.webp$image
-/adsimontok/*
 /adsimontok/*$image
 /aduqq-$image
 /afapkr.$image,third-party
@@ -1972,7 +1965,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /alexavegas.gif|$image
 /alexisbola.$image,third-party
 /alien_togel.$image
-/alien_togel.gif|$image
 /amanqq.$image,third-party
 /anekaqq.$image,third-party
 /angelpoker-$image
@@ -2032,7 +2024,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /bandarxl-$image
 /bandarxl.gif|$image
 /bandarxlnew.$image
-/Banner-Bandar303.gif|$image
 /banner-lapakqq.$image
 /BANNER-liga88-$image
 /banner-lintasbet.gif$image
@@ -2109,7 +2100,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /capsaqqnew.$image,third-party
 /captainqq.gif$image
 /caradaftarpoker.$image,third-party
-/cashbackharian.gif$image
 /cashbackharian.gif|$image
 /casinoitu.$image,third-party
 /cer-sex.$image
@@ -2126,8 +2116,8 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /damqq-$image
 /damqq.$image
 /danaqq.$image,third-party
+/datukqq-$image
 /datukqq.$image
-/datukqq.$image,third-party
 /Dazbet.gif$image
 /demenqq-$image
 /depoqq-$image
@@ -2149,7 +2139,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /DEWALIVE_$image
 /dewamainqq.$image,third-party
 /dewancash.gif$image
-/dewancash.gif|$image
 /dewaonline.$image,third-party
 /dewapker.$image
 /dewapoker.$image,third-party
@@ -2169,7 +2158,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /dewiqq-$image
 /dewiqq.$image,third-party
 /diskonqq.$image,third-party
-/doiqq.gif$image
 /doiqq.gif|$image
 /domino168.$image,third-party
 /domino365.$image,third-party
@@ -2181,7 +2169,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /dotapoker.$image,third-party
 /dotapoker88-$image
 /dotaqiu-$image
-/doyangoyang.gif|
 /doyangoyang.gif|$image
 /doyanqq.$image,third-party
 /dpbola.gif|$image
@@ -2210,9 +2197,7 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /eze99.$image
 /ezebet-$image
 /ezebet.$image,third-party
-/fairqq.$image
-/fairqq.jpg
-/fairqq.jpg$image
+/fairqq.jpg|$image
 /fewstivalqq.gif$image
 /fifaqq-$image
 /fifaqq.$image,third-party
@@ -2232,7 +2217,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /GITARTOGEL-$image
 /GITARTOGEL.$image,third-party
 /goalgoal365-$image
-/goodbola-bannerfilm.gif|
 /goodbola-bannerfilm.gif|$image
 /guepoker.$image,third-party
 /hahatogel-gif$image
@@ -2281,7 +2265,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /ibetwin1080x90.$image
 /iblis4d-$image
 /ibobandarq.$image,third-party
-/IBOSPORT-$image
 /ibosport-$image
 /ibosport.$image,third-party
 /ibuqq.$image,third-party
@@ -2301,7 +2284,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /ikliknew.$image,third-party
 /images/idxbet/*$image
 /imcpkr.$image,third-party
-/imcpkrn.gif$image
 /imcpkrn.gif|$image
 /imcpoker-$image
 /imcpoker.$image,third-party
@@ -2309,7 +2291,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /imcqq.$image
 /incarqq.$image,third-party
 /indorajaqq.$image,third-party
-/Indotogel-$image
 /indotogel-$image
 /indotogel.$image,third-party
 /indotogelx900.$image
@@ -2328,7 +2309,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /itubandar.$image,third-party
 /itucasino.$image,third-party
 /itudewa.$image,third-party
-/ituDomino.$image
 /itudomino.$image
 /itudomino728.$image,third-party
 /itugol.$image,third-party
@@ -2339,7 +2319,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /ituqq728.$image,third-party
 /itutoto.$image,third-party
 /ituvip.$image,third-party
-/ituvip.gif$image
 /ituvip.gif|$image
 /ituvp.webp|$image
 /ivopoker.$image,third-party
@@ -2362,7 +2341,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /jayapoker-$image
 /jayapoker.$image
 /jayapoker_$image
-/JAYAPOKER_*.gif$image
 /jayapokernew.gif$image
 /jempolqq-$image
 /jendralpoker.$image,third-party
@@ -2374,7 +2352,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /josbet.$image,third-party
 /josbet88-$image
 /jpbet.$image
-/JPDEWA.$image
 /JPDEWA.gif|$image
 /jppoker.$image,third-party
 /jpslot88-$image
@@ -2382,14 +2359,12 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /juaracapsa-$image
 /JuaraCapsa.gif|$image
 /JUDIKARTU.gif|$image
-/kaikoslot-
 /kaikoslot-$image
 /KaikoSlot.gif|$image
 /Kaikoslot.webp|$image
 /kampusbet.$image,third-party
 /kaptenpoker.$image
-/kartu-online.gif$image
-/kartu-online.gif|
+/kartu-online.gif|$image
 /kartudomino.$image,third-party
 /kartuhoki-$image
 /kartuhokky.$image,third-party
@@ -2407,7 +2382,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /kiosqq.$image
 /klik66-$image
 /klik66banner.gif|
-/KLIKHOKI-$image
 /klikhoki-$image
 /klikkiu.$image,third-party
 /klikqq-$image
@@ -2468,18 +2442,16 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /luxury-pop-$image
 /luxury-top.$image,third-party
 /luxury777-$image
-/luxury777.gif|
+/luxury777.gif|$image
 /Luxury777.mp4|$media
 /lvo888.$image
 /m88domino.$image,third-party
 /mabesqq.$image,third-party
 /MacanTogle-$image
-/macau442.gif$image
 /macau442.gif|$image
 /MACAU442NET.gif$image
 /macaubet-$image
 /macaubet.$image,third-party
-/MacauDewa-$image
 /macaudewa-$image
 /mahkotabola.$image,third-party
 /mahkotaqq.$image,third-party
@@ -2497,7 +2469,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /mandalatoto.gif|$image
 /maniaqq-$image
 /maniaqq.$image,third-party
-/maniaslot.gif$image
 /maniaslot.gif|$image
 /mantapkiu.$image
 /marina-365.$image,third-party
@@ -2527,7 +2498,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /mikirpoker.$image,third-party
 /mildcasino.gif$image
 /misiqq-$image
-/Mitrahoki-$image
 /mitrahoki-$image
 /mitraqq.$image,third-party
 /mkvgames.$image,third-party
@@ -2545,7 +2515,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /mutiarapoker.$image,third-party
 /muvibet-$image
 /muvibet.$image,third-party
-/nagaikan.gif$image
 /nagaikan.gif|$image
 /nagalaut-new.$image,third-party
 /nagalaut.$image,third-party
@@ -2560,16 +2529,11 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /newafa.gif|$image
 /newhoya-$image
 /newjaya.$image,third-party
-/newjaya.gif$image
-/newjaya.gif|$image
 /NewKaikoSlot.gif$image
 /NewPentaSlot.gif|$image
 /Newpokerdewa.$image
 /newrgotog.gif$image
-/newrgotog.gif|$image
 /newtexas.$image,third-party
-/newtexas.gif$image
-/newtexas.gif|$image
 /ngiklan/ad$image
 /nikeqq.$image,third-party
 /NIKMATIQQ.$image
@@ -2591,13 +2555,10 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /orientalpoker.$image,third-party
 /oriqq.$image
 /otto4d.$image,third-party
-/otto4d.gif$image
-/otto4d.gif|$image
 /ovovegas-$image
 /paiza99.gif|$image
 /pamelapoker.$image,third-party
-/pancatoto.$image
-/pancatoto.gif|$image
+/pancatoto.gif$image
 /panenpoker.$image,third-party
 /pangerantoto1.$image,third-party
 /pantauqq.$image,third-party
@@ -2625,7 +2586,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /pkutama2-$image
 /Pkv-Games.gif|$image
 /pkvhoki.$image
-/PKVHOKI.gif|$image
 /PoinBet-$image
 /poker021.$image,third-party
 /poker1001.$image
@@ -2673,7 +2633,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /qq-simpati-$image
 /qq101_$image
 /qq188_$image
-/qq1bet.$image
 /qq1bet.$image,third-party
 /QQ36Bet-$image
 /qq39-$image
@@ -2692,7 +2651,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /qqjempol.$image,third-party
 /qqjoker.$image,third-party
 /qqnalo.$image,third-party
-/qqpedia.$image
 /qqpedia.$image,third-party
 /qqpilihan.$image,third-party
 /qqpokerplay.$image,third-party
@@ -2734,7 +2692,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /rgocasino-$image
 /rgocasino.$image,third-party
 /rgocasino.gif$image
-/rgocasino.gif|$image
 /rgosky.$image,third-party
 /ronaldo4d-$image
 /ronaldo4d.gif|$image
@@ -2845,7 +2802,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /togellounge.$image,third-party
 /togeltoto.$image,third-party
 /toppoker789.$image,third-party
-/TOTOBET-$image
 /totobet-$image
 /totobet.$image,third-party
 /totobetnew.gif$image
@@ -2909,7 +2865,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(
 /winpoker789.$image,third-party
 /WinsGoal.gif|$image
 /winslot8_$image
-/wiropoker.$image
 /wiropoker.gif|$image
 /wismaqq-$image
 /wismaqq.$image,third-party
@@ -3498,7 +3453,6 @@ totojitu.gif|$image
 ||cintapoker.$image,third-party
 ||citybet.$image,third-party
 ||cmcbet.$image,third-party
-||cmcpoker.$third-party
 ||cmcwin.$image,third-party
 ||cmcwin.$popup
 ||cmd368.$image,third-party
@@ -8913,8 +8867,6 @@ manhwaindo.*###teaser3
 manhwaindo.*##.kln
 perawanbokep.*###ads
 ruangbokep.*###floating_bot
-shinigami.*##.lepopup-popup-container
-shinigami.*##.lepopup-popup-overlay
 streamingbokeponline.*###floating_bot
 ! Non-entity filters
 173.199.167.192,krucil.com,krucil.net###KD_adpB
