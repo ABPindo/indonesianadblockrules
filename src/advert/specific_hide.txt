@@ -834,6 +834,7 @@ detik.com##.sisip_video_ds
 detik.com##.skinad_1
 detik.com##.skinad_2
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
+anikor.icu##.kln
 ! ABP-specific filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
