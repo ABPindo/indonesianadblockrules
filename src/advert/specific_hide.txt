@@ -805,6 +805,7 @@ detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 haibunda.com###megabillboard
 detik.com###megabillboard-desktop
 detik.com###otp_banner
+185.217.95.49###ouibounce-modal
 haibunda.com###parallaxdetail
 detik.com###skinad
 detik.com###sto_banner
@@ -823,6 +824,7 @@ beautynesia.id##.box-ads--container
 cnnindonesia.com##.detail_ads
 cnbcindonesia.com,detik.com##.detikads
 cnnindonesia.com,detik.com,insertlive.com##.footer_banner
+185.217.95.49,anikor.icu##.kln
 cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
 detik.com##.normalbanner
 detik.com##.otp_banner_close
@@ -833,11 +835,8 @@ cnnindonesia.com,detik.com,haibunda.com##.parallaxindetail
 detik.com##.sisip_video_ds
 detik.com##.skinad_1
 detik.com##.skinad_2
-insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
-anikor.icu##.kln
-185.217.95.49###ouibounce-modal
-185.217.95.49##.kln
 tv.lk21official.world##[href^="https://klik4.me/dunia21"]
+insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
 ! ABP-specific filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
