@@ -1,0 +1,6 @@
+image: python:3.7
+
+test:
+  script:
+  - pip install tox
+  - tox -e py37,flake8

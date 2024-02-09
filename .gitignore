@@ -1,3 +1,5 @@
 .hg
 *.log
-*.out
+*.out\
+.venv
+.idea

@@ -1,0 +1,3 @@
+filter,source,onehour_sessions,hits,domains,rootdomains
+@@some_website.com,www.exceptionlist.com,10000,2345678,100,35
+||subdomain.some_website.com,www.blocklist.com,100,1234,24,33

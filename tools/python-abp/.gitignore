@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+__pycache__
+/.coverage*
+/.cache/
+/.tox/
+/dist/
+/devenv/
+/*.egg-info
+.idea/
+.pytest_cache/
+*.DS_Store

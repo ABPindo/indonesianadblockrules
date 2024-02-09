@@ -1,0 +1,15 @@
+^.coverage$
+^.coveragerc$
+^.cache/
+^.tox/
+^dist/
+^devenv/
+^.pytest_cache$
+.coverage
+
+syntax: glob
+*.pyc
+*.pyo
+__pycache__
+*.egg-info
+*.DS_Store

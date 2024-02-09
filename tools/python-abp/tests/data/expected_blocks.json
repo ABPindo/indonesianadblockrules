@@ -1,0 +1,82 @@
+[
+  {
+    "variables": {
+      "foo": "bar",
+      "baz": "some_tricky?variable=with&funny=chars#and-stuff"
+    },
+    "description": "Example block 1\nAnother comment",
+    "filters": [
+      {
+        "text": "||block.ing/filter$domain=foo.com|~bar.com",
+        "selector": {
+          "type": "url-pattern",
+          "value": "||block.ing/filter"
+        },
+        "action": "block",
+        "options": {
+          "domain": {
+            "foo.com": true,
+            "bar.com": false
+          }
+        },
+        "type": "Filter"
+      },
+      {
+        "text": "white.list.ing#@#hiding.filter",
+        "selector": {
+          "type": "css",
+          "value": "hiding.filter"
+        },
+        "action": "show",
+        "options": {
+          "domain": {
+            "white.list.ing": true
+          }
+        },
+        "type": "Filter"
+      }
+    ]
+  },
+  {
+    "description": "Another block",
+    "variables": {},
+    "filters": [
+      {
+        "text": "@@whateve.rs",
+        "selector": {
+          "type": "url-pattern",
+          "value": "whateve.rs"
+        },
+        "action": "allow",
+        "options": {},
+        "type": "Filter"
+      }
+    ]
+  },
+  {
+    "description": "Snippet filters with non-ascii charcters",
+    "variables": {},
+    "filters": [
+      {
+        "text":"news.de#$#abort-current-inline-script Math.floor /[ం]\\\\W*Ｔ/",
+        "selector": {
+          "type": "snippet",
+          "value": "abort-current-inline-script Math.floor /[ం]\\\\W*Ｔ/"
+        },
+        "action": "hide",
+        "options": {"domain": {"news.de": true}},
+        "type": "Filter"
+      },
+      {
+        "text": "foo.com,www.foo.com#$#hide-if-contains 广告",
+        "selector": {
+          "type": "snippet",
+          "value": "hide-if-contains 广告"
+        },
+        "action": "hide",
+        "options": {"domain": {"www.foo.com": true, "foo.com": true}},
+        "type": "Filter"
+      }
+    ]
+  }
+]
