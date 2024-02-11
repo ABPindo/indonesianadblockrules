@@ -684,6 +684,7 @@ idpelago.com##.sponsor_ads:nth-of-type(1)
 idpelago.com##.sponsor_ads:nth-of-type(2)
 idpelago.com##.sponsor_ads:nth-of-type(4)
 okezone.com##.sponsored-belt468x60
+hmetro.com.my##.stick-leaderboard-wrapper
 kabargames.id##.stickybanner
 dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 hijabista.com.my,majalahpama.my,nona.my,vanillakismis.my##.td-banner-bg.td-banner-wrap-full
@@ -839,6 +840,7 @@ insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
 ! ABP-specific filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
+hmetro.com.my#?#.col-lg-3:-abp-has([id^="div-gpt-ad"])
 beritasatu.com#?#.d-flex.w-100:-abp-has([id^="div-gpt-ad"])
 m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
 haibunda.com#?#.m-r1:-abp-has([id^="div-gpt-ad"])
