@@ -222,4 +222,4 @@
 ! Miscellanous popups
 *$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 ! Miscellanous advertisement gifs
-.gif$image,domain=mangakita.id|oploverz.*
+.gif$image,domain=mangakita.id|oploverz.*|samehadaku.*|samehadaku.show
