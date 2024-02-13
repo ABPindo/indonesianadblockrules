@@ -684,8 +684,7 @@ idpelago.com##.sponsor_ads:nth-of-type(1)
 idpelago.com##.sponsor_ads:nth-of-type(2)
 idpelago.com##.sponsor_ads:nth-of-type(4)
 okezone.com##.sponsored-belt468x60
-bharian.com.my##.stick-leaderboard-wrapper
-hmetro.com.my##.stick-leaderboard-wrapper
+bharian.com.my,hmetro.com.my##.stick-leaderboard-wrapper
 kabargames.id##.stickybanner
 dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 hijabista.com.my,majalahpama.my,nona.my,vanillakismis.my##.td-banner-bg.td-banner-wrap-full

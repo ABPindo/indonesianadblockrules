@@ -1,17 +1,17 @@
 [Adblock Plus 2.0]
-! Version: 202402072145
+! Version: 202402131611
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 07 Feb 2024 21:45 UTC
+! Last modified: 13 Feb 2024 16:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
-! 
+!
 ! Please report any unblocked adverts or problems
 ! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
 ! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
-! 
-! ---------------------- advert blocking filters ----------------------!
+!
+!---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ! Confirmed ad servers
 ||188affiliates.com^$third-party
@@ -350,7 +350,6 @@
 _TimAds_Banner_$image
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|bgibola.com|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|movieajip.online|nontondrama.*|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
@@ -571,11 +570,10 @@ iklan300x250.gif|
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
 ! Miscellanous popups
-*$popup,domain=info.mapsaddress.com|info.vebma.com|kiryuu.id
-.gif$image,domain=oploverz.*
+*$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
+! Miscellanous advertisement gifs
+.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|bgibola.com|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|mangakita.id|movieajip.online|nontondrama.*|oploverz.*|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd|samehadaku.*|samehadaku.show
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.mapsaddress.com,info.vebma.com##+js(aeld, click, linkOpened)
@@ -583,7 +581,7 @@ juraganfilm.ink##+js(aopr, $.magnificPopup.open)
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com,jenismac.com##+js(nano-sib)
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
-193.142.147.230,5.253.86.213,ainzscans.net,igobokep.cam,jenismac.com##+js(noeval-if, /chp_?ad/)
+193.142.147.230,5.253.86.213,ainzscans.net,igobokep.cam,jenismac.com,siimanga.cyou##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 anichin.top,kimcilonly.site,kiryuu.id,subindojav.cc##+js(nowoif)
 okezone.com##+js(rc, content-wrap)
@@ -648,9 +646,9 @@ carisinyal.com##+js(rmnt, script, showModal)
 @@||suarankri.me^$generichide
 @@||tokusatsuindo.com^$generichide
 ! ABP-specific allowlist for network filters
-! #if ext_abp
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=193.142.147.230|ainzscans.net|igobokep.cam
-! #endif
+!#if ext_abp
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=193.142.147.230|ainzscans.net|igobokep.cam|siimanga.cyou
+!#endif
 ! Allowlist for element hiding filters
 gurusd.web.id,kurikulum.co.id#@##adsense
 woof.tube#@#.adsbox
@@ -666,7 +664,7 @@ tokosatu.com#@#.popupflyin-clicks-area
 digikala.com,sporcle.com#@#.remodal
 oomph.co.id#@#.shareit
 totolink.id#@#.social-circle
-! ---------------------------- adult ------------------------------!
+!---------------------------- adult ------------------------------!
 ! *** abpindo:src/adult/adult_general_block.txt ***
 -abgqq.$image
 -agen-judi-$image
