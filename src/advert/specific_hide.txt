@@ -33,6 +33,7 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
+suarasurabaya.net##.footer_sticky
 ketik.co.id###modalPopup
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
