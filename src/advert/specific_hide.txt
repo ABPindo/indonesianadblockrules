@@ -33,8 +33,6 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
-suarasurabaya.net##.footer_sticky
-ketik.co.id###modalPopup
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -213,6 +211,7 @@ sindonews.com###me-div-gpt-ad-parallax
 dapurpacu.com###mid-banner
 dunia21.cx,ganool.watch,lk21tv.com,movies21.co,terbit21.cafe###middle-banner
 fastdrama.co,hkfree.co###modal
+ketik.co.id###modalPopup
 indotelko.com###more_stories
 fastdrama.co###myModal
 hdtvku.com###mybannerpopup
@@ -540,6 +539,7 @@ bisnis.com,www.tek.id##.flying_carpet_show
 www.tek.id##.flying_carpet_show_fix
 bisnis.com,www.tek.id##.flying_carpet_show_inner
 teknoup.com##.footer_banner
+suarasurabaya.net##.footer_sticky
 manganime.id##.ftadss
 komikcast.net,komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
 viva.co.id##.giant-banner
