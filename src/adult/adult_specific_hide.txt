@@ -16,6 +16,7 @@ perawanbokep.*###ads
 ruangbokep.*###floating_bot
 streamingbokeponline.*###floating_bot
 ! Non-entity filters
+starjepang.com##.kln
 rumahperjaka.live###floatbannerkanan
 rumahperjaka.live###floating_banner_top
 rumahperjaka.live##.elementor-popup-modal
