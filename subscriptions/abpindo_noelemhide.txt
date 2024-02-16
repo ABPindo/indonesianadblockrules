@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202402142157
+! Version: 202402162343
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 14 Feb 2024 21:57 UTC
+! Last modified: 16 Feb 2024 23:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -873,6 +873,7 @@ totolink.id#@#.social-circle
 /arunabet_$image
 /asean99-$image
 /asia88bet.$image,third-party
+/Asiaforbet.gif$image
 /asian4d.$image,third-party
 /asianbookie-$image
 /asiaqq-$image
@@ -1051,6 +1052,7 @@ totolink.id#@#.social-circle
 /domino757.$image,third-party
 /domino99.$image,third-party
 /dominobet.$image,third-party
+/DOMINOBET_$image
 /dominoqq.$image,third-party
 /dorabet.$image,third-party
 /dotapoker.$image,third-party
@@ -1165,6 +1167,7 @@ totolink.id#@#.social-circle
 /idrbt.webp|$image,third-party
 /idrpoker.$image,third-party
 /idx-promo-$image
+/IGAMBLE_$image
 /iklanqq.$image,third-party
 /iklanratu.$image
 /iklanx.$image,third-party
@@ -1407,6 +1410,7 @@ totolink.id#@#.social-circle
 /nagalaut.$image,third-party
 /nagapoker-$image
 /nagapoker.gif$image
+/NAGAPOKER_$image
 /naloindo.$image,third-party
 /naloqq.$image,third-party
 /nasa-poker-$image
@@ -1709,6 +1713,7 @@ totolink.id#@#.social-circle
 /ubcwin.$image,third-party
 /UBI777-NEW.gif|$image
 /Unibet99-$image
+/Unibet99.gif$image
 /unikpoker.$image,third-party
 /unitogel-$image
 /unovegas.gif$image

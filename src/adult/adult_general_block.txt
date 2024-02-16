@@ -205,6 +205,7 @@
 /arunabet_$image
 /asean99-$image
 /asia88bet.$image,third-party
+/Asiaforbet.gif$image
 /asian4d.$image,third-party
 /asianbookie-$image
 /asiaqq-$image
@@ -383,6 +384,7 @@
 /domino757.$image,third-party
 /domino99.$image,third-party
 /dominobet.$image,third-party
+/DOMINOBET_$image
 /dominoqq.$image,third-party
 /dorabet.$image,third-party
 /dotapoker.$image,third-party
@@ -497,6 +499,7 @@
 /idrbt.webp|$image,third-party
 /idrpoker.$image,third-party
 /idx-promo-$image
+/IGAMBLE_$image
 /iklanqq.$image,third-party
 /iklanratu.$image
 /iklanx.$image,third-party
@@ -739,6 +742,7 @@
 /nagalaut.$image,third-party
 /nagapoker-$image
 /nagapoker.gif$image
+/NAGAPOKER_$image
 /naloindo.$image,third-party
 /naloqq.$image,third-party
 /nasa-poker-$image
@@ -1041,6 +1045,7 @@
 /ubcwin.$image,third-party
 /UBI777-NEW.gif|$image
 /Unibet99-$image
+/Unibet99.gif$image
 /unikpoker.$image,third-party
 /unitogel-$image
 /unovegas.gif$image
@@ -3411,8 +3416,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/DOMINOBET_$image
-/IGAMBLE_$image
-/NAGAPOKER_$image
-/Asiaforbet.gif$image
-/Unibet99.gif$image
