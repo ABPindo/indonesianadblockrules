@@ -33,9 +33,6 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
-realitakita.com##.gpt-ad-inner
-realitakita.com##.site-sticky-bottom
-akurat.co##.ads
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -310,7 +307,7 @@ terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
 suara.com##.adds-top.add
-192.99.70.18,22cinema.com,95.216.163.177,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,jawapos.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,republika.co.id,samehadaku.cam,samehadaku.day,smallencode.com,topgans.blogspot.com##.ads
+192.99.70.18,22cinema.com,95.216.163.177,akurat.co,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,jawapos.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,republika.co.id,samehadaku.cam,samehadaku.day,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-120__left
 republika.co.id##.ads-120__right
 republika.co.id##.ads-160
@@ -552,6 +549,7 @@ layardrama21.rest##.gmr-bannerpopup
 jendelakaba.com##.gmr-footerbanner
 jendelakaba.com##.gmr-topbanner
 jendelakaba.com##.gmr-verytopbanner
+realitakita.com##.gpt-ad-inner
 kompas.com##.gramedia__gate
 kompas.com##.hAds
 tempo.co##.head-banner
@@ -674,6 +672,7 @@ oploverz.bz,oploverz.top##.sg-popup-content
 15.235.11.45##.sgpb-popup-overlay.sgpb-popup-overlay-19287.sgpb-theme-1-overlay
 kompas.com##.show.ol_promo
 briliobeauty.net##.showcase.placeholder-container
+realitakita.com##.site-sticky-bottom
 ninemanga.com##.sitemaji_banner
 grid.id##.skin_ads
 tirto.id##.skinner-left
