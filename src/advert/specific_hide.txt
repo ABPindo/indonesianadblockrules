@@ -862,7 +862,3 @@ tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span[data-
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com#?#p:-abp-has( > a[href="#downloadnow"])
 tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
-! Adtival
-!#if ext_ublock
-cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(.text-primary.inline-block, button.text-primary):others()
-!#endif
