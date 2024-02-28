@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202402271536
+! Version: 202402281427
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 27 Feb 2024 15:36 UTC
+! Last modified: 28 Feb 2024 14:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1778,10 +1778,6 @@ tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span[data-
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com#?#p:-abp-has( > a[href="#downloadnow"])
 tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
-! Adtival
-!#if ext_ublock
-cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##:is(.text-primary.inline-block, button.text-primary):others()
-!#endif
 !--------------------------- adult ------------------------------!
 ! *** abpindo:src/adult/adult_general_block.txt ***
 -abgqq.$image
