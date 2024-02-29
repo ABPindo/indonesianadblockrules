@@ -91,9 +91,6 @@ indoxx1.club###col
 ayojakarta.com,jawapos.com,pikiran-rakyat.com###cont-megabillboard
 indostreamings.xyz###content > div:nth-of-type(1)
 kompas.com###credential_picker_container
-kompas.com###crt-225c8f8a
-kompas.com###crt-4f9f1ad0
-kompas.com###crt-f6d317f5
 stocksetup.kontan.co.id###dablewidget_RoOGdzom
 tirto.id###delayedPopup
 suara.com###desktop-native-1
@@ -494,13 +491,6 @@ sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 grid.id##.clearfix.ads__horizontal
-kompas.com##.clearfix.kcm__big.kcm
-kompas.com##.clearfix.kcm__horizontal.kcm
-kompas.com##.clearfix.kcm__rectangle.kcm
-kompas.com##.clearfix.kcm__sticky.kcm
-kompas.com##.clearfix.kcm__top.kcm
-kompas.com##.clearfix.kcm__tower.kcm
-kompas.com##.clearfix.kcm__track.kcm
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 bolasport.com##.cls-composite
@@ -578,9 +568,16 @@ kaskus.co.id##.kasad-h
 kompas.com##.kcm-track
 kompas.com##.kcm-track-sticky
 kompas.com##.kcm__articleList
+kompas.com##.kcm__big
+kompas.com##.kcm__horizontal
+kompas.com##.kcm__rectangle
 kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
-kompas.com##.kcm__superbig.kcm
+kompas.com##.kcm__sticky
+kompas.com##.kcm__superbig
+kompas.com##.kcm__top
+kompas.com##.kcm__tower
+kompas.com##.kcm__track
 apk.miuiku.com,lewat.club##.klikdisini
 107.152.37.223,15.235.11.45,157.245.12.72,185.217.95.48,185.217.95.49,45.12.2.2,anichin.top,anichin.vip,anikor.icu,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.id,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,tv1.anikor.lol,westmanga.info##.kln
 awsubs.co##.klnrec
