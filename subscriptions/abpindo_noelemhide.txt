@@ -155,7 +155,6 @@
 ||spanuletubings.com^$popup,third-party
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
-||syndopop.com^$popup
 ||teliad.com^$third-party
 ||theclickers.net^$third-party
 ||tinggalklik.com^$third-party
@@ -233,7 +232,6 @@
 ||kdbumyha.com^$popup
 ||kozoysnsx.com^$popup
 ||l9tdhe6.com^$popup
-||laluvygy.com^
 ||ld82ydd.com^$popup
 ||leoceran.pw^$third-party
 ||lpaizureik.com^$popup
@@ -268,7 +266,6 @@
 ||torflegorb.com^
 ||trendlope.com^$third-party
 ||trvwjyjgkgeagd.com^
-||tsyndolls.com^$popup
 ||tummiarunzpf.com^$popup,third-party
 ||uamrnaakv.com^
 ||ueuodgnrhb.com^$popup
@@ -295,7 +292,6 @@
 ||rajatraffic.com^$third-party
 ||track.aptitudemedia.co^$popup
 ||track.avxid.com^$third-party
-||track.spzan.com^$popup
 ||track.zerofriend.com^$popup,third-party
 ||trackdan.com^$popup
 ||tracker.beritagar.id^$third-party
@@ -540,7 +536,6 @@ iklan300x250.gif|
 ||playwebgame.com/banner/$third-party
 ||primbon.com/banner/ilmugendam.gif
 ||raw.githack.com/jefcom/jefar/master/jefar.js$script
-||resep.web.id/banner/
 ||rikucan.com/wp-content/themes/mh-magazine-lite/js/looping.js
 ||safelinkblog.com/js/v2.js$script
 ||samehadaku.win/wp-content/uploads/*.gif$image,domain=samehadaku.win
@@ -623,7 +618,6 @@ carisinyal.com##+js(rmnt, script, showModal)
 @@||js.rfp.fout.jp/rfp-infeed.js$script,domain=www.funtasticko.net
 @@||kaze-batch.blogspot.com^$generichide
 @@||klikshowtime.com^$generichide
-@@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
 @@||ljutkeunvpn.blogspot.com^$generichide
 @@||majalahikan.com^$generichide
@@ -653,9 +647,8 @@ carisinyal.com##+js(rmnt, script, showModal)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=193.142.147.230|ainzscans.net|igobokep.cam|siimanga.cyou
 !#endif
 ! Allowlist for element hiding filters
-gurusd.web.id,kurikulum.co.id#@##adsense
 woof.tube#@#.adsbox
-aktual.id,datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbygoogle
+datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbygoogle
 aplikasipc.com#@#.afs_ads
 qqcinema21.com#@#.headads
 layarlebarxxi.com#@#.idmuvi-afterplayer
@@ -4189,7 +4182,6 @@ totojitu.gif|$image
 ||goldentoto.com^$third-party
 ||goldtoto.com^$third-party
 ||hasiltogel.club^$popup
-||heypoker.com^$third-party
 ||hjtowin.online^$popup
 ||hjtowin.online^$third-party
 ||hokijudi99.com^$third-party
@@ -4198,7 +4190,6 @@ totojitu.gif|$image
 ||homepokergames.com^$third-party
 ||hotpokerbonus.com^$third-party
 ||houseoftoto.com^$third-party
-||infotogelharian.com^$third-party
 ||inipoker.com^$third-party
 ||investopedia.today^
 ||ipoker.com^$third-party
@@ -4269,7 +4260,6 @@ totojitu.gif|$image
 ||planettoto.com^$third-party
 ||playpokeronline.com^$third-party
 ||playwinpoker.com^$third-party
-||poker24x7.com^$third-party
 ||poker338a.com^$third-party
 ||poker4ever.com^$third-party
 ||pokerace.com^$third-party
@@ -4332,11 +4322,9 @@ totojitu.gif|$image
 ||sunpoker.com^$third-party
 ||surgajudi.com^$third-party
 ||switchpoker.com^$third-party
-||tangkaspoker.com^$third-party
 ||taruhanbetting.com^$third-party
 ||taruhanbolaku.com^$third-party
 ||taruhancasino.com^$third-party
-||taruhanjudi.com^$third-party
 ||taruhanku.com^$third-party
 ||taruhanolahraga.com^$third-party
 ||taruhansepakbola.com^$third-party
