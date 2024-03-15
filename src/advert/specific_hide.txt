@@ -33,12 +33,6 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
-kompasiana.com##.ads-partner-wrap
-filmapik.support###le_header_ads
-filmapik.international###le_header_ads
-miyanime.site##.ads
-miyanime.site##.fixed-rside
-miyanime.site##.fixed-lside
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -196,7 +190,7 @@ b201.info,bioskop201.biz###kayan_reklam_sol
 zonabola.com###lAds
 pkspiyungan.org###largebanner
 mangafap.com###lbanner
-5.182.209.205,filmapik.kim,filmapik.sbs,filmapik21.space###le_header_ads
+5.182.209.205,filmapik.international,filmapik.kim,filmapik.sbs,filmapik.support,filmapik21.space###le_header_ads
 kabar2.com###leaderboard
 komikbaru.com###left-skyscraper
 www.lingohut.com###lht2_lesson_after_vocab2_300x250_phone
@@ -310,7 +304,7 @@ terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
 suara.com##.adds-top.add
-192.99.70.18,22cinema.com,95.216.163.177,akurat.co,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,jawapos.com,k-vid.net,kompas.com,neumanga.tv,otakuindo.net,republika.co.id,samehadaku.cam,samehadaku.day,smallencode.com,topgans.blogspot.com##.ads
+192.99.70.18,22cinema.com,95.216.163.177,akurat.co,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,jawapos.com,k-vid.net,kompas.com,miyanime.site,neumanga.tv,otakuindo.net,republika.co.id,samehadaku.cam,samehadaku.day,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-120__left
 republika.co.id##.ads-120__right
 republika.co.id##.ads-160
@@ -328,7 +322,7 @@ okezone.com##.ads-mega-box
 grid.id##.ads-mr
 bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
-bolasport.com,gridoto.com,kompas.com,motorplus-online.com,www.grid.id##.ads-partner-wrap
+bolasport.com,gridoto.com,kompas.com,kompasiana.com,motorplus-online.com,www.grid.id##.ads-partner-wrap
 tribunnews.com##.ads-placeholder
 tribunnews.com##.ads-placeholder-inside
 tek.id##.ads-popup__inner
@@ -526,6 +520,8 @@ okezone.com##.detads
 thejakartapost.com##.expandable-bottom-sticky
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
+miyanime.site##.fixed-lside
+miyanime.site##.fixed-rside
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah

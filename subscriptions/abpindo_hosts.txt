@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202403050728
+! Version: 202403151358
 # Title: ABPindo (hosts no adult)
 # Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
 # Last modified: %timestamp%
@@ -11,7 +11,7 @@
 # GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
 # GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
 #
-!---------------------- advert blocking filters ----------------------!
+! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ! Confirmed ad servers
 ||188affiliates.com^$third-party
@@ -295,7 +295,6 @@
 ||rajatraffic.com^$third-party
 ||track.aptitudemedia.co^$popup
 ||track.avxid.com^$third-party
-||track.spzan.com^$popup
 ||track.zerofriend.com^$popup,third-party
 ||trackdan.com^$popup
 ||tracker.beritagar.id^$third-party
