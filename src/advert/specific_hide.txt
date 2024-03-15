@@ -33,6 +33,8 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
+filmapik.support###le_header_ads
+filmapik.international###le_header_ads
 miyanime.site##.ads
 miyanime.site##.fixed-rside
 miyanime.site##.fixed-lside
