@@ -33,6 +33,7 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
+kompasiana.com##.ads-partner-wrap
 filmapik.support###le_header_ads
 filmapik.international###le_header_ads
 miyanime.site##.ads
