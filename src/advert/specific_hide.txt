@@ -246,7 +246,6 @@ youtube-mp3.my###sadr
 animeindo.net###sct_banner_top
 cinemaqq.com###sgcboxOverlay
 kazemanga.xyz###sgpb-popup-dialog-main-div-wrapper
-komiku.com###sidebar
 nontonfilm88.com###sidebar-right
 cinemaindo.tv###sidebar_right > .side:nth-of-type(5) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(6) > .textwidget
@@ -288,6 +287,7 @@ bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net
 nontonfilm77.com###wrap > table
 comotin.com##.Widget:nth-of-type(2)
 comotin.com##.Widget:nth-of-type(3)
+komiku.com##.widget_text:has([href^="https://shope.ee/"])
 sundul.com##.\33 .Premium.Sundul
 sundul.com##.\34 .Premium.Sundul
 indoxximovie.com##._ning_link.strack_cli
