@@ -712,6 +712,7 @@ suara.com##.widget-ads-top
 cdramabase.com##.wpa
 jawapos.com##[class$="__disclaimer"]
 dwa21.org##[class*="banner"]
+pojokmanga.org##[class*="popmake"]
 kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
 kompas.tv##[class^=ads-]
