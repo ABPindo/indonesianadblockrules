@@ -86,6 +86,7 @@ awsubs.co,benfile.com,blifnews.com,film21terbaru.org,kabar2.com,mangacanblog.com
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 indoxx1.club###col
+anoboy.baby###coloma
 ayojakarta.com,jawapos.com,pikiran-rakyat.com###cont-megabillboard
 indostreamings.xyz###content > div:nth-of-type(1)
 kompas.com###credential_picker_container
@@ -671,6 +672,7 @@ oploverz.bz,oploverz.top##.sg-popup-content
 15.235.11.45##.sgpb-popup-overlay.sgpb-popup-overlay-19287.sgpb-theme-1-overlay
 kompas.com##.show.ol_promo
 briliobeauty.net##.showcase.placeholder-container
+anoboy.baby##.sidebar
 realitakita.com##.site-sticky-bottom
 ninemanga.com##.sitemaji_banner
 grid.id##.skin_ads
