@@ -744,6 +744,7 @@ westmanga.info##a[href="https://klik.fun/Kp7S5"]
 mypt3.com##a[href][target="_blank"] > img
 samehadaku.cam,samehadaku.day,samehadaku.run##a[href][target="_blank"] > img[src$=".gif"]
 lk21official.co##a[href][target="_blank"][rel="nofollow"] > img[src$=".gif"]
+manhwaindo.id##a[href] > [data-cfsrc^="https://img.manhwaindo.id/id/"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
