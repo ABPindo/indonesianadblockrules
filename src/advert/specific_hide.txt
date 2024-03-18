@@ -663,6 +663,7 @@ uzone.id##.section-ads-mid
 duwitmu.com##.section_sticky_ads_bottom
 semprot.com##.semprotnenenmontok_2
 manganime.in##.separator
+mangaku.bio##.separator > a[imageanchor="1"]
 republika.co.id##.set-ads-468
 komikindo.pro##.setdah
 kazemanga.xyz##.sg-popup-builder-content
@@ -733,6 +734,7 @@ tv.lk21official.world##[href^="https://klik4.me/dunia21"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 lk21official.wiki##[href^="https://yukclick.me/dunia21"]
 suara.com##[id^="berita-terkait-"]
+mangaku.bio##[id^="ftads"]
 tirto.id##[id^="gpt-inline"]
 idfl.me##[id^="yui-gen"].postcontainer
 kompas.com##[src^="https://adsimg.kompas.com"]
