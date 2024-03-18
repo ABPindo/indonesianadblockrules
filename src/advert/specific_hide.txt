@@ -714,6 +714,7 @@ jawapos.com##[class$="__disclaimer"]
 dwa21.org##[class*="banner"]
 kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
+nontonanimeid.org##[class^="adspost"]
 kompas.tv##[class^=ads-]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 mudah.my##[data-testid^="featured-ads"]
@@ -817,6 +818,7 @@ cnnindonesia.com,haibunda.com##.ads-scrollpage-height
 beautynesia.id,cnnindonesia.com,detik.com##.ads-slot
 haibunda.com##.ads_native_d
 detik.com##.banner_inside_article
+nontonanimeid.org##.banner_player
 detik.com##.bb_banner
 detik.com##.billboard-top
 haibunda.com##.billboard__banner
