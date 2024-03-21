@@ -287,6 +287,7 @@ bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net
 nontonfilm77.com###wrap > table
 comotin.com##.Widget:nth-of-type(2)
 comotin.com##.Widget:nth-of-type(3)
+komiku.com##.widget_text:has([href^="https://shope.ee/"])
 sundul.com##.\33 .Premium.Sundul
 sundul.com##.\34 .Premium.Sundul
 indoxximovie.com##._ning_link.strack_cli
@@ -662,6 +663,7 @@ uzone.id##.section-ads-mid
 duwitmu.com##.section_sticky_ads_bottom
 semprot.com##.semprotnenenmontok_2
 manganime.in##.separator
+mangaku.bio##.separator > a[imageanchor="1"]
 republika.co.id##.set-ads-468
 komikindo.pro##.setdah
 kazemanga.xyz##.sg-popup-builder-content
@@ -712,8 +714,10 @@ suara.com##.widget-ads-top
 cdramabase.com##.wpa
 jawapos.com##[class$="__disclaimer"]
 dwa21.org##[class*="banner"]
+pojokmanga.org##[class*="popmake"]
 kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
+nontonanimeid.org##[class^="adspost"]
 kompas.tv##[class^=ads-]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 mudah.my##[data-testid^="featured-ads"]
@@ -732,6 +736,7 @@ tv.lk21official.world##[href^="https://klik4.me/dunia21"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 lk21official.wiki##[href^="https://yukclick.me/dunia21"]
 suara.com##[id^="berita-terkait-"]
+mangaku.bio##[id^="ftads"]
 tirto.id##[id^="gpt-inline"]
 idfl.me##[id^="yui-gen"].postcontainer
 kompas.com##[src^="https://adsimg.kompas.com"]
@@ -817,6 +822,7 @@ cnnindonesia.com,haibunda.com##.ads-scrollpage-height
 beautynesia.id,cnnindonesia.com,detik.com##.ads-slot
 haibunda.com##.ads_native_d
 detik.com##.banner_inside_article
+nontonanimeid.org##.banner_player
 detik.com##.bb_banner
 detik.com##.billboard-top
 haibunda.com##.billboard__banner
