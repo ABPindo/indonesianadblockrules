@@ -33,7 +33,6 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
-komikindo.tv##.gulai_asam_manis
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -544,6 +543,7 @@ jendelakaba.com##.gmr-topbanner
 jendelakaba.com##.gmr-verytopbanner
 realitakita.com##.gpt-ad-inner
 kompas.com##.gramedia__gate
+komikindo.tv##.gulai_asam_manis
 kompas.com##.hAds
 tempo.co##.head-banner
 bioskop90.com##.headborder:nth-of-type(5)
