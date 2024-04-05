@@ -14,7 +14,7 @@ komikcast.*###teaser3
 komikcast.*##.kln
 kuramanime.*##[href^="https://bit.ly/"]
 kuramanime.*##[href^="https://tinyurl.com/"]
-kuramanime.*###flfoot > div
+kuramanime.*##.floating__footer
 layarkaca21.*###fbanner
 layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
