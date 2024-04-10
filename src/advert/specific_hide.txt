@@ -33,6 +33,8 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
+kuramanime.lol##[href^="https://tinyurl.com/"]
+kuramanime.lol##.floating__footer
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
