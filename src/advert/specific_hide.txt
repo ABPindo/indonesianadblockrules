@@ -12,9 +12,9 @@ gudangmovies21.*###sgpb-popup-dialog-main-div-wrapper
 gudangmovies21.*##.sgpb-popup-overlay
 komikcast.*###teaser3
 komikcast.*##.kln
+kuramanime.*##.floating__footer
 kuramanime.*##[href^="https://bit.ly/"]
 kuramanime.*##[href^="https://tinyurl.com/"]
-kuramanime.*##.floating__footer
 layarkaca21.*###fbanner
 layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
@@ -35,8 +35,6 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
-kuramanime.lol##[href^="https://tinyurl.com/"]
-kuramanime.lol##.floating__footer
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -227,7 +225,6 @@ suara.com###pariwara_dua
 eramuslim.com###peluang
 idxx1.top###player-side-left
 idxx1.top,indoxx1.com###player-side-right
-kuramanime.*###playerOverplay
 indoxx1.pw###popup
 cafecinema.cc,dramamu.net,lk21.io###popup_content
 bgibola.com,bgibola.lat###popupklan
@@ -529,6 +526,7 @@ miyanime.site##.fixed-rside
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
+kuramanime.lol##.floating__footer
 okezone.com##.flying_ads
 katadata.co.id##.flying_carpet_div
 bisnis.com,www.tek.id##.flying_carpet_show
@@ -739,6 +737,7 @@ dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 139.99.120.222,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,gudangmovies21.cfd,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.id,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
 tv.lk21official.world##[href^="https://klik4.me/dunia21"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
+kuramanime.lol##[href^="https://tinyurl.com/"]
 lk21official.wiki##[href^="https://yukclick.me/dunia21"]
 suara.com##[id^="berita-terkait-"]
 mangaku.bio##[id^="ftads"]
@@ -806,6 +805,7 @@ info.gambar.pro,info.mapsaddress.com,info.vebma.com##img[width="240"][height="24
 info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
+kuramanime.*###playerOverplay
 satujiwa.org##table
 ! Detik Network
 haibunda.com###balloonads
