@@ -636,6 +636,7 @@ tempo.co##.parallax-box
 medcom.id##.parallax_ads
 suara.com##.parallax_swipe
 bgibola.com##.pc-only.inline-banner
+brilio.net,briliofood.net,briliobeauty.net##.placeholder-container
 suara.com##.placeholder_belt
 suara.com##.placeholder_expose
 suara.com##.placeholder_leaderboard
@@ -674,7 +675,6 @@ oploverz.bz,oploverz.top##.sg-popup-content
 65.108.132.145,oploverz.bz,oploverz.top##.sgpb-popup-overlay
 15.235.11.45##.sgpb-popup-overlay.sgpb-popup-overlay-19287.sgpb-theme-1-overlay
 kompas.com##.show.ol_promo
-briliobeauty.net##.showcase.placeholder-container
 realitakita.com##.site-sticky-bottom
 ninemanga.com##.sitemaji_banner
 grid.id##.skin_ads
@@ -858,7 +858,6 @@ detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
 cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
 cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
 cnnindonesia.com#?#.mr3:-abp-has([id^="div-gpt-ad"])
-briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
 blibli.com#?#.product__card:-abp-has(.product__tag__ads)
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
 kompas.com#?#div:-abp-has( > #gpt-passback)
