@@ -29,7 +29,6 @@
 @@||js.rfp.fout.jp/rfp-infeed.js$script,domain=www.funtasticko.net
 @@||kaze-batch.blogspot.com^$generichide
 @@||klikshowtime.com^$generichide
-@@||komikindo.web.id^$generichide
 @@||komikstation.com^$generichide
 @@||ljutkeunvpn.blogspot.com^$generichide
 @@||majalahikan.com^$generichide
@@ -59,9 +58,8 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=193.142.147.230|ainzscans.net|igobokep.cam|siimanga.cyou
 !#endif
 ! Allowlist for element hiding filters
-gurusd.web.id,kurikulum.co.id#@##adsense
 woof.tube#@#.adsbox
-aktual.id,datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbygoogle
+datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbygoogle
 aplikasipc.com#@#.afs_ads
 qqcinema21.com#@#.headads
 layarlebarxxi.com#@#.idmuvi-afterplayer
