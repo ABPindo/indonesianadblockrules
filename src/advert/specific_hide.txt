@@ -35,6 +35,9 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
+rejogja.co.id##.ads_160x600.ads
+rejogja.co.id##.ads-120__right.ads
+rejogja.co.id##.ads-120__left.ads
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
