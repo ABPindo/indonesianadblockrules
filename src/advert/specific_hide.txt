@@ -35,7 +35,6 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
-gridoto.com###div-Inside-Medium-Rectangle
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -102,6 +101,7 @@ kapanlagi.com,liputan6.com###dfp-bframe-cont
 bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
+gridoto.com###div-Inside-Medium-Rectangle
 bolasport.com,www.parapuan.co,www.sonora.id###div-Inside-MediumRectangle
 blog.tribunjualbeli.com,tribunnews.com###div-Right-MediumRectangle-1
 makassar.tribunnews.com###div-Right-MediumRectangle-3
@@ -812,9 +812,6 @@ doroni.me##ins.adsbygoogle
 kuramanime.*###playerOverplay
 satujiwa.org##table
 ! Detik Network
-detik.com##.staticdetail_ads
-detik.com##.skybanner
-detik.com##.ads-scrollpage-height
 haibunda.com###balloonads
 cnnindonesia.com,detik.com###billboard
 cnbcindonesia.com###billboard_banner
@@ -830,7 +827,7 @@ detik.com###top_banner
 cnnindonesia.com##.ad_billboard
 femaledaily.com##.ads-billboard
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-container
-cnnindonesia.com,haibunda.com##.ads-scrollpage-height
+cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-height
 beautynesia.id,cnnindonesia.com,detik.com##.ads-slot
 haibunda.com##.ads_native_d
 detik.com##.banner_inside_article
@@ -852,6 +849,8 @@ cnnindonesia.com,detik.com,haibunda.com##.parallaxindetail
 detik.com##.sisip_video_ds
 detik.com##.skinad_1
 detik.com##.skinad_2
+detik.com##.skybanner
+detik.com##.staticdetail_ads
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
 ! ABP-specific filters
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
