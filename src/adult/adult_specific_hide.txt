@@ -16,8 +16,6 @@ perawanbokep.*###ads
 ruangbokep.*###floating_bot
 streamingbokeponline.*###floating_bot
 ! Non-entity filters
-javsubid.com##.kln
-javsubid.com##[href^="https://bit.ly/"]
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
 ceritasexindonesia.com###adsic728
@@ -65,7 +63,7 @@ rumahperjaka.live##.elementor-popup-modal
 indoporn.pro##.full-brkas-container
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
-185.217.95.43,hencop.lol,komikdewasa.me,lendirpedia.fun,manhwaindo.cfd,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,skandalpedia.mom,skandalpedia.rest,starjepang.com##.kln
+185.217.95.43,hencop.lol,javsubid.com,komikdewasa.me,lendirpedia.fun,manhwaindo.cfd,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,skandalpedia.mom,skandalpedia.rest,starjepang.com##.kln
 komik18.art##.kln.mlb.blox
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 194.233.73.15,sebokep.com##.lazyloaded.ads-50
@@ -92,7 +90,7 @@ anoboy.ink##[href="https://klik.gg/anoboy"]
 anoboy.ink##[href="https://klik.gg/anoboyvip"]
 manhwadesu.org##[href="https://klik.gg/manhwadesu"]
 xtubecinema.club##[href^="/GoUrl.php?ads="]
-139.99.33.205,pecintabokep.club##[href^="https://bit.ly/"]
+139.99.33.205,javsubid.com,pecintabokep.club##[href^="https://bit.ly/"]
 slurr.my.id##[href^="https://scratchy-trick.com/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]

@@ -1,4 +1,3 @@
-||blogger.googleusercontent.com/*.gif$image,domain=javsubid.com
 .gif$image,domain=komikmanhwa.me
 ||128.199.175.251/looppopup.js
 ||96.43.139.236/banner/$image
@@ -7,6 +6,7 @@
 ||bintangmawar.net/forum/med_banner.php
 ||bintangmawar.net/forum/medright_banner.php
 ||bintangmawar.net/forum/top_banner.php
+||blogger.googleusercontent.com/*.gif$image,domain=javsubid.com
 ||duniasex.ws/banner-
 ||indobokepz.com/images/banner/
 ||krucil.net/banner/
