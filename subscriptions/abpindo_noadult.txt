@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202404171457
+! Version: 202404200017
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 17 Apr 2024 14:57 UTC
+! Last modified: 20 Apr 2024 00:17 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -648,9 +648,7 @@ carisinyal.com##+js(rmnt, script, showModal)
 @@||suarankri.me^$generichide
 @@||tokusatsuindo.com^$generichide
 ! ABP-specific allowlist for network filters
-! #if ext_abp
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=193.142.147.230|ainzscans.net|igobokep.cam|siimanga.cyou
-! #endif
 ! Allowlist for element hiding filters
 woof.tube#@#.adsbox
 datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbygoogle
@@ -1079,6 +1077,7 @@ cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.org###
 cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
 bioskopkeren.beauty,bioskopkeren.bond,bioskopkeren.sbs###headads
 indosiar.com###headerbanner
+destinasiwisatamu.blogspot.com###headlineatas
 jenismac.com###hello
 indoxxi.top,indoxxi.tv###home-bnner-content
 indoxxi.top###home-bnner2-content
