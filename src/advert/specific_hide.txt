@@ -855,6 +855,7 @@ detik.com##.skybanner
 detik.com##.staticdetail_ads
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
 ! ABP-specific filters
+detik.com#?#.staticdetail_container:-abp-has(.staticdetail_ads)
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
 hmetro.com.my#?#.col-lg-3:-abp-has([id^="div-gpt-ad"])
