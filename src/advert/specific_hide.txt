@@ -855,7 +855,6 @@ detik.com##.skybanner
 detik.com##.staticdetail_ads
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
 ! ABP-specific filters
-detik.com#?#.staticdetail_container:-abp-has(.staticdetail_ads)
 detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
 bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
 hmetro.com.my#?#.col-lg-3:-abp-has([id^="div-gpt-ad"])
@@ -868,6 +867,7 @@ cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
 cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
 cnnindonesia.com#?#.mr3:-abp-has([id^="div-gpt-ad"])
 blibli.com#?#.product__card:-abp-has(.product__tag__ads)
+detik.com#?#.staticdetail_container:-abp-has(.staticdetail_ads)
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
 kompas.com#?#div:-abp-has( > #gpt-passback)
 katadata.co.id#?#div:-abp-has( > [id^="div-gpt-ad"][class^="paralax"])
