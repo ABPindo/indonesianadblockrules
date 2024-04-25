@@ -55,6 +55,7 @@
 @@||suarankri.me^$generichide
 @@||tokusatsuindo.com^$generichide
 ! ABP-specific allowlist for network filters
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$from=dapat.link
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=193.142.147.230|ainzscans.net|igobokep.cam|siimanga.cyou
 ! Allowlist for element hiding filters
 woof.tube#@#.adsbox
