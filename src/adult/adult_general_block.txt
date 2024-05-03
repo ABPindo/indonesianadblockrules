@@ -3416,5 +3416,6 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/SaktiSpin-$domain=image
--Banner-Mahjong-$domain=image
+/SaktiSpin-$image
+-Banner-Mahjong-$image
+/areaslots.gif$image
