@@ -9,6 +9,7 @@
 -bandarbet303.$image
 -bandarbetqq-$image
 -bandarkiu.$image
+-Banner-Mahjong-$image
 -banner-togel-$image
 -banner-winstar138.gif|$image
 -bisabet.$image
@@ -198,6 +199,7 @@
 /apibet.$image,third-party
 /apibet.gif|$image
 /areabola.$image,third-party
+/areaslots.gif$image
 /arenajackpot.$image
 /arenaqq.$image
 /armaniqq.$image,third-party
@@ -931,6 +933,7 @@
 /sahabatarena.$image,third-party
 /sahamdomino.$image,third-party
 /sahamqq.$image
+/SaktiSpin-$image
 /santapoker.gif$image
 /saranapoker.$image,third-party
 /saranghoki2.$image,third-party
@@ -3416,6 +3419,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/SaktiSpin-$image
--Banner-Mahjong-$image
-/areaslots.gif$image
