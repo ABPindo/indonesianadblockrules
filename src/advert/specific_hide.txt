@@ -886,3 +886,5 @@ tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span[data-
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com#?#p:-abp-has( > a[href="#downloadnow"])
 tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
+linegee.net###landing, .soractrl:others()
+bilibili.tv##.ip-watermark
