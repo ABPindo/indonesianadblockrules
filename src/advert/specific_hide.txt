@@ -152,7 +152,7 @@ bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,biosk
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_right
 bgibola.com,bgibola.lat,bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net,nontonlk21.live###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-46.149.76.81,cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live,zonafilm.icu###floating_banner_top1
+46.149.76.81,baladfilm.skin,cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live,zonafilm.icu###floating_banner_top1
 bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_banner_tops
 80.209.252.146###floattop
 lk21c.fun###flobwh
@@ -238,6 +238,7 @@ fb21.tv###previewBox1
 fb21.tv,nonton21.tv,nontonserial.com###previewBox2
 dunia21s.fun,fb21.tv,lk21.li,nonton21.tv###previewBox3
 dunia21s.fun,fb21.tv,lk21.li,nonton21.tv,nontonserial.com###previewBox4
+pikiran-rakyat.com###prmn__megabillboard
 185.231.223.76,gomunime.biz###promoContainer
 zonabola.com###rAds
 utusan.com.my###rec_ad4
@@ -307,7 +308,7 @@ terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
 suara.com##.adds-top.add
-192.99.70.18,22cinema.com,95.216.163.177,akurat.co,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,jawapos.com,k-vid.net,kompas.com,miyanime.site,neumanga.tv,otakuindo.net,republika.co.id,samehadaku.cam,samehadaku.day,smallencode.com,topgans.blogspot.com##.ads
+192.99.70.18,22cinema.com,95.216.163.177,akurat.co,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,jawapos.com,k-vid.net,kompas.com,miyanime.site,neumanga.tv,otakuindo.net,pikiran-rakyat.com,republika.co.id,samehadaku.cam,samehadaku.day,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-120__left
 rejogja.co.id##.ads-120__left.ads
 republika.co.id##.ads-120__right
@@ -868,6 +869,7 @@ detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
 cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
 cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
 cnnindonesia.com#?#.mr3:-abp-has([id^="div-gpt-ad"])
+tokopedia.com#?#.product-card:-abp-has(span:-abp-contains(/^Ad$/))
 blibli.com#?#.product__card:-abp-has(.product__tag__ads)
 detik.com#?#.staticdetail_container:-abp-has(.staticdetail_ads)
 tokopedia.com#?#a[data-testid="lnkProductContainer"]:-abp-has(img[alt^="topads"])
@@ -879,6 +881,7 @@ tokopedia.com#?#div[data-ssr="findProductSSR"]:-abp-has(span[data-testid="linkPr
 tokopedia.com#?#div[data-testid="divCarouselProduct"]:-abp-has(span:-abp-contains(/^Ad$/))
 tokopedia.com#?#div[data-testid="divProduct"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
 tokopedia.com#?#div[data-testid="divProductWrapper"]:-abp-has(span[data-testid="divSRPTopadsIcon"])
+tokopedia.com#?#div[data-testid="lazy-frame"]:-abp-has(span:-abp-contains(/^Ad$/))
 tokopedia.com#?#div[data-testid="lazy-frame"]:-abp-has(span[data-testid="lblProdTopads"])
 tokopedia.com#?#div[data-testid="master-product-card"]:-abp-has(span[data-testid^="linkProductTopads"])
 tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span:-abp-contains(/^Ad$/))
