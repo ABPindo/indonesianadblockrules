@@ -181,6 +181,8 @@
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||chidsimp.com^$third-party
+||chitchooms.net^$popup
+||chitchooms.net^$xhr
 ||chqspuonctkgz.com^$popup
 ||craydark.pw^$third-party
 ||d0p21g2fep.com^
@@ -265,10 +267,8 @@
 ||wbaogaqvrukprx.com^$popup
 ||whjibbprhng.com^$popup,third-party
 ||wkuave.com^$third-party
+||xosbkqblniusql.com^$xhr
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^$third-party
 ||zukxd6fkxqn.com^$popup
 ||zuyejecgb.com^$popup
-||chitchooms.net^$popup
-||chitchooms.net^$xhr
-||xosbkqblniusql.com^$xhr
