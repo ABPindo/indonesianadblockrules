@@ -1,4 +1,5 @@
 ! Entity filters
+anichin.*##.kln
 anoboy.*###popup_bawah
 anoboy.*###popup_box
 anoboy.*##[href="https://tinyurl.com/anoboyvip"]
@@ -34,7 +35,6 @@ shinigami.*##.lepopup-popup-container
 shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
-anichin.*##.kln
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
