@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202405182156
+! Version: 202405182202
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 18 May 2024 21:56 UTC
+! Last modified: 18 May 2024 22:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -5252,8 +5252,6 @@ totojitu.gif|$image
 ##[href$="/KaikoSlot" i]
 ##[href$="/LonteQQ" i]
 ##[href$="/PentaSLOT" i]
-##[href$="/PentaSLOT"]
-##[href$="/Pentaslot"]
 ##[href$="/Rusia777"]
 ##[href$="/Saldobet" i]
 ##[href$="/abgcrot" i]
@@ -5817,7 +5815,6 @@ leon.bet#@#[href$="/slots"]
 ##[title^="PRUPOKER" i]
 ##[title^="PURIBET" i]
 ##[title^="PasarOnline" i]
-##[title^="PentaSLOT" i]
 ##[title^="Pentaslot" i]
 ##[title^="Pojokpoker" i]
 ##[title^="Poker Ace" i]
@@ -7737,7 +7734,6 @@ leon.bet#@#[href$="/slots"]
 ##a[href^="https://bisakaya.org"]
 ##a[href^="https://bisnis4d.co"]
 ##a[href^="https://bisnis4d.vip"]
-##a[href^="https://bit.ly/Pentaslot"]
 ##a[href^="https://bit.ly/adsapik"]
 ##a[href^="https://bit.ly/emas188manhwa"]
 ##a[href^="https://bit.ly/go-bacot"]
@@ -8013,6 +8009,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="MPOSport" i]
 ##img[alt="Meta88slot" i]
 ##img[alt="NAGAPOKER" i]
+##img[alt="PENTASLOT" i]
 ##img[alt="REMIPOKER" i]
 ##img[alt="Rajasatu" i]
 ##img[alt="Royalslot" i]
