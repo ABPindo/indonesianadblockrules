@@ -97,6 +97,7 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
+sebokep.com##.ads-50
 ! Allowlist for element hiding filters
 ! Entity filters
 pemersatufun.*#@##adright
