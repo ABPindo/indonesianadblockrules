@@ -513,8 +513,8 @@ inidramaku.net##.cm-popup-modal
 carisinyal.com##.code-block
 windowsreport.com##.code-block-3.code-block
 rasa.my##.code-block-6
-hmetro.com.my##.col-lg-3:has([id^="div-gpt-ad"])
 dream.co.id##.col-banner
+hmetro.com.my##.col-lg-3:has([id^="div-gpt-ad"])
 ganool.is,ganool.ph,ganool.se,ganool.st##.col-xs-12.col-md-6.col-lg-6
 indoxxi.net##.coliklan
 www.parapuan.co##.commSkin__fluid--left.commSkin__fluid
@@ -810,6 +810,8 @@ suara.com##div.placeholder_pariwara
 medcom.id##div.showcase.banner
 medcom.id##div.skycrapper.banner
 cerpen.co.id##div.ui_adblock
+kompas.com##div:has( > #gpt-passback)
+katadata.co.id##div:has( > [id^="div-gpt-ad"][class^="paralax"])
 tokopedia.com##div[data-ssr="findProductSSR"]:has(span[data-testid="lblTopads"])
 tokopedia.com##div[data-ssr="findProductSSR"]:has(span[data-testid="linkProductTopads"])
 tokopedia.com##div[data-testid="CPMWrapper"]
@@ -828,8 +830,6 @@ rasa.my##div[data-ub-carousel]
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
-kompas.com##div:has( > #gpt-passback)
-katadata.co.id##div:has( > [id^="div-gpt-ad"][class^="paralax"])
 bacamanga.id,kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
@@ -843,9 +843,9 @@ info.gambar.pro,info.mapsaddress.com,info.vebma.com##img[width="240"][height="24
 info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
+kuramanime.*###playerOverplay
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 tokopedia.com##section[data-unify="Card"]:has([href^="https://ta.tokopedia.com"]:first-child)
-kuramanime.*###playerOverplay
 satujiwa.org##table
 ! Detik Network
 haibunda.com###balloonads

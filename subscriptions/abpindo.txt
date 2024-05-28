@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202405241257
+! Version: 202405281424
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 24 May 2024 12:57 UTC
+! Last modified: 28 May 2024 14:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1119,6 +1119,7 @@ pkspiyungan.org###largebanner
 mangafap.com###lbanner
 5.182.209.205,filmapik.international,filmapik.kim,filmapik.sbs,filmapik.support,filmapik21.space###le_header_ads
 kabar2.com###leaderboard
+detik.com###leaderboard:has([id^="div-gpt-ad"])
 komikbaru.com###left-skyscraper
 www.lingohut.com###lht2_lesson_after_vocab2_300x250_phone
 www.lingohut.com###lht2_lesson_bottom_300x250_phone
@@ -1382,6 +1383,7 @@ bisnis.com##.billboardLeaderboard.billboard
 bisnis.com##.billboardPushdown
 bisnis.com##.billboardRectangle.billboard
 bisnis.com##.billboardTop.billboard
+bukalapak.com##.bl-product-card-new:has(.bl-product-card-new__ads-badge)
 bharian.com.my##.block-bh-googledfp
 gudangpemain.com##.blocker-notice
 gudangpemain.com##.blocker-overlay
@@ -1432,6 +1434,7 @@ carisinyal.com##.code-block
 windowsreport.com##.code-block-3.code-block
 rasa.my##.code-block-6
 dream.co.id##.col-banner
+hmetro.com.my##.col-lg-3:has([id^="div-gpt-ad"])
 ganool.is,ganool.ph,ganool.se,ganool.st##.col-xs-12.col-md-6.col-lg-6
 indoxxi.net##.coliklan
 www.parapuan.co##.commSkin__fluid--left.commSkin__fluid
@@ -1443,10 +1446,12 @@ bioskop201.biz##.contentlist
 dailysocial.id##.cover-ads-article
 kapanlagi.com##.crm-wrapper
 lensaindonesia.com##.ctnitem.ctncom
+beritasatu.com##.d-flex.w-100:has([id^="div-gpt-ad"])
 tirto.id##.d-sidebar
 teknologi.inilah.com##.d.wp-120x600
 pricebook.co.id##.description-ads
 okezone.com##.detads
+m.bukalapak.com##.dp-card-container:has(.ico_promotion)
 thejakartapost.com##.expandable-bottom-sticky
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
@@ -1529,6 +1534,8 @@ b201.info##.lenyap
 shinigamitoon.com##.lepopup-popup-container
 shinigamitoon.com##.lepopup-popup-overlay
 animasu.cc##.lmd-iklan
+haibunda.com##.m-r1:has([id^="div-gpt-ad"])
+haibunda.com##.m-r2:has([id^="div-gpt-ad"])
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
@@ -1546,6 +1553,10 @@ astroawani.com##.middle-ad-cont
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
+detik.com##.mr1:has(#adv-caption-mr1)
+cnbcindonesia.com,cnnindonesia.com,detik.com##.mr1:has([id^="div-gpt-ad"])
+cnbcindonesia.com,cnnindonesia.com,detik.com##.mr2:has([id^="div-gpt-ad"])
+cnnindonesia.com##.mr3:has([id^="div-gpt-ad"])
 nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
 kompas.com##.native-wrap
@@ -1577,6 +1588,8 @@ suara.com##.placeholder_read_body
 viva.co.id##.portlet.sideskycrapper
 filem456.com##.pps-single-popup
 kompas.com##.premium_div
+tokopedia.com##.product-card:has(span:-abp-contains(/^Ad$/))
+blibli.com##.product__card:has(.product__tag__ads)
 bolasport.com,gridoto.com,kompas.com##.pushdown-banner
 otomania.com##.r-ads
 film-ganool.com##.random
@@ -1621,6 +1634,7 @@ idpelago.com##.sponsor_ads:nth-of-type(1)
 idpelago.com##.sponsor_ads:nth-of-type(2)
 idpelago.com##.sponsor_ads:nth-of-type(4)
 okezone.com##.sponsored-belt468x60
+detik.com##.staticdetail_container:has(.staticdetail_ads)
 bharian.com.my,hmetro.com.my##.stick-leaderboard-wrapper
 kabargames.id##.stickybanner
 dutafilm.observer##.swal-overlay--show-modal.swal-overlay
@@ -1678,6 +1692,7 @@ iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 katadata.co.id##[style="height:0; min-height:180px;"]
 idtube.me,idxx1.top##a.bnner
 semarangkota.com##a.thirstylink
+tokopedia.com##a[data-testid="lnkProductContainer"]:has(img[alt^="topads"])
 kshowid.com##a[href="http://kshowid.com/advertising/"]
 westmanga.info##a[href="https://klik.fun/Kp7S5"]
 mypt3.com##a[href][target="_blank"] > img
@@ -1715,9 +1730,21 @@ suara.com##div.placeholder_pariwara
 medcom.id##div.showcase.banner
 medcom.id##div.skycrapper.banner
 cerpen.co.id##div.ui_adblock
+kompas.com##div:has( > #gpt-passback)
+katadata.co.id##div:has( > [id^="div-gpt-ad"][class^="paralax"])
+tokopedia.com##div[data-ssr="findProductSSR"]:has(span[data-testid="lblTopads"])
+tokopedia.com##div[data-ssr="findProductSSR"]:has(span[data-testid="linkProductTopads"])
 tokopedia.com##div[data-testid="CPMWrapper"]
+tokopedia.com##div[data-testid="divCarouselProduct"]:has(span:-abp-contains(/^Ad$/))
+tokopedia.com##div[data-testid="divProduct"]:has(span[data-testid="icnHomeTopadsRecom"])
+tokopedia.com##div[data-testid="divProductWrapper"]:has(span[data-testid="divSRPTopadsIcon"])
 tokopedia.com##div[data-testid="featuredShopCntr"]
+tokopedia.com##div[data-testid="lazy-frame"]:has(span:-abp-contains(/^Ad$/))
+tokopedia.com##div[data-testid="lazy-frame"]:has(span[data-testid="lblProdTopads"])
+tokopedia.com##div[data-testid="master-product-card"]:has(span[data-testid^="linkProductTopads"])
 tokopedia.com##div[data-testid="topadsCPMWrapper"]
+tokopedia.com##div[data-testid^="divProductRecommendation"]:has(span:-abp-contains(/^Ad$/))
+tokopedia.com##div[data-testid^="divProductRecommendation"]:has(span[data-testid="icnHomeTopadsRecom"])
 rasa.my##div[data-ub-carousel]
 139.99.61.225##div[id^="floating_banner_bottom"]
 ns21.tv,ns21.us##div[id^="previewBox"]
@@ -1737,6 +1764,8 @@ info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 kuramanime.*###playerOverplay
+cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
+tokopedia.com##section[data-unify="Card"]:has([href^="https://ta.tokopedia.com"]:first-child)
 satujiwa.org##table
 ! Detik Network
 haibunda.com###balloonads
@@ -1781,36 +1810,7 @@ detik.com##.skybanner
 detik.com##.staticdetail_ads
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
 ! ABP-specific filters
-detik.com#?##leaderboard:-abp-has([id^="div-gpt-ad"])
-bukalapak.com#?#.bl-product-card-new:-abp-has(.bl-product-card-new__ads-badge)
-hmetro.com.my#?#.col-lg-3:-abp-has([id^="div-gpt-ad"])
-beritasatu.com#?#.d-flex.w-100:-abp-has([id^="div-gpt-ad"])
-m.bukalapak.com#?#.dp-card-container:-abp-has(.ico_promotion)
-haibunda.com#?#.m-r1:-abp-has([id^="div-gpt-ad"])
-haibunda.com#?#.m-r2:-abp-has([id^="div-gpt-ad"])
-detik.com#?#.mr1:-abp-has(#adv-caption-mr1)
-cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr1:-abp-has([id^="div-gpt-ad"])
-cnbcindonesia.com,cnnindonesia.com,detik.com#?#.mr2:-abp-has([id^="div-gpt-ad"])
-cnnindonesia.com#?#.mr3:-abp-has([id^="div-gpt-ad"])
-tokopedia.com#?#.product-card:-abp-has(span:-abp-contains(/^Ad$/))
-blibli.com#?#.product__card:-abp-has(.product__tag__ads)
-detik.com#?#.staticdetail_container:-abp-has(.staticdetail_ads)
-tokopedia.com#?#a[data-testid="lnkProductContainer"]:-abp-has(img[alt^="topads"])
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
-kompas.com#?#div:-abp-has( > #gpt-passback)
-katadata.co.id#?#div:-abp-has( > [id^="div-gpt-ad"][class^="paralax"])
-tokopedia.com#?#div[data-ssr="findProductSSR"]:-abp-has(span[data-testid="lblTopads"])
-tokopedia.com#?#div[data-ssr="findProductSSR"]:-abp-has(span[data-testid="linkProductTopads"])
-tokopedia.com#?#div[data-testid="divCarouselProduct"]:-abp-has(span:-abp-contains(/^Ad$/))
-tokopedia.com#?#div[data-testid="divProduct"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
-tokopedia.com#?#div[data-testid="divProductWrapper"]:-abp-has(span[data-testid="divSRPTopadsIcon"])
-tokopedia.com#?#div[data-testid="lazy-frame"]:-abp-has(span:-abp-contains(/^Ad$/))
-tokopedia.com#?#div[data-testid="lazy-frame"]:-abp-has(span[data-testid="lblProdTopads"])
-tokopedia.com#?#div[data-testid="master-product-card"]:-abp-has(span[data-testid^="linkProductTopads"])
-tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span:-abp-contains(/^Ad$/))
-tokopedia.com#?#div[data-testid^="divProductRecommendation"]:-abp-has(span[data-testid="icnHomeTopadsRecom"])
-cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com#?#p:-abp-has( > a[href="#downloadnow"])
-tokopedia.com#?#section[data-unify="Card"]:-abp-has([href^="https://ta.tokopedia.com"]:first-child)
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 ! --------------------------- adult ------------------------------!
 ! *** abpindo:src/adult/adult_general_block.txt ***
