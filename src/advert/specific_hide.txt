@@ -4,6 +4,9 @@ anoboy.*###popup_bawah
 anoboy.*###popup_box
 anoboy.*##[href="https://tinyurl.com/anoboyvip"]
 anoboy.*##[href^="https://bit.ly/"]
+baladfilm.*###floating_banner_top1
+baladfilm.*##.inner-floatbanner-bottom
+baladfilm.*##[href^="https://bit.ly/"]
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
@@ -36,9 +39,6 @@ shinigami.*##.lepopup-popup-container
 shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
-baladfilm.*###floating_banner_top1
-baladfilm.*##.inner-floatbanner-bottom
-baladfilm.*##[href^="https://bit.ly/"]
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728

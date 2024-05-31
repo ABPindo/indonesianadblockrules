@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202405281424
+! Version: 202405311358
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 28 May 2024 14:24 UTC
+! Last modified: 31 May 2024 13:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -577,6 +577,7 @@ iklan300x250.gif|
 ! Miscellanous popups
 *$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 ! Miscellanous advertisement gifs
+.gif$domain=image,baladfilm.skin
 .gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|baladfilm.skin|bgibola.com|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|mangakita.id|movieajip.online|nontondrama.*|oploverz.*|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd|rbtv77.com|samehadaku.*|samehadaku.show
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 doroni.me##+js(acs, getComputedStyle, , cpm)
@@ -924,6 +925,9 @@ anoboy.*###popup_bawah
 anoboy.*###popup_box
 anoboy.*##[href="https://tinyurl.com/anoboyvip"]
 anoboy.*##[href^="https://bit.ly/"]
+baladfilm.*###floating_banner_top1
+baladfilm.*##.inner-floatbanner-bottom
+baladfilm.*##[href^="https://bit.ly/"]
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
@@ -8945,6 +8949,7 @@ anoboy.*###popup_bawah
 anoboy.*###popup_box
 anoboy.*##[href="https://klik.gg/anoboy"]
 anoboy.*##[href="https://klik.gg/anoboyvip"]
+drbokep.*##.loaded.ads-50
 dutasex.*###ads
 komikdewasa.*###teaser3
 komikdewasa.*##.kln
@@ -9005,7 +9010,7 @@ rumahperjaka.live##.elementor-popup-modal
 indoporn.pro##.full-brkas-container
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
-185.217.95.43,hencop.lol,javsubid.com,komikdewasa.me,lendirpedia.fun,manhwaindo.cfd,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,skandalpedia.mom,skandalpedia.rest,starjepang.com##.kln
+185.217.95.43,hencop.lol,javsubid.com,komikdewasa.me,lendirpedia.fun,lendirpedia.icu,manhwaindo.cfd,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,skandalpedia.mom,skandalpedia.rest,starjepang.com##.kln
 komik18.art##.kln.mlb.blox
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 194.233.73.15,sebokep.com##.lazyloaded.ads-50
