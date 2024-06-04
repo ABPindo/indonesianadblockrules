@@ -52,7 +52,7 @@ mangacanblog.com###aa
 motorplus-online.com###ad-genie-container
 suara.com###adds-top
 mirrorkomik.net###adrandpop
-budiarto.id,cinemaindo.web.id,filmapik.tv###ads
+budiarto.id,cinemaindo.web.id,filmapik.tv,idxchannel.com###ads
 dapurpacu.com###ads-728
 dapurpacu.com###ads-960-mid
 harianjogja.com,solopos.com###ads-float
@@ -481,6 +481,8 @@ anime17.net,cosmogirl.co.id##.bnr
 bioskop99.me##.bot.ads
 harianjogja.com,solopos.com##.bottom-fix
 kabar24.com##.bottom-frame-banner-close-btn
+idxchannel.com##.bottom-iklan
+idxchannel.com##.bottom-iklan-detail
 kabar24.com##.bottom-leaderboard-cont
 grid.id##.bottom_banner-wrapper.relative
 gopego.com##.box
