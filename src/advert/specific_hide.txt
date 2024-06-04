@@ -40,7 +40,6 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 ! Non-entity filters
-belitung.tribunnews.com##.reserved_box_ads
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -684,6 +683,7 @@ indoxxi.top##.reklam-goster-sol
 grid.id##.relative.below_photo
 grid.id##.relative.skycrapper
 grid.id##.relative.w-full
+belitung.tribunnews.com##.reserved_box_ads
 unixmen.com##.reveal-modal-bg
 dwanonton.com##.right.banner-vertical
 investor.id##.row > .show-desktop > div
