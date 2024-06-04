@@ -450,6 +450,7 @@ nontonme.com##.bannermovie
 modifikasi.com##.bannerpos
 nontonme.com##.banners
 nontonmovie.web.id,videocrot.org##.bannersinglefot
+okezone.com##.bannertopcenter
 elde.tv##.bannerwrap
 budiarto.id##.bausastra-ads
 tribunnews.com##.belanja-picks
@@ -485,6 +486,7 @@ gopego.com##.box
 uzone.id##.box-ads-300x250
 uzone.id##.box-ads-billboard
 uzone.id##.box-ads-billboard-mobile
+okezone.com##.box-ads-konten
 liputan6.com##.box-ads-right
 eka.web.id##.box-banner
 kompas.com##.boxBanner1
