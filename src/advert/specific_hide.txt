@@ -58,6 +58,7 @@ dapurpacu.com###ads-960-mid
 harianjogja.com,solopos.com###ads-float
 dapurpacu.com###ads-mid
 downloadfilmbaru.com###ads-stack
+inews.id###ads_megabillboard
 kontan.co.id###adsoutsream
 unixmen.com###an-Modal
 suara.com,tribunnews.com###anchorads
@@ -230,6 +231,7 @@ viva.co.id###otp_ads
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
 15.235.11.45,65.108.132.145,oploverz.best,oploverz.bz,oploverz.info,oploverz.love,oploverz.top###overplay
+inews.id###parallax-ad
 suara.com###pariwara_dua
 eramuslim.com###peluang
 idxx1.top###player-side-left
@@ -686,6 +688,7 @@ grid.id##.relative.w-full
 unixmen.com##.reveal-modal-bg
 dwanonton.com##.right.banner-vertical
 investor.id##.row > .show-desktop > div
+inews.id##.rowx
 senimovie.info##.rsABlock
 uzone.id##.section-ads-mid
 duwitmu.com##.section_sticky_ads_bottom
