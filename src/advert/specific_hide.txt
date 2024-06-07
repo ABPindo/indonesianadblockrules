@@ -338,7 +338,7 @@ okezone.com##.ads-mega-box
 grid.id##.ads-mr
 bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
-bolasport.com,gridoto.com,kompas.com,kompasiana.com,kontan.co.id,motorplus-online.com,grid.id##.ads-partner-wrap
+bolasport.com,grid.id,gridoto.com,kompas.com,kompasiana.com,kontan.co.id,motorplus-online.com##.ads-partner-wrap
 tribunnews.com##.ads-placeholder
 tribunnews.com##.ads-placeholder-inside
 tek.id##.ads-popup__inner

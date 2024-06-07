@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202406040413
+! Version: 202406071400
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 04 Jun 2024 04:13 UTC
+! Last modified: 07 Jun 2024 14:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -549,6 +549,7 @@ iklan300x250.gif|
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
 ||serunonton.*/wp-content/uploads/*.gif$image
+||shinigamitoon.id/wp-content/plugins/halfdata-green-popups/js/lepopup.js$script,~third-party
 ||snacklink.id/js/web-script.js$script,third-party
 ||sobatkeren.club/img/banner/*.gif$image
 ||solopos.com/banner/
@@ -577,8 +578,7 @@ iklan300x250.gif|
 ! Miscellanous popups
 *$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 ! Miscellanous advertisement gifs
-.gif$domain=image,baladfilm.skin
-.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|baladfilm.skin|bgibola.com|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|mangakita.id|movieajip.online|nontondrama.*|oploverz.*|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd|rbtv77.com|samehadaku.*|samehadaku.show
+.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|baladfilm.*|baladfilm.guru|baladfilm.skin|bgibola.com|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|mangakita.id|movieajip.online|nontondrama.*|oploverz.*|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd|rbtv77.com|samehadaku.*|samehadaku.show
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.mapsaddress.com,info.vebma.com##+js(aeld, click, linkOpened)
@@ -591,6 +591,8 @@ netq.me##+js(no-fetch-if, clarity.ms)
 netq.me##+js(nostif, console)
 anichin.top,kimcilonly.site,kiryuu.id,subindojav.cc##+js(nowoif)
 okezone.com##+js(rc, content-wrap)
+inews.id##+js(rc, content-wrap|wrap-all)
+sindonews.com##+js(rc, t480)
 tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
 almaftuchin.com##+js(rmnt, script, adblock)
 wisatalova.com##+js(rmnt, script, hargamenu)
