@@ -118,6 +118,7 @@
 /128cash.$image,third-party
 /12naga.gif|$image
 /188bet.$image,third-party
+/1cbet-banners/*$image
 /1Poker-$image
 /1xbet.$image
 /1xbet250.gif|$image
@@ -3423,4 +3424,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/1cbet-banners/*$image

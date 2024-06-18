@@ -23,7 +23,6 @@
 ||adslop.com^$third-party
 ||adstarsmedia.co.id^$third-party
 ||adtimeselaras.com^$third-party
-||advertica-cdn2.com^$third-party
 ||alertpay.com^$third-party
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
@@ -36,13 +35,11 @@
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
 ||clickmedia.co.id^$third-party
-||clicks.pipaffiliates.com^$popup
 ||compulsivehemisphere.com^$popup
 ||csf.uzone.id^
 ||d01.notifa.info^
 ||dewsburg.info^$third-party
 ||digiads.co.id^$third-party
-||eclkmpsa.com^$third-party
 ||ena-native-ads4.com^$third-party
 ||etoads.net^$third-party
 ||filebanner.com^$third-party
@@ -154,7 +151,6 @@
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
-||yx-ads6.com^$third-party
 ! Potential ad servers
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||1b969cef84d93b43.com^
@@ -169,7 +165,6 @@
 ||abrts.pro^$popup,third-party
 ||adeumssp.com^
 ||afbcashidr.com^$popup,third-party
-||afdashrafi.com^
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
 ||aopxnvrugx.com^$popup
@@ -207,10 +202,8 @@
 ||gbrrrxbodqdlq.com^$popup
 ||ghaahq.com^$third-party
 ||hegarberetrof.pro^$popup
-||highwaycpmrevenue.com^$popup
 ||hoegutvie.com^$popup
 ||ihqfiimrbcf.com^$popup
-||isortflorent.com^
 ||iupqelechcmj.com^$popup,third-party
 ||iwtserve.com^$popup
 ||jillsclickcorner.com^$third-party

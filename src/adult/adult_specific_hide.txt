@@ -1,7 +1,5 @@
 ! Entity filters
 agenbokep.*##.popbox
-anoboy.*###popup_bawah
-anoboy.*###popup_box
 anoboy.*##[href="https://klik.gg/anoboy"]
 anoboy.*##[href="https://klik.gg/anoboyvip"]
 drbokep.*##.loaded.ads-50
@@ -17,8 +15,6 @@ perawanbokep.*###ads
 ruangbokep.*###floating_bot
 streamingbokeponline.*###floating_bot
 ! Non-entity filters
-realthaisluts.com##.video-list-ads
-pinayflex.net##.floating-banner
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
 ceritasexindonesia.com###adsic728
@@ -29,7 +25,6 @@ bintangmawar.net###bmpop_adpB
 103.194.170.153,xtubecinema.club,xtubecinema.top###btm_bannerMobile
 164.68.105.199,bokepid.wiki###fixedban
 unyil.net###float-atas
-sangetods.net###floatads
 rumahperjaka.live###floatbannerkanan
 rumahperjaka.live###floating_banner_top
 149.102.130.200,154.12.229.9,161.97.116.33,173.212.245.75,185.182.187.38,194.163.158.12,45.67.231.215,75.119.147.12,81.0.220.98,89.117.61.35###floating_banner_top1
@@ -60,11 +55,13 @@ mediahiburan.my##.adplaceholder-mrec
 komikindo.info##.ads
 sebokep.com##.ads-50
 javsubid.com##.ads-jav
+realthaisluts.com##.ads-video-zone
 lkprd.fun##.adshu
 154.26.132.73,194.233.87.224,bokepmobile.fun##.banner-img
 68.65.123.84,avtub.io,avtub.sx,simontok.cx,simontok.ink##.blocker.jquery-modal
 bokepkita.pro##.btm_ban
 rumahperjaka.live##.elementor-popup-modal
+pinayflex.net##.floating-banner
 indoporn.pro##.full-brkas-container
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
@@ -86,6 +83,7 @@ sebokep.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
 sebokep.com##.sgpb-popup-overlay
 nomat.fun##.show.popup
 207.244.225.48##.underlay
+realthaisluts.com##.video-list-ads
 komikdewasa.art##.wp-image-80765.size-full.alignnone
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 bokepid.wiki##[class^="xnxx5-"]

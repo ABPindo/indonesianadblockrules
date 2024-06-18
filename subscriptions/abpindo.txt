@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202406071400
+! Version: 202406180134
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 07 Jun 2024 14:00 UTC
+! Last modified: 18 Jun 2024 01:34 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -38,7 +38,6 @@
 ||adslop.com^$third-party
 ||adstarsmedia.co.id^$third-party
 ||adtimeselaras.com^$third-party
-||advertica-cdn2.com^$third-party
 ||alertpay.com^$third-party
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
@@ -51,13 +50,11 @@
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
 ||clickmedia.co.id^$third-party
-||clicks.pipaffiliates.com^$popup
 ||compulsivehemisphere.com^$popup
 ||csf.uzone.id^
 ||d01.notifa.info^
 ||dewsburg.info^$third-party
 ||digiads.co.id^$third-party
-||eclkmpsa.com^$third-party
 ||ena-native-ads4.com^$third-party
 ||etoads.net^$third-party
 ||filebanner.com^$third-party
@@ -169,7 +166,6 @@
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
-||yx-ads6.com^$third-party
 ! Potential ad servers
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||1b969cef84d93b43.com^
@@ -184,7 +180,6 @@
 ||abrts.pro^$popup,third-party
 ||adeumssp.com^
 ||afbcashidr.com^$popup,third-party
-||afdashrafi.com^
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
 ||aopxnvrugx.com^$popup
@@ -222,10 +217,8 @@
 ||gbrrrxbodqdlq.com^$popup
 ||ghaahq.com^$third-party
 ||hegarberetrof.pro^$popup
-||highwaycpmrevenue.com^$popup
 ||hoegutvie.com^$popup
 ||ihqfiimrbcf.com^$popup
-||isortflorent.com^
 ||iupqelechcmj.com^$popup,third-party
 ||iwtserve.com^$popup
 ||jillsclickcorner.com^$third-party
@@ -421,7 +414,6 @@ iklan300x250.gif|
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
 ||galaxyxxi.*/wp-content/uploads/*.gif$image
-||gambar123.com/xf/trump/
 ||ganool.city/iklan/$image
 ||ganool.link/wp-content/uploads/*.gif$image
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
@@ -606,16 +598,12 @@ carisinyal.com##+js(rmnt, script, showModal)
 @@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
 @@||adturl.com^$generichide
 @@||advertising-indonesia.id^$~third-party
-@@||ainodorama.web.id^$generichide
 @@||apkmod.id^$generichide
-@@||asiancine.com^$generichide
 @@||autoride.pw^$generichide
 @@||bagilagi.com^$generichide
 @@||biargreget.top^$generichide
 @@||digitalponsel.com^$elemhide
 @@||directedlink.net^$generichide
-@@||doroni.me^$generichide
-@@||doroni.me^$script,~third-party
 @@||dramaencode.com^$generichide
 @@||dukun-cit.com^$generichide
 @@||egao.in^$generichide
@@ -629,36 +617,27 @@ carisinyal.com##+js(rmnt, script, showModal)
 @@||js.rfp.fout.jp/rfp-display.js$script,domain=www.funtasticko.net
 @@||js.rfp.fout.jp/rfp-infeed.js$script,domain=www.funtasticko.net
 @@||kaze-batch.blogspot.com^$generichide
-@@||klikshowtime.com^$generichide
-@@||komikstation.com^$generichide
 @@||ljutkeunvpn.blogspot.com^$generichide
 @@||majalahikan.com^$generichide
 @@||mangacanblog.com^$generichide
 @@||mivo.com^$generichide
 @@||nama.web.id^$generichide
-@@||nanonime.com^$generichide
 @@||nekopoi.care/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.cash/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||nekopoi.lol/wp-content/themes/ThemeNekopoi/js/adsbygoogle.js$script,~third-party
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
-@@||otakuindo.net^$generichide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||razorlink.us^$generichide
 @@||rbreezy.xyz/nativeads-v2.js$script,~third-party
 @@||riauonline.co.id^$generichide
-@@||ryuukoi.web.id^$generichide
 @@||sanjayaops.com^$generichide
-@@||sdrama.com^$generichide
-@@||shirainime.com^$generichide
 @@||shirosafe.web.id^$generichide
 @@||suarankri.me^$generichide
 @@||tokusatsuindo.com^$generichide
 @@||xmalay.net/nativeads-v2.js$script,~third-party
 ! ABP-specific allowlist for network filters
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dapat.link
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=193.142.147.230|ainzscans.net|igobokep.cam|siimanga.cyou
 ! Allowlist for element hiding filters
 woof.tube#@#.adsbox
 datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbygoogle
@@ -904,7 +883,6 @@ totolink.id#@#.social-circle
 ##.subiklan
 ##.text-center.adv
 ##.topadsense
-##.under-player-ad
 ##.wrapper-ads
 ##[class="widget-ads1"]
 ##[class="widget-ads2"]
@@ -1217,7 +1195,6 @@ kapanlagi.com,otosia.com###v5-showcase2
 kapanlagi.com###v5-showcase3
 kapanlagi.com###v8-leaderboard
 indotelko.com###vertical_top_kanal
-torjack.net###videoOverAd
 animeindo.net###videoad1
 bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
@@ -1262,8 +1239,6 @@ grid.id##.ads-mr
 bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
 bolasport.com,grid.id,gridoto.com,kompas.com,kompasiana.com,kontan.co.id,motorplus-online.com##.ads-partner-wrap
-tribunnews.com##.ads-placeholder
-tribunnews.com##.ads-placeholder-inside
 tek.id##.ads-popup__inner
 www.inibaru.id##.ads-sticky-left
 www.inibaru.id##.ads-sticky-right
@@ -1271,7 +1246,6 @@ terasjakarta.id##.ads.single_post_content
 dapurpacu.com##.ads2-home
 drakorasia.us##.ads728-slot-panjang
 kompas.com##.adsMR1Lipsus1
-bisnis.com##.adsPushdown
 republika.co.id##.ads_160x600
 rejogja.co.id##.ads_160x600.ads
 republika.co.id##.ads_970x250
@@ -1294,7 +1268,6 @@ duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
 grid.id##.ads_wrapper
 apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
-107.152.37.223##.adscenter
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
 ganol.si##.adsincenter
@@ -1311,12 +1284,12 @@ indoxtream.com##.aligncenter
 palingseru.com##.alignnone.size-large.wp-image-458
 terasjakarta.id##.animated.ads
 autonetmagz.com##.anm__flying--ads-holder
+jpnn.com##.ans-300x250
 kurazone.net##.anuads
 lk21.host##.appup
 hellosehat.com##.article-bottom-ad
 hellosehat.com##.article-desktop-ad
 myasiantv.se##.av-content-full
-webdesign.tutsplus.com##.avert
 22cinema.com##.ayu-headads
 139.99.120.222,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 animebatchs.com,goblintvfree.com,juragan-anime.net,merdeka.com,nanime.in##.banner
@@ -1435,7 +1408,6 @@ dramaqu.net##.cfmonitor
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
-grid.id##.clearfix.ads__horizontal
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 bolasport.com##.cls-composite
@@ -1796,7 +1768,6 @@ haibunda.com###parallaxdetail
 detik.com###skinad
 detik.com###sto_banner
 detik.com###top_banner
-cnnindonesia.com##.ad_billboard
 femaledaily.com##.ads-billboard
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-container
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-height
@@ -1950,6 +1921,7 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /128cash.$image,third-party
 /12naga.gif|$image
 /188bet.$image,third-party
+/1cbet-banners/*$image
 /1Poker-$image
 /1xbet.$image
 /1xbet250.gif|$image
@@ -5397,7 +5369,6 @@ leon.bet#@#[href$="/slots"]
 ##[href$="ref=bokepmania"]
 ##[href="http://51.79.155.108/hokibet99/"]
 ##[href="http://bogil.vip/"]
-##[href="http://gbos.vip/"]
 ##[href="http://probet188.xyz/"]
 ##[href="https://172.104.39.221/slots/pragmatic"]
 ##[href="https://apiservices.shop/apFmUK"]
@@ -5421,6 +5392,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="http://vegs88.xyz/"]
 ##[href^="http://vn.adnetworks.top/"]
 ##[href^="http://www.eraplay88vip.asia/"]
+##[href^="https://1cbet.com/"]
 ##[href^="https://388hero178.com"]
 ##[href^="https://akslot.io/"]
 ##[href^="https://betkk2.com/"]
@@ -8030,6 +8002,7 @@ leon.bet#@#[href$="/slots"]
 ##a[href^="https://www.vimaxasli."]
 ##a[href^="https://zetapoker99.com"]
 ##a[href^="https://zeuspkv.com"]
+##img[alt="1cbet i"]
 ##img[alt="ASIA77" i]
 ##img[alt="BETKK" i]
 ##img[alt="DEWACASH" i]
@@ -8959,8 +8932,6 @@ leon.bet#@#[href$="/slots"]
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
 ! Entity filters
 agenbokep.*##.popbox
-anoboy.*###popup_bawah
-anoboy.*###popup_box
 anoboy.*##[href="https://klik.gg/anoboy"]
 anoboy.*##[href="https://klik.gg/anoboyvip"]
 drbokep.*##.loaded.ads-50
@@ -8986,7 +8957,6 @@ bintangmawar.net###bmpop_adpB
 103.194.170.153,xtubecinema.club,xtubecinema.top###btm_bannerMobile
 164.68.105.199,bokepid.wiki###fixedban
 unyil.net###float-atas
-sangetods.net###floatads
 rumahperjaka.live###floatbannerkanan
 rumahperjaka.live###floating_banner_top
 149.102.130.200,154.12.229.9,161.97.116.33,173.212.245.75,185.182.187.38,194.163.158.12,45.67.231.215,75.119.147.12,81.0.220.98,89.117.61.35###floating_banner_top1
@@ -9017,11 +8987,13 @@ mediahiburan.my##.adplaceholder-mrec
 komikindo.info##.ads
 sebokep.com##.ads-50
 javsubid.com##.ads-jav
+realthaisluts.com##.ads-video-zone
 lkprd.fun##.adshu
 154.26.132.73,194.233.87.224,bokepmobile.fun##.banner-img
 68.65.123.84,avtub.io,avtub.sx,simontok.cx,simontok.ink##.blocker.jquery-modal
 bokepkita.pro##.btm_ban
 rumahperjaka.live##.elementor-popup-modal
+pinayflex.net##.floating-banner
 indoporn.pro##.full-brkas-container
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
@@ -9043,6 +9015,7 @@ sebokep.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
 sebokep.com##.sgpb-popup-overlay
 nomat.fun##.show.popup
 207.244.225.48##.underlay
+realthaisluts.com##.video-list-ads
 komikdewasa.art##.wp-image-80765.size-full.alignnone
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 bokepid.wiki##[class^="xnxx5-"]

@@ -41,7 +41,6 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
-jpnn.com##.ans-300x250
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -295,7 +294,6 @@ kapanlagi.com,otosia.com###v5-showcase2
 kapanlagi.com###v5-showcase3
 kapanlagi.com###v8-leaderboard
 indotelko.com###vertical_top_kanal
-torjack.net###videoOverAd
 animeindo.net###videoad1
 bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
@@ -340,8 +338,6 @@ grid.id##.ads-mr
 bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
 bolasport.com,grid.id,gridoto.com,kompas.com,kompasiana.com,kontan.co.id,motorplus-online.com##.ads-partner-wrap
-tribunnews.com##.ads-placeholder
-tribunnews.com##.ads-placeholder-inside
 tek.id##.ads-popup__inner
 www.inibaru.id##.ads-sticky-left
 www.inibaru.id##.ads-sticky-right
@@ -349,7 +345,6 @@ terasjakarta.id##.ads.single_post_content
 dapurpacu.com##.ads2-home
 drakorasia.us##.ads728-slot-panjang
 kompas.com##.adsMR1Lipsus1
-bisnis.com##.adsPushdown
 republika.co.id##.ads_160x600
 rejogja.co.id##.ads_160x600.ads
 republika.co.id##.ads_970x250
@@ -372,7 +367,6 @@ duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
 grid.id##.ads_wrapper
 apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
-107.152.37.223##.adscenter
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
 ganol.si##.adsincenter
@@ -389,12 +383,12 @@ indoxtream.com##.aligncenter
 palingseru.com##.alignnone.size-large.wp-image-458
 terasjakarta.id##.animated.ads
 autonetmagz.com##.anm__flying--ads-holder
+jpnn.com##.ans-300x250
 kurazone.net##.anuads
 lk21.host##.appup
 hellosehat.com##.article-bottom-ad
 hellosehat.com##.article-desktop-ad
 myasiantv.se##.av-content-full
-webdesign.tutsplus.com##.avert
 22cinema.com##.ayu-headads
 139.99.120.222,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
 animebatchs.com,goblintvfree.com,juragan-anime.net,merdeka.com,nanime.in##.banner
@@ -513,7 +507,6 @@ dramaqu.net##.cfmonitor
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
-grid.id##.clearfix.ads__horizontal
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 bolasport.com##.cls-composite
@@ -874,7 +867,6 @@ haibunda.com###parallaxdetail
 detik.com###skinad
 detik.com###sto_banner
 detik.com###top_banner
-cnnindonesia.com##.ad_billboard
 femaledaily.com##.ads-billboard
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-container
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-height
