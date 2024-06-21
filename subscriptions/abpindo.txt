@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202406180134
+! Version: 202406211338
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 18 Jun 2024 01:34 UTC
+! Last modified: 21 Jun 2024 13:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1292,7 +1292,7 @@ hellosehat.com##.article-desktop-ad
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 139.99.120.222,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
-animebatchs.com,goblintvfree.com,juragan-anime.net,merdeka.com,nanime.in##.banner
+animebatchs.com,goblintvfree.com,juragan-anime.net,kapanlagi.com,merdeka.com,nanime.in##.banner
 kompasiana.com##.banner-center
 dewanonton.vip,dwanonton.com##.banner-common
 www.kompasiana.com##.banner-dable.banner
@@ -1314,6 +1314,7 @@ dream.co.id##.banner-sc
 dream.co.id##.banner-sc2
 www.sonora.id##.banner-skin--left
 www.sonora.id##.banner-skin--right
+kapanlagi.com##.banner-title
 modifikasi.com##.banner-top
 oktavita.com##.banner-zone
 juragan-anime.net##.banner3
@@ -1382,6 +1383,7 @@ idxchannel.com##.bottom-iklan-detail
 kabar24.com##.bottom-leaderboard-cont
 grid.id##.bottom_banner-wrapper.relative
 gopego.com##.box
+kapanlagi.com##.box--banner
 uzone.id##.box-ads-300x250
 uzone.id##.box-ads-billboard
 uzone.id##.box-ads-billboard-mobile

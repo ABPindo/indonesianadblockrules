@@ -41,9 +41,6 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
-kapanlagi.com##.banner-title
-kapanlagi.com##.box--banner
-kapanlagi.com##.banner
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -394,7 +391,7 @@ hellosehat.com##.article-desktop-ad
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 139.99.120.222,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
-animebatchs.com,goblintvfree.com,juragan-anime.net,merdeka.com,nanime.in##.banner
+animebatchs.com,goblintvfree.com,juragan-anime.net,kapanlagi.com,merdeka.com,nanime.in##.banner
 kompasiana.com##.banner-center
 dewanonton.vip,dwanonton.com##.banner-common
 www.kompasiana.com##.banner-dable.banner
@@ -416,6 +413,7 @@ dream.co.id##.banner-sc
 dream.co.id##.banner-sc2
 www.sonora.id##.banner-skin--left
 www.sonora.id##.banner-skin--right
+kapanlagi.com##.banner-title
 modifikasi.com##.banner-top
 oktavita.com##.banner-zone
 juragan-anime.net##.banner3
@@ -484,6 +482,7 @@ idxchannel.com##.bottom-iklan-detail
 kabar24.com##.bottom-leaderboard-cont
 grid.id##.bottom_banner-wrapper.relative
 gopego.com##.box
+kapanlagi.com##.box--banner
 uzone.id##.box-ads-300x250
 uzone.id##.box-ads-billboard
 uzone.id##.box-ads-billboard-mobile
