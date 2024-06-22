@@ -41,6 +41,7 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+masagipedia.com##.ads
 rbtv77.com##.czlll-rlselse
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
