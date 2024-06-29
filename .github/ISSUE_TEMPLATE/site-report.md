@@ -22,5 +22,5 @@ jika sulit dijelaskan dengan kata-kata tolong sertakan screenshot
 - [ ] uBlock Origin
 - [ ] Adblock Plus
 
-## Usul sintak filter
-... jika punya ide, tuliskan sintak filternya
+## Usul sintak filter (tulis kode)
+`jika punya ide, tuliskan sintak filternya`
