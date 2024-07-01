@@ -23,6 +23,7 @@
 ###adv-placeholder
 ###banner_iklan_top
 ###banner_top_detail
+###bawahpads
 ###bireklam
 ###bottom_exclusive_ads
 ###cfs_top_div
@@ -75,6 +76,7 @@
 ###popupwindow
 ###srcadsurlblock
 ###switch-ad
+###tisisads
 ###top_ad_full
 ###tupiklan
 ###vp-advert
@@ -208,6 +210,7 @@
 ##.kotakiklan
 ##.ktz-aftermenubanner
 ##.ktz-bannersingletop
+##.loading.ads-50
 ##.marginads
 ##.mobileAd_bottom_floating
 ##.mobileads
@@ -243,6 +246,3 @@
 ##a[alt="iklan" i]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-###tisisads
-##.loading.ads-50
-###bawahpads
