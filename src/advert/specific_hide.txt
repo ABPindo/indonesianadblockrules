@@ -299,6 +299,7 @@ animeindo.net###videoad1
 bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
 nontonfilm77.com###wrap > table
+marketeers.com##.-mx-\[24px\]
 comotin.com##.Widget:nth-of-type(2)
 comotin.com##.Widget:nth-of-type(3)
 sundul.com##.\33 .Premium.Sundul
@@ -346,6 +347,7 @@ terasjakarta.id##.ads.single_post_content
 dapurpacu.com##.ads2-home
 drakorasia.us##.ads728-slot-panjang
 kompas.com##.adsMR1Lipsus1
+marketeers.com##.adsMarketeers
 republika.co.id##.ads_160x600
 rejogja.co.id##.ads_160x600.ads
 republika.co.id##.ads_970x250
@@ -569,6 +571,8 @@ jendelakaba.com##.gmr-verytopbanner
 realitakita.com##.gpt-ad-inner
 kompas.com##.gramedia__gate
 komikindo.tv##.gulai_asam_manis
+marketeers.com##.h-\[110px\]
+marketeers.com##.h-\[260px\]
 kompas.com##.hAds
 tempo.co##.head-banner
 bioskop90.com##.headborder:nth-of-type(5)
@@ -641,6 +645,7 @@ astroawani.com##.middle-ad-cont
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
+marketeers.com##.modal-login-container
 detik.com##.mr1:has(#adv-caption-mr1)
 cnbcindonesia.com,cnnindonesia.com,detik.com##.mr1:has([id^="div-gpt-ad"])
 cnbcindonesia.com,cnnindonesia.com,detik.com##.mr2:has([id^="div-gpt-ad"])
@@ -742,6 +747,7 @@ investor.id##.underlay-ad-text-box
 kompas.com##.video-box-wrap
 mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
+marketeers.com##.w-\[300px\]
 hightech.web.id##.wait
 sindonews.com##.warp-ads-paralax
 teknologi.inilah.com##.wb-300x250
