@@ -107,6 +107,7 @@ kapanlagi.com,liputan6.com###dfp-bframe-cont
 bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
+kontan.co.id###div-Halfpage-
 gridoto.com###div-Inside-Medium-Rectangle
 bolasport.com,www.parapuan.co,www.sonora.id###div-Inside-MediumRectangle
 blog.tribunjualbeli.com,tribunnews.com###div-Right-MediumRectangle-1
@@ -614,6 +615,7 @@ awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
 anime17.net##.ktz_banner
 faktabali.com##.ktzsingle-bannerright
+kontan.co.id##.kus
 kumpulmanga.org##.kzl-header.kzl
 starringheavenlyrics.blogspot.com##.lalulintas
 188.166.39.172##.lazyloaded.ls-is-cached.bannerdua
