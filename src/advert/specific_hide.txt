@@ -108,7 +108,8 @@ bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
 gridoto.com###div-Inside-Medium-Rectangle
-bolasport.com,www.parapuan.co,www.sonora.id###div-Inside-MediumRectangle
+bolasport.com,parapuan.co,sonora.id###div-Inside-MediumRectangle
+sonora.id###div-Inside-MediumRectangle2
 blog.tribunjualbeli.com,tribunnews.com###div-Right-MediumRectangle-1
 makassar.tribunnews.com###div-Right-MediumRectangle-3
 blog.tribunjualbeli.com###div-Top-Leaderboard
@@ -339,7 +340,7 @@ okezone.com##.ads-mega-box
 grid.id##.ads-mr
 bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
-bolasport.com,grid.id,gridoto.com,kompas.com,kompasiana.com,kontan.co.id,motorplus-online.com##.ads-partner-wrap
+bolasport.com,grid.id,gridoto.com,kompas.com,kompasiana.com,kontan.co.id,motorplus-online.com,sonora.id##.ads-partner-wrap
 tek.id##.ads-popup__inner
 www.inibaru.id##.ads-sticky-left
 www.inibaru.id##.ads-sticky-right
@@ -414,8 +415,8 @@ www.kompasiana.com##.banner-right-big.banner
 www.kompasiana.com##.banner-right.banner
 dream.co.id##.banner-sc
 dream.co.id##.banner-sc2
-www.sonora.id##.banner-skin--left
-www.sonora.id##.banner-skin--right
+sonora.id##.banner-skin--left
+sonora.id##.banner-skin--right
 kapanlagi.com##.banner-title
 modifikasi.com##.banner-top
 oktavita.com##.banner-zone
@@ -434,10 +435,10 @@ kompas.com##.bannerR3
 kompas.com##.bannerR3A
 indonesiasatu.kompas.com##.bannerTop1
 kompas.com##.bannerTopOut
-www.sonora.id##.banner__giant.banner
-www.sonora.id##.banner__left.banner
-www.sonora.id##.banner__right.banner
-www.sonora.id##.banner__top.banner
+sonora.id##.banner__giant
+sonora.id##.banner__left
+sonora.id##.banner__right
+sonora.id##.banner__top
 lapar.com,loveindonesia.com##.banner_box
 lapar.com##.banner_main
 bgibola.lat##.bannerbawahheader
@@ -590,7 +591,7 @@ animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 bgibola.lat##.inline-banner
 gridoto.com##.js-ads-stick
-motorplus-online.com,www.sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
+motorplus-online.com,sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
 indoxx1.art,indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
@@ -683,11 +684,12 @@ filem456.com##.pps-single-popup
 kompas.com##.premium_div
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 blibli.com##.product__card:has(.product__tag__ads)
-bolasport.com,gridoto.com,kompas.com##.pushdown-banner
+bolasport.com,gridoto.com,kompas.com,sonora.id##.pushdown-banner
 otomania.com##.r-ads
 film-ganool.com##.random
 okezone.com##.rc-ad-300x250
 gridoto.com##.read__left
+sonora.id##.read__skyscraper
 indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-sol
 grid.id##.relative.below_photo
