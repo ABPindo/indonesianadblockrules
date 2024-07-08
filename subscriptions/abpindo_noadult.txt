@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202407011329
+! Version: 202407080108
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 01 Jul 2024 13:29 UTC
+! Last modified: 08 Jul 2024 01:08 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -742,6 +742,7 @@ totolink.id#@#.social-circle
 ##.ad-right-image
 ##.ad_primex
 ##.ads-head
+##.ads-partner-wrap
 ##.ads-pop
 ##.ads-sticky-bottom
 ##.ads728-slot
@@ -1012,8 +1013,10 @@ kapanlagi.com,liputan6.com###dfp-bframe-cont
 bioskopmovie.tv###directorio > .random > center
 tribunnews.com###div-Center-FullBanner-1
 tribunnews.com###div-Center-FullBanner-2
+kontan.co.id###div-Halfpage-
 gridoto.com###div-Inside-Medium-Rectangle
-bolasport.com,www.parapuan.co,www.sonora.id###div-Inside-MediumRectangle
+bolasport.com,parapuan.co,sonora.id###div-Inside-MediumRectangle
+sonora.id###div-Inside-MediumRectangle2
 blog.tribunjualbeli.com,tribunnews.com###div-Right-MediumRectangle-1
 makassar.tribunnews.com###div-Right-MediumRectangle-3
 blog.tribunjualbeli.com###div-Top-Leaderboard
@@ -1067,6 +1070,7 @@ blogspot.com###floating_banner_top img[width="728"][height="90"]
 bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_banner_tops
 80.209.252.146###floattop
 lk21c.fun###flobwh
+bareksa.com###footer_sticky
 gadgetren.com###footer_sticky_inside
 manganime.live###ftads
 mangaku.site,mangaku.vip###ftadsth
@@ -1203,6 +1207,7 @@ animeindo.net###videoad1
 bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
 nontonfilm77.com###wrap > table
+marketeers.com##.-mx-\[24px\]
 comotin.com##.Widget:nth-of-type(2)
 comotin.com##.Widget:nth-of-type(3)
 sundul.com##.\33 .Premium.Sundul
@@ -1242,7 +1247,7 @@ okezone.com##.ads-mega-box
 grid.id##.ads-mr
 bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
-bolasport.com,grid.id,gridoto.com,kompas.com,kompasiana.com,kontan.co.id,motorplus-online.com##.ads-partner-wrap
+bolasport.com,grid.id,gridoto.com,kompas.com,kompasiana.com,kontan.co.id,motorplus-online.com,sonora.id##.ads-partner-wrap
 tek.id##.ads-popup__inner
 www.inibaru.id##.ads-sticky-left
 www.inibaru.id##.ads-sticky-right
@@ -1250,6 +1255,7 @@ terasjakarta.id##.ads.single_post_content
 dapurpacu.com##.ads2-home
 drakorasia.us##.ads728-slot-panjang
 kompas.com##.adsMR1Lipsus1
+marketeers.com##.adsMarketeers
 republika.co.id##.ads_160x600
 rejogja.co.id##.ads_160x600.ads
 republika.co.id##.ads_970x250
@@ -1271,6 +1277,8 @@ grid.id##.ads_sky
 duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
 grid.id##.ads_wrapper
+chordtela.com##.adsbawahjudul
+chordtela.com##.adsbawahposting
 apkmod.id,hightech.web.id,nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
@@ -1293,6 +1301,7 @@ kurazone.net##.anuads
 lk21.host##.appup
 hellosehat.com##.article-bottom-ad
 hellosehat.com##.article-desktop-ad
+tirto.id##.article-sidebar
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 139.99.120.222,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
@@ -1316,8 +1325,8 @@ www.kompasiana.com##.banner-right-big.banner
 www.kompasiana.com##.banner-right.banner
 dream.co.id##.banner-sc
 dream.co.id##.banner-sc2
-www.sonora.id##.banner-skin--left
-www.sonora.id##.banner-skin--right
+sonora.id##.banner-skin--left
+sonora.id##.banner-skin--right
 kapanlagi.com##.banner-title
 modifikasi.com##.banner-top
 oktavita.com##.banner-zone
@@ -1336,10 +1345,10 @@ kompas.com##.bannerR3
 kompas.com##.bannerR3A
 indonesiasatu.kompas.com##.bannerTop1
 kompas.com##.bannerTopOut
-www.sonora.id##.banner__giant.banner
-www.sonora.id##.banner__left.banner
-www.sonora.id##.banner__right.banner
-www.sonora.id##.banner__top.banner
+sonora.id##.banner__giant
+sonora.id##.banner__left
+sonora.id##.banner__right
+sonora.id##.banner__top
 lapar.com,loveindonesia.com##.banner_box
 lapar.com##.banner_main
 bgibola.lat##.bannerbawahheader
@@ -1473,6 +1482,8 @@ jendelakaba.com##.gmr-verytopbanner
 realitakita.com##.gpt-ad-inner
 kompas.com##.gramedia__gate
 komikindo.tv##.gulai_asam_manis
+marketeers.com##.h-\[110px\]
+marketeers.com##.h-\[260px\]
 kompas.com##.hAds
 tempo.co##.head-banner
 bioskop90.com##.headborder:nth-of-type(5)
@@ -1490,7 +1501,7 @@ animeindo.video,animeindo.web.id##.in_up_ad-area
 alona.co.id##.inf_infusionsoft_popup
 bgibola.lat##.inline-banner
 gridoto.com##.js-ads-stick
-motorplus-online.com,www.sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
+motorplus-online.com,sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
 indoxx1.art,indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
@@ -1514,6 +1525,7 @@ awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
 anime17.net##.ktz_banner
 faktabali.com##.ktzsingle-bannerright
+kontan.co.id##.kus
 kumpulmanga.org##.kzl-header.kzl
 starringheavenlyrics.blogspot.com##.lalulintas
 188.166.39.172##.lazyloaded.ls-is-cached.bannerdua
@@ -1545,6 +1557,7 @@ astroawani.com##.middle-ad-cont
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
+marketeers.com##.modal-login-container
 detik.com##.mr1:has(#adv-caption-mr1)
 cnbcindonesia.com,cnnindonesia.com,detik.com##.mr1:has([id^="div-gpt-ad"])
 cnbcindonesia.com,cnnindonesia.com,detik.com##.mr2:has([id^="div-gpt-ad"])
@@ -1582,11 +1595,12 @@ filem456.com##.pps-single-popup
 kompas.com##.premium_div
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 blibli.com##.product__card:has(.product__tag__ads)
-bolasport.com,gridoto.com,kompas.com##.pushdown-banner
+bolasport.com,gridoto.com,kompas.com,sonora.id##.pushdown-banner
 otomania.com##.r-ads
 film-ganool.com##.random
 okezone.com##.rc-ad-300x250
 gridoto.com##.read__left
+sonora.id##.read__skyscraper
 indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-sol
 grid.id##.relative.below_photo
@@ -1646,6 +1660,7 @@ investor.id##.underlay-ad-text-box
 kompas.com##.video-box-wrap
 mydramalist.com##.vip-info
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
+marketeers.com##.w-\[300px\]
 hightech.web.id##.wait
 sindonews.com##.warp-ads-paralax
 teknologi.inilah.com##.wb-300x250
