@@ -94,6 +94,7 @@
 ||idblognetwork.com/images/banner728x90/
 ||idfl.*/assets/js/adst.js$script,~third-party
 ||idxxi.*/wp-content/uploads/*.gif$image
+||image.bannermovie.online$image,domain=kalashainternational.com
 ||imagebam.com/*.gif$image,domain=ganool.li
 ||images.gameweb.co.id/gw/ads/
 ||img.gm21.download/*.webp$image
