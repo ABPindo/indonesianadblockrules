@@ -700,6 +700,7 @@ indoxxi.top##.reklam-goster-sol
 grid.id##.relative.below_photo
 grid.id##.relative.skycrapper
 grid.id##.relative.w-full
+tribunnews.com##.reserved_box_ads
 unixmen.com##.reveal-modal-bg
 dwanonton.com##.right.banner-vertical
 investor.id##.row > .show-desktop > div
@@ -872,7 +873,6 @@ kuramanime.*###playerOverplay
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 tokopedia.com##section[data-unify="Card"]:has([href^="https://ta.tokopedia.com"]:first-child)
 satujiwa.org##table
-tribunnews.com##.reserved_box_ads
 ! Detik Network
 haibunda.com###balloonads
 cnnindonesia.com,detik.com###billboard
