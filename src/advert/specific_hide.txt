@@ -874,6 +874,7 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:ha
 tokopedia.com##section[data-unify="Card"]:has([href^="https://ta.tokopedia.com"]:first-child)
 satujiwa.org##table
 ! Detik Network
+tribunnews.com##.reserved_box_ads
 haibunda.com###balloonads
 cnnindonesia.com,detik.com###billboard
 cnbcindonesia.com###billboard_banner
