@@ -745,6 +745,7 @@ nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 internetpositif.uzone.id##.text-align-center.box-ads-content
 kontan.co.id##.text-center.center.width-px-1100
+dataindonesia.id##.text-center:has(+ div[style^='background-image: url("/img/logo-ads'])
 klikseru.com##.textwidget img[width="300"][height="250"]
 thejakartapost.com##.tjp-placeholder-ads
 utusan.com.my##.tonal__standfirst
@@ -856,6 +857,7 @@ rasa.my##div[data-ub-carousel]
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
+dataindonesia.id##div[style^='background-image: url("/img/logo-ads']
 bacamanga.id,kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
