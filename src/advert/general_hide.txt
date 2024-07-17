@@ -247,3 +247,5 @@
 ##a[alt="iklan" i]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
+##.sticky-ad-bawah
+##.sticky-ad-atas
