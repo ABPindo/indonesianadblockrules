@@ -745,7 +745,7 @@ nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 internetpositif.uzone.id##.text-align-center.box-ads-content
 kontan.co.id##.text-center.center.width-px-1100
-dataindonesia.id##.text-center:has(+ div[style^='background-image: url("/img/logo-ads'])
+dataindonesia.id##.text-center:has( + div[style^='background-image: url("/img/logo-ads'])
 klikseru.com##.textwidget img[width="300"][height="250"]
 thejakartapost.com##.tjp-placeholder-ads
 utusan.com.my##.tonal__standfirst
@@ -917,10 +917,10 @@ detik.com##.skybanner
 detik.com##.staticdetail_ads
 cnbcindonesia.com##.stickystatic
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
+cnbcindonesia.com##div.undefined
 cnbcindonesia.com##div[style$="height:600px;"]
 cnbcindonesia.com##div[style*="height:400px;"]
 cnbcindonesia.com##div[style^="width:970px;"]
-cnbcindonesia.com##div.undefined
 ! ABP-specific filters
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)

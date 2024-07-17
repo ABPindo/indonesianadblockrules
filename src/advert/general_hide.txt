@@ -229,6 +229,8 @@
 ##.simple_advert
 ##.single_ad_728x90
 ##.skin-iklan
+##.sticky-ad-atas
+##.sticky-ad-bawah
 ##.subiklan
 ##.text-center.adv
 ##.topadsense
@@ -247,5 +249,3 @@
 ##a[alt="iklan" i]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-##.sticky-ad-bawah
-##.sticky-ad-atas
