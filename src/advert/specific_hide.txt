@@ -885,7 +885,7 @@ haibunda.com###megabillboard
 detik.com###megabillboard-desktop
 detik.com###otp_banner
 haibunda.com###parallaxdetail
-detik.com###skinad
+cnbcindonesia.com,detik.com###skinad
 detik.com###sto_banner
 detik.com###top_banner
 femaledaily.com##.ads-billboard
@@ -898,6 +898,7 @@ nontonanimeid.org##.banner_player
 detik.com##.bb_banner
 detik.com##.billboard-top
 haibunda.com##.billboard__banner
+cnbcindonesia.com##.billboardmobile
 beautynesia.id##.box-ads--container
 femaledaily.com##.btn_ads_close_top_frame
 cnnindonesia.com##.detail_ads
@@ -914,7 +915,12 @@ detik.com##.skinad_1
 detik.com##.skinad_2
 detik.com##.skybanner
 detik.com##.staticdetail_ads
+cnbcindonesia.com##.stickystatic
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
+cnbcindonesia.com##div[style$="height:600px;"]
+cnbcindonesia.com##div[style*="height:400px;"]
+cnbcindonesia.com##div[style^="width:970px;"]
+cnbcindonesia.com##div.undefined
 ! ABP-specific filters
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
