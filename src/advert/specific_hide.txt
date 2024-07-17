@@ -745,6 +745,7 @@ nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 internetpositif.uzone.id##.text-align-center.box-ads-content
 kontan.co.id##.text-center.center.width-px-1100
+dataindonesia.id##.text-center:has(+ div[style^='background-image: url("/img/logo-ads'])
 klikseru.com##.textwidget img[width="300"][height="250"]
 thejakartapost.com##.tjp-placeholder-ads
 utusan.com.my##.tonal__standfirst
@@ -856,6 +857,7 @@ rasa.my##div[data-ub-carousel]
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
+dataindonesia.id##div[style^='background-image: url("/img/logo-ads']
 bacamanga.id,kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
@@ -883,7 +885,7 @@ haibunda.com###megabillboard
 detik.com###megabillboard-desktop
 detik.com###otp_banner
 haibunda.com###parallaxdetail
-detik.com###skinad
+cnbcindonesia.com,detik.com###skinad
 detik.com###sto_banner
 detik.com###top_banner
 femaledaily.com##.ads-billboard
@@ -896,6 +898,7 @@ nontonanimeid.org##.banner_player
 detik.com##.bb_banner
 detik.com##.billboard-top
 haibunda.com##.billboard__banner
+cnbcindonesia.com##.billboardmobile
 beautynesia.id##.box-ads--container
 femaledaily.com##.btn_ads_close_top_frame
 cnnindonesia.com##.detail_ads
@@ -912,7 +915,12 @@ detik.com##.skinad_1
 detik.com##.skinad_2
 detik.com##.skybanner
 detik.com##.staticdetail_ads
+cnbcindonesia.com##.stickystatic
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
+cnbcindonesia.com##div[style$="height:600px;"]
+cnbcindonesia.com##div[style*="height:400px;"]
+cnbcindonesia.com##div[style^="width:970px;"]
+cnbcindonesia.com##div.undefined
 ! ABP-specific filters
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
