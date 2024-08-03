@@ -182,6 +182,7 @@
 /ahabetx900.$image
 /ahliqq.$image,third-party
 /airasiabet-$image
+/airasiabet.gif|$image
 /alampoker.$image,third-party
 /alexavegas.gif|$image
 /alexisbola.$image,third-party
@@ -604,6 +605,7 @@
 /kdslot.gif|$image,third-party
 /kdslots-$image
 /kdslots.$image,third-party
+/KERABATSLOT.gif|$image
 /ketuapkr.$image,third-party
 /ketuapoker.$image,third-party
 /ketuapokernew.$image,third-party
@@ -3425,5 +3427,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/KERABATSLOT.gif|$image
-/airasiabet.gif|$image

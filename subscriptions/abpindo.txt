@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202407251302
+! Version: 202408030052
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 25 Jul 2024 13:02 UTC
+! Last modified: 03 Aug 2024 00:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2021,6 +2021,7 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /ahabetx900.$image
 /ahliqq.$image,third-party
 /airasiabet-$image
+/airasiabet.gif|$image
 /alampoker.$image,third-party
 /alexavegas.gif|$image
 /alexisbola.$image,third-party
@@ -2443,6 +2444,7 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /kdslot.gif|$image,third-party
 /kdslots-$image
 /kdslots.$image,third-party
+/KERABATSLOT.gif|$image
 /ketuapkr.$image,third-party
 /ketuapoker.$image,third-party
 /ketuapokernew.$image,third-party
@@ -5413,6 +5415,8 @@ leon.bet#@#[href$="/slots"]
 ##[href="https://apiservices.shop/apFmUK"]
 ##[href="https://hasil-keluaran-hk.com/redirecting"]
 ##[href="https://themarket.life/register/YKRGLNP8"]
+##[href^="http://arasiabt.vip/"]
+##[href^="http://asialv88.me/"]
 ##[href^="http://bhok77.xyz/"]
 ##[href^="http://bl88.icu/"]
 ##[href^="http://dmbt.cc/"]
@@ -5426,6 +5430,8 @@ leon.bet#@#[href$="/slots"]
 ##[href^="http://jpx500.quest/"]
 ##[href^="http://kartupk.net/"]
 ##[href^="http://koinslts.com/"]
+##[href^="http://lp33.me/"]
+##[href^="http://mildcsn.me/"]
 ##[href^="http://mjhoq.net/"]
 ##[href^="http://ngpk.pro/"]
 ##[href^="http://pkr8.me/"]
@@ -8158,6 +8164,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt^="Agen Poker" i]
 ##img[alt^="Agen QQ Terpercaya" i]
 ##img[alt^="Agen Slot Online" i]
+##img[alt^="Agen Slot" i]
 ##img[alt^="Agen Slot7" i]
 ##img[alt^="Agen Tangkas" i]
 ##img[alt^="Agen Togel Online" i]
@@ -9015,8 +9022,9 @@ bintangmawar.net###bmpop_adpB
 103.194.170.153,xtubecinema.club,xtubecinema.top###btm_bannerMobile
 164.68.105.199,bokepid.wiki###fixedban
 unyil.net###float-atas
-rumahperjaka.live###floatbannerkanan
-rumahperjaka.live###floating_banner_top
+rumahperjaka.live,rumahperjaka.site###floatbannerkanan
+rumahperjaka.site###floatbannerkiri
+rumahperjaka.live,rumahperjaka.site###floating_banner_top
 149.102.130.200,154.12.229.9,161.97.116.33,173.212.245.75,185.182.187.38,194.163.158.12,45.67.231.215,75.119.147.12,81.0.220.98,89.117.61.35###floating_banner_top1
 kamarbokep.xyz,kebokepanku.xyz,ruangbokep.bond,ruangbokep.sbs,ruangbokep.top,sibokep.bond,streamingbokeponline.site,streamingbokeponline.top###floating_bot
 157.245.195.114###floating_bot.btm_ban
@@ -9050,12 +9058,12 @@ lkprd.fun##.adshu
 154.26.132.73,194.233.87.224,bokepmobile.fun##.banner-img
 68.65.123.84,avtub.io,avtub.sx,simontok.cx,simontok.ink##.blocker.jquery-modal
 bokepkita.pro##.btm_ban
-rumahperjaka.live##.elementor-popup-modal
+rumahperjaka.live,rumahperjaka.site##.elementor-popup-modal
 pinayflex.net##.floating-banner
 indoporn.pro##.full-brkas-container
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
-185.217.95.43,hencop.lol,javsubid.com,komikdewasa.me,lendirpedia.fun,lendirpedia.icu,manhwaindo.cfd,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,skandalpedia.mom,skandalpedia.rest,starjepang.com##.kln
+185.217.95.43,hencop.lol,javsubid.com,komikdewasa.me,lendirpedia.fun,lendirpedia.icu,manhwaindo.cfd,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,pascol.cyou,sintube.icu,skandalpedia.mom,skandalpedia.rest,starjepang.com##.kln
 komik18.art##.kln.mlb.blox
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 194.233.73.15,sebokep.com##.lazyloaded.ads-50
