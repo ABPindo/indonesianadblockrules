@@ -15,6 +15,10 @@ perawanbokep.*###ads
 ruangbokep.*###floating_bot
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
+rumahperjaka.*###floating_banner_top
+rumahperjaka.*###floatbannerkanan
+rumahperjaka.*###floatbannerkiri
+rumahperjaka.*##.elementor-popup-modal
 ! Non-entity filters
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
