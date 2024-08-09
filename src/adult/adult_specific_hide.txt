@@ -13,16 +13,13 @@ manhwaindo.*###teaser3
 manhwaindo.*##.kln
 perawanbokep.*###ads
 ruangbokep.*###floating_bot
-skandalpedia.*##.kln
-streamingbokeponline.*###floating_bot
-rumahperjaka.*###floating_banner_top
 rumahperjaka.*###floatbannerkanan
 rumahperjaka.*###floatbannerkiri
+rumahperjaka.*###floating_banner_top
 rumahperjaka.*##.elementor-popup-modal
+skandalpedia.*##.kln
+streamingbokeponline.*###floating_bot
 ! Non-entity filters
-hencop.com###floatcenter
-hencop.com###teaser7
-indodb21.com###floatcenter
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
 ceritasexindonesia.com###adsic728
@@ -35,6 +32,7 @@ bintangmawar.net###bmpop_adpB
 unyil.net###float-atas
 rumahperjaka.live,rumahperjaka.site###floatbannerkanan
 rumahperjaka.site###floatbannerkiri
+hencop.com,indodb21.com###floatcenter
 rumahperjaka.live,rumahperjaka.site###floating_banner_top
 149.102.130.200,154.12.229.9,161.97.116.33,173.212.245.75,185.182.187.38,194.163.158.12,45.67.231.215,75.119.147.12,81.0.220.98,89.117.61.35###floating_banner_top1
 kamarbokep.xyz,kebokepanku.xyz,ruangbokep.bond,ruangbokep.sbs,ruangbokep.top,sibokep.bond,streamingbokeponline.site,streamingbokeponline.top###floating_bot
@@ -52,6 +50,7 @@ sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
 doujinlands.com,kanzenin.xyz,komik18.art,komikdewasa.art,komikdewasa.me,komikmanhwa.me,kumapoi.me,manhwaindo.cfd,manhwaindo.me,pemersatu.link,sektedoujin.lol###teaser3
 hencop.lol,sodasusu.com###teaser4
+hencop.com###teaser7
 158.69.0.212###top-banner
 173.249.49.204###tutupen
 nontonbokeps.com###under-video-ads

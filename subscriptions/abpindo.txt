@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202408030052
+! Version: 202408091214
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 03 Aug 2024 00:52 UTC
+! Last modified: 09 Aug 2024 12:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -195,6 +195,7 @@
 ||chitchooms.net^$xhr
 ||chqspuonctkgz.com^$popup
 ||craydark.pw^$third-party
+||curoax.com^$script,third-party
 ||d0p21g2fep.com^
 ||d72gb9oukw3j.com^$popup
 ||d824d7f5cbcb0e00.com^
@@ -2195,6 +2196,7 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /dewaboya.$image,third-party
 /dewacash-$image
 /dewacash.gif$image
+/DewaCuan-$image
 /dewacuki-$image
 /dewadominoqq.$image,third-party
 /dewahoki.$image,third-party
@@ -2308,6 +2310,7 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /hokibet365.$image,third-party
 /hokicapsa.$image,third-party
 /hokicash-$image
+/hokidewa-$image
 /hokinewmay.$image,third-party
 /hokinusa.$image,third-party
 /hokinusa1.$image,third-party
@@ -2358,6 +2361,7 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /imcqq-$image
 /imcqq.$image
 /incarqq.$image,third-party
+/indokasino-$image
 /indorajaqq.$image,third-party
 /indotogel-$image
 /indotogel.$image,third-party
@@ -2452,6 +2456,7 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /kiosqq.$image
 /klik66-$image
 /klik66banner.gif|
+/KlikHoki-$image
 /klikhoki-$image
 /klikkiu.$image,third-party
 /klikqq-$image
@@ -2522,6 +2527,7 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /MACAU442NET.gif$image
 /macaubet-$image
 /macaubet.$image,third-party
+/MacauDewa-$image
 /macaudewa-$image
 /mahkotabola.$image,third-party
 /mahkotaqq.$image,third-party
@@ -5436,6 +5442,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="http://ngpk.pro/"]
 ##[href^="http://pkr8.me/"]
 ##[href^="http://skr888.com/"]
+##[href^="http://tgl88asia.club/"]
 ##[href^="http://vegs88.xyz/"]
 ##[href^="http://vn.adnetworks.top/"]
 ##[href^="http://www.eraplay88vip.asia/"]
@@ -8719,6 +8726,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt^="URA338" i]
 ##img[alt^="UtamaBet" i]
 ##img[alt^="VEGAS88" i]
+##img[alt^="VIP BONUS LIVE" i]
 ##img[alt^="VIP579" i]
 ##img[alt^="VIPADUQ" i]
 ##img[alt^="VIPBANDARQ" i]
@@ -9009,6 +9017,10 @@ manhwaindo.*###teaser3
 manhwaindo.*##.kln
 perawanbokep.*###ads
 ruangbokep.*###floating_bot
+rumahperjaka.*###floatbannerkanan
+rumahperjaka.*###floatbannerkiri
+rumahperjaka.*###floating_banner_top
+rumahperjaka.*##.elementor-popup-modal
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
 ! Non-entity filters
@@ -9024,6 +9036,7 @@ bintangmawar.net###bmpop_adpB
 unyil.net###float-atas
 rumahperjaka.live,rumahperjaka.site###floatbannerkanan
 rumahperjaka.site###floatbannerkiri
+hencop.com,indodb21.com###floatcenter
 rumahperjaka.live,rumahperjaka.site###floating_banner_top
 149.102.130.200,154.12.229.9,161.97.116.33,173.212.245.75,185.182.187.38,194.163.158.12,45.67.231.215,75.119.147.12,81.0.220.98,89.117.61.35###floating_banner_top1
 kamarbokep.xyz,kebokepanku.xyz,ruangbokep.bond,ruangbokep.sbs,ruangbokep.top,sibokep.bond,streamingbokeponline.site,streamingbokeponline.top###floating_bot
@@ -9041,6 +9054,7 @@ sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
 doujinlands.com,kanzenin.xyz,komik18.art,komikdewasa.art,komikdewasa.me,komikmanhwa.me,kumapoi.me,manhwaindo.cfd,manhwaindo.me,pemersatu.link,sektedoujin.lol###teaser3
 hencop.lol,sodasusu.com###teaser4
+hencop.com###teaser7
 158.69.0.212###top-banner
 173.249.49.204###tutupen
 nontonbokeps.com###under-video-ads

@@ -152,7 +152,6 @@
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
 ! Potential ad servers
-||curoax.com^$script,third-party
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||1b969cef84d93b43.com^
 ||34667c8ece5.com^
@@ -181,6 +180,7 @@
 ||chitchooms.net^$xhr
 ||chqspuonctkgz.com^$popup
 ||craydark.pw^$third-party
+||curoax.com^$script,third-party
 ||d0p21g2fep.com^
 ||d72gb9oukw3j.com^$popup
 ||d824d7f5cbcb0e00.com^

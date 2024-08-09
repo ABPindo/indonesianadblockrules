@@ -356,6 +356,7 @@
 /dewaboya.$image,third-party
 /dewacash-$image
 /dewacash.gif$image
+/DewaCuan-$image
 /dewacuki-$image
 /dewadominoqq.$image,third-party
 /dewahoki.$image,third-party
@@ -469,6 +470,7 @@
 /hokibet365.$image,third-party
 /hokicapsa.$image,third-party
 /hokicash-$image
+/hokidewa-$image
 /hokinewmay.$image,third-party
 /hokinusa.$image,third-party
 /hokinusa1.$image,third-party
@@ -519,6 +521,7 @@
 /imcqq-$image
 /imcqq.$image
 /incarqq.$image,third-party
+/indokasino-$image
 /indorajaqq.$image,third-party
 /indotogel-$image
 /indotogel.$image,third-party
@@ -613,6 +616,7 @@
 /kiosqq.$image
 /klik66-$image
 /klik66banner.gif|
+/KlikHoki-$image
 /klikhoki-$image
 /klikkiu.$image,third-party
 /klikqq-$image
@@ -683,6 +687,7 @@
 /MACAU442NET.gif$image
 /macaubet-$image
 /macaubet.$image,third-party
+/MacauDewa-$image
 /macaudewa-$image
 /mahkotabola.$image,third-party
 /mahkotaqq.$image,third-party
@@ -3427,8 +3432,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/indokasino-$image
-/hokidewa-$image
-/MacauDewa-$image
-/DewaCuan-$image
-/KlikHoki-$image
