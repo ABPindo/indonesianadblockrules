@@ -705,6 +705,7 @@ grid.id##.relative.w-full
 tribunnews.com##.reserved_box_ads
 unixmen.com##.reveal-modal-bg
 dwanonton.com##.right.banner-vertical
+mamikos.com##.room-list__card:has(.rc-photo__icon--promo)
 investor.id##.row > .show-desktop > div
 inews.id##.rowx
 senimovie.info##.rsABlock
@@ -766,6 +767,7 @@ medcom.id##.widebanner.banner
 suara.com##.widget-ads-top
 komiku.com##.widget_text:has([href^="https://shope.ee/"])
 cdramabase.com##.wpa
+mamikos.com##[class$="-item__room"]:has(.rc-photo__icon--promo)
 jawapos.com##[class$="__disclaimer"]
 dwa21.org##[class*="banner"]
 kontan.co.id##[class*="heightads"]
@@ -776,6 +778,7 @@ kompas.tv##[class^="ads-"]
 nontonanimeid.org##[class^="adspost"]
 wisatalova.com##[class^="wisat-"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
+mamikos.com##[data-testid="miniKostRoomCard"]:has(.rc-photo__icon--promo)
 mudah.my##[data-testid^="featured-ads"]
 nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
