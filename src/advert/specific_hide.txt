@@ -315,6 +315,7 @@ investor.id##.ad-box-wrappr
 senimovie.info,senimovies.net##.ad-float-image
 wartaekonomi.co.id##.ad-inventory-wrapper
 www.parapuan.co##.ad-photo
+kordindonesia.com##.ad-plus
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
 loveindonesia.com##.ad_990_80
@@ -744,6 +745,7 @@ dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 hijabista.com.my,majalahpama.my,nona.my,vanillakismis.my##.td-banner-bg.td-banner-wrap-full
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
+kordindonesia.com##.text-ad
 internetpositif.uzone.id##.text-align-center.box-ads-content
 kontan.co.id##.text-center.center.width-px-1100
 dataindonesia.id##.text-center:has( + div[style^='background-image: url("/img/logo-ads'])
