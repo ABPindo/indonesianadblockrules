@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202408091214
+! Version: 202408181327
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 09 Aug 2024 12:14 UTC
+! Last modified: 18 Aug 2024 13:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1226,6 +1226,7 @@ investor.id##.ad-box-wrappr
 senimovie.info,senimovies.net##.ad-float-image
 wartaekonomi.co.id##.ad-inventory-wrapper
 www.parapuan.co##.ad-photo
+kordindonesia.com##.ad-plus
 komikbaru.com##.ad.b300x250
 m.kapanlagi.com##.ad2
 loveindonesia.com##.ad_990_80
@@ -1615,6 +1616,7 @@ grid.id##.relative.w-full
 tribunnews.com##.reserved_box_ads
 unixmen.com##.reveal-modal-bg
 dwanonton.com##.right.banner-vertical
+mamikos.com##.room-list__card:has(.rc-photo__icon--promo)
 investor.id##.row > .show-desktop > div
 inews.id##.rowx
 senimovie.info##.rsABlock
@@ -1655,6 +1657,7 @@ dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 hijabista.com.my,majalahpama.my,nona.my,vanillakismis.my##.td-banner-bg.td-banner-wrap-full
 nontondramaonline.co,nontondramaonline.net##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
+kordindonesia.com##.text-ad
 internetpositif.uzone.id##.text-align-center.box-ads-content
 kontan.co.id##.text-center.center.width-px-1100
 dataindonesia.id##.text-center:has( + div[style^='background-image: url("/img/logo-ads'])
@@ -1675,6 +1678,7 @@ medcom.id##.widebanner.banner
 suara.com##.widget-ads-top
 komiku.com##.widget_text:has([href^="https://shope.ee/"])
 cdramabase.com##.wpa
+mamikos.com##[class$="-item__room"]:has(.rc-photo__icon--promo)
 jawapos.com##[class$="__disclaimer"]
 dwa21.org##[class*="banner"]
 kontan.co.id##[class*="heightads"]
@@ -1685,6 +1689,7 @@ kompas.tv##[class^="ads-"]
 nontonanimeid.org##[class^="adspost"]
 wisatalova.com##[class^="wisat-"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
+mamikos.com##[data-testid="miniKostRoomCard"]:has(.rc-photo__icon--promo)
 mudah.my##[data-testid^="featured-ads"]
 nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
@@ -9094,6 +9099,7 @@ sebokep.com##.sg-popup-builder-content
 sebokep.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
 sebokep.com##.sgpb-popup-overlay
 nomat.fun##.show.popup
+pascol.cyou##.teaser3
 207.244.225.48##.underlay
 realthaisluts.com##.video-list-ads
 komikdewasa.art##.wp-image-80765.size-full.alignnone
