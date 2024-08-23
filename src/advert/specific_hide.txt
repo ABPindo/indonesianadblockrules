@@ -541,6 +541,7 @@ nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
 dailysocial.id##.cover-ads-article
 kapanlagi.com##.crm-wrapper
+carisinyal.com##.ct-section-inner-wrap > article + aside
 lensaindonesia.com##.ctnitem.ctncom
 rbtv77.com##.czlll-rlselse
 beritasatu.com##.d-flex.w-100:has([id^="div-gpt-ad"])
