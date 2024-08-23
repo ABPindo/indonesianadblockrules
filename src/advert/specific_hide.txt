@@ -803,6 +803,7 @@ idfl.me##[id^="yui-gen"].postcontainer
 kompas.com##[src^="https://adsimg.kompas.com"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 katadata.co.id##[style="height:0; min-height:180px;"]
+njavtv.com##[style^="width: 300px;"]
 idtube.me,idxx1.top##a.bnner
 semarangkota.com##a.thirstylink
 tokopedia.com##a[data-testid="lnkProductContainer"]:has(img[alt^="topads"])
