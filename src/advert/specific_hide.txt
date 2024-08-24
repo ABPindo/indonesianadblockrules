@@ -631,8 +631,9 @@ dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
 b201.info##.lenyap
-shinigamitoon.com##.lepopup-popup-container
-shinigamitoon.com##.lepopup-popup-overlay
+shinigami03.com,shinigamitoon.com##.lepopup-popup-container
+shinigami03.com##.lepopup-popup-loader
+shinigami03.com,shinigamitoon.com##.lepopup-popup-overlay
 kontan.co.id##.liftdownclass
 animasu.cc##.lmd-iklan
 haibunda.com##.m-r1:has([id^="div-gpt-ad"])
