@@ -167,6 +167,7 @@ bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_ba
 lk21c.fun###flobwh
 bareksa.com###footer_sticky
 gadgetren.com###footer_sticky_inside
+mamikos.com###footer_stickyexp
 manganime.live###ftads
 mangaku.site,mangaku.vip###ftadsth
 resep.web.id###googlebox
@@ -191,7 +192,7 @@ lihat.co.id###iklan-dalam-postingan-300
 185.231.223.76###iklhead
 lk21.web.id###ilang1
 cinemaindo.web.id,sinemaindo.web.id###ilang2
-jawapos.com###in_image
+jawapos.com,mamikos.com###in_image
 downloadfilmbaru.com###itro_opaco
 downloadfilmbaru.com###itro_popup
 harakahdaily.net###jsemrp_372_719
@@ -645,6 +646,7 @@ merdeka.com##.masthead
 www.inibaru.id##.mb-4.bg-grey.text-center
 www.kompasiana.com##.mb20.mt20.banner-dable-read.banner
 www.parapuan.co##.mb3.gpt-ad-head-wrapper.widget
+mamikos.com##.megabillboard
 popbela.com##.megabillboard-container
 37.49.229.132,juraganfilm.icu##.mfp-inline-holder.mfp-s-ready.mfp-container
 juraganfilm.icu##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile
