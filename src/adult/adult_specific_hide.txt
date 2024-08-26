@@ -20,11 +20,6 @@ rumahperjaka.*##.elementor-popup-modal
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
 ! Non-entity filters
-sintube.icu##.teaser3
-video.pemersatu.org###iklan728x100
-video.pemersatu.org###iklan300x100
-video.pemersatu.org###fixedban
-video.pemersatu.org###iklan125x127
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
 ceritasexindonesia.com###adsic728
@@ -33,7 +28,7 @@ ceritasexindonesia.com###adsic7282
 streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB
 103.194.170.153,xtubecinema.club,xtubecinema.top###btm_bannerMobile
-164.68.105.199,bokepid.wiki###fixedban
+164.68.105.199,bokepid.wiki,video.pemersatu.org###fixedban
 unyil.net###float-atas
 rumahperjaka.live,rumahperjaka.site###floatbannerkanan
 rumahperjaka.site###floatbannerkiri
@@ -43,6 +38,9 @@ rumahperjaka.live,rumahperjaka.site###floating_banner_top
 kamarbokep.xyz,kebokepanku.xyz,ruangbokep.bond,ruangbokep.sbs,ruangbokep.top,sibokep.bond,streamingbokeponline.site,streamingbokeponline.top###floating_bot
 157.245.195.114###floating_bot.btm_ban
 sodasusu.com###forum_ads_8
+video.pemersatu.org###iklan125x127
+video.pemersatu.org###iklan300x100
+video.pemersatu.org###iklan728x100
 nontonbokeps.com###left_ads_float_phonedevelop
 149.102.130.200,154.12.229.9,161.97.116.33,173.212.245.75,185.217.95.30,194.163.145.21,207.244.225.48,81.0.220.98,indosemi45.org,manhwaid.org###ouibounce-modal
 iyottube.co,iyottube.com###playerOverlay
@@ -96,7 +94,7 @@ sebokep.com##.sg-popup-builder-content
 sebokep.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
 sebokep.com##.sgpb-popup-overlay
 nomat.fun##.show.popup
-pascol.cyou##.teaser3
+pascol.cyou,sintube.icu##.teaser3
 207.244.225.48##.underlay
 realthaisluts.com##.video-list-ads
 komikdewasa.art##.wp-image-80765.size-full.alignnone

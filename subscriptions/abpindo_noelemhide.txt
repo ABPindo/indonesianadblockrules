@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202408241434
+! Version: 202408261237
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 24 Aug 2024 14:34 UTC
+! Last modified: 26 Aug 2024 12:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -134,6 +134,7 @@
 ||promobagus.com^$third-party
 ||promotioncamp.com^$third-party
 ||props.id^$third-party
+||propsid.b-cdn.net^$third-party
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
 ||s2pops.club^$popup
@@ -570,9 +571,9 @@ iklan300x250.gif|
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! Miscellanous popups
-*$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
+*$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|kiryuu.org|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 ! Miscellanous advertisement gifs
-.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|baladfilm.*|baladfilm.guru|baladfilm.skin|bgibola.com|bioskopkerenin.org|dunia21.club|dutafilm.cfd|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|mangakita.id|movieajip.online|nontondrama.*|oploverz.*|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd|rbtv77.com|samehadaku.*|samehadaku.show|shinigami03.com
+.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|baladfilm.*|baladfilm.guru|baladfilm.skin|bgibola.com|bioskopkerenin.org|dunia21.club|dutafilm.cfd|kiryuu.org|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|mangakita.id|movieajip.online|nontondrama.*|oploverz.*|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd|rbtv77.com|samehadaku.*|samehadaku.show|shinigami03.com
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.mapsaddress.com,info.vebma.com##+js(aeld, click, linkOpened)
@@ -584,7 +585,7 @@ netq.me##+js(no-fetch-if, clarity.ms)
 bokepgemoy.com##+js(nobab)
 193.142.147.230,5.253.86.213,ainzscans.net,igobokep.cam,jenismac.com,siimanga.cyou##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
-anichin.top,kimcilonly.site,kiryuu.id,njavtv.com,subindojav.cc##+js(nowoif)
+anichin.top,kimcilonly.site,kiryuu.id,kiryuu.org,njavtv.com,subindojav.cc##+js(nowoif)
 okezone.com##+js(rc, content-wrap)
 inews.id##+js(rc, content-wrap|wrap-all)
 sindonews.com##+js(rc, t480)
