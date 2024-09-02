@@ -581,7 +581,9 @@ realitakita.com##.gpt-ad-inner
 kompas.com##.gramedia__gate
 komikindo.tv##.gulai_asam_manis
 marketeers.com##.h-\[110px\]
+cubmu.com##.h-\[250px\].w-\[300px\]
 marketeers.com##.h-\[260px\]
+cubmu.com##.h-\[549px\]
 kompas.com##.hAds
 tempo.co##.head-banner
 bioskop90.com##.headborder:nth-of-type(5)
@@ -802,8 +804,10 @@ kuramanime.lol##[href^="https://tinyurl.com/"]
 lk21official.wiki##[href^="https://yukclick.me/dunia21"]
 suara.com##[id^="berita-terkait-"]
 lk21official.mom##[id^="btop-"]
+nontonfilmgratis.club,ragihospitalkukatpally.com##[id^="floating_banner"]
 mangaku.bio##[id^="ftads"]
 tirto.id##[id^="gpt-inline"]
+cubmu.com##[id^="rubiconTag"]
 idfl.me##[id^="yui-gen"].postcontainer
 kompas.com##[src^="https://adsimg.kompas.com"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
