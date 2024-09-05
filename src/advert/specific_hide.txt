@@ -227,6 +227,7 @@ fastdrama.co,hkfree.co###modal
 ketik.co.id###modalPopup
 indotelko.com###more_stories
 fastdrama.co###myModal
+emitennews.com###myPopup
 hdtvku.com###mybannerpopup
 hdtvku.com###mybannerpopup2
 nobartv.com###nbpopx-wrapper
@@ -782,6 +783,7 @@ pojokmanga.org##[class*="popmake"]
 kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
 kompas.tv##[class^="ads-"]
+emitennews.com##[class^="ads-space-"]
 nontonanimeid.org##[class^="adspost"]
 wisatalova.com##[class^="wisat-"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
