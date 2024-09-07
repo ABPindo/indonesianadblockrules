@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202409021344
+! Version: 202409072236
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 02 Sep 2024 13:44 UTC
+! Last modified: 07 Sep 2024 22:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -406,6 +406,7 @@ iklan300x250.gif|
 ||dramaday.net/soundtrack.js$script
 ||dwanonton.com/static/banner/*.gif$image
 ||ebsoft.web.id/wp-content/banners/
+||emitennews.com/uploads/ads/ads_
 ||eramuslim.com/banners
 ||fansubupdate.com/res/img/sampleads/
 ||filmbaru.in/wp-content/uploads/*.gif$image
@@ -448,6 +449,8 @@ iklan300x250.gif|
 ||imagebam.com/*.gif$image,domain=ganool.li
 ||images.gameweb.co.id/gw/ads/
 ||img.gm21.download/*.webp$image
+||img.koran-jakarta.com/images/ads/
+||img.koran-jakarta.com/images/advertisement/
 ||img.nt1.co/*.gif$image,domain=dramaserial.xyz
 ||img.sukipli.com/*.gif$image,third-party
 ||img.teman.stream/tb/*.gif$image,domain=bioskopkerenin.com
@@ -1143,6 +1146,7 @@ fastdrama.co,hkfree.co###modal
 ketik.co.id###modalPopup
 indotelko.com###more_stories
 fastdrama.co###myModal
+emitennews.com###myPopup
 hdtvku.com###mybannerpopup
 hdtvku.com###mybannerpopup2
 nobartv.com###nbpopx-wrapper
@@ -1240,7 +1244,7 @@ terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
 suara.com##.adds-top.add
-192.99.70.18,22cinema.com,95.216.163.177,akurat.co,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,jawapos.com,k-vid.net,kompas.com,masagipedia.com,miyanime.site,neumanga.tv,otakuindo.net,pikiran-rakyat.com,republika.co.id,samehadaku.cam,samehadaku.day,smallencode.com,topgans.blogspot.com##.ads
+192.99.70.18,22cinema.com,95.216.163.177,akurat.co,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,jawapos.com,k-vid.net,kompas.com,koran-jakarta.com,masagipedia.com,miyanime.site,neumanga.tv,otakuindo.net,pikiran-rakyat.com,republika.co.id,samehadaku.cam,samehadaku.day,smallencode.com,topgans.blogspot.com##.ads
 republika.co.id##.ads-120__left
 rejogja.co.id##.ads-120__left.ads
 republika.co.id##.ads-120__right
@@ -1698,6 +1702,7 @@ pojokmanga.org##[class*="popmake"]
 kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
 kompas.tv##[class^="ads-"]
+emitennews.com##[class^="ads-space-"]
 nontonanimeid.org##[class^="adspost"]
 wisatalova.com##[class^="wisat-"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
