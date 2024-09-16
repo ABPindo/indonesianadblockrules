@@ -14,6 +14,7 @@ lendirpedia.*##.teaser3
 manhwaindo.*###teaser3
 manhwaindo.*##.kln
 pascol.*##.kln
+pemersatu.*##.ad
 perawanbokep.*###ads
 ruangbokep.*###floating_bot
 rumahperjaka.*###floatbannerkanan
@@ -22,7 +23,6 @@ rumahperjaka.*###floating_banner_top
 rumahperjaka.*##.elementor-popup-modal
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
-pemersatu.*##.ad
 ! Non-entity filters
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads

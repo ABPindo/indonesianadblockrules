@@ -56,8 +56,10 @@
 ###iklan-tengah
 ###iklan-text
 ###iklan1
+###iklan125x127
 ###iklan2
 ###iklan3
+###iklan300x100
 ###iklan4
 ###iklan700
 ###iklanFloat
@@ -249,5 +251,3 @@
 ##a[alt="iklan" i]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-###iklan125x127
-###iklan300x100
