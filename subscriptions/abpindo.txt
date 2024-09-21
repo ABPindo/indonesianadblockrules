@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202409161015
+! Version: 202409211452
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 16 Sep 2024 10:15 UTC
+! Last modified: 21 Sep 2024 14:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1543,7 +1543,7 @@ kompas.com##.kcm__tower
 kompas.com##.kcm__track
 kontan.co.id##.kiri-det-desk
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,123.anikor.mom,15.235.11.45,157.245.12.72,185.217.95.48,185.217.95.49,45.12.2.2,anikor.icu,animasu.nl,anoboy.id,indodb21.homes,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,kiryuu.org,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.id,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,melongmovie.site,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,tv1.anikor.lol,westmanga.info##.kln
+107.152.37.223,123.anikor.mom,15.235.11.45,157.245.12.72,185.217.95.48,185.217.95.49,45.12.2.2,anikor.icu,animasu.nl,anoboy.id,indodb21.homes,isekaisubs.web.id,kazefuri.asia,kazefuri.net,kazefuri.vip,kiryuu.id,kiryuu.org,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.id,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,melongmovie.site,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,tv1.anikor.lol,westmanga.info##.kln
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
 anime17.net##.ktz_banner
@@ -2195,6 +2195,7 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /capsaqqnew.$image,third-party
 /captainqq.gif$image
 /caradaftarpoker.$image,third-party
+/carawin77-$image
 /cashbackharian.gif|$image
 /casinoitu.$image,third-party
 /cer-sex.$image
@@ -8103,7 +8104,10 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="DEWACASINO" i]
 ##img[alt="DEWAGG" i]
 ##img[alt="EraPlay88" i]
+##img[alt="Hoki Dewa" i]
 ##img[alt="IGAMBLE" i]
+##img[alt="MEGA717" i]
+##img[alt="MPO Profit" i]
 ##img[alt="MPOSport" i]
 ##img[alt="Meta88slot" i]
 ##img[alt="NAGAPOKER" i]
@@ -8112,6 +8116,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="Rajasatu" i]
 ##img[alt="Royalslot" i]
 ##img[alt="SaktiSpin" i]
+##img[alt="TOTO717" i]
 ##img[alt="WIN4D" i]
 ##img[alt="isport365" i]
 ##img[alt="mainhoki" i]
@@ -8457,6 +8462,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt^="Kartu Online" i]
 ##img[alt^="KastilPoker" i]
 ##img[alt^="Katsu5 Slot" i]
+##img[alt^="Klik-Hoki-" i]
 ##img[alt^="Klik4A" i]
 ##img[alt^="LADANGQQ" i]
 ##img[alt^="LAGA99" i]
@@ -8830,6 +8836,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt^="bandarwalet" i]
 ##img[alt^="bandarxl" i]
 ##img[alt^="banner sidebar" i]
+##img[alt^="bannertengah" i]
 ##img[alt^="bataratoto" i]
 ##img[alt^="bet365" i]
 ##img[alt^="betcoin" i]
@@ -9133,7 +9140,7 @@ sebokep.com##.sg-popup-builder-content
 sebokep.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
 sebokep.com##.sgpb-popup-overlay
 nomat.fun##.show.popup
-pascol.cyou,sintube.icu##.teaser3
+melongmovie.site,pascol.cyou,sintube.icu##.teaser3
 207.244.225.48##.underlay
 realthaisluts.com##.video-list-ads
 komikdewasa.art##.wp-image-80765.size-full.alignnone
