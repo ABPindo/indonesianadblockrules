@@ -45,6 +45,8 @@ shinigamitoon.*##img[alt="Advertisement"]
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
+idntimes.com###IDN_Leaderboard
+idntimes.com###IDN_PS_MegaBillboard
 indogamers.com###IklanIDGS
 lihat.co.id###Kolom-random-300
 utusan.com.my###Taboola_widget
@@ -804,6 +806,7 @@ tv.lk21official.world##[href^="https://klik4.me/dunia21"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 kuramanime.lol##[href^="https://tinyurl.com/"]
 lk21official.wiki##[href^="https://yukclick.me/dunia21"]
+idntimes.com##[id^="IDN_InArticle"]
 suara.com##[id^="berita-terkait-"]
 lk21official.mom##[id^="btop-"]
 nontonfilmgratis.club,ragihospitalkukatpally.com##[id^="floating_banner"]
