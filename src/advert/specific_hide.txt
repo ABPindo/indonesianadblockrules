@@ -892,7 +892,6 @@ animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 kuramanime.*###playerOverplay
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
-tokopedia.com##section[data-unify="Card"]:has([href^="https://ta.tokopedia.com"]:first-child)
 satujiwa.org##table
 ! Detik Network
 haibunda.com###balloonads
