@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202409211452
+! Version: 202409261130
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 21 Sep 2024 14:52 UTC
+! Last modified: 26 Sep 2024 11:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -552,6 +552,8 @@ iklan300x250.gif|
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
 ||serunonton.*/wp-content/uploads/*.gif$image
+||shinigami05.com/wp-content/plugins/halfdata-green-popups/js/lepopup.js$script,~third-party
+||shinigami05.com/wp-content/uploads/2022/03/KAYA303_desktop.webp
 ||shinigamitoon.id/wp-content/plugins/halfdata-green-popups/js/lepopup.js$script,~third-party
 ||snacklink.id/js/web-script.js$script,third-party
 ||sobatkeren.club/img/banner/*.gif$image
@@ -581,7 +583,7 @@ iklan300x250.gif|
 ! Miscellanous popups
 *$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|kiryuu.org|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 ! Miscellanous advertisement gifs
-.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|baladfilm.*|baladfilm.guru|baladfilm.skin|bgibola.com|bioskopkerenin.org|dunia21.club|dutafilm.cfd|kiryuu.org|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|mangakita.id|movieajip.online|nomat.top|nontondrama.*|nontonfilmgratis.club|oploverz.*|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd|ragihospitalkukatpally.com|rbtv77.com|samehadaku.*|samehadaku.show|shinigami03.com
+.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|baladfilm.*|baladfilm.guru|baladfilm.skin|bgibola.com|bioskopkerenin.org|dunia21.club|dutafilm.cfd|kiryuu.org|komikcast.*|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|mangakita.id|movieajip.online|nomat.top|nontondrama.*|nontonfilmgratis.club|oploverz.*|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd|ragihospitalkukatpally.com|rbtv77.com|samehadaku.*|samehadaku.show|shinigami03.com
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.mapsaddress.com,info.vebma.com##+js(aeld, click, linkOpened)
@@ -967,6 +969,8 @@ shinigamitoon.*##img[alt="Advertisement"]
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
+idntimes.com###IDN_Leaderboard
+idntimes.com###IDN_PS_MegaBillboard
 indogamers.com###IklanIDGS
 lihat.co.id###Kolom-random-300
 utusan.com.my###Taboola_widget
@@ -1153,6 +1157,7 @@ emitennews.com###myPopup
 hdtvku.com###mybannerpopup
 hdtvku.com###mybannerpopup2
 nobartv.com###nbpopx-wrapper
+timesindonesia.co.id###news_content > .font-weight-lighter
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
 173.249.59.185,185.217.95.49,94.250.202.221,drakorindo.best,gatsunime.org,giladrakor.com,gudangmovies21.lol,gudangmovies21.skin,layarkeren.site,mangakita.id,mangakita.net,wibudesu.co###ouibounce-modal
@@ -1507,6 +1512,7 @@ marketeers.com##.h-\[110px\]
 cubmu.com##.h-\[250px\].w-\[300px\]
 marketeers.com##.h-\[260px\]
 cubmu.com##.h-\[549px\]
+trenasia.com##.h-\[90px\]
 kompas.com##.hAds
 tempo.co##.head-banner
 bioskop90.com##.headborder:nth-of-type(5)
@@ -1557,9 +1563,9 @@ dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
 b201.info##.lenyap
-shinigami03.com,shinigamitoon.com##.lepopup-popup-container
-shinigami03.com##.lepopup-popup-loader
-shinigami03.com,shinigamitoon.com##.lepopup-popup-overlay
+shinigami05.com,shinigamitoon.com##.lepopup-popup-container
+shinigami05.com##.lepopup-popup-loader
+shinigami05.com,shinigamitoon.com##.lepopup-popup-overlay
 kontan.co.id##.liftdownclass
 animasu.cc##.lmd-iklan
 haibunda.com##.m-r1:has([id^="div-gpt-ad"])
@@ -1726,6 +1732,7 @@ tv.lk21official.world##[href^="https://klik4.me/dunia21"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 kuramanime.lol##[href^="https://tinyurl.com/"]
 lk21official.wiki##[href^="https://yukclick.me/dunia21"]
+idntimes.com##[id^="IDN_InArticle"]
 suara.com##[id^="berita-terkait-"]
 lk21official.mom##[id^="btop-"]
 nontonfilmgratis.club,ragihospitalkukatpally.com##[id^="floating_banner"]
@@ -1745,6 +1752,7 @@ westmanga.info##a[href="https://klik.fun/Kp7S5"]
 mypt3.com##a[href][target="_blank"] > img
 samehadaku.cam,samehadaku.day,samehadaku.run##a[href][target="_blank"] > img[src$=".gif"]
 lk21official.co##a[href][target="_blank"][rel="nofollow"] > img[src$=".gif"]
+timesindonesia.co.id##a[href^="//ads-track.times.co.id"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
@@ -1814,7 +1822,6 @@ animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 kuramanime.*###playerOverplay
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
-tokopedia.com##section[data-unify="Card"]:has([href^="https://ta.tokopedia.com"]:first-child)
 satujiwa.org##table
 ! Detik Network
 haibunda.com###balloonads
