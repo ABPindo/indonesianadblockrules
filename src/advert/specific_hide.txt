@@ -233,6 +233,7 @@ emitennews.com###myPopup
 hdtvku.com###mybannerpopup
 hdtvku.com###mybannerpopup2
 nobartv.com###nbpopx-wrapper
+timesindonesia.co.id###news_content > .font-weight-lighter
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
 173.249.59.185,185.217.95.49,94.250.202.221,drakorindo.best,gatsunime.org,giladrakor.com,gudangmovies21.lol,gudangmovies21.skin,layarkeren.site,mangakita.id,mangakita.net,wibudesu.co###ouibounce-modal
@@ -587,6 +588,7 @@ marketeers.com##.h-\[110px\]
 cubmu.com##.h-\[250px\].w-\[300px\]
 marketeers.com##.h-\[260px\]
 cubmu.com##.h-\[549px\]
+trenasia.com##.h-\[90px\]
 kompas.com##.hAds
 tempo.co##.head-banner
 bioskop90.com##.headborder:nth-of-type(5)
@@ -637,9 +639,9 @@ dwanonton.com##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
 b201.info##.lenyap
-shinigami03.com,shinigamitoon.com##.lepopup-popup-container
-shinigami03.com##.lepopup-popup-loader
-shinigami03.com,shinigamitoon.com##.lepopup-popup-overlay
+shinigami05.com,shinigamitoon.com##.lepopup-popup-container
+shinigami05.com##.lepopup-popup-loader
+shinigami05.com,shinigamitoon.com##.lepopup-popup-overlay
 kontan.co.id##.liftdownclass
 animasu.cc##.lmd-iklan
 haibunda.com##.m-r1:has([id^="div-gpt-ad"])
@@ -826,6 +828,7 @@ westmanga.info##a[href="https://klik.fun/Kp7S5"]
 mypt3.com##a[href][target="_blank"] > img
 samehadaku.cam,samehadaku.day,samehadaku.run##a[href][target="_blank"] > img[src$=".gif"]
 lk21official.co##a[href][target="_blank"][rel="nofollow"] > img[src$=".gif"]
+timesindonesia.co.id##a[href^="//ads-track.times.co.id"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
