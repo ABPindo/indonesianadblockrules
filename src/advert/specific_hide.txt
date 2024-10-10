@@ -18,6 +18,7 @@ gudangmovies21.*##.sgpb-popup-overlay
 komikcast.*###teaser3
 komikcast.*###teaser4
 komikcast.*##.kln
+komikindo.*##.gulai_asam_manis
 kuramanime.*##.floating__footer
 kuramanime.*##[href^="https://bit.ly/"]
 kuramanime.*##[href^="https://s.id/"]
@@ -42,7 +43,6 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
-komikindo.*##.gulai_asam_manis
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
