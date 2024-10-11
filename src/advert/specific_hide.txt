@@ -23,6 +23,7 @@ kuramanime.*##.floating__footer
 kuramanime.*##[href^="https://bit.ly/"]
 kuramanime.*##[href^="https://s.id/"]
 kuramanime.*##[href^="https://tinyurl.com/"]
+kuramanime.*##[href^="https://shortku.in/"]
 layarkaca21.*###fbanner
 layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
