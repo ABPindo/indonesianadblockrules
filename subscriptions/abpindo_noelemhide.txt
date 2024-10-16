@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202410151358
+! Version: 202410161406
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 15 Oct 2024 13:58 UTC
+! Last modified: 16 Oct 2024 14:06 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -837,6 +837,7 @@ totolink.id#@#.social-circle
 /agen688.$image,third-party
 /agenbola.$image,third-party
 /agenbola24.$image,third-party
+/agenpaitoslot.$image
 /agenqq-$image
 /agenqq.$image,third-party
 /agenqq365-$image
