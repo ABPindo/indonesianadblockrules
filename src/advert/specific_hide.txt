@@ -43,6 +43,8 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
+animekompi.*##.kln
+animekompi.*##.ays-pb-modals
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
