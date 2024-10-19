@@ -23,6 +23,7 @@ rumahperjaka.*###floating_banner_top
 rumahperjaka.*##.elementor-popup-modal
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
+pascol.*##.teaser3
 ! Non-entity filters
 onlyvid.cfd##.kln
 onlyvid.cfd##.teaser3
