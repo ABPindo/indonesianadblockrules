@@ -14,6 +14,7 @@ lendirpedia.*##.teaser3
 manhwaindo.*###teaser3
 manhwaindo.*##.kln
 pascol.*##.kln
+pascol.*##.teaser3
 pemersatu.*##.ad
 perawanbokep.*###ads
 ruangbokep.*###floating_bot
@@ -23,10 +24,7 @@ rumahperjaka.*###floating_banner_top
 rumahperjaka.*##.elementor-popup-modal
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
-pascol.*##.teaser3
 ! Non-entity filters
-onlyvid.cfd##.kln
-onlyvid.cfd##.teaser3
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
 ceritasexindonesia.com###adsic728
@@ -84,7 +82,7 @@ pinayflex.net##.floating-banner
 indoporn.pro##.full-brkas-container
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
 indobokep.pro,zonapanaz.net##.header-banner
-185.217.95.43,hencop.lol,javsubid.com,komik18.art,komikdewasa.me,lendirpedia.fun,lendirpedia.icu,manhwaindo.cfd,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,pascol.cyou,sintube.icu,skandalpedia.mom,skandalpedia.rest,starjepang.com##.kln
+185.217.95.43,hencop.lol,javsubid.com,komik18.art,komikdewasa.me,lendirpedia.fun,lendirpedia.icu,manhwaindo.cfd,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,onlyvid.cfd,pascol.cyou,sintube.icu,skandalpedia.mom,skandalpedia.rest,starjepang.com##.kln
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 194.233.73.15,sebokep.com##.lazyloaded.ads-50
 216.155.135.144##.lazyloaded.loaded.ads-50
@@ -100,7 +98,7 @@ sebokep.com##.sg-popup-builder-content
 sebokep.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
 sebokep.com##.sgpb-popup-overlay
 nomat.fun##.show.popup
-melongmovie.site,pascol.cyou,sintube.icu##.teaser3
+melongmovie.site,onlyvid.cfd,pascol.cyou,sintube.icu##.teaser3
 207.244.225.48##.underlay
 realthaisluts.com##.video-list-ads
 komikdewasa.art##.wp-image-80765.size-full.alignnone
