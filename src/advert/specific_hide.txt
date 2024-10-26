@@ -46,7 +46,6 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
-kuramanime.red###aboveDownloadBannerSection
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -58,6 +57,7 @@ utusan.com.my###Taboola_widget
 chip.co.id###TopBannerBg
 kompas.tv###_popIn_recommend_word
 mangacanblog.com###aa
+kuramanime.red###aboveDownloadBannerSection
 motorplus-online.com###ad-genie-container
 suara.com###adds-top
 mirrorkomik.net###adrandpop
