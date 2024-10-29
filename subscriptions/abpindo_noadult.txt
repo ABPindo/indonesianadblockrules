@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202410260008
+! Version: 202410291325
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 26 Oct 2024 00:08 UTC
+! Last modified: 29 Oct 2024 13:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -925,6 +925,7 @@ totolink.id#@#.social-circle
 anichin.*##.kln
 animekompi.*##.ays-pb-modals
 animekompi.*##.kln
+anoboy.*###ad_bawah
 anoboy.*###popup_bawah
 anoboy.*###popup_box
 anoboy.*##[href="https://tinyurl.com/anoboyvip"]
@@ -944,10 +945,44 @@ komikcast.*###teaser3
 komikcast.*###teaser4
 komikcast.*##.kln
 komikindo.*##.gulai_asam_manis
+kuramanime.*##.anime-ner.mt-4 > .row
+kuramanime.*##.content__tags
 kuramanime.*##.floating__footer
 kuramanime.*##[href^="https://bit.ly/"]
 kuramanime.*##[href^="https://s.id/"]
+kuramanime.*##[href^="https://shortku.in/"]
 kuramanime.*##[href^="https://tinyurl.com/"]
+kuramanime.*##div.mt-4.p-1.breadcrumb-option:nth-of-type(3)
+kuronime.*###aiklanatas1
+kuronime.*###aiklanatasd1
+kuronime.*###aiklanheader1
+kuronime.*###aiklanheader2
+kuronime.*###aiklanheader3
+kuronime.*###aiklanheader4
+kuronime.*###aiklanheader5
+kuronime.*###aiklanheader6
+kuronime.*###aiklantengah1
+kuronime.*###iklanatas1
+kuronime.*###iklanatas2
+kuronime.*###iklanatas3
+kuronime.*###iklanatas4
+kuronime.*###iklanbawah1
+kuronime.*###iklanbawah2
+kuronime.*###iklanbawah3
+kuronime.*###iklanbawah4
+kuronime.*###iklanfoatingbawah
+kuronime.*###iklanside1
+kuronime.*###iklanside2
+kuronime.*###imgiklanatas1
+kuronime.*###imgiklanatasd1
+kuronime.*###imgiklanheader1
+kuronime.*###imgiklanheader2
+kuronime.*###imgiklantengah1
+kuronime.*###overplay
+kuronime.*##.box_item_berlangganan_popup
+kuronime.*##.iklantengah1
+kuronime.*##.kln
+kuronime.*##.pd-ads
 layarkaca21.*###fbanner
 layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
@@ -1140,6 +1175,8 @@ mangafap.com###lbanner
 kabar2.com###leaderboard
 detik.com###leaderboard:has([id^="div-gpt-ad"])
 komikbaru.com###left-skyscraper
+shinigami06.com###lepopup-popup-13
+shinigami06.com###lepopup-popup-13-overlay
 www.lingohut.com###lht2_lesson_after_vocab2_300x250_phone
 www.lingohut.com###lht2_lesson_bottom_300x250_phone
 www.lingohut.com###lht2_lesson_top_320x50_phone
@@ -1334,7 +1371,7 @@ tirto.id##.article-sidebar
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 139.99.120.222,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
-animebatchs.com,goblintvfree.com,juragan-anime.net,kapanlagi.com,merdeka.com,nanime.in##.banner
+animebatchs.com,goblintvfree.com,juragan-anime.net,kapanlagi.com,kompasiana.com,merdeka.com,nanime.in##.banner
 kompasiana.com##.banner-center
 dewanonton.vip,dwanonton.com##.banner-common
 www.kompasiana.com##.banner-dable.banner
@@ -1357,7 +1394,7 @@ dream.co.id##.banner-sc2
 sonora.id##.banner-skin--left
 sonora.id##.banner-skin--right
 kapanlagi.com##.banner-title
-modifikasi.com##.banner-top
+kompasiana.com,modifikasi.com##.banner-top
 oktavita.com##.banner-zone
 juragan-anime.net##.banner3
 tempo.co##.banner320x480
@@ -1631,7 +1668,7 @@ filem456.com##.pps-single-popup
 kompas.com##.premium_div
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 blibli.com##.product__card:has(.product__tag__ads)
-bolasport.com,gridoto.com,kompas.com,sonora.id##.pushdown-banner
+bolasport.com,gridoto.com,kompas.com,kompasiana.com,sonora.id##.pushdown-banner
 otomania.com##.r-ads
 film-ganool.com##.random
 okezone.com##.rc-ad-300x250
@@ -1725,6 +1762,7 @@ nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
 pakbos21.org##[href="//dumbpop.com/help.xml"]
 idfl.me##[href="http://bit.ly/adsvbola"]
+shinigami06.com##[href="http://heylink.me/KAYA303"]
 kazefuri.web.id##[href="javascript:showHideGB()"]
 layardrama21.rest##[href^="//avgirls.asia/"]
 nekonime.com##[href^="//wizliebeg.com/"]
@@ -1815,7 +1853,7 @@ bacamanga.id,kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
-shinigamitoon.com##img[alt="Advertisement"]
+shinigami06.com,shinigamitoon.com##img[alt="Advertisement"]
 tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
