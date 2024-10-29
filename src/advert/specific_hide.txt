@@ -81,6 +81,10 @@ kuronime.*###iklanatas3
 kuronime.*###iklanatas4
 kuronime.*##.box_item_berlangganan_popup
 ! Non-entity filters
+shinigami06.com###lepopup-popup-13
+shinigami06.com###lepopup-popup-13-overlay
+shinigami06.com##[href="http://heylink.me/KAYA303"]
+shinigami06.com##img[alt="Advertisement"]
 kompasiana.com##.pushdown-banner
 kompasiana.com##.banner
 kompasiana.com##.banner-top
