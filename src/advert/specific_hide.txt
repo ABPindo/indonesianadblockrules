@@ -51,6 +51,9 @@ shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 anoboy.*###ad_bawah
 ! Non-entity filters
+kompasiana.com##.pushdown-banner
+kompasiana.com##.banner
+kompasiana.com##.banner-top
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
