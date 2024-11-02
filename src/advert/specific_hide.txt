@@ -81,8 +81,6 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
-semikeren.online###fadeinbox
-dramaserial21.site###fadeinbox
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -166,7 +164,7 @@ www.grid.id###div-top-banner-transparent
 90animax.com###energysaving
 cmovieshd.se,ganool.se###epmblock
 negumo.com###fab
-nf21.club###fadeinbox
+dramaserial21.site,nf21.club,semikeren.online###fadeinbox
 idfl.me,r-l.me###fancybox-overlay
 idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
