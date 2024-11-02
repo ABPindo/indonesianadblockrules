@@ -81,6 +81,7 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+semikeren.online###fadeinbox
 dramaserial21.site###fadeinbox
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
