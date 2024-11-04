@@ -809,7 +809,7 @@ klikseru.com##.textwidget img[width="300"][height="250"]
 thejakartapost.com##.tjp-placeholder-ads
 utusan.com.my##.tonal__standfirst
 grid.id##.top_banner-wrapper
-beritasatu.com##.underlay-ad
+beritasatu.com,jakartaglobe.id##.underlay-ad
 investor.id##.underlay-ad-text-box
 kompas.com##.video-box-wrap
 mydramalist.com##.vip-info
