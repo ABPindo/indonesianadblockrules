@@ -81,7 +81,6 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
-animexin.top###overplay
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -283,7 +282,7 @@ viva.co.id###otp_ads
 149.56.24.226,kricom.id###overlay
 dunia21.me,dunia21.net,dunia21.org,dunia21.wtf###overlay-pop
 lihat.co.id###overlay[style="display: block;"]
-15.235.11.45,65.108.132.145,oploverz.best,oploverz.bz,oploverz.info,oploverz.love,oploverz.top###overplay
+15.235.11.45,65.108.132.145,animexin.top,oploverz.best,oploverz.bz,oploverz.info,oploverz.love,oploverz.top###overplay
 inews.id###parallax-ad
 suara.com###pariwara_dua
 eramuslim.com###peluang
