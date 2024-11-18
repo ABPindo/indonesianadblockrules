@@ -81,8 +81,6 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
-cosmic345.co###floatcenter
-cosmic345.co##.mlb
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -194,7 +192,7 @@ nontonsini.com###floatbawah
 lk21.host###floatbot
 samehadaku.cam,samehadaku.day,samehadaku.run###floatbottom
 sinemaindo.web.id###floatbtmleft
-149.28.158.117,212.32.226.234,animekompi.vip,animexin.xyz,anixlife.xyz,awsubs.co,bgibola.com,bgibola.lat,indodb21.homes,isekaisubs.web.id,samehadaku.cam,samehadaku.day,samehadaku.run###floatcenter
+149.28.158.117,212.32.226.234,animekompi.vip,animexin.xyz,anixlife.xyz,awsubs.co,bgibola.com,bgibola.lat,cosmic345.co,indodb21.homes,isekaisubs.web.id,samehadaku.cam,samehadaku.day,samehadaku.run###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 mgkomik.com###floating_ads_bottom_textcss_container
 idxxx1.com###floating_ads_bottom_textcss_wrap
@@ -706,7 +704,7 @@ juraganfilm.icu##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile
 bolasport.com,kompas.tv##.mgidclsbanner
 dapurpacu.com##.mid-banner
 astroawani.com##.middle-ad-cont
-cosmic1.co##.mlb
+cosmic1.co,cosmic345.co##.mlb
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
