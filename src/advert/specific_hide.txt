@@ -81,6 +81,7 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+anichin.dev##[href="https://cek.to/anc-dwc"]
 toriianime.net###ouibounce-modal
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
