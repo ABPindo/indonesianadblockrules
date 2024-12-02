@@ -81,6 +81,8 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+stampeippogrifo.com###top-b
+stampeippogrifo.com##.widget_custom_html
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
