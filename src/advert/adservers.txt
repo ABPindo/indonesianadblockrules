@@ -13,6 +13,7 @@
 ||adreach.co^$third-party
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
+||ads.d21.media^
 ||ads.indosatooredoo.com^$third-party
 ||ads.telkomsel.com^$third-party
 ||adsbingo.com^$third-party
@@ -152,7 +153,6 @@
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
-||ads.d21.media^
 ! Potential ad servers
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||1b969cef84d93b43.com^

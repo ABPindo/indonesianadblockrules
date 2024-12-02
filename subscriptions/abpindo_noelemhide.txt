@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202411281141
+! Version: 202412021146
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 28 Nov 2024 11:41 UTC
+! Last modified: 02 Dec 2024 11:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -28,6 +28,7 @@
 ||adreach.co^$third-party
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
+||ads.d21.media^
 ||ads.indosatooredoo.com^$third-party
 ||ads.telkomsel.com^$third-party
 ||adsbingo.com^$third-party
@@ -562,6 +563,7 @@ iklan300x250.gif|
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||tambahketinggian.com/banner/
+||tempo.co/*/img/temporary/ads/$image
 ||tempo.co/webtorial/like/remodal
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
 ||tribunnews.com/stylesheets/close.gif
@@ -585,6 +587,7 @@ iklan300x250.gif|
 ! Miscellanous advertisement gifs
 .gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|baladfilm.*|baladfilm.guru|baladfilm.skin|bgibola.com|bioskopkerenin.org|dunia21.club|dutafilm.cfd|kiryuu.org|komikcast.*|ld2tv.net|lk21.london|lk21official.biz|lk21official.live|lk21official.org|lk21tv.com|mangakita.id|movieajip.online|nomat.top|nontondrama.*|nontonfilmgratis.club|oploverz.*|oploverz.best|oploverz.co.in|oploverz.love|oploverz.tv|otakudesu.ltd|ragihospitalkukatpally.com|rbtv77.com|samehadaku.*|samehadaku.show|shinigami03.com
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
+onnano.tv##+js(acs, document.addEventListener, popup)
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.mapsaddress.com,info.vebma.com##+js(aeld, click, linkOpened)
 juraganfilm.ink##+js(aopr, $.magnificPopup.open)
