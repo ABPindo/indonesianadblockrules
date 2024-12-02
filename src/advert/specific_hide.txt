@@ -81,6 +81,7 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+onnano.tv###custom-popup
 stampeippogrifo.com###top-b
 stampeippogrifo.com##.widget_custom_html
 wowkeren.com###Ad300B
