@@ -81,6 +81,9 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+cnbcindonesia.com##.billboardmobile
+cnbcindonesia.com##.smartbanner_new
+cnbcindonesia.com##.min-w-0.detail-text > .detail-text > div > div
 tempo.co##.ads
 tempo.co##.h-\[600px\].w-\[300px\].m-auto.mb-6.justify-center
 tempo.co##.remp-banner
