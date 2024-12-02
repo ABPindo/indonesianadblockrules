@@ -81,6 +81,10 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+tempo.co##.ads
+tempo.co##.h-\[600px\].w-\[300px\].m-auto.mb-6.justify-center
+tempo.co##.remp-banner
+tempo.co##article .w-\[300px\].overflow-hidden
 onnano.tv###custom-popup
 stampeippogrifo.com###top-b
 stampeippogrifo.com##.widget_custom_html
