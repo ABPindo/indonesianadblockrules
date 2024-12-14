@@ -82,6 +82,8 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+cnnindonesia.com##.bottom_banner_container
+cnnindonesia.com##.bottom_banner_bar
 www.melintas.id##.ads
 tafsirweb.com###iklanACT
 tafsirweb.com###promo-box
