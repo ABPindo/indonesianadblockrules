@@ -82,6 +82,9 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+movieku.ink##.adsx
+movieku.ink##.kln
+movieku.ink##.teaser3
 okezone.com##.ads5
 okezone.com##.ads3
 okezone.com##.ads4
