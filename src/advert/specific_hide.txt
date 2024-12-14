@@ -82,6 +82,18 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+okezone.com##.ads5
+okezone.com##.ads3
+okezone.com##.ads4
+okezone.com##.ads2
+okezone.com##.ads1
+okezone.com##.ads
+okezone.com##.ads-mega-box
+okezone.com##.title-ads-mega
+okezone.com##.bannertopcenter
+okezone.com##.box-ads-konten
+okezone.com##.flying_ads
+okezone.com##.ads6
 cnnindonesia.com##.bottom_banner_container
 cnnindonesia.com##.bottom_banner_bar
 www.melintas.id##.ads
