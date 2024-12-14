@@ -75,6 +75,7 @@ samehadaku.*###floatcenter
 samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##.kln
+samehadaku.*##img[style="width: 50%; height: 70px;"]
 shinigami.*##.lepopup-popup-container
 shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
