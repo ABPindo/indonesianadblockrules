@@ -82,6 +82,9 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+tafsirweb.com###iklanACT
+tafsirweb.com###promo-box
+tafsirweb.com###promo-banner
 808fubo.com##.banner
 808fubo.com##.ad-s-class
 808fubo.com##.banner.flex-center
