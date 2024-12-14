@@ -82,6 +82,9 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+www.inews.id##.adsPlacement
+www.inews.id##.stickyAds
+www.inews.id##.asideAds
 movieku.ink##.adsx
 movieku.ink##.kln
 movieku.ink##.teaser3
