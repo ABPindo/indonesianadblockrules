@@ -27,9 +27,6 @@ rumahperjaka.*##.elementor-popup-modal
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
 ! Non-entity filters
-semprot.com##.f_floating_div_row.f_floating_div
-semprot.com##.popup-cr7
-semprot.com#@#a[href^="/yum.php"]
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
 ceritasexindonesia.com###adsic728
@@ -84,6 +81,7 @@ lkprd.fun##.adshu
 bokepkita.pro##.btm_ban
 4play.to##.davwheat-ad
 rumahperjaka.live,rumahperjaka.site##.elementor-popup-modal
+semprot.com##.f_floating_div_row.f_floating_div
 pinayflex.net##.floating-banner
 indoporn.pro##.full-brkas-container
 139.99.33.210,bokepfull.fun,sukamovie.mobi,videocrot.org##.headbanner
@@ -97,6 +95,7 @@ nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
 agenbokep.co,agenbokep.guru##.pop-overlay
 agenbokep.co,agenbokep.guru,agenbokep.pro##.popbox
+semprot.com##.popup-cr7
 bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
@@ -119,6 +118,7 @@ xtubecinema.club##[href^="/GoUrl.php?ads="]
 139.99.33.205,javsubid.com,pecintabokep.club##[href^="https://bit.ly/"]
 slurr.my.id##[href^="https://scratchy-trick.com/"]
 doujindesu.tv##a[href][target="_blank"] > img
+semprot.com#@#a[href^="/yum.php"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
