@@ -69,6 +69,8 @@
 ||dewajudionline.com^$third-party
 ||dewijudi.com^$third-party
 ||dewitogel.com^$third-party
+||dunlop.id^$popup
+||dunlop.id^$third-party
 ||dutatoto.com^$third-party
 ||emputogel.com^$third-party
 ||europoker.com^$third-party
@@ -282,5 +284,3 @@
 ||xjudi.com^$third-party
 ||yourpokercash.com^$third-party
 ||yoyopoker.net^$popup
-||dunlop.id^$third-party
-||dunlop.id^$popup

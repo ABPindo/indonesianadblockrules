@@ -356,6 +356,8 @@ local-zone: "dewajudibet.com" always_nxdomain
 local-zone: "dewajudionline.com" always_nxdomain
 local-zone: "dewijudi.com" always_nxdomain
 local-zone: "dewitogel.com" always_nxdomain
+local-zone: "dunlop.id" always_nxdomain
+local-zone: "dunlop.id" always_nxdomain
 local-zone: "dutatoto.com" always_nxdomain
 local-zone: "emputogel.com" always_nxdomain
 local-zone: "europoker.com" always_nxdomain
