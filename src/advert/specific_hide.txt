@@ -1,9 +1,9 @@
 ! Entity filters
 anichin.*##.kln
-animekompi.*##.ays-pb-modals
-animekompi.*##.kln
 animekompi.*###overplay
 animekompi.*###teaser4
+animekompi.*##.ays-pb-modals
+animekompi.*##.kln
 anoboy.*###ad_bawah
 anoboy.*###popup_bawah
 anoboy.*###popup_box
