@@ -84,6 +84,8 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+cnnindonesia.com##.bottom_banner_container
+cnnindonesia.com##.bottom_banner_bar
 animekhor.org###overplay
 inews.id###ads-bottom-logo
 inews.id##.asideAds
