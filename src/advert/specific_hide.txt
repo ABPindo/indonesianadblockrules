@@ -84,6 +84,7 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+animekhor.org###overplay
 inews.id###ads-bottom-logo
 inews.id##.asideAds
 wowkeren.com###Ad300B
