@@ -84,6 +84,9 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+tivipedia.com##.code-block-1.code-block
+tivipedia.com##.code-block-2.code-block
+tivipedia.com##.code-block-3.code-block
 beritaharian.sg##div[data-testid=advertisement-element]
 beritaharian.sg##div[style^="background-image: linear-gradient"]
 wowkeren.com###Ad300B
