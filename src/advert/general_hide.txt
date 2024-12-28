@@ -248,6 +248,6 @@
 ##[href^="https://www.totalping.com"]
 ##[href^="https://yllix.com/advertisers/"]
 ##a[alt="iklan" i]
+##img[alt="Ad banner"]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-##img[alt="Ad banner"]

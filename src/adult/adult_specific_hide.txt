@@ -28,9 +28,6 @@ sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
 ! Non-entity filters
-bokepvir.net##.banner-place-footer
-bokepvir.net##.banner-place-top
-bokepvir.net##[href="https://bkpv.online/reffbokepvir"]
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink,malemjumat.lol,malemjumat.mom,perawabokep.cam,perawanbokep.cam###ads
 ceritasexindonesia.com###adsic728
@@ -81,6 +78,8 @@ javsubid.com##.ads-jav
 realthaisluts.com##.ads-video-zone
 lkprd.fun##.adshu
 154.26.132.73,194.233.87.224,bokepmobile.fun##.banner-img
+bokepvir.net##.banner-place-footer
+bokepvir.net##.banner-place-top
 68.65.123.84,avtub.io,avtub.sx,simontok.cx,simontok.ink##.blocker.jquery-modal
 bokepkita.pro##.btm_ban
 4play.to##.davwheat-ad
@@ -114,6 +113,7 @@ komikdewasa.art##.wp-image-80765.size-full.alignnone
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 bokepid.wiki##[class^="xnxx5-"]
 173.249.49.204##[href="https://bit.ly/idx-xx"]
+bokepvir.net##[href="https://bkpv.online/reffbokepvir"]
 komikmanhwa.me##[href="https://klik.fun/ZyslX"]
 anoboy.ink##[href="https://klik.gg/anoboy"]
 anoboy.ink##[href="https://klik.gg/anoboyvip"]

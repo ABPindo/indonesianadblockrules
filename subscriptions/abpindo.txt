@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202412282335
+! Version: 202412282337
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 28 Dec 2024 23:35 UTC
+! Last modified: 28 Dec 2024 23:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -921,6 +921,7 @@ totolink.id#@#.social-circle
 ##[href^="https://www.totalping.com"]
 ##[href^="https://yllix.com/advertisers/"]
 ##a[alt="iklan" i]
+##img[alt="Ad banner"]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
 ! *** abpindo:src/advert/specific_hide.txt ***
@@ -9236,6 +9237,8 @@ javsubid.com##.ads-jav
 realthaisluts.com##.ads-video-zone
 lkprd.fun##.adshu
 154.26.132.73,194.233.87.224,bokepmobile.fun##.banner-img
+bokepvir.net##.banner-place-footer
+bokepvir.net##.banner-place-top
 68.65.123.84,avtub.io,avtub.sx,simontok.cx,simontok.ink##.blocker.jquery-modal
 bokepkita.pro##.btm_ban
 4play.to##.davwheat-ad
@@ -9269,6 +9272,7 @@ komikdewasa.art##.wp-image-80765.size-full.alignnone
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
 bokepid.wiki##[class^="xnxx5-"]
 173.249.49.204##[href="https://bit.ly/idx-xx"]
+bokepvir.net##[href="https://bkpv.online/reffbokepvir"]
 komikmanhwa.me##[href="https://klik.fun/ZyslX"]
 anoboy.ink##[href="https://klik.gg/anoboy"]
 anoboy.ink##[href="https://klik.gg/anoboyvip"]
