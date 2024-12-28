@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202412251341
+! Version: 202412282335
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 25 Dec 2024 13:41 UTC
+! Last modified: 28 Dec 2024 23:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1522,7 +1522,9 @@ bolasport.com,gridoto.com,motorplus-online.com,www.parapuan.co##.cls-outstream
 onlinemetro.id##.cls.code-block-center
 inidramaku.net##.cm-popup-modal
 carisinyal.com##.code-block
-windowsreport.com##.code-block-3.code-block
+tivipedia.com##.code-block-1.code-block
+tivipedia.com##.code-block-2.code-block
+tivipedia.com,windowsreport.com##.code-block-3.code-block
 rasa.my##.code-block-6
 dream.co.id##.col-banner
 hmetro.com.my##.col-lg-3:has([id^="div-gpt-ad"])
@@ -1876,6 +1878,7 @@ tokopedia.com#?#div[data-testid="lazy-frame"]:has(span:-abp-contains(/^Ad$/))
 tokopedia.com##div[data-testid="lazy-frame"]:has(span[data-testid="lblProdTopads"])
 tokopedia.com##div[data-testid="master-product-card"]:has(span[data-testid^="linkProductTopads"])
 tokopedia.com##div[data-testid="topadsCPMWrapper"]
+beritaharian.sg##div[data-testid=advertisement-element]
 tokopedia.com#?#div[data-testid^="divProductRecommendation"]:has(span:-abp-contains(/^Ad$/))
 tokopedia.com##div[data-testid^="divProductRecommendation"]:has(span[data-testid="icnHomeTopadsRecom"])
 rasa.my##div[data-ub-carousel]
@@ -1883,6 +1886,7 @@ rasa.my##div[data-ub-carousel]
 ns21.tv,ns21.us##div[id^="previewBox"]
 situshp.com##div[style="height:260px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
+beritaharian.sg##div[style^="background-image: linear-gradient"]
 dataindonesia.id##div[style^='background-image: url("/img/logo-ads']
 bacamanga.id,kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
