@@ -84,6 +84,8 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+katadata.co.id##.skinads
+katadata.co.id##.ads
 kompas.com##.ads-partner-wrap-pop
 kompas.com##.kgnw-modal-ads
 wowkeren.com###Ad300B
