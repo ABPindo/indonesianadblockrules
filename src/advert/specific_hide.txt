@@ -84,6 +84,7 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+antaranews.com##div[style="min-width:300px;min-height:250px;"]
 katadata.co.id##.skinads
 katadata.co.id##.ads
 kompas.com##.ads-partner-wrap-pop
