@@ -998,34 +998,27 @@ detik.com###top_banner
 femaledaily.com##.ads-billboard
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-container
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-height
-beautynesia.id,cnnindonesia.com,detik.com##.ads-slot
-haibunda.com##.ads-slot
+beautynesia.id,cnnindonesia.com,detik.com,haibunda.com##.ads-slot
 haibunda.com##.ads_native_d
 detik.com##.banner_inside_article
 nontonanimeid.org##.banner_player
 detik.com##.bb_banner
 detik.com##.billboard-top
 haibunda.com##.billboard__banner
-haibunda.com##.smartbanner_new
-haibunda.com##.m-r1:has(#adv-caption-mr1)
-haibunda.com##.m-r2:has(#adv-caption-mr2)
 cnbcindonesia.com##.billboardmobile
-haibunda.com###parallaxdetail
-haibunda.com##.parallaxindetail
-haibunda.com##.paradetail
 beautynesia.id##.box-ads--container
 femaledaily.com##.btn_ads_close_top_frame
 cnnindonesia.com##.detail_ads
 cnbcindonesia.com,detik.com##.detikads
 cnnindonesia.com,detik.com,insertlive.com##.footer_banner
+haibunda.com##.m-r1:has(#adv-caption-mr1)
+haibunda.com##.m-r2:has(#adv-caption-mr2)
 cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
-detik.com##.normalbanner
 detik.com##.mr1:has(#adv-caption-mr1)
 detik.com##.mr2:has(#adv-caption-mr2)
-detik.com##.mr:has(.mr1-scrollpage-container .mr1-scrollpage-banner)
-detik.com##.mr:has(.mr2-scrollpage-container .mr2-scrollpage-banner)
-haibunda.com##.mr:has(.mr1-scrollpage-container .mr1-scrollpage-banner)
-haibunda.com##.mr:has(.mr2-scrollpage-container .mr2-scrollpage-banner)
+detik.com,haibunda.com##.mr:has(.mr1-scrollpage-container .mr1-scrollpage-banner)
+detik.com,haibunda.com##.mr:has(.mr2-scrollpage-container .mr2-scrollpage-banner)
+detik.com##.normalbanner
 detik.com##.otp_banner_close
 cnnindonesia.com,detik.com,haibunda.com,insertlive.com##.paradetail
 haibunda.com##.parallax1
@@ -1034,6 +1027,7 @@ cnnindonesia.com,detik.com,haibunda.com##.parallaxindetail
 detik.com##.skinad_1
 detik.com##.skinad_2
 detik.com##.skybanner
+haibunda.com##.smartbanner_new
 detik.com##.staticdetail_ads
 cnbcindonesia.com##.stickystatic
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]

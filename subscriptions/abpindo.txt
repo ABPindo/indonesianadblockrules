@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202412301430
+! Version: 202412301450
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 30 Dec 2024 14:30 UTC
+! Last modified: 30 Dec 2024 14:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1649,7 +1649,6 @@ file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 cinemaindo.web.id,filmbagus21.info##.modal
 marketeers.com##.modal-login-container
-detik.com##.mr1:has(#adv-caption-mr1)
 cnbcindonesia.com,cnnindonesia.com,detik.com##.mr1:has([id^="div-gpt-ad"])
 cnbcindonesia.com,cnnindonesia.com,detik.com##.mr2:has([id^="div-gpt-ad"])
 cnnindonesia.com##.mr3:has([id^="div-gpt-ad"])
@@ -1914,7 +1913,7 @@ detik.com###top_banner
 femaledaily.com##.ads-billboard
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-container
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-height
-beautynesia.id,cnnindonesia.com,detik.com##.ads-slot
+beautynesia.id,cnnindonesia.com,detik.com,haibunda.com##.ads-slot
 haibunda.com##.ads_native_d
 detik.com##.banner_inside_article
 nontonanimeid.org##.banner_player
@@ -1927,8 +1926,13 @@ femaledaily.com##.btn_ads_close_top_frame
 cnnindonesia.com##.detail_ads
 cnbcindonesia.com,detik.com##.detikads
 cnnindonesia.com,detik.com,insertlive.com##.footer_banner
+haibunda.com##.m-r1:has(#adv-caption-mr1)
+haibunda.com##.m-r2:has(#adv-caption-mr2)
 cnbcindonesia.com,detik.com,haibunda.com##.megabillboard
-detik.com##.mr2-scrollpage-height
+detik.com##.mr1:has(#adv-caption-mr1)
+detik.com##.mr2:has(#adv-caption-mr2)
+detik.com,haibunda.com##.mr:has(.mr1-scrollpage-container .mr1-scrollpage-banner)
+detik.com,haibunda.com##.mr:has(.mr2-scrollpage-container .mr2-scrollpage-banner)
 detik.com##.normalbanner
 detik.com##.otp_banner_close
 cnnindonesia.com,detik.com,haibunda.com,insertlive.com##.paradetail
@@ -1938,6 +1942,7 @@ cnnindonesia.com,detik.com,haibunda.com##.parallaxindetail
 detik.com##.skinad_1
 detik.com##.skinad_2
 detik.com##.skybanner
+haibunda.com##.smartbanner_new
 detik.com##.staticdetail_ads
 cnbcindonesia.com##.stickystatic
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
