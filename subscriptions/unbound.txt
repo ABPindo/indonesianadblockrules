@@ -140,6 +140,7 @@ local-zone: "sumberiklan.com" always_nxdomain
 local-zone: "suryaiklan.com" always_nxdomain
 local-zone: "syndopop.com" always_nxdomain
 local-zone: "teliad.com" always_nxdomain
+local-zone: "thapi.aedi.ai" always_nxdomain
 local-zone: "theclickers.net" always_nxdomain
 local-zone: "tinggalklik.com" always_nxdomain
 local-zone: "topklik.com" always_nxdomain

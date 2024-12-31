@@ -272,6 +272,7 @@ sindonews.com###me-div-gpt-ad-stickyad
 dapurpacu.com###mid-banner
 dunia21.cx,ganool.watch,lk21tv.com,movies21.co,terbit21.cafe###middle-banner
 fastdrama.co,hkfree.co###modal
+katadata.co.id###modalAdsPopup
 ketik.co.id###modalPopup
 indotelko.com###more_stories
 fastdrama.co###myModal
@@ -676,6 +677,7 @@ motorplus-online.com,sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
 indoxx1.art,indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
+kgnow.com##.kcm
 kompas.com##.kcm-track
 kompas.com##.kcm-track-sticky
 kompas.com##.kcm__articleList
@@ -980,8 +982,6 @@ doroni.me##ins.adsbygoogle
 kuramanime.*###playerOverplay
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 satujiwa.org##table
-katadata.co.id###modalAdsPopup
-kgnow.com##.kcm
 ! Detik Network
 haibunda.com###balloonads
 cnnindonesia.com,detik.com###billboard
