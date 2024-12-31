@@ -153,6 +153,7 @@
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
+||thapi.aedi.ai^$third-party
 ! Potential ad servers
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||1b969cef84d93b43.com^
