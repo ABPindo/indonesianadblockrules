@@ -981,7 +981,7 @@ kuramanime.*###playerOverplay
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 satujiwa.org##table
 katadata.co.id###modalAdsPopup
-
+kgnow.com##.kcm
 ! Detik Network
 haibunda.com###balloonads
 cnnindonesia.com,detik.com###billboard
