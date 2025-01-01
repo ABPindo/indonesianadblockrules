@@ -663,6 +663,7 @@ bioskop90.com##.headborder:nth-of-type(5)
 kaskus.co.id##.header__kasad
 malaysiakini.com##.hero_adslot
 filmace21.net##.idmupi-topbanner
+katadata.co.id##.iklan-paralax-wrapper
 nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
 awsubs.co##.iklansamping
@@ -982,8 +983,6 @@ doroni.me##ins.adsbygoogle
 kuramanime.*###playerOverplay
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 satujiwa.org##table
-katadata.co.id##.iklan-paralax-wrapper
-katadata.co.id##.ads
 ! Detik Network
 haibunda.com###balloonads
 cnnindonesia.com,detik.com###billboard
