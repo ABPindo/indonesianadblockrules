@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202501011044
+! Version: 202501021232
 # Title: ABPindo (hosts adult)
 # Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
 # Last modified: %timestamp%
@@ -19,7 +19,6 @@
 ||ad-loupe.com^$third-party
 ||adbsys.icu^$popup
 ||addesigner.com^$third-party
-||adflazz.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||adnety.com^$popup,third-party
 ||adplus.co.id^$third-party
@@ -107,7 +106,6 @@
 ||masteriklan.net^$third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
-||mybannermaker.com^$third-party
 ||newsupdatewe.info^$third-party
 ||offdeck.telkomsel.com^$third-party
 ||offer.popsads.link^$script
@@ -154,7 +152,6 @@
 ||spanuletubings.com^$popup,third-party
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
-||syndopop.com^$popup
 ||teliad.com^$third-party
 ||thapi.aedi.ai^$third-party
 ||theclickers.net^$third-party
@@ -194,8 +191,6 @@
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||chidsimp.com^$third-party
-||chitchooms.net^$popup
-||chitchooms.net^$xhr
 ||chqspuonctkgz.com^$popup
 ||craydark.pw^$third-party
 ||curoax.com^$script,third-party
@@ -232,7 +227,6 @@
 ||kdbumyha.com^$popup
 ||kozoysnsx.com^$popup
 ||l9tdhe6.com^$popup
-||laluvygy.com^
 ||ld82ydd.com^$popup
 ||leoceran.pw^$third-party
 ||lpaizureik.com^$popup
@@ -246,7 +240,6 @@
 ||nvqonvfylkxdjc.com^
 ||oardjnay.com^
 ||octafx.com^$popup,third-party
-||olenation.org^$popup
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
 ||ourtherss.top^$third-party
@@ -267,7 +260,6 @@
 ||torflegorb.com^
 ||trendlope.com^$third-party
 ||trvwjyjgkgeagd.com^
-||tsyndolls.com^$popup
 ||tummiarunzpf.com^$popup,third-party
 ||uamrnaakv.com^
 ||ueuodgnrhb.com^$popup
@@ -279,7 +271,6 @@
 ||wbaogaqvrukprx.com^$popup
 ||whjibbprhng.com^$popup,third-party
 ||wkuave.com^$third-party
-||xosbkqblniusql.com^$xhr
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^$third-party
 ||zukxd6fkxqn.com^$popup
@@ -337,7 +328,6 @@
 ||bebasjudi.com^$popup
 ||belitogel.com^$third-party
 ||beritaagenjudi.com^$third-party
-||beritajudionline.com^$third-party
 ||bermainjudibola.com^$third-party
 ||bet4dtoto.com^$third-party
 ||betjudionline.com^$third-party
@@ -389,7 +379,6 @@
 ||goldentoto.com^$third-party
 ||goldtoto.com^$third-party
 ||hasiltogel.club^$popup
-||heypoker.com^$third-party
 ||hjtowin.online^$popup
 ||hjtowin.online^$third-party
 ||hokijudi99.com^$third-party
@@ -398,7 +387,6 @@
 ||homepokergames.com^$third-party
 ||hotpokerbonus.com^$third-party
 ||houseoftoto.com^$third-party
-||infotogelharian.com^$third-party
 ||inipoker.com^$third-party
 ||investopedia.today^
 ||ipoker.com^$third-party
@@ -469,7 +457,6 @@
 ||planettoto.com^$third-party
 ||playpokeronline.com^$third-party
 ||playwinpoker.com^$third-party
-||poker24x7.com^$third-party
 ||poker338a.com^$third-party
 ||poker4ever.com^$third-party
 ||pokerace.com^$third-party
@@ -532,11 +519,9 @@
 ||sunpoker.com^$third-party
 ||surgajudi.com^$third-party
 ||switchpoker.com^$third-party
-||tangkaspoker.com^$third-party
 ||taruhanbetting.com^$third-party
 ||taruhanbolaku.com^$third-party
 ||taruhancasino.com^$third-party
-||taruhanjudi.com^$third-party
 ||taruhanku.com^$third-party
 ||taruhanolahraga.com^$third-party
 ||taruhansepakbola.com^$third-party

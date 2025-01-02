@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202501011044
+! Version: 202501021232
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 01 Jan 2025 10:44 UTC
+! Last modified: 02 Jan 2025 12:32 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -19,7 +19,6 @@
 ||ad-loupe.com^$third-party
 ||adbsys.icu^$popup
 ||addesigner.com^$third-party
-||adflazz.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||adnety.com^$popup,third-party
 ||adplus.co.id^$third-party
@@ -107,7 +106,6 @@
 ||masteriklan.net^$third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
-||mybannermaker.com^$third-party
 ||newsupdatewe.info^$third-party
 ||offdeck.telkomsel.com^$third-party
 ||offer.popsads.link^$script
@@ -154,7 +152,6 @@
 ||spanuletubings.com^$popup,third-party
 ||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
-||syndopop.com^$popup
 ||teliad.com^$third-party
 ||thapi.aedi.ai^$third-party
 ||theclickers.net^$third-party
@@ -194,8 +191,6 @@
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||chidsimp.com^$third-party
-||chitchooms.net^$popup
-||chitchooms.net^$xhr
 ||chqspuonctkgz.com^$popup
 ||craydark.pw^$third-party
 ||curoax.com^$script,third-party
@@ -232,7 +227,6 @@
 ||kdbumyha.com^$popup
 ||kozoysnsx.com^$popup
 ||l9tdhe6.com^$popup
-||laluvygy.com^
 ||ld82ydd.com^$popup
 ||leoceran.pw^$third-party
 ||lpaizureik.com^$popup
@@ -246,7 +240,6 @@
 ||nvqonvfylkxdjc.com^
 ||oardjnay.com^
 ||octafx.com^$popup,third-party
-||olenation.org^$popup
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
 ||ourtherss.top^$third-party
@@ -267,7 +260,6 @@
 ||torflegorb.com^
 ||trendlope.com^$third-party
 ||trvwjyjgkgeagd.com^
-||tsyndolls.com^$popup
 ||tummiarunzpf.com^$popup,third-party
 ||uamrnaakv.com^
 ||ueuodgnrhb.com^$popup
@@ -279,7 +271,6 @@
 ||wbaogaqvrukprx.com^$popup
 ||whjibbprhng.com^$popup,third-party
 ||wkuave.com^$third-party
-||xosbkqblniusql.com^$xhr
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^$third-party
 ||zukxd6fkxqn.com^$popup
@@ -547,7 +538,6 @@ iklan300x250.gif|
 ||primbon.com/banner/ilmugendam.gif
 ||ragihospitalkukatpally.com/image/*.webm$image,~third-party
 ||raw.githack.com/jefcom/jefar/master/jefar.js$script
-||resep.web.id/banner/
 ||rikucan.com/wp-content/themes/mh-magazine-lite/js/looping.js
 ||safelinkblog.com/js/v2.js$script
 ||semuaberita.com/banner/
@@ -1007,7 +997,6 @@ starringheavenlyrics.blogspot.com###HTML2
 idntimes.com###IDN_Leaderboard
 idntimes.com###IDN_PS_MegaBillboard
 indogamers.com###IklanIDGS
-lihat.co.id###Kolom-random-300
 utusan.com.my###Taboola_widget
 chip.co.id###TopBannerBg
 kompas.tv###_popIn_recommend_word
@@ -1055,7 +1044,7 @@ log.viva.co.id###bottomframe-ad
 kompas.com###box-zone_osm
 wartakota.tribunnews.com###boxleft > .mb20
 tribunnews.com###boxright [style="width:300px; height:250px;"]
-awsubs.co,benfile.com,blifnews.com,film21terbaru.org,kabar2.com,mangacanblog.com,mangakita.net,mangaku.web.id,nusareborn.in,semuaberita.com###btm_banner
+awsubs.co,benfile.com,blifnews.com,film21terbaru.org,mangacanblog.com,mangakita.net,mangaku.web.id,nusareborn.in,semuaberita.com###btm_banner
 mangacanblog.com###close
 downloadfilmbaru.com###close-ads-stack
 indoxx1.club###col
@@ -1141,8 +1130,7 @@ bioskopkeren.beauty,bioskopkeren.bond,bioskopkeren.sbs###headads
 indosiar.com###headerbanner
 destinasiwisatamu.blogspot.com###headlineatas
 jenismac.com###hello
-indoxxi.top,indoxxi.tv###home-bnner-content
-indoxxi.top###home-bnner2-content
+indoxxi.tv###home-bnner-content
 topfilmz.com###idb3
 lensaindonesia.com###idcomboard1.com-728x90
 lensaindonesia.com###idcomright1.com-300x250
@@ -1168,7 +1156,6 @@ gridoto.com,kompas.tv###jxOutstreamContainer
 b201.info,bioskop201.biz###kayan_reklam_sag
 b201.info,bioskop201.biz###kayan_reklam_sol
 zonabola.com###lAds
-pkspiyungan.org###largebanner
 mangafap.com###lbanner
 5.182.209.205,filmapik.international,filmapik.kim,filmapik.sbs,filmapik.support,filmapik21.space###le_header_ads
 kabar2.com###leaderboard
@@ -1404,8 +1391,8 @@ www.kompasiana.com##.banner-right-big.banner
 www.kompasiana.com##.banner-right.banner
 dream.co.id##.banner-sc
 dream.co.id##.banner-sc2
-sonora.id##.banner-skin--left
-sonora.id##.banner-skin--right
+sonora.id,www.sonora.id##.banner-skin--left
+sonora.id,www.sonora.id##.banner-skin--right
 kapanlagi.com##.banner-title
 kompasiana.com,modifikasi.com##.banner-top
 oktavita.com##.banner-zone
@@ -1698,7 +1685,7 @@ okezone.com##.rc-ad-300x250
 gridoto.com##.read__left
 sonora.id##.read__skyscraper
 indoxxi.top##.reklam-goster-sag
-indoxxi.top##.reklam-goster-sol
+indoxxi.top##.reklam-goster-so
 grid.id##.relative.below_photo
 grid.id##.relative.skycrapper
 grid.id##.relative.w-full
@@ -1890,7 +1877,6 @@ cinema-indo.net##img.aligncenter
 jakbos.com##img:nth-of-type(2)
 shinigami06.com,shinigamitoon.com##img[alt="Advertisement"]
 tribunnews.com##img[src*=".pgi.tribunnews.com/"]
-lihat.co.id##img[style="border:0;display:block;"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 funtasticko.net##img[width="1020"][height="350"]
 info.gambar.pro,info.mapsaddress.com,info.vebma.com##img[width="240"][height="240"]
