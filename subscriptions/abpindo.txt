@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202501021241
+! Version: 202501021258
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 02 Jan 2025 12:41 UTC
+! Last modified: 02 Jan 2025 12:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1071,7 +1071,7 @@ blog.tribunjualbeli.com###div-Top-Leaderboard
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
 suara.com###div-ad-dbt
 motorplus-online.com###div-paralax-container
-www.grid.id###div-top-banner-transparent
+grid.id###div-top-banner-transparent
 90animax.com###energysaving
 cmovieshd.se,ganool.se###epmblock
 negumo.com###fab
@@ -1102,7 +1102,7 @@ bgibola.com,bgibola.lat###floatbannerkiri
 nontonsini.com###floatbawah
 lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
-149.28.158.117,212.32.226.234,animexin.xyz,anixlife.xyz,awsubs.co,bgibola.com,bgibola.lat,cosmic345.co,indodb21.homes,isekaisubs.web.id###floatcenter
+149.28.158.117,animexin.xyz,anixlife.xyz,awsubs.co,bgibola.com,bgibola.lat,cosmic345.co,indodb21.homes,isekaisubs.web.id###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 mgkomik.com###floating_ads_bottom_textcss_container
 idxxx1.com###floating_ads_bottom_textcss_wrap
@@ -1159,12 +1159,12 @@ mangafap.com###lbanner
 komikbaru.com###left-skyscraper
 shinigami06.com###lepopup-popup-13
 shinigami06.com###lepopup-popup-13-overlay
-www.lingohut.com###lht2_lesson_after_vocab2_300x250_phone
-www.lingohut.com###lht2_lesson_bottom_300x250_phone
-www.lingohut.com###lht2_lesson_top_320x50_phone
-www.lingohut.com###lht_base_bot_320x50_phone
-www.lingohut.com###lht_lesson_right2_300x250_desktop
-www.lingohut.com###lht_lesson_right_300x250_desktop
+lingohut.com###lht2_lesson_after_vocab2_300x250_phone
+lingohut.com###lht2_lesson_bottom_300x250_phone
+lingohut.com###lht2_lesson_top_320x50_phone
+lingohut.com###lht_base_bot_320x50_phone
+lingohut.com###lht_lesson_right2_300x250_desktop
+lingohut.com###lht_lesson_right_300x250_desktop
 animasu.nl###lmd-iklan
 kabargames.id###main-banner-middle
 dewabioskop21.org,dwa21.org###main-popup
@@ -1271,7 +1271,7 @@ clip.cewecewe.com##.ad
 investor.id##.ad-box-wrappr
 senimovie.info,senimovies.net##.ad-float-image
 wartaekonomi.co.id##.ad-inventory-wrapper
-www.parapuan.co##.ad-photo
+parapuan.co##.ad-photo
 kordindonesia.com##.ad-plus
 808fubo.com##.ad-s-class
 komikbaru.com##.ad.b300x250
@@ -1301,11 +1301,10 @@ okezone.com##.ads-mega-box
 grid.id##.ads-mr
 bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
-bolasport.com,grid.id,gridoto.com,kompas.com,kompasiana.com,kontan.co.id,motorplus-online.com,sonora.id##.ads-partner-wrap
 kompas.com##.ads-partner-wrap-pop
 tek.id##.ads-popup__inner
-www.inibaru.id##.ads-sticky-left
-www.inibaru.id##.ads-sticky-right
+inibaru.id##.ads-sticky-left
+inibaru.id##.ads-sticky-right
 okezone.com##.ads1
 okezone.com##.ads2
 dapurpacu.com##.ads2-home
@@ -1316,7 +1315,7 @@ okezone.com##.ads6
 drakorasia.us##.ads728-slot-panjang
 kompas.com##.adsMR1Lipsus1
 marketeers.com##.adsMarketeers
-www.inews.id##.adsPlacement
+inews.id##.adsPlacement
 republika.co.id##.ads_160x600
 rejogja.co.id##.ads_160x600.ads
 republika.co.id##.ads_970x250
@@ -1331,7 +1330,7 @@ gridoto.com##.ads__stick__fluid--right
 gridoto.com##.ads__stick__wrap
 bolasport.com##.ads__top-big
 gridoto.com##.ads__top-big250
-klikanggaran.com,www.hops.id##.ads__under__image
+hops.id,klikanggaran.com##.ads__under__image
 bolasport.com,gridoto.com##.ads_below_photo
 grid.id##.ads_imr2
 grid.id##.ads_sky
@@ -1363,32 +1362,27 @@ lk21.host##.appup
 hellosehat.com##.article-bottom-ad
 hellosehat.com##.article-desktop-ad
 tirto.id##.article-sidebar
-inews.id,www.inews.id##.asideAds
+inews.id##.asideAds
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 139.99.120.222,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
-808fubo.com,animebatchs.com,goblintvfree.com,juragan-anime.net,kapanlagi.com,kompasiana.com,merdeka.com,nanime.in##.banner
+animebatchs.com,goblintvfree.com,juragan-anime.net,kapanlagi.com,kompasiana.com,merdeka.com,nanime.in##.banner
 kompasiana.com##.banner-center
 dewanonton.vip,dwanonton.com##.banner-common
-www.kompasiana.com##.banner-dable.banner
 tempo.co##.banner-fix-bottom
 139.99.33.192##.banner-float-bottom
 51.81.238.0##.banner-float-bottom-2.banner-float-bottom
-www.kompasiana.com##.banner-gennie.banner
 164.68.127.15##.banner-img
 dewabioskop21.asia,dewabioskop21.org##.banner-left
 kompasiana.com##.banner-mgid
-www.kompasiana.com##.banner-mgid-read.banner
 dewabioskop21.org##.banner-middle
 orami.co.id##.banner-parallax
 dewanonton.vip##.banner-premium
 dewabioskop21.asia,dewabioskop21.org##.banner-right
-www.kompasiana.com##.banner-right-big.banner
-www.kompasiana.com##.banner-right.banner
 dream.co.id##.banner-sc
 dream.co.id##.banner-sc2
-sonora.id,www.sonora.id##.banner-skin--left
-sonora.id,www.sonora.id##.banner-skin--right
+sonora.id##.banner-skin--left
+sonora.id##.banner-skin--right
 kapanlagi.com##.banner-title
 kompasiana.com,modifikasi.com##.banner-top
 oktavita.com##.banner-zone
@@ -1431,7 +1425,7 @@ tribunnews.com##.belanja-picks
 manganime.live##.berlangganan-500
 suara.com##.bg-ads-sticky-side
 suara.com##.bg-ads-sticky-top
-www.inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
+inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
 bharian.com.my##.bh-ad
 bisnis.com##.billboardBig.billboard
 bisnis.com##.billboardBottom
@@ -1443,7 +1437,6 @@ bisnis.com##.billboardLeaderboard.billboard
 bisnis.com##.billboardPushdown
 bisnis.com##.billboardRectangle.billboard
 bisnis.com##.billboardTop.billboard
-cnbcindonesia.com##.billboardmobile
 bukalapak.com##.bl-product-card-new:has(.bl-product-card-new__ads-badge)
 bharian.com.my##.block-bh-googledfp
 gudangpemain.com##.blocker-notice
@@ -1492,7 +1485,7 @@ tempo.co##.closebanner1
 tempo.co##.closebanner2
 bolasport.com##.cls-composite
 bolasport.com##.cls-geniee
-bolasport.com,gridoto.com,motorplus-online.com,www.parapuan.co##.cls-outstream
+bolasport.com,gridoto.com,motorplus-online.com,parapuan.co##.cls-outstream
 onlinemetro.id##.cls.code-block-center
 inidramaku.net##.cm-popup-modal
 carisinyal.com##.code-block
@@ -1504,8 +1497,8 @@ dream.co.id##.col-banner
 hmetro.com.my##.col-lg-3:has([id^="div-gpt-ad"])
 ganool.is,ganool.ph,ganool.se,ganool.st##.col-xs-12.col-md-6.col-lg-6
 indoxxi.net##.coliklan
-www.parapuan.co##.commSkin__fluid--left.commSkin__fluid
-www.parapuan.co##.commSkin__fluid--right.commSkin__fluid
+parapuan.co##.commSkin__fluid--left.commSkin__fluid
+parapuan.co##.commSkin__fluid--right.commSkin__fluid
 kompas.tv##.container_skinad
 tribunnews.com##.content [style="width:160px; height:600px;"]
 nontonplus.com##.content-kuss-ikln
@@ -1521,7 +1514,6 @@ teknologi.inilah.com##.d.wp-120x600
 pricebook.co.id##.description-ads
 okezone.com##.detads
 m.bukalapak.com##.dp-card-container:has(.ico_promotion)
-thejakartapost.com##.expandable-bottom-sticky
 layarkaca21.tv,lk21.tv##.fancybox-skin
 dapurpacu.com##.fixed-ads-atas
 miyanime.site##.fixed-lside
@@ -1532,9 +1524,9 @@ manganime.in##.float_tengah
 kuramanime.lol##.floating__footer
 okezone.com##.flying_ads
 katadata.co.id##.flying_carpet_div
-bisnis.com,www.tek.id##.flying_carpet_show
-www.tek.id##.flying_carpet_show_fix
-bisnis.com,www.tek.id##.flying_carpet_show_inner
+bisnis.com,tek.id##.flying_carpet_show
+tek.id##.flying_carpet_show_fix
+bisnis.com,tek.id##.flying_carpet_show_inner
 teknoup.com##.footer_banner
 suarasurabaya.net##.footer_sticky
 orami.co.id##.footer_stickyexp
@@ -1619,9 +1611,8 @@ smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 merdeka.com##.masthead
-www.inibaru.id##.mb-4.bg-grey.text-center
-www.kompasiana.com##.mb20.mt20.banner-dable-read.banner
-www.parapuan.co##.mb3.gpt-ad-head-wrapper.widget
+inibaru.id##.mb-4.bg-grey.text-center
+parapuan.co##.mb3.gpt-ad-head-wrapper.widget
 mamikos.com##.megabillboard
 popbela.com##.megabillboard-container
 37.49.229.132,juraganfilm.icu##.mfp-inline-holder.mfp-s-ready.mfp-container
@@ -1726,7 +1717,7 @@ idpelago.com##.sponsor_ads:nth-of-type(4)
 okezone.com##.sponsored-belt468x60
 detik.com##.staticdetail_container:has(.staticdetail_ads)
 bharian.com.my,hmetro.com.my##.stick-leaderboard-wrapper
-www.inews.id##.stickyAds
+inews.id##.stickyAds
 kabargames.id##.stickybanner
 dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 hijabista.com.my,majalahpama.my,nona.my,vanillakismis.my##.td-banner-bg.td-banner-wrap-full
@@ -1739,7 +1730,6 @@ kontan.co.id##.text-center.center.width-px-1100
 dataindonesia.id##.text-center:has( + div[style^='background-image: url("/img/logo-ads'])
 klikseru.com##.textwidget img[width="300"][height="250"]
 okezone.com##.title-ads-mega
-thejakartapost.com##.tjp-placeholder-ads
 utusan.com.my##.tonal__standfirst
 grid.id##.top_banner-wrapper
 beritasatu.com,jakartaglobe.id##.underlay-ad
@@ -2192,7 +2182,6 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /bandartaruhan.$image,third-party
 /bandarxl-$image
 /bandarxl.$image
-/bandarxl.gif|$image
 /bandarxlnew.$image
 /banner-lapakqq.$image
 /BANNER-liga88-$image
@@ -2565,7 +2554,6 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /klik66-$image
 /klik66banner.gif|
 /KlikHoki-$image
-/klikhoki-$image
 /klikkiu.$image,third-party
 /klikqq-$image
 /klikqq.$image,third-party
@@ -2635,7 +2623,6 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /MACAU442NET.gif$image
 /macaubet-$image
 /macaubet.$image,third-party
-/MacauDewa-$image
 /macaudewa-$image
 /mahkotabola.$image,third-party
 /mahkotaqq.$image,third-party
@@ -9135,9 +9122,7 @@ leon.bet#@#[href$="/slots"]
 ||krucil.net/banner/
 ||malemjumat.mom/banner/*.gif$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
-||pemersatu.top/wp-content/themes/pemersatublack/public/anticurang/*$script,~third-party
 ||pemersatudotfun.com/ads.js$script
-||pemersatufun.*/wp-content/themes/pemersatublack/public/anticurang/*$script,~third-party
 ||slunkenchukkar.com/nwnJuadwxPHeiD3/52345$script,domain=manhwaid.club
 ||sodasusu.com/banner/
 ||wibufile.com/api/beenv^

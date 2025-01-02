@@ -423,7 +423,7 @@ gridoto.com##.ads__stick__fluid--right
 gridoto.com##.ads__stick__wrap
 bolasport.com##.ads__top-big
 gridoto.com##.ads__top-big250
-klikanggaran.com,hops.id##.ads__under__image
+hops.id,klikanggaran.com##.ads__under__image
 bolasport.com,gridoto.com##.ads_below_photo
 grid.id##.ads_imr2
 grid.id##.ads_sky
@@ -455,7 +455,7 @@ lk21.host##.appup
 hellosehat.com##.article-bottom-ad
 hellosehat.com##.article-desktop-ad
 tirto.id##.article-sidebar
-inews.id,inews.id##.asideAds
+inews.id##.asideAds
 myasiantv.se##.av-content-full
 22cinema.com##.ayu-headads
 139.99.120.222,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
@@ -474,8 +474,8 @@ dewanonton.vip##.banner-premium
 dewabioskop21.asia,dewabioskop21.org##.banner-right
 dream.co.id##.banner-sc
 dream.co.id##.banner-sc2
-sonora.id,sonora.id##.banner-skin--left
-sonora.id,sonora.id##.banner-skin--right
+sonora.id##.banner-skin--left
+sonora.id##.banner-skin--right
 kapanlagi.com##.banner-title
 kompasiana.com,modifikasi.com##.banner-top
 oktavita.com##.banner-zone

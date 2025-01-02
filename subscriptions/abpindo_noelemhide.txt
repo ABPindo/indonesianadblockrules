@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202501021241
+! Version: 202501021258
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 02 Jan 2025 12:41 UTC
+! Last modified: 02 Jan 2025 12:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -903,7 +903,6 @@ totolink.id#@#.social-circle
 /bandartaruhan.$image,third-party
 /bandarxl-$image
 /bandarxl.$image
-/bandarxl.gif|$image
 /bandarxlnew.$image
 /banner-lapakqq.$image
 /BANNER-liga88-$image
@@ -1276,7 +1275,6 @@ totolink.id#@#.social-circle
 /klik66-$image
 /klik66banner.gif|
 /KlikHoki-$image
-/klikhoki-$image
 /klikkiu.$image,third-party
 /klikqq-$image
 /klikqq.$image,third-party
@@ -1346,7 +1344,6 @@ totolink.id#@#.social-circle
 /MACAU442NET.gif$image
 /macaubet-$image
 /macaubet.$image,third-party
-/MacauDewa-$image
 /macaudewa-$image
 /mahkotabola.$image,third-party
 /mahkotaqq.$image,third-party
@@ -4109,9 +4106,7 @@ totojitu.gif|$image
 ||krucil.net/banner/
 ||malemjumat.mom/banner/*.gif$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
-||pemersatu.top/wp-content/themes/pemersatublack/public/anticurang/*$script,~third-party
 ||pemersatudotfun.com/ads.js$script
-||pemersatufun.*/wp-content/themes/pemersatublack/public/anticurang/*$script,~third-party
 ||slunkenchukkar.com/nwnJuadwxPHeiD3/52345$script,domain=manhwaid.club
 ||sodasusu.com/banner/
 ||wibufile.com/api/beenv^
