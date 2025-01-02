@@ -12,6 +12,7 @@ adpstatic.com CNAME .
 adreach.co CNAME .
 adreviewcamp.com CNAME .
 ads-link.net CNAME .
+ads.d21.media CNAME .
 ads.indosatooredoo.com CNAME .
 ads.telkomsel.com CNAME .
 adsbingo.com CNAME .
@@ -22,7 +23,6 @@ adskom.com CNAME .
 adslop.com CNAME .
 adstarsmedia.co.id CNAME .
 adtimeselaras.com CNAME .
-advertica-cdn2.com CNAME .
 alertpay.com CNAME .
 ampclicks.com CNAME .
 anekaiklan.com CNAME .
@@ -35,13 +35,11 @@ cdnasiaclub.com CNAME .
 cfs.uzone.id CNAME .
 cfs2.uzone.id CNAME .
 clickmedia.co.id CNAME .
-clicks.pipaffiliates.com CNAME .
 compulsivehemisphere.com CNAME .
 csf.uzone.id CNAME .
 d01.notifa.info CNAME .
 dewsburg.info CNAME .
 digiads.co.id CNAME .
-eclkmpsa.com CNAME .
 ena-native-ads4.com CNAME .
 etoads.net CNAME .
 filebanner.com CNAME .
@@ -121,6 +119,7 @@ presbanise.pw CNAME .
 promobagus.com CNAME .
 promotioncamp.com CNAME .
 props.id CNAME .
+propsid.b-cdn.net CNAME .
 publish.web.id CNAME .
 pusatiklan.com CNAME .
 s2pops.club CNAME .
@@ -141,6 +140,7 @@ sumberiklan.com CNAME .
 suryaiklan.com CNAME .
 syndopop.com CNAME .
 teliad.com CNAME .
+thapi.aedi.ai CNAME .
 theclickers.net CNAME .
 tinggalklik.com CNAME .
 topklik.com CNAME .
@@ -153,7 +153,6 @@ useads.com CNAME .
 webiklan.com CNAME .
 weblogiklan.com CNAME .
 yesads.com CNAME .
-yx-ads6.com CNAME .
 05ee3a24ed11df058c8.com CNAME .
 1b969cef84d93b43.com CNAME .
 34667c8ece5.com CNAME .
@@ -167,7 +166,6 @@ a63t9o1azf.com CNAME .
 abrts.pro CNAME .
 adeumssp.com CNAME .
 afbcashidr.com CNAME .
-afdashrafi.com CNAME .
 ahcnxuepput.com CNAME .
 aj1052.online CNAME .
 aopxnvrugx.com CNAME .
@@ -179,8 +177,11 @@ bcajjtbzmdrl.com CNAME .
 bubblekraken.com CNAME .
 cea9d3d4f74fb831.com CNAME .
 chidsimp.com CNAME .
+chitchooms.net CNAME .
+chitchooms.net CNAME .
 chqspuonctkgz.com CNAME .
 craydark.pw CNAME .
+curoax.com CNAME .
 d0p21g2fep.com CNAME .
 d72gb9oukw3j.com CNAME .
 d824d7f5cbcb0e00.com CNAME .
@@ -203,10 +204,8 @@ furocmay.com CNAME .
 gbrrrxbodqdlq.com CNAME .
 ghaahq.com CNAME .
 hegarberetrof.pro CNAME .
-highwaycpmrevenue.com CNAME .
 hoegutvie.com CNAME .
 ihqfiimrbcf.com CNAME .
-isortflorent.com CNAME .
 iupqelechcmj.com CNAME .
 iwtserve.com CNAME .
 jillsclickcorner.com CNAME .
@@ -263,6 +262,7 @@ vrewpywootyu.com CNAME .
 wbaogaqvrukprx.com CNAME .
 whjibbprhng.com CNAME .
 wkuave.com CNAME .
+xosbkqblniusql.com CNAME .
 yllix.com CNAME .
 ys3e965d.top CNAME .
 zukxd6fkxqn.com CNAME .
@@ -277,7 +277,6 @@ profitsurvey365.live CNAME .
 rajatraffic.com CNAME .
 track.aptitudemedia.co CNAME .
 track.avxid.com CNAME .
-track.spzan.com CNAME .
 track.zerofriend.com CNAME .
 trackdan.com CNAME .
 tracker.beritagar.id CNAME .

@@ -8,7 +8,8 @@ Jelaskan secara singkat tentang Pull Request
 jika sulit dijelaskan dengan kata-kata tolong sertakan screenshot
 
 ## Lingkungan pengujian
-- [] Firefox
-- [] Chrome
-- [] uBlock Origin
-- [] Adblock Plus
+- [ ] Firefox
+- [ ] Chrome
+
+- [ ] uBlock Origin
+- [ ] Adblock Plus

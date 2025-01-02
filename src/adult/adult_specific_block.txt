@@ -1,11 +1,14 @@
 .gif$image,domain=komikmanhwa.me
+||128.199.175.251/looppopup.js
 ||96.43.139.236/banner/$image
 ||96.43.139.237/banner/$image
 ||bintangmawar.net/forum/bot_banner.php
 ||bintangmawar.net/forum/med_banner.php
 ||bintangmawar.net/forum/medright_banner.php
 ||bintangmawar.net/forum/top_banner.php
+||blogger.googleusercontent.com/*.gif$image,domain=doujindesu.tv|javsubid.com
 ||duniasex.ws/banner-
+||gambar123.com^$badfilter
 ||indobokepz.com/images/banner/
 ||krucil.net/banner/
 ||malemjumat.mom/banner/*.gif$image

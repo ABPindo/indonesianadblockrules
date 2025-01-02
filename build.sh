@@ -30,6 +30,9 @@ python tools/hosts_to_rpz.py subscriptions/hosts_adult.txt subscriptions/rpz_adu
 python tools/hosts_to_aghome.py subscriptions/hosts.txt subscriptions/aghome.txt
 python tools/hosts_to_aghome.py subscriptions/hosts_adult.txt subscriptions/aghome_adult.txt
 
+python tools/hosts_to_unbound.py subscriptions/hosts.txt subscriptions/unbound.txt
+python tools/hosts_to_unbound.py subscriptions/hosts_adult.txt subscriptions/unbound_adult.txt
+
 #adblock2hosts -o subscriptions/domain.txt subscriptions/abpindo_hosts.txt
 #adblock2hosts -o subscriptions/domain_adult.txt subscriptions/abpindo_hosts_adult.txt
 

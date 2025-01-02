@@ -9,6 +9,7 @@
 -bandarbet303.$image
 -bandarbetqq-$image
 -bandarkiu.$image
+-Banner-Mahjong-$image
 -banner-togel-$image
 -banner-winstar138.gif|$image
 -bisabet.$image
@@ -117,6 +118,7 @@
 /128cash.$image,third-party
 /12naga.gif|$image
 /188bet.$image,third-party
+/1cbet-banners/*$image
 /1Poker-$image
 /1xbet.$image
 /1xbet250.gif|$image
@@ -150,6 +152,7 @@
 /acmbet.$image,third-party
 /adaqq-$image
 /ADLVSLOT.webp$image
+/adobet.gif$image
 /adsimontok/*$image
 /aduqq-$image
 /afapkr.$image,third-party
@@ -165,6 +168,7 @@
 /agen688.$image,third-party
 /agenbola.$image,third-party
 /agenbola24.$image,third-party
+/agenpaitoslot.$image
 /agenqq-$image
 /agenqq.$image,third-party
 /agenqq365-$image
@@ -180,6 +184,7 @@
 /ahabetx900.$image
 /ahliqq.$image,third-party
 /airasiabet-$image
+/airasiabet.gif|$image
 /alampoker.$image,third-party
 /alexavegas.gif|$image
 /alexisbola.$image,third-party
@@ -191,6 +196,7 @@
 /angkajitutogel.$image,third-party
 /angkakembar.$image,third-party
 /animeqq-$image
+/anticurang/*$script
 /aon888-$image
 /aoncash-$image
 /aoncash.$image,third-party
@@ -198,6 +204,7 @@
 /apibet.$image,third-party
 /apibet.gif|$image
 /areabola.$image,third-party
+/areaslots.gif$image
 /arenajackpot.$image
 /arenaqq.$image
 /armaniqq.$image,third-party
@@ -242,6 +249,7 @@
 /bandarsakong.$image,third-party
 /bandartaruhan.$image,third-party
 /bandarxl-$image
+/bandarxl.$image
 /bandarxl.gif|$image
 /bandarxlnew.$image
 /banner-lapakqq.$image
@@ -320,6 +328,7 @@
 /capsaqqnew.$image,third-party
 /captainqq.gif$image
 /caradaftarpoker.$image,third-party
+/carawin77-$image
 /cashbackharian.gif|$image
 /casinoitu.$image,third-party
 /cer-sex.$image
@@ -351,6 +360,7 @@
 /dewaboya.$image,third-party
 /dewacash-$image
 /dewacash.gif$image
+/DewaCuan-$image
 /dewacuki-$image
 /dewadominoqq.$image,third-party
 /dewahoki.$image,third-party
@@ -363,6 +373,7 @@
 /dewapker.$image
 /dewapoker.$image,third-party
 /dewapoker2.gif|$image
+/DEWAPOKER_
 /dewaqq.$image,third-party
 /dewascore.gif|$image
 /dewatangkas-$image
@@ -463,6 +474,7 @@
 /hokibet365.$image,third-party
 /hokicapsa.$image,third-party
 /hokicash-$image
+/hokidewa-$image
 /hokinewmay.$image,third-party
 /hokinusa.$image,third-party
 /hokinusa1.$image,third-party
@@ -485,6 +497,7 @@
 /ibetwin.gif|$image
 /ibetwin1080x90.$image
 /iblis4d-$image
+/ibo-sport.gif|$image
 /ibobandarq.$image,third-party
 /ibosport-$image
 /ibosport.$image,third-party
@@ -512,6 +525,7 @@
 /imcqq-$image
 /imcqq.$image
 /incarqq.$image,third-party
+/indokasino-$image
 /indorajaqq.$image,third-party
 /indotogel-$image
 /indotogel.$image,third-party
@@ -548,6 +562,7 @@
 /jagodomino.$image,third-party
 /jajantogel.gif|$image
 /jamhoki.$image,third-party
+/janji-gacor.gif$image
 /japsex.$image,third-party
 /jarumpoker.$image,third-party
 /jasagol-$image
@@ -591,12 +606,15 @@
 /kartuhoki-$image
 /kartuhokky.$image,third-party
 /kartuking.$image,third-party
+/kartupoker_$image
 /kasinobet.$image,third-party
 /kaspemain.$image,third-party
+/KAYA303_desktop.$image
 /kd777.gif|$image
 /kdslot.gif|$image,third-party
 /kdslots-$image
 /kdslots.$image,third-party
+/KERABATSLOT.gif|$image
 /ketuapkr.$image,third-party
 /ketuapoker.$image,third-party
 /ketuapokernew.$image,third-party
@@ -604,6 +622,7 @@
 /kiosqq.$image
 /klik66-$image
 /klik66banner.gif|
+/KlikHoki-$image
 /klikhoki-$image
 /klikkiu.$image,third-party
 /klikqq-$image
@@ -674,6 +693,7 @@
 /MACAU442NET.gif$image
 /macaubet-$image
 /macaubet.$image,third-party
+/MacauDewa-$image
 /macaudewa-$image
 /mahkotabola.$image,third-party
 /mahkotaqq.$image,third-party
@@ -692,6 +712,7 @@
 /maniaqq-$image
 /maniaqq.$image,third-party
 /maniaslot.gif|$image
+/mansion77ku.gif|$image
 /mantapkiu.$image
 /marina-365.$image,third-party
 /master138.$image,third-party
@@ -708,6 +729,7 @@
 /meja-365.$image,third-party
 /meja13.$image,third-party
 /meja365.$image,third-party
+/MEJAHOKI.$image,third-party
 /MEJAHOKI.gif|$image
 /mejasakong.$image,third-party
 /memekmonyet.$image
@@ -931,6 +953,7 @@
 /sahabatarena.$image,third-party
 /sahamdomino.$image,third-party
 /sahamqq.$image
+/SaktiSpin-$image
 /santapoker.gif$image
 /saranapoker.$image,third-party
 /saranghoki2.$image,third-party
@@ -1065,6 +1088,7 @@
 /vipslot77.$image,third-party
 /viralqq.gif|$image
 /VISABET88.gif$image
+/VITOBET88.$image,third-party
 /vivacm88.$image,third-party
 /vivobetting.$image,third-party
 /vjudi.gif|$image

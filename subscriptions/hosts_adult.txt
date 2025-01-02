@@ -12,6 +12,7 @@
 0.0.0.0 adreach.co
 0.0.0.0 adreviewcamp.com
 0.0.0.0 ads-link.net
+0.0.0.0 ads.d21.media
 0.0.0.0 ads.indosatooredoo.com
 0.0.0.0 ads.telkomsel.com
 0.0.0.0 adsbingo.com
@@ -22,7 +23,6 @@
 0.0.0.0 adslop.com
 0.0.0.0 adstarsmedia.co.id
 0.0.0.0 adtimeselaras.com
-0.0.0.0 advertica-cdn2.com
 0.0.0.0 alertpay.com
 0.0.0.0 ampclicks.com
 0.0.0.0 anekaiklan.com
@@ -35,13 +35,11 @@
 0.0.0.0 cfs.uzone.id
 0.0.0.0 cfs2.uzone.id
 0.0.0.0 clickmedia.co.id
-0.0.0.0 clicks.pipaffiliates.com
 0.0.0.0 compulsivehemisphere.com
 0.0.0.0 csf.uzone.id
 0.0.0.0 d01.notifa.info
 0.0.0.0 dewsburg.info
 0.0.0.0 digiads.co.id
-0.0.0.0 eclkmpsa.com
 0.0.0.0 ena-native-ads4.com
 0.0.0.0 etoads.net
 0.0.0.0 filebanner.com
@@ -121,6 +119,7 @@
 0.0.0.0 promobagus.com
 0.0.0.0 promotioncamp.com
 0.0.0.0 props.id
+0.0.0.0 propsid.b-cdn.net
 0.0.0.0 publish.web.id
 0.0.0.0 pusatiklan.com
 0.0.0.0 s2pops.club
@@ -141,6 +140,7 @@
 0.0.0.0 suryaiklan.com
 0.0.0.0 syndopop.com
 0.0.0.0 teliad.com
+0.0.0.0 thapi.aedi.ai
 0.0.0.0 theclickers.net
 0.0.0.0 tinggalklik.com
 0.0.0.0 topklik.com
@@ -153,7 +153,6 @@
 0.0.0.0 webiklan.com
 0.0.0.0 weblogiklan.com
 0.0.0.0 yesads.com
-0.0.0.0 yx-ads6.com
 0.0.0.0 05ee3a24ed11df058c8.com
 0.0.0.0 1b969cef84d93b43.com
 0.0.0.0 34667c8ece5.com
@@ -167,7 +166,6 @@
 0.0.0.0 abrts.pro
 0.0.0.0 adeumssp.com
 0.0.0.0 afbcashidr.com
-0.0.0.0 afdashrafi.com
 0.0.0.0 ahcnxuepput.com
 0.0.0.0 aj1052.online
 0.0.0.0 aopxnvrugx.com
@@ -179,8 +177,11 @@
 0.0.0.0 bubblekraken.com
 0.0.0.0 cea9d3d4f74fb831.com
 0.0.0.0 chidsimp.com
+0.0.0.0 chitchooms.net
+0.0.0.0 chitchooms.net
 0.0.0.0 chqspuonctkgz.com
 0.0.0.0 craydark.pw
+0.0.0.0 curoax.com
 0.0.0.0 d0p21g2fep.com
 0.0.0.0 d72gb9oukw3j.com
 0.0.0.0 d824d7f5cbcb0e00.com
@@ -203,10 +204,8 @@
 0.0.0.0 gbrrrxbodqdlq.com
 0.0.0.0 ghaahq.com
 0.0.0.0 hegarberetrof.pro
-0.0.0.0 highwaycpmrevenue.com
 0.0.0.0 hoegutvie.com
 0.0.0.0 ihqfiimrbcf.com
-0.0.0.0 isortflorent.com
 0.0.0.0 iupqelechcmj.com
 0.0.0.0 iwtserve.com
 0.0.0.0 jillsclickcorner.com
@@ -263,6 +262,7 @@
 0.0.0.0 wbaogaqvrukprx.com
 0.0.0.0 whjibbprhng.com
 0.0.0.0 wkuave.com
+0.0.0.0 xosbkqblniusql.com
 0.0.0.0 yllix.com
 0.0.0.0 ys3e965d.top
 0.0.0.0 zukxd6fkxqn.com
@@ -277,7 +277,6 @@
 0.0.0.0 rajatraffic.com
 0.0.0.0 track.aptitudemedia.co
 0.0.0.0 track.avxid.com
-0.0.0.0 track.spzan.com
 0.0.0.0 track.zerofriend.com
 0.0.0.0 trackdan.com
 0.0.0.0 tracker.beritagar.id
@@ -358,6 +357,8 @@
 0.0.0.0 dewajudionline.com
 0.0.0.0 dewijudi.com
 0.0.0.0 dewitogel.com
+0.0.0.0 dunlop.id
+0.0.0.0 dunlop.id
 0.0.0.0 dutatoto.com
 0.0.0.0 emputogel.com
 0.0.0.0 europoker.com

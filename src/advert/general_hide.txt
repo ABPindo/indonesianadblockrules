@@ -23,6 +23,7 @@
 ###adv-placeholder
 ###banner_iklan_top
 ###banner_top_detail
+###bawahpads
 ###bireklam
 ###bottom_exclusive_ads
 ###cfs_top_div
@@ -55,8 +56,10 @@
 ###iklan-tengah
 ###iklan-text
 ###iklan1
+###iklan125x127
 ###iklan2
 ###iklan3
+###iklan300x100
 ###iklan4
 ###iklan700
 ###iklanFloat
@@ -75,6 +78,7 @@
 ###popupwindow
 ###srcadsurlblock
 ###switch-ad
+###tisisads
 ###top_ad_full
 ###tupiklan
 ###vp-advert
@@ -84,6 +88,7 @@
 ##.ad-right-image
 ##.ad_primex
 ##.ads-head
+##.ads-partner-wrap
 ##.ads-pop
 ##.ads-sticky-bottom
 ##.ads728-slot
@@ -133,6 +138,7 @@
 ##.fotads_showalign
 ##.frame_iklan_baris
 ##.gbcontent
+##.gmr-bannerpopup
 ##.gpcontent
 ##.happy-inside-player
 ##.headads
@@ -207,6 +213,7 @@
 ##.kotakiklan
 ##.ktz-aftermenubanner
 ##.ktz-bannersingletop
+##.loading.ads-50
 ##.marginads
 ##.mobileAd_bottom_floating
 ##.mobileads
@@ -218,16 +225,16 @@
 ##.pusat728
 ##.qode-banner-left
 ##.qode-banner-right
-##.remodal
 ##.rkads
 ##.show-first-ads
 ##.simple_advert
 ##.single_ad_728x90
 ##.skin-iklan
+##.sticky-ad-atas
+##.sticky-ad-bawah
 ##.subiklan
 ##.text-center.adv
 ##.topadsense
-##.under-player-ad
 ##.wrapper-ads
 ##[class="widget-ads1"]
 ##[class="widget-ads2"]
@@ -237,8 +244,10 @@
 ##[href="http://ig24.me"]
 ##[href^="//mellowads.com/"]
 ##[href^="https://ascertaincrescenthandbag.com/"]
+##[href^="https://vn.adnetworks.top/"]
 ##[href^="https://www.totalping.com"]
 ##[href^="https://yllix.com/advertisers/"]
 ##a[alt="iklan" i]
+##img[alt="Ad banner"]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]

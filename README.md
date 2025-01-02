@@ -5,9 +5,9 @@ ABPindo merupakan daftar penapis/penyaring iklan di situs berbahasa Indonesia da
 
 ## Keuntungan
 - Tampilan lebih bersih </br>
-Tak perlu risih dengan iklan promosi, iklan judi, dan iklan dewasa
-- Terjaga dari penipuan </br>
-Lupakan iklan yang membaur/menyamar menjadi tombol update atau tombol download
+Tanpa iklan promosi berlebihan, iklan judi, dan iklan dewasa
+- Terhindar dari penipuan </br>
+Tanpa iklan yang membaur/menyamar menjadi tombol update atau tombol download
 - Lebih cepat </br>
 Tanpa iklan waktu membuka laman web menjadi lebih singkat
 
@@ -32,11 +32,12 @@ Tanpa iklan waktu membuka laman web menjadi lebih singkat
 |[Dnsmasq1](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_adult.txt)|`address=/example.com/0.0.0.0`|
 |[Dnsmasq2](https://thekelleys.org.uk/gitweb/?p=dnsmasq.git)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_server.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/dnsmasq_adult_server.txt)|`server=/example.com/`|
 |RPZ (Response Policy Zone) [BIND](https://gitlab.isc.org/isc-projects/bind9.git)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz_adult.txt)|`example.com CNAME .`|
+|[UNBOUND](https://github.com/NLnetLabs/unbound)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/unbound.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/unbound_adult.txt)|`local-zone: "example.com" always_nxdomain`|
 
 Keterangan:
-- Sintak penapis berbasis DNS memiliki cara kerja pemblokiran yang berbeda dari pengaya/ekstensi, sehingga untuk menghindari kesalahan blokir, default ABPindo pada penapis berbasis DNS hanya terdiri dari ABPindo_adserver dan ABPindo_third-party.
-- *ABPindo terdiri dari domain ABPindo_adserver dan ABPindo_third-party.
-- **ABPindo_adult terdiri dari domain ABPindo_adserver, ABPindo_third-party dan ABPindo_adult (iklan judi dan dewasa).
+- Sintak penapis berbasis DNS memiliki cara kerja yang berbeda dari pengaya/ekstensi, sehingga untuk menghindari kesalahan blokir, default ABPindo pada penapis berbasis DNS hanya terdiri dari 'ABPindo_adserver' dan 'ABPindo_third-party'.
+- *Host ABPindo terdiri dari domain 'ABPindo_adserver' dan 'ABPindo_third-party'.
+- **Host ABPindo_adult terdiri dari domain 'ABPindo_adserver', 'ABPindo_third-party' dan 'ABPindo_adult' (iklan judi dan dewasa).
 
 ## Ingin berkontribusi
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:

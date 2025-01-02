@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202403050728
+! Version: 202501011044
 # Title: ABPindo (hosts adult)
 # Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
 # Last modified: %timestamp%
@@ -11,7 +11,7 @@
 # GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
 # GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
 #
-!---------------------- advert blocking filters ----------------------!
+! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ! Confirmed ad servers
 ||188affiliates.com^$third-party
@@ -28,6 +28,7 @@
 ||adreach.co^$third-party
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
+||ads.d21.media^
 ||ads.indosatooredoo.com^$third-party
 ||ads.telkomsel.com^$third-party
 ||adsbingo.com^$third-party
@@ -38,7 +39,6 @@
 ||adslop.com^$third-party
 ||adstarsmedia.co.id^$third-party
 ||adtimeselaras.com^$third-party
-||advertica-cdn2.com^$third-party
 ||alertpay.com^$third-party
 ||ampclicks.com^$popup,third-party
 ||anekaiklan.com^$third-party
@@ -51,13 +51,11 @@
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
 ||clickmedia.co.id^$third-party
-||clicks.pipaffiliates.com^$popup
 ||compulsivehemisphere.com^$popup
 ||csf.uzone.id^
 ||d01.notifa.info^
 ||dewsburg.info^$third-party
 ||digiads.co.id^$third-party
-||eclkmpsa.com^$third-party
 ||ena-native-ads4.com^$third-party
 ||etoads.net^$third-party
 ||filebanner.com^$third-party
@@ -137,6 +135,7 @@
 ||promobagus.com^$third-party
 ||promotioncamp.com^$third-party
 ||props.id^$third-party
+||propsid.b-cdn.net^$third-party
 ||publish.web.id^$third-party
 ||pusatiklan.com^$third-party
 ||s2pops.club^$popup
@@ -157,6 +156,7 @@
 ||suryaiklan.com^$third-party
 ||syndopop.com^$popup
 ||teliad.com^$third-party
+||thapi.aedi.ai^$third-party
 ||theclickers.net^$third-party
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
@@ -169,7 +169,6 @@
 ||webiklan.com^$third-party
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
-||yx-ads6.com^$third-party
 ! Potential ad servers
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||1b969cef84d93b43.com^
@@ -184,7 +183,6 @@
 ||abrts.pro^$popup,third-party
 ||adeumssp.com^
 ||afbcashidr.com^$popup,third-party
-||afdashrafi.com^
 ||ahcnxuepput.com^$popup
 ||aj1052.online^$popup
 ||aopxnvrugx.com^$popup
@@ -196,8 +194,11 @@
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||chidsimp.com^$third-party
+||chitchooms.net^$popup
+||chitchooms.net^$xhr
 ||chqspuonctkgz.com^$popup
 ||craydark.pw^$third-party
+||curoax.com^$script,third-party
 ||d0p21g2fep.com^
 ||d72gb9oukw3j.com^$popup
 ||d824d7f5cbcb0e00.com^
@@ -220,10 +221,8 @@
 ||gbrrrxbodqdlq.com^$popup
 ||ghaahq.com^$third-party
 ||hegarberetrof.pro^$popup
-||highwaycpmrevenue.com^$popup
 ||hoegutvie.com^$popup
 ||ihqfiimrbcf.com^$popup
-||isortflorent.com^
 ||iupqelechcmj.com^$popup,third-party
 ||iwtserve.com^$popup
 ||jillsclickcorner.com^$third-party
@@ -280,6 +279,7 @@
 ||wbaogaqvrukprx.com^$popup
 ||whjibbprhng.com^$popup,third-party
 ||wkuave.com^$third-party
+||xosbkqblniusql.com^$xhr
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^$third-party
 ||zukxd6fkxqn.com^$popup
@@ -295,7 +295,6 @@
 ||rajatraffic.com^$third-party
 ||track.aptitudemedia.co^$popup
 ||track.avxid.com^$third-party
-||track.spzan.com^$popup
 ||track.zerofriend.com^$popup,third-party
 ||trackdan.com^$popup
 ||tracker.beritagar.id^$third-party
@@ -304,7 +303,7 @@
 ||traffic-monetizer.com^$third-party
 ||trafficfactory.biz^$popup,third-party
 ||trk.cpaoptimizer.com^$popup,third-party
-!--------------------------- adult ------------------------------!
+! --------------------------- adult ------------------------------!
 ! *** abpindo:src/adult/adult_thirdparty.txt ***
 ||172.105.216.174^$popup
 ||24hpoker.com^$third-party
@@ -377,6 +376,8 @@
 ||dewajudionline.com^$third-party
 ||dewijudi.com^$third-party
 ||dewitogel.com^$third-party
+||dunlop.id^$popup
+||dunlop.id^$third-party
 ||dutatoto.com^$third-party
 ||emputogel.com^$third-party
 ||europoker.com^$third-party
