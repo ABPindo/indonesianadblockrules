@@ -4,7 +4,6 @@
 ||ad-loupe.com^$third-party
 ||adbsys.icu^$popup
 ||addesigner.com^$third-party
-||adflazz.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||adnety.com^$popup,third-party
 ||adplus.co.id^$third-party
@@ -92,7 +91,6 @@
 ||masteriklan.net^$third-party
 ||mediab.uy^$popup,third-party
 ||mesiniklan.andipublisher.com^$third-party
-||mybannermaker.com^$third-party
 ||newsupdatewe.info^$third-party
 ||offdeck.telkomsel.com^$third-party
 ||offer.popsads.link^$script
@@ -178,8 +176,6 @@
 ||bubblekraken.com^
 ||cea9d3d4f74fb831.com^
 ||chidsimp.com^$third-party
-||chitchooms.net^$popup
-||chitchooms.net^$xhr
 ||chqspuonctkgz.com^$popup
 ||craydark.pw^$third-party
 ||curoax.com^$script,third-party
@@ -229,7 +225,6 @@
 ||nvqonvfylkxdjc.com^
 ||oardjnay.com^
 ||octafx.com^$popup,third-party
-||olenation.org^$popup
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
 ||ourtherss.top^$third-party
@@ -261,7 +256,6 @@
 ||wbaogaqvrukprx.com^$popup
 ||whjibbprhng.com^$popup,third-party
 ||wkuave.com^$third-party
-||xosbkqblniusql.com^$xhr
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^$third-party
 ||zukxd6fkxqn.com^$popup
