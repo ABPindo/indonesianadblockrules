@@ -84,6 +84,7 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+olx.co.id###baxter-ads-results-top
 s.id##img[alt="Sponsored Image"]
 s.id##[class^="AdUnit"]
 wowkeren.com###Ad300B
