@@ -31,7 +31,6 @@ kuramanime.*##[href^="https://bit.ly/"]
 kuramanime.*##[href^="https://s.id/"]
 kuramanime.*##[href^="https://shortku.in/"]
 kuramanime.*##[href^="https://tinyurl.com/"]
-kuramanime.*##div.mt-4.p-1.breadcrumb-option:nth-of-type(3)
 kuronime.*###aiklanatas1
 kuronime.*###aiklanatasd1
 kuronime.*###aiklanheader1
@@ -83,6 +82,9 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
+kuramanime.*###headerBannerSection
+kuramanime.*###aboveListBannerSection
+kuramanime.*###abovePlayerBannerSection
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
