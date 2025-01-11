@@ -86,7 +86,6 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
-disway.id##.ads-slot
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -400,6 +399,7 @@ bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
 kompas.com##.ads-partner-wrap-pop
 tek.id##.ads-popup__inner
+disway.id##.ads-slot
 inibaru.id##.ads-sticky-left
 inibaru.id##.ads-sticky-right
 okezone.com##.ads1
