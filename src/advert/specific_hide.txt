@@ -24,6 +24,9 @@ komikcast.*###teaser3
 komikcast.*###teaser4
 komikcast.*##.kln
 komikindo.*##.gulai_asam_manis
+kuramanime.*###aboveListBannerSection
+kuramanime.*###abovePlayerBannerSection
+kuramanime.*###headerBannerSection
 kuramanime.*##.anime-ner.mt-4 > .row
 kuramanime.*##.content__tags
 kuramanime.*##.floating__footer
@@ -82,11 +85,7 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
-kuramanime.*###headerBannerSection
-kuramanime.*###aboveListBannerSection
-kuramanime.*###abovePlayerBannerSection
 ! Non-entity filters
-shinigami08.com##.iklannew-container
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -654,6 +653,7 @@ filmace21.net##.idmupi-topbanner
 katadata.co.id##.iklan-paralax-wrapper
 nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
+shinigami08.com##.iklannew-container
 awsubs.co##.iklansamping
 ld2tv.com##.img-banner
 dutafilm.cfd,dutafilm.observer,dutafilm.us##.imgbanner
