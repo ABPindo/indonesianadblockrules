@@ -27,13 +27,10 @@ komikindo.*##.gulai_asam_manis
 kuramanime.*###aboveListBannerSection
 kuramanime.*###abovePlayerBannerSection
 kuramanime.*###headerBannerSection
-kuramanime.*##.anime-ner.mt-4 > .row
-kuramanime.*##.content__tags
 kuramanime.*##.floating__footer
-kuramanime.*##[href^="https://bit.ly/"]
 kuramanime.*##[href^="https://s.id/"]
-kuramanime.*##[href^="https://shortku.in/"]
-kuramanime.*##[href^="https://tinyurl.com/"]
+kuramanime.*###aboveDownloadBannerSection
+kuramanime.*###playerOverplay
 kuronime.*###aiklanatas1
 kuronime.*###aiklanatasd1
 kuronime.*###aiklanheader1
@@ -97,7 +94,6 @@ utusan.com.my###Taboola_widget
 chip.co.id###TopBannerBg
 kompas.tv###_popIn_recommend_word
 mangacanblog.com###aa
-kuramanime.red###aboveDownloadBannerSection
 motorplus-online.com###ad-genie-container
 suara.com###adds-top
 mirrorkomik.net###adrandpop
@@ -330,7 +326,7 @@ beritacyber.com###smartmag-block-codes-1 > .block
 harianjogja.com,solopos.com###solopos_float
 15.235.11.45,65.108.132.145,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,filmroster.online,isekaisubs.web.id,luciferdonghua.in,mangashiro.net,neumanga.tv,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser1
 22cinema.download,65.108.132.145,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,isekaisubs.web.id,komiku.net,luciferdonghua.in,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser2
-15.235.11.45,22cinema.download,45.12.2.2,animasu.cc,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,kiryuu.org,komikcast.lol,komiku.net,kuramanime.lol,layarbiru21.com,lmanime.com,luciferdonghua.co.in,luciferdonghua.in,mangaindo.me,mangakita.id,mangakita.net,mangakyo.org,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com,warungkomik.com###teaser3
+15.235.11.45,22cinema.download,45.12.2.2,animasu.cc,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,kiryuu.org,komikcast.lol,komiku.net,layarbiru21.com,lmanime.com,luciferdonghua.co.in,luciferdonghua.in,mangaindo.me,mangakita.id,mangakita.net,mangakyo.org,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com,warungkomik.com###teaser3
 22cinema.download###teaser5
 indoxx1.club###tengah
 dunia21.top,lk21.cc###tengah > span
@@ -619,7 +615,6 @@ miyanime.site##.fixed-rside
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
-kuramanime.lol##.floating__footer
 okezone.com##.flying_ads
 katadata.co.id##.flying_carpet_div
 bisnis.com,tek.id##.flying_carpet_show
@@ -875,7 +870,6 @@ dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 139.99.120.222,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,gudangmovies21.cfd,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.id,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
 tv.lk21official.world##[href^="https://klik4.me/dunia21"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
-kuramanime.lol##[href^="https://tinyurl.com/"]
 lk21official.wiki##[href^="https://yukclick.me/dunia21"]
 idntimes.com##[id^="IDN_InArticle"]
 suara.com##[id^="berita-terkait-"]
@@ -968,7 +962,6 @@ info.gambar.pro,info.mapsaddress.com,info.vebma.com##img[width="240"][height="24
 info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
-kuramanime.*###playerOverplay
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 satujiwa.org##table
 ! Detik Network
