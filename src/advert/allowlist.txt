@@ -33,6 +33,7 @@
 @@||suarankri.me^$generichide
 @@||tokusatsuindo.com^$generichide
 @@||xmalay.net/nativeads-v2.js$script,~third-party
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tutwuri.id
 ! ABP-specific allowlist for network filters
 ! Allowlist for element hiding filters
 woof.tube#@#.adsbox
