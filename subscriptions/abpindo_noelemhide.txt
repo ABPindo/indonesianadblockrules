@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202501110043
+! Version: 202501121415
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 11 Jan 2025 00:43 UTC
+! Last modified: 12 Jan 2025 14:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -624,7 +624,7 @@ carisinyal.com##+js(rmnt, script, showModal)
 @@||nama.web.id^$generichide
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duniaseksi.com|kontenterabox.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duniaseksi.com|kontenterabox.com|tutwuri.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||razorlink.us^$generichide
@@ -1085,6 +1085,7 @@ totolink.id#@#.social-circle
 /fewstivalqq.gif$image
 /fifaqq-$image
 /fifaqq.$image,third-party
+/GACOR66-1.$image,third-party
 /Gacor88.webp|$image
 /garampoker.$image,third-party
 /garenapoker.$image,third-party
@@ -1127,6 +1128,7 @@ totolink.id#@#.social-circle
 /hokicapsa.$image,third-party
 /hokicash-$image
 /hokidewa-$image
+/HokiDewa2.$image,third-party
 /hokinewmay.$image,third-party
 /hokinusa.$image,third-party
 /hokinusa1.$image,third-party
@@ -1345,6 +1347,7 @@ totolink.id#@#.social-circle
 /macaubet-$image
 /macaubet.$image,third-party
 /macaudewa-$image
+/MacauDewa.$image,third-party
 /mahkotabola.$image,third-party
 /mahkotaqq.$image,third-party
 /maincuan-$image
@@ -1421,6 +1424,7 @@ totolink.id#@#.social-circle
 /nasapoker-$image
 /nasapoker.$image,third-party
 /neobola.$image,third-party
+/New-pentA.gif$image
 /newafa.gif|$image
 /newhoya-$image
 /newjaya.$image,third-party

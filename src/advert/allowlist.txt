@@ -23,7 +23,7 @@
 @@||nama.web.id^$generichide
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duniaseksi.com|kontenterabox.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duniaseksi.com|kontenterabox.com|tutwuri.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||razorlink.us^$generichide
@@ -33,7 +33,6 @@
 @@||suarankri.me^$generichide
 @@||tokusatsuindo.com^$generichide
 @@||xmalay.net/nativeads-v2.js$script,~third-party
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tutwuri.id
 ! ABP-specific allowlist for network filters
 ! Allowlist for element hiding filters
 woof.tube#@#.adsbox

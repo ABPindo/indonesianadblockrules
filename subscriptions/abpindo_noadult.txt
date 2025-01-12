@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202501110043
+! Version: 202501121415
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 11 Jan 2025 00:43 UTC
+! Last modified: 12 Jan 2025 14:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -624,7 +624,7 @@ carisinyal.com##+js(rmnt, script, showModal)
 @@||nama.web.id^$generichide
 @@||novelgo.id^$generichide
 @@||omahkpop.com^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duniaseksi.com|kontenterabox.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duniaseksi.com|kontenterabox.com|tutwuri.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||radarlombok.co.id^$generichide
 @@||razorlink.us^$generichide
@@ -986,6 +986,7 @@ samehadaku.*###floatcenter
 samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##.kln
+samehadaku.*##[href^="https://t.ly/"]
 samehadaku.*##img[style="width: 50%; height: 70px;"]
 shinigami.*##.lepopup-popup-container
 shinigami.*##.lepopup-popup-loader
