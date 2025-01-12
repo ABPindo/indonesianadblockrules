@@ -85,6 +85,7 @@ shinigami.*##.lepopup-popup-loader
 shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
+samehadaku.*##[href^="https://t.ly/"]
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
