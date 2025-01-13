@@ -24,13 +24,13 @@ komikcast.*###teaser3
 komikcast.*###teaser4
 komikcast.*##.kln
 komikindo.*##.gulai_asam_manis
+kuramanime.*###aboveDownloadBannerSection
 kuramanime.*###aboveListBannerSection
 kuramanime.*###abovePlayerBannerSection
 kuramanime.*###headerBannerSection
+kuramanime.*###playerOverplay
 kuramanime.*##.floating__footer
 kuramanime.*##[href^="https://s.id/"]
-kuramanime.*###aboveDownloadBannerSection
-kuramanime.*###playerOverplay
 kuronime.*###aiklanatas1
 kuronime.*###aiklanatasd1
 kuronime.*###aiklanheader1
