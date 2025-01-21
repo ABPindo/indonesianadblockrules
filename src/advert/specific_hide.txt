@@ -84,6 +84,10 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+optika.id###ads-top-header-parallax
+optika.id##.flying_carpet_div
+optika.id##.ads-top-header-parallax-scroll-to-continue
+optika.id##.no-print.ad-middle
 intip24news.com##body.sticky-header:style(padding: unset!important;)
 intip24news.com##.gmr-banner-insidecontent
 intip24news.com##.gmr-banner-aftercontent
