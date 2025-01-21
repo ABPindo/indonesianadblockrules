@@ -84,6 +84,16 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+saudinesia.id##.ane-iklan-isi
+saudinesia.id##.ane-iklan-box-paralax
+saudinesia.id##.ane-iklan-box
+saudinesia.id##.ane-iklan-container
+saudinesia.id##.ane-iklan-billboard
+saudinesia.id##.iklan-square-news
+saudinesia.id##.iklan-longbanner-header
+saudinesia.id##.iklan-billboard-header
+saudinesia.id##.iklan-billboard-news
+saudinesia.id##.ane-iklan-longbanner-header
 optika.id###ads-top-header-parallax
 optika.id##.flying_carpet_div
 optika.id##.ads-top-header-parallax-scroll-to-continue
