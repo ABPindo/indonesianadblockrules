@@ -84,6 +84,10 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+intip24news.com##body.sticky-header:style(padding: unset!important;)
+intip24news.com##.gmr-banner-insidecontent
+intip24news.com##.gmr-banner-aftercontent
+intip24news.com##.gmr-banner-afterrelpost
 tempo.co##.mb-6.m-auto.right-0.left-0.max-w-\[470px\].relative.h-\[250px\].w-full
 tempo.co##.justify-center.gap-2.flex.text-xs.text-neutral-900
 tempo.co##article .w-full.h-\[250px\].max-w-\[470px\].relative
