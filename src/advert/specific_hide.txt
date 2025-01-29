@@ -84,8 +84,6 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
-tv4.terbit21.im###middle-banner
-timenews.co.id##.ads
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -267,7 +265,7 @@ dewabioskop21.org,dwa21.org###main-popup
 sindonews.com###me-div-gpt-ad-parallax
 sindonews.com###me-div-gpt-ad-stickyad
 dapurpacu.com###mid-banner
-dunia21.cx,ganool.watch,lk21tv.com,movies21.co,terbit21.cafe###middle-banner
+dunia21.cx,ganool.watch,lk21tv.com,movies21.co,terbit21.cafe,tv4.terbit21.im###middle-banner
 fastdrama.co,hkfree.co###modal
 katadata.co.id###modalAdsPopup
 ketik.co.id###modalPopup
@@ -377,7 +375,7 @@ terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
 suara.com##.adds-top.add
-192.99.70.18,22cinema.com,95.216.163.177,akurat.co,ayobandung.com,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,jawapos.com,k-vid.net,katadata.co.id,kompas.com,koran-jakarta.com,masagipedia.com,miyanime.site,neumanga.tv,okezone.com,otakuindo.net,pikiran-rakyat.com,republika.co.id,smallencode.com,tempo.co,www.melintas.id##.ads
+192.99.70.18,22cinema.com,95.216.163.177,akurat.co,ayobandung.com,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,jawapos.com,k-vid.net,katadata.co.id,kompas.com,koran-jakarta.com,masagipedia.com,miyanime.site,neumanga.tv,okezone.com,otakuindo.net,pikiran-rakyat.com,republika.co.id,smallencode.com,tempo.co,timenews.co.id,www.melintas.id##.ads
 republika.co.id##.ads-120__left
 rejogja.co.id##.ads-120__left.ads
 republika.co.id##.ads-120__right
