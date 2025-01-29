@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202501291250
+! Version: 202501291314
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 29 Jan 2025 12:50 UTC
+! Last modified: 29 Jan 2025 13:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -552,6 +552,7 @@ iklan300x250.gif|
 ||statically.io/*.ttgambar.xyz/*.jpg$popup
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
+||tajir.la/komikcast$popup
 ||tambahketinggian.com/banner/
 ||tempo.co/*/img/temporary/ads/$image
 ||tempo.co/webtorial/like/remodal
@@ -1602,7 +1603,7 @@ kompas.com##.kcm__track
 kompas.com##.kgnw-modal-ads
 kontan.co.id##.kiri-det-desk
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,123.anikor.mom,15.235.11.45,157.245.12.72,185.217.95.48,185.217.95.49,45.12.2.2,anikor.icu,animasu.nl,anoboy.id,cosmic345.co,ikiru.one,indodb21.homes,isekaisubs.web.id,kazefuri.asia,kazefuri.net,kazefuri.vip,kiryuu.id,kiryuu.org,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.id,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,melongmovie.site,mirrorkomik.net,movieku.ink,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,tv1.anikor.lol,westmanga.info##.kln
+107.152.37.223,123.anikor.mom,15.235.11.45,157.245.12.72,185.217.95.48,185.217.95.49,45.12.2.2,anikor.icu,animasu.nl,anoboy.id,cosmic345.co,ikiru.one,indodb21.homes,isekaisubs.web.id,kazefuri.asia,kazefuri.net,kazefuri.vip,kiryuu.id,kiryuu.org,komikcast.io,komikcast01.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.id,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,melongmovie.site,mirrorkomik.net,movieku.ink,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,tv1.anikor.lol,westmanga.info##.kln
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
 anime17.net##.ktz_banner

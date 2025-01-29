@@ -1,4 +1,3 @@
-||tajir.la/komikcast$popup
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
@@ -210,6 +209,7 @@
 ||statically.io/*.ttgambar.xyz/*.jpg$popup
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
+||tajir.la/komikcast$popup
 ||tambahketinggian.com/banner/
 ||tempo.co/*/img/temporary/ads/$image
 ||tempo.co/webtorial/like/remodal
