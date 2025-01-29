@@ -84,6 +84,7 @@ shinigami.*##.lepopup-popup-overlay
 shinigami.*##img[alt="Advertisement"]
 shinigamitoon.*##img[alt="Advertisement"]
 ! Non-entity filters
+tv4.terbit21.im###middle-banner
 timenews.co.id##.ads
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
