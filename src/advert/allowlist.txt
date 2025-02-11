@@ -35,9 +35,7 @@
 @@||xmalay.net/nativeads-v2.js$script,~third-party
 ! ABP-specific allowlist for network filters
 ! Allowlist for element hiding filters
-woof.tube#@#.adsbox
 datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbygoogle
-aplikasipc.com#@#.afs_ads
 qqcinema21.com#@#.headads
 layarlebarxxi.com#@#.idmuvi-afterplayer
 adikanime.com,nge-film21.info#@#.idmuvi-banner-aftercontent
@@ -45,6 +43,4 @@ adikanime.com,nge-film21.info#@#.idmuvi-banner-aftercontent
 layarlebar21.org,layarlebarxxi.com#@#.idmuvi-topplayer
 animanganews.com,short.awsubs.co#@#.iklan
 tokosatu.com#@#.popupflyin-clicks-area
-digikala.com,sporcle.com#@#.remodal
 oomph.co.id#@#.shareit
-totolink.id#@#.social-circle
