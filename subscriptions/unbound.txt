@@ -70,7 +70,6 @@ local-zone: "iklanumum.com" always_nxdomain
 local-zone: "indoadsnet.com" always_nxdomain
 local-zone: "indobanner.com" always_nxdomain
 local-zone: "indofreeads.com" always_nxdomain
-local-zone: "indoleads.com" always_nxdomain
 local-zone: "istana-impian.com" always_nxdomain
 local-zone: "istana-impian2.com" always_nxdomain
 local-zone: "istanaiklan.com" always_nxdomain
