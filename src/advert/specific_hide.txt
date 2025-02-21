@@ -81,6 +81,7 @@ samehadaku.*##[href^="https://t.ly/"]
 samehadaku.*##img[style="width: 50%; height: 70px;"]
 shinigami09.com##.iklannew-container
 ! Non-entity filters
+serialmovieislami.com##.adore-adver
 jatimnetwork.com##.ads
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
