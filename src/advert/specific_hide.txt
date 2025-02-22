@@ -79,8 +79,14 @@ samehadaku.*##.adsrow
 samehadaku.*##.kln
 samehadaku.*##[href^="https://t.ly/"]
 samehadaku.*##img[style="width: 50%; height: 70px;"]
-shinigami09.com##.iklannew-container
+shinigami09.*##.iklannew-container
+shinigami09.*##.lepopup-popup-container
+shinigami09.*##.lepopup-popup-loader
+shinigami09.*##.lepopup-popup-overlay
+shinigami09.*###lepopup-popup-13
+shinigami09.*###lepopup-popup-13-overlay
 ! Non-entity filters
+shinigami09.com##.iklannew-container
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
