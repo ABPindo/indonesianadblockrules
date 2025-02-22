@@ -81,8 +81,6 @@ samehadaku.*##[href^="https://t.ly/"]
 samehadaku.*##img[style="width: 50%; height: 70px;"]
 shinigami09.com##.iklannew-container
 ! Non-entity filters
-serialmovieislami.com##.adore-adver
-jatimnetwork.com##.ads
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -370,7 +368,8 @@ terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
 suara.com##.adds-top.add
-192.99.70.18,22cinema.com,95.216.163.177,akurat.co,ayobandung.com,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,jawapos.com,k-vid.net,katadata.co.id,kompas.com,koran-jakarta.com,masagipedia.com,miyanime.site,neumanga.tv,okezone.com,otakuindo.net,pikiran-rakyat.com,republika.co.id,smallencode.com,tempo.co,timenews.co.id,www.melintas.id##.ads
+serialmovieislami.com##.adore-adver
+192.99.70.18,22cinema.com,95.216.163.177,akurat.co,ayobandung.com,ayojakarta.com,dapurpacu.com,dewanontons.com,download-lagu-mp3.com,dunia21.ltd,duniafilm21.com,embed.dramacool.es,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,jatimnetwork.com,jawapos.com,k-vid.net,katadata.co.id,kompas.com,koran-jakarta.com,masagipedia.com,miyanime.site,neumanga.tv,okezone.com,otakuindo.net,pikiran-rakyat.com,republika.co.id,smallencode.com,tempo.co,timenews.co.id,www.melintas.id##.ads
 republika.co.id##.ads-120__left
 rejogja.co.id##.ads-120__left.ads
 republika.co.id##.ads-120__right

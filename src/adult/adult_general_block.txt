@@ -94,6 +94,7 @@
 -qqjoker-$image
 -rajacapsa.$image
 -rajakasino.$image
+-rajaqq.gif|$image
 -rgocasino-$image
 -rgocasino.$image
 -rivalqq.$image
@@ -548,6 +549,7 @@
 /itudewa.$image,third-party
 /itudomino.$image
 /itudomino728.$image,third-party
+/itudomino99.$image
 /itugol.$image,third-party
 /itupk.$image
 /itupoker-$image
@@ -1148,14 +1150,12 @@ dewidomino.gif|$image
 doyanjudi.gif|$image
 idncash.gif|$image
 itudomino.gif|$image
-/itudomino99.$image
 jayabet.gif|$image
 lvo888.gif|$image
 nagalaut728.gif|$image
 NewKaikoSlot.gif|$image
 pencetpoker.gir|$image
 raja365.gif|$image
--rajaqq.gif|$image
 ratubola.gif|$image
 sarana88.gif|$image
 sarangbola.gif|$image
@@ -1992,6 +1992,7 @@ totojitu.gif|$image
 ||hokiqq-1.$image,third-party
 ||hokiqq.$image,third-party
 ||hoky-qq.$image,third-party
+||holahupa.com^$popup
 ||hongkongtogel.$image,third-party
 ||hopengbet.$image,third-party
 ||hotsports7.$image,third-party
@@ -3438,4 +3439,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-||holahupa.com^$popup
