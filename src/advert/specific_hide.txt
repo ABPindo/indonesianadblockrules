@@ -87,6 +87,8 @@ shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 anichin.*###overplay
 ! Non-entity filters
+doronime.id##.show.Popup
+doroni.me##.show.Popup
 ikiru.world##.kln
 kiryuu01.com##.kln
 wowkeren.com###Ad300B
