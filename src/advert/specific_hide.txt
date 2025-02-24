@@ -85,6 +85,7 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
+anichin.*###overplay
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
