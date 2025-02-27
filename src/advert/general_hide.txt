@@ -209,6 +209,7 @@
 ##.ivs-overlay-ads
 ##.kill-adblock-container
 ##.klan300
+##.kln.mlb.blox
 ##.kotak_iklan
 ##.kotakiklan
 ##.ktz-aftermenubanner
@@ -251,4 +252,3 @@
 ##img[alt="Ad banner"]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-##.kln.mlb.blox

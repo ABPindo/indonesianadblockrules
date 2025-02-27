@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202502241255
+! Version: 202502271204
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 24 Feb 2025 12:55 UTC
+! Last modified: 27 Feb 2025 12:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -856,6 +856,7 @@ oomph.co.id#@#.shareit
 ##.ivs-overlay-ads
 ##.kill-adblock-container
 ##.klan300
+##.kln.mlb.blox
 ##.kotak_iklan
 ##.kotakiklan
 ##.ktz-aftermenubanner
@@ -1099,7 +1100,7 @@ bgibola.com,bgibola.lat###floatbannerkiri
 nontonsini.com###floatbawah
 lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
-149.28.158.117,ainzscans.net,animexin.xyz,anixlife.xyz,awsubs.co,bgibola.com,bgibola.lat,cosmic345.co,indodb21.homes,isekaisubs.web.id###floatcenter
+149.28.158.117,ainzscans.net,animexin.xyz,anixlife.xyz,awsubs.co,bgibola.com,bgibola.lat,cosmic345.co,indodb21.homes,isekaisubs.web.id,kazefuri.info###floatcenter
 ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com###floating_ads_bottom_textcss_wrap
 northridgeautospa.com###floating_banner_bot2
@@ -1589,6 +1590,7 @@ kompas.com##.kgnw-modal-ads
 kontan.co.id##.kiri-det-desk
 apk.miuiku.com,lewat.club##.klikdisini
 107.152.37.223,123.anikor.mom,15.235.11.45,157.245.12.72,185.217.95.48,185.217.95.49,45.12.2.2,ainzscans.net,anikor.icu,animasu.nl,anoboy.id,cosmic345.co,ikiru.one,ikiru.world,indodb21.homes,isekaisubs.web.id,kazefuri.asia,kazefuri.net,kazefuri.vip,kiryuu.id,kiryuu.org,kiryuu01.com,komikcast.io,komikcast01.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.id,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,melongmovie.site,mirrorkomik.net,movieku.ink,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,tv1.anikor.lol,westmanga.info##.kln
+kazefuri.info##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
 anime17.net##.ktz_banner

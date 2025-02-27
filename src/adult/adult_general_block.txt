@@ -356,6 +356,7 @@
 /dewa757.$image,third-party
 /dewabandar-$image
 /dewabet.gif|$image
+/Dewabet_$domain=image
 /dewabetQQ.$image,third-party
 /dewaboya.$image,third-party
 /dewacash-$image
@@ -514,6 +515,7 @@
 /idrbt.webp|$image,third-party
 /idrpoker.$image,third-party
 /idx-promo-$image
+/igamble247_$image
 /IGAMBLE_$image
 /iklanqq.$image,third-party
 /iklanratu.$image
@@ -632,6 +634,7 @@
 /klikvegas-$image
 /koinhoki.$image,third-party
 /koinslots.gif|$image
+/kokohoki2.gif|$image
 /kokoqq.$image,third-party
 /kontolkuda.$image,third-party
 /kucingpoker.$image,third-party
@@ -761,6 +764,7 @@
 /mutiarapoker.$image,third-party
 /muvibet-$image
 /muvibet.$image,third-party
+/naga303_$image
 /nagaikan.gif|$image
 /nagalaut-new.$image,third-party
 /nagalaut.$image,third-party
@@ -1003,6 +1007,7 @@
 /sonybets.$image,third-party
 /sotoqq90.$image,third-party
 /sportsmansclub.$image,third-party
+/spot-bet.webp|$image
 /star88bet.$image,third-party
 /star88win.$image,third-party
 /starbola88-$image
@@ -3439,8 +3444,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/naga303_$image
-/igamble247_$image
-/Dewabet_$domain=image
-/spot-bet.webp|$image
-/kokohoki2.gif|$image

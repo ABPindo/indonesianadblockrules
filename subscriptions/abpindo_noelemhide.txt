@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202502241255
+! Version: 202502271204
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 24 Feb 2025 12:55 UTC
+! Last modified: 27 Feb 2025 12:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1003,6 +1003,7 @@ oomph.co.id#@#.shareit
 /dewa757.$image,third-party
 /dewabandar-$image
 /dewabet.gif|$image
+/Dewabet_$domain=image
 /dewabetQQ.$image,third-party
 /dewaboya.$image,third-party
 /dewacash-$image
@@ -1161,6 +1162,7 @@ oomph.co.id#@#.shareit
 /idrbt.webp|$image,third-party
 /idrpoker.$image,third-party
 /idx-promo-$image
+/igamble247_$image
 /IGAMBLE_$image
 /iklanqq.$image,third-party
 /iklanratu.$image
@@ -1279,6 +1281,7 @@ oomph.co.id#@#.shareit
 /klikvegas-$image
 /koinhoki.$image,third-party
 /koinslots.gif|$image
+/kokohoki2.gif|$image
 /kokoqq.$image,third-party
 /kontolkuda.$image,third-party
 /kucingpoker.$image,third-party
@@ -1408,6 +1411,7 @@ oomph.co.id#@#.shareit
 /mutiarapoker.$image,third-party
 /muvibet-$image
 /muvibet.$image,third-party
+/naga303_$image
 /nagaikan.gif|$image
 /nagalaut-new.$image,third-party
 /nagalaut.$image,third-party
@@ -1650,6 +1654,7 @@ oomph.co.id#@#.shareit
 /sonybets.$image,third-party
 /sotoqq90.$image,third-party
 /sportsmansclub.$image,third-party
+/spot-bet.webp|$image
 /star88bet.$image,third-party
 /star88win.$image,third-party
 /starbola88-$image
