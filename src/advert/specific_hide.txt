@@ -87,6 +87,11 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+idntimes.com###wrapper-IDN_Billboard
+idntimes.com###wrapper-IDN_MR1
+idntimes.com###wrapper-IDN_MR2
+idntimes.com##.wrapper-billboard
+idntimes.com##.wrapper-leaderboard
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
