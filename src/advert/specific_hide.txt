@@ -87,11 +87,6 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
-idntimes.com###wrapper-IDN_Billboard
-idntimes.com###wrapper-IDN_MR1
-idntimes.com###wrapper-IDN_MR2
-idntimes.com##.wrapper-billboard
-idntimes.com##.wrapper-leaderboard
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -357,6 +352,9 @@ animeindo.net###videoad1
 bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 bioskop78.com,bioskopgalaxy21.com,juraganmovie.net,juragantomatx.com,movie76.net###wrap > center
 nontonfilm77.com###wrap > table
+idntimes.com###wrapper-IDN_Billboard
+idntimes.com###wrapper-IDN_MR1
+idntimes.com###wrapper-IDN_MR2
 marketeers.com##.-mx-\[24px\]
 comotin.com##.Widget:nth-of-type(2)
 comotin.com##.Widget:nth-of-type(3)
@@ -854,6 +852,8 @@ suara.com##.widget-ads-top
 stampeippogrifo.com##.widget_custom_html
 komiku.com##.widget_text:has([href^="https://shope.ee/"])
 cdramabase.com##.wpa
+idntimes.com##.wrapper-billboard
+idntimes.com##.wrapper-leaderboard
 mamikos.com##[class$="-item__room"]:has(.rc-photo__icon--promo)
 jawapos.com##[class$="__disclaimer"]
 dwa21.org##[class*="banner"]
