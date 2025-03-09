@@ -978,8 +978,9 @@ animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 satujiwa.org##table
-! Detik Network
 zonafilm.art###floating_banner_top1
+! Detik Network
+detik.com##div[style^="margin: 10px auto;width: 970px;height: 250px"]
 haibunda.com###balloonads
 cnnindonesia.com,detik.com###billboard
 cnbcindonesia.com###billboard_banner
