@@ -86,6 +86,7 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
+kazefuri.*##.kln
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -690,7 +691,7 @@ kompas.com##.kcm__track
 kompas.com##.kgnw-modal-ads
 kontan.co.id##.kiri-det-desk
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,123.anikor.mom,15.235.11.45,157.245.12.72,185.217.95.48,185.217.95.49,45.12.2.2,ainzscans.net,anikor.icu,animasu.nl,anoboy.id,cosmic345.co,ikiru.one,ikiru.world,indodb21.homes,isekaisubs.web.id,kazefuri.asia,kazefuri.net,kazefuri.vip,kiryuu.id,kiryuu.org,kiryuu01.com,komikcast.io,komikcast01.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.id,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,melongmovie.site,mirrorkomik.net,movieku.ink,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,tv1.anikor.lol,westmanga.info##.kln
+ainzscans.net,cosmic345.co,ikiru.one,ikiru.world,isekaisubs.web.id,kiryuu01.com,komikcast02.com,komikcast01.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.id,mangakita.net,movieku.ink,tv1.anikor.lol##.kln
 kazefuri.info##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
