@@ -208,7 +208,7 @@ bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,biosk
 bioskop007.club,bioskop1080.com,bioskop212.net,bioskop55.club,bioskop55.me,bioskop90.com,bioskop90.me,cinema007.com,cinemastar21.com,nontononline99.com###floating_banner_right
 bgibola.com,bgibola.lat,bioskop55.me,bioskopgalaxy21.com,bioskopstar88.com,cinemaqq.com,juraganmovie.net,juragantomatx.com,movie76.net,nontonlk21.live###floating_banner_top
 blogspot.com###floating_banner_top img[width="728"][height="90"]
-46.149.76.81,baladfilm.skin,cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live,northridgeautospa.com,zonafilm.icu###floating_banner_top1
+46.149.76.81,baladfilm.skin,cinema-indo.co,kawanfilm21.online,kawanfilm21.pro,nontonlk21.live,northridgeautospa.com,zonafilm.art,zonafilm.icu###floating_banner_top1
 bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_banner_tops
 80.209.252.146###floattop
 lk21c.fun###flobwh
@@ -978,9 +978,7 @@ animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 satujiwa.org##table
-zonafilm.art###floating_banner_top1
 ! Detik Network
-detik.com##div[style^="margin: 10px auto;width: 970px;height: 250px"]
 haibunda.com###balloonads
 cnnindonesia.com,detik.com###billboard
 cnbcindonesia.com###billboard_banner
@@ -1034,6 +1032,7 @@ insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
 cnbcindonesia.com##div.undefined
 cnbcindonesia.com##div[style$="height:600px;"]
 cnbcindonesia.com##div[style*="height:400px;"]
+detik.com##div[style^="margin: 10px auto;width: 970px;height: 250px"]
 cnbcindonesia.com##div[style^="width:970px;"]
 ! ABP-specific filters
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
