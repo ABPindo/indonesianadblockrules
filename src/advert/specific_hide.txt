@@ -89,6 +89,7 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
+shinigami.*##.bg-base-card:has(img[alt*="-ad-"])
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
