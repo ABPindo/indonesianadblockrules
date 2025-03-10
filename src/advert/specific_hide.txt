@@ -83,13 +83,13 @@ samehadaku.*##.adsrow
 samehadaku.*##.kln
 samehadaku.*##[href^="https://t.ly/"]
 samehadaku.*##img[style="width: 50%; height: 70px;"]
+shinigami.*##.bg-base-card:has(img[alt*="-ad-"])
 shinigami09.*###lepopup-popup-13
 shinigami09.*###lepopup-popup-13-overlay
 shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
-shinigami.*##.bg-base-card:has(img[alt*="-ad-"])
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728

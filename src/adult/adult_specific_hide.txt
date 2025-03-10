@@ -37,6 +37,7 @@ streamingbokeps.co###advertisement-2
 bintangmawar.net###bmpop_adpB
 javsubindo.my###btm_banner
 103.194.170.153,xtubecinema.club,xtubecinema.top###btm_bannerMobile
+krx18.com###dynamic-image[alt=""]
 unyil.net###float-atas
 rumahperjaka.live,rumahperjaka.site###floatbannerkanan
 rumahperjaka.site###floatbannerkiri
@@ -126,7 +127,6 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
-krx18.com###dynamic-image[alt=""]
 ! Allowlist for element hiding filters
 ! Entity filters
 pemersatufun.*#@##adright

@@ -253,6 +253,8 @@ local-zone: "vrewpywootyu.com" always_nxdomain
 local-zone: "wbaogaqvrukprx.com" always_nxdomain
 local-zone: "whjibbprhng.com" always_nxdomain
 local-zone: "wkuave.com" always_nxdomain
+local-zone: "wpiohdquqo.com" always_nxdomain
+local-zone: "wpiohdquqo.com" always_nxdomain
 local-zone: "yllix.com" always_nxdomain
 local-zone: "ys3e965d.top" always_nxdomain
 local-zone: "zukxd6fkxqn.com" always_nxdomain
