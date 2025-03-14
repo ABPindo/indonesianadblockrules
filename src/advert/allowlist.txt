@@ -16,6 +16,7 @@
 @@||razorlink.us^$generichide
 @@||sanjayaops.com^$generichide
 @@||tokusatsuindo.com^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jurnalistekno.id
 ! Allowlist for Specific Domains
 @@||ads.id^$~third-party
 @@||advertising-indonesia.id^$~third-party
