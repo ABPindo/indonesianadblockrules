@@ -91,6 +91,7 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+bisnis.com##.billboardWrapper
 poskota.co.id##.ads__stick-left
 poskota.co.id##.ads__stick-right
 poskota.co.id##.ads__min-h-\[250px\]
