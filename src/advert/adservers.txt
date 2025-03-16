@@ -151,7 +151,6 @@
 ||weblogiklan.com^$third-party
 ||yesads.com^$third-party
 ! Potential ad servers
-||xihubo.click^$script
 ||05ee3a24ed11df058c8.com^$popup,third-party
 ||1b969cef84d93b43.com^
 ||34667c8ece5.com^
@@ -258,6 +257,7 @@
 ||wkuave.com^$third-party
 ||wpiohdquqo.com^$popup
 ||wpiohdquqo.com^$script
+||xihubo.click^$script
 ||yllix.com^$popup,third-party
 ||ys3e965d.top^$third-party
 ||zukxd6fkxqn.com^$popup
