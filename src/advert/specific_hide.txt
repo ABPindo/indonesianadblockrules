@@ -91,6 +91,11 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+poskota.co.id##.ads__stick-left
+poskota.co.id##.ads__stick-right
+poskota.co.id##.ads__min-h-\[250px\]
+poskota.co.id##.ads__min-h-\[90px\]
+poskota.co.id###ads__bottom
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
