@@ -362,6 +362,7 @@
 /dewacash-$image
 /dewacash.gif$image
 /DewaCuan-$image
+/dewacuan.gif|$image
 /dewacuki-$image
 /dewadominoqq.$image,third-party
 /dewahoki.$image,third-party
@@ -3444,4 +3445,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/dewacuan.gif|$image
