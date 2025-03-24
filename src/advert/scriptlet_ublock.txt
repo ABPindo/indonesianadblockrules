@@ -19,3 +19,8 @@ wisatalova.com##+js(rmnt, script, hargamenu)
 katadata.co.id##+js(rmnt, script, modalAdsPopup)
 gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 carisinyal.com##+js(rmnt, script, showModal)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3gpterbaru.com|duniaseksi.com|jurnalistekno.id|kontenterabox.com|tutwuri.id,badfilter
+jurnalistekno.id,tutwuri.id##+js(no-xhr-if, googlesyndication)
+jurnalistekno.id##+js(nowoif)
+3gpterbaru.com,duniaseksi.com##+js(acs, eval, replace)
+3gpterbaru.com,duniaseksi.com##+js(rmnt, script, /decodeURIComponent\(escape|fairAdblock/)
