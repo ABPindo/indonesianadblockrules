@@ -25,3 +25,4 @@ carisinyal.com##+js(rmnt, script, showModal)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$badfilter,domain=3gpterbaru.com|duniaseksi.com|jurnalistekno.id|kontenterabox.com|tutwuri.id
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
 moviekhhd.biz##+js(nostif, location.href, 3000)
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=rpmvip.com,redirect=google-ima.js
