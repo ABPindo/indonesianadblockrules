@@ -30,15 +30,12 @@ sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
 ! Non-entity filters
-pemersatufun.site##.ad
-pemersatufun.site###deskadmiddle
-pemersatufun.site###footadframe
-pemersatufun.com###advertisement
-pemersatudotfun.com##.ad
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink###ads
+pemersatufun.com###advertisement
 bintangmawar.net###bmpop_adpB
 javsubindo.my###btm_banner
+pemersatufun.site###deskadmiddle
 krx18.com###dynamic-image[alt=""]
 unyil.net###float-atas
 rumahperjaka.live,rumahperjaka.site###floatbannerkanan
@@ -48,6 +45,7 @@ rumahperjaka.live,rumahperjaka.site###floating_banner_top
 149.102.130.200,154.12.229.9,161.97.116.33,173.212.245.75,185.182.187.38,194.163.158.12,45.67.231.215,75.119.147.12,81.0.220.98,89.117.61.35,bk21.yachts###floating_banner_top1
 ruangbokep.sbs,ruangbokep.top,streamingbokeponline.site,streamingbokeponline.top###floating_bot
 157.245.195.114###floating_bot.btm_ban
+pemersatufun.site###footadframe
 video.pemersatu.org###iklan728x100
 149.102.130.200,154.12.229.9,161.97.116.33,173.212.245.75,185.217.95.30,194.163.145.21,207.244.225.48,81.0.220.98###ouibounce-modal
 iyottube.co,iyottube.com###playerOverlay
@@ -63,6 +61,7 @@ hencop.com###teaser7
 158.69.0.212###top-banner
 173.249.49.204###tutupen
 sangetods.net##.active.adde_modal-overlay
+pemersatudotfun.com,pemersatufun.site##.ad
 indobokepz.com##.adBar-vertical.left
 indobokepz.com##.adBar-vertical.right
 sangetods.net##.adde_modal_detector-show.adde_modal_detector

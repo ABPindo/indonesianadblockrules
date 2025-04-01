@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202504010111
+! Version: 202504010751
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 01 Apr 2025 01:11 UTC
+! Last modified: 01 Apr 2025 07:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -430,9 +430,7 @@ wisatalova.com##+js(rmnt, script, hargamenu)
 katadata.co.id##+js(rmnt, script, modalAdsPopup)
 gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 carisinyal.com##+js(rmnt, script, showModal)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$badfilter,domain=3gpterbaru.com|duniaseksi.com|jurnalistekno.id|kontenterabox.com|tutwuri.id
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
-||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima.js,script,domain=rpmvip.com
 ! *** abpindo:src/advert/allowlist.txt ***
 ! General Allowlist for Network Filters
 @@||1idsly.com^$generichide
@@ -446,7 +444,6 @@ carisinyal.com##+js(rmnt, script, showModal)
 @@||infotekno.net^$generichide
 @@||mivo.com^$generichide
 @@||novelgo.id^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3gpterbaru.com|duniaseksi.com|jurnalistekno.id|kontenterabox.com|tutwuri.id
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||sanjayaops.com^$generichide
 @@||tokusatsuindo.com^$generichide
@@ -3915,7 +3912,6 @@ totojitu.gif|$image
 ||bintangmawar.net/forum/top_banner.php
 ||blogger.googleusercontent.com/*.gif$image,domain=doujindesu.tv|javsubid.com
 ||duniasex.ws/banner-
-||gambar123.com^$badfilter
 ||indobokepz.com/images/banner/
 ||krucil.net/banner/
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
