@@ -92,6 +92,10 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+tafsirweb.com##.is-resized.size-large.aligncenter
+tafsirweb.com##article:nth-of-type(2) > div:nth-of-type(3)
+tafsirweb.com###promo-after
+tafsirweb.com##.hot_deals_green
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
