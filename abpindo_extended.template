@@ -1,0 +1,30 @@
+[Adblock Plus 2.0]
+! Title: ABPindo Extended
+! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, ditambah domain yang mungkin bisa muncul kembali.
+! Last modified: %timestamp%
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/ABPindo/indonesianadblockrules/
+! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
+!
+! Please report any unblocked adverts or problems
+! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
+! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
+!
+!---------------------- advert blocking filters ----------------------!
+%include abpindo:src/advert/adservers.txt%
+%include abpindo:src/advert/thirdparty.txt%
+%include abpindo:src/advert/general_block.txt%
+%include abpindo:src/advert/specific_block.txt%
+%include abpindo:src/advert/scriptlet_ublock.txt%
+%include abpindo:src/advert/allowlist.txt%
+%include abpindo:src/advert/extended.txt%
+!----------------------- element hiding rules ------------------------!
+%include abpindo:src/advert/general_hide.txt%
+%include abpindo:src/advert/specific_hide.txt%
+!--------------------------- adult ------------------------------!
+%include abpindo:src/adult/adult_general_block.txt%
+%include abpindo:src/adult/adult_general_hide.txt%
+%include abpindo:src/adult/adult_specific_block.txt%
+%include abpindo:src/adult/adult_specific_hide.txt%
+%include abpindo:src/adult/adult_thirdparty.txt%
+%include abpindo:src/adult/adult_extended.txt%
