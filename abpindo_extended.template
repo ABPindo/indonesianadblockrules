@@ -17,7 +17,7 @@
 %include abpindo:src/advert/specific_block.txt%
 %include abpindo:src/advert/scriptlet_ublock.txt%
 %include abpindo:src/advert/allowlist.txt%
-%include abpindo:src/advert/extended.txt%
+%include abpindo:src/advert_extended.txt%
 !----------------------- element hiding rules ------------------------!
 %include abpindo:src/advert/general_hide.txt%
 %include abpindo:src/advert/specific_hide.txt%
@@ -27,4 +27,4 @@
 %include abpindo:src/adult/adult_specific_block.txt%
 %include abpindo:src/adult/adult_specific_hide.txt%
 %include abpindo:src/adult/adult_thirdparty.txt%
-%include abpindo:src/adult/adult_extended.txt%
+%include abpindo:src/adult_extended.txt%

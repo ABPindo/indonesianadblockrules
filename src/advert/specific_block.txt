@@ -55,7 +55,6 @@
 ||eramuslim.com/banners
 ||fansubupdate.com/res/img/sampleads/
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
-||forumbitcoin.co.id/other/banner/*-*.$image
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
@@ -83,7 +82,6 @@
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||image.bannermovie.online$image,domain=kalashainternational.com
 ||imagebam.com/*.gif$image,domain=ganool.li
-||images.gameweb.co.id/gw/ads/
 ||img.gm21.download/*.webp$image
 ||img.koran-jakarta.com/images/ads/
 ||img.koran-jakarta.com/images/advertisement/
