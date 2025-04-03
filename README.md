@@ -1,20 +1,18 @@
 <p align="center"><img src="https://github.com/ABPindo/indonesianadblockrules/raw/master/src/ABPindo%202.png" width="240"></p>
 
 # ABPindo
-ABPindo merupakan daftar penapis/penyaring iklan di situs berbahasa Indonesia dan Malaysia, guna melengkapi penapis internasional seperti [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) atau [AdGuard Base filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt). ABPindo menggunakan sintak [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters), dan kompatibel dengan pengaya/ekstensi [Adblock Plus](https://adblockplus.org/), [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), atau adblocker sejenisnya. Kini ABPindo juga menyediakan dukungan dengan sintak host dan domain, yang kompatibel dengan [AdAway](https://github.com/AdAway/AdAway), [Pi-Hole](https://github.com/pi-hole/pi-hole), [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome), dan penapis berbasis DNS lainnya.
+
+ABPindo adalah daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia, yang melengkapi penapis internasional seperti [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) dan [AdGuard Base filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt). ABPindo menggunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters) dan kompatibel dengan ekstensi seperti [Adblock Plus](https://adblockplus.org/), [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), dan adblocker sejenis. Kini, ABPindo juga mendukung sintaks host dan domain, yang kompatibel dengan [AdAway](https://github.com/AdAway/AdAway), [Pi-Hole](https://github.com/pi-hole/pi-hole), [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome), dan penapis berbasis DNS lainnya.
 
 ## Keuntungan
-- Tampilan lebih bersih </br>
-Tanpa iklan promosi berlebihan, iklan judi, dan iklan dewasa
-- Terhindar dari penipuan </br>
-Tanpa iklan yang membaur/menyamar menjadi tombol update atau tombol download
-- Lebih cepat </br>
-Tanpa iklan waktu membuka laman web menjadi lebih singkat
+- **Lebih Bersih**: Tanpa iklan promosi berlebihan, iklan judi, dan iklan dewasa
+- **Terhindar dari Penipuan**: Tanpa iklan yang menyamar sebagai tombol update, stream atau download
+- **Lebih Cepat**: Tanpa iklan, waktu membuka laman web menjadi lebih singkat
 
 ## Cara Menggunakan
-- Jalankan peramban web favoritmu (Firefox, Chrome, Opera, Safari, ...).
-- Pasang pengaya/ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenisnya.
-- Nyalakan filter ABPindo atau klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo).
+1. Jalankan peramban web favorit Anda (Firefox, Chrome, Opera, Safari, dll.)
+2. Pasang ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenis
+3. Nyalakan filter ABPindo atau klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)
 
 ## Langganan Filter utama untuk browser
 | Langganan|Raw File |Keterangan|
@@ -34,32 +32,32 @@ Tanpa iklan waktu membuka laman web menjadi lebih singkat
 |RPZ (Response Policy Zone) [BIND](https://gitlab.isc.org/isc-projects/bind9.git)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/rpz_adult.txt)|`example.com CNAME .`|
 |[UNBOUND](https://github.com/NLnetLabs/unbound)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/unbound.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/unbound_adult.txt)|`local-zone: "example.com" always_nxdomain`|
 
-Keterangan:
-- Sintak penapis berbasis DNS memiliki cara kerja yang berbeda dari pengaya/ekstensi, sehingga untuk menghindari kesalahan blokir, default ABPindo pada penapis berbasis DNS hanya terdiri dari 'ABPindo_adserver' dan 'ABPindo_third-party'.
+**Keterangan**:
+- Sintaks penapis berbasis DNS memiliki cara kerja yang berbeda dari ekstensi, sehingga untuk menghindari kesalahan blokir, default ABPindo pada penapis berbasis DNS hanya terdiri dari 'ABPindo_adserver' dan 'ABPindo_third-party'.
 - *Host ABPindo terdiri dari domain 'ABPindo_adserver' dan 'ABPindo_third-party'.
-- **Host ABPindo_adult terdiri dari domain 'ABPindo_adserver', 'ABPindo_third-party' dan 'ABPindo_adult' (iklan judi dan dewasa).
+- **Host ABPindo_adult terdiri dari domain 'ABPindo_adserver', 'ABPindo_third-party', dan 'ABPindo_adult' (iklan judi dan dewasa).
 
-## Ingin berkontribusi
-Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
+## Ingin Berkontribusi 🤝
+Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau belum dijangkau ABPindo. Jika menemukan hal-hal tersebut, Anda bisa berkontribusi langsung melalui:
 - [GitHub issue tracker](https://github.com/ABPindo/indonesianadblockrules/issues)
 - [Submit a pull request](https://github.com/ABPindo/indonesianadblockrules/pulls)
 
-## Pengaturan standar
-Lingkungan pengujian Kami sebagai berikut:
-- Peramban [Firefox](https://www.mozilla.org/id/firefox/).
-- Pengaya [uBlock Origin](https://github.com/gorhill/uBlock#installation).
-- Filter : [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist), [EasyPrivacy](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easyprivacy.txt&title=EasyPrivacy), [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo) dan [uBlock filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt&title=uBlock%20filters).
+## Pengaturan Standar ⚙️
+Lingkungan pengujian kami sebagai berikut:
+- Peramban [Firefox](https://www.mozilla.org/id/firefox/)
+- Ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation)
+- Filter: [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist), [EasyPrivacy](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easyprivacy.txt&title=EasyPrivacy), [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo), dan [uBlock filters](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt&title=uBlock%20filters)
 
-## Bagi pengembang
-- [Kebijakan ABPindo tentang iklan](https://easylist.to/pages/policy.html)
-- [How to write filters | Adblock Plus Help Center](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
-- [uBlock Static filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
-- [DNS filtering rules syntax | AdGuard DNS Knowledge Base](https://adguard-dns.io/kb/general/dns-filtering-syntax/)
-- [Python-abp : utilitas untuk rendering filter ABPindo](https://github.com/adblockplus/python-abp)
-- [PyFunceble : utilitas untuk cek domain ABPindo](https://github.com/funilrys/PyFunceble)
-- [adblock-decoder : utilitas untuk konversi filter ABPindo ke format hosts dan plain text](https://github.com/PyFunceble/adblock-decoder)
+## Bagi Pengembang 🛠️
+- [Kebijakan ABPindo tentang Iklan](https://easylist.to/pages/policy.html)
+- [How to Write Filters | Adblock Plus Help Center](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
+- [uBlock Static Filter Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
+- [DNS Filtering Rules Syntax | AdGuard DNS Knowledge Base](https://adguard-dns.io/kb/general/dns-filtering-syntax/)
+- [Python-abp: Utilitas untuk Rendering Filter ABPindo](https://github.com/adblockplus/python-abp)
+- [PyFunceble: Utilitas untuk Cek Domain ABPindo](https://github.com/funilrys/PyFunceble)
+- [Adblock-decoder: Utilitas untuk Konversi Filter ABPindo ke Format Hosts dan Plain Text](https://github.com/PyFunceble/adblock-decoder)
 - Prasyarat: [Python](https://www.python.org/downloads/), [pip](https://pypi.org/project/pip/)
 
-## Mirror
+## Mirror 🔗
 - [ABPindo GitLab](https://gitlab.com/ABPindo)
 - [ABPindo GitLab Subscription](https://subscribe.adblockplus.org/?location=https://gitlab.com/ABPindo/indonesianadblockrules/raw/master/subscriptions/abpindo.txt&title=ABPindo)
