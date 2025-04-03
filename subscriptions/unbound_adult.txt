@@ -286,7 +286,6 @@ local-zone: "rivapoker.com" always_nxdomain
 local-zone: "rumah-judi.com" always_nxdomain
 local-zone: "rumahtaruhan88.com" always_nxdomain
 local-zone: "semarangtogel.com" always_nxdomain
-local-zone: "setanjudi.com" always_nxdomain
 local-zone: "sgptogel.com" always_nxdomain
 local-zone: "sharkpokertour.com" always_nxdomain
 local-zone: "situsagenjudi.com" always_nxdomain

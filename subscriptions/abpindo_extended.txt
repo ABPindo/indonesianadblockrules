@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202504010751
+! Version: 202504031025
 ! Title: ABPindo Extended
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, ditambah domain yang mungkin bisa muncul kembali.
-! Last modified: 01 Apr 2025 07:51 UTC
+! Last modified: 03 Apr 2025 10:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -259,7 +259,6 @@ iklan300x250.gif|
 ||eramuslim.com/banners
 ||fansubupdate.com/res/img/sampleads/
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
-||forumbitcoin.co.id/other/banner/*-*.$image
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
@@ -287,7 +286,6 @@ iklan300x250.gif|
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||image.bannermovie.online$image,domain=kalashainternational.com
 ||imagebam.com/*.gif$image,domain=ganool.li
-||images.gameweb.co.id/gw/ads/
 ||img.gm21.download/*.webp$image
 ||img.koran-jakarta.com/images/ads/
 ||img.koran-jakarta.com/images/advertisement/
@@ -458,7 +456,7 @@ adikanime.com#@#.idmuvi-banner-aftercontent
 103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.com#@#.idmuvi-topbanner-aftermenu
 tokosatu.com#@#.popupflyin-clicks-area
 oomph.co.id#@#.shareit
-! *** abpindo:src/advert/extended.txt ***
+! *** abpindo:src/advert_extended.txt ***
 # for deleted filters and domains, may reappear
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
@@ -600,6 +598,7 @@ satujiwa.org##table
 ||filebanner.com^$third-party
 ||filmbaru.in/wp-content/uploads/*.gif$image
 ||fix.samlike.net/fixsafe.js$script,domain=animebatch.web.id
+||forumbitcoin.co.id/other/banner/*-*.$image
 ||furocmay.com^$popup
 ||ganool.city/iklan/$image
 ||ganool.link/wp-content/uploads/*.gif$image
@@ -617,6 +616,7 @@ satujiwa.org##table
 ||ihqfiimrbcf.com^$popup
 ||iklangratis88.com^$third-party
 ||iklantop.net^$third-party
+||images.gameweb.co.id/gw/ads/
 ||img.nt1.co/*.gif$image,domain=dramaserial.xyz
 ||img.sukipli.com/*.gif$image,third-party
 ||indoforum.top/banners/
@@ -9411,7 +9411,6 @@ pemersatu.top,pemersatudotfun.com,pemersatufun.site#@##adright
 ||rumah-judi.com^$third-party
 ||rumahtaruhan88.com^$third-party
 ||semarangtogel.com^$third-party
-||setanjudi.com^$third-party
 ||sgptogel.com^$third-party
 ||sharkpokertour.com^$third-party
 ||situsagenjudi.com^$third-party
@@ -9463,7 +9462,7 @@ pemersatu.top,pemersatudotfun.com,pemersatufun.site#@##adright
 ||wigobet.com^$third-party
 ||xjudi.com^$third-party
 ||yourpokercash.com^$third-party
-! *** abpindo:src/adult/adult_extended.txt ***
+! *** abpindo:src/adult_extended.txt ***
 ceritasexindonesia.com###adsic728
 ceritasexindonesia.com###adsic7282
 streamingbokeps.co###advertisement-2
@@ -9564,6 +9563,7 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||rumahtaruhan.com^$third-party
 ||saranapoker.poker^$popup
 ||selfpwn.org^
+||setanjudi.com^$third-party
 ||sexitnow.com^
 ||sgptoto.com^$third-party
 ||shitpassion.com^

@@ -1,6 +1,4 @@
 # for deleted filters and domains, may reappear
-||images.gameweb.co.id/gw/ads/
-||forumbitcoin.co.id/other/banner/*-*.$image
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
 indoxx1.club###col
@@ -141,6 +139,7 @@ satujiwa.org##table
 ||filebanner.com^$third-party
 ||filmbaru.in/wp-content/uploads/*.gif$image
 ||fix.samlike.net/fixsafe.js$script,domain=animebatch.web.id
+||forumbitcoin.co.id/other/banner/*-*.$image
 ||furocmay.com^$popup
 ||ganool.city/iklan/$image
 ||ganool.link/wp-content/uploads/*.gif$image
@@ -158,6 +157,7 @@ satujiwa.org##table
 ||ihqfiimrbcf.com^$popup
 ||iklangratis88.com^$third-party
 ||iklantop.net^$third-party
+||images.gameweb.co.id/gw/ads/
 ||img.nt1.co/*.gif$image,domain=dramaserial.xyz
 ||img.sukipli.com/*.gif$image,third-party
 ||indoforum.top/banners/

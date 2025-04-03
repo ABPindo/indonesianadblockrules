@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202504010751
+! Version: 202504031025
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Apr 2025 07:51 UTC
+! Last modified: 03 Apr 2025 10:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -259,7 +259,6 @@ iklan300x250.gif|
 ||eramuslim.com/banners
 ||fansubupdate.com/res/img/sampleads/
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
-||forumbitcoin.co.id/other/banner/*-*.$image
 ||forumbookie.com/banner/
 ||forumkami.net/ad125x125/
 ||forumkami.net/ad200x50/
@@ -287,7 +286,6 @@ iklan300x250.gif|
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||image.bannermovie.online$image,domain=kalashainternational.com
 ||imagebam.com/*.gif$image,domain=ganool.li
-||images.gameweb.co.id/gw/ads/
 ||img.gm21.download/*.webp$image
 ||img.koran-jakarta.com/images/ads/
 ||img.koran-jakarta.com/images/advertisement/
@@ -9153,7 +9151,6 @@ pemersatu.top,pemersatudotfun.com,pemersatufun.site#@##adright
 ||rumah-judi.com^$third-party
 ||rumahtaruhan88.com^$third-party
 ||semarangtogel.com^$third-party
-||setanjudi.com^$third-party
 ||sgptogel.com^$third-party
 ||sharkpokertour.com^$third-party
 ||situsagenjudi.com^$third-party
