@@ -92,8 +92,6 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
-kiryuu01.com###teaserbottom
-kiryuu01.com##[href^="https://linkfast.asia/"]
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -313,6 +311,7 @@ detik.com###sto_banner
 15.235.11.45,65.108.132.145,cinemaindo.com,film-ganool.com,filmroster.online,isekaisubs.web.id,luciferdonghua.in,mangashiro.net,oploverz.info,oploverz.top,realmscans.com###teaser1
 65.108.132.145,cinemaindo.com,film-ganool.com,ganool.nl,ganool.ph,isekaisubs.web.id,komiku.net,luciferdonghua.in,oploverz.info,oploverz.top,realmscans.com###teaser2
 15.235.11.45,45.12.2.2,animasu.cc,animexin.xyz,downloadfilmbaru.com,ganool.nl,ganool.ph,kikil.net,kiryuu.org,komiku.net,layarbiru21.com,lmanime.com,luciferdonghua.in,mangaindo.me,mangakita.id,mangakita.net,mangakyo.org,oploverz.info,oploverz.top,realmscans.com###teaser3
+kiryuu01.com###teaserbottom
 lk21.cc###tengah > span
 hotabis.com###text-28 > .textwidget
 indotelko.com###title_kanal
@@ -861,6 +860,7 @@ akurat.co##[href^="http://152.44.32.81"]
 kazefuri.web.id##[href^="http://dwatngkas."]
 139.99.120.222,185.231.223.76,bioskop45.co,gudangmovies21.cfd,mangakita.id,mangakita.net,manganime.in,movieajip.online,otakudesu.watch##[href^="https://bit.ly/"]
 tv.lk21official.world##[href^="https://klik4.me/dunia21"]
+kiryuu01.com##[href^="https://linkfast.asia/"]
 lewat.club##[href^="https://manjur.id/search.php"]
 lk21official.wiki##[href^="https://yukclick.me/dunia21"]
 idntimes.com##[id^="IDN_InArticle"]
