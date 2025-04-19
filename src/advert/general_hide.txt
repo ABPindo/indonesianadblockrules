@@ -38,6 +38,8 @@
 ###float-banner.visible-lg
 ###floatadsbawah
 ###floating_ads_bottom_textcss_ad
+###floating_banner_bot1
+###floating_banner_bot2
 ###floatingad
 ###flowads
 ###footer-adcont
@@ -252,5 +254,3 @@
 ##img[alt="Ad banner"]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-###floating_banner_bot1
-###floating_banner_bot2

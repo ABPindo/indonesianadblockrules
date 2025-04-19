@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202504111230
+! Version: 202504192259
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 11 Apr 2025 12:30 UTC
+! Last modified: 19 Apr 2025 22:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -202,6 +202,8 @@
 _TimAds_Banner_$image
 iklan300x250.gif|
 ! *** abpindo:src/advert/specific_block.txt ***
+.gif^$image,domain=maroonbellsmorris.org
+/gif-*.webm^$image,domain=maroonbellsmorris.org
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
@@ -1990,6 +1992,7 @@ totojitu.gif|$image
 ||bandartoke.$image,third-party
 ||barakjudi.$image,third-party
 ||barakjudi.$popup
+||baron777premium.com^$popup
 ||barutogel.$image,third-party
 ||bbm88id.$image,third-party
 ||bca99.$image,third-party
@@ -2939,6 +2942,7 @@ totojitu.gif|$image
 ||maniakqq.$image,third-party
 ||maniakqq.$popup
 ||maniaqq.$image,third-party
+||mansion777y.store^$popup
 ||mantapkiu.$image,third-party
 ||marina-365.$image,third-party
 ||marina-365.$popup
@@ -3503,6 +3507,7 @@ totojitu.gif|$image
 ||shiokambing2.$image,third-party
 ||shiokuda.$image,third-party
 ||shiokuda.$popup
+||shiotogel4dk.art^$popup
 ||siapbet.$image,third-party
 ||simpatiqq.$image,third-party
 ||sinarkiukiu.$image,third-party
