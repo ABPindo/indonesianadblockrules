@@ -92,6 +92,21 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+idntimes.com###IDN_InArticle1
+idntimes.com###IDN_InArticle1-2
+idntimes.com###IDN_InArticle1-3
+idntimes.com###IDN_InArticle1-4
+idntimes.com###IDN_InArticle1-5
+idntimes.com###IDN_InArticle3
+idntimes.com###IDN_MR1-wrapper
+idntimes.com###IDN_MR2-wrapper
+idntimes.com###IDN_MR3-wrapper
+idntimes.com###IDN_Billboard
+idntimes.com###IDN_Leaderboard
+idntimes.com###IDN_SkinLeft
+idntimes.com###IDN_SkinRight
+idntimes.com##[id^="IDN_Leaderboard"]
+idntimes.com###wrapper-IDN_MegaBillboard
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
