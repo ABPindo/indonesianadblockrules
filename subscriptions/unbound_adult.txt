@@ -68,7 +68,6 @@ local-zone: "padssup.com" always_nxdomain
 local-zone: "paidforfree.com" always_nxdomain
 local-zone: "pasangiklan.com" always_nxdomain
 local-zone: "paypopup.com" always_nxdomain
-local-zone: "pc3ads.com" always_nxdomain
 local-zone: "pondokiklan.com" always_nxdomain
 local-zone: "popclck.net" always_nxdomain
 local-zone: "promotioncamp.com" always_nxdomain
@@ -115,7 +114,6 @@ local-zone: "jillsclickcorner.com" always_nxdomain
 local-zone: "midgerelativelyhoax.com" always_nxdomain
 local-zone: "mousheen.net" always_nxdomain
 local-zone: "octafx.com" always_nxdomain
-local-zone: "olmsoneenh.info" always_nxdomain
 local-zone: "pheersie.com" always_nxdomain
 local-zone: "qprskl.com" always_nxdomain
 local-zone: "realwap.net" always_nxdomain
@@ -166,7 +164,6 @@ local-zone: "caramainjudibola.com" always_nxdomain
 local-zone: "caramenangtaruhanbola.com" always_nxdomain
 local-zone: "caramenangtogel.com" always_nxdomain
 local-zone: "casinoclubpoker.com" always_nxdomain
-local-zone: "casinopokercoin.com" always_nxdomain
 local-zone: "cdpoker.com" always_nxdomain
 local-zone: ".gif" always_nxdomain
 local-zone: "cds.bet" always_nxdomain
@@ -175,7 +172,6 @@ local-zone: "chilipoker.com" always_nxdomain
 local-zone: "clickadu.com" always_nxdomain
 local-zone: "coltpoker.com" always_nxdomain
 local-zone: "coolhandpoker.com" always_nxdomain
-local-zone: "cyberjudi.com" always_nxdomain
 local-zone: "dafapoker.com" always_nxdomain
 local-zone: "daftarjudibola.com" always_nxdomain
 local-zone: "daftarjudicasino.com" always_nxdomain
@@ -240,7 +236,6 @@ local-zone: "nagapoker88.com" always_nxdomain
 local-zone: "nagatogel.com" always_nxdomain
 local-zone: "obobet.net" always_nxdomain
 local-zone: "online5poker.com" always_nxdomain
-local-zone: "onlineactionpoker.com" always_nxdomain
 local-zone: "onlinepoker66.com" always_nxdomain
 local-zone: "onlinetogel.com" always_nxdomain
 local-zone: "pacificpoker.com" always_nxdomain
@@ -313,7 +308,6 @@ local-zone: "togelcenter.com" always_nxdomain
 local-zone: "togelgame.150m.com" always_nxdomain
 local-zone: "togelholic.com" always_nxdomain
 local-zone: "togeljakarta.com" always_nxdomain
-local-zone: "togelm88.com" always_nxdomain
 local-zone: "togelsemarang.com" always_nxdomain
 local-zone: "togeltogel.com" always_nxdomain
 local-zone: "togeltop.com" always_nxdomain

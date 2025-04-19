@@ -68,7 +68,6 @@ local-zone: "padssup.com" always_nxdomain
 local-zone: "paidforfree.com" always_nxdomain
 local-zone: "pasangiklan.com" always_nxdomain
 local-zone: "paypopup.com" always_nxdomain
-local-zone: "pc3ads.com" always_nxdomain
 local-zone: "pondokiklan.com" always_nxdomain
 local-zone: "popclck.net" always_nxdomain
 local-zone: "promotioncamp.com" always_nxdomain
@@ -115,7 +114,6 @@ local-zone: "jillsclickcorner.com" always_nxdomain
 local-zone: "midgerelativelyhoax.com" always_nxdomain
 local-zone: "mousheen.net" always_nxdomain
 local-zone: "octafx.com" always_nxdomain
-local-zone: "olmsoneenh.info" always_nxdomain
 local-zone: "pheersie.com" always_nxdomain
 local-zone: "qprskl.com" always_nxdomain
 local-zone: "realwap.net" always_nxdomain

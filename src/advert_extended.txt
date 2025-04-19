@@ -1,4 +1,4 @@
-# for deleted filters and domains, may reappear
+! for deleted filters and domains, may reappear
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
 indoxx1.club###col
@@ -45,6 +45,7 @@ senimovie.info,senimovies.net##.ad-float-image
 komikbaru.com##.ad.b300x250
 awnime.net##.ads-header-5
 ganol.si##.adsincenter
+kshowid.com##.adssingle
 lk21.host##.appup
 22cinema.com##.ayu-headads
 dewanonton.vip,dwanonton.com##.banner-common
@@ -55,6 +56,8 @@ elde.tv##.bannerwrap
 didrakorindo.com,indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-modal
 idtube.me##.bm.overlay
 bioskop99.me##.bot.ads
+tivipedia.com##.code-block-1.code-block
+tivipedia.com##.code-block-2.code-block
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
 qqcinema21.com#@#.headads
@@ -64,6 +67,7 @@ layarlebarxxi.com#@#.idmuvi-topplayer
 awsubs.co##.iklansamping
 ld2tv.com##.img-banner
 nanimex1.com##.in.modal-backdrop
+alona.co.id##.inf_infusionsoft_popup
 bgibola.lat##.inline-banner
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -89,6 +93,7 @@ sukamovie.club##[href$="/sukamovieclub"]
 layardrama21.rest##[href^="//avgirls.asia/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 idtube.me,idxx1.top##a.bnner
+kshowid.com##a[href="http://kshowid.com/advertising/"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
@@ -199,6 +204,7 @@ satujiwa.org##table
 ||oardjnay.com^
 ||offer.popsads.link^$script
 ||olkrzytv.com^$popup
+||olmsoneenh.info^$popup
 ||onigagalai.ru^$third-party
 ||ourtherss.top^$third-party
 ||p01.notifa.info^
@@ -210,6 +216,7 @@ satujiwa.org##table
 ||parentelement.ml^$third-party
 ||pasariklanbaris.com^$third-party
 ||payingbeswim.com^
+||pc3ads.com^$third-party
 ||phudrour.net^$popup
 ||popunderjs.club^$popup,third-party
 ||presbanise.pw^$third-party

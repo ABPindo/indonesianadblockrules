@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202504192259
+! Version: 202504192346
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 19 Apr 2025 22:59 UTC
+! Last modified: 19 Apr 2025 23:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -84,7 +84,6 @@
 ||paidforfree.com^$third-party
 ||pasangiklan.com^$third-party
 ||paypopup.com^$third-party
-||pc3ads.com^$third-party
 ||pondokiklan.com^$third-party
 ||popclck.net^$popup,third-party
 ||promotioncamp.com^$third-party
@@ -132,7 +131,6 @@
 ||midgerelativelyhoax.com^
 ||mousheen.net^$third-party
 ||octafx.com^$popup,third-party
-||olmsoneenh.info^$popup
 ||pheersie.com^$popup
 ||qprskl.com^
 ||realwap.net^$third-party
@@ -423,7 +421,7 @@ anichin.top,animekompi.vip,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id
 okezone.com##+js(rc, content-wrap)
 inews.id##+js(rc, content-wrap|wrap-all)
 sindonews.com##+js(rc, t480)
-tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
+tipskerja.com##+js(refresh-defuser)
 3gpterbaru.com,duniaseksi.com##+js(rmnt, script, /decodeURIComponent\(escape|fairAdblock/)
 almaftuchin.com##+js(rmnt, script, adblock)
 wisatalova.com##+js(rmnt, script, hargamenu)
@@ -3951,7 +3949,6 @@ totojitu.gif|$image
 ||caramenangtaruhanbola.com^$third-party
 ||caramenangtogel.com^$third-party
 ||casinoclubpoker.com^$third-party
-||casinopokercoin.com^$third-party
 ||cdpoker.com^$third-party
 ||cds.bet/*.gif^$image,third-party
 ||celebpoker.com^$third-party
@@ -3959,7 +3956,6 @@ totojitu.gif|$image
 ||clickadu.com^$popup
 ||coltpoker.com^$third-party
 ||coolhandpoker.com^$third-party
-||cyberjudi.com^$third-party
 ||dafapoker.com^$third-party
 ||daftarjudibola.com^$third-party
 ||daftarjudicasino.com^$third-party
@@ -4024,7 +4020,6 @@ totojitu.gif|$image
 ||nagatogel.com^$third-party
 ||obobet.net^$popup
 ||online5poker.com^$third-party
-||onlineactionpoker.com^$third-party
 ||onlinepoker66.com^$third-party
 ||onlinetogel.com^$third-party
 ||pacificpoker.com^$third-party
@@ -4097,7 +4092,6 @@ totojitu.gif|$image
 ||togelgame.150m.com^$third-party
 ||togelholic.com^$third-party
 ||togeljakarta.com^$third-party
-||togelm88.com^$third-party
 ||togelsemarang.com^$third-party
 ||togeltogel.com^$third-party
 ||togeltop.com^$third-party

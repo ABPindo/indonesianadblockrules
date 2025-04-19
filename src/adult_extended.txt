@@ -1,3 +1,4 @@
+! for deleted filters and domains, may reappear
 ceritasexindonesia.com###adsic728
 ceritasexindonesia.com###adsic7282
 streamingbokeps.co###advertisement-2
@@ -41,9 +42,11 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||bukutogel.com^$third-party
 ||carajudionline.com^$third-party
 ||caramenangjudibola.com^$third-party
+||casinopokercoin.com^$third-party
 ||cherrycake.org^
 ||cmcpoker.info^$third-party
 ||copyright-reform.info^
+||cyberjudi.com^$third-party
 ||daftartaruhan.com^$third-party
 ||dewajudibet.com^$third-party
 ||dewijudi.com^$third-party
@@ -79,6 +82,7 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||nenenqq.com^$third-party
 ||neobola.club^$popup
 ||nztoto.com^$third-party
+||onlineactionpoker.com^$third-party
 ||onlinepokerextra.com^$third-party
 ||opuspoker.cc^$popup
 ||oralse.ca^
@@ -115,6 +119,7 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||tipsberjudi.com^$third-party
 ||tipstaruhanbola.com^$third-party
 ||togelanak.com^$popup
+||togelm88.com^$third-party
 ||togelo.com^$third-party
 ||tokojudionline.com^$third-party
 ||totobet24.com^$third-party

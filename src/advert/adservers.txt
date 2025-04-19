@@ -69,7 +69,6 @@
 ||paidforfree.com^$third-party
 ||pasangiklan.com^$third-party
 ||paypopup.com^$third-party
-||pc3ads.com^$third-party
 ||pondokiklan.com^$third-party
 ||popclck.net^$popup,third-party
 ||promotioncamp.com^$third-party
@@ -117,7 +116,6 @@
 ||midgerelativelyhoax.com^
 ||mousheen.net^$third-party
 ||octafx.com^$popup,third-party
-||olmsoneenh.info^$popup
 ||pheersie.com^$popup
 ||qprskl.com^
 ||realwap.net^$third-party

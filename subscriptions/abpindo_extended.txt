@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202504192259
+! Version: 202504192345
 ! Title: ABPindo Extended
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, ditambah domain yang mungkin bisa muncul kembali.
-! Last modified: 19 Apr 2025 22:59 UTC
+! Last modified: 19 Apr 2025 23:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -84,7 +84,6 @@
 ||paidforfree.com^$third-party
 ||pasangiklan.com^$third-party
 ||paypopup.com^$third-party
-||pc3ads.com^$third-party
 ||pondokiklan.com^$third-party
 ||popclck.net^$popup,third-party
 ||promotioncamp.com^$third-party
@@ -132,7 +131,6 @@
 ||midgerelativelyhoax.com^
 ||mousheen.net^$third-party
 ||octafx.com^$popup,third-party
-||olmsoneenh.info^$popup
 ||pheersie.com^$popup
 ||qprskl.com^
 ||realwap.net^$third-party
@@ -423,7 +421,7 @@ anichin.top,animekompi.vip,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id
 okezone.com##+js(rc, content-wrap)
 inews.id##+js(rc, content-wrap|wrap-all)
 sindonews.com##+js(rc, t480)
-tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
+tipskerja.com##+js(refresh-defuser)
 3gpterbaru.com,duniaseksi.com##+js(rmnt, script, /decodeURIComponent\(escape|fairAdblock/)
 almaftuchin.com##+js(rmnt, script, adblock)
 wisatalova.com##+js(rmnt, script, hargamenu)
@@ -459,7 +457,7 @@ adikanime.com#@#.idmuvi-banner-aftercontent
 tokosatu.com#@#.popupflyin-clicks-area
 oomph.co.id#@#.shareit
 ! *** abpindo:src/advert_extended.txt ***
-# for deleted filters and domains, may reappear
+! for deleted filters and domains, may reappear
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
 indoxx1.club###col
@@ -506,6 +504,7 @@ senimovie.info,senimovies.net##.ad-float-image
 komikbaru.com##.ad.b300x250
 awnime.net##.ads-header-5
 ganol.si##.adsincenter
+kshowid.com##.adssingle
 lk21.host##.appup
 22cinema.com##.ayu-headads
 dewanonton.vip,dwanonton.com##.banner-common
@@ -516,6 +515,8 @@ elde.tv##.bannerwrap
 didrakorindo.com,indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-modal
 idtube.me##.bm.overlay
 bioskop99.me##.bot.ads
+tivipedia.com##.code-block-1.code-block
+tivipedia.com##.code-block-2.code-block
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
 qqcinema21.com#@#.headads
@@ -525,6 +526,7 @@ layarlebarxxi.com#@#.idmuvi-topplayer
 awsubs.co##.iklansamping
 ld2tv.com##.img-banner
 nanimex1.com##.in.modal-backdrop
+alona.co.id##.inf_infusionsoft_popup
 bgibola.lat##.inline-banner
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -550,6 +552,7 @@ sukamovie.club##[href$="/sukamovieclub"]
 layardrama21.rest##[href^="//avgirls.asia/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 idtube.me,idxx1.top##a.bnner
+kshowid.com##a[href="http://kshowid.com/advertising/"]
 sinemaindo.web.id##a[href^="//angel4d.com/"]
 seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
@@ -660,6 +663,7 @@ satujiwa.org##table
 ||oardjnay.com^
 ||offer.popsads.link^$script
 ||olkrzytv.com^$popup
+||olmsoneenh.info^$popup
 ||onigagalai.ru^$third-party
 ||ourtherss.top^$third-party
 ||p01.notifa.info^
@@ -671,6 +675,7 @@ satujiwa.org##table
 ||parentelement.ml^$third-party
 ||pasariklanbaris.com^$third-party
 ||payingbeswim.com^
+||pc3ads.com^$third-party
 ||phudrour.net^$popup
 ||popunderjs.club^$popup,third-party
 ||presbanise.pw^$third-party
@@ -1201,7 +1206,7 @@ bareksa.com###footer_sticky
 gadgetren.com###footer_sticky_inside
 mamikos.com###footer_stickyexp
 manganime.live###ftads
-mangaku.site,mangaku.vip###ftadsth
+mangaku.site###ftadsth
 kontan.co.id###halfpage-ads
 layarkaca21.com,layarkaca21.net,lk21.org###hbanner
 nonton21.net###hbanner:nth-of-type(1)
@@ -1412,7 +1417,6 @@ chordtela.com##.adsbawahposting
 nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
-kshowid.com##.adssingle
 cinemaindo.com##.adstops
 movieku.ink##.adsx
 mangaku.in,mangaku.site,mangaku.web.id##.adv
@@ -1564,9 +1568,7 @@ bolasport.com,gridoto.com,motorplus-online.com,parapuan.co##.cls-outstream
 onlinemetro.id##.cls.code-block-center
 inidramaku.net##.cm-popup-modal
 carisinyal.com,serialmovieislami.com##.code-block
-tivipedia.com##.code-block-1.code-block
-tivipedia.com##.code-block-2.code-block
-tivipedia.com,windowsreport.com##.code-block-3.code-block
+windowsreport.com##.code-block-3.code-block
 rasa.my##.code-block-6
 dream.co.id##.col-banner
 hmetro.com.my##.col-lg-3:has([id^="div-gpt-ad"])
@@ -1640,7 +1642,6 @@ suki48.web.id##.iklanSUKI
 shinigami09.com##.iklannew-container
 dutafilm.cfd,dutafilm.us##.imgbanner
 animeindo.video,animeindo.web.id##.in_up_ad-area
-alona.co.id##.inf_infusionsoft_popup
 tafsirweb.com##.is-resized.size-large.aligncenter
 gridoto.com##.js-ads-stick
 motorplus-online.com,sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
@@ -1850,7 +1851,7 @@ kazefuri.web.id##[href="javascript:showHideGB()"]
 nekonime.com##[href^="//wizliebeg.com/"]
 akurat.co##[href^="http://152.44.32.81"]
 kazefuri.web.id##[href^="http://dwatngkas."]
-139.99.120.222,185.231.223.76,bioskop45.co,gudangmovies21.cfd,mangakita.id,mangakita.net,manganime.in,movieajip.online,otakudesu.watch##[href^="https://bit.ly/"]
+139.99.120.222,185.231.223.76,bioskop45.co,gudangmovies21.cfd,mangakita.id,mangakita.net,manganime.in,movieajip.online##[href^="https://bit.ly/"]
 tv.lk21official.world##[href^="https://klik4.me/dunia21"]
 kiryuu01.com##[href^="https://linkfast.asia/"]
 lewat.club##[href^="https://manjur.id/search.php"]
@@ -1871,13 +1872,12 @@ insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
 njavtv.com##[style^="width: 300px;"]
 semarangkota.com##a.thirstylink
 tokopedia.com##a[data-testid="lnkProductContainer"]:has(img[alt^="topads"])
-kshowid.com##a[href="http://kshowid.com/advertising/"]
 westmanga.info##a[href="https://klik.fun/Kp7S5"]
 mypt3.com##a[href][target="_blank"] > img
 lk21official.co##a[href][target="_blank"][rel="nofollow"] > img[src$=".gif"]
 timesindonesia.co.id##a[href^="//ads-track.times.co.id"]
 bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
-01nonton.com,46.166.167.16,bioskop168.co,bioskop168.online,bioskop168.pro,bioskop45.com,drakorindo.tv,gandhool.net,gudangmovies21.cc,idbioskop.com,indomv.net,layarkacaxxi.id,layarxxi.online,lk21.cam,lk21.web.id,nekopoi.care,nekopoi.lol,nonton33.net,nonton789.com,nontondrama.me,nontongratis88.com,nontonsub.com,sukamovie.mobi,zonabola.id##a[href^="http://bit.ly/"]
+01nonton.com,46.166.167.16,bioskop168.co,bioskop168.online,bioskop168.pro,bioskop45.com,drakorindo.tv,gandhool.net,gudangmovies21.cc,idbioskop.com,indomv.net,layarkacaxxi.id,layarxxi.online,lk21.web.id,nekopoi.care,nekopoi.lol,nonton33.net,nonton789.com,nontondrama.me,nontongratis88.com,nontonsub.com,sukamovie.mobi,zonabola.id##a[href^="http://bit.ly/"]
 kazefuri.web.id##a[href^="http://cocobet."]
 nontoncinema.org##a[href^="http://referral."]
 hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
@@ -9229,7 +9229,7 @@ gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 bokepvir.org###sticky-banner
-bk21.yachts,heppinn.id,kanzenin.xyz,komik18.art,komikcast02.com,komikdewasa.art,komikdewasa.me,komikmanhwa.me,kumapoi.me,manhwaindo.cfd,manhwaindo.me,pemersatu.link,sektedoujin.lol###teaser3
+bk21.yachts,heppinn.id,kanzenin.xyz,komik18.art,komikcast02.com,komikdewasa.art,komikdewasa.me,komikmanhwa.me,kumapoi.me,manhwaindo.cfd,manhwaindo.me,pemersatu.link###teaser3
 hencop.lol,komikcast02.com###teaser4
 hencop.com###teaser7
 158.69.0.212###top-banner
@@ -9323,7 +9323,6 @@ semprot.com#@#.adUnit
 ||caramenangtaruhanbola.com^$third-party
 ||caramenangtogel.com^$third-party
 ||casinoclubpoker.com^$third-party
-||casinopokercoin.com^$third-party
 ||cdpoker.com^$third-party
 ||cds.bet/*.gif^$image,third-party
 ||celebpoker.com^$third-party
@@ -9331,7 +9330,6 @@ semprot.com#@#.adUnit
 ||clickadu.com^$popup
 ||coltpoker.com^$third-party
 ||coolhandpoker.com^$third-party
-||cyberjudi.com^$third-party
 ||dafapoker.com^$third-party
 ||daftarjudibola.com^$third-party
 ||daftarjudicasino.com^$third-party
@@ -9396,7 +9394,6 @@ semprot.com#@#.adUnit
 ||nagatogel.com^$third-party
 ||obobet.net^$popup
 ||online5poker.com^$third-party
-||onlineactionpoker.com^$third-party
 ||onlinepoker66.com^$third-party
 ||onlinetogel.com^$third-party
 ||pacificpoker.com^$third-party
@@ -9469,7 +9466,6 @@ semprot.com#@#.adUnit
 ||togelgame.150m.com^$third-party
 ||togelholic.com^$third-party
 ||togeljakarta.com^$third-party
-||togelm88.com^$third-party
 ||togelsemarang.com^$third-party
 ||togeltogel.com^$third-party
 ||togeltop.com^$third-party
@@ -9494,6 +9490,7 @@ semprot.com#@#.adUnit
 ||xjudi.com^$third-party
 ||yourpokercash.com^$third-party
 ! *** abpindo:src/adult_extended.txt ***
+! for deleted filters and domains, may reappear
 ceritasexindonesia.com###adsic728
 ceritasexindonesia.com###adsic7282
 streamingbokeps.co###advertisement-2
@@ -9537,9 +9534,11 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||bukutogel.com^$third-party
 ||carajudionline.com^$third-party
 ||caramenangjudibola.com^$third-party
+||casinopokercoin.com^$third-party
 ||cherrycake.org^
 ||cmcpoker.info^$third-party
 ||copyright-reform.info^
+||cyberjudi.com^$third-party
 ||daftartaruhan.com^$third-party
 ||dewajudibet.com^$third-party
 ||dewijudi.com^$third-party
@@ -9575,6 +9574,7 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||nenenqq.com^$third-party
 ||neobola.club^$popup
 ||nztoto.com^$third-party
+||onlineactionpoker.com^$third-party
 ||onlinepokerextra.com^$third-party
 ||opuspoker.cc^$popup
 ||oralse.ca^
@@ -9611,6 +9611,7 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||tipsberjudi.com^$third-party
 ||tipstaruhanbola.com^$third-party
 ||togelanak.com^$popup
+||togelm88.com^$third-party
 ||togelo.com^$third-party
 ||tokojudionline.com^$third-party
 ||totobet24.com^$third-party

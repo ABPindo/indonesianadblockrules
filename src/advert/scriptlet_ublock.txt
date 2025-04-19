@@ -16,7 +16,7 @@ anichin.top,animekompi.vip,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id
 okezone.com##+js(rc, content-wrap)
 inews.id##+js(rc, content-wrap|wrap-all)
 sindonews.com##+js(rc, t480)
-tipsgaptek.com,tipskerja.com##+js(refresh-defuser)
+tipskerja.com##+js(refresh-defuser)
 3gpterbaru.com,duniaseksi.com##+js(rmnt, script, /decodeURIComponent\(escape|fairAdblock/)
 almaftuchin.com##+js(rmnt, script, adblock)
 wisatalova.com##+js(rmnt, script, hargamenu)
