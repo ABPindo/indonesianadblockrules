@@ -252,3 +252,5 @@
 ##img[alt="Ad banner"]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
+###floating_banner_bot1
+###floating_banner_bot2
