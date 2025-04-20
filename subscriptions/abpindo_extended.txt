@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202504200245
+! Version: 202504200249
 ! Title: ABPindo Extended
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, ditambah domain yang mungkin bisa muncul kembali.
-! Last modified: 20 Apr 2025 02:45 UTC
+! Last modified: 20 Apr 2025 02:49 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9164,8 +9164,6 @@ totojitu.gif|$image
 ! *** abpindo:src/adult/adult_specific_block.txt ***
 .gif$image,domain=komikmanhwa.me
 ||128.199.175.251/looppopup.js
-||96.43.139.236/banner/$image
-||96.43.139.237/banner/$image
 ||bintangmawar.net/forum/bot_banner.php
 ||bintangmawar.net/forum/med_banner.php
 ||bintangmawar.net/forum/medright_banner.php
