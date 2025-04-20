@@ -92,6 +92,9 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+juragan.film##body:style(overflow: auto !important; position: unset !important; pointer-events: auto !important;)
+juragan.film##.popbox
+juragan.film##.pop-overlay
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2

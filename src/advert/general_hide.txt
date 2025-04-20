@@ -254,3 +254,6 @@
 ##img[alt="Ad banner"]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
+##.iklan-container
+##.iklan-full
+##.iklan-half
