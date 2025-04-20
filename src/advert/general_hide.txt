@@ -38,6 +38,8 @@
 ###float-banner.visible-lg
 ###floatadsbawah
 ###floating_ads_bottom_textcss_ad
+###floating_banner_bot1
+###floating_banner_bot2
 ###floatingad
 ###flowads
 ###footer-adcont
@@ -166,6 +168,9 @@
 ##.iklan-atas
 ##.iklan-bawah
 ##.iklan-bawah-player
+##.iklan-container
+##.iklan-full
+##.iklan-half
 ##.iklan-header-item
 ##.iklan-kanan
 ##.iklan-kiri
@@ -209,6 +214,7 @@
 ##.ivs-overlay-ads
 ##.kill-adblock-container
 ##.klan300
+##.kln.mlb.blox
 ##.kotak_iklan
 ##.kotakiklan
 ##.ktz-aftermenubanner

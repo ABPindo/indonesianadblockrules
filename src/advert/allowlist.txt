@@ -1,50 +1,26 @@
-! Allowlist for network filters
+! General Allowlist for Network Filters
 @@||1idsly.com^$generichide
 @@||ad4msan.com^$generichide
-@@||ads.id^$~third-party
-@@||ads.kaskus.co.id/widget/ads/create$subdocument,domain=kaskus.co.id
 @@||adturl.com^$generichide
-@@||advertising-indonesia.id^$~third-party
 @@||apkmod.id^$generichide
-@@||bagilagi.com^$generichide
 @@||digitalponsel.com^$elemhide
 @@||dramaencode.com^$generichide
 @@||eirudo.com^$generichide
 @@||gadget2reviews.com^$generichide
-@@||game-kentang.blogspot.com^$generichide
-@@||hightech.web.id^$generichide
-@@||illyasave.com^$generichide
 @@||infotekno.net^$generichide
-@@||inwepo.co^$generichide
+@@||mivo.com^$generichide
+@@||novelgo.id^$generichide
+@@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
+@@||sanjayaops.com^$generichide
+@@||tokusatsuindo.com^$generichide
+! Allowlist for Specific Domains
+@@||ads.id^$~third-party
+@@||advertising-indonesia.id^$~third-party
 @@||kaze-batch.blogspot.com^$generichide
 @@||majalahikan.com^$generichide
-@@||mangacanblog.com^$generichide
-@@||mivo.com^$generichide
-@@||nama.web.id^$generichide
-@@||novelgo.id^$generichide
-@@||omahkpop.com^$generichide
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duniaseksi.com|kontenterabox.com
-@@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
-@@||radarlombok.co.id^$generichide
-@@||razorlink.us^$generichide
-@@||rbreezy.xyz/nativeads-v2.js$script,~third-party
-@@||riauonline.co.id^$generichide
-@@||sanjayaops.com^$generichide
-@@||suarankri.me^$generichide
-@@||tokusatsuindo.com^$generichide
-@@||xmalay.net/nativeads-v2.js$script,~third-party
-! ABP-specific allowlist for network filters
-! Allowlist for element hiding filters
-woof.tube#@#.adsbox
-datasekolah.co.id,eramuslim.com,mangalist.org,maulandaru.com#@#.adsbygoogle
-aplikasipc.com#@#.afs_ads
-qqcinema21.com#@#.headads
-layarlebarxxi.com#@#.idmuvi-afterplayer
-adikanime.com,nge-film21.info#@#.idmuvi-banner-aftercontent
-103.70.114.35,109.234.34.246,193.142.147.230,filmdewasaku.org,layardrama21.com#@#.idmuvi-topbanner-aftermenu
-layarlebar21.org,layarlebarxxi.com#@#.idmuvi-topplayer
-animanganews.com,short.awsubs.co#@#.iklan
+! Allowlist for Element Hiding Filters
+eramuslim.com#@#.adsbygoogle
+adikanime.com#@#.idmuvi-banner-aftercontent
+103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.com#@#.idmuvi-topbanner-aftermenu
 tokosatu.com#@#.popupflyin-clicks-area
-digikala.com,sporcle.com#@#.remodal
 oomph.co.id#@#.shareit
-totolink.id#@#.social-circle

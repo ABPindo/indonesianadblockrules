@@ -1,7 +1,10 @@
-## Ingin berkontribusi
+## Ingin Berkontribusi 🎉
 
-Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau karena situsnya belum dijangkau ABPindo. Jika menemukan hal-hal tersebut bisa berkontribusi langsung melalui:
-- [GitHub issue tracker](https://github.com/ABPindo/indonesianadblockrules/issues)
-- [Submit a pull request](https://github.com/ABPindo/indonesianadblockrules/pulls)
-- Sebarkan manfaat ABPindo pada orang-orang terdekatmu
-- Berikan bintang pada ABPindo
+Kami sangat menghargai setiap kontribusi untuk meningkatkan ABPindo. Jika Anda menemukan situs yang terlewat atau masalah lainnya, Anda dapat membantu kami dengan cara berikut:
+
+- **Laporkan di [GitHub Issue Tracker](https://github.com/ABPindo/indonesianadblockrules/issues)** 🐞: Beritahu kami tentang situs yang perlu ditambahkan atau masalah yang perlu diperbaiki.
+- **Kirimkan [Pull Request](https://github.com/ABPindo/indonesianadblockrules/pulls)** ✍️: Jika Anda memiliki perubahan atau penambahan, kami akan senang menerima kontribusi Anda.
+- **Sebarkan Manfaat ABPindo** 📣: Bagikan informasi tentang ABPindo kepada orang-orang terdekat Anda.
+- **Berikan Bintang pada ABPindo** ⭐: Dukungan Anda dengan memberikan bintang di repositori kami sangat berarti bagi kami.
+
+Bersama-sama, kita dapat menciptakan pengalaman yang lebih baik untuk semua pengguna. Terima kasih atas dukungan Anda! 🙌

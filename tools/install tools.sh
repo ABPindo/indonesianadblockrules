@@ -6,4 +6,7 @@ pip install --upgrade python-abp
 #A set of tools for the decoding and conversion of AdBlock and filter lists. The decoder itself is part of the PyFunceble project.
 pip install adblock-decoder
 
+#This is a simple tool that checks adblock filtering rules for dead domains.
+npm i -g @adguard/dead-domains-linter
+
 read -p "Press any key to resume ..."
