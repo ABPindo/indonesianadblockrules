@@ -92,9 +92,6 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
-juragan.film##body:style(overflow: auto !important; position: unset !important; pointer-events: auto !important;)
-juragan.film##.popbox
-juragan.film##.pop-overlay
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -761,6 +758,8 @@ suara.com##.placeholder_r1
 suara.com##.placeholder_r2
 suara.com##.placeholder_r3
 suara.com##.placeholder_read_body
+juragan.film##.pop-overlay
+juragan.film##.popbox
 nomat.top##.popup.show
 viva.co.id##.portlet.sideskycrapper
 kompas.com##.premium_div
@@ -916,6 +915,7 @@ tafsirweb.com##article:nth-of-type(2) > div:nth-of-type(3)
 bioskop168.co,bioskop168.online,bioskop168.pro##bioskop-kanan
 intip24news.com##body.sticky-header:style(padding: unset!important;)
 tempo.co##body:remove-class(pad-apps)
+juragan.film##body:style(overflow: auto !important; position: unset !important; pointer-events: auto !important;)
 gigapurbalingga.net,kuyhaa-me.com##center
 smartphoneku.com##div.ad-before
 nextren.grid.id##div.banner-r

@@ -168,6 +168,9 @@
 ##.iklan-atas
 ##.iklan-bawah
 ##.iklan-bawah-player
+##.iklan-container
+##.iklan-full
+##.iklan-half
 ##.iklan-header-item
 ##.iklan-kanan
 ##.iklan-kiri
@@ -254,6 +257,3 @@
 ##img[alt="Ad banner"]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-##.iklan-container
-##.iklan-full
-##.iklan-half
