@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202504200249
+! Version: 202504200302
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 20 Apr 2025 02:49 UTC
+! Last modified: 20 Apr 2025 03:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -7944,6 +7944,7 @@ totojitu.gif|$image
 ##img[alt="1cbet i"]
 ##img[alt="ARAB777" i]
 ##img[alt="ASIA77" i]
+##img[alt="ASIALIVE88" i]
 ##img[alt="BETHOKI77" i]
 ##img[alt="BETKK" i]
 ##img[alt="BRAVOBET" i]
@@ -7952,6 +7953,7 @@ totojitu.gif|$image
 ##img[alt="DEWACASINO" i]
 ##img[alt="DEWAGG" i]
 ##img[alt="DEWATERBANG" i]
+##img[alt="DOMINOBET" i]
 ##img[alt="EraPlay88" i]
 ##img[alt="GAZA88" i]
 ##img[alt="Hoki Dewa" i]
@@ -7968,6 +7970,7 @@ totojitu.gif|$image
 ##img[alt="MPOSport" i]
 ##img[alt="Meta88slot" i]
 ##img[alt="NAGAPOKER" i]
+##img[alt="PAIZA99" i]
 ##img[alt="PENTASLOT" i]
 ##img[alt="PERMATABET88" i]
 ##img[alt="Poker JayaBet" i]
