@@ -92,6 +92,13 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+s4.nontonanimeid.boats##.tensai-ad-link-wrapper
+s4.nontonanimeid.boats##.floating_footer
+s4.nontonanimeid.boats##.banner_player
+s4.nontonanimeid.boats##.adspost300
+s4.nontonanimeid.boats##.adspost345
+s4.nontonanimeid.boats##.adspost300
+s4.nontonanimeid.boats##.adspost468
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
