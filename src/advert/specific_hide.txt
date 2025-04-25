@@ -92,6 +92,7 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+kaskus.co.id##.shadow.p-4.border-border.border-t.bg-surface-primary.z-90.right-0.left-0.bottom-0.fixed
 s4.nontonanimeid.boats##.tensai-ad-link-wrapper
 s4.nontonanimeid.boats##.floating_footer
 s4.nontonanimeid.boats##.banner_player
