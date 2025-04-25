@@ -1,0 +1,73 @@
+name: autobuild
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - 'master'
+    paths:
+      - 'src/**'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Install Tools
+      run: |
+        python -m pip install --upgrade pip
+        pip install python-abp
+        pip install adblock-decoder
+    - name: Build
+      run: |
+        # Ensure output directory exists
+        mkdir -p $GITHUB_WORKSPACE/subscriptions
+        # Run FOP.py to sort src/ directory
+        python $GITHUB_WORKSPACE/tools/FOP.py
+        # flrender commands for abpindo filters
+        flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo.template $GITHUB_WORKSPACE/subscriptions/abpindo.txt
+        flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_extended.template $GITHUB_WORKSPACE/subscriptions/abpindo_extended.txt
+        flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_hosts.template $GITHUB_WORKSPACE/subscriptions/abpindo_hosts.txt
+        flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_hosts_adult.template $GITHUB_WORKSPACE/subscriptions/abpindo_hosts_adult.txt
+        flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_noadult.template $GITHUB_WORKSPACE/subscriptions/abpindo_noadult.txt
+        flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_noelemhide.template $GITHUB_WORKSPACE/subscriptions/abpindo_noelemhide.txt
+        # adblock-decoder commands for dns-based filters
+        adblock2hosts --ip 0.0.0.0 -o /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts.txt /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/abpindo_hosts.txt
+        adblock2hosts --ip 0.0.0.0 -o /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts_adult.txt /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/abpindo_hosts_adult.txt
+
+        adblock2plain -o /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/domain.txt /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/abpindo_hosts.txt
+        adblock2plain -o /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/domain_adult.txt /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/abpindo_hosts_adult.txt
+
+        adblock2plain -o /home/runner/work/indonesianadblockrules/indonesianadblockrules/tools/domain_plain.txt /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/abpindo.txt
+        adblock2plain --aggressive -o /home/runner/work/indonesianadblockrules/indonesianadblockrules/tools/domain_plain_aggressive.txt /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/abpindo.txt
+        # Python script for dns-based filters
+        python /home/runner/work/indonesianadblockrules/indonesianadblockrules/tools/hosts_to_dnsmasq_address.py /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts.txt subscriptions/dnsmasq.txt
+        python /home/runner/work/indonesianadblockrules/indonesianadblockrules/tools/hosts_to_dnsmasq_address.py /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts_adult.txt subscriptions/dnsmasq_adult.txt
+        python /home/runner/work/indonesianadblockrules/indonesianadblockrules/tools/hosts_to_dnsmasq_server.py /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts.txt subscriptions/dnsmasq_server.txt
+        python /home/runner/work/indonesianadblockrules/indonesianadblockrules/tools/hosts_to_dnsmasq_server.py /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts_adult.txt subscriptions/dnsmasq_adult_server.txt
+
+        python /home/runner/work/indonesianadblockrules/indonesianadblockrules/tools/hosts_to_rpz.py /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts.txt subscriptions/rpz.txt
+        python /home/runner/work/indonesianadblockrules/indonesianadblockrules/tools/hosts_to_rpz.py /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts_adult.txt subscriptions/rpz_adult.txt
+
+        python /home/runner/work/indonesianadblockrules/indonesianadblockrules/tools/hosts_to_aghome.py /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts.txt subscriptions/aghome.txt
+        python /home/runner/work/indonesianadblockrules/indonesianadblockrules/tools/hosts_to_aghome.py /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts_adult.txt subscriptions/aghome_adult.txt
+
+        python /home/runner/work/indonesianadblockrules/indonesianadblockrules/tools/hosts_to_unbound.py /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts.txt subscriptions/unbound.txt
+        python /home/runner/work/indonesianadblockrules/indonesianadblockrules/tools/hosts_to_unbound.py /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts_adult.txt subscriptions/unbound_adult.txt
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "Auto-Build abpindo filters"
+        git push
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
