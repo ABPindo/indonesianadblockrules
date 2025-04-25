@@ -93,13 +93,6 @@ shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
 kaskus.co.id##.shadow.p-4.border-border.border-t.bg-surface-primary.z-90.right-0.left-0.bottom-0.fixed
-s4.nontonanimeid.boats##.tensai-ad-link-wrapper
-s4.nontonanimeid.boats##.floating_footer
-s4.nontonanimeid.boats##.banner_player
-s4.nontonanimeid.boats##.adspost300
-s4.nontonanimeid.boats##.adspost345
-s4.nontonanimeid.boats##.adspost300
-s4.nontonanimeid.boats##.adspost468
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -441,6 +434,9 @@ chordtela.com##.adsbawahposting
 nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
+s4.nontonanimeid.boats##.adspost300
+s4.nontonanimeid.boats##.adspost345
+s4.nontonanimeid.boats##.adspost468
 cinemaindo.com##.adstops
 movieku.ink##.adsx
 mangaku.in,mangaku.site,mangaku.web.id##.adv
@@ -509,7 +505,7 @@ sonora.id##.banner__top
 lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
-nontonanimeid.org##.banner_player
+nontonanimeid.org,s4.nontonanimeid.boats##.banner_player
 modifikasi.com##.bannercol
 modifikasi.com##.bannerfloat
 tempo.co##.bannerfull
@@ -623,6 +619,7 @@ kompas.id##.flex.justify-center.lg\:px-8.my-6
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
+s4.nontonanimeid.boats##.floating_footer
 okezone.com##.flying_ads
 katadata.co.id,optika.id##.flying_carpet_div
 bisnis.com,tek.id##.flying_carpet_show
@@ -835,6 +832,7 @@ hijabista.com.my,majalahpama.my,nona.my,vanillakismis.my##.td-banner-bg.td-banne
 nontondramaonline.co##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 movieku.ink##.teaser3
+s4.nontonanimeid.boats##.tensai-ad-link-wrapper
 kordindonesia.com##.text-ad
 internetpositif.uzone.id##.text-align-center.box-ads-content
 kontan.co.id##.text-center.center.width-px-1100
