@@ -26,7 +26,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install python-abp
         pip install adblock-decoder
-    - name: Build
+    - name: Build Adblock Filter
       run: |
         # Ensure output directory exists
         mkdir -p $GITHUB_WORKSPACE/subscriptions
@@ -39,6 +39,8 @@ jobs:
         flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_hosts_adult.template $GITHUB_WORKSPACE/subscriptions/abpindo_hosts_adult.txt
         flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_noadult.template $GITHUB_WORKSPACE/subscriptions/abpindo_noadult.txt
         flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_noelemhide.template $GITHUB_WORKSPACE/subscriptions/abpindo_noelemhide.txt
+    - name: Build DNS Filter
+      run: |
         # adblock-decoder commands for dns-based filters
         adblock2hosts --ip 0.0.0.0 -o /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts.txt /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/abpindo_hosts.txt
         adblock2hosts --ip 0.0.0.0 -o /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/hosts_adult.txt /home/runner/work/indonesianadblockrules/indonesianadblockrules/subscriptions/abpindo_hosts_adult.txt
