@@ -241,6 +241,7 @@
 ##.subiklan
 ##.text-center.adv
 ##.topadsense
+##.underlay-ad
 ##.wrapper-ads
 ##[class="widget-ads1"]
 ##[class="widget-ads2"]
@@ -257,4 +258,3 @@
 ##img[alt="Ad banner"]
 ##img[alt="ads banner" i]
 ##img[alt="iklan" i]
-##.underlay-ad

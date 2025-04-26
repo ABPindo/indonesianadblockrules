@@ -92,8 +92,6 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
-investor.id###megabillboard
-investor.id###leaderboard
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -255,7 +253,7 @@ gridoto.com,kompas.tv###jxOutstreamContainer
 zonabola.com###lAds
 mangafap.com###lbanner
 5.182.209.205,filmapik21.space###le_header_ads
-detik.com###leaderboard
+detik.com,investor.id###leaderboard
 detik.com###leaderboard:has([id^="div-gpt-ad"])
 detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 lingohut.com###lht2_lesson_after_vocab2_300x250_phone
@@ -269,7 +267,7 @@ kabargames.id###main-banner-middle
 dewabioskop21.org###main-popup
 sindonews.com###me-div-gpt-ad-parallax
 sindonews.com###me-div-gpt-ad-stickyad
-haibunda.com###megabillboard
+haibunda.com,investor.id###megabillboard
 detik.com###megabillboard-desktop
 dapurpacu.com###mid-banner
 ganool.watch,movies21.co,tv4.terbit21.im###middle-banner
