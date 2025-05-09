@@ -23,6 +23,7 @@ pemersatu.*##[role="advertisement"]
 pemersatu.*##div[aria-label="Iklan"]
 perawanbokep.*###ads
 ruangbokep.*###floating_bot
+rumahparaperjaka.*##.elementor-popup-modal
 rumahperjaka.*###floatbannerkanan
 rumahperjaka.*###floatbannerkiri
 rumahperjaka.*###floating_banner_top
@@ -30,7 +31,6 @@ rumahperjaka.*##.elementor-popup-modal
 sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
-rumahparaperjaka.*##.elementor-popup-modal
 ! Non-entity filters
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink###ads
