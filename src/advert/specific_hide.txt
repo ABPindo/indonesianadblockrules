@@ -92,7 +92,6 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
-kaidah.id##.parallax
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -746,6 +745,7 @@ dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 my-best.com##.p-press__ad
 cnnindonesia.com,detik.com,haibunda.com,insertlive.com##.paradetail
+kaidah.id##.parallax
 idntimes.com,sindonews.com##.parallax-ad
 tempo.co##.parallax-box
 haibunda.com##.parallax1
