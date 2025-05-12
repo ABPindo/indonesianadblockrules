@@ -1,3 +1,7 @@
+###Area_Iklan_Atas
+###Area_Iklan_Bawah
+###Area_Iklan_Tengah
+###Iklan-Melayang
 ###adsbawah1
 ###adsimgxatas
 ###adsimgxatas2
@@ -8,19 +12,8 @@
 ###adskiri1
 ###adskiri2
 ###adskiri3
-###iklanatas1
-###iklanatas2
-###iklanbawah1
-###iklanheader1
-###iklanheader2
-###iklanheader3
-###iklanheader4
-###iklantengah1
 ###area-iklan-kanan-atas
 ###area-iklan-kiri-atas
-###Area_Iklan_Atas
-###Area_Iklan_Bawah
-###Area_Iklan_Tengah
 ###banner_iklan_top
 ###banner_kanan
 ###banner_kiri
@@ -38,7 +31,6 @@
 ###iklan-giantbanner
 ###iklan-kanan-postingan
 ###iklan-kiri
-###Iklan-Melayang
 ###iklan-newsfeed
 ###iklan-paralax
 ###iklan-pos
@@ -55,6 +47,12 @@
 ###iklan2
 ###iklan3
 ###iklan4
+###iklanBawah
+###iklanFloat
+###iklanSidebar1
+###iklanSidebar2
+###iklanSidebar3
+###iklanSidebar4
 ###iklan_atas
 ###iklan_bawah
 ###iklan_kanan
@@ -67,12 +65,10 @@
 ###iklanatas3
 ###iklanatas4
 ###iklanbawah
-###iklanBawah
 ###iklanbawah1
 ###iklanbawah2
 ###iklanbawah3
 ###iklanbawah4
-###iklanFloat
 ###iklanheader1
 ###iklanheader2
 ###iklanheader3
@@ -84,10 +80,7 @@
 ###iklanpopup
 ###iklanside1
 ###iklanside2
-###iklanSidebar1
-###iklanSidebar2
-###iklanSidebar3
-###iklanSidebar4
+###iklantengah1
 ###imgiklanatas1
 ###imgiklanatas2
 ###imgiklanbawah1
@@ -108,6 +101,7 @@
 ###rebahin-banner
 ###sticky-iklan
 ###tupiklan
+##.SectionAds
 ##.ad-bawah
 ##.ads-atas
 ##.ads-atas-player
@@ -261,6 +255,7 @@
 ##.iklan1
 ##.iklan2
 ##.iklan3
+##.iklanBox
 ##.iklan_atas
 ##.iklan_bawah
 ##.iklan_beranda_1
@@ -279,7 +274,6 @@
 ##.iklanbawah
 ##.iklanbergerak
 ##.iklanbg
-##.iklanBox
 ##.iklandesktop
 ##.iklanfloat
 ##.iklanfloating
@@ -331,7 +325,6 @@
 ##.qode-banner-left
 ##.qode-banner-right
 ##.rkads
-##.SectionAds
 ##.show-first-ads
 ##.sidebar-iklan
 ##.simple_advert
