@@ -1,22 +1,25 @@
 ! for deleted filters and domains, may reappear
+anoboy.ink##[href="https://klik.gg/anoboy"]
+anoboy.ink##[href="https://klik.gg/anoboyvip"]
+bokepkita.pro##.btm_ban
+bokepml.online##.s-sponsor
 ceritasexindonesia.com###adsic728
 ceritasexindonesia.com###adsic7282
-streamingbokeps.co###advertisement-2
-sodasusu.com###forum_ads_8
-nontonbokeps.com###left_ads_float_phonedevelop
-susterbokep.com###right_ads_float_phonedevelop
-sodasusu.com###sodasusu_ads_side_left
-sodasusu.com###sodasusu_ads_side_right
-nontonbokeps.com###under-video-ads
-lonteku.sbs###wpb_overlay
-bokepkita.pro##.btm_ban
-nontonbokeps.com##.mask-ads
-susterbokep.com##.overlay
-bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
+lonteku.sbs###wpb_overlay
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
+nontonbokeps.com###left_ads_float_phonedevelop
+nontonbokeps.com###under-video-ads
+nontonbokeps.com##.mask-ads
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
+sodasusu.com###forum_ads_8
+sodasusu.com###sodasusu_ads_side_left
+sodasusu.com###sodasusu_ads_side_right
+streamingbokeps.co###advertisement-2
+susterbokep.com###right_ads_float_phonedevelop
+susterbokep.com##.overlay
+xtubecinema.club##[href^="/GoUrl.php?ads="]
 ||1guy1cock.com^
 ||24hpoker.com^$third-party
 ||2girls1cup.cc^
@@ -32,7 +35,6 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||aosbobet.com^$popup
 ||aosbobet.com^$third-party
 ||bandarbolataruhan.com^$third-party
-||bangun3.com/admin
 ||bermainjudibola.com^$third-party
 ||bet4dtoto.com^$third-party
 ||betjudionline.com^$third-party
