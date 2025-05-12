@@ -152,6 +152,7 @@ local-zone: "arenajudi.com" always_nxdomain
 local-zone: "asiapoker777.com" always_nxdomain
 local-zone: "astonwin.org" always_nxdomain
 local-zone: "bandarjuditogel.com" always_nxdomain
+local-zone: "baron777py.com" always_nxdomain
 local-zone: "bbm88.org" always_nxdomain
 local-zone: "bebasjudi.com" always_nxdomain
 local-zone: "belitogel.com" always_nxdomain
@@ -217,6 +218,7 @@ local-zone: "lazacasino.com" always_nxdomain
 local-zone: "lintastogel.com" always_nxdomain
 local-zone: "lotospoker.com" always_nxdomain
 local-zone: "luckyriverpoker.com" always_nxdomain
+local-zone: "mansion777y.store" always_nxdomain
 local-zone: "mansionpoker.com" always_nxdomain
 local-zone: "markastogel.com" always_nxdomain
 local-zone: "masterjudi.blog.com" always_nxdomain
@@ -283,6 +285,7 @@ local-zone: "rumahtaruhan88.com" always_nxdomain
 local-zone: "semarangtogel.com" always_nxdomain
 local-zone: "sgptogel.com" always_nxdomain
 local-zone: "sharkpokertour.com" always_nxdomain
+local-zone: "shiotogel4dk.art" always_nxdomain
 local-zone: "situsagenjudi.com" always_nxdomain
 local-zone: "situstaruhan.com" always_nxdomain
 local-zone: "situstogelonline.com" always_nxdomain

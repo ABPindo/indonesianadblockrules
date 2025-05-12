@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505092254
+! Version: 202505120136
 ! Title: ABPindo Extended
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, ditambah domain yang mungkin bisa muncul kembali.
-! Last modified: 09 May 2025 22:54 UTC
+! Last modified: 12 May 2025 01:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -155,15 +155,66 @@
 ||traffic-monetizer.com^$third-party
 ||trafficfactory.biz^$popup,third-party
 ! *** abpindo:src/advert/general_block.txt ***
--728-x-90-
--728-x-90.
--729-x-90.
--iklan.gif|
--iklan.jpg|
--iklan.js|
--mall-pesta-gajian$image
--popads.php|
--slot-iklan-
+-banner-iklan-|$image
+-diskon-besar|$image
+-diskon-lebaran|$image
+-diskon-spesial|$image
+-gambarpromosi|$image
+-iklan-art-|$image
+-iklan-atas|$image
+-iklan-banner-|$image
+-iklan-bawah|$image
+-iklan-big-|$image
+-iklan-bottom|$image
+-iklan-box-|$image
+-iklan-boxes-|$image
+-iklan-diskon|$image
+-iklan-frame-|$image
+-iklan-homepage|$image
+-iklan-home|$image
+-iklan-horizontal|$image
+-iklan-iframe-|$image
+-iklan-image2|$image
+-iklan-image|$image
+-iklan-left|$image
+-iklan-manager-|$image
+-iklan-medium-|$image
+-iklan-mini-|$image
+-iklan-overlay|$image
+-iklan-page|$image
+-iklan-position-|$image
+-iklan-promo|$image
+-iklan-right|$image
+-iklan-scroll|$image
+-iklan-sidebar|$image
+-iklan-skin-|$image
+-iklan-slot-|$image
+-iklan-spesial|$image
+-iklan-sponsor-|$image
+-iklan-square|$image
+-iklan-tengah|$image
+-iklan-title|$image
+-iklan-topbanner|$image
+-iklan-top|$image
+-iklan-vertical|$image
+-iklan-view|$image
+-iklan-|$image,script
+-iklan.gif|$image
+-iklan.jpg|$image
+-iklan.js|$script
+-iklan789-|$image
+-iklan[0-9]-|$image,script
+-iklan[0-9].|$image,script
+-mall-pesta-gajian|$image
+-melayang-kiri-dan-kanan|$image
+-promo-diskon|$image
+-promo-lebaran|$image
+-promo-sale|$image
+-promosi-diskon|$image
+-promosi-spesial|$image
+-slot-iklan-$image
+-slot-iklan|$image
+-sponsor-iklan-|$image
 .bid^$popup,third-party
 .biz/iklan/
 .com/iklan/
@@ -176,29 +227,41 @@
 .net/iklan/
 .tv/iklan/
 .win^$popup,third-party
-/ads/iklan.
-/ads_low.
-/adsleft.$image
-/adsterra.js|
-/adtrace2.js|
-/adv/iklan.
-/banner-728px-
-/banner_iklan/*
+/ads/iklan.$image
+/ads/iklan/*$image
+/adv/iklan.$image
+/adv/iklan/*$image
+/assets/iklan/*
+/banner_iklan/*$image
+/diskon_iklan/*$image
+/foto_iklan/*$image
+/gambar_iklan/*$image
+/iklan_ads/*$image
+/iklan_banner/*$image
 /iklan_banner_$image
-/iklancpm.
+/iklan_data/*$image
+/iklan_images/*$image
+/iklan_lib/*$image
+/iklan_media/*$image
+/iklan_modules/*$image
+/iklan_upload/*$image
+/iklancpm.$image
+/IklanGIF/*$image
 /images/iklan/*
-/internetsehatdanamanfastnet.html|
-/PERAKTOTO.gif|
+/img_iklan/*$image
+/imgiklan/*$image
+/materi_iklan/*$image
+/promo_iklan/*$image
 /promosi-diskon-$image
-/revenuehits.js|
 /SkinADkanan.
 /SkinADkiri.
 /smartfren/ads.
-/uploads/iklan/*
-/usaha-berhasil.gif|
+/uploads/iklan/*$image
+/usaha-berhasil.gif|$image
 /usahaberhasil.gif|
-_TimAds_Banner_$image
-iklan300x250.gif|
+/xbanner_iklan|$image
+_iklan-|$image
+_iklan_|$image
 ! *** abpindo:src/advert/specific_block.txt ***
 .gif^$image,domain=maroonbellsmorris.org
 /gif-*.webm^$image,domain=maroonbellsmorris.org
@@ -2797,6 +2860,7 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /pentaslot-$image
 /Pentaslot.$image,third-party
 /pepebet88-$image
+/PERAKTOTO.gif|
 /PESBOLA-$image
 /pesonaqq.$image,third-party
 /pialabet.$image,third-party
@@ -4447,7 +4511,6 @@ totojitu.gif|$image
 ||maniakqq.$image,third-party
 ||maniakqq.$popup
 ||maniaqq.$image,third-party
-||mansion777y.store^$popup
 ||mantapkiu.$image,third-party
 ||marina-365.$image,third-party
 ||marina-365.$popup
@@ -5012,7 +5075,6 @@ totojitu.gif|$image
 ||shiokambing2.$image,third-party
 ||shiokuda.$image,third-party
 ||shiokuda.$popup
-||shiotogel4dk.art^$popup
 ||siapbet.$image,third-party
 ||simpatiqq.$image,third-party
 ||sinarkiukiu.$image,third-party
@@ -9247,7 +9309,7 @@ rumahperjaka.site###floatbannerkiri
 hencop.com,heppinn.id,indodb21.com###floatcenter
 rumahperjaka.live,rumahperjaka.site###floating_banner_top
 149.102.130.200,154.12.229.9,161.97.116.33,173.212.245.75,185.182.187.38,194.163.158.12,45.67.231.215,75.119.147.12,81.0.220.98,89.117.61.35,bk21.yachts###floating_banner_top1
-ruangbokep.sbs,ruangbokep.top,streamingbokeponline.site,streamingbokeponline.top###floating_bot
+ruangbokep.sbs,streamingbokeponline.site,streamingbokeponline.top###floating_bot
 157.245.195.114###floating_bot.btm_ban
 pemersatufun.site###footadframe
 video.pemersatu.org###iklan728x100
@@ -9309,10 +9371,7 @@ bokepid.wiki##[class^="xnxx5-"]
 173.249.49.204##[href="https://bit.ly/idx-xx"]
 bokepvir.net##[href="https://bkpv.online/reffbokepvir"]
 komikmanhwa.me##[href="https://klik.fun/ZyslX"]
-anoboy.ink##[href="https://klik.gg/anoboy"]
-anoboy.ink##[href="https://klik.gg/anoboyvip"]
 manhwadesu.org##[href="https://klik.gg/manhwadesu"]
-xtubecinema.club##[href^="/GoUrl.php?ads="]
 139.99.33.205,javsubid.com##[href^="https://bit.ly/"]
 slurr.my.id##[href^="https://scratchy-trick.com/"]
 doujindesu.tv##a[href][target="_blank"] > img
@@ -9407,6 +9466,7 @@ semprot.com#@#.adUnit
 ||lintastogel.com^$third-party
 ||lotospoker.com^$third-party
 ||luckyriverpoker.com^$third-party
+||mansion777y.store^$popup
 ||mansionpoker.com^$third-party
 ||markastogel.com^$third-party
 ||masterjudi.blog.com^$third-party
@@ -9473,6 +9533,7 @@ semprot.com#@#.adUnit
 ||semarangtogel.com^$third-party
 ||sgptogel.com^$third-party
 ||sharkpokertour.com^$third-party
+||shiotogel4dk.art^$popup
 ||situsagenjudi.com^$third-party
 ||situstaruhan.com^$third-party
 ||situstogelonline.com^$third-party
@@ -9540,6 +9601,9 @@ bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
+anoboy.ink##[href="https://klik.gg/anoboy"]
+anoboy.ink##[href="https://klik.gg/anoboyvip"]
+xtubecinema.club##[href^="/GoUrl.php?ads="]
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||1guy1cock.com^
 ||24hpoker.com^$third-party
@@ -9556,7 +9620,6 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||aosbobet.com^$popup
 ||aosbobet.com^$third-party
 ||bandarbolataruhan.com^$third-party
-||bangun3.com/admin
 ||bermainjudibola.com^$third-party
 ||bet4dtoto.com^$third-party
 ||betjudionline.com^$third-party
