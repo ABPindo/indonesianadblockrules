@@ -74,6 +74,7 @@
 /ads/iklan/*$image
 /adv/iklan.$image
 /adv/iklan/*$image
+/assets/iklan/*
 /banner_iklan/*$image
 /diskon_iklan/*$image
 /foto_iklan/*$image
@@ -104,4 +105,3 @@
 /xbanner_iklan|$image
 _iklan-|$image
 _iklan_|$image
-/assets/iklan/*

@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202505092254
+! Version: 202505120136
 # Title: ABPindo (hosts adult)
 # Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
 # Last modified: %timestamp%
@@ -237,6 +237,7 @@
 ||lintastogel.com^$third-party
 ||lotospoker.com^$third-party
 ||luckyriverpoker.com^$third-party
+||mansion777y.store^$popup
 ||mansionpoker.com^$third-party
 ||markastogel.com^$third-party
 ||masterjudi.blog.com^$third-party
@@ -303,6 +304,7 @@
 ||semarangtogel.com^$third-party
 ||sgptogel.com^$third-party
 ||sharkpokertour.com^$third-party
+||shiotogel4dk.art^$popup
 ||situsagenjudi.com^$third-party
 ||situstaruhan.com^$third-party
 ||situstogelonline.com^$third-party
