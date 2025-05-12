@@ -33,9 +33,9 @@ ABPindo adalah daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia
 |[UNBOUND](https://github.com/NLnetLabs/unbound)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/unbound.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/unbound_adult.txt)|`local-zone: "example.com" always_nxdomain`|
 
 **Keterangan**:
-- Sintaks penapis berbasis DNS memiliki cara kerja yang berbeda dari ekstensi, sehingga untuk menghindari kesalahan blokir, default ABPindo pada penapis berbasis DNS hanya terdiri dari 'ABPindo_adserver' dan 'ABPindo_third-party'.
-- *Host ABPindo terdiri dari domain 'ABPindo_adserver' dan 'ABPindo_third-party'.
-- **Host ABPindo_adult terdiri dari domain 'ABPindo_adserver', 'ABPindo_third-party', dan 'ABPindo_adult' (iklan judi dan dewasa).
+- Sintaks penapis berbasis DNS memiliki cara kerja yang berbeda dari ekstensi, sehingga untuk menghindari kesalahan blokir, default ABPindo pada penapis berbasis DNS hanya terdiri dari 'src/advert/adservers.txt' dan 'src/advert/thirdparty.txt'.
+- *Host ABPindo terdiri dari domain 'src/advert/thirdparty.txt' dan 'src/advert/thirdparty.txt'.
+- **Host ABPindo_adult terdiri dari domain 'src/advert/thirdparty.txt', 'src/advert/thirdparty.txt', dan 'src/adult/adult_thirdparty.txt' (iklan judi dan dewasa).
 
 ## Ingin Berkontribusi 🤝
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau belum dijangkau ABPindo. Jika menemukan hal-hal tersebut, Anda bisa berkontribusi langsung melalui:
