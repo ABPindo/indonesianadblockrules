@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505120136
+! Version: 202505120153
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 12 May 2025 01:36 UTC
+! Last modified: 12 May 2025 01:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -119,7 +119,6 @@
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup
 ||craydark.pw^$third-party
-||curoax.com^$script,third-party
 ||dairouzy.net^$popup
 ||doathair.com^$third-party
 ||edomz.com^$third-party
@@ -136,8 +135,6 @@
 ||realwap.net^$third-party
 ||ueuodgnrhb.com^$popup
 ||vkwaeo.com^$third-party
-||wpiohdquqo.com^$popup
-||wpiohdquqo.com^$script
 ||xihubo.click^$script
 ||yllix.com^$popup,third-party
 ||zukxd6fkxqn.com^$popup
@@ -198,7 +195,6 @@
 -iklan-top|$image
 -iklan-vertical|$image
 -iklan-view|$image
--iklan-|$image,script
 -iklan.gif|$image
 -iklan.jpg|$image
 -iklan.js|$script
@@ -880,13 +876,6 @@ wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
 idntimes.com###IDN_Billboard
-idntimes.com###IDN_InArticle1
-idntimes.com###IDN_InArticle1-2
-idntimes.com###IDN_InArticle1-3
-idntimes.com###IDN_InArticle1-4
-idntimes.com###IDN_InArticle1-5
-idntimes.com###IDN_InArticle3
-idntimes.com###IDN_Leaderboard
 idntimes.com###IDN_MR1-wrapper
 idntimes.com###IDN_MR2-wrapper
 idntimes.com###IDN_MR3-wrapper
@@ -1471,7 +1460,6 @@ kompas.com##.kgnw-modal-ads
 kontan.co.id##.kiri-det-desk
 apk.miuiku.com,lewat.club##.klikdisini
 ainzscans.net,cosmic345.co,ikiru.one,ikiru.world,isekaisubs.web.id,kiryuu01.com,komikcast01.com,komikcast02.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,komiktap.info,mangakita.id,mangakita.net,movieku.ink##.kln
-kazefuri.info##.kln.mlb.blox
 faktabali.com##.ktzsingle-bannerright
 kontan.co.id##.kus
 starringheavenlyrics.blogspot.com##.lalulintas
@@ -1678,7 +1666,6 @@ kompas.com##[src^="https://adsimg.kompas.com"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 katadata.co.id##[style="height:0; min-height:180px;"]
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
-njavtv.com##[style^="width: 300px;"]
 semarangkota.com##a.thirstylink
 tokopedia.com##a[data-testid="lnkProductContainer"]:has(img[alt^="topads"])
 westmanga.info##a[href="https://klik.fun/Kp7S5"]
