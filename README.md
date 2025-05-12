@@ -2,7 +2,7 @@
 
 # ABPindo
 
-ABPindo adalah daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia, yang melengkapi penapis internasional seperti [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) dan [AdGuard Base filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt). ABPindo menggunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters) dan kompatibel dengan ekstensi seperti [Adblock Plus](https://adblockplus.org/), [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), dan adblocker sejenis. Kini, ABPindo juga mendukung sintaks host dan domain, yang kompatibel dengan [AdAway](https://github.com/AdAway/AdAway), [Pi-Hole](https://github.com/pi-hole/pi-hole), [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome), dan penapis berbasis DNS lainnya.
+ABPindo adalah daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia, yang melengkapi penapis internasional seperti [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) dan [AdGuard Base filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt). ABPindo menggunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters) dan kompatibel dengan ekstensi seperti [Adblock Plus](https://adblockplus.org/), [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), dan adblocker sejenis. Kini, ABPindo juga menyediakan penapis berbasis sintaks host dan domain, kompatibel dengan [AdAway](https://github.com/AdAway/AdAway), [Pi-Hole](https://github.com/pi-hole/pi-hole), [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome), dan penapis berbasis DNS lainnya.
 
 ## Keuntungan
 - **Lebih Bersih**: Tanpa iklan promosi berlebihan, iklan judi, dan iklan dewasa
@@ -33,9 +33,9 @@ ABPindo adalah daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia
 |[UNBOUND](https://github.com/NLnetLabs/unbound)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/unbound.txt)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/unbound_adult.txt)|`local-zone: "example.com" always_nxdomain`|
 
 **Keterangan**:
-- Sintaks penapis berbasis DNS memiliki cara kerja yang berbeda dari ekstensi, sehingga untuk menghindari kesalahan blokir, default ABPindo pada penapis berbasis DNS hanya terdiri dari 'src/advert/adservers.txt' dan 'src/advert/thirdparty.txt'.
-- *Host ABPindo terdiri dari domain 'src/advert/thirdparty.txt' dan 'src/advert/thirdparty.txt'.
-- **Host ABPindo_adult terdiri dari domain 'src/advert/thirdparty.txt', 'src/advert/thirdparty.txt', dan 'src/adult/adult_thirdparty.txt' (iklan judi dan dewasa).
+- Sintaks penapis berbasis DNS memiliki cara kerja yang berbeda dari ekstensi, sehingga untuk menghindari kesalahan blokir, default ABPindo pada penapis berbasis DNS hanya terdiri dari `src/advert/adservers.txt` dan `src/advert/thirdparty.txt`.
+- *Host ABPindo terdiri dari domain `src/advert/thirdparty.txt` dan `src/advert/thirdparty.txt`.
+- **Host ABPindo_adult terdiri dari domain `src/advert/thirdparty.txt`, `src/advert/thirdparty.txt`, dan `src/adult/adult_thirdparty.txt`.
 
 ## Ingin Berkontribusi 🤝
 Masih ada situs yang terlewat, entah karena situsnya telah diperbarui atau belum dijangkau ABPindo. Jika menemukan hal-hal tersebut, Anda bisa berkontribusi langsung melalui:
