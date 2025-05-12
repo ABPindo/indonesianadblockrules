@@ -41,7 +41,6 @@
 -iklan-top|$image
 -iklan-vertical|$image
 -iklan-view|$image
--iklan-|$image,script
 -iklan.gif|$image
 -iklan.jpg|$image
 -iklan.js|$script
