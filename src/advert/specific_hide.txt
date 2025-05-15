@@ -961,6 +961,7 @@ info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
+bisnis.com##.footer_sticky
 ! ABP-specific filters
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
