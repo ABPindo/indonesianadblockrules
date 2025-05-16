@@ -16,6 +16,9 @@ bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
 lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
+anoboy.ink##[href="https://klik.gg/anoboy"]
+anoboy.ink##[href="https://klik.gg/anoboyvip"]
+xtubecinema.club##[href^="/GoUrl.php?ads="]
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||1guy1cock.com^
 ||24hpoker.com^$third-party
@@ -32,7 +35,6 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||aosbobet.com^$popup
 ||aosbobet.com^$third-party
 ||bandarbolataruhan.com^$third-party
-||bangun3.com/admin
 ||bermainjudibola.com^$third-party
 ||bet4dtoto.com^$third-party
 ||betjudionline.com^$third-party

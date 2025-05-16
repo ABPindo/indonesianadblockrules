@@ -104,7 +104,6 @@
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup
 ||craydark.pw^$third-party
-||curoax.com^$script,third-party
 ||dairouzy.net^$popup
 ||doathair.com^$third-party
 ||edomz.com^$third-party
@@ -121,8 +120,6 @@
 ||realwap.net^$third-party
 ||ueuodgnrhb.com^$popup
 ||vkwaeo.com^$third-party
-||wpiohdquqo.com^$popup
-||wpiohdquqo.com^$script
 ||xihubo.click^$script
 ||yllix.com^$popup,third-party
 ||zukxd6fkxqn.com^$popup

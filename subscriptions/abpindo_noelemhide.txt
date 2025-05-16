@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202504260859
+! Version: 202505162247
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 26 Apr 2025 08:59 UTC
+! Last modified: 16 May 2025 22:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -119,7 +119,6 @@
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup
 ||craydark.pw^$third-party
-||curoax.com^$script,third-party
 ||dairouzy.net^$popup
 ||doathair.com^$third-party
 ||edomz.com^$third-party
@@ -136,8 +135,6 @@
 ||realwap.net^$third-party
 ||ueuodgnrhb.com^$popup
 ||vkwaeo.com^$third-party
-||wpiohdquqo.com^$popup
-||wpiohdquqo.com^$script
 ||xihubo.click^$script
 ||yllix.com^$popup,third-party
 ||zukxd6fkxqn.com^$popup
@@ -155,18 +152,68 @@
 ||traffic-monetizer.com^$third-party
 ||trafficfactory.biz^$popup,third-party
 ! *** abpindo:src/advert/general_block.txt ***
--728-x-90-
--728-x-90.
--729-x-90.
--iklan.gif|
--iklan.jpg|
--iklan.js|
--mall-pesta-gajian$image
--popads.php|
--slot-iklan-
+-banner-iklan-|$image
+-diskon-besar|$image
+-diskon-lebaran|$image
+-diskon-spesial|$image
+-gambarpromosi|$image
+-iklan-art-|$image
+-iklan-atas|$image
+-iklan-banner-|$image
+-iklan-bawah|$image
+-iklan-big-|$image
+-iklan-bottom|$image
+-iklan-box-|$image
+-iklan-boxes-|$image
+-iklan-diskon|$image
+-iklan-frame-|$image
+-iklan-homepage|$image
+-iklan-home|$image
+-iklan-horizontal|$image
+-iklan-iframe-|$image
+-iklan-image2|$image
+-iklan-image|$image
+-iklan-left|$image
+-iklan-manager-|$image
+-iklan-medium-|$image
+-iklan-mini-|$image
+-iklan-overlay|$image
+-iklan-page|$image
+-iklan-position-|$image
+-iklan-promo|$image
+-iklan-right|$image
+-iklan-scroll|$image
+-iklan-sidebar|$image
+-iklan-skin-|$image
+-iklan-slot-|$image
+-iklan-spesial|$image
+-iklan-sponsor-|$image
+-iklan-square|$image
+-iklan-tengah|$image
+-iklan-title|$image
+-iklan-topbanner|$image
+-iklan-top|$image
+-iklan-vertical|$image
+-iklan-view|$image
+-iklan.gif|$image
+-iklan.jpg|$image
+-iklan.js|$script
+-iklan789-|$image
+-iklan[0-9]-|$image,script
+-iklan[0-9].|$image,script
+-mall-pesta-gajian|$image
+-melayang-kiri-dan-kanan|$image
+-promo-diskon|$image
+-promo-lebaran|$image
+-promo-sale|$image
+-promosi-diskon|$image
+-promosi-spesial|$image
+-slot-iklan-$image
+-slot-iklan|$image
+-sponsor-iklan-|$image
 .bid^$popup,third-party
 .biz/iklan/
-.com/iklan/
+.com/iklan/*$image,domain=~persis.or.id
 .id/ads/
 .id/adv/
 .id/iklan/
@@ -176,29 +223,41 @@
 .net/iklan/
 .tv/iklan/
 .win^$popup,third-party
-/ads/iklan.
-/ads_low.
-/adsleft.$image
-/adsterra.js|
-/adtrace2.js|
-/adv/iklan.
-/banner-728px-
-/banner_iklan/*
+/ads/iklan.$image
+/ads/iklan/*$image
+/adv/iklan.$image
+/adv/iklan/*$image
+/assets/iklan/*
+/banner_iklan/*$image
+/diskon_iklan/*$image
+/foto_iklan/*$image
+/gambar_iklan/*$image
+/iklan_ads/*$image
+/iklan_banner/*$image
 /iklan_banner_$image
-/iklancpm.
+/iklan_data/*$image
+/iklan_images/*$image
+/iklan_lib/*$image
+/iklan_media/*$image
+/iklan_modules/*$image
+/iklan_upload/*$image
+/iklancpm.$image
+/IklanGIF/*$image
 /images/iklan/*
-/internetsehatdanamanfastnet.html|
-/PERAKTOTO.gif|
+/img_iklan/*$image
+/imgiklan/*$image
+/materi_iklan/*$image
+/promo_iklan/*$image
 /promosi-diskon-$image
-/revenuehits.js|
 /SkinADkanan.
 /SkinADkiri.
 /smartfren/ads.
-/uploads/iklan/*
-/usaha-berhasil.gif|
+/uploads/iklan/*$image
+/usaha-berhasil.gif|$image
 /usahaberhasil.gif|
-_TimAds_Banner_$image
-iklan300x250.gif|
+/xbanner_iklan|$image
+_iklan-|$image
+_iklan_|$image
 ! *** abpindo:src/advert/specific_block.txt ***
 .gif^$image,domain=maroonbellsmorris.org
 /gif-*.webm^$image,domain=maroonbellsmorris.org
@@ -453,7 +512,7 @@ carisinyal.com##+js(rmnt, script, showModal)
 ! Allowlist for Element Hiding Filters
 eramuslim.com#@#.adsbygoogle
 adikanime.com#@#.idmuvi-banner-aftercontent
-103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.com#@#.idmuvi-topbanner-aftermenu
+103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.club,layardrama21.com#@#.idmuvi-topbanner-aftermenu
 tokosatu.com#@#.popupflyin-clicks-area
 oomph.co.id#@#.shareit
 ! ---------------------------- adult ------------------------------!
@@ -858,7 +917,7 @@ oomph.co.id#@#.shareit
 /domino757.$image,third-party
 /domino99.$image,third-party
 /dominobet.$image,third-party
-/DOMINOBET_$image
+/dominobet_$image
 /dominoqq.$image,third-party
 /dorabet.$image,third-party
 /dotapoker.$image,third-party
@@ -1291,6 +1350,7 @@ oomph.co.id#@#.shareit
 /pentaslot-$image
 /Pentaslot.$image,third-party
 /pepebet88-$image
+/PERAKTOTO.gif|
 /PESBOLA-$image
 /pesonaqq.$image,third-party
 /pialabet.$image,third-party
@@ -1514,6 +1574,7 @@ oomph.co.id#@#.shareit
 /togel168-$image
 /togel212.$image,third-party
 /togel88-$image
+/Togel88.gif$image
 /togelbet.$image,third-party
 /togeldomino.$image,third-party
 /togellounge.$image,third-party
@@ -2460,7 +2521,6 @@ totojitu.gif|$image
 ||hokiqq-1.$image,third-party
 ||hokiqq.$image,third-party
 ||hoky-qq.$image,third-party
-||holahupa.com^$popup
 ||hongkongtogel.$image,third-party
 ||hopengbet.$image,third-party
 ||hotsports7.$image,third-party
@@ -2940,7 +3000,6 @@ totojitu.gif|$image
 ||maniakqq.$image,third-party
 ||maniakqq.$popup
 ||maniaqq.$image,third-party
-||mansion777y.store^$popup
 ||mantapkiu.$image,third-party
 ||marina-365.$image,third-party
 ||marina-365.$popup
@@ -3505,7 +3564,6 @@ totojitu.gif|$image
 ||shiokambing2.$image,third-party
 ||shiokuda.$image,third-party
 ||shiokuda.$popup
-||shiotogel4dk.art^$popup
 ||siapbet.$image,third-party
 ||simpatiqq.$image,third-party
 ||sinarkiukiu.$image,third-party
@@ -3937,6 +3995,7 @@ totojitu.gif|$image
 ||asiapoker777.com^$third-party
 ||astonwin.org^$popup
 ||bandarjuditogel.com^$third-party
+||baron777py.com^$popup
 ||bbm88.org^$third-party
 ||bebasjudi.com^$popup
 ||belitogel.com^$third-party
@@ -4001,6 +4060,7 @@ totojitu.gif|$image
 ||lintastogel.com^$third-party
 ||lotospoker.com^$third-party
 ||luckyriverpoker.com^$third-party
+||mansion777y.store^$popup
 ||mansionpoker.com^$third-party
 ||markastogel.com^$third-party
 ||masterjudi.blog.com^$third-party
@@ -4067,6 +4127,7 @@ totojitu.gif|$image
 ||semarangtogel.com^$third-party
 ||sgptogel.com^$third-party
 ||sharkpokertour.com^$third-party
+||shiotogel4dk.art^$popup
 ||situsagenjudi.com^$third-party
 ||situstaruhan.com^$third-party
 ||situstogelonline.com^$third-party

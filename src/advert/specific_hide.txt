@@ -96,13 +96,6 @@ wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
 idntimes.com###IDN_Billboard
-idntimes.com###IDN_InArticle1
-idntimes.com###IDN_InArticle1-2
-idntimes.com###IDN_InArticle1-3
-idntimes.com###IDN_InArticle1-4
-idntimes.com###IDN_InArticle1-5
-idntimes.com###IDN_InArticle3
-idntimes.com###IDN_Leaderboard
 idntimes.com###IDN_MR1-wrapper
 idntimes.com###IDN_MR2-wrapper
 idntimes.com###IDN_MR3-wrapper
@@ -617,6 +610,7 @@ miyanime.site##.fixed-rside
 kompas.id##.flex.justify-center.lg\:px-8.my-6
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
+detik.com##.float-vid__content
 manganime.in##.float_tengah
 s4.nontonanimeid.boats##.floating_footer
 okezone.com##.flying_ads
@@ -625,7 +619,7 @@ bisnis.com,tek.id##.flying_carpet_show
 tek.id##.flying_carpet_show_fix
 bisnis.com,tek.id##.flying_carpet_show_inner
 cnnindonesia.com,detik.com,insertlive.com,teknoup.com##.footer_banner
-suarasurabaya.net##.footer_sticky
+bisnis.com,suarasurabaya.net##.footer_sticky
 orami.co.id##.footer_stickyexp
 manganime.id##.ftadss
 komikcast.net,komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
@@ -687,7 +681,6 @@ kompas.com##.kgnw-modal-ads
 kontan.co.id##.kiri-det-desk
 apk.miuiku.com,lewat.club##.klikdisini
 ainzscans.net,cosmic345.co,ikiru.one,ikiru.world,isekaisubs.web.id,kiryuu01.com,komikcast01.com,komikcast02.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,komiktap.info,mangakita.id,mangakita.net,movieku.ink##.kln
-kazefuri.info##.kln.mlb.blox
 faktabali.com##.ktzsingle-bannerright
 kontan.co.id##.kus
 starringheavenlyrics.blogspot.com##.lalulintas
@@ -745,6 +738,7 @@ dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 my-best.com##.p-press__ad
 cnnindonesia.com,detik.com,haibunda.com,insertlive.com##.paradetail
+kaidah.id##.parallax
 idntimes.com,sindonews.com##.parallax-ad
 tempo.co##.parallax-box
 haibunda.com##.parallax1
@@ -775,6 +769,7 @@ film-ganool.com##.random
 okezone.com##.rc-ad-300x250
 gridoto.com##.read__left
 sonora.id##.read__skyscraper
+detik.com##.redirect__page
 grid.id##.relative.below_photo
 grid.id##.relative.skycrapper
 grid.id##.relative.w-full
@@ -893,7 +888,6 @@ kompas.com##[src^="https://adsimg.kompas.com"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 katadata.co.id##[style="height:0; min-height:180px;"]
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
-njavtv.com##[style^="width: 300px;"]
 semarangkota.com##a.thirstylink
 tokopedia.com##a[data-testid="lnkProductContainer"]:has(img[alt^="topads"])
 westmanga.info##a[href="https://klik.fun/Kp7S5"]
