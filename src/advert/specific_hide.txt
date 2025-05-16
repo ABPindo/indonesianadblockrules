@@ -611,6 +611,7 @@ kompas.id##.flex.justify-center.lg\:px-8.my-6
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
 detik.com##.float-vid__content
+detik.com##.redirect__page
 manganime.in##.float_tengah
 s4.nontonanimeid.boats##.floating_footer
 okezone.com##.flying_ads
