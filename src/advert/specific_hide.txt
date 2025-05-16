@@ -611,7 +611,6 @@ kompas.id##.flex.justify-center.lg\:px-8.my-6
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
 detik.com##.float-vid__content
-detik.com##.redirect__page
 manganime.in##.float_tengah
 s4.nontonanimeid.boats##.floating_footer
 okezone.com##.flying_ads
@@ -770,6 +769,7 @@ film-ganool.com##.random
 okezone.com##.rc-ad-300x250
 gridoto.com##.read__left
 sonora.id##.read__skyscraper
+detik.com##.redirect__page
 grid.id##.relative.below_photo
 grid.id##.relative.skycrapper
 grid.id##.relative.w-full
