@@ -610,6 +610,7 @@ miyanime.site##.fixed-rside
 kompas.id##.flex.justify-center.lg\:px-8.my-6
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
+detik.com##.float-vid__content
 manganime.in##.float_tengah
 s4.nontonanimeid.boats##.floating_footer
 okezone.com##.flying_ads
@@ -618,7 +619,7 @@ bisnis.com,tek.id##.flying_carpet_show
 tek.id##.flying_carpet_show_fix
 bisnis.com,tek.id##.flying_carpet_show_inner
 cnnindonesia.com,detik.com,insertlive.com,teknoup.com##.footer_banner
-suarasurabaya.net##.footer_sticky
+bisnis.com,suarasurabaya.net##.footer_sticky
 orami.co.id##.footer_stickyexp
 manganime.id##.ftadss
 komikcast.net,komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
@@ -768,6 +769,7 @@ film-ganool.com##.random
 okezone.com##.rc-ad-300x250
 gridoto.com##.read__left
 sonora.id##.read__skyscraper
+detik.com##.redirect__page
 grid.id##.relative.below_photo
 grid.id##.relative.skycrapper
 grid.id##.relative.w-full
@@ -961,7 +963,6 @@ info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
-bisnis.com##.footer_sticky
 ! ABP-specific filters
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
