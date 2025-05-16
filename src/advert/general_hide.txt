@@ -339,3 +339,6 @@
 ##.topads-kanan
 ##.warning_iklan
 ##.widget_iklan_atas
+###floatadsbawah
+###floatadsatas
+###floatadsatas1
