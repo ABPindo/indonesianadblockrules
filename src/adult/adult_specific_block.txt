@@ -13,3 +13,4 @@
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||pemersatudotfun.com/ads.js$script
 ||wibufile.com/api/beenv^
+||cds.bet/*.gif^$image,third-party
