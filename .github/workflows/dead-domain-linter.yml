@@ -41,20 +41,12 @@ jobs:
 #    - run: npm run build --if-present
 #    - run: npm test
 
-
     - name: Install dead-domain-linter
       run: |
         npm i -g @adguard/dead-domains-linter
     - name: Check and export dead domain
       run: |
         dead-domains-linter -i $GITHUB_WORKSPACE/subscriptions/abpindo.txt --export=$GITHUB_WORKSPACE/src/dead_domains.txt
-    - name: Run and remove dead domain
-      run: |
-        # run only on specified directory
-        cd $GITHUB_WORKSPACE/src/advert
-        dead-domains-linter --auto --commentout
-        cd $GITHUB_WORKSPACE/src/adult
-        dead-domains-linter --auto --commentout
     - name: Commit and push changes
       run: |
         git config user.name "github-actions[bot]"
