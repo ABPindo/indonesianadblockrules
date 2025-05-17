@@ -21,6 +21,9 @@
 ###bawahpads
 ###bireklam
 ###desaiklan
+###floatadsatas
+###floatadsatas1
+###floatadsbawah
 ###idiklan_kanan
 ###idiklan_kiri
 ###idmuvi-adb-enabled
@@ -339,6 +342,3 @@
 ##.topads-kanan
 ##.warning_iklan
 ##.widget_iklan_atas
-###floatadsbawah
-###floatadsatas
-###floatadsatas1
