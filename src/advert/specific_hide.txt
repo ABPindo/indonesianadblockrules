@@ -188,7 +188,7 @@ idfl.me,r-l.me,teknoup.com###fancybox-wrap
 teknoup.com###fancybox_ajax
 nontonfilm21.club###filmoncereklam
 kontan.co.id###fixslowshow
-lk21.web.id###float-banner
+ayononton.app,lk21.web.id###float-banner
 remo-xp.com###float-left
 dunia21.me###float-pop
 remo-xp.com###float-right
@@ -963,7 +963,6 @@ info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
-ayononton.app###float-banner
 ! ABP-specific filters
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
