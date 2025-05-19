@@ -28,3 +28,5 @@
 %include abpindo:src/adult/adult_specific_hide.txt%
 %include abpindo:src/adult/adult_thirdparty.txt%
 %include abpindo:src/adult_extended.txt%
+!--------------------------- Annoyances ------------------------------!
+%include abpindo:src/annoyances.txt%
