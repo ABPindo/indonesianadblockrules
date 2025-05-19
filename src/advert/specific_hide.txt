@@ -459,7 +459,7 @@ myasiantv.se##.av-content-full
 animebatchs.com,juragan-anime.net,kapanlagi.com,kompasiana.com,merdeka.com,nanime.in##.banner
 kompasiana.com##.banner-center
 tempo.co##.banner-fix-bottom
-139.99.33.192##.banner-float-bottom
+139.99.33.192,bioskopgaul.me##.banner-float-bottom
 51.81.238.0##.banner-float-bottom-2.banner-float-bottom
 164.68.127.15##.banner-img
 dewabioskop21.org##.banner-left
@@ -963,7 +963,6 @@ info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
-bioskopgaul.me##.banner-float-bottom
 ! ABP-specific filters
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
