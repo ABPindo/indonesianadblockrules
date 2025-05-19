@@ -3,3 +3,4 @@
 cnnindonesia.com##.bottom-\[50px\].left-0.z-\[90\].fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
 ! detik.com - recommended video pop-up #683
 detik.com##.float-vid__content
+regional.kompas.com##+js(aeld, scroll, kgSticky)
