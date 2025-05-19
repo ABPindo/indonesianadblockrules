@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505191237
+! Version: 202505191244
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 19 May 2025 12:37 UTC
+! Last modified: 19 May 2025 12:44 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -465,6 +465,7 @@ _iklan_|$image
 onnano.tv##+js(acs, document.addEventListener, popup)
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.mapsaddress.com,info.vebma.com##+js(aeld, click, linkOpened)
+kompas.com##+js(aeld, scroll, kgSticky)
 juraganfilm.ink##+js(aopr, $.magnificPopup.open)
 3gpterbaru.com##+js(aopr, LieDetector)
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com,jenismac.com##+js(nano-sib)
@@ -1570,6 +1571,7 @@ popbela.com##.megabillboard-container
 37.49.229.132,juraganfilm.icu##.mfp-inline-holder.mfp-s-ready.mfp-container
 juraganfilm.icu##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile
 37.49.229.132##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-bg
+kompas.com##.mgidaiml.ads-partner-wrap
 bolasport.com,kompas.tv##.mgidclsbanner
 dapurpacu.com##.mid-banner
 astroawani.com##.middle-ad-cont
@@ -1597,6 +1599,7 @@ detik.com##.normalbanner
 animeindo.id##.nyaa300
 animeindo.id##.nyaa728
 kompas.com##.ol_big_inner
+kompas.com##.osmplaceonsite.ads-partner-wrap
 detik.com##.otp_banner_close
 dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
 tribunnews.com##.ovh[style="width:468px;height:60px"]
