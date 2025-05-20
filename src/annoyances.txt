@@ -8,5 +8,5 @@ tokopedia.com##.e90j6ys0.css-1b94wk9-unf-overlay
 detik.com##.float-vid__content
 ! kompas.com - kompas.com+ banner
 kompas.com##.clearfix.container > .gate-kgplus
-kompas.com##div.gate-kgplus:nth-of-type(8)
 pinhome.id##.style_stickyBannerDesktop__GLF3I
+kompas.com##div.gate-kgplus:nth-of-type(8)
