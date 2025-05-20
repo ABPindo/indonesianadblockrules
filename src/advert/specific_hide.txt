@@ -546,6 +546,7 @@ cnnindonesia.com##.bottom_banner_container
 gopego.com##.box
 kapanlagi.com##.box--banner
 beautynesia.id##.box-ads--container
+investor.id##body > .w-100.d-flex
 uzone.id##.box-ads-300x250
 uzone.id##.box-ads-billboard
 uzone.id##.box-ads-billboard-mobile
