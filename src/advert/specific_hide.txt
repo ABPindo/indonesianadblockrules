@@ -546,7 +546,6 @@ cnnindonesia.com##.bottom_banner_container
 gopego.com##.box
 kapanlagi.com##.box--banner
 beautynesia.id##.box-ads--container
-investor.id##body > .w-100.d-flex
 uzone.id##.box-ads-300x250
 uzone.id##.box-ads-billboard
 uzone.id##.box-ads-billboard-mobile
@@ -915,6 +914,7 @@ tempo.co##article .w-\[300px\].overflow-hidden
 tempo.co##article .w-full.h-\[250px\].max-w-\[470px\].relative
 tafsirweb.com##article:nth-of-type(2) > div:nth-of-type(3)
 bioskop168.co,bioskop168.online,bioskop168.pro##bioskop-kanan
+investor.id##body > .w-100.d-flex
 intip24news.com##body.sticky-header:style(padding: unset!important;)
 tempo.co##body:remove-class(pad-apps)
 juragan.film##body:style(overflow: auto !important; position: unset !important; pointer-events: auto !important;)
