@@ -4,3 +4,6 @@ cnnindonesia.com##.bottom-\[50px\].left-0.z-\[90\].fixed.mb-4.text-white.px-4.py
 ! detik.com - recommended video pop-up #683
 regional.kompas.com##+js(aeld, scroll, kgSticky)
 detik.com##.float-vid__content
+! kompas.com - kompas.com+ banner
+kompas.com##.clearfix.container > .gate-kgplus
+kompas.com##div.gate-kgplus:nth-of-type(8)
