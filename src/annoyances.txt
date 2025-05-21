@@ -9,3 +9,5 @@ detik.com##.float-vid__content
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 ! kompas.com - kompas.com+ banner
 kompas.com##.gate-kgplus
+! kompas.com - kgnow embedded video
+kompas.com##.kgnw-player
