@@ -92,7 +92,6 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
-manhwaindo.one###teaserbottom
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -317,7 +316,7 @@ detik.com###sto_banner
 15.235.11.45,65.108.132.145,cinemaindo.com,film-ganool.com,filmroster.online,isekaisubs.web.id,luciferdonghua.in,mangashiro.net,oploverz.info,oploverz.top,realmscans.com###teaser1
 65.108.132.145,cinemaindo.com,film-ganool.com,ganool.nl,ganool.ph,isekaisubs.web.id,komiku.net,luciferdonghua.in,oploverz.info,oploverz.top,realmscans.com###teaser2
 15.235.11.45,45.12.2.2,animasu.cc,animexin.xyz,downloadfilmbaru.com,ganool.nl,ganool.ph,kikil.net,kiryuu.org,komiku.net,layarbiru21.com,lmanime.com,luciferdonghua.in,mangaindo.me,mangakita.id,mangakita.net,mangakyo.org,oploverz.info,oploverz.top,realmscans.com###teaser3
-kiryuu01.com###teaserbottom
+kiryuu01.com,manhwaindo.one###teaserbottom
 lk21.cc###tengah > span
 hotabis.com###text-28 > .textwidget
 indotelko.com###title_kanal
