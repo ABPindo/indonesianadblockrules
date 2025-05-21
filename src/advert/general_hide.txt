@@ -145,6 +145,7 @@
 ##.adskiri1
 ##.adskiri2
 ##.adskiri3
+##.adspost520
 ##.adstengah
 ##.aiklanheader1
 ##.aiklanheader2
@@ -342,4 +343,3 @@
 ##.topads-kanan
 ##.warning_iklan
 ##.widget_iklan_atas
-##.adspost520
