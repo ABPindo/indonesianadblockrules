@@ -1,0 +1,2 @@
+! Title: ABPindo – Annoyances (uBlock Specific Filters)
+detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
