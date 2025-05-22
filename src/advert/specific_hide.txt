@@ -1,4 +1,8 @@
 ! Entity filters
+kompas.id##.w-full.hidden.lg\:flex.bg-grey-10.justify-center.py-3
+kompas.id##.relative.flex.justify-center.py-2.bg-white
+kompas.id##.w-full.relative.z-0.flex.flex-1.flex-col.items-stretch.max-w-\[320px\].min-h-\[100px\]
+kompas.id##.w-full.relative.z-0.flex.flex-1.flex-col.items-stretch.max-w-\[300px\].min-h-\[250px\]
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
