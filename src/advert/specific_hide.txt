@@ -1,5 +1,6 @@
 ! Entity filters
 anichin.*###floatcenter
+grid.id###buttonGridstore
 anichin.*###overplay
 anichin.*##.kln
 animekompi.*###overplay
