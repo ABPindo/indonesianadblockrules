@@ -11,3 +11,5 @@ pinhome.id##.style_stickyBannerDesktop__GLF3I
 kompas.com##.gate-kgplus
 ! kompas.com - kgnow embedded video
 kompas.com##.kgnw-player
+! tribunnews.com - recommended next article slide banner
+tribunnews.com##.desk-bannerslide
