@@ -23,3 +23,6 @@ detik.com###notification_newsfeed
 kompasiana.com##.align-center.floatingWrap
 ! detik.com - 20detik video pop-up (uBlock)
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
+popmama.com##.css-cw25l4
+popbela.com##.css-1lh0foa
+cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
