@@ -21,3 +21,5 @@ haibunda.com##.mt-\[65px\].duration-700.ease-in.right-0.left-0.z-\[12345\].top-0
 detik.com###notification_newsfeed
 ! kompasiana.com - social media floating button
 kompasiana.com##.align-center.floatingWrap
+! detik.com - 20detik video pop-up (uBlock)
+detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
