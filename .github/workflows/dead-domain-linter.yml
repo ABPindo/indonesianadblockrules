@@ -1,0 +1,64 @@
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
+
+
+name: Dead domain linter
+
+
+on:
+  workflow_dispatch: 
+# Jalankan script pada jadwal tertentu
+#  schedule:
+#    - cron: "0 * * * *"
+  push:
+    branches:
+      - 'CI'
+    paths:
+      - 'src/**'
+      - 'subscriptions/ABPindo.txt'
+
+permissions:
+  contents: write
+
+
+  
+jobs:
+  build:
+
+
+    runs-on: ubuntu-latest
+
+
+    strategy:
+      matrix:
+        node-version: [22.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+#        cache: 'npm'
+#    - run: npm ci
+#    - run: npm run build --if-present
+#    - run: npm test
+
+    - name: Install dead-domain-linter
+      run: |
+        npm i -g @adguard/dead-domains-linter
+    - name: Check and export dead domain
+      run: |
+        dead-domains-linter -i $GITHUB_WORKSPACE/subscriptions/abpindo.txt --export=$GITHUB_WORKSPACE/src/dead_domains.txt
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "Auto-Build"
+        git push
+      continue-on-error: true
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
