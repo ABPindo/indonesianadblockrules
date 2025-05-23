@@ -1,6 +1,5 @@
 ! Entity filters
 anichin.*###floatcenter
-grid.id###buttonGridstore
 grid.id##.clearfix.ads__top-big
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id##.title__default
