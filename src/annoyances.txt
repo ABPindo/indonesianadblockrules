@@ -13,3 +13,9 @@ kompas.com##.gate-kgplus
 kompas.com##.kgnw-player
 ! tribunnews.com - recommended next article slide banner
 tribunnews.com##.desk-bannerslide
+! haibunda.com - enable notification banner
+haibunda.com##.mt-\[65px\].duration-700.ease-in.right-0.left-0.z-\[12345\].top-0.fixed.shadow-lg.rounded-md.p-2.text-hb-black.bg-white.m-auto.h-auto.w-\[330px\].pushnotif
+! detik.com - news reload notification
+detik.com###notification_newsfeed
+! kompasiana.com - social media floating button
+kompasiana.com##.align-center.floatingWrap
