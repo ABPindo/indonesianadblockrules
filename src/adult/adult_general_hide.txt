@@ -7,6 +7,9 @@
 ##.happypoker
 ##.judi
 ##.togel
+<<<<<<< HEAD
+=======
+>>>>>>> 967fc2977f752e1d3f018bdb81f2f553843e4b9e
 ##[href$=".win/simantan" i]
 ##[href$="/388hero" i]
 ##[href$="/77megabet" i]
@@ -65,6 +68,7 @@
 ##[href$="/gacorbokep" i]
 ##[href$="/gudangselot" i]
 ##[href$="/hdpbet" i]
+##[href$="/hokibet99"]
 ##[href$="/ibetwinasia" i]
 ##[href$="/idncash" i]
 ##[href$="/idxtube" i]
@@ -86,6 +90,7 @@
 ##[href$="/kointoto" i]
 ##[href$="/komik4d" i]
 ##[href$="/lapakslot" i]
+##[href$="/ligadewa" i]
 ##[href$="/ligadunia" i]
 ##[href$="/ligapoker" i]
 ##[href$="/ligasloto" i]
@@ -134,9 +139,7 @@
 ##[href$="/visahoki88" i]
 ##[href$="/vvipwin" i]
 ##[href$="/wedeqq" i]
-##[href$="/ligadewa" i]
 ##[href$="?ref=bokepmania" i]
-##[href$="/hokibet99"]
 ##[href="http://bogil.vip/"]
 ##[href="http://probet188.xyz/"]
 ##[href="https://172.104.39.221/slots/pragmatic"]
@@ -145,7 +148,6 @@
 ##[href="https://cek.to/anoboyhoki"]
 ##[href="https://hasil-keluaran-hk.com/redirecting"]
 ##[href="https://themarket.life/register/YKRGLNP8"]
-##[href^="https://vpn89.site/"]
 ##[href^="http://arasiabt.vip/"]
 ##[href^="http://asialv88.me/"]
 ##[href^="http://bhok77.xyz/"]
@@ -200,6 +202,7 @@
 ##[href^="https://sub2.lapakbuah.site/"]
 ##[href^="https://sub6.kaya303.net/"]
 ##[href^="https://tgks.dev/"]
+##[href^="https://vpn89.site/"]
 ##[href^="https://vpnnawala.site"]
 ##[href^="https://winslots84.com/"]
 ##[href^="https://www.mainrajasatu.com/"]
@@ -222,11 +225,8 @@
 ##[title="PERMATABET88" i]
 ##[title="RAJASLOTO" i]
 ##[title="SRIWIJAYATOTO" i]
-<<<<<<< HEAD
-=======
 ##[title="Slot Gacor" i]
 ##[title="TOGELIN" i]
->>>>>>> 967fc2977f752e1d3f018bdb81f2f553843e4b9e
 ##[title="Texaspoker" i]
 ##[title="Tokped777" i]
 ##[title="totowin" i]
@@ -3754,21 +3754,8 @@
 ##img[alt^="video bokep online" i]
 ##img[alt^="wahana303" i]
 ##img[alt^="ws138" i]
-<<<<<<< HEAD
-##[title="Tokped777" i]
-##[title="Kinggacor" i]
-##[title="DEWAGACOR77" i]
-##[title="RAJASLOTO" i]
-##[title="HOLY789" i]
-##[title="ALTogel" i]
-##[title="DULTogel" i]
-##[title="IPTogel" i]
-##[title="TOGELIN" i]
-##[title="HOKIJP168" i]
-=======
 ##img[href^="http://bokepbet.xyz/"]
 ##img[href^="http://duniavegas88.com/"]
 ##img[href^="http://qqdingdong.com/"]
 ##img[href^="http://www.ovovegas.live/"]
 ##img[href^="https://pakarjackpot.com/"]
->>>>>>> 967fc2977f752e1d3f018bdb81f2f553843e4b9e
