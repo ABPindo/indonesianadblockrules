@@ -22,9 +22,11 @@ detik.com###notification_newsfeed
 ! kompasiana.com - social media floating button
 kompasiana.com##.align-center.floatingWrap
 ! detik.com - 20detik video pop-up (uBlock)
+javmiu.xyz###disclaimer
 idntimes.com##.anchor-button
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
 popbela.com##.css-1lh0foa
 popmama.com##.css-cw25l4
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
-javmiu.xyz###disclaimer
+inews.id##.getawayApp
+kompas.com##.kgnw-middle-ready.kgnw-middle
