@@ -1,7 +1,4 @@
-! Entity filters
-jalantikus.com###beforeDaftarIsimobilead300container00div-gpt-ad-1569380311053-0
-jalantikus.com###betweenParagraphFirstad300container00div-gpt-ad-1569380311053-0
-jalantikus.com###betweenParagraphNewmobilead300container00div-gpt-ad-1569380311053-0
+! Grid.id/IDN networks
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
 popmama.com###wrapper-IDN_MegaBillboard
@@ -10,10 +7,17 @@ grid.id##.clearfix.ads__top-big
 popmama.com##.css-13bgxac
 popmama.com##.css-18h4snj
 popmama.com##.css-6aejgs
+grid.id##.title__default
+! Entity filters
+jalantikus.com###beforeDaftarIsimobilead300container00div-gpt-ad-1569380311053-0
+jalantikus.com###betweenParagraphFirstad300container00div-gpt-ad-1569380311053-0
+jalantikus.com###betweenParagraphNewmobilead300container00div-gpt-ad-1569380311053-0
+hitekno.com##.adds-top.add
+hitekno.com##.banner-ads--big
+hitekno.com##.detail-content > div > .banner-ads--big.placeholder_medium
 herworld.co.id##.footer_sticky
 kompasiana.com##.osmplaceonsite.ads-partner-wrap
 kompas.id##.relative.flex.justify-center.py-2.bg-white
-grid.id##.title__default
 mosaikislam.com##.urutan_artikel
 kompas.id##.w-full.hidden.lg\:flex.bg-grey-10.justify-center.py-3
 kompas.id##.w-full.relative.z-0.flex.flex-1.flex-col.items-stretch.max-w-\[300px\].min-h-\[250px\]
