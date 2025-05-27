@@ -43,8 +43,8 @@ gudangmovies21.*##.sgpb-popup-overlay
 kazefuri.*##.kln
 komikcast.*###teaser3
 komikcast.*###teaser4
-komikcast.*##.kln
-komikindo.*##.gulai_asam_manis
+komikcast.*,komikcast01.*,komikcast02.*,komikindo.*,komikindo1.*,komikindo3.*,komikindo4.*##.gulai_asam_manis
+komikcast.*,komikcast01.*,komikcast02.*,komikindo.*,komikindo1.*,komikindo3.*,komikindo4.*##.kln
 kuramanime.*###aboveDownloadBannerSection
 kuramanime.*###aboveListBannerSection
 kuramanime.*###abovePlayerBannerSection
