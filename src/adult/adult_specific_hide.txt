@@ -1,7 +1,11 @@
 ! Entity filters
+<<<<<<< HEAD
+=======
+>>>>>>> 43f054929b38dca8f173bb60d0563379387fc38e
 agenbokep.*##.popbox
 anoboy.*##[href="https://klik.gg/anoboy"]
 anoboy.*##[href="https://klik.gg/anoboyvip"]
+bokep.pemersatu.top##.ad-container
 drbokep.*##.loaded.ads-50
 dutasex.*###ads
 igobokep.*###floatbanner-bottom
@@ -31,11 +35,6 @@ rumahperjaka.*##.elementor-popup-modal
 sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
-<<<<<<< HEAD
-kingbokep.pro##.\[grid-area\:ads1\]
-bokep.pemersatu.top##.ad-container
-=======
->>>>>>> 43f054929b38dca8f173bb60d0563379387fc38e
 ! Non-entity filters
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink###ads

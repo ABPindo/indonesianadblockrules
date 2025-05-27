@@ -1061,11 +1061,13 @@
 /togelbet.$image,third-party
 /togeldomino.$image,third-party
 /togelin-$domain=image
+/togelin-$image
 /togelin.$image
 /togellounge.$image,third-party
 /togeltoto.$image,third-party
 /tokped777-$image
 /toppoker789.$image,third-party
+/TOTO-TOGEL-$image
 /totobet-$image
 /totobet.$image,third-party
 /totobetnew.gif$image
@@ -3448,6 +3450,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/TOTO-TOGEL-$image
-/tokped777-$image
-/togelin-$image

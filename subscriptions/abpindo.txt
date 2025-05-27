@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505271417
+! Version: 202505271421
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 27 May 2025 14:17 UTC
+! Last modified: 27 May 2025 14:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2899,11 +2899,13 @@ cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 /togelbet.$image,third-party
 /togeldomino.$image,third-party
 /togelin-$domain=image
+/togelin-$image
 /togelin.$image
 /togellounge.$image,third-party
 /togeltoto.$image,third-party
 /tokped777-$image
 /toppoker789.$image,third-party
+/TOTO-TOGEL-$image
 /totobet-$image
 /totobet.$image,third-party
 /totobetnew.gif$image
@@ -9067,9 +9069,13 @@ totojitu.gif|$image
 ||wibufile.com/api/beenv^
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
 ! Entity filters
+<<<<<<< HEAD
+=======
+>>>>>>> 43f054929b38dca8f173bb60d0563379387fc38e
 agenbokep.*##.popbox
 anoboy.*##[href="https://klik.gg/anoboy"]
 anoboy.*##[href="https://klik.gg/anoboyvip"]
+bokep.pemersatu.top##.ad-container
 drbokep.*##.loaded.ads-50
 dutasex.*###ads
 igobokep.*###floatbanner-bottom
