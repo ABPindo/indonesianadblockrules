@@ -259,7 +259,6 @@ lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
 lihat.co.id###iklan-dalam-postingan-300
 tafsirweb.com###iklanACT
-45.12.2.2###iklantengah1
 185.231.223.76###iklap
 185.231.223.76###iklhead
 lk21.web.id###ilang1
@@ -317,8 +316,6 @@ suara.com###pariwara_dua
 eramuslim.com###peluang
 indoxx1.com###player-side-right
 dramamu.net,lk21.io###popup_content
-bgibola.com###popupklan
-bgibola.com###popupklanfooter
 layarxxi.online###popuppress-9119
 tirto.id###premium
 pikiran-rakyat.com###prmn__megabillboard
@@ -469,12 +466,6 @@ kompas.tv##.alert
 indoxtream.com##.aligncenter
 palingseru.com##.alignnone.size-large.wp-image-458
 serialmovieislami.com##.alignnormal
-saudinesia.id##.ane-iklan-billboard
-saudinesia.id##.ane-iklan-box
-saudinesia.id##.ane-iklan-box-paralax
-saudinesia.id##.ane-iklan-container
-saudinesia.id##.ane-iklan-isi
-saudinesia.id##.ane-iklan-longbanner-header
 terasjakarta.id##.animated.ads
 autonetmagz.com##.anm__flying--ads-holder
 jpnn.com##.ans-300x250
@@ -566,8 +557,6 @@ kazefuri.net##.blox
 cosmogirl.co.id##.bnr
 harianjogja.com,solopos.com##.bottom-fix
 kabar24.com##.bottom-frame-banner-close-btn
-idxchannel.com##.bottom-iklan
-idxchannel.com##.bottom-iklan-detail
 kabar24.com##.bottom-leaderboard-cont
 grid.id##.bottom_banner-wrapper.relative
 cnnindonesia.com##.bottom_banner_bar
@@ -674,12 +663,7 @@ bioskop90.com##.headborder:nth-of-type(5)
 kaskus.co.id##.header__kasad
 malaysiakini.com##.hero_adslot
 tafsirweb.com##.hot_deals_green
-saudinesia.id##.iklan-billboard-header
-saudinesia.id##.iklan-billboard-news
-saudinesia.id##.iklan-longbanner-header
 katadata.co.id##.iklan-paralax-wrapper
-saudinesia.id##.iklan-square-news
-nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
 shinigami09.com##.iklannew-container
 dutafilm.cfd,dutafilm.us##.imgbanner
@@ -839,7 +823,6 @@ okezone.com##.skyscrapper
 bisnis.com##.skyscrapper--left
 bisnis.com##.skyscrapper--right
 zigi.id##.slot-iklan
-viva.co.id##.slotiklan
 cnbcindonesia.com,haibunda.com##.smartbanner_new
 hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
