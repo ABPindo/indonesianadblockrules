@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505271108
+! Version: 202505271113
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 27 May 2025 11:08 UTC
+! Last modified: 27 May 2025 11:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1659,7 +1659,6 @@ juragan.film##.popbox
 nomat.top##.popup.show
 viva.co.id##.portlet.sideskycrapper
 kompas.com##.premium_div
-tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 blibli.com##.product__card:has(.product__tag__ads)
 bolasport.com,gridoto.com,kompas.com,kompasiana.com,sonora.id##.pushdown-banner
 otomania.com##.r-ads
@@ -1827,16 +1826,13 @@ katadata.co.id##div:has( > [id^="div-gpt-ad"][class^="paralax"])
 tokopedia.com##div[data-ssr="findProductSSR"]:has(span[data-testid="lblTopads"])
 tokopedia.com##div[data-ssr="findProductSSR"]:has(span[data-testid="linkProductTopads"])
 tokopedia.com##div[data-testid="CPMWrapper"]
-tokopedia.com#?#div[data-testid="divCarouselProduct"]:has(span:-abp-contains(/^Ad$/))
 tokopedia.com##div[data-testid="divProduct"]:has(span[data-testid="icnHomeTopadsRecom"])
 tokopedia.com##div[data-testid="divProductWrapper"]:has(span[data-testid="divSRPTopadsIcon"])
 tokopedia.com##div[data-testid="featuredShopCntr"]
-tokopedia.com#?#div[data-testid="lazy-frame"]:has(span:-abp-contains(/^Ad$/))
 tokopedia.com##div[data-testid="lazy-frame"]:has(span[data-testid="lblProdTopads"])
 tokopedia.com##div[data-testid="master-product-card"]:has(span[data-testid^="linkProductTopads"])
 tokopedia.com##div[data-testid="topadsCPMWrapper"]
 beritaharian.sg##div[data-testid=advertisement-element]
-tokopedia.com#?#div[data-testid^="divProductRecommendation"]:has(span:-abp-contains(/^Ad$/))
 tokopedia.com##div[data-testid^="divProductRecommendation"]:has(span[data-testid="icnHomeTopadsRecom"])
 rasa.my##div[data-ub-carousel]
 139.99.61.225##div[id^="floating_banner_bottom"]
@@ -1863,7 +1859,11 @@ animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 ! ABP-specific filters
+tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
+tokopedia.com#?#div[data-testid="divCarouselProduct"]:has(span:-abp-contains(/^Ad$/))
+tokopedia.com#?#div[data-testid="lazy-frame"]:has(span:-abp-contains(/^Ad$/))
+tokopedia.com#?#div[data-testid^="divProductRecommendation"]:has(span:-abp-contains(/^Ad$/))
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 ! --------------------------- adult ------------------------------!
 ! *** abpindo:src/adult/adult_general_block.txt ***

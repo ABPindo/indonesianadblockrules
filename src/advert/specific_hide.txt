@@ -992,9 +992,9 @@ animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 ! ABP-specific filters
-cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
-cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
-tokopedia.com#?#div[data-testid="lazy-frame"]:has(span:-abp-contains(/^Ad$/))
+cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
 tokopedia.com#?#div[data-testid="divCarouselProduct"]:has(span:-abp-contains(/^Ad$/))
+tokopedia.com#?#div[data-testid="lazy-frame"]:has(span:-abp-contains(/^Ad$/))
 tokopedia.com#?#div[data-testid^="divProductRecommendation"]:has(span:-abp-contains(/^Ad$/))
+cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
