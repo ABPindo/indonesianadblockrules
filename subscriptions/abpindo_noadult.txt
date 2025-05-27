@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505271120
+! Version: 202505271124
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 27 May 2025 11:20 UTC
+! Last modified: 27 May 2025 11:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -533,6 +533,15 @@ oomph.co.id#@#.shareit
 ###adskiri1
 ###adskiri2
 ###adskiri3
+###aiklanatas1
+###aiklanatasd1
+###aiklanheader1
+###aiklanheader2
+###aiklanheader3
+###aiklanheader4
+###aiklanheader5
+###aiklanheader6
+###aiklantengah1
 ###area-iklan-kanan-atas
 ###area-iklan-kiri-atas
 ###banner_iklan_top
@@ -593,6 +602,7 @@ oomph.co.id#@#.shareit
 ###iklanbawah2
 ###iklanbawah3
 ###iklanbawah4
+###iklanfoatingbawah
 ###iklanheader1
 ###iklanheader2
 ###iklanheader3
@@ -607,6 +617,7 @@ oomph.co.id#@#.shareit
 ###iklantengah1
 ###imgiklanatas1
 ###imgiklanatas2
+###imgiklanatasd1
 ###imgiklanbawah1
 ###imgiklanheader1
 ###imgiklanheader2
@@ -929,34 +940,8 @@ kuramanime.*###headerBannerSection
 kuramanime.*###playerOverplay
 kuramanime.*##.floating__footer
 kuramanime.*##[href^="https://s.id/"]
-kuronime.*###aiklanatas1
-kuronime.*###aiklanatasd1
-kuronime.*###aiklanheader1
-kuronime.*###aiklanheader2
-kuronime.*###aiklanheader3
-kuronime.*###aiklanheader4
-kuronime.*###aiklanheader5
-kuronime.*###aiklanheader6
-kuronime.*###aiklantengah1
-kuronime.*###iklanatas1
-kuronime.*###iklanatas2
-kuronime.*###iklanatas3
-kuronime.*###iklanatas4
-kuronime.*###iklanbawah1
-kuronime.*###iklanbawah2
-kuronime.*###iklanbawah3
-kuronime.*###iklanbawah4
-kuronime.*###iklanfoatingbawah
-kuronime.*###iklanside1
-kuronime.*###iklanside2
-kuronime.*###imgiklanatas1
-kuronime.*###imgiklanatasd1
-kuronime.*###imgiklanheader1
-kuronime.*###imgiklanheader2
-kuronime.*###imgiklantengah1
 kuronime.*###overplay
 kuronime.*##.box_item_berlangganan_popup
-kuronime.*##.iklantengah1
 kuronime.*##.kln
 kuronime.*##.pd-ads
 layarkaca21.*###fbanner
