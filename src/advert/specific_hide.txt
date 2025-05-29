@@ -1,4 +1,5 @@
 ! Entity filters
+tvonenews.com##.content_center.mobile-only.sticky-bottom.slotiklan-320x100
 jalantikus.com###beforeDaftarIsimobilead300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphFirstad300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphNewmobilead300container00div-gpt-ad-1569380311053-0
