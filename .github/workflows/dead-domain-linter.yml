@@ -38,14 +38,14 @@ jobs:
     - name: Check and export dead domains
       run: |
         dead-domains-linter -i $GITHUB_WORKSPACE/subscriptions/abpindo.txt --export=$GITHUB_WORKSPACE/src/dead_domains.txt
-      # Commit and push only the changed file
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/dead_domains.txt
-          git commit -m "Auto-Build"
-          git push
-        continue-on-error: true
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add src/dead_domains.txt
+        git commit -m "Auto-Build"
+        git push
+      continue-on-error: true
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
