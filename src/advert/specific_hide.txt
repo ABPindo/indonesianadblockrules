@@ -943,7 +943,7 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:ha
 ! Grid.id/IDN networks, must be updated regularly
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
-popmama.com###wrapper-IDN_MegaBillboard
+popmama.com,popbela.com###wrapper-IDN_MegaBillboard
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id##.clearfix.ads__top-big
 popmama.com###content-IDN_MegaBillboard2
