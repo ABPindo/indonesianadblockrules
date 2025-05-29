@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505292150
+! Version: 202505292152
 ! Title: ABPindo Extended
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, ditambah filter elemen UI yang mengganggu seperti popup/overlay non iklan atau pemutar video otomatis dan domain yang mungkin bisa muncul kembali.
-! Last modified: 29 May 2025 21:50 UTC
+! Last modified: 29 May 2025 21:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9829,6 +9829,7 @@ detik.com###notification_newsfeed
 ! kompasiana.com - social media floating button
 kompasiana.com##.align-center.floatingWrap
 ! detik.com - 20detik video pop-up (uBlock)
+tvonenews.com###btt
 javmiu.xyz###disclaimer
 idntimes.com##.anchor-button
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
