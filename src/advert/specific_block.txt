@@ -1,4 +1,4 @@
-||www.tempo.co/_ipx/_/close.png
+||tempo.co/_ipx/_/close.png
 .gif^$image,domain=maroonbellsmorris.org
 /gif-*.webm^$image,domain=maroonbellsmorris.org
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
