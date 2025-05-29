@@ -1,11 +1,11 @@
 ! Entity filters
-narasi.tv##.cursor-pointer.ml-auto.w-fit.bg-\[\#e3e3e3\].justify-center.items-center.flex.right-2.top-2.absolute > .h-4.w-4.icon
 jalantikus.com###beforeDaftarIsimobilead300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphFirstad300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphNewmobilead300container00div-gpt-ad-1569380311053-0
 hitekno.com##.adds-top.add
 hitekno.com##.banner-ads--big
 tvonenews.com##.content_center.mobile-only.sticky-bottom.slotiklan-320x100
+narasi.tv##.cursor-pointer.ml-auto.w-fit.bg-\[\#e3e3e3\].justify-center.items-center.flex.right-2.top-2.absolute > .h-4.w-4.icon
 hitekno.com##.detail-content > div > .banner-ads--big.placeholder_medium
 herworld.co.id##.footer_sticky
 tempo.co##.lg\:hidden.mx-auto.container.h-\[140px\].lg\:w-full.overflow-clip.bg-neutral-300
