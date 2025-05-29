@@ -24,6 +24,7 @@ kompasiana.com##.align-center.floatingWrap
 ! detik.com - 20detik video pop-up (uBlock)
 tvonenews.com###btt
 javmiu.xyz###disclaimer
+antaranews.com###scroll-top
 idntimes.com##.anchor-button
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
 popbela.com##.css-1lh0foa
@@ -31,5 +32,4 @@ popmama.com##.css-cw25l4
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
 inews.id##.getawayApp
 kompas.com##.kgnw-middle-ready.kgnw-middle
-antaranews.com###scroll-top
 insertlive.com##.smartbanner_new
