@@ -31,3 +31,4 @@ detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
 inews.id##.getawayApp
 kompas.com##.kgnw-middle-ready.kgnw-middle
 tvonenews.com###btt
+insertlive.com##.smartbanner_new
