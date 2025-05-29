@@ -1,4 +1,3 @@
-||tempo.co/_ipx/_/close.png
 .gif^$image,domain=maroonbellsmorris.org
 /gif-*.webm^$image,domain=maroonbellsmorris.org
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
@@ -179,6 +178,7 @@
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||tajir.la/komikcast$popup
 ||tempo.co/*/img/temporary/ads/$image
+||tempo.co/_ipx/_/close.png
 ||tempo.co/webtorial/like/remodal
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
 ||tribunnews.com/stylesheets/close.gif
