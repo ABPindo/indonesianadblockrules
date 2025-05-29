@@ -944,19 +944,19 @@ animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 ! Grid.id/IDN networks, must be updated regularly
+popmama.com###content-IDN_MegaBillboard2
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
-popmama.com,popbela.com###wrapper-IDN_MegaBillboard
+popbela.com,popmama.com###wrapper-IDN_MegaBillboard
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id##.clearfix.ads__top-big
-popmama.com###content-IDN_MegaBillboard2
-grid.id##.title__default
-popmama.com,popbela.com##.css-urr7k6
-popmama.com,popbela.com##.css-1elofja
-popmama.com,popbela.com##.css-1hajl86
-popmama.co,popbela.comm##.css-t1oq30
 popbela.com##.css-1e66tux
+popbela.com,popmama.com##.css-1elofja
 popbela.com##.css-1h4x27n
+popbela.com,popmama.com##.css-1hajl86
+popbela.comm,popmama.co##.css-t1oq30
+popbela.com,popmama.com##.css-urr7k6
+grid.id##.title__default
 idntimes.com##.wrapper-megabillboard
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
