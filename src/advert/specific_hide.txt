@@ -949,6 +949,10 @@ grid.id##.clearfix.ads__top-big
 popmama.com##.css-13bgxac
 popmama.com##.css-18h4snj
 popmama.com##.css-6aejgs
+popmama.com###content-IDN_MegaBillboard2
+popmama.com##.css-urr7k6
+popmama.com##.css-1elofja
+popmama.com##.css-1hajl86
 grid.id##.title__default
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
