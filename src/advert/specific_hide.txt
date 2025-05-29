@@ -34,7 +34,7 @@ bioskopkeren.*###top-banner
 bioskopkeren.*##.ad_slot
 popmama.com##div#ads-infeed.css-1sg3kbb:nth-of-type(2)
 popmama.com##div#ads-infeed.css-1sg3kbb:nth-of-type(9)
-herworld.co.id##div.ads-belt:nth-of-type(1)
+herworld.co.id##div.ads-belt
 bolasport.com,grid.id##div.ads-inf-box
 bolasport.com##div.content_footer--list:nth-of-type(2)
 filmapik.*##.ads
