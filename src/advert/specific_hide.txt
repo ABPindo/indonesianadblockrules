@@ -1,9 +1,9 @@
 ! Entity filters
-kilat.com##.ads--stick-parent-400px.clearfix.mt3.ads
 jalantikus.com###beforeDaftarIsimobilead300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphFirstad300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphNewmobilead300container00div-gpt-ad-1569380311053-0
 hitekno.com##.adds-top.add
+kilat.com##.ads--stick-parent-400px.clearfix.mt3.ads
 hitekno.com##.banner-ads--big
 tvonenews.com##.content_center.mobile-only.sticky-bottom.slotiklan-320x100
 narasi.tv##.cursor-pointer.ml-auto.w-fit.bg-\[\#e3e3e3\].justify-center.items-center.flex.right-2.top-2.absolute > .h-4.w-4.icon
