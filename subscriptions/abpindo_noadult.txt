@@ -1825,20 +1825,24 @@ animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 ! Grid.id/IDN networks, must be updated regularly
-popmama.com###content-IDN_MegaBillboard2
+popbela.com,popmama.com###IDN_MegaBillboard
+popbela.com,popmama.com###IDN_MegaBillboard2
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
-popbela.com,popmama.com###wrapper-IDN_MegaBillboard
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id##.clearfix.ads__top-big
 popbela.com##.css-1e66tux
 popbela.com,popmama.com##.css-1elofja
 popbela.com##.css-1h4x27n
 popbela.com,popmama.com##.css-1hajl86
+popbela.com,popmama.com##.css-1wq0q65
+popbela.com##.css-74lpfn
 popbela.comm,popmama.co##.css-t1oq30
 popbela.com,popmama.com##.css-urr7k6
 grid.id##.title__default
 idntimes.com##.wrapper-megabillboard
+popbela.com##div#ads-infeed.css-1sg3kbb
+popbela.com##div#ads-infeed.css-6aejgs
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
