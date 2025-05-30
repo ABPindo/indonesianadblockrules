@@ -1,10 +1,10 @@
-||1cak.com/shopee
 .gif^$image,domain=maroonbellsmorris.org
 /gif-*.webm^$image,domain=maroonbellsmorris.org
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
 ||188.166.197.120^$popup,third-party
+||1cak.com/shopee
 ||65.108.132.145/wp-content/uploads/*.gif$image,~third-party
 ||adsafelink.com/js/webscript.js$script,third-party
 ||angel.exabytes.com.my/banners/
