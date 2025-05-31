@@ -74,6 +74,9 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+beritasatu.com###botAds
+beritasatu.com##.gam-ads
+beritasatu.com##.underlay-ad-text-box
 pikiran-rakyat.com##.prads
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
