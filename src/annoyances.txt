@@ -35,6 +35,7 @@ popbela.com##.css-1lh0foa
 yummy.co.id##.css-1yxywc5
 popmama.com##.css-cw25l4
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
+liputan6.com##.gateway__mobile-app
 inews.id##.getawayApp
 kompas.com##.kgnw-middle-ready.kgnw-middle
 bobo.grid.id,bolasport.com##.mb10.text-center.row
@@ -43,4 +44,3 @@ hukumonline.com##.product-header
 xl.co.id##.sc-concent
 insertlive.com##.smartbanner_new
 quran.nu.or.id##.w-full.relative
-liputan6.com##.gateway__mobile-app
