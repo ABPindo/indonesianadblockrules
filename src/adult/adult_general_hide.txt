@@ -66,6 +66,7 @@
 ##[href$="/filmlokal" i]
 ##[href$="/forslotindo" i]
 ##[href$="/gacorbokep" i]
+##[href$="/gobetasia"]
 ##[href$="/gudangselot" i]
 ##[href$="/hdpbet" i]
 ##[href$="/hokibet99"]
@@ -3759,4 +3760,3 @@
 ##img[href^="http://qqdingdong.com/"]
 ##img[href^="http://www.ovovegas.live/"]
 ##img[href^="https://pakarjackpot.com/"]
-##[href$="/gobetasia"]
