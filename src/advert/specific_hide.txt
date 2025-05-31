@@ -1,5 +1,4 @@
 ! Entity filters
-beritasatu.com##.py-1
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
@@ -15,6 +14,7 @@ anoboy.*##[href^="https://bit.ly/"]
 baladfilm.*###floating_banner_top1
 baladfilm.*##.inner-floatbanner-bottom
 baladfilm.*##[href^="https://bit.ly/"]
+beritasatu.com##.py-1
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
