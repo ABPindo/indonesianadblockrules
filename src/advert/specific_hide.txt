@@ -73,6 +73,8 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+bolasport.com##.ads__boxr
+bolasport.com##.ads__side
 idbioskop.com##.mag-adver-part
 hitekno.com##.wrap-ads-leaderboard
 ceklissatu.com##.billboard
