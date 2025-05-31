@@ -73,6 +73,16 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+cantika.com##.width-ads
+cantika.com##.container-ads-billboard
+cantika.com##.width-ads-leader
+cantika.com##.ads-full
+cantika.com##.ads-side-600
+cantika.com##.ads-side-250
+cantika.com##.inner-ads-content-1
+cantika.com##.ikln
+cantika.com##.banner300x600
+cantika.com##.ads-content-2
 beritasiber.com##.ads-parallax
 beritasiber.com##.sticky-ads-bottom
 beritasiber.com##.parallaxads-box
