@@ -102,7 +102,6 @@ local-zone: "adeumssp.com" always_nxdomain
 local-zone: "afbcashidr.com" always_nxdomain
 local-zone: "auredzeon.com" always_nxdomain
 local-zone: "craydark.pw" always_nxdomain
-local-zone: "curoax.com" always_nxdomain
 local-zone: "dairouzy.net" always_nxdomain
 local-zone: "doathair.com" always_nxdomain
 local-zone: "edomz.com" always_nxdomain
@@ -119,8 +118,6 @@ local-zone: "qprskl.com" always_nxdomain
 local-zone: "realwap.net" always_nxdomain
 local-zone: "ueuodgnrhb.com" always_nxdomain
 local-zone: "vkwaeo.com" always_nxdomain
-local-zone: "wpiohdquqo.com" always_nxdomain
-local-zone: "wpiohdquqo.com" always_nxdomain
 local-zone: "xihubo.click" always_nxdomain
 local-zone: "yllix.com" always_nxdomain
 local-zone: "zukxd6fkxqn.com" always_nxdomain
@@ -140,6 +137,7 @@ local-zone: "172.105.216.174" always_nxdomain
 local-zone: "32redpoker.com" always_nxdomain
 local-zone: "88togel.com" always_nxdomain
 local-zone: "actionpoker.com" always_nxdomain
+local-zone: "ads.save21.site" always_nxdomain
 local-zone: "afapoker.com" always_nxdomain
 local-zone: "afapoker.com" always_nxdomain
 local-zone: "agenjudibolabet.com" always_nxdomain
@@ -152,7 +150,6 @@ local-zone: "arenajudi.com" always_nxdomain
 local-zone: "asiapoker777.com" always_nxdomain
 local-zone: "astonwin.org" always_nxdomain
 local-zone: "bandarjuditogel.com" always_nxdomain
-local-zone: "baron777py.com" always_nxdomain
 local-zone: "bbm88.org" always_nxdomain
 local-zone: "bebasjudi.com" always_nxdomain
 local-zone: "belitogel.com" always_nxdomain
@@ -161,13 +158,10 @@ local-zone: "biotogel.com" always_nxdomain
 local-zone: "blindbetpoker.com" always_nxdomain
 local-zone: "blogjudi.com" always_nxdomain
 local-zone: "bursajudibola.com" always_nxdomain
-local-zone: "caramainjudibola.com" always_nxdomain
 local-zone: "caramenangtaruhanbola.com" always_nxdomain
 local-zone: "caramenangtogel.com" always_nxdomain
 local-zone: "casinoclubpoker.com" always_nxdomain
 local-zone: "cdpoker.com" always_nxdomain
-local-zone: ".gif" always_nxdomain
-local-zone: "cds.bet" always_nxdomain
 local-zone: "celebpoker.com" always_nxdomain
 local-zone: "chilipoker.com" always_nxdomain
 local-zone: "clickadu.com" always_nxdomain
@@ -209,7 +203,6 @@ local-zone: "judibola.com" always_nxdomain
 local-zone: "judibolaterbesar.com" always_nxdomain
 local-zone: "judionlinebet.com" always_nxdomain
 local-zone: "judionlinepoker.com" always_nxdomain
-local-zone: "k7poker.com" always_nxdomain
 local-zone: "kedaijudi.com" always_nxdomain
 local-zone: "kingtogel.com" always_nxdomain
 local-zone: "launchpoker.com" always_nxdomain
@@ -218,7 +211,6 @@ local-zone: "lazacasino.com" always_nxdomain
 local-zone: "lintastogel.com" always_nxdomain
 local-zone: "lotospoker.com" always_nxdomain
 local-zone: "luckyriverpoker.com" always_nxdomain
-local-zone: "mansion777y.store" always_nxdomain
 local-zone: "mansionpoker.com" always_nxdomain
 local-zone: "markastogel.com" always_nxdomain
 local-zone: "masterjudi.blog.com" always_nxdomain
@@ -242,7 +234,6 @@ local-zone: "onlinepoker66.com" always_nxdomain
 local-zone: "onlinetogel.com" always_nxdomain
 local-zone: "pacificpoker.com" always_nxdomain
 local-zone: "pandujudionline.com" always_nxdomain
-local-zone: "pasangtogelonline.com" always_nxdomain
 local-zone: "planettoto.com" always_nxdomain
 local-zone: "playpokeronline.com" always_nxdomain
 local-zone: "playwinpoker.com" always_nxdomain
@@ -273,7 +264,6 @@ local-zone: "prediksitoptogel.com" always_nxdomain
 local-zone: "pusatjudibola.com" always_nxdomain
 local-zone: "pusattaruhan.com" always_nxdomain
 local-zone: "rajapoker88.com" always_nxdomain
-local-zone: "rajatogel.biz" always_nxdomain
 local-zone: "rajatogel.com" always_nxdomain
 local-zone: "rajatoto.com" always_nxdomain
 local-zone: "recentpoker.com" always_nxdomain
@@ -283,12 +273,9 @@ local-zone: "rivapoker.com" always_nxdomain
 local-zone: "rumah-judi.com" always_nxdomain
 local-zone: "rumahtaruhan88.com" always_nxdomain
 local-zone: "semarangtogel.com" always_nxdomain
-local-zone: "sgptogel.com" always_nxdomain
 local-zone: "sharkpokertour.com" always_nxdomain
-local-zone: "shiotogel4dk.art" always_nxdomain
 local-zone: "situsagenjudi.com" always_nxdomain
 local-zone: "situstaruhan.com" always_nxdomain
-local-zone: "situstogelonline.com" always_nxdomain
 local-zone: "star88win.net" always_nxdomain
 local-zone: "sunpoker.com" always_nxdomain
 local-zone: "surgajudi.com" always_nxdomain
@@ -297,7 +284,6 @@ local-zone: "taruhanbetting.com" always_nxdomain
 local-zone: "taruhancasino.com" always_nxdomain
 local-zone: "taruhanku.com" always_nxdomain
 local-zone: "taruhanolahraga.com" always_nxdomain
-local-zone: "taruhansepakbola.com" always_nxdomain
 local-zone: "texaspokercc.com" always_nxdomain
 local-zone: "theedgepoker.com" always_nxdomain
 local-zone: "togel2.xtgem.com" always_nxdomain

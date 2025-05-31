@@ -102,7 +102,6 @@ local-zone: "adeumssp.com" always_nxdomain
 local-zone: "afbcashidr.com" always_nxdomain
 local-zone: "auredzeon.com" always_nxdomain
 local-zone: "craydark.pw" always_nxdomain
-local-zone: "curoax.com" always_nxdomain
 local-zone: "dairouzy.net" always_nxdomain
 local-zone: "doathair.com" always_nxdomain
 local-zone: "edomz.com" always_nxdomain
@@ -119,8 +118,6 @@ local-zone: "qprskl.com" always_nxdomain
 local-zone: "realwap.net" always_nxdomain
 local-zone: "ueuodgnrhb.com" always_nxdomain
 local-zone: "vkwaeo.com" always_nxdomain
-local-zone: "wpiohdquqo.com" always_nxdomain
-local-zone: "wpiohdquqo.com" always_nxdomain
 local-zone: "xihubo.click" always_nxdomain
 local-zone: "yllix.com" always_nxdomain
 local-zone: "zukxd6fkxqn.com" always_nxdomain
