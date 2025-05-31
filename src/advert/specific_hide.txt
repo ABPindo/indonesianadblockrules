@@ -73,6 +73,8 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+ceklissatu.com##.billboard
+ceklissatu.com##.banner
 cantika.com##.width-ads
 cantika.com##.container-ads-billboard
 cantika.com##.width-ads-leader
