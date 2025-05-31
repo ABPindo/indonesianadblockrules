@@ -73,6 +73,8 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+bacasaja.id##.no_auto_ads
+bacasaja.id##.w-100.gbrNews
 bangsaku.co###sidebar-banner-bawah
 beritatotabuan.com##.newkarma-core-topbanner
 blog.arizman.com##.iklan-kiri-postingan

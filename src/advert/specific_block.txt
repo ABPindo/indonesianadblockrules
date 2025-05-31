@@ -1,4 +1,5 @@
 .gif^$image,domain=maroonbellsmorris.org
+||bacasaja.id/assets/img/ad_banner.webp$image
 /gif-*.webm^$image,domain=maroonbellsmorris.org
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
