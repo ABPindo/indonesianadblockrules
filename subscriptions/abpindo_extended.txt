@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505312212
+! Version: 202505312213
 ! Title: ABPindo Extended
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, ditambah filter elemen UI yang mengganggu seperti popup/overlay non iklan atau pemutar video otomatis dan domain yang mungkin bisa muncul kembali.
-! Last modified: 31 May 2025 22:12 UTC
+! Last modified: 31 May 2025 22:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9856,6 +9856,14 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||yoyopoker.net^$popup
 ! --------------------------- Annoyances ------------------------------!
 ! *** abpindo:src/annoyances.txt ***
+! Grid/IDN Networks, must he updated regularly
+grid.id###buttonGridstore
+idntimes.com##.anchor-button
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1lh0foa
+popmama.com##.css-cw25l4
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-urr7k6
+bobo.grid.id,bolasport.com##.mb10.text-center.row
+haibunda.com##.mt-\[65px\].duration-700.ease-in.right-0.left-0.z-\[12345\].top-0.fixed.shadow-lg.rounded-md.p-2.text-hb-black.bg-white.m-auto.h-auto.w-\[330px\].pushnotif
 ! cnnindonesia.com - Live TV Pop-Up #687
 cnnindonesia.com##.bottom-\[50px\].left-0.z-\[90\].fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
 ! detik.com - recommended video pop-up #683
@@ -9870,10 +9878,6 @@ kompas.com##.gate-kgplus
 kompas.com##.kgnw-player
 ! tribunnews.com - recommended next article slide banner
 tribunnews.com##.desk-bannerslide
-! grid.id - self-promotion
-grid.id###buttonGridstore
-! haibunda.com - enable notification banner
-haibunda.com##.mt-\[65px\].duration-700.ease-in.right-0.left-0.z-\[12345\].top-0.fixed.shadow-lg.rounded-md.p-2.text-hb-black.bg-white.m-auto.h-auto.w-\[330px\].pushnotif
 ! detik.com - news reload notification
 detik.com###notification_newsfeed
 ! kompasiana.com - social media floating button
@@ -9882,7 +9886,6 @@ kompasiana.com##.align-center.floatingWrap
 tvonenews.com###btt
 javmiu.xyz###disclaimer
 antaranews.com###scroll-top
-idntimes.com##.anchor-button
 hariantimes.com##.banner-content
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
 borneotrend.com##.cookie-consent
@@ -9895,7 +9898,6 @@ detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
 liputan6.com##.gateway__mobile-app
 inews.id##.getawayApp
 kompas.com##.kgnw-middle-ready.kgnw-middle
-bobo.grid.id,bolasport.com##.mb10.text-center.row
 hukumonline.com##.my-2.d-flex.ps-ads-banner
 hukumonline.com##.product-header
 xl.co.id##.sc-concent

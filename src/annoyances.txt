@@ -1,12 +1,12 @@
 ! Title: ABPindo – Annoyances
 ! Grid/IDN Networks, must he updated regularly
-duniaku.idntimes.com,popbela.com,popmama.com,ggwp.id,fortuneidn.com##.css-1lh0foa
-duniaku.idntimes.com,popbela.com,popmama.com,ggwp.id,fortuneidn.com##.css-urr7k6
-popmama.com##.css-cw25l4
 grid.id###buttonGridstore
-haibunda.com##.mt-\[65px\].duration-700.ease-in.right-0.left-0.z-\[12345\].top-0.fixed.shadow-lg.rounded-md.p-2.text-hb-black.bg-white.m-auto.h-auto.w-\[330px\].pushnotif
-bobo.grid.id,bolasport.com##.mb10.text-center.row
 idntimes.com##.anchor-button
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1lh0foa
+popmama.com##.css-cw25l4
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-urr7k6
+bobo.grid.id,bolasport.com##.mb10.text-center.row
+haibunda.com##.mt-\[65px\].duration-700.ease-in.right-0.left-0.z-\[12345\].top-0.fixed.shadow-lg.rounded-md.p-2.text-hb-black.bg-white.m-auto.h-auto.w-\[330px\].pushnotif
 ! cnnindonesia.com - Live TV Pop-Up #687
 cnnindonesia.com##.bottom-\[50px\].left-0.z-\[90\].fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
 ! detik.com - recommended video pop-up #683
