@@ -972,23 +972,23 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:ha
 ! Grid.id/IDN networks, must be updated regularly
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
-popbela.com,popmama.com###wrapper-IDN_MegaBillboard
-popbela.com,popmama.com###wrapper-IDN_MegaBillboard2
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id##.clearfix.ads__top-big
-popbela.com,popmama.com##.css-13bgxac
-popbela.com,popmama.com##.css-1e66tux
-popbela.com,popmama.com##.css-1elofja
-popbela.com,popmama.com##.css-1h4x27n
-popbela.com,popmama.com##.css-1hajl86
-popbela.com,popmama.com##.css-1wq0q65
-popbela.com,popmama.com##.css-74lpfn
-popbela.com,popmama.co##.css-t1oq30
-popbela.com,popmama.com##.css-urr7k6
 grid.id##.title__default
 idntimes.com##.wrapper-megabillboard
-popbela.com,popmama.com##div#ads-infeed.css-1sg3kbb
-popbela.com,popmama.com##div#ads-infeed.css-6aejgs
+fortuneidn,ggwp.id,popbela.com,popmama.com###wrapper-IDN_MegaBillboard
+fortuneidn,ggwp.id,popbela.com,popmama.com###wrapper-IDN_MegaBillboard2
+fortuneidn,ggwp.id,fortuneidn,ggwp.id,popbela.com,popmama.com##.css-13bgxac
+fortuneidn,ggwp.id,popbela.com,popmama.com##.css-1e66tux
+fortuneidn,ggwp.id,popbela.com,popmama.com##.css-1elofja
+fortuneidn,ggwp.id,popbela.com,popmama.com##.css-1h4x27n
+fortuneidn,ggwp.id,popbela.com,popmama.com##.css-1hajl86
+fortuneidn,ggwp.id,popbela.com,popmama.com##.css-1wq0q65
+fortuneidn,ggwp.id,popbela.com,popmama.com##.css-74lpfn
+fortuneidn,ggwp.id,popbela.com,popmama.co##.css-t1oq30
+fortuneidn,ggwp.id,popbela.com,popmama.com##.css-urr7k6
+fortuneidn,ggwp.id,popbela.com,popmama.com##div#ads-infeed.css-1sg3kbb
+fortuneidn,ggwp.id,popbela.com,popmama.com##div#ads-infeed.css-6aejgs
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
