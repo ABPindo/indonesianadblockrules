@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505312213
+! Version: 202505312240
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 31 May 2025 22:13 UTC
+! Last modified: 31 May 2025 22:40 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1529,7 +1529,9 @@ cantika.com##.ikln
 dutafilm.cfd,dutafilm.us##.imgbanner
 animeindo.video,animeindo.web.id##.in_up_ad-area
 cantika.com##.inner-ads-content-1
+mydramalist.com##.is-mrtmt2522.mrtmf2522
 tafsirweb.com##.is-resized.size-large.aligncenter
+mydramalist.com##.is-zmqft2522.zmqff2522
 gridoto.com##.js-ads-stick
 motorplus-online.com,sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
 tempo.co##.justify-center.gap-2.flex.text-xs.text-neutral-900
