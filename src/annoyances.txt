@@ -27,6 +27,7 @@ javmiu.xyz###disclaimer
 antaranews.com###scroll-top
 idntimes.com##.anchor-button
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
+sasa.co.id##.cookie_consent
 popbela.com##.css-1lh0foa
 popmama.com##.css-cw25l4
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
@@ -36,4 +37,3 @@ bobo.grid.id,bolasport.com##.mb10.text-center.row
 hukumonline.com##.my-2.d-flex.ps-ads-banner
 hukumonline.com##.product-header
 insertlive.com##.smartbanner_new
-sasa.co.id##.cookie_consent
