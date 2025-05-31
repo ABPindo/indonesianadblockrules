@@ -1,7 +1,4 @@
 ! Entity filters
-<<<<<<< HEAD
-=======
->>>>>>> 43f054929b38dca8f173bb60d0563379387fc38e
 agenbokep.*##.popbox
 anoboy.*##[href="https://klik.gg/anoboy"]
 anoboy.*##[href="https://klik.gg/anoboyvip"]
