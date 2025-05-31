@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505312211
+! Version: 202505312212
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 31 May 2025 22:11 UTC
+! Last modified: 31 May 2025 22:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1855,23 +1855,23 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:ha
 ! Grid.id/IDN networks, must be updated regularly
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
-popbela.com,popmama.com###wrapper-IDN_MegaBillboard
-popbela.com,popmama.com###wrapper-IDN_MegaBillboard2
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com###wrapper-IDN_MegaBillboard
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com###wrapper-IDN_MegaBillboard2
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id##.clearfix.ads__top-big
-popbela.com,popmama.com##.css-13bgxac
-popbela.com,popmama.com##.css-1e66tux
-popbela.com,popmama.com##.css-1elofja
-popbela.com,popmama.com##.css-1h4x27n
-popbela.com,popmama.com##.css-1hajl86
-popbela.com,popmama.com##.css-1wq0q65
-popbela.com,popmama.com##.css-74lpfn
-popbela.com,popmama.co##.css-t1oq30
-popbela.com,popmama.com##.css-urr7k6
+duniaku.idntimes.com,fortuneidn,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-13bgxac
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1e66tux
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1elofja
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1h4x27n
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1hajl86
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1wq0q65
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-74lpfn
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.co##.css-t1oq30
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-urr7k6
 grid.id##.title__default
 idntimes.com##.wrapper-megabillboard
-popbela.com,popmama.com##div#ads-infeed.css-1sg3kbb
-popbela.com,popmama.com##div#ads-infeed.css-6aejgs
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##div#ads-infeed.css-1sg3kbb
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##div#ads-infeed.css-6aejgs
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)

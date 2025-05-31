@@ -973,13 +973,11 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:ha
 ! Grid.id/IDN networks, must be updated regularly
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
-grid.id##.ads-partner-wrap.osmplaceonsite
-grid.id##.clearfix.ads__top-big
-grid.id##.title__default
-idntimes.com##.wrapper-megabillboard
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com###wrapper-IDN_MegaBillboard
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com###wrapper-IDN_MegaBillboard2
-duniaku.idntimes.com,fortuneidn.com,ggwp.id,fortuneidn,ggwp.id,popbela.com,popmama.com##.css-13bgxac
+grid.id##.ads-partner-wrap.osmplaceonsite
+grid.id##.clearfix.ads__top-big
+duniaku.idntimes.com,fortuneidn,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-13bgxac
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1e66tux
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1elofja
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1h4x27n
@@ -988,6 +986,8 @@ duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1wq0q6
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-74lpfn
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.co##.css-t1oq30
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-urr7k6
+grid.id##.title__default
+idntimes.com##.wrapper-megabillboard
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##div#ads-infeed.css-1sg3kbb
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##div#ads-infeed.css-6aejgs
 ! ABP-specific filters
