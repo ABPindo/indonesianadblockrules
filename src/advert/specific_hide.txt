@@ -73,6 +73,7 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+blog.arizman.com##.iklan-kiri-postingan
 bk21.top###floating_banner_bottom
 bandunginsider.com##.clearfix.mt3.ads
 bandungberita.com##.gmr-floatbanner
