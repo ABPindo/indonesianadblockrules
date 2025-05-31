@@ -73,6 +73,7 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+aspirasiku.id##.clearfix.mt3.ads
 bacasaja.id##.no_auto_ads
 bacasaja.id##.w-100.gbrNews
 bangsaku.co###sidebar-banner-bawah
