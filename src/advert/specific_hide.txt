@@ -74,6 +74,8 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+klubpria.com##.stickyunit
+klubpria.com##.enright
 inibaru.id##.ib_ads_sticky
 inibaru.id##.ib_ads_square
 inakoran.com##.ads-mid-lg
