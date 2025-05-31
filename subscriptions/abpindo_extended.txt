@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505310644
+! Version: 202505310645
 ! Title: ABPindo Extended
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, ditambah filter elemen UI yang mengganggu seperti popup/overlay non iklan atau pemutar video otomatis dan domain yang mungkin bisa muncul kembali.
-! Last modified: 31 May 2025 06:44 UTC
+! Last modified: 31 May 2025 06:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -5644,6 +5644,7 @@ totojitu.gif|$image
 ##[href$="/filmlokal" i]
 ##[href$="/forslotindo" i]
 ##[href$="/gacorbokep" i]
+##[href$="/gobetasia"]
 ##[href$="/gudangselot" i]
 ##[href$="/hdpbet" i]
 ##[href$="/hokibet99"]
@@ -9419,6 +9420,7 @@ gadismalam.net###semprot_ads_side_left
 gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
+dicrotin.info###sgpb-popup-dialog-main-div-wrapper
 bokepvir.org###sticky-banner
 bk21.yachts,heppinn.id,kanzenin.xyz,komik18.art,komikcast02.com,komikdewasa.art,komikdewasa.me,komikmanhwa.me,kumapoi.me,manhwaindo.cfd,manhwaindo.me,pemersatu.link###teaser3
 hencop.lol,komikcast02.com###teaser4
@@ -9458,7 +9460,7 @@ agenbokep.co##.popbox
 buahmangga.com,semprot.com##.popup-cr7
 sebokep.com##.sg-popup-builder-content
 sebokep.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
-sebokep.com##.sgpb-popup-overlay
+dicrotin.info,sebokep.com##.sgpb-popup-overlay
 nomat.fun##.show.popup
 kiyowo.icu,kiyowo.sbs,onlyvid.icu,sintube.icu,starjepang.live##.teaser3
 207.244.225.48##.underlay

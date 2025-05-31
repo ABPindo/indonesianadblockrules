@@ -33,8 +33,6 @@ sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
 ! Non-entity filters
-dicrotin.info###sgpb-popup-dialog-main-div-wrapper
-dicrotin.info##.sgpb-popup-overlay
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.top,inibokep.bet,malemjumat.ink###ads
 pemersatufun.com###advertisement
@@ -61,6 +59,7 @@ gadismalam.net###semprot_ads_side_left
 gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
+dicrotin.info###sgpb-popup-dialog-main-div-wrapper
 bokepvir.org###sticky-banner
 bk21.yachts,heppinn.id,kanzenin.xyz,komik18.art,komikcast02.com,komikdewasa.art,komikdewasa.me,komikmanhwa.me,kumapoi.me,manhwaindo.cfd,manhwaindo.me,pemersatu.link###teaser3
 hencop.lol,komikcast02.com###teaser4
@@ -100,7 +99,7 @@ agenbokep.co##.popbox
 buahmangga.com,semprot.com##.popup-cr7
 sebokep.com##.sg-popup-builder-content
 sebokep.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
-sebokep.com##.sgpb-popup-overlay
+dicrotin.info,sebokep.com##.sgpb-popup-overlay
 nomat.fun##.show.popup
 kiyowo.icu,kiyowo.sbs,onlyvid.icu,sintube.icu,starjepang.live##.teaser3
 207.244.225.48##.underlay
