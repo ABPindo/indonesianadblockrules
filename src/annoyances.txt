@@ -33,7 +33,12 @@ hariantimes.com##.banner-content
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
 borneotrend.com##.cookie-consent
 sasa.co.id##.cookie_consent
+yummy.co.id##.css-15k19pw.chakra-button
+popbela.com##.css-1lh0foa
+yummy.co.id##.css-1yxywc5
+popmama.com##.css-cw25l4
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
+liputan6.com##.gateway__mobile-app
 inews.id##.getawayApp
 kompas.com##.kgnw-middle-ready.kgnw-middle
 hukumonline.com##.my-2.d-flex.ps-ads-banner
