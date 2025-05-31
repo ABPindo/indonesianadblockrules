@@ -73,6 +73,9 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+arahpandang.com##.ads--stick-parent
+arahpandang.com##.ads--stick-parent-250px
+arahpandang.com##.clearfix.mt3.ads
 bolasport.com##.ads__boxr
 bolasport.com##.ads__side
 idbioskop.com##.mag-adver-part
