@@ -61,6 +61,7 @@ gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 dicrotin.info###sgpb-popup-dialog-main-div-wrapper
 bokepvir.org###sticky-banner
+bokepvir.org###sticky-banner-footer
 bk21.yachts,heppinn.id,kanzenin.xyz,komik18.art,komikcast02.com,komikdewasa.art,komikdewasa.com,komikdewasa.me,komikmanhwa.me,komikremaja.com,kumapoi.me,manhwaindo.cfd,manhwaindo.com,manhwaindo.me,pemersatu.link###teaser3
 hencop.lol,komikcast02.com###teaser4
 hencop.com###teaser7
@@ -126,7 +127,6 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pemersatu.com##div[aria-label="Iklan"]
 nekopoi.care,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.lol##div[class^="mobileads"]
-bokepvir.org###sticky-banner-footer
 ! Allowlist for element hiding filters
 ! Entity filters
 pemersatufun.*#@##adright

@@ -26,7 +26,9 @@ tvonenews.com###btt
 javmiu.xyz###disclaimer
 antaranews.com###scroll-top
 idntimes.com##.anchor-button
+hariantimes.com##.banner-content
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
+borneotrend.com##.cookie-consent
 sasa.co.id##.cookie_consent
 popbela.com##.css-1lh0foa
 popmama.com##.css-cw25l4
@@ -38,5 +40,3 @@ hukumonline.com##.my-2.d-flex.ps-ads-banner
 hukumonline.com##.product-header
 xl.co.id##.sc-concent
 insertlive.com##.smartbanner_new
-hariantimes.com##.banner-content
-borneotrend.com##.cookie-consent

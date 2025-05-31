@@ -1,5 +1,4 @@
 .gif^$image,domain=maroonbellsmorris.org
-||bacasaja.id/assets/img/ad_banner.webp$image
 /gif-*.webm^$image,domain=maroonbellsmorris.org
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
@@ -20,6 +19,7 @@
 ||api.flygame.io/sdk/widget/id_jpnn.1540.js$script,domain=m.jpnn.com
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
+||bacasaja.id/assets/img/ad_banner.webp$image
 ||banibajury.website^$popup,domain=komikcast.com
 ||beritabaru.news/sc/detect-click.js
 ||bioskopkeren.guru/images/*.gif$image
