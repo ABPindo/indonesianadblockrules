@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505310643
+! Version: 202505310644
 ! Title: ABPindo Extended
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, ditambah filter elemen UI yang mengganggu seperti popup/overlay non iklan atau pemutar video otomatis dan domain yang mungkin bisa muncul kembali.
-! Last modified: 31 May 2025 06:43 UTC
+! Last modified: 31 May 2025 06:44 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2098,20 +2098,22 @@ popbela.com,popmama.com###IDN_MegaBillboard
 popbela.com,popmama.com###IDN_MegaBillboard2
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
+popbela.com,popmama.com###wrapper-IDN_MegaBillboard
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id##.clearfix.ads__top-big
-popbela.com##.css-1e66tux
+popbela.com,popmama.com##.css-13bgxac
+popbela.com,popmama.com##.css-1e66tux
 popbela.com,popmama.com##.css-1elofja
-popbela.com##.css-1h4x27n
+popbela.com,popmama.com##.css-1h4x27n
 popbela.com,popmama.com##.css-1hajl86
 popbela.com,popmama.com##.css-1wq0q65
-popbela.com##.css-74lpfn
-popbela.comm,popmama.co##.css-t1oq30
+popbela.com,popmama.com##.css-74lpfn
+popbela.com,popmama.co##.css-t1oq30
 popbela.com,popmama.com##.css-urr7k6
 grid.id##.title__default
 idntimes.com##.wrapper-megabillboard
-popbela.com##div#ads-infeed.css-1sg3kbb
-popbela.com##div#ads-infeed.css-6aejgs
+popbela.com,popmama.com##div#ads-infeed.css-1sg3kbb
+popbela.com,popmama.com##div#ads-infeed.css-6aejgs
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
