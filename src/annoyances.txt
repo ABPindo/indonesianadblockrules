@@ -30,7 +30,9 @@ hariantimes.com##.banner-content
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
 borneotrend.com##.cookie-consent
 sasa.co.id##.cookie_consent
+yummy.co.id##.css-15k19pw.chakra-button
 popbela.com##.css-1lh0foa
+yummy.co.id##.css-1yxywc5
 popmama.com##.css-cw25l4
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
 inews.id##.getawayApp
@@ -41,5 +43,3 @@ hukumonline.com##.product-header
 xl.co.id##.sc-concent
 insertlive.com##.smartbanner_new
 quran.nu.or.id##.w-full.relative
-yummy.co.id##.css-1yxywc5
-yummy.co.id##.css-15k19pw.chakra-button
