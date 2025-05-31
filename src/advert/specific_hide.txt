@@ -73,6 +73,7 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+bandunginsider.com##.clearfix.mt3.ads
 bandungberita.com##.gmr-floatbanner
 bandungberita.com##.gmr-banner-logo
 arahpandang.com##.ads--stick-parent
