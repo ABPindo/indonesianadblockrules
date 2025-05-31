@@ -74,6 +74,7 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+inakoran.com##.ads-mid-lg
 beritasatu.com###botAds
 beritasatu.com##.gam-ads
 beritasatu.com##.underlay-ad-text-box
