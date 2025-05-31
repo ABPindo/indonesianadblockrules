@@ -73,6 +73,10 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+beritasiber.com##.ads-parallax
+beritasiber.com##.sticky-ads-bottom
+beritasiber.com##.parallaxads-box
+beritasiber.com##.parallaxads
 jalantikus.com###beforeDaftarIsimobilead300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphFirstad300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphNewmobilead300container00div-gpt-ad-1569380311053-0
