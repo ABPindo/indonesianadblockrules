@@ -26,6 +26,7 @@ detik.com###notification_newsfeed
 ! kompasiana.com - social media floating button
 kompasiana.com##.align-center.floatingWrap
 ! detik.com - 20detik video pop-up (uBlock)
+tribunnews.com###banner_article_slide
 tvonenews.com###btt
 javmiu.xyz###disclaimer
 antaranews.com###scroll-top
@@ -48,4 +49,3 @@ hukumonline.com##.product-header
 xl.co.id##.sc-concent
 insertlive.com##.smartbanner_new
 quran.nu.or.id##.w-full.relative
-tribunnews.com###banner_article_slide
