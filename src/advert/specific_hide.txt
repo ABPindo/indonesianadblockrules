@@ -988,8 +988,7 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:ha
 ! Grid.id/IDN networks, must be updated regularly
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
-duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com###wrapper-IDN_MegaBillboard
-duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com###wrapper-IDN_MegaBillboard2
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id##.clearfix.ads__top-big
 duniaku.idntimes.com,fortuneidn,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-13bgxac
