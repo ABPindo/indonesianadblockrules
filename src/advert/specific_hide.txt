@@ -1,6 +1,8 @@
+! Entity filters
 indogamers.com##.display__banner
 techinasia.com##.gam-ads-banner
-! Entity filters
+zonajakarta.com##.ads--stick-parent-400px.clearfix.mt3.ads
+zonajakarta.com###megabillboard
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
