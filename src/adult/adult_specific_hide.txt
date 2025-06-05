@@ -42,7 +42,7 @@ one.playvid.cam###center-banner
 pemersatufun.site###deskadmiddle
 krx18.com###dynamic-image[alt=""]
 unyil.net###float-atas
-igobokep.boats,igobokep.com,tv1.igo-bokep.icu###floatbanner-bottom
+igobokep.boats,igobokep.com,tv1.igo-bokep.icu,tv3.igo-bokep.icu###floatbanner-bottom
 rumahperjaka.com,rumahperjaka.live,rumahperjaka.site###floatbannerkanan
 rumahperjaka.com,rumahperjaka.site###floatbannerkiri
 hencop.com,heppinn.id,indodb21.com###floatcenter
@@ -128,7 +128,6 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pemersatu.com##div[aria-label="Iklan"]
 nekopoi.care,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.lol##div[class^="mobileads"]
-tv3.igo-bokep.icu###floatbanner-bottom
 ! Allowlist for element hiding filters
 ! Entity filters
 pemersatufun.*#@##adright
