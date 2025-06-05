@@ -1,27 +1,41 @@
 ---
 name: Site report
-about: Laporkan
+about: Laporkan masalah iklan di situs
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-## Berikan URL (gunakan kode)
-`contohURL.com`
+### **Berikan URL Situs**
+`contoh.com`
 
-## Jelaskan masalah (issue)
-Jelaskan secara singkat tentang Pull Request
+### **Jelaskan Masalah**
+Deskripsikan masalah atau perilaku iklan yang tidak diinginkan yang Anda temukan.
 
-## Berikan screenshot (pilihan)
-jika sulit dijelaskan dengan kata-kata tolong sertakan screenshot
+### **Berikan Screenshot (Opsional)**
+Jika sulit dijelaskan dengan kata-kata, tolong sertakan screenshot untuk menjelaskan masalah.
 
-## Lingkungan pengujian (beri tanda x pada braket)
+### **Lingkungan Pengujian**
+Berikan tanda [x] pada lingkungan pengujian yang Anda gunakan:
+
+#### Browser:
 - [ ] Firefox
 - [ ] Chrome
+- [ ] Edge
 
+#### Ad-blocking tools:
 - [ ] uBlock Origin
 - [ ] Adblock Plus
+- [ ] Brave Shields
 
-## Usul sintak filter (tulis kode)
-`jika punya ide, tuliskan sintak filternya`
+### **Usul Sintak Filter**
+Jika Anda memiliki ide untuk sintak filter, tuliskan kode di bawah ini:
+`contoh sintak`
+
+### **Checklist**
+- [ ] URL situs telah diberikan
+- [ ] Masalah telah dijelaskan dengan jelas
+- [ ] Screenshot telah dilampirkan (jika diperlukan)
+- [ ] Lingkungan pengujian telah diisi
+- [ ] Usul sintak filter telah ditulis (opsional)
