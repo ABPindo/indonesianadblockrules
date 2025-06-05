@@ -1,5 +1,4 @@
 ! Entity filters
-theasianparent.com##.tap-ad-container
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
@@ -76,6 +75,7 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 techinasia.com##.gam-ads-banner
+theasianparent.com##.tap-ad-container
 zonajakarta.com###megabillboard
 zonajakarta.com##.ads--stick-parent-400px.clearfix.mt3.ads
 ! Non-entity filters

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202506031103
+! Version: 202506050600
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 03 Jun 2025 11:03 UTC
+! Last modified: 05 Jun 2025 06:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -957,6 +957,7 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 techinasia.com##.gam-ads-banner
+theasianparent.com##.tap-ad-container
 zonajakarta.com###megabillboard
 zonajakarta.com##.ads--stick-parent-400px.clearfix.mt3.ads
 ! Non-entity filters
