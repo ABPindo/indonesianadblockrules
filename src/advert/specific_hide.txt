@@ -765,9 +765,11 @@ bgibola.com##.pc-only.inline-banner
 brilio.net,briliobeauty.net,briliofood.net##.placeholder-container
 suara.com##.placeholder_belt
 suara.com##.placeholder_expose
-suara.com##.placeholder_leaderboard
+suara.com,bolatimes.com,dewiku.com,mobimoto.com,guideku.com,himedik.com##.placeholder_leaderboard
+bolatimes.com,dewiku.com,mobimoto.com,guideku.com,himedik.com##.wrap-ads-r
 suara.com##.placeholder_medium
-suara.com##.placeholder_r1
+suara.com,bolatimes.com,dewiku.com,mobimoto.com,guideku.com,himedik.com##.placeholder_r1
+guideku.com##.ads_r1
 suara.com##.placeholder_r2
 suara.com##.placeholder_r3
 suara.com##.placeholder_read_body
@@ -873,7 +875,7 @@ komiku.com##.widget_text:has([href^="https://shope.ee/"])
 cantika.com##.width-ads
 cantika.com##.width-ads-leader
 cdramabase.com##.wpa
-hitekno.com##.wrap-ads-leaderboard
+hitekno.com,bolatimes.com,dewiku.com,mobimoto.com,guideku.com,himedik.com##.wrap-ads-leaderboard
 idntimes.com##.wrapper-billboard
 idntimes.com##.wrapper-leaderboard
 mamikos.com##[class$="-item__room"]:has(.rc-photo__icon--promo)
