@@ -1,6 +1,5 @@
 .gif^$image,domain=maroonbellsmorris.org
 /gif-*.webm^$image,domain=maroonbellsmorris.org
-||kba.one/tracking/$popup
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
 ||172.104.108.25^$popup,third-party
@@ -107,6 +106,7 @@
 ||kaskus.co.id/images/banner-wap/
 ||kaskus.com/images/banner-wap/
 ||kazefuri.web.id/wp-content/themes/Kazebaru/img/300ads.png$image
+||kba.one/tracking/$popup
 ||kdramaindo.*/wp-content/uploads/*.gif$image
 ||kebagi.com/*.gif$image,third-party
 ||kentut.xyz/data/*.gif$image
