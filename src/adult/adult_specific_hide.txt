@@ -38,6 +38,7 @@ cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.com,dutasex.top,inibokep.bet,ma
 pemersatufun.com###advertisement
 bintangmawar.net###bmpop_adpB
 javsubindo.my###btm_banner
+one.playvid.cam###center-banner
 pemersatufun.site###deskadmiddle
 krx18.com###dynamic-image[alt=""]
 unyil.net###float-atas
@@ -127,7 +128,6 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pemersatu.com##div[aria-label="Iklan"]
 nekopoi.care,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.lol##div[class^="mobileads"]
-one.playvid.cam###center-banner
 tv3.igo-bokep.icu###floatbanner-bottom
 ! Allowlist for element hiding filters
 ! Entity filters
