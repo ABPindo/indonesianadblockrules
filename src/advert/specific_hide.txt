@@ -1,4 +1,9 @@
 ! Entity filters
+dailypost.id###custom_html-136
+dailypost.id##[href^="https://wa.wizard.id"]
+dailypost.id##[href^="https://lynk.id/dailypost.id"]
+dailypost.id##[href^="https://wa.me"]
+dailypost.id##.text-center.gmr-topbanner
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
