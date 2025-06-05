@@ -127,6 +127,7 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pemersatu.com##div[aria-label="Iklan"]
 nekopoi.care,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.lol##div[class^="mobileads"]
+one.playvid.cam###center-banner
 ! Allowlist for element hiding filters
 ! Entity filters
 pemersatufun.*#@##adright
