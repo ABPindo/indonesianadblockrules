@@ -1,9 +1,4 @@
 ! Entity filters
-dailypost.id###custom_html-136
-dailypost.id##[href^="https://wa.wizard.id"]
-dailypost.id##[href^="https://lynk.id/dailypost.id"]
-dailypost.id##[href^="https://wa.me"]
-dailypost.id##.text-center.gmr-topbanner
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
@@ -26,6 +21,11 @@ bioskopkeren.*###top-banner
 bioskopkeren.*##.ad_slot
 bolasport.com##div.content_footer--list:nth-of-type(2)
 bolasport.com,grid.id##div.ads-inf-box
+dailypost.id###custom_html-136
+dailypost.id##.text-center.gmr-topbanner
+dailypost.id##[href^="https://lynk.id/dailypost.id"]
+dailypost.id##[href^="https://wa.me"]
+dailypost.id##[href^="https://wa.wizard.id"]
 filmapik.*##.ads
 filmapik21.*###le_header_ads
 gudangmovies21.*###ouibounce-modal

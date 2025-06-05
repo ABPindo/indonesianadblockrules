@@ -1,4 +1,3 @@
-###megabillboard
 ###Area_Iklan_Atas
 ###Area_Iklan_Bawah
 ###Area_Iklan_Tengah
@@ -108,6 +107,7 @@
 ###kode-iklan-tengah1
 ###kode-iklan-tengah2
 ###kontolbanner
+###megabillboard
 ###netkevin-overlay
 ###netkevin-popup
 ###popup_bawah
