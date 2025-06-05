@@ -1,1 +1,4 @@
+# Ensure AdBlock files are detected as AdBlock language by Linguist
 *.txt linguist-language=AdBlock linguist-detectable
+*.py linguist-language=Python
+*.sh linguist-language=Shell
