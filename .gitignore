@@ -1,4 +1,10 @@
-node_modules 
-.hg
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
 *.log
 *.out

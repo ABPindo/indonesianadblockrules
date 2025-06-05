@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202505312246
+! Version: 202506051116
 ! Title: ABPindo_noannoyance
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa filter annoyance=judi|prank)
-! Last modified: 31 May 2025 22:46 UTC
+! Last modified: 05 Jun 2025 11:16 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -631,6 +631,7 @@ oomph.co.id#@#.shareit
 ###kode-iklan-tengah1
 ###kode-iklan-tengah2
 ###kontolbanner
+###megabillboard
 ###netkevin-overlay
 ###netkevin-popup
 ###popup_bawah
@@ -903,6 +904,11 @@ bioskopkeren.*###top-banner
 bioskopkeren.*##.ad_slot
 bolasport.com##div.content_footer--list:nth-of-type(2)
 bolasport.com,grid.id##div.ads-inf-box
+dailypost.id###custom_html-136
+dailypost.id##.text-center.gmr-topbanner
+dailypost.id##[href^="https://lynk.id/dailypost.id"]
+dailypost.id##[href^="https://wa.me"]
+dailypost.id##[href^="https://wa.wizard.id"]
 filmapik.*##.ads
 filmapik21.*###le_header_ads
 gudangmovies21.*###ouibounce-modal
@@ -910,6 +916,7 @@ gudangmovies21.*###sgpb-popup-dialog-main-div-wrapper
 gudangmovies21.*##.sgpb-popup-overlay
 herworld.co.id##div.ads-belt
 herworld.co.id##p:nth-of-type(2)
+indogamers.com##.display__banner
 kazefuri.*##.kln
 komikcast.*###teaser3
 komikcast.*###teaser4
@@ -955,6 +962,10 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
+techinasia.com##.gam-ads-banner
+theasianparent.com##.tap-ad-container
+zonajakarta.com###megabillboard
+zonajakarta.com##.ads--stick-parent-400px.clearfix.mt3.ads
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
@@ -1295,6 +1306,7 @@ hops.id,klikanggaran.com##.ads__under__image
 bolasport.com,gridoto.com##.ads_below_photo
 grid.id##.ads_imr2
 haibunda.com##.ads_native_d
+guideku.com##.ads_r1
 grid.id##.ads_sky
 duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
@@ -1642,9 +1654,9 @@ bgibola.com##.pc-only.inline-banner
 brilio.net,briliobeauty.net,briliofood.net##.placeholder-container
 suara.com##.placeholder_belt
 suara.com##.placeholder_expose
-suara.com##.placeholder_leaderboard
+bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com,suara.com##.placeholder_leaderboard
 suara.com##.placeholder_medium
-suara.com##.placeholder_r1
+bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com,suara.com##.placeholder_r1
 suara.com##.placeholder_r2
 suara.com##.placeholder_r3
 suara.com##.placeholder_read_body
@@ -1750,7 +1762,8 @@ komiku.com##.widget_text:has([href^="https://shope.ee/"])
 cantika.com##.width-ads
 cantika.com##.width-ads-leader
 cdramabase.com##.wpa
-hitekno.com##.wrap-ads-leaderboard
+bolatimes.com,dewiku.com,guideku.com,himedik.com,hitekno.com,mobimoto.com##.wrap-ads-leaderboard
+bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com##.wrap-ads-r
 idntimes.com##.wrapper-billboard
 idntimes.com##.wrapper-leaderboard
 mamikos.com##[class$="-item__room"]:has(.rc-photo__icon--promo)
@@ -1868,8 +1881,6 @@ cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:ha
 ! Grid.id/IDN networks, must be updated regularly
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
-duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com###wrapper-IDN_MegaBillboard
-duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com###wrapper-IDN_MegaBillboard2
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id##.clearfix.ads__top-big
 duniaku.idntimes.com,fortuneidn,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-13bgxac
@@ -1883,6 +1894,7 @@ duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.co##.css-t1oq30
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-urr7k6
 grid.id##.title__default
 idntimes.com##.wrapper-megabillboard
+duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##div#ads-infeed.css-1sg3kbb
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##div#ads-infeed.css-6aejgs
 ! ABP-specific filters
