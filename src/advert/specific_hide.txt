@@ -84,6 +84,14 @@ theasianparent.com##.tap-ad-container
 zonajakarta.com###megabillboard
 zonajakarta.com##.ads--stick-parent-400px.clearfix.mt3.ads
 ! Non-entity filters
+hrv.okestream365.xyz##.header-banner
+hrv.okestream365.xyz###floatbannerkanan
+hrv.okestream365.xyz###floatbannerkiri
+hrv.okestream365.xyz##.player-button-ad
+hrv.okestream365.xyz##.popbox
+hrv.okestream365.xyz##html:style(overflow: auto !important;)
+hrv.okestream365.xyz##.top-player-banner
+hrv.okestream365.xyz##.clappr-watermark
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
