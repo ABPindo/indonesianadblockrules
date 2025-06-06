@@ -1,15 +1,15 @@
 ! Title: ABPindo – Annoyances
 ! Grid/IDN Networks, must he updated regularly
 grid.id###buttonGridstore
+motorplus-online.com###floatingIframe
 idntimes.com##.anchor-button
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1lh0foa
 popmama.com##.css-cw25l4
 duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-urr7k6
+sonora.id##.kgnowGate.sidebar.video-box-wrap
+grid.id,gridoto.com##.kgnowGate.video-box-wrap
 bobo.grid.id,bolasport.com##.mb10.text-center.row
 haibunda.com##.mt-\[65px\].duration-700.ease-in.right-0.left-0.z-\[12345\].top-0.fixed.shadow-lg.rounded-md.p-2.text-hb-black.bg-white.m-auto.h-auto.w-\[330px\].pushnotif
-grid.id,gridoto.com##.kgnowGate.video-box-wrap
-sonora.id##.kgnowGate.sidebar.video-box-wrap
-motorplus-online.com###floatingIframe
 ! cnnindonesia.com - Live TV Pop-Up #687
 cnnindonesia.com##.bottom-\[50px\].left-0.z-\[90\].fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
 ! detik.com - recommended video pop-up #683
