@@ -84,14 +84,6 @@ theasianparent.com##.tap-ad-container
 zonajakarta.com###megabillboard
 zonajakarta.com##.ads--stick-parent-400px.clearfix.mt3.ads
 ! Non-entity filters
-hrv.okestream365.xyz##.header-banner
-hrv.okestream365.xyz###floatbannerkanan
-hrv.okestream365.xyz###floatbannerkiri
-hrv.okestream365.xyz##.player-button-ad
-hrv.okestream365.xyz##.popbox
-hrv.okestream365.xyz##html:style(overflow: auto !important;)
-hrv.okestream365.xyz##.top-player-banner
-hrv.okestream365.xyz##.clappr-watermark
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -201,8 +193,8 @@ komiku.net###floatads2
 komiku.net###floatads3
 komikstation.com###floatbanner
 5.253.86.213,layardrama21.space###floatbanner-bottom
-bgibola.com###floatbannerkanan
-bgibola.com###floatbannerkiri
+bgibola.com,hrv.okestream365.xyz###floatbannerkanan
+bgibola.com,hrv.okestream365.xyz###floatbannerkiri
 149.28.158.117,ainzscans.net,animexin.xyz,anixlife.xyz,bgibola.com,cosmic345.co,indodb21.homes,isekaisubs.web.id,kazefuri.info,kmvs03.com###floatcenter
 northridgeautospa.com###floating_banner_bot2
 bk21.top###floating_banner_bottom
@@ -578,6 +570,7 @@ okezone.com##.center-ban
 bharian.com.my##.center-block.img-responsive
 okezone.com##.center-paralax
 dramaqu.net##.cfmonitor
+hrv.okestream365.xyz##.clappr-watermark
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
@@ -659,7 +652,7 @@ trenasia.com##.h-\[90px\]
 kompas.com##.hAds
 tempo.co##.head-banner
 bioskop90.com##.headborder:nth-of-type(5)
-riau86.com##.header-banner
+hrv.okestream365.xyz,riau86.com##.header-banner
 kaskus.co.id##.header__kasad
 malaysiakini.com##.hero_adslot
 tafsirweb.com##.hot_deals_green
@@ -785,8 +778,9 @@ bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com,suara.com##.placeh
 suara.com##.placeholder_r2
 suara.com##.placeholder_r3
 suara.com##.placeholder_read_body
+hrv.okestream365.xyz##.player-button-ad
 juragan.film##.pop-overlay
-juragan.film##.popbox
+hrv.okestream365.xyz,juragan.film##.popbox
 nomat.top##.popup.show
 viva.co.id##.portlet.sideskycrapper
 koransulindo.com##.post-banner
@@ -867,6 +861,7 @@ kontan.co.id##.text-center.center.width-px-1100
 dataindonesia.id##.text-center:has( + div[style^='background-image: url("/img/logo-ads'])
 okezone.com##.title-ads-mega
 utusan.com.my##.tonal__standfirst
+hrv.okestream365.xyz##.top-player-banner
 grid.id##.top_banner-wrapper
 beritasatu.com,jakartaglobe.id##.underlay-ad
 beritasatu.com,investor.id##.underlay-ad-text-box
@@ -991,6 +986,7 @@ beritaharian.sg##div[style^="background-image: linear-gradient"]
 detik.com##div[style^="margin: 10px auto;width: 970px;height: 250px"]
 cnbcindonesia.com##div[style^="width:970px;"]
 dataindonesia.id##div[style^='background-image: url("/img/logo-ads']
+hrv.okestream365.xyz##html:style(overflow: auto !important;)
 bacamanga.id,kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 jakbos.com##img:nth-of-type(2)
