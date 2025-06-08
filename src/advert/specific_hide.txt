@@ -58,6 +58,10 @@ layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
 layarkaca21.*###pbanner
 layarkaca21.*###ptbanner
+nontonanimeid.*##.banner_player
+nontonanimeid.*##.floating_footer
+nontonanimeid.*##.ts-ad-link-wrapper
+nontonanimeid.*##div[class^="adspost"]
 nontondrama.*###admad
 nontondrama.*##[href^="https://yukclick.me/dunia21"]
 oploverz.*###teaser1
@@ -82,10 +86,6 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
-nontonanimeid.*##.ts-ad-link-wrapper
-nontonanimeid.*##.floating_footer
-nontonanimeid.*##.banner_player
-nontonanimeid.*##div[class^="adspost"]
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
