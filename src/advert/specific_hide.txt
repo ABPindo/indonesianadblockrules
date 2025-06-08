@@ -1,5 +1,4 @@
 ! Entity filters
-motorplus-online.com##div#composite-container
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
@@ -59,6 +58,7 @@ layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
 layarkaca21.*###pbanner
 layarkaca21.*###ptbanner
+motorplus-online.com##div#composite-container
 nontonanimeid.*##.banner_player
 nontonanimeid.*##.floating_footer
 nontonanimeid.*##.ts-ad-link-wrapper
