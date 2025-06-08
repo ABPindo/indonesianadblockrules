@@ -79,10 +79,13 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
+cosmicscans.*###floatcenter
+cosmicscans.*##.kln
+cosmicscans.*##.code-block-1.code-block
+! Non-entity filters
 techinasia.com##.gam-ads-banner
 theasianparent.com##.tap-ad-container
 zonajakarta.com##.ads--stick-parent-400px.clearfix.mt3.ads
-! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
