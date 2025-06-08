@@ -82,6 +82,10 @@ shinigami09.*##.lepopup-popup-overlay
 cosmicscans.*###floatcenter
 cosmicscans.*##.kln
 cosmicscans.*##.code-block-1.code-block
+nontonanimeid.*##.ts-ad-link-wrapper
+nontonanimeid.*##.floating_footer
+nontonanimeid.*##.banner_player
+nontonanimeid.*##div[class^="adspost"]
 ! Non-entity filters
 techinasia.com##.gam-ads-banner
 theasianparent.com##.tap-ad-container
@@ -433,9 +437,6 @@ chordtela.com##.adsbawahposting
 nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
-s4.nontonanimeid.boats##.adspost300
-s4.nontonanimeid.boats##.adspost345
-s4.nontonanimeid.boats##.adspost468
 cinemaindo.com##.adstops
 movieku.ink##.adsx
 mangaku.in,mangaku.site,mangaku.web.id##.adv
@@ -500,7 +501,6 @@ sonora.id##.banner__top
 lapar.com,loveindonesia.com##.banner_box
 detik.com##.banner_inside_article
 lapar.com##.banner_main
-nontonanimeid.org,s4.nontonanimeid.boats##.banner_player
 modifikasi.com##.bannercol
 modifikasi.com##.bannerfloat
 tempo.co##.bannerfull
@@ -620,7 +620,6 @@ kompas.id##.flex.justify-center.lg\:px-8.my-6
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
-s4.nontonanimeid.boats##.floating_footer
 okezone.com##.flying_ads
 katadata.co.id,optika.id##.flying_carpet_div
 bisnis.com,tek.id##.flying_carpet_show
@@ -855,7 +854,6 @@ hijabista.com.my,majalahpama.my,nona.my,vanillakismis.my##.td-banner-bg.td-banne
 nontondramaonline.co##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 movieku.ink##.teaser3
-s4.nontonanimeid.boats##.tensai-ad-link-wrapper
 kordindonesia.com##.text-ad
 internetpositif.uzone.id##.text-align-center.box-ads-content
 kontan.co.id##.text-center.center.width-px-1100
@@ -895,7 +893,6 @@ s.id##[class^="AdUnit"]
 jalantikus.com##[class^="ad-"][class*="-container"]
 kompas.tv##[class^="ads-"]
 emitennews.com##[class^="ads-space-"]
-nontonanimeid.org##[class^="adspost"]
 wisatalova.com##[class^="wisat-"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 mamikos.com##[data-testid="miniKostRoomCard"]:has(.rc-photo__icon--promo)
