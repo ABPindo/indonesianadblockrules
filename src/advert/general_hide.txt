@@ -356,3 +356,6 @@
 ##.topads-kanan
 ##.warning_iklan
 ##.widget_iklan_atas
+##.float-ads-right
+##.float-ads-left
+##.float-ads-footer
