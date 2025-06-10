@@ -89,6 +89,10 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+pewarta.co.id##.dynamic_ads
+pewarta.co.id##.billboard_ads1
+pewarta.co.id###top_ad_content
+pewarta.co.id##.billboard_pushdown
 otosia.com##.banner
 klikindonesia.co###sidebar-banner-160x600-kiri
 klikindonesia.co###sidebar-banner-160x600-kanan
