@@ -127,6 +127,7 @@
 ##.ads-kanan-player
 ##.ads-kecil
 ##.ads-kiri-player
+##.ads-skyscrapper
 ##.ads-sticky-atas
 ##.ads-sticky-bawah
 ##.ads-sticky-bottom
@@ -186,6 +187,9 @@
 ##.bottom-iklan-detail
 ##.campaign-atas
 ##.close-iklan
+##.float-ads-footer
+##.float-ads-left
+##.float-ads-right
 ##.frame_iklan_baris
 ##.gambar-iklan1
 ##.gambarbanner
@@ -356,7 +360,3 @@
 ##.topads-kanan
 ##.warning_iklan
 ##.widget_iklan_atas
-##.float-ads-right
-##.float-ads-left
-##.float-ads-footer
-##.ads-skyscrapper
