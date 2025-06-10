@@ -89,6 +89,9 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 ! Non-entity filters
+ligaolahraga.com##.banner-sticky-right
+ligaolahraga.com##.banner-sticky-left
+ligaolahraga.com##.banner-625x235-content
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
