@@ -14,8 +14,8 @@ haibunda.com##.mt-\[65px\].duration-700.ease-in.right-0.left-0.z-\[12345\].top-0
 ! cnnindonesia.com - Live TV Pop-Up #687
 cnnindonesia.com##.bottom-\[50px\].left-0.z-\[90\].fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
 ! detik.com - recommended video pop-up #683
-detik.com##.breaking-detikpagi
 regional.kompas.com##+js(aeld, scroll, kgSticky)
+detik.com##.breaking-detikpagi
 tokopedia.com##.e1nc1fa20.css-kl3gjj
 tokopedia.com##.e90j6ys0.css-1b94wk9-unf-overlay
 detik.com##.float-vid__content
