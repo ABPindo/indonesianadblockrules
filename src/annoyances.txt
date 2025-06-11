@@ -1,36 +1,30 @@
 ! Title: ABPindo – Annoyances
-! Grid/IDN Networks, must he updated regularly
+! Grid Networks
 grid.id###buttonGridstore
 motorplus-online.com###floatingIframe
-idntimes.com##.anchor-button
-duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1lh0foa
-popmama.com##.css-cw25l4
-duniaku.idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-urr7k6
 motorplus-online.com##.floatingIframe
 sonora.id##.kgnowGate.sidebar.video-box-wrap
 grid.id,gridoto.com##.kgnowGate.video-box-wrap
 bobo.grid.id,bolasport.com##.mb10.text-center.row
 haibunda.com##.mt-\[65px\].duration-700.ease-in.right-0.left-0.z-\[12345\].top-0.fixed.shadow-lg.rounded-md.p-2.text-hb-black.bg-white.m-auto.h-auto.w-\[330px\].pushnotif
-! cnnindonesia.com - Live TV Pop-Up #687
+! IDN Networks
+idntimes.com##.anchor-button
+idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-1lh0foa
+popmama.com##.css-cw25l4
+idntimes.com,fortuneidn.com,ggwp.id,popbela.com,popmama.com##.css-urr7k6
+! 
 cnnindonesia.com##.bottom-\[50px\].left-0.z-\[90\].fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
-! detik.com - recommended video pop-up #683
 regional.kompas.com##+js(aeld, scroll, kgSticky)
 detik.com##.breaking-detikpagi
 tokopedia.com##.e1nc1fa20.css-kl3gjj
 tokopedia.com##.e90j6ys0.css-1b94wk9-unf-overlay
 detik.com##.float-vid__content
 pinhome.id##.style_stickyBannerDesktop__GLF3I
-! kompas.com - kompas.com+ banner
 kompas.com##.gate-kgplus
-! kompas.com - kgnow embedded video
 kompas.com##.kgnw-player
-! tribunnews.com - recommended next article slide banner
 tribunnews.com##.desk-bannerslide
-! detik.com - news reload notification
 detik.com###notification_newsfeed
-! kompasiana.com - social media floating button
 kompasiana.com##.align-center.floatingWrap
-! detik.com - 20detik video pop-up (uBlock)
 tribunnews.com###banner_article_slide
 tvonenews.com###btt
 javmiu.xyz###disclaimer
@@ -41,7 +35,6 @@ borneotrend.com##.cookie-consent
 sasa.co.id##.cookie_consent
 yummy.co.id##.css-15k19pw.chakra-button
 yummy.co.id##.css-1yxywc5
-detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
 liputan6.com##.gateway__mobile-app
 inews.id##.getawayApp
 kompas.com,sonora.id##.kgnw-middle-ready.kgnw-middle
@@ -53,3 +46,5 @@ hukumonline.com##.product-header
 xl.co.id##.sc-concent
 insertlive.com##.smartbanner_new
 quran.nu.or.id##.w-full.relative
+! uBlock Specific
+detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
