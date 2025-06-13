@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202506111230
+! Version: 202506132205
 ! Title: ABPindo Extended
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, ditambah filter elemen UI yang mengganggu seperti popup/overlay non iklan atau pemutar video otomatis dan domain yang mungkin bisa muncul kembali.
-! Last modified: 11 Jun 2025 12:30 UTC
+! Last modified: 13 Jun 2025 22:05 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9950,6 +9950,7 @@ hariantimes.com##.banner-content
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
 cnnindonesia.com##.bottom-\[50px\].left-0.z-\[90\].fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
 detik.com##.breaking-detikpagi
+republika.co.id##.container.row
 borneotrend.com##.cookie-consent
 sasa.co.id##.cookie_consent
 yummy.co.id##.css-15k19pw.chakra-button
@@ -9969,6 +9970,9 @@ kumparan.com##.pb8.pt8.flex.bshhdS.sc-1u3us5z-1.cTlHVA.Viewweb__StyledView-sc-b0
 theasianparent.com##.placeholder.top-app-download-banner
 hukumonline.com##.product-header
 xl.co.id##.sc-concent
+republika.co.id##.share
+republika.co.id##.show.fade.modal
+republika.co.id##.show.fade.modal-backdrop
 insertlive.com##.smartbanner_new
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative

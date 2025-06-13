@@ -24,6 +24,7 @@ hariantimes.com##.banner-content
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
 cnnindonesia.com##.bottom-\[50px\].left-0.z-\[90\].fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
 detik.com##.breaking-detikpagi
+republika.co.id##.container.row
 borneotrend.com##.cookie-consent
 sasa.co.id##.cookie_consent
 yummy.co.id##.css-15k19pw.chakra-button
@@ -43,12 +44,11 @@ kumparan.com##.pb8.pt8.flex.bshhdS.sc-1u3us5z-1.cTlHVA.Viewweb__StyledView-sc-b0
 theasianparent.com##.placeholder.top-app-download-banner
 hukumonline.com##.product-header
 xl.co.id##.sc-concent
+republika.co.id##.share
+republika.co.id##.show.fade.modal
+republika.co.id##.show.fade.modal-backdrop
 insertlive.com##.smartbanner_new
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative
-republika.co.id##.show.fade.modal-backdrop
-republika.co.id##.container.row
-republika.co.id##.show.fade.modal
-republika.co.id##.share
 ! uBlock Specific
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
