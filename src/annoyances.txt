@@ -46,5 +46,9 @@ xl.co.id##.sc-concent
 insertlive.com##.smartbanner_new
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative
+republika.co.id##.show.fade.modal-backdrop
+republika.co.id##.container.row
+republika.co.id##.show.fade.modal
+republika.co.id##.share
 ! uBlock Specific
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
