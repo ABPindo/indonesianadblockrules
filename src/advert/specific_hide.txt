@@ -1009,8 +1009,8 @@ suara.com##.placeholder_read_body
 suara.com##.widget-ads-top
 suara.com##[id^="berita-terkait-"]
 suara.com##div.placeholder_pariwara
-suara.com####.mgidwidget
-suara.com#####recWidgetRecommendation
+suara.com##.mgidwidget
+suara.com###recWidgetRecommendation
 ! Grid Networks
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
