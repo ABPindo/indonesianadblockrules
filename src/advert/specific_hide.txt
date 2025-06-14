@@ -1,6 +1,5 @@
 ! Entity filters
-gridoto.com##div.ads__side
-gridoto.com##.geniee-box
+metrotvnews.com##.ads
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
