@@ -23,19 +23,13 @@ Berikan tanda [x] pada lingkungan pengujian yang Anda gunakan:
 - [ ] Firefox
 - [ ] Chrome
 - [ ] Edge
+- [ ] Brave
 
-#### Ad-blocking tools:
+#### Ekstensi::
 - [ ] uBlock Origin
 - [ ] Adblock Plus
-- [ ] Brave Shields
+- [ ] AdGuard
 
-### **Usul Sintak Filter**
+### **Usul Sintak Filter (Opsional)**
 Jika Anda memiliki ide untuk sintak filter, tuliskan kode di bawah ini:
 `contoh sintak`
-
-### **Checklist**
-- [ ] URL situs telah diberikan
-- [ ] Masalah telah dijelaskan dengan jelas
-- [ ] Screenshot telah dilampirkan (jika diperlukan)
-- [ ] Lingkungan pengujian telah diisi
-- [ ] Usul sintak filter telah ditulis (opsional)
