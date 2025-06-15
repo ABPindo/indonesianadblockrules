@@ -1,9 +1,4 @@
 ! Entity filters
-vnn.co.id##.section.Atas.Iklan
-vnn.co.id###floatads
-vnn.co.id##.googlepublisherads
-vnn.co.id##.iklan-bawah-postingan
-vnn.co.id##.inline-ad
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
@@ -96,6 +91,11 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 tempo.co##[src="/_ipx/_/close.png"]
+vnn.co.id###floatads
+vnn.co.id##.googlepublisherads
+vnn.co.id##.iklan-bawah-postingan
+vnn.co.id##.inline-ad
+vnn.co.id##.section.Atas.Iklan
 ! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
