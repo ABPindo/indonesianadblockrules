@@ -12,21 +12,19 @@ ABPindo adalah daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia
 ## Cara Menggunakan
 1. Jalankan peramban web favorit Anda (Firefox, Chrome, Opera, Safari, dll.)
 2. Pasang ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenis
-3. Nyalakan filter ABPindo atau klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)
+3. Nyalakan filter ABPindo dengan klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)
+4. Atau, salin tautan dari kolom **Raw File** dan tambahkan secara manual melalui pengaturan filter di ekstensi.
 
-## Langganan Filter utama untuk browser
+## Variasi filter ABPindo untuk Pemblokir browser
 | Langganan|Raw File |Keterangan|
 | ------------- | ----------------| -------------|
 | [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt)|Filter lengkap sebagai default [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/) regional Indonesia dan Malaysia|
 | [ABPindo_noadult](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noadult.txt&title=ABPindo_noadult)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noadult.txt)|ABPindo tanpa filter adult (judi) |
 | [ABPindo_noelementhide](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt&title=ABPindo_noelementhide)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt)|ABPindo tanpa filter element hide|
-| [ABPindo_annoyance](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/annoyances.txt&title=ABPindo_annoyance)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/annoyances.txt)|Filter annoyances (elemen UI yang menggangu seperti popup/overlay non iklan dan pemutar video otomatis) |
+| [ABPindo_annoyance](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_annoyances.txt&title=ABPindo_annoyance)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_annoyances.txt)|Filter annoyances (elemen UI yang menggangu seperti popup/overlay non iklan dan pemutar video otomatis) |
 | [ABPindo_extended](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_extended.txt&title=ABPindo_extended)|[Raw File](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_extended.txt)|ABPindo dengan annoyances |
-### Cara Berlangganan
-
-1. Klik link pada kolom **Langganan** untuk menambah filter ke ekstensi pemblokir iklan Anda.
-2. Atau, salin tautan dari kolom **Raw File** dan tambahkan secara manual melalui pengaturan filter di ekstensi.
 ---
+
 ## Variasi filter ABPindo untuk Pemblokir DNS
 |Sintak|ABPindo*|ABPindo_adult**|Contoh|
 | ------------- |-------------|-------------|-------------|
