@@ -264,3 +264,29 @@ satujiwa.org##table
 ||yourhealthnoone.com/wt213ad/$subdocument
 ||ys3e965d.top^$third-party
 ||zuyejecgb.com^$popup
+||rajatraffic.com^$third-party
+||gbrrrxbodqdlq.com^$popup
+||adplus.co.id^$third-party
+||herdethi.net^$third-party
+||offerjuice.me^$popup,third-party
+||onclkds.com^$popup,third-party
+||sumberiklan.com^$third-party
+||img.topddl.net^$image,domain=nanimex.com
+||impulse.forkcdn.com/impulse3/config/impulse.js
+||kentut.xyz/data/*.gif$image
+||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
+||nontonfilmgratis.club/image/*.webp$image,domain=ragihospitalkukatpally.com
+||nontonfilmku.*/wp-content/uploads/*.gif$image
+||nontonstreaming.co/wp-content/uploads/*.gif$image
+||nontonsub.*/wp-content/uploads/*.gif$image
+||ragihospitalkukatpally.com/image/*.webm$image,~third-party
+||raw.githack.com/jefcom/jefar/master/jefar.js$script
+downloadfilmbaru.com###ads-stack
+downloadfilmbaru.com###close-ads-stack
+komiku.net###floatads2
+komiku.net###floatads3
+downloadfilmbaru.com###itro_opaco
+downloadfilmbaru.com###itro_popup
+lk21.cc###tengah > span
+bioskop55.club###wrap > .headborder > .headcontent > .textwidget
+otakuindo.org##.box_banner

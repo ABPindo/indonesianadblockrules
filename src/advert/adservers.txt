@@ -5,7 +5,6 @@
 ||addesigner.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||adnety.com^$popup,third-party
-||adplus.co.id^$third-party
 ||adpop-1.com^$third-party
 ||adreach.co^$third-party
 ||ads.d21.media^
@@ -32,7 +31,6 @@
 ||groupiklan.com^$third-party
 ||gudangbanner.com^$third-party
 ||halal.ad^$third-party
-||herdethi.net^$third-party
 ||hitadsmedia.com^$third-party
 ||ibnads.xl.co.id^$third-party
 ||iklan-laris.com^$third-party
@@ -62,8 +60,6 @@
 ||luckyads.com^$third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||offdeck.telkomsel.com^$third-party
-||offerjuice.me^$popup,third-party
-||onclkds.com^$popup,third-party
 ||openadserving.com^$third-party
 ||padssup.com^$third-party
 ||paidforfree.com^$third-party
@@ -81,7 +77,6 @@
 ||serbada.com^$image,third-party
 ||shiokambing2.com^$popup,third-party
 ||sitti.co.id^$third-party
-||sumberiklan.com^$third-party
 ||teliad.com^$third-party
 ||thapi.aedi.ai^$third-party
 ||theclickers.net^$third-party
@@ -109,7 +104,6 @@
 ||edomz.com^$third-party
 ||flexterkita.com^$third-party
 ||fnasmpygwa.com^$third-party
-||gbrrrxbodqdlq.com^$popup
 ||iwtserve.com^$popup
 ||jillsclickcorner.com^$third-party
 ||midgerelativelyhoax.com^

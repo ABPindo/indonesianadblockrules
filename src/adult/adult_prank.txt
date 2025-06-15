@@ -81,7 +81,7 @@
 ||thatsphucked.com^
 ||theexgirlfriends.com^
 ||thehomo.org^
-||themacuser.org^
+! commented out by dead-domains-linter: ||themacuser.org^
 ||thepounder.com^
 ||thewillpower.org^
 ||tubgirl.me^

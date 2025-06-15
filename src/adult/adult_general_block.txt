@@ -1541,7 +1541,7 @@ totojitu.gif|$image
 ||bandartoke.$image,third-party
 ||barakjudi.$image,third-party
 ||barakjudi.$popup
-||baron777premium.com^$popup
+! commented out by dead-domains-linter: ||baron777premium.com^$popup
 ||barutogel.$image,third-party
 ||bbm88id.$image,third-party
 ||bca99.$image,third-party
