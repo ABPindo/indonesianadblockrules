@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202506150033
+! Version: 202506150052
 ! Title: ABPindo_noelemhide
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 15 Jun 2025 00:33 UTC
+! Last modified: 15 Jun 2025 00:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -20,7 +20,6 @@
 ||addesigner.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||adnety.com^$popup,third-party
-||adplus.co.id^$third-party
 ||adpop-1.com^$third-party
 ||adreach.co^$third-party
 ||ads.d21.media^
@@ -47,7 +46,6 @@
 ||groupiklan.com^$third-party
 ||gudangbanner.com^$third-party
 ||halal.ad^$third-party
-||herdethi.net^$third-party
 ||hitadsmedia.com^$third-party
 ||ibnads.xl.co.id^$third-party
 ||iklan-laris.com^$third-party
@@ -77,8 +75,6 @@
 ||luckyads.com^$third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||offdeck.telkomsel.com^$third-party
-||offerjuice.me^$popup,third-party
-||onclkds.com^$popup,third-party
 ||openadserving.com^$third-party
 ||padssup.com^$third-party
 ||paidforfree.com^$third-party
@@ -96,7 +92,6 @@
 ||serbada.com^$image,third-party
 ||shiokambing2.com^$popup,third-party
 ||sitti.co.id^$third-party
-||sumberiklan.com^$third-party
 ||teliad.com^$third-party
 ||thapi.aedi.ai^$third-party
 ||theclickers.net^$third-party
@@ -124,7 +119,6 @@
 ||edomz.com^$third-party
 ||flexterkita.com^$third-party
 ||fnasmpygwa.com^$third-party
-||gbrrrxbodqdlq.com^$popup
 ||iwtserve.com^$popup
 ||jillsclickcorner.com^$third-party
 ||midgerelativelyhoax.com^
@@ -143,7 +137,6 @@
 ||cfs1.uzone.id^$third-party
 ||ktrackdata.com^$popup,third-party
 ||moneyfree.co^$third-party
-||rajatraffic.com^$third-party
 ||track.aptitudemedia.co^$popup
 ||track.zerofriend.com^$popup,third-party
 ||tracker.beritagar.id^$third-party
@@ -287,7 +280,7 @@ _iklan_|$image
 ||bioskopkeren.guru/images/*.gif$image
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||bp.blogspot.com/*.gif$image,domain=139.99.33.192|anoboy.org|anoboy.watch|cinema81.net|drakorindo.asia|drakorindo.com|drakorindo.net|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|filmku.net|idkomik.com|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|layarkeren.com|lk21id.com|mangaindo.net|movie303.com|nekopoi.care|neonime.com|neonime.net|nonton33.com|nonton33.net|nontondrama.me|nontonfilm21.club|nontonin.co|oploverz.in|otakudesu.info|smallencode.com|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=139.99.33.192|anoboy.org|anoboy.watch|cinema81.net|drakorindo.asia|drakorindo.com|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|filmku.net|idkomik.com|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|layarkeren.com|lk21id.com|mangaindo.net|movie303.com|nekopoi.care|neonime.com|neonime.net|nonton33.com|nonton33.net|nontondrama.me|nontonfilm21.club|nontonin.co|oploverz.in|otakudesu.info|smallencode.com|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
@@ -337,7 +330,7 @@ _iklan_|$image
 ||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hotabis.com/wp-content/uploads/*.gif$image
 ||i.ibb.co/*.gif$image,domain=kazefuri.web.id
-||i.imgur.com/*.gif$image,domain=animebatchs.com|ayononton.co
+||i.imgur.com/*.gif$image,domain=animebatchs.com
 ||id.hao123.com/resource/id/banner/
 ||id.techinasia.com/OneSignalSDKWorker.js
 ||idbioskop.com/wp-content/uploads/*/*/300-x-250.png
@@ -353,8 +346,6 @@ _iklan_|$image
 ||img.koran-jakarta.com/images/advertisement/
 ||img.nontonanimeid.*/uploads/ikln/$image,~third-party
 ||img.teman.stream/tb/*.gif$image,domain=bioskopkerenin.com
-||img.topddl.net^$image,domain=nanimex.com
-||impulse.forkcdn.com/impulse3/config/impulse.js
 ||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
 ||indochanger.com/banner/
 ||indocinema21.com/banner/
@@ -372,8 +363,6 @@ _iklan_|$image
 ||kba.one/tracking/$popup
 ||kdramaindo.*/wp-content/uploads/*.gif$image
 ||kebagi.com/*.gif$image,third-party
-||kentut.xyz/data/*.gif$image
-||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
 ||komikcast.*/wp-content/uploads/*.gif$image,~third-party
 ||kompas.com/data/banner/
 ||kotakgame.com/images/bnr/partner/*.jpg
@@ -418,18 +407,12 @@ _iklan_|$image
 ||nontondramas.*/wp-content/uploads/*.gif$image
 ||nontonfilmbaru.*/wp-content/uploads/*.gif$image
 ||nontonfilmgratis.club/image/*.webm$image,~third-party
-||nontonfilmgratis.club/image/*.webp$image,domain=ragihospitalkukatpally.com
-||nontonfilmku.*/wp-content/uploads/*.gif$image
 ||nontonserial.*/wp-content/uploads/*.gif$image
-||nontonstreaming.co/wp-content/uploads/*.gif$image
-||nontonsub.*/wp-content/uploads/*.gif$image
 ||noobscript.com^$script,third-party
 ||obengplus.com/adblock-hunter.js$script
 ||onicdn.xyz/adam/poker88
 ||playwebgame.com/banner/$third-party
 ||primbon.com/banner/ilmugendam.gif
-||ragihospitalkukatpally.com/image/*.webm$image,~third-party
-||raw.githack.com/jefcom/jefar/master/jefar.js$script
 ||safelinkblog.com/js/v2.js$script
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
@@ -463,7 +446,7 @@ _iklan_|$image
 ! Miscellanous popups
 *$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|kiryuu.org|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 ! Miscellanous advertisement gifs
-.gif$image,domain=149.56.24.226|15.235.11.45|anime-indo.id|baladfilm.*|baladfilm.guru|bgibola.com|bioskopkerenin.org|dutafilm.cfd|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|nomat.top|nontondrama.*|nontonfilmgratis.club|oploverz.*|oploverz.best|oploverz.love|otakudesu.ltd|ragihospitalkukatpally.com|rbtv77.com|shinigami09.com
+.gif$image,domain=149.56.24.226|15.235.11.45|baladfilm.*|baladfilm.guru|bgibola.com|bioskopkerenin.org|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|nomat.top|nontondrama.*|nontonfilmgratis.club|oploverz.*|oploverz.best|oploverz.love|rbtv77.com|shinigami09.com
 ! https://github.com/ABPindo/indonesianadblockrules/pull/660
 ||blogger.googleusercontent.com^$image,domain=jurnalistekno.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
@@ -2067,7 +2050,7 @@ totojitu.gif|$image
 ||bandartoke.$image,third-party
 ||barakjudi.$image,third-party
 ||barakjudi.$popup
-||baron777premium.com^$popup
+! commented out by dead-domains-linter: ||baron777premium.com^$popup
 ||barutogel.$image,third-party
 ||bbm88id.$image,third-party
 ||bca99.$image,third-party
@@ -4063,7 +4046,6 @@ totojitu.gif|$image
 ||judiagenonline.com^$third-party
 ||judibebas.com^$third-party
 ||judibola.com^$third-party
-||judibolaterbesar.com^$third-party
 ||judionlinebet.com^$third-party
 ||judionlinepoker.com^$third-party
 ||kedaijudi.com^$third-party
@@ -4071,7 +4053,6 @@ totojitu.gif|$image
 ||launchpoker.com^$third-party
 ||lazacasino.com^$image,third-party
 ||lazacasino.com^$popup
-||lintastogel.com^$third-party
 ||lotospoker.com^$third-party
 ||luckyriverpoker.com^$third-party
 ||mansionpoker.com^$third-party
