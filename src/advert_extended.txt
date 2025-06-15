@@ -1,6 +1,8 @@
 ! for deleted filters and domains, may reappear
+downloadfilmbaru.com###ads-stack
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
+downloadfilmbaru.com###close-ads-stack
 indoxx1.club###col
 indostreamings.xyz###content > div:nth-of-type(1)
 bioskopmovie.tv###directorio > .random > center
@@ -12,6 +14,8 @@ indoxxi.pictures###ffbp-bg
 indoxxi.pictures###ffbp-body
 indoxxi.pictures###ffbp-close
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv,lk21tv.com###float-bottom-banner
+komiku.net###floatads2
+komiku.net###floatads3
 nontonsini.com###floatbawah
 lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
@@ -19,6 +23,8 @@ ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com###floating_ads_bottom_textcss_wrap
 topfilmz.com###idb3
 cinemaindo.web.id,sinemaindo.web.id###ilang2
+downloadfilmbaru.com###itro_opaco
+downloadfilmbaru.com###itro_popup
 b201.info,bioskop201.biz###kayan_reklam_sag
 b201.info,bioskop201.biz###kayan_reklam_sol
 komikbaru.com###left-skyscraper
@@ -39,7 +45,9 @@ cinemaindo.tv###sidebar_right > .side:nth-of-type(8) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(9) > .textwidget
 22cinema.download###teaser5
 indoxx1.club###tengah
+lk21.cc###tengah > span
 indoxx1.club###tengahaa
+bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 nontonfilm77.com###wrap > table
 senimovie.info,senimovies.net##.ad-float-image
 komikbaru.com##.ad.b300x250
@@ -56,6 +64,7 @@ elde.tv##.bannerwrap
 didrakorindo.com,indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-modal
 idtube.me##.bm.overlay
 bioskop99.me##.bot.ads
+otakuindo.org##.box_banner
 tivipedia.com##.code-block-1.code-block
 tivipedia.com##.code-block-2.code-block
 nontonplus.com##.content-kuss-ikln
@@ -109,6 +118,7 @@ satujiwa.org##table
 ||34667c8ece5.com^
 ||9icmzvn6.website^$popup
 ||adbsys.icu^$popup
+||adplus.co.id^$third-party
 ||adpstatic.com^$third-party
 ||adreviewcamp.com^$third-party
 ||ads-link.net^$third-party
@@ -149,12 +159,14 @@ satujiwa.org##table
 ||ganool.city/iklan/$image
 ||ganool.link/wp-content/uploads/*.gif$image
 ||ganool.my.id/wp-content/uploads/2016/05/download-button.gif
+||gbrrrxbodqdlq.com^$popup
 ||gerwen.info^$popup,domain=ganool.is|ganool.ph
 ||ghaahq.com^$third-party
 ||gm21.xyz/wp-content/uploads/*.gif$image,~third-party
 ||gmovies.org/wp-content/uploads/*.gif$image
 ||goingsilltrusty.com^
 ||hegarberetrof.pro^$popup
+||herdethi.net^$third-party
 ||hesftig.site^$third-party
 ||hightech.web.id^*/?site=$popup
 ||hoegutvie.com^$popup
@@ -165,6 +177,8 @@ satujiwa.org##table
 ||images.gameweb.co.id/gw/ads/
 ||img.nt1.co/*.gif$image,domain=dramaserial.xyz
 ||img.sukipli.com/*.gif$image,third-party
+||img.topddl.net^$image,domain=nanimex.com
+||impulse.forkcdn.com/impulse3/config/impulse.js
 ||indoforum.top/banners/
 ||indofreeads.com^$third-party
 ||istana-impian2.com^$popup,third-party
@@ -176,6 +190,8 @@ satujiwa.org##table
 ||juragan21.com/wp-content/uploads/*.gif$image
 ||juruiklan.com^$third-party
 ||kdbumyha.com^$popup
+||kentut.xyz/data/*.gif$image
+||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
 ||kotaksilver.casa^$third-party
 ||kozoysnsx.com^$popup
 ||lapak-online.net^$popup,third-party
@@ -198,13 +214,19 @@ satujiwa.org##table
 ||nontonbareng.tv/wp-content/uploads/*.gif$image
 ||nontonbox.tv/img/closeX.png
 ||nontonbox.tv/wp-content/uploads/*.gif$image
+||nontonfilmgratis.club/image/*.webp$image,domain=ragihospitalkukatpally.com
+||nontonfilmku.*/wp-content/uploads/*.gif$image
 ||nontonindrama.com/oke/*.gif$image
 ||nontonindrama.com/okes/*.gif$image
 ||nontonmovie.web.id/banere/*.gif$image
+||nontonstreaming.co/wp-content/uploads/*.gif$image
+||nontonsub.*/wp-content/uploads/*.gif$image
 ||oardjnay.com^
 ||offer.popsads.link^$script
+||offerjuice.me^$popup,third-party
 ||olkrzytv.com^$popup
 ||olmsoneenh.info^$popup
+||onclkds.com^$popup,third-party
 ||onigagalai.ru^$third-party
 ||ourtherss.top^$third-party
 ||p01.notifa.info^
@@ -225,6 +247,9 @@ satujiwa.org##table
 ||pusatiklan.com^$third-party
 ||pvwtkxcpsrcsd.com^
 ||q1xyxm89.com^$popup
+||ragihospitalkukatpally.com/image/*.webm$image,~third-party
+||rajatraffic.com^$third-party
+||raw.githack.com/jefcom/jefar/master/jefar.js$script
 ||replase.gq^$popup,third-party
 ||replase.ml^$popup,third-party
 ||ridingintractable.com^$popup
@@ -240,6 +265,7 @@ satujiwa.org##table
 ||shqbsdjatunl.com^$popup
 ||situsiklanbaris.com^$third-party
 ||spanuletubings.com^$popup,third-party
+||sumberiklan.com^$third-party
 ||suryaiklan.com^$third-party
 ||tambahketinggian.com/banner/
 ||tidnqztumpnk.com^$popup
@@ -264,29 +290,3 @@ satujiwa.org##table
 ||yourhealthnoone.com/wt213ad/$subdocument
 ||ys3e965d.top^$third-party
 ||zuyejecgb.com^$popup
-||rajatraffic.com^$third-party
-||gbrrrxbodqdlq.com^$popup
-||adplus.co.id^$third-party
-||herdethi.net^$third-party
-||offerjuice.me^$popup,third-party
-||onclkds.com^$popup,third-party
-||sumberiklan.com^$third-party
-||img.topddl.net^$image,domain=nanimex.com
-||impulse.forkcdn.com/impulse3/config/impulse.js
-||kentut.xyz/data/*.gif$image
-||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
-||nontonfilmgratis.club/image/*.webp$image,domain=ragihospitalkukatpally.com
-||nontonfilmku.*/wp-content/uploads/*.gif$image
-||nontonstreaming.co/wp-content/uploads/*.gif$image
-||nontonsub.*/wp-content/uploads/*.gif$image
-||ragihospitalkukatpally.com/image/*.webm$image,~third-party
-||raw.githack.com/jefcom/jefar/master/jefar.js$script
-downloadfilmbaru.com###ads-stack
-downloadfilmbaru.com###close-ads-stack
-komiku.net###floatads2
-komiku.net###floatads3
-downloadfilmbaru.com###itro_opaco
-downloadfilmbaru.com###itro_popup
-lk21.cc###tengah > span
-bioskop55.club###wrap > .headborder > .headcontent > .textwidget
-otakuindo.org##.box_banner
