@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202506132205
+! Version: 202506150033
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 13 Jun 2025 22:05 UTC
+! Last modified: 15 Jun 2025 00:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -947,6 +947,7 @@ layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
 layarkaca21.*###pbanner
 layarkaca21.*###ptbanner
+metrotvnews.com##.ads
 motorplus-online.com###ad-below-photo-container
 motorplus-online.com##div#composite-container
 nontonanimeid.*##.banner_player
@@ -995,7 +996,6 @@ chip.co.id###TopBannerBg
 kompas.tv###_popIn_recommend_word
 mangacanblog.com###aa
 motorplus-online.com###ad-genie-container
-suara.com###adds-top
 mirrorkomik.net###adrandpop
 budiarto.id,idxchannel.com###ads
 dapurpacu.com###ads-728
@@ -1054,8 +1054,6 @@ ayobandung.com,ayojakarta.com,jawapos.com,pikiran-rakyat.com###cont-megabillboar
 kompas.com###credential_picker_container
 onnano.tv###custom-popup
 tirto.id###delayedPopup
-suara.com###desktop-native-1
-suara.com###desktop-native-2
 ggwp.id###detailSkinAdLeft
 ggwp.id###detailSkinAdRight
 kapanlagi.com,liputan6.com###dfp-bframe-cont
@@ -1069,7 +1067,6 @@ blog.tribunjualbeli.com,tribunnews.com###div-Right-MediumRectangle-1
 makassar.tribunnews.com###div-Right-MediumRectangle-3
 blog.tribunjualbeli.com###div-Top-Leaderboard
 tribunnews.com###div-Tribunnews-Home-Center-2-FullBanner
-suara.com###div-ad-dbt
 motorplus-online.com###div-paralax-container
 grid.id###div-top-banner-transparent
 negumo.com###fab
@@ -1174,7 +1171,6 @@ lihat.co.id###overlay[style="display: block;"]
 15.235.11.45,65.108.132.145,animekhor.org,animexin.top,oploverz.best,oploverz.bz,oploverz.info,oploverz.love,oploverz.top###overplay
 inews.id###parallax-ad
 haibunda.com###parallaxdetail
-suara.com###pariwara_dua
 eramuslim.com###peluang
 indoxx1.com###player-side-right
 dramamu.net,lk21.io###popup_content
@@ -1254,7 +1250,6 @@ loveindonesia.com##.ad_990_80
 terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
-hitekno.com,suara.com##.adds-top.add
 serialmovieislami.com##.adore-adver
 192.99.70.18,95.216.163.177,akurat.co,ayobandung.com,ayojakarta.com,dapurpacu.com,download-lagu-mp3.com,duniafilm21.com,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,jatimnetwork.com,jawapos.com,k-vid.net,katadata.co.id,kompas.com,koran-jakarta.com,masagipedia.com,miyanime.site,okezone.com,otakuindo.net,pikiran-rakyat.com,republika.co.id,smallencode.com,tempo.co,timenews.co.id,www.melintas.id##.ads
 arahpandang.com##.ads--stick-parent
@@ -1409,8 +1404,6 @@ budiarto.id##.bausastra-ads
 detik.com##.bb_banner
 tribunnews.com##.belanja-picks
 manganime.live##.berlangganan-500
-suara.com##.bg-ads-sticky-side
-suara.com##.bg-ads-sticky-top
 inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
 bharian.com.my##.bh-ad
 ceklissatu.com##.billboard
@@ -1663,20 +1656,11 @@ tempo.co##.parallax-box
 haibunda.com##.parallax1
 detik.com##.parallax_abs
 medcom.id##.parallax_ads
-suara.com##.parallax_swipe
 beritasiber.com##.parallaxads
 beritasiber.com##.parallaxads-box
 cnnindonesia.com,detik.com,haibunda.com##.parallaxindetail
 bgibola.com##.pc-only.inline-banner
 brilio.net,briliobeauty.net,briliofood.net##.placeholder-container
-suara.com##.placeholder_belt
-suara.com##.placeholder_expose
-bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com,suara.com##.placeholder_leaderboard
-suara.com##.placeholder_medium
-bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com,suara.com##.placeholder_r1
-suara.com##.placeholder_r2
-suara.com##.placeholder_r3
-suara.com##.placeholder_read_body
 hrv.okestream365.xyz##.player-button-ad
 juragan.film##.pop-overlay
 hrv.okestream365.xyz,juragan.film##.popbox
@@ -1775,7 +1759,6 @@ kompas.id##.w-full.relative.z-0.flex.flex-1.flex-col.items-stretch.max-w-\[320px
 sindonews.com##.warp-ads-paralax
 teknologi.inilah.com##.wb-300x250
 medcom.id##.widebanner.banner
-suara.com##.widget-ads-top
 stampeippogrifo.com##.widget_custom_html
 komiku.com##.widget_text:has([href^="https://shope.ee/"])
 cantika.com##.width-ads
@@ -1810,9 +1793,6 @@ tv.lk21official.world##[href^="https://klik4.me/dunia21"]
 kiryuu01.com##[href^="https://linkfast.asia/"]
 lewat.club##[href^="https://manjur.id/search.php"]
 lk21official.wiki##[href^="https://yukclick.me/dunia21"]
-idntimes.com##[id^="IDN_InArticle"]
-idntimes.com##[id^="IDN_Leaderboard"]
-suara.com##[id^="berita-terkait-"]
 lk21official.mom##[id^="btop-"]
 nontonfilmgratis.club,ragihospitalkukatpally.com##[id^="floating_banner"]
 mangaku.bio##[id^="ftads"]
@@ -1855,7 +1835,6 @@ juragan.film##body:style(overflow: auto !important; position: unset !important; 
 gigapurbalingga.net,kuyhaa-me.com##center
 smartphoneku.com##div.ad-before
 nextren.grid.id##div.banner-r
-suara.com##div.placeholder_pariwara
 medcom.id##div.showcase.banner
 medcom.id##div.skycrapper.banner
 cnbcindonesia.com##div.undefined
@@ -1897,12 +1876,37 @@ info.gambar.pro,info.vebma.com##img[width="320"][height="105"]
 animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
+! Suara.com Networks
+suara.com###adds-top
+suara.com###desktop-native-1
+suara.com###desktop-native-2
+suara.com###div-ad-dbt
+suara.com###pariwara_dua
+suara.com###recWidgetRecommendation
+hitekno.com,suara.com##.adds-top.add
+suara.com##.bg-ads-sticky-side
+suara.com##.bg-ads-sticky-top
+suara.com##.mgidwidget
+suara.com##.parallax_swipe
+suara.com##.placeholder_belt
+suara.com##.placeholder_expose
+bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com,suara.com##.placeholder_leaderboard
+suara.com##.placeholder_medium
+bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com,suara.com##.placeholder_r1
+suara.com##.placeholder_r2
+suara.com##.placeholder_r3
+suara.com##.placeholder_read_body
+suara.com##.widget-ads-top
+suara.com##[id^="berita-terkait-"]
+suara.com##div.placeholder_pariwara
 ! Grid Networks
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id##.clearfix.ads__top-big
+gridoto.com##.geniee-box
 grid.id##.title__default
+gridoto.com##div.ads__side
 ! IDN Networks
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR1-wrapper
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR2-wrapper
@@ -1921,6 +1925,8 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.co##.css-t1oq30
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-urr7k6
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-y6gr35
 idntimes.com##.wrapper-megabillboard
+idntimes.com##[id^="IDN_InArticle"]
+idntimes.com##[id^="IDN_Leaderboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed.css-1sg3kbb
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed.css-6aejgs
@@ -1931,6 +1937,12 @@ tokopedia.com#?#div[data-testid="divCarouselProduct"]:has(span:-abp-contains(/^A
 tokopedia.com#?#div[data-testid="lazy-frame"]:has(span:-abp-contains(/^Ad$/))
 tokopedia.com#?#div[data-testid^="divProductRecommendation"]:has(span:-abp-contains(/^Ad$/))
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
+! Malaysian section
+astroawani.com##.AdvertisementContainer_adsContainer__tKpDh
+malaysiakini.com##.h-\[250px\]
+malaysiakini.com##.min-h-\[90px\]
+malaysiakini.com##.my-5
+malaysiakini.com##.print\:hidden.w-300px
 ! --------------------------- adult ------------------------------!
 ! *** abpindo:src/adult/adult_general_block.txt ***
 -abgqq.$image

@@ -1,5 +1,4 @@
 ! Entity filters
-metrotvnews.com##.ads
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
@@ -59,6 +58,7 @@ layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
 layarkaca21.*###pbanner
 layarkaca21.*###ptbanner
+metrotvnews.com##.ads
 motorplus-online.com###ad-below-photo-container
 motorplus-online.com##div#composite-container
 nontonanimeid.*##.banner_player
@@ -993,9 +993,11 @@ suara.com###desktop-native-1
 suara.com###desktop-native-2
 suara.com###div-ad-dbt
 suara.com###pariwara_dua
+suara.com###recWidgetRecommendation
 hitekno.com,suara.com##.adds-top.add
 suara.com##.bg-ads-sticky-side
 suara.com##.bg-ads-sticky-top
+suara.com##.mgidwidget
 suara.com##.parallax_swipe
 suara.com##.placeholder_belt
 suara.com##.placeholder_expose
@@ -1008,16 +1010,14 @@ suara.com##.placeholder_read_body
 suara.com##.widget-ads-top
 suara.com##[id^="berita-terkait-"]
 suara.com##div.placeholder_pariwara
-suara.com##.mgidwidget
-suara.com###recWidgetRecommendation
 ! Grid Networks
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id##.clearfix.ads__top-big
+gridoto.com##.geniee-box
 grid.id##.title__default
 gridoto.com##div.ads__side
-gridoto.com##.geniee-box
 ! IDN Networks
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR1-wrapper
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR2-wrapper
@@ -1036,11 +1036,11 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.co##.css-t1oq30
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-urr7k6
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-y6gr35
 idntimes.com##.wrapper-megabillboard
+idntimes.com##[id^="IDN_InArticle"]
+idntimes.com##[id^="IDN_Leaderboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed.css-1sg3kbb
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed.css-6aejgs
-idntimes.com##[id^="IDN_InArticle"]
-idntimes.com##[id^="IDN_Leaderboard"]
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
@@ -1050,7 +1050,7 @@ tokopedia.com#?#div[data-testid^="divProductRecommendation"]:has(span:-abp-conta
 cloud.majalahhewan.com,info.vebma.com#?#span:-abp-contains(Advertisement)
 ! Malaysian section
 astroawani.com##.AdvertisementContainer_adsContainer__tKpDh
-malaysiakini.com##.my-5
 malaysiakini.com##.h-\[250px\]
 malaysiakini.com##.min-h-\[90px\]
+malaysiakini.com##.my-5
 malaysiakini.com##.print\:hidden.w-300px
