@@ -50,5 +50,6 @@ republika.co.id##.show.fade.modal-backdrop
 insertlive.com##.smartbanner_new
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative
+gridoto.com##.grid-plus
 ! uBlock Specific
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
