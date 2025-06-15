@@ -1,4 +1,9 @@
 ! Entity filters
+vnn.co.id##.section.Atas.Iklan
+vnn.co.id###floatads
+vnn.co.id##.googlepublisherads
+vnn.co.id##.iklan-bawah-postingan
+vnn.co.id##.inline-ad
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
