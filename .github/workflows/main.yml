@@ -34,6 +34,7 @@ jobs:
         # flrender commands for abpindo filters
         flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo.template $GITHUB_WORKSPACE/subscriptions/abpindo.txt
         flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_extended.template $GITHUB_WORKSPACE/subscriptions/abpindo_extended.txt
+        flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_annoyances.template $GITHUB_WORKSPACE/subscriptions/abpindo_annoyances.txt
         flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_hosts.template $GITHUB_WORKSPACE/subscriptions/abpindo_hosts.txt
         flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_hosts_adult.template $GITHUB_WORKSPACE/subscriptions/abpindo_hosts_adult.txt
         flrender -i abpindo=. $GITHUB_WORKSPACE/abpindo_noadult.template $GITHUB_WORKSPACE/subscriptions/abpindo_noadult.txt
