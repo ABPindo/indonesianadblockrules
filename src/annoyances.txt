@@ -36,6 +36,7 @@ detik.com##.float-vid__content
 kompas.com##.gate-kgplus
 liputan6.com##.gateway__mobile-app
 inews.id##.getawayApp
+gridoto.com##.grid-plus
 kompas.com,sonora.id##.kgnw-middle-ready.kgnw-middle
 kompas.com##.kgnw-player
 inilah.com##.mui-style-1tl651l.MuiStack-root
@@ -50,6 +51,5 @@ republika.co.id##.show.fade.modal-backdrop
 insertlive.com##.smartbanner_new
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative
-gridoto.com##.grid-plus
 ! uBlock Specific
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
