@@ -1012,6 +1012,7 @@ gridoto.com##div.ads__side
 ! IDN Networks
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR1-wrapper
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR2-wrapper
+idntimes.com###ads-infeed
 fortuneidn,fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-13bgxac
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1614bu0
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-172jeyh
@@ -1027,14 +1028,12 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com##.css-t1oq30
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-urr7k6
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-y6gr35
 idntimes.com##.wrapper-megabillboard
+idntimes.com##[id^="IDN_Billboard"]
 idntimes.com##[id^="IDN_InArticle"]
 idntimes.com##[id^="IDN_Leaderboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed.css-1sg3kbb
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed.css-6aejgs
-idntimes.com###ads-infeed
-idntimes.com##[id^="IDN_Billboard"]
-idntimes.com##[id^="wrapper-IDN_MegaBillboard"]
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
