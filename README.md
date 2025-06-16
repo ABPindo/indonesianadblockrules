@@ -2,7 +2,7 @@
 
 # ABPindo
 
-ABPindo adalah daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia, yang melengkapi penapis internasional seperti [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) dan [AdGuard Base filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt). ABPindo menggunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters) dan kompatibel dengan ekstensi seperti [Adblock Plus](https://adblockplus.org/), [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), dan adblocker sejenis. Kini, ABPindo juga menyediakan penapis berbasis sintaks host dan domain, kompatibel dengan [AdAway](https://github.com/AdAway/AdAway), [Pi-Hole](https://github.com/pi-hole/pi-hole), [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome), dan penapis berbasis DNS lainnya.
+ABPindo adalah daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia, yang melengkapi penapis internasional seperti [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) dan [AdGuard Base filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt). ABPindo menggunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters) dan kompatibel dengan ekstensi seperti [Adblock Plus](https://adblockplus.org/), [uBlock Origin](https://github.com/gorhill/uBlock#installation), [uBlock Origin Lite (Chrome dan Chromium-Based)](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), dan adblocker sejenis. Kini, ABPindo juga menyediakan penapis berbasis sintaks host dan domain, kompatibel dengan [AdAway](https://github.com/AdAway/AdAway), [Pi-Hole](https://github.com/pi-hole/pi-hole), [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome), dan penapis berbasis DNS lainnya.
 
 ## Keuntungan
 - **Lebih Bersih**: Tanpa iklan promosi berlebihan, iklan judi, dan iklan dewasa
@@ -11,9 +11,11 @@ ABPindo adalah daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia
 
 ## Cara Menggunakan
 1. Jalankan peramban web favorit Anda (Firefox, Chrome, Opera, Safari, dll.)
-2. Pasang ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenis
+2. Pasang ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [uBlock Origin Lite (Chrome dan Chromium-Based)](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenis
 3. Nyalakan filter ABPindo dengan klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)
 4. Atau, salin tautan dari kolom **Raw File** dan tambahkan secara manual melalui pengaturan filter di ekstensi.
+
+**NOTE:** Apabila menggunakan uBlock origin Lite maka [setel default filtering mode ke complete](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/docs/455486093-4bc27a5b-6dcb-406d-b46e-13092ece89c8.png) untuk memastikan bahwa semua elemen iklan terblokir
 
 ## Variasi filter ABPindo untuk Pemblokir browser
 | Langganan|Raw File |Keterangan|
