@@ -991,20 +991,18 @@ suara.com###desktop-native-2
 suara.com###div-ad-dbt
 suara.com###pariwara_dua
 suara.com###pariwara_satu
-suara.com##.placeholder_expose2
-matamata.com,guideku.com##.banner-ads--big
-bolatimes.com,guideku.com##.adds-top.add
-bolatimes.com,matamata.com,guideku.com##.anchor_banner
-matamata.com,bolatimes.com,guideku.com##.detail-content > div
-bolatimes.com,matamata.com,guideku.com##.banner-ads--big
 suara.com###recWidgetRecommendation
-hitekno.com,suara.com##.adds-top.add
+bolatimes.com,guideku.com,hitekno.com,suara.com##.adds-top.add
+bolatimes.com,guideku.com,matamata.com##.anchor_banner
+bolatimes.com,guideku.com,matamata.com##.banner-ads--big
 suara.com##.bg-ads-sticky-side
 suara.com##.bg-ads-sticky-top
+bolatimes.com,guideku.com,matamata.com##.detail-content > div
 suara.com##.mgidwidget
 suara.com##.parallax_swipe
 suara.com##.placeholder_belt
 suara.com##.placeholder_expose
+suara.com##.placeholder_expose2
 bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com,suara.com##.placeholder_leaderboard
 suara.com##.placeholder_medium
 bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com,suara.com##.placeholder_r1
