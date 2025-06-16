@@ -990,6 +990,13 @@ suara.com###desktop-native-1
 suara.com###desktop-native-2
 suara.com###div-ad-dbt
 suara.com###pariwara_dua
+suara.com###pariwara_satu
+suara.com##.placeholder_expose2
+matamata.com,guideku.com##.banner-ads--big
+bolatimes.com,guideku.com##.adds-top.add
+bolatimes.com,matamata.com,guideku.com##.anchor_banner
+matamata.com,bolatimes.com,guideku.com##.detail-content > div
+bolatimes.com,matamata.com,guideku.com##.banner-ads--big
 suara.com###recWidgetRecommendation
 hitekno.com,suara.com##.adds-top.add
 suara.com##.bg-ads-sticky-side
