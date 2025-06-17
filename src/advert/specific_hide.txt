@@ -1,5 +1,6 @@
 ! Entity filters
 tempo.co##.overflow-hidden.my-6
+tempo.co###ads-main-2
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
