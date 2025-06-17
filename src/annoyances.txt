@@ -18,6 +18,7 @@ yummy.co.id##.css-1yxywc5
 tribunnews.com##.desk-bannerslide
 tokopedia.com##.e1nc1fa20.css-kl3gjj
 tokopedia.com##.e90j6ys0.css-1b94wk9-unf-overlay
+edge.id##.elementor-popup-modal
 detik.com##.float-vid__content
 kompas.com##.gate-kgplus
 liputan6.com##.gateway__mobile-app
@@ -36,16 +37,15 @@ republika.co.id##.show.fade.modal-backdrop
 insertlive.com##.smartbanner_new
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative
-edge.id##.elementor-popup-modal
 ! Grid Networks
 grid.id###buttonGridstore
 motorplus-online.com###floatingIframe
 motorplus-online.com##.floatingIframe
+gridoto.com##.grid-plus
 sonora.id##.kgnowGate.sidebar.video-box-wrap
 grid.id,gridoto.com##.kgnowGate.video-box-wrap
 bobo.grid.id,bolasport.com##.mb10.text-center.row
 haibunda.com##.mt-\[65px\].duration-700.ease-in.right-0.left-0.z-\[12345\].top-0.fixed.shadow-lg.rounded-md.p-2.text-hb-black.bg-white.m-auto.h-auto.w-\[330px\].pushnotif
-gridoto.com##.grid-plus
 ! IDN Networks
 idntimes.com##.anchor-button
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1lh0foa
