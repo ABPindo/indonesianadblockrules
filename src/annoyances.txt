@@ -45,7 +45,7 @@ gridoto.com##.grid-plus
 sonora.id##.kgnowGate.sidebar.video-box-wrap
 grid.id,gridoto.com##.kgnowGate.video-box-wrap
 bobo.grid.id,bolasport.com##.mb10.text-center.row
-haibunda.com##.mt-\[65px\].duration-700.ease-in.right-0.left-0.z-\[12345\].top-0.fixed.shadow-lg.rounded-md.p-2.text-hb-black.bg-white.m-auto.h-auto.w-\[330px\].pushnotif
+haibunda.com##.transition-all.gap-4.w-full.grid.z-10.isolate.bottom-0.fixed.pointer-events-none
 ! IDN Networks
 idntimes.com##.anchor-button
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1lh0foa
