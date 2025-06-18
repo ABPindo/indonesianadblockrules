@@ -1,6 +1,4 @@
 ! Entity filters
-tempo.co##.overflow-hidden.my-6
-tempo.co###ads-main-2
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
@@ -92,6 +90,8 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
+tempo.co###ads-main-2
+tempo.co##.overflow-hidden.my-6
 tempo.co##[src="/_ipx/_/close.png"]
 vnn.co.id###floatads
 vnn.co.id##.googlepublisherads
