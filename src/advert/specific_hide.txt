@@ -987,8 +987,6 @@ animebatchs.com##img[width="720"][height="90"]
 doroni.me##ins.adsbygoogle
 cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 ! Suara.com Networks
-matamata.com##.wrap-ads-leaderboard
-matamata.com.wrap-ads-r
 suara.com###adds-top
 suara.com###desktop-native-1
 suara.com###desktop-native-2
@@ -1014,8 +1012,10 @@ suara.com##.placeholder_r2
 suara.com##.placeholder_r3
 suara.com##.placeholder_read_body
 suara.com##.widget-ads-top
+matamata.com##.wrap-ads-leaderboard
 suara.com##[id^="berita-terkait-"]
 suara.com##div.placeholder_pariwara
+matamata.com.wrap-ads-r
 ! Grid Networks
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
