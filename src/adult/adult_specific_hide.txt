@@ -1,39 +1,3 @@
-! Entity filters
-agenbokep.*##.popbox
-anoboy.*##[href="https://klik.gg/anoboy"]
-anoboy.*##[href="https://klik.gg/anoboyvip"]
-bokep.pemersatu.top##.ad-container
-drbokep.*##.loaded.ads-50
-dutasex.*###ads
-igobokep.*###floatbanner-bottom
-kingbokep.pro##.\[grid-area\:ads1\]
-komikdewasa.*###teaser3
-komikdewasa.*##.kln
-komikdewasa.*##.teaser4
-komikindo.*##.ads
-komikremaja.*###teaser3
-komikremaja.*##.kln
-lendirpedia.*##.kln
-lendirpedia.*##.teaser3
-manhwaindo.*###teaser3
-manhwaindo.*##.kln
-pascol.*##.ays-pb-modals
-pascol.*##.kln
-pascol.*##.teaser3
-pemersatu.*##.ad
-pemersatu.*##[role="advertisement"]
-pemersatu.*##div[aria-label="Iklan"]
-perawanbokep.*###ads
-ruangbokep.*###floating_bot
-rumahparaperjaka.*##.elementor-popup-modal
-rumahperjaka.*###floatbannerkanan
-rumahperjaka.*###floatbannerkiri
-rumahperjaka.*###floating_banner_top
-rumahperjaka.*##.elementor-popup-modal
-sintube.*##.ays-pb-modals
-skandalpedia.*##.kln
-streamingbokeponline.*###floating_bot
-! Non-entity filters
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.com,dutasex.top,inibokep.bet,malemjumat.ink###ads
 pemersatufun.com###advertisement
@@ -69,6 +33,7 @@ hencop.lol,komikcast02.com###teaser4
 hencop.com###teaser7
 158.69.0.212###top-banner
 173.249.49.204###tutupen
+kingbokep.pro##.\[grid-area\:ads1\]
 sangetods.net##.active.adde_modal-overlay
 pemersatu.com,pemersatudotfun.com,pemersatufun.site##.ad
 bokep.pemersatu.top##.ad-container
@@ -126,12 +91,38 @@ slurr.my.id##[href^="https://scratchy-trick.com/"]
 pemersatu.com##[role="advertisement"]
 doujindesu.tv##a[href][target="_blank"] > img
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
+agenbokep.*##.popbox
+anoboy.*##[href="https://klik.gg/anoboy"]
+anoboy.*##[href="https://klik.gg/anoboyvip"]
 pemersatu.com##div[aria-label="Iklan"]
 nekopoi.care,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.lol##div[class^="mobileads"]
-! Allowlist for element hiding filters
-! Entity filters
-pemersatufun.*#@##adright
-! Non-entity filters
-pemersatu.top,pemersatudotfun.com,pemersatufun.site#@##adright
-semprot.com#@#.adUnit
+drbokep.*##.loaded.ads-50
+dutasex.*###ads
+igobokep.*###floatbanner-bottom
+komikdewasa.*###teaser3
+komikdewasa.*##.kln
+komikdewasa.*##.teaser4
+komikindo.*##.ads
+komikremaja.*###teaser3
+komikremaja.*##.kln
+lendirpedia.*##.kln
+lendirpedia.*##.teaser3
+manhwaindo.*###teaser3
+manhwaindo.*##.kln
+pascol.*##.ays-pb-modals
+pascol.*##.kln
+pascol.*##.teaser3
+pemersatu.*##.ad
+pemersatu.*##[role="advertisement"]
+pemersatu.*##div[aria-label="Iklan"]
+perawanbokep.*###ads
+ruangbokep.*###floating_bot
+rumahparaperjaka.*##.elementor-popup-modal
+rumahperjaka.*###floatbannerkanan
+rumahperjaka.*###floatbannerkiri
+rumahperjaka.*###floating_banner_top
+rumahperjaka.*##.elementor-popup-modal
+sintube.*##.ays-pb-modals
+skandalpedia.*##.kln
+streamingbokeponline.*###floating_bot
