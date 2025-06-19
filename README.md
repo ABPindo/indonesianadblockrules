@@ -15,7 +15,7 @@ ABPindo adalah daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia
 3. Nyalakan filter ABPindo dengan klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo).
 4. Atau, salin tautan dari kolom **Raw File** dan tambahkan secara manual melalui pengaturan filter di ekstensi.
 
-**NOTE:** Apabila menggunakan uBlock origin Lite maka [setel default filtering mode ke complete](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/docs/455486093-4bc27a5b-6dcb-406d-b46e-13092ece89c8.png) untuk memastikan bahwa semua elemen iklan terblokir
+**NOTE:** Apabila menggunakan uBlock origin Lite maka [setel default filtering mode ke complete](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/docs/455486093-4bc27a5b-6dcb-406d-b46e-13092ece89c8.png) untuk memastikan bahwa semua elemen iklan terblokir.
 
 ## Variasi filter ABPindo untuk Pemblokir browser
 | Langganan|Raw File |Keterangan|
