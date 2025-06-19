@@ -1020,10 +1020,11 @@ matamata.com.wrap-ads-r
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
 grid.id##.ads-partner-wrap.osmplaceonsite
-grid.id##.clearfix.ads__top-big
+grid.id,motorplus-online.com##.ads__top-big
 gridoto.com##.geniee-box
 grid.id##.title__default
-gridoto.com##div.ads__side
+gridoto.com,grid.id,motorplus-online.com##.ads__side
+grid.id,gridoto.com##.ads__horizontal
 ! IDN Networks
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR1-wrapper
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR2-wrapper
