@@ -26,3 +26,4 @@
 %include abpindo:src/adult/adult_specific_block.txt%
 %include abpindo:src/adult/adult_specific_hide.txt%
 %include abpindo:src/adult/adult_thirdparty.txt%
+%include abpindo:src/adult/adult_allowlist.txt%
