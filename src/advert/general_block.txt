@@ -1,3 +1,4 @@
+-Banner-Iklan-GIF-$image
 -banner-iklan-|$image
 -diskon-besar|$image
 -diskon-lebaran|$image
@@ -104,4 +105,3 @@
 /xbanner_iklan|$image
 _iklan-|$image
 _iklan_|$image
--Banner-Iklan-GIF-$image
