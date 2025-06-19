@@ -1020,7 +1020,7 @@ matamata.com.wrap-ads-r
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
 grid.id##.ads-partner-wrap.osmplaceonsite
-grid.id,motorplus-online.com##.ads__top-big
+grid.id,gridoto.com,motorplus-online.com##.ads__top-big
 gridoto.com##.geniee-box
 grid.id##.title__default
 gridoto.com,grid.id,motorplus-online.com##.ads__side
