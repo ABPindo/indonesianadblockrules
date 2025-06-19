@@ -377,7 +377,7 @@ dailysocial.id##.ads-article-inner
 dailysocial.id##.ads-article-sidebar
 alinea.id,femaledaily.com##.ads-billboard
 okezone.com##.ads-bottom-fixed
-briliobeauty.net##.ads-container
+briliobeauty.net,techno.id##.ads-container
 cantika.com##.ads-content-2
 cantika.com##.ads-full
 kompas.com##.ads-latest-wrap
