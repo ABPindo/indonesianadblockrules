@@ -10,7 +10,7 @@ ABPindo adalah daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia
 - **Lebih Cepat**: Tanpa iklan, waktu membuka laman web menjadi lebih singkat
 
 ## Cara Menggunakan
-1. Jalankan peramban web favorit Anda (Firefox, Chrome, Opera, Safari, dll.)
+1. Jalankan peramban web favorit Anda (Firefox, Chrome, Opera, Safari, dll).
 2. Pasang ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation), [uBlock Origin Lite (Chrome dan Chromium-Based)](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), [Adblock Plus](https://adblockplus.org/en/), atau adblocker sejenis
 3. Nyalakan filter ABPindo dengan klik [subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)
 4. Atau, salin tautan dari kolom **Raw File** dan tambahkan secara manual melalui pengaturan filter di ekstensi.
