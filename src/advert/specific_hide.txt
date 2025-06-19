@@ -72,8 +72,6 @@ oploverz.*###teaser1
 oploverz.*###teaser2
 oploverz.*###teaser3
 oploverz.*##.kln
-popmama.com##div#ads-infeed.css-1sg3kbb:nth-of-type(2)
-popmama.com##div#ads-infeed.css-1sg3kbb:nth-of-type(9)
 rebahin21.*###floating-banner
 rebahin21.*###rebahin-banner
 samehadaku.*###floatbottom
@@ -1048,6 +1046,8 @@ idntimes.com##[id^="IDN_Leaderboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed.css-1sg3kbb
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed.css-6aejgs
+popmama.com##div#ads-infeed.css-1sg3kbb:nth-of-type(2)
+popmama.com##div#ads-infeed.css-1sg3kbb:nth-of-type(9)
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
