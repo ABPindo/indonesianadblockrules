@@ -72,8 +72,6 @@ oploverz.*###teaser1
 oploverz.*###teaser2
 oploverz.*###teaser3
 oploverz.*##.kln
-popmama.com##div#ads-infeed.css-1sg3kbb:nth-of-type(2)
-popmama.com##div#ads-infeed.css-1sg3kbb:nth-of-type(9)
 rebahin21.*###floating-banner
 rebahin21.*###rebahin-banner
 samehadaku.*###floatbottom
@@ -377,7 +375,7 @@ dailysocial.id##.ads-article-inner
 dailysocial.id##.ads-article-sidebar
 alinea.id,femaledaily.com##.ads-billboard
 okezone.com##.ads-bottom-fixed
-briliobeauty.net##.ads-container
+briliobeauty.net,techno.id##.ads-container
 cantika.com##.ads-content-2
 cantika.com##.ads-full
 kompas.com##.ads-latest-wrap
@@ -859,7 +857,6 @@ grid.id##.top_banner-wrapper
 beritasatu.com,jakartaglobe.id##.underlay-ad
 beritasatu.com,investor.id##.underlay-ad-text-box
 mosaikislam.com##.urutan_artikel
-kompas.com##.video-box-wrap
 mydramalist.com##.vip-info
 bacasaja.id##.w-100.gbrNews
 marketeers.com##.w-\[300px\]
@@ -1028,7 +1025,7 @@ gridoto.com##div.ads__side
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR1-wrapper
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR2-wrapper
 idntimes.com###ads-infeed
-fortuneidn,fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-13bgxac
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-13bgxac
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1614bu0
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-172jeyh
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1e66tux
@@ -1047,11 +1044,11 @@ idntimes.com##[id^="IDN_Billboard"]
 idntimes.com##[id^="IDN_InArticle"]
 idntimes.com##[id^="IDN_Leaderboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
-fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed.css-1sg3kbb
-fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed.css-6aejgs
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
 ! MNC Networks
 okezone.com##.title-ads
 sindonews.com##.adsload
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
