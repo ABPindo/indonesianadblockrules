@@ -1012,7 +1012,7 @@ suara.com##.widget-ads-top
 matamata.com##.wrap-ads-leaderboard
 suara.com##[id^="berita-terkait-"]
 suara.com##div.placeholder_pariwara
-matamata.com.wrap-ads-r
+matamata.com##.wrap-ads-r
 ! Grid Networks
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
@@ -1044,6 +1044,10 @@ idntimes.com##[id^="IDN_Billboard"]
 idntimes.com##[id^="IDN_InArticle"]
 idntimes.com##[id^="IDN_Leaderboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
+! MNC Networks
+okezone.com##.title-ads
+sindonews.com##.adsload
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
