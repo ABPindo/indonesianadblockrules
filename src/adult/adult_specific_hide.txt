@@ -1,4 +1,3 @@
-! Entity filters
 agenbokep.*##.popbox
 anoboy.*##[href="https://klik.gg/anoboy"]
 anoboy.*##[href="https://klik.gg/anoboyvip"]
@@ -33,7 +32,6 @@ rumahperjaka.*##.elementor-popup-modal
 sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
-! Non-entity filters
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.com,dutasex.top,inibokep.bet,malemjumat.ink###ads
 pemersatufun.com###advertisement
@@ -129,9 +127,3 @@ semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 pemersatu.com##div[aria-label="Iklan"]
 nekopoi.care,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.lol##div[class^="mobileads"]
-! Allowlist for element hiding filters
-! Entity filters
-pemersatufun.*#@##adright
-! Non-entity filters
-pemersatu.top,pemersatudotfun.com,pemersatufun.site#@##adright
-semprot.com#@#.adUnit
