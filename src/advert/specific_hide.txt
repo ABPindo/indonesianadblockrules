@@ -1013,7 +1013,6 @@ matamata.com##.wrap-ads-leaderboard
 matamata.com##.wrap-ads-r
 suara.com##[id^="berita-terkait-"]
 suara.com##div.placeholder_pariwara
-matamata.com##.wrap-ads-r
 ! Grid Networks
 grid.id###div-Inside-MediumRectangle
 grid.id###outbrain-container
