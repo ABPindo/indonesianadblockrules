@@ -1,5 +1,6 @@
 ! Entity filters
 fimela.com###in-image-ads
+bola.net,dream.co.id##.dfp-bframe-cont
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
