@@ -25,8 +25,7 @@ kompas.com##.gate-kgplus
 liputan6.com##.gateway__mobile-app
 inews.id##.getawayApp
 kompas.com,sonora.id##.kgnw-middle-ready.kgnw-middle
-kompas.com,kompas.tv,grid.id,gridoto.com,motorplus-online.com##.kgnw-player
-sonora.id##kgnw-middle-player
+grid.id,gridoto.com,kompas.com,kompas.tv,motorplus-online.com##.kgnw-player
 inilah.com##.mui-style-1tl651l.MuiStack-root
 hukumonline.com##.my-2.d-flex.ps-ads-banner
 brainacademy.id##.normalize-css
@@ -41,6 +40,7 @@ brainacademy.id##.side-banner-mobile
 insertlive.com##.smartbanner_new
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative
+sonora.id##kgnw-middle-player
 ! Grid Networks
 grid.id###buttonGridstore
 motorplus-online.com###floatingIframe
