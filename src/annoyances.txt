@@ -4,7 +4,7 @@ tvonenews.com###btt
 javmiu.xyz###disclaimer
 detik.com###notification_newsfeed
 antaranews.com###scroll-top
-regional.kompas.com##+js(aeld, scroll, kgSticky)
+kompas.com##+js(aeld, scroll, kgSticky)
 kompasiana.com##.align-center.floatingWrap
 hariantimes.com##.banner-content
 brainacademy.id##.banner-product
@@ -25,7 +25,8 @@ kompas.com##.gate-kgplus
 liputan6.com##.gateway__mobile-app
 inews.id##.getawayApp
 kompas.com,sonora.id##.kgnw-middle-ready.kgnw-middle
-kompas.com##.kgnw-player
+kompas.com,kompas.tv,grid.id,gridoto.com,motorplus-online.com##.kgnw-player
+sonora.id##kgnw-middle-player
 inilah.com##.mui-style-1tl651l.MuiStack-root
 hukumonline.com##.my-2.d-flex.ps-ads-banner
 brainacademy.id##.normalize-css
