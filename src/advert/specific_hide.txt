@@ -450,7 +450,7 @@ kompas.tv##.alert
 indoxtream.com##.aligncenter
 palingseru.com##.alignnone.size-large.wp-image-458
 serialmovieislami.com##.alignnormal
-terasjakarta.id##.animated.ads
+terasjakarta.id##.ads
 autonetmagz.com##.anm__flying--ads-holder
 jpnn.com##.ans-300x250
 kurazone.net##.anuads
@@ -579,7 +579,7 @@ hrv.okestream365.xyz##.clappr-watermark
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
-arahpandang.com,aspirasiku.id,bandunginsider.com##.clearfix.mt3.ads
+arahpandang.com,aspirasiku.id,bandunginsider.com##.ads
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 bolasport.com##.cls-composite
