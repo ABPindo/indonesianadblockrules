@@ -367,9 +367,11 @@ arahpandang.com##.ads--stick-parent
 arahpandang.com##.ads--stick-parent-250px
 kilat.com,zonajakarta.com##.ads--stick-parent-400px.clearfix.mt3.ads
 republika.co.id##.ads-120__left
-rejogja.co.id##.ads-120__left.ads
+rejogja.co.id##.ads-120__left
+rejogja.co.id##.ads
 republika.co.id##.ads-120__right
-rejogja.co.id##.ads-120__right.ads
+rejogja.co.id##.ads-120__right
+rejogja.co.id##.ads
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
@@ -404,7 +406,8 @@ kompas.com##.adsMR1Lipsus1
 marketeers.com##.adsMarketeers
 inews.id##.adsPlacement
 republika.co.id##.ads_160x600
-rejogja.co.id##.ads_160x600.ads
+rejogja.co.id##.ads_160x600
+rejogja.co.id##.ads
 republika.co.id##.ads_970x250
 bolasport.com,gridoto.com,motorplus-online.com##.ads__boxr
 poskota.co.id##.ads__min-h-\[250px\]
