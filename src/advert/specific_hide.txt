@@ -1,4 +1,5 @@
 ! Entity filters
+mediaindonesia.com##.top-banner
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
