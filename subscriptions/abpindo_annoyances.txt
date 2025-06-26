@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202506261317
+! Version: 202506262124
 ! Title: ABPindo - Annoyances
 ! Description: Filter tambahan untuk ABPindo berupa elemen UI yang mengganggu seperti popup/overlay non iklan atau pemutar video otomatis pada situs berbahasa Indonesia.
-! Last modified: 26 Jun 2025 13:17 UTC
+! Last modified: 26 Jun 2025 21:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -74,5 +74,11 @@ idntimes.com##.anchor-button
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1lh0foa
 popmama.com##.css-cw25l4
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-urr7k6
+! brainly.co.id
+brainly.co.id##.SatisfactionSurvey-module__desktopContainer--1O2RM
+brainly.co.id##.Web2AppBanner-module__bannerVisible--ynal1
+brainly.co.id##.Web2AppBox-module__bg--9uwwE
+brainly.co.id##.Web2AppPopover-module__containerVisible--JNFBy
+brainly.co.id##.sg-dialog__overlay--open
 ! uBlock Specific
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
