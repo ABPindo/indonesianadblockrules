@@ -102,6 +102,7 @@
 ###imgiklanheader1
 ###imgiklanheader2
 ###imgiklantengah1
+###inpage-float-ad
 ###kode-iklan-atas
 ###kode-iklan-bawah
 ###kode-iklan-tengah1
@@ -360,4 +361,3 @@
 ##.topads-kanan
 ##.warning_iklan
 ##.widget_iklan_atas
-###inpage-float-ad
