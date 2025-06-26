@@ -1,5 +1,4 @@
 ! Entity filters
-mediaindonesia.com##.top-banner
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
@@ -63,6 +62,7 @@ layarkaca21.*###hbanner
 layarkaca21.*###pbanner
 layarkaca21.*###ptbanner
 medcom.id##.sticky_bottom
+mediaindonesia.com##.top-banner
 metrotvnews.com##.ads
 metrotvnews.com##.banner-header-ads
 motorplus-online.com###ad-below-photo-container
