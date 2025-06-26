@@ -1,4 +1,5 @@
-! Entity filters
+sindonews.com##.content-paralax:style(top: 0!important;)
+sindonews.com#@##header-ads
 anichin.*###floatcenter
 anichin.*###overplay
 anichin.*##.kln
@@ -101,7 +102,6 @@ vnn.co.id##.googlepublisherads
 vnn.co.id##.iklan-bawah-postingan
 vnn.co.id##.inline-ad
 vnn.co.id##.section.Atas.Iklan
-! Non-entity filters
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
