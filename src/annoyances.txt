@@ -1,7 +1,4 @@
 ! Title: ABPindo – Annoyances
-bloombergtechnoz.com##.banner-fix-bottom
-bloombergtechnoz.com##div:nth-of-type(5)
-bloombergtechnoz.com##.centering
 tribunnews.com###banner_article_slide
 tvonenews.com###btt
 javmiu.xyz###disclaimer
@@ -10,11 +7,13 @@ antaranews.com###scroll-top
 kompas.com##+js(aeld, scroll, kgSticky)
 kompasiana.com##.align-center.floatingWrap
 hariantimes.com##.banner-content
+bloombergtechnoz.com##.banner-fix-bottom
 brainacademy.id##.banner-product
 idxchannel.com##.berita--terkait-container
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
 cnnindonesia.com##.bottom-\[50px\].left-0.z-\[90\].fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
 detik.com##.breaking-detikpagi
+bloombergtechnoz.com##.centering
 republika.co.id##.container.row
 borneotrend.com##.cookie-consent
 sasa.co.id##.cookie_consent
@@ -45,6 +44,7 @@ brainacademy.id##.side-banner-mobile
 insertlive.com##.smartbanner_new
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative
+bloombergtechnoz.com##div:nth-of-type(5)
 sonora.id##kgnw-middle-player
 ! Grid Networks
 grid.id###buttonGridstore
