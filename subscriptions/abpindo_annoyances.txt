@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202506262124
+! Version: 202506262154
 ! Title: ABPindo - Annoyances
 ! Description: Filter tambahan untuk ABPindo berupa elemen UI yang mengganggu seperti popup/overlay non iklan atau pemutar video otomatis pada situs berbahasa Indonesia.
-! Last modified: 26 Jun 2025 21:24 UTC
+! Last modified: 26 Jun 2025 21:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -69,11 +69,16 @@ sonora.id##.kgnowGate.sidebar.video-box-wrap
 grid.id,gridoto.com##.kgnowGate.video-box-wrap
 bobo.grid.id,bolasport.com##.mb10.text-center.row
 haibunda.com##.transition-all.gap-4.w-full.grid.z-10.isolate.bottom-0.fixed.pointer-events-none
-! IDN Networks
+! IDN Networks https://github.com/ABPindo/indonesianadblockrules/pull/837
 idntimes.com##.anchor-button
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1lh0foa
 popmama.com##.css-cw25l4
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-urr7k6
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div.css-domd8m:nth-of-type(1)
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div.css-domd8m:nth-of-type(2)
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div.css-domd8m:nth-of-type(3)
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div.css-domd8m:nth-of-type(4)
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div.css-domd8m:nth-of-type(5)
 ! brainly.co.id
 brainly.co.id##.SatisfactionSurvey-module__desktopContainer--1O2RM
 brainly.co.id##.Web2AppBanner-module__bannerVisible--ynal1
