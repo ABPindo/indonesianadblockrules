@@ -61,9 +61,10 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1lh0foa
 popmama.com##.css-cw25l4
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-urr7k6
 ! brainly.co.id
-brainly.co.id##.sg-dialog__overlay--open.sg-dialog__overlay--scroll.sg-dialog__overlay--motion-default.sg-dialog__overlay--open--light.sg-dialog__overlay--size-m.sg-dialog__overlay.js-dialog
-brainly.co.id##.Web2AppPopover-module__containerVisible--JNFBy.Web2AppPopover-module__container--uI3Zh.sg-overlay--blue.sg-overlay
-brainly.co.id##.Web2AppBanner-module__bannerVisible--ynal1.Web2AppBanner-module__banner--utbVH.sg-flex--align-items-center.sg-flex--justify-content-center.sg-flex--full-width.sg-flex
-brainly.co.id##.SatisfactionSurvey-module__desktopContainer--1O2RM.sg-transition
+brainly.co.id##.sg-dialog__overlay--open
+brainly.co.id##.Web2AppBanner-module__bannerVisible--ynal1
+brainly.co.id##.Web2AppBox-module__bg--9uwwE
+brainly.co.id##.Web2AppPopover-module__containerVisible--JNFBy
+brainly.co.id##.SatisfactionSurvey-module__desktopContainer--1O2RM
 ! uBlock Specific
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
