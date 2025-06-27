@@ -102,6 +102,8 @@ nekopoi.care,nekopoi.lol##div[class^="mobileads"]
 drbokep.*##.loaded.ads-50
 dutasex.*###ads
 igobokep.*###floatbanner-bottom
+kingbokep.*##div.flex.w-full.justify-center.overflow-x-auto
+kingbokep.*##div[style="width:300px;height:250px;z-index:1"]
 komikdewasa.*###teaser3
 komikdewasa.*##.kln
 komikdewasa.*##.teaser4
@@ -128,5 +130,3 @@ rumahperjaka.*##.elementor-popup-modal
 sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
-kingbokep.*##div[style="width:300px;height:250px;z-index:1"]
-kingbokep.*##div.flex.w-full.justify-center.overflow-x-auto
