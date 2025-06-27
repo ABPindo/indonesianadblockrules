@@ -1,5 +1,4 @@
 ! Title: ABPindo – Annoyances
-inews.id##.widgetNewsTV__news24Jam
 tribunnews.com###banner_article_slide
 tvonenews.com###btt
 javmiu.xyz###disclaimer
@@ -46,6 +45,7 @@ brainacademy.id##.side-banner-mobile
 insertlive.com##.smartbanner_new
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative
+inews.id##.widgetNewsTV__news24Jam
 bloombergtechnoz.com##div:nth-of-type(5)
 sonora.id##kgnw-middle-player
 ! Grid Networks
