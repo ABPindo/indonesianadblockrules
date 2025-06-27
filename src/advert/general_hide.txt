@@ -34,6 +34,9 @@
 ###floatadsatas
 ###floatadsatas1
 ###floatadsbawah
+###floatbannerkanan
+###floatbannerkiri
+###floating_banner_top
 ###idiklan_kanan
 ###idiklan_kiri
 ###idmuvi-adb-enabled
@@ -120,6 +123,11 @@
 ###tupiklan
 ##.SectionAds
 ##.ad-bawah
+##.ad-container
+##.adBar-vertical
+##.adBar-vertical.left
+##.adBar-vertical.right
+##.ads-50
 ##.ads-atas
 ##.ads-atas-player
 ##.ads-bawah
@@ -337,6 +345,7 @@
 ##.ktz-bannersingletop
 ##.kurungiklan
 ##.labeliklan
+##.lazyloaded.ads-50
 ##.loading.ads-50
 ##.part_iklan_content
 ##.part_iklan_footer
@@ -362,12 +371,3 @@
 ##.warning_iklan
 ##.widget_iklan_atas
 ##div[aria-label="Iklan"]
-##.ad-container
-##.adBar-vertical
-##.ads-50
-##.lazyloaded.ads-50
-##.adBar-vertical.left
-##.adBar-vertical.right
-###floatbannerkanan
-###floatbannerkiri
-###floating_banner_top
