@@ -877,6 +877,7 @@ bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
 bioskopkeren.*##.ad_slot
 investor.id##body > .w-100.d-flex
+detik.com##body > div[id^="div-gpt-ad-"]
 intip24news.com##body.sticky-header:style(padding: unset!important;)
 tempo.co##body:remove-class(pad-apps)
 juragan.film##body:style(overflow: auto !important; position: unset !important; pointer-events: auto !important;)
@@ -895,6 +896,7 @@ medcom.id##div.skycrapper.banner
 cnbcindonesia.com##div.undefined
 kompas.com##div:has( > #gpt-passback)
 katadata.co.id##div:has( > [id^="div-gpt-ad"][class^="paralax"])
+wolipop.detik.com##div[data-ads]
 tokopedia.com##div[data-ssr="findProductSSR"]:has(span[data-testid="lblTopads"])
 tokopedia.com##div[data-ssr="findProductSSR"]:has(span[data-testid="linkProductTopads"])
 tokopedia.com##div[data-testid="CPMWrapper"]
@@ -911,6 +913,8 @@ rasa.my##div[data-ub-carousel]
 ns21.tv,ns21.us##div[id^="previewBox"]
 cnbcindonesia.com##div[style$="height:600px;"]
 cnbcindonesia.com##div[style*="height:400px;"]
+wolipop.detik.com##div[style*="min-height:150px"][style*="width:100%"]
+wolipop.detik.com##div[style*="width:300px"][style*="min-height:250px"]
 beritasatu.com##div[style="font-family: helvetica, arial;font-size: 10px;padding: 5px 0px;background-color:#f4f4f4;color:#333;text-align: center;"]
 situshp.com##div[style="height:260px;"]
 antaranews.com##div[style="min-width:300px;min-height:250px;"]
