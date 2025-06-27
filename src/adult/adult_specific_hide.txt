@@ -58,6 +58,8 @@ kingbokep.*##div.flex.w-full.justify-center.overflow-x-auto
 kingbokep.*##div[style="width:300px;height:250px;z-index:1"]
 kingbokep.*##[grid-area="ads1"]
 kiyowo.icu,kiyowo.sbs,lendirpedia.com,onlyvid.icu,pascol.com,sintube.icu,starjepang.live##.teaser3
+kingbokep.*##div.flex.w-full.justify-center.overflow-x-auto
+kingbokep.*##div[style="width:300px;height:250px;z-index:1"]
 komikdewasa.*###teaser3
 komikdewasa.*##.kln
 komikdewasa.*##.teaser4
