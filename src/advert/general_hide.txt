@@ -361,3 +361,13 @@
 ##.topads-kanan
 ##.warning_iklan
 ##.widget_iklan_atas
+##div[aria-label="Iklan"]
+##.ad-container
+##.adBar-vertical
+##.ads-50
+##.lazyloaded.ads-50
+##.adBar-vertical.left
+##.adBar-vertical.right
+###floatbannerkanan
+###floatbannerkiri
+###floating_banner_top

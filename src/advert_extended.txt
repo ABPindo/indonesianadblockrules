@@ -293,3 +293,10 @@ satujiwa.org##table
 ! https://github.com/ABPindo/indonesianadblockrules/pull/833
 ###ads-infeed
 ##.ads
+##.kln
+##.teaser3
+##.teaser4
+##.floating-banner
+##.floatbanner-bottom
+##.floating_banner_top
+##.popupBanner
