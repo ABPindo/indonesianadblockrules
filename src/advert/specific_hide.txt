@@ -1,6 +1,7 @@
 wolipop.detik.com##div[style*="min-height:150px"][style*="width:100%"]
 wolipop.detik.com##div[style*="width:300px"][style*="min-height:250px"]
 wolipop.detik.com##div[data-ads]
+detik.com##body > div[id^="div-gpt-ad-"]
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
