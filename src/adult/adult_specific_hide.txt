@@ -128,3 +128,5 @@ rumahperjaka.*##.elementor-popup-modal
 sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
+kingbokep.*##div[style="width:300px;height:250px;z-index:1"]
+kingbokep.*##div.flex.w-full.justify-center.overflow-x-auto
