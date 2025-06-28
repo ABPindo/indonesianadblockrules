@@ -9,6 +9,7 @@ on:
     paths:
       - 'src/advert/adservers.txt'
       - 'src/advert/thirdparty.txt'
+      - 'src/adult/adult_thirdparty.txt'
 
 
 permissions:
