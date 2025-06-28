@@ -1,6 +1,3 @@
-koran-jakarta.com##.iklan-for-mobile
-koran-jakarta.com##.iklan-wrapper
-koran-jakarta.com###ad-slot-article
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -18,6 +15,7 @@ kompas.tv###_popIn_recommend_word
 mangacanblog.com###aa
 motorplus-online.com###ad-below-photo-container
 motorplus-online.com###ad-genie-container
+koran-jakarta.com###ad-slot-article
 mirrorkomik.net###adrandpop
 budiarto.id,idxchannel.com###ads
 dapurpacu.com###ads-728
@@ -573,8 +571,10 @@ tafsirweb.com##.hot_deals_green
 inibaru.id##.ib_ads_square
 inibaru.id##.ib_ads_sticky
 vnn.co.id##.iklan-bawah-postingan
+koran-jakarta.com##.iklan-for-mobile
 blog.arizman.com##.iklan-kiri-postingan
 katadata.co.id##.iklan-paralax-wrapper
+koran-jakarta.com##.iklan-wrapper
 suki48.web.id##.iklanSUKI
 shinigami09.com##.iklannew-container
 cantika.com##.ikln
