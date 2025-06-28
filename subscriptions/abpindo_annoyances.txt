@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202506281012
+! Version: 202506281014
 ! Title: ABPindo - Annoyances
 ! Description: Filter tambahan untuk ABPindo berupa elemen UI yang mengganggu seperti popup/overlay non iklan atau pemutar video otomatis pada situs berbahasa Indonesia.
-! Last modified: 28 Jun 2025 10:12 UTC
+! Last modified: 28 Jun 2025 10:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -27,6 +27,7 @@ idxchannel.com##.berita--terkait-container
 cnnindonesia.com##.border-b.bg-white.h-\[45px\].p-2.flex
 cnnindonesia.com##.bottom-\[50px\].left-0.z-\[90\].fixed.mb-4.text-white.px-4.py-3.bg-cnn_red
 detik.com##.breaking-detikpagi
+tvrinews.com##.breaking-news-popup
 bloombergtechnoz.com##.centering
 republika.co.id##.container.row
 borneotrend.com##.cookie-consent
@@ -47,6 +48,7 @@ grid.id,gridoto.com,kompas.com,kompas.tv,motorplus-online.com##.kgnw-player
 inilah.com##.mui-style-1tl651l.MuiStack-root
 hukumonline.com##.my-2.d-flex.ps-ads-banner
 brainacademy.id##.normalize-css
+tvrinews.com##.p-2.row
 kumparan.com##.pb8.pt8.flex.bshhdS.sc-1u3us5z-1.cTlHVA.Viewweb__StyledView-sc-b0snvl-0
 inews.id##.pipLiveStream__content
 theasianparent.com##.placeholder.top-app-download-banner
