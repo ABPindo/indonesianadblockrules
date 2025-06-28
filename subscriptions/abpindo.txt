@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202506272154
+! Version: 202506281031
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 27 Jun 2025 21:54 UTC
+! Last modified: 28 Jun 2025 10:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -352,6 +352,7 @@ _iklan_|$image
 ||indoxximovie.com/wp-content/uploads/2020/06/realbola.jpg$image
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||jeniusplay.com/cdn/vastads/$xhr
+||jeniusplay.com/cdn/vastads/$xmlhttprequest
 ||kambingjantan.cc/*.gif$domain=manhwalands.xyz
 ||kampus.us/banners/
 ||kaskus.co.id/images/banner-wap/
@@ -887,6 +888,7 @@ kompas.tv###_popIn_recommend_word
 mangacanblog.com###aa
 motorplus-online.com###ad-below-photo-container
 motorplus-online.com###ad-genie-container
+koran-jakarta.com###ad-slot-article
 mirrorkomik.net###adrandpop
 budiarto.id,idxchannel.com###ads
 dapurpacu.com###ads-728
@@ -1139,7 +1141,7 @@ terkini.id##.adbox
 bharian.com.my##.adbtm
 file.rocks##.add
 serialmovieislami.com##.adore-adver
-192.99.70.18,95.216.163.177,akurat.co,arahpandang.com,aspirasiku.id,ayobandung.com,ayojakarta.com,bandunginsider.com,dapurpacu.com,download-lagu-mp3.com,duniafilm21.com,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,jatimnetwork.com,jawapos.com,k-vid.net,katadata.co.id,kilat.com,kompas.com,koran-jakarta.com,masagipedia.com,metrotvnews.com,miyanime.site,okezone.com,otakuindo.net,pikiran-rakyat.com,rejogja.co.id,republika.co.id,smallencode.com,tempo.co,terasjakarta.id,timenews.co.id,www.melintas.id,zonajakarta.com##.ads
+192.99.70.18,95.216.163.177,akurat.co,arahpandang.com,aspirasiku.id,ayobandung.com,ayojakarta.com,bandunginsider.com,dapurpacu.com,download-lagu-mp3.com,duniafilm21.com,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,industry.co.id,inidata.id,jatimnetwork.com,jawapos.com,k-vid.net,katadata.co.id,kilat.com,kompas.com,koran-jakarta.com,masagipedia.com,metrotvnews.com,miyanime.site,okezone.com,otakuindo.net,pikiran-rakyat.com,rejogja.co.id,republika.co.id,smallencode.com,tempo.co,terasjakarta.id,timenews.co.id,www.melintas.id,zonajakarta.com##.ads
 arahpandang.com##.ads--stick-parent
 arahpandang.com##.ads--stick-parent-250px
 kilat.com,zonajakarta.com##.ads--stick-parent-400px
@@ -1321,6 +1323,7 @@ kabar24.com##.bottom-leaderboard-cont
 grid.id##.bottom_banner-wrapper.relative
 cnnindonesia.com##.bottom_banner_bar
 cnnindonesia.com##.bottom_banner_container
+tvrinews.com##.bottom_sticky-ads
 gopego.com##.box
 kapanlagi.com##.box--banner
 beautynesia.id##.box-ads--container
@@ -1413,10 +1416,10 @@ manganime.id##.ftadss
 beritasatu.com##.gam-ads
 techinasia.com##.gam-ads-banner
 komikcast.net,komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
-viva.co.id##.giant-banner
+jagodangdut.com,viva.co.id##.giant-banner
 intip24news.com##.gmr-banner-aftercontent
 intip24news.com,jendelakaba.com##.gmr-banner-afterrelpost
-intip24news.com##.gmr-banner-insidecontent
+industry.co.id,intip24news.com##.gmr-banner-insidecontent
 bandungberita.com,jendelakaba.com##.gmr-banner-logo
 bandungberita.com##.gmr-floatbanner
 jendelakaba.com##.gmr-footerbanner
@@ -1442,8 +1445,10 @@ tafsirweb.com##.hot_deals_green
 inibaru.id##.ib_ads_square
 inibaru.id##.ib_ads_sticky
 vnn.co.id##.iklan-bawah-postingan
+koran-jakarta.com##.iklan-for-mobile
 blog.arizman.com##.iklan-kiri-postingan
 katadata.co.id##.iklan-paralax-wrapper
+koran-jakarta.com##.iklan-wrapper
 suki48.web.id##.iklanSUKI
 shinigami09.com##.iklannew-container
 cantika.com##.ikln
@@ -1494,6 +1499,7 @@ haibunda.com##.m-r1:has([id^="div-gpt-ad"])
 haibunda.com##.m-r2:has(#adv-caption-mr2)
 haibunda.com##.m-r2:has([id^="div-gpt-ad"])
 idbioskop.com##.mag-adver-part
+industry.co.id##.main-content > div.idt-textinsidepost
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
@@ -1559,6 +1565,7 @@ hrv.okestream365.xyz##.player-button-ad
 juragan.film##.pop-overlay
 hrv.okestream365.xyz,juragan.film##.popbox
 nomat.top##.popup.show
+kompasiana.com##.popupbb-overlay
 viva.co.id##.portlet.sideskycrapper
 koransulindo.com##.post-banner
 pikiran-rakyat.com##.prads
@@ -1612,6 +1619,7 @@ okezone.com##.skyscrapper
 bisnis.com##.skyscrapper--left
 bisnis.com##.skyscrapper--right
 zigi.id##.slot-iklan
+sahijab.com##.small-mobile-banner
 cnbcindonesia.com,haibunda.com##.smartbanner_new
 hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
@@ -1624,6 +1632,7 @@ detik.com##.staticdetail_container:has(.staticdetail_ads)
 bharian.com.my,hmetro.com.my##.stick-leaderboard-wrapper
 beritasiber.com##.sticky-ads-bottom
 kompas.com##.sticky-ads-close
+100kpj.com##.sticky-bottom
 inews.id##.stickyAds
 medcom.id##.sticky_bottom
 kabargames.id##.stickybanner
@@ -1894,12 +1903,23 @@ matamata.com##.wrap-ads-r
 suara.com##[id^="berita-terkait-"]
 suara.com##div.placeholder_pariwara
 ! Grid Networks
-grid.id###div-Inside-MediumRectangle
+grid.id,juara.net###div-Inside-MediumRectangle
+parapuan.co###div-Inside-MediumRectangle2
 grid.id###outbrain-container
+juara.net##.ads
+parapuan.co##.ads-inf-box
+bolanas.com##.ads-paralax
+bolanas.com,juara.net##.ads-partner-wrap
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id,gridoto.com,motorplus-online.com##.ads__side
 grid.id,gridoto.com,motorplus-online.com##.ads__top-big
+parapuan.co##.clearfix.comm--fixed.comm
+juara.net##.cls-composite
+juara.net##.cls-geniee
+bolanas.com##.cls-outstream
+parapuan.co##.div-gpt-ad-top-wrapper
 gridoto.com##.geniee-box
+bolasport.com##.kgnw-player
 grid.id##.title__default
 ! IDN Networks
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR1-wrapper
