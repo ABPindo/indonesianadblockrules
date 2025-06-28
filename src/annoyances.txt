@@ -57,9 +57,9 @@ motorplus-online.com##.floatingIframe
 gridoto.com##.grid-plus
 sonora.id##.kgnowGate.sidebar.video-box-wrap
 grid.id,gridoto.com##.kgnowGate.video-box-wrap
+bolanas.com,bolasport.com,juara.net,kompas.com,kompas.tv,parapuan.co##.kgnw-player
 bobo.grid.id,bolasport.com##.mb10.text-center.row
 haibunda.com##.transition-all.gap-4.w-full.grid.z-10.isolate.bottom-0.fixed.pointer-events-none
-kompas.com,kompas.tv,bolanas.com,bolasport.com,juara.net,parapuan.co##.kgnw-player
 ! IDN Networks https://github.com/ABPindo/indonesianadblockrules/pull/837
 idntimes.com##.anchor-button
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1lh0foa
