@@ -371,3 +371,6 @@
 ##.warning_iklan
 ##.widget_iklan_atas
 ##div[aria-label="Iklan"]
+##.iklan-wrapper
+##.wrapper-iklan-sidebar-artikel
+##.iklan-sidebar-homepage
