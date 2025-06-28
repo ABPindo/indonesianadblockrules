@@ -26,7 +26,6 @@ tokopedia.com##.e1nc1fa20.css-kl3gjj
 tokopedia.com##.e90j6ys0.css-1b94wk9-unf-overlay
 edge.id##.elementor-popup-modal
 detik.com##.float-vid__content
-kompas.com##.gate-kgplus
 liputan6.com##.gateway__mobile-app
 inews.id##.getawayApp
 kompas.com,sonora.id##.kgnw-middle-ready.kgnw-middle
@@ -60,6 +59,7 @@ sonora.id##.kgnowGate.sidebar.video-box-wrap
 grid.id,gridoto.com##.kgnowGate.video-box-wrap
 bobo.grid.id,bolasport.com##.mb10.text-center.row
 haibunda.com##.transition-all.gap-4.w-full.grid.z-10.isolate.bottom-0.fixed.pointer-events-none
+kompas.com,kompas.tv,bolanas.com,bolasport.com,juara.net,parapuan.co##.kgnw-player
 ! IDN Networks https://github.com/ABPindo/indonesianadblockrules/pull/837
 idntimes.com##.anchor-button
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1lh0foa
