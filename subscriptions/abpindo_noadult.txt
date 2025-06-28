@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202506281048
+! Version: 202506281050
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 28 Jun 2025 10:48 UTC
+! Last modified: 28 Jun 2025 10:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1167,9 +1167,9 @@ inakoran.com##.ads-mid-lg
 grid.id##.ads-mr
 bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
-juara.net##.ads-paralax
+bolanas.com,juara.net##.ads-paralax
 beritasiber.com##.ads-parallax
-juara.net##.ads-partner-wrap
+bolanas.com,juara.net##.ads-partner-wrap
 kompas.com##.ads-partner-wrap-pop
 tek.id##.ads-popup__inner
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-container
@@ -1190,7 +1190,7 @@ republika.co.id##.ads_970x250
 bolasport.com,gridoto.com,motorplus-online.com##.ads__boxr
 poskota.co.id##.ads__min-h-\[250px\]
 poskota.co.id##.ads__min-h-\[90px\]
-bolasport.com,juara.net##.ads__side
+bolanas.com,bolasport.com,juara.net##.ads__side
 grid.id##.ads__skyscraper
 gridoto.com##.ads__stick
 bolasport.com,gridoto.com##.ads__stick--left
@@ -1201,10 +1201,10 @@ gridoto.com##.ads__stick__fluid
 gridoto.com##.ads__stick__fluid--left
 gridoto.com##.ads__stick__fluid--right
 gridoto.com##.ads__stick__wrap
-bolasport.com,juara.net##.ads__top-big
+bolanas.com,bolasport.com,juara.net##.ads__top-big
 gridoto.com##.ads__top-big250
 hops.id,klikanggaran.com##.ads__under__image
-bolasport.com,gridoto.com,juara.net##.ads_below_photo
+bolanas.com,bolasport.com,gridoto.com,juara.net##.ads_below_photo
 grid.id##.ads_imr2
 haibunda.com##.ads_native_d
 guideku.com##.ads_r1
