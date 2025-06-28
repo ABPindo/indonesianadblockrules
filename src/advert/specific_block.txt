@@ -97,6 +97,7 @@
 ||indoxximovie.com/wp-content/uploads/2020/06/realbola.jpg$image
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||jeniusplay.com/cdn/vastads/$xhr
+||jeniusplay.com/cdn/vastads/$xmlhttprequest
 ||kambingjantan.cc/*.gif$domain=manhwalands.xyz
 ||kampus.us/banners/
 ||kaskus.co.id/images/banner-wap/
@@ -181,6 +182,5 @@
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-||jeniusplay.com/cdn/vastads/$xmlhttprequest
 ! Miscellanous popups
 *$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|kiryuu.org|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
