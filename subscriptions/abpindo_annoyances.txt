@@ -17,6 +17,7 @@ tribunnews.com###banner_article_slide
 tvonenews.com###btt
 javmiu.xyz###disclaimer
 detik.com###notification_newsfeed
+koran-jakarta.com###popupModal
 antaranews.com###scroll-top
 kompas.com##+js(aeld, scroll, kgSticky)
 kompasiana.com##.align-center.floatingWrap
