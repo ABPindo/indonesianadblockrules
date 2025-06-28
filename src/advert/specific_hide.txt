@@ -1037,6 +1037,19 @@ grid.id,gridoto.com,motorplus-online.com##.ads__side
 grid.id,gridoto.com,motorplus-online.com##.ads__top-big
 gridoto.com##.geniee-box
 grid.id##.title__default
+parapuan.co##.div-gpt-ad-top-wrapper
+parapuan.co##.clearfix.comm--fixed.comm
+parapuan.co##.ads-inf-box
+parapuan.co###div-Inside-MediumRectangle2
+bolasport.com##.kgnw-player
+bolanas.com##.ads-paralax
+bolanas.com##.ads-partner-wrap
+bolanas.com##.cls-outstream
+juara.net##.ads
+juara.net###div-Inside-MediumRectangle
+juara.net##.ads-partner-wrap
+juara.net##.cls-geniee
+juara.net##.cls-composite
 ! IDN Networks
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR1-wrapper
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR2-wrapper
