@@ -194,6 +194,7 @@
 ##.block-iklan-5
 ##.bottom-iklan
 ##.bottom-iklan-detail
+##.bottom_sticky-ads
 ##.campaign-atas
 ##.close-iklan
 ##.float-ads-footer
@@ -374,4 +375,3 @@
 ##.widget_iklan_atas
 ##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
-##.bottom_sticky-ads
