@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202506281031
+! Version: 202506281048
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 28 Jun 2025 10:31 UTC
+! Last modified: 28 Jun 2025 10:48 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -771,6 +771,7 @@ oomph.co.id#@#.shareit
 ##.iklan-right
 ##.iklan-samping
 ##.iklan-sidebar
+##.iklan-sidebar-homepage
 ##.iklan-skin
 ##.iklan-sponsor
 ##.iklan-square-news
@@ -781,6 +782,7 @@ oomph.co.id#@#.shareit
 ##.iklan-top-banner
 ##.iklan-top-desktop
 ##.iklan-top-mobile
+##.iklan-wrapper
 ##.iklan1
 ##.iklan2
 ##.iklan3
@@ -869,6 +871,7 @@ oomph.co.id#@#.shareit
 ##.topads-kanan
 ##.warning_iklan
 ##.widget_iklan_atas
+##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
 ! *** abpindo:src/advert/specific_hide.txt ***
 wowkeren.com###Ad300B
@@ -1164,7 +1167,9 @@ inakoran.com##.ads-mid-lg
 grid.id##.ads-mr
 bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
+juara.net##.ads-paralax
 beritasiber.com##.ads-parallax
+juara.net##.ads-partner-wrap
 kompas.com##.ads-partner-wrap-pop
 tek.id##.ads-popup__inner
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-container
@@ -1185,7 +1190,7 @@ republika.co.id##.ads_970x250
 bolasport.com,gridoto.com,motorplus-online.com##.ads__boxr
 poskota.co.id##.ads__min-h-\[250px\]
 poskota.co.id##.ads__min-h-\[90px\]
-bolasport.com##.ads__side
+bolasport.com,juara.net##.ads__side
 grid.id##.ads__skyscraper
 gridoto.com##.ads__stick
 bolasport.com,gridoto.com##.ads__stick--left
@@ -1196,10 +1201,10 @@ gridoto.com##.ads__stick__fluid
 gridoto.com##.ads__stick__fluid--left
 gridoto.com##.ads__stick__fluid--right
 gridoto.com##.ads__stick__wrap
-bolasport.com##.ads__top-big
+bolasport.com,juara.net##.ads__top-big
 gridoto.com##.ads__top-big250
 hops.id,klikanggaran.com##.ads__under__image
-bolasport.com,gridoto.com##.ads_below_photo
+bolasport.com,gridoto.com,juara.net##.ads_below_photo
 grid.id##.ads_imr2
 haibunda.com##.ads_native_d
 guideku.com##.ads_r1

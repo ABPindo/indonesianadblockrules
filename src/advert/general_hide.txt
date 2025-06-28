@@ -272,6 +272,7 @@
 ##.iklan-right
 ##.iklan-samping
 ##.iklan-sidebar
+##.iklan-sidebar-homepage
 ##.iklan-skin
 ##.iklan-sponsor
 ##.iklan-square-news
@@ -282,6 +283,7 @@
 ##.iklan-top-banner
 ##.iklan-top-desktop
 ##.iklan-top-mobile
+##.iklan-wrapper
 ##.iklan1
 ##.iklan2
 ##.iklan3
@@ -370,7 +372,5 @@
 ##.topads-kanan
 ##.warning_iklan
 ##.widget_iklan_atas
-##div[aria-label="Iklan"]
-##.iklan-wrapper
 ##.wrapper-iklan-sidebar-artikel
-##.iklan-sidebar-homepage
+##div[aria-label="Iklan"]
