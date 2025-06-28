@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202506281017
+! Version: 202506281031
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 28 Jun 2025 10:17 UTC
+! Last modified: 28 Jun 2025 10:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1903,12 +1903,23 @@ matamata.com##.wrap-ads-r
 suara.com##[id^="berita-terkait-"]
 suara.com##div.placeholder_pariwara
 ! Grid Networks
-grid.id###div-Inside-MediumRectangle
+grid.id,juara.net###div-Inside-MediumRectangle
+parapuan.co###div-Inside-MediumRectangle2
 grid.id###outbrain-container
+juara.net##.ads
+parapuan.co##.ads-inf-box
+bolanas.com##.ads-paralax
+bolanas.com,juara.net##.ads-partner-wrap
 grid.id##.ads-partner-wrap.osmplaceonsite
 grid.id,gridoto.com,motorplus-online.com##.ads__side
 grid.id,gridoto.com,motorplus-online.com##.ads__top-big
+parapuan.co##.clearfix.comm--fixed.comm
+juara.net##.cls-composite
+juara.net##.cls-geniee
+bolanas.com##.cls-outstream
+parapuan.co##.div-gpt-ad-top-wrapper
 gridoto.com##.geniee-box
+bolasport.com##.kgnw-player
 grid.id##.title__default
 ! IDN Networks
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR1-wrapper
