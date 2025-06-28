@@ -1,4 +1,3 @@
-100kpj.com##.sticky-bottom
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -759,6 +758,7 @@ detik.com##.staticdetail_container:has(.staticdetail_ads)
 bharian.com.my,hmetro.com.my##.stick-leaderboard-wrapper
 beritasiber.com##.sticky-ads-bottom
 kompas.com##.sticky-ads-close
+100kpj.com##.sticky-bottom
 inews.id##.stickyAds
 medcom.id##.sticky_bottom
 kabargames.id##.stickybanner
