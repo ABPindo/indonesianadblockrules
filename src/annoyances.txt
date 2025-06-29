@@ -76,16 +76,15 @@ brainly.co.id##.Web2AppBox-module__bg--9uwwE
 brainly.co.id##.Web2AppPopover-module__containerVisible--JNFBy
 brainly.co.id##.sg-dialog__overlay--open
 ! RuangGuru Blog
-brainacademy.id,ruangguru.com##.side-banner-desktop
-english-academy.id##.latest-article-cta
-english-academy.id,ruangguru.com##.banner-product-wrapper
-ruangguru.com##.widget-container
-brainacademy.id,ruangguru.com##.side-banner-mobile
-brainacademy.id,ruangguru.com##.normalize-css
 brainacademy.id,english-academy.id,ruangguru.com###popupPromo
-brainacademy.id,english-academy.id,ruangguru.com##.modal.fade
 brainacademy.id,english-academy.id,ruangguru.com##.banner-product-wrapper
-brainacademy.id,english-academy.id,ruangguru.com##body:style(overflow: auto !important; position: static !important;)
+english-academy.id##.latest-article-cta
+brainacademy.id,english-academy.id,ruangguru.com##.modal.fade
+brainacademy.id,ruangguru.com##.normalize-css
 brainacademy.id,english-academy.id,ruangguru.com##.show.fade.modal-backdrop
+brainacademy.id,ruangguru.com##.side-banner-desktop
+brainacademy.id,ruangguru.com##.side-banner-mobile
+ruangguru.com##.widget-container
+brainacademy.id,english-academy.id,ruangguru.com##body:style(overflow: auto !important; position: static !important;)
 ! uBlock Specific
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
