@@ -1079,7 +1079,8 @@ idntimes.com##[id^="IDN_InArticle"]
 idntimes.com##[id^="IDN_Leaderboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
-yummy.co.id###[id^="IDN_InFeed"]
+yummy.co.id###IDN_InFeed2:upward(1)
+yummy.co.id###IDN_InFeed1:upward(1)
 yummy.co.id##.css-7utpzd
 yummy.co.id##.css-18d0sro
 yummy.co.id##.css-1pl8ib9
