@@ -57,7 +57,7 @@ pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative
 inews.id##.widgetNewsTV__news24Jam
 bloombergtechnoz.com##div:nth-of-type(5)
-sonora.id##kgnw-middle-player
+kompas.tv,sonora.id##kgnw-middle-player
 ! Grid Networks
 grid.id###buttonGridstore
 motorplus-online.com###floatingIframe
