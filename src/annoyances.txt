@@ -19,6 +19,7 @@ tvrinews.com##.breaking-news-popup
 bloombergtechnoz.com##.centering
 republika.co.id##.container.row
 borneotrend.com##.cookie-consent
+theasianparent.com##.cookie-widget
 sasa.co.id##.cookie_consent
 yummy.co.id##.css-15k19pw.chakra-button
 yummy.co.id##.css-1yxywc5
@@ -34,7 +35,6 @@ kompas.com,sonora.id##.kgnw-middle-ready.kgnw-middle
 grid.id,gridoto.com,kompas.com,kompas.tv,motorplus-online.com##.kgnw-player
 inilah.com##.mui-style-1tl651l.MuiStack-root
 hukumonline.com##.my-2.d-flex.ps-ads-banner
-brainacademy.id##.normalize-css
 tvrinews.com##.p-2.row
 kumparan.com##.pb8.pt8.flex.bshhdS.sc-1u3us5z-1.cTlHVA.Viewweb__StyledView-sc-b0snvl-0
 inews.id##.pipLiveStream__content
@@ -45,7 +45,6 @@ xl.co.id##.sc-concent
 republika.co.id##.share
 jakartaglobe.id,republika.co.id##.show.fade.modal
 jakartaglobe.id,republika.co.id##.show.fade.modal-backdrop
-brainacademy.id##.side-banner-mobile
 insertlive.com##.smartbanner_new
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative
@@ -78,5 +77,16 @@ brainly.co.id##.Web2AppBanner-module__bannerVisible--ynal1
 brainly.co.id##.Web2AppBox-module__bg--9uwwE
 brainly.co.id##.Web2AppPopover-module__containerVisible--JNFBy
 brainly.co.id##.sg-dialog__overlay--open
+! RuangGuru Blog
+brainacademy.id,english-academy.id,ruangguru.com###popupPromo
+brainacademy.id,english-academy.id,ruangguru.com##.banner-product-wrapper
+english-academy.id##.latest-article-cta
+brainacademy.id,english-academy.id,ruangguru.com##.modal.fade
+brainacademy.id,ruangguru.com##.normalize-css
+brainacademy.id,english-academy.id,ruangguru.com##.show.fade.modal-backdrop
+brainacademy.id,ruangguru.com##.side-banner-desktop
+brainacademy.id,ruangguru.com##.side-banner-mobile
+ruangguru.com##.widget-container
+brainacademy.id,english-academy.id,ruangguru.com##body:style(overflow: auto !important; position: static !important;)
 ! uBlock Specific
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
