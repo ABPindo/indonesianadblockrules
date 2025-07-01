@@ -295,7 +295,6 @@ inakoran.com##.ads-mid-lg
 grid.id##.ads-mr
 bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
-bolanas.com,juara.net##.ads-paralax
 beritasiber.com##.ads-parallax
 kompas.com##.ads-partner-wrap-pop
 tek.id##.ads-popup__inner
@@ -1043,7 +1042,7 @@ parapuan.co###div-Inside-MediumRectangle2
 grid.id###outbrain-container
 juara.net##.ads
 parapuan.co##.ads-inf-box
-bolanas.com##.ads-paralax
+bolanas.com,juara.net##.ads-paralax
 bolanas.com,juara.net,grid.id,kontan.co.id##.ads-partner-wrap
 grid.id,gridoto.com,motorplus-online.com##.ads__side
 grid.id,gridoto.com,motorplus-online.com##.ads__top-big
@@ -1054,7 +1053,6 @@ gridoto.com##.cls-mgid
 bolanas.com##.cls-outstream
 parapuan.co##.div-gpt-ad-top-wrapper
 gridoto.com##.geniee-box
-bolasport.com##.kgnw-player
 grid.id##.title__default
 ! IDN Networks
 yummy.co.id###IDN_InFeed1:upward(1)
