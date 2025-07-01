@@ -1045,7 +1045,7 @@ grid.id###outbrain-container
 juara.net##.ads
 parapuan.co##.ads-inf-box
 bolanas.com,juara.net##.ads-paralax
-bolanas.com,juara.net,grid.id,kontan.co.id##.ads-partner-wrap
+bolanas.com,grid.id,juara.net,kontan.co.id##.ads-partner-wrap
 grid.id,gridoto.com,motorplus-online.com##.ads__side
 grid.id,gridoto.com,motorplus-online.com##.ads__top-big
 parapuan.co##.clearfix.comm--fixed.comm
