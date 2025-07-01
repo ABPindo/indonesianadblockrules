@@ -297,7 +297,6 @@ bolasport.com,gridoto.com##.ads-on
 kompas.com##.ads-on-body
 bolanas.com,juara.net##.ads-paralax
 beritasiber.com##.ads-parallax
-bolanas.com,juara.net##.ads-partner-wrap
 kompas.com##.ads-partner-wrap-pop
 tek.id##.ads-popup__inner
 cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-container
@@ -1045,8 +1044,7 @@ grid.id###outbrain-container
 juara.net##.ads
 parapuan.co##.ads-inf-box
 bolanas.com##.ads-paralax
-bolanas.com,juara.net##.ads-partner-wrap
-grid.id##.ads-partner-wrap.osmplaceonsite
+bolanas.com,juara.net,grid.id,kontan.co.id##.ads-partner-wrap
 grid.id,gridoto.com,motorplus-online.com##.ads__side
 grid.id,gridoto.com,motorplus-online.com##.ads__top-big
 parapuan.co##.clearfix.comm--fixed.comm
