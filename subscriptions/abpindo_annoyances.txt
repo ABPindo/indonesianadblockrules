@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202507011433
+! Version: 202507011434
 ! Title: ABPindo - Annoyances
 ! Description: Filter tambahan untuk ABPindo berupa elemen UI yang mengganggu seperti popup/overlay non iklan atau pemutar video otomatis pada situs berbahasa Indonesia.
-! Last modified: 01 Jul 2025 14:33 UTC
+! Last modified: 01 Jul 2025 14:34 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -38,6 +38,7 @@ yummy.co.id##.css-15k19pw.chakra-button
 yummy.co.id##.css-1yxywc5
 tribunnews.com##.desk-bannerslide
 sindonews.com##.download-sindoapps
+jpnn.com##.download_apps
 tokopedia.com##.e1nc1fa20.css-kl3gjj
 tokopedia.com##.e90j6ys0.css-1b94wk9-unf-overlay
 edge.id##.elementor-popup-modal
