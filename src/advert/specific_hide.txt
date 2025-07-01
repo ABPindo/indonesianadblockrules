@@ -1,5 +1,3 @@
-jpnn.com##.text-center.mtb-10
-jpnn.com##section.leaderboard
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -783,6 +781,7 @@ kordindonesia.com##.text-ad
 internetpositif.uzone.id##.text-align-center.box-ads-content
 kontan.co.id##.text-center.center.width-px-1100
 dailypost.id##.text-center.gmr-topbanner
+jpnn.com##.text-center.mtb-10
 dataindonesia.id##.text-center:has( + div[style^='background-image: url("/img/logo-ads'])
 okezone.com##.title-ads-mega
 utusan.com.my##.tonal__standfirst
@@ -1003,6 +1002,7 @@ samehadaku.*##.adsrow
 samehadaku.*##.kln
 samehadaku.*##[href^="https://t.ly/"]
 samehadaku.*##img[style="width: 50%; height: 70px;"]
+jpnn.com##section.leaderboard
 shinigami.*##.bg-base-card:has(img[alt*="-ad-"])
 shinigami09.*###lepopup-popup-13
 shinigami09.*###lepopup-popup-13-overlay
