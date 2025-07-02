@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202507021127
+! Version: 202507021130
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 02 Jul 2025 11:27 UTC
+! Last modified: 02 Jul 2025 11:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1780,7 +1780,6 @@ cosmicscans.*##.kln
 motorplus-online.com##div#composite-container
 smartphoneku.com##div.ad-before
 herworld.co.id##div.ads-belt
-bolasport.com,grid.id,gridoto.com##div.ads-inf-box
 nextren.grid.id##div.banner-r
 bolasport.com##div.content_footer--list:nth-of-type(2)
 medcom.id##div.showcase.banner
@@ -1930,10 +1929,11 @@ parapuan.co##.clearfix.comm--fixed.comm
 juara.net##.cls-composite
 juara.net##.cls-geniee
 gridoto.com##.cls-mgid
-bolanas.com##.cls-outstream
+bolanas.com,juara.net##.cls-outstream
 parapuan.co##.div-gpt-ad-top-wrapper
 gridoto.com##.geniee-box
 grid.id##.title__default
+bolasport.com,grid.id,gridoto.com,juara.net##div.ads-inf-box
 ! IDN Networks
 yummy.co.id###IDN_InFeed1:upward(1)
 yummy.co.id###IDN_InFeed2:upward(1)
