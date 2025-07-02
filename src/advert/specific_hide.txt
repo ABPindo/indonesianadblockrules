@@ -902,7 +902,6 @@ cosmicscans.*##.kln
 motorplus-online.com##div#composite-container
 smartphoneku.com##div.ad-before
 herworld.co.id##div.ads-belt
-bolasport.com,grid.id,gridoto.com##div.ads-inf-box
 nextren.grid.id##div.banner-r
 bolasport.com##div.content_footer--list:nth-of-type(2)
 medcom.id##div.showcase.banner
@@ -1056,6 +1055,7 @@ bolanas.com##.cls-outstream
 parapuan.co##.div-gpt-ad-top-wrapper
 gridoto.com##.geniee-box
 grid.id##.title__default
+bolasport.com,grid.id,gridoto.com,juara.net##div.ads-inf-box
 ! IDN Networks
 yummy.co.id###IDN_InFeed1:upward(1)
 yummy.co.id###IDN_InFeed2:upward(1)
