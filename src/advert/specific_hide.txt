@@ -986,7 +986,7 @@ oploverz.*###teaser1
 oploverz.*###teaser2
 oploverz.*###teaser3
 oploverz.*##.kln
-cloud.majalahhewan.com,info.mapsaddress.com,info.vebma.com##p:has(> a[href="#downloadnow"])
+cloud.majalahhewan.com,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 herworld.co.id##p:nth-of-type(2)
 rebahin21.*###floating-banner
 rebahin21.*###rebahin-banner

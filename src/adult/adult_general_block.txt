@@ -265,6 +265,7 @@
 /bannerligadunia365.$image
 /bannerlonteqq.gif|$image
 /bannervbola.gif$image
+/bayarjitu.gif|$image
 /bb17-iklan.
 /bcadomino.$image,third-party
 /beliqq.$image,third-party
@@ -450,6 +451,7 @@
 /gebyarliga.$image,third-party
 /gerhanaqq-$image
 /gilapoker-$image
+/gilaslot-$image
 /gitarpoker-$image
 /GITARTOGEL-$image
 /GITARTOGEL.$image,third-party
@@ -606,6 +608,7 @@
 /jual_obat_aborsi_$image
 /juaracapsa-$image
 /JuaraCapsa.gif|$image
+/juarajitu.gif|$image
 /JUDIKARTU.gif|$image
 /kaikoslot-$image
 /KaikoSlot.gif|$image
@@ -707,6 +710,7 @@
 /macaudewa-$image
 /MacauDewa.$image,third-party
 /mahkotabola.$image,third-party
+/mahkotajitu.gif|$image
 /mahkotaqq.$image,third-party
 /maincuan-$image
 /maincuan.gif|$image
@@ -886,6 +890,7 @@
 /probet24.$image,third-party
 /promosi365.$image,third-party
 /PURIBET.gif|$image
+/PUSAKAJITU.gif|$image
 /pusatqq.$image,third-party
 /qbandars.$image,third-party
 /qq-player.gif|$image
@@ -1541,11 +1546,6 @@ totojitu.gif|$image
 ||bandartoke.$image,third-party
 ||barakjudi.$image,third-party
 ||barakjudi.$popup
-/bayarjitu.gif|$image
-/gilaslot-$image
-/juarajitu.gif|$image
-/mahkotajitu.gif|$image
-/PUSAKAJITU.gif|$image
 ||barutogel.$image,third-party
 ||bbm88id.$image,third-party
 ||bca99.$image,third-party

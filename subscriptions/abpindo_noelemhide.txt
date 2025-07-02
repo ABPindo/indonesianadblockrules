@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202507021132
+! Version: 202507021149
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 02 Jul 2025 11:32 UTC
+! Last modified: 02 Jul 2025 11:49 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -32,10 +32,8 @@
 ||adstarsmedia.co.id^$third-party
 ||alertpay.com^$third-party
 ||ampclicks.com^$popup,third-party
-||baliadv.com^$third-party
 ||bellaads.com^$third-party
 ||berangkasilmu.com^$third-party
-||brand.ad^$third-party
 ||cdnasiaclub.com^$third-party
 ||cfs.uzone.id^
 ||cfs2.uzone.id^
@@ -253,7 +251,7 @@
 _iklan-|$image
 _iklan_|$image
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$image,domain=149.56.24.226|15.235.11.45|baladfilm.*|baladfilm.guru|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|nomat.top|nontondrama.*|nontonfilmgratis.club|oploverz.*|oploverz.best|oploverz.love|rbtv77.com|shinigami09.com
+.gif$image,domain=149.56.24.226|15.235.11.45|baladfilm.*|baladfilm.guru|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|nomat.top|nontondrama.*|nontonfilmgratis.club|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
 .gif^$image,domain=maroonbellsmorris.org
 /gif-*.webm^$image,domain=maroonbellsmorris.org
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
@@ -277,7 +275,6 @@ _iklan_|$image
 ||banibajury.website^$popup,domain=komikcast.com
 ||beritabaru.news/sc/detect-click.js
 ||bioskopkeren.guru/images/*.gif$image
-||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
 ||bp.blogspot.com/*.gif$image,domain=139.99.33.192|anoboy.org|anoboy.watch|cinema81.net|drakorindo.asia|drakorindo.com|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|filmku.net|idkomik.com|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|layarkeren.com|lk21id.com|mangaindo.net|movie303.com|nekopoi.care|neonime.com|neonime.net|nonton33.com|nonton33.net|nontondrama.me|nontonfilm21.club|nontonin.co|oploverz.in|otakudesu.info|smallencode.com|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
@@ -446,9 +443,9 @@ info.mapsaddress.com,info.vebma.com##+js(aeld, click, linkOpened)
 kompas.com##+js(aeld, scroll, kgSticky)
 juraganfilm.ink##+js(aopr, $.magnificPopup.open)
 3gpterbaru.com##+js(aopr, LieDetector)
-cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com,jenismac.com##+js(nano-sib)
+cloud.majalahhewan.com,info.mapsaddress.com,info.vebma.com,jenismac.com##+js(nano-sib)
 mudah.my##+js(no-fetch-if, ads.google.com)
-cloud.majalahhewan.com,info.gambar.pro,info.mapsaddress.com,info.vebma.com,thejakartapost.com,tutorialsaya.com##+js(no-fetch-if, adsbygoogle)
+cloud.majalahhewan.com,info.mapsaddress.com,info.vebma.com,thejakartapost.com,tutorialsaya.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
 jurnalistekno.id,tutwuri.id##+js(no-xhr-if, googlesyndication)
 bokepgemoy.com##+js(nobab)
@@ -765,6 +762,7 @@ oomph.co.id#@#.shareit
 /bannerligadunia365.$image
 /bannerlonteqq.gif|$image
 /bannervbola.gif$image
+/bayarjitu.gif|$image
 /bb17-iklan.
 /bcadomino.$image,third-party
 /beliqq.$image,third-party
@@ -950,6 +948,7 @@ oomph.co.id#@#.shareit
 /gebyarliga.$image,third-party
 /gerhanaqq-$image
 /gilapoker-$image
+/gilaslot-$image
 /gitarpoker-$image
 /GITARTOGEL-$image
 /GITARTOGEL.$image,third-party
@@ -1106,6 +1105,7 @@ oomph.co.id#@#.shareit
 /jual_obat_aborsi_$image
 /juaracapsa-$image
 /JuaraCapsa.gif|$image
+/juarajitu.gif|$image
 /JUDIKARTU.gif|$image
 /kaikoslot-$image
 /KaikoSlot.gif|$image
@@ -1207,6 +1207,7 @@ oomph.co.id#@#.shareit
 /macaudewa-$image
 /MacauDewa.$image,third-party
 /mahkotabola.$image,third-party
+/mahkotajitu.gif|$image
 /mahkotaqq.$image,third-party
 /maincuan-$image
 /maincuan.gif|$image
@@ -1386,6 +1387,7 @@ oomph.co.id#@#.shareit
 /probet24.$image,third-party
 /promosi365.$image,third-party
 /PURIBET.gif|$image
+/PUSAKAJITU.gif|$image
 /pusatqq.$image,third-party
 /qbandars.$image,third-party
 /qq-player.gif|$image
@@ -2041,12 +2043,6 @@ totojitu.gif|$image
 ||bandartoke.$image,third-party
 ||barakjudi.$image,third-party
 ||barakjudi.$popup
-! commented out by dead-domains-linter: ||baron777premium.com^$popup
-/bayarjitu.gif|$image
-/gilaslot-$image
-/juarajitu.gif|$image
-/mahkotajitu.gif|$image
-/PUSAKAJITU.gif|$image
 ||barutogel.$image,third-party
 ||bbm88id.$image,third-party
 ||bca99.$image,third-party

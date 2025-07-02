@@ -1,9 +1,4 @@
 ! contain deleted filters/domains, and may reappear.
-drakorasia.us##.ads728-slot-panjang
-rbtv77.com##.czlll-rlselse
-||baliadv.com^$third-party
-||brand.ad^$third-party
-||bioskopkeren.xyz/images/*.gif$image
 downloadfilmbaru.com###ads-stack
 filmbagus88.net###banner-right
 idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
@@ -57,6 +52,7 @@ nontonfilm77.com###wrap > table
 senimovie.info,senimovies.net##.ad-float-image
 komikbaru.com##.ad.b300x250
 awnime.net##.ads-header-5
+drakorasia.us##.ads728-slot-panjang
 ganol.si##.adsincenter
 kshowid.com##.adssingle
 lk21.host##.appup
@@ -74,6 +70,7 @@ tivipedia.com##.code-block-1.code-block
 tivipedia.com##.code-block-2.code-block
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
+rbtv77.com##.czlll-rlselse
 qqcinema21.com#@#.headads
 filmace21.net##.idmupi-topbanner
 layarlebarxxi.com#@#.idmuvi-afterplayer
@@ -138,8 +135,11 @@ satujiwa.org##table
 ||awnime.net/popup.htm$popup
 ||axzsd.pro^$popup,third-party
 ||azxsd.pro^$popup,third-party
+||baliadv.com^$third-party
 ||bcajjtbzmdrl.com^$popup
+||bioskopkeren.xyz/images/*.gif$image
 ||blogger.googleusercontent.com/*.gif$image,domain=www.ngefilm21.top
+||brand.ad^$third-party
 ||browsertelemetry.tk^
 ||bubblekraken.com^
 ||caribanner.bid^$third-party
