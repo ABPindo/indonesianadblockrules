@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202507011435
+! Version: 202507021127
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Jul 2025 14:35 UTC
+! Last modified: 02 Jul 2025 11:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -3528,6 +3528,11 @@ totojitu.gif|$image
 ||barakjudi.$image,third-party
 ||barakjudi.$popup
 ! commented out by dead-domains-linter: ||baron777premium.com^$popup
+/bayarjitu.gif|$image
+/gilaslot-$image
+/juarajitu.gif|$image
+/mahkotajitu.gif|$image
+/PUSAKAJITU.gif|$image
 ||barutogel.$image,third-party
 ||bbm88id.$image,third-party
 ||bca99.$image,third-party
@@ -9025,6 +9030,7 @@ totojitu.gif|$image
 ##img[alt^="banner sidebar" i]
 ##img[alt^="bannertengah" i]
 ##img[alt^="bataratoto" i]
+##img[alt^="bayarjitu" i]
 ##img[alt^="bet365" i]
 ##img[alt^="betcoin" i]
 ##img[alt^="betting togel online" i]
@@ -9055,6 +9061,7 @@ totojitu.gif|$image
 ##img[alt^="entertogel" i]
 ##img[alt^="gacor88" i]
 ##img[alt^="ganoolQQ" i]
+##img[alt^="gilaslot" i]
 ##img[alt^="goldenpoker" i]
 ##img[alt^="happypoker" i]
 ##img[alt^="hm88poker" i]
@@ -9084,6 +9091,7 @@ totojitu.gif|$image
 ##img[alt^="josbet" i]
 ##img[alt^="jpdewa" i]
 ##img[alt^="jpslot88" i]
+##img[alt^="juarajitu" i]
 ##img[alt^="judi bola online" i]
 ##img[alt^="judi bola" i]
 ##img[alt^="judi online terpercaya" i]
@@ -9112,6 +9120,7 @@ totojitu.gif|$image
 ##img[alt^="luxury138" i]
 ##img[alt^="macau club poker" i]
 ##img[alt^="mahadewa88" i]
+##img[alt^="mahkotajitu" i]
 ##img[alt^="mantul138" i]
 ##img[alt^="maxbetqq" i]
 ##img[alt^="mejasakong" i]
@@ -9140,6 +9149,7 @@ totojitu.gif|$image
 ##img[alt^="pokerlounge99" i]
 ##img[alt^="promo togel" i]
 ##img[alt^="promosi kdslots" i]
+##img[alt^="pusakajitu" i]
 ##img[alt^="qq1x2" i]
 ##img[alt^="qq808" i]
 ##img[alt^="qq8889" i]
@@ -9240,6 +9250,7 @@ minioppai.org###overplay
 iyottube.co,iyottube.com###playerOverlay
 javbabe.net,tv1.bokepindo21.vip###popup
 mlyuk.pro###popupBanner
+filmjepangku.com###popupOverlay
 gadismalam.net###semprot_ads_side_left
 gadismalam.net###semprot_ads_side_right
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
@@ -9270,7 +9281,7 @@ pinayflex.net##.floating-banner
 indoporn.pro##.full-brkas-container
 139.99.33.210,sukamovie.mobi##.headbanner
 indobokep.pro##.header-banner
-185.217.95.43,hencop.lol,heppinn.id,javsubid.com,javsubindo.my,javsubindo.site,komik18.art,komikcast02.com,komikdewasa.com,komikdewasa.me,komikremaja.com,lendirpedia.com,lendirpedia.fun,lendirpedia.icu,mangasusuku.com,manhwaindo.cfd,manhwaindo.com,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,onlyvid.icu,pascol.com,sintube.icu,skandalpedia.rest,starjepang.com,starjepang.live##.kln
+185.217.95.43,filmjepangku.com,hencop.lol,heppinn.id,javsubid.com,javsubindo.my,javsubindo.site,komik18.art,komikcast02.com,komikdewasa.com,komikdewasa.me,komikremaja.com,lendirpedia.com,lendirpedia.fun,lendirpedia.icu,mangasusuku.com,manhwaindo.cfd,manhwaindo.com,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,onlyvid.icu,pascol.com,sintube.icu,skandalpedia.rest,starjepang.com,starjepang.live##.kln
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 manadobaswara.com##.manado-widget
 agenbokep.co##.pop-overlay

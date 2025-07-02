@@ -1542,6 +1542,11 @@ totojitu.gif|$image
 ||barakjudi.$image,third-party
 ||barakjudi.$popup
 ! commented out by dead-domains-linter: ||baron777premium.com^$popup
+/bayarjitu.gif|$image
+/gilaslot-$image
+/juarajitu.gif|$image
+/mahkotajitu.gif|$image
+/PUSAKAJITU.gif|$image
 ||barutogel.$image,third-party
 ||bbm88id.$image,third-party
 ||bca99.$image,third-party
@@ -3452,8 +3457,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/PUSAKAJITU.gif|$image
-/mahkotajitu.gif|$image
-/bayarjitu.gif|$image
-/gilaslot-$image
-/juarajitu.gif|$image
