@@ -3769,3 +3769,8 @@
 ##img[href^="http://qqdingdong.com/"]
 ##img[href^="http://www.ovovegas.live/"]
 ##img[href^="https://pakarjackpot.com/"]
+##img[alt^="gilaslot" i]
+##img[alt^="juarajitu" i]
+##img[alt^="bayarjitu" i]
+##img[alt^="mahkotajitu" i]
+##img[alt^="pusakajitu" i]
