@@ -1,5 +1,6 @@
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
+medcom.id###Ads_billboard
 starringheavenlyrics.blogspot.com###HTML2
 idntimes.com###IDN_Billboard
 idntimes.com###IDN_MR1-wrapper
@@ -542,6 +543,7 @@ tek.id##.flying_carpet_show_fix
 bisnis.com,tek.id##.flying_carpet_show_inner
 cnnindonesia.com,detik.com,insertlive.com,teknoup.com##.footer_banner
 bisnis.com,herworld.co.id,suarasurabaya.net##.footer_sticky
+medcom.id##.footer_sticky_inside
 orami.co.id##.footer_stickyexp
 manganime.id##.ftadss
 beritasatu.com##.gam-ads
@@ -1010,8 +1012,6 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
-medcom.id###Ads_billboard
-medcom.id##.footer_sticky_inside
 ! Suara.com Networks
 suara.com###adds-top
 suara.com###desktop-native-1
