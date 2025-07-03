@@ -1,7 +1,3 @@
-narasi.tv##.mb-4.bg-\[\#e3e3e3\]
-narasi.tv##.adsbygoogle
-narasi.tv##.max-xl\:hidden.top-24.fixed.z-10
-narasi.tv##.max-xl\:hidden.top-24.left-0.fixed.z-10
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 starringheavenlyrics.blogspot.com###HTML2
@@ -342,7 +338,7 @@ duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
 chordtela.com##.adsbawahjudul
 chordtela.com##.adsbawahposting
-nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
+nama.web.id,narasi.tv,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
 cinemaindo.com##.adstops
@@ -638,6 +634,9 @@ smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 merdeka.com##.masthead
+narasi.tv##.max-xl\:hidden.top-24.fixed.z-10
+narasi.tv##.max-xl\:hidden.top-24.left-0.fixed.z-10
+narasi.tv##.mb-4.bg-\[\#e3e3e3\]
 inibaru.id##.mb-4.bg-grey.text-center
 tempo.co##.mb-6.m-auto.right-0.left-0.max-w-\[470px\].relative.h-\[250px\].w-full
 parapuan.co##.mb3.gpt-ad-head-wrapper.widget

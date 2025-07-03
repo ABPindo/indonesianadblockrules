@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202507021149
+! Version: 202507032215
 ! Title: ABPindo - Extended
 ! Description: Testing unsafe rules that may break certain websites, contain deleted filters/domains, and may reappear.
-! Last modified: 02 Jul 2025 11:49 UTC
+! Last modified: 03 Jul 2025 22:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -323,28 +323,28 @@ satujiwa.org##table
 ! --------------------------- adult ------------------------------!
 ! *** abpindo:src/adult_extended.txt ***
 ! contain deleted filters/domains, and may reappear
-anoboy.ink##[href="https://klik.gg/anoboy"]
-anoboy.ink##[href="https://klik.gg/anoboyvip"]
-bokepkita.pro##.btm_ban
-bokepml.online##.s-sponsor
 ceritasexindonesia.com###adsic728
 ceritasexindonesia.com###adsic7282
-ibugil.net##.semprotpokemon_1
-ibugil.net##.semprotpokemon_2
-lonteku.sbs###wpb_overlay
-lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
-nontonbokeps.com###left_ads_float_phonedevelop
-nontonbokeps.com###under-video-ads
-nontonbokeps.com##.mask-ads
+streamingbokeps.co###advertisement-2
 one.playvid.cam###center-banner
-pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 sodasusu.com###forum_ads_8
+nontonbokeps.com###left_ads_float_phonedevelop
+susterbokep.com###right_ads_float_phonedevelop
 sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
-streamingbokeps.co###advertisement-2
-susterbokep.com###right_ads_float_phonedevelop
+nontonbokeps.com###under-video-ads
+lonteku.sbs###wpb_overlay
+bokepkita.pro##.btm_ban
+nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
+bokepml.online##.s-sponsor
+ibugil.net##.semprotpokemon_1
+ibugil.net##.semprotpokemon_2
+lonteku.sbs##.wpb-image-popup.wpb-main-wrapper
+anoboy.ink##[href="https://klik.gg/anoboy"]
+anoboy.ink##[href="https://klik.gg/anoboyvip"]
 xtubecinema.club##[href^="/GoUrl.php?ads="]
+pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||1guy1cock.com^
 ||1priest1nun.net^
 ||24hpoker.com^$third-party

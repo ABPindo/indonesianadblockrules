@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202507021149
+! Version: 202507032215
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 02 Jul 2025 11:49 UTC
+! Last modified: 03 Jul 2025 22:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1213,7 +1213,7 @@ duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
 chordtela.com##.adsbawahjudul
 chordtela.com##.adsbawahposting
-nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
+nama.web.id,narasi.tv,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
 cinemaindo.com##.adstops
@@ -1509,6 +1509,9 @@ smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 merdeka.com##.masthead
+narasi.tv##.max-xl\:hidden.top-24.fixed.z-10
+narasi.tv##.max-xl\:hidden.top-24.left-0.fixed.z-10
+narasi.tv##.mb-4.bg-\[\#e3e3e3\]
 inibaru.id##.mb-4.bg-grey.text-center
 tempo.co##.mb-6.m-auto.right-0.left-0.max-w-\[470px\].relative.h-\[250px\].w-full
 parapuan.co##.mb3.gpt-ad-head-wrapper.widget
