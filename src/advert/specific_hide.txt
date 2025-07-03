@@ -1005,7 +1005,7 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
-medcom.id##.leaderboard
+medcom.id###Ads_billboard
 medcom.id##.footer_sticky_inside
 ! Suara.com Networks
 suara.com###adds-top
