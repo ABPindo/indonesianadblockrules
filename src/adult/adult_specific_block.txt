@@ -2,3 +2,4 @@
 ||blogger.googleusercontent.com/*.gif$image,domain=doujindesu.tv|javsubid.com
 ||cds.bet/*.gif^$image,third-party
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
+||blogger.googleusercontent.com/img/$image,domain=igodesu.tv
