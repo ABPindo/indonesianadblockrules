@@ -1,4 +1,5 @@
 ||128.199.175.251/looppopup.js
 ||blogger.googleusercontent.com/*.gif$image,domain=doujindesu.tv|javsubid.com
+||blogger.googleusercontent.com/img/$image,domain=igodesu.tv
 ||cds.bet/*.gif^$image,third-party
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party

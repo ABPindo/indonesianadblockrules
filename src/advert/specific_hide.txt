@@ -1,5 +1,6 @@
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
+medcom.id###Ads_billboard
 starringheavenlyrics.blogspot.com###HTML2
 idntimes.com###IDN_Billboard
 idntimes.com###IDN_MR1-wrapper
@@ -267,6 +268,7 @@ tvrinews.com##.ad-wing-left.ad-wing
 tvrinews.com##.ad-wing-right.ad-wing
 m.kapanlagi.com##.ad2
 loveindonesia.com##.ad_990_80
+jalantikus.com##.ad_wrapper
 terkini.id##.adbox
 bharian.com.my##.adbtm
 theasianparent.com##.adcore-height-50
@@ -338,7 +340,7 @@ duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
 chordtela.com##.adsbawahjudul
 chordtela.com##.adsbawahposting
-nama.web.id,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
+nama.web.id,narasi.tv,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
 cinemaindo.com##.adstops
@@ -456,6 +458,7 @@ cnnindonesia.com##.bottom_banner_container
 tvrinews.com##.bottom_sticky-ads
 gopego.com##.box
 kapanlagi.com##.box--banner
+beritasatu.com##.box-ads
 beautynesia.id##.box-ads--container
 uzone.id##.box-ads-300x250
 uzone.id##.box-ads-billboard
@@ -540,6 +543,7 @@ tek.id##.flying_carpet_show_fix
 bisnis.com,tek.id##.flying_carpet_show_inner
 cnnindonesia.com,detik.com,insertlive.com,teknoup.com##.footer_banner
 bisnis.com,herworld.co.id,suarasurabaya.net##.footer_sticky
+medcom.id##.footer_sticky_inside
 orami.co.id##.footer_stickyexp
 manganime.id##.ftadss
 beritasatu.com##.gam-ads
@@ -634,10 +638,13 @@ smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 merdeka.com##.masthead
+narasi.tv##.max-xl\:hidden.top-24.fixed.z-10
+narasi.tv##.max-xl\:hidden.top-24.left-0.fixed.z-10
+narasi.tv##.mb-4.bg-\[\#e3e3e3\]
 inibaru.id##.mb-4.bg-grey.text-center
 tempo.co##.mb-6.m-auto.right-0.left-0.max-w-\[470px\].relative.h-\[250px\].w-full
 parapuan.co##.mb3.gpt-ad-head-wrapper.widget
-cnbcindonesia.com,detik.com,haibunda.com,mamikos.com##.megabillboard
+cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com,mamikos.com##.megabillboard
 popbela.com##.megabillboard-container
 37.49.229.132,juraganfilm.icu##.mfp-inline-holder.mfp-s-ready.mfp-container
 juraganfilm.icu##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile
