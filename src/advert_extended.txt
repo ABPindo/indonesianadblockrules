@@ -305,3 +305,5 @@ satujiwa.org##table
 ##.popupBanner
 ##.teaser3
 ##.teaser4
+##[id^="div-gpt-ad"]
+
