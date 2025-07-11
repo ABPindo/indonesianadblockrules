@@ -93,6 +93,7 @@ nekopoi.care,nekopoi.lol##div[class^="mobileads"]
 drbokep.*##.loaded.ads-50
 dutasex.*###ads
 igobokep.*###floatbanner-bottom
+kingbokep.*##.md\:flex-row.flex-col.gap-3.flex.mt-3
 kingbokep.*##[grid-area="ads1"]
 kingbokep.*##div.flex.w-full.justify-center.overflow-x-auto
 kingbokep.*##div[style="width:300px;height:250px;z-index:1"]
@@ -106,6 +107,8 @@ lendirpedia.*##.kln
 lendirpedia.*##.teaser3
 manhwaindo.*###teaser3
 manhwaindo.*##.kln
+nokephub.*##.sgpb-popup-dialog-main-div-wrapper
+nokephub.*##.sgpb-popup-overlay
 pascol.*##.ays-pb-modals
 pascol.*##.kln
 pascol.*##.teaser3
@@ -118,6 +121,3 @@ rumahperjaka.*##.elementor-popup-modal
 sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
-nokephub.*##.sgpb-popup-dialog-main-div-wrapper
-nokephub.*##.sgpb-popup-overlay
-kingbokep.*##.md\:flex-row.flex-col.gap-3.flex.mt-3
