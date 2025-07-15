@@ -56,6 +56,7 @@ quran.nu.or.id##.w-full.relative
 inews.id##.widgetNewsTV__news24Jam
 bloombergtechnoz.com##div:nth-of-type(5)
 kompas.tv,sonora.id##kgnw-middle-player
+idxchannel.com##.outer-social-media-box
 ! Grid Networks
 grid.id###buttonGridstore
 motorplus-online.com###floatingIframe
