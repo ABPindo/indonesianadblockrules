@@ -102,7 +102,7 @@
 /uploads/iklan/*$image
 /usaha-berhasil.gif|$image
 /usahaberhasil.gif|
+/Waralabakan-Banner-$image
 /xbanner_iklan|$image
 _iklan-|$image
 _iklan_|$image
-/Waralabakan-Banner-$image

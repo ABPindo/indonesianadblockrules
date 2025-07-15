@@ -40,6 +40,7 @@ kompas.com,sonora.id##.kgnw-middle-ready.kgnw-middle
 bolasport.com,grid.id,gridoto.com,kompas.com,kompas.tv,motorplus-online.com##.kgnw-player
 inilah.com##.mui-style-1tl651l.MuiStack-root
 hukumonline.com##.my-2.d-flex.ps-ads-banner
+idxchannel.com##.outer-social-media-box
 tvrinews.com##.p-2.row
 kumparan.com##.pb8.pt8.flex.bshhdS.sc-1u3us5z-1.cTlHVA.Viewweb__StyledView-sc-b0snvl-0
 inews.id##.pipLiveStream__content
@@ -51,13 +52,12 @@ republika.co.id##.share
 jakartaglobe.id,republika.co.id##.show.fade.modal
 jakartaglobe.id,republika.co.id##.show.fade.modal-backdrop
 insertlive.com##.smartbanner_new
+metrotvnews.com##.socmed-share-container
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative
 inews.id##.widgetNewsTV__news24Jam
 bloombergtechnoz.com##div:nth-of-type(5)
 kompas.tv,sonora.id##kgnw-middle-player
-idxchannel.com##.outer-social-media-box
-metrotvnews.com##.socmed-share-container
 ! Grid Networks
 grid.id###buttonGridstore
 motorplus-online.com###floatingIframe
