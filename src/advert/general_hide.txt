@@ -375,3 +375,7 @@
 ##.widget_iklan_atas
 ##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
+##.sticky-ads-left
+##.sticky-ads-right
+##.article-adv
+##.ads72890.banner
