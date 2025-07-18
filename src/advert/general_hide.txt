@@ -381,3 +381,6 @@
 ##.ads72890.banner
 ###sidebar-banner-160x600-kiri
 ###sidebar-banner-160x600-kanan
+##.ads--stick-parent-250px.clearfix.mt3.ads
+##.ads--stick-parent.clearfix.mt3.ads
+##.ads--stick-parent-300px.clearfix.mt3.ads
