@@ -119,6 +119,8 @@
 ###popupklanfooter
 ###r_iklan
 ###rebahin-banner
+###sidebar-banner-160x600-kanan
+###sidebar-banner-160x600-kiri
 ###sticky-iklan
 ###tupiklan
 ##.SectionAds
@@ -127,6 +129,9 @@
 ##.adBar-vertical
 ##.adBar-vertical.left
 ##.adBar-vertical.right
+##.ads--stick-parent-250px.clearfix.mt3.ads
+##.ads--stick-parent-300px.clearfix.mt3.ads
+##.ads--stick-parent.clearfix.mt3.ads
 ##.ads-50
 ##.ads-atas
 ##.ads-atas-player
@@ -144,6 +149,7 @@
 ##.ads-sticky-kiri
 ##.ads-widget-kanan
 ##.ads-widget-kecil
+##.ads72890.banner
 ##.adsatas
 ##.adsatas1
 ##.adsatas2
@@ -182,6 +188,7 @@
 ##.ane-iklan-longbanner-header
 ##.area-iklan-atas
 ##.areaiklan
+##.article-adv
 ##.banner-atas
 ##.banner-iklan
 ##.banner-iklan-rmid
@@ -369,18 +376,11 @@
 ##.sticky-ad-atas
 ##.sticky-ad-bawah
 ##.sticky-adku
+##.sticky-ads-left
+##.sticky-ads-right
 ##.subiklan
 ##.topads-kanan
 ##.warning_iklan
 ##.widget_iklan_atas
 ##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
-##.sticky-ads-left
-##.sticky-ads-right
-##.article-adv
-##.ads72890.banner
-###sidebar-banner-160x600-kiri
-###sidebar-banner-160x600-kanan
-##.ads--stick-parent-250px.clearfix.mt3.ads
-##.ads--stick-parent.clearfix.mt3.ads
-##.ads--stick-parent-300px.clearfix.mt3.ads
