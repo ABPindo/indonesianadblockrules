@@ -1103,6 +1103,7 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
 wowkeren.com##div[style*="width:300px;min-height:250px"]
 hmetro.com.my##.ad
 bharian.com.my##.ad
+kinitv.com##.bg-gray-100:has(.adunitContainer)
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
