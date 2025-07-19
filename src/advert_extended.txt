@@ -65,7 +65,6 @@
 ||uamrnaakv.com^
 ||weblogiklan.com^$third-party
 ||wkuave.com^$third-party
-
 ! --- Sub-category: Popup & Redirection Domains ---
 ||9icmzvn6.website^$popup
 ||adbsys.icu^$popup
@@ -123,7 +122,6 @@
 ||wbaogaqvrukprx.com^$popup
 ||whjibbprhng.com^$popup,third-party
 ||zuyejecgb.com^$popup
-
 ! --- Sub-category: Malicious/Unwanted Scripts, Images & Content ---
 ||akanhoki.com/GenerateAdImage$image
 ||awnime.net/popup.htm$popup
@@ -175,128 +173,125 @@
 ||tinfunshe.club^$script
 ||upload.coblos.net/images/*.gif$image
 ||yourhealthnoone.com/wt213ad/$subdocument
-
 ! --- Sub-category: Site-Specific Hiding Rules ---
-22cinema.com##.ayu-headads
-22cinema.download###teaser5
+downloadfilmbaru.com###ads-stack
+filmbagus88.net###banner-right
+idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
+downloadfilmbaru.com###close-ads-stack
+indoxx1.club###col
+indostreamings.xyz###content > div:nth-of-type(1)
+bioskopmovie.tv###directorio > .random > center
 90animax.com###energysaving
-alona.co.id##.inf_infusionsoft_popup
-anime17.net##.ktz_banner
-awsubs.co##.klnrec
-awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
-awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
-awnime.net##.ads-header-5
+cmovieshd.se,ganool.se###epmblock
+nontonserial.com###fatas
+indoxx1.pw###ffbp
+indoxxi.pictures###ffbp-bg
+indoxxi.pictures###ffbp-body
+indoxxi.pictures###ffbp-close
+cinema-indo.web.id,dunia21tv.com,layarcinema.tv,lk21tv.com###float-bottom-banner
+komiku.net###floatads2
+komiku.net###floatads3
+nontonsini.com###floatbawah
+lk21.host###floatbot
+sinemaindo.web.id###floatbtmleft
+ganool.web.id###floating_ads_bottom_textcss2
+idxxx1.com###floating_ads_bottom_textcss_wrap
+lk21c.fun###flobwh
+topfilmz.com###idb3
+cinemaindo.web.id,sinemaindo.web.id###ilang2
+downloadfilmbaru.com###itro_opaco
+downloadfilmbaru.com###itro_popup
 b201.info,bioskop201.biz###kayan_reklam_sag
 b201.info,bioskop201.biz###kayan_reklam_sol
-bgibola.lat##.bannerbawahheader
-bgibola.lat##.inline-banner
-bioskop201.biz##.contentlist
-bioskop55.club###wrap > .headborder > .headcontent > .textwidget
-bioskop99.me##.bot.ads
-bioskopmovie.tv###directorio > .random > center
-cinema-indo.net##img.aligncenter
-cinema-indo.web.id,dunia21tv.com,layarcinema.tv,lk21tv.com###float-bottom-banner
-cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
-cinema-indo.web.id,filmbagus21.info##.modal
+komikbaru.com###left-skyscraper
+idxx1.top###player-side-left
+indoxx1.pw###popup
+lk21.li,nonton21.tv###previewBox
+fb21.tv###previewBox1
+fb21.tv,nonton21.tv,nontonserial.com###previewBox2
+dunia21s.fun,fb21.tv,lk21.li,nonton21.tv###previewBox3
+dunia21s.fun,fb21.tv,lk21.li,nonton21.tv,nontonserial.com###previewBox4
+komikbaru.com###right-skyscraper
+lk21tv.com###rotating
+kazemanga.xyz###sgpb-popup-dialog-main-div-wrapper
+nontonfilm88.com###sidebar-right
 cinemaindo.tv###sidebar_right > .side:nth-of-type(5) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(6) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(7) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(8) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(9) > .textwidget
-cinemaindo.web.id,sinemaindo.web.id###ilang2
-cmovieshd.se,ganool.se###epmblock
-dewanonton.vip##.banner-premium
-dewanonton.vip,dwanonton.com##.banner-common
-dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
-didrakorindo.com,indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-modal
-downloadfilmbaru.com###ads-stack
-downloadfilmbaru.com###close-ads-stack
-downloadfilmbaru.com###itro_opaco
-downloadfilmbaru.com###itro_popup
-drakorasia.us##.ads728-slot-panjang
-dutafilm.observer##.swal-overlay--show-modal.swal-overlay
-dwa21.org##[class*="banner"]
-dwanonton.com##.left.banner-vertical
-dwanonton.com##.right.banner-vertical
-elde.tv##.bannerwrap
-fb21.tv###previewBox1
-fb21.tv,nonton21.tv,nontonserial.com###previewBox2
-dunia21s.fun,fb21.tv,lk21.li,nonton21.tv###previewBox3
-dunia21s.fun,fb21.tv,lk21.li,nonton21.tv,nontonserial.com###previewBox4
-filmace21.net##.idmupi-topbanner
-filmbagus88.net###banner-right
-filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
-filem456.com##.pps-single-popup
-ganol.si##.adsincenter
-ganool.web.id###floating_ads_bottom_textcss2
-gatsunime.org##a[target="_blank"][rel^="noopener noreferrer"] > img[src$=".gif"]
-hightech.web.id##.wait
-idxx1.top###player-side-left
-idxxx1.com###floating_ads_bottom_textcss_wrap
-idxxx1.com,indoxx1.co,sidrama.com,sukamovie.club###banner-tengah
-idtube.me##.bm.overlay
-idtube.me,idxx1.top##a.bnner
-indonesiamovies21.com##.ktz-banneraftercontent
-indostreamings.xyz###content > div:nth-of-type(1)
-indoxx1.club###col
+22cinema.download###teaser5
 indoxx1.club###tengah
-indoxx1.club###tengahaa
-indoxx1.club##div.content-kuss
-indoxx1.pw###ffbp
-indoxx1.pw###popup
-indoxxi.pictures###ffbp-bg
-indoxxi.pictures###ffbp-body
-indoxxi.pictures###ffbp-close
-indoxxi.top##.reklam-goster-sag
-indoxxi.top##.reklam-goster-so
-kazemanga.xyz###sgpb-popup-dialog-main-div-wrapper
-kazemanga.xyz##.sg-popup-builder-content
-klikseru.com##.textwidget img[width="300"][height="250"]
-klikseru.com##center img[width="728"][height="70"]
-komikbaru.com###left-skyscraper
-komikbaru.com###right-skyscraper
-komikbaru.com##.ad.b300x250
-komiku.net###floatads2
-komiku.net###floatads3
-kshowid.com##.adssingle
-kshowid.com##a[href="http://kshowid.com/advertising/"]
-kumpulmanga.org##.kzl-header.kzl
-kurina.vip##[class="sc__wrp"]
-layardrama21.rest##[href^="//avgirls.asia/"]
-ld2tv.com##.img-banner
 lk21.cc###tengah > span
-lk21.host###floatbot
-lk21.host##.appup
-lk21.li,nonton21.tv###previewBox
-lk21c.fun###flobwh
-lk21c.fun##a[href^="https://rebrand.ly/"]
-lk21tv.com###rotating
-nanimex1.com##.in.modal-backdrop
-nobarfilm21.net##.mvic-btn
+indoxx1.club###tengahaa
+bioskop55.club###wrap > .headborder > .headcontent > .textwidget
 nontonfilm77.com###wrap > table
-nontonfilm88.com###sidebar-right
-nontonfilm88.com##center > table
-nontonmovie.web.id,videocrot.org##.bannersinglefot
-nontonplus.com##.content-kuss-ikln
-nontonserial.com###fatas
-nontonsini.com###floatbawah
-otakuindo.org##.box_banner
-qqcinema21.com#@#.headads
-rbtv77.com##.czlll-rlselse
-satujiwa.org##table
-senimovie.info##.rsABlock
 senimovie.info,senimovies.net##.ad-float-image
-seri168.net##a[href^="//bit.ly/"]
-sinemaindo.web.id###floatbtmleft
-sinemaindo.web.id##a[href^="//angel4d.com/"]
-sinemaindo.web.id##a[href^="//telolet4d.com/"]
-sukamovie.club##[href$="/sukamovieclub"]
+komikbaru.com##.ad.b300x250
+awnime.net##.ads-header-5
+drakorasia.us##.ads728-slot-panjang
+ganol.si##.adsincenter
+kshowid.com##.adssingle
+lk21.host##.appup
+22cinema.com##.ayu-headads
+dewanonton.vip,dwanonton.com##.banner-common
+dewanonton.vip##.banner-premium
+bgibola.lat##.bannerbawahheader
+nontonmovie.web.id,videocrot.org##.bannersinglefot
+elde.tv##.bannerwrap
+didrakorindo.com,indoxx1.pw,indoxxi.pictures,sukanonton.online##.blocker.jquery-modal
+idtube.me##.bm.overlay
+bioskop99.me##.bot.ads
+otakuindo.org##.box_banner
 tivipedia.com##.code-block-1.code-block
 tivipedia.com##.code-block-2.code-block
-topfilmz.com###idb3
-
+nontonplus.com##.content-kuss-ikln
+bioskop201.biz##.contentlist
+rbtv77.com##.czlll-rlselse
+qqcinema21.com#@#.headads
+filmace21.net##.idmupi-topbanner
+ld2tv.com##.img-banner
+nanimex1.com##.in.modal-backdrop
+alona.co.id##.inf_infusionsoft_popup
+bgibola.lat##.inline-banner
+awsubs.co##.klnrec
+indonesiamovies21.com##.ktz-banneraftercontent
+anime17.net##.ktz_banner
+kumpulmanga.org##.kzl-header.kzl
+dwanonton.com##.left.banner-vertical
+cinema-indo.web.id,filmbagus21.info##.modal
+nobarfilm21.net##.mvic-btn
+filem456.com##.pps-single-popup
+indoxxi.top##.reklam-goster-sag
+indoxxi.top##.reklam-goster-so
+dwanonton.com##.right.banner-vertical
+senimovie.info##.rsABlock
+kazemanga.xyz##.sg-popup-builder-content
+dutafilm.observer##.swal-overlay--show-modal.swal-overlay
+klikseru.com##.textwidget img[width="300"][height="250"]
+cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
+hightech.web.id##.wait
+dwa21.org##[class*="banner"]
+kurina.vip##[class="sc__wrp"]
+sukamovie.club##[href$="/sukamovieclub"]
+layardrama21.rest##[href^="//avgirls.asia/"]
+dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
+idtube.me,idxx1.top##a.bnner
+kshowid.com##a[href="http://kshowid.com/advertising/"]
+sinemaindo.web.id##a[href^="//angel4d.com/"]
+seri168.net##a[href^="//bit.ly/"]
+sinemaindo.web.id##a[href^="//telolet4d.com/"]
+filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
+lk21c.fun##a[href^="https://rebrand.ly/"]
+awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
+awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
+gatsunime.org##a[target="_blank"][rel^="noopener noreferrer"] > img[src$=".gif"]
+nontonfilm88.com##center > table
+klikseru.com##center img[width="728"][height="70"]
+indoxx1.club##div.content-kuss
+cinema-indo.net##img.aligncenter
+satujiwa.org##table
 ! --- Category: Exception & Whitelist Rules ---
-
 ! https://github.com/ABPindo/indonesianadblockrules/pull/833
 ! Caution: These are broad rules with a high risk of breaking websites or causing false positives. They are included for testing as they may still be effective on Indonesian websites.
 ###ads-infeed
