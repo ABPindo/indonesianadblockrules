@@ -1,3 +1,7 @@
+republika.co.id##.parallax
+republika.co.id##.parallax__container
+republika.co.id##.scrollToRead
+republika.co.id##.scrollToRead + .container:has(> .content)
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 muslimterkini.id###AdAAnchor
