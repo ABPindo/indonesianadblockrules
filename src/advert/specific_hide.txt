@@ -1,6 +1,3 @@
-beautyjournal.id###adsense-parallax-banner-container
-beautyjournal.id##.r-1ut4w64.r-14lw9ot.css-175oi2r
-beautyjournal.id##.r-1mi0q7o.r-sax9pr.r-14lw9ot.css-175oi2r
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 muslimterkini.id###AdAAnchor
@@ -33,6 +30,7 @@ dapurpacu.com###ads-mid
 optika.id###ads-top-header-parallax
 poskota.co.id###ads__bottom
 inews.id###ads_megabillboard
+beautyjournal.id###adsense-parallax-banner-container
 kontan.co.id###adsoutsream
 unixmen.com###an-Modal
 suara.com,tribunnews.com###anchorads
@@ -714,6 +712,8 @@ pikiran-rakyat.com##.prads
 kompas.com##.premium_div
 blibli.com##.product__card:has(.product__tag__ads)
 bolasport.com,gridoto.com,kompas.com,kompasiana.com,sonora.id##.pushdown-banner
+beautyjournal.id##.r-1mi0q7o.r-sax9pr.r-14lw9ot.css-175oi2r
+beautyjournal.id##.r-1ut4w64.r-14lw9ot.css-175oi2r
 otomania.com##.r-ads
 film-ganool.com##.random
 okezone.com##.rc-ad-300x250
