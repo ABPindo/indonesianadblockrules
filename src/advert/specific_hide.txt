@@ -1074,6 +1074,8 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR1-wrapper
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR2-wrapper
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_Sticky
 idntimes.com###ads-infeed
+bharian.com.my,hmetro.com.my##.ad
+kinitv.com##.bg-gray-100:has(.adunitContainer)
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-13bgxac
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-1614bu0
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-172jeyh
@@ -1095,16 +1097,13 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-urr7k6
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-y6gr35
 wowkeren.com##.ne-banner-layout1
 idntimes.com##.wrapper-megabillboard
+astroawani.com##[class^="Advertisement_ads_container"]
 idntimes.com,yummy.co.id##[id^="IDN_Billboard"]
 idntimes.com##[id^="IDN_InArticle"]
 idntimes.com##[id^="IDN_Leaderboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
 wowkeren.com##div[style*="width:300px;min-height:250px"]
-hmetro.com.my##.ad
-bharian.com.my##.ad
-kinitv.com##.bg-gray-100:has(.adunitContainer)
-astroawani.com##[class^="Advertisement_ads_container"]
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
