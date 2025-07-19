@@ -75,7 +75,6 @@ qqcinema21.com#@#.headads
 filmace21.net##.idmupi-topbanner
 layarlebarxxi.com#@#.idmuvi-afterplayer
 layarlebarxxi.com#@#.idmuvi-topplayer
-awsubs.co##.iklansamping
 ld2tv.com##.img-banner
 nanimex1.com##.in.modal-backdrop
 alona.co.id##.inf_infusionsoft_popup
@@ -295,6 +294,12 @@ satujiwa.org##table
 ||yourhealthnoone.com/wt213ad/$subdocument
 ||ys3e965d.top^$third-party
 ||zuyejecgb.com^$popup
+lk21c.fun###flobwh
+kazemanga.xyz###sgpb-popup-dialog-main-div-wrapper
+kazemanga.xyz##.sg-popup-builder-content
+lk21c.fun##a[href^="https://rebrand.ly/"]
+||lokeriklan.com^$third-party
+||craydark.pw^$third-party
 ! https://github.com/ABPindo/indonesianadblockrules/pull/833
 ###ads-infeed
 ##.ads
@@ -306,3 +311,4 @@ satujiwa.org##table
 ##.teaser3
 ##.teaser4
 ##[id^="div-gpt-ad"]
+
