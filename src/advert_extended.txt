@@ -21,6 +21,7 @@ lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
 ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com###floating_ads_bottom_textcss_wrap
+lk21c.fun###flobwh
 topfilmz.com###idb3
 cinemaindo.web.id,sinemaindo.web.id###ilang2
 downloadfilmbaru.com###itro_opaco
@@ -37,6 +38,7 @@ dunia21s.fun,fb21.tv,lk21.li,nonton21.tv###previewBox3
 dunia21s.fun,fb21.tv,lk21.li,nonton21.tv,nontonserial.com###previewBox4
 komikbaru.com###right-skyscraper
 lk21tv.com###rotating
+kazemanga.xyz###sgpb-popup-dialog-main-div-wrapper
 nontonfilm88.com###sidebar-right
 cinemaindo.tv###sidebar_right > .side:nth-of-type(5) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(6) > .textwidget
@@ -75,7 +77,6 @@ qqcinema21.com#@#.headads
 filmace21.net##.idmupi-topbanner
 layarlebarxxi.com#@#.idmuvi-afterplayer
 layarlebarxxi.com#@#.idmuvi-topplayer
-awsubs.co##.iklansamping
 ld2tv.com##.img-banner
 nanimex1.com##.in.modal-backdrop
 alona.co.id##.inf_infusionsoft_popup
@@ -92,6 +93,7 @@ indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-so
 dwanonton.com##.right.banner-vertical
 senimovie.info##.rsABlock
+kazemanga.xyz##.sg-popup-builder-content
 dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 klikseru.com##.textwidget img[width="300"][height="250"]
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
@@ -109,6 +111,7 @@ sinemaindo.web.id##a[href^="//angel4d.com/"]
 seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
+lk21c.fun##a[href^="https://rebrand.ly/"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
 awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
 gatsunime.org##a[target="_blank"][rel^="noopener noreferrer"] > img[src$=".gif"]
@@ -147,6 +150,7 @@ satujiwa.org##table
 ||chqspuonctkgz.com^$popup
 ||clickmedia.co.id^$third-party
 ||compulsivehemisphere.com^$popup
+||craydark.pw^$third-party
 ||d01.notifa.info^
 ||daero.pw^$popup
 ||dearerfonder.info^$popup,third-party
@@ -203,6 +207,7 @@ satujiwa.org##table
 ||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
 ||ld82ydd.com^$popup
 ||leoceran.pw^$third-party
+||lokeriklan.com^$third-party
 ||lpaizureik.com^$popup
 ||lsgqlgoc.com^
 ||lugtardam.com^$script

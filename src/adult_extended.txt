@@ -8,10 +8,8 @@ nontonbokeps.com###left_ads_float_phonedevelop
 susterbokep.com###right_ads_float_phonedevelop
 sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
-nontonbokeps.com###under-video-ads
 lonteku.sbs###wpb_overlay
 bokepkita.pro##.btm_ban
-nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
 bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
@@ -21,12 +19,15 @@ anoboy.ink##[href="https://klik.gg/anoboy"]
 anoboy.ink##[href="https://klik.gg/anoboyvip"]
 xtubecinema.club##[href^="/GoUrl.php?ads="]
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
+||1girl1pitcher.org^
 ||1guy1cock.com^
 ||1priest1nun.net^
 ||24hpoker.com^$third-party
 ||2girls1cup.cc^
+||2guys1stump.org^
 ||396club.co^$popup
 ||3poker855.com^$third-party
+||4girlsfingerpaint.org^
 ||99doyan.com^$popup,third-party
 ||agenjudipoker.com^$third-party
 ||agenjuditerbesar.com^$third-party
@@ -57,6 +58,7 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||casinopokercoin.com^$third-party
 ||cherrycake.org^
 ||cmcpoker.info^$third-party
+||coltpoker.com^$third-party
 ||copyright-reform.info^
 ||cyberjudi.com^$third-party
 ||daftartaruhan.com^$third-party

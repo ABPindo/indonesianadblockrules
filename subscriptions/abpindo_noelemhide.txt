@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202507181242
+! Version: 202507191119
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 18 Jul 2025 12:42 UTC
+! Last modified: 19 Jul 2025 11:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -69,7 +69,6 @@
 ||jagopromo.com^$third-party
 ||jasaiklan.com^$third-party
 ||klikajadeh.com^$third-party
-||lokeriklan.com^$third-party
 ||luckyads.com^$third-party
 ||mesiniklan.andipublisher.com^$third-party
 ||offdeck.telkomsel.com^$third-party
@@ -111,7 +110,6 @@
 ||adeumssp.com^
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup
-||craydark.pw^$third-party
 ||dairouzy.net^$popup
 ||doathair.com^$third-party
 ||edomz.com^$third-party
@@ -3995,7 +3993,6 @@ totojitu.gif|$image
 ||celebpoker.com^$third-party
 ||chilipoker.com^$third-party
 ||clickadu.com^$popup
-||coltpoker.com^$third-party
 ||coolhandpoker.com^$third-party
 ||dafapoker.com^$third-party
 ||daftarjudibola.com^$third-party

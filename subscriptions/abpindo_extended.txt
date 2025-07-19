@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202507181242
+! Version: 202507191119
 ! Title: ABPindo - Extended
 ! Description: Testing unsafe rules that may break certain websites, contain deleted filters/domains, and may reappear.
-! Last modified: 18 Jul 2025 12:42 UTC
+! Last modified: 19 Jul 2025 11:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -36,6 +36,7 @@ lk21.host###floatbot
 sinemaindo.web.id###floatbtmleft
 ganool.web.id###floating_ads_bottom_textcss2
 idxxx1.com###floating_ads_bottom_textcss_wrap
+lk21c.fun###flobwh
 topfilmz.com###idb3
 cinemaindo.web.id,sinemaindo.web.id###ilang2
 downloadfilmbaru.com###itro_opaco
@@ -52,6 +53,7 @@ dunia21s.fun,fb21.tv,lk21.li,nonton21.tv###previewBox3
 dunia21s.fun,fb21.tv,lk21.li,nonton21.tv,nontonserial.com###previewBox4
 komikbaru.com###right-skyscraper
 lk21tv.com###rotating
+kazemanga.xyz###sgpb-popup-dialog-main-div-wrapper
 nontonfilm88.com###sidebar-right
 cinemaindo.tv###sidebar_right > .side:nth-of-type(5) > .textwidget
 cinemaindo.tv###sidebar_right > .side:nth-of-type(6) > .textwidget
@@ -90,7 +92,6 @@ qqcinema21.com#@#.headads
 filmace21.net##.idmupi-topbanner
 layarlebarxxi.com#@#.idmuvi-afterplayer
 layarlebarxxi.com#@#.idmuvi-topplayer
-awsubs.co##.iklansamping
 ld2tv.com##.img-banner
 nanimex1.com##.in.modal-backdrop
 alona.co.id##.inf_infusionsoft_popup
@@ -107,6 +108,7 @@ indoxxi.top##.reklam-goster-sag
 indoxxi.top##.reklam-goster-so
 dwanonton.com##.right.banner-vertical
 senimovie.info##.rsABlock
+kazemanga.xyz##.sg-popup-builder-content
 dutafilm.observer##.swal-overlay--show-modal.swal-overlay
 klikseru.com##.textwidget img[width="300"][height="250"]
 cinema-indo.web.id,dunia21tv.com,layarcinema.tv##.visible-lg
@@ -124,6 +126,7 @@ sinemaindo.web.id##a[href^="//angel4d.com/"]
 seri168.net##a[href^="//bit.ly/"]
 sinemaindo.web.id##a[href^="//telolet4d.com/"]
 filmterbaru.id##a[href^="http://www.apktiga.com/p/start-download-reayus.html"]
+lk21c.fun##a[href^="https://rebrand.ly/"]
 awsubs.co##a[rel="nofollow"] > img[src*="bp.blogspot.com"]
 awsubs.co##a[rel="noopener"] > img[src*="bp.blogspot.com"]
 gatsunime.org##a[target="_blank"][rel^="noopener noreferrer"] > img[src$=".gif"]
@@ -162,6 +165,7 @@ satujiwa.org##table
 ||chqspuonctkgz.com^$popup
 ||clickmedia.co.id^$third-party
 ||compulsivehemisphere.com^$popup
+||craydark.pw^$third-party
 ||d01.notifa.info^
 ||daero.pw^$popup
 ||dearerfonder.info^$popup,third-party
@@ -218,6 +222,7 @@ satujiwa.org##table
 ||layarkaca21.net/anow.js$script,domain=cinemaindo.web.id
 ||ld82ydd.com^$popup
 ||leoceran.pw^$third-party
+||lokeriklan.com^$third-party
 ||lpaizureik.com^$popup
 ||lsgqlgoc.com^
 ||lugtardam.com^$script
@@ -333,10 +338,8 @@ nontonbokeps.com###left_ads_float_phonedevelop
 susterbokep.com###right_ads_float_phonedevelop
 sodasusu.com###sodasusu_ads_side_left
 sodasusu.com###sodasusu_ads_side_right
-nontonbokeps.com###under-video-ads
 lonteku.sbs###wpb_overlay
 bokepkita.pro##.btm_ban
-nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
 bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
@@ -346,12 +349,15 @@ anoboy.ink##[href="https://klik.gg/anoboy"]
 anoboy.ink##[href="https://klik.gg/anoboyvip"]
 xtubecinema.club##[href^="/GoUrl.php?ads="]
 pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
+||1girl1pitcher.org^
 ||1guy1cock.com^
 ||1priest1nun.net^
 ||24hpoker.com^$third-party
 ||2girls1cup.cc^
+||2guys1stump.org^
 ||396club.co^$popup
 ||3poker855.com^$third-party
+||4girlsfingerpaint.org^
 ||99doyan.com^$popup,third-party
 ||agenjudipoker.com^$third-party
 ||agenjuditerbesar.com^$third-party
@@ -382,6 +388,7 @@ pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 ||casinopokercoin.com^$third-party
 ||cherrycake.org^
 ||cmcpoker.info^$third-party
+||coltpoker.com^$third-party
 ||copyright-reform.info^
 ||cyberjudi.com^$third-party
 ||daftartaruhan.com^$third-party
