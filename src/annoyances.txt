@@ -1,5 +1,4 @@
 ! Title: ABPindo – Annoyances\
-medcom.id###stickshare
 tribunnews.com###banner_article_slide
 tvonenews.com###btt
 detik.com###detikPagiSore
@@ -7,6 +6,7 @@ javmiu.xyz###disclaimer
 detik.com###notification_newsfeed
 koran-jakarta.com###popupModal
 antaranews.com###scroll-top
+medcom.id###stickshare
 kompas.com##+js(aeld, scroll, kgSticky)
 kompasiana.com##.align-center.floatingWrap
 hariantimes.com##.banner-content
