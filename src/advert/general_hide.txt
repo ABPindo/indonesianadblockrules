@@ -123,6 +123,7 @@
 ###sidebar-banner-160x600-kiri
 ###sticky-iklan
 ###tupiklan
+###under-video-ads
 ##.SectionAds
 ##.ad-bawah
 ##.ad-container
@@ -357,6 +358,7 @@
 ##.labeliklan
 ##.lazyloaded.ads-50
 ##.loading.ads-50
+##.mask-ads
 ##.part_iklan_content
 ##.part_iklan_footer
 ##.part_iklan_header
@@ -384,6 +386,3 @@
 ##.widget_iklan_atas
 ##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
-###under-video-ads
-##.mask-ads
-##.iklansamping
