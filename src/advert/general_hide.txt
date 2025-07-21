@@ -386,3 +386,4 @@
 ##.widget_iklan_atas
 ##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
+##.ads--stick-parent-400px.clearfix.mt3.ads
