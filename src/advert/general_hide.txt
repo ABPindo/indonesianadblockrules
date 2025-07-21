@@ -387,3 +387,5 @@
 ##.widget_iklan_atas
 ##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
+###banner-tengah
+##.klnrec
