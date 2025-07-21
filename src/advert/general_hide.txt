@@ -132,6 +132,7 @@
 ##.adBar-vertical.right
 ##.ads--stick-parent-250px.clearfix.mt3.ads
 ##.ads--stick-parent-300px.clearfix.mt3.ads
+##.ads--stick-parent-400px.clearfix.mt3.ads
 ##.ads--stick-parent.clearfix.mt3.ads
 ##.ads-50
 ##.ads-atas
@@ -386,4 +387,3 @@
 ##.widget_iklan_atas
 ##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
-##.ads--stick-parent-400px.clearfix.mt3.ads
