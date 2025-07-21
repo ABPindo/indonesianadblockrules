@@ -240,6 +240,11 @@ cinema-indo.net##img.aligncenter
 ! https://github.com/ABPindo/indonesianadblockrules/pull/833
 ! Caution: These are broad rules with a high risk of breaking websites or causing false positives. They are included for testing as they may still be effective on Indonesian websites.
 ###ads-infeed
+###ads-stack
+###floatads2
+###floatads3
+###teaser5
+##.ad-float-image
 ##.ads
 ##.floatbanner-bottom
 ##.floating-banner
@@ -249,8 +254,3 @@ cinema-indo.net##img.aligncenter
 ##.teaser3
 ##.teaser4
 ##[id^="div-gpt-ad"]
-###floatads2
-###floatads3
-##.ad-float-image
-###teaser5
-###ads-stack
