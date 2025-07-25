@@ -2,5 +2,5 @@
 ||blogger.googleusercontent.com/*.gif$image,domain=doujindesu.tv|javsubid.com
 ||blogger.googleusercontent.com/img/$image,domain=igodesu.tv
 ||cds.bet/*.gif^$image,third-party
-||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||ceritanakal.com/wp-content/uploads/2025/06/GIF-*.gif$image
+||nekopoi.care/wp-content/uploads/*.gif$image,~third-party

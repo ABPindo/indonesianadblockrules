@@ -57,6 +57,7 @@ indobokep.pro##.header-banner
 185.217.95.43,filmjepangku.com,hencop.lol,heppinn.id,javsubid.com,javsubindo.my,javsubindo.site,komik18.art,komikcast02.com,komikdewasa.com,komikdewasa.me,komikremaja.com,lendirpedia.com,lendirpedia.fun,lendirpedia.icu,mangasusuku.com,manhwaindo.cfd,manhwaindo.com,manhwaindo.me,manhwaland.mom,manhwaland.top,manhwalist.com,onlyvid.icu,pascol.com,sintube.icu,skandalpedia.rest,starjepang.com,starjepang.live##.kln
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 manadobaswara.com##.manado-widget
+javdesu.tv##.overflow-hidden.w-full.aspect-\[728\/90\].relative
 agenbokep.co##.pop-overlay
 buahmangga.com,gocrot.org,semprot.com##.popup-cr7
 sebokep.com##.sg-popup-builder-content
@@ -122,4 +123,3 @@ sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
 videocrot.*##.ads-720
-javdesu.tv##.overflow-hidden.w-full.aspect-\[728\/90\].relative
