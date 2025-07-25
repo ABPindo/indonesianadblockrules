@@ -391,3 +391,4 @@
 ##div[aria-label="Iklan"]
 ##.clearfix.mt3.ads
 ##.ads__giant__banner
+##img[data-ai-hint="advertisement banner"]
