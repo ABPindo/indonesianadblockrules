@@ -153,6 +153,7 @@
 ##.ads-widget-kanan
 ##.ads-widget-kecil
 ##.ads72890.banner
+##.ads__giant__banner
 ##.adsatas
 ##.adsatas1
 ##.adsatas2
@@ -206,6 +207,7 @@
 ##.bottom-iklan-detail
 ##.bottom_sticky-ads
 ##.campaign-atas
+##.clearfix.mt3.ads
 ##.close-iklan
 ##.float-ads-footer
 ##.float-ads-left
@@ -389,5 +391,3 @@
 ##.widget_iklan_atas
 ##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
-##.clearfix.mt3.ads
-##.ads__giant__banner
