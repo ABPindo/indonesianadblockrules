@@ -1108,6 +1108,7 @@ movieku.*##[href^="https://heylink.cam/"]
 movieku.*###btm_banner
 movieku.*##.teaser3
 movieku.*##.kln
+layarkaca21ok.site###banner-popup
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
