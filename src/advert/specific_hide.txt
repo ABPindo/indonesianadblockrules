@@ -1111,6 +1111,7 @@ movieku.*###btm_banner
 movieku.*##.kln
 movieku.*##.teaser3
 movieku.*##[href^="https://heylink.cam/"]
+lk21semi.*##.gmr-bannerpopup
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
