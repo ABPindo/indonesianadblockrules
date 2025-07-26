@@ -345,7 +345,6 @@ nama.web.id,narasi.tv,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
 cinemaindo.com##.adstops
-movieku.ink##.adsx
 mangaku.in,mangaku.site,mangaku.web.id##.adv
 dramacool.io,dramanice.io,k-vid.com##.adv-space
 teknoup.com##.advertisement_box1
@@ -617,7 +616,7 @@ kompas.com##.kgnw-modal-ads
 kompas.com##.kgnw-modal-adswrap
 kontan.co.id##.kiri-det-desk
 apk.miuiku.com,lewat.club##.klikdisini
-ainzscans.net,cosmic345.co,ikiru.one,ikiru.world,isekaisubs.web.id,kiryuu01.com,kmvs03.com,komikcast01.com,komikcast02.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,komiktap.info,mangakita.id,mangakita.net,movieku.ink##.kln
+ainzscans.net,cosmic345.co,ikiru.one,ikiru.world,isekaisubs.web.id,kiryuu01.com,kmvs03.com,komikcast01.com,komikcast02.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,komiktap.info,mangakita.id,mangakita.net##.kln
 faktabali.com##.ktzsingle-bannerright
 kontan.co.id##.kus
 starringheavenlyrics.blogspot.com##.lalulintas
@@ -787,7 +786,6 @@ theasianparent.com##.tap-ad-container
 hijabista.com.my,majalahpama.my,nona.my,vanillakismis.my##.td-banner-bg.td-banner-wrap-full
 nontondramaonline.co##.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
-movieku.ink##.teaser3
 kordindonesia.com##.text-ad
 internetpositif.uzone.id##.text-align-center.box-ads-content
 kontan.co.id##.text-center.center.width-px-1100
@@ -1106,6 +1104,10 @@ idntimes.com##[id^="IDN_Leaderboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
 wowkeren.com##div[style*="width:300px;min-height:250px"]
+movieku.*##[href^="https://heylink.cam/"]
+movieku.*###btm_banner
+movieku.*##.teaser3
+movieku.*##.kln
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
