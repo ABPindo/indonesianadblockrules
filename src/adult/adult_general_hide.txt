@@ -8,6 +8,7 @@
 ##.dominowalet
 ##.happypoker
 ##.judi
+##.slot-machine-wrapper
 ##.togel
 ##[href$=".win/simantan" i]
 ##[href$="/388hero" i]
@@ -140,6 +141,7 @@
 ##[href$="/vvipwin" i]
 ##[href$="/wedeqq" i]
 ##[href$="?ref=bokepmania" i]
+##[href*="https://menujupenta.site/"]
 ##[href="http://bogil.vip/"]
 ##[href="http://probet188.xyz/"]
 ##[href="https://172.104.39.221/slots/pragmatic"]
@@ -159,6 +161,7 @@
 ##[href^="http://gbos.vip/"]
 ##[href^="http://gemgem188.net/"]
 ##[href^="http://idngoalbola.win/"]
+##[href^="http://idngoalbola.xyz/"]
 ##[href^="http://ig24.me/"]
 ##[href^="http://jpx500.quest/"]
 ##[href^="http://kartupk.net/"]
@@ -168,6 +171,7 @@
 ##[href^="http://mjhoq.net/"]
 ##[href^="http://ngpk.pro/"]
 ##[href^="http://pkr8.me/"]
+##[href^="http://shiobt.vip/"]
 ##[href^="http://skr888.com/"]
 ##[href^="http://tgl88asia.club/"]
 ##[href^="http://vegs88.xyz/"]
@@ -179,9 +183,11 @@
 ##[href^="https://aksesgila.site/"]
 ##[href^="https://akseskaiko.cam/"]
 ##[href^="https://akslot.io/"]
+##[href^="https://bergurukecina.fun/"]
 ##[href^="https://bet88.ph"]
 ##[href^="https://betkk2.com/"]
 ##[href^="https://boskale.me/"]
+##[href^="https://buaksib.in/"]
 ##[href^="https://cuanbgt.id/"]
 ##[href^="https://diffusedpassionquaking.com/"]
 ##[href^="https://domaininnovations.com/"]
@@ -190,6 +196,7 @@
 ##[href^="https://greenartindonesia.co.id/"]
 ##[href^="https://h5.rp777car.com/"]
 ##[href^="https://hoki.mu/"]
+##[href^="https://jalur.win/"]
 ##[href^="https://jamet138c.me/"]
 ##[href^="https://jayaabadi.pro/"]
 ##[href^="https://mainhoki.link/"]
@@ -197,6 +204,7 @@
 ##[href^="https://menujupenta.site/"]
 ##[href^="https://miraclehoki.com/"]
 ##[href^="https://mmk4d.com/"]
+##[href^="https://orangarab.fun/"]
 ##[href^="https://pinoyslots.ph/"]
 ##[href^="https://playbook-88.site/"]
 ##[href^="https://playbook88hoki.com/"]
@@ -3784,12 +3792,3 @@
 ##img[href^="http://qqdingdong.com/"]
 ##img[href^="http://www.ovovegas.live/"]
 ##img[href^="https://pakarjackpot.com/"]
-##[href*="https://menujupenta.site/"]
-##[href^="https://bergurukecina.fun/"]
-##[href^="http://shiobt.vip/"]
-##[href^="https://orangarab.fun/"]
-##[href^="https://akseskaiko.cam/"]
-##[href^="http://idngoalbola.xyz/"]
-##[href^="https://jalur.win/"]
-##.slot-machine-wrapper
-##[href^="https://buaksib.in/"]
