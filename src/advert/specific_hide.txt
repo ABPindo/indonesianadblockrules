@@ -1107,11 +1107,11 @@ idntimes.com##[id^="IDN_Leaderboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
 wowkeren.com##div[style*="width:300px;min-height:250px"]
+lk21semi.*##.gmr-bannerpopup
 movieku.*###btm_banner
 movieku.*##.kln
 movieku.*##.teaser3
 movieku.*##[href^="https://heylink.cam/"]
-lk21semi.*##.gmr-bannerpopup
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
