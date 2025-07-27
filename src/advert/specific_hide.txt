@@ -1112,6 +1112,11 @@ movieku.*###btm_banner
 movieku.*##.kln
 movieku.*##.teaser3
 movieku.*##[href^="https://heylink.cam/"]
+okestream.*##[href="https://heylink.me/"]
+okestream.*##[href="https://angk.at/"]
+okestream.*##[href="https://jaga.link/"]
+okestream.*##.streamad
+okestream.*##.header-banner
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
