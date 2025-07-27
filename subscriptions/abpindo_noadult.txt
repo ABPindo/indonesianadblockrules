@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202507262333
+! Version: 202507270033
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 26 Jul 2025 23:33 UTC
+! Last modified: 27 Jul 2025 00:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -250,7 +250,7 @@
 _iklan-|$image
 _iklan_|$image
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$image,domain=149.56.24.226|15.235.11.45|baladfilm.*|baladfilm.guru|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
+.gif$image,domain=149.56.24.226|15.235.11.45|baladfilm.*|baladfilm.guru|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
 .gif^$image,domain=maroonbellsmorris.org
 /gif-*.webm^$image,domain=maroonbellsmorris.org
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
@@ -2006,6 +2006,11 @@ movieku.*###btm_banner
 movieku.*##.kln
 movieku.*##.teaser3
 movieku.*##[href^="https://heylink.cam/"]
+okestream.*##.header-banner
+okestream.*##.streamad
+okestream.*##[href="https://angk.at/"]
+okestream.*##[href="https://heylink.me/"]
+okestream.*##[href="https://jaga.link/"]
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202507262333
+! Version: 202507270033
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 26 Jul 2025 23:33 UTC
+! Last modified: 27 Jul 2025 00:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -250,7 +250,7 @@
 _iklan-|$image
 _iklan_|$image
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$image,domain=149.56.24.226|15.235.11.45|baladfilm.*|baladfilm.guru|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
+.gif$image,domain=149.56.24.226|15.235.11.45|baladfilm.*|baladfilm.guru|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
 .gif^$image,domain=maroonbellsmorris.org
 /gif-*.webm^$image,domain=maroonbellsmorris.org
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
@@ -2006,6 +2006,11 @@ movieku.*###btm_banner
 movieku.*##.kln
 movieku.*##.teaser3
 movieku.*##[href^="https://heylink.cam/"]
+okestream.*##.header-banner
+okestream.*##.streamad
+okestream.*##[href="https://angk.at/"]
+okestream.*##[href="https://heylink.me/"]
+okestream.*##[href="https://jaga.link/"]
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
@@ -5634,11 +5639,15 @@ totojitu.gif|$image
 ##[href="http://bogil.vip/"]
 ##[href="http://probet188.xyz/"]
 ##[href="https://172.104.39.221/slots/pragmatic"]
+##[href="https://akses.vip/lisa2"]
+##[href="https://aloha4d.asia/bola"]
 ##[href="https://apiservices.shop/apFmUK"]
 ##[href="https://avenue56dancestudios.com/"]
 ##[href="https://cek.to/anoboyhoki"]
 ##[href="https://hasil-keluaran-hk.com/redirecting"]
+##[href="https://naga588vip.com/OkeNaga588"]
 ##[href="https://themarket.life/register/YKRGLNP8"]
+##[href="https://vipbirutoto.com/nobartv"]
 ##[href^="http://arasiabt.vip/"]
 ##[href^="http://asialv88.me/"]
 ##[href^="http://bhok77.xyz/"]
@@ -5688,6 +5697,7 @@ totojitu.gif|$image
 ##[href^="https://jalur.win/"]
 ##[href^="https://jamet138c.me/"]
 ##[href^="https://jayaabadi.pro/"]
+##[href^="https://lvkeras.com/"]
 ##[href^="https://mainhoki.link/"]
 ##[href^="https://menang123-eksis.com"]
 ##[href^="https://menujupenta.site/"]
@@ -8795,6 +8805,7 @@ totojitu.gif|$image
 ##img[alt^="Megasloto" i]
 ##img[alt^="Megasloto188" i]
 ##img[alt^="MemekMonyet"]
+##img[alt^="Meta88slot" i]
 ##img[alt^="ModalQQ" i]
 ##img[alt^="Modalbet" i]
 ##img[alt^="Murnibet" i]
@@ -8885,6 +8896,7 @@ totojitu.gif|$image
 ##img[alt^="QQ998" i]
 ##img[alt^="QQANGPAO" i]
 ##img[alt^="QQCALO" i]
+##img[alt^="QQDewa" i]
 ##img[alt^="QQEmas" i]
 ##img[alt^="QQHOK" i]
 ##img[alt^="QQHOLIC" i]
@@ -9095,6 +9107,7 @@ totojitu.gif|$image
 ##img[alt^="bet365" i]
 ##img[alt^="betcoin" i]
 ##img[alt^="betting togel online" i]
+##img[alt^="birutoto" i]
 ##img[alt^="blatogel" i]
 ##img[alt^="bola tangkas online" i]
 ##img[alt^="bolatogel" i]
@@ -9274,6 +9287,7 @@ totojitu.gif|$image
 ##img[alt^="totowin" i]
 ##img[alt^="vegas811" i]
 ##img[alt^="video bokep online" i]
+##img[alt^="visitorbet" i]
 ##img[alt^="wahana303" i]
 ##img[alt^="ws138" i]
 ##img[href^="http://bokepbet.xyz/"]
