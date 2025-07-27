@@ -265,6 +265,7 @@
 /banner/kartuacak/*$image
 /bannerligadunia365.$image
 /bannerlonteqq.gif|$image
+/banners/nitroplay_$image
 /bannervbola.gif$image
 /bayarjitu.gif|$image
 /bb17-iklan.
@@ -3460,4 +3461,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/banners/nitroplay_$image
