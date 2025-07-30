@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202507301254
+! Version: 202507301257
 ! Title: ABPindo - Annoyances
 ! Description: Filter tambahan untuk ABPindo berupa elemen UI yang mengganggu seperti popup/overlay non iklan atau pemutar video otomatis pada situs berbahasa Indonesia.
-! Last modified: 30 Jul 2025 12:54 UTC
+! Last modified: 30 Jul 2025 12:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -51,7 +51,7 @@ kompas.com##.gate-kgplus
 liputan6.com##.gateway__mobile-app
 inews.id##.getawayApp
 tokopedia.com##.h0omPnp2Vr0upyxAZbs4jw\=\=
-kompas.com,sonora.id##.kgnw-middle-ready.kgnw-middle
+kompas.com,kompas.tv,sonora.id##.kgnw-middle-ready.kgnw-middle
 bolasport.com,grid.id,gridoto.com,kompas.com,kompas.tv,motorplus-online.com##.kgnw-player
 kapanlagi.com##.liputan6-mobileapp-widget
 inilah.com##.mui-style-1tl651l.MuiStack-root
