@@ -2,7 +2,7 @@ wowkeren.com###Ad300B
 wowkeren.com###Ad728
 muslimterkini.id###AdAAnchor
 medcom.id###Ads_billboard
-starringheavenlyrics.blogspot.com###HTML2
+otospeedcar.com,starringheavenlyrics.blogspot.com###HTML2
 idntimes.com###IDN_Billboard
 idntimes.com###IDN_MR1-wrapper
 idntimes.com###IDN_MR2-wrapper
@@ -275,7 +275,7 @@ bharian.com.my##.adbtm
 theasianparent.com##.adcore-height-50
 file.rocks##.add
 serialmovieislami.com##.adore-adver
-192.99.70.18,95.216.163.177,akurat.co,arahpandang.com,aspirasiku.id,ayobandung.com,ayojakarta.com,bandunginsider.com,dapurpacu.com,download-lagu-mp3.com,duniafilm21.com,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,industry.co.id,inidata.id,jatimnetwork.com,jawapos.com,k-vid.net,katadata.co.id,kilat.com,kompas.com,koran-jakarta.com,masagipedia.com,metrotvnews.com,miyanime.site,muslimterkini.id,okezone.com,otakuindo.net,pikiran-rakyat.com,rejogja.co.id,republika.co.id,smallencode.com,tempo.co,terasjakarta.id,timenews.co.id,unews.id,www.melintas.id,zonajakarta.com##.ads
+192.99.70.18,95.216.163.177,akurat.co,arahpandang.com,aspirasiku.id,ayobandung.com,ayobogor.com,ayojakarta.com,bandunginsider.com,dapurpacu.com,download-lagu-mp3.com,duniafilm21.com,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,industry.co.id,inidata.id,jatimnetwork.com,jawapos.com,k-vid.net,katadata.co.id,kilat.com,kompas.com,koran-jakarta.com,masagipedia.com,metrotvnews.com,miyanime.site,muslimterkini.id,okezone.com,otakuindo.net,pikiran-rakyat.com,rejogja.co.id,republika.co.id,smallencode.com,tempo.co,terasjakarta.id,timenews.co.id,unews.id,www.melintas.id,zonajakarta.com##.ads
 arahpandang.com##.ads--stick-parent
 arahpandang.com##.ads--stick-parent-250px
 kilat.com,zonajakarta.com##.ads--stick-parent-400px
@@ -306,6 +306,7 @@ cnnindonesia.com,detik.com,haibunda.com##.ads-scrollpage-height
 cantika.com##.ads-side-250
 cantika.com##.ads-side-600
 beautynesia.id,cnnindonesia.com,detik.com,disway.id,haibunda.com##.ads-slot
+theasianparent.com##.ads-slot-wrapper
 inibaru.id##.ads-sticky-left
 inibaru.id##.ads-sticky-right
 optika.id##.ads-top-header-parallax-scroll-to-continue
@@ -341,7 +342,7 @@ duwitmu.com##.ads_square_banner
 inews.id##.ads_sticky_footer
 chordtela.com##.adsbawahjudul
 chordtela.com##.adsbawahposting
-nama.web.id,narasi.tv,novelgo.id,paraedu.id,radarlombok.co.id##.adsbygoogle
+nama.web.id,narasi.tv,novelgo.id,otospeedcar.com,paraedu.id,radarlombok.co.id##.adsbygoogle
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
 cinemaindo.com##.adstops
@@ -625,6 +626,7 @@ starringheavenlyrics.blogspot.com##.lalulintas
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
 tempo.co##.lg\:hidden.mx-auto.container.h-\[140px\].lg\:w-full.overflow-clip.bg-neutral-300
+tempo.co##.lg\:hidden.relative
 tvrinews.com##.lg_ads
 kontan.co.id##.liftdownclass
 animasu.cc##.lmd-iklan
@@ -757,6 +759,7 @@ detik.com##.skinad_2
 katadata.co.id##.skinads
 tirto.id##.skinner-left
 tirto.id##.skinner-right
+marza11.shop##.skpt_2nd.img
 detik.com##.skybanner
 kabar24.com##.skycapper
 okezone.com##.skyscrapper
