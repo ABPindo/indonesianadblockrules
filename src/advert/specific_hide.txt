@@ -1052,9 +1052,6 @@ delik.tv##.site-sticky-bottom
 suara.com##.widget-ads-top
 matamata.com##.wrap-ads-leaderboard
 matamata.com##.wrap-ads-r
-<<<<<<< HEAD
-=======
->>>>>>> 7b85b0ff72e2ee7e87be4159c506a8db24ad3367
 suara.com##[id^="berita-terkait-"]
 suara.com##div.placeholder_pariwara
 suara.com##[id^="berita-terkait-"]
