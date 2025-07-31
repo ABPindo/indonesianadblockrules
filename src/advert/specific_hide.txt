@@ -1035,8 +1035,9 @@ bolatimes.com,guideku.com,matamata.com##.banner-ads--big
 suara.com##.bg-ads-sticky-side
 suara.com##.bg-ads-sticky-top
 bolatimes.com,guideku.com,matamata.com##.detail-content > div
-dteksinews.co.id,haluanntt.com##.gmr-floatbanner
-dteksinews.co.id##.gmr-topbanner
+harianesia.com##.gmr-banner-stickyright
+dteksinews.co.id,haluanntt.com,harianesia.com##.gmr-floatbanner
+dteksinews.co.id,harianesia.com##.gmr-topbanner
 delik.tv##.gpt-ad-inner
 suara.com##.mgidwidget
 delik.tv##.parallax-clip
