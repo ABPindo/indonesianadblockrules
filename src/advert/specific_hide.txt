@@ -1036,7 +1036,7 @@ suara.com##.bg-ads-sticky-side
 suara.com##.bg-ads-sticky-top
 bolatimes.com,guideku.com,matamata.com##.detail-content > div
 harianesia.com##.gmr-banner-stickyright
-dteksinews.co.id,haluanntt.com,harianesia.com##.gmr-floatbanner
+dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com##.gmr-floatbanner
 dteksinews.co.id,harianesia.com##.gmr-topbanner
 delik.tv##.gpt-ad-inner
 suara.com##.mgidwidget
@@ -1057,10 +1057,6 @@ matamata.com##.wrap-ads-leaderboard
 matamata.com##.wrap-ads-r
 suara.com##[id^="berita-terkait-"]
 suara.com##div.placeholder_pariwara
-harianesia.com##.gmr-floatbanner
-harianesia.com##.gmr-topbanner
-harianesia.com##.gmr-banner-stickyright
-harianhalmahera.com##.gmr-floatbanner
 ! Grid Networks
 grid.id,juara.net###div-Inside-MediumRectangle
 parapuan.co###div-Inside-MediumRectangle2
