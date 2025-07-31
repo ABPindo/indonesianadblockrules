@@ -1056,6 +1056,9 @@ matamata.com##.wrap-ads-leaderboard
 matamata.com##.wrap-ads-r
 suara.com##[id^="berita-terkait-"]
 suara.com##div.placeholder_pariwara
+harianesia.com##.gmr-floatbanner
+harianesia.com##.gmr-topbanner
+harianesia.com##.gmr-banner-stickyright
 ! Grid Networks
 grid.id,juara.net###div-Inside-MediumRectangle
 parapuan.co###div-Inside-MediumRectangle2
