@@ -1129,6 +1129,8 @@ okestream.*##.streamad
 okestream.*##[href="https://angk.at/"]
 okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
+komiku.*###floatcenter
+komiku.*##.kln
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
