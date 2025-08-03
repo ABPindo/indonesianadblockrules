@@ -122,3 +122,8 @@ sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
 videocrot.*##.ads-720
+nekopoi.*##[href^="https://monetag.com/"]
+nekopoi.*###HTML19
+nekopoi.*###HTML16
+nekopoi.*###HTML1
+nekopoi.*###HTML9
