@@ -88,6 +88,8 @@ bokepvir.*##.banner-place-footer
 bokepvir.*##.banner-place-top
 bokepvir.*##.widget_block.widget
 bokepvir.*##[href="https://bkpv.online/reffbokepvir"]
+dewaporn.*##.happy-header > [href] > .loading
+dewaporn.*##.happy-sidebar > [href] > .loading
 nekopoi.care,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.lol##div[class^="mobileads"]
 drbokep.*##.loaded.ads-50
@@ -107,6 +109,11 @@ lendirpedia.*##.kln
 lendirpedia.*##.teaser3
 manhwaindo.*###teaser3
 manhwaindo.*##.kln
+nekopoi.*###HTML1
+nekopoi.*###HTML16
+nekopoi.*###HTML19
+nekopoi.*###HTML9
+nekopoi.*##[href^="https://monetag.com/"]
 nokephub.*##.sgpb-popup-dialog-main-div-wrapper
 nokephub.*##.sgpb-popup-overlay
 pascol.*##.ays-pb-modals
@@ -122,10 +129,3 @@ sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
 videocrot.*##.ads-720
-nekopoi.*##[href^="https://monetag.com/"]
-nekopoi.*###HTML19
-nekopoi.*###HTML16
-nekopoi.*###HTML1
-nekopoi.*###HTML9
-dewaporn.*##.happy-sidebar > [href] > .loading
-dewaporn.*##.happy-header > [href] > .loading

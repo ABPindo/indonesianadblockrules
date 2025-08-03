@@ -61,8 +61,8 @@ inews.id##.widgetNewsTV__news24Jam
 bloombergtechnoz.com##div:nth-of-type(5)
 kompas.tv,sonora.id##kgnw-middle-player
 ! adult
-dutasex.*##[href="https://rebrand.ly/dutasexAPK"]
 dutasex.*##.channel-icon-Telegram.chaty-icon
+dutasex.*##[href="https://rebrand.ly/dutasexAPK"]
 ! Grid Networks
 grid.id###buttonGridstore
 motorplus-online.com###floatingIframe
