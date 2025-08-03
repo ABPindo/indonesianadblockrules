@@ -4,7 +4,6 @@ local-zone: "ad-loupe.com" always_nxdomain
 local-zone: "addesigner.com" always_nxdomain
 local-zone: "admarketplace.net" always_nxdomain
 local-zone: "adnety.com" always_nxdomain
-local-zone: "adplus.co.id" always_nxdomain
 local-zone: "adpop-1.com" always_nxdomain
 local-zone: "adreach.co" always_nxdomain
 local-zone: "ads.d21.media" always_nxdomain
@@ -17,10 +16,8 @@ local-zone: "adslop.com" always_nxdomain
 local-zone: "adstarsmedia.co.id" always_nxdomain
 local-zone: "alertpay.com" always_nxdomain
 local-zone: "ampclicks.com" always_nxdomain
-local-zone: "baliadv.com" always_nxdomain
 local-zone: "bellaads.com" always_nxdomain
 local-zone: "berangkasilmu.com" always_nxdomain
-local-zone: "brand.ad" always_nxdomain
 local-zone: "cdnasiaclub.com" always_nxdomain
 local-zone: "cfs.uzone.id" always_nxdomain
 local-zone: "cfs2.uzone.id" always_nxdomain
@@ -31,7 +28,6 @@ local-zone: "forumiklan.com" always_nxdomain
 local-zone: "groupiklan.com" always_nxdomain
 local-zone: "gudangbanner.com" always_nxdomain
 local-zone: "halal.ad" always_nxdomain
-local-zone: "herdethi.net" always_nxdomain
 local-zone: "hitadsmedia.com" always_nxdomain
 local-zone: "ibnads.xl.co.id" always_nxdomain
 local-zone: "iklan-laris.com" always_nxdomain
@@ -57,12 +53,9 @@ local-zone: "istanaimpian3.com" always_nxdomain
 local-zone: "jagopromo.com" always_nxdomain
 local-zone: "jasaiklan.com" always_nxdomain
 local-zone: "klikajadeh.com" always_nxdomain
-local-zone: "lokeriklan.com" always_nxdomain
 local-zone: "luckyads.com" always_nxdomain
 local-zone: "mesiniklan.andipublisher.com" always_nxdomain
 local-zone: "offdeck.telkomsel.com" always_nxdomain
-local-zone: "offerjuice.me" always_nxdomain
-local-zone: "onclkds.com" always_nxdomain
 local-zone: "openadserving.com" always_nxdomain
 local-zone: "padssup.com" always_nxdomain
 local-zone: "paidforfree.com" always_nxdomain
@@ -80,7 +73,6 @@ local-zone: "see-work.info" always_nxdomain
 local-zone: "serbada.com" always_nxdomain
 local-zone: "shiokambing2.com" always_nxdomain
 local-zone: "sitti.co.id" always_nxdomain
-local-zone: "sumberiklan.com" always_nxdomain
 local-zone: "teliad.com" always_nxdomain
 local-zone: "thapi.aedi.ai" always_nxdomain
 local-zone: "theclickers.net" always_nxdomain
@@ -101,13 +93,11 @@ local-zone: "abrts.pro" always_nxdomain
 local-zone: "adeumssp.com" always_nxdomain
 local-zone: "afbcashidr.com" always_nxdomain
 local-zone: "auredzeon.com" always_nxdomain
-local-zone: "craydark.pw" always_nxdomain
 local-zone: "dairouzy.net" always_nxdomain
 local-zone: "doathair.com" always_nxdomain
 local-zone: "edomz.com" always_nxdomain
 local-zone: "flexterkita.com" always_nxdomain
 local-zone: "fnasmpygwa.com" always_nxdomain
-local-zone: "gbrrrxbodqdlq.com" always_nxdomain
 local-zone: "iwtserve.com" always_nxdomain
 local-zone: "jillsclickcorner.com" always_nxdomain
 local-zone: "midgerelativelyhoax.com" always_nxdomain
@@ -125,7 +115,6 @@ local-zone: "c-stat.eu" always_nxdomain
 local-zone: "cfs1.uzone.id" always_nxdomain
 local-zone: "ktrackdata.com" always_nxdomain
 local-zone: "moneyfree.co" always_nxdomain
-local-zone: "rajatraffic.com" always_nxdomain
 local-zone: "track.aptitudemedia.co" always_nxdomain
 local-zone: "track.zerofriend.com" always_nxdomain
 local-zone: "tracker.beritagar.id" always_nxdomain
@@ -143,6 +132,7 @@ local-zone: "afapoker.com" always_nxdomain
 local-zone: "agenjudibolabet.com" always_nxdomain
 local-zone: "agenjudiresmi.com" always_nxdomain
 local-zone: "agentogel4d.com" always_nxdomain
+local-zone: "ajar-poet.com" always_nxdomain
 local-zone: "allvegaspoker.com" always_nxdomain
 local-zone: "anaktogel.com" always_nxdomain
 local-zone: "areataruhan.com" always_nxdomain
@@ -165,7 +155,6 @@ local-zone: "cdpoker.com" always_nxdomain
 local-zone: "celebpoker.com" always_nxdomain
 local-zone: "chilipoker.com" always_nxdomain
 local-zone: "clickadu.com" always_nxdomain
-local-zone: "coltpoker.com" always_nxdomain
 local-zone: "coolhandpoker.com" always_nxdomain
 local-zone: "dafapoker.com" always_nxdomain
 local-zone: "daftarjudibola.com" always_nxdomain
@@ -200,7 +189,6 @@ local-zone: "jtogel.com" always_nxdomain
 local-zone: "judiagenonline.com" always_nxdomain
 local-zone: "judibebas.com" always_nxdomain
 local-zone: "judibola.com" always_nxdomain
-local-zone: "judibolaterbesar.com" always_nxdomain
 local-zone: "judionlinebet.com" always_nxdomain
 local-zone: "judionlinepoker.com" always_nxdomain
 local-zone: "kedaijudi.com" always_nxdomain
@@ -208,7 +196,6 @@ local-zone: "kingtogel.com" always_nxdomain
 local-zone: "launchpoker.com" always_nxdomain
 local-zone: "lazacasino.com" always_nxdomain
 local-zone: "lazacasino.com" always_nxdomain
-local-zone: "lintastogel.com" always_nxdomain
 local-zone: "lotospoker.com" always_nxdomain
 local-zone: "luckyriverpoker.com" always_nxdomain
 local-zone: "mansionpoker.com" always_nxdomain
