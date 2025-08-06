@@ -55,12 +55,12 @@ jakartaglobe.id,republika.co.id##.show.fade.modal
 jakartaglobe.id,republika.co.id##.show.fade.modal-backdrop
 insertlive.com##.smartbanner_new
 metrotvnews.com##.socmed-share-container
+keepo.me##.sticky-share-content
 pinhome.id##.style_stickyBannerDesktop__GLF3I
 quran.nu.or.id##.w-full.relative
 inews.id##.widgetNewsTV__news24Jam
 bloombergtechnoz.com##div:nth-of-type(5)
 kompas.tv,sonora.id##kgnw-middle-player
-keepo.me##.sticky-share-content
 ! adult
 dutasex.*##.channel-icon-Telegram.chaty-icon
 dutasex.*##[href="https://rebrand.ly/dutasexAPK"]

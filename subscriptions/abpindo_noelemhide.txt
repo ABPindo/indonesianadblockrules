@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202508040731
+! Version: 202508061258
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 04 Aug 2025 07:31 UTC
+! Last modified: 06 Aug 2025 12:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -250,7 +250,7 @@
 _iklan-|$image
 _iklan_|$image
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$image,domain=149.56.24.226|15.235.11.45|baladfilm.*|baladfilm.guru|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
+.gif$image,domain=149.56.24.226|15.235.11.45|anichin.watch|baladfilm.*|baladfilm.guru|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
 .gif^$image,domain=maroonbellsmorris.org
 /gif-*.webm^$image,domain=maroonbellsmorris.org
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
@@ -443,6 +443,7 @@ moutogami.com##+js(aeld, load, /adblock/i)
 kompas.com##+js(aeld, scroll, kgSticky)
 juraganfilm.ink##+js(aopr, $.magnificPopup.open)
 3gpterbaru.com##+js(aopr, LieDetector)
+sk21.sob4t.xyz##+js(aopr, popup_custom_data)
 cloud.majalahhewan.com,info.mapsaddress.com,info.vebma.com,jenismac.com##+js(nano-sib)
 mudah.my##+js(no-fetch-if, ads.google.com)
 cloud.majalahhewan.com,info.mapsaddress.com,info.vebma.com,thejakartapost.com,tutorialsaya.com##+js(no-fetch-if, adsbygoogle)
