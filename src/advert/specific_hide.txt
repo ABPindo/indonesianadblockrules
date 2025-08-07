@@ -1153,6 +1153,12 @@ hitekno.com##div.placeholder_read_body:nth-of-type(2)
 hitekno.com##div.placeholder_read_body:nth-of-type(3)
 hitekno.com##div.placeholder_read_body:nth-of-type(4)
 hitekno.com##div.placeholder_read_body:nth-of-type(5)
+hitekno.com##.placeholder_leaderboard
+hitekno.com###div-ad-right_1
+hitekno.com##div.placeholder_r1:nth-of-type(1)
+hitekno.com###div-ad-right_2
+hitekno.com##div.placeholder_r1:nth-of-type(3)
+hitekno.com##.placeholder_center
 soulscans.my.id##.kln.blox
 ! MNC Networks
 sindonews.com##.adsload
