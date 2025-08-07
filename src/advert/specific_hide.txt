@@ -1149,6 +1149,10 @@ rbtv77.im##[href^="https://a.jalalivetv.info/"]
 rbtv77.im###divFLRAbottom
 infopublik.co##.parallax.billboard
 tangerangnews.co.id##.parallax.billboard
+hitekno.com##div.placeholder_read_body:nth-of-type(2)
+hitekno.com##div.placeholder_read_body:nth-of-type(3)
+hitekno.com##div.placeholder_read_body:nth-of-type(4)
+hitekno.com##div.placeholder_read_body:nth-of-type(5)
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
