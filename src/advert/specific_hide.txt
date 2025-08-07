@@ -1147,6 +1147,7 @@ terbit21.*###float-bottom-banner
 openkerja.id##.dlpro-topbanner-aftermenu
 rbtv77.im##[href^="https://a.jalalivetv.info/"]
 rbtv77.im###divFLRAbottom
+infopublik.co##.parallax.billboard
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
