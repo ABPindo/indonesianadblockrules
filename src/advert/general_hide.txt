@@ -393,3 +393,5 @@
 ##div[aria-label="Iklan"]
 ##img[data-ai-hint="advertisement banner"]
 ##.iklan-bawah-menu
+###popupklan
+###popupklanfooter
