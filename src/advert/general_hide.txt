@@ -251,6 +251,7 @@
 ##.iklan-baris
 ##.iklan-bawah
 ##.iklan-bawah-artikel
+##.iklan-bawah-menu
 ##.iklan-bawah-player
 ##.iklan-bawah-postingan
 ##.iklan-bawahpost
@@ -392,6 +393,3 @@
 ##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
 ##img[data-ai-hint="advertisement banner"]
-##.iklan-bawah-menu
-###popupklan
-###popupklanfooter
