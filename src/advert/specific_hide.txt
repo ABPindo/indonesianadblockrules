@@ -1162,6 +1162,10 @@ okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 livesports044.com##.banner.flex-center
+inibaru.id##.overflow-hidden.right-0.top-32.sticky.h-\[600px\].w-\[160px\].dark\:bg-ib-dark-800.bg-slate-100.lg\:block.hidden
+inibaru.id##div.overflow-hidden.top-32.sticky.h-\[600px\].w-\[160px\].dark\:bg-ib-dark-800.bg-slate-100.lg\:block.hidden:nth-of-type(1)
+inibaru.id##.lg\:mb-auto.mx-auto.max-h-72.lg\:h-64.lg\:w-full.lg\:bg-slate-100.dark\:bg-ib-dark-800.\!mb-8.h-\[100px\].w-\[320px\].lg\:overflow-visible.overflow-hidden.bg-slate-300
+inibaru.id##.mx-auto.h-\[250px\].w-\[300px\].dark\:bg-ib-dark-800.bg-slate-100
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
