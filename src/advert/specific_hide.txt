@@ -1170,6 +1170,7 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
+bioskop21.*###floating_banner_bottom
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads
