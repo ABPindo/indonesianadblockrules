@@ -1146,6 +1146,7 @@ idntimes.com,yummy.co.id##[id^="IDN_Billboard"]
 idntimes.com##[id^="IDN_InArticle"]
 idntimes.com##[id^="IDN_Leaderboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
+bioskop21.*###floating_banner_bottom
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
 inibaru.id##div.overflow-hidden.top-32.sticky.h-\[600px\].w-\[160px\].dark\:bg-ib-dark-800.bg-slate-100.lg\:block.hidden:nth-of-type(1)
 hitekno.com##div.placeholder_r1:nth-of-type(1)
@@ -1170,7 +1171,6 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
-bioskop21.*###floating_banner_bottom
 ! MNC Networks
 sindonews.com##.adsload
 okezone.com##.title-ads

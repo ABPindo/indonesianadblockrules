@@ -63,6 +63,7 @@
 ###iklan1
 ###iklan2
 ###iklan3
+###iklan300x100
 ###iklan4
 ###iklanBawah
 ###iklanFloat
@@ -393,4 +394,3 @@
 ##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
 ##img[data-ai-hint="advertisement banner"]
-###iklan300x100
