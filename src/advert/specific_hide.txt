@@ -1,4 +1,3 @@
-kompas.com##.flying_carpet_div
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 muslimterkini.id###AdAAnchor
@@ -541,7 +540,7 @@ bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
 okezone.com##.flying_ads
-katadata.co.id,optika.id##.flying_carpet_div
+katadata.co.id,kompas.com,optika.id##.flying_carpet_div
 bisnis.com,tek.id##.flying_carpet_show
 tek.id##.flying_carpet_show_fix
 bisnis.com,tek.id##.flying_carpet_show_inner
