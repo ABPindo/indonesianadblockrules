@@ -1124,8 +1124,11 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com##.css-t1oq30
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-urr7k6
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-y6gr35
 ! Tempo media
+gooto.com###zone_3
 cantika.com##.adsbottom-new
 cantika.com##.artikel-rekomendasi-blue
+gooto.com##.banner-fix-bottom
+gooto.com##.bannerfulltop.bannerfull
 openkerja.id##.dlpro-topbanner-aftermenu
 tigoals213.com##.gg-txt-bonus
 tigoals213.com##.gg-txt-discount
@@ -1133,11 +1136,13 @@ cantika.com##.h-noapps.bannerhead
 ulasan.co##.inner-floatleft
 ulasan.co##.inner-floatright
 soulscans.my.id##.kln.blox
+gooto.com##.lanjutkan.bggrey
 inibaru.id##.lg\:mb-auto.mx-auto.max-h-72.lg\:h-64.lg\:w-full.lg\:bg-slate-100.dark\:bg-ib-dark-800.\!mb-8.h-\[100px\].w-\[320px\].lg\:overflow-visible.overflow-hidden.bg-slate-300
 infosawit.com##.majalahpro-core-topbanner
 inibaru.id##.mx-auto.h-\[250px\].w-\[300px\].dark\:bg-ib-dark-800.bg-slate-100
 wowkeren.com##.ne-banner-layout1
 inibaru.id##.overflow-hidden.right-0.top-32.sticky.h-\[600px\].w-\[160px\].dark\:bg-ib-dark-800.bg-slate-100.lg\:block.hidden
+gooto.com##.parallax-box
 infopublik.co,tangerangnews.co.id##.parallax.billboard
 hitekno.com##.placeholder_center
 hitekno.com##.placeholder_leaderboard
@@ -1145,6 +1150,7 @@ papuatoday.com,sattorrent.com##.sgpb-popup-dialog-main-div-wrapper
 papuatoday.com,sattorrent.com##.sgpb-popup-overlay
 ulasan.co##.text-center.gmr-topbanner
 ulasan.co##.text-center.gmr-verytopbanner
+gooto.com##.topbannerhead
 idntimes.com##.wrapper-megabillboard
 astroawani.com##[class^="Advertisement_ads_container"]
 rbtv77.im##[href^="https://a.jalalivetv.info/"]
@@ -1152,12 +1158,6 @@ idntimes.com,yummy.co.id##[id^="IDN_Billboard"]
 idntimes.com##[id^="IDN_InArticle"]
 idntimes.com##[id^="IDN_Leaderboard"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_MegaBillboard"]
-gooto.com##.topbannerhead
-gooto.com##.banner-fix-bottom
-gooto.com##.parallax-box
-gooto.com##.lanjutkan.bggrey
-gooto.com##.bannerfulltop.bannerfull
-gooto.com###zone_3
 bioskop21.*###floating_banner_bottom
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
 inibaru.id##div.overflow-hidden.top-32.sticky.h-\[600px\].w-\[160px\].dark\:bg-ib-dark-800.bg-slate-100.lg\:block.hidden:nth-of-type(1)
