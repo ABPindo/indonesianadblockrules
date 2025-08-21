@@ -104,12 +104,9 @@ ayononton.app,lk21.web.id###float-banner
 remo-xp.com###float-left
 dunia21.me###float-pop
 remo-xp.com###float-right
-vnn.co.id###floatads
 anixverseone.com###floatads1
 komikstation.com###floatbanner
 5.253.86.213,layardrama21.space###floatbanner-bottom
-bgibola.com,hrv.okestream365.xyz###floatbannerkanan
-bgibola.com,hrv.okestream365.xyz###floatbannerkiri
 149.28.158.117,ainzscans.net,animexin.xyz,anixlife.xyz,bgibola.com,cosmic345.co,indodb21.homes,isekaisubs.web.id,kazefuri.info,kmvs03.com,novascans.id###floatcenter
 northridgeautospa.com###floating_banner_bot2
 bk21.top###floating_banner_bottom
@@ -117,8 +114,6 @@ blogspot.com###floating_banner_bottom2
 bioskop78.com###floating_banner_bottoms
 bioskop90.com###floating_banner_left
 bioskop90.com###floating_banner_right
-bgibola.com,bioskopstar88.com,cinemaqq.com###floating_banner_top
-blogspot.com###floating_banner_top img[width="728"][height="90"]
 46.149.76.81,cinema-indo.co,northridgeautospa.com,zonafilm.art,zonafilm.cfd###floating_banner_top1
 bioskop78.com,nonton33.com###floating_banner_tops
 80.209.252.146###floattop
@@ -213,8 +208,6 @@ youtube-mp3.my###sadl
 youtube-mp3.my###sadr
 animeindo.net###sct_banner_top
 cinemaqq.com###sgcboxOverlay
-klikindonesia.co###sidebar-banner-160x600-kanan
-klikindonesia.co###sidebar-banner-160x600-kiri
 bangsaku.co###sidebar-banner-bawah
 zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
@@ -271,7 +264,6 @@ tvrinews.com##.ad-wing-left.ad-wing
 tvrinews.com##.ad-wing-right.ad-wing
 m.kapanlagi.com##.ad2
 loveindonesia.com##.ad_990_80
-jalantikus.com##.ad_wrapper
 terkini.id##.adbox
 bharian.com.my##.adbtm
 theasianparent.com##.adcore-height-50
@@ -458,10 +450,8 @@ kabar24.com##.bottom-leaderboard-cont
 grid.id##.bottom_banner-wrapper.relative
 cnnindonesia.com##.bottom_banner_bar
 cnnindonesia.com##.bottom_banner_container
-tvrinews.com##.bottom_sticky-ads
 gopego.com##.box
 kapanlagi.com##.box--banner
-beritasatu.com##.box-ads
 beautynesia.id##.box-ads--container
 uzone.id##.box-ads-300x250
 uzone.id##.box-ads-billboard
@@ -580,17 +570,13 @@ malaysiakini.com##.hero_adslot
 tafsirweb.com##.hot_deals_green
 inibaru.id##.ib_ads_square
 inibaru.id##.ib_ads_sticky
-vnn.co.id##.iklan-bawah-postingan
 koran-jakarta.com##.iklan-for-mobile
 blog.arizman.com##.iklan-kiri-postingan
-katadata.co.id##.iklan-paralax-wrapper
-koran-jakarta.com##.iklan-wrapper
 suki48.web.id##.iklanSUKI
 shinigami09.com##.iklannew-container
 cantika.com##.ikln
 dutafilm.us##.imgbanner
 animeindo.video,animeindo.web.id##.in_up_ad-area
-vnn.co.id##.inline-ad
 cantika.com##.inner-ads-content-1
 mydramalist.com##.is-mrtmt2522.mrtmf2522
 tafsirweb.com##.is-resized.size-large.aligncenter
@@ -854,7 +840,6 @@ dailypost.id##[href^="https://wa.me"]
 dailypost.id##[href^="https://wa.wizard.id"]
 lk21official.wiki##[href^="https://yukclick.me/dunia21"]
 lk21official.mom##[id^="btop-"]
-metrotvnews.com##[id^="div-gpt-ad"]
 nontonfilmgratis.club##[id^="floating_banner"]
 mangaku.bio##[id^="ftads"]
 tirto.id##[id^="gpt-inline"]
@@ -892,7 +877,6 @@ animekompi.*###overplay
 animekompi.*###teaser4
 animekompi.*##.ays-pb-modals
 animekompi.*##.kln
-anoboy.*###popup_bawah
 anoboy.*###popup_box
 anoboy.*##[href="https://mbob.uk/qqholic"]
 anoboy.*##[href="https://tinyurl.com/anoboyvip"]
@@ -901,13 +885,11 @@ tempo.co##article .w-\[300px\].overflow-hidden
 tempo.co##article .w-full.h-\[250px\].max-w-\[470px\].relative
 tafsirweb.com##article:nth-of-type(2) > div:nth-of-type(3)
 baladfilm.*###floating_banner_top1
-baladfilm.*##.inner-floatbanner-bottom
 baladfilm.*##[href^="https://bit.ly/"]
 bioskop168.co,bioskop168.online,bioskop168.pro##bioskop-kanan
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
-bioskopkeren.*##.ad_slot
 investor.id##body > .w-100.d-flex
 detik.com##body > div[id^="div-gpt-ad-"]
 intip24news.com##body.sticky-header:style(padding: unset!important;)
@@ -1010,7 +992,6 @@ oploverz.*##.kln
 cloud.majalahhewan.com,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 herworld.co.id##p:nth-of-type(2)
 rebahin21.*###floating-banner
-rebahin21.*###rebahin-banner
 samehadaku.*###floatbottom
 samehadaku.*###floatcenter
 samehadaku.*##.ads
@@ -1186,7 +1167,6 @@ okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 ! MNC Networks
-sindonews.com##.adsload
 okezone.com##.title-ads
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
