@@ -394,3 +394,5 @@
 ##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
 ##img[data-ai-hint="advertisement banner"]
+! international-ads
+###ad-link.visible
