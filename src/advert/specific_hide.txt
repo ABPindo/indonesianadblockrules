@@ -1008,6 +1008,7 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
+bioskop.*###floating_banner_bottom
 ! Suara.com Networks
 suara.com###adds-top
 suara.com###desktop-native-1
