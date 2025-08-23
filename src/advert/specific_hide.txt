@@ -887,6 +887,7 @@ tafsirweb.com##article:nth-of-type(2) > div:nth-of-type(3)
 baladfilm.*###floating_banner_top1
 baladfilm.*##[href^="https://bit.ly/"]
 bioskop168.co,bioskop168.online,bioskop168.pro##bioskop-kanan
+bioskop.*###floating_banner_bottom
 bioskopkeren.*###headads
 bioskopkeren.*###ptbanner
 bioskopkeren.*###top-banner
@@ -1008,7 +1009,6 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
-bioskop.*###floating_banner_bottom
 ! Suara.com Networks
 suara.com###adds-top
 suara.com###desktop-native-1
