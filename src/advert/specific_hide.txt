@@ -868,6 +868,7 @@ animebatch.web.id,animeindo.co,animeku.tv,bioskop168.pro,eka.web.id,filmbioskop2
 nomat.top##a[href^="https://jalur.win/"]
 komikindo.co##a[href^="https://shope.ee/"]
 otakudesu.pro##a[rel^="nofollow noopener"] > img[src$=".gif"]
+otakudesu.*###overplay
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 mangakita.net##a[title^="manga4d"]
 anichin.*###floatcenter
