@@ -1009,6 +1009,12 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
+kumparan.com##[data-qa-id^="desktop-sidebar-banner-"]
+kumparan.com##[data-qa-id^="desktop-article-page-billboard-"]
+kumparan.com##[data-qa-id^="right-skyscrapper-ads"]
+kumparan.com##[data-qa-id^="left-skyscrapper-ads"]
+kumparan.com##[data-qa-id="desktop-article-page-below-images"]:has(span:has-text(/ADVERTISEMENT/i))
+kumparan.com##[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
 ! Suara.com Networks
 suara.com###adds-top
 suara.com###desktop-native-1
