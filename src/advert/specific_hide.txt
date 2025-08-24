@@ -820,6 +820,12 @@ jalantikus.com##[class^="ad-"][class*="-container"]
 kompas.tv##[class^="ads-"]
 emitennews.com##[class^="ads-space-"]
 wisatalova.com##[class^="wisat-"]
+kumparan.com##[data-qa-id="desktop-article-page-below-images"]:has(span:has-text(/ADVERTISEMENT/i))
+kumparan.com##[data-qa-id^="desktop-article-page-billboard-"]
+kumparan.com##[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
+kumparan.com##[data-qa-id^="desktop-sidebar-banner-"]
+kumparan.com##[data-qa-id^="left-skyscrapper-ads"]
+kumparan.com##[data-qa-id^="right-skyscrapper-ads"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 mamikos.com##[data-testid="miniKostRoomCard"]:has(.rc-photo__icon--promo)
 mudah.my##[data-testid^="featured-ads"]
@@ -1009,12 +1015,6 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
-kumparan.com##[data-qa-id^="desktop-sidebar-banner-"]
-kumparan.com##[data-qa-id^="desktop-article-page-billboard-"]
-kumparan.com##[data-qa-id^="right-skyscrapper-ads"]
-kumparan.com##[data-qa-id^="left-skyscrapper-ads"]
-kumparan.com##[data-qa-id="desktop-article-page-below-images"]:has(span:has-text(/ADVERTISEMENT/i))
-kumparan.com##[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
 ! Suara.com Networks
 suara.com###adds-top
 suara.com###desktop-native-1
