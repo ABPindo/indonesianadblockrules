@@ -101,5 +101,7 @@ brainacademy.id,ruangguru.com##.side-banner-desktop
 brainacademy.id,ruangguru.com##.side-banner-mobile
 ruangguru.com##.widget-container
 brainacademy.id,english-academy.id,ruangguru.com##body:style(overflow: auto !important; position: static !important;)
+! Singaporean section
+beritaharian.sg##.p-\[24px\]
 ! uBlock Specific
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
