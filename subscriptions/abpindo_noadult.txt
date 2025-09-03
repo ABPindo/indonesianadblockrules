@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202508241149
+! Version: 202509031057
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 24 Aug 2025 11:49 UTC
+! Last modified: 03 Sep 2025 10:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1364,6 +1364,7 @@ kompas.com##.boxBannerR1akt
 kompas.com##.boxSkinAd
 neonime.com,neonime.vip##.box_item_berlangganan
 194.163.183.129,45.12.2.2##.box_item_berlangganan_popup
+metrotvnews.com##.brand1-ads
 inilah.com##.bt-g1.b-g3.wb-300x100
 inilah.com##.bt-g1.b-g3.wb-300x250
 femaledaily.com##.btn_ads_close_top_frame
@@ -1509,6 +1510,7 @@ ainzscans.net,cosmic345.co,ikiru.one,ikiru.world,isekaisubs.web.id,kiryuu01.com,
 faktabali.com##.ktzsingle-bannerright
 kontan.co.id##.kus
 starringheavenlyrics.blogspot.com##.lalulintas
+metrotvnews.com##.layout_topads
 188.166.39.172##.lazyloaded.ls-is-cached.bannerdua
 188.166.39.172##.lazyloaded.ls-is-cached.bannersatu
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
@@ -1688,6 +1690,7 @@ dataindonesia.id##.text-center:has( + div[style^='background-image: url("/img/lo
 okezone.com##.title-ads-mega
 utusan.com.my##.tonal__standfirst
 mediaindonesia.com##.top-banner
+metrotvnews.com##.top-frame
 hrv.okestream365.xyz##.top-player-banner
 grid.id##.top_banner-wrapper
 beritasatu.com,jakartaglobe.id##.underlay-ad
