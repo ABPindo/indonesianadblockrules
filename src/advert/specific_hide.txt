@@ -1021,6 +1021,9 @@ shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 terbit21official.*###float-banner
+tribunrakyat.com##.parallax.billboard
+tribunrakyat.com##.parallxads
+tribunrakyat.com##.container > .widget.widget_text
 ! Suara.com Networks
 suara.com###adds-top
 suara.com###desktop-native-1
