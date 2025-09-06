@@ -16,6 +16,8 @@ ruangbokep.com,ruangbokep.sbs,streamingbokeponline.com,streamingbokeponline.site
 157.245.195.114###floating_bot.btm_ban
 pemersatufun.site###footadframe
 video.pemersatu.org###iklan728x100
+ngomek.com###juicyads-floating-bottom
+ngomek.com###juicyads-floating-top
 149.102.130.200,154.12.229.9,161.97.116.33,173.212.245.75,185.217.95.30,194.163.145.21,207.244.225.48,81.0.220.98###ouibounce-modal
 minioppai.org###overplay
 iyottube.co,iyottube.com###playerOverlay
@@ -58,7 +60,7 @@ indobokep.pro##.header-banner
 manadobaswara.com##.manado-widget
 javdesu.tv##.overflow-hidden.w-full.aspect-\[728\/90\].relative
 agenbokep.co##.pop-overlay
-buahmangga.com,gocrot.org,semprot.com##.popup-cr7
+buahmangga.com,gocrot.me,gocrot.org,semprot.com##.popup-cr7
 sebokep.com##.sg-popup-builder-content
 sebokep.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
 dicrotin.fun,dicrotin.info,nokephub.com##.sgpb-popup-dialog-main-div-wrapper
@@ -88,7 +90,9 @@ bokepvir.*##.banner-place-footer
 bokepvir.*##.banner-place-top
 bokepvir.*##.widget_block.widget
 bokepvir.*##[href="https://bkpv.online/reffbokepvir"]
+dewaporn.*##.happy-header
 dewaporn.*##.happy-header > [href] > .loading
+dewaporn.*##.happy-sidebar
 dewaporn.*##.happy-sidebar > [href] > .loading
 nekopoi.care,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.lol##div[class^="mobileads"]
@@ -130,8 +134,3 @@ sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
 streamingbokeponline.*###floating_bot
 videocrot.*##.ads-720
-ngomek.com###juicyads-floating-top
-ngomek.com###juicyads-floating-bottom
-gocrot.me##.popup-cr7
-dewaporn.*##.happy-header
-dewaporn.*##.happy-sidebar
