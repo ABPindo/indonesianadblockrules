@@ -989,6 +989,7 @@ kuronime.*###overplay
 kuronime.*##.box_item_berlangganan_popup
 kuronime.*##.kln
 kuronime.*##.pd-ads
+layardrama21.*###idmuvi-popup
 layarkaca21.*###fbanner
 layarkaca21.*###fbbanner
 layarkaca21.*###hbanner
@@ -1024,9 +1025,8 @@ shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
-terbit21official.*###float-banner
 skren21.*###ouibounce-modal
-layardrama21.*###idmuvi-popup
+terbit21official.*###float-banner
 ! Suara.com Networks
 suara.com###adds-top
 suara.com###desktop-native-1
