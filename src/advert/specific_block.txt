@@ -16,6 +16,7 @@
 ||anoboy.media/img/*.gif
 ||anoboy.watch/img/*.gif$image,domain=anoboy.watch
 ||api.flygame.io/sdk/widget/id_jpnn.1540.js$script,domain=m.jpnn.com
+||api.streamapi.*/uploads/*.xml$xmlhttprequest
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
 ||bacasaja.id/assets/img/ad_banner.webp$image
