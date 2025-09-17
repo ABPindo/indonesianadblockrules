@@ -1,5 +1,4 @@
 ! Title: ABPindo – Annoyances - Filter annoyances (elemen UI yang mengganggu seperti popup/overlay non iklan dan pemutar video otomatis)
-tribunnews.com##.tapp-banner
 tribunnews.com###banner_article_slide
 tvonenews.com###btt
 detik.com###detikPagiSore
@@ -58,6 +57,7 @@ insertlive.com##.smartbanner_new
 metrotvnews.com##.socmed-share-container
 keepo.me##.sticky-share-content
 pinhome.id##.style_stickyBannerDesktop__GLF3I
+tribunnews.com##.tapp-banner
 quran.nu.or.id##.w-full.relative
 inews.id##.widgetNewsTV__news24Jam
 bloombergtechnoz.com##div:nth-of-type(5)

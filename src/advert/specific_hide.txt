@@ -1,4 +1,3 @@
-tribunnews.com##.pushdown-banner
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
 muslimterkini.id###AdAAnchor
@@ -710,7 +709,7 @@ koransulindo.com##.post-banner
 pikiran-rakyat.com##.prads
 kompas.com##.premium_div
 blibli.com##.product__card:has(.product__tag__ads)
-bolasport.com,gridoto.com,kompas.com,kompasiana.com,sonora.id##.pushdown-banner
+bolasport.com,gridoto.com,kompas.com,kompasiana.com,sonora.id,tribunnews.com##.pushdown-banner
 beautyjournal.id##.r-1mi0q7o.r-sax9pr.r-14lw9ot.css-175oi2r
 beautyjournal.id##.r-1ut4w64.r-14lw9ot.css-175oi2r
 otomania.com##.r-ads
