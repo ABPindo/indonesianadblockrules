@@ -1,5 +1,7 @@
 <p align="center"><img src="https://github.com/ABPindo/indonesianadblockrules/raw/master/src/ABPindo%202.png" width="240"></p>
 
+# NOTE: [baca wiki tentang jendela pop-up](https://github.com/ABPindo/indonesianadblockrules/wiki/Panduan-Memblokir-Popup)
+
 # ABPindo
 
 ABPindo adalah daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia, yang melengkapi penapis internasional seperti [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=Easylist) dan [AdGuard Base filter](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt). ABPindo menggunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters) dan kompatibel dengan ekstensi seperti [Adblock Plus](https://adblockplus.org/), [uBlock Origin](https://github.com/gorhill/uBlock#installation), [uBlock Origin Lite (Chrome dan Chromium-Based)](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html), dan adblocker sejenis. Kini, ABPindo juga menyediakan penapis berbasis sintaks host dan domain, kompatibel dengan [AdAway](https://github.com/AdAway/AdAway), [Pi-Hole](https://github.com/pi-hole/pi-hole), [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome), dan penapis berbasis DNS lainnya.
