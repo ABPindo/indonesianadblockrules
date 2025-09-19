@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202509191343
+! Version: 202509192301
 # Title: ABPindo (hosts no adult)
 # Description: hosts ABPindo untuk memblokir iklan di situs berbahasa Indonesia dan Malaysia.
 # Last modified: %timestamp%
@@ -60,7 +60,6 @@
 ||iklantelevisi.com^$third-party
 ||iklantext.com^$third-party
 ||iklanumum.com^$third-party
-||indoadsnet.com^$third-party
 ||indobanner.com^$third-party
 ||istana-impian.com^$popup,third-party
 ||istanaimpian1.com^$popup,third-party
@@ -78,7 +77,6 @@
 ||pasangiklan.com^$third-party
 ||paypopup.com^$third-party
 ||pondokiklan.com^$third-party
-||popclck.net^$popup,third-party
 ||promotioncamp.com^$third-party
 ||props.id^$third-party
 ||propsid.b-cdn.net^$third-party
@@ -107,22 +105,37 @@
 ||9eb10b7a3d04a.com^$popup
 ||a63t9o1azf.com^$popup
 ||abrts.pro^$popup,third-party
+||adbsys.icu^$popup
 ||adeumssp.com^
+||adplus.co.id^$third-party
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup
+||baliadv.com^$third-party
+||brand.ad^$third-party
+||caribanner.bid^$third-party
+||craydark.pw^$third-party
 ||dairouzy.net^$popup
 ||doathair.com^$third-party
 ||edomz.com^$third-party
+||filebanner.com^$third-party
 ||flexterkita.com^$third-party
 ||fnasmpygwa.com^$third-party
+||istana-impian2.com^$popup,third-party
 ||iwtserve.com^$popup
+||jagoiklan.com^$third-party
 ||jillsclickcorner.com^$third-party
+||lokeriklan.com^$third-party
 ||midgerelativelyhoax.com^
 ||mousheen.net^$third-party
 ||octafx.com^$popup,third-party
 ||pheersie.com^$popup
+||promobagus.com^$third-party
+||pusatiklan.com^$third-party
 ||qprskl.com^
 ||realwap.net^$third-party
+||sebar.idblognetwork.com^$third-party
+||shqbsdjatunl.com^$popup
+||sumberiklan.com^$third-party
 ||ueuodgnrhb.com^$popup
 ||vkwaeo.com^$third-party
 ||xihubo.click^$script
