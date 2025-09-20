@@ -731,7 +731,7 @@ manganime.in##.separator
 mangaku.bio##.separator > a[imageanchor="1"]
 republika.co.id##.set-ads-468
 komikindo.pro##.setdah
-nimeindo.*,awsubs.*##div[class*=popupad]
+nimeindo.*,awsubs.*##div[class*="popupad"]
 nimeindo.*,awsubs.*##div[style*="width: 100%; height: 100%; z-index: 9999; background: rgba"]
 oploverz.bz##.sg-popup-content
 15.235.11.45,65.108.132.145,serialmovieislami.com##.sgpb-popup-dialog-main-div-wrapper
