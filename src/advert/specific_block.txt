@@ -20,8 +20,8 @@
 ||api.streamapi.info/uploads/adsbaru*$xmlhttprequest
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
-||awsubs.*/wp-content/uploads/*.gif$image
 ||awsubs.*/wp-content/themes/*/btn_close.gif$image
+||awsubs.*/wp-content/uploads/*.gif$image
 ||bacasaja.id/assets/img/ad_banner.webp$image
 ||beritabaru.news/sc/detect-click.js
 ||bioskopkeren.guru/images/*.gif$image
@@ -146,8 +146,8 @@
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
 ||nanime.biz^$third-party
-||nimeindo.*/wp-content/uploads/*.gif$image
 ||nimeindo.*/wp-content/themes/*/btn_close.gif$image
+||nimeindo.*/wp-content/uploads/*.gif$image
 ||nobartv.com/adsLoader/$xmlhttprequest
 ||nobartv.com/img/banner/*.gif$image
 ||nomat.top/img/banner-ad
