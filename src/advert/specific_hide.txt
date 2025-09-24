@@ -600,7 +600,7 @@ kompas.com##.kgnw-modal-ads
 kompas.com##.kgnw-modal-adswrap
 kontan.co.id##.kiri-det-desk
 apk.miuiku.com,lewat.club##.klikdisini
-ainzscans.net,cosmic345.co,ikiru.one,ikiru.world,isekaisubs.web.id,kiryuu01.com,kmvs03.com,komikcast01.com,komikcast02.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,komiktap.info,mangakita.id,mangakita.net,novascans.id##.kln
+ainzscans.net,cosmic345.co,ikiru.one,ikiru.world,isekaisubs.web.id,kiryuu01.com,kmvs03.com,komikcast01.com,komikcast02.com,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,komiktap.info,mangakita.id,mangakita.net,novascans.id,nimeindo.*,awsubs.*##.kln
 faktabali.com##.ktzsingle-bannerright
 kontan.co.id##.kus
 starringheavenlyrics.blogspot.com##.lalulintas
@@ -731,6 +731,7 @@ manganime.in##.separator
 mangaku.bio##.separator > a[imageanchor="1"]
 republika.co.id##.set-ads-468
 komikindo.pro##.setdah
+nimeindo.*,awsubs.*##div#popupAd
 oploverz.bz##.sg-popup-content
 15.235.11.45,65.108.132.145,serialmovieislami.com##.sgpb-popup-dialog-main-div-wrapper
 65.108.132.145,oploverz.bz,serialmovieislami.com##.sgpb-popup-overlay
