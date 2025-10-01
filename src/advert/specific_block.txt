@@ -164,6 +164,7 @@
 ||obengplus.com/adblock-hunter.js$script
 ||playwebgame.com/banner/$third-party
 ||primbon.com/banner/ilmugendam.gif
+||rumahdealer.com/wp-content/uploads/2025/09/*.gif$image,domain=sokuja.uk
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
 ||serunonton.*/wp-content/uploads/*.gif$image
