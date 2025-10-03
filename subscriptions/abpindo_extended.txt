@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202510031457
+! Version: 202510031501
 ! Title: ABPindo - Extended
 ! Description: Testing unsafe rules that may break certain websites, contain deleted filters/domains, and may reappear.
-! Last modified: 03 Oct 2025 14:57 UTC
+! Last modified: 03 Oct 2025 15:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -213,7 +213,6 @@ cinema-indo.net##img.aligncenter
 ! --------------------------- adult ------------------------------!
 ! *** abpindo:src/adult_extended.txt ***
 ! contain deleted filters/domains, and may reappear
-18subindo.com##[href^="https://tinyurl.com/"]
 3poker855.com^$third-party
 agenjudipoker.com^$third-party
 agenjuditerpecaya.com^$third-party
