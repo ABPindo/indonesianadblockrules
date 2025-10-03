@@ -1,4 +1,5 @@
 ! contain deleted filters/domains, and may reappear
+18subindo.com##[href^="https://tinyurl.com/"]
 3poker855.com^$third-party
 agenjudipoker.com^$third-party
 agenjuditerpecaya.com^$third-party
@@ -36,7 +37,6 @@ mansion777y.store^$popup
 master88indo.net^$popup
 masteragentjudi.com^$third-party
 masteragentpoker.com^$third-party
-18subindo.com##[href^="https://tinyurl.com/"]
 milkfountain.com^
 onlinepokerextra.com^$third-party
 oralse.ca^
