@@ -1,5 +1,4 @@
 ! contain deleted filters/domains, and may reappear
-18subindo.com##[href^="https://tinyurl.com/"]
 3poker855.com^$third-party
 agenjudipoker.com^$third-party
 agenjuditerpecaya.com^$third-party
