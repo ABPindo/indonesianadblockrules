@@ -1014,8 +1014,8 @@ nontondrama.*##[href^="https://yukclick.me/dunia21"]
 oploverz.*###teaser1
 oploverz.*###teaser2
 oploverz.*###teaser3
-oploverz.*##.kln
 oploverz.*##.bg-opacity-70.bg-black.rounded-lg
+oploverz.*##.kln
 oploverz.*##div[class^="fixed"]
 otakudesu.*###overplay
 cloud.majalahhewan.com,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
@@ -1027,8 +1027,8 @@ samehadaku.*##.ads
 samehadaku.*##.adsrow
 samehadaku.*##.kln
 samehadaku.*##[href^="https://t.ly/"]
-samehadaku.*##img[style="width: 50%; height: 70px;"]
 samehadaku.*##div[class*="player-iklan"]
+samehadaku.*##img[style="width: 50%; height: 70px;"]
 jpnn.com##section.leaderboard
 shinigami.*##.bg-base-card:has(img[alt*="-ad-"])
 shinigami09.*###lepopup-popup-13
