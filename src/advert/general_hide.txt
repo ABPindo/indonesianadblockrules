@@ -49,6 +49,7 @@
 ###iklan-kanan-postingan
 ###iklan-kiri
 ###iklan-newsfeed
+###iklan-overlay
 ###iklan-paralax
 ###iklan-pos
 ###iklan-rekanan1
@@ -392,9 +393,8 @@
 ##.warning_iklan
 ##.widget_iklan_atas
 ##.wrapper-iklan-sidebar-artikel
+##[href^="https://promosi."]
 ##div[aria-label="Iklan"]
 ##img[data-ai-hint="advertisement banner"]
-###iklan-overlay
-##[href^="https://promosi."]
 ! international-ads
 ###ad-link.visible
