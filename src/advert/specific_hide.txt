@@ -1015,6 +1015,8 @@ oploverz.*###teaser1
 oploverz.*###teaser2
 oploverz.*###teaser3
 oploverz.*##.kln
+oploverz.*##.bg-opacity-70.bg-black.rounded-lg
+oploverz.*##div[class^="fixed"]
 otakudesu.*###overplay
 cloud.majalahhewan.com,info.mapsaddress.com,info.vebma.com##p:has( > a[href="#downloadnow"])
 herworld.co.id##p:nth-of-type(2)
@@ -1026,6 +1028,7 @@ samehadaku.*##.adsrow
 samehadaku.*##.kln
 samehadaku.*##[href^="https://t.ly/"]
 samehadaku.*##img[style="width: 50%; height: 70px;"]
+samehadaku.*##div[class*="player-iklan"]
 jpnn.com##section.leaderboard
 shinigami.*##.bg-base-card:has(img[alt*="-ad-"])
 shinigami09.*###lepopup-popup-13
