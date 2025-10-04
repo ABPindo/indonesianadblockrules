@@ -394,5 +394,7 @@
 ##.wrapper-iklan-sidebar-artikel
 ##div[aria-label="Iklan"]
 ##img[data-ai-hint="advertisement banner"]
+###iklan-overlay
+##[href^="https://promosi."]
 ! international-ads
 ###ad-link.visible
