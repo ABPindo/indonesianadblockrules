@@ -1,6 +1,4 @@
 ! Title: ABPindo – Annoyances - Filter annoyances (elemen UI yang mengganggu seperti popup/overlay non iklan dan pemutar video otomatis)
-inilah.com##.mui-style-jsgj5i.MuiStack-root
-inilah.com##.mui-style-46fqhp.MuiStack-root
 tribunnews.com###banner_article_slide
 tvonenews.com###btt
 detik.com###detikPagiSore
@@ -43,6 +41,8 @@ kompas.com,kompas.tv,sonora.id##.kgnw-middle-ready.kgnw-middle
 bolasport.com,grid.id,gridoto.com,kompas.com,kompas.tv,motorplus-online.com##.kgnw-player
 kapanlagi.com##.liputan6-mobileapp-widget
 inilah.com##.mui-style-1tl651l.MuiStack-root
+inilah.com##.mui-style-46fqhp.MuiStack-root
+inilah.com##.mui-style-jsgj5i.MuiStack-root
 hukumonline.com##.my-2.d-flex.ps-ads-banner
 idxchannel.com##.outer-social-media-box
 tvrinews.com##.p-2.row
