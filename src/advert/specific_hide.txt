@@ -46,7 +46,6 @@ tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 jendelakaba.com###banner-popup
 duniaku.net###banner-popup-desktop
-komikcast.*,komikcast.*###bannerhomefooter
 komikcast03.com###bannerhomefooter
 hdtvku.com###bannerkategoriheader
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
@@ -985,6 +984,7 @@ klikseru.*##.textwidget img[width="300"][height="250"]
 klikseru.*##center img[width="728"][height="70"]
 komikcast.*###teaser3
 komikcast.*###teaser4
+komikcast.*,komikcast.*###bannerhomefooter
 komikcast.*,komikcast01.*,komikcast02.*,komikindo.*,komikindo1.*,komikindo3.*,komikindo4.*##.gulai_asam_manis
 komikcast.*,komikcast01.*,komikcast02.*,komikindo.*,komikindo1.*,komikindo3.*,komikindo4.*##.kln
 komikcast03.*##.kln
