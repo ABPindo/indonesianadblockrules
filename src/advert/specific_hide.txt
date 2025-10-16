@@ -45,7 +45,8 @@ tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 jendelakaba.com###banner-popup
 duniaku.net###banner-popup-desktop
-komikcast.site,komikcast.vip###bannerhomefooter
+komikcast.*,komikcast.*###bannerhomefooter
+komikcast03.com###bannerhomefooter
 hdtvku.com###bannerkategoriheader
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
 tribunnews.com###bannerku
@@ -540,7 +541,7 @@ orami.co.id##.footer_stickyexp
 manganime.id##.ftadss
 beritasatu.com##.gam-ads
 techinasia.com##.gam-ads-banner
-komikcast.net,komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
+komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
 jagodangdut.com,viva.co.id##.giant-banner
 intip24news.com##.gmr-banner-aftercontent
 intip24news.com,jendelakaba.com##.gmr-banner-afterrelpost
@@ -985,6 +986,7 @@ komikcast.*###teaser3
 komikcast.*###teaser4
 komikcast.*,komikcast01.*,komikcast02.*,komikindo.*,komikindo1.*,komikindo3.*,komikindo4.*##.gulai_asam_manis
 komikcast.*,komikcast01.*,komikcast02.*,komikindo.*,komikindo1.*,komikindo3.*,komikindo4.*##.kln
+komikcast03.*##.kln
 kuramanime.*###aboveDownloadBannerSection
 kuramanime.*###aboveListBannerSection
 kuramanime.*###abovePlayerBannerSection
