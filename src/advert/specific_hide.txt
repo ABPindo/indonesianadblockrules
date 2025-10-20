@@ -1201,6 +1201,8 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
+198.105.112.57###fb-boxclose
+198.105.112.57###fb-fanbox
 ! MNC Networks
 okezone.com##.title-ads
 ! ABP-specific filters
