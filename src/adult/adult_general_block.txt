@@ -643,6 +643,7 @@
 /kiosqq.$image
 /klik66-$image
 /klik66banner.gif|
+/KLIKFIFA-$image
 /KlikHoki-$image
 /klikkiu.$image,third-party
 /klikqq-$image
@@ -830,6 +831,7 @@
 /otto4d.$image,third-party
 /ovovegas-$image
 /paiza99.gif|$image
+/PAKARWIN-$image
 /pamelapoker.$image,third-party
 /pancatoto.gif$image
 /panenpoker.$image,third-party
@@ -984,6 +986,7 @@
 /sahamdomino.$image,third-party
 /sahamqq.$image
 /SaktiSpin-$image
+/SALDOBET-$image
 /santapoker.gif$image
 /saranapoker.$image,third-party
 /saranghoki2.$image,third-party
@@ -3467,6 +3470,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/SALDOBET-$image
-/KLIKFIFA-$image
-/PAKARWIN-$image
