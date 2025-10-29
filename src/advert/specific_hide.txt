@@ -1142,7 +1142,7 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-urr7k6
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-y6gr35
 ! Tempo media
 198.105.112.57###fb-boxclose
-198.105.112.57###fb-fanbox
+194.233.86.65,198.105.112.57###fb-fanbox
 gooto.com###zone_3
 cantika.com##.adsbottom-new
 cantika.com##.artikel-rekomendasi-blue
@@ -1204,7 +1204,6 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
-194.233.86.65###fb-fanbox
 45.11.57.243##.kln
 ! MNC Networks
 okezone.com##.title-ads
