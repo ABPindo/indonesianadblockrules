@@ -94,6 +94,7 @@
 ||img.koran-jakarta.com/images/advertisement/
 ||img.nontonanimeid.*/uploads/ikln/$image,~third-party
 ||img.teman.stream/tb/*.gif$image,domain=bioskopkerenin.com
+||imgbob.site/images/banner/$image,domain=194.233.86.65
 ||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
 ||indochanger.com/banner/
 ||indocinema21.com/banner/
@@ -195,6 +196,5 @@
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-||imgbob.site/images/banner/$image,domain=194.233.86.65
 ! Miscellanous popups
 *$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|kiryuu.org|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
