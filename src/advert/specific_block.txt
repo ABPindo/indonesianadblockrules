@@ -18,7 +18,7 @@
 ||anoboy.media/img/*.gif
 ||anoboy.watch/img/*.gif$image,domain=anoboy.watch
 ||api.flygame.io/sdk/widget/id_jpnn.1540.js$script,domain=m.jpnn.com
-||api.streamapi.info/uploads/ad*.xml$xmlhttprequest,domain=api.streamapi.info
+||api.streamapi.info/uploads/*.xml$xmlhttprequest,domain=api.streamapi.info
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
 ||awsubs.*/wp-content/themes/*/btn_close.gif$image
@@ -179,6 +179,7 @@
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||tajir.la/komikcast$popup
+||tamuvip.fun/*$popup
 ||tempo.co/*/img/temporary/ads/$image
 ||tempo.co/webtorial/like/remodal
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
