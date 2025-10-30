@@ -963,7 +963,6 @@ halodoc.com##hd-base-display-ads
 hrv.okestream365.xyz##html:style(overflow: auto !important;)
 idxx1.*###player-side-left
 idxx1.*##a.bnner
-winbu.*##div[id^="playerIklan"]
 kiryuu.id,komikcast.com,komikindo.id,komikstation.co##iframe[style*="z-index: 2147483647"]
 kompas.com,tribunnews.com##iframe[title="3rd party ad content"]
 jakbos.com##img:nth-of-type(2)
@@ -1044,6 +1043,7 @@ shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 skren21.*###ouibounce-modal
 terbit21official.*###float-banner
+winbu.*##div[id^="playerIklan"]
 ! Suara.com Networks
 suara.com###adds-top
 suara.com###desktop-native-1
