@@ -179,7 +179,7 @@
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||tajir.la/komikcast$popup
-||tamuvip.fun/*$popup
+||tamuvip.*/*$popup
 ||tempo.co/*/img/temporary/ads/$image
 ||tempo.co/webtorial/like/remodal
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
