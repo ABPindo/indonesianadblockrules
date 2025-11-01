@@ -14,7 +14,7 @@
 ||anibatch.*/wp-content/uploads/*.gif$image
 ||anichin.my.id/wp-content/uploads/*.gif$image
 ||animeindo.*/wp-content/uploads/*.gif$image
-||animeku.org/public/vid/huskypres.mp4$media
+||animeku.*/public/vid/huskypres.mp4$media
 ||animexin.*/wp-content/uploads/*.gif$image,~third-party
 ||anoboy.media/img/*.gif
 ||anoboy.watch/img/*.gif$image,domain=anoboy.watch
