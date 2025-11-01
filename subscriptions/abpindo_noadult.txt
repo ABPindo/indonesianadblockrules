@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202510301141
+! Version: 202511012211
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 30 Oct 2025 11:41 UTC
+! Last modified: 01 Nov 2025 22:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -463,7 +463,7 @@ _iklan_|$image
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! Miscellanous popups
-*$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|kiryuu.org|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
+*$popup,domain=animekompi.*|bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|kiryuu.org|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 onnano.tv##+js(acs, document.addEventListener, popup)
 doroni.me##+js(acs, getComputedStyle, , cpm)
