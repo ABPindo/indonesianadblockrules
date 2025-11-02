@@ -1043,6 +1043,7 @@ shinigami09.*##.lepopup-popup-loader
 shinigami09.*##.lepopup-popup-overlay
 skren21.*###ouibounce-modal
 terbit21official.*###float-banner
+winbu.*##div[id^="playerIklan"]
 ! Suara.com Networks
 suara.com###adds-top
 suara.com###desktop-native-1
@@ -1156,6 +1157,7 @@ tigoals213.com##.gg-txt-discount
 cantika.com##.h-noapps.bannerhead
 ulasan.co##.inner-floatleft
 ulasan.co##.inner-floatright
+45.11.57.243##.kln
 soulscans.my.id##.kln.blox
 gooto.com##.lanjutkan.bggrey
 inibaru.id##.lg\:mb-auto.mx-auto.max-h-72.lg\:h-64.lg\:w-full.lg\:bg-slate-100.dark\:bg-ib-dark-800.\!mb-8.h-\[100px\].w-\[320px\].lg\:overflow-visible.overflow-hidden.bg-slate-300
@@ -1204,7 +1206,6 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
-45.11.57.243##.kln
 ! MNC Networks
 okezone.com##.title-ads
 ! ABP-specific filters
