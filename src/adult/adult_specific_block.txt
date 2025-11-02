@@ -4,3 +4,4 @@
 ||cds.bet/*.gif^$image,third-party
 ||ceritanakal.com/wp-content/uploads/2025/06/GIF-*.gif$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
+||imgur.com/*.gif$image,domain=gocrot.*
