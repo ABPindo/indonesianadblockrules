@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202510241111
+! Version: 202511020046
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 24 Oct 2025 11:11 UTC
+! Last modified: 02 Nov 2025 00:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -263,7 +263,8 @@
 _iklan-|$image
 _iklan_|$image
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$image,domain=149.56.24.226|15.235.11.45|198.105.112.57|anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.org|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
+*.gif$image,domain=45.11.57.243
+.gif$image,domain=149.56.24.226|15.235.11.45|198.105.112.57|anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu03.*|komikcast.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|oploverz.love|shinigami09.com
 .gif^$image,domain=maroonbellsmorris.org
 /gif-*.webm^$image,domain=maroonbellsmorris.org
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
@@ -282,7 +283,7 @@ _iklan_|$image
 ||anoboy.media/img/*.gif
 ||anoboy.watch/img/*.gif$image,domain=anoboy.watch
 ||api.flygame.io/sdk/widget/id_jpnn.1540.js$script,domain=m.jpnn.com
-||api.streamapi.info/uploads/ad*.xml$xmlhttprequest,domain=api.streamapi.info
+||api.streamapi.info/uploads/*.xml$xmlhttprequest,domain=api.streamapi.info
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
 ||awsubs.*/wp-content/themes/*/btn_close.gif$image
@@ -358,6 +359,7 @@ _iklan_|$image
 ||img.koran-jakarta.com/images/advertisement/
 ||img.nontonanimeid.*/uploads/ikln/$image,~third-party
 ||img.teman.stream/tb/*.gif$image,domain=bioskopkerenin.com
+||imgbob.site/images/banner/$image,domain=194.233.86.65
 ||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
 ||indochanger.com/banner/
 ||indocinema21.com/banner/
@@ -442,6 +444,7 @@ _iklan_|$image
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||tajir.la/komikcast$popup
+||tamuvip.*^$popup
 ||tempo.co/*/img/temporary/ads/$image
 ||tempo.co/webtorial/like/remodal
 ||thirdstarfilm.*/wp-content/uploads/*.gif$image
@@ -460,7 +463,7 @@ _iklan_|$image
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! Miscellanous popups
-*$popup,domain=bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|kiryuu.org|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
+*$popup,domain=animekompi.*|bacakomik.co|info.mapsaddress.com|info.vebma.com|kiryuu.id|kiryuu.org|kiryuu03.*|komikcastid.com|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 onnano.tv##+js(acs, document.addEventListener, popup)
 doroni.me##+js(acs, getComputedStyle, , cpm)
@@ -3997,11 +4000,10 @@ totojitu.gif|$image
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
 ! *** abpindo:src/adult/adult_specific_block.txt ***
-||128.199.175.251/looppopup.js
-||blogger.googleusercontent.com/*.gif$image,domain=doujindesu.tv|javsubid.com
-||blogger.googleusercontent.com/img/$image,domain=igodesu.tv|presdelafontaine.*
+||blogger.googleusercontent.com/img/$image,domain=igodesu.tv
 ||cds.bet/*.gif^$image,third-party
 ||ceritanakal.com/wp-content/uploads/2025/06/GIF-*.gif$image
+||imgur.com/*.gif$image,domain=gocrot.*
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ! *** abpindo:src/adult/adult_thirdparty.txt ***
 ||172.105.216.174^$popup
@@ -4042,7 +4044,6 @@ totojitu.gif|$image
 ||blogjudi.com^$third-party
 ||bursajudibola.com^$third-party
 ||carajudionline.com^$third-party
-||caramainjudibola.com^$third-party
 ||caramenangjudibola.com^$third-party
 ||caramenangtaruhanbola.com^$third-party
 ||caramenangtogel.com^$third-party
@@ -4062,8 +4063,6 @@ totojitu.gif|$image
 ||deltatoto.com^$third-party
 ||dewijudi.com^$third-party
 ||dewitogel.com^$third-party
-||dunlop.id^$popup
-||dunlop.id^$third-party
 ||dutatoto.com^$third-party
 ||emputogel.com^$third-party
 ||europoker.com^$third-party
