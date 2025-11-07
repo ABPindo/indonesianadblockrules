@@ -1208,6 +1208,9 @@ okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 kuramanime.*###aboveEpisodeListBannerSection
+codingcertification.org##.ads-video-iklan
+codingcertification.org##.ads-overlay-player
+codingcertification.org##.code-block:has(> .banner-row)
 ! MNC Networks
 okezone.com##.title-ads
 ! ABP-specific filters
