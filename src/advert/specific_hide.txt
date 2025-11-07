@@ -1195,6 +1195,7 @@ wowkeren.com##div[style*="width:300px;min-height:250px"]
 komiksin.*###floatcenter
 komiku.*###floatcenter
 komiku.*##.kln
+kuramanime.*###aboveEpisodeListBannerSection
 lk21semi.*##.gmr-bannerpopup
 movieku.*###btm_banner
 movieku.*##.kln
@@ -1207,7 +1208,6 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
-kuramanime.*###aboveEpisodeListBannerSection
 codingcertification.org##.ads-video-iklan
 codingcertification.org##.ads-overlay-player
 codingcertification.org##.code-block:has(> .banner-row)
