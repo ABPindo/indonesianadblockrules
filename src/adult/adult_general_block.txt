@@ -1032,6 +1032,7 @@
 /sogopoker.$image,third-party
 /sonybets.$image,third-party
 /sotoqq90.$image,third-party
+/sponsor-slot-$media
 /sportsmansclub.$image,third-party
 /spot-bet.webp|$image
 /star88bet.$image,third-party
@@ -3470,4 +3471,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-/sponsor-slot-$media

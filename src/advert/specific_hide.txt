@@ -1146,11 +1146,14 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.wrapper-ads
 198.105.112.57###fb-boxclose
 194.233.86.65,198.105.112.57###fb-fanbox
 gooto.com###zone_3
+codingcertification.org##.ads-overlay-player
+codingcertification.org##.ads-video-iklan
 cantika.com##.adsbottom-new
 cantika.com##.artikel-rekomendasi-blue
 gooto.com##.banner-fix-bottom
 gooto.com##.bannerfulltop.bannerfull
 indonesiana.id##.bannerhead
+codingcertification.org##.code-block:has( > .banner-row)
 openkerja.id##.dlpro-topbanner-aftermenu
 indonesiana.id##.fix-bottom
 tigoals213.com##.gg-txt-bonus
@@ -1208,9 +1211,6 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
-codingcertification.org##.ads-video-iklan
-codingcertification.org##.ads-overlay-player
-codingcertification.org##.code-block:has(> .banner-row)
 ! MNC Networks
 okezone.com##.title-ads
 ! ABP-specific filters
