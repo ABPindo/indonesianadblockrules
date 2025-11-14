@@ -1148,6 +1148,7 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.wrapper-ads
 gooto.com###zone_3
 codingcertification.org##.ads-overlay-player
 codingcertification.org##.ads-video-iklan
+beritajogja.com##.ads__box
 cantika.com##.adsbottom-new
 cantika.com##.artikel-rekomendasi-blue
 gooto.com##.banner-fix-bottom
@@ -1212,7 +1213,6 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
-beritajogja.com##.ads__box
 ! MNC Networks
 okezone.com##.title-ads
 ! ABP-specific filters
