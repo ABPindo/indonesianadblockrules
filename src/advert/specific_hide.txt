@@ -1212,6 +1212,7 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
+beritajogja.com##.ads__box
 ! MNC Networks
 okezone.com##.title-ads
 ! ABP-specific filters
