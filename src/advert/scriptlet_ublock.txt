@@ -10,6 +10,7 @@ cloud.majalahhewan.com,info.mapsaddress.com,info.vebma.com,jenismac.com##+js(nan
 mudah.my##+js(no-fetch-if, ads.google.com)
 cloud.majalahhewan.com,info.mapsaddress.com,info.vebma.com,thejakartapost.com,tutorialsaya.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
+moenime.com##+js(no-fetch-if, trafficbass.com)
 jurnalistekno.id,tutwuri.id##+js(no-xhr-if, googlesyndication)
 asalunik.com,bokepgemoy.com##+js(nobab)
 193.142.147.230,5.253.86.213,ainzscans.net,igobokep.cam,jenismac.com##+js(noeval-if, /chp_?ad/)
@@ -30,4 +31,3 @@ anichin.top,animekompi.vip,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id
 dicrotin.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
 kiryuu02.*##+js(nowolf)
 lk21semi.*##+js(acs, chp_ads_blocker_detector)
-moenime.com##+js(no-fetch-if, trafficbass.com)
