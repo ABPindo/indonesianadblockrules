@@ -30,3 +30,4 @@ anichin.top,animekompi.vip,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id
 dicrotin.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
 kiryuu02.*##+js(nowolf)
 lk21semi.*##+js(acs, chp_ads_blocker_detector)
+moenime.com##+js(no-fetch-if, trafficbass.com)
