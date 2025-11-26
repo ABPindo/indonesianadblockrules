@@ -2686,6 +2686,8 @@ totojitu.gif|$image
 ||onlinetaruhanjudi.$image,third-party
 ||onlinetaruhansbobet.$image,third-party
 ||oppabet.$image,third-party
+||oppabet.com^$popup
+||oppabet.com^$third-party
 ||oppopoker.$image,third-party
 ||opuspoker.$image,third-party
 ||orientalpoker.$image,third-party
@@ -3471,5 +3473,3 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
-||oppabet.com^$third-party
-||oppabet.com^$popup

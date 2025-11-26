@@ -1184,6 +1184,7 @@ gooto.com##.topbannerhead
 idntimes.com##.wrapper-megabillboard
 astroawani.com##[class^="Advertisement_ads_container"]
 rbtv77.im##[href^="https://a.jalalivetv.info/"]
+01ntn.cc##[href^="https://goratu.site"]
 idntimes.com,yummy.co.id##[id^="IDN_Billboard"]
 idntimes.com##[id^="IDN_InArticle"]
 idntimes.com##[id^="IDN_Leaderboard"]
@@ -1215,7 +1216,6 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
-01ntn.cc##[href^="https://goratu.site"]
 moenime.com###w-node-b77
 ! MNC Networks
 okezone.com##.title-ads
