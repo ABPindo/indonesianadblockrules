@@ -1147,6 +1147,7 @@ moenime.com###\31 xbet
 198.105.112.57###fb-boxclose
 194.233.86.65,198.105.112.57###fb-fanbox
 moenime.com###moemodals
+moenime.com###w-node-b77
 gooto.com###zone_3
 codingcertification.org##.ads-overlay-player
 codingcertification.org##.ads-video-iklan
@@ -1216,7 +1217,6 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
-moenime.com###w-node-b77
 ! MNC Networks
 okezone.com##.title-ads
 ! ABP-specific filters
