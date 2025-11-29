@@ -34,3 +34,8 @@ lk21semi.*##+js(acs, chp_ads_blocker_detector)
 sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 sukasex.tv##+js(nowoif)
 sukasex.tv##+js(rmnt, script, popupUrl)
+kisahterlarang.site##+js(rmnt, script, popupUrl)
+kisahterlarang.site##+js(nowoif)
+sukasex.net##+js(rmnt, script, popupUrl)
+sukasex.net##+js(nowoif)
+layarwibu.com##+js(rmnt, script, popupUrl)
