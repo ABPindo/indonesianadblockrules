@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202511290948
+! Version: 202511290950
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 29 Nov 2025 09:48 UTC
+! Last modified: 29 Nov 2025 09:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -484,7 +484,7 @@ asalunik.com,bokepgemoy.com##+js(nobab)
 193.142.147.230,5.253.86.213,ainzscans.net,igobokep.cam,jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 moviekhhd.biz##+js(nostif, location.href, 3000)
-sukasex.tv##+js(nowoif)
+kisahterlarang.site,sukasex.net,sukasex.tv##+js(nowoif)
 okezone.com##+js(rc, content-wrap)
 inews.id##+js(rc, content-wrap|wrap-all)
 sindonews.com##+js(rc, t480)
@@ -493,7 +493,7 @@ tipskerja.com##+js(refresh-defuser)
 almaftuchin.com##+js(rmnt, script, adblock)
 wisatalova.com##+js(rmnt, script, hargamenu)
 katadata.co.id##+js(rmnt, script, modalAdsPopup)
-sukasex.tv##+js(rmnt, script, popupUrl)
+kisahterlarang.site,layarwibu.com,sukasex.net,sukasex.tv##+js(rmnt, script, popupUrl)
 gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 carisinyal.com##+js(rmnt, script, showModal)
 sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
