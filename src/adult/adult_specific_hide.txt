@@ -55,11 +55,10 @@ indoporn.pro##.full-brkas-container
 dicrotin.fun##.happy-section
 139.99.33.210,sukamovie.mobi##.headbanner
 indobokep.pro##.header-banner
-185.217.95.43,filmjepangku.com,hencop.lol,heppinn.id,javsubid.com,javsubindo.my,javsubindo.site,komik18.art,komikcast02.com,komikdewasa.com,komikdewasa.me,komikremaja.com,lendirpedia.com,lendirpedia.fun,lendirpedia.icu,mangasusuku.com,manhwaindo.cfd,manhwaindo.com,manhwaland.mom,manhwaland.top,manhwalist.com,onlyvid.icu,pascol.com,sintube.icu,skandalpedia.rest,starjepang.com,starjepang.live##.kln
+185.217.95.43,filmjepangku.com,hencop.lol,heppinn.id,javsubid.com,javsubindo.my,javsubindo.site,komik18.art,komikcast02.com,komikdewasa.com,komikdewasa.me,komikremaja.com,lendirpedia.fun,lendirpedia.icu,mangasusuku.com,manhwaindo.cfd,manhwaindo.com,manhwaland.mom,manhwalist.com,onlyvid.icu,pascol.com,sintube.icu,skandalpedia.rest,starjepang.com,starjepang.live##.kln
 173.199.167.192,krucil.com,krucil.net##.krucil_ads
 manadobaswara.com##.manado-widget
 javdesu.tv##.overflow-hidden.w-full.aspect-\[728\/90\].relative
-agenbokep.co##.pop-overlay
 buahmangga.com,gocrot.me,gocrot.org,semprot.com##.popup-cr7
 18subindo.com##.request-warning-bubble
 sebokep.com##.sg-popup-builder-content
@@ -67,7 +66,7 @@ sebokep.com##.sgpb-popup-dialog-main-div-theme-wrapper-6
 dicrotin.fun,dicrotin.info,nokephub.com##.sgpb-popup-dialog-main-div-wrapper
 dicrotin.fun,dicrotin.info,nokephub.com,sebokep.com##.sgpb-popup-overlay
 nomat.site##.show.popup
-kiyowo.icu,kiyowo.sbs,lendirpedia.com,onlyvid.icu,pascol.com,sintube.icu,starjepang.live##.teaser3
+kiyowo.sbs,onlyvid.icu,pascol.com,sintube.icu,starjepang.live##.teaser3
 207.244.225.48##.underlay
 dicrotin.fun,indoxes.wisatabkpindo.com##.video-block-happy
 dicrotin.fun##.video-block-happy-absolute
@@ -96,8 +95,8 @@ dewaporn.*##.happy-header
 dewaporn.*##.happy-header > [href] > .loading
 dewaporn.*##.happy-sidebar
 dewaporn.*##.happy-sidebar > [href] > .loading
-nekopoi.care,nekopoi.lol##div[class^="adsgen"]
-nekopoi.care,nekopoi.lol##div[class^="mobileads"]
+nekopoi.care##div[class^="adsgen"]
+nekopoi.care##div[class^="mobileads"]
 drbokep.*##.loaded.ads-50
 dutasex.*###ads
 igobokep.*###floatbanner-bottom

@@ -1,7 +1,6 @@
 ! General Allowlist for Network Filters
 @@||1idsly.com^$generichide
 @@||ad4msan.com^$generichide
-@@||adturl.com^$generichide
 @@||apkmod.id^$generichide
 @@||digitalponsel.com^$elemhide
 @@||dramaencode.com^$generichide
@@ -21,7 +20,6 @@
 eramuslim.com#@#.adsbygoogle
 adikanime.com#@#.idmuvi-banner-aftercontent
 juragan.film#@#.idmuvi-topbanner
-103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.beauty,layardrama21.club,layardrama21.com#@#.idmuvi-topbanner-aftermenu
+103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.beauty,layardrama21.club#@#.idmuvi-topbanner-aftermenu
 tokosatu.com#@#.popupflyin-clicks-area
-oomph.co.id#@#.shareit
 layardrama21.*#@#.idmuvi-topbanner-aftermenu
