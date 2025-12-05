@@ -1,5 +1,4 @@
-.gif$image,domain=45.11.57.243
-.gif$image,domain=149.56.24.226|15.235.11.45|198.105.112.57|anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu03.*|komikcast.*|kuramanime.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|shinigami09.com
+.gif$image,domain=149.56.24.226|15.235.11.45|198.105.112.57|45.11.57.243|anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu03.*|komikcast.*|kuramanime.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|shinigami09.com
 /gif-*.webm^$image,domain=maroonbellsmorris.org
 ||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
 ||139.177.186.243/home?register$popup,domain=komikcast.com
@@ -33,6 +32,7 @@
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
 ||cakrawalanews.co.id/images/banner/$image
+||cararegistrasi.com/img/download_1.png$image
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
 ||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script,domain=myanimeindo.net
@@ -141,11 +141,13 @@
 ||pages.dev^$script,domain=atlantaelectronics.co.id
 ||playwebgame.com/banner/$third-party
 ||primbon.com/banner/ilmugendam.gif
+||riau24.com/portal/adv/$image
 ||rumahdealer.com/wp-content/uploads/2025/09/*.gif$image,domain=sokuja.uk
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
 ||serunonton.*/wp-content/uploads/*.gif$image
 ||shinigami.*/auto/*$image
+||shrinkads.com/js/xe.js$script
 ||snacklink.id/js/web-script.js$script,third-party
 ||solopos.com/banner/
 ||statically.io/*.ttgambar.xyz/*.jpg$popup
@@ -163,9 +165,6 @@
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||wsmwidget.mediaprimalabs.com^$domain=bharian.com.my|hmetro.com.my
-||cararegistrasi.com/img/download_1.png$image
-||riau24.com/portal/adv/$image
-||shrinkads.com/js/xe.js$script
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js

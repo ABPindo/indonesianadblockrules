@@ -1003,7 +1003,7 @@ oploverz.*##.bg-opacity-70.bg-black.rounded-lg
 oploverz.*##.kln
 oploverz.*##div[class^="fixed"]
 otakudesu.*###overplay
-cloud.majalahhewan.com##p:has(> a[href="#downloadnow"])
+cloud.majalahhewan.com##p:has( > a[href="#downloadnow"])
 herworld.co.id##p:nth-of-type(2)
 rebahin21.*###floating-banner
 samehadaku.*###floatbottom
