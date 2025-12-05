@@ -1188,6 +1188,7 @@ kuramanime.*###aboveEpisodeListBannerSection
 lk21official.*###banner-content
 lk21semi.*##.gmr-bannerpopup
 movieku.*###btm_banner
+movieku.*##.adsx
 movieku.*##.kln
 movieku.*##.teaser3
 movieku.*##[href^="https://heylink.cam/"]
@@ -1198,7 +1199,6 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
-movieku.*##.adsx
 ! MNC Networks
 okezone.com##.title-ads
 ! ABP-specific filters
