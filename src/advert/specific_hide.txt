@@ -1081,8 +1081,6 @@ gridoto.com##.geniee-box
 grid.id##.title__default
 bolasport.com,grid.id,gridoto.com,juara.net##div.ads-inf-box
 ! IDN Networks
-yummy.co.id###js-banner-sticky
-yummy.co.id###idn_ads_bottom_sticky
 yummy.co.id###IDN_InFeed1:upward(1)
 yummy.co.id###IDN_InFeed2:upward(1)
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_MR1-wrapper
@@ -1096,6 +1094,8 @@ rbtv77.im###divFLRAbottom
 62.84.103.231###floatbanner-bottom
 tvbersama.cc###floatcenter
 tv.rebahinxxi1.xyz###floating-banner
+yummy.co.id###idn_ads_bottom_sticky
+yummy.co.id###js-banner-sticky
 manhwaindo.com###kln-block
 ladiestory.id###modalBanner
 nabire.net,sandeq.co.id,sk21.sob4t.xyz,suarapubliknews.net###ouibounce-modal

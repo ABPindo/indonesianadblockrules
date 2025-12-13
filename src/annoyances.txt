@@ -1,6 +1,4 @@
 ! Title: ABPindo – Annoyances - Filter annoyances (elemen UI yang mengganggu seperti popup/overlay non iklan dan pemutar video otomatis)
-popmama.com##.css-1rywi60
-popbela.com,idntimes.com,fortuneidn.com,ggwp.id##.css-cw25l4
 tribunnews.com###banner_article_slide
 tvonenews.com###btt
 detik.com###detikPagiSore
@@ -25,8 +23,10 @@ borneotrend.com##.cookie-consent
 theasianparent.com##.cookie-widget
 sasa.co.id##.cookie_consent
 yummy.co.id##.css-15k19pw.chakra-button
+popmama.com##.css-1rywi60
 yummy.co.id##.css-1yxywc5
 tokopedia.com##.css-6xix1i
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com##.css-cw25l4
 tokopedia.com##.css-f1hbq2
 tribunnews.com##.desk-bannerslide
 sindonews.com##.download-sindoapps
