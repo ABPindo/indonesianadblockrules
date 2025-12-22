@@ -1205,6 +1205,7 @@ okestream.*##[href="https://jaga.link/"]
 playeriframe.*##.message-box
 terbit21.*###float-banner
 terbit21.*###float-bottom-banner
+mp4.youvid.org###center-banner
 ! MNC Networks
 okezone.com##.title-ads
 ! ABP-specific filters
