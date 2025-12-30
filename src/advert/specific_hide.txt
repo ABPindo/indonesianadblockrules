@@ -1,4 +1,8 @@
 ! Suara.com Networks
+hitekno.com##.placeholder_medium
+hitekno.com##.footer-ads__container
+hitekno.com##.placeholder_small
+matamata.com##.adds-top.add
 suara.com###adds-top
 suara.com###desktop-native-1
 suara.com###desktop-native-2
@@ -1215,3 +1219,4 @@ terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
+halodoc.com##.relative.block
