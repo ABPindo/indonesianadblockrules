@@ -32,9 +32,9 @@
 ||goatse.ru^
 ||goatsegirl.org^
 ||hai2u.com^
-||hihanin.com^
+! commented out by dead-domains-linter: ||hihanin.com^
 ||homewares.org^
-||jarsquatter.com^
+! commented out by dead-domains-linter: ||jarsquatter.com^
 ||joyangeles.com^
 ||k-k-k.com^
 ||kids-in-sandbox.com^
@@ -45,7 +45,7 @@
 ||loltrain.com^
 ||magic4you.nu^
 ||martectx.de^
-||meatspin.biz^
+! commented out by dead-domains-linter: ||meatspin.biz^
 ||mudfall.com^
 ||nobrain.dk^
 ||nutabuse.com^

@@ -121,16 +121,13 @@ local-zone: "shqbsdjatunl.com" always_nxdomain
 local-zone: "sumberiklan.com" always_nxdomain
 local-zone: "ueuodgnrhb.com" always_nxdomain
 local-zone: "vkwaeo.com" always_nxdomain
-local-zone: "xihubo.click" always_nxdomain
 local-zone: "yllix.com" always_nxdomain
-local-zone: "zukxd6fkxqn.com" always_nxdomain
 local-zone: "c-stat.eu" always_nxdomain
 local-zone: "cfs1.uzone.id" always_nxdomain
 local-zone: "ktrackdata.com" always_nxdomain
 local-zone: "moneyfree.co" always_nxdomain
 local-zone: "track.aptitudemedia.co" always_nxdomain
 local-zone: "track.zerofriend.com" always_nxdomain
-local-zone: "tracker.beritagar.id" always_nxdomain
 local-zone: "tracker.lazada.co.id" always_nxdomain
 local-zone: "trackingclick.net" always_nxdomain
 local-zone: "traffic-monetizer.com" always_nxdomain
