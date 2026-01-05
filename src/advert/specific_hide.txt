@@ -1218,3 +1218,6 @@ terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
+spucweb.com##.row > center
+spucweb.com##.gmr-bannerpopup
+spucweb.com###floating_banner_top1
