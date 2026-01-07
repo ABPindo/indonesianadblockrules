@@ -103,13 +103,13 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.wrapper-ads
 okezone.com##.title-ads
 ! ABP-specific filters
 tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
+kumparan.com#?#[data-qa-id="desktop-article-page-below-images"]:has(span:-abp-contains(/ADVERTISEMENT/i))
+kumparan.com#?#[data-qa-id^="desktop-article-page-inline-"]:has(span:-abp-contains(/ADVERTISEMENT/i))
 cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
 tokopedia.com#?#div[data-testid="divCarouselProduct"]:has(span:-abp-contains(/^Ad$/))
 tokopedia.com#?#div[data-testid="lazy-frame"]:has(span:-abp-contains(/^Ad$/))
 tokopedia.com#?#div[data-testid^="divProductRecommendation"]:has(span:-abp-contains(/^Ad$/))
 cloud.majalahhewan.com#?#span:-abp-contains(Advertisement)
-kumparan.com#?#[data-qa-id="desktop-article-page-below-images"]:has(span:-abp-contains(/ADVERTISEMENT/i))
-kumparan.com#?#[data-qa-id^="desktop-article-page-inline-"]:has(span:-abp-contains(/ADVERTISEMENT/i))
 ! Malaysian section
 astroawani.com##.AdvertisementContainer_adsContainer__tKpDh
 malaysiakini.com##.h-\[250px\]
