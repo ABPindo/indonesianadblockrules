@@ -1222,3 +1222,6 @@ terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
+yasir252.com##a#download-link[rel]
+yasir252.com##a.tombol-link[href][target][rel]
+yasir252.com##div.label-link-btn
