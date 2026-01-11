@@ -226,6 +226,7 @@ teknoup.com###fancybox_ajax
 194.233.86.65,198.105.112.57###fb-fanbox
 nontonfilm21.club###filmoncereklam
 kontan.co.id###fixslowshow
+bahasteknologi.com###fkdl[href]
 lk21.web.id###float-banner
 dunia21.me###float-pop
 anixverseone.com###floatads1
@@ -1225,4 +1226,3 @@ terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
-bahasteknologi.com###fkdl[href]
