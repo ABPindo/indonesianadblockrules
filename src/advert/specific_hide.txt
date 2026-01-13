@@ -571,6 +571,7 @@ beritasatu.com##.body-content.b1-article > .mt-3
 harianjogja.com,solopos.com##.bottom-fix
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
+nova.grid.id##.bottom_banner
 grid.id##.bottom_banner-wrapper.relative
 cnnindonesia.com##.bottom_banner_bar
 cnnindonesia.com##.bottom_banner_container
@@ -772,6 +773,7 @@ narasi.tv##.max-xl\:hidden.top-24.left-0.fixed.z-10
 narasi.tv##.mb-4.bg-\[\#e3e3e3\]
 inibaru.id##.mb-4.bg-grey.text-center
 tempo.co##.mb-6.m-auto.right-0.left-0.max-w-\[470px\].relative.h-\[250px\].w-full
+nova.grid.id##.mb-\[60px\].giant_2-wrapper.relative
 parapuan.co##.mb3.gpt-ad-head-wrapper.widget
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com,mamikos.com##.megabillboard
 popbela.com##.megabillboard-container
@@ -797,6 +799,7 @@ detik.com,haibunda.com##.mr:has(.mr2-scrollpage-container .mr2-scrollpage-banner
 nextren.grid.id##.mt20.top1
 inilah.com##.mui-style-1q8992d.MuiList-padding.MuiList-root > div.mui-style-0.MuiBox-root
 inilah.com##.mui-style-za8aav
+nova.grid.id##.mx-\[150px\].mb-\[40px\].gap-\[40px\].grid-cols-12.grid > .col-span-4 > .mb-\[60px\].giant_1-wrapper.relative
 inibaru.id##.mx-auto.h-\[250px\].w-\[300px\].dark\:bg-ib-dark-800.bg-slate-100
 tempo.co##.mx-auto.lg\:w-\[728px\]
 kompas.com##.native-wrap
@@ -1072,6 +1075,8 @@ herworld.co.id##div.ads-belt
 nextren.grid.id##div.banner-r
 bolasport.com##div.content_footer--list:nth-of-type(2)
 yasir252.com##div.label-link-btn
+nova.grid.id##div.mb-\[60px\].giant_1-wrapper.relative:nth-of-type(1)
+nova.grid.id##div.mb-\[60px\].giant_1-wrapper.relative:nth-of-type(3)
 inilah.com##div.mui-style-b34tjk
 inibaru.id##div.overflow-hidden.top-32.sticky.h-\[600px\].w-\[160px\].dark\:bg-ib-dark-800.bg-slate-100.lg\:block.hidden:nth-of-type(1)
 hitekno.com##div.placeholder_r1:nth-of-type(1)
@@ -1225,8 +1230,3 @@ terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
-nova.grid.id##.bottom_banner
-nova.grid.id##.mx-\[150px\].mb-\[40px\].gap-\[40px\].grid-cols-12.grid > .col-span-4 > .mb-\[60px\].giant_1-wrapper.relative
-nova.grid.id##div.mb-\[60px\].giant_1-wrapper.relative:nth-of-type(1)
-nova.grid.id##.mb-\[60px\].giant_2-wrapper.relative
-nova.grid.id##div.mb-\[60px\].giant_1-wrapper.relative:nth-of-type(3)
