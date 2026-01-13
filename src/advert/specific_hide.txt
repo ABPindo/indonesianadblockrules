@@ -866,7 +866,6 @@ grid.id##.relative.below_photo
 halodoc.com##.relative.block
 kompas.id##.relative.flex.justify-center.py-2.bg-white
 grid.id##.relative.skycrapper
-grid.id##.relative.w-full
 tempo.co##.remp-banner
 tribunnews.com##.reserved_box_ads
 unixmen.com##.reveal-modal-bg
