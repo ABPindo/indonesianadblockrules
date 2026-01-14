@@ -137,6 +137,8 @@ idntimes.com###IDN_PS_MegaBillboard
 idntimes.com###IDN_SkinLeft
 idntimes.com###IDN_SkinRight
 indogamers.com###IklanIDGS
+ntvnews.id###LEADERBOARD_1
+ntvnews.id###LEADERBOARD_2
 sokuja.uk###OmgjLQi
 utusan.com.my###Taboola_widget
 chip.co.id###TopBannerBg
@@ -174,10 +176,6 @@ tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 jendelakaba.com###banner-popup
 duniaku.net###banner-popup-desktop
-ntvnews.id###LEADERBOARD_1
-nusantaratv.com###google_ads_2
-nusantaratv.com##.close-sticky-content
-ntvnews.id###LEADERBOARD_2
 komikcast03.com###bannerhomefooter
 hdtvku.com###bannerkategoriheader
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
@@ -257,6 +255,7 @@ gadgetren.com###footer_sticky_inside
 mamikos.com###footer_stickyexp
 manganime.live###ftads
 mangaku.site###ftadsth
+nusantaratv.com###google_ads_2
 kontan.co.id###halfpage-ads
 layarkaca21.com,lk21.org###hbanner
 bioskopkeren.beauty,bioskopkeren.bond,bioskopkeren.sbs###headads
@@ -616,6 +615,7 @@ hrv.okestream365.xyz##.clappr-watermark
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
+nusantaratv.com##.close-sticky-content
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 bolasport.com##.cls-composite

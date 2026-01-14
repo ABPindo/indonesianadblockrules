@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202601141258
+! Version: 202601141301
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 14 Jan 2026 12:58 UTC
+! Last modified: 14 Jan 2026 13:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1034,6 +1034,8 @@ idntimes.com###IDN_PS_MegaBillboard
 idntimes.com###IDN_SkinLeft
 idntimes.com###IDN_SkinRight
 indogamers.com###IklanIDGS
+ntvnews.id###LEADERBOARD_1
+ntvnews.id###LEADERBOARD_2
 sokuja.uk###OmgjLQi
 utusan.com.my###Taboola_widget
 chip.co.id###TopBannerBg
@@ -1150,6 +1152,7 @@ gadgetren.com###footer_sticky_inside
 mamikos.com###footer_stickyexp
 manganime.live###ftads
 mangaku.site###ftadsth
+nusantaratv.com###google_ads_2
 kontan.co.id###halfpage-ads
 layarkaca21.com,lk21.org###hbanner
 bioskopkeren.beauty,bioskopkeren.bond,bioskopkeren.sbs###headads
@@ -1509,6 +1512,7 @@ hrv.okestream365.xyz##.clappr-watermark
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
+nusantaratv.com##.close-sticky-content
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 bolasport.com##.cls-composite
