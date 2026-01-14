@@ -14,6 +14,8 @@ suara.com##.bg-ads-sticky-side
 suara.com##.bg-ads-sticky-top
 bolatimes.com,guideku.com,matamata.com##.detail-content > div
 hitekno.com##.footer-ads__container
+beritasatu.com##header > div:nth-of-type(1)
+beritasatu.com##div.pt-0.mt-0.mb-3
 harianesia.com##.gmr-banner-stickyright
 dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com##.gmr-floatbanner
 dteksinews.co.id,harianesia.com##.gmr-topbanner
