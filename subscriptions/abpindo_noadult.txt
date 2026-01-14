@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202601131206
+! Version: 202601141252
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 13 Jan 2026 12:06 UTC
+! Last modified: 14 Jan 2026 12:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -897,6 +897,7 @@ layardrama21.*#@#.idmuvi-topbanner-aftermenu
 ! *** abpindo:src/advert/specific_hide.txt ***
 ! Suara.com Networks
 suara.com###adds-top
+dewiku.com,guideku.com,himedik.com,hitekno.com,mobimoto.com###close-ads-bottom
 suara.com###desktop-native-1
 suara.com###desktop-native-2
 suara.com###div-ad-dbt
