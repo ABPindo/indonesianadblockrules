@@ -1078,6 +1078,7 @@ bolasport.com##div.content_footer--list:nth-of-type(2)
 yasir252.com##div.label-link-btn
 nova.grid.id##div.mb-\[60px\].giant_1-wrapper.relative:nth-of-type(1)
 nova.grid.id##div.mb-\[60px\].giant_1-wrapper.relative:nth-of-type(3)
+inilah.com###__next > div:nth-of-type(1)
 inilah.com##div.mui-style-b34tjk
 inibaru.id##div.overflow-hidden.top-32.sticky.h-\[600px\].w-\[160px\].dark\:bg-ib-dark-800.bg-slate-100.lg\:block.hidden:nth-of-type(1)
 hitekno.com##div.placeholder_r1:nth-of-type(1)
