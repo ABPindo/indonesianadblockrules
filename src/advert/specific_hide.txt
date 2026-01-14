@@ -18,7 +18,6 @@ harianesia.com##.gmr-banner-stickyright
 dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com##.gmr-floatbanner
 dteksinews.co.id,harianesia.com##.gmr-topbanner
 delik.tv##.gpt-ad-inner
-cna.id##.programtic-ads
 suara.com##.mgidwidget
 delik.tv##.parallax-clip
 suara.com##.parallax_swipe
@@ -32,6 +31,7 @@ suara.com##.placeholder_r2
 suara.com##.placeholder_r3
 suara.com##.placeholder_read_body
 hitekno.com##.placeholder_small
+cna.id##.programtic-ads
 delik.tv##.site-sticky-bottom
 suara.com##.widget-ads-top
 matamata.com##.wrap-ads-leaderboard
