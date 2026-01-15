@@ -1248,3 +1248,18 @@ terbit21.*###float-bottom-banner
 terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
 detik.com##header.header:style(padding-top:0px!important; margin-bottom:0px!important;)
+detik.com##.staticdetail_ads
+detik.com##.teads-player
+detik.com###inventory-p5
+detik.com###adv-callback
+detik.com##.close_tbot
+detik.com##.bottom_banner_bar
+detik.com##.top_banner_bar
+detik.com##.close_tb
+detik.com##.breakingnews-float
+detik.com##.balloon
+detik.com##.balloon_close
+detik.com##.balloon_adskiri
+detik.com##.balloon_closekiri
+detik.com###billboard
+detik.com###billboard_banner
