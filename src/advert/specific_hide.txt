@@ -124,6 +124,7 @@ malaysiakini.com##.print\:hidden.w-300px
 utusan.com.my##[href="https://iklaneka.utusan.com.my/"]
 ! Singaporean section
 beritaharian.sg##.lg\:min-h-\[120px\]
+mediacorp.sg##.programtic-ads
 ! Specific element hiding rules
 wowkeren.com###Ad300B
 wowkeren.com###Ad728
