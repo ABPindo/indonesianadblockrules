@@ -168,6 +168,7 @@ tempo.co###ads-main-2
 dapurpacu.com###ads-mid
 inilah.com###ads-slot-top-header
 optika.id###ads-top-header-parallax
+sindonews.com###ads_1:style(display:none!important; height:0!important; padding:0!important; margin:0!important;)
 poskota.co.id###ads__bottom
 inews.id###ads_megabillboard
 beautyjournal.id###adsense-parallax-banner-container
@@ -1259,4 +1260,3 @@ terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
-sindonews.com###ads_1:style(display:none!important; height:0!important; padding:0!important; margin:0!important;)
