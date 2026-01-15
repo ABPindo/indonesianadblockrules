@@ -172,6 +172,7 @@ poskota.co.id###ads__bottom
 inews.id###ads_megabillboard
 beautyjournal.id###adsense-parallax-banner-container
 kontan.co.id###adsoutsream
+detik.com###adv-callback
 unixmen.com###an-Modal
 suara.com,tribunnews.com###anchorads
 inilah.com,kompasiana.com###anchormasklink
@@ -200,7 +201,7 @@ jalantikus.com###beforeDaftarIsimobilead300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphFirstad300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphNewmobilead300container00div-gpt-ad-1569380311053-0
 beritasatu.com,cnnindonesia.com,detik.com###billboard
-bioskop78.com,cnbcindonesia.com###billboard_banner
+bioskop78.com,cnbcindonesia.com,detik.com###billboard_banner
 tirto.id###bkgOverlay
 tirto.id###bn-premium
 beritasatu.com###botAds
@@ -283,6 +284,7 @@ lk21.web.id###ilang1
 bola.com,bola.net,dream.co.id,fimela.com,kapanlagi.com,liputan6.com,merdeka.com,otosia.com###in-image-ads
 jawapos.com,mamikos.com###in_image
 republika.co.id###inscroll-banner-home
+detik.com###inventory-p5
 harakahdaily.net###jsemrp_372_719
 harakahdaily.net###jsemrp_373_873
 harakahdaily.net###jsemrp_374_469
@@ -498,6 +500,10 @@ tirto.id##.article-sidebar
 cantika.com##.artikel-rekomendasi-blue
 inews.id##.asideAds
 myasiantv.se##.av-content-full
+detik.com##.balloon
+detik.com##.balloon_adskiri
+detik.com##.balloon_close
+detik.com##.balloon_closekiri
 139.99.120.222##.ban_empat
 animebatchs.com,ceklissatu.com,juragan-anime.net,kapanlagi.com,kompasiana.com,merdeka.com,nanime.in,otosia.com##.banner
 ligaolahraga.com##.banner-625x235-content
@@ -589,7 +595,7 @@ kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
 nova.grid.id##.bottom_banner
 grid.id##.bottom_banner-wrapper.relative
-cnnindonesia.com##.bottom_banner_bar
+cnnindonesia.com,detik.com##.bottom_banner_bar
 cnnindonesia.com##.bottom_banner_container
 gopego.com##.box
 kapanlagi.com##.box--banner
@@ -606,6 +612,7 @@ kompas.com##.boxSkinAd
 neonime.com,neonime.vip##.box_item_berlangganan
 194.163.183.129,45.12.2.2##.box_item_berlangganan_popup
 metrotvnews.com##.brand1-ads
+detik.com##.breakingnews-float
 inilah.com##.bt-g1.b-g3.wb-300x100
 inilah.com##.bt-g1.b-g3.wb-300x250
 femaledaily.com##.btn_ads_close_top_frame
@@ -623,6 +630,8 @@ sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 ntvnews.id,nusantaratv.com##.close-sticky-content
+detik.com##.close_tb
+detik.com##.close_tbot
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 bolasport.com##.cls-composite
@@ -944,6 +953,7 @@ cnbcindonesia.com##.stickystatic
 theasianparent.com##.tap-ad-container
 hijabista.com.my,majalahpama.my,nona.my,vanillakismis.my##.td-banner-bg.td-banner-wrap-full
 mediapermata.com.bn,terkini.id##.td-header-rec-wrap
+detik.com##.teads-player
 kordindonesia.com##.text-ad
 internetpositif.uzone.id##.text-align-center.box-ads-content
 kontan.co.id##.text-center.center.width-px-1100
@@ -957,6 +967,7 @@ mediaindonesia.com##.top-banner
 metrotvnews.com##.top-frame
 hrv.okestream365.xyz##.top-player-banner
 grid.id##.top_banner-wrapper
+detik.com##.top_banner_bar
 gooto.com##.topbannerhead
 beritasatu.com,jakartaglobe.id##.underlay-ad
 beritasatu.com,investor.id##.underlay-ad-text-box
@@ -1146,6 +1157,7 @@ gudangmovies21.*###ouibounce-modal
 gudangmovies21.*###sgpb-popup-dialog-main-div-wrapper
 gudangmovies21.*##.sgpb-popup-overlay
 halodoc.com##hd-base-display-ads
+detik.com##header.header:style(padding-top:0px!important; margin-bottom:0px!important;)
 hrv.okestream365.xyz##html:style(overflow: auto !important;)
 idxx1.*###player-side-left
 idxx1.*##a.bnner
@@ -1247,19 +1259,3 @@ terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
-detik.com##header.header:style(padding-top:0px!important; margin-bottom:0px!important;)
-detik.com##.staticdetail_ads
-detik.com##.teads-player
-detik.com###inventory-p5
-detik.com###adv-callback
-detik.com##.close_tbot
-detik.com##.bottom_banner_bar
-detik.com##.top_banner_bar
-detik.com##.close_tb
-detik.com##.breakingnews-float
-detik.com##.balloon
-detik.com##.balloon_close
-detik.com##.balloon_adskiri
-detik.com##.balloon_closekiri
-detik.com###billboard
-detik.com###billboard_banner
