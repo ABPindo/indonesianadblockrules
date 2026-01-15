@@ -42,6 +42,11 @@ suara.com##div.placeholder_pariwara
 beritasatu.com##div.pt-0.mt-0.mb-3
 beritasatu.com##header > div:nth-of-type(1)
 ! Grid Networks
+gridpop.id,grid.id,gridhype.id##.relative.skycrapper
+grid.id,gridhype.id,gridpop.id##.giant_1-wrapper.relative
+grid.id,gridhype.id,gridpop.id##.giant_2-wrapper.relative
+gridhype.id,gridpop.id##.top_banner-wrapper
+grid.id,gridhype.id,gridpop.id###bottom-banner
 grid.id,juara.net###div-Inside-MediumRectangle
 parapuan.co###div-Inside-MediumRectangle2
 grid.id###outbrain-container
