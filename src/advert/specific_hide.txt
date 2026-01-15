@@ -1259,3 +1259,4 @@ terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
+sindonews.com###ads_1:style(display:none!important; height:0!important; padding:0!important; margin:0!important;)
