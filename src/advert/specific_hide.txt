@@ -1247,3 +1247,4 @@ terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
+detik.com##header.header:style(padding-top:0px!important; margin-bottom:0px!important;)
