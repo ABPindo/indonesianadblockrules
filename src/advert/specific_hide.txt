@@ -42,10 +42,6 @@ suara.com##div.placeholder_pariwara
 beritasatu.com##div.pt-0.mt-0.mb-3
 beritasatu.com##header > div:nth-of-type(1)
 ! Grid Networks
-gridpop.id,grid.id,gridhype.id##.relative.skycrapper
-grid.id,gridhype.id,gridpop.id##.giant_1-wrapper.relative
-grid.id,gridhype.id,gridpop.id##.giant_2-wrapper.relative
-gridhype.id,gridpop.id##.top_banner-wrapper
 grid.id,gridhype.id,gridpop.id###bottom-banner
 grid.id,juara.net###div-Inside-MediumRectangle
 parapuan.co###div-Inside-MediumRectangle2
@@ -63,7 +59,11 @@ gridoto.com##.cls-mgid
 bolanas.com,juara.net##.cls-outstream
 parapuan.co##.div-gpt-ad-top-wrapper
 gridoto.com##.geniee-box
+grid.id,gridhype.id,gridpop.id##.giant_1-wrapper.relative
+grid.id,gridhype.id,gridpop.id##.giant_2-wrapper.relative
+grid.id,gridhype.id,gridpop.id##.relative.skycrapper
 grid.id##.title__default
+gridhype.id,gridpop.id##.top_banner-wrapper
 bolasport.com,grid.id,gridoto.com,juara.net##div.ads-inf-box
 ! IDN Networks
 yummy.co.id###IDN_InFeed1:upward(1)
@@ -622,7 +622,7 @@ hrv.okestream365.xyz##.clappr-watermark
 sindonews.com##.clear.size-wide-custom.dummy
 filmku.net##.clearfix.act2-970x90:nth-of-type(1)
 filmku.net##.clearfix.act2-970x90:nth-of-type(3)
-nusantaratv.com,ntvnews.id##.close-sticky-content
+ntvnews.id,nusantaratv.com##.close-sticky-content
 tempo.co##.closebanner1
 tempo.co##.closebanner2
 bolasport.com##.cls-composite
