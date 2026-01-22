@@ -151,8 +151,6 @@ utusan.com.my###Taboola_widget
 chip.co.id###TopBannerBg
 sokuja.uk###UeEwLuh
 moenime.com###\31 xbet
-inilah.com##div[style="height:278px;width:100%;background-color:#efefef;display:flex;align-items:center;justify-content:center;gap:1px"]
-inilah.com##div[style="height: 278px; width: 100%; background-color: rgb(239, 239, 239); display: flex; align-items: center; justify-content: center; gap: 1px;"]
 kompas.tv###_popIn_recommend_word
 mangacanblog.com###aa
 motorplus-online.com###ad-below-photo-container
@@ -1142,7 +1140,9 @@ wolipop.detik.com##div[style*="min-height:150px"][style*="width:100%"]
 wolipop.detik.com##div[style*="width:300px"][style*="min-height:250px"]
 wowkeren.com##div[style*="width:300px;min-height:250px"]
 beritasatu.com##div[style="font-family: helvetica, arial;font-size: 10px;padding: 5px 0px;background-color:#f4f4f4;color:#333;text-align: center;"]
+inilah.com##div[style="height: 278px; width: 100%; background-color: rgb(239, 239, 239); display: flex; align-items: center; justify-content: center; gap: 1px;"]
 situshp.com##div[style="height:260px;"]
+inilah.com##div[style="height:278px;width:100%;background-color:#efefef;display:flex;align-items:center;justify-content:center;gap:1px"]
 antaranews.com##div[style="min-width:300px;min-height:250px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
 beritaharian.sg##div[style^="background-image: linear-gradient"]
