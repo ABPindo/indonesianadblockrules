@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202601221306
+! Version: 202601221307
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 22 Jan 2026 13:06 UTC
+! Last modified: 22 Jan 2026 13:07 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1076,6 +1076,7 @@ inilah.com,kompasiana.com###anchormasklink
 mirrorkomik.net###aplikasi
 zonabola.com###aside img[width="300"][height="250"]
 indotelko.com###baca_juga
+cnbcindonesia.com###balloon
 haibunda.com###balloonads
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
@@ -2042,6 +2043,7 @@ situshp.com##div[style="height:260px;"]
 inilah.com##div[style="height:278px;width:100%;background-color:#efefef;display:flex;align-items:center;justify-content:center;gap:1px"]
 antaranews.com##div[style="min-width:300px;min-height:250px;"]
 tabloidbintang.com##div[style="position:absolute; top:20px; left:45px; width:70px; background:#000; text-align:center;"]
+cnbcindonesia.com##div[style="z-index:65; position: fixed; bottom:0;  isolation:isolate;display: block; width:100%;"]
 beritaharian.sg##div[style^="background-image: linear-gradient"]
 detik.com##div[style^="margin: 10px auto;width: 970px;height: 250px"]
 cnbcindonesia.com##div[style^="width:970px;"]
