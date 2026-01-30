@@ -1266,3 +1266,6 @@ terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
+komikcast.*##div.fixed.z-50.-translate-x-1\/2
+komikcast.*##div.grid.grid-cols-1.gap-1.lg\:grid-cols-2:has(a[aria-label^="Open ad "])
+komikcast.*##div.grid.grid-cols-1.gap-1.md\:grid-cols-2:has(> div.grid > a[aria-label^="Open ad RD-"])
