@@ -7,7 +7,6 @@ javsubindo.my,javsubindo.site###btm_banner
 krx18.com###dynamic-image[alt=""]
 unyil.net###float-atas
 hencop.com,hencop.lol,heppinn.id,indodb21.com,nontonhentai.net###floatcenter
-wisatabkpindo.*###Floating-footer-banner
 ruangbokep.com,ruangbokep.sbs,streamingbokeponline.com###floating_bot
 minioppai.org###overplay
 iyottube.co,iyottube.com###playerOverlay
@@ -16,23 +15,14 @@ mlyuk.pro###popupBanner
 filmjepangku.com###popupOverlay
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
-dicrotin.*##.sgpb-popup-dialog-main-div-wrapper
-dicrotin.*##.sgpb-popup-overlay
-pascol.*##.ays-pb-modals
 bk21.yachts,heppinn.id,komik18.art,komikcast02.com,komikdewasa.art,komikdewasa.com,komikdewasa.me,komikmanhwa.me,komikremaja.com,kumapoi.me,manhwaindo.cfd,manhwaindo.com###teaser3
-pemersatu.*###teaser3
 hencop.lol,komikcast02.com###teaser4
 hencop.com###teaser7
 sange.link##.Dvr-B
 sange.link##.DvrCn
 sangetods.net##.active.adde_modal-overlay
-pemersatu.*##div.ad iframe
-pemersatu.*##div.ad ins
-pemersatu.*##.ad-container
 sangetods.net##.adde_modal_detector-show.adde_modal_detector
 mediahiburan.my##.adplaceholder-mrec
-komikindo.*##.ads iframe
-komikindo.*##.ads a[href]
 javsubid.com##.ads-jav
 lkprd.fun,lkprd.site##.adshu
 ceritaseksindo.org##.banner-float-bottom
@@ -45,30 +35,8 @@ indoporn.pro##.full-brkas-container
 dicrotin.fun##.happy-section
 indobokep.pro##.header-banner
 viexx.com##.info-banner
+filmjepangku.com,filmjepangku.net,hencop.lol,heppinn.id,javsubid.com,javsubindo.my,javsubindo.site,komikcast02.com,mangasusuku.com,manhwaland.mom,manhwalist.com,pascol.com,sintube.icu##.kln
 krucil.com,krucil.net##.krucil_ads
-komikdewasa.*##.kln
-komikremaja.*##.kln
-komik18.*##.kln
-komikcast02.com##.kln
-manhwaindo.*##.kln
-manhwalist.com##.kln
-manhwaland.mom##.kln
-mangasusuku.com##.kln
-lendirpedia.*##.kln
-
-javsubid.com##.kln
-javsubindo.my##.kln
-javsubindo.site##.kln
-filmjepangku.com##.kln
-filmjepangku.net##.kln
-
-pascol.com##.kln
-sintube.icu##.kln
-
-starjepang.*##.kln
-
-hencop.lol##.kln
-heppinn.id##.kln
 manadobaswara.com##.manado-widget
 javdesu.tv##.overflow-hidden.w-full.aspect-\[728\/90\].relative
 buahmangga.com,gocrot.me,gocrot.org,semprot.com##.popup-cr7
@@ -82,13 +50,13 @@ dicrotin.fun##.video-block-happy-absolute
 realthaisluts.com##.video-list-ads
 komikdewasa.art##.wp-image-80765.size-full.alignnone
 bokepid.wiki##[class^="xnxx5-"]
-komikmanhwa.me##a[href^="https://klik.fun/"]
-manhwadesu.org##a[href^="https://klik.gg/"]
-nokephub.com##a[href^="https://genec77.space/"]
-slurr.my.id##a[href^="https://scratchy-trick.com/"]
-18subindo.com##a[href^="https://tinyurl.com/"]
 doujindesu.tv##a[href][target="_blank"] > img
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
+nokephub.com##a[href^="https://genec77.space/"]
+komikmanhwa.me##a[href^="https://klik.fun/"]
+manhwadesu.org##a[href^="https://klik.gg/"]
+slurr.my.id##a[href^="https://scratchy-trick.com/"]
+18subindo.com##a[href^="https://tinyurl.com/"]
 agenbokep.*##.popbox
 anoboy.*##a[href^="https://klik.gg/"]
 avtubhub.*###adblock-modal
@@ -102,6 +70,8 @@ dewaporn.*##.happy-header
 dewaporn.*##.happy-header > [href] > .loading
 dewaporn.*##.happy-sidebar
 dewaporn.*##.happy-sidebar > [href] > .loading
+dicrotin.*##.sgpb-popup-dialog-main-div-wrapper
+dicrotin.*##.sgpb-popup-overlay
 nekopoi.care##div[class^="adsgen"] iframe
 nekopoi.care##div[class^="mobileads"]
 drbokep.*##.loaded.ads-50
@@ -111,9 +81,12 @@ kingbokep.*##.md\:flex-row.flex-col.gap-3.flex.mt-3
 kingbokep.*##[grid-area="ads1"]
 kingbokep.*##div.flex.w-full.justify-center.overflow-x-auto
 kingbokep.*##div[style="width:300px;height:250px;z-index:1"]
+komik18.*##.kln
 komikdewasa.*###teaser3
 komikdewasa.*##.kln
 komikdewasa.*##.teaser4
+komikindo.*##.ads a[href]
+komikindo.*##.ads iframe
 komikremaja.*###teaser3
 komikremaja.*##.kln
 lendirpedia.*##.kln
@@ -131,14 +104,18 @@ nokephub.*##.sgpb-popup-overlay
 pascol.*##.ays-pb-modals
 pascol.*##.kln
 pascol.*##.teaser3
+pemersatu.*###teaser3
+pemersatu.*##.ad-container
 pemersatu.*##[role="advertisement"]
+pemersatu.*##div.ad iframe
+pemersatu.*##div.ad ins
 perawanbokep.*###ads
 ruangbokep.*###floating_bot
 rumahparaperjaka.*##.elementor-popup-modal
 rumahperjaka.*##.elementor-popup-modal
 sintube.*##.ays-pb-modals
 skandalpedia.*##.kln
+starjepang.*##.kln
 streamingbokeponline.*###floating_bot
 videocrot.*##.ads-720
-viexx.com##.info-banner
-indo18plus.com##.promo-videos
+wisatabkpindo.*###Floating-footer-banner

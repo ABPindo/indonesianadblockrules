@@ -185,6 +185,7 @@ cinema-indo.net##img.aligncenter
 ###floatads3
 ###floating_banner_bottom
 ###teaser5
+###teaser7
 ##.ad-float-image
 ##.ads
 ##.floatbanner-bottom
@@ -195,4 +196,3 @@ cinema-indo.net##img.aligncenter
 ##.teaser3
 ##.teaser4
 ##[id^="div-gpt-ad"]
-###teaser7

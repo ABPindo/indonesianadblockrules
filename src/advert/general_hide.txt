@@ -398,9 +398,9 @@
 ##img[data-ai-hint="advertisement banner"]
 ! international-ads
 ###ad-link.visible
-###ouibounce-modal
 ###adblock-modal
-##.sgpb-popup-dialog-main-div-wrapper
-##.sgpb-popup-overlay
+###ouibounce-modal
 ##.ays-pb-modals
 ##.elementor-popup-modal
+##.sgpb-popup-dialog-main-div-wrapper
+##.sgpb-popup-overlay
