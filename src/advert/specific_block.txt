@@ -1,11 +1,6 @@
-.gif$image,domain=149.56.24.226|15.235.11.45|198.105.112.57|45.11.57.243|anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu03.*|komikcast.*|kuramanime.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|shinigami09.com
+.gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu03.*|komikcast.*|kuramanime.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|oploverz.best|shinigami09.com
 /gif-*.webm^$image,domain=maroonbellsmorris.org
-||109.234.34.246/wp-content/uploads/*.gif$image,~third-party
-||139.177.186.243/home?register$popup,domain=komikcast.com
-||172.104.108.25^$popup,third-party
-||188.166.197.120^$popup,third-party
 ||1cak.com/shopee
-||65.108.132.145/wp-content/uploads/*.gif$image,~third-party
 ||adsafelink.com/js/webscript.js$script,third-party
 ||angel.exabytes.com.my/banners/
 ||anibatch.*/wp-content/uploads/*.gif$image
@@ -26,7 +21,7 @@
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
 ||blogger.googleusercontent.com/img/$image,domain=winbu.*
-||bp.blogspot.com/*.gif$image,domain=139.99.33.192|anoboy.watch|cinema81.net|drakorindo.com|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|filmku.net|idkomik.com|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lk21id.com|mangaindo.net|movie303.com|nekopoi.care|neonime.com|neonime.net|nonton33.com|nonton33.net|nontonfilm21.club|oploverz.in|otakudesu.info|smallencode.com|zonabola.com
+||bp.blogspot.com/*.gif$image,domain=anoboy.watch|cinema81.net|drakorindo.com|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|filmku.net|idkomik.com|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lk21id.com|mangaindo.net|movie303.com|nekopoi.care|neonime.com|neonime.net|nonton33.com|nonton33.net|nontonfilm21.club|oploverz.in|otakudesu.info|smallencode.com|zonabola.com
 ||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
@@ -99,7 +94,6 @@
 ||kazefuri.web.id/wp-content/themes/Kazebaru/img/300ads.png$image
 ||kba.one/tracking/$popup
 ||kdramaindo.*/wp-content/uploads/*.gif$image
-||kebagi.com/*.gif$image,third-party
 ||komikcast.*/wp-content/uploads/*.gif$image,~third-party
 ||kompas.com/data/banner/
 ||kotakgame.com/images/bnr/partner/*.jpg
@@ -138,7 +132,6 @@
 ||playwebgame.com/banner/$third-party
 ||primbon.com/banner/ilmugendam.gif
 ||riau24.com/portal/adv/$image
-||rumahdealer.com/wp-content/uploads/2025/09/*.gif$image,domain=sokuja.uk
 ||semuaberita.com/banner/
 ||senimovies.*/wp-content/uploads/*.gif$image
 ||serunonton.*/wp-content/uploads/*.gif$image
@@ -157,7 +150,6 @@
 ||tribunnews.com/stylesheets/close.gif
 ||ttgambar.xyz$popup
 ||tvkabel.net/prom/*.gif$image
-||ultima7.fun^$popup,third-party
 ||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||wsmwidget.mediaprimalabs.com^$domain=bharian.com.my|hmetro.com.my
