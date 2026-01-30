@@ -1188,6 +1188,9 @@ klikseru.*##.textwidget img[width="300"][height="250"]
 klikseru.*##center img[width="728"][height="70"]
 komikcast.*###teaser3
 komikcast.*###teaser4
+komikcast.*##div.fixed.z-50.-translate-x-1\/2
+komikcast.*##div.grid.grid-cols-1.gap-1.lg\:grid-cols-2:has(a[aria-label^="Open ad "])
+komikcast.*##div.grid.grid-cols-1.gap-1.md\:grid-cols-2:has(> div.grid > a[aria-label^="Open ad RD-"])
 komikcast.*,komikcast.*###bannerhomefooter
 komikcast.*,komikcast01.*,komikcast02.*,komikindo.*,komikindo1.*,komikindo3.*,komikindo4.*##.gulai_asam_manis
 komikcast.*,komikcast01.*,komikcast02.*,komikindo.*,komikindo1.*,komikindo3.*,komikindo4.*##.kln
@@ -1266,6 +1269,3 @@ terbit21.*###float-banner
 terbit21.*###float-bottom-banner
 terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
-komikcast.*##div.fixed.z-50.-translate-x-1\/2
-komikcast.*##div.grid.grid-cols-1.gap-1.lg\:grid-cols-2:has(a[aria-label^="Open ad "])
-komikcast.*##div.grid.grid-cols-1.gap-1.md\:grid-cols-2:has(> div.grid > a[aria-label^="Open ad RD-"])
