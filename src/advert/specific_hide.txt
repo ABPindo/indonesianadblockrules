@@ -147,7 +147,6 @@ mangacanblog.com###aa
 motorplus-online.com###ad-below-photo-container
 motorplus-online.com###ad-genie-container
 koran-jakarta.com###ad-slot-article
-kompas.id##.items-center.justify-center.flex.relative.w-full.lg\:min-h-\[132px\].min-h-\[92px\]
 genpi.co###adbottom-sky
 mirrorkomik.net###adrandpop
 budiarto.id,idxchannel.com###ads
@@ -715,6 +714,7 @@ ulasan.co##.inner-floatright
 mydramalist.com##.is-mrtmt2522.mrtmf2522
 tafsirweb.com##.is-resized.size-large.aligncenter
 mydramalist.com##.is-zmqft2522.zmqff2522
+kompas.id##.items-center.justify-center.flex.relative.w-full.lg\:min-h-\[132px\].min-h-\[92px\]
 gridoto.com##.js-ads-stick
 motorplus-online.com,sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
 tempo.co##.justify-center.gap-2.flex.text-xs.text-neutral-900
