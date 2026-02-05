@@ -300,7 +300,6 @@ ketik.co.id###modalPopup
 moenime.com###moemodals
 indotelko.com###more_stories
 fastdrama.co###myModal
-petanikode.com##.empty-ads
 emitennews.com###myPopup
 hdtvku.com###mybannerpopup
 hdtvku.com###mybannerpopup2
@@ -646,6 +645,7 @@ indogamers.com##.display__banner
 openkerja.id##.dlpro-topbanner-aftermenu
 m.bukalapak.com##.dp-card-container:has(.ico_promotion)
 pewarta.co.id##.dynamic_ads
+petanikode.com##.empty-ads
 layarkaca21.tv,lk21.tv##.fancybox-skin
 indonesiana.id##.fix-bottom
 dapurpacu.com##.fixed-ads-atas

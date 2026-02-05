@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202601301317
+! Version: 202602051331
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 30 Jan 2026 13:17 UTC
+! Last modified: 05 Feb 2026 13:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1540,6 +1540,7 @@ indogamers.com##.display__banner
 openkerja.id##.dlpro-topbanner-aftermenu
 m.bukalapak.com##.dp-card-container:has(.ico_promotion)
 pewarta.co.id##.dynamic_ads
+petanikode.com##.empty-ads
 layarkaca21.tv,lk21.tv##.fancybox-skin
 indonesiana.id##.fix-bottom
 dapurpacu.com##.fixed-ads-atas
