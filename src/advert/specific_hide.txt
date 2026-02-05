@@ -154,7 +154,7 @@ dapurpacu.com###ads-728
 dapurpacu.com###ads-960-mid
 inews.id###ads-bottom-logo
 harianjogja.com,solopos.com###ads-float
-tempo.co###ads-main-2
+.co###ads-main-2
 dapurpacu.com###ads-mid
 inilah.com###ads-slot-top-header
 optika.id###ads-top-header-parallax
@@ -172,8 +172,8 @@ zonabola.com###aside img[width="300"][height="250"]
 indotelko.com###baca_juga
 cnbcindonesia.com###balloon
 haibunda.com###balloonads
-tempointeraktif.com###banner-atas
-tempointeraktif.com###banner-bawah
+interaktif.com###banner-atas
+interaktif.com###banner-bawah
 jendelakaba.com###banner-popup
 duniaku.net###banner-popup-desktop
 komikcast03.com###bannerhomefooter
@@ -248,6 +248,7 @@ bareksa.com###footer_sticky
 gadgetren.com###footer_sticky_inside
 mamikos.com###footer_stickyexp
 manganime.live###ftads
+tempo.co##div.lg\:container
 mangaku.site###ftadsth
 nusantaratv.com###google_ads_2
 kontan.co.id###halfpage-ads
@@ -384,7 +385,7 @@ bharian.com.my##.adbtm
 theasianparent.com##.adcore-height-50
 file.rocks##.add
 serialmovieislami.com##.adore-adver
-akurat.co,arahpandang.com,aspirasiku.id,ayobandung.com,ayobogor.com,ayojakarta.com,bandunginsider.com,dapurpacu.com,download-lagu-mp3.com,duniafilm21.com,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,industry.co.id,inidata.id,jatimnetwork.com,jawapos.com,k-vid.net,katadata.co.id,kilat.com,kompas.com,koran-jakarta.com,masagipedia.com,metrotvnews.com,miyanime.site,muslimterkini.id,okezone.com,otakuindo.net,pikiran-rakyat.com,rejogja.co.id,republika.co.id,smallencode.com,tempo.co,terasjakarta.id,timenews.co.id,unews.id,www.melintas.id,zonajakarta.com##.ads
+akurat.co,arahpandang.com,aspirasiku.id,ayobandung.com,ayobogor.com,ayojakarta.com,bandunginsider.com,dapurpacu.com,download-lagu-mp3.com,duniafilm21.com,embed.dramanices.com,gridoto.com,harianjogja.com,hops.id,industry.co.id,inidata.id,jatimnetwork.com,jawapos.com,k-vid.net,katadata.co.id,kilat.com,kompas.com,koran-jakarta.com,masagipedia.com,metrotvnews.com,miyanime.site,muslimterkini.id,okezone.com,otakuindo.net,pikiran-rakyat.com,rejogja.co.id,republika.co.id,smallencode.com,.co,terasjakarta.id,timenews.co.id,unews.id,www.melintas.id,zonajakarta.com##.ads
 arahpandang.com##.ads--stick-parent
 arahpandang.com##.ads--stick-parent-250px
 kilat.com,zonajakarta.com##.ads--stick-parent-400px
@@ -484,7 +485,7 @@ animebatchs.com,ceklissatu.com,juragan-anime.net,kapanlagi.com,kompasiana.com,me
 ligaolahraga.com##.banner-625x235-content
 hitekno.com##.banner-ads--big
 kompasiana.com##.banner-center
-gooto.com,tempo.co##.banner-fix-bottom
+gooto.com,.co##.banner-fix-bottom
 bioskopgaul.me##.banner-float-bottom
 metrotvnews.com##.banner-header-ads
 kompasiana.com##.banner-mgid
@@ -501,8 +502,8 @@ kapanlagi.com##.banner-title
 kompasiana.com,modifikasi.com##.banner-top
 juragan-anime.net##.banner3
 cantika.com##.banner300x600
-tempo.co##.banner320x480
-tempo.co##.banner970x250
+.co##.banner320x480
+.co##.banner970x250
 kompas.com##.bannerAdB
 kompas.com##.bannerCenter
 kompas.com##.bannerCenter1SubRubrik
@@ -524,9 +525,9 @@ detik.com##.banner_inside_article
 lapar.com##.banner_main
 modifikasi.com##.bannercol
 modifikasi.com##.bannerfloat
-tempo.co##.bannerfull
+.co##.bannerfull
 gooto.com##.bannerfulltop.bannerfull
-indonesiana.id,tempo.co##.bannerhead
+indonesiana.id,.co##.bannerhead
 waralabakan.com##.banneritem
 nontonme.com##.bannermovie
 modifikasi.com##.bannerpos
@@ -603,8 +604,8 @@ filmku.net##.clearfix.act2-970x90:nth-of-type(3)
 ntvnews.id,nusantaratv.com##.close-sticky-content
 detik.com##.close_tb
 detik.com##.close_tbot
-tempo.co##.closebanner1
-tempo.co##.closebanner2
+.co##.closebanner1
+.co##.closebanner2
 bolasport.com##.cls-composite
 bolasport.com##.cls-geniee
 bolasport.com,gridoto.com,motorplus-online.com,parapuan.co##.cls-outstream
@@ -688,11 +689,11 @@ marketeers.com##.h-\[110px\]
 cubmu.com##.h-\[250px\].w-\[300px\]
 marketeers.com##.h-\[260px\]
 cubmu.com##.h-\[549px\]
-tempo.co##.h-\[600px\].w-\[300px\].m-auto.mb-6.justify-center
+.co##.h-\[600px\].w-\[300px\].m-auto.mb-6.justify-center
 trenasia.com##.h-\[90px\]
 cantika.com##.h-noapps.bannerhead
 kompas.com##.hAds
-tempo.co##.head-banner
+.co##.head-banner
 bioskop90.com##.headborder:nth-of-type(5)
 hrv.okestream365.xyz,riau86.com##.header-banner
 kaskus.co.id##.header__kasad
@@ -715,7 +716,7 @@ tafsirweb.com##.is-resized.size-large.aligncenter
 mydramalist.com##.is-zmqft2522.zmqff2522
 gridoto.com##.js-ads-stick
 motorplus-online.com,sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
-tempo.co##.justify-center.gap-2.flex.text-xs.text-neutral-900
+.co##.justify-center.gap-2.flex.text-xs.text-neutral-900
 indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
@@ -745,8 +746,8 @@ gooto.com##.lanjutkan.bggrey
 metrotvnews.com##.layout_topads
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
-tempo.co##.lg\:hidden.mx-auto.container.h-\[140px\].lg\:w-full.overflow-clip.bg-neutral-300
-tempo.co##.lg\:hidden.relative
+.co##.lg\:hidden.mx-auto.container.h-\[140px\].lg\:w-full.overflow-clip.bg-neutral-300
+.co##.lg\:hidden.relative
 inibaru.id##.lg\:mb-auto.mx-auto.max-h-72.lg\:h-64.lg\:w-full.lg\:bg-slate-100.dark\:bg-ib-dark-800.\!mb-8.h-\[100px\].w-\[320px\].lg\:overflow-visible.overflow-hidden.bg-slate-300
 tvrinews.com##.lg_ads
 kontan.co.id##.liftdownclass
@@ -767,7 +768,7 @@ narasi.tv##.max-xl\:hidden.top-24.left-0.fixed.z-10
 narasi.tv##.mb-4.bg-\[\#e3e3e3\]
 inibaru.id##.mb-4.bg-grey.text-center
 insertlive.com##.mb-6.lg\:top-\[76px\].sm\:top-\[90px\].sticky > center
-tempo.co##.mb-6.m-auto.right-0.left-0.max-w-\[470px\].relative.h-\[250px\].w-full
+.co##.mb-6.m-auto.right-0.left-0.max-w-\[470px\].relative.h-\[250px\].w-full
 nova.grid.id##.mb-\[60px\].giant_2-wrapper.relative
 parapuan.co##.mb3.gpt-ad-head-wrapper.widget
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com,mamikos.com##.megabillboard
@@ -795,7 +796,7 @@ inilah.com##.mui-style-1q8992d.MuiList-padding.MuiList-root > div.mui-style-0.Mu
 inilah.com##.mui-style-za8aav
 nova.grid.id##.mx-\[150px\].mb-\[40px\].gap-\[40px\].grid-cols-12.grid > .col-span-4 > .mb-\[60px\].giant_1-wrapper.relative
 inibaru.id##.mx-auto.h-\[250px\].w-\[300px\].dark\:bg-ib-dark-800.bg-slate-100
-tempo.co##.mx-auto.lg\:w-\[728px\]
+.co##.mx-auto.lg\:w-\[728px\]
 kompas.com##.native-wrap
 dream.co.id##.nativescrollingKLYsticky-inner-video-iframe
 ns21.tv##.navbar-brand.bot
@@ -815,14 +816,14 @@ kompas.com##.ol_big_inner
 kompas.com,kompasiana.com,sonora.id##.osmplaceonsite.ads-partner-wrap
 detik.com##.otp_banner_close
 dutaislam.com##.outer-wrapper:style(margin-top:60px!important;)
-tempo.co##.overflow-hidden.my-6
+.co##.overflow-hidden.my-6
 inibaru.id##.overflow-hidden.right-0.top-32.sticky.h-\[600px\].w-\[160px\].dark\:bg-ib-dark-800.bg-slate-100.lg\:block.hidden
 tribunnews.com##.ovh[style="width:468px;height:60px"]
 my-best.com##.p-press__ad
 cnnindonesia.com,detik.com,haibunda.com,insertlive.com##.paradetail
 kaidah.id,republika.co.id##.parallax
 idntimes.com,sindonews.com##.parallax-ad
-gooto.com,tempo.co##.parallax-box
+gooto.com,.co##.parallax-box
 infopublik.co,tangerangnews.co.id,tribunrakyat.com##.parallax.billboard
 haibunda.com##.parallax1
 republika.co.id##.parallax__container
@@ -864,7 +865,7 @@ grid.id##.relative.below_photo
 halodoc.com##.relative.block
 kompas.id##.relative.flex.justify-center.py-2.bg-white
 grid.id##.relative.skycrapper
-tempo.co##.remp-banner
+.co##.remp-banner
 tribunnews.com##.reserved_box_ads
 unixmen.com##.reveal-modal-bg
 mamikos.com##.room-list__card:has(.rc-photo__icon--promo)
@@ -1003,7 +1004,7 @@ tirto.id##[id^="gpt-inline"]
 cubmu.com##[id^="rubiconTag"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_"]
 idfl.me##[id^="yui-gen"].postcontainer
-tempo.co##[src="/_ipx/_/close.png"]
+.co##[src="/_ipx/_/close.png"]
 kompas.com##[src^="https://adsimg.kompas.com"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 katadata.co.id##[style="height:0; min-height:180px;"]
@@ -1040,8 +1041,8 @@ anoboy.*###popup_box
 anoboy.*##[href="https://mbob.uk/qqholic"]
 anoboy.*##[href="https://tinyurl.com/anoboyvip"]
 anoboy.*##[href^="https://bit.ly/"]
-tempo.co##article .w-\[300px\].overflow-hidden
-tempo.co##article .w-full.h-\[250px\].max-w-\[470px\].relative
+.co##article .w-\[300px\].overflow-hidden
+.co##article .w-full.h-\[250px\].max-w-\[470px\].relative
 tafsirweb.com##article:nth-of-type(2) > div:nth-of-type(3)
 baladfilm.*###floating_banner_top1
 baladfilm.*##[href^="https://bit.ly/"]
@@ -1054,7 +1055,7 @@ investor.id##body > .w-100.d-flex
 parcelsapp.com##body > div:nth-of-type(2)
 detik.com##body > div[id^="div-gpt-ad-"]
 intip24news.com##body.sticky-header:style(padding: unset!important;)
-tempo.co##body:remove-class(pad-apps)
+.co##body:remove-class(pad-apps)
 juragan.film##body:style(overflow: auto !important; position: unset !important; pointer-events: auto !important;)
 gigapurbalingga.net,kuyhaa-me.com,lk21official.cc##center
 cosmicscans.*###floatcenter
