@@ -188,7 +188,6 @@ olx.co.id###baxter-ads-details-left
 olx.co.id###baxter-ads-details-middle
 olx.co.id###baxter-ads-details-middle-bottom
 olx.co.id###baxter-ads-details-top
-tempo.co##div.lg\:container
 olx.co.id###baxter-ads-results-top
 jalantikus.com###beforeDaftarIsimobilead300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphFirstad300container00div-gpt-ad-1569380311053-0
@@ -1070,6 +1069,7 @@ herworld.co.id##div.ads-belt
 nextren.grid.id##div.banner-r
 bolasport.com##div.content_footer--list:nth-of-type(2)
 yasir252.com##div.label-link-btn
+tempo.co##div.lg\:container
 nova.grid.id##div.mb-\[60px\].giant_1-wrapper.relative:nth-of-type(1)
 nova.grid.id##div.mb-\[60px\].giant_1-wrapper.relative:nth-of-type(3)
 inilah.com##div.mui-style-b34tjk
