@@ -249,7 +249,6 @@ gadgetren.com###footer_sticky_inside
 mamikos.com###footer_stickyexp
 manganime.live###ftads
 mangaku.site###ftadsth
-nimegami.*##div[class^="iklan_banner"]
 nusantaratv.com###google_ads_2
 kontan.co.id###halfpage-ads
 layarkaca21.com,lk21.org###hbanner
@@ -1185,6 +1184,7 @@ movieku.*##.adsx
 movieku.*##.kln
 movieku.*##.teaser3
 movieku.*##[href^="https://heylink.cam/"]
+nimegami.*##div[class^="iklan_banner"]
 nimeindo.*,awsubs.*##div#popupAd
 nontonanimeid.*##.banner_player
 nontonanimeid.*##.floating_footer
