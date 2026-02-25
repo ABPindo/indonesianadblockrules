@@ -989,7 +989,6 @@ rbtv77.im##[href^="https://a.jalalivetv.info/"]
 gudangmovies21.cfd,mangakita.id,mangakita.net,manganime.in,movieajip.online##[href^="https://bit.ly/"]
 01ntn.cc##[href^="https://goratu.site"]
 tv.lk21official.world##[href^="https://klik4.me/dunia21"]
-kiryuu03.com##div[class*="ads-header"]
 dailypost.id##[href^="https://lynk.id/dailypost.id"]
 lewat.club##[href^="https://manjur.id/search.php"]
 dailypost.id##[href^="https://wa.me"]
@@ -1085,6 +1084,7 @@ medcom.id##div.skycrapper.banner
 cnbcindonesia.com##div.undefined
 kompas.com##div:has( > #gpt-passback)
 katadata.co.id##div:has( > [id^="div-gpt-ad"][class^="paralax"])
+kiryuu03.com##div[class*="ads-header"]
 wolipop.detik.com##div[data-ads]
 kuyhaa.me##div[data-nosnippet] a[target="_blank"] input[type="image"]
 tokopedia.com##div[data-ssr="findProductSSR"]:has(span[data-testid="lblTopads"])
