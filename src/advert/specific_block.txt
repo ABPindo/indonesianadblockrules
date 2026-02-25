@@ -137,11 +137,13 @@
 ||serunonton.*/wp-content/uploads/*.gif$image
 ||shinigami.*/auto/*$image
 ||shrinkads.com/js/xe.js$script
+||shopee.co.id^$popup,domain=nimegami.*|berkasdrive.*
 ||snacklink.id/js/web-script.js$script,third-party
 ||solopos.com/banner/
 ||statically.io/*.ttgambar.xyz/*.jpg$popup
 ||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
+||t.co^$popup,domain=nimegami.*|berkasdrive.*
 ||tajir.la/komikcast$popup
 ||tamuvip.*^$popup
 ||tempo.co/*/img/temporary/ads/$image
