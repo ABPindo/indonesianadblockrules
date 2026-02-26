@@ -893,8 +893,6 @@ ninemanga.com##.sitemaji_banner
 grid.id##.skin_ads
 detik.com##.skinad_1
 detik.com##.skinad_2
-detik.com##[data-ads]
-detik.com##body.hasBillboard:style(padding-top:0 !important;)
 katadata.co.id##.skinads
 tirto.id##.skinner-left
 tirto.id##.skinner-right
@@ -971,6 +969,7 @@ jalantikus.com##[class^="ad-"][class*="-container"]
 kompas.tv##[class^="ads-"]
 emitennews.com##[class^="ads-space-"]
 wisatalova.com##[class^="wisat-"]
+detik.com##[data-ads]
 kumparan.com##[data-qa-id="desktop-article-page-below-images"]:has(span:has-text(/ADVERTISEMENT/i))
 kumparan.com##[data-qa-id^="desktop-article-page-billboard-"]
 kumparan.com##[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
@@ -1056,6 +1055,7 @@ bioskopkeren.*###top-banner
 investor.id##body > .w-100.d-flex
 parcelsapp.com##body > div:nth-of-type(2)
 detik.com##body > div[id^="div-gpt-ad-"]
+detik.com##body.hasBillboard:style(padding-top:0 !important;)
 intip24news.com##body.sticky-header:style(padding: unset!important;)
 tempo.co##body:remove-class(pad-apps)
 juragan.film##body:style(overflow: auto !important; position: unset !important; pointer-events: auto !important;)
