@@ -893,6 +893,8 @@ ninemanga.com##.sitemaji_banner
 grid.id##.skin_ads
 detik.com##.skinad_1
 detik.com##.skinad_2
+detik.com##[data-ads]
+detik.com##body.hasBillboard:style(padding-top:0 !important;)
 katadata.co.id##.skinads
 tirto.id##.skinner-left
 tirto.id##.skinner-right
