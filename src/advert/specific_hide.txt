@@ -58,6 +58,8 @@ matamata.com##.wrap-ads-r
 beritasatu.com##div.pt-0.mt-0.mb-3
 beritasatu.com##header > div:nth-of-type(1)
 ! Grid Networks
+grid.id##.pushdown-banner
+grid.id##.ads_below_photo-wrapper
 grid.id,gridhype.id,gridpop.id###bottom-banner
 grid.id,juara.net###div-Inside-MediumRectangle
 parapuan.co###div-Inside-MediumRectangle2
