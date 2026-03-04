@@ -35,6 +35,9 @@ suara.com##[id^="berita-terkait-"]
 suara.com##[id^="desktop-native-"]
 suara.com##div.placeholder_pariwara
 !
+bolatimes.com,guideku.com,matamata.com,suara.commobimoto.com,himedik.com,dewiku.com###div-ad-skin_right
+bolatimes.com,guideku.com,matamata.com,suara.commobimoto.com,himedik.com,dewiku.com##.placeholder_read_body
+bolatimes.com,guideku.com,matamata.com,suara.com,mobimoto.com,himedik.com,dewiku.com##.placeholder_belt
 dewiku.com,guideku.com,himedik.com,hitekno.com,mobimoto.com###close-ads-bottom
 bolatimes.com,guideku.com,hitekno.com,matamata.com##.adds-top.add
 metrotvnews.com##.ads-large-leaderboard
