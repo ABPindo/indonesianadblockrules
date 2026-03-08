@@ -1,9 +1,4 @@
 ! Title: ABPindo – Annoyances - Filter annoyances (elemen UI yang mengganggu seperti popup/overlay non iklan dan pemutar video otomatis)
-kumparan.com##div[class*="ModalOverlay"]
-kumparan.com##div[class*="ModalContent"]
-kumparan.com##div[class*="Modalweb__"]
-kumparan.com##button[data-qa-id="close"]
-kumparan.com##+js(set, body.style.overflow, visible !important)
 tribunnews.com###banner_article_slide
 tvonenews.com###btt
 grid.id###button-scroll-top
@@ -14,6 +9,7 @@ koran-jakarta.com###popupModal
 antaranews.com###scroll-top
 medcom.id###stickshare
 kompas.com##+js(aeld, scroll, kgSticky)
+kumparan.com##+js(set, body.style.overflow, visible !important)
 kompasiana.com##.align-center.floatingWrap
 hariantimes.com##.banner-content
 bloombergtechnoz.com##.banner-fix-bottom
@@ -76,7 +72,11 @@ suara.com##.tap-banner
 tribunnews.com##.tapp-banner
 quran.nu.or.id##.w-full.relative
 inews.id##.widgetNewsTV__news24Jam
+kumparan.com##button[data-qa-id="close"]
 bloombergtechnoz.com##div:nth-of-type(5)
+kumparan.com##div[class*="ModalContent"]
+kumparan.com##div[class*="ModalOverlay"]
+kumparan.com##div[class*="Modalweb__"]
 kompas.tv,sonora.id##kgnw-middle-player
 ! adult
 dutasex.*##.channel-icon-Telegram.chaty-icon

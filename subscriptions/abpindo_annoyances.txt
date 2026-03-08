@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202603061348
+! Version: 202603081359
 ! Title: ABPindo - Annoyances
 ! Description: Filter tambahan untuk ABPindo berupa elemen UI yang mengganggu seperti popup/overlay non iklan atau pemutar video otomatis pada situs berbahasa Indonesia.
-! Last modified: 06 Mar 2026 13:48 UTC
+! Last modified: 08 Mar 2026 13:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -23,6 +23,7 @@ koran-jakarta.com###popupModal
 antaranews.com###scroll-top
 medcom.id###stickshare
 kompas.com##+js(aeld, scroll, kgSticky)
+kumparan.com##+js(set, body.style.overflow, visible !important)
 kompasiana.com##.align-center.floatingWrap
 hariantimes.com##.banner-content
 bloombergtechnoz.com##.banner-fix-bottom
@@ -85,7 +86,11 @@ suara.com##.tap-banner
 tribunnews.com##.tapp-banner
 quran.nu.or.id##.w-full.relative
 inews.id##.widgetNewsTV__news24Jam
+kumparan.com##button[data-qa-id="close"]
 bloombergtechnoz.com##div:nth-of-type(5)
+kumparan.com##div[class*="ModalContent"]
+kumparan.com##div[class*="ModalOverlay"]
+kumparan.com##div[class*="Modalweb__"]
 kompas.tv,sonora.id##kgnw-middle-player
 ! adult
 dutasex.*##.channel-icon-Telegram.chaty-icon
