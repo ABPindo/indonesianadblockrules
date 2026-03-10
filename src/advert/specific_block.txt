@@ -1,4 +1,5 @@
-.gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu03.*|komikcast.*|kuramanime.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|shinigami09.com|winbu.*
+.gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.to|kiryuu03.*|komikcast.*|kuramanime.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|shinigami09.com|winbu.*
+.webp$image,domain=kiryuu.to
 /gif-*.webm^$image,domain=maroonbellsmorris.org
 ||1cak.com/shopee
 ||adsafelink.com/js/webscript.js$script,third-party
@@ -158,7 +159,5 @@
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-.gif$domain=kiryuu.to,image
-.webp$domain=kiryuu.to,image
 ! Miscellanous popups
 *$popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
