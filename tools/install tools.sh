@@ -9,4 +9,7 @@ pip install adblock-decoder
 #This is a simple tool that checks adblock filtering rules for dead domains.
 npm i -g @adguard/dead-domains-linter
 
+#FOP - Filter Orderer and Preener (Rust Edition)
+npm install -g fop-cli
+
 read -p "Press any key to resume ..."

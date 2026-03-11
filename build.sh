@@ -1,7 +1,9 @@
 #!/bin/bash
 
-# Orderer and Preener
-python tools/FOP.py
+# FOP - Filter Orderer and Preener (Phyton Edition)
+#python tools/FOP.py
+# FOP - Filter Orderer and Preener (Rust Edition)
+fop -n src/
 
 # render it and save it into
 flrender -i abpindo=. abpindo.template subscriptions/abpindo.txt
