@@ -3,7 +3,6 @@
 ||adsafelink.com/js/webscript.js$script,third-party
 ||angel.exabytes.com.my/banners/
 ||anibatch.*/wp-content/uploads/*.gif$image
-||anichin.my.id/wp-content/uploads/*.gif$image
 ||animeindo.*/wp-content/uploads/*.gif$image
 ||animeinweb.com/api/proxy/data/ads/show$~third-party,xmlhttprequest
 ||animeku.*/public/vid/huskypres.mp4$media
@@ -26,7 +25,6 @@
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
 ||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script
-||cdn.staticaly.com/gh/sotazer/sotazone/*/kurazoneAdblock.js
 ||comotin.com/wp-content/uploads/*.gif$image
 ||conan.id/wp-content/uploads/2018/*.gif$image
 ||desustream.me/banner/$image
@@ -53,8 +51,6 @@
 ||eramuslim.com/banners
 ||fansubupdate.com/res/img/sampleads/
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
-||forumkami.net/ad125x125/
-||forumkami.net/ad200x50/
 ||gets.kadal.club/js/getlinkz.js$script,domain=alex71.com
 ||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com|manhwaindo.id
 ||gudangmovies21.*/wp-content/uploads/*.gif$image
@@ -98,7 +94,6 @@
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||mangacanblog.com/adblock/src/adblock-checker.js
-||mangaku.web.id/Gambar/Ads720.html
 ||mediaindonesia.com/ajax/banners
 ||mediaindonesia.com/files/banners/
 ||mediaindonesia.com/public/banner/flash/
@@ -148,7 +143,6 @@
 ||tribunnews.com/stylesheets/close.gif
 ||ttgambar.xyz$popup
 ||tvkabel.net/prom/*.gif$image
-||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||wsmwidget.mediaprimalabs.com^$domain=bharian.com.my|hmetro.com.my
 ||yourjavascript.com/0653544211/lompatin.js

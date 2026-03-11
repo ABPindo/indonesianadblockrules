@@ -78,7 +78,6 @@
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
 ||topsurfer.com^$third-party
-||traditionallyobjectlessblinked.com^$popup
 ||u-ad.info^
 ||u-on.eu^$popup,third-party
 ||uadexchange.com^$third-party
@@ -98,7 +97,6 @@
 ||baliadv.com^$third-party
 ||brand.ad^$third-party
 ||caribanner.bid^$third-party
-||craydark.pw^$third-party
 ||dairouzy.net^$popup
 ||doathair.com^$third-party
 ||edomz.com^$third-party
@@ -109,11 +107,9 @@
 ||istana-impian2.com^$popup,third-party
 ||iwtserve.com^$popup
 ||jagoiklan.com^$third-party
-||jillsclickcorner.com^$third-party
 ||lokeriklan.com^$third-party
 ||mousheen.net^$third-party
 ||octafx.com^$popup,third-party
-||pheersie.com^$popup
 ||promobagus.com^$third-party
 ||pusatiklan.com^$third-party
 ||qprskl.com^
@@ -121,6 +117,5 @@
 ||sebar.idblognetwork.com^$third-party
 ||shqbsdjatunl.com^$popup
 ||sumberiklan.com^$third-party
-||ueuodgnrhb.com^$popup
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party

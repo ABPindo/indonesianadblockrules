@@ -206,7 +206,7 @@ log.viva.co.id###bottomframe-ad
 kompas.com###box-zone_osm
 wartakota.tribunnews.com###boxleft > .mb20
 tribunnews.com###boxright [style="width:300px; height:250px;"]
-benfile.com,blifnews.com,mangacanblog.com,mangakita.net,mangaku.web.id,semuaberita.com###btm_banner
+benfile.com,blifnews.com,mangacanblog.com,mangakita.net,semuaberita.com###btm_banner
 mp4.youvid.org###center-banner
 mangacanblog.com###close
 ayobandung.com,ayojakarta.com,hops.id,jawapos.com,pikiran-rakyat.com,resepkoki.id###cont-megabillboard
@@ -238,7 +238,7 @@ kontan.co.id###fixslowshow
 bahasteknologi.com###fkdl[href]
 anixverseone.com###floatads1
 komikstation.com###floatbanner
-ainzscans.net,animexin.xyz,anixlife.xyz,bgibola.com,cosmic345.co,isekaisubs.web.id,kazefuri.info,kmvs03.com,nekokun.my.id,novascans.id###floatcenter
+ainzscans.net,animexin.xyz,bgibola.com,cosmic345.co,isekaisubs.web.id,kazefuri.info,kmvs03.com,nekokun.my.id,novascans.id###floatcenter
 northridgeautospa.com###floating_banner_bot2
 bk21.top###floating_banner_bottom
 blogspot.com###floating_banner_bottom2
@@ -255,7 +255,7 @@ mangaku.site###ftadsth
 nusantaratv.com###google_ads_2
 kontan.co.id###halfpage-ads
 layarkaca21.com,lk21.org###hbanner
-bioskopkeren.beauty,bioskopkeren.bond,bioskopkeren.sbs###headads
+bioskopkeren.sbs###headads
 sindonews.com#@##header-ads
 indosiar.com###headerbanner
 destinasiwisatamu.blogspot.com###headlineatas
@@ -296,7 +296,7 @@ sindonews.com###me-div-gpt-ad-parallax
 sindonews.com###me-div-gpt-ad-stickyad
 detik.com###megabillboard-desktop
 dapurpacu.com###mid-banner
-ganool.watch,tv4.terbit21.im###middle-banner
+ganool.watch###middle-banner
 fastdrama.co,hkfree.co###modal
 katadata.co.id###modalAdsPopup
 ketik.co.id###modalPopup
@@ -318,7 +318,6 @@ inews.id###parallax-ad
 haibunda.com###parallaxdetail
 eramuslim.com###peluang
 indoxx1.com###player-side-right
-dramamu.net###popup_content
 tirto.id###premium
 pikiran-rakyat.com###prmn__megabillboard
 tafsirweb.com###promo-after
@@ -340,11 +339,11 @@ harianjogja.com,solopos.com###solopos_float
 detik.com###sto_banner
 cinemaindo.com,film-ganool.com,filmroster.online,isekaisubs.web.id,luciferdonghua.in,mangashiro.net,realmscans.com###teaser1
 cinemaindo.com,film-ganool.com,ganool.nl,ganool.ph,isekaisubs.web.id,luciferdonghua.in,realmscans.com###teaser2
-animasu.cc,animexin.xyz,ganool.nl,ganool.ph,kiryuu.org,layarbiru21.com,lmanime.com,luciferdonghua.in,mangaindo.me,mangakita.id,mangakita.net,realmscans.com###teaser3
+animasu.cc,animexin.xyz,ganool.nl,ganool.ph,kiryuu.org,lmanime.com,luciferdonghua.in,mangaindo.me,mangakita.id,mangakita.net,realmscans.com###teaser3
 kiryuu01.com,manhwaindo.one###teaserbottom
 hotabis.com###text-28 > .textwidget
 indotelko.com###title_kanal
-bioskopkerenin.com,ganool.watch,kebioskop21.com,lk21.web.id###top-banner
+bioskopkerenin.com,ganool.watch,kebioskop21.com###top-banner
 orami.co.id###top-banner-parallax
 indoxxi.tv###top-bnner-content
 pewarta.co.id###top_ad_content
@@ -458,17 +457,16 @@ inews.id##.ads_sticky_footer
 chordtela.com##.adsbawahjudul
 chordtela.com##.adsbawahposting
 cantika.com##.adsbottom-new
-nama.web.id,narasi.tv,novelgo.id,otospeedcar.com,paraedu.id,radarlombok.co.id##.adsbygoogle
+narasi.tv,novelgo.id,otospeedcar.com,paraedu.id,radarlombok.co.id##.adsbygoogle
 pontianakpost.co.id##.adsense
 gamebrott.com##.adsense-header-in-article
 cinemaindo.com##.adstops
-mangaku.in,mangaku.site,mangaku.web.id##.adv
-dramacool.io,dramanice.io,k-vid.com##.adv-space
+mangaku.in,mangaku.site##.adv
+dramanice.io,k-vid.com##.adv-space
 teknoup.com##.advertisement_box1
 teknoup.com##.advertisement_box2
 ceklist.id##.affcoups
 kompas.tv##.alert
-indoxtream.com##.aligncenter
 palingseru.com##.alignnone.size-large.wp-image-458
 serialmovieislami.com##.alignnormal
 autonetmagz.com##.anm__flying--ads-holder
@@ -591,7 +589,6 @@ inilah.com##.bt-g1.b-g3.wb-300x100
 inilah.com##.bt-g1.b-g3.wb-300x250
 femaledaily.com##.btn_ads_close_top_frame
 gigapurbalingga.cc##.button-container
-tetew.info##.c-message > div:nth-of-type(1)
 animekompi.web.id##.cads
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
@@ -721,7 +718,6 @@ kompas.id##.items-center.justify-center.flex.relative.w-full.lg\:min-h-\[132px\]
 gridoto.com##.js-ads-stick
 motorplus-online.com,sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
 tempo.co##.justify-center.gap-2.flex.text-xs.text-neutral-900
-indoxxi.bz##.jwseed
 nobartv.com##.jx-ads.nobar-ads
 kaskus.co.id##.kasad-h
 kgnow.com##.kcm
@@ -965,7 +961,6 @@ idntimes.com##.wrapper-megabillboard
 mamikos.com##[class$="-item__room"]:has(.rc-photo__icon--promo)
 jawapos.com##[class$="__disclaimer"]
 kontan.co.id##[class*="heightads"]
-pojokmanga.org##[class*="popmake"]
 s.id##[class^="AdUnit"]
 astroawani.com##[class^="Advertisement_ads_container"]
 jalantikus.com##[class^="ad-"][class*="-container"]
@@ -1022,7 +1017,7 @@ mypt3.com##a[href][target="_blank"] > img
 lk21official.co##a[href][target="_blank"][rel="nofollow"] > img[src$=".gif"]
 timesindonesia.co.id##a[href^="//ads-track.times.co.id"]
 bagas31.com##a[href^="http://anizan.slask.pl/go.php"]
-01nonton.com,bioskop45.com,drakorindo.tv,idbioskop.com,indomv.net,nekopoi.care,nonton33.net,nonton789.com,nontonsub.com,sukamovie.mobi,zonabola.id##a[href^="http://bit.ly/"]
+01nonton.com,bioskop45.com,drakorindo.tv,idbioskop.com,indomv.net,nekopoi.care,nonton33.net,nonton789.com,nontonsub.com,zonabola.id##a[href^="http://bit.ly/"]
 kazefuri.web.id##a[href^="http://cocobet."]
 nontoncinema.org##a[href^="http://referral."]
 hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
@@ -1209,7 +1204,7 @@ oploverz.*##.bg-opacity-70.bg-black.rounded-lg
 oploverz.*##.kln
 oploverz.*##div[class^="fixed"]
 otakudesu.*###overplay
-cloud.majalahhewan.com##p:has( > a[href="#downloadnow"])
+! commented out by dead-domains-linter: cloud.majalahhewan.com##p:has( > a[href="#downloadnow"])
 herworld.co.id##p:nth-of-type(2)
 playeriframe.*##.message-box
 rebahin21.*###floating-banner
