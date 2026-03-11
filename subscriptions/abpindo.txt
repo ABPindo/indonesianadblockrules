@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202603111255
+! Version: 202603111303
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 11 Mar 2026 12:55 UTC
+! Last modified: 11 Mar 2026 13:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9439,11 +9439,11 @@ totojitu.gif|$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
 ! 
-krucil.com,krucil.net###KD_adpB
+krucil.com###KD_adpB
 urlkontolin.click###adblock-modal
 cctvbokep.bet,cctvbokep.help,dutasex.bio,dutasex.com,dutasex.top,inibokep.bet###ads
 bintangmawar.net###bmpop_adpB
-javsubindo.my,javsubindo.site###btm_banner
+javsubindo.site###btm_banner
 krx18.com###dynamic-image[alt=""]
 unyil.net###float-atas
 hencop.com,hencop.lol,heppinn.id,indodb21.com,nontonhentai.net###floatcenter
@@ -9452,10 +9452,9 @@ minioppai.org###overplay
 iyottube.co,iyottube.com###playerOverlay
 javbabe.net###popup
 mlyuk.pro###popupBanner
-filmjepangku.com###popupOverlay
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
-bk21.yachts,heppinn.id,komik18.art,komikcast02.com,komikdewasa.art,komikdewasa.com,komikdewasa.me,komikmanhwa.me,komikremaja.com,kumapoi.me,manhwaindo.cfd,manhwaindo.com###teaser3
+bk21.yachts,heppinn.id,komikcast02.com,komikdewasa.art,komikdewasa.com,komikdewasa.me,komikremaja.com,kumapoi.me,manhwaindo.cfd,manhwaindo.com###teaser3
 hencop.lol,komikcast02.com###teaser4
 hencop.com###teaser7
 sange.link##.Dvr-B
@@ -9475,8 +9474,8 @@ indoporn.pro##.full-brkas-container
 dicrotin.fun##.happy-section
 indobokep.pro##.header-banner
 viexx.com##.info-banner
-filmjepangku.com,filmjepangku.net,hencop.lol,heppinn.id,javsubid.com,javsubindo.my,javsubindo.site,komikcast02.com,mangasusuku.com,manhwaland.mom,manhwalist.com,pascol.com,sintube.icu##.kln
-krucil.com,krucil.net##.krucil_ads
+filmjepangku.net,hencop.lol,heppinn.id,javsubid.com,javsubindo.site,mangasusuku.com,manhwaland.mom,manhwalist.com,pascol.com,sintube.icu##.kln
+krucil.com##.krucil_ads
 manadobaswara.com##.manado-widget
 javdesu.tv##.overflow-hidden.w-full.aspect-\[728\/90\].relative
 buahmangga.com,gocrot.me,gocrot.org,semprot.com##.popup-cr7
@@ -9484,16 +9483,14 @@ indo18plus.com##.promo-videos
 18subindo.com##.request-warning-bubble
 sebokep.com##.sg-popup-builder-content
 nomat.site##.show.popup
-kiyowo.sbs,pascol.com,sintube.icu,starjepang.live##.teaser3
+kiyowo.sbs,pascol.com,sintube.icu##.teaser3
 dicrotin.fun,indoxes.wisatabkpindo.com##.video-block-happy
 dicrotin.fun##.video-block-happy-absolute
 realthaisluts.com##.video-list-ads
 komikdewasa.art##.wp-image-80765.size-full.alignnone
-bokepid.wiki##[class^="xnxx5-"]
 doujindesu.tv##a[href][target="_blank"] > img
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nokephub.com##a[href^="https://genec77.space/"]
-komikmanhwa.me##a[href^="https://klik.fun/"]
 manhwadesu.org##a[href^="https://klik.gg/"]
 slurr.my.id##a[href^="https://scratchy-trick.com/"]
 18subindo.com##a[href^="https://tinyurl.com/"]
