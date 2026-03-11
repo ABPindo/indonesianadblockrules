@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202603101310
+! Version: 202603111255
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 10 Mar 2026 13:10 UTC
+! Last modified: 11 Mar 2026 12:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -261,9 +261,7 @@
 _iklan-|$image
 _iklan_|$image
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.org|hrv.okestream365.xyz|kiryuu.to|kiryuu03.*|komikcast.*|kuramanime.*|lk21official.biz|lk21official.live|lk21official.org|mangakita.id|movieajip.online|movieku.fit|nomat.top|nontondrama.*|nontonfilmgratis.club|okestream.us|okestreamtv.com|oploverz.*|shinigami09.com|winbu.*
-.webp$image,domain=kiryuu.to
-/gif-*.webm^$image,domain=maroonbellsmorris.org
+.gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.*|kiryuu.*|kiryuu03.*|komikcast.*|kuramanime.*|mangakita.*|movieku.*|nontondrama.*|okestream.*|oploverz.*|shinigami09.com|winbu.*
 ||1cak.com/shopee
 ||adsafelink.com/js/webscript.js$script,third-party
 ||angel.exabytes.com.my/banners/
@@ -284,9 +282,6 @@ _iklan_|$image
 ||beritabaru.news/sc/detect-click.js
 ||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
-||blogger.googleusercontent.com/img/$image,domain=winbu.*
-||bp.blogspot.com/*.gif$image,domain=anoboy.watch|cinema81.net|drakorindo.com|drakorindo.pro|drakorindo.tv|drakorindofilms.net|duniasex.ws|filmku.net|idkomik.com|kazefuri.me|kazefuri.web.id|kombatch.com|komikcast.com|lk21id.com|mangaindo.net|movie303.com|nekopoi.care|neonime.com|neonime.net|nonton33.com|nonton33.net|nontonfilm21.club|oploverz.in|otakudesu.info|smallencode.com|zonabola.com
-||bp.blogspot.com/*/iklan_landscape.jpg$image,domain=mangacanblog.com
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
 ||cakrawalanews.co.id/images/banner/$image
