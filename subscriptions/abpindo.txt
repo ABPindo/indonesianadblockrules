@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202603111328
+! Version: 202603111445
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 11 Mar 2026 13:28 UTC
+! Last modified: 11 Mar 2026 14:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9375,15 +9375,60 @@ totojitu.gif|$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
 ! 
-18subindo.com##.request-warning-bubble
-18subindo.com##a[href^="https://tinyurl.com/"]
+krucil.com###KD_adpB
+bintangmawar.net###bmpop_adpB
+javsubindo.site###btm_banner
+krx18.com###dynamic-image[alt=""]
+unyil.net###float-atas
+hencop.com,hencop.lol,heppinn.id,indodb21.com,nontonhentai.net###floatcenter
+minioppai.org###overplay
+iyottube.co,iyottube.com###playerOverlay
+javbabe.net###popup
+mlyuk.pro###popupBanner
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
+hencop.lol,komikcast02.com###teaser4
+hencop.com###teaser7
+sange.link##.Dvr-B
+sange.link##.DvrCn
+artisbokep.online##.ab-top-video-banners
+sangetods.net##.active.adde_modal-overlay
+sangetods.net##.adde_modal_detector-show.adde_modal_detector
+mediahiburan.my##.adplaceholder-mrec
+javsubid.com##.ads-jav
+lkprd.fun,lkprd.site##.adshu
+ceritaseksindo.org##.banner-float-bottom
+artisbokep.online##.banner-slide
+theasianparent.com##.bottom-sticky-ad
+dicrotin.fun##.bulletinwp-bulletin-item
 4play.to##.davwheat-ad
+semprot.com,semprotku.com##.f_floating_div_row.f_floating_div
+pinayflex.net##.floating-banner
+indoporn.pro##.full-brkas-container
+dicrotin.fun##.happy-section
+indobokep.pro##.header-banner
+viexx.com##.info-banner
+krucil.com##.krucil_ads
+manadobaswara.com##.manado-widget
+javdesu.tv##.overflow-hidden.w-full.aspect-\[728\/90\].relative
+buahmangga.com,gocrot.me,gocrot.org,semprot.com##.popup-cr7
+indo18plus.com##.promo-videos
+18subindo.com##.request-warning-bubble
+sebokep.com##.sg-popup-builder-content
+nomat.site##.show.popup
+artisbokep.online##.top-banner
+dicrotin.fun,indoxes.wisatabkpindo.com##.video-block-happy
+dicrotin.fun##.video-block-happy-absolute
+realthaisluts.com##.video-list-ads
+komikdewasa.art##.wp-image-80765.size-full.alignnone
+doujindesu.tv##a[href][target="_blank"] > img
+semprot.com,semprotku.com##a[href^="http://bit.ly/"]
+nokephub.com##a[href^="https://genec77.space/"]
+slurr.my.id##a[href^="https://scratchy-trick.com/"]
+18subindo.com##a[href^="https://tinyurl.com/"]
 agenbokep.*##.popbox
 anoboy.*,manhwadesu.org##a[href^="https://klik.gg/"]
 avtubhub.*,urlkontolin.click###adblock-modal
-bintangmawar.net###bmpop_adpB
 bk21.yachts,heppinn.id,komikcast02.com,komikdewasa.*,komikdewasa.art,komikdewasa.com,komikdewasa.me,komikremaja.*,komikremaja.com,kumapoi.me,manhwaindo.*,manhwaindo.cfd,manhwaindo.com,pemersatu.*###teaser3
 bokepvir.*###sticky-banner
 bokepvir.*###sticky-banner-footer
@@ -9391,82 +9436,40 @@ bokepvir.*##.banner-place-footer
 bokepvir.*##.banner-place-top
 bokepvir.*##.widget_block.widget
 bokepvir.*##[href="https://bkpv.online/reffbokepvir"]
-buahmangga.com,gocrot.me,gocrot.org,semprot.com##.popup-cr7
 cctvbokep.bet,cctvbokep.help,dutasex.*,dutasex.bio,dutasex.com,dutasex.top,inibokep.bet,perawanbokep.*###ads
-ceritaseksindo.org##.banner-float-bottom
 dewaporn.*##.happy-header
 dewaporn.*##.happy-header > [href] > .loading
 dewaporn.*##.happy-sidebar
 dewaporn.*##.happy-sidebar > [href] > .loading
 dicrotin.*,nokephub.*##.sgpb-popup-dialog-main-div-wrapper
 dicrotin.*,nokephub.*##.sgpb-popup-overlay
-dicrotin.fun##.bulletinwp-bulletin-item
-dicrotin.fun##.happy-section
-dicrotin.fun##.video-block-happy-absolute
-dicrotin.fun,indoxes.wisatabkpindo.com##.video-block-happy
-doujindesu.tv##a[href][target="_blank"] > img
+nekopoi.care##div[class^="adsgen"] iframe
+nekopoi.care##div[class^="mobileads"]
 drbokep.*##.loaded.ads-50
 filmjepangku.net,hencop.lol,heppinn.id,javsubid.com,javsubindo.site,komik18.*,komikdewasa.*,komikremaja.*,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.mom,manhwalist.com,pascol.*,pascol.com,sintube.icu,skandalpedia.*,starjepang.*##.kln
-hencop.com###teaser7
-hencop.com,hencop.lol,heppinn.id,indodb21.com,nontonhentai.net###floatcenter
-hencop.lol,komikcast02.com###teaser4
 igobokep.*###floatbanner-bottom
-indo18plus.com##.promo-videos
-indobokep.pro##.header-banner
-indoporn.pro##.full-brkas-container
-iyottube.co,iyottube.com###playerOverlay
-javbabe.net###popup
-javdesu.tv##.overflow-hidden.w-full.aspect-\[728\/90\].relative
-javsubid.com##.ads-jav
-javsubindo.site###btm_banner
 kingbokep.*##.md\:flex-row.flex-col.gap-3.flex.mt-3
 kingbokep.*##[grid-area="ads1"]
 kingbokep.*##div.flex.w-full.justify-center.overflow-x-auto
 kingbokep.*##div[style="width:300px;height:250px;z-index:1"]
 kiyowo.sbs,lendirpedia.*,pascol.*,pascol.com,sintube.icu##.teaser3
 komikdewasa.*##.teaser4
-komikdewasa.art##.wp-image-80765.size-full.alignnone
 komikindo.*##.ads a[href]
 komikindo.*##.ads iframe
-krucil.com###KD_adpB
-krucil.com##.krucil_ads
-krx18.com###dynamic-image[alt=""]
 lendirqu.*##.popup-banner
-lkprd.fun,lkprd.site##.adshu
-manadobaswara.com##.manado-widget
-mediahiburan.my##.adplaceholder-mrec
-minioppai.org###overplay
-mlyuk.pro###popupBanner
 nekopoi.*###HTML1
 nekopoi.*###HTML16
 nekopoi.*###HTML19
 nekopoi.*###HTML9
 nekopoi.*##[href^="https://monetag.com/"]
-nekopoi.care##div[class^="adsgen"] iframe
-nekopoi.care##div[class^="mobileads"]
-nokephub.com##a[href^="https://genec77.space/"]
-nomat.site##.show.popup
 pascol.*,sintube.*##.ays-pb-modals
 pemersatu.*##.ad-container
 pemersatu.*##[role="advertisement"]
 pemersatu.*##div.ad iframe
 pemersatu.*##div.ad ins
-pinayflex.net##.floating-banner
-realthaisluts.com##.video-list-ads
 ruangbokep.*,ruangbokep.com,ruangbokep.sbs,streamingbokeponline.*,streamingbokeponline.com###floating_bot
 rumahparaperjaka.*,rumahperjaka.*##.elementor-popup-modal
-sange.link##.Dvr-B
-sange.link##.DvrCn
-sangetods.net##.active.adde_modal-overlay
-sangetods.net##.adde_modal_detector-show.adde_modal_detector
-sebokep.com##.sg-popup-builder-content
-semprot.com,semprotku.com##.f_floating_div_row.f_floating_div
-semprot.com,semprotku.com##a[href^="http://bit.ly/"]
-slurr.my.id##a[href^="https://scratchy-trick.com/"]
-theasianparent.com##.bottom-sticky-ad
-unyil.net###float-atas
 videocrot.*##.ads-720
-viexx.com##.info-banner
 wisatabkpindo.*###Floating-footer-banner
 ! *** abpindo:src/adult/adult_thirdparty.txt ***
 ||172.105.216.174^$popup
