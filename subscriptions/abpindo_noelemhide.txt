@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202603111303
+! Version: 202603111312
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 11 Mar 2026 13:03 UTC
+! Last modified: 11 Mar 2026 13:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -93,7 +93,6 @@
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
 ||topsurfer.com^$third-party
-||traditionallyobjectlessblinked.com^$popup
 ||u-ad.info^
 ||u-on.eu^$popup,third-party
 ||uadexchange.com^$third-party
@@ -113,7 +112,6 @@
 ||baliadv.com^$third-party
 ||brand.ad^$third-party
 ||caribanner.bid^$third-party
-||craydark.pw^$third-party
 ||dairouzy.net^$popup
 ||doathair.com^$third-party
 ||edomz.com^$third-party
@@ -124,11 +122,9 @@
 ||istana-impian2.com^$popup,third-party
 ||iwtserve.com^$popup
 ||jagoiklan.com^$third-party
-||jillsclickcorner.com^$third-party
 ||lokeriklan.com^$third-party
 ||mousheen.net^$third-party
 ||octafx.com^$popup,third-party
-||pheersie.com^$popup
 ||promobagus.com^$third-party
 ||pusatiklan.com^$third-party
 ||qprskl.com^
@@ -136,7 +132,6 @@
 ||sebar.idblognetwork.com^$third-party
 ||shqbsdjatunl.com^$popup
 ||sumberiklan.com^$third-party
-||ueuodgnrhb.com^$popup
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
 ! *** abpindo:src/advert/thirdparty.txt ***
@@ -266,7 +261,6 @@ _iklan_|$image
 ||adsafelink.com/js/webscript.js$script,third-party
 ||angel.exabytes.com.my/banners/
 ||anibatch.*/wp-content/uploads/*.gif$image
-||anichin.my.id/wp-content/uploads/*.gif$image
 ||animeindo.*/wp-content/uploads/*.gif$image
 ||animeinweb.com/api/proxy/data/ads/show$~third-party,xmlhttprequest
 ||animeku.*/public/vid/huskypres.mp4$media
@@ -289,7 +283,6 @@ _iklan_|$image
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
 ||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script
-||cdn.staticaly.com/gh/sotazer/sotazone/*/kurazoneAdblock.js
 ||comotin.com/wp-content/uploads/*.gif$image
 ||conan.id/wp-content/uploads/2018/*.gif$image
 ||desustream.me/banner/$image
@@ -316,8 +309,6 @@ _iklan_|$image
 ||eramuslim.com/banners
 ||fansubupdate.com/res/img/sampleads/
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
-||forumkami.net/ad125x125/
-||forumkami.net/ad200x50/
 ||gets.kadal.club/js/getlinkz.js$script,domain=alex71.com
 ||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com|manhwaindo.id
 ||gudangmovies21.*/wp-content/uploads/*.gif$image
@@ -361,7 +352,6 @@ _iklan_|$image
 ||lytogame.com/images/partner/$third-party
 ||lytogame.com/partner/$third-party
 ||mangacanblog.com/adblock/src/adblock-checker.js
-||mangaku.web.id/Gambar/Ads720.html
 ||mediaindonesia.com/ajax/banners
 ||mediaindonesia.com/files/banners/
 ||mediaindonesia.com/public/banner/flash/
@@ -411,7 +401,6 @@ _iklan_|$image
 ||tribunnews.com/stylesheets/close.gif
 ||ttgambar.xyz$popup
 ||tvkabel.net/prom/*.gif$image
-||uploadboy.com/bannerset/
 ||utusan.com.my/utusan/iklan/
 ||wsmwidget.mediaprimalabs.com^$domain=bharian.com.my|hmetro.com.my
 ||yourjavascript.com/0653544211/lompatin.js
@@ -420,17 +409,16 @@ _iklan_|$image
 ! Miscellanous popups
 *$popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
-onnano.tv##+js(acs, document.addEventListener, popup)
 doroni.me##+js(acs, getComputedStyle, , cpm)
-info.mapsaddress.com,info.vebma.com##+js(aeld, click, linkOpened)
+info.vebma.com##+js(aeld, click, linkOpened)
 moutogami.com##+js(aeld, load, /adblock/i)
 kompas.com##+js(aeld, scroll, kgSticky)
 juraganfilm.ink##+js(aopr, $.magnificPopup.open)
 3gpterbaru.com##+js(aopr, LieDetector)
 sk21.sob4t.xyz##+js(aopr, popup_custom_data)
-bahasteknologi.com,cloud.majalahhewan.com,jenismac.com##+js(nano-sib)
+bahasteknologi.com,jenismac.com##+js(nano-sib)
 mudah.my##+js(no-fetch-if, ads.google.com)
-cloud.majalahhewan.com,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
+thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
 moenime.com##+js(no-fetch-if, trafficbass.com)
 jurnalistekno.id,tutwuri.id##+js(no-xhr-if, googlesyndication)

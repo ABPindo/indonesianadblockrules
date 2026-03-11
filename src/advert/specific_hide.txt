@@ -1206,6 +1206,7 @@ oploverz.*##div[class^="fixed"]
 otakudesu.*###overplay
 ! commented out by dead-domains-linter: cloud.majalahhewan.com##p:has( > a[href="#downloadnow"])
 herworld.co.id##p:nth-of-type(2)
+jpnn.com##section.leaderboard
 playeriframe.*##.message-box
 rebahin21.*###floating-banner
 samehadaku.*###floatbottom
@@ -1216,7 +1217,6 @@ samehadaku.*##.kln
 samehadaku.*##[href^="https://t.ly/"]
 samehadaku.*##div[class*="player-iklan"]
 samehadaku.*##img[style="width: 50%; height: 70px;"]
-jpnn.com##section.leaderboard
 shinigami.*##.bg-base-card:has(img[alt*="-ad-"])
 shinigami09.*###lepopup-popup-13
 shinigami09.*###lepopup-popup-13-overlay
