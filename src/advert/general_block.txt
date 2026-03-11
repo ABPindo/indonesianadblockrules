@@ -60,7 +60,7 @@
 -sponsor-iklan-|$image
 .bid^$popup,third-party
 .biz/iklan/
-.com/iklan/*$image,domain=~persis.or.id
+.com/iklan/$image,domain=~persis.or.id
 .id/ads/
 .id/adv/
 .id/iklan/
