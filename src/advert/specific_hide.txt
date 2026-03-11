@@ -1185,3 +1185,4 @@ terbit21.*###float-bottom-banner
 terbit21.*,terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
 mangakita.me##.kln.blox
+play.youvid.org##.player-overlay
