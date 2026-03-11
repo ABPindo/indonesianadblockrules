@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202603111445
+! Version: 202603111449
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 11 Mar 2026 14:45 UTC
+! Last modified: 11 Mar 2026 14:49 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -2044,6 +2044,8 @@ oploverz.*##div[class^="fixed"]
 ! commented out by dead-domains-linter: cloud.majalahhewan.com##p:has( > a[href="#downloadnow"])
 herworld.co.id##p:nth-of-type(2)
 jpnn.com##section.leaderboard
+mangakita.me##.kln.blox
+play.youvid.org##.player-overlay
 playeriframe.*##.message-box
 rebahin21.*###floating-banner
 samehadaku.*###floatbottom
@@ -9282,6 +9284,7 @@ totojitu.gif|$image
 ##img[alt^="obat pembesar penis" i]
 ##img[alt^="obatpenisalami" i]
 ##img[alt^="olbola" i]
+##img[alt^="onoSlot" i]
 ##img[alt^="oriqq" i]
 ##img[alt^="permainan judi online" i]
 ##img[alt^="poker bola" i]
@@ -9375,7 +9378,11 @@ totojitu.gif|$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
 ! 
+igo-bokep.bond###GLOBAL-ADS-CLOSE
+igo-bokep.bond###GLOBAL-ADS-FLOAT
+igo-bokep.bond###GLOBAL-ADS-OVERLAY
 krucil.com###KD_adpB
+pemersatufun.com###advertisement
 bintangmawar.net###bmpop_adpB
 javsubindo.site###btm_banner
 krx18.com###dynamic-image[alt=""]
@@ -9393,6 +9400,7 @@ sange.link##.Dvr-B
 sange.link##.DvrCn
 artisbokep.online##.ab-top-video-banners
 sangetods.net##.active.adde_modal-overlay
+pemersatu.top##.ad
 sangetods.net##.adde_modal_detector-show.adde_modal_detector
 mediahiburan.my##.adplaceholder-mrec
 javsubid.com##.ads-jav
@@ -9405,13 +9413,16 @@ dicrotin.fun##.bulletinwp-bulletin-item
 semprot.com,semprotku.com##.f_floating_div_row.f_floating_div
 pinayflex.net##.floating-banner
 indoporn.pro##.full-brkas-container
+lendirqu.cam##.happy-header
 dicrotin.fun##.happy-section
 indobokep.pro##.header-banner
 viexx.com##.info-banner
+klipjepang.shop##.kln
 krucil.com##.krucil_ads
 manadobaswara.com##.manado-widget
 javdesu.tv##.overflow-hidden.w-full.aspect-\[728\/90\].relative
 buahmangga.com,gocrot.me,gocrot.org,semprot.com##.popup-cr7
+tantecentil.fans##.popup-overlay
 indo18plus.com##.promo-videos
 18subindo.com##.request-warning-bubble
 sebokep.com##.sg-popup-builder-content

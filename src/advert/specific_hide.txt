@@ -1164,6 +1164,8 @@ oploverz.*##div[class^="fixed"]
 ! commented out by dead-domains-linter: cloud.majalahhewan.com##p:has( > a[href="#downloadnow"])
 herworld.co.id##p:nth-of-type(2)
 jpnn.com##section.leaderboard
+mangakita.me##.kln.blox
+play.youvid.org##.player-overlay
 playeriframe.*##.message-box
 rebahin21.*###floating-banner
 samehadaku.*###floatbottom
@@ -1184,5 +1186,3 @@ shinigami09.*##.lepopup-popup-overlay
 terbit21.*###float-bottom-banner
 terbit21.*,terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
-mangakita.me##.kln.blox
-play.youvid.org##.player-overlay
