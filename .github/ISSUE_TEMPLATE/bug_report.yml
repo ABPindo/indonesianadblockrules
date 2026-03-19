@@ -1,0 +1,95 @@
+name: "Iklan Tidak Terblokir"
+description: Laporkan iklan yang lolos dari pemblokiran ABPindo
+title: "[Iklan] "
+labels: ["bug", "unblocked-ad"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Terima kasih sudah melaporkan! Sebelum melanjutkan, pastikan:
+        - [ ] Masalah ini belum pernah dilaporkan di [Issues](https://github.com/ABPindo/indonesianadblockrules/issues)
+        - [ ] Filter pendamping seperti EasyList dan EasyPrivacy sudah aktif
+        - [ ] Masalah dapat direproduksi secara konsisten
+
+  - type: input
+    id: url
+    attributes:
+      label: URL Halaman
+      description: URL lengkap halaman tempat iklan muncul (bukan URL iklannya)
+      placeholder: https://contoh.com/halaman
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Deskripsi Iklan
+      description: Jelaskan iklan yang lolos — posisi, jenis (banner, popup, video), dan tampilannya
+      placeholder: "Banner iklan berukuran besar muncul di sidebar kanan halaman..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Tangkapan Layar
+      description: Sertakan tangkapan layar yang menunjukkan iklan yang dimaksud
+    validations:
+      required: true
+
+  - type: dropdown
+    id: extension
+    attributes:
+      label: Ekstensi / Software
+      options:
+        - uBlock Origin
+        - uBlock Origin Lite
+        - Brave (native)
+        - AdGuard Browser Extension
+        - Adblock Plus
+        - AdBlock
+        - AdGuard Home
+        - Pi-Hole
+        - Lainnya
+    validations:
+      required: true
+
+  - type: input
+    id: browser
+    attributes:
+      label: Peramban dan Versi
+      placeholder: "Firefox 149, Chrome 124, Brave 1.88, dll."
+    validations:
+      required: true
+
+  - type: textarea
+    id: ublock-support-info
+    attributes:
+      label: uBlock Origin — Support Info (opsional, sangat membantu)
+      description: |
+        Jika menggunakan **uBlock Origin**, salin informasi dari tab Support:
+        1. Klik ikon uBlock Origin → ikon ⚙ (dashboard)
+        2. Buka tab **Support**
+        3. Klik **Select all**, lalu tempel di sini
+
+        Informasi ini membantu kami melihat versi uBlock Origin, filter yang aktif, dan statistik filter Anda secara akurat.
+      placeholder: |
+        uBlock Origin: 1.xx.x
+        Firefox: xxx
+        filterset (summary):
+         network: ...
+         cosmetic: ...
+        listset (total-discarded, last-updated):
+         ...
+      render: shell
+    validations:
+      required: false
+
+  - type: textarea
+    id: active-filters
+    attributes:
+      label: Filter Aktif Lainnya (jika tidak mengisi Support Info di atas)
+      description: Daftar filter selain ABPindo yang aktif
+      placeholder: "EasyList, EasyPrivacy, uBlock filters"
+    validations:
+      required: false

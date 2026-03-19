@@ -12,10 +12,10 @@
   <a href="https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo">
     <img src="https://img.shields.io/badge/Subscribe-ABPindo-blue?style=flat-square" alt="Subscribe ABPindo">
   </a>
-  <a href="https://github.com/ABPindo/indonesianadblockrules/blob/master/LICENSE">
+  <a href="https://github.com/ABPindo/indonesianadblockrules/blob/master/GPL.txt">
     <img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square" alt="License GPL-3.0">
   </a>
-  <a href="https://github.com/ABPindo/indonesianadblockrules/blob/master/LICENSE">
+  <a href="https://github.com/ABPindo/indonesianadblockrules/blob/master/CC-BY-SA.txt">
     <img src="https://img.shields.io/badge/license-CC--BY--SA%203.0-lightgrey?style=flat-square" alt="License CC-BY-SA 3.0">
   </a>
   <a href="https://github.com/ABPindo/indonesianadblockrules/issues">
@@ -52,7 +52,7 @@ ABPindo menggunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/
 
 3. Atau, salin tautan **Raw File** dari tabel di bawah dan tambahkan secara manual melalui pengaturan filter di ekstensi Anda.
 
-> **Catatan untuk pengguna uBlock Origin Lite:** Setel *default filtering mode* ke **Complete** agar semua elemen iklan terblokir. Lihat [panduan lengkapnya di sini](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/docs/455486093-4bc27a5b-6dcb-406d-b46e-13092ece89c8.png).
+> **Catatan untuk pengguna uBlock Origin Lite:** Setel *default filtering mode* ke **Complete** agar semua elemen iklan terblokir. Lihat [panduan lengkapnya di sini](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/wiki/455486093-4bc27a5b-6dcb-406d-b46e-13092ece89c8.png).
 
 > **Masalah jendela pop-up?** Baca [panduan memblokir popup](https://github.com/ABPindo/indonesianadblockrules/wiki/Panduan-Memblokir-Popup) di wiki.
 

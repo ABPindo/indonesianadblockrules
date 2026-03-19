@@ -1,0 +1,61 @@
+name: "Blokir Salah Sasaran (False Positive)"
+description: Laporkan konten atau fitur situs yang terblokir keliru oleh ABPindo
+title: "[False Positive] "
+labels: ["false-positive"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Terima kasih sudah melaporkan! Sebelum melanjutkan, pastikan:
+        - [ ] Masalah hilang saat ABPindo dinonaktifkan sementara
+        - [ ] Masalah ini belum dilaporkan sebelumnya di [Issues](https://github.com/ABPindo/indonesianadblockrules/issues)
+
+  - type: input
+    id: url
+    attributes:
+      label: URL Halaman
+      description: URL lengkap halaman yang terdampak
+      placeholder: https://contoh.com/halaman
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Deskripsi Masalah
+      description: Jelaskan elemen apa yang terblokir keliru (gambar hilang, tombol tidak berfungsi, halaman tidak terbuka, dll.)
+      placeholder: "Gambar produk tidak muncul di halaman daftar produk..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Tangkapan Layar
+      description: Sertakan tangkapan layar sebelum dan sesudah menonaktifkan ABPindo untuk perbandingan
+    validations:
+      required: false
+
+  - type: dropdown
+    id: extension
+    attributes:
+      label: Ekstensi / Software
+      options:
+        - uBlock Origin
+        - uBlock Origin Lite
+        - AdGuard Browser Extension
+        - Adblock Plus
+        - AdBlock
+        - AdGuard Home
+        - Pi-Hole
+        - Lainnya
+    validations:
+      required: true
+
+  - type: input
+    id: browser
+    attributes:
+      label: Peramban dan Versi
+      placeholder: "Firefox 124, Chrome 123, dll."
+    validations:
+      required: true
