@@ -13,7 +13,10 @@
     <img src="https://img.shields.io/badge/Subscribe-ABPindo-blue?style=flat-square" alt="Subscribe ABPindo">
   </a>
   <a href="https://github.com/ABPindo/indonesianadblockrules/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ABPindo/indonesianadblockrules?style=flat-square" alt="License">
+    <img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square" alt="License GPL-3.0">
+  </a>
+  <a href="https://github.com/ABPindo/indonesianadblockrules/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-CC--BY--SA%203.0-lightgrey?style=flat-square" alt="License CC-BY-SA 3.0">
   </a>
   <a href="https://github.com/ABPindo/indonesianadblockrules/issues">
     <img src="https://img.shields.io/github/issues/ABPindo/indonesianadblockrules?style=flat-square" alt="Issues">
