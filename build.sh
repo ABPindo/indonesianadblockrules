@@ -1,43 +1,43 @@
 #!/bin/bash
+# build.sh — Local development build script.
+# For CI/CD, use .github/workflows/autobuild.yml instead.
 
-# FOP - Filter Orderer and Preener (Phyton Edition)
-#python tools/FOP.py
-# FOP - Filter Orderer and Preener (Rust Edition)
-fop -n src/
+set -euo pipefail
 
-# render it and save it into
-flrender -i abpindo=. abpindo.template subscriptions/abpindo.txt
-flrender -i abpindo=. abpindo_extended.template subscriptions/abpindo_extended.txt
-flrender -i abpindo=. abpindo_annoyances.template subscriptions/abpindo_annoyances.txt
-flrender -i abpindo=. abpindo_hosts.template subscriptions/abpindo_hosts.txt
-flrender -i abpindo=. abpindo_hosts_adult.template subscriptions/abpindo_hosts_adult.txt
-flrender -i abpindo=. abpindo_noadult.template subscriptions/abpindo_noadult.txt
-flrender -i abpindo=. abpindo_noelemhide.template subscriptions/abpindo_noelemhide.txt
+REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SUBSCRIPTIONS="$REPO_ROOT/subscriptions"
+TOOLS="$REPO_ROOT/tools"
 
-adblock2hosts --ip 0.0.0.0 -o subscriptions/hosts.txt subscriptions/abpindo_hosts.txt
-adblock2hosts --ip 0.0.0.0 -o subscriptions/hosts_adult.txt subscriptions/abpindo_hosts_adult.txt
+mkdir -p "$SUBSCRIPTIONS"
 
-adblock2plain -o subscriptions/domain.txt subscriptions/abpindo_hosts.txt
-adblock2plain -o subscriptions/domain_adult.txt subscriptions/abpindo_hosts_adult.txt
+echo "==> Running FOP..."
+fop -n "$REPO_ROOT/src/"
 
-adblock2plain -o tools/domain_plain.txt subscriptions/abpindo.txt
-adblock2plain --aggressive -o tools/domain_plain_aggressive.txt subscriptions/abpindo.txt
+echo "==> Building ABP subscriptions..."
+flrender -i abpindo="$REPO_ROOT" "$REPO_ROOT/abpindo.template"             "$SUBSCRIPTIONS/abpindo.txt"
+flrender -i abpindo="$REPO_ROOT" "$REPO_ROOT/abpindo_noadult.template"     "$SUBSCRIPTIONS/abpindo_noadult.txt"
+flrender -i abpindo="$REPO_ROOT" "$REPO_ROOT/abpindo_noelemhide.template"  "$SUBSCRIPTIONS/abpindo_noelemhide.txt"
+flrender -i abpindo="$REPO_ROOT" "$REPO_ROOT/abpindo_annoyances.template"  "$SUBSCRIPTIONS/abpindo_annoyances.txt"
+flrender -i abpindo="$REPO_ROOT" "$REPO_ROOT/abpindo_extended.template"    "$SUBSCRIPTIONS/abpindo_extended.txt"
+flrender -i abpindo="$REPO_ROOT" "$REPO_ROOT/abpindo_hosts.template"       "$SUBSCRIPTIONS/abpindo_hosts.txt"
+flrender -i abpindo="$REPO_ROOT" "$REPO_ROOT/abpindo_hosts_adult.template" "$SUBSCRIPTIONS/abpindo_hosts_adult.txt"
 
-python tools/hosts_to_dnsmasq_address.py subscriptions/hosts.txt subscriptions/dnsmasq.txt
-python tools/hosts_to_dnsmasq_address.py subscriptions/hosts_adult.txt subscriptions/dnsmasq_adult.txt
-python tools/hosts_to_dnsmasq_server.py subscriptions/hosts.txt subscriptions/dnsmasq_server.txt
-python tools/hosts_to_dnsmasq_server.py subscriptions/hosts_adult.txt subscriptions/dnsmasq_adult_server.txt
+echo "==> Building DNS filters..."
+adblock2hosts --ip 0.0.0.0 -o "$SUBSCRIPTIONS/hosts.txt"       "$SUBSCRIPTIONS/abpindo_hosts.txt"
+adblock2hosts --ip 0.0.0.0 -o "$SUBSCRIPTIONS/hosts_adult.txt" "$SUBSCRIPTIONS/abpindo_hosts_adult.txt"
 
-python tools/hosts_to_rpz.py subscriptions/hosts.txt subscriptions/rpz.txt
-python tools/hosts_to_rpz.py subscriptions/hosts_adult.txt subscriptions/rpz_adult.txt
+adblock2plain -o "$SUBSCRIPTIONS/domain.txt"       "$SUBSCRIPTIONS/abpindo_hosts.txt"
+adblock2plain -o "$SUBSCRIPTIONS/domain_adult.txt" "$SUBSCRIPTIONS/abpindo_hosts_adult.txt"
 
-python tools/hosts_to_aghome.py subscriptions/hosts.txt subscriptions/aghome.txt
-python tools/hosts_to_aghome.py subscriptions/hosts_adult.txt subscriptions/aghome_adult.txt
+python3 "$TOOLS/dns_converter.py" --format dnsmasq_address "$SUBSCRIPTIONS/hosts.txt"       "$SUBSCRIPTIONS/dnsmasq.txt"
+python3 "$TOOLS/dns_converter.py" --format dnsmasq_address "$SUBSCRIPTIONS/hosts_adult.txt" "$SUBSCRIPTIONS/dnsmasq_adult.txt"
+python3 "$TOOLS/dns_converter.py" --format dnsmasq_server  "$SUBSCRIPTIONS/hosts.txt"       "$SUBSCRIPTIONS/dnsmasq_server.txt"
+python3 "$TOOLS/dns_converter.py" --format dnsmasq_server  "$SUBSCRIPTIONS/hosts_adult.txt" "$SUBSCRIPTIONS/dnsmasq_adult_server.txt"
+python3 "$TOOLS/dns_converter.py" --format rpz             "$SUBSCRIPTIONS/hosts.txt"       "$SUBSCRIPTIONS/rpz.txt"
+python3 "$TOOLS/dns_converter.py" --format rpz             "$SUBSCRIPTIONS/hosts_adult.txt" "$SUBSCRIPTIONS/rpz_adult.txt"
+python3 "$TOOLS/dns_converter.py" --format aghome          "$SUBSCRIPTIONS/hosts.txt"       "$SUBSCRIPTIONS/aghome.txt"
+python3 "$TOOLS/dns_converter.py" --format aghome          "$SUBSCRIPTIONS/hosts_adult.txt" "$SUBSCRIPTIONS/aghome_adult.txt"
+python3 "$TOOLS/dns_converter.py" --format unbound         "$SUBSCRIPTIONS/hosts.txt"       "$SUBSCRIPTIONS/unbound.txt"
+python3 "$TOOLS/dns_converter.py" --format unbound         "$SUBSCRIPTIONS/hosts_adult.txt" "$SUBSCRIPTIONS/unbound_adult.txt"
 
-python tools/hosts_to_unbound.py subscriptions/hosts.txt subscriptions/unbound.txt
-python tools/hosts_to_unbound.py subscriptions/hosts_adult.txt subscriptions/unbound_adult.txt
-
-#adblock2hosts -o subscriptions/domain.txt subscriptions/abpindo_hosts.txt
-#adblock2hosts -o subscriptions/domain_adult.txt subscriptions/abpindo_hosts_adult.txt
-
-read -p "Press any key to resume ..."
+echo "==> Done. Output: $SUBSCRIPTIONS/"
