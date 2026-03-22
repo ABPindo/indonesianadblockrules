@@ -9,6 +9,7 @@ javsubindo.site###btm_banner
 krx18.com###dynamic-image[alt=""]
 unyil.net###float-atas
 hencop.com,hencop.lol,heppinn.id,indodb21.com,nontonhentai.net###floatcenter
+terviral.cam###lin-floating-ad
 minioppai.org###overplay
 iyottube.co,iyottube.com###playerOverlay
 javbabe.net###popup
@@ -40,6 +41,7 @@ indobokep.pro##.header-banner
 viexx.com##.info-banner
 klipjepang.shop##.kln
 krucil.com##.krucil_ads
+terviral.cam##.lin-ad-header
 manadobaswara.com##.manado-widget
 javdesu.tv##.overflow-hidden.w-full.aspect-\[728\/90\].relative
 buahmangga.com,gocrot.me,gocrot.org,semprot.com##.popup-cr7
@@ -103,5 +105,3 @@ ruangbokep.*,ruangbokep.com,ruangbokep.sbs,streamingbokeponline.*,streamingbokep
 rumahparaperjaka.*,rumahperjaka.*##.elementor-popup-modal
 videocrot.*##.ads-720
 wisatabkpindo.*###Floating-footer-banner
-terviral.cam##.lin-ad-header
-terviral.cam###lin-floating-ad
