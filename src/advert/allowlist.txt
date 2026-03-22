@@ -1,24 +1,24 @@
 ! General Allowlist for Network Filters
 @@||1idsly.com^$generichide
 @@||ad4msan.com^$generichide
+@@||ads.id^$~third-party
+@@||advertising-indonesia.id^$~third-party
 @@||apkmod.id^$generichide
 @@||digitalponsel.com^$elemhide
 @@||dramaencode.com^$generichide
 @@||eirudo.com^$generichide
 @@||gadget2reviews.com^$generichide
+@@||kaze-batch.blogspot.com^$generichide
+@@||majalahikan.com^$generichide
 @@||mivo.com^$generichide
 @@||novelgo.id^$generichide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||sanjayaops.com^$generichide
 @@||tokusatsuindo.com^$generichide
-! Allowlist for Specific Domains
-@@||ads.id^$~third-party
-@@||advertising-indonesia.id^$~third-party
-@@||kaze-batch.blogspot.com^$generichide
-@@||majalahikan.com^$generichide
 ! Allowlist for Element Hiding Filters
-eramuslim.com#@#.adsbygoogle
 adikanime.com#@#.idmuvi-banner-aftercontent
+eramuslim.com#@#.adsbygoogle
+flashbackrecorder.com#@#.elementor-popup-modal
 juragan.film#@#.idmuvi-topbanner
 tokosatu.com#@#.popupflyin-clicks-area
 103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*,layardrama21.beauty,layardrama21.club#@#.idmuvi-topbanner-aftermenu

@@ -1,3 +1,4 @@
+! Image-based ad path patterns
 -Banner-Iklan-GIF-$image
 -banner-iklan-|$image
 -diskon-besar|$image
@@ -44,7 +45,6 @@
 -iklan-view|$image
 -iklan.gif|$image
 -iklan.jpg|$image
--iklan.js|$script
 -iklan789-|$image
 -iklan[0-9]-|$image,script
 -iklan[0-9].|$image,script
@@ -58,23 +58,18 @@
 -slot-iklan-$image
 -slot-iklan|$image
 -sponsor-iklan-|$image
+! Script patterns
+-iklan.js|$script
+! TLD-based popup blockers
 .bid^$popup,third-party
-.biz/iklan/
-.com/iklan/$image,domain=~persis.or.id
-.id/ads/
-.id/adv/
-.id/iklan/
-.info/iklan/
-.me/iklan/
-.my/iklan/
-.net/iklan/
-.tv/iklan/
 .win^$popup,third-party
+! Path patterns — image only
+.com/iklan/$image,domain=~persis.or.id
 /ads/iklan.$image
 /ads/iklan/*$image
 /adv/iklan.$image
 /adv/iklan/*$image
-/assets/iklan/*
+/assets/iklan/*$image
 /banner_iklan/*$image
 /diskon_iklan/*$image
 /foto_iklan/*$image
@@ -90,20 +85,31 @@
 /iklan_upload/*$image
 /iklancpm.$image
 /IklanGIF/*$image
-/images/iklan/*
+/images/iklan/*$image
 /img_iklan/*$image
 /imgiklan/*$image
 /materi_iklan/*$image
 /promo_iklan/*$image
 /promosi-diskon-$image
-/SkinADkanan.
-/SkinADkiri.
-/smartfren/ads.
+/SkinADkanan.$image
+/SkinADkiri.$image
 /snacklinkbanner.png|$image
 /uploads/iklan/*$image
 /usaha-berhasil.gif|$image
-/usahaberhasil.gif|
+/usahaberhasil.gif|$image
 /Waralabakan-Banner-$image
 /xbanner_iklan|$image
 _iklan-|$image
 _iklan_|$image
+! Path patterns — script only
+/smartfren/ads.$script
+! Path patterns — image and stylesheet (skin ads)
+.biz/iklan/$image,stylesheet
+.id/ads/$image,stylesheet,xmlhttprequest
+.id/adv/$image,stylesheet
+.id/iklan/$image,stylesheet
+.info/iklan/$image,stylesheet
+.me/iklan/$image,stylesheet
+.my/iklan/$image,stylesheet
+.net/iklan/$image,stylesheet
+.tv/iklan/$image,stylesheet

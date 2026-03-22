@@ -1,8 +1,7 @@
 ||c-stat.eu^$third-party
-||cfs1.uzone.id^$third-party
 ||ktrackdata.com^$popup,third-party
 ||moneyfree.co^$third-party
-||track.aptitudemedia.co^$popup
+||track.aptitudemedia.co^$popup,third-party
 ||track.zerofriend.com^$popup,third-party
 ||tracker.lazada.co.id^$third-party
 ||trackingclick.net^$third-party
