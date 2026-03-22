@@ -2,6 +2,7 @@ local-zone: "188affiliates.com" always_nxdomain
 local-zone: "accesstrade.co.id" always_nxdomain
 local-zone: "ad-loupe.com" always_nxdomain
 local-zone: "addesigner.com" always_nxdomain
+local-zone: "adeumssp.com" always_nxdomain
 local-zone: "admarketplace.net" always_nxdomain
 local-zone: "adnety.com" always_nxdomain
 local-zone: "adpop-1.com" always_nxdomain
@@ -20,6 +21,7 @@ local-zone: "bellaads.com" always_nxdomain
 local-zone: "berangkasilmu.com" always_nxdomain
 local-zone: "cdnasiaclub.com" always_nxdomain
 local-zone: "cfs.uzone.id" always_nxdomain
+local-zone: "cfs1.uzone.id" always_nxdomain
 local-zone: "cfs2.uzone.id" always_nxdomain
 local-zone: "csf.uzone.id" always_nxdomain
 local-zone: "digiads.co.id" always_nxdomain
@@ -46,6 +48,7 @@ local-zone: "iklantext.com" always_nxdomain
 local-zone: "iklanumum.com" always_nxdomain
 local-zone: "indobanner.com" always_nxdomain
 local-zone: "istana-impian.com" always_nxdomain
+local-zone: "istana-impian2.com" always_nxdomain
 local-zone: "istanaimpian1.com" always_nxdomain
 local-zone: "istanaimpian2.com" always_nxdomain
 local-zone: "istanaimpian3.com" always_nxdomain
@@ -65,6 +68,7 @@ local-zone: "promotioncamp.com" always_nxdomain
 local-zone: "props.id" always_nxdomain
 local-zone: "propsid.b-cdn.net" always_nxdomain
 local-zone: "publish.web.id" always_nxdomain
+local-zone: "qprskl.com" always_nxdomain
 local-zone: "sanglah.com" always_nxdomain
 local-zone: "sarapbeh.com" always_nxdomain
 local-zone: "see-work.info" always_nxdomain
@@ -88,7 +92,6 @@ local-zone: "9eb10b7a3d04a.com" always_nxdomain
 local-zone: "a63t9o1azf.com" always_nxdomain
 local-zone: "abrts.pro" always_nxdomain
 local-zone: "adbsys.icu" always_nxdomain
-local-zone: "adeumssp.com" always_nxdomain
 local-zone: "adplus.co.id" always_nxdomain
 local-zone: "afbcashidr.com" always_nxdomain
 local-zone: "auredzeon.com" always_nxdomain
@@ -102,7 +105,6 @@ local-zone: "filebanner.com" always_nxdomain
 local-zone: "flexterkita.com" always_nxdomain
 local-zone: "fnasmpygwa.com" always_nxdomain
 local-zone: "gaslah.my.id" always_nxdomain
-local-zone: "istana-impian2.com" always_nxdomain
 local-zone: "iwtserve.com" always_nxdomain
 local-zone: "jagoiklan.com" always_nxdomain
 local-zone: "lokeriklan.com" always_nxdomain
@@ -110,7 +112,6 @@ local-zone: "mousheen.net" always_nxdomain
 local-zone: "octafx.com" always_nxdomain
 local-zone: "promobagus.com" always_nxdomain
 local-zone: "pusatiklan.com" always_nxdomain
-local-zone: "qprskl.com" always_nxdomain
 local-zone: "realwap.net" always_nxdomain
 local-zone: "sebar.idblognetwork.com" always_nxdomain
 local-zone: "shqbsdjatunl.com" always_nxdomain
@@ -118,7 +119,6 @@ local-zone: "sumberiklan.com" always_nxdomain
 local-zone: "vkwaeo.com" always_nxdomain
 local-zone: "yllix.com" always_nxdomain
 local-zone: "c-stat.eu" always_nxdomain
-local-zone: "cfs1.uzone.id" always_nxdomain
 local-zone: "ktrackdata.com" always_nxdomain
 local-zone: "moneyfree.co" always_nxdomain
 local-zone: "track.aptitudemedia.co" always_nxdomain

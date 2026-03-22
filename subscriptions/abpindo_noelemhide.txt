@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
-! Version: 202603192202
+! Version: 202603221431
 ! Title: ABPindo - No Element Hiding
-! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia (tanpa element hiding)
-! Last modified: 19 Mar 2026 22:02 UTC
+! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
+! Last modified: 22 Mar 2026 14:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
-! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
+! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
 ! 
-! Please report any unblocked adverts or problems
+! Please report any unblocked adverts or problems:
 ! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
 ! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
 ! 
@@ -18,11 +18,12 @@
 ||accesstrade.co.id^$third-party
 ||ad-loupe.com^$third-party
 ||addesigner.com^$third-party
+||adeumssp.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||adnety.com^$popup,third-party
 ||adpop-1.com^$third-party
 ||adreach.co^$third-party
-||ads.d21.media^
+||ads.d21.media^$third-party
 ||ads.indosatooredoo.com^$third-party
 ||ads.telkomsel.com^$third-party
 ||adsbingo.com^$third-party
@@ -35,9 +36,10 @@
 ||bellaads.com^$third-party
 ||berangkasilmu.com^$third-party
 ||cdnasiaclub.com^$third-party
-||cfs.uzone.id^
-||cfs2.uzone.id^
-||csf.uzone.id^
+||cfs.uzone.id^$third-party
+||cfs1.uzone.id^$third-party
+||cfs2.uzone.id^$third-party
+||csf.uzone.id^$third-party
 ||digiads.co.id^$third-party
 ||etoads.net^$third-party
 ||forumiklan.com^$third-party
@@ -62,6 +64,7 @@
 ||iklanumum.com^$third-party
 ||indobanner.com^$third-party
 ||istana-impian.com^$popup,third-party
+||istana-impian2.com^$popup,third-party
 ||istanaimpian1.com^$popup,third-party
 ||istanaimpian2.com^$popup,third-party
 ||istanaimpian3.com^$popup,third-party
@@ -81,6 +84,7 @@
 ||props.id^$third-party
 ||propsid.b-cdn.net^$third-party
 ||publish.web.id^$third-party
+||qprskl.com^$third-party
 ||sanglah.com^$third-party
 ||sarapbeh.com^$third-party
 ||see-work.info^$popup,third-party
@@ -93,59 +97,56 @@
 ||tinggalklik.com^$third-party
 ||topklik.com^$third-party
 ||topsurfer.com^$third-party
-||u-ad.info^
+||u-ad.info^$third-party
 ||u-on.eu^$popup,third-party
 ||uadexchange.com^$third-party
 ||useads.com^$third-party
 ||webiklan.com^$third-party
 ||yesads.com^$third-party
 ! Potential ad servers
-||64p3am9x95ct.com^$popup
-||9eb10b7a3d04a.com^$popup
-||a63t9o1azf.com^$popup
+||64p3am9x95ct.com^$popup,third-party
+||9eb10b7a3d04a.com^$popup,third-party
+||a63t9o1azf.com^$popup,third-party
 ||abrts.pro^$popup,third-party
-||adbsys.icu^$popup
-||adeumssp.com^
+||adbsys.icu^$popup,third-party
 ||adplus.co.id^$third-party
 ||afbcashidr.com^$popup,third-party
-||auredzeon.com^$popup
+||auredzeon.com^$popup,third-party
 ||baliadv.com^$third-party
 ||brand.ad^$third-party
 ||caribanner.bid^$third-party
-||dairouzy.net^$popup
+||dairouzy.net^$popup,third-party
 ||doathair.com^$third-party
 ||edomz.com^$third-party
 ||filebanner.com^$third-party
 ||flexterkita.com^$third-party
 ||fnasmpygwa.com^$third-party
 ||gaslah.my.id^$third-party
-||istana-impian2.com^$popup,third-party
-||iwtserve.com^$popup
+||iwtserve.com^$popup,third-party
 ||jagoiklan.com^$third-party
 ||lokeriklan.com^$third-party
 ||mousheen.net^$third-party
 ||octafx.com^$popup,third-party
 ||promobagus.com^$third-party
 ||pusatiklan.com^$third-party
-||qprskl.com^
 ||realwap.net^$third-party
 ||sebar.idblognetwork.com^$third-party
-||shqbsdjatunl.com^$popup
+||shqbsdjatunl.com^$popup,third-party
 ||sumberiklan.com^$third-party
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
 ! *** abpindo:src/advert/thirdparty.txt ***
 ||c-stat.eu^$third-party
-||cfs1.uzone.id^$third-party
 ||ktrackdata.com^$popup,third-party
 ||moneyfree.co^$third-party
-||track.aptitudemedia.co^$popup
+||track.aptitudemedia.co^$popup,third-party
 ||track.zerofriend.com^$popup,third-party
 ||tracker.lazada.co.id^$third-party
 ||trackingclick.net^$third-party
 ||traffic-monetizer.com^$third-party
 ||trafficfactory.biz^$popup,third-party
 ! *** abpindo:src/advert/general_block.txt ***
+! Image-based ad path patterns
 -Banner-Iklan-GIF-$image
 -banner-iklan-|$image
 -diskon-besar|$image
@@ -192,7 +193,6 @@
 -iklan-view|$image
 -iklan.gif|$image
 -iklan.jpg|$image
--iklan.js|$script
 -iklan789-|$image
 -iklan[0-9]-|$image,script
 -iklan[0-9].|$image,script
@@ -206,23 +206,18 @@
 -slot-iklan-$image
 -slot-iklan|$image
 -sponsor-iklan-|$image
+! Script patterns
+-iklan.js|$script
+! TLD-based popup blockers
 .bid^$popup,third-party
-.biz/iklan/
-.com/iklan/$image,domain=~persis.or.id
-.id/ads/
-.id/adv/
-.id/iklan/
-.info/iklan/
-.me/iklan/
-.my/iklan/
-.net/iklan/
-.tv/iklan/
 .win^$popup,third-party
+! Path patterns — image only
+.com/iklan/$image,domain=~persis.or.id
 /ads/iklan.$image
 /ads/iklan/*$image
 /adv/iklan.$image
 /adv/iklan/*$image
-/assets/iklan/*
+/assets/iklan/*$image
 /banner_iklan/*$image
 /diskon_iklan/*$image
 /foto_iklan/*$image
@@ -238,23 +233,34 @@
 /iklan_upload/*$image
 /iklancpm.$image
 /IklanGIF/*$image
-/images/iklan/*
+/images/iklan/*$image
 /img_iklan/*$image
 /imgiklan/*$image
 /materi_iklan/*$image
 /promo_iklan/*$image
 /promosi-diskon-$image
-/SkinADkanan.
-/SkinADkiri.
-/smartfren/ads.
+/SkinADkanan.$image
+/SkinADkiri.$image
 /snacklinkbanner.png|$image
 /uploads/iklan/*$image
 /usaha-berhasil.gif|$image
-/usahaberhasil.gif|
+/usahaberhasil.gif|$image
 /Waralabakan-Banner-$image
 /xbanner_iklan|$image
 _iklan-|$image
 _iklan_|$image
+! Path patterns — script only
+/smartfren/ads.$script
+! Path patterns — image and stylesheet (skin ads)
+.biz/iklan/$image,stylesheet
+.id/ads/$image,stylesheet,xmlhttprequest
+.id/adv/$image,stylesheet
+.id/iklan/$image,stylesheet
+.info/iklan/$image,stylesheet
+.me/iklan/$image,stylesheet
+.my/iklan/$image,stylesheet
+.net/iklan/$image,stylesheet
+.tv/iklan/$image,stylesheet
 ! *** abpindo:src/advert/specific_block.txt ***
 .gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.*|kiryuu.*|kiryuu03.*|komikcast.*|kuramanime.*|mangakita.*|movieku.*|nontondrama.*|okestream.*|oploverz.*|shinigami09.com|winbu.*
 ||1cak.com/shopee
@@ -282,7 +288,6 @@ _iklan_|$image
 ||cararegistrasi.com/img/download_1.png$image
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
-||cdn.rawgit.com/sdnime09/Ngewe-om/f8cad426/sayang.js$script
 ||comotin.com/wp-content/uploads/*.gif$image
 ||conan.id/wp-content/uploads/2018/*.gif$image
 ||desustream.me/banner/$image
@@ -315,7 +320,6 @@ _iklan_|$image
 ||harakah.net.my/images/stories/iklan/
 ||harianjogja.com/banner/
 ||harianjogja.com/img/bnr/
-||henscripts.googlecode.com/svn/trunk/popup/jspopupv1.js
 ||hotabis.com/wp-content/uploads/*.gif$image
 ||id.hao123.com/resource/id/banner/
 ||id.techinasia.com/OneSignalSDKWorker.js
@@ -406,9 +410,12 @@ _iklan_|$image
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-! Miscellanous popups
+! Miscellaneous popups
 $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
+dicrotin.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
+animekompi.*##+js(abort-on-property-write, MutationObserver)
+lk21semi.*##+js(acs, chp_ads_blocker_detector)
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.vebma.com##+js(aeld, click, linkOpened)
 moutogami.com##+js(aeld, load, /adblock/i)
@@ -426,6 +433,8 @@ asalunik.com,bokepgemoy.com##+js(nobab)
 193.142.147.230,5.253.86.213,ainzscans.net,igobokep.cam,jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 moviekhhd.biz##+js(nostif, location.href, 3000)
+anichin.top,animekompi.vip,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kisahterlarang.site,komikcast02.com,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
+kiryuu02.*##+js(nowolf)
 okezone.com##+js(rc, content-wrap)
 inews.id##+js(rc, content-wrap|wrap-all)
 sindonews.com##+js(rc, t480)
@@ -439,37 +448,32 @@ gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 carisinyal.com##+js(rmnt, script, showModal)
 sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
-anichin.top,animekompi.vip,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kisahterlarang.site,komikcast02.com,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
-animekompi.*##+js(abort-on-property-write, MutationObserver)
-dicrotin.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
-kiryuu02.*##+js(nowolf)
-lk21semi.*##+js(acs, chp_ads_blocker_detector)
 ! *** abpindo:src/advert/allowlist.txt ***
 ! General Allowlist for Network Filters
 @@||1idsly.com^$generichide
 @@||ad4msan.com^$generichide
+@@||ads.id^$~third-party
+@@||advertising-indonesia.id^$~third-party
 @@||apkmod.id^$generichide
 @@||digitalponsel.com^$elemhide
 @@||dramaencode.com^$generichide
 @@||eirudo.com^$generichide
 @@||gadget2reviews.com^$generichide
+@@||kaze-batch.blogspot.com^$generichide
+@@||majalahikan.com^$generichide
 @@||mivo.com^$generichide
 @@||novelgo.id^$generichide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
 @@||sanjayaops.com^$generichide
 @@||tokusatsuindo.com^$generichide
-! Allowlist for Specific Domains
-@@||ads.id^$~third-party
-@@||advertising-indonesia.id^$~third-party
-@@||kaze-batch.blogspot.com^$generichide
-@@||majalahikan.com^$generichide
 ! Allowlist for Element Hiding Filters
 eramuslim.com#@#.adsbygoogle
+flashbackrecorder.com#@#.elementor-popup-modal
 adikanime.com#@#.idmuvi-banner-aftercontent
 juragan.film#@#.idmuvi-topbanner
-tokosatu.com#@#.popupflyin-clicks-area
 103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*,layardrama21.beauty,layardrama21.club#@#.idmuvi-topbanner-aftermenu
-! ---------------------------- adult ------------------------------!
+tokosatu.com#@#.popupflyin-clicks-area
+! ---------------------------- adult ---------------------------------!
 ! *** abpindo:src/adult/adult_general_block.txt ***
 -abgqq.$image
 -agen-judi-$image

@@ -2,6 +2,7 @@
 accesstrade.co.id CNAME .
 ad-loupe.com CNAME .
 addesigner.com CNAME .
+adeumssp.com CNAME .
 admarketplace.net CNAME .
 adnety.com CNAME .
 adpop-1.com CNAME .
@@ -20,6 +21,7 @@ bellaads.com CNAME .
 berangkasilmu.com CNAME .
 cdnasiaclub.com CNAME .
 cfs.uzone.id CNAME .
+cfs1.uzone.id CNAME .
 cfs2.uzone.id CNAME .
 csf.uzone.id CNAME .
 digiads.co.id CNAME .
@@ -46,6 +48,7 @@ iklantext.com CNAME .
 iklanumum.com CNAME .
 indobanner.com CNAME .
 istana-impian.com CNAME .
+istana-impian2.com CNAME .
 istanaimpian1.com CNAME .
 istanaimpian2.com CNAME .
 istanaimpian3.com CNAME .
@@ -65,6 +68,7 @@ promotioncamp.com CNAME .
 props.id CNAME .
 propsid.b-cdn.net CNAME .
 publish.web.id CNAME .
+qprskl.com CNAME .
 sanglah.com CNAME .
 sarapbeh.com CNAME .
 see-work.info CNAME .
@@ -88,7 +92,6 @@ yesads.com CNAME .
 a63t9o1azf.com CNAME .
 abrts.pro CNAME .
 adbsys.icu CNAME .
-adeumssp.com CNAME .
 adplus.co.id CNAME .
 afbcashidr.com CNAME .
 auredzeon.com CNAME .
@@ -102,7 +105,6 @@ filebanner.com CNAME .
 flexterkita.com CNAME .
 fnasmpygwa.com CNAME .
 gaslah.my.id CNAME .
-istana-impian2.com CNAME .
 iwtserve.com CNAME .
 jagoiklan.com CNAME .
 lokeriklan.com CNAME .
@@ -110,7 +112,6 @@ mousheen.net CNAME .
 octafx.com CNAME .
 promobagus.com CNAME .
 pusatiklan.com CNAME .
-qprskl.com CNAME .
 realwap.net CNAME .
 sebar.idblognetwork.com CNAME .
 shqbsdjatunl.com CNAME .
@@ -118,7 +119,6 @@ sumberiklan.com CNAME .
 vkwaeo.com CNAME .
 yllix.com CNAME .
 c-stat.eu CNAME .
-cfs1.uzone.id CNAME .
 ktrackdata.com CNAME .
 moneyfree.co CNAME .
 track.aptitudemedia.co CNAME .
