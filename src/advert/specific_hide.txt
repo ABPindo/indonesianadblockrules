@@ -1189,3 +1189,6 @@ shinigami09.*##.lepopup-popup-overlay
 terbit21.*###float-bottom-banner
 terbit21.*,terbit21official.*###float-banner
 winbu.*##div[id^="playerIklan"]
+jawapos.com##div[id="ads-leaderboard1-x"]
+jawapos.com##div[id="ads-leaderboard2-x"]
+jawapos.com##button[aria-label="Tutup Iklan"]
