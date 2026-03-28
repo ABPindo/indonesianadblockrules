@@ -982,6 +982,7 @@ lk21official.mom##[id^="btop-"]
 nontonfilmgratis.club##[id^="floating_banner"]
 mangaku.bio##[id^="ftads"]
 tirto.id##[id^="gpt-inline"]
+jawapos.com##[id^="iklan"]
 cubmu.com##[id^="rubiconTag"]
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##[id^="wrapper-IDN_"]
 idfl.me##[id^="yui-gen"].postcontainer
@@ -989,6 +990,7 @@ tempo.co##[src="/_ipx/_/close.png"]
 kompas.com##[src^="https://adsimg.kompas.com"]
 iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 katadata.co.id##[style="height:0; min-height:180px;"]
+jawapos.com##[style^="height"]
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
 yasir252.com##a#download-link[rel]
 semarangkota.com##a.thirstylink
