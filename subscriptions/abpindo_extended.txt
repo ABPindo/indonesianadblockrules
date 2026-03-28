@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202603251951
+! Version: 202603280018
 ! Title: ABPindo - Extended
 ! Description: Testing unsafe rules that may break certain websites, contain deleted filters/domains, and may reappear.
-! Last modified: 25 Mar 2026 19:51 UTC
+! Last modified: 28 Mar 2026 00:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE

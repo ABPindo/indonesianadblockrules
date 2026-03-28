@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202603251951
+! Version: 202603280018
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 25 Mar 2026 19:51 UTC
+! Last modified: 28 Mar 2026 00:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -582,6 +582,7 @@ tokosatu.com#@#.popupflyin-clicks-area
 -situs-poker-online-$image
 -slot-gacor.$image
 -slot-gacor.$media
+-slotgacor-$image
 -sponsorqq.$image
 -tiketbet.$image
 -tototix.gif$image
@@ -595,6 +596,7 @@ tokosatu.com#@#.popupflyin-clicks-area
 -warnaqq-$image
 -winning228.$image
 -wpbet365.$image
+/0iklan-$image
 /128cash.$image,third-party
 /12naga.gif|$image
 /188bet.$image,third-party
@@ -645,6 +647,7 @@ tokosatu.com#@#.popupflyin-clicks-area
 /agen-bola-dan-live-game.$image
 /agen-bola-live-game.$image
 /agen-game-slots-terpercaya.$image
+/agen-judi-bola.$image
 /Agen-Judi-Online-Terpercaya.gif$image
 /agen688.$image,third-party
 /agenbola.$image,third-party
@@ -854,11 +857,12 @@ tokosatu.com#@#.popupflyin-clicks-area
 /dewahoki.$image,third-party
 /dewaitu.$image,third-party
 /dewalive.gif$image
-/DEWALIVE_$image
+/dewalive_$image
 /dewamainqq.$image,third-party
 /dewancash.gif$image
 /dewaonline.$image,third-party
 /dewapker.$image
+/dewapoker-$image
 /dewapoker.$image,third-party
 /dewapoker2.gif|$image
 /DEWAPOKER_
@@ -1314,7 +1318,7 @@ tokosatu.com#@#.popupflyin-clicks-area
 /paiza99.gif|$image
 /PAKARWIN-$image
 /pamelapoker.$image,third-party
-/pancatoto.gif$image
+/pancatoto.$image,third-party
 /panenpoker.$image,third-party
 /pangerantoto1.$image,third-party
 /pantauqq.$image,third-party
@@ -1341,6 +1345,7 @@ tokosatu.com#@#.popupflyin-clicks-area
 /pintuhoki-$image
 /PISANGBET-$image
 /pkutama2-$image
+/pkv-domino228.$image
 /Pkv-Games.gif|$image
 /pkvhoki.$image
 /PoinBet-$image
@@ -1350,6 +1355,7 @@ tokosatu.com#@#.popupflyin-clicks-area
 /poker24s-$image
 /poker7club-$image
 /poker882.gif|$image
+/poker88_$image
 /poker88wd-$image
 /poker8wd_$image
 /pokerajaib.$image,third-party
@@ -1591,7 +1597,7 @@ tokosatu.com#@#.popupflyin-clicks-area
 /ubcwin.$image,third-party
 /UBI777-NEW.gif|$image
 /Unibet99-$image
-/Unibet99.gif$image
+/unibet99.$image,third-party
 /unikpoker.$image,third-party
 /unitogel-$image
 /unovegas.gif$image
@@ -1608,6 +1614,7 @@ tokosatu.com#@#.popupflyin-clicks-area
 /vimaxpills.$image,third-party
 /vip/rajaelang.gif$image
 /vipslot.$image,third-party
+/vipslot77.$image
 /vipslot77.$image,third-party
 /viralqq.gif|$image
 /VISABET88.gif$image
@@ -1637,7 +1644,7 @@ tokosatu.com#@#.popupflyin-clicks-area
 /winpoker789.$image,third-party
 /WinsGoal.gif|$image
 /winslot8_$image
-/wiropoker.gif|$image
+/wiropoker.$image,third-party
 /wismaqq-$image
 /wismaqq.$image,third-party
 /wismaqq2.$image,third-party
