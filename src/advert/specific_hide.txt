@@ -1164,7 +1164,6 @@ okestream.*##[href="https://heylink.me/"]
 okestream.*##[href="https://jaga.link/"]
 oploverz.*##.bg-opacity-70.bg-black.rounded-lg
 oploverz.*##div[class^="fixed"]
-! commented out by dead-domains-linter: cloud.majalahhewan.com##p:has( > a[href="#downloadnow"])
 herworld.co.id##p:nth-of-type(2)
 jpnn.com##section.leaderboard
 mangakita.me##.kln.blox
@@ -1192,3 +1191,8 @@ winbu.*##div[id^="playerIklan"]
 jawapos.com##div[id="ads-leaderboard1-x"]
 jawapos.com##div[id="ads-leaderboard2-x"]
 jawapos.com##button[aria-label="Tutup Iklan"]
+arieffservicecenter.com###asc-adblock
+arieffservicecenter.com##html:style(overflow: auto !important)
+arieffservicecenter.com##body:style(overflow: auto !important)
+arieffservicecenter.com##.ad-bottom-wrapper
+arieffservicecenter.com###desktop-floating-ad
