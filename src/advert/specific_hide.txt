@@ -1193,6 +1193,7 @@ winbu.*##div[id^="playerIklan"]
 jawapos.com##div[id="ads-leaderboard1-x"]
 jawapos.com##div[id="ads-leaderboard2-x"]
 jawapos.com##button[aria-label="Tutup Iklan"]
+jawapos.com##div.relative.ease-in-out.duration-500.transition-\[height\]
 arieffservicecenter.com###asc-adblock
 arieffservicecenter.com##html:style(overflow: auto !important)
 arieffservicecenter.com##body:style(overflow: auto !important)
