@@ -541,6 +541,7 @@ bisnis.com##.billboardPushdown
 bisnis.com##.billboardRectangle.billboard
 bisnis.com##.billboardTop.billboard
 bisnis.com##.billboardWrapper
+bisnis.com##.mt50.container > .row > .col-right.col-3.sidebar
 haibunda.com##.billboard__banner
 pewarta.co.id##.billboard_ads1
 pewarta.co.id##.billboard_pushdown
