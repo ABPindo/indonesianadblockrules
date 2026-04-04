@@ -47,8 +47,6 @@ local-zone: "iklantelevisi.com" always_nxdomain
 local-zone: "iklantext.com" always_nxdomain
 local-zone: "iklanumum.com" always_nxdomain
 local-zone: "indobanner.com" always_nxdomain
-local-zone: "istana-impian.com" always_nxdomain
-local-zone: "istana-impian2.com" always_nxdomain
 local-zone: "istanaimpian1.com" always_nxdomain
 local-zone: "istanaimpian2.com" always_nxdomain
 local-zone: "istanaimpian3.com" always_nxdomain
@@ -66,8 +64,6 @@ local-zone: "paypopup.com" always_nxdomain
 local-zone: "pondokiklan.com" always_nxdomain
 local-zone: "promotioncamp.com" always_nxdomain
 local-zone: "props.id" always_nxdomain
-local-zone: "propsid.b-cdn.net" always_nxdomain
-local-zone: "publish.web.id" always_nxdomain
 local-zone: "qprskl.com" always_nxdomain
 local-zone: "sanglah.com" always_nxdomain
 local-zone: "sarapbeh.com" always_nxdomain
@@ -89,9 +85,6 @@ local-zone: "webiklan.com" always_nxdomain
 local-zone: "yesads.com" always_nxdomain
 local-zone: "64p3am9x95ct.com" always_nxdomain
 local-zone: "9eb10b7a3d04a.com" always_nxdomain
-local-zone: "a63t9o1azf.com" always_nxdomain
-local-zone: "abrts.pro" always_nxdomain
-local-zone: "adbsys.icu" always_nxdomain
 local-zone: "adplus.co.id" always_nxdomain
 local-zone: "afbcashidr.com" always_nxdomain
 local-zone: "auredzeon.com" always_nxdomain
@@ -119,7 +112,6 @@ local-zone: "sumberiklan.com" always_nxdomain
 local-zone: "vkwaeo.com" always_nxdomain
 local-zone: "yllix.com" always_nxdomain
 local-zone: "c-stat.eu" always_nxdomain
-local-zone: "ktrackdata.com" always_nxdomain
 local-zone: "moneyfree.co" always_nxdomain
 local-zone: "track.aptitudemedia.co" always_nxdomain
 local-zone: "track.zerofriend.com" always_nxdomain

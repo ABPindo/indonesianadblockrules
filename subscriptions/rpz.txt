@@ -47,8 +47,6 @@ iklantelevisi.com CNAME .
 iklantext.com CNAME .
 iklanumum.com CNAME .
 indobanner.com CNAME .
-istana-impian.com CNAME .
-istana-impian2.com CNAME .
 istanaimpian1.com CNAME .
 istanaimpian2.com CNAME .
 istanaimpian3.com CNAME .
@@ -66,8 +64,6 @@ paypopup.com CNAME .
 pondokiklan.com CNAME .
 promotioncamp.com CNAME .
 props.id CNAME .
-propsid.b-cdn.net CNAME .
-publish.web.id CNAME .
 qprskl.com CNAME .
 sanglah.com CNAME .
 sarapbeh.com CNAME .
@@ -89,9 +85,6 @@ webiklan.com CNAME .
 yesads.com CNAME .
 64p3am9x95ct.com CNAME .
 9eb10b7a3d04a.com CNAME .
-a63t9o1azf.com CNAME .
-abrts.pro CNAME .
-adbsys.icu CNAME .
 adplus.co.id CNAME .
 afbcashidr.com CNAME .
 auredzeon.com CNAME .
@@ -119,7 +112,6 @@ sumberiklan.com CNAME .
 vkwaeo.com CNAME .
 yllix.com CNAME .
 c-stat.eu CNAME .
-ktrackdata.com CNAME .
 moneyfree.co CNAME .
 track.aptitudemedia.co CNAME .
 track.zerofriend.com CNAME .
