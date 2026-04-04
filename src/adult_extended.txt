@@ -18,7 +18,6 @@
 ||bukutogel.com^$third-party
 ||carajudionline.com^$third-party
 ||caramenangjudibola.com^$third-party
-||casinopokercoin.com^$third-party
 ||cmcpoker.info^$third-party
 ||coltpoker.com^$third-party
 ||copyright-reform.info^
@@ -34,7 +33,6 @@
 ||hjtowin.online^$third-party
 ||holdempokerchat.com^$third-party
 ||jagopoker.com^$third-party
-||jdpoker.com^$third-party
 ||judiagenonline.com^$third-party
 ||judiboladunia.com^$third-party
 ||judibolaterbesar.com^$third-party
@@ -42,7 +40,6 @@
 ||judionline1388.com^$third-party
 ||klikkiu.top^$popup
 ||ligakiukiu.top^$popup
-||lintastogel.com^$third-party
 ||lpkiukiu.pw^$popup
 ||mainjudiinternet.com^$third-party
 ||malemjumat.mom/banner/*.gif$image
@@ -51,13 +48,11 @@
 ||masteragentjudi.com^$third-party
 ||masteragentpoker.com^$third-party
 ||mboplay88.com^$popup
-||mestresdopoker.com^$third-party
 ||milkfountain.com^
 ||misterjudi.com^$third-party
 ||nenenqq.com^$third-party
 ||neobola.club^$popup
 ||onlinepokerextra.com^$third-party
-||onlinetogel.com^$third-party
 ||opuspoker.cc^$popup
 ||oralse.ca^
 ||oralse.cx^
@@ -75,18 +70,15 @@
 ||rumahtaruhan.com^$third-party
 ||saranapoker.poker^$popup
 ||setanjudi.com^$third-party
-||sgptogel.com^$third-party
 ||sgptoto.com^$third-party
 ||shiotogel4dk.art^$popup
 ||situs-judibola.com^$third-party
 ||situsjudicasino.com^$third-party
 ||situstaruhan.com^$third-party
-||star88win.net^$popup
 ||starcasino88.net^$image,third-party
 ||starcasino88.net^$popup
 ||sukajudibola.com^$third-party
 ||taruhanbolaku.com^$third-party
-||taruhanolahraga.com^$third-party
 ||taruhansepakbola.com^$third-party
 ||texaspokercc1.com^$third-party
 ||texaspokercc2.com^$third-party
@@ -95,7 +87,6 @@
 ||tipstaruhanbola.com^$third-party
 ||togelanak.com^$popup
 ||togelm88.com^$third-party
-||togeltop.com^$third-party
 ||tokojudionline.com^$third-party
 ||totojitu1.com^$third-party
 ||totojitu2.com^$third-party

@@ -1,6 +1,5 @@
 ! Image-based ad path patterns
--Banner-Iklan-GIF-$image
--banner-iklan-|$image
+-banner-iklan-$image
 -diskon-besar|$image
 -diskon-lebaran|$image
 -diskon-spesial|$image

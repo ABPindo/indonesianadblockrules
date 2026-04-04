@@ -133,13 +133,6 @@
 ##.ad-bawah
 ##.ad-container
 ##.adBar-vertical
-##.adBar-vertical.left
-##.adBar-vertical.right
-##.ads--stick-parent-250px.clearfix.mt3.ads
-##.ads--stick-parent-300px.clearfix.mt3.ads
-##.ads--stick-parent-400px.clearfix.mt3.ads
-##.ads--stick-parent.clearfix.mt3.ads
-##.ads-50
 ##.ads-atas
 ##.ads-atas-player
 ##.ads-bawah

@@ -48,8 +48,6 @@
 ||iklantext.com^$third-party
 ||iklanumum.com^$third-party
 ||indobanner.com^$third-party
-||istana-impian.com^$popup,third-party
-||istana-impian2.com^$popup,third-party
 ||istanaimpian1.com^$popup,third-party
 ||istanaimpian2.com^$popup,third-party
 ||istanaimpian3.com^$popup,third-party
@@ -67,8 +65,6 @@
 ||pondokiklan.com^$third-party
 ||promotioncamp.com^$third-party
 ||props.id^$third-party
-||propsid.b-cdn.net^$third-party
-||publish.web.id^$third-party
 ||qprskl.com^$third-party
 ||sanglah.com^$third-party
 ||sarapbeh.com^$third-party
@@ -91,9 +87,6 @@
 ! Potential ad servers
 ||64p3am9x95ct.com^$popup,third-party
 ||9eb10b7a3d04a.com^$popup,third-party
-||a63t9o1azf.com^$popup,third-party
-||abrts.pro^$popup,third-party
-||adbsys.icu^$popup,third-party
 ||adplus.co.id^$third-party
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup,third-party

@@ -256,7 +256,6 @@
 /bandarsakong.$image,third-party
 /bandartaruhan.$image,third-party
 /bandarxl-$image
-/bandarxl.$image
 /bandarxl.$image,third-party
 /bandarxlnew.$image
 /BANGKIT4D.gif|$image
@@ -1136,7 +1135,6 @@
 /vimaxpills.$image,third-party
 /vip/rajaelang.gif$image
 /vipslot.$image,third-party
-/vipslot77.$image
 /vipslot77.$image,third-party
 /viralqq.gif|$image
 /VISABET88.gif$image
@@ -3483,3 +3481,12 @@ totojitu.gif|$image
 ||zonawin.$popup
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
+||jdpoker.com^$third-party
+||lintastogel.com^$third-party
+||mestresdopoker.com^$third-party
+||onlinetogel.com^$third-party
+||sgptogel.com^$third-party
+||star88win.net^$popup
+||taruhanolahraga.com^$third-party
+||togeltop.com^$third-party
+||casinopokercoin.com^$third-party
