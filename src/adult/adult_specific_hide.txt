@@ -106,3 +106,8 @@ rumahparaperjaka.*,rumahperjaka.*##.elementor-popup-modal
 videocrot.*##.ads-720
 wisatabkpindo.*###Floating-footer-banner
 sangevip.com##.promo-banner
+podjav.tv##.player-banner-ads-top
+podjav.tv##.sidebar-box:has(> div[data-banner-id])
+podjav.tv##.banner-ads
+podjav.tv##.banner-card-inner
+podjav.tv##.banner-card
