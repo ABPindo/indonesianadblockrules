@@ -114,3 +114,5 @@ podjav.tv##.banner-card
 matapria.cam###floating-top-banner
 matapria.cam##.lin-ad-above
 filmjepang.it.com##.kln
+igobokep.*###GLOBAL-ADS-OVERLAY
+igobokep.*###GLOBAL-ADS-FLOAT
