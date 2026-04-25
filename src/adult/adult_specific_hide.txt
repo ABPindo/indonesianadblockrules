@@ -116,3 +116,9 @@ matapria.cam##.lin-ad-above
 filmjepang.it.com##.kln
 igobokep.*###GLOBAL-ADS-OVERLAY
 igobokep.*###GLOBAL-ADS-FLOAT
+artisbokep.site###top-floating-banner-inner
+artisbokep.site###floating-banner-inner
+artisbokep.site##.ab-top-video-banners
+artisbokep.site##.top-banner
+artisbokep.site##.banner-slide
+artisbokep.site###popupBannerOverlay
