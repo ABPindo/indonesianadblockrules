@@ -111,3 +111,5 @@ podjav.tv##.sidebar-box:has(> div[data-banner-id])
 podjav.tv##.banner-ads
 podjav.tv##.banner-card-inner
 podjav.tv##.banner-card
+matapria.cam###floating-top-banner
+matapria.cam##.lin-ad-above
