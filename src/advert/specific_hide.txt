@@ -616,7 +616,6 @@ okezone.com##.container-skin-ads
 kompas.tv##.container_skinad
 tribunnews.com##.content [style="width:160px; height:600px;"]
 sindonews.com##.content-paralax:style(top: 0!important;)
-tvonenews.com##.content_center.mobile-only.sticky-bottom.slotiklan-320x100
 dailysocial.id##.cover-ads-article
 kapanlagi.com##.crm-wrapper
 carisinyal.com##.ct-section-inner-wrap > article + aside
@@ -889,6 +888,8 @@ okezone.com##.skyscrapper
 bisnis.com##.skyscrapper--left
 bisnis.com##.skyscrapper--right
 zigi.id##.slot-iklan
+tvonenews.com##.slotiklan-320x100
+tvonenews.com##.slotiklan-custom-desktop
 sahijab.com##.small-mobile-banner
 cnbcindonesia.com,haibunda.com##.smartbanner_new
 hipwee.com##.spb_middle.spb_banner
