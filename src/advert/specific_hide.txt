@@ -732,6 +732,7 @@ kontan.co.id##.kus
 starringheavenlyrics.blogspot.com##.lalulintas
 gooto.com##.lanjutkan.bggrey
 metrotvnews.com##.layout_topads
+medcom.id##.leaderboard
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
 tempo.co##.lg\:hidden.mx-auto.container.h-\[140px\].lg\:w-full.overflow-clip.bg-neutral-300
@@ -957,7 +958,7 @@ kontan.co.id##[class*="heightads"]
 s.id##[class^="AdUnit"]
 astroawani.com##[class^="Advertisement_ads_container"]
 jalantikus.com##[class^="ad-"][class*="-container"]
-kompas.tv##[class^="ads-"]
+kompas.tv,medcom.id##[class^="ads-"]
 emitennews.com##[class^="ads-space-"]
 wisatalova.com##[class^="wisat-"]
 kumparan.com##[data-qa-id="desktop-article-page-below-images"]:has(span:has-text(/ADVERTISEMENT/i))
