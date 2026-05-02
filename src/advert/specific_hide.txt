@@ -944,6 +944,7 @@ medcom.id##.widebanner.banner
 komiku.com##.widget_text:has([href^="https://shope.ee/"])
 cantika.com##.width-ads
 cantika.com##.width-ads-leader
+sumbardaily.com##.wp-block-image
 cdramabase.com##.wpa
 bolatimes.com,dewiku.com,guideku.com,himedik.com,hitekno.com,mobimoto.com##.wrap-ads-leaderboard
 bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com##.wrap-ads-r
