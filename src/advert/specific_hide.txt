@@ -864,6 +864,7 @@ inews.id##.rowx
 republika.co.id##.scrollToRead
 republika.co.id##.scrollToRead + .container:has( > .content)
 uzone.id##.section-ads-mid
+katadata.co.id##.section-affiliate
 vnn.co.id##.section.Atas.Iklan
 duwitmu.com##.section_sticky_ads_bottom
 semprot.com##.semprotnenenmontok_2
