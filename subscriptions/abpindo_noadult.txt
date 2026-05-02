@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202605021241
+! Version: 202605021243
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 02 May 2026 12:41 UTC
+! Last modified: 02 May 2026 12:43 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -343,6 +343,7 @@ _iklan_|$image
 ||komikcast.*/wp-content/uploads/*.gif$image,~third-party
 ||kompas.com/data/banner/
 ||kotakgame.com/images/bnr/partner/*.jpg
+||kuyhaa.me/pmbut.js
 ||layarkeren.*/wp-content/uploads/*.gif$image
 ||linkgenerator.xyz$script,third-party
 ||lytogame.com/images/partner/$third-party
@@ -408,6 +409,7 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 dicrotin.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
 animekompi.*##+js(abort-on-property-write, MutationObserver)
 lk21semi.*##+js(acs, chp_ads_blocker_detector)
+kuyhaa.me##+js(acs, document.addEventListener, window.open)
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.vebma.com##+js(aeld, click, linkOpened)
 moutogami.com##+js(aeld, load, /adblock/i)
