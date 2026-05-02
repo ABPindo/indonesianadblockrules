@@ -266,6 +266,7 @@ bola.com,bola.net,dream.co.id,fimela.com,kapanlagi.com,liputan6.com,merdeka.com,
 jawapos.com,mamikos.com###in_image
 republika.co.id###inscroll-banner-home
 detik.com###inventory-p5
+jpnn.com###jpnn_m_nasional_medrec
 harakahdaily.net###jsemrp_372_719
 harakahdaily.net###jsemrp_373_873
 harakahdaily.net###jsemrp_374_469
@@ -1065,6 +1066,7 @@ cnbcindonesia.com##div.undefined
 kompas.com##div:has( > #gpt-passback)
 katadata.co.id##div:has( > [id^="div-gpt-ad"][class^="paralax"])
 kiryuu03.com##div[class*="ads-header"]
+jpnn.com##div[class^="ans-"]
 wolipop.detik.com##div[data-ads]
 kuyhaa.me##div[data-nosnippet] a[target="_blank"] input[type="image"]
 tokopedia.com##div[data-ssr="findProductSSR"]:has(span[data-testid="lblTopads"])
