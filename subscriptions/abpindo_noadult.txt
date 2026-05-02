@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202605020951
+! Version: 202605021241
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 02 May 2026 09:51 UTC
+! Last modified: 02 May 2026 12:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1392,6 +1392,7 @@ autonetmagz.com##.anm__flying--ads-holder
 jpnn.com##.ans-300x250
 hellosehat.com##.article-bottom-ad
 hellosehat.com##.article-desktop-ad
+goodnewsfromindonesia.id##.article-photos-ads
 tirto.id##.article-sidebar
 cantika.com##.artikel-rekomendasi-blue
 inews.id##.asideAds
@@ -1671,6 +1672,7 @@ kontan.co.id##.kus
 starringheavenlyrics.blogspot.com##.lalulintas
 gooto.com##.lanjutkan.bggrey
 metrotvnews.com##.layout_topads
+medcom.id##.leaderboard
 dwanonton.*##.left.banner-vertical
 lapar.com##.leftcontent[style="padding:0px; margin:0px auto; height:250px; width:720px; border:0px; background:none; "]
 kabargames.id##.legend_banner-container
@@ -1812,6 +1814,7 @@ inews.id##.rowx
 republika.co.id##.scrollToRead
 republika.co.id##.scrollToRead + .container:has( > .content)
 uzone.id##.section-ads-mid
+katadata.co.id##.section-affiliate
 vnn.co.id##.section.Atas.Iklan
 duwitmu.com##.section_sticky_ads_bottom
 semprot.com##.semprotnenenmontok_2
@@ -1911,7 +1914,7 @@ kontan.co.id##[class*="heightads"]
 s.id##[class^="AdUnit"]
 astroawani.com##[class^="Advertisement_ads_container"]
 jalantikus.com##[class^="ad-"][class*="-container"]
-kompas.tv##[class^="ads-"]
+kompas.tv,medcom.id##[class^="ads-"]
 emitennews.com##[class^="ads-space-"]
 wisatalova.com##[class^="wisat-"]
 kumparan.com##[data-qa-id="desktop-article-page-below-images"]:has(span:has-text(/ADVERTISEMENT/i))
@@ -1977,6 +1980,7 @@ hotabis.com##a[href^="http://www.pembesar-vimax-herbal.com/"]
 animebatch.web.id,animeindo.co,eka.web.id,filmbioskop21.com,kazefuri.web.id,mangaku.in,mangashiro.net,neonime.net,nontonbioskop21.org,nontonsub.com,subindo.id##a[href^="https://bit.ly/"]
 awsubs.id,bioskop45.com,drakorindo.tv,idbioskop.com,nonton33.net##a[href^="https://goo.gl/"]
 komikindo.co##a[href^="https://shope.ee/"]
+thebalitimes.com##a[href^="https://www.amazon.com/s"]
 otakudesu.pro##a[rel^="nofollow noopener"] > img[src$=".gif"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 mangakita.net##a[title^="manga4d"]
