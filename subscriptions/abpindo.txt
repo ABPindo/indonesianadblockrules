@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202605020945
+! Version: 202605020947
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 02 May 2026 09:45 UTC
+! Last modified: 02 May 2026 09:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1172,6 +1172,7 @@ bola.com,bola.net,dream.co.id,fimela.com,kapanlagi.com,liputan6.com,merdeka.com,
 jawapos.com,mamikos.com###in_image
 republika.co.id###inscroll-banner-home
 detik.com###inventory-p5
+jpnn.com###jpnn_m_nasional_medrec
 harakahdaily.net###jsemrp_372_719
 harakahdaily.net###jsemrp_373_873
 harakahdaily.net###jsemrp_374_469
@@ -2021,6 +2022,7 @@ katadata.co.id##div:has( > [id^="div-gpt-ad"][class^="paralax"])
 kiryuu03.com##div[class*="ads-header"]
 samehadaku.*##div[class*="player-iklan"]
 nontonanimeid.*##div[class^="adspost"]
+jpnn.com##div[class^="ans-"]
 oploverz.*##div[class^="fixed"]
 nimegami.*##div[class^="iklan_banner"]
 wolipop.detik.com##div[data-ads]
