@@ -874,6 +874,7 @@ terabox.app##.share-embed-container > .shadow
 doroni.me,doronime.id##.show.Popup
 kompas.com##.show.ol_promo
 metrotvnews.com##.showcase
+wowkeren.com##.sidebar-box[style]
 realitakita.com##.site-sticky-bottom
 ninemanga.com##.sitemaji_banner
 grid.id##.skin_ads
