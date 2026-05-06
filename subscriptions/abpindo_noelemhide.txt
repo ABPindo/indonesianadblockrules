@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202605041221
+! Version: 202605061113
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 04 May 2026 12:21 UTC
+! Last modified: 06 May 2026 11:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -406,6 +406,7 @@ _iklan_|$image
 ! Miscellaneous popups
 $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
+semprot.com##+js(abort-current-script, Math.random, arv_24)
 dicrotin.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
 animekompi.*##+js(abort-on-property-write, MutationObserver)
 lk21semi.*##+js(acs, chp_ads_blocker_detector)
@@ -3964,6 +3965,7 @@ totojitu.gif|$image
 ! *** abpindo:src/adult/adult_specific_block.txt ***
 ||blogger.googleusercontent.com/img/$image,domain=igodesu.tv
 ||ceritanakal.com/wp-content/uploads/2025/06/GIF-*.gif$image
+||gambar123.com/js/arv_24.js
 ||imgur.com/*.gif$image,domain=gocrot.*
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ! *** abpindo:src/adult/adult_thirdparty.txt ***
@@ -4162,3 +4164,4 @@ totojitu.gif|$image
 ! Allowlist for element hiding filters
 pemersatu.top,pemersatudotfun.com,pemersatufun.*,pemersatufun.site#@##adright
 semprot.com#@#.adUnit
+semprot.com#@#.adunit:not(.text-ad)
