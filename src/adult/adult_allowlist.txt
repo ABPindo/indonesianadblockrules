@@ -1,3 +1,4 @@
 ! Allowlist for element hiding filters
 pemersatu.top,pemersatudotfun.com,pemersatufun.*,pemersatufun.site#@##adright
 semprot.com#@#.adUnit
+semprot.com#@#.adunit:not(.text-ad)

@@ -2,3 +2,4 @@
 ||ceritanakal.com/wp-content/uploads/2025/06/GIF-*.gif$image
 ||imgur.com/*.gif$image,domain=gocrot.*
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
+||gambar123.com/js/arv_24.js
