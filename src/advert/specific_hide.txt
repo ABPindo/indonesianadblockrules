@@ -389,6 +389,7 @@ republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
 dailysocial.id##.ads-article-inner
 dailysocial.id##.ads-article-sidebar
+kompas.com##.ads-big
 alinea.id,femaledaily.com##.ads-billboard
 okezone.com##.ads-bottom-fixed
 briliobeauty.net,techno.id##.ads-container
@@ -474,7 +475,7 @@ detik.com##.balloon
 detik.com##.balloon_adskiri
 detik.com##.balloon_close
 detik.com##.balloon_closekiri
-ceklissatu.com,juragan-anime.net,kapanlagi.com,kompasiana.com,merdeka.com,nanime.in,otosia.com##.banner
+ceklissatu.com,juragan-anime.net,kapanlagi.com,kompas.com,kompasiana.com,merdeka.com,nanime.in,otosia.com##.banner
 ligaolahraga.com##.banner-625x235-content
 hitekno.com##.banner-ads--big
 kompasiana.com##.banner-center
@@ -724,6 +725,7 @@ kompas.com##.kcm__sticky
 kompas.com##.kcm__superbig
 kompas.com##.kcm__top
 kompas.com##.kcm__tower
+kompas.com##.kcm__tower--sticky
 kompas.com##.kcm__track
 kompas.com##.kgnw-modal-ads
 kompas.com##.kgnw-modal-adswrap
@@ -904,6 +906,7 @@ cnbcindonesia.com,haibunda.com##.smartbanner_new
 hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
 okezone.com##.sponsored-belt468x60
+kompas.com##.spotlightItem:has([id^="div-gpt-"])
 detik.com##.staticdetail_ads
 detik.com##.staticdetail_container:has(.staticdetail_ads)
 bharian.com.my,hmetro.com.my##.stick-leaderboard-wrapper
