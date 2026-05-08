@@ -1021,6 +1021,7 @@ komikindo.co##a[href^="https://shope.ee/"]
 otakudesu.pro##a[rel^="nofollow noopener"] > img[src$=".gif"]
 republika.co.id##a[style="width: 100%; height: 100%; display: block; position: fixed; z-index: 1"]
 mangakita.net##a[title^="manga4d"]
+jakartaglobe.id##div.w-100.d-flex
 ainzscans.net,alqanime.*,anichin.*,animekompi.*,awsubs.*,cosmic345.co,cosmicscans.*,ikiru.one,ikiru.world,isekaisubs.web.id,kazefuri.*,kiryuu01.com,kiryuu02.*,kmvs03.com,komikcast.*,komikcast01.*,komikcast02.*,komikcast02.com,komikcast03.*,komikindo.*,komikindo.co,komikindo.me,komikindo1.*,komikindo3.*,komikindo4.*,komikremaja.club,komikstation.co,komiktap.info,komiku.*,kuronime.*,mangakita.id,mangakita.net,movieku.*,nimeindo.*,novascans.id,oploverz.*##.kln
 ainzscans.net,anichin.*,animexin.xyz,bgibola.com,cosmic345.co,cosmicscans.*,isekaisubs.web.id,kiryuu02.*,kmvs03.com,komiksin.*,komiku.*,nekokun.my.id,novascans.id###floatcenter
 akurat.co,arahpandang.com,aspirasiku.id,ayobandung.com,ayobogor.com,ayojakarta.com,bandunginsider.com,dapurpacu.com,download-lagu-mp3.com,duniafilm21.com,embed.dramanices.com,filmapik.*,gridoto.com,harianjogja.com,hops.id,industry.co.id,inidata.id,jatimnetwork.com,jawapos.com,k-vid.net,katadata.co.id,kilat.com,kompas.com,koran-jakarta.com,masagipedia.com,metrotvnews.com,miyanime.site,muslimterkini.id,okezone.com,otakuindo.net,pikiran-rakyat.com,rejogja.co.id,republika.co.id,smallencode.com,tempo.co,terasjakarta.id,timenews.co.id,unews.id,www.melintas.id,zonajakarta.com##.ads
@@ -1127,6 +1128,7 @@ s.id##img[alt="Sponsored Image"]
 tribunnews.com##img[src*=".pgi.tribunnews.com/"]
 isdaryanto.com##img[style="width: 125px; height: 125px;"]
 funtasticko.net##img[width="1020"][height="350"]
+jakartaglobe.id##style + .mt-2
 indoxx1.*###tengah
 indoxx1.*###tengahaa
 indoxx1.*##div.content-kuss
