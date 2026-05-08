@@ -1,12 +1,12 @@
 ! ABP-specific filters
-tokopedia.com#?#.product-card:has(span:-abp-contains(/^Ad$/))
-kumparan.com#?#[data-qa-id="desktop-article-page-below-images"]:has(span:-abp-contains(/ADVERTISEMENT/i))
-kumparan.com#?#[data-qa-id^="desktop-article-page-inline-"]:has(span:-abp-contains(/ADVERTISEMENT/i))
-cari.com.my#?#center:-abp-contains(ADVERTISEMENT)
-tokopedia.com#?#div[data-testid="divCarouselProduct"]:has(span:-abp-contains(/^Ad$/))
-tokopedia.com#?#div[data-testid="lazy-frame"]:has(span:-abp-contains(/^Ad$/))
-tokopedia.com#?#div[data-testid^="divProductRecommendation"]:has(span:-abp-contains(/^Ad$/))
-cloud.majalahhewan.com#?#span:-abp-contains(Advertisement)
+tokopedia.com#?#.product-card:has(span:has-text(/^Ad$/))
+kumparan.com#?#[data-qa-id="desktop-article-page-below-images"]:has(span:has-text(/ADVERTISEMENT/i))
+kumparan.com#?#[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
+cari.com.my#?#center:has-text(ADVERTISEMENT)
+tokopedia.com#?#div[data-testid="divCarouselProduct"]:has(span:has-text(/^Ad$/))
+tokopedia.com#?#div[data-testid="lazy-frame"]:has(span:has-text(/^Ad$/))
+tokopedia.com#?#div[data-testid^="divProductRecommendation"]:has(span:has-text(/^Ad$/))
+cloud.majalahhewan.com#?#span:has-text(Advertisement)
 ! Malaysian section
 astroawani.com##.AdvertisementContainer_adsContainer__tKpDh
 malaysiakini.com##.h-\[250px\]
@@ -389,6 +389,7 @@ republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
 dailysocial.id##.ads-article-inner
 dailysocial.id##.ads-article-sidebar
+kompas.com##.ads-big
 alinea.id,femaledaily.com##.ads-billboard
 okezone.com##.ads-bottom-fixed
 briliobeauty.net,techno.id##.ads-container
@@ -474,7 +475,7 @@ detik.com##.balloon
 detik.com##.balloon_adskiri
 detik.com##.balloon_close
 detik.com##.balloon_closekiri
-ceklissatu.com,juragan-anime.net,kapanlagi.com,kompasiana.com,merdeka.com,nanime.in,otosia.com##.banner
+ceklissatu.com,juragan-anime.net,kapanlagi.com,kompas.com,kompasiana.com,merdeka.com,nanime.in,otosia.com##.banner
 ligaolahraga.com##.banner-625x235-content
 hitekno.com##.banner-ads--big
 kompasiana.com##.banner-center
@@ -724,6 +725,7 @@ kompas.com##.kcm__sticky
 kompas.com##.kcm__superbig
 kompas.com##.kcm__top
 kompas.com##.kcm__tower
+kompas.com##.kcm__tower--sticky
 kompas.com##.kcm__track
 kompas.com##.kgnw-modal-ads
 kompas.com##.kgnw-modal-adswrap
@@ -904,6 +906,7 @@ cnbcindonesia.com,haibunda.com##.smartbanner_new
 hipwee.com##.spb_middle.spb_banner
 mydramalist.com##.spnsr-top
 okezone.com##.sponsored-belt468x60
+kompas.com##.spotlightItem:has([id^="div-gpt-"])
 detik.com##.staticdetail_ads
 detik.com##.staticdetail_container:has(.staticdetail_ads)
 bharian.com.my,hmetro.com.my##.stick-leaderboard-wrapper
