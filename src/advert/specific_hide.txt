@@ -867,6 +867,7 @@ mamikos.com##.room-list__card:has(.rc-photo__icon--promo)
 investor.id##.row > .show-desktop > div
 spucweb.com##.row > center
 inews.id##.rowx
+bicarablitar.com##.rt-ads-floating
 republika.co.id##.scrollToRead
 republika.co.id##.scrollToRead + .container:has( > .content)
 uzone.id##.section-ads-mid
