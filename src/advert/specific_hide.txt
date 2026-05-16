@@ -179,6 +179,7 @@ cnbcindonesia.com###balloon
 haibunda.com###balloonads
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
+beritasatu.com,investor.id,jakartaglobe.id##div:matches-css(text-align: center):has-text(/adv/i)
 jendelakaba.com###banner-popup
 duniaku.net###banner-popup-desktop
 hdtvku.com###bannerkategoriheader
