@@ -18,6 +18,7 @@ utusan.com.my##[href="https://iklaneka.utusan.com.my/"]
 beritaharian.sg##.lg\:min-h-\[120px\]
 mediacorp.sg##.programtic-ads
 ! Suara.com Networks
+suara.com##.cstm_promo_aside
 suara.com###adds-top
 suara.com,tribunnews.com###anchorads
 dewiku.com,guideku.com,himedik.com,hitekno.com,mobimoto.com###close-ads-bottom
