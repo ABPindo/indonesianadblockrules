@@ -179,6 +179,7 @@ zonabola.com###aside img[width="300"][height="250"]
 indotelko.com###baca_juga
 cnbcindonesia.com###balloon
 haibunda.com###balloonads
+pinterpoin.com###banner-ad-1
 tempointeraktif.com###banner-atas
 tempointeraktif.com###banner-bawah
 beritasatu.com,investor.id,jakartaglobe.id##div:matches-css(text-align: center):has-text(/adv/i)
