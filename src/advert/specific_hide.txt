@@ -936,6 +936,7 @@ kontan.co.id##.text-center.center.width-px-1100
 dailypost.id,ulasan.co##.text-center.gmr-topbanner
 ulasan.co##.text-center.gmr-verytopbanner
 jpnn.com##.text-center.mtb-10
+hukumonline.com##.text-center.py-2:has(> [id^="bling-"])
 dataindonesia.id##.text-center:has( + div[style^='background-image: url("/img/logo-ads'])
 okezone.com##.title-ads-mega
 utusan.com.my##.tonal__standfirst
