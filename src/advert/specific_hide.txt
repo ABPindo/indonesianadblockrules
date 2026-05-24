@@ -1088,6 +1088,7 @@ medcom.id##div.skycrapper.banner
 cnbcindonesia.com##div.undefined
 kompas.com##div:has( > #gpt-passback)
 katadata.co.id##div:has( > [id^="div-gpt-ad"][class^="paralax"])
+blokbojonegoro.com##div:has( > img[alt="Space Iklan"])
 kiryuu03.com##div[class*="ads-header"]
 jpnn.com##div[class^="ans-"]
 wolipop.detik.com##div[data-ads]
