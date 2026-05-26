@@ -362,6 +362,7 @@
 ##.lazyloaded.ads-50
 ##.loading.ads-50
 ##.mask-ads
+##.oduu-ads
 ##.part_iklan_content
 ##.part_iklan_footer
 ##.part_iklan_header
@@ -388,6 +389,8 @@
 ##.warning_iklan
 ##.widget_iklan_atas
 ##.wrapper-iklan-sidebar-artikel
+##[class*="oduu-html-id"]
+##[class^="oduu-banner-billboard"]
 ##[href^="https://promosi."]
 ##div[aria-label="Iklan"]
 ##img[data-ai-hint="advertisement banner"]
