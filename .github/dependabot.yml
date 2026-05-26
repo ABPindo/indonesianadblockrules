@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly" # Checks every week
+    assignees:
+      - "gmarcher"
+      - "heradhis"
+      - "arfshl"
+    groups:
+      github-actions-updates:
+        patterns:
+          - "*" # Groups all action updates into one PR
