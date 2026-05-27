@@ -1085,6 +1085,7 @@ medcom.id##div.showcase.banner
 medcom.id##div.skycrapper.banner
 cnbcindonesia.com##div.undefined
 kompas.com##div:has( > #gpt-passback)
+inews.id##div:has( > [id^="div-gpt-ad"])
 katadata.co.id##div:has( > [id^="div-gpt-ad"][class^="paralax"])
 blokbojonegoro.com##div:has( > img[alt="Space Iklan"])
 kiryuu03.com##div[class*="ads-header"]
