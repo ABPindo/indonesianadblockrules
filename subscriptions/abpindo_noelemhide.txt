@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202605241107
+! Version: 202605271333
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 24 May 2026 11:07 UTC
+! Last modified: 27 May 2026 13:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -429,8 +429,7 @@ asalunik.com,bokepgemoy.com##+js(nobab)
 193.142.147.230,5.253.86.213,ainzscans.net,jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 moviekhhd.biz##+js(nostif, location.href, 3000)
-anichin.top,animekompi.vip,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kisahterlarang.site,komikcast02.com,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
-kiryuu02.*##+js(nowolf)
+anichin.top,animekompi.vip,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
 okezone.com##+js(rc, content-wrap)
 inews.id##+js(rc, content-wrap|wrap-all)
 sindonews.com##+js(rc, t480)
