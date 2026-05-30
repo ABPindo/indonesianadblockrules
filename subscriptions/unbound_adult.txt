@@ -267,6 +267,7 @@ local-zone: "rumah-judi.com" always_nxdomain
 local-zone: "rumahtaruhan88.com" always_nxdomain
 local-zone: "semarangtogel.com" always_nxdomain
 local-zone: "sharkpokertour.com" always_nxdomain
+local-zone: "shopnoit.com" always_nxdomain
 local-zone: "situsagenjudi.com" always_nxdomain
 local-zone: "situstogelonline.com" always_nxdomain
 local-zone: "sunpoker.com" always_nxdomain
