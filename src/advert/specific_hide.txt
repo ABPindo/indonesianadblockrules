@@ -140,8 +140,6 @@ muslimterkini.id###AdAAnchor
 medcom.id###Ads_billboard
 otospeedcar.com,starringheavenlyrics.blogspot.com###HTML2
 indogamers.com###IklanIDGS
-ntvnews.id###LEADERBOARD_1
-ntvnews.id###LEADERBOARD_2
 sokuja.uk###OmgjLQi
 utusan.com.my###Taboola_widget
 chip.co.id###TopBannerBg
@@ -997,6 +995,8 @@ dailypost.id##[href^="https://lynk.id/dailypost.id"]
 lewat.club##[href^="https://manjur.id/search.php"]
 dailypost.id##[href^="https://wa.me"]
 dailypost.id##[href^="https://wa.wizard.id"]
+ntvnews.id##[id^="INARTICLE_"]
+ntvnews.id##[id^="LEADERBOARD_"]
 lk21official.mom##[id^="btop-"]
 nontonfilmgratis.club##[id^="floating_banner"]
 mangaku.bio##[id^="ftads"]
