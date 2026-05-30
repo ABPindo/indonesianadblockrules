@@ -132,3 +132,6 @@ kingbokep.media###floating-top
 kingbokep.media###floating-bottom
 bokepindo.*##.pos-top.widget-float
 bokepindo.*##.pos-bottom.widget-float
+artisbokep.*##.ab-top-video-banners
+artisbokep.*##.top-banner
+artisbokep.*##.banner-slide
