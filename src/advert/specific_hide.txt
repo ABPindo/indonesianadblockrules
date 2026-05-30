@@ -262,6 +262,7 @@ lensaindonesia.com###idcomright1.com-300x250
 lensaindonesia.com###idcomright2.com-300x250
 lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
+jpnn.com###iftop + div
 lihat.co.id###iklan-dalam-postingan-300
 tafsirweb.com###iklanACT
 bola.com,bola.net,dream.co.id,fimela.com,kapanlagi.com,liputan6.com,merdeka.com,otosia.com###in-image-ads
@@ -918,7 +919,7 @@ beritasiber.com##.sticky-ads-bottom
 kompas.com##.sticky-ads-close
 100kpj.com##.sticky-bottom
 inews.id##.stickyAds
-medcom.id##.sticky_bottom
+jpnn.com,medcom.id##.sticky_bottom
 kabargames.id##.stickybanner
 cnbcindonesia.com##.stickystatic
 theasianparent.com##.tap-ad-container
