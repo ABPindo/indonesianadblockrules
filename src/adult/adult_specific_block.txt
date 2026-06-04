@@ -3,3 +3,4 @@
 ||imgur.com/*.gif$image,domain=gocrot.*
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||gambar123.com/js/arv_24.js
+*$popup,domain=skripsitesisdisertasi.biz.id
