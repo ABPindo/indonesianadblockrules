@@ -59,9 +59,7 @@
 -sponsor-iklan-|$image
 ! Script patterns
 -iklan.js|$script
-! TLD-based popup blockers
-.bid^$popup,third-party
-.win^$popup,third-party
+
 ! Path patterns — image only
 .com/iklan/$image,domain=~persis.or.id
 /ads/iklan.$image

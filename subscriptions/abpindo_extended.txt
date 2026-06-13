@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202605091409
+! Version: 202606121124
 ! Title: ABPindo - Extended
 ! Description: Testing unsafe rules that may break certain websites, contain deleted filters/domains, and may reappear.
-! Last modified: 09 May 2026 14:09 UTC
+! Last modified: 12 Jun 2026 11:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -177,3 +177,8 @@ senimovie.info##.rsABlock
 ||vimaxpills.id^$popup
 ||webagenjudi.com^$third-party
 ||yoyopoker.net^$popup
+! TLD-level popup blocking — high .win/.bid abuse rate in ID
+! WARNING: May cause false positives on legitimate sites.
+! https://github.com/ABPindo/indonesianadblockrules/issues/1089
+.bid^$popup,third-party
+.win^$popup,third-party

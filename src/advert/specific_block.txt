@@ -87,6 +87,7 @@
 ||komikcast.*/wp-content/uploads/*.gif$image,~third-party
 ||kompas.com/data/banner/
 ||kotakgame.com/images/bnr/partner/*.jpg
+||kotakgame.com/includea/bannermidloadmore.php
 ||layarkeren.*/wp-content/uploads/*.gif$image
 ||linkgenerator.xyz$script,third-party
 ||lytogame.com/images/partner/$third-party

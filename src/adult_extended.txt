@@ -96,3 +96,8 @@
 ||vimaxpills.id^$popup
 ||webagenjudi.com^$third-party
 ||yoyopoker.net^$popup
+! TLD-level popup blocking — high .win/.bid abuse rate in ID
+! WARNING: May cause false positives on legitimate sites.
+! https://github.com/ABPindo/indonesianadblockrules/issues/1089
+.bid^$popup,third-party
+.win^$popup,third-party
