@@ -49,6 +49,28 @@ Contoh judul issue yang baik:
 
 ## Cara Mengirim Pull Request
 
+### Validasi Filter
+
+Sebelum mengirim PR, pastikan filter yang ditulis sudah valid:
+
+```bash
+# Validasi satu file
+python tools/validate_filters.py src/advert/adservers.txt
+
+# Validasi semua filter
+python tools/validate_filters.py src/
+
+# Validasi ketat (warning = error)
+python tools/validate_filters.py --strict src/
+```
+
+Tool validasi akan memeriksa:
+- Karakter invalid (zero-width space, BOM, dll)
+- Sintaks filter yang salah
+- Opsi filter yang tidak dikenal
+- Parenthesis yang tidak tertutup
+- Scriptlet yang tidak valid
+
 ### Lingkungan Pengujian yang Direkomendasikan
 
 Sebelum mengirim PR, uji filter menggunakan konfigurasi berikut agar konsisten dengan standar pengujian ABPindo:

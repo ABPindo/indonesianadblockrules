@@ -1,0 +1,19 @@
+#!/bin/bash
+# pre-commit — Validate filters before commit.
+# Install: cp tools/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+
+set -euo pipefail
+
+REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+VALIDATOR="$REPO_ROOT/tools/validate_filters.py"
+
+echo "==> Validating filter syntax..."
+
+if python "$VALIDATOR" --strict "$REPO_ROOT/src/"; then
+    echo "✓ Validation passed"
+    exit 0
+else
+    echo "✗ Validation failed — commit aborted"
+    echo "  Fix the errors above or use 'git commit --no-verify' to skip"
+    exit 1
+fi

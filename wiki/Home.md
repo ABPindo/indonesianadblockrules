@@ -19,6 +19,7 @@ Wiki ini berisi panduan lengkap penggunaan dan pengembangan ABPindo — daftar p
 |---|---|
 | [Filter Syntax](Filter-Syntax) | Sintaks filter yang digunakan ABPindo dan cara penulisannya |
 | [Filter Source Structure](Filter-Source-Structure) | Struktur folder `src/` dan fungsi setiap file filter |
+| [Filter Validation](Filter-Validation) | Cara kerja validasi otomatis dan cara menggunakannya |
 | [Contributing Guide](https://github.com/ABPindo/indonesianadblockrules/blob/master/CONTRIBUTING.md) | Cara melaporkan masalah dan mengirim pull request |
 
 ---

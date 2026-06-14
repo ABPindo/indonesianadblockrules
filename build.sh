@@ -10,6 +10,9 @@ TOOLS="$REPO_ROOT/tools"
 
 mkdir -p "$SUBSCRIPTIONS"
 
+echo "==> Validating filter syntax..."
+python3 "$TOOLS/validate_filters.py" "$REPO_ROOT/src/"
+
 echo "==> Running FOP..."
 fop -n "$REPO_ROOT/src/"
 
