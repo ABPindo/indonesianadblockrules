@@ -1,0 +1,66 @@
+name: dead-domain-export
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *"  # 1st of month at 00:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "lts/*"
+
+      - name: Install dead-domains-linter
+        run: npm install -g @adguard/dead-domains-linter
+
+      - name: Export dead domains from advert filters
+        run: |
+          echo "=== Exporting dead domains from src/advert/ ==="
+          dead-domains-linter -i "src/advert/*.txt" --export src/advert/dead_advert.txt
+
+      - name: Export dead domains from adult filters
+        run: |
+          echo "=== Exporting dead domains from src/adult/ ==="
+          dead-domains-linter -i "src/adult/*.txt" --export src/adult/dead_adult.txt
+
+      - name: Generate report
+        if: always()
+        run: |
+          echo "## Dead Domain Export Report" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date +%Y-%m-%d)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Exported Files" >> $GITHUB_STEP_SUMMARY
+          echo "| File | Domains |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|---------|" >> $GITHUB_STEP_SUMMARY
+          echo "| src/advert/dead_advert.txt | $(wc -l < src/advert/dead_advert.txt 2>/dev/null || echo 0) |" >> $GITHUB_STEP_SUMMARY
+          echo "| src/adult/dead_adult.txt | $(wc -l < src/adult/dead_adult.txt 2>/dev/null || echo 0) |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Review window:** 14 days before auto-import (15th of month)" >> $GITHUB_STEP_SUMMARY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add src/advert/dead_advert.txt src/adult/dead_adult.txt
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          
+          git commit -m "chore: export dead domains [skip ci]"
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

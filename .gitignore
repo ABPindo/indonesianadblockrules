@@ -8,3 +8,8 @@ __pycache__/
 # Logs
 *.log
 *.out
+
+# Temporary files
+*.tmp
+*.temp
+.validation-report.json

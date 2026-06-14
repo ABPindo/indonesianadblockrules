@@ -1,0 +1,89 @@
+name: dead-domain-import
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 15 * *"  # 15th of month at 00:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "lts/*"
+
+      - name: Install dead-domains-linter
+        run: npm install -g @adguard/dead-domains-linter
+
+      - name: Check if export files exist
+        id: check
+        run: |
+          ADVERT_LINES=$(wc -l < src/advert/dead_advert.txt 2>/dev/null || echo "0")
+          ADULT_LINES=$(wc -l < src/adult/dead_adult.txt 2>/dev/null || echo "0")
+          echo "advert_lines=$ADVERT_LINES" >> $GITHUB_OUTPUT
+          echo "adult_lines=$ADULT_LINES" >> $GITHUB_OUTPUT
+          
+          echo "Dead domains to import:"
+          echo "  src/advert/dead_advert.txt: $ADVERT_LINES"
+          echo "  src/adult/dead_adult.txt: $ADULT_LINES"
+
+      - name: Import dead domains from advert filters
+        if: steps.check.outputs.advert_lines != '0'
+        run: |
+          echo "=== Importing dead domains to src/advert/ ==="
+          dead-domains-linter -i "src/advert/*.txt" --import=src/advert/dead_advert.txt --auto
+
+      - name: Import dead domains from adult filters
+        if: steps.check.outputs.adult_lines != '0'
+        run: |
+          echo "=== Importing dead domains to src/adult/ ==="
+          dead-domains-linter -i "src/adult/*.txt" --import=src/adult/dead_adult.txt --auto
+
+      - name: Clear export files after import
+        if: steps.check.outputs.advert_lines != '0' || steps.check.outputs.adult_lines != '0'
+        run: |
+          echo "# Dead domains - cleared after import on $(date +%Y-%m-%d)" > src/advert/dead_advert.txt
+          echo "# Dead domains - cleared after import on $(date +%Y-%m-%d)" > src/adult/dead_adult.txt
+
+      - name: Generate report
+        if: always()
+        run: |
+          echo "## Dead Domain Import Report" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date +%Y-%m-%d)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Import Summary" >> $GITHUB_STEP_SUMMARY
+          echo "| File | Domains Imported |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|------------------|" >> $GITHUB_STEP_SUMMARY
+          echo "| src/advert/dead_advert.txt | ${{ steps.check.outputs.advert_lines }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| src/adult/dead_adult.txt | ${{ steps.check.outputs.adult_lines }} |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          CHANGED=$(git diff --name-only src/ | wc -l)
+          echo "### Files Modified: $CHANGED" >> $GITHUB_STEP_SUMMARY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add src/advert/ src/adult/
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          
+          TOTAL=$(( ${{ steps.check.outputs.advert_lines }} + ${{ steps.check.outputs.adult_lines }} ))
+          git commit -m "chore: auto-import $TOTAL dead domains [skip ci]"
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
