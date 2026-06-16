@@ -82,10 +82,6 @@ nekopoi.care##div[class^="mobileads"]
 drbokep.*##.loaded.ads-50
 filmjepangku.net,hencop.lol,heppinn.id,javsubid.com,javsubindo.site,komik18.*,komikdewasa.*,komikremaja.*,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.mom,manhwalist.com,pascol.*,pascol.com,sintube.icu,skandalpedia.*,starjepang.*##.kln
 igobokep.*###floatbanner-bottom
-kingbokep.*##.md\:flex-row.flex-col.gap-3.flex.mt-3
-kingbokep.*##[grid-area="ads1"]
-kingbokep.*##div.flex.w-full.justify-center.overflow-x-auto
-kingbokep.*##div[style="width:300px;height:250px;z-index:1"]
 kiyowo.sbs,lendirpedia.*,pascol.*,pascol.com,sintube.icu##.teaser3
 komikdewasa.*##.teaser4
 komikindo.*##.ads a[href]
@@ -128,10 +124,12 @@ semprot.com##.jual_tetek
 semprot.com##img[data-ad]
 semprot.com##semprotnenenmontok_f
 semprot.com##.warning_iklan
-kingbokep.media###floating-top
-kingbokep.media###floating-bottom
+kingbokep.*###floating-top
+kingbokep.*###floating-bottom
 bokepindo.*##.pos-top.widget-float
 bokepindo.*##.pos-bottom.widget-float
 artisbokep.*##.ab-top-video-banners
 artisbokep.*##.top-banner
 artisbokep.*##.banner-slide
+kingbokep.*##[data-dgazzbdbfcbzagfz]
+kingbokep.*##[style^="height:"]:has(> img)
