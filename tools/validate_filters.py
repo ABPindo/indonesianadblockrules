@@ -165,7 +165,7 @@ class FilterValidator:
                     f"Invalid character: U+{ord(char):04X}", rule)
 
         # Skip if already has errors from invalid characters
-        if any(e.line == line and e.severity == "error" for e in errors):
+        if any(e.line == line and e.severity == "error" for e in self.errors):
             return errors
 
         # Determine filter type and validate

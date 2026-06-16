@@ -31,10 +31,6 @@ jobs:
       - name: Validate filter syntax
         run: python tools/validate_filters.py src/
 
-      - name: Validate with strict mode (warnings as errors)
-        if: github.event_name == 'pull_request'
-        run: python tools/validate_filters.py --strict src/
-
       - name: Generate validation report
         if: always()
         run: |
@@ -44,3 +40,7 @@ jobs:
           echo '```json' >> $GITHUB_STEP_SUMMARY
           cat validation-report.json >> $GITHUB_STEP_SUMMARY
           echo '```' >> $GITHUB_STEP_SUMMARY
+
+      - name: Validate with strict mode (warnings as errors)
+        if: github.event_name == 'pull_request'
+        run: python tools/validate_filters.py --strict src/
