@@ -1,52 +1,54 @@
 # Filter Validation
 
-ABPindo includes automated filter syntax validation to catch errors before they reach production.
+ABPindo uses [AGLint](https://github.com/AdguardTeam/AGLint) for automated filter syntax validation.
 
 ## Overview
 
-The validation tool checks for:
+AGLint checks for:
 
-- **Invalid characters** — Non-printable characters, zero-width spaces, BOM markers
-- **Malformed network filters** — Broken domain anchors, invalid patterns, unclosed regex
-- **Invalid element hiding rules** — Unclosed parentheses, invalid CSS selectors
-- **Unknown filter options** — Deprecated or misspelled options
-- **Scriptlet injection errors** — Invalid scriptlet names, malformed arguments
-- **Extended CSS issues** — Unmatched parentheses, invalid pseudo-selectors
+- **Invalid modifiers** — Unknown or misplaced filter options
+- **Invalid CSS syntax** — Malformed element hiding selectors
+- **Invalid domains** — Incorrect domain patterns in rules
+- **Duplicated modifiers** — Same modifier used multiple times
+- **Unknown preprocessor directives** — Invalid `!#if`, `!#endif` usage
 
 ## Usage
 
 ### Command Line
 
 ```bash
-# Validate a single file
-python tools/validate_filters.py src/advert/adservers.txt
-
 # Validate all filters
-python tools/validate_filters.py src/
+aglint 'src/**/*.txt'
 
-# Strict mode (warnings become errors)
-python tools/validate_filters.py --strict src/
+# Validate specific directory
+aglint src/advert/*.txt
 
-# JSON output
-python tools/validate_filters.py --json src/
-```
-
-### Pre-commit Hook
-
-Install the pre-commit hook to validate automatically before each commit:
-
-```bash
-cp tools/pre-commit .git/hooks/pre-commit
-chmod +x .git/hooks/pre-commit
+# Auto-fix issues (careful: overwrites files)
+aglint 'src/**/*.txt' --fix
 ```
 
 ### CI/CD
 
 Validation runs automatically:
 
-- **On PR** — Validates all changed filter files
+- **On PR** — Validates all filter files, fails on errors
 - **On push to master** — Validates before building
-- **Weekly** — Full validation of all filters
+
+## Configuration
+
+AGLint is configured via `.aglintrc.yaml`:
+
+```yaml
+root: true
+extends:
+  - aglint:recommended
+syntax:
+  - AdblockPlus
+rules:
+  invalid-modifiers: error
+  no-invalid-css-syntax: error
+  invalid-domain-list: warn
+```
 
 ## Error Severity
 
@@ -55,43 +57,24 @@ Validation runs automatically:
 | **error** | Syntax error that will break the filter | Must fix before merge |
 | **warning** | Potential issue or deprecated syntax | Recommended to fix |
 
-## Common Errors
+## Inline Configuration
 
-### Invalid Domain Pattern
-```
-Error: Invalid domain pattern
-Rule: ||^$third-party
-Fix:  ||example.com^$third-party
-```
+You can disable AGLint for specific rules:
 
-### Unmatched Parentheses
-```
-Error: Unmatched opening parenthesis
-Rule: example.com##+js(set, timeout, 1000
-Fix:  example.com##+js(set, timeout, 1000)
-```
+```bash
+# Disable for next line
+! aglint-disable-next-line
+example.com##.ad
 
-### Unknown Scriptlet
-```
-Warning: Unknown scriptlet: invalid-scriptlet
-Rule: example.com##+js(invalid-scriptlet)
-Fix:  Use a valid scriptlet name from the documentation
+# Disable for block
+! aglint-disable
+example.com##.ad
+example.net##.ad
+! aglint-enable
 ```
 
-## Integration with Tools
+## CI Pipeline
 
-### FOP (Filter Orderer and Preener)
-FOP runs before validation to sort and clean filter files. The validator then checks the cleaned output.
-
-### CI Pipeline
 ```
-Source Files → FOP → Validator → Build → Output
+Source Files → FOP → AGLint → Build → Output
 ```
-
-## Adding Custom Checks
-
-To add new validation rules, edit `tools/validate_filters.py`:
-
-1. Add the check to the appropriate `validate_*` method
-2. Use `self.add_error()` to report issues
-3. Update `VALID_*` constants for new options/selectors

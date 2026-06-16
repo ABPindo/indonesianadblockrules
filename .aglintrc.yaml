@@ -1,0 +1,11 @@
+root: true
+extends:
+  - aglint:recommended
+
+syntax:
+  - AdblockPlus
+
+rules:
+  invalid-modifiers: error
+  no-invalid-css-syntax: error
+  invalid-domain-list: warn

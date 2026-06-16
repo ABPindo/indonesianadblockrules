@@ -17,5 +17,9 @@ npm install -g fop-cli
 # https://github.com/AdguardTeam/DeadDomainsLinter
 npm install -g @adguard/dead-domains-linter
 
+# Universal adblock filter list linter 
+# https://github.com/AdguardTeam/AGLint
+npm install -g @adguard/aglint
+
 echo "==> All tools installed."
-echo "    Verify: fop --version && flrender --version && dead-domains-linter --version"
+echo "    Verify: fop --version && flrender --version && dead-domains-linter --version && aglint --version"

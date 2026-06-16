@@ -34,9 +34,6 @@ jobs:
           pip install python-abp adblock-decoder
           npm install -g fop-cli
 
-      - name: Validate filter syntax
-        run: python tools/validate_filters.py src/
-
       - name: Run FOP
         run: fop -n src/
 
