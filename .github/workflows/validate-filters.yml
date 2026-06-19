@@ -32,7 +32,9 @@ jobs:
         run: npm install -g @adguard/aglint
 
       - name: Validate filters
-        run: aglint src/**/*.txt
+        run: |
+          shopt -s globstar
+          aglint src/**/*.txt
 
       - name: Generate report
         if: always()

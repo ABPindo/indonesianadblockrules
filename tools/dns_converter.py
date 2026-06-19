@@ -10,6 +10,7 @@ Source: https://gist.github.com/iam-py-test/ba35ce681e195c690ea3590f79479a3b
 
 Usage:
     python3 dns_converter.py --format FORMAT input.txt output.txt
+    python3 dns_converter.py --format FORMAT --check input.txt
 
 Formats:
     hosts           0.0.0.0 example.com  (replaces adblock2hosts)
@@ -38,6 +39,9 @@ FORMATS = {
 # Regex to match ABP network filter rules: ||domain.com^$options
 _ABP_NETWORK_RE = re.compile(r"^\|\|([a-zA-Z0-9.-]+)\^")
 
+# Regex to detect lines that look like ABP rules but don't match our parser
+_ABP_LIKE_RE = re.compile(r"^\|\|.*\^")
+
 
 def extract_domain(line: str) -> str | None:
     """Return the domain from a hosts or ABP-format line, or None if not applicable."""
@@ -62,14 +66,48 @@ def extract_domain(line: str) -> str | None:
     return None
 
 
-def convert(input_path: str, output_path: str, fmt: str) -> None:
+def convert(input_path: str, output_path: str | None, fmt: str, check: bool = False) -> bool:
+    """
+    Convert input file to the specified format.
+    
+    Args:
+        input_path: Path to input file
+        output_path: Path to output file (None for --check mode)
+        fmt: Output format name
+        check: If True, validate without writing output
+        
+    Returns:
+        True if conversion succeeded, False if errors found
+    """
     formatter = FORMATS[fmt]
-    print(f"Converting {input_path} -> {output_path} (format: {fmt})")
+    seen_domains: set[str] = set()
+    skipped_lines = 0
+    duplicate_count = 0
+    unparsed_lines: list[tuple[int, str]] = []
+    has_errors = False
 
-    with open(input_path, "r", encoding="utf-8") as infile, \
-         open(output_path, "w", encoding="utf-8") as outfile:
+    print(f"Converting {input_path} -> {output_path or '(check mode)'} (format: {fmt})")
 
-        for line in infile:
+    try:
+        with open(input_path, "r", encoding="utf-8") as infile:
+            lines = infile.readlines()
+    except FileNotFoundError as e:
+        print(f"Error: {e}", file=sys.stderr)
+        return False
+    except OSError as e:
+        print(f"Error: {e}", file=sys.stderr)
+        return False
+
+    outfile = None
+    if not check and output_path:
+        try:
+            outfile = open(output_path, "w", encoding="utf-8")
+        except OSError as e:
+            print(f"Error: {e}", file=sys.stderr)
+            return False
+
+    try:
+        for line_num, line in enumerate(lines, 1):
             stripped = line.strip()
 
             if not stripped:
@@ -77,17 +115,55 @@ def convert(input_path: str, output_path: str, fmt: str) -> None:
 
             # Preserve comments and headers
             if stripped.startswith(("!", "#")):
-                outfile.write(stripped + "\n")
+                if outfile:
+                    outfile.write(stripped + "\n")
                 continue
 
             domain = extract_domain(stripped)
             if domain:
-                outfile.write(formatter(domain) + "\n")
+                if domain in seen_domains:
+                    duplicate_count += 1
+                    continue
+                seen_domains.add(domain)
+                if outfile:
+                    outfile.write(formatter(domain) + "\n")
+            else:
+                skipped_lines += 1
+                # Track lines that look like ABP rules but couldn't be parsed
+                if _ABP_LIKE_RE.match(stripped):
+                    unparsed_lines.append((line_num, stripped))
+    finally:
+        if outfile:
+            outfile.close()
+
+    # Print summary
+    print(f"  Domains processed: {len(seen_domains)}")
+    if duplicate_count > 0:
+        print(f"  Duplicates removed: {duplicate_count}")
+    if skipped_lines > 0:
+        print(f"  Lines skipped: {skipped_lines}")
+    if unparsed_lines:
+        print(f"  Warning: {len(unparsed_lines)} line(s) look like ABP rules but couldn't be parsed:")
+        for line_num, line_text in unparsed_lines[:10]:  # Show first 10
+            print(f"    Line {line_num}: {line_text}")
+        if len(unparsed_lines) > 10:
+            print(f"    ... and {len(unparsed_lines) - 10} more")
+
+    # Validate output
+    if not check and output_path:
+        if len(seen_domains) == 0:
+            print("Error: No domains found in input file", file=sys.stderr)
+            has_errors = True
+
+    if unparsed_lines:
+        has_errors = True
+
+    return not has_errors
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Convert hosts file to DNS blocker formats."
+        description="Convert ABP/hosts files to DNS blocker formats."
     )
     parser.add_argument(
         "--format",
@@ -96,18 +172,20 @@ def main() -> None:
         metavar="FORMAT",
         help=f"Output format: {', '.join(FORMATS.keys())}",
     )
-    parser.add_argument("input", help="Input hosts file")
-    parser.add_argument("output", help="Output file")
+    parser.add_argument(
+        "--check",
+        action="store_true",
+        help="Validate input file without producing output",
+    )
+    parser.add_argument("input", help="Input file (ABP or hosts format)")
+    parser.add_argument("output", nargs="?", help="Output file (not required with --check)")
     args = parser.parse_args()
 
-    try:
-        convert(args.input, args.output, args.format)
-    except FileNotFoundError as e:
-        print(f"Error: {e}", file=sys.stderr)
-        sys.exit(1)
-    except OSError as e:
-        print(f"Error: {e}", file=sys.stderr)
-        sys.exit(1)
+    if not args.check and not args.output:
+        parser.error("output argument is required when --check is not used")
+
+    success = convert(args.input, args.output, args.format, args.check)
+    sys.exit(0 if success else 1)
 
 
 if __name__ == "__main__":
