@@ -115,7 +115,7 @@ Filter ABPindo diuji menggunakan konfigurasi berikut:
 - [DNS Filtering Rules Syntax — AdGuard](https://adguard-dns.io/kb/general/dns-filtering-syntax/)
 - [python-abp](https://github.com/adblockplus/python-abp) — utilitas rendering filter ABPindo
 - [PyFunceble](https://github.com/funilrys/PyFunceble) — utilitas pengecekan status domain
-- [adblock-decoder](https://github.com/PyFunceble/adblock-decoder) — konversi filter ke format hosts dan plain text
+- [dns_converter.py](tools/dns_converter.py) — konversi filter ke format hosts, plain, dan DNS lainnya
 - Prasyarat: [Python](https://www.python.org/downloads/), [pip](https://pypi.org/project/pip/)
 
 ---

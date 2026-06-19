@@ -31,7 +31,7 @@ jobs:
       - name: Install tools
         run: |
           python -m pip install --upgrade pip
-          pip install python-abp adblock-decoder
+          pip install python-abp
           npm install -g fop-cli
 
       - name: Run FOP
@@ -50,11 +50,11 @@ jobs:
 
       - name: Build DNS filters
         run: |
-          adblock2hosts --ip 0.0.0.0 -o subscriptions/hosts.txt       subscriptions/abpindo_hosts.txt
-          adblock2hosts --ip 0.0.0.0 -o subscriptions/hosts_adult.txt subscriptions/abpindo_hosts_adult.txt
+          python tools/dns_converter.py --format hosts subscriptions/abpindo_hosts.txt       subscriptions/hosts.txt
+          python tools/dns_converter.py --format hosts subscriptions/abpindo_hosts_adult.txt subscriptions/hosts_adult.txt
 
-          adblock2plain -o subscriptions/domain.txt       subscriptions/abpindo_hosts.txt
-          adblock2plain -o subscriptions/domain_adult.txt subscriptions/abpindo_hosts_adult.txt
+          python tools/dns_converter.py --format plain subscriptions/abpindo_hosts.txt       subscriptions/domain.txt
+          python tools/dns_converter.py --format plain subscriptions/abpindo_hosts_adult.txt subscriptions/domain_adult.txt
 
           python tools/dns_converter.py --format dnsmasq_address subscriptions/hosts.txt       subscriptions/dnsmasq.txt
           python tools/dns_converter.py --format dnsmasq_address subscriptions/hosts_adult.txt subscriptions/dnsmasq_adult.txt

@@ -23,11 +23,11 @@ flrender -i abpindo="$REPO_ROOT" "$REPO_ROOT/abpindo_hosts.template"       "$SUB
 flrender -i abpindo="$REPO_ROOT" "$REPO_ROOT/abpindo_hosts_adult.template" "$SUBSCRIPTIONS/abpindo_hosts_adult.txt"
 
 echo "==> Building DNS filters..."
-adblock2hosts --ip 0.0.0.0 -o "$SUBSCRIPTIONS/hosts.txt"       "$SUBSCRIPTIONS/abpindo_hosts.txt"
-adblock2hosts --ip 0.0.0.0 -o "$SUBSCRIPTIONS/hosts_adult.txt" "$SUBSCRIPTIONS/abpindo_hosts_adult.txt"
+python3 "$TOOLS/dns_converter.py" --format hosts "$SUBSCRIPTIONS/abpindo_hosts.txt"       "$SUBSCRIPTIONS/hosts.txt"
+python3 "$TOOLS/dns_converter.py" --format hosts "$SUBSCRIPTIONS/abpindo_hosts_adult.txt" "$SUBSCRIPTIONS/hosts_adult.txt"
 
-adblock2plain -o "$SUBSCRIPTIONS/domain.txt"       "$SUBSCRIPTIONS/abpindo_hosts.txt"
-adblock2plain -o "$SUBSCRIPTIONS/domain_adult.txt" "$SUBSCRIPTIONS/abpindo_hosts_adult.txt"
+python3 "$TOOLS/dns_converter.py" --format plain "$SUBSCRIPTIONS/abpindo_hosts.txt"       "$SUBSCRIPTIONS/domain.txt"
+python3 "$TOOLS/dns_converter.py" --format plain "$SUBSCRIPTIONS/abpindo_hosts_adult.txt" "$SUBSCRIPTIONS/domain_adult.txt"
 
 python3 "$TOOLS/dns_converter.py" --format dnsmasq_address "$SUBSCRIPTIONS/hosts.txt"       "$SUBSCRIPTIONS/dnsmasq.txt"
 python3 "$TOOLS/dns_converter.py" --format dnsmasq_address "$SUBSCRIPTIONS/hosts_adult.txt" "$SUBSCRIPTIONS/dnsmasq_adult.txt"

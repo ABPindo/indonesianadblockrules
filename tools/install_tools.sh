@@ -6,7 +6,7 @@ set -euo pipefail
 
 echo "==> Installing Python tools..."
 python -m pip install --upgrade pip
-pip install python-abp adblock-decoder
+pip install python-abp
 
 echo "==> Installing Node.js tools..."
 # fop-cli: Filter Orderer and Preener (Rust edition, published via npm)
