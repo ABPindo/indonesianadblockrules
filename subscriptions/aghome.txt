@@ -1,3 +1,17 @@
+! Version: 202606201250
+! Title: ABPindo (hosts)
+! Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
+! Last modified: 20 Jun 2026 12:50 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/ABPindo/indonesianadblockrules/
+! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
+!
+! Please report unblocked ads or issues:
+! GitHub issues: https://github.com/ABPindo/indonesianadblockrules/issues
+! GitHub pull requests: https://github.com/ABPindo/indonesianadblockrules/pulls
+!
+! *** abpindo:src/advert/adservers.txt ***
+! Confirmed ad servers
 ||188affiliates.com^
 ||accesstrade.co.id^
 ||ad-loupe.com^
@@ -83,6 +97,7 @@
 ||useads.com^
 ||webiklan.com^
 ||yesads.com^
+! Potential ad servers
 ||64p3am9x95ct.com^
 ||9eb10b7a3d04a.com^
 ||adplus.co.id^
@@ -111,6 +126,7 @@
 ||sumberiklan.com^
 ||vkwaeo.com^
 ||yllix.com^
+! *** abpindo:src/advert/thirdparty.txt ***
 ||c-stat.eu^
 ||moneyfree.co^
 ||track.aptitudemedia.co^
