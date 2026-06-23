@@ -62,15 +62,6 @@ ABPindo menggunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/
 
 ### Untuk Ekstensi Browser (Sintaks Adblock Plus)
 
-
-### Tabel Langganan ABPindo (Mirror Berdasarkan Sumber)
-
-### Tabel Langganan ABPindo (Kelompok Langganan & RAW)
-
-### Tabel Langganan ABPindo (Mirror Berdasarkan Sumber)
-
-
-
 | Langganan (GitHub) | Langganan (GitLab) | RAW File | Keterangan |
 |---|---|---|---|
 | [ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo) | [ABPindo](https://subscribe.adblockplus.org/?location=https://gitlab.com/ABPindo/indonesianadblockrules/-/raw/master/subscriptions/abpindo.txt&title=ABPindo) | [GitHub](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt) [GitLab](https://gitlab.com/ABPindo/indonesianadblockrules/-/raw/master/subscriptions/abpindo.txt) | Filter lengkap — **direkomendasikan untuk sebagian besar pengguna** |
@@ -78,6 +69,8 @@ ABPindo menggunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/
 | [ABPindo - No Element Hiding](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt&title=ABPindo_noelementhide) | [ABPindo - No Element Hiding](https://subscribe.adblockplus.org/?location=https://gitlab.com/ABPindo/indonesianadblockrules/-/raw/master/subscriptions/abpindo_noelemhide.txt&title=ABPindo_noelementhide) | [GitHub](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt) [GitLab](https://gitlab.com/ABPindo/indonesianadblockrules/-/raw/master/subscriptions/abpindo_noelemhide.txt) | Filter tanpa aturan penyembunyian elemen HTML |
 | [ABPindo - Annoyance](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_annoyances.txt&title=ABPindo_annoyance) | [ABPindo - Annoyance](https://subscribe.adblockplus.org/?location=https://gitlab.com/ABPindo/indonesianadblockrules/-/raw/master/subscriptions/abpindo_annoyances.txt&title=ABPindo_annoyance) | [GitHub](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_annoyances.txt) [GitLab](https://gitlab.com/ABPindo/indonesianadblockrules/-/raw/master/subscriptions/abpindo_annoyances.txt) | Memblokir elemen UI yang mengganggu: popup/overlay non-iklan, video autoplay |
 | [ABPindo - Extended](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_extended.txt&title=ABPindo_extended) | [ABPindo - Extended](https://subscribe.adblockplus.org/?location=https://gitlab.com/ABPindo/indonesianadblockrules/-/raw/master/subscriptions/abpindo_extended.txt&title=ABPindo_extended) | [GitHub](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_extended.txt) [GitLab](https://gitlab.com/ABPindo/indonesianadblockrules/-/raw/master/subscriptions/abpindo_extended.txt) | Filter uji coba dan domain residu dari [PyFunceble](https://github.com/funilrys/PyFunceble) / [DeadDomainsLinter](https://github.com/AdguardTeam/DeadDomainsLinter) yang masih mungkin aktif kembali |
+
+### Untuk Pemblokir DNS (Sintaks Hosts & Domain)
 
 | Format / Sintaks | Aplikasi yang Didukung | ABPindo (Biasa) | ABPindo + Adult | Contoh Pola |
 | :--- | :--- | :--- | :--- | :--- |
