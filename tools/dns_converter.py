@@ -113,9 +113,11 @@ def convert(input_path: str, output_path: str | None, fmt: str, check: bool = Fa
             if not stripped:
                 continue
 
-            # Preserve comments and headers
+            # Preserve comments and headers, converting ! to # for DNS formats
             if stripped.startswith(("!", "#")):
                 if outfile:
+                    if stripped.startswith("!"):
+                        stripped = "#" + stripped[1:]
                     outfile.write(stripped + "\n")
                 continue
 
