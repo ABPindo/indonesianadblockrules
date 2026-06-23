@@ -80,6 +80,11 @@ jobs:
           sed -i 's/!/#/g' subscriptions/dnsmasq*.txt
           sed -i 's/!/#/g' subscriptions/rpz*.txt
           sed -i 's/!/#/g' subscriptions/unbound*.txt
+          sed -i 's|^\[Adblock Plus 2\.0\]$|# [Adblock Plus 2.0]|' subscriptions/hosts*.txt
+          sed -i 's|^\[Adblock Plus 2\.0\]$|# [Adblock Plus 2.0]|' subscriptions/domain*.txt
+          sed -i 's|^\[Adblock Plus 2\.0\]$|# [Adblock Plus 2.0]|' subscriptions/dnsmasq*.txt
+          sed -i 's|^\[Adblock Plus 2\.0\]$|# [Adblock Plus 2.0]|' subscriptions/rpz*.txt
+          sed -i 's|^\[Adblock Plus 2\.0\]$|# [Adblock Plus 2.0]|' subscriptions/unbound*.txt
           
       - name: Commit and push
         run: |
