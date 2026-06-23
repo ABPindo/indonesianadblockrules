@@ -73,6 +73,14 @@ jobs:
           python tools/dns_converter.py --format unbound         subscriptions/hosts.txt       subscriptions/unbound.txt
           python tools/dns_converter.py --format unbound         subscriptions/hosts_adult.txt subscriptions/unbound_adult.txt
 
+          # Change comment format from (!) to (#) on all dns filter format except adguardhome format
+          
+          sed -i 's/!/#/g' subscriptions/hosts*.txt
+          sed -i 's/!/#/g' subscriptions/domain*.txt
+          sed -i 's/!/#/g' subscriptions/dnsmasq*.txt
+          sed -i 's/!/#/g' subscriptions/rpz*.txt
+          sed -i 's/!/#/g' subscriptions/unbound*.txt
+          
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
