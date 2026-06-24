@@ -188,6 +188,9 @@ hdtvku.com###bannerkategoriheader
 ekonomi.inilah.com,teknologi.inilah.com###bannerkiri
 tribunnews.com###bannerku
 tribunnews.com###bannerkubawah
+tribunnews.com##.box__reserved
+tribunnews.com##.ads__horizontal.clearfix
+tribunnews.com###wideskyscraper
 kotakgame.com###bannertheme_left
 kotakgame.com###bannertheme_right
 olx.co.id###baxter-ads-details-bottom
