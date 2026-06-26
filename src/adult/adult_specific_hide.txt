@@ -121,3 +121,8 @@ nekopoi.care##div[class^="adsgen"] iframe
 nekopoi.care##div[class^="mobileads"]
 semprot.com##img[data-ad]
 semprot.com##semprotnenenmontok_f
+asiasizzle.com##.ad-banner
+asiasizzle.com###popup-banner-overlay
+asiasizzle.com##div#popup-banner-overlay
+asiasizzle.com##div.popup-banner-content
+asiasizzle.com##div.popup-banner-grid
