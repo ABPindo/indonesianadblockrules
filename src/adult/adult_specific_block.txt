@@ -4,3 +4,4 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||gambar123.com/js/arv_24.js
 ||imgur.com/*.gif$image,domain=gocrot.*
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
+||pic.desu.xxx/content/banner/*.gif$image
