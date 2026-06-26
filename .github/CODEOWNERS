@@ -1,0 +1,39 @@
+# ABPindo CODEOWNERS
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+#
+# Order matters: last matching pattern takes precedence.
+# All owners must have write access to the repository.
+
+# === Global Fallback ===
+*                                       @gmarcher @heradhis @arfshl
+
+# === Source Filters ===
+/src/advert/                            @gmarcher @heradhis
+/src/adult/                             @gmarcher
+/src/annoyances.txt                     @gmarcher @heradhis
+/src/advert_extended.txt                @gmarcher @heradhis @arfshl
+/src/adult_extended.txt                 @gmarcher @heradhis @arfshl
+
+# === Build System ===
+*.template                              @gmarcher @heradhis
+/build.sh                               @gmarcher @heradhis
+/tools/                                 @gmarcher @heradhis
+
+# === CI/CD ===
+/.github/workflows/                     @gmarcher @heradhis @arfshl
+/.github/dependabot.yml                 @gmarcher @heradhis @arfshl
+/.github/CODEOWNERS                     @gmarcher
+
+# === Documentation ===
+/wiki/                                  @gmarcher @heradhis
+*.md                                    @gmarcher @heradhis
+
+# === Configuration ===
+/.aglintrc.yaml                         @gmarcher @heradhis
+/.aglintignore                          @gmarcher @heradhis
+/.editorconfig                          @gmarcher
+/.gitattributes                         @gmarcher
+/.gitignore                             @gmarcher
+
+# === Subscription Output ===
+/subscriptions/                         @gmarcher

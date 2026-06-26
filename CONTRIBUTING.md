@@ -10,6 +10,20 @@ Terima kasih sudah meluangkan waktu untuk membantu ABPindo! Panduan ini menjelas
 - **Reproduksi masalah** — pastikan masalah konsisten terjadi, bukan hanya sekali.
 - **Nonaktifkan ekstensi lain** — untuk memastikan masalahnya benar-benar dari ABPindo, bukan filter lain.
 
+### Setup Lingkungan Pengembangan
+
+```bash
+# Clone repositori
+git clone https://github.com/ABPindo/indonesianadblockrules.git
+cd indonesianadblockrules
+
+# Install dependencies
+npm install
+bash tools/install_tools.sh
+```
+
+Lihat juga: [Filter Validation](../wiki/Filter-Validation.md) untuk panduan AGLint lengkap.
+
 ---
 
 ## Cara Melaporkan Masalah
@@ -51,24 +65,20 @@ Contoh judul issue yang baik:
 
 ### Validasi Filter
 
-Sebelum mengirim PR, pastikan filter yang ditulis sudah valid:
+Sebelum mengirim PR, pastikan filter yang ditulis sudah valid menggunakan [AGLint](https://github.com/AdguardTeam/AGLint):
 
 ```bash
-# Validasi satu file
-python tools/validate_filters.py src/advert/adservers.txt
+# Install dependencies (pertama kali saja)
+npm install
 
 # Validasi semua filter
-python tools/validate_filters.py src/
-
-# Validasi ketat (warning = error)
-python tools/validate_filters.py --strict src/
+npm run lint
 ```
 
-Tool validasi akan memeriksa:
-- Karakter invalid (zero-width space, BOM, dll)
+AGLint akan memeriksa:
 - Sintaks filter yang salah
 - Opsi filter yang tidak dikenal
-- Parenthesis yang tidak tertutup
+- Karakter invalid
 - Scriptlet yang tidak valid
 
 ### Lingkungan Pengujian yang Direkomendasikan
@@ -117,13 +127,25 @@ Gunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write
    ```
 3. Tambahkan atau ubah filter di file `src/` yang sesuai
 4. Uji perubahan di peramban
-5. Commit dengan pesan yang jelas:
+5. Commit dengan pesan yang jelas menggunakan prefix:
    ```
-   Add: blokir banner iklan di situs contoh.com
-   Fix: false positive pada gambar produk tokopedia.com
-   Remove: filter domain yang sudah tidak aktif
+   A: https://contoh.com — blokir banner iklan di sidebar
+   M: Fix false positive pada gambar produk tokopedia.com
+   P: https://shopee.co.id — hapus filter yang terlalu luas
    ```
 6. Buat Pull Request dan jelaskan perubahan yang dilakukan
+
+### Konvensi Pesan Commit
+
+Gunakan prefix untuk setiap commit:
+
+| Prefix | Kegunaan | Contoh |
+|--------|----------|--------|
+| `A:` | **Add** — Menambahkan filter baru | `A: https://kompas.com — tambah popup blocker` |
+| `M:` | **Modify** — Memodifikasi filter yang sudah ada | `M: Fix false positive on tokopedia.com` |
+| `P:` | **Problem** — Perbaikan masalah (menghapus/menyempitkan filter) | `P: https://shopee.co.id — remove overly broad rule` |
+
+Format: `A: <url> <deskripsi singkat>` atau `M: <deskripsi>`
 
 ---
 

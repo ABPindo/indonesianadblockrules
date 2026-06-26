@@ -17,14 +17,17 @@ AGLint checks for:
 ### Command Line
 
 ```bash
+# Install dependencies (pertama kali saja)
+npm install
+
 # Validate all filters
-aglint 'src/**/*.txt'
+npm run lint
 
 # Validate specific directory
-aglint src/advert/*.txt
+npx aglint src/advert/*.txt
 
 # Auto-fix issues (careful: overwrites files)
-aglint 'src/**/*.txt' --fix
+npx aglint 'src/**/*.txt' --fix
 ```
 
 ### CI/CD
