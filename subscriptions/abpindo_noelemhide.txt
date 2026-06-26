@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202606241107
+! Version: 202606261223
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 24 Jun 2026 11:07 UTC
+! Last modified: 26 Jun 2026 12:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -868,6 +868,12 @@ tokosatu.com#@#.popupflyin-clicks-area
 /dewatangkas-$image
 /dewatangkas.$image,third-party
 /dewatangkas_$image
+/dewataslot.jpg$image
+/dewataslot.png$image
+/dewataslot.webp$image
+/dewaterbang.jpg$image
+/dewaterbang.png$image
+/dewaterbang.webp$image
 /Dewatogel-$image
 /dewatogel.$image,third-party
 /dewatogel_$image
@@ -914,6 +920,9 @@ tokosatu.com#@#.popupflyin-clicks-area
 /enakslot.gif|$image
 /entertogel.$image,third-party
 /eradominoqq.$image,third-party
+/eraplay88.jpg$image
+/eraplay88.png$image
+/eraplay88.webp$image
 /eyang-togel-$image
 /eze99.$image
 /ezebet-$image
@@ -1015,6 +1024,9 @@ tokosatu.com#@#.popupflyin-clicks-area
 /iklanratu.$image
 /iklanx.$image,third-party
 /ikliknew.$image,third-party
+/ilucky88.jpg$image
+/ilucky88.png$image
+/ilucky88.webp$image
 /images/idxbet/*$image
 /imcpkr.$image,third-party
 /imcpkrn.gif|$image
@@ -1232,6 +1244,9 @@ tokosatu.com#@#.popupflyin-clicks-area
 /mb0casin0-$image
 /mbopoker.$image,third-party
 /megabet-$image
+/megatangkas.jpg$image
+/megatangkas.png$image
+/megatangkas.webp$image
 /meja-365.$image,third-party
 /meja13.$image,third-party
 /meja365.$image,third-party
@@ -1243,6 +1258,9 @@ tokosatu.com#@#.popupflyin-clicks-area
 /menangqq.$image,third-party
 /merdeka99.$image
 /merdekabet365.$image
+/merpatislot88.jpg$image
+/merpatislot88.png$image
+/merpatislot88.webp$image
 /mewahbet.$image,third-party
 /mgmcash88.$image,third-party
 /mikirpoker.$image,third-party
@@ -1551,6 +1569,7 @@ tokosatu.com#@#.popupflyin-clicks-area
 /superdomino.$image,third-party
 /superitcbet-$image
 /surgabola.$image,third-party
+/Suroso88-720.webp$image
 /surya4d.$image,third-party
 /tahunqq.$image,third-party
 /tangan-emas-slot-$image
@@ -1613,9 +1632,18 @@ tokosatu.com#@#.popupflyin-clicks-area
 /unibet99.$image,third-party
 /unikpoker.$image,third-party
 /unitogel-$image
+/unogg.jpg$image
+/unogg.png$image
+/unogg.webp$image
 /unovegas.gif$image
+/unovegas.jpg$image
+/unovegas.png$image
+/unovegas.webp$image
 /utamaqq.$image,third-party
 /vegas78bet.$image,third-party
+/vegas88.jpg$image
+/vegas88.png$image
+/vegas88.webp$image
 /vegasgg.gif|$image
 /vegashoki.gif|$image
 /vegasidn.$image,third-party
@@ -3992,6 +4020,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||gambar123.com/js/arv_24.js
 ||imgur.com/*.gif$image,domain=gocrot.*
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
+||pic.desu.xxx/content/banner/*.gif$image
 ! *** abpindo:src/adult/adult_thirdparty.txt ***
 ||172.105.216.174^$popup
 ||32redpoker.com^$third-party
