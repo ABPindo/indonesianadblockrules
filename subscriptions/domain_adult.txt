@@ -1,7 +1,7 @@
-# Version: 202606272029
+# Version: 202606272123
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 27 Jun 2026 20:29 UTC
+# Last modified: 27 Jun 2026 21:23 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -111,6 +111,7 @@ dairouzy.net
 doathair.com
 edomz.com
 filebanner.com
+fj.fatsoeslandmil.com
 flexterkita.com
 fnasmpygwa.com
 gaslah.my.id
@@ -126,6 +127,7 @@ sebar.idblognetwork.com
 shqbsdjatunl.com
 sumberiklan.com
 vkwaeo.com
+wk.locatiocorms.com
 yllix.com
 # *** abpindo:src/advert/thirdparty.txt ***
 c-stat.eu
