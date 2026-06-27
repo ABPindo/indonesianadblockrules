@@ -130,3 +130,7 @@ brainacademy.id,english-academy.id,ruangguru.com##body:style(overflow: auto !imp
 beritaharian.sg##.p-\[24px\]
 ! uBlock Specific
 detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
+! indonesiabusinesspost.com
+indonesiabusinesspost.com##.swal2-container
+indonesiabusinesspost.com##.swal2-popup
+indonesiabusinesspost.com##body:style(overflow: auto !important;)
