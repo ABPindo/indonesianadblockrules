@@ -398,7 +398,7 @@ dailysocial.id##.ads-article-sidebar
 kompas.com##.ads-big
 alinea.id,femaledaily.com##.ads-billboard
 okezone.com##.ads-bottom-fixed
-briliobeauty.net,techno.id##.ads-container
+briliobeauty.net,harianjogja.com,techno.id##.ads-container
 cantika.com##.ads-content-2
 cantika.com##.ads-full
 kompas.com##.ads-latest-wrap
@@ -972,6 +972,7 @@ idntimes.com##.wrapper-leaderboard
 idntimes.com##.wrapper-megabillboard
 mamikos.com##[class$="-item__room"]:has(.rc-photo__icon--promo)
 jawapos.com##[class$="__disclaimer"]
+harianjogja.com##[class*="-ad-"]
 kontan.co.id##[class*="heightads"]
 s.id##[class^="AdUnit"]
 astroawani.com##[class^="Advertisement_ads_container"]
