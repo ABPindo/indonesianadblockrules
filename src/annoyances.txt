@@ -134,3 +134,7 @@ detik.com##.detail__body-text .aevp > .sisip_video_ds:remove()
 indonesiabusinesspost.com##.swal2-container
 indonesiabusinesspost.com##.swal2-popup
 indonesiabusinesspost.com##body:style(overflow: auto !important;)
+! https://github.com/ABPindo/indonesianadblockrules/issues/1016
+kompas.com##+js(aopr, triggerOneTapWall)
+kompas.com###kgmModal-onetap
+kompas.com##+js(rc, -locked, body)
