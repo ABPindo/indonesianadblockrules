@@ -190,3 +190,6 @@
 ||wigobet.com^$third-party
 ||xjudi.com^$third-party
 ||yourpokercash.com^$third-party
+||url.getandplay.web.id^$third-party
+||shortbioo.com^$third-party
+||m.teknolur.eu.org^$popup,third-party

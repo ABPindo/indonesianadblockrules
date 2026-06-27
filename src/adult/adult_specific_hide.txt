@@ -109,6 +109,7 @@ bokepvir.*##[href="https://bkpv.online/reffbokepvir"]
 nekopoi.*##[href^="https://monetag.com/"]
 pemersatu.*##[role="advertisement"]
 kingbokep.*##[style^="height:"]:has(> img)
+kingbokep.*##a[href^="https://m.teknolur.eu.org/tele"]
 doujindesu.tv##a[href][target="_blank"] > img
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nokephub.com##a[href^="https://genec77.space/"]
