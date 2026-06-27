@@ -1,7 +1,7 @@
-# Version: 202606261223
+# Version: 202606272017
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 26 Jun 2026 12:23 UTC
+# Last modified: 27 Jun 2026 20:17 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -85,6 +85,7 @@ server=/see-work.info/
 server=/serbada.com/
 server=/shiokambing2.com/
 server=/sitti.co.id/
+server=/tadex.id/
 server=/teliad.com/
 server=/thapi.aedi.ai/
 server=/theclickers.net/
