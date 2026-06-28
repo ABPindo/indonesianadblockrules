@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202606272147
+! Version: 202606280100
 ! Title: ABPindo (hosts + adult)
 ! Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-! Last modified: 27 Jun 2026 21:47 UTC
+! Last modified: 28 Jun 2026 01:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE

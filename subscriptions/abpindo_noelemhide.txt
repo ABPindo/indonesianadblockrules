@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202606272147
+! Version: 202606280100
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 27 Jun 2026 21:47 UTC
+! Last modified: 28 Jun 2026 01:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -253,7 +253,7 @@ _iklan_|$image
 .net/iklan/$image,stylesheet
 .tv/iklan/$image,stylesheet
 ! *** abpindo:src/advert/specific_block.txt ***
-.gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.*|kiryuu.*|kiryuu03.*|komikcast.*|kuramanime.*|mangakita.*|movieku.*|nontondrama.*|okestream.*|oploverz.*|shinigami09.com|winbu.*
+.gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.*|cosmicscans.*|kiryuu.*|kiryuu03.*|komikcast.*|kuramanime.*|mangakita.*|movieku.*|nontondrama.*|okestream.*|oploverz.*|shinigami09.com|winbu.*
 ||1cak.com/shopee
 ||adsafelink.com/js/webscript.js$script,third-party
 ||angel.exabytes.com.my/banners/
@@ -430,7 +430,7 @@ asalunik.com,bokepgemoy.com##+js(nobab)
 193.142.147.230,5.253.86.213,ainzscans.net,jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 moviekhhd.biz##+js(nostif, location.href, 3000)
-anichin.top,animekompi.vip,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
+anichin.top,animekompi.vip,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
 okezone.com##+js(rc, content-wrap)
 inews.id##+js(rc, content-wrap|wrap-all)
 sindonews.com##+js(rc, t480)
@@ -466,6 +466,7 @@ sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 garuda.tv#@#.ads-banner
 eramuslim.com#@#.adsbygoogle
 flashbackrecorder.com#@#.elementor-popup-modal
+cosmicscans.*#@#.floating-ad
 adikanime.com#@#.idmuvi-banner-aftercontent
 juragan.film#@#.idmuvi-topbanner
 103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*,layardrama21.beauty,layardrama21.club#@#.idmuvi-topbanner-aftermenu
