@@ -1070,6 +1070,7 @@ gigapurbalingga.net,kuyhaa-me.com,lk21official.cc##center
 cinemaindo.com,film-ganool.com,isekaisubs.web.id,luciferdonghua.in,mangashiro.net,oploverz.*,realmscans.com###teaser1
 cinemaindo.com,film-ganool.com,ganool.nl,ganool.ph,isekaisubs.web.id,luciferdonghua.in,oploverz.*,realmscans.com###teaser2
 cosmicscans.*##.code-block-1.code-block
+cosmicscans.*##body:style(overflow: auto !important;)
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
 motorplus-online.com##div#composite-container
 smartphoneku.com##div.ad-before
