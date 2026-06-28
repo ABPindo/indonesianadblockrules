@@ -28,7 +28,7 @@ gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 carisinyal.com##+js(rmnt, script, showModal)
 sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
-anichin.top,animekompi.vip,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kisahterlarang.site,komikcast02.com,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
+anichin.top,animekompi.vip,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kisahterlarang.site,komikcast02.com,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
 animekompi.*##+js(abort-on-property-write, MutationObserver)
 dicrotin.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
 kiryuu02.*##+js(nowoif)
