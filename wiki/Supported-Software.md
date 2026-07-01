@@ -56,6 +56,7 @@ Software berbasis hosts file, DNS, atau VPN lokal untuk Android:
 | [AdAway](https://adaway.org) | Android (root) | Hosts | Klasik dan ringan, butuh akses root | [Website](https://adaway.org) |
 | [Blokada](https://blokada.org) | Android | Domain | Tanpa root, bekerja via VPN lokal | [Website](https://blokada.org) |
 | [DNS66](https://f-droid.org/packages/org.jak_linux.dns66/) | Android | Domain | Open source, tersedia di F-Droid | [F-Droid](https://f-droid.org/packages/org.jak_linux.dns66/) |
+| [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/) | Android | Domain | Ringan, berbasis VPN lokal, tersedia di F-Droid | [Website](https://zenz-solutions.de/personaldnsfilter/) |
 
 ---
 

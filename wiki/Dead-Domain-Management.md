@@ -1,71 +1,85 @@
-# Dead Domain Management
+# Manajemen Domain Mati
 
-ABPindo uses [`@adguard/dead-domains-linter`](https://github.com/AdguardTeam/DeadDomainsLinter) for dead domain detection with a **two-phase workflow**.
+ABPindo menggunakan [`@adguard/dead-domains-linter`](https://github.com/AdguardTeam/DeadDomainsLinter) untuk mendeteksi domain mati dengan **alur kerja dua fase**.
 
-## How It Works
+---
+
+## Cara Kerja
 
 ```
-1st of month:   Export dead domains → Review files created
-1st-14th:       You review and remove false positives
-15th of month:  Auto-import (if not reviewed)
+Tanggal 1:     Ekspor domain mati → File hasil dibuat
+Tanggal 1–14:  Review dan hapus false positive
+Tanggal 15:    Impor otomatis (jika belum direview)
 ```
 
-## Workflows
+---
 
-| Workflow | Schedule | Action |
-|----------|----------|--------|
-| `dead-domain-export.yml` | 1st of month | Export dead domains to files |
-| `dead-domain-import.yml` | 15th of month | Auto-import (if not reviewed) |
+## Workflow
 
-## Export Files
+| Workflow | Jadwal | Aksi |
+|----------|--------|------|
+| `dead-domain-export.yml` | Tanggal 1 setiap bulan | Ekspor domain mati ke file |
+| `dead-domain-import.yml` | Tanggal 15 setiap bulan | Impor otomatis (jika belum direview) |
 
-| File | Source |
+---
+
+## File Ekspor
+
+| File | Sumber |
 |------|--------|
-| `src/advert/dead_advert.txt` | Dead domains from advert filters |
-| `src/adult/dead_adult.txt` | Dead domains from adult filters |
+| `src/advert/dead_advert.txt` | Domain mati dari filter iklan |
+| `src/adult/dead_adult.txt` | Domain mati dari filter dewasa |
 
-## Manual Review (Optional)
+---
 
-If you want to review before auto-import:
+## Review Manual (Opsional)
+
+Jika ingin melakukan review sebelum impor otomatis:
 
 ```bash
-# 1. Open and review dead_advert.txt
-#    - Remove lines that are false positives (domains that are alive)
+# 1. Buka dan review dead_advert.txt
+#    - Hapus baris yang merupakan false positive (domain yang masih aktif)
 
-# 2. Import reviewed list
+# 2. Impor daftar yang sudah direview
 dead-domains-linter -i "src/advert/*.txt" --import=src/advert/dead_advert.txt --auto
 
-# 3. Open and review dead_adult.txt
+# 3. Buka dan review dead_adult.txt
 
-# 4. Import reviewed list
+# 4. Impor daftar yang sudah direview
 dead-domains-linter -i "src/adult/*.txt" --import=src/adult/dead_adult.txt --auto
 
 # 5. Commit
 git add src/ && git commit -m "chore: remove reviewed dead domains"
 ```
 
-## Manual Commands
+---
+
+## Perintah Manual
 
 ```bash
-# Export dead domains (scan only, no modification)
+# Ekspor domain mati (scan saja, tanpa modifikasi)
 dead-domains-linter -i "src/advert/*.txt" --export src/advert/dead_advert.txt
 dead-domains-linter -i "src/adult/*.txt" --export src/adult/dead_adult.txt
 
-# Import and remove (after review)
+# Impor dan hapus (setelah review)
 dead-domains-linter -i "src/advert/*.txt" --import=src/advert/dead_advert.txt --auto
 dead-domains-linter -i "src/adult/*.txt" --import=src/adult/dead_adult.txt --auto
 ```
 
-## Timeline
+---
 
-| Date | What Happens |
-|------|--------------|
-| 1st | Export runs, commit created |
-| 1st-14th | Review window |
-| 15th | Auto-import runs (if files have content) |
+## Linimasa
 
-## Best Practices
+| Tanggal | Keterangan |
+|---------|-----------|
+| Tanggal 1 | Ekspor berjalan, commit dibuat |
+| Tanggal 1–14 | Jendela review |
+| Tanggal 15 | Impor otomatis berjalan (jika file berisi konten) |
 
-- Review `dead_advert.txt` and `dead_adult.txt` when you see the export commit
-- Remove false positives before the 15th
-- If you import manually early, the auto-import will find nothing to do
+---
+
+## Praktik Terbaik
+
+- Review `dead_advert.txt` dan `dead_adult.txt` ketika melihat commit ekspor
+- Hapus false positive sebelum tanggal 15
+- Jika mengimpor secara manual lebih awal, impor otomatis tidak akan menemukan apa pun

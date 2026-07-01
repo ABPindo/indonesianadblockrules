@@ -1,6 +1,6 @@
-# Filter Source Structure
+# Struktur File Sumber Filter
 
-Halaman ini menjelaskan struktur folder `src/` di repositori ABPindo dan fungsi setiap file filter. Ini berguna bagi kontributor yang ingin menambahkan atau mengubah filter.
+Halaman ini menjelaskan struktur folder `src/` di repositori ABPindo dan fungsi setiap file filter. Berguna bagi kontributor yang ingin menambahkan atau mengubah filter.
 
 ---
 
@@ -34,8 +34,10 @@ Filter iklan utama, digunakan di semua variasi ABPindo.
 | `general_hide.txt` | Element hiding berdasarkan pola class/ID umum — **gunakan dengan hati-hati** | `##.iklan` |
 | `specific_block.txt` | Blokir spesifik per domain termasuk ekstensi file yang tepat | `domainiklan.id/banner.jpg` |
 | `specific_hide.txt` | Element hiding spesifik per domain dengan class yang tepat | `situs.com##.banner-iklan` |
-| `specific_ublock.txt` | Filter sintaks khusus uBlock Origin (scriptlet, extended syntax) | `situs.com##+js(defuser.js)` |
+| `scriptlet_ublock.txt` | Filter sintaks khusus uBlock Origin (scriptlet, extended syntax) | `situs.com##+js(set-constant, adblock, false)` |
 | `allowlist.txt` | Memperbaiki false positive agar fitur/elemen situs tetap berfungsi normal | `@@ikonlegitim.jpg` |
+
+---
 
 ## Struktur `src/adult/`
 
@@ -46,6 +48,9 @@ Filter konten dewasa, judi, dan sejenisnya. Hanya masuk ke variasi `abpindo.txt`
 | `adult_general_block.txt` | Filter blokir umum untuk konten dewasa/judi |
 | `adult_general_hide.txt` | Element hiding umum untuk konten dewasa/judi |
 | `adult_thirdparty.txt` | Domain penyedia layanan judi/dewasa pihak ketiga |
+| `adult_specific_block.txt` | Blokir URL spesifik untuk konten dewasa/judi di situs tertentu |
+| `adult_specific_hide.txt` | Element hiding spesifik untuk konten dewasa/judi di situs tertentu |
+| `adult_allowlist.txt` | Memperbaiki false positive pada filter konten dewasa |
 | `adult_prank.txt` | Filter konten mengejutkan atau tidak pantas di luar kategori dewasa |
 
 ---
@@ -54,6 +59,8 @@ Filter konten dewasa, judi, dan sejenisnya. Hanya masuk ke variasi `abpindo.txt`
 
 File `*.template` di root repositori mendefinisikan **komposisi** setiap variasi filter output:
 
+### Variasi Browser Extension (Sintaks Adblock Plus)
+
 | Template | Output | Isi |
 |---|---|---|
 | `abpindo.template` | `subscriptions/abpindo.txt` | Semua filter termasuk adult |
@@ -61,8 +68,15 @@ File `*.template` di root repositori mendefinisikan **komposisi** setiap variasi
 | `abpindo_noelemhide.template` | `subscriptions/abpindo_noelemhide.txt` | Filter tanpa element hiding |
 | `abpindo_annoyances.template` | `subscriptions/abpindo_annoyances.txt` | Filter khusus annoyances |
 | `abpindo_extended.template` | `subscriptions/abpindo_extended.txt` | Filter eksperimental / residu |
-| `abpindo_hosts.template` | `subscriptions/hosts.txt` | Format hosts |
-| `abpindo_hosts_adult.template` | `subscriptions/hosts_adult.txt` | Format hosts + adult |
+
+### Variasi DNS (Hosts, Domain, Dnsmasq, dll.)
+
+| Template | Output | Isi |
+|---|---|---|
+| `abpindo_hosts.template` | `subscriptions/abpindo_hosts.txt` | Filter domain adservers + thirdparty (intermediate, untuk dikonversi ke DNS) |
+| `abpindo_hosts_adult.template` | `subscriptions/abpindo_hosts_adult.txt` | Sama + adult thirdparty |
+
+Variasi DNS lainnya (hosts, domain, aghome, dnsmasq, rpz, unbound) di-generate dari file `subscriptions/abpindo_hosts.txt` menggunakan `tools/dns_converter.py`, bukan dari template. Lihat tahapan build di `tools/build.sh`.
 
 ---
 
@@ -85,7 +99,7 @@ Filter baru
 ├── Apakah filter SPESIFIK untuk satu situs?
 │   ├── Blokir URL  → src/advert/specific_block.txt
 │   ├── Hide elemen → src/advert/specific_hide.txt
-│   └── uBlock-only → src/advert/specific_ublock.txt
+│   └── uBlock-only → src/advert/scriptlet_ublock.txt
 │
 ├── Apakah memperbaiki false positive?
 │   └── → src/advert/allowlist.txt
