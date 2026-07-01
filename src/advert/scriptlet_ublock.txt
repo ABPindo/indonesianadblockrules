@@ -1,7 +1,6 @@
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.vebma.com##+js(aeld, click, linkOpened)
 moutogami.com##+js(aeld, load, /adblock/i)
-kompas.com##+js(aeld, scroll, kgSticky)
 juraganfilm.ink##+js(aopr, $.magnificPopup.open)
 3gpterbaru.com##+js(aopr, LieDetector)
 sk21.sob4t.xyz##+js(aopr, popup_custom_data)
