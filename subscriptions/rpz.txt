@@ -1,7 +1,7 @@
-# Version: 202606280100
+# Version: 202607010227
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 28 Jun 2026 01:00 UTC
+# Last modified: 01 Jul 2026 02:27 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -105,6 +105,7 @@ adplus.co.id CNAME .
 afbcashidr.com CNAME .
 auredzeon.com CNAME .
 baliadv.com CNAME .
+bondeddarkenedswerve.com CNAME .
 brand.ad CNAME .
 caribanner.bid CNAME .
 dairouzy.net CNAME .
@@ -126,6 +127,7 @@ realwap.net CNAME .
 sebar.idblognetwork.com CNAME .
 shqbsdjatunl.com CNAME .
 sumberiklan.com CNAME .
+villainoussession.com CNAME .
 vkwaeo.com CNAME .
 wk.locatiocorms.com CNAME .
 yllix.com CNAME .

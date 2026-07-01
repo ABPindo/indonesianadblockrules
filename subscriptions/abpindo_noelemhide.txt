@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202606280100
+! Version: 202607010227
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 28 Jun 2026 01:00 UTC
+! Last modified: 01 Jul 2026 02:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -107,6 +107,7 @@
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup,third-party
 ||baliadv.com^$third-party
+||bondeddarkenedswerve.com^$popup
 ||brand.ad^$third-party
 ||caribanner.bid^$third-party
 ||dairouzy.net^$popup,third-party
@@ -128,6 +129,7 @@
 ||sebar.idblognetwork.com^$third-party
 ||shqbsdjatunl.com^$popup,third-party
 ||sumberiklan.com^$third-party
+||villainoussession.com^$popup
 ||vkwaeo.com^$third-party
 ||wk.locatiocorms.com^$script
 ||yllix.com^$popup,third-party
@@ -416,7 +418,6 @@ kuyhaa.me##+js(acs, document.addEventListener, window.open)
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.vebma.com##+js(aeld, click, linkOpened)
 moutogami.com##+js(aeld, load, /adblock/i)
-kompas.com##+js(aeld, scroll, kgSticky)
 juraganfilm.ink##+js(aopr, $.magnificPopup.open)
 3gpterbaru.com##+js(aopr, LieDetector)
 sk21.sob4t.xyz##+js(aopr, popup_custom_data)
@@ -430,7 +431,7 @@ asalunik.com,bokepgemoy.com##+js(nobab)
 193.142.147.230,5.253.86.213,ainzscans.net,jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 moviekhhd.biz##+js(nostif, location.href, 3000)
-anichin.top,animekompi.vip,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
+anichin.top,animekompi.vip,bokepindo69.*,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
 okezone.com##+js(rc, content-wrap)
 inews.id##+js(rc, content-wrap|wrap-all)
 sindonews.com##+js(rc, t480)
@@ -466,7 +467,6 @@ sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 garuda.tv#@#.ads-banner
 eramuslim.com#@#.adsbygoogle
 flashbackrecorder.com#@#.elementor-popup-modal
-cosmicscans.*#@#.floating-ad
 adikanime.com#@#.idmuvi-banner-aftercontent
 juragan.film#@#.idmuvi-topbanner
 103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*,layardrama21.beauty,layardrama21.club#@#.idmuvi-topbanner-aftermenu
