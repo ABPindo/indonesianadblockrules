@@ -23,13 +23,9 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v6
+      - uses: ./.github/actions/setup-tools
         with:
-          node-version: "22"
-
-      - name: Install AGLint
-        run: npm install -g @adguard/aglint
+          node-packages: '@adguard/aglint'
 
       - name: Validate filters
         run: bash tools/lint.sh
