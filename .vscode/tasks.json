@@ -2,26 +2,68 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "FOP: Sort src/",
+            "label": "Lint: AGLint",
             "type": "shell",
-            "command": "fop -n src/",
-            "detail": "Run Filter Orderer and Preener (Rust) on src/."
+            "command": "npm run lint",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
+            "detail": "Run AGLint on all src/ filter files.",
+            "problemMatcher": []
+        },
+        {
+            "label": "Lint: Duplicates",
+            "type": "shell",
+            "command": "npm run check:duplicates",
+            "detail": "Detect duplicate rules across src/ files.",
+            "problemMatcher": []
+        },
+        {
+            "label": "Check: Lint + Build",
+            "type": "shell",
+            "command": "npm run check",
+            "detail": "Run AGLint then build all subscriptions (full validation).",
+            "problemMatcher": []
         },
         {
             "label": "Build: All subscriptions",
             "type": "shell",
-            "command": "bash build.sh",
+            "command": "npm run build",
             "group": {
                 "kind": "build",
                 "isDefault": true
             },
-            "detail": "Build all filter subscriptions locally."
+            "detail": "Build all ABP + DNS filter subscriptions.",
+            "problemMatcher": []
         },
         {
-            "label": "Lint: Dead domains",
+            "label": "Build: ABP only",
             "type": "shell",
-            "command": "dead-domains-linter -i subscriptions/abpindo.txt --export src/dead_domains.txt",
-            "detail": "Check abpindo.txt for dead domains and export results."
+            "command": "npm run build:abp",
+            "detail": "Build ABP subscriptions only (no DNS formats).",
+            "problemMatcher": []
+        },
+        {
+            "label": "Build: DNS only",
+            "type": "shell",
+            "command": "npm run build:dns",
+            "detail": "Build DNS filter formats only (requires ABP hosts files first).",
+            "problemMatcher": []
+        },
+        {
+            "label": "Format: FOP src/",
+            "type": "shell",
+            "command": "npm run format",
+            "detail": "Run Filter Orderer and Prettifier on src/.",
+            "problemMatcher": []
+        },
+        {
+            "label": "Clean: subscriptions/",
+            "type": "shell",
+            "command": "npm run clean",
+            "detail": "Remove all generated subscription files.",
+            "problemMatcher": []
         }
     ]
 }
