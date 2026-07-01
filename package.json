@@ -14,9 +14,15 @@
     "@adguard/dead-domains-linter": "latest"
   },
   "scripts": {
-    "aglint": "aglint",
     "lint": "bash tools/lint.sh",
     "lint:win": "pwsh tools/lint.ps1",
-    "lint:check": "bash tools/lint.sh"
+    "format": "fop -n src/",
+    "build": "bash tools/build.sh all",
+    "build:abp": "bash tools/build.sh abp",
+    "build:dns": "bash tools/build.sh dns",
+    "check": "npm run lint && npm run build",
+    "check:duplicates": "python tools/find_duplicates.py --strict",
+    "clean": "rm -f subscriptions/*.txt && echo 'Cleaned subscriptions/'",
+    "setup": "bash tools/install_tools.sh"
   }
 }

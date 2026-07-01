@@ -10,9 +10,9 @@ SRC="$REPO_ROOT/src"
 
 echo "==> Running AGLint on source files..."
 
-# Find all .txt files in src/ and run AGLint
-find "$SRC" -name "*.txt" -type f | while read -r file; do
-    npx aglint "$file"
-done
+# Run AGLint on all .txt files in a single invocation for faster, aggregated output.
+# Requires bash 4+ for globstar (enabled by default in Git Bash / MSYS2).
+shopt -s globstar
+aglint "$SRC"/**/*.txt
 
 echo "==> Done. No problems found."

@@ -1,1 +1,7 @@
 *.template linguist-language=AdBlock linguist-detectable
+
+# Enforce LF line endings for config and shell files
+.gitignore       text eol=lf
+.gitattributes   text eol=lf
+.editorconfig    text eol=lf
+*.sh             text eol=lf

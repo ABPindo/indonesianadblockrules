@@ -127,7 +127,6 @@ yummy.co.id##.css-bs33cg
 yummy.co.id##.css-fjjeok
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-q4xr4i
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com##.css-t1oq30
-fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-urr7k6
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##.css-y6gr35
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com,yummy.co.id##.wrapper-ads
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com,yummy.co.id##[id^="IDN_"]
@@ -1230,3 +1229,10 @@ arieffservicecenter.com##body:style(overflow: auto !important)
 arieffservicecenter.com##.ad-bottom-wrapper
 arieffservicecenter.com###desktop-floating-ad
 harapanrakyat.com###div-ad-pushdown
+cosmicscans.*##.floating-ad__inner
+cosmicscans.*##.floating-ad--center
+cosmicscans.*##html, body:style(overflow: auto!important; position: unset!important;)
+cosmicscans.*##.floating-ad__script
+cosmicscans.*##.floating-ad__frame
+cosmicscans.*##.ad-markup
+cosmicscans.*##.ad-markup__item
