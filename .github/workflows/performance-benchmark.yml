@@ -1,0 +1,233 @@
+name: performance-benchmark
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches:
+      - master
+    paths:
+      - src/**
+  push:
+    branches:
+      - master
+    paths:
+      - src/**
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0  # Need history for comparison
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Calculate current metrics
+        id: current
+        run: |
+          # Count rules per file
+          echo "## 📊 Filter Performance Metrics" > metrics.md
+          echo "" >> metrics.md
+          echo "### Rule Counts by File" >> metrics.md
+          echo "" >> metrics.md
+          echo "| File | Rules | Size (KB) |" >> metrics.md
+          echo "|------|-------|-----------|" >> metrics.md
+          
+          total_rules=0
+          total_size=0
+          
+          for file in src/**/*.txt; do
+            if [ -f "$file" ]; then
+              # Count non-comment, non-empty lines
+              rules=$(grep -v '^[[:space:]]*$' "$file" | grep -v '^[[:space:]]*!' | wc -l)
+              size=$(du -k "$file" | cut -f1)
+              total_rules=$((total_rules + rules))
+              total_size=$((total_size + size))
+              echo "| \`$file\` | $rules | $size |" >> metrics.md
+            fi
+          done
+          
+          echo "" >> metrics.md
+          echo "### Totals" >> metrics.md
+          echo "" >> metrics.md
+          echo "- **Total rules**: $total_rules" >> metrics.md
+          echo "- **Total size**: ${total_size}KB ($(echo "scale=2; $total_size / 1024" | bc)MB)" >> metrics.md
+          echo "" >> metrics.md
+          
+          # Save for comparison
+          echo "total_rules=$total_rules" >> $GITHUB_OUTPUT
+          echo "total_size=$total_size" >> $GITHUB_OUTPUT
+
+      - name: Calculate baseline (master branch)
+        id: baseline
+        if: github.event_name == 'pull_request'
+        run: |
+          git checkout origin/master
+          
+          baseline_rules=0
+          baseline_size=0
+          
+          for file in src/**/*.txt; do
+            if [ -f "$file" ]; then
+              rules=$(grep -v '^[[:space:]]*$' "$file" | grep -v '^[[:space:]]*!' | wc -l)
+              size=$(du -k "$file" | cut -f1)
+              baseline_rules=$((baseline_rules + rules))
+              baseline_size=$((baseline_size + size))
+            fi
+          done
+          
+          echo "baseline_rules=$baseline_rules" >> $GITHUB_OUTPUT
+          echo "baseline_size=$baseline_size" >> $GITHUB_OUTPUT
+          
+          git checkout -
+
+      - name: Generate comparison report
+        if: github.event_name == 'pull_request'
+        run: |
+          current_rules=${{ steps.current.outputs.total_rules }}
+          current_size=${{ steps.current.outputs.total_size }}
+          baseline_rules=${{ steps.baseline.outputs.baseline_rules }}
+          baseline_size=${{ steps.baseline.outputs.baseline_size }}
+          
+          rules_diff=$((current_rules - baseline_rules))
+          size_diff=$((current_size - baseline_size))
+          
+          echo "" >> metrics.md
+          echo "### 📈 Changes from Master" >> metrics.md
+          echo "" >> metrics.md
+          
+          if [ $rules_diff -gt 0 ]; then
+            echo "- Rules: **+$rules_diff** 📈" >> metrics.md
+          elif [ $rules_diff -lt 0 ]; then
+            echo "- Rules: **$rules_diff** 📉 ✨" >> metrics.md
+          else
+            echo "- Rules: No change" >> metrics.md
+          fi
+          
+          if [ $size_diff -gt 0 ]; then
+            echo "- Size: **+${size_diff}KB** 📈" >> metrics.md
+          elif [ $size_diff -lt 0 ]; then
+            echo "- Size: **${size_diff}KB** 📉 ✨" >> metrics.md
+          else
+            echo "- Size: No change" >> metrics.md
+          fi
+
+      - name: Breakdown by category
+        run: |
+          echo "" >> metrics.md
+          echo "### 📂 Breakdown by Category" >> metrics.md
+          echo "" >> metrics.md
+          echo "| Category | Files | Rules | Size (KB) |" >> metrics.md
+          echo "|----------|-------|-------|-----------|" >> metrics.md
+          
+          # Advert category
+          advert_rules=0
+          advert_size=0
+          advert_files=0
+          for file in src/advert/*.txt; do
+            if [ -f "$file" ]; then
+              rules=$(grep -v '^[[:space:]]*$' "$file" | grep -v '^[[:space:]]*!' | wc -l)
+              size=$(du -k "$file" | cut -f1)
+              advert_rules=$((advert_rules + rules))
+              advert_size=$((advert_size + size))
+              advert_files=$((advert_files + 1))
+            fi
+          done
+          echo "| Advert | $advert_files | $advert_rules | $advert_size |" >> metrics.md
+          
+          # Adult category
+          adult_rules=0
+          adult_size=0
+          adult_files=0
+          for file in src/adult/*.txt; do
+            if [ -f "$file" ]; then
+              rules=$(grep -v '^[[:space:]]*$' "$file" | grep -v '^[[:space:]]*!' | wc -l)
+              size=$(du -k "$file" | cut -f1)
+              adult_rules=$((adult_rules + rules))
+              adult_size=$((adult_size + size))
+              adult_files=$((adult_files + 1))
+            fi
+          done
+          echo "| Adult | $adult_files | $adult_rules | $adult_size |" >> metrics.md
+          
+          # Annoyances
+          if [ -f "src/annoyances.txt" ]; then
+            ann_rules=$(grep -v '^[[:space:]]*$' "src/annoyances.txt" | grep -v '^[[:space:]]*!' | wc -l)
+            ann_size=$(du -k "src/annoyances.txt" | cut -f1)
+            echo "| Annoyances | 1 | $ann_rules | $ann_size |" >> metrics.md
+          fi
+          
+          # Extended
+          ext_rules=0
+          ext_size=0
+          if [ -f "src/advert_extended.txt" ]; then
+            r=$(grep -v '^[[:space:]]*$' "src/advert_extended.txt" | grep -v '^[[:space:]]*!' | wc -l)
+            s=$(du -k "src/advert_extended.txt" | cut -f1)
+            ext_rules=$((ext_rules + r))
+            ext_size=$((ext_size + s))
+          fi
+          if [ -f "src/adult_extended.txt" ]; then
+            r=$(grep -v '^[[:space:]]*$' "src/adult_extended.txt" | grep -v '^[[:space:]]*!' | wc -l)
+            s=$(du -k "src/adult_extended.txt" | cut -f1)
+            ext_rules=$((ext_rules + r))
+            ext_size=$((ext_size + s))
+          fi
+          echo "| Extended | 2 | $ext_rules | $ext_size |" >> metrics.md
+
+      - name: Rule type analysis
+        run: |
+          echo "" >> metrics.md
+          echo "### 🔍 Rule Type Distribution" >> metrics.md
+          echo "" >> metrics.md
+          
+          # Network blocks (||domain^)
+          network=$(grep -rh '^\|\|' src/ | wc -l)
+          echo "- **Network blocks** (\`||domain^\`): $network" >> metrics.md
+          
+          # Element hiding (##)
+          elemhide=$(grep -rh '^[^!].*##[^#^+]' src/ | wc -l)
+          echo "- **Element hiding** (\`##\`): $elemhide" >> metrics.md
+          
+          # Extended CSS (#?#)
+          extcss=$(grep -rh '#?#' src/ | wc -l)
+          echo "- **Extended CSS** (\`#?#\`): $extcss" >> metrics.md
+          
+          # Scriptlets (##+js)
+          scriptlets=$(grep -rh '##\+js' src/ | wc -l)
+          echo "- **Scriptlets** (\`##+js\`): $scriptlets" >> metrics.md
+          
+          # HTML filters (##^)
+          html=$(grep -rh '##\^' src/ | wc -l)
+          echo "- **HTML filters** (\`##^\`): $html" >> metrics.md
+          
+          # Allowlist (@@)
+          allowlist=$(grep -rh '^@@' src/ | wc -l)
+          echo "- **Allowlist** (\`@@\`): $allowlist" >> metrics.md
+
+      - name: Post to PR comment
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const metrics = fs.readFileSync('metrics.md', 'utf8');
+            
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: metrics
+            });
+
+      - name: Post to step summary
+        if: always()
+        run: cat metrics.md >> $GITHUB_STEP_SUMMARY
