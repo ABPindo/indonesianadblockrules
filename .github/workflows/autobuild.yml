@@ -39,9 +39,7 @@ jobs:
         run: fop -n src/
 
       - name: Run AGLint
-        run: |
-          shopt -s globstar
-          aglint src/**/*.txt
+        run: bash tools/lint.sh
 
       - name: Build ABP subscriptions
         run: |

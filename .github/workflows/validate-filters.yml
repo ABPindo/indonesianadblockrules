@@ -32,13 +32,11 @@ jobs:
         run: npm install -g @adguard/aglint
 
       - name: Validate filters
-        run: |
-          shopt -s globstar
-          aglint src/**/*.txt
+        run: bash tools/lint.sh
 
       - name: Generate report
         if: always()
         run: |
           echo "## Filter Validation Report" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "AGLint validation completed." >> $GITHUB_STEP_SUMMARY
+          echo "AGLint validation completed via \`tools/lint.sh\`." >> $GITHUB_STEP_SUMMARY
