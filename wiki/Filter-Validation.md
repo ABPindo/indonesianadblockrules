@@ -18,7 +18,7 @@ AGLint memeriksa:
 
 ## Penggunaan
 
-### Command Line
+### Baris Perintah
 
 ```bash
 # Install dependencies (pertama kali saja)

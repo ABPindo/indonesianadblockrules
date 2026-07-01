@@ -1,4 +1,4 @@
-# Selamat Datang di Wiki ABPindo
+# Beranda Wiki ABPindo
 
 Wiki ini berisi panduan lengkap penggunaan dan pengembangan ABPindo — daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia.
 
@@ -27,6 +27,8 @@ Wiki ini berisi panduan lengkap penggunaan dan pengembangan ABPindo — daftar p
 
 ## Tautan Cepat
 
+- [🇮🇩 Baca README (Indonesia)](https://github.com/ABPindo/indonesianadblockrules/blob/master/README.md)
+- [🇺🇸 Read README (English)](https://github.com/ABPindo/indonesianadblockrules/blob/master/README.en.md)
 - [Subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)
 - [GitHub Repository](https://github.com/ABPindo/indonesianadblockrules)
 - [Laporkan Masalah](https://github.com/ABPindo/indonesianadblockrules/issues)
