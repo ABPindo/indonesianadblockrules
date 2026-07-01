@@ -5,6 +5,10 @@
 <h1 align="center">ABPindo</h1>
 
 <p align="center">
+  <strong>🇮🇩 Bahasa Indonesia</strong> | <a href="README.en.md">🇺🇸 English</a>
+</p>
+
+<p align="center">
   Daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia
 </p>
 
@@ -117,5 +121,3 @@ Filter ABPindo diuji menggunakan konfigurasi berikut:
 - [PyFunceble](https://github.com/funilrys/PyFunceble) — utilitas pengecekan status domain
 - [dns_converter.py](tools/dns_converter.py) — konversi filter ke format hosts, plain, dan DNS lainnya
 - Prasyarat: [Python](https://www.python.org/downloads/), [pip](https://pypi.org/project/pip/)
-
----
