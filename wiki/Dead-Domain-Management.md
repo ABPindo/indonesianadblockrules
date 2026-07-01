@@ -14,7 +14,7 @@ Tanggal 15:    Impor otomatis (jika belum direview)
 
 ---
 
-## Workflow
+## Alur Kerja
 
 | Workflow | Jadwal | Aksi |
 |----------|--------|------|

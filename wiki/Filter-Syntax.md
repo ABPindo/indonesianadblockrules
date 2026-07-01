@@ -1,4 +1,4 @@
-# Filter Syntax
+# Sintaks Filter
 
 ABPindo mendukung beberapa format sintaks filter tergantung pada software yang digunakan. Halaman ini menjelaskan masing-masing format dan kapan menggunakannya.
 
@@ -114,7 +114,7 @@ local-zone: "iklan.contoh.com" always_nxdomain
 
 ---
 
-## Rekomendasi Format per Use Case
+## Rekomendasi Format Berdasarkan Skenario
 
 | Skenario | Format yang Digunakan |
 |---|---|
