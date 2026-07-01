@@ -30,9 +30,13 @@ jobs:
       - name: Validate filters
         run: bash tools/lint.sh
 
+      - name: Check for duplicate rules
+        run: python3 tools/find_duplicates.py --strict
+
       - name: Generate report
         if: always()
         run: |
           echo "## Filter Validation Report" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "AGLint validation completed via \`tools/lint.sh\`." >> $GITHUB_STEP_SUMMARY
+          echo "AGLint validation: \`tools/lint.sh\`" >> $GITHUB_STEP_SUMMARY
+          echo "Duplicate check: \`tools/find_duplicates.py\`" >> $GITHUB_STEP_SUMMARY
