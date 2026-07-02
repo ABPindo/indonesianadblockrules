@@ -64,6 +64,8 @@ kumparan.com##.pb8.pt8.flex.bshhdS.sc-1u3us5z-1.cTlHVA.Viewweb__StyledView-sc-b0
 inews.id##.pipLiveStream__content
 theasianparent.com##.placeholder.top-app-download-banner
 sahijab.com##.popup-subscribe
+timetoday.id##.open.jetpack-subscribe-modal
+timetoday.id##body:style(overflow: auto !important;)
 hukumonline.com##.product-header
 narasi.tv##.read-next
 xl.co.id##.sc-concent
