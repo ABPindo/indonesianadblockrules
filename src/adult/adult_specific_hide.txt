@@ -135,3 +135,8 @@ igo.desu.xxx##[href^="https://klik.top/"]
 igo.desu.xxx##[href^="https://tinig22.com/"]
 doujin.desu.xxx##[href^="https://klik.best/"]
 doujin.desu.xxx##[href^="https://klik.top/"]
+semikeren.*###fadeinbox
+tempatbokep.com###global-promo-wrapper
+pemersatufun.*###deskadmiddle
+pemersatufun.*###btasd
+pemersatufun.*###dooplay_player_response #myDiv:has(button[onclick*="-adblock" i])
