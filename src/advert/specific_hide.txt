@@ -654,7 +654,7 @@ dapurpacu.com##.fixed-ads-atas
 miyanime.site##.fixed-lside
 miyanime.site##.fixed-rside
 kompas.id##.flex.justify-center.lg\:px-8.my-6
-kompas.id#.flex.items-center.justify-center.w-full.relative
+kompas.id##.flex.items-center.justify-center.w-full.relative
 kompas.id##.items-stretch.flex-col.flex-1.flex.z-0.relative.w-full
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
