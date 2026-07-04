@@ -10,9 +10,10 @@ SRC="$REPO_ROOT/src"
 
 echo "==> Running AGLint on source files..."
 
-# Run AGLint on all .txt files in a single invocation for faster, aggregated output.
+# Run AGLint on all .txt files (except redundant.txt) for faster, aggregated output.
 # Requires bash 4+ for globstar (enabled by default in Git Bash / MSYS2).
 shopt -s globstar
-aglint "$SRC"/**/*.txt
+mapfile -t files < <(find "$SRC" -name '*.txt' ! -name '*redundant*' ! -name '.aglintignore' | sort)
+aglint "${files[@]}"
 
 echo "==> Done. No problems found."

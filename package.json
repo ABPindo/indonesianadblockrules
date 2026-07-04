@@ -22,6 +22,7 @@
     "build:dns": "bash tools/build.sh dns",
     "check": "npm run lint && npm run build",
     "check:duplicates": "python tools/find_duplicates.py --strict",
+    "check:redundant": "node tools/run-redundancy-check.js",
     "clean": "rm -f subscriptions/*.txt && echo 'Cleaned subscriptions/'",
     "setup": "bash tools/install_tools.sh"
   }
