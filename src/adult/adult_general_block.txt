@@ -321,7 +321,7 @@
 /arunabet_$image
 /asean99-$image
 /asia88bet.$image,third-party
-/asiaforbet.$image
+/asiaforbet.$image,third-party
 /asian4d.$image,third-party
 /asianbookie-$image
 /asiaqq-$image
@@ -711,7 +711,6 @@
 /kiosqq.$image
 /klik66-$image
 /klik66banner.gif|
-/klikhoki-$image
 /klikkiu.$image,third-party
 /klikqq-$image
 /klikqq.$image,third-party
@@ -826,7 +825,6 @@
 /mikirpoker.$image,third-party
 /mildcasino.gif$image
 /misiqq-$image
-/mitrahoki-$image
 /mitraqq.$image,third-party
 /mkvgames.$image,third-party
 /mkvpoker.$image,third-party
@@ -860,7 +858,6 @@
 /newjaya.$image,third-party
 /newjaya.gif|$image
 /newrgotog.gif$image
-/newrgotog.gif|$image
 /newtexas.$image,third-party
 /newtexas.gif|$image
 /ngiklan/ad$image
@@ -889,7 +886,6 @@
 /ovovegas-$image
 /paiza99.gif|$image
 /pamelapoker.$image,third-party
-/pancatoto.$image
 /pancatoto.$image,third-party
 /panenpoker.$image,third-party
 /pangerantoto1.$image,third-party
@@ -942,7 +938,6 @@
 /pokersgp.$image,third-party
 /pokerstar8-$image
 /pokerstar8.jpg$image
-/pokerstar8.jpg|$image
 /pokerzara.$image,third-party
 /pokevita-$image
 /pokped-$image
@@ -959,11 +954,9 @@
 /qq-simpati-$image
 /qq101_$image
 /qq188_$image
-/qq1bet.$image
 /qq1bet.$image,third-party
 /qq39-$image
 /qq39.gif$image
-/qq39.gif|$image
 /qq39bet_$image
 /qqalfa.$image,third-party
 /qqang728x90.$image
@@ -980,7 +973,6 @@
 /qqjempol.$image,third-party
 /qqjoker.$image,third-party
 /qqnalo.$image,third-party
-/qqpedia.$image
 /qqpedia.$image,third-party
 /qqpilihan.$image,third-party
 /qqpokerplay.$image,third-party
@@ -1020,7 +1012,6 @@
 /rgocasino-$image
 /rgocasino.$image,third-party
 /rgocasino.gif$image
-/rgocasino.gif|$image
 /rgosky.$image,third-party
 /ronaldo4d-$image
 /ronaldo4d.gif|$image
@@ -1146,7 +1137,6 @@
 /uanghoki88com.$image
 /ubcpkr25-$image
 /ubcwin.$image,third-party
-/unibet99.$image
 /unibet99.$image,third-party
 /unikpoker.$image,third-party
 /unitogel-$image
@@ -1164,7 +1154,6 @@
 /vimaxpills.$image,third-party
 /vip/rajaelang.gif$image
 /vipslot.$image,third-party
-/vipslot77.$image
 /vipslot77.$image,third-party
 /viralqq.gif|$image
 /vivacm88.$image,third-party
@@ -1190,7 +1179,6 @@
 /winning365-$image
 /winpoker789.$image,third-party
 /winslot8_$image
-/wiropoker.$image
 /wiropoker.$image,third-party
 /wismaqq-$image
 /wismaqq.$image,third-party

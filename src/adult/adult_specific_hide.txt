@@ -4,8 +4,6 @@ igo-bokep.bond###GLOBAL-ADS-CLOSE
 igo-bokep.bond,igobokep.*###GLOBAL-ADS-FLOAT
 igo-bokep.bond,igobokep.*###GLOBAL-ADS-OVERLAY
 nekopoi.*###HTML1
-nekopoi.*###HTML16
-nekopoi.*###HTML19
 nekopoi.*###HTML9
 krucil.com###KD_adpB
 avtubhub.*,urlkontolin.click###adblock-modal
@@ -33,7 +31,6 @@ artisbokep.site###popupBannerOverlay
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 bokepvir.*###sticky-banner
-bokepvir.*###sticky-banner-footer
 bk21.yachts,heppinn.id,komikcast02.com,komikdewasa.*,komikdewasa.art,komikdewasa.com,komikdewasa.me,komikremaja.*,komikremaja.com,kumapoi.me,manhwaindo.*,manhwaindo.cfd,manhwaindo.com,pemersatu.*###teaser3
 hencop.lol,komikcast02.com###teaser4
 hencop.com###teaser7
@@ -70,7 +67,6 @@ dewaporn.*,lendirqu.cam##.happy-header
 dewaporn.*##.happy-header > [href] > .loading
 dicrotin.fun##.happy-section
 dewaporn.*##.happy-sidebar
-dewaporn.*##.happy-sidebar > [href] > .loading
 indobokep.pro##.header-banner
 viexx.com##.info-banner
 semprot.com##.jual_tetek
@@ -124,11 +120,9 @@ semprot.com##img[data-ad]
 semprot.com##semprotnenenmontok_f
 asiasizzle.com##.ad-banner
 asiasizzle.com###popup-banner-overlay
-asiasizzle.com##div#popup-banner-overlay
 asiasizzle.com##div.popup-banner-content
 asiasizzle.com##div.popup-banner-grid
 igo.desu.xxx##overplay
-igo.desu.xxx##overplay .chain
 igo.desu.xxx##.blox.mlb.kln
 igo.desu.xxx##uads_300x250
 igo.desu.xxx##[href^="https://klik.top/"]
