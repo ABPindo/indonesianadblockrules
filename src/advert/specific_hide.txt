@@ -37,8 +37,8 @@ zalora.co.id##div.wp-block-image
 bolatimes.com,guideku.com,matamata.com##.detail-content > div
 hitekno.com##.footer-ads__container
 harianesia.com##.gmr-banner-stickyright
-dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com##.gmr-floatbanner
-dteksinews.co.id,harianesia.com##.gmr-topbanner
+dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com,rilpolitik.com##.gmr-floatbanner
+dteksinews.co.id,harianesia.com,rilpolitik.com##.gmr-topbanner
 delik.tv##.gpt-ad-inner
 suara.com##.mgidwidget
 delik.tv##.parallax-clip
