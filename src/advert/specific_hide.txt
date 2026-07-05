@@ -308,6 +308,7 @@ hdtvku.com###mybannerpopup
 hdtvku.com###mybannerpopup2
 nobartv.com###nbpopx-wrapper
 timesindonesia.co.id###news_content > .font-weight-lighter
+viva.co.id###oop-home
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
 detik.com###otp_banner
@@ -896,7 +897,7 @@ bisnis.com##.skyscrapper--left
 bisnis.com##.skyscrapper--right
 zigi.id##.slot-iklan
 tvonenews.com##.slotiklan-320x100
-tvonenews.com##.slotiklan-custom-desktop
+tvonenews.com,viva.co.id##.slotiklan-custom-desktop
 sahijab.com##.small-mobile-banner
 cnbcindonesia.com,haibunda.com##.smartbanner_new
 hipwee.com##.spb_middle.spb_banner
