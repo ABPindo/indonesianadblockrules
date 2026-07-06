@@ -10,13 +10,17 @@ Ekstensi yang menggunakan sintaks **Adblock Plus**:
 
 | Ekstensi | Platform | Tautan |
 |---|---|---|
-| [uBlock Origin](https://github.com/gorhill/uBlock) | Firefox, Chrome, Edge | [Pasang](https://github.com/gorhill/uBlock#installation) |
-| [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) | Chrome, Chromium-based | [Pasang](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) |
-| [AdGuard Browser Extension](https://adguard.com/en/adguard-browser-extension/overview.html) | Firefox, Chrome, Edge, Safari | [Pasang](https://adguard.com/en/adguard-browser-extension/overview.html) |
-| [Adblock Plus](https://adblockplus.org) | Firefox, Chrome, Edge, Safari | [Pasang](https://adblockplus.org) |
-| [AdBlock](https://getadblock.com) | Firefox, Chrome, Edge | [Pasang](https://getadblock.com) |
+| [uBlock Origin](https://github.com/gorhill/uBlock) | Firefox, Edge, Opera | [Pasang](https://github.com/gorhill/uBlock#installation) |
+| [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) | Chrome/Chromium-based, Firefox, Edge, Safari | [Pasang](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) |
+| [AdGuard Browser Extension](https://adguard.com/en/adguard-browser-extension/overview.html) | Chrome/Chromium-based, Firefox, Edge, Opera, Safari | [Pasang](https://adguard.com/en/adguard-browser-extension/overview.html) |
+| [Ghostery](https://www.ghostery.com/) | Chrome/Chromium-based, Firefox, Edge, Opera, Safari | [Pasang](https://www.ghostery.com/) |
+| [Adblock Plus](https://adblockplus.org) | Chrome/Chromium-based, Firefox, Edge, Opera, Safari | [Pasang](https://adblockplus.org) |
+| [AdBlock](https://getadblock.com) | Chrome/Chromium-based, Firefox, Edge, Safari | [Pasang](https://getadblock.com) |
+| [AdBlocker Ultimate](https://adblockultimate.net/id/browsers) | Chrome/Chromium-based, Firefox, Edge | [Pasang](https://adblockultimate.net/id/browsers) |
 
-> **Rekomendasi:** uBlock Origin memberikan performa terbaik dan dukungan sintaks filter paling lengkap.
+#### Rekomendasi
+- Untuk Chrome/Chromium, AdGuard memberikan filter paling up-to-date dan dukungan sintaks yang lebih luas, dan custom filter. lihat instruksinya [disini](https://github.com/https://github.com/ABPindo/indonesianadblockrules/blob/master/wiki/chrome-adguard-setup.md)
+- Untuk Firefox/Firefox-based, uBlock Origin memberikan performa terbaik dan dukungan sintaks filter paling lengkap
 
 ---
 
@@ -24,7 +28,7 @@ Ekstensi yang menggunakan sintaks **Adblock Plus**:
 
 | Peramban | Dukungan ABPindo | Cara | Tautan |
 |---|---|---|---|
-| [Brave](https://brave.com) | ✅ Native | Tambah via `brave://adblock` — lihat [panduan lengkap](Setup-Browser-Extension#brave-browser-native--tanpa-ekstensi) | [Unduh](https://brave.com) |
+| [Brave](https://brave.com) | ✅ Native | Tambah via `brave://adblock` — lihat bagian "Content filtering", klik "See Full Lists", dan centang ABPindo.| [Unduh](https://brave.com) |
 | [Adblock Browser](https://adblockbrowser.org/) | ✅ Bawaan | ABPindo aktif otomatis saat bahasa Indonesia/Malaysia | [Unduh](https://adblockbrowser.org/) |
 | [Opera](https://www.opera.com) | ⚠️ Terbatas | Hanya format EasyList basic; scriptlet ABPindo tidak didukung — gunakan ekstensi uBlock Origin | [Unduh](https://www.opera.com) |
 | [Vivaldi](https://vivaldi.com) | ⚠️ Terbatas | Sama seperti Opera — gunakan ekstensi uBlock Origin untuk hasil terbaik | [Unduh](https://vivaldi.com) |
