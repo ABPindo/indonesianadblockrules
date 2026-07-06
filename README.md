@@ -56,6 +56,10 @@ ABPindo menggunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/
 
 3. Atau, salin tautan **RAW File** dari tabel di bawah dan tambahkan secara manual melalui pengaturan filter di ekstensi Anda.
 
+#### Rekomendasi
+- Untuk Chrome/Chromium, AdGuard memberikan filter paling up-to-date, dukungan sintaks yang lebih luas, dan custom filter. lihat instruksinya [disini](https://github.com/https://github.com/ABPindo/indonesianadblockrules/blob/master/wiki/chrome-adguard-setup.md)
+- Untuk Firefox/Firefox-based, uBlock Origin memberikan performa terbaik dan dukungan sintaks filter paling lengkap
+
 > **Catatan untuk pengguna uBlock Origin Lite:** Setel *default filtering mode* ke **Complete** agar semua elemen iklan terblokir. Lihat [panduan lengkapnya di sini](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/wiki/assets/setup-browser-extension/fig1.png).
 
 > **Masalah jendela pop-up?** Baca [panduan memblokir popup](https://github.com/ABPindo/indonesianadblockrules/wiki/Panduan-Memblokir-Popup) di wiki.
