@@ -16,7 +16,7 @@ Ekstensi yang menggunakan sintaks **Adblock Plus**:
 | [Ghostery](https://www.ghostery.com/) | Chrome/Chromium-based, Firefox, Edge, Opera, Safari | [Pasang](https://www.ghostery.com/) |
 | [Adblock Plus](https://adblockplus.org) | Chrome/Chromium-based, Firefox, Edge, Opera, Safari | [Pasang](https://adblockplus.org) |
 | [AdBlock](https://getadblock.com) | Chrome/Chromium-based, Firefox, Edge, Safari | [Pasang](https://getadblock.com) |
-| [AdBlocker Ultimate](https://adblockultimate.net/id/browsers) | Chrome/Chromium-based, Firefox, Edge | [Pasang](https://adblockultimate.net/id/browsers) |
+
 
 #### Rekomendasi
 - Untuk Chrome/Chromium, AdGuard memberikan filter paling up-to-date, dukungan sintaks yang lebih luas, dan custom filter. lihat instruksinya [disini](https://github.com/https://github.com/ABPindo/indonesianadblockrules/blob/master/wiki/chrome-adguard-setup.md)
