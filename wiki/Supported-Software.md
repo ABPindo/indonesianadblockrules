@@ -28,7 +28,7 @@ Ekstensi yang menggunakan sintaks **Adblock Plus**:
 
 | Peramban | Dukungan ABPindo | Cara | Tautan |
 |---|---|---|---|
-| [Brave](https://brave.com) | ✅ Native | Tambah via `brave://adblock` — lihat bagian "Content filtering", klik "See Full Lists", dan centang ABPindo.| [Unduh](https://brave.com) |
+| [Brave](https://brave.com) | ✅ Native | Tambah via `brave://adblock` — lihat [panduan lengkap](Setup-Browser-Extension#brave-browser-native--tanpa-ekstensi)| [Unduh](https://brave.com) |
 | [Adblock Browser](https://adblockbrowser.org/) | ✅ Bawaan | ABPindo aktif otomatis saat bahasa Indonesia/Malaysia | [Unduh](https://adblockbrowser.org/) |
 | [Opera](https://www.opera.com) | ⚠️ Terbatas | Hanya format EasyList basic; scriptlet ABPindo tidak didukung — gunakan ekstensi uBlock Origin | [Unduh](https://www.opera.com) |
 | [Vivaldi](https://vivaldi.com) | ⚠️ Terbatas | Sama seperti Opera — gunakan ekstensi uBlock Origin untuk hasil terbaik | [Unduh](https://vivaldi.com) |
