@@ -56,7 +56,7 @@ ABPindo uses [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-fi
 
 3. Or copy the **RAW File** link from the table below and add it manually via your extension's filter settings.
 
-> **Note for uBlock Origin Lite users:** Set *default filtering mode* to **Complete** so all ad elements are blocked. See [the full guide here](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/wiki/455486093-4bc27a5b-6dcb-406d-b46e-13092ece89c8.png).
+> **Note for uBlock Origin Lite users:** Set *default filtering mode* to **Complete** so all ad elements are blocked. See [the full guide here](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/wiki/assets/setup-browser-extension/fig1.png).
 
 > **Pop-up issues?** See the [pop-up blocking guide](https://github.com/ABPindo/indonesianadblockrules/wiki/Panduan-Memblokir-Popup) on the wiki.
 

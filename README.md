@@ -56,7 +56,7 @@ ABPindo menggunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/
 
 3. Atau, salin tautan **RAW File** dari tabel di bawah dan tambahkan secara manual melalui pengaturan filter di ekstensi Anda.
 
-> **Catatan untuk pengguna uBlock Origin Lite:** Setel *default filtering mode* ke **Complete** agar semua elemen iklan terblokir. Lihat [panduan lengkapnya di sini](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/wiki/455486093-4bc27a5b-6dcb-406d-b46e-13092ece89c8.png).
+> **Catatan untuk pengguna uBlock Origin Lite:** Setel *default filtering mode* ke **Complete** agar semua elemen iklan terblokir. Lihat [panduan lengkapnya di sini](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/wiki/assets/setup-browser-extension/fig1.png).
 
 > **Masalah jendela pop-up?** Baca [panduan memblokir popup](https://github.com/ABPindo/indonesianadblockrules/wiki/Panduan-Memblokir-Popup) di wiki.
 
