@@ -19,7 +19,7 @@ Ekstensi yang menggunakan sintaks **Adblock Plus**:
 | [AdBlocker Ultimate](https://adblockultimate.net/id/browsers) | Chrome/Chromium-based, Firefox, Edge | [Pasang](https://adblockultimate.net/id/browsers) |
 
 #### Rekomendasi
-- Untuk Chrome/Chromium, AdGuard memberikan filter paling up-to-date dan dukungan sintaks yang lebih luas, dan custom filter. lihat instruksinya [disini](https://github.com/https://github.com/ABPindo/indonesianadblockrules/blob/master/wiki/chrome-adguard-setup.md)
+- Untuk Chrome/Chromium, AdGuard memberikan filter paling up-to-date, dukungan sintaks yang lebih luas, dan custom filter. lihat instruksinya [disini](https://github.com/https://github.com/ABPindo/indonesianadblockrules/blob/master/wiki/chrome-adguard-setup.md)
 - Untuk Firefox/Firefox-based, uBlock Origin memberikan performa terbaik dan dukungan sintaks filter paling lengkap
 
 ---
