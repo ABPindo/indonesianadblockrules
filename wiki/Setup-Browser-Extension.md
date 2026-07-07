@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 4. Gulir ke bagian **Regions, languages**, lalu klik **+** untuk memperluas.
 5. Cari **ID, MYS: ABPindo** dan centang kotaknya.
 
-   ![Contoh tampilan filter list uBlock Origin](https://github.com/user-attachments/assets/96a58dd6-980f-49dd-834a-f6892641e44f)
+   ![Contoh tampilan filter list uBlock Origin](assets/setup-browser-extension/fig1.png)
 
 6. Klik **Apply changes** di bagian atas untuk menyimpan.
 
