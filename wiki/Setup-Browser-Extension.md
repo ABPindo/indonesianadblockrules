@@ -28,7 +28,6 @@ Brave mendukung custom filter list secara native melalui mesin pemblokir bawaann
 3. Buka tab **Filter Lists**.
 4. Gulir ke bagian **Regions, languages**, lalu klik **+** untuk memperluas.
 5. Cari **ID, MYS: ABPindo** dan centang kotaknya.
-
 6. Klik **Apply changes** di bagian atas untuk menyimpan.
 
 > **Khusus uBlock Origin Lite:** Setel *default filtering mode* ke **Complete** agar semua elemen terblokir. Tanpa ini, sebagian filter mungkin tidak aktif.
