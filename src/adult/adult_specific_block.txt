@@ -7,3 +7,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||kayatan.vip/crossfeed.js$script
 ||kayatan.vip/api/crossfeed$xhr
 ||143flix.com/matomo.js$script,domain=kayatan.vip
+||143flix.com/matomo.js$script,domain=sebokep.vip
+||sebokep.vip/crossfeed.js$script
+||sebokep.vip/api/crossfeed$xhr

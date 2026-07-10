@@ -138,3 +138,6 @@ kayatan.vip###floatingBanner
 kayatan.vip##.crossfeed-card
 kayatan.vip##aside > div > .mt-4
 kayatan.vip##a[href="/network"]
+sebokep.vip##.crossfeed-card
+sebokep.vip##.sg-popup-builder-content
+sebokep.vip##a[target*="blank"]:has(> img)
