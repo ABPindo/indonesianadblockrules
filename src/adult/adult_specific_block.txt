@@ -4,3 +4,9 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||imgur.com/*.gif$image,domain=gocrot.*
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||pic.desu.xxx/content/banner/*.gif$image
+||kayatan.vip/crossfeed.js$script
+||kayatan.vip/api/crossfeed$xhr
+||143flix.com/matomo.js$script,domain=kayatan.vip
+||143flix.com/matomo.js$script,domain=sebokep.vip
+||sebokep.vip/crossfeed.js$script
+||sebokep.vip/api/crossfeed$xhr

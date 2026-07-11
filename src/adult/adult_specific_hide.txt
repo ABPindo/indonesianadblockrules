@@ -134,3 +134,10 @@ tempatbokep.com###global-promo-wrapper
 pemersatufun.*###deskadmiddle
 pemersatufun.*###btasd
 pemersatufun.*###dooplay_player_response #myDiv:has(button[onclick*="-adblock" i])
+kayatan.vip###floatingBanner
+kayatan.vip##.crossfeed-card
+kayatan.vip##aside > div > .mt-4
+kayatan.vip##a[href="/network"]
+sebokep.vip##.crossfeed-card
+sebokep.vip##.sg-popup-builder-content
+sebokep.vip##a[target*="blank"]:has(> img)
