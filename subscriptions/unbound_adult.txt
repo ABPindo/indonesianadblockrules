@@ -1,7 +1,7 @@
-# Version: 202607050955
+# Version: 202607111137
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 05 Jul 2026 09:55 UTC
+# Last modified: 11 Jul 2026 11:37 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -144,6 +144,7 @@ local-zone: "172.105.216.174" always_nxdomain
 local-zone: "32redpoker.com" always_nxdomain
 local-zone: "88togel.com" always_nxdomain
 local-zone: "actionpoker.com" always_nxdomain
+local-zone: "adroitdeceitcongestion.com" always_nxdomain
 local-zone: "ads.save21.site" always_nxdomain
 local-zone: "afapoker.com" always_nxdomain
 local-zone: "agenjudibolabet.com" always_nxdomain
@@ -153,6 +154,7 @@ local-zone: "agentogel4d.com" always_nxdomain
 local-zone: "ajar-poet.com" always_nxdomain
 local-zone: "allvegaspoker.com" always_nxdomain
 local-zone: "anaktogel.com" always_nxdomain
+local-zone: "antiadblocksystems.com" always_nxdomain
 local-zone: "aosbobet.com" always_nxdomain
 local-zone: "areataruhan.com" always_nxdomain
 local-zone: "arenajudi.com" always_nxdomain
@@ -167,7 +169,10 @@ local-zone: "beritaagenjudi.com" always_nxdomain
 local-zone: "biotogel.com" always_nxdomain
 local-zone: "blindbetpoker.com" always_nxdomain
 local-zone: "blogjudi.com" always_nxdomain
+local-zone: "bobsleddomesticglandular.com" always_nxdomain
+local-zone: "bolakami-banner-tracker.bolakami.workers.dev" always_nxdomain
 local-zone: "bursajudibola.com" always_nxdomain
+local-zone: "c.adsco.re" always_nxdomain
 local-zone: "caramenangtaruhanbola.com" always_nxdomain
 local-zone: "caramenangtogel.com" always_nxdomain
 local-zone: "casinoclubpoker.com" always_nxdomain
@@ -185,6 +190,7 @@ local-zone: "delapantogel.com" always_nxdomain
 local-zone: "deltatoto.com" always_nxdomain
 local-zone: "dewijudi.com" always_nxdomain
 local-zone: "dewitogel.com" always_nxdomain
+local-zone: "driverhugoverblown.com" always_nxdomain
 local-zone: "dutatoto.com" always_nxdomain
 local-zone: "emputogel.com" always_nxdomain
 local-zone: "europoker.com" always_nxdomain
@@ -242,6 +248,7 @@ local-zone: "onlineactionpoker.com" always_nxdomain
 local-zone: "onlinepoker66.com" always_nxdomain
 local-zone: "pacificpoker.com" always_nxdomain
 local-zone: "pandujudionline.com" always_nxdomain
+local-zone: "pkygraajhdap.com" always_nxdomain
 local-zone: "planettoto.com" always_nxdomain
 local-zone: "playpokeronline.com" always_nxdomain
 local-zone: "playwinpoker.com" always_nxdomain
@@ -277,6 +284,7 @@ local-zone: "rajapoker88.com" always_nxdomain
 local-zone: "rajatogel.biz" always_nxdomain
 local-zone: "rajatogel.com" always_nxdomain
 local-zone: "rajatoto.com" always_nxdomain
+local-zone: "rarelypunenhancements.com" always_nxdomain
 local-zone: "recentpoker.com" always_nxdomain
 local-zone: "redstarpoker.com" always_nxdomain
 local-zone: "rgobet.com" always_nxdomain
@@ -321,6 +329,7 @@ local-zone: "totomaster.com" always_nxdomain
 local-zone: "truepoker.com" always_nxdomain
 local-zone: "undiantogel.com" always_nxdomain
 local-zone: "videopoker.com" always_nxdomain
+local-zone: "vivodemisrentas.net" always_nxdomain
 local-zone: "warungjudi.com" always_nxdomain
 local-zone: "warungpoker.com" always_nxdomain
 local-zone: "webjudionline.com" always_nxdomain

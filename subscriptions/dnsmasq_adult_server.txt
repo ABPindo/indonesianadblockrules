@@ -1,7 +1,7 @@
-# Version: 202607050955
+# Version: 202607111137
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 05 Jul 2026 09:55 UTC
+# Last modified: 11 Jul 2026 11:37 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -144,6 +144,7 @@ server=/172.105.216.174/
 server=/32redpoker.com/
 server=/88togel.com/
 server=/actionpoker.com/
+server=/adroitdeceitcongestion.com/
 server=/ads.save21.site/
 server=/afapoker.com/
 server=/agenjudibolabet.com/
@@ -153,6 +154,7 @@ server=/agentogel4d.com/
 server=/ajar-poet.com/
 server=/allvegaspoker.com/
 server=/anaktogel.com/
+server=/antiadblocksystems.com/
 server=/aosbobet.com/
 server=/areataruhan.com/
 server=/arenajudi.com/
@@ -167,7 +169,10 @@ server=/beritaagenjudi.com/
 server=/biotogel.com/
 server=/blindbetpoker.com/
 server=/blogjudi.com/
+server=/bobsleddomesticglandular.com/
+server=/bolakami-banner-tracker.bolakami.workers.dev/
 server=/bursajudibola.com/
+server=/c.adsco.re/
 server=/caramenangtaruhanbola.com/
 server=/caramenangtogel.com/
 server=/casinoclubpoker.com/
@@ -185,6 +190,7 @@ server=/delapantogel.com/
 server=/deltatoto.com/
 server=/dewijudi.com/
 server=/dewitogel.com/
+server=/driverhugoverblown.com/
 server=/dutatoto.com/
 server=/emputogel.com/
 server=/europoker.com/
@@ -242,6 +248,7 @@ server=/onlineactionpoker.com/
 server=/onlinepoker66.com/
 server=/pacificpoker.com/
 server=/pandujudionline.com/
+server=/pkygraajhdap.com/
 server=/planettoto.com/
 server=/playpokeronline.com/
 server=/playwinpoker.com/
@@ -277,6 +284,7 @@ server=/rajapoker88.com/
 server=/rajatogel.biz/
 server=/rajatogel.com/
 server=/rajatoto.com/
+server=/rarelypunenhancements.com/
 server=/recentpoker.com/
 server=/redstarpoker.com/
 server=/rgobet.com/
@@ -321,6 +329,7 @@ server=/totomaster.com/
 server=/truepoker.com/
 server=/undiantogel.com/
 server=/videopoker.com/
+server=/vivodemisrentas.net/
 server=/warungjudi.com/
 server=/warungpoker.com/
 server=/webjudionline.com/
