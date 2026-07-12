@@ -1,7 +1,7 @@
-# Version: 202607111137
+# Version: 202607120854
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 11 Jul 2026 11:37 UTC
+# Last modified: 12 Jul 2026 08:54 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -142,6 +142,7 @@
 # *** abpindo:src/adult/adult_thirdparty.txt ***
 ||172.105.216.174^
 ||32redpoker.com^
+||6d30803f5f.com^
 ||88togel.com^
 ||actionpoker.com^
 ||adroitdeceitcongestion.com^
@@ -173,6 +174,7 @@
 ||bolakami-banner-tracker.bolakami.workers.dev^
 ||bursajudibola.com^
 ||c.adsco.re^
+||capndr.com^
 ||caramenangtaruhanbola.com^
 ||caramenangtogel.com^
 ||casinoclubpoker.com^
@@ -208,6 +210,7 @@
 ||inipoker.com^
 ||investopedia.today^
 ||ipoker.com^
+||jads.co^
 ||jayapoker.com^
 ||jtogel.com^
 ||judibebas.com^
@@ -336,5 +339,6 @@
 ||webjuditerpercaya.com^
 ||websitejudi.com^
 ||wigobet.com^
+||wpadmngr.com^
 ||xjudi.com^
 ||yourpokercash.com^
