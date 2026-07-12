@@ -1,7 +1,7 @@
-# Version: 202607121007
+# Version: 202607121015
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 12 Jul 2026 10:07 UTC
+# Last modified: 12 Jul 2026 10:15 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -181,6 +181,7 @@ server=/caramenangtogel.com/
 server=/casinoclubpoker.com/
 server=/cdpoker.com/
 server=/celebpoker.com/
+server=/chaseherbalpasty.com/
 server=/chilipoker.com/
 server=/clickadu.com/
 server=/coolhandpoker.com/
