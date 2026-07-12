@@ -144,3 +144,7 @@ sebokep.vip##a[target*="blank"]:has(> img)
 kelasmalam.net###promo-after-lapor
 tantecentil.fans##div[style*="z-index: 999999"]
 bokep360.*##a[href*="gamdom"]
+xbokepin.*###floating-banner-wrap
+xbokepin.*###popupBannerOverlay
+xbokepin.*##a[target*="blank"]:has(> img)
+xbokepin.*##.rbdb-overlay
