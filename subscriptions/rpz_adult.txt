@@ -1,7 +1,7 @@
-# Version: 202607010432
+# Version: 202607111137
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 01 Jul 2026 04:32 UTC
+# Last modified: 11 Jul 2026 11:37 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -129,7 +129,6 @@ shqbsdjatunl.com CNAME .
 sumberiklan.com CNAME .
 villainoussession.com CNAME .
 vkwaeo.com CNAME .
-wk.locatiocorms.com CNAME .
 yllix.com CNAME .
 # *** abpindo:src/advert/thirdparty.txt ***
 c-stat.eu CNAME .
@@ -145,6 +144,7 @@ trafficfactory.biz CNAME .
 32redpoker.com CNAME .
 88togel.com CNAME .
 actionpoker.com CNAME .
+adroitdeceitcongestion.com CNAME .
 ads.save21.site CNAME .
 afapoker.com CNAME .
 agenjudibolabet.com CNAME .
@@ -154,6 +154,7 @@ agentogel4d.com CNAME .
 ajar-poet.com CNAME .
 allvegaspoker.com CNAME .
 anaktogel.com CNAME .
+antiadblocksystems.com CNAME .
 aosbobet.com CNAME .
 areataruhan.com CNAME .
 arenajudi.com CNAME .
@@ -168,7 +169,10 @@ beritaagenjudi.com CNAME .
 biotogel.com CNAME .
 blindbetpoker.com CNAME .
 blogjudi.com CNAME .
+bobsleddomesticglandular.com CNAME .
+bolakami-banner-tracker.bolakami.workers.dev CNAME .
 bursajudibola.com CNAME .
+c.adsco.re CNAME .
 caramenangtaruhanbola.com CNAME .
 caramenangtogel.com CNAME .
 casinoclubpoker.com CNAME .
@@ -186,6 +190,7 @@ delapantogel.com CNAME .
 deltatoto.com CNAME .
 dewijudi.com CNAME .
 dewitogel.com CNAME .
+driverhugoverblown.com CNAME .
 dutatoto.com CNAME .
 emputogel.com CNAME .
 europoker.com CNAME .
@@ -243,6 +248,7 @@ onlineactionpoker.com CNAME .
 onlinepoker66.com CNAME .
 pacificpoker.com CNAME .
 pandujudionline.com CNAME .
+pkygraajhdap.com CNAME .
 planettoto.com CNAME .
 playpokeronline.com CNAME .
 playwinpoker.com CNAME .
@@ -278,6 +284,7 @@ rajapoker88.com CNAME .
 rajatogel.biz CNAME .
 rajatogel.com CNAME .
 rajatoto.com CNAME .
+rarelypunenhancements.com CNAME .
 recentpoker.com CNAME .
 redstarpoker.com CNAME .
 rgobet.com CNAME .
@@ -322,6 +329,7 @@ totomaster.com CNAME .
 truepoker.com CNAME .
 undiantogel.com CNAME .
 videopoker.com CNAME .
+vivodemisrentas.net CNAME .
 warungjudi.com CNAME .
 warungpoker.com CNAME .
 webjudionline.com CNAME .

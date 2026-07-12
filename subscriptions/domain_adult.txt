@@ -1,7 +1,7 @@
-# Version: 202607010432
+# Version: 202607111137
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 01 Jul 2026 04:32 UTC
+# Last modified: 11 Jul 2026 11:37 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -129,7 +129,6 @@ shqbsdjatunl.com
 sumberiklan.com
 villainoussession.com
 vkwaeo.com
-wk.locatiocorms.com
 yllix.com
 # *** abpindo:src/advert/thirdparty.txt ***
 c-stat.eu
@@ -145,6 +144,7 @@ trafficfactory.biz
 32redpoker.com
 88togel.com
 actionpoker.com
+adroitdeceitcongestion.com
 ads.save21.site
 afapoker.com
 agenjudibolabet.com
@@ -154,6 +154,7 @@ agentogel4d.com
 ajar-poet.com
 allvegaspoker.com
 anaktogel.com
+antiadblocksystems.com
 aosbobet.com
 areataruhan.com
 arenajudi.com
@@ -168,7 +169,10 @@ beritaagenjudi.com
 biotogel.com
 blindbetpoker.com
 blogjudi.com
+bobsleddomesticglandular.com
+bolakami-banner-tracker.bolakami.workers.dev
 bursajudibola.com
+c.adsco.re
 caramenangtaruhanbola.com
 caramenangtogel.com
 casinoclubpoker.com
@@ -186,6 +190,7 @@ delapantogel.com
 deltatoto.com
 dewijudi.com
 dewitogel.com
+driverhugoverblown.com
 dutatoto.com
 emputogel.com
 europoker.com
@@ -243,6 +248,7 @@ onlineactionpoker.com
 onlinepoker66.com
 pacificpoker.com
 pandujudionline.com
+pkygraajhdap.com
 planettoto.com
 playpokeronline.com
 playwinpoker.com
@@ -278,6 +284,7 @@ rajapoker88.com
 rajatogel.biz
 rajatogel.com
 rajatoto.com
+rarelypunenhancements.com
 recentpoker.com
 redstarpoker.com
 rgobet.com
@@ -322,6 +329,7 @@ totomaster.com
 truepoker.com
 undiantogel.com
 videopoker.com
+vivodemisrentas.net
 warungjudi.com
 warungpoker.com
 webjudionline.com

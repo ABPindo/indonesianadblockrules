@@ -37,8 +37,8 @@ zalora.co.id##div.wp-block-image
 bolatimes.com,guideku.com,matamata.com##.detail-content > div
 hitekno.com##.footer-ads__container
 harianesia.com##.gmr-banner-stickyright
-dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com##.gmr-floatbanner
-dteksinews.co.id,harianesia.com##.gmr-topbanner
+dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com,rilpolitik.com##.gmr-floatbanner
+dteksinews.co.id,harianesia.com,rilpolitik.com##.gmr-topbanner
 delik.tv##.gpt-ad-inner
 suara.com##.mgidwidget
 delik.tv##.parallax-clip
@@ -46,6 +46,7 @@ suara.com##.parallax_swipe
 suara.com##.placeholder_
 bolatimes.com,dewiku.com,guideku.com,himedik.com,matamata.com,mobimoto.com,suara.com##.placeholder_belt
 bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com##.placeholder_leaderboard
+kapanlagi.com###div-gpt-ad-topfrm-parallax-wrapper
 bolatimes.com,dewiku.com,guideku.com,himedik.com,hitekno.com,matamata.com,mobimoto.com,suara.com##.placeholder_medium
 bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com##.placeholder_r1
 bolatimes.com,dewiku.com,guideku.com,himedik.com,matamata.com,mobimoto.com,suara.com##.placeholder_read_body
@@ -104,7 +105,6 @@ kinitv.com##.bg-gray-100:has(.adunitContainer)
 ! IDN Networks
 yummy.co.id###IDN_InFeed1:upward(1)
 yummy.co.id###IDN_InFeed2:upward(1)
-fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com###IDN_Sticky
 idntimes.com###ads-infeed
 yummy.co.id###idn_ads_bottom_sticky
 yummy.co.id###js-banner-sticky
@@ -281,8 +281,6 @@ mojok.co###kontainer-ads-mobile
 zonabola.com###lAds
 mangafap.com###lbanner
 detik.com,investor.id###leaderboard
-detik.com###leaderboard:has([id^="div-gpt-ad"])
-detik.com###leaderboard[style*="width: 750px;height: 100px;"]
 lingohut.com###lht2_lesson_after_vocab2_300x250_phone
 lingohut.com###lht2_lesson_bottom_300x250_phone
 lingohut.com###lht2_lesson_top_320x50_phone
@@ -310,6 +308,7 @@ hdtvku.com###mybannerpopup
 hdtvku.com###mybannerpopup2
 nobartv.com###nbpopx-wrapper
 timesindonesia.co.id###news_content > .font-weight-lighter
+viva.co.id###oop-home
 mangashiro.net###openpopunder
 viva.co.id###otp_ads
 detik.com###otp_banner
@@ -358,10 +357,6 @@ indotelko.com###vertical_top_kanal
 animeindo.net###videoad1
 moenime.com###w-node-b77
 bioskop78.com###wrap > center
-idntimes.com###wrapper-IDN_Billboard
-idntimes.com###wrapper-IDN_MR1
-idntimes.com###wrapper-IDN_MR2
-idntimes.com###wrapper-IDN_MegaBillboard
 gooto.com###zone_3
 marketeers.com##.-mx-\[24px\]
 sokuja.uk##.NhdeCy
@@ -638,7 +633,6 @@ tirto.id##.d-sidebar
 teknologi.inilah.com##.d.wp-120x600
 pricebook.co.id##.description-ads
 okezone.com##.detads
-hitekno.com##.detail-content > div > .banner-ads--big.placeholder_medium
 cnbcindonesia.com##.detail-text > .detail-text > div
 cnnindonesia.com##.detail_ads
 cnbcindonesia.com,detik.com##.detikads
@@ -654,6 +648,8 @@ dapurpacu.com##.fixed-ads-atas
 miyanime.site##.fixed-lside
 miyanime.site##.fixed-rside
 kompas.id##.flex.justify-center.lg\:px-8.my-6
+kompas.id##.flex.items-center.justify-center.w-full.relative
+kompas.id##.items-stretch.flex-col.flex-1.flex.z-0.relative.w-full
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
@@ -754,9 +750,7 @@ inibaru.id##.lg\:mb-auto.mx-auto.max-h-72.lg\:h-64.lg\:w-full.lg\:bg-slate-100.d
 tvrinews.com##.lg_ads
 kontan.co.id##.liftdownclass
 animasu.cc##.lmd-iklan
-haibunda.com##.m-r1:has(#adv-caption-mr1)
 haibunda.com##.m-r1:has([id^="div-gpt-ad"])
-haibunda.com##.m-r2:has(#adv-caption-mr2)
 haibunda.com##.m-r2:has([id^="div-gpt-ad"])
 idbioskop.com##.mag-adver-part
 industry.co.id##.main-content > div.idt-textinsidepost
@@ -771,7 +765,6 @@ narasi.tv##.mb-4.bg-\[\#e3e3e3\]
 inibaru.id##.mb-4.bg-grey.text-center
 insertlive.com##.mb-6.lg\:top-\[76px\].sm\:top-\[90px\].sticky > center
 tempo.co##.mb-6.m-auto.right-0.left-0.max-w-\[470px\].relative.h-\[250px\].w-full
-nova.grid.id##.mb-\[60px\].giant_2-wrapper.relative
 parapuan.co##.mb3.gpt-ad-head-wrapper.widget
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com,mamikos.com##.megabillboard
 popbela.com##.megabillboard-container
@@ -781,14 +774,11 @@ kompas.com##.mgidaiml.ads-partner-wrap
 bolasport.com,kompas.tv##.mgidclsbanner
 dapurpacu.com##.mid-banner
 astroawani.com##.middle-ad-cont
-cnbcindonesia.com##.min-w-0.detail-text > .detail-text > div > div
 cosmic345.co##.mlb
 file.rocks##.mobi.content-left
 file.rocks##.mobi.content-right
 marketeers.com##.modal-login-container
-detik.com##.mr1:has(#adv-caption-mr1)
 cnbcindonesia.com,cnnindonesia.com,detik.com##.mr1:has([id^="div-gpt-ad"])
-detik.com##.mr2:has(#adv-caption-mr2)
 cnbcindonesia.com,cnnindonesia.com,detik.com##.mr2:has([id^="div-gpt-ad"])
 cnnindonesia.com##.mr3:has([id^="div-gpt-ad"])
 detik.com,haibunda.com##.mr:has(.mr1-scrollpage-container .mr1-scrollpage-banner)
@@ -796,7 +786,6 @@ detik.com,haibunda.com##.mr:has(.mr2-scrollpage-container .mr2-scrollpage-banner
 nextren.grid.id##.mt20.top1
 inilah.com##.mui-style-1q8992d.MuiList-padding.MuiList-root > div.mui-style-0.MuiBox-root
 inilah.com##.mui-style-za8aav
-nova.grid.id##.mx-\[150px\].mb-\[40px\].gap-\[40px\].grid-cols-12.grid > .col-span-4 > .mb-\[60px\].giant_1-wrapper.relative
 inibaru.id##.mx-auto.h-\[250px\].w-\[300px\].dark\:bg-ib-dark-800.bg-slate-100
 tempo.co##.mx-auto.lg\:w-\[728px\]
 kompas.com##.native-wrap
@@ -858,6 +847,7 @@ beautyjournal.id##.r-1mi0q7o.r-sax9pr.r-14lw9ot.css-175oi2r
 beautyjournal.id##.r-1ut4w64.r-14lw9ot.css-175oi2r
 otomania.com##.r-ads
 film-ganool.com##.random
+zonasi.id##.ray-floating-ads-container
 okezone.com##.rc-ad-300x250
 gridoto.com##.read__left
 sonora.id##.read__skyscraper
@@ -908,7 +898,7 @@ bisnis.com##.skyscrapper--left
 bisnis.com##.skyscrapper--right
 zigi.id##.slot-iklan
 tvonenews.com##.slotiklan-320x100
-tvonenews.com##.slotiklan-custom-desktop
+tvonenews.com,viva.co.id##.slotiklan-custom-desktop
 sahijab.com##.small-mobile-banner
 cnbcindonesia.com,haibunda.com##.smartbanner_new
 hipwee.com##.spb_middle.spb_banner
@@ -1069,7 +1059,6 @@ gigapurbalingga.net,kuyhaa-me.com,lk21official.cc##center
 cinemaindo.com,film-ganool.com,isekaisubs.web.id,luciferdonghua.in,mangashiro.net,oploverz.*,realmscans.com###teaser1
 cinemaindo.com,film-ganool.com,ganool.nl,ganool.ph,isekaisubs.web.id,luciferdonghua.in,oploverz.*,realmscans.com###teaser2
 cosmicscans.*##.code-block-1.code-block
-cosmicscans.*##.floating-ad__frame:style(display: none !important;)
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div#ads-infeed
 motorplus-online.com##div#composite-container
 smartphoneku.com##div.ad-before
@@ -1078,8 +1067,6 @@ nextren.grid.id##div.banner-r
 bolasport.com##div.content_footer--list:nth-of-type(2)
 yasir252.com##div.label-link-btn
 tempo.co##div.lg\:container
-nova.grid.id##div.mb-\[60px\].giant_1-wrapper.relative:nth-of-type(1)
-nova.grid.id##div.mb-\[60px\].giant_1-wrapper.relative:nth-of-type(3)
 inilah.com##div.mui-style-b34tjk
 inibaru.id##div.overflow-hidden.top-32.sticky.h-\[600px\].w-\[160px\].dark\:bg-ib-dark-800.bg-slate-100.lg\:block.hidden:nth-of-type(1)
 hitekno.com##div.placeholder_r1:nth-of-type(1)
@@ -1149,7 +1136,6 @@ isdaryanto.com##img[style="width: 125px; height: 125px;"]
 funtasticko.net##img[width="1020"][height="350"]
 jakartaglobe.id##style + .mt-2
 indoxx1.*###tengah
-indoxx1.*###tengahaa
 indoxx1.*##div.content-kuss
 doroni.me##ins.adsbygoogle
 kiryuu01.com,kiryuu02.*,manhwaindo.one###teaserbottom
@@ -1204,14 +1190,12 @@ rebahin21.*###floating-banner
 samehadaku.*###floatbottom
 samehadaku.*###floatcenter
 samehadaku.*##.ads
-samehadaku.*##.adsrow
 samehadaku.*##.kln
 samehadaku.*##[href^="https://t.ly/"]
 samehadaku.*##div[class*="player-iklan"]
 samehadaku.*##img[style="width: 50%; height: 70px;"]
 shinigami.*##.bg-base-card:has(img[alt*="-ad-"])
 shinigami09.*###lepopup-popup-13
-shinigami09.*###lepopup-popup-13-overlay
 shinigami09.*##.iklannew-container
 shinigami09.*##.lepopup-popup-container
 shinigami09.*##.lepopup-popup-loader
@@ -1235,4 +1219,10 @@ cosmicscans.*##html, body:style(overflow: auto!important; position: unset!import
 cosmicscans.*##.floating-ad__script
 cosmicscans.*##.floating-ad__frame
 cosmicscans.*##.ad-markup
-cosmicscans.*##.ad-markup__item
+nobartv.*###floatcenter
+nobartv.ratakan88.*##.clappr-watermark
+tvbersama.*###floatcenter
+tvbersama.ratakan88.*##.clappr-watermark
+chinapress.com.my##.ads-frame
+moenime.com###top-floating-banner
+moenime.com###bottom-floating-banner

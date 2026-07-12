@@ -8,22 +8,16 @@ Panduan ini menjelaskan cara mengaktifkan ABPindo di berbagai browser dan eksten
 
 Brave mendukung custom filter list secara native melalui mesin pemblokir bawaannya. ABPindo dapat ditambahkan langsung tanpa ekstensi tambahan.
 
-**Desktop & Android:**
+**Desktop/Mobile:**
 
 1. Buka `brave://adblock` di address bar.
-2. Gulir ke bagian **Add custom filter lists**.
-3. Klik **Add filter list via URL**.
-4. Masukkan URL berikut, lalu klik **Add**:
+2. Lihat bagian "Content filtering"
+3. Gulir kebawah dan klik "See Full Lists", lalu cari dan centang ABPindo.
+4. Filter akan diperbarui otomatis setiap minggu.
 
-```
-https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
-```
+> **Catatan:** Pastikan Trackers & ads blocking di `brave://settings/shields` tidak dalam kondisi **Disabled**. dan Setel mode pemblokiran ke **Aggresive** untuk hasil yang sempurna (Dikarenakan Aggresive mode juga memblokir elemen level first-party.)
 
-5. Filter akan diperbarui otomatis setiap minggu.
-
-> **Catatan:** Pastikan Trackers & ads blocking di `brave://settings/shields` tidak dalam kondisi **Disabled**. Setel ke **Standard** atau **Aggressive** agar filter aktif bekerja.
-
-> **Ingin kontrol lebih penuh?** Pasang ekstensi [uBlock Origin](https://github.com/gorhill/uBlock#installation) dan ikuti panduan di bawah. uBlock Origin memberikan dukungan sintaks filter yang lebih lengkap termasuk scriptlet.
+> **Ingin kontrol lebih penuh?** Pasang/Hidupkan ekstensi ekstensi uBlock Origin [disini](brave://settings/extensions/v2) dan ikuti panduan di bawah. uBlock Origin memberikan dukungan sintaks filter yang lebih lengkap termasuk scriptlet.
 
 ---
 
@@ -34,16 +28,15 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 3. Buka tab **Filter Lists**.
 4. Gulir ke bagian **Regions, languages**, lalu klik **+** untuk memperluas.
 5. Cari **ID, MYS: ABPindo** dan centang kotaknya.
-
-   ![Contoh tampilan filter list uBlock Origin](https://github.com/user-attachments/assets/96a58dd6-980f-49dd-834a-f6892641e44f)
-
 6. Klik **Apply changes** di bagian atas untuk menyimpan.
 
-> **uBlock Origin Lite:** Setel *default filtering mode* ke **Complete** agar semua elemen terblokir. Tanpa ini, sebagian filter mungkin tidak aktif.
+> **Khusus uBlock Origin Lite:** Setel *default filtering mode* ke **Complete** agar semua elemen terblokir. Tanpa ini, sebagian filter mungkin tidak aktif.
+
+![Contoh tampilan filter list uBlock Origin](assets/setup-browser-extension/fig1.png)
 
 ---
 
-## AdGuard (Desktop / Extension)
+## AdGuard (App/Extension)
 
 1. Buka **Settings** AdGuard.
 2. Pilih tab **Filters**.
@@ -51,7 +44,7 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 4. Temukan **ABPindo** dan aktifkan toggle-nya.
 5. Klik **Apply** untuk memperbarui.
 
-Atau tambahkan secara manual via **User Rules** dengan URL berikut:
+Atau tambahkan secara manual via **Custom filters** dengan URL berikut:
 
 ```
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
@@ -74,6 +67,17 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 ```
 
 ---
+
+## Ghostery
+
+1. Klik ikon **Ghostery** di browser.
+2. Pilih menu **hamburger > privacy protections**
+3. Pilih **Additional Filters**
+4. Hidupkan **Regional Block Lists**
+5. Centang **Indonesian (id)***
+
+---
+
 
 ## Troubleshooting
 

@@ -51,6 +51,7 @@ kompas.com,kompas.tv,sonora.id##.kgnw-middle-ready.kgnw-middle
 bolasport.com,grid.id,gridoto.com,kompas.com,kompas.tv,motorplus-online.com##.kgnw-player
 kapanlagi.com##.liputan6-mobileapp-widget
 kompas.id##.mb-8.pb-8.border-blue-10.border-b-2
+kompas.id##.z-20.w-full.bottom-0.fixed
 inilah.com##.mui-style-1tl651l.MuiStack-root
 inilah.com##.mui-style-46fqhp.MuiStack-root
 inilah.com##.mui-style-9iqj81.MuiStack-root
@@ -64,6 +65,8 @@ kumparan.com##.pb8.pt8.flex.bshhdS.sc-1u3us5z-1.cTlHVA.Viewweb__StyledView-sc-b0
 inews.id##.pipLiveStream__content
 theasianparent.com##.placeholder.top-app-download-banner
 sahijab.com##.popup-subscribe
+timetoday.id##.open.jetpack-subscribe-modal
+timetoday.id##body:style(overflow: auto !important;)
 hukumonline.com##.product-header
 narasi.tv##.read-next
 xl.co.id##.sc-concent
