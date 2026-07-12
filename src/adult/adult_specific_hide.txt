@@ -141,3 +141,5 @@ kayatan.vip##a[href="/network"]
 sebokep.vip##.crossfeed-card
 sebokep.vip##.sg-popup-builder-content
 sebokep.vip##a[target*="blank"]:has(> img)
+##[href^="http://alxvgs.pro"]
+##img[alt^="Alexa Vegas" i]
