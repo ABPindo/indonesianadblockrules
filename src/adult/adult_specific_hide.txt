@@ -148,3 +148,5 @@ artisbokep.*,republikbokep.*,xbokepin.*###floating-banner-wrap
 artisbokep.*,republikbokep.*,xbokepin.*###popupBannerOverlay
 artisbokep.*,republikbokep.*,xbokepin.*##a[target*="blank"]:has(> img)
 xbokepin.*##.rbdb-overlay
+asupan.tokyo###floating-top
+asupan.tokyo###floating-bottom
