@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202607132220
+! Version: 202607132227
 ! Title: ABPindo (hosts + adult)
 ! Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-! Last modified: 13 Jul 2026 22:20 UTC
+! Last modified: 13 Jul 2026 22:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -208,6 +208,7 @@
 ||europoker.com^$third-party
 ||everypoker.com^$third-party
 ||feltpoker.com^$third-party
+||fudfzudwoa.com^$third-party
 ||gentingpoker.com^$third-party
 ||goldentigerpoker.com^$third-party
 ||goldentoto.com^$third-party
@@ -350,6 +351,7 @@
 ||undiantogel.com^$third-party
 ||videopoker.com^$third-party
 ||vivodemisrentas.net^$third-party
+||w3.t5tm8zptlf6o8lc.cfd^$third-party
 ||warungjudi.com^$third-party
 ||warungpoker.com^$third-party
 ||wcikamgamzc.com^$third-party
