@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202607132131
+! Version: 202607132152
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 13 Jul 2026 21:31 UTC
+! Last modified: 13 Jul 2026 21:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9637,8 +9637,8 @@ igobokep.*###floatbanner-bottom
 hencop.com,hencop.lol,heppinn.id,indodb21.com,nontonhentai.net###floatcenter
 artisbokep.site###floating-banner-inner
 artisbokep.*,republikbokep.*,xbokepin.*###floating-banner-wrap
-kingbokep.*###floating-bottom
-kingbokep.*###floating-top
+asupan.tokyo,kingbokep.*###floating-bottom
+asupan.tokyo,kingbokep.*###floating-top
 matapria.cam###floating-top-banner
 kayatan.vip###floatingBanner
 ruangbokep.*,ruangbokep.com,ruangbokep.sbs,streamingbokeponline.*,streamingbokeponline.com###floating_bot
