@@ -1,7 +1,7 @@
-# Version: 202607121038
+# Version: 202607132131
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 12 Jul 2026 10:38 UTC
+# Last modified: 13 Jul 2026 21:31 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -132,13 +132,16 @@ local-zone: "vkwaeo.com" always_nxdomain
 local-zone: "yllix.com" always_nxdomain
 # *** abpindo:src/advert/thirdparty.txt ***
 local-zone: "c-stat.eu" always_nxdomain
+local-zone: "inshorturl.com" always_nxdomain
 local-zone: "moneyfree.co" always_nxdomain
+local-zone: "safelinkearn.com" always_nxdomain
 local-zone: "track.aptitudemedia.co" always_nxdomain
 local-zone: "track.zerofriend.com" always_nxdomain
 local-zone: "tracker.lazada.co.id" always_nxdomain
 local-zone: "trackingclick.net" always_nxdomain
 local-zone: "traffic-monetizer.com" always_nxdomain
 local-zone: "trafficfactory.biz" always_nxdomain
+local-zone: "vm.ydstinkle.com" always_nxdomain
 # *** abpindo:src/adult/adult_thirdparty.txt ***
 local-zone: "172.105.216.174" always_nxdomain
 local-zone: "32redpoker.com" always_nxdomain
