@@ -150,3 +150,6 @@ artisbokep.*,republikbokep.*,xbokepin.*##a[target*="blank"]:has(> img)
 xbokepin.*##.rbdb-overlay
 asupan.tokyo###floating-top
 asupan.tokyo###floating-bottom
+kingbokep.*##img[src*=".gif"]:not(div[class*="video"] > img)
+kingbokep.*##img[src*=".webp"]:not(div[class*="video"] > img)
+kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
