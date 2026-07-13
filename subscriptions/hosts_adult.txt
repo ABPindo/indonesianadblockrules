@@ -1,7 +1,7 @@
-# Version: 202607132214
+# Version: 202607132220
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Jul 2026 22:14 UTC
+# Last modified: 13 Jul 2026 22:20 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -252,8 +252,10 @@
 0.0.0.0 nagapoker.com
 0.0.0.0 nagapoker88.com
 0.0.0.0 nagatogel.com
+0.0.0.0 noemisnakier.com
 0.0.0.0 nztoto.com
 0.0.0.0 obobet.net
+0.0.0.0 offwardscraps.com
 0.0.0.0 online5poker.com
 0.0.0.0 onlineactionpoker.com
 0.0.0.0 onlinepoker66.com
@@ -340,6 +342,7 @@
 0.0.0.0 totobet4d.com
 0.0.0.0 totomaster.com
 0.0.0.0 truepoker.com
+0.0.0.0 tzetzessmoking.com
 0.0.0.0 undiantogel.com
 0.0.0.0 videopoker.com
 0.0.0.0 vivodemisrentas.net
@@ -349,6 +352,7 @@
 0.0.0.0 webjudionline.com
 0.0.0.0 webjuditerpercaya.com
 0.0.0.0 websitejudi.com
+0.0.0.0 whelmlegge.com
 0.0.0.0 wigobet.com
 0.0.0.0 wpadmngr.com
 0.0.0.0 xjudi.com

@@ -1,7 +1,7 @@
-# Version: 202607132214
+# Version: 202607132220
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Jul 2026 22:14 UTC
+# Last modified: 13 Jul 2026 22:20 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -252,8 +252,10 @@ nagapoker.biz CNAME .
 nagapoker.com CNAME .
 nagapoker88.com CNAME .
 nagatogel.com CNAME .
+noemisnakier.com CNAME .
 nztoto.com CNAME .
 obobet.net CNAME .
+offwardscraps.com CNAME .
 online5poker.com CNAME .
 onlineactionpoker.com CNAME .
 onlinepoker66.com CNAME .
@@ -340,6 +342,7 @@ totobet24.com CNAME .
 totobet4d.com CNAME .
 totomaster.com CNAME .
 truepoker.com CNAME .
+tzetzessmoking.com CNAME .
 undiantogel.com CNAME .
 videopoker.com CNAME .
 vivodemisrentas.net CNAME .
@@ -349,6 +352,7 @@ wcikamgamzc.com CNAME .
 webjudionline.com CNAME .
 webjuditerpercaya.com CNAME .
 websitejudi.com CNAME .
+whelmlegge.com CNAME .
 wigobet.com CNAME .
 wpadmngr.com CNAME .
 xjudi.com CNAME .

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202607132214
+! Version: 202607132220
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 13 Jul 2026 22:14 UTC
+! Last modified: 13 Jul 2026 22:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9699,7 +9699,7 @@ dewaporn.*##.happy-sidebar
 indobokep.pro##.header-banner
 viexx.com##.info-banner
 semprot.com##.jual_tetek
-filmjepang.it.com,filmjepangku.net,filmjepangku.online,hencop.lol,heppinn.id,javsubid.com,javsubindo.site,klipjepang.shop,komik18.*,komikdewasa.*,komikremaja.*,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.mom,manhwalist.com,pascol.*,pascol.com,sintube.icu,skandalpedia.*,starjepang.*##.kln
+filmjepang.it.com,filmjepangku.net,filmjepangku.online,hencop.lol,heppinn.id,javsubid.com,javsubindo.site,klipjepang.shop,komik18.*,komikdewasa.*,komikremaja.*,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.baby,manhwaland.land,manhwaland.mom,manhwalist.com,pascol.*,pascol.com,sintube.icu,skandalpedia.*,starjepang.*##.kln
 krucil.com##.krucil_ads
 matapria.cam##.lin-ad-above
 terviral.cam##.lin-ad-header
@@ -9744,7 +9744,7 @@ kayatan.vip##a[href="/network"]
 doujindesu.tv##a[href][target="_blank"] > img
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nokephub.com##a[href^="https://genec77.space/"]
-anoboy.*,manhwadesu.org##a[href^="https://klik.gg/"]
+anoboy.*,manhwadesu.im,manhwadesu.org##a[href^="https://klik.gg/"]
 slurr.my.id##a[href^="https://scratchy-trick.com/"]
 18subindo.com##a[href^="https://tinyurl.com/"]
 artisbokep.*,republikbokep.*,sebokep.vip,xbokepin.*##a[target*="blank"]:has(> img)
@@ -9872,8 +9872,10 @@ igo.desu.xxx##uads_300x250
 ||nagapoker.com^$third-party
 ||nagapoker88.com^$third-party
 ||nagatogel.com^$third-party
+||noemisnakier.com^$third-party
 ||nztoto.com^$third-party
 ||obobet.net^$popup
+||offwardscraps.com^$third-party
 ||online5poker.com^$third-party
 ||onlineactionpoker.com^$third-party
 ||onlinepoker66.com^$third-party
@@ -9960,6 +9962,7 @@ igo.desu.xxx##uads_300x250
 ||totobet4d.com^$third-party
 ||totomaster.com^$third-party
 ||truepoker.com^$third-party
+||tzetzessmoking.com^$third-party
 ||undiantogel.com^$third-party
 ||videopoker.com^$third-party
 ||vivodemisrentas.net^$third-party
@@ -9969,6 +9972,7 @@ igo.desu.xxx##uads_300x250
 ||webjudionline.com^$third-party
 ||webjuditerpercaya.com^$third-party
 ||websitejudi.com^$third-party
+||whelmlegge.com^$third-party
 ||wigobet.com^$third-party
 ||wpadmngr.com^$third-party
 ||xjudi.com^$third-party

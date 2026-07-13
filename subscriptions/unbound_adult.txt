@@ -1,7 +1,7 @@
-# Version: 202607132214
+# Version: 202607132220
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Jul 2026 22:14 UTC
+# Last modified: 13 Jul 2026 22:20 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -252,8 +252,10 @@ local-zone: "nagapoker.biz" always_nxdomain
 local-zone: "nagapoker.com" always_nxdomain
 local-zone: "nagapoker88.com" always_nxdomain
 local-zone: "nagatogel.com" always_nxdomain
+local-zone: "noemisnakier.com" always_nxdomain
 local-zone: "nztoto.com" always_nxdomain
 local-zone: "obobet.net" always_nxdomain
+local-zone: "offwardscraps.com" always_nxdomain
 local-zone: "online5poker.com" always_nxdomain
 local-zone: "onlineactionpoker.com" always_nxdomain
 local-zone: "onlinepoker66.com" always_nxdomain
@@ -340,6 +342,7 @@ local-zone: "totobet24.com" always_nxdomain
 local-zone: "totobet4d.com" always_nxdomain
 local-zone: "totomaster.com" always_nxdomain
 local-zone: "truepoker.com" always_nxdomain
+local-zone: "tzetzessmoking.com" always_nxdomain
 local-zone: "undiantogel.com" always_nxdomain
 local-zone: "videopoker.com" always_nxdomain
 local-zone: "vivodemisrentas.net" always_nxdomain
@@ -349,6 +352,7 @@ local-zone: "wcikamgamzc.com" always_nxdomain
 local-zone: "webjudionline.com" always_nxdomain
 local-zone: "webjuditerpercaya.com" always_nxdomain
 local-zone: "websitejudi.com" always_nxdomain
+local-zone: "whelmlegge.com" always_nxdomain
 local-zone: "wigobet.com" always_nxdomain
 local-zone: "wpadmngr.com" always_nxdomain
 local-zone: "xjudi.com" always_nxdomain
