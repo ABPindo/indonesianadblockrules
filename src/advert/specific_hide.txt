@@ -586,7 +586,7 @@ detik.com##.breakingnews-float
 inilah.com##.bt-g1.b-g3.wb-300x100
 inilah.com##.bt-g1.b-g3.wb-300x250
 femaledaily.com##.btn_ads_close_top_frame
-gigapurbalingga.cc##.button-container
+gigapurbalingga.cc##div[style*="text-align:center"]:has(> a[href*="archivehub"])
 animekompi.web.id##.cads
 mforum.cari.com.my##.cari-ads
 modifikasi.com##.cell_banner_inside
