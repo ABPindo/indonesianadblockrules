@@ -10,3 +10,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||143flix.com/matomo.js$script,domain=sebokep.vip
 ||sebokep.vip/crossfeed.js$script
 ||sebokep.vip/api/crossfeed$xhr
+/wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
+||digitaloceanspaces.com/nokephub/$media,redirect=noopmp4-1s
+||r2.dev/*.mp4$media,redirect=noopmp4-1s,domain=nokephub.*

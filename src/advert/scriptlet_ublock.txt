@@ -29,7 +29,7 @@ sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
 anichin.top,animekompi.vip,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kisahterlarang.site,komikcast02.com,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
 animekompi.*##+js(abort-on-property-write, MutationObserver)
-dicrotin.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
+dicrotin.*,nokephub.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
 kiryuu02.*##+js(nowoif)
 lk21semi.*##+js(acs, chp_ads_blocker_detector)
 kuyhaa.me##+js(acs, document.addEventListener, window.open)
