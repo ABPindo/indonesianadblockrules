@@ -155,3 +155,4 @@ kingbokep.*##img[src*=".webp"]:not(div[class*="video"] > img)
 kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
 simontokx.tv##a[target*="blank"]:has(> img)
 simontokx.tv##.close-text
+animekompi.*##a[target*="blank"]:has(> img)
