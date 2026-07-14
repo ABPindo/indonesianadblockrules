@@ -153,3 +153,5 @@ asupan.tokyo###floating-bottom
 kingbokep.*##img[src*=".gif"]:not(div[class*="video"] > img)
 kingbokep.*##img[src*=".webp"]:not(div[class*="video"] > img)
 kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
+simontokx.tv##a[target*="blank"]:has(> img)
+simontokx.tv##.close-text

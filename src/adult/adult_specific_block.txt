@@ -13,3 +13,4 @@ $popup,domain=skripsitesisdisertasi.biz.id
 /wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
 ||digitaloceanspaces.com/nokephub/$media,redirect=noopmp4-1s
 ||r2.dev/*.mp4$media,redirect=noopmp4-1s,domain=nokephub.*
+||serverx16.online/hls/$media,redirect=noopmp4-1s
