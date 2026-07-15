@@ -152,3 +152,4 @@
 ||asset.kompas.com/data/2025/02/27/sso/js/popup_manager.min.js$script
 ! Miscellaneous popups
 $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
+||img.gm21.download/$image

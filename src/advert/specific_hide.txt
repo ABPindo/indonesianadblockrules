@@ -1228,3 +1228,4 @@ moenime.com###top-floating-banner
 moenime.com###bottom-floating-banner
 kuyhaa.id###gp-download-wrapper
 animekompi.sbs##.ays-pb-modals
+gudangmovies21.chat##a[target*="blank"]:has(> img)
