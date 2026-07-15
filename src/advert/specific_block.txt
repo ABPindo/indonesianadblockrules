@@ -153,3 +153,5 @@
 ! Miscellaneous popups
 $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
 ||img.gm21.download/$image
+||kawanfilm21.co/wp-content/uploads/*tambakbet*$image
+||kawanfilm21.co/wp-content/uploads/*judi*$image
