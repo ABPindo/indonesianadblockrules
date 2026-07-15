@@ -15,7 +15,8 @@
 %include abpindo:src/advert/thirdparty.txt%
 %include abpindo:src/advert/general_block.txt%
 %include abpindo:src/advert/specific_block.txt%
-%include abpindo:src/advert/scriptlet_ublock.txt%
+%include abpindo:src/advert/ublock.txt%
+%include abpindo:src/advert/adblockplus.txt%
 %include abpindo:src/advert/allowlist.txt%
 !---------------------------- adult ---------------------------------!
 %include abpindo:src/adult/adult_general_block.txt%

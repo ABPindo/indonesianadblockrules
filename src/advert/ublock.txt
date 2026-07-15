@@ -1,3 +1,8 @@
+! aglint "invalid-modifiers": "off"
+! Title: ABPindo – uBlock Origin specific rules
+! Rules using uBO-only modifiers: redirect, redirect-rule, to, and scriptlets.
+! These are excluded from main filter files to keep AGLint strict on ABP syntax.
+! --------------------------------------------------------------------------- !
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.vebma.com##+js(aeld, click, linkOpened)
 moutogami.com##+js(aeld, load, /adblock/i)
@@ -44,3 +49,12 @@ simontokx.tv##+js(aopr, ujiPopups)
 gudangmovies21.chat##+js(aopr, SGPB_POPUP_PARAMS)
 kawanfilm21.co##+js(nowoif)
 komikdewasa.art##+js(aeld, click, tampilkanUrl)
+
+! --- network rules with redirect/redirect-rule/to --------------------------- !
+/wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
+||digitaloceanspaces.com/nokephub/$media,redirect=noopmp4-1s
+||r2.dev/*.mp4$media,redirect=noopmp4-1s,domain=nokephub.*
+||serverx16.online/hls/$media,redirect=noopmp4-1s
+||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
+||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=noop.js,domain=nekopoi.care
+||bk21.net/*.mp4$media,redirect=noopmp4-1s,domain=juragan.film

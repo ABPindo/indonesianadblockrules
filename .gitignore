@@ -13,3 +13,6 @@ __pycache__/
 *.tmp
 *.temp
 .validation-report.json
+
+# Hermes
+.hermes/

@@ -10,15 +10,3 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||143flix.com/matomo.js$script,domain=sebokep.vip
 ||sebokep.vip/crossfeed.js$script
 ||sebokep.vip/api/crossfeed$xhr
-/wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
-||digitaloceanspaces.com/nokephub/$media,redirect=noopmp4-1s
-||r2.dev/*.mp4$media,redirect=noopmp4-1s,domain=nokephub.*
-||nokephub.tv/wp-content/uploads/*$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
-||digitaloceanspaces.com/nokephub/*$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
-||r2.dev/*.mp4$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
-||serverx16.online/hls/$media,redirect=noopmp4-1s
-||serverx16.online/hls/*$media,rewrite=abp-resource:blank-mp4,domain=simontokx.tv
-||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
-||animekompi.sbs/wp-content/uploads/*$media,rewrite=abp-resource:blank-mp4,domain=animekompi.sbs
-||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=noop.js,domain=nekopoi.care
-||googlesyndication.com/pagead/js/adsbygoogle.js$script,rewrite=abp-resource:blank-js,domain=nekopoi.care

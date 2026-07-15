@@ -3,7 +3,7 @@ extends:
   - aglint:recommended
 
 syntax:
-  - AdblockPlus
+  - Common
 
 rules:
   invalid-modifiers: error
