@@ -157,3 +157,7 @@ simontokx.tv##a[target*="blank"]:has(> img)
 simontokx.tv##.close-text
 animekompi.*##a[target*="blank"]:has(> img)
 indobokepin.com##iframe[src*="dooods.pro/ads_banner"]
+nekopoi.care##.adsgen
+nekopoi.care##.leftarea
+nekopoi.*###popup
+nekopoi.*##a[target*="blank"]:has(> img)

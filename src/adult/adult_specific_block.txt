@@ -20,3 +20,5 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||serverx16.online/hls/*$media,rewrite=abp-resource:blank-mp4,domain=simontokx.tv
 ||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
 ||animekompi.sbs/wp-content/uploads/*$media,rewrite=abp-resource:blank-mp4,domain=animekompi.sbs
+||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=noop.js,domain=nekopoi.care
+||googlesyndication.com/pagead/js/adsbygoogle.js$script,rewrite=abp-resource:blank-js,domain=nekopoi.care
