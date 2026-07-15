@@ -1230,3 +1230,8 @@ kuyhaa.id###gp-download-wrapper
 animekompi.sbs##.ays-pb-modals
 gudangmovies21.chat##a[target*="blank"]:has(> img)
 kawanfilm21.co##a[target*="blank"]:has(> img)
+juragan.film##.idmuvi-afterplayer
+juragan.film##.idmuvi-topplayer
+juragan.film##a[target*="blank"]:has(> img)
+juragan.film##.iklan-container
+juragan.film##.idmuvi-floatbanner-footer

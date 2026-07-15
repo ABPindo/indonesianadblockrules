@@ -155,3 +155,6 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 ||img.gm21.download/$image
 ||kawanfilm21.co/wp-content/uploads/*tambakbet*$image
 ||kawanfilm21.co/wp-content/uploads/*judi*$image
+||bk21.net/*.gif$image$domain=juragan.film
+||bk21.net/*.mp4$media,redirect=noopmp4-1s,domain=juragan.film
+||s1.bk21.net/777/$image
