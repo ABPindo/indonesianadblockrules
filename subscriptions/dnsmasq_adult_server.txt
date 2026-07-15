@@ -1,7 +1,7 @@
-# Version: 202607132227
+# Version: 202607152304
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Jul 2026 22:27 UTC
+# Last modified: 15 Jul 2026 23:04 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -131,18 +131,35 @@ server=/villainoussession.com/
 server=/vkwaeo.com/
 server=/yllix.com/
 # *** abpindo:src/advert/thirdparty.txt ***
+server=/akseskaiko.cam/
 server=/archivehub.com.ng/
+server=/bergurukecina.fun/
 server=/c-stat.eu/
+server=/cdnfgo.xyz/
+server=/goid.space/
+server=/goratu.site/
+server=/injd.site/
 server=/inshorturl.com/
+server=/kegz.site/
+server=/menujupenta.site/
 server=/moneyfree.co/
+server=/nf.diamberproetid.com/
+server=/orangarab.fun/
+server=/ransplay-io.com/
+server=/refpa3665.com/
 server=/safelinkearn.com/
+server=/sbobet.host/
+server=/sv.sleeklyyallaer.com/
+server=/tambakbet.vip/
 server=/track.aptitudemedia.co/
 server=/track.zerofriend.com/
 server=/tracker.lazada.co.id/
 server=/trackingclick.net/
 server=/traffic-monetizer.com/
 server=/trafficfactory.biz/
+server=/ufo777link.com/
 server=/vm.ydstinkle.com/
+server=/wg87vip.bet/
 # *** abpindo:src/adult/adult_thirdparty.txt ***
 server=/172.105.216.174/
 server=/32redpoker.com/
@@ -190,6 +207,7 @@ server=/chaseherbalpasty.com/
 server=/chilipoker.com/
 server=/clickadu.com/
 server=/coolhandpoker.com/
+server=/cutlink.now/
 server=/dafapoker.com/
 server=/daftarjudibola.com/
 server=/daftarjudicasino.com/
@@ -199,7 +217,9 @@ server=/delapantogel.com/
 server=/deltatoto.com/
 server=/dewijudi.com/
 server=/dewitogel.com/
+server=/dooods.pro/
 server=/driverhugoverblown.com/
+server=/dtscout.com/
 server=/dutatoto.com/
 server=/emputogel.com/
 server=/europoker.com/
@@ -241,6 +261,7 @@ server=/markastogel.com/
 server=/masterjudi.blog.com/
 server=/masterjudi.com/
 server=/maxbetqq.net/
+server=/mayzaent.com/
 server=/mickeypoker.com/
 server=/mintedpoker.com/
 server=/misterindo.net/
@@ -307,6 +328,7 @@ server=/rivapoker.com/
 server=/rumah-judi.com/
 server=/rumahtaruhan88.com/
 server=/semarangtogel.com/
+server=/serverx16.online/
 server=/sharkpokertour.com/
 server=/shopnoit.com/
 server=/situsagenjudi.com/
@@ -315,6 +337,7 @@ server=/speedcount.co/
 server=/sunpoker.com/
 server=/surgajudi.com/
 server=/switchpoker.com/
+server=/tangkas99.com/
 server=/taruhanbetting.com/
 server=/taruhancasino.com/
 server=/taruhanku.com/
@@ -359,4 +382,5 @@ server=/wigobet.com/
 server=/wpadmngr.com/
 server=/xjudi.com/
 server=/yourpokercash.com/
+server=/yu.befitkersey.com/
 server=/zonaportal.org/

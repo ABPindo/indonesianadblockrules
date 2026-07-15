@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202607132227
+! Version: 202607152304
 ! Title: ABPindo (hosts + adult)
 ! Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-! Last modified: 13 Jul 2026 22:27 UTC
+! Last modified: 15 Jul 2026 23:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -132,18 +132,35 @@
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
 ! *** abpindo:src/advert/thirdparty.txt ***
+||akseskaiko.cam^$third-party
 ||archivehub.com.ng^$third-party
+||bergurukecina.fun^$third-party
 ||c-stat.eu^$third-party
+||cdnfgo.xyz^$third-party
+||goid.space^$third-party
+||goratu.site^$third-party
+||injd.site^$third-party
 ||inshorturl.com^$third-party
+||kegz.site^$third-party
+||menujupenta.site^$third-party
 ||moneyfree.co^$third-party
+||nf.diamberproetid.com^$third-party
+||orangarab.fun^$third-party
+||ransplay-io.com^$third-party
+||refpa3665.com^$third-party
 ||safelinkearn.com^$third-party
+||sbobet.host^$third-party
+||sv.sleeklyyallaer.com^$third-party
+||tambakbet.vip^$third-party
 ||track.aptitudemedia.co^$popup,third-party
 ||track.zerofriend.com^$popup,third-party
 ||tracker.lazada.co.id^$third-party
 ||trackingclick.net^$third-party
 ||traffic-monetizer.com^$third-party
 ||trafficfactory.biz^$popup,third-party
+||ufo777link.com^$third-party
 ||vm.ydstinkle.com^$third-party
+||wg87vip.bet^$third-party
 ! *** abpindo:src/adult/adult_thirdparty.txt ***
 ||172.105.216.174^$popup
 ||32redpoker.com^$third-party
@@ -180,6 +197,7 @@
 ||blogjudi.com^$third-party
 ||bobsleddomesticglandular.com^$third-party
 ||bojo.rajatravel.online^$third-party
+||bokep.work/*.gif
 ||bolakami-banner-tracker.bolakami.workers.dev^$third-party
 ||bursajudibola.com^$third-party
 ||c.adsco.re^$third-party
@@ -193,6 +211,7 @@
 ||chilipoker.com^$third-party
 ||clickadu.com^$popup
 ||coolhandpoker.com^$third-party
+||cutlink.now^$third-party
 ||dafapoker.com^$third-party
 ||daftarjudibola.com^$third-party
 ||daftarjudicasino.com^$third-party
@@ -202,7 +221,9 @@
 ||deltatoto.com^$third-party
 ||dewijudi.com^$third-party
 ||dewitogel.com^$third-party
+||dooods.pro^$third-party
 ||driverhugoverblown.com^$third-party
+||dtscout.com^$third-party
 ||dutatoto.com^$third-party
 ||emputogel.com^$third-party
 ||europoker.com^$third-party
@@ -245,6 +266,7 @@
 ||masterjudi.blog.com^$third-party
 ||masterjudi.com^$third-party
 ||maxbetqq.net^$popup
+||mayzaent.com^$third-party
 ||mickeypoker.com^$third-party
 ||mintedpoker.com^$third-party
 ||misterindo.net^$popup
@@ -311,6 +333,7 @@
 ||rumah-judi.com^$third-party
 ||rumahtaruhan88.com^$third-party
 ||semarangtogel.com^$third-party
+||serverx16.online^$third-party
 ||sharkpokertour.com^$third-party
 ||shopnoit.com^$popup
 ||situsagenjudi.com^$third-party
@@ -319,6 +342,7 @@
 ||sunpoker.com^$third-party
 ||surgajudi.com^$third-party
 ||switchpoker.com^$third-party
+||tangkas99.com^$third-party
 ||taruhanbetting.com^$third-party
 ||taruhancasino.com^$third-party
 ||taruhanku.com^$third-party
@@ -363,4 +387,5 @@
 ||wpadmngr.com^$third-party
 ||xjudi.com^$third-party
 ||yourpokercash.com^$third-party
+||yu.befitkersey.com^$third-party
 ||zonaportal.org^$third-party

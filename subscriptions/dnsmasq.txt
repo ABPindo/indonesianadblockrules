@@ -1,7 +1,7 @@
-# Version: 202607132227
+# Version: 202607152304
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 13 Jul 2026 22:27 UTC
+# Last modified: 15 Jul 2026 23:04 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -131,15 +131,32 @@ address=/villainoussession.com/0.0.0.0
 address=/vkwaeo.com/0.0.0.0
 address=/yllix.com/0.0.0.0
 # *** abpindo:src/advert/thirdparty.txt ***
+address=/akseskaiko.cam/0.0.0.0
 address=/archivehub.com.ng/0.0.0.0
+address=/bergurukecina.fun/0.0.0.0
 address=/c-stat.eu/0.0.0.0
+address=/cdnfgo.xyz/0.0.0.0
+address=/goid.space/0.0.0.0
+address=/goratu.site/0.0.0.0
+address=/injd.site/0.0.0.0
 address=/inshorturl.com/0.0.0.0
+address=/kegz.site/0.0.0.0
+address=/menujupenta.site/0.0.0.0
 address=/moneyfree.co/0.0.0.0
+address=/nf.diamberproetid.com/0.0.0.0
+address=/orangarab.fun/0.0.0.0
+address=/ransplay-io.com/0.0.0.0
+address=/refpa3665.com/0.0.0.0
 address=/safelinkearn.com/0.0.0.0
+address=/sbobet.host/0.0.0.0
+address=/sv.sleeklyyallaer.com/0.0.0.0
+address=/tambakbet.vip/0.0.0.0
 address=/track.aptitudemedia.co/0.0.0.0
 address=/track.zerofriend.com/0.0.0.0
 address=/tracker.lazada.co.id/0.0.0.0
 address=/trackingclick.net/0.0.0.0
 address=/traffic-monetizer.com/0.0.0.0
 address=/trafficfactory.biz/0.0.0.0
+address=/ufo777link.com/0.0.0.0
 address=/vm.ydstinkle.com/0.0.0.0
+address=/wg87vip.bet/0.0.0.0

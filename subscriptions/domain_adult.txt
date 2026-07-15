@@ -1,7 +1,7 @@
-# Version: 202607132227
+# Version: 202607152304
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Jul 2026 22:27 UTC
+# Last modified: 15 Jul 2026 23:04 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -131,18 +131,35 @@ villainoussession.com
 vkwaeo.com
 yllix.com
 # *** abpindo:src/advert/thirdparty.txt ***
+akseskaiko.cam
 archivehub.com.ng
+bergurukecina.fun
 c-stat.eu
+cdnfgo.xyz
+goid.space
+goratu.site
+injd.site
 inshorturl.com
+kegz.site
+menujupenta.site
 moneyfree.co
+nf.diamberproetid.com
+orangarab.fun
+ransplay-io.com
+refpa3665.com
 safelinkearn.com
+sbobet.host
+sv.sleeklyyallaer.com
+tambakbet.vip
 track.aptitudemedia.co
 track.zerofriend.com
 tracker.lazada.co.id
 trackingclick.net
 traffic-monetizer.com
 trafficfactory.biz
+ufo777link.com
 vm.ydstinkle.com
+wg87vip.bet
 # *** abpindo:src/adult/adult_thirdparty.txt ***
 172.105.216.174
 32redpoker.com
@@ -190,6 +207,7 @@ chaseherbalpasty.com
 chilipoker.com
 clickadu.com
 coolhandpoker.com
+cutlink.now
 dafapoker.com
 daftarjudibola.com
 daftarjudicasino.com
@@ -199,7 +217,9 @@ delapantogel.com
 deltatoto.com
 dewijudi.com
 dewitogel.com
+dooods.pro
 driverhugoverblown.com
+dtscout.com
 dutatoto.com
 emputogel.com
 europoker.com
@@ -241,6 +261,7 @@ markastogel.com
 masterjudi.blog.com
 masterjudi.com
 maxbetqq.net
+mayzaent.com
 mickeypoker.com
 mintedpoker.com
 misterindo.net
@@ -307,6 +328,7 @@ rivapoker.com
 rumah-judi.com
 rumahtaruhan88.com
 semarangtogel.com
+serverx16.online
 sharkpokertour.com
 shopnoit.com
 situsagenjudi.com
@@ -315,6 +337,7 @@ speedcount.co
 sunpoker.com
 surgajudi.com
 switchpoker.com
+tangkas99.com
 taruhanbetting.com
 taruhancasino.com
 taruhanku.com
@@ -359,4 +382,5 @@ wigobet.com
 wpadmngr.com
 xjudi.com
 yourpokercash.com
+yu.befitkersey.com
 zonaportal.org

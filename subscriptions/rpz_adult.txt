@@ -1,7 +1,7 @@
-# Version: 202607132227
+# Version: 202607152304
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Jul 2026 22:27 UTC
+# Last modified: 15 Jul 2026 23:04 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -131,18 +131,35 @@ villainoussession.com CNAME .
 vkwaeo.com CNAME .
 yllix.com CNAME .
 # *** abpindo:src/advert/thirdparty.txt ***
+akseskaiko.cam CNAME .
 archivehub.com.ng CNAME .
+bergurukecina.fun CNAME .
 c-stat.eu CNAME .
+cdnfgo.xyz CNAME .
+goid.space CNAME .
+goratu.site CNAME .
+injd.site CNAME .
 inshorturl.com CNAME .
+kegz.site CNAME .
+menujupenta.site CNAME .
 moneyfree.co CNAME .
+nf.diamberproetid.com CNAME .
+orangarab.fun CNAME .
+ransplay-io.com CNAME .
+refpa3665.com CNAME .
 safelinkearn.com CNAME .
+sbobet.host CNAME .
+sv.sleeklyyallaer.com CNAME .
+tambakbet.vip CNAME .
 track.aptitudemedia.co CNAME .
 track.zerofriend.com CNAME .
 tracker.lazada.co.id CNAME .
 trackingclick.net CNAME .
 traffic-monetizer.com CNAME .
 trafficfactory.biz CNAME .
+ufo777link.com CNAME .
 vm.ydstinkle.com CNAME .
+wg87vip.bet CNAME .
 # *** abpindo:src/adult/adult_thirdparty.txt ***
 172.105.216.174 CNAME .
 32redpoker.com CNAME .
@@ -190,6 +207,7 @@ chaseherbalpasty.com CNAME .
 chilipoker.com CNAME .
 clickadu.com CNAME .
 coolhandpoker.com CNAME .
+cutlink.now CNAME .
 dafapoker.com CNAME .
 daftarjudibola.com CNAME .
 daftarjudicasino.com CNAME .
@@ -199,7 +217,9 @@ delapantogel.com CNAME .
 deltatoto.com CNAME .
 dewijudi.com CNAME .
 dewitogel.com CNAME .
+dooods.pro CNAME .
 driverhugoverblown.com CNAME .
+dtscout.com CNAME .
 dutatoto.com CNAME .
 emputogel.com CNAME .
 europoker.com CNAME .
@@ -241,6 +261,7 @@ markastogel.com CNAME .
 masterjudi.blog.com CNAME .
 masterjudi.com CNAME .
 maxbetqq.net CNAME .
+mayzaent.com CNAME .
 mickeypoker.com CNAME .
 mintedpoker.com CNAME .
 misterindo.net CNAME .
@@ -307,6 +328,7 @@ rivapoker.com CNAME .
 rumah-judi.com CNAME .
 rumahtaruhan88.com CNAME .
 semarangtogel.com CNAME .
+serverx16.online CNAME .
 sharkpokertour.com CNAME .
 shopnoit.com CNAME .
 situsagenjudi.com CNAME .
@@ -315,6 +337,7 @@ speedcount.co CNAME .
 sunpoker.com CNAME .
 surgajudi.com CNAME .
 switchpoker.com CNAME .
+tangkas99.com CNAME .
 taruhanbetting.com CNAME .
 taruhancasino.com CNAME .
 taruhanku.com CNAME .
@@ -359,4 +382,5 @@ wigobet.com CNAME .
 wpadmngr.com CNAME .
 xjudi.com CNAME .
 yourpokercash.com CNAME .
+yu.befitkersey.com CNAME .
 zonaportal.org CNAME .
