@@ -1235,3 +1235,6 @@ juragan.film##.idmuvi-topplayer
 juragan.film##a[target*="blank"]:has(> img)
 juragan.film##.iklan-container
 juragan.film##.idmuvi-floatbanner-footer
+samehadaku.*###box_item_ads_popup
+samehadaku.*###overplay
+samehadaku.*##.ads-float-bottom
