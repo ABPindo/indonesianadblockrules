@@ -161,3 +161,5 @@ nekopoi.care##.adsgen
 nekopoi.care##.leftarea
 nekopoi.*###popup
 nekopoi.*##a[target*="blank"]:has(> img)
+komikdewasa.art##a[target*="blank"]:has(> img)
+komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !important;)
