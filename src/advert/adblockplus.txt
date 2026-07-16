@@ -3,10 +3,9 @@
 ! Rules using ABP-specific modifiers: rewrite=abp-resource:.
 ! These are excluded from main filter files to keep AGLint strict on common syntax.
 ! --------------------------------------------------------------------------- !
-
-||nokephub.tv/wp-content/uploads/*$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
-||digitaloceanspaces.com/nokephub/*$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
+||animekompi.sbs/wp-content/uploads/$media,rewrite=abp-resource:blank-mp4,domain=animekompi.sbs
+||digitaloceanspaces.com/nokephub/$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
+||googlesyndication.com/pagead/js/adsbygoogle.js$rewrite=abp-resource:blank-js,script,domain=nekopoi.care
+||nokephub.tv/wp-content/uploads/$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
 ||r2.dev/*.mp4$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
-||serverx16.online/hls/*$media,rewrite=abp-resource:blank-mp4,domain=simontokx.tv
-||animekompi.sbs/wp-content/uploads/*$media,rewrite=abp-resource:blank-mp4,domain=animekompi.sbs
-||googlesyndication.com/pagead/js/adsbygoogle.js$script,rewrite=abp-resource:blank-js,domain=nekopoi.care
+||serverx16.online/hls/$media,rewrite=abp-resource:blank-mp4,domain=simontokx.tv

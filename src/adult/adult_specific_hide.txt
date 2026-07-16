@@ -9,29 +9,37 @@ krucil.com###KD_adpB
 avtubhub.*,urlkontolin.click###adblock-modal
 cctvbokep.bet,cctvbokep.help,dutasex.*,dutasex.bio,dutasex.com,dutasex.top,inibokep.bet,perawanbokep.*###ads
 pemersatufun.com###advertisement
-pemersatufun.*###myDiv
 bintangmawar.net###bmpop_adpB
+pemersatufun.*###btasd
 javsubindo.site###btm_banner
+pemersatufun.*###deskadmiddle
+pemersatufun.*###dooplay_player_response #myDiv:has(button[onclick*="-adblock" i])
 krx18.com###dynamic-image[alt=""]
+semikeren.*###fadeinbox
 unyil.net###float-atas
 igobokep.*###floatbanner-bottom
 hencop.com,hencop.lol,heppinn.id,indodb21.com,nontonhentai.net###floatcenter
 artisbokep.site###floating-banner-inner
-kingbokep.*###floating-bottom
-kingbokep.*###floating-top
+artisbokep.*,republikbokep.*,xbokepin.*###floating-banner-wrap
+asupan.tokyo,kingbokep.*###floating-bottom
+asupan.tokyo,kingbokep.*###floating-top
 matapria.cam###floating-top-banner
+kayatan.vip###floatingBanner
 ruangbokep.*,ruangbokep.com,ruangbokep.sbs,streamingbokeponline.*,streamingbokeponline.com###floating_bot
+tempatbokep.com###global-promo-wrapper
 terviral.cam###lin-floating-ad
-bokep.pemersatu.top###myDiv
+bokep.pemersatu.top,pemersatufun.*###myDiv
 minioppai.org###overplay
 iyottube.co,iyottube.com###playerOverlay
-javbabe.net###popup
+javbabe.net,nekopoi.*###popup
+asiasizzle.com###popup-banner-overlay
 mlyuk.pro###popupBanner
-artisbokep.site###popupBannerOverlay
+artisbokep.*,artisbokep.site,republikbokep.*,xbokepin.*###popupBannerOverlay
+kelasmalam.net###promo-after-lapor
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 bokepvir.*###sticky-banner
-bk21.yachts,heppinn.id,komikcast02.com,komikdewasa.*,komikdewasa.art,komikdewasa.com,komikdewasa.me,komikremaja.*,komikremaja.com,kumapoi.me,manhwaindo.*,manhwaindo.cfd,manhwaindo.com,pemersatu.*###teaser3
+bk21.yachts,heppinn.id,komikcast02.com,komikdewasa.*,komikdewasa.art,komikdewasa.com,komikdewasa.me,komikremaja.*,komikremaja.com,kumapoi.info,kumapoi.me,manhwaindo.*,manhwaindo.cfd,manhwaindo.com,pemersatu.*###teaser3
 hencop.lol,komikcast02.com###teaser4
 hencop.com###teaser7
 artisbokep.site###top-floating-banner-inner
@@ -40,13 +48,14 @@ sange.link##.DvrCn
 artisbokep.*,artisbokep.online,artisbokep.site##.ab-top-video-banners
 sangetods.net##.active.adde_modal-overlay
 pemersatu.top##.ad
+asiasizzle.com##.ad-banner
 pemersatu.*##.ad-container
 sangetods.net##.adde_modal_detector-show.adde_modal_detector
 mediahiburan.my##.adplaceholder-mrec
 komikindo.*##.ads a[href]
 komikindo.*##.ads iframe
 videocrot.*##.ads-720
-javsubid.com##.ads-jav
+nekopoi.care##.adsgen
 lkprd.fun,lkprd.site##.adshu
 pascol.*,sintube.*##.ays-pb-modals
 podjav.tv##.banner-ads
@@ -56,9 +65,13 @@ ceritaseksindo.org##.banner-float-bottom
 bokepvir.*##.banner-place-footer
 bokepvir.*##.banner-place-top
 artisbokep.*,artisbokep.online,artisbokep.site##.banner-slide
+igo.desu.xxx##.blox.mlb.kln
 theasianparent.com##.bottom-sticky-ad
 dicrotin.fun##.bulletinwp-bulletin-item
+simontokx.tv##.close-text
+kayatan.vip,sebokep.vip##.crossfeed-card
 4play.to##.davwheat-ad
+krx18.com##.dp-ad-item
 rumahparaperjaka.*,rumahperjaka.*##.elementor-popup-modal
 semprot.com,semprotku.com##.f_floating_div_row.f_floating_div
 pinayflex.net##.floating-banner
@@ -66,15 +79,16 @@ indoporn.pro##.full-brkas-container
 dewaporn.*,lendirqu.cam,video.pejuanglendir.site##.happy-header
 dewaporn.*##.happy-header > [href] > .loading
 video.pejuanglendir.site##.happy-header-mobile
-video.pejuanglendir.site##.happy-under-player
-video.pejuanglendir.site##.happy-under-player-mobile
 dicrotin.fun##.happy-section
 dewaporn.*,video.pejuanglendir.site##.happy-sidebar
+video.pejuanglendir.site##.happy-under-player
+video.pejuanglendir.site##.happy-under-player-mobile
 indobokep.pro##.header-banner
 viexx.com##.info-banner
 semprot.com##.jual_tetek
-filmjepang.it.com,filmjepangku.net,filmjepangku.online,hencop.lol,heppinn.id,javsubid.com,javsubindo.site,klipjepang.shop,komik18.*,komikdewasa.*,komikremaja.*,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.baby,manhwaland.land,manhwaland.mom,manhwalist.com,pascol.*,pascol.com,sintube.icu,skandalpedia.*,starjepang.*##.kln
+filmjepang.it.com,filmjepangku.net,filmjepangku.online,hencop.lol,heppinn.id,javsubid.sx,javsubindo.site,klipjepang.shop,komik18.*,komikdewasa.*,komikremaja.*,kumapoi.info,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.baby,manhwaland.land,manhwaland.mom,manhwalist.com,pascol.*,pascol.com,sintube.icu,skandalpedia.*,starjepang.*##.kln
 krucil.com##.krucil_ads
+nekopoi.care##.leftarea
 matapria.cam##.lin-ad-above
 terviral.cam##.lin-ad-header
 drbokep.*##.loaded.ads-50
@@ -89,11 +103,13 @@ bokepindo.*##.pos-bottom.widget-float
 bokepindo.*##.pos-top.widget-float
 sangevip.com##.promo-banner
 indo18plus.com##.promo-videos
+xbokepin.*##.rbdb-overlay
 18subindo.com##.request-warning-bubble
-sebokep.com##.sg-popup-builder-content
+sebokep.com,sebokep.vip##.sg-popup-builder-content
 dicrotin.*,nokephub.*##.sgpb-popup-dialog-main-div-wrapper
 dicrotin.*,nokephub.*##.sgpb-popup-overlay
 nomat.site##.show.popup
+javsubid.sx##.sidebar-ads
 podjav.tv##.sidebar-box:has(> div[data-banner-id])
 kiyowo.sbs,lendirpedia.*,pascol.*,pascol.com,sintube.icu##.teaser3
 komikdewasa.*##.teaser4
@@ -106,66 +122,35 @@ bokepvir.*##.widget_block.widget
 komikdewasa.art##.wp-image-80765.size-full.alignnone
 kingbokep.*##[data-dgazzbdbfcbzagfz]
 bokepvir.*##[href="https://bkpv.online/reffbokepvir"]
+doujin.desu.xxx##[href^="https://klik.best/"]
+doujin.desu.xxx,igo.desu.xxx##[href^="https://klik.top/"]
 nekopoi.*##[href^="https://monetag.com/"]
+igo.desu.xxx##[href^="https://tinig22.com/"]
 pemersatu.*##[role="advertisement"]
 kingbokep.*##[style^="height:"]:has(> img)
+bokep360.*##a[href*="gamdom"]
+kayatan.vip##a[href="/network"]
 doujindesu.tv##a[href][target="_blank"] > img
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
 nokephub.com##a[href^="https://genec77.space/"]
-anoboy.*,manhwadesu.org,manhwadesu.im##a[href^="https://klik.gg/"]
+anoboy.*,manhwadesu.im,manhwadesu.org##a[href^="https://klik.gg/"]
 slurr.my.id##a[href^="https://scratchy-trick.com/"]
 18subindo.com##a[href^="https://tinyurl.com/"]
+animekompi.*,artisbokep.*,komikdewasa.art,nekopoi.*,republikbokep.*,sebokep.vip,simontokx.tv,xbokepin.*##a[target*="blank"]:has(> img)
+kayatan.vip##aside > div > .mt-4
+komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !important;)
 pemersatu.*##div.ad iframe
 pemersatu.*##div.ad ins
-nekopoi.care##div[class^="adsgen"] iframe
-nekopoi.care##div[class^="mobileads"]
-semprot.com##img[data-ad]
-semprot.com##semprotnenenmontok_f
-asiasizzle.com##.ad-banner
-asiasizzle.com###popup-banner-overlay
 asiasizzle.com##div.popup-banner-content
 asiasizzle.com##div.popup-banner-grid
-igo.desu.xxx##overplay
-igo.desu.xxx##.blox.mlb.kln
-igo.desu.xxx##uads_300x250
-igo.desu.xxx##[href^="https://klik.top/"]
-igo.desu.xxx##[href^="https://tinig22.com/"]
-doujin.desu.xxx##[href^="https://klik.best/"]
-doujin.desu.xxx##[href^="https://klik.top/"]
-semikeren.*###fadeinbox
-tempatbokep.com###global-promo-wrapper
-pemersatufun.*###deskadmiddle
-pemersatufun.*###btasd
-pemersatufun.*###dooplay_player_response #myDiv:has(button[onclick*="-adblock" i])
-kayatan.vip###floatingBanner
-kayatan.vip##.crossfeed-card
-kayatan.vip##aside > div > .mt-4
-kayatan.vip##a[href="/network"]
-sebokep.vip##.crossfeed-card
-sebokep.vip##.sg-popup-builder-content
-sebokep.vip##a[target*="blank"]:has(> img)
-kelasmalam.net###promo-after-lapor
+nekopoi.care##div[class^="adsgen"] iframe
+nekopoi.care##div[class^="mobileads"]
 tantecentil.fans##div[style*="z-index: 999999"]
-bokep360.*##a[href*="gamdom"]
-artisbokep.*,republikbokep.*,xbokepin.*###floating-banner-wrap
-artisbokep.*,republikbokep.*,xbokepin.*###popupBannerOverlay
-artisbokep.*,republikbokep.*,xbokepin.*##a[target*="blank"]:has(> img)
-xbokepin.*##.rbdb-overlay
-asupan.tokyo###floating-top
-asupan.tokyo###floating-bottom
+indobokepin.com##iframe[src*="dooods.pro/ads_banner"]
+semprot.com##img[data-ad]
 kingbokep.*##img[src*=".gif"]:not(div[class*="video"] > img)
 kingbokep.*##img[src*=".webp"]:not(div[class*="video"] > img)
+igo.desu.xxx##overplay
+semprot.com##semprotnenenmontok_f
+igo.desu.xxx##uads_300x250
 kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
-simontokx.tv##a[target*="blank"]:has(> img)
-simontokx.tv##.close-text
-animekompi.*##a[target*="blank"]:has(> img)
-indobokepin.com##iframe[src*="dooods.pro/ads_banner"]
-nekopoi.care##.adsgen
-nekopoi.care##.leftarea
-nekopoi.*###popup
-nekopoi.*##a[target*="blank"]:has(> img)
-komikdewasa.art##a[target*="blank"]:has(> img)
-komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !important;)
-krx18.com##.dp-ad-item
-kumapoi.info###teaser3
-kumapoi.info##.kln

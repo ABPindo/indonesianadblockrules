@@ -58,7 +58,6 @@
 -sponsor-iklan-|$image
 ! Script patterns
 -iklan.js|$script
-
 ! Path patterns — image only
 .com/iklan/$image,domain=~persis.or.id
 /ads/iklan.$image

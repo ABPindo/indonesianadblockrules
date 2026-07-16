@@ -92,12 +92,14 @@
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup,third-party
 ||baliadv.com^$third-party
+||bondeddarkenedswerve.com^$popup
 ||brand.ad^$third-party
 ||caribanner.bid^$third-party
 ||dairouzy.net^$popup,third-party
 ||doathair.com^$third-party
 ||edomz.com^$third-party
 ||filebanner.com^$third-party
+||fj.fatsoeslandmil.com^$script
 ||flexterkita.com^$third-party
 ||fnasmpygwa.com^$third-party
 ||gaslah.my.id^$third-party
@@ -112,8 +114,6 @@
 ||sebar.idblognetwork.com^$third-party
 ||shqbsdjatunl.com^$popup,third-party
 ||sumberiklan.com^$third-party
+||villainoussession.com^$popup
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
-||fj.fatsoeslandmil.com^$script
-||bondeddarkenedswerve.com^$popup
-||villainoussession.com^$popup

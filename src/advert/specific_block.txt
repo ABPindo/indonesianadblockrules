@@ -12,6 +12,7 @@
 ||api.streamapi.info/uploads/*.xml$xmlhttprequest,domain=api.streamapi.info
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
+||asset.kompas.com/data/2025/02/27/sso/js/popup_manager.min.js$script
 ||awsubs.*/wp-content/themes/*/btn_close.gif$image
 ||awsubs.*/wp-content/uploads/*.gif$image
 ||bacasaja.id/assets/img/ad_banner.webp$image
@@ -68,6 +69,7 @@
 ||img.koran-jakarta.com/images/ads/
 ||img.koran-jakarta.com/images/advertisement/
 ||img.nontonanimeid.*/uploads/ikln/$image,~third-party
+||imgbanner.site/$image
 ||impulse.forkcdn.com/pub/kaskus/kaskus/generic.js
 ||indochanger.com/banner/
 ||indocinema21.com/banner/
@@ -88,6 +90,7 @@
 ||kompas.com/data/banner/
 ||kotakgame.com/images/bnr/partner/*.jpg
 ||kotakgame.com/includea/bannermidloadmore.php
+||kuyhaa.me/pmbut.js
 ||layarkeren.*/wp-content/uploads/*.gif$image
 ||linkgenerator.xyz$script,third-party
 ||lytogame.com/images/partner/$third-party
@@ -147,13 +150,10 @@
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-||imgbanner.site/$image
-||kuyhaa.me/pmbut.js
-||asset.kompas.com/data/2025/02/27/sso/js/popup_manager.min.js$script
 ! Miscellaneous popups
 $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
-||img.gm21.download/$image
-||kawanfilm21.co/wp-content/uploads/*tambakbet*$image
-||kawanfilm21.co/wp-content/uploads/*judi*$image
 ||bk21.net/*.gif$image$domain=juragan.film
+||img.gm21.download/$image
+||kawanfilm21.co/wp-content/uploads/*judi$image
+||kawanfilm21.co/wp-content/uploads/*tambakbet$image
 ||s1.bk21.net/777/$image

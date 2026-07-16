@@ -3,12 +3,21 @@
 ! Rules using uBO-only modifiers: redirect, redirect-rule, to, and scriptlets.
 ! These are excluded from main filter files to keep AGLint strict on ABP syntax.
 ! --------------------------------------------------------------------------- !
+semprot.com##+js(abort-current-script, Math.random, arv_24)
+dicrotin.*,nokephub.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
+animekompi.*##+js(abort-on-property-write, MutationObserver)
+kingbokep.*##+js(acis, checkAdsStatus)
+lk21semi.*##+js(acs, chp_ads_blocker_detector)
+kuyhaa.me##+js(acs, document.addEventListener, window.open)
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.vebma.com##+js(aeld, click, linkOpened)
+komikdewasa.art##+js(aeld, click, tampilkanUrl)
 moutogami.com##+js(aeld, load, /adblock/i)
 juraganfilm.ink##+js(aopr, $.magnificPopup.open)
 3gpterbaru.com##+js(aopr, LieDetector)
+gudangmovies21.chat##+js(aopr, SGPB_POPUP_PARAMS)
 sk21.sob4t.xyz##+js(aopr, popup_custom_data)
+simontokx.tv##+js(aopr, ujiPopups)
 bahasteknologi.com,jenismac.com##+js(nano-sib)
 mudah.my##+js(no-fetch-if, ads.google.com)
 thejakartapost.com##+js(no-fetch-if, adsbygoogle)
@@ -19,6 +28,7 @@ asalunik.com,bokepgemoy.com##+js(nobab)
 193.142.147.230,5.253.86.213,ainzscans.net,jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 moviekhhd.biz##+js(nostif, location.href, 3000)
+anichin.moe,anichin.top,animekompi.vip,bokepindo69.*,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kawanfilm21.co,kimcilonly.site,kingbokep.*,kiryuu.id,kiryuu.org,kiryuu01.com,kiryuu02.*,kisahterlarang.site,komikcast02.com,ngicstream.site,nimegami.*,njavtv.com,simontokx.tv,sukasex.net,sukasex.tv,tantecentil.fans,westmanga.*##+js(nowoif)
 okezone.com##+js(rc, content-wrap)
 inews.id##+js(rc, content-wrap|wrap-all)
 sindonews.com##+js(rc, t480)
@@ -32,29 +42,11 @@ gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 carisinyal.com##+js(rmnt, script, showModal)
 sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
-anichin.moe,anichin.top,animekompi.vip,cosmicscans.*,igodesu.tv,indobo.com,jurnalistekno.id,kimcilonly.site,kiryuu.id,kiryuu.org,kiryuu01.com,kisahterlarang.site,komikcast02.com,nimegami.*,njavtv.com,sukasex.net,sukasex.tv,westmanga.*##+js(nowoif)
-animekompi.*##+js(abort-on-property-write, MutationObserver)
-dicrotin.*,nokephub.*##+js(abort-on-property-read, SGPB_POPUP_PARAMS)
-kiryuu02.*##+js(nowoif)
-lk21semi.*##+js(acs, chp_ads_blocker_detector)
-kuyhaa.me##+js(acs, document.addEventListener, window.open)
-semprot.com##+js(abort-current-script, Math.random, arv_24)
-ngicstream.site##+js(nowoif)
-bokepindo69.*##+js(nowoif)
-tantecentil.fans##+js(nowoif)
-kingbokep.*##+js(nowoif)
-kingbokep.*##+js(acis, checkAdsStatus)
-simontokx.tv##+js(nowoif)
-simontokx.tv##+js(aopr, ujiPopups)
-gudangmovies21.chat##+js(aopr, SGPB_POPUP_PARAMS)
-kawanfilm21.co##+js(nowoif)
-komikdewasa.art##+js(aeld, click, tampilkanUrl)
-
 ! --- network rules with redirect/redirect-rule/to --------------------------- !
 /wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
+||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
+||bk21.net/*.mp4$media,redirect=noopmp4-1s,domain=juragan.film
 ||digitaloceanspaces.com/nokephub/$media,redirect=noopmp4-1s
+||googlesyndication.com/pagead/js/adsbygoogle.js$redirect-rule=noop.js,script,domain=nekopoi.care
 ||r2.dev/*.mp4$media,redirect=noopmp4-1s,domain=nokephub.*
 ||serverx16.online/hls/$media,redirect=noopmp4-1s
-||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
-||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=noop.js,domain=nekopoi.care
-||bk21.net/*.mp4$media,redirect=noopmp4-1s,domain=juragan.film

@@ -47,7 +47,18 @@
 ###iklan
 ###iklan-atas
 ###iklan-bawah
+###iklan-desktop-half_page
+###iklan-desktop-leaderboard1
+###iklan-desktop-leaderboard2
+###iklan-desktop-rectangle1
+###iklan-desktop-rectangle2
+###iklan-desktop-rectangle3
+###iklan-desktop-rectangle4
+###iklan-desktop-skyscrapper
+###iklan-desktop-top_banner
+###iklan-desktop-under_image
 ###iklan-giantbanner
+###iklan-head
 ###iklan-kanan-postingan
 ###iklan-kiri
 ###iklan-newsfeed
@@ -58,6 +69,8 @@
 ###iklan-rekanan2
 ###iklan-sidebar
 ###iklan-sidebar1
+###iklan-skin-left
+###iklan-skin-right
 ###iklan-sticky
 ###iklan-tengah
 ###iklan-tengah1
@@ -394,19 +407,6 @@
 ##[href^="https://promosi."]
 ##div[aria-label="Iklan"]
 ##img[data-ai-hint="advertisement banner"]
-###iklan-desktop-top_banner
-###iklan-head
-###iklan-skin-left
-###iklan-skin-right
-###iklan-desktop-half_page
-###iklan-desktop-skyscrapper
-###iklan-desktop-rectangle1
-###iklan-desktop-rectangle2
-###iklan-desktop-under_image
-###iklan-desktop-leaderboard1
-###iklan-desktop-rectangle3
-###iklan-desktop-leaderboard2
-###iklan-desktop-rectangle4
 ! International ads
 ###ad-link.visible
 ###adblock-modal
