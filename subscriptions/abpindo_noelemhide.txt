@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202607152304
+! Version: 202607161251
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 15 Jul 2026 23:04 UTC
+! Last modified: 16 Jul 2026 12:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -133,6 +133,8 @@
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
 ! *** abpindo:src/advert/thirdparty.txt ***
+||a.magsrv.com^$third-party
+||a.pemsrv.com^$third-party
 ||akseskaiko.cam^$third-party
 ||archivehub.com.ng^$third-party
 ||bergurukecina.fun^$third-party
@@ -143,6 +145,7 @@
 ||injd.site^$third-party
 ||inshorturl.com^$third-party
 ||kegz.site^$third-party
+||mascarapersonality.com^$third-party
 ||menujupenta.site^$third-party
 ||moneyfree.co^$third-party
 ||nf.diamberproetid.com^$third-party
@@ -2517,6 +2520,7 @@ totojitu.gif|$image
 ||fullbet88.$image,third-party
 ||fullbet88.$popup
 ||fundomino.$image,third-party
+||gacor314jepe.site^$popup
 ||gadingpoker.$image,third-party
 ||gadingpoker.$popup
 ||gadispoker.$image,third-party
@@ -4065,14 +4069,17 @@ totojitu.gif|$image
 $popup,domain=skripsitesisdisertasi.biz.id
 ||143flix.com/matomo.js$script,domain=kayatan.vip|sebokep.vip
 ||blogger.googleusercontent.com/img/$image,domain=igodesu.tv
+||cdn.teknolur.eu.org^$image,domain=kingbokep.media
 ||ceritanakal.com/wp-content/uploads/2025/06/GIF-*.gif$image
 ||imgur.com/*.gif$image,domain=gocrot.*
 ||kayatan.vip/api/crossfeed$xmlhttprequest
 ||kayatan.vip/crossfeed.js$script
+||m.teknolur.eu.org^$popup,domain=kingbokep.media
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||pic.desu.xxx/content/banner/*.gif$image
 ||sebokep.vip/api/crossfeed$xmlhttprequest
 ||sebokep.vip/crossfeed.js$script
+||shortbioo.com^$all,domain=kingbokep.media
 ! *** abpindo:src/adult/adult_thirdparty.txt ***
 ||172.105.216.174^$popup
 ||32redpoker.com^$third-party
