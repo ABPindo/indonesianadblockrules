@@ -1,7 +1,7 @@
-# Version: 202607171156
+# Version: 202607171236
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 17 Jul 2026 11:56 UTC
+# Last modified: 17 Jul 2026 12:36 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -184,6 +184,7 @@
 0.0.0.0 anaktogel.com
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 aosbobet.com
+0.0.0.0 areaslt.net
 0.0.0.0 areataruhan.com
 0.0.0.0 arenajudi.com
 0.0.0.0 asiapoker777.com
@@ -194,12 +195,14 @@
 0.0.0.0 bebasjudi.com
 0.0.0.0 belitogel.com
 0.0.0.0 beritaagenjudi.com
+0.0.0.0 bio.wgauhh.xyz
 0.0.0.0 biotogel.com
 0.0.0.0 blindbetpoker.com
 0.0.0.0 blogjudi.com
 0.0.0.0 bobsleddomesticglandular.com
 0.0.0.0 bojo.rajatravel.online
 0.0.0.0 bolakami-banner-tracker.bolakami.workers.dev
+0.0.0.0 breedsmuteexams.com
 0.0.0.0 bursajudibola.com
 0.0.0.0 c.adsco.re
 0.0.0.0 capndr.com
@@ -214,10 +217,12 @@
 0.0.0.0 coolhandpoker.com
 0.0.0.0 cutlink.now
 0.0.0.0 dafapoker.com
+0.0.0.0 daftar.situsngacir.com
 0.0.0.0 daftarjudibola.com
 0.0.0.0 daftarjudicasino.com
 0.0.0.0 daftarpokeronline.com
 0.0.0.0 daspoker.com
+0.0.0.0 data.masbulo.com
 0.0.0.0 delapantogel.com
 0.0.0.0 deltatoto.com
 0.0.0.0 dewijudi.com
@@ -226,11 +231,14 @@
 0.0.0.0 driverhugoverblown.com
 0.0.0.0 dtscout.com
 0.0.0.0 dutatoto.com
+0.0.0.0 dwabt.pro
 0.0.0.0 dwagg.me
+0.0.0.0 effectivecpmnetwork.com
 0.0.0.0 emputogel.com
 0.0.0.0 europoker.com
 0.0.0.0 everypoker.com
 0.0.0.0 feltpoker.com
+0.0.0.0 file-assist.xuzor.com
 0.0.0.0 fudfzudwoa.com
 0.0.0.0 gentingpoker.com
 0.0.0.0 goldentigerpoker.com
@@ -241,6 +249,7 @@
 0.0.0.0 homepokergames.com
 0.0.0.0 hotpokerbonus.com
 0.0.0.0 houseoftoto.com
+0.0.0.0 infopojokbet.store
 0.0.0.0 inipoker.com
 0.0.0.0 investopedia.today
 0.0.0.0 ipoker.com
@@ -258,6 +267,7 @@
 0.0.0.0 kingtogel.com
 0.0.0.0 launchpoker.com
 0.0.0.0 lazacasino.com
+0.0.0.0 login.ashk7.com
 0.0.0.0 lolhello.com
 0.0.0.0 lotospoker.com
 0.0.0.0 luckyriverpoker.com
@@ -290,6 +300,7 @@
 0.0.0.0 onlinepoker66.com
 0.0.0.0 pacificpoker.com
 0.0.0.0 pandujudionline.com
+0.0.0.0 pkr-88.com
 0.0.0.0 pkygraajhdap.com
 0.0.0.0 planettoto.com
 0.0.0.0 playpokeronline.com
@@ -321,6 +332,13 @@
 0.0.0.0 pondoktogel.com
 0.0.0.0 prediksitoptogel.com
 0.0.0.0 profitablecpmratenetwork.com
+0.0.0.0 promosi.bwnn7.com
+0.0.0.0 promosi.ctrr7.com
+0.0.0.0 promosi.hkwn7.com
+0.0.0.0 promosi.mul7.com
+0.0.0.0 promosi.mwn7.com
+0.0.0.0 promosi.snsa7.com
+0.0.0.0 promosi.wfgg7.com
 0.0.0.0 pusatjudibola.com
 0.0.0.0 pusattaruhan.com
 0.0.0.0 rajapoker88.com
@@ -334,12 +352,14 @@
 0.0.0.0 rivapoker.com
 0.0.0.0 rumah-judi.com
 0.0.0.0 rumahtaruhan88.com
+0.0.0.0 sakti.club
 0.0.0.0 semarangtogel.com
 0.0.0.0 serverx16.online
 0.0.0.0 sharkpokertour.com
 0.0.0.0 shopnoit.com
 0.0.0.0 situsagenjudi.com
 0.0.0.0 situstogelonline.com
+0.0.0.0 socialprooff.com
 0.0.0.0 speedcount.co
 0.0.0.0 sunpoker.com
 0.0.0.0 surgajudi.com
@@ -378,6 +398,7 @@
 0.0.0.0 undiantogel.com
 0.0.0.0 videopoker.com
 0.0.0.0 vivodemisrentas.net
+0.0.0.0 vm.beeteam368.net
 0.0.0.0 w3.t5tm8zptlf6o8lc.cfd
 0.0.0.0 warungjudi.com
 0.0.0.0 warungpoker.com
@@ -387,6 +408,7 @@
 0.0.0.0 websitejudi.com
 0.0.0.0 whelmlegge.com
 0.0.0.0 wigobet.com
+0.0.0.0 win25keren.store
 0.0.0.0 wpadmngr.com
 0.0.0.0 xjudi.com
 0.0.0.0 yourpokercash.com

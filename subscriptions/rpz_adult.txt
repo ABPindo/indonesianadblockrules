@@ -1,7 +1,7 @@
-# Version: 202607171156
+# Version: 202607171236
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 17 Jul 2026 11:56 UTC
+# Last modified: 17 Jul 2026 12:36 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -184,6 +184,7 @@ alxvgs.pro CNAME .
 anaktogel.com CNAME .
 antiadblocksystems.com CNAME .
 aosbobet.com CNAME .
+areaslt.net CNAME .
 areataruhan.com CNAME .
 arenajudi.com CNAME .
 asiapoker777.com CNAME .
@@ -194,12 +195,14 @@ bbm88.org CNAME .
 bebasjudi.com CNAME .
 belitogel.com CNAME .
 beritaagenjudi.com CNAME .
+bio.wgauhh.xyz CNAME .
 biotogel.com CNAME .
 blindbetpoker.com CNAME .
 blogjudi.com CNAME .
 bobsleddomesticglandular.com CNAME .
 bojo.rajatravel.online CNAME .
 bolakami-banner-tracker.bolakami.workers.dev CNAME .
+breedsmuteexams.com CNAME .
 bursajudibola.com CNAME .
 c.adsco.re CNAME .
 capndr.com CNAME .
@@ -214,10 +217,12 @@ clickadu.com CNAME .
 coolhandpoker.com CNAME .
 cutlink.now CNAME .
 dafapoker.com CNAME .
+daftar.situsngacir.com CNAME .
 daftarjudibola.com CNAME .
 daftarjudicasino.com CNAME .
 daftarpokeronline.com CNAME .
 daspoker.com CNAME .
+data.masbulo.com CNAME .
 delapantogel.com CNAME .
 deltatoto.com CNAME .
 dewijudi.com CNAME .
@@ -226,11 +231,14 @@ dooods.pro CNAME .
 driverhugoverblown.com CNAME .
 dtscout.com CNAME .
 dutatoto.com CNAME .
+dwabt.pro CNAME .
 dwagg.me CNAME .
+effectivecpmnetwork.com CNAME .
 emputogel.com CNAME .
 europoker.com CNAME .
 everypoker.com CNAME .
 feltpoker.com CNAME .
+file-assist.xuzor.com CNAME .
 fudfzudwoa.com CNAME .
 gentingpoker.com CNAME .
 goldentigerpoker.com CNAME .
@@ -241,6 +249,7 @@ hokitogel.com CNAME .
 homepokergames.com CNAME .
 hotpokerbonus.com CNAME .
 houseoftoto.com CNAME .
+infopojokbet.store CNAME .
 inipoker.com CNAME .
 investopedia.today CNAME .
 ipoker.com CNAME .
@@ -258,6 +267,7 @@ kedaijudi.com CNAME .
 kingtogel.com CNAME .
 launchpoker.com CNAME .
 lazacasino.com CNAME .
+login.ashk7.com CNAME .
 lolhello.com CNAME .
 lotospoker.com CNAME .
 luckyriverpoker.com CNAME .
@@ -290,6 +300,7 @@ onlineactionpoker.com CNAME .
 onlinepoker66.com CNAME .
 pacificpoker.com CNAME .
 pandujudionline.com CNAME .
+pkr-88.com CNAME .
 pkygraajhdap.com CNAME .
 planettoto.com CNAME .
 playpokeronline.com CNAME .
@@ -321,6 +332,13 @@ pondokpoker.com CNAME .
 pondoktogel.com CNAME .
 prediksitoptogel.com CNAME .
 profitablecpmratenetwork.com CNAME .
+promosi.bwnn7.com CNAME .
+promosi.ctrr7.com CNAME .
+promosi.hkwn7.com CNAME .
+promosi.mul7.com CNAME .
+promosi.mwn7.com CNAME .
+promosi.snsa7.com CNAME .
+promosi.wfgg7.com CNAME .
 pusatjudibola.com CNAME .
 pusattaruhan.com CNAME .
 rajapoker88.com CNAME .
@@ -334,12 +352,14 @@ rgobet.com CNAME .
 rivapoker.com CNAME .
 rumah-judi.com CNAME .
 rumahtaruhan88.com CNAME .
+sakti.club CNAME .
 semarangtogel.com CNAME .
 serverx16.online CNAME .
 sharkpokertour.com CNAME .
 shopnoit.com CNAME .
 situsagenjudi.com CNAME .
 situstogelonline.com CNAME .
+socialprooff.com CNAME .
 speedcount.co CNAME .
 sunpoker.com CNAME .
 surgajudi.com CNAME .
@@ -378,6 +398,7 @@ tzetzessmoking.com CNAME .
 undiantogel.com CNAME .
 videopoker.com CNAME .
 vivodemisrentas.net CNAME .
+vm.beeteam368.net CNAME .
 w3.t5tm8zptlf6o8lc.cfd CNAME .
 warungjudi.com CNAME .
 warungpoker.com CNAME .
@@ -387,6 +408,7 @@ webjuditerpercaya.com CNAME .
 websitejudi.com CNAME .
 whelmlegge.com CNAME .
 wigobet.com CNAME .
+win25keren.store CNAME .
 wpadmngr.com CNAME .
 xjudi.com CNAME .
 yourpokercash.com CNAME .

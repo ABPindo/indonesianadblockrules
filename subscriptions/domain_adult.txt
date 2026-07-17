@@ -1,7 +1,7 @@
-# Version: 202607171156
+# Version: 202607171236
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 17 Jul 2026 11:56 UTC
+# Last modified: 17 Jul 2026 12:36 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -184,6 +184,7 @@ alxvgs.pro
 anaktogel.com
 antiadblocksystems.com
 aosbobet.com
+areaslt.net
 areataruhan.com
 arenajudi.com
 asiapoker777.com
@@ -194,12 +195,14 @@ bbm88.org
 bebasjudi.com
 belitogel.com
 beritaagenjudi.com
+bio.wgauhh.xyz
 biotogel.com
 blindbetpoker.com
 blogjudi.com
 bobsleddomesticglandular.com
 bojo.rajatravel.online
 bolakami-banner-tracker.bolakami.workers.dev
+breedsmuteexams.com
 bursajudibola.com
 c.adsco.re
 capndr.com
@@ -214,10 +217,12 @@ clickadu.com
 coolhandpoker.com
 cutlink.now
 dafapoker.com
+daftar.situsngacir.com
 daftarjudibola.com
 daftarjudicasino.com
 daftarpokeronline.com
 daspoker.com
+data.masbulo.com
 delapantogel.com
 deltatoto.com
 dewijudi.com
@@ -226,11 +231,14 @@ dooods.pro
 driverhugoverblown.com
 dtscout.com
 dutatoto.com
+dwabt.pro
 dwagg.me
+effectivecpmnetwork.com
 emputogel.com
 europoker.com
 everypoker.com
 feltpoker.com
+file-assist.xuzor.com
 fudfzudwoa.com
 gentingpoker.com
 goldentigerpoker.com
@@ -241,6 +249,7 @@ hokitogel.com
 homepokergames.com
 hotpokerbonus.com
 houseoftoto.com
+infopojokbet.store
 inipoker.com
 investopedia.today
 ipoker.com
@@ -258,6 +267,7 @@ kedaijudi.com
 kingtogel.com
 launchpoker.com
 lazacasino.com
+login.ashk7.com
 lolhello.com
 lotospoker.com
 luckyriverpoker.com
@@ -290,6 +300,7 @@ onlineactionpoker.com
 onlinepoker66.com
 pacificpoker.com
 pandujudionline.com
+pkr-88.com
 pkygraajhdap.com
 planettoto.com
 playpokeronline.com
@@ -321,6 +332,13 @@ pondokpoker.com
 pondoktogel.com
 prediksitoptogel.com
 profitablecpmratenetwork.com
+promosi.bwnn7.com
+promosi.ctrr7.com
+promosi.hkwn7.com
+promosi.mul7.com
+promosi.mwn7.com
+promosi.snsa7.com
+promosi.wfgg7.com
 pusatjudibola.com
 pusattaruhan.com
 rajapoker88.com
@@ -334,12 +352,14 @@ rgobet.com
 rivapoker.com
 rumah-judi.com
 rumahtaruhan88.com
+sakti.club
 semarangtogel.com
 serverx16.online
 sharkpokertour.com
 shopnoit.com
 situsagenjudi.com
 situstogelonline.com
+socialprooff.com
 speedcount.co
 sunpoker.com
 surgajudi.com
@@ -378,6 +398,7 @@ tzetzessmoking.com
 undiantogel.com
 videopoker.com
 vivodemisrentas.net
+vm.beeteam368.net
 w3.t5tm8zptlf6o8lc.cfd
 warungjudi.com
 warungpoker.com
@@ -387,6 +408,7 @@ webjuditerpercaya.com
 websitejudi.com
 whelmlegge.com
 wigobet.com
+win25keren.store
 wpadmngr.com
 xjudi.com
 yourpokercash.com
