@@ -1,7 +1,7 @@
-# Version: 202607161251
+# Version: 202607171156
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 16 Jul 2026 12:51 UTC
+# Last modified: 17 Jul 2026 11:56 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -154,6 +154,7 @@ server=/safelinkearn.com/
 server=/sbobet.host/
 server=/sv.sleeklyyallaer.com/
 server=/tambakbet.vip/
+server=/tantegacor88.link/
 server=/track.aptitudemedia.co/
 server=/track.zerofriend.com/
 server=/tracker.lazada.co.id/
@@ -179,6 +180,7 @@ server=/agenjuditerbesar.com/
 server=/agentogel4d.com/
 server=/ajar-poet.com/
 server=/allvegaspoker.com/
+server=/alxvgs.pro/
 server=/anaktogel.com/
 server=/antiadblocksystems.com/
 server=/aosbobet.com/
@@ -224,6 +226,7 @@ server=/dooods.pro/
 server=/driverhugoverblown.com/
 server=/dtscout.com/
 server=/dutatoto.com/
+server=/dwagg.me/
 server=/emputogel.com/
 server=/europoker.com/
 server=/everypoker.com/
@@ -272,6 +275,7 @@ server=/mistertogel.com/
 server=/mitrapoker.com/
 server=/mobilepokerclub.com/
 server=/muchospoker.com/
+server=/nag303.xyz/
 server=/naga-poker.com/
 server=/nagapoker.biz/
 server=/nagapoker.com/
@@ -339,6 +343,7 @@ server=/situstogelonline.com/
 server=/speedcount.co/
 server=/sunpoker.com/
 server=/surgajudi.com/
+server=/suvtub.id/
 server=/switchpoker.com/
 server=/tangkas99.com/
 server=/taruhanbetting.com/

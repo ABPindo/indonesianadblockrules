@@ -1,7 +1,7 @@
-# Version: 202607161251
+# Version: 202607171156
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 16 Jul 2026 12:51 UTC
+# Last modified: 17 Jul 2026 11:56 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -154,6 +154,7 @@ safelinkearn.com CNAME .
 sbobet.host CNAME .
 sv.sleeklyyallaer.com CNAME .
 tambakbet.vip CNAME .
+tantegacor88.link CNAME .
 track.aptitudemedia.co CNAME .
 track.zerofriend.com CNAME .
 tracker.lazada.co.id CNAME .
@@ -179,6 +180,7 @@ agenjuditerbesar.com CNAME .
 agentogel4d.com CNAME .
 ajar-poet.com CNAME .
 allvegaspoker.com CNAME .
+alxvgs.pro CNAME .
 anaktogel.com CNAME .
 antiadblocksystems.com CNAME .
 aosbobet.com CNAME .
@@ -224,6 +226,7 @@ dooods.pro CNAME .
 driverhugoverblown.com CNAME .
 dtscout.com CNAME .
 dutatoto.com CNAME .
+dwagg.me CNAME .
 emputogel.com CNAME .
 europoker.com CNAME .
 everypoker.com CNAME .
@@ -272,6 +275,7 @@ mistertogel.com CNAME .
 mitrapoker.com CNAME .
 mobilepokerclub.com CNAME .
 muchospoker.com CNAME .
+nag303.xyz CNAME .
 naga-poker.com CNAME .
 nagapoker.biz CNAME .
 nagapoker.com CNAME .
@@ -339,6 +343,7 @@ situstogelonline.com CNAME .
 speedcount.co CNAME .
 sunpoker.com CNAME .
 surgajudi.com CNAME .
+suvtub.id CNAME .
 switchpoker.com CNAME .
 tangkas99.com CNAME .
 taruhanbetting.com CNAME .

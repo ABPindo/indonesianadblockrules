@@ -1,7 +1,7 @@
-# Version: 202607161251
+# Version: 202607171156
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 16 Jul 2026 12:51 UTC
+# Last modified: 17 Jul 2026 11:56 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -154,6 +154,7 @@
 ||sbobet.host^
 ||sv.sleeklyyallaer.com^
 ||tambakbet.vip^
+||tantegacor88.link^
 ||track.aptitudemedia.co^
 ||track.zerofriend.com^
 ||tracker.lazada.co.id^
@@ -179,6 +180,7 @@
 ||agentogel4d.com^
 ||ajar-poet.com^
 ||allvegaspoker.com^
+||alxvgs.pro^
 ||anaktogel.com^
 ||antiadblocksystems.com^
 ||aosbobet.com^
@@ -224,6 +226,7 @@
 ||driverhugoverblown.com^
 ||dtscout.com^
 ||dutatoto.com^
+||dwagg.me^
 ||emputogel.com^
 ||europoker.com^
 ||everypoker.com^
@@ -272,6 +275,7 @@
 ||mitrapoker.com^
 ||mobilepokerclub.com^
 ||muchospoker.com^
+||nag303.xyz^
 ||naga-poker.com^
 ||nagapoker.biz^
 ||nagapoker.com^
@@ -339,6 +343,7 @@
 ||speedcount.co^
 ||sunpoker.com^
 ||surgajudi.com^
+||suvtub.id^
 ||switchpoker.com^
 ||tangkas99.com^
 ||taruhanbetting.com^

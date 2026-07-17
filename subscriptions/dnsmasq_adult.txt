@@ -1,7 +1,7 @@
-# Version: 202607161251
+# Version: 202607171156
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 16 Jul 2026 12:51 UTC
+# Last modified: 17 Jul 2026 11:56 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -154,6 +154,7 @@ address=/safelinkearn.com/0.0.0.0
 address=/sbobet.host/0.0.0.0
 address=/sv.sleeklyyallaer.com/0.0.0.0
 address=/tambakbet.vip/0.0.0.0
+address=/tantegacor88.link/0.0.0.0
 address=/track.aptitudemedia.co/0.0.0.0
 address=/track.zerofriend.com/0.0.0.0
 address=/tracker.lazada.co.id/0.0.0.0
@@ -179,6 +180,7 @@ address=/agenjuditerbesar.com/0.0.0.0
 address=/agentogel4d.com/0.0.0.0
 address=/ajar-poet.com/0.0.0.0
 address=/allvegaspoker.com/0.0.0.0
+address=/alxvgs.pro/0.0.0.0
 address=/anaktogel.com/0.0.0.0
 address=/antiadblocksystems.com/0.0.0.0
 address=/aosbobet.com/0.0.0.0
@@ -224,6 +226,7 @@ address=/dooods.pro/0.0.0.0
 address=/driverhugoverblown.com/0.0.0.0
 address=/dtscout.com/0.0.0.0
 address=/dutatoto.com/0.0.0.0
+address=/dwagg.me/0.0.0.0
 address=/emputogel.com/0.0.0.0
 address=/europoker.com/0.0.0.0
 address=/everypoker.com/0.0.0.0
@@ -272,6 +275,7 @@ address=/mistertogel.com/0.0.0.0
 address=/mitrapoker.com/0.0.0.0
 address=/mobilepokerclub.com/0.0.0.0
 address=/muchospoker.com/0.0.0.0
+address=/nag303.xyz/0.0.0.0
 address=/naga-poker.com/0.0.0.0
 address=/nagapoker.biz/0.0.0.0
 address=/nagapoker.com/0.0.0.0
@@ -339,6 +343,7 @@ address=/situstogelonline.com/0.0.0.0
 address=/speedcount.co/0.0.0.0
 address=/sunpoker.com/0.0.0.0
 address=/surgajudi.com/0.0.0.0
+address=/suvtub.id/0.0.0.0
 address=/switchpoker.com/0.0.0.0
 address=/tangkas99.com/0.0.0.0
 address=/taruhanbetting.com/0.0.0.0

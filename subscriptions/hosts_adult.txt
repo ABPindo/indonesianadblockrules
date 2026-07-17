@@ -1,7 +1,7 @@
-# Version: 202607161251
+# Version: 202607171156
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 16 Jul 2026 12:51 UTC
+# Last modified: 17 Jul 2026 11:56 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -154,6 +154,7 @@
 0.0.0.0 sbobet.host
 0.0.0.0 sv.sleeklyyallaer.com
 0.0.0.0 tambakbet.vip
+0.0.0.0 tantegacor88.link
 0.0.0.0 track.aptitudemedia.co
 0.0.0.0 track.zerofriend.com
 0.0.0.0 tracker.lazada.co.id
@@ -179,6 +180,7 @@
 0.0.0.0 agentogel4d.com
 0.0.0.0 ajar-poet.com
 0.0.0.0 allvegaspoker.com
+0.0.0.0 alxvgs.pro
 0.0.0.0 anaktogel.com
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 aosbobet.com
@@ -224,6 +226,7 @@
 0.0.0.0 driverhugoverblown.com
 0.0.0.0 dtscout.com
 0.0.0.0 dutatoto.com
+0.0.0.0 dwagg.me
 0.0.0.0 emputogel.com
 0.0.0.0 europoker.com
 0.0.0.0 everypoker.com
@@ -272,6 +275,7 @@
 0.0.0.0 mitrapoker.com
 0.0.0.0 mobilepokerclub.com
 0.0.0.0 muchospoker.com
+0.0.0.0 nag303.xyz
 0.0.0.0 naga-poker.com
 0.0.0.0 nagapoker.biz
 0.0.0.0 nagapoker.com
@@ -339,6 +343,7 @@
 0.0.0.0 speedcount.co
 0.0.0.0 sunpoker.com
 0.0.0.0 surgajudi.com
+0.0.0.0 suvtub.id
 0.0.0.0 switchpoker.com
 0.0.0.0 tangkas99.com
 0.0.0.0 taruhanbetting.com

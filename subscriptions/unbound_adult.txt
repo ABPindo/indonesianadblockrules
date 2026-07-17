@@ -1,7 +1,7 @@
-# Version: 202607161251
+# Version: 202607171156
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 16 Jul 2026 12:51 UTC
+# Last modified: 17 Jul 2026 11:56 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -154,6 +154,7 @@ local-zone: "safelinkearn.com" always_nxdomain
 local-zone: "sbobet.host" always_nxdomain
 local-zone: "sv.sleeklyyallaer.com" always_nxdomain
 local-zone: "tambakbet.vip" always_nxdomain
+local-zone: "tantegacor88.link" always_nxdomain
 local-zone: "track.aptitudemedia.co" always_nxdomain
 local-zone: "track.zerofriend.com" always_nxdomain
 local-zone: "tracker.lazada.co.id" always_nxdomain
@@ -179,6 +180,7 @@ local-zone: "agenjuditerbesar.com" always_nxdomain
 local-zone: "agentogel4d.com" always_nxdomain
 local-zone: "ajar-poet.com" always_nxdomain
 local-zone: "allvegaspoker.com" always_nxdomain
+local-zone: "alxvgs.pro" always_nxdomain
 local-zone: "anaktogel.com" always_nxdomain
 local-zone: "antiadblocksystems.com" always_nxdomain
 local-zone: "aosbobet.com" always_nxdomain
@@ -224,6 +226,7 @@ local-zone: "dooods.pro" always_nxdomain
 local-zone: "driverhugoverblown.com" always_nxdomain
 local-zone: "dtscout.com" always_nxdomain
 local-zone: "dutatoto.com" always_nxdomain
+local-zone: "dwagg.me" always_nxdomain
 local-zone: "emputogel.com" always_nxdomain
 local-zone: "europoker.com" always_nxdomain
 local-zone: "everypoker.com" always_nxdomain
@@ -272,6 +275,7 @@ local-zone: "mistertogel.com" always_nxdomain
 local-zone: "mitrapoker.com" always_nxdomain
 local-zone: "mobilepokerclub.com" always_nxdomain
 local-zone: "muchospoker.com" always_nxdomain
+local-zone: "nag303.xyz" always_nxdomain
 local-zone: "naga-poker.com" always_nxdomain
 local-zone: "nagapoker.biz" always_nxdomain
 local-zone: "nagapoker.com" always_nxdomain
@@ -339,6 +343,7 @@ local-zone: "situstogelonline.com" always_nxdomain
 local-zone: "speedcount.co" always_nxdomain
 local-zone: "sunpoker.com" always_nxdomain
 local-zone: "surgajudi.com" always_nxdomain
+local-zone: "suvtub.id" always_nxdomain
 local-zone: "switchpoker.com" always_nxdomain
 local-zone: "tangkas99.com" always_nxdomain
 local-zone: "taruhanbetting.com" always_nxdomain
