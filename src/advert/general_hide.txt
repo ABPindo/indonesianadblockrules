@@ -414,3 +414,5 @@
 ##.ays-pb-modals
 ##.sgpb-popup-dialog-main-div-wrapper
 ##.sgpb-popup-overlay
+##.newsfeed-satu-container, .newsfeed-dua-container, .newsfeed-tiga-container
+###sidebar-header img[style="max-width: 100%; height: auto;"]
