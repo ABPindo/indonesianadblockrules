@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202607171255
+! Version: 202607180020
 ! Title: ABPindo (hosts)
 ! Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-! Last modified: 17 Jul 2026 12:55 UTC
+! Last modified: 18 Jul 2026 00:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
