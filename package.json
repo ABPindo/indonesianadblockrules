@@ -9,6 +9,11 @@
     "url": "https://github.com/ABPindo/indonesianadblockrules.git"
   },
   "license": "GPL-3.0-or-later",
+  "overrides": {
+    "@adguard/scriptlets": {
+      "js-yaml": "3.15.0"
+    }
+  },
   "devDependencies": {
     "@adguard/aglint": "^2.1.3",
     "@adguard/dead-domains-linter": "latest"
