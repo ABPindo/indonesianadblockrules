@@ -52,7 +52,8 @@ ABPindo menggunakan sintaks [Adblock Plus](https://help.eyeo.com/en/adblockplus/
    [uBlock Origin](https://github.com/gorhill/uBlock#installation) · [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) · [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) · [Adblock Plus](https://adblockplus.org/en/)
 
 2. Klik tautan **Subscribe** untuk langsung mengaktifkan filter:
-   **[▶ Subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/ABPindo/indonesianadblockrules@master/subscriptions/abpindo.txt&title=ABPindo)**
+   **[▶ Subscribe ABPindo (github)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)** atau
+   **[▶ Subscribe ABPindo (jsDelivr)](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/ABPindo/indonesianadblockrules@master/subscriptions/abpindo.txt&title=ABPindo)**
 
 3. Atau, salin tautan **RAW File** dari tabel di bawah dan tambahkan secara manual melalui pengaturan filter di ekstensi Anda.
 
