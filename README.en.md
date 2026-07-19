@@ -52,7 +52,8 @@ ABPindo uses [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-fi
    [uBlock Origin](https://github.com/gorhill/uBlock#installation) · [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) · [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) · [Adblock Plus](https://adblockplus.org/en/)
 
 2. Click the **Subscribe** link to activate the filter:
-   **[▶ Subscribe ABPindo](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/ABPindo/indonesianadblockrules@master/subscriptions/abpindo.txt&title=ABPindo))**
+   **[▶ Subscribe ABPindo (github)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)** or
+   **[▶ Subscribe ABPindo (jsDelivr)](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/ABPindo/indonesianadblockrules@master/subscriptions/abpindo.txt&title=ABPindo)**
 
 3. Or copy the **RAW File** link from the table below and add it manually via your extension's filter settings.
 
