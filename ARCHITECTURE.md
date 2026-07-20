@@ -243,7 +243,7 @@ git push
 - ❌ ABP snippet syntax (`#%#//snippet(...)`) — limited adoption
 
 **Implementation**:
-- uBO-only rules go in `src/advert/scriptlet_ublock.txt`
+- uBO-only rules go in `src/advert/ublock.txt`
 - ABP users see them as comments (safe to ignore)
 - uBO users get full scriptlet support
 

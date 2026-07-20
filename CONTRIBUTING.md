@@ -89,7 +89,9 @@ Sebelum mengirim PR, uji filter menggunakan konfigurasi berikut agar konsisten d
 |---|---|
 | Peramban | [Firefox](https://www.mozilla.org/id/firefox/) |
 | Ekstensi | [uBlock Origin](https://github.com/gorhill/uBlock#installation) |
-| Filter aktif | EasyList, EasyPrivacy, ABPindo, uBlock filters |
+| Filter aktif | EasyList, EasyPrivacy, uBlock filters, ABPindo  |
+
+> **Catatan untuk pengguna ekstensi lain:** Aktifkan filter bawaan ekstensi Anda (AdGuard Base, ABP filters, dll.) sebagai pengganti uBlock filters, ABPindo dirancang sebagai pelengkap, bukan pengganti filter bawaan.
 
 ### Struktur File Sumber
 
