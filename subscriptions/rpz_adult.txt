@@ -1,7 +1,7 @@
-# Version: 202607180020
+# Version: 202607201437
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 18 Jul 2026 00:20 UTC
+# Last modified: 20 Jul 2026 14:37 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -266,6 +266,7 @@ kedaijudi.com CNAME .
 kingtogel.com CNAME .
 launchpoker.com CNAME .
 lazacasino.com CNAME .
+linkjalur.vip CNAME .
 login.ashk7.com CNAME .
 lolhello.com CNAME .
 lotospoker.com CNAME .
