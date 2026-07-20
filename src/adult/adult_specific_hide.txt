@@ -156,3 +156,10 @@ igo.desu.xxx##uads_300x250
 kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
 kumapoi.info###teaser3
 kumapoi.info##.kln
+
+flickerlust.com##.ad-banner
+flickerlust.com###popup-banner-overlay
+indoxxihot.com##.ad-banner
+indoxxihot.com###popup-banner-overlay
+markasfilmhot.com##.ad-banner
+markasfilmhot.com###popup-banner-overlay
