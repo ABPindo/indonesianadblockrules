@@ -12,6 +12,9 @@
   "overrides": {
     "@adguard/scriptlets": {
       "js-yaml": "3.15.0"
+    },
+    "minimatch": {
+      "brace-expansion": "2.1.2"
     }
   },
   "devDependencies": {
