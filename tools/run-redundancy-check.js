@@ -1,43 +1,110 @@
 /**
- * run-redundancy-check.js — Find ABPindo rules redundant with EasyList
+ * run-redundancy-check.js
  *
- * Combines both filter lists, runs ABPVN redundant.js engine (full ABP syntax),
- * reports ABPindo rules covered by EasyList.
+ * Checks whether rules from a target filter list are already covered
+ * by one or more base filter lists using the ABPVN redundancy engine.
+ *
+ * Only redundancies originating from the target list are reported.
  *
  * Usage:
- *   node tools/run-redundancy-check.js                    # auto-download EasyList
- *   node tools/run-redundancy-check.js --easylist path    # use cached
- *
- * Output: src/redundant.txt (one "A is redundant with B" per line)
- * Exit: 1 if redundancies found, 0 otherwise
+ *     node run-redundancy-check.js \
+ *       --target src/abpindo.txt \
+ *       --base easylist.txt \
+ *       --base adguard.txt \
+ *       --output src/redundant.txt
  */
+
 "use strict";
 
 const fs = require("fs");
 const path = require("path");
-const https = require("https");
 const { Worker } = require("worker_threads");
 
-const EASYLIST_URL = "https://easylist.to/easylist/easylist.txt";
 const ENGINE_PATH = path.join(__dirname, "abpvn-redundant.js");
-const SRC_DIR = path.resolve(__dirname, "..", "src");
-const OUTPUT = path.resolve(__dirname, "..", "src", "redundant.txt");
+let engineCodeCache = null;
 
-function download(url, dest) {
-  return new Promise((resolve, reject) => {
-    const file = fs.createWriteStream(dest);
-    https.get(url, { headers: { "User-Agent": "ABPindo-redundancy-check" } }, (res) => {
-      if (res.statusCode !== 200) { reject(new Error(`HTTP ${res.statusCode}`)); return; }
-      res.pipe(file);
-      file.on("finish", () => file.close(resolve));
-    }).on("error", reject);
-  });
+// Lazy initialization without redundant FileSystem access
+function getEngineCode() {
+  if (!engineCodeCache) {
+    try {
+      engineCodeCache = fs.readFileSync(ENGINE_PATH, "utf-8");
+    } catch (err) {
+      throw new Error(`Failed to load engine from ${ENGINE_PATH}: ${err.message}`);
+    }
+  }
+  return engineCodeCache;
+}
+
+// --- Helper Functions ---
+
+function printHelp() {
+  console.log(`
+ABP Redundancy Checker
+
+Usage:
+  node tools/run-redundancy-check.js --target <file> --base <file> [options]
+
+Options:
+  -t, --target <path>   Target filter file to check for redundancies (Required)
+  -b, --base <path>     Base filter file(s) to check against (Can be specified multiple times)
+  -o, --output <path>   Output report file path (Default: redundant.txt)
+  -h, --help            Show this help message
+`);
+}
+
+function parseArgs(args) {
+  if (args.includes("-h") || args.includes("--help")) {
+    printHelp();
+    process.exit(0);
+  }
+
+  let target = null;
+  const baseList = [];
+  let output = "redundant.txt";
+
+  for (let i = 0; i < args.length; i++) {
+    const flag = args[i];
+
+    if (flag === "--target" || flag === "-t") {
+      if (++i >= args.length) {
+        throw new Error(`${flag} requires a file path.`);
+      }
+      target = args[i];
+    } else if (flag === "--base" || flag === "-b") {
+      if (++i >= args.length) {
+        throw new Error(`${flag} requires a file path.`);
+      }
+      baseList.push(args[i]);
+    } else if (flag === "--output" || flag === "-o") {
+      if (++i >= args.length) {
+        throw new Error(`${flag} requires a file path.`);
+      }
+      output = args[i];
+    } else {
+      throw new Error(`Unknown argument: ${flag}`);
+    }
+  }
+
+  if (!target) {
+    throw new Error("Missing required argument: --target (-t)");
+  }
+  if (baseList.length === 0) {
+    throw new Error("Missing required argument: At least one --base (-b) file is required.");
+  }
+
+  return { target, baseList, output };
 }
 
 function readRules(filepath) {
-  const content = fs.readFileSync(filepath, "utf-8");
+  const resolvedPath = path.resolve(filepath);
+  if (!fs.existsSync(resolvedPath)) {
+    throw new Error(`File not found: ${resolvedPath}`);
+  }
+
+  const content = fs.readFileSync(resolvedPath, "utf-8");
   const rules = [];
-  for (const line of content.split("\n")) {
+
+  for (const line of content.split(/\r?\n/)) {
     const t = line.trim();
     if (!t || t.startsWith("!") || t.startsWith("[") || t.startsWith("#")) continue;
     rules.push(t);
@@ -45,20 +112,11 @@ function readRules(filepath) {
   return rules;
 }
 
-function readAllFilters(dir) {
-  const files = fs.readdirSync(dir, { recursive: true })
-    .filter(f => f.endsWith(".txt") && path.basename(f) !== "redundant.txt")
-    .map(f => path.join(dir, f))
-    .sort();
-  return files.flatMap(fp => readRules(fp));
-}
-
 function runEngine(combinedFilters) {
-  const engineCode = fs.readFileSync(ENGINE_PATH, "utf-8");
-  // Worker: override self to capture postMessage, call startWorker directly
+  const engineCode = getEngineCode();
+
   const workerCode = `
 const { parentPort } = require("worker_threads");
-// Capture engine output
 let engineResult = null;
 const self = {
   postMessage: (r) => { engineResult = r; },
@@ -66,85 +124,104 @@ const self = {
   addEventListener: () => {}
 };
 globalThis.self = self;
-// Engine code follows
+
 ${engineCode}
-// Feed data and run
+
 const data = { filters: ${JSON.stringify(combinedFilters)}, modifiers: {} };
-// The engine's message listener would call startWorker(e.data)
-// Call startWorker directly instead
 startWorker(data);
-// Send result back
 parentPort.postMessage(engineResult);
 `;
+
   return new Promise((resolve, reject) => {
     const worker = new Worker(workerCode, { eval: true });
-    worker.on("message", resolve);
-    worker.on("error", reject);
-    worker.on("exit", (code) => {
-      if (code !== 0) reject(new Error(`Worker exit ${code}`));
+
+    worker.once("message", resolve);
+    worker.once("error", reject);
+    worker.once("exit", (code) => {
+      if (code !== 0) reject(new Error(`Worker exited with code ${code}`));
     });
   });
 }
 
+// --- Main Process ---
+
 async function main() {
-  const args = process.argv.slice(2);
-  const elFlag = args.indexOf("--easylist");
-  let elPath;
+  const { target, baseList, output } = parseArgs(process.argv.slice(2));
+  const outputPath = path.resolve(output);
 
-  if (elFlag >= 0 && args[elFlag + 1]) {
-    elPath = path.resolve(args[elFlag + 1]);
-    if (!fs.existsSync(elPath)) {
-      console.error(`Error: ${elPath} not found`); process.exit(1);
-    }
-  } else {
-    elPath = path.join(__dirname, "..", ".easylist_tmp.txt");
-    console.log("Downloading EasyList...");
-    await download(EASYLIST_URL, elPath);
-  }
+  console.log(`Loading target: ${target}`);
+  const targetRules = [...new Set(readRules(target))];
+  console.log(`  Loaded ${targetRules.length} unique target rules`);
 
-  console.log("Reading ABPindo filters...");
-  const abpindoRules = readAllFilters(SRC_DIR);
-  console.log(`  ${abpindoRules.length} ABPindo rules`);
+  console.log(`\nLoading base files...`);
+  const baseRules = [...new Set(baseList.flatMap(filePath => {
+    console.log(`  Loading ${filePath}...`);
+    const rules = readRules(filePath);
+    console.log(`    Loaded ${rules.length} rules`);
+    return rules;
+  }))];
+  console.log(`  Total unique base rules: ${baseRules.length}`);
 
-  console.log("Reading EasyList...");
-  const elRules = readRules(elPath);
-  console.log(`  ${elRules.length} EasyList rules`);
-  if (elFlag < 0) fs.unlinkSync(elPath);
+  const targetSet = new Set(targetRules);
+  const baseSet = new Set(baseRules);
 
-  const abpSet = new Set(abpindoRules);
-  const elSet = new Set(elRules);
-
-  // Run engine on combined list
-  console.log("Running redundancy engine...");
-  const result = await runEngine([...abpindoRules, ...elRules].join("\n"));
+  console.log("\nRunning redundancy engine...");
+  const combinedFilters = [...targetRules, ...baseRules].join("\n");
+  const result = await runEngine(combinedFilters);
 
   if (!result || !result.results) {
-    console.log("No engine results"); process.exit(0);
+    console.log("No engine results received.");
+    process.exit(0);
   }
 
-  // Filter: only ABPindo rules covered by EasyList
-  const lines = [];
+  // Filter: target rules that are redundant relative to base rules
+  const redundantRules = [];
   for (const [red, covering] of Object.entries(result.results)) {
     if (red === covering) continue;
-    if (!abpSet.has(red)) continue;
-    const isEasyList = elSet.has(covering);
-    lines.push({ red, covering, confirmed: elSet.has(covering) });
+    if (!targetSet.has(red)) continue;
+
+    redundantRules.push({
+      red,
+      covering,
+      confirmedByExactMatch: baseSet.has(covering)
+    });
   }
 
-  // Write report
-  const reportLines = lines.map(e => `${e.red} is redundant with ${e.covering}`);
-  reportLines.push(""); // trailing newline
-  fs.writeFileSync(OUTPUT, reportLines.join("\n"), "utf-8");
+  // Automatically create output directory if it doesn't exist
+  fs.mkdirSync(path.dirname(outputPath), { recursive: true });
 
-  console.log(`\nReport: ${OUTPUT}`);
-  console.log(`${lines.length} redundant ABPindo rule(s) found.`);
+  // Format report
+  const reportBlocks = redundantRules.map(
+    e => `${e.red}\n    redundant with:\n    ${e.covering}`
+  );
 
-  const confirmed = lines.filter(l => l.confirmed).length;
-  if (confirmed < lines.length)
-    console.log(`  ${confirmed} confirmed EasyList, ${lines.length - confirmed} unconfirmed (engine-transformed)`);
+  // Sort to ensure deterministic output for CI/CD pipelines
+  reportBlocks.sort();
 
-  lines.forEach(l => console.log(`  ${l.red}`));
-  if (lines.length > 0) process.exit(1);
+  // Write report file
+  fs.writeFileSync(
+    outputPath,
+    reportBlocks.join("\n\n") + (reportBlocks.length ? "\n" : ""),
+    "utf-8"
+  );
+
+  console.log(`\nReport written to: ${outputPath}`);
+  console.log(`${redundantRules.length} redundant rule(s) found.`);
+
+  if (redundantRules.length > 0) {
+    const exactMatches = redundantRules.filter(l => l.confirmedByExactMatch).length;
+    if (exactMatches < redundantRules.length) {
+      console.log(`  Note: ${exactMatches} rules directly match base file, ${redundantRules.length - exactMatches} rules transformed/normalized by engine.`);
+    }
+    redundantRules.forEach(l => console.log(`  - ${l.red}`));
+    process.exit(1);
+  }
+
+  process.exit(0);
 }
 
-main().catch(err => { console.error(err); process.exit(1); });
+main().catch(err => {
+  console.error("\nError:");
+  console.error(err instanceof Error ? err.stack : err);
+  process.exit(1);
+});
