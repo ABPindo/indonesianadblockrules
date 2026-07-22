@@ -1,7 +1,7 @@
-# Version: 202607201449
+# Version: 202607221112
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 20 Jul 2026 14:49 UTC
+# Last modified: 22 Jul 2026 11:12 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -131,8 +131,6 @@
 ||vkwaeo.com^
 ||yllix.com^
 # *** abpindo:src/advert/thirdparty.txt ***
-||a.magsrv.com^
-||a.pemsrv.com^
 ||akseskaiko.cam^
 ||archivehub.com.ng^
 ||bergurukecina.fun^
@@ -143,7 +141,6 @@
 ||injd.site^
 ||inshorturl.com^
 ||kegz.site^
-||mascarapersonality.com^
 ||menujupenta.site^
 ||moneyfree.co^
 ||nf.diamberproetid.com^
@@ -165,11 +162,8 @@
 ||vm.ydstinkle.com^
 ||wg87vip.bet^
 # *** abpindo:src/adult/adult_thirdparty.txt ***
-||172.105.216.174^
 ||32redpoker.com^
-||6d30803f5f.com^
 ||88togel.com^
-||a-ads.com^
 ||actionpoker.com^
 ||adroitdeceitcongestion.com^
 ||ads.save21.site^
@@ -181,7 +175,6 @@
 ||ajar-poet.com^
 ||allvegaspoker.com^
 ||anaktogel.com^
-||antiadblocksystems.com^
 ||aosbobet.com^
 ||areaslt.net^
 ||areataruhan.com^
@@ -198,20 +191,16 @@
 ||biotogel.com^
 ||blindbetpoker.com^
 ||blogjudi.com^
-||bobsleddomesticglandular.com^
 ||bojo.rajatravel.online^
 ||bolakami-banner-tracker.bolakami.workers.dev^
 ||breedsmuteexams.com^
 ||bursajudibola.com^
-||c.adsco.re^
-||capndr.com^
 ||caramenangtaruhanbola.com^
 ||caramenangtogel.com^
 ||casinoclubpoker.com^
 ||cdn.assetcsn.site^
 ||cdpoker.com^
 ||celebpoker.com^
-||chaseherbalpasty.com^
 ||chilipoker.com^
 ||clickadu.com^
 ||coolhandpoker.com^
@@ -228,18 +217,14 @@
 ||dewijudi.com^
 ||dewitogel.com^
 ||dooods.pro^
-||driverhugoverblown.com^
-||dtscout.com^
 ||dutatoto.com^
 ||dwabt.pro^
 ||dwagg.me^
-||effectivecpmnetwork.com^
 ||emputogel.com^
 ||europoker.com^
 ||everypoker.com^
 ||feltpoker.com^
 ||file-assist.xuzor.com^
-||fudfzudwoa.com^
 ||gentingpoker.com^
 ||goldentigerpoker.com^
 ||goldentoto.com^
@@ -253,7 +238,6 @@
 ||inipoker.com^
 ||investopedia.today^
 ||ipoker.com^
-||jads.co^
 ||jayapoker.com^
 ||jtogel.com^
 ||judibebas.com^
@@ -302,7 +286,6 @@
 ||pacificpoker.com^
 ||pandujudionline.com^
 ||pkr-88.com^
-||pkygraajhdap.com^
 ||planettoto.com^
 ||playpokeronline.com^
 ||playwinpoker.com^
@@ -332,7 +315,6 @@
 ||pondokpoker.com^
 ||pondoktogel.com^
 ||prediksitoptogel.com^
-||profitablecpmratenetwork.com^
 ||promosi.bwnn7.com^
 ||promosi.ctrr7.com^
 ||promosi.hkwn7.com^
@@ -398,19 +380,15 @@
 ||tzetzessmoking.com^
 ||undiantogel.com^
 ||videopoker.com^
-||vivodemisrentas.net^
 ||vm.beeteam368.net^
-||w3.t5tm8zptlf6o8lc.cfd^
 ||warungjudi.com^
 ||warungpoker.com^
-||wcikamgamzc.com^
 ||webjudionline.com^
 ||webjuditerpercaya.com^
 ||websitejudi.com^
 ||whelmlegge.com^
 ||wigobet.com^
 ||win25keren.store^
-||wpadmngr.com^
 ||xjudi.com^
 ||yourpokercash.com^
 ||yu.befitkersey.com^
