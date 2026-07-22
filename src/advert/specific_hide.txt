@@ -1,7 +1,6 @@
 ! ABP-specific filters
 cari.com.my#?#center:has-text(ADVERTISEMENT)
 cloud.majalahhewan.com#?#span:has-text(Advertisement)
-kumparan.com#?#[data-qa-id="desktop-article-page-below-images"]:has(span:has-text(/ADVERTISEMENT/i))
 kumparan.com#?#[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
 tokopedia.com#?#.product-card:has(span:has-text(/^Ad$/))
 tokopedia.com#?#div[data-testid="divCarouselProduct"]:has(span:has-text(/^Ad$/))
