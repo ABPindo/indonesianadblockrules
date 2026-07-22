@@ -1,4 +1,4 @@
-name: redundant-check
+name: redundancy-check
 
 on:
   workflow_dispatch:
