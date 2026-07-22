@@ -1,0 +1,112 @@
+name: redundancy-check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *" # 1st of month at 00:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: "lts/*"
+
+      - name: Run redundancy check against EasyList
+        run: |
+          mkdir -p src/redundancy
+
+          curl -fsSL https://easylist.to/easylist/easylist.txt \
+            -o "$RUNNER_TEMP/easylist.txt"
+
+          curl -fsSL https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt \
+            -o "$RUNNER_TEMP/fanboy-annoyance.txt"
+
+          curl -fsSL https://easylist-downloads.adblockplus.org/fanboy-social.txt \
+            -o "$RUNNER_TEMP/fanboy-social.txt"
+
+          run_check() {
+            node tools/run-redundancy-check.js "$@"
+            status=$?
+
+            case "$status" in
+              0|1)
+                ;;
+              *)
+                exit "$status"
+                ;;
+            esac
+          }
+
+          run_check \
+            --target subscriptions/abpindo.txt \
+            --base "$RUNNER_TEMP/easylist.txt" \
+            --output src/redundancy/abpindo.txt
+
+          run_check \
+            --target subscriptions/abpindo_annoyances.txt \
+            --base "$RUNNER_TEMP/fanboy-annoyance.txt" \
+            --output src/redundancy/abpindo_annoyances_annoyances.txt
+
+          run_check \
+            --target subscriptions/abpindo_annoyances.txt \
+            --base "$RUNNER_TEMP/fanboy-social.txt" \
+            --output src/redundancy/abpindo_annoyances_social.txt
+
+      - name: Commit report if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if find src/redundancy -type f -size +0c | grep -q .; then
+            echo "=== Redundant rules found ==="
+
+            for file in src/redundancy/*.txt; do
+              [ -s "$file" ] || continue
+              echo ""
+              echo "### $file"
+              cat "$file"
+            done
+          else
+            echo "No redundant rules found."
+          fi
+
+          git add src/redundancy
+
+          git diff --staged --quiet && echo "No changes." && exit 0
+
+          git commit -m "chore: monthly redundancy check [skip ci]"
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate report
+        if: always()
+        run: |
+          echo "## Redundancy Check Report" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "**Date:** $(date +%Y-%m-%d)" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo "### Results" >> "$GITHUB_STEP_SUMMARY"
+
+          if find src/redundancy -type f -size +0c | grep -q .; then
+            for file in src/redundancy/*.txt; do
+              [ -s "$file" ] || continue
+
+              echo "" >> "$GITHUB_STEP_SUMMARY"
+              echo "#### $(basename "$file")" >> "$GITHUB_STEP_SUMMARY"
+              echo '```' >> "$GITHUB_STEP_SUMMARY"
+              cat "$file" >> "$GITHUB_STEP_SUMMARY"
+              echo '```' >> "$GITHUB_STEP_SUMMARY"
+            done
+          else
+            echo "No redundant rules found." >> "$GITHUB_STEP_SUMMARY"
+          fi
