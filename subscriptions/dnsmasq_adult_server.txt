@@ -1,7 +1,7 @@
-# Version: 202607231224
+# Version: 202607231229
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 23 Jul 2026 12:24 UTC
+# Last modified: 23 Jul 2026 12:29 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -131,27 +131,37 @@ server=/villainoussession.com/
 server=/vkwaeo.com/
 server=/yllix.com/
 # *** abpindo:src/advert/thirdparty.txt ***
+server=/388hero.bio/
 server=/akseskaiko.cam/
 server=/archivehub.com.ng/
+server=/bandarxl.bio/
 server=/bergurukecina.fun/
+server=/bisnis4d.bio/
 server=/c-stat.eu/
 server=/cdnfgo.xyz/
+server=/enakslot.bio/
 server=/gaza-88.com/
 server=/goid.space/
 server=/goratu.site/
 server=/injd.site/
 server=/inshorturl.com/
 server=/kegz.site/
+server=/klik4.me/
+server=/luxury111.bio/
 server=/menujupenta.site/
 server=/moneyfree.co/
 server=/nf.diamberproetid.com/
 server=/orangarab.fun/
 server=/ransplay-io.com/
 server=/ratu89.news/
+server=/redirect388herosafest.com/
+server=/redirectbandarxlsafest.com/
+server=/redirectbisnis4dsafest.com/
 server=/refpa3665.com/
 server=/rts.gdn/
 server=/safelinkearn.com/
 server=/sbobet.host/
+server=/shortbioo.com/
 server=/statics1.tceru134gsur.ru/
 server=/sv.sleeklyyallaer.com/
 server=/tambakbet.vip/

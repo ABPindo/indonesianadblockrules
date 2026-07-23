@@ -1,7 +1,7 @@
-# Version: 202607231224
+# Version: 202607231229
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 23 Jul 2026 12:24 UTC
+# Last modified: 23 Jul 2026 12:29 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -131,27 +131,37 @@ villainoussession.com CNAME .
 vkwaeo.com CNAME .
 yllix.com CNAME .
 # *** abpindo:src/advert/thirdparty.txt ***
+388hero.bio CNAME .
 akseskaiko.cam CNAME .
 archivehub.com.ng CNAME .
+bandarxl.bio CNAME .
 bergurukecina.fun CNAME .
+bisnis4d.bio CNAME .
 c-stat.eu CNAME .
 cdnfgo.xyz CNAME .
+enakslot.bio CNAME .
 gaza-88.com CNAME .
 goid.space CNAME .
 goratu.site CNAME .
 injd.site CNAME .
 inshorturl.com CNAME .
 kegz.site CNAME .
+klik4.me CNAME .
+luxury111.bio CNAME .
 menujupenta.site CNAME .
 moneyfree.co CNAME .
 nf.diamberproetid.com CNAME .
 orangarab.fun CNAME .
 ransplay-io.com CNAME .
 ratu89.news CNAME .
+redirect388herosafest.com CNAME .
+redirectbandarxlsafest.com CNAME .
+redirectbisnis4dsafest.com CNAME .
 refpa3665.com CNAME .
 rts.gdn CNAME .
 safelinkearn.com CNAME .
 sbobet.host CNAME .
+shortbioo.com CNAME .
 statics1.tceru134gsur.ru CNAME .
 sv.sleeklyyallaer.com CNAME .
 tambakbet.vip CNAME .

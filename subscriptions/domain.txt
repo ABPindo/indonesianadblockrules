@@ -1,7 +1,7 @@
-# Version: 202607231224
+# Version: 202607231229
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 23 Jul 2026 12:24 UTC
+# Last modified: 23 Jul 2026 12:29 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -131,27 +131,37 @@ villainoussession.com
 vkwaeo.com
 yllix.com
 # *** abpindo:src/advert/thirdparty.txt ***
+388hero.bio
 akseskaiko.cam
 archivehub.com.ng
+bandarxl.bio
 bergurukecina.fun
+bisnis4d.bio
 c-stat.eu
 cdnfgo.xyz
+enakslot.bio
 gaza-88.com
 goid.space
 goratu.site
 injd.site
 inshorturl.com
 kegz.site
+klik4.me
+luxury111.bio
 menujupenta.site
 moneyfree.co
 nf.diamberproetid.com
 orangarab.fun
 ransplay-io.com
 ratu89.news
+redirect388herosafest.com
+redirectbandarxlsafest.com
+redirectbisnis4dsafest.com
 refpa3665.com
 rts.gdn
 safelinkearn.com
 sbobet.host
+shortbioo.com
 statics1.tceru134gsur.ru
 sv.sleeklyyallaer.com
 tambakbet.vip

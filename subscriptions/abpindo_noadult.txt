@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202607231224
+! Version: 202607231229
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 23 Jul 2026 12:24 UTC
+! Last modified: 23 Jul 2026 12:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -133,27 +133,37 @@
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
 ! *** abpindo:src/advert/thirdparty.txt ***
+||388hero.bio^$third-party
 ||akseskaiko.cam^$third-party
 ||archivehub.com.ng^$third-party
+||bandarxl.bio^$third-party
 ||bergurukecina.fun^$third-party
+||bisnis4d.bio^$third-party
 ||c-stat.eu^$third-party
 ||cdnfgo.xyz^$third-party
+||enakslot.bio^$third-party
 ||gaza-88.com^$third-party
 ||goid.space^$third-party
 ||goratu.site^$third-party
 ||injd.site^$third-party
 ||inshorturl.com^$third-party
 ||kegz.site^$third-party
+||klik4.me^$all
+||luxury111.bio^$third-party
 ||menujupenta.site^$third-party
 ||moneyfree.co^$third-party
 ||nf.diamberproetid.com^$third-party
 ||orangarab.fun^$third-party
 ||ransplay-io.com^$third-party
 ||ratu89.news^$third-party
+||redirect388herosafest.com^$third-party
+||redirectbandarxlsafest.com^$third-party
+||redirectbisnis4dsafest.com^$third-party
 ||refpa3665.com^$third-party
 ||rts.gdn^$third-party
 ||safelinkearn.com^$third-party
 ||sbobet.host^$third-party
+||shortbioo.com^$all
 ||statics1.tceru134gsur.ru^$third-party
 ||sv.sleeklyyallaer.com^$third-party
 ||tambakbet.vip^$third-party
