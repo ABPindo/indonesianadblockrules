@@ -416,3 +416,6 @@
 ##.sgpb-popup-overlay
 ##.newsfeed-satu-container, .newsfeed-dua-container, .newsfeed-tiga-container
 ###sidebar-header img[style="max-width: 100%; height: auto;"]
+
+###ad_box
+##div[class*="ads-header"]

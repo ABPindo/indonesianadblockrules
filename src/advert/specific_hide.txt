@@ -1165,7 +1165,6 @@ inews.id##div:has( > [id^="div-gpt-ad"])
 katadata.co.id##div:has( > [id^="div-gpt-ad"][class^="paralax"])
 blokbojonegoro.com##div:has( > img[alt="Space Iklan"])
 beritasatu.com,investor.id,jakartaglobe.id##div:matches-css(text-align: center):has-text(/adv/i)
-kiryuu03.com##div[class*="ads-header"]
 samehadaku.*##div[class*="player-iklan"]
 nontonanimeid.*##div[class^="adspost"]
 jpnn.com##div[class^="ans-"]
