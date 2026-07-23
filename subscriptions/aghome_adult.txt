@@ -1,7 +1,7 @@
-# Version: 202607221112
+# Version: 202607231123
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 22 Jul 2026 11:12 UTC
+# Last modified: 23 Jul 2026 11:23 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -314,6 +314,7 @@
 ||pokervip.com^
 ||pondokpoker.com^
 ||pondoktogel.com^
+||powderencouraged.com^
 ||prediksitoptogel.com^
 ||promosi.bwnn7.com^
 ||promosi.ctrr7.com^
