@@ -1227,3 +1227,17 @@ herworld.co.id##p:nth-of-type(2)
 jpnn.com##section.leaderboard
 jakartaglobe.id##style + .mt-2
 nomat.shop##.popup.show
+terbit21.*##.top-banner
+terbit21.*###top-banner
+terbit21.*###menu-banner
+terbit21.*###middle-banner
+terbit21.*###ptbanner
+terbit21.*###popup-banner
+terbit21.*###ads-pop
+dunia21official.*##.top-banner
+dunia21official.*###top-banner
+dunia21official.*###menu-banner
+dunia21official.*###middle-banner
+dunia21official.*###ptbanner
+dunia21official.*###popup-banner
+dunia21official.*###ads-pop
