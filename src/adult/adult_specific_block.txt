@@ -11,4 +11,3 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||pic.desu.xxx/content/banner/*.gif$image
 ||sebokep.vip/api/crossfeed$xmlhttprequest
 ||sebokep.vip/crossfeed.js$script
-||shortbioo.com^$all,domain=kingbokep.media
