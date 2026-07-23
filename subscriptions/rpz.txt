@@ -1,7 +1,7 @@
-# Version: 202607231140
+# Version: 202607231143
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 23 Jul 2026 11:40 UTC
+# Last modified: 23 Jul 2026 11:43 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -136,6 +136,7 @@ archivehub.com.ng CNAME .
 bergurukecina.fun CNAME .
 c-stat.eu CNAME .
 cdnfgo.xyz CNAME .
+gaza-88.com CNAME .
 goid.space CNAME .
 goratu.site CNAME .
 injd.site CNAME .
@@ -146,13 +147,16 @@ moneyfree.co CNAME .
 nf.diamberproetid.com CNAME .
 orangarab.fun CNAME .
 ransplay-io.com CNAME .
+ratu89.news CNAME .
 refpa3665.com CNAME .
+rts.gdn CNAME .
 safelinkearn.com CNAME .
 sbobet.host CNAME .
 statics1.tceru134gsur.ru CNAME .
 sv.sleeklyyallaer.com CNAME .
 tambakbet.vip CNAME .
 tantegacor88.link CNAME .
+terbit21.gdn CNAME .
 track.aptitudemedia.co CNAME .
 track.zerofriend.com CNAME .
 tracker.lazada.co.id CNAME .

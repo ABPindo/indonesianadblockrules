@@ -1,7 +1,7 @@
-# Version: 202607231140
+# Version: 202607231143
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 23 Jul 2026 11:40 UTC
+# Last modified: 23 Jul 2026 11:43 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -136,6 +136,7 @@ server=/archivehub.com.ng/
 server=/bergurukecina.fun/
 server=/c-stat.eu/
 server=/cdnfgo.xyz/
+server=/gaza-88.com/
 server=/goid.space/
 server=/goratu.site/
 server=/injd.site/
@@ -146,13 +147,16 @@ server=/moneyfree.co/
 server=/nf.diamberproetid.com/
 server=/orangarab.fun/
 server=/ransplay-io.com/
+server=/ratu89.news/
 server=/refpa3665.com/
+server=/rts.gdn/
 server=/safelinkearn.com/
 server=/sbobet.host/
 server=/statics1.tceru134gsur.ru/
 server=/sv.sleeklyyallaer.com/
 server=/tambakbet.vip/
 server=/tantegacor88.link/
+server=/terbit21.gdn/
 server=/track.aptitudemedia.co/
 server=/track.zerofriend.com/
 server=/tracker.lazada.co.id/
