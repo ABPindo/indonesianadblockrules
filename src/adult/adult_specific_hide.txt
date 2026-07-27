@@ -126,6 +126,7 @@ doujin.desu.xxx##[href^="https://klik.best/"]
 doujin.desu.xxx,igo.desu.xxx##[href^="https://klik.top/"]
 nekopoi.*##[href^="https://monetag.com/"]
 igo.desu.xxx##[href^="https://tinig22.com/"]
+doujin.desu.xxx,igo.desu.xxx##img[src*="pic.desu.xxx/content/banner/"]
 pemersatu.*##[role="advertisement"]
 kingbokep.*##[style^="height:"]:has(> img)
 bokep360.*##a[href*="gamdom"]

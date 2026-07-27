@@ -8,6 +8,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||kayatan.vip/crossfeed.js$script
 ||m.teknolur.eu.org^$popup,domain=kingbokep.media
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
-||pic.desu.xxx/content/banner/*.gif$image
+||pic.desu.xxx/content/banner/*$image
 ||sebokep.vip/api/crossfeed$xmlhttprequest
 ||sebokep.vip/crossfeed.js$script
