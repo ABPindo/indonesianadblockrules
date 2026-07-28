@@ -165,3 +165,5 @@ indoxxihot.com###popup-banner-overlay
 markasfilmhot.com##.ad-banner
 markasfilmhot.com###popup-banner-overlay
 videyindo.space##.playeroverlay
+
+kampungbokep.*##div[id^="wp5hpr_"][id$="_overlay"]
