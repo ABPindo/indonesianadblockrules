@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202607311255
+! Version: 202607311258
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 31 Jul 2026 12:55 UTC
+! Last modified: 31 Jul 2026 12:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1367,6 +1367,7 @@ kapanlagi.com###v8-leaderboard
 indotelko.com###vertical_top_kanal
 animeindo.net###videoad1
 moenime.com###w-node-b77
+komikpoi.com###wp-iklan-overlay
 bioskop78.com###wrap > center
 gooto.com###zone_3
 marketeers.com##.-mx-\[24px\]
@@ -2007,6 +2008,11 @@ komiku.com##.widget_text:has([href^="https://shope.ee/"])
 cantika.com##.width-ads
 cantika.com##.width-ads-leader
 sumbardaily.com##.wp-block-image
+komikpoi.com##.wp-iklan-banner
+komikpoi.com##.wp-iklan-footer
+komikpoi.com##.wp-iklan-header
+komikpoi.com##.wp-iklan-slider-left
+komikpoi.com##.wp-iklan-slider-right
 cdramabase.com##.wpa
 bolatimes.com,dewiku.com,guideku.com,himedik.com,hitekno.com,mobimoto.com##.wrap-ads-leaderboard
 bolatimes.com,dewiku.com,guideku.com,himedik.com,mobimoto.com##.wrap-ads-r
@@ -9864,7 +9870,7 @@ slurr.my.id##a[href^="https://scratchy-trick.com/"]
 18subindo.com##a[href^="https://tinyurl.com/"]
 animekompi.*,artisbokep.*,komikdewasa.art,nekopoi.*,republikbokep.*,sebokep.vip,simontokx.tv,xbokepin.*##a[target*="blank"]:has(> img)
 kayatan.vip##aside > div > .mt-4
-rumahparaperjaka.*##body:style(overflow: auto !important;)
+komikpoi.com,rumahparaperjaka.*##body:style(overflow: auto !important;)
 komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !important;)
 pemersatu.*##div.ad iframe
 pemersatu.*##div.ad ins
