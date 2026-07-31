@@ -167,3 +167,9 @@ markasfilmhot.com###popup-banner-overlay
 videyindo.space##.playeroverlay
 
 kampungbokep.*##div[id^="wp5hpr_"][id$="_overlay"]
+
+areakomik.com###float-ads
+areakomik.com##.lin-header-ad-container
+areakomik.com##.lin-ad-img
+areakomik.com##.lin-native-item.lin-ad-link
+areakomik.com##.komik-card.native-ad-slot
