@@ -50,3 +50,5 @@ sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 ||googlesyndication.com/pagead/js/adsbygoogle.js$redirect-rule=noop.js,script,domain=nekopoi.care
 ||r2.dev/*.mp4$media,redirect=noopmp4-1s,domain=nokephub.*
 ||serverx16.online/hls/$media,redirect=noopmp4-1s
+
+pemersatu.*##+js(aopw, document.body.innerHTML)
