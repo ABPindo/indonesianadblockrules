@@ -176,3 +176,7 @@ areakomik.com##.komik-card.native-ad-slot
 
 rumahparaperjaka.*###modal
 rumahparaperjaka.*##body:style(overflow: auto !important;)
+
+i-jav.space##.banner
+i-jav.space##[href*="situsdepe4d"]
+i-jav.space##[href*="t.ly/depe4d"]
