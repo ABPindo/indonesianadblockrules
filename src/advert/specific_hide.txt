@@ -1247,3 +1247,9 @@ bioskopkeren.*###popup-banner
 bioskopkeren.*###float-bottom-banner
 bioskopkeren.*###float-b-1
 bioskopkeren.*##.idmuvi-floatbanner
+komikpoi.com###wp-iklan-overlay
+komikpoi.com##.wp-iklan-header
+komikpoi.com##.wp-iklan-banner
+komikpoi.com##.wp-iklan-footer
+komikpoi.com##.wp-iklan-slider-left
+komikpoi.com##.wp-iklan-slider-right
