@@ -173,3 +173,6 @@ areakomik.com##.lin-header-ad-container
 areakomik.com##.lin-ad-img
 areakomik.com##.lin-native-item.lin-ad-link
 areakomik.com##.komik-card.native-ad-slot
+
+rumahparaperjaka.*###modal
+rumahparaperjaka.*##body:style(overflow: auto !important;)
