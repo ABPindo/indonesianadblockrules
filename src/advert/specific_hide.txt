@@ -1284,3 +1284,7 @@ kisahdunia.com##.jnews_header_top_ads
 kisahdunia.com##.jnews_above_footer_ads
 kisahdunia.com##.jnews_mobile_sticky_ads
 kisahdunia.com##.elementor-element-ddaec1c
+
+mekanika.com.my##.has-header-ad
+mekanika.com.my##.has-header-below-ad
+mekanika.com.my##[class*="aa-prefix-mekan"]
