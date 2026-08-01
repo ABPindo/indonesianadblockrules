@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202608012156
+! Version: 202608012228
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Aug 2026 21:56 UTC
+! Last modified: 01 Aug 2026 22:28 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9745,6 +9745,7 @@ javsubindo.site###btm_banner
 pemersatufun.*###deskadmiddle
 pemersatufun.*###dooplay_player_response #myDiv:has(button[onclick*="-adblock" i])
 krx18.com###dynamic-image[alt=""]
+csnbiru.blog###ext-link-btn
 semikeren.*###fadeinbox
 areakomik.com###float-ads
 unyil.net###float-atas
@@ -9780,7 +9781,8 @@ sange.link##.DvrCn
 artisbokep.*,artisbokep.online,artisbokep.site##.ab-top-video-banners
 sangetods.net##.active.adde_modal-overlay
 pemersatu.top##.ad
-asiasizzle.com,flickerlust.com,indoxxihot.com,markasfilmhot.com##.ad-banner
+asiasizzle.com,csnbiru.blog,flickerlust.com,indoxxihot.com,markasfilmhot.com##.ad-banner
+csnbiru.blog##.ad-click-area
 pemersatu.*##.ad-container
 sangetods.net##.adde_modal_detector-show.adde_modal_detector
 mediahiburan.my##.adplaceholder-mrec
@@ -9839,6 +9841,7 @@ buahmangga.com,gocrot.me,gocrot.org,semprot.com##.popup-cr7
 tantecentil.fans##.popup-overlay
 bokepindo.*##.pos-bottom.widget-float
 bokepindo.*##.pos-top.widget-float
+csnbiru.blog##.preroll-ad-container
 sangevip.com##.promo-banner
 indo18plus.com##.promo-videos
 xbokepin.*##.rbdb-overlay
@@ -9849,12 +9852,14 @@ dicrotin.*,nokephub.*##.sgpb-popup-overlay
 nomat.site##.show.popup
 javsubid.sx##.sidebar-ads
 podjav.tv##.sidebar-box:has(> div[data-banner-id])
+csnbiru.blog##.skip-ad-btn
 kiyowo.sbs,lendirpedia.*,pascol.*,pascol.com,sintube.icu##.teaser3
 komikdewasa.*##.teaser4
 artisbokep.*,artisbokep.online,artisbokep.site##.top-banner
 dicrotin.fun,indoxes.wisatabkpindo.com##.video-block-happy
 dicrotin.fun##.video-block-happy-absolute
 realthaisluts.com##.video-list-ads
+csnbiru.blog##.video-wrapper iframe:style(display: block !important;)
 semprot.com##.warning_iklan
 bokepvir.*##.widget_block.widget
 komikdewasa.art##.wp-image-80765.size-full.alignnone
@@ -9924,6 +9929,7 @@ kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
 ||asiapoker777.com^$third-party
 ||astonwin.org^$popup
 ||auredzetw.com^$third-party
+||autocst.site^$third-party
 ||axes88.org^$third-party
 ||bandarjuditogel.com^$third-party
 ||baron777premium.com^$popup
@@ -10019,6 +10025,7 @@ kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
 ||mistertogel.com^$third-party
 ||mitrapoker.com^$third-party
 ||mobilepokerclub.com^$third-party
+||movd21.com^$third-party
 ||muchospoker.com^$third-party
 ||nag303.xyz^$third-party
 ||naga-poker.com^$third-party

@@ -1,7 +1,7 @@
-# Version: 202608012156
+# Version: 202608012228
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 01 Aug 2026 21:56 UTC
+# Last modified: 01 Aug 2026 22:28 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -199,6 +199,7 @@ arenajudi.com CNAME .
 asiapoker777.com CNAME .
 astonwin.org CNAME .
 auredzetw.com CNAME .
+autocst.site CNAME .
 axes88.org CNAME .
 bandarjuditogel.com CNAME .
 baron777premium.com CNAME .
@@ -292,6 +293,7 @@ misterindo.net CNAME .
 mistertogel.com CNAME .
 mitrapoker.com CNAME .
 mobilepokerclub.com CNAME .
+movd21.com CNAME .
 muchospoker.com CNAME .
 nag303.xyz CNAME .
 naga-poker.com CNAME .
