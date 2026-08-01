@@ -1290,3 +1290,6 @@ mekanika.com.my##.has-header-below-ad
 mekanika.com.my##[class*="aa-prefix-mekan"]
 
 pandulaju.com.my##.ad_container
+
+thesmartlocal.my##.ads
+thesmartlocal.my##.ads-wrapper
