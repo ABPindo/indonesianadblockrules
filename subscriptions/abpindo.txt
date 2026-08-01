@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202608010912
+! Version: 202608012156
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Aug 2026 09:12 UTC
+! Last modified: 01 Aug 2026 21:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9809,9 +9809,9 @@ rumahparaperjaka.*,rumahperjaka.*##.elementor-popup-modal
 semprot.com,semprotku.com##.f_floating_div_row.f_floating_div
 pinayflex.net##.floating-banner
 indoporn.pro##.full-brkas-container
-dewaporn.*,lendirqu.*,video.pejuanglendir.site##.happy-header
+becekku.com,dewaporn.*,lendirqu.*,video.pejuanglendir.site##.happy-header
 dewaporn.*##.happy-header > [href] > .loading
-video.pejuanglendir.site##.happy-header-mobile
+becekku.com,video.pejuanglendir.site##.happy-header-mobile
 dicrotin.fun##.happy-section
 dewaporn.*,video.pejuanglendir.site##.happy-sidebar
 video.pejuanglendir.site##.happy-under-player
@@ -9893,6 +9893,7 @@ indobokepin.com##iframe[src*="dooods.pro/ads_banner"]
 semprot.com##img[data-ad]
 kingbokep.*##img[src*=".gif"]:not(div[class*="video"] > img)
 kingbokep.*##img[src*=".webp"]:not(div[class*="video"] > img)
+becekku.com##img[src*="blogger.googleusercontent.com"][src$=".gif"]
 doujin.desu.xxx,igo.desu.xxx##img[src*="pic.desu.xxx/content/banner/"]
 igo.desu.xxx##overplay
 semprot.com##semprotnenenmontok_f
@@ -9969,7 +9970,9 @@ kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
 ||everypoker.com^$third-party
 ||feltpoker.com^$third-party
 ||file-assist.xuzor.com^$third-party
+||gembul.xyz^$third-party
 ||gentingpoker.com^$third-party
+||glamorous-gate.com^$third-party
 ||goldentigerpoker.com^$third-party
 ||goldentoto.com^$third-party
 ||goldtoto.com^$third-party
@@ -9978,6 +9981,7 @@ kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
 ||homepokergames.com^$third-party
 ||hotpokerbonus.com^$third-party
 ||houseoftoto.com^$third-party
+||infamous-maximum.com^$third-party
 ||infopojokbet.store^$third-party
 ||inipoker.com^$third-party
 ||investopedia.today^
@@ -10105,6 +10109,7 @@ kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
 ||taruhanbetting.com^$third-party
 ||taruhancasino.com^$third-party
 ||taruhanku.com^$third-party
+||teeming-comfortable.com^$third-party
 ||temannonton.store^$third-party
 ||texaspokercc.com^$third-party
 ||theedgepoker.com^$third-party
@@ -10144,6 +10149,7 @@ kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
 ||whelmlegge.com^$third-party
 ||wigobet.com^$third-party
 ||win25keren.store^$third-party
+||wprediscache.com^$third-party
 ||xjudi.com^$third-party
 ||yourpokercash.com^$third-party
 ||yu.befitkersey.com^$third-party

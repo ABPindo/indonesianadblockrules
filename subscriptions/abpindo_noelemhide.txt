@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202608010912
+! Version: 202608012156
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 01 Aug 2026 09:12 UTC
+! Last modified: 01 Aug 2026 21:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -4168,7 +4168,9 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||everypoker.com^$third-party
 ||feltpoker.com^$third-party
 ||file-assist.xuzor.com^$third-party
+||gembul.xyz^$third-party
 ||gentingpoker.com^$third-party
+||glamorous-gate.com^$third-party
 ||goldentigerpoker.com^$third-party
 ||goldentoto.com^$third-party
 ||goldtoto.com^$third-party
@@ -4177,6 +4179,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||homepokergames.com^$third-party
 ||hotpokerbonus.com^$third-party
 ||houseoftoto.com^$third-party
+||infamous-maximum.com^$third-party
 ||infopojokbet.store^$third-party
 ||inipoker.com^$third-party
 ||investopedia.today^
@@ -4304,6 +4307,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||taruhanbetting.com^$third-party
 ||taruhancasino.com^$third-party
 ||taruhanku.com^$third-party
+||teeming-comfortable.com^$third-party
 ||temannonton.store^$third-party
 ||texaspokercc.com^$third-party
 ||theedgepoker.com^$third-party
@@ -4343,6 +4347,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||whelmlegge.com^$third-party
 ||wigobet.com^$third-party
 ||win25keren.store^$third-party
+||wprediscache.com^$third-party
 ||xjudi.com^$third-party
 ||yourpokercash.com^$third-party
 ||yu.befitkersey.com^$third-party

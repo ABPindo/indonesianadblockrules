@@ -1,7 +1,7 @@
-# Version: 202608010912
+# Version: 202608012156
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 01 Aug 2026 09:12 UTC
+# Last modified: 01 Aug 2026 21:56 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -244,7 +244,9 @@ local-zone: "europoker.com" always_nxdomain
 local-zone: "everypoker.com" always_nxdomain
 local-zone: "feltpoker.com" always_nxdomain
 local-zone: "file-assist.xuzor.com" always_nxdomain
+local-zone: "gembul.xyz" always_nxdomain
 local-zone: "gentingpoker.com" always_nxdomain
+local-zone: "glamorous-gate.com" always_nxdomain
 local-zone: "goldentigerpoker.com" always_nxdomain
 local-zone: "goldentoto.com" always_nxdomain
 local-zone: "goldtoto.com" always_nxdomain
@@ -253,6 +255,7 @@ local-zone: "hokitogel.com" always_nxdomain
 local-zone: "homepokergames.com" always_nxdomain
 local-zone: "hotpokerbonus.com" always_nxdomain
 local-zone: "houseoftoto.com" always_nxdomain
+local-zone: "infamous-maximum.com" always_nxdomain
 local-zone: "infopojokbet.store" always_nxdomain
 local-zone: "inipoker.com" always_nxdomain
 local-zone: "investopedia.today" always_nxdomain
@@ -379,6 +382,7 @@ local-zone: "tangkas99.com" always_nxdomain
 local-zone: "taruhanbetting.com" always_nxdomain
 local-zone: "taruhancasino.com" always_nxdomain
 local-zone: "taruhanku.com" always_nxdomain
+local-zone: "teeming-comfortable.com" always_nxdomain
 local-zone: "temannonton.store" always_nxdomain
 local-zone: "texaspokercc.com" always_nxdomain
 local-zone: "theedgepoker.com" always_nxdomain
@@ -418,6 +422,7 @@ local-zone: "websitejudi.com" always_nxdomain
 local-zone: "whelmlegge.com" always_nxdomain
 local-zone: "wigobet.com" always_nxdomain
 local-zone: "win25keren.store" always_nxdomain
+local-zone: "wprediscache.com" always_nxdomain
 local-zone: "xjudi.com" always_nxdomain
 local-zone: "yourpokercash.com" always_nxdomain
 local-zone: "yu.befitkersey.com" always_nxdomain

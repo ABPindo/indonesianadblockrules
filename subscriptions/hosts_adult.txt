@@ -1,7 +1,7 @@
-# Version: 202608010912
+# Version: 202608012156
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 01 Aug 2026 09:12 UTC
+# Last modified: 01 Aug 2026 21:56 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -244,7 +244,9 @@
 0.0.0.0 everypoker.com
 0.0.0.0 feltpoker.com
 0.0.0.0 file-assist.xuzor.com
+0.0.0.0 gembul.xyz
 0.0.0.0 gentingpoker.com
+0.0.0.0 glamorous-gate.com
 0.0.0.0 goldentigerpoker.com
 0.0.0.0 goldentoto.com
 0.0.0.0 goldtoto.com
@@ -253,6 +255,7 @@
 0.0.0.0 homepokergames.com
 0.0.0.0 hotpokerbonus.com
 0.0.0.0 houseoftoto.com
+0.0.0.0 infamous-maximum.com
 0.0.0.0 infopojokbet.store
 0.0.0.0 inipoker.com
 0.0.0.0 investopedia.today
@@ -379,6 +382,7 @@
 0.0.0.0 taruhanbetting.com
 0.0.0.0 taruhancasino.com
 0.0.0.0 taruhanku.com
+0.0.0.0 teeming-comfortable.com
 0.0.0.0 temannonton.store
 0.0.0.0 texaspokercc.com
 0.0.0.0 theedgepoker.com
@@ -418,6 +422,7 @@
 0.0.0.0 whelmlegge.com
 0.0.0.0 wigobet.com
 0.0.0.0 win25keren.store
+0.0.0.0 wprediscache.com
 0.0.0.0 xjudi.com
 0.0.0.0 yourpokercash.com
 0.0.0.0 yu.befitkersey.com

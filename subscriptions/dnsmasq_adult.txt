@@ -1,7 +1,7 @@
-# Version: 202608010912
+# Version: 202608012156
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 01 Aug 2026 09:12 UTC
+# Last modified: 01 Aug 2026 21:56 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -244,7 +244,9 @@ address=/europoker.com/0.0.0.0
 address=/everypoker.com/0.0.0.0
 address=/feltpoker.com/0.0.0.0
 address=/file-assist.xuzor.com/0.0.0.0
+address=/gembul.xyz/0.0.0.0
 address=/gentingpoker.com/0.0.0.0
+address=/glamorous-gate.com/0.0.0.0
 address=/goldentigerpoker.com/0.0.0.0
 address=/goldentoto.com/0.0.0.0
 address=/goldtoto.com/0.0.0.0
@@ -253,6 +255,7 @@ address=/hokitogel.com/0.0.0.0
 address=/homepokergames.com/0.0.0.0
 address=/hotpokerbonus.com/0.0.0.0
 address=/houseoftoto.com/0.0.0.0
+address=/infamous-maximum.com/0.0.0.0
 address=/infopojokbet.store/0.0.0.0
 address=/inipoker.com/0.0.0.0
 address=/investopedia.today/0.0.0.0
@@ -379,6 +382,7 @@ address=/tangkas99.com/0.0.0.0
 address=/taruhanbetting.com/0.0.0.0
 address=/taruhancasino.com/0.0.0.0
 address=/taruhanku.com/0.0.0.0
+address=/teeming-comfortable.com/0.0.0.0
 address=/temannonton.store/0.0.0.0
 address=/texaspokercc.com/0.0.0.0
 address=/theedgepoker.com/0.0.0.0
@@ -418,6 +422,7 @@ address=/websitejudi.com/0.0.0.0
 address=/whelmlegge.com/0.0.0.0
 address=/wigobet.com/0.0.0.0
 address=/win25keren.store/0.0.0.0
+address=/wprediscache.com/0.0.0.0
 address=/xjudi.com/0.0.0.0
 address=/yourpokercash.com/0.0.0.0
 address=/yu.befitkersey.com/0.0.0.0

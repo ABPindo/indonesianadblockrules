@@ -1,7 +1,7 @@
-# Version: 202608010912
+# Version: 202608012156
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 01 Aug 2026 09:12 UTC
+# Last modified: 01 Aug 2026 21:56 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -244,7 +244,9 @@ europoker.com CNAME .
 everypoker.com CNAME .
 feltpoker.com CNAME .
 file-assist.xuzor.com CNAME .
+gembul.xyz CNAME .
 gentingpoker.com CNAME .
+glamorous-gate.com CNAME .
 goldentigerpoker.com CNAME .
 goldentoto.com CNAME .
 goldtoto.com CNAME .
@@ -253,6 +255,7 @@ hokitogel.com CNAME .
 homepokergames.com CNAME .
 hotpokerbonus.com CNAME .
 houseoftoto.com CNAME .
+infamous-maximum.com CNAME .
 infopojokbet.store CNAME .
 inipoker.com CNAME .
 investopedia.today CNAME .
@@ -379,6 +382,7 @@ tangkas99.com CNAME .
 taruhanbetting.com CNAME .
 taruhancasino.com CNAME .
 taruhanku.com CNAME .
+teeming-comfortable.com CNAME .
 temannonton.store CNAME .
 texaspokercc.com CNAME .
 theedgepoker.com CNAME .
@@ -418,6 +422,7 @@ websitejudi.com CNAME .
 whelmlegge.com CNAME .
 wigobet.com CNAME .
 win25keren.store CNAME .
+wprediscache.com CNAME .
 xjudi.com CNAME .
 yourpokercash.com CNAME .
 yu.befitkersey.com CNAME .
