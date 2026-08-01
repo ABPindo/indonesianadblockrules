@@ -1293,3 +1293,7 @@ pandulaju.com.my##.ad_container
 
 thesmartlocal.my##.ads
 thesmartlocal.my##.ads-wrapper
+
+thevocket.com##.billboard-wrap
+thevocket.com##.mid-megaboard
+thevocket.com##[data-ad-label]
