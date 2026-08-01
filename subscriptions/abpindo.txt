@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202608010142
+! Version: 202608010855
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Aug 2026 01:42 UTC
+! Last modified: 01 Aug 2026 08:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -493,6 +493,7 @@ katadata.co.id##+js(rmnt, script, modalAdsPopup)
 kisahterlarang.site,layarwibu.com,sukasex.net,sukasex.tv##+js(rmnt, script, popupUrl)
 gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 carisinyal.com##+js(rmnt, script, showModal)
+vicek.id##+js(set, VK_DIRECT_AD, undefined)
 sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
 ! --- network rules with redirect/redirect-rule/to --------------------------- !
