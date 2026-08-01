@@ -185,3 +185,7 @@ komikpoi.com##body:style(overflow: auto !important;)
 
 indoporntube.com##div[class*="backdrop-blur-sm"]
 indoporntube.com##svg.lucide-shield-alert
+
+becekku.com##.happy-header
+becekku.com##.happy-header-mobile
+becekku.com##img[src*="blogger.googleusercontent.com"][src$=".gif"]
