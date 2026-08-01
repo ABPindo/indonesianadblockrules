@@ -1,7 +1,7 @@
-# Version: 202608012228
+# Version: 202608012316
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 01 Aug 2026 22:28 UTC
+# Last modified: 01 Aug 2026 23:16 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -139,6 +139,7 @@ local-zone: "bergurukecina.fun" always_nxdomain
 local-zone: "bisnis4d.bio" always_nxdomain
 local-zone: "c-stat.eu" always_nxdomain
 local-zone: "cdnfgo.xyz" always_nxdomain
+local-zone: "code.global.giraff.io" always_nxdomain
 local-zone: "enakslot.bio" always_nxdomain
 local-zone: "gaza-88.com" always_nxdomain
 local-zone: "goid.space" always_nxdomain
