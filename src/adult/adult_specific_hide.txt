@@ -182,3 +182,6 @@ i-jav.space##[href*="situsdepe4d"]
 i-jav.space##[href*="t.ly/depe4d"]
 
 komikpoi.com##body:style(overflow: auto !important;)
+
+indoporntube.com##div[class*="backdrop-blur-sm"]
+indoporntube.com##svg.lucide-shield-alert
