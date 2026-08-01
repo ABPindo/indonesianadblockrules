@@ -189,3 +189,11 @@ indoporntube.com##svg.lucide-shield-alert
 becekku.com##.happy-header
 becekku.com##.happy-header-mobile
 becekku.com##img[src*="blogger.googleusercontent.com"][src$=".gif"]
+
+csnbiru.blog##.preroll-ad-container
+csnbiru.blog##.skip-ad-btn
+csnbiru.blog##.ad-click-area
+csnbiru.blog###ext-link-btn
+csnbiru.blog##.video-wrapper iframe:style(display: block !important;)
+csnbiru.blog##.ad-banner
+
