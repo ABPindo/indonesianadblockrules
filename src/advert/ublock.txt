@@ -42,6 +42,7 @@ gramedia.com##+js(rmnt, script, replaceState, condition, shope.ee)
 carisinyal.com##+js(rmnt, script, showModal)
 sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
+vicek.id##+js(set, VK_DIRECT_AD, undefined)
 ! --- network rules with redirect/redirect-rule/to --------------------------- !
 /wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
 ||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
@@ -54,4 +55,3 @@ sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 pemersatu.*##+js(aopw, document.body.innerHTML)
 
 i-jav.space##+js(aopw, document.body.innerHTML)
-
