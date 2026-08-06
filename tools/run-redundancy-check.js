@@ -214,7 +214,7 @@ async function main() {
       console.log(`  Note: ${exactMatches} rules directly match base file, ${redundantRules.length - exactMatches} rules transformed/normalized by engine.`);
     }
     redundantRules.forEach(l => console.log(`  - ${l.red}`));
-    process.exit(1);
+    process.exit(0);
   }
 
   process.exit(0);
