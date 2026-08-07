@@ -15,7 +15,6 @@ on:
 
 permissions:
   contents: read
-  pull-requests: write
 
 jobs:
   benchmark:
@@ -212,21 +211,6 @@ jobs:
           # Allowlist (@@)
           allowlist=$(grep -rh '^@@' src/ | wc -l)
           echo "- **Allowlist** (\`@@\`): $allowlist" >> metrics.md
-
-      - name: Post to PR comment
-        if: github.event_name == 'pull_request'
-        uses: actions/github-script@v9
-        with:
-          script: |
-            const fs = require('fs');
-            const metrics = fs.readFileSync('metrics.md', 'utf8');
-            
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: metrics
-            });
 
       - name: Post to step summary
         if: always()
