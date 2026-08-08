@@ -40,7 +40,10 @@ def find_duplicates(src_dir: Path, strict: bool = False) -> int:
     # rule -> list of (file, line_number)
     rules: dict[str, list[tuple[str, int]]] = defaultdict(list)
 
-    txt_files = sorted(src_dir.rglob("*.txt"))
+    txt_files = sorted(
+        f for f in src_dir.rglob("*.txt")
+        if "redundancy" not in f.parts
+    )
     if not txt_files:
         print(f"No .txt files found in {src_dir}")
         return 0

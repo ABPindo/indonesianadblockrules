@@ -44,7 +44,7 @@ jobs:
           total_rules=0
           total_size=0
           
-          for file in src/**/*.txt; do
+          for file in $(find src/ -name '*.txt' -not -path '*/redundancy/*' | sort); do
             if [ -f "$file" ]; then
               # Count non-comment, non-empty lines
               rules=$(grep -v '^[[:space:]]*$' "$file" | grep -v '^[[:space:]]*!' | wc -l)
@@ -75,7 +75,7 @@ jobs:
           baseline_rules=0
           baseline_size=0
           
-          for file in src/**/*.txt; do
+          for file in $(find src/ -name '*.txt' -not -path '*/redundancy/*' | sort); do
             if [ -f "$file" ]; then
               rules=$(grep -v '^[[:space:]]*$' "$file" | grep -v '^[[:space:]]*!' | wc -l)
               size=$(du -k "$file" | cut -f1)
@@ -189,27 +189,27 @@ jobs:
           echo "" >> metrics.md
           
           # Network blocks (||domain^)
-          network=$(grep -rh '^\|\|' src/ | wc -l)
+          network=$(grep -rh '^\|\|' src/ --exclude-dir=redundancy | wc -l)
           echo "- **Network blocks** (\`||domain^\`): $network" >> metrics.md
           
           # Element hiding (##)
-          elemhide=$(grep -rh '^[^!].*##[^#^+]' src/ | wc -l)
+          elemhide=$(grep -rh '^[^!].*##[^#^+]' src/ --exclude-dir=redundancy | wc -l)
           echo "- **Element hiding** (\`##\`): $elemhide" >> metrics.md
           
           # Extended CSS (#?#)
-          extcss=$(grep -rh '#?#' src/ | wc -l)
+          extcss=$(grep -rh '#?#' src/ --exclude-dir=redundancy | wc -l)
           echo "- **Extended CSS** (\`#?#\`): $extcss" >> metrics.md
           
           # Scriptlets (##+js)
-          scriptlets=$(grep -rh '##\+js' src/ | wc -l)
+          scriptlets=$(grep -rh '##\+js' src/ --exclude-dir=redundancy | wc -l)
           echo "- **Scriptlets** (\`##+js\`): $scriptlets" >> metrics.md
           
           # HTML filters (##^)
-          html=$(grep -rh '##\^' src/ | wc -l)
+          html=$(grep -rh '##\^' src/ --exclude-dir=redundancy | wc -l)
           echo "- **HTML filters** (\`##^\`): $html" >> metrics.md
           
           # Allowlist (@@)
-          allowlist=$(grep -rh '^@@' src/ | wc -l)
+          allowlist=$(grep -rh '^@@' src/ --exclude-dir=redundancy | wc -l)
           echo "- **Allowlist** (\`@@\`): $allowlist" >> metrics.md
 
       - name: Post to step summary
