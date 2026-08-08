@@ -1,0 +1,39 @@
+kompas.id##.items-center.justify-center.flex.relative.w-full.lg\:min-h-\[132px\].min-h-\[92px\]
+    redundant with:
+    kompas.id##.flex.items-center.justify-center.w-full.relative
+
+kompas.id##.w-full.relative.z-0.flex.flex-1.flex-col.items-stretch.max-w-\[300px\].min-h-\[250px\]
+    redundant with:
+    kompas.id##.items-stretch.flex-col.flex-1.flex.z-0.relative.w-full
+
+kompas.id##.w-full.relative.z-0.flex.flex-1.flex-col.items-stretch.max-w-\[320px\].min-h-\[100px\]
+    redundant with:
+    kompas.id##.items-stretch.flex-col.flex-1.flex.z-0.relative.w-full
+
+kumparan.com#?#[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
+    redundant with:
+    kumparan.com##[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
+
+narasi.tv##.max-xl\:hidden.top-24.left-0.fixed.z-10
+    redundant with:
+    narasi.tv##.max-xl\:hidden.top-24.fixed.z-10
+
+||glamorous-gate.com^$third-party
+    redundant with:
+    ||glamorous-gate.com^
+
+||googlesyndication.com/pagead/js/adsbygoogle.js$redirect-rule=noop.js,script,domain=nekopoi.care
+    redundant with:
+    ||googlesyndication.com/pagead/
+
+||googlesyndication.com/pagead/js/adsbygoogle.js$rewrite=abp-resource:blank-js,script,domain=nekopoi.care
+    redundant with:
+    ||googlesyndication.com/pagead/
+
+||mayzaent.com^$third-party
+    redundant with:
+    ||mayzaent.com^
+
+||teeming-comfortable.com^$third-party
+    redundant with:
+    ||teeming-comfortable.com^

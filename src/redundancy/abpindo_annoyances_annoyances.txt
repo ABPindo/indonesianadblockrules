@@ -1,0 +1,7 @@
+kompas.id##.z-20.w-full.bottom-0.fixed
+    redundant with:
+    kompas.id,letsdatascience.com##.bottom-0
+
+sasa.co.id##.cookie_consent
+    redundant with:
+    autopilot.ru,kommersant.ru,myweekend.ru,sasa.co.id##.cookie_consent
