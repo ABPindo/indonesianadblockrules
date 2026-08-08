@@ -1307,3 +1307,5 @@ delikasia.com##.side_float
 olx.co.id##li[data-test-id="native-ad-results-middle"]
 olx.co.id##[data-aut-id="bannerBooking"]
 olx.co.id##[data-aut-id="staticBannerSrpList"]
+
+metrotvnews.com###popup-ads
