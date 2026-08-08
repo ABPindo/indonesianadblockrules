@@ -10,11 +10,9 @@
   },
   "license": "GPL-3.0-or-later",
   "overrides": {
-    "@adguard/scriptlets": {
-      "js-yaml": "3.15.0"
-    },
+    "js-yaml": "5.2.3",
     "minimatch": {
-      "brace-expansion": "2.1.2"
+      "brace-expansion": "2.1.4"
     }
   },
   "devDependencies": {
