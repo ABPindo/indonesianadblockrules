@@ -1,7 +1,6 @@
 ! ABP-specific filters
 cari.com.my#?#center:has-text(ADVERTISEMENT)
 cloud.majalahhewan.com#?#span:has-text(Advertisement)
-kumparan.com#?#[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
 tokopedia.com#?#.product-card:has(span:has-text(/^Ad$/))
 tokopedia.com#?#div[data-testid="divCarouselProduct"]:has(span:has-text(/^Ad$/))
 tokopedia.com#?#div[data-testid="lazy-frame"]:has(span:has-text(/^Ad$/))
@@ -774,7 +773,6 @@ elshinta.com##.inside-post-ad
 mydramalist.com##.is-mrtmt2522.mrtmf2522
 tafsirweb.com##.is-resized.size-large.aligncenter
 mydramalist.com##.is-zmqft2522.zmqff2522
-kompas.id##.items-center.justify-center.flex.relative.w-full.lg\:min-h-\[132px\].min-h-\[92px\]
 kompas.id##.items-stretch.flex-col.flex-1.flex.z-0.relative.w-full
 gridoto.com##.js-ads-stick
 motorplus-online.com,sonora.id##.js-tower-sticky.clearfix.kcm__tower.kcm
@@ -830,7 +828,6 @@ mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
 merdeka.com##.masthead
 narasi.tv##.max-xl\:hidden.top-24.fixed.z-10
-narasi.tv##.max-xl\:hidden.top-24.left-0.fixed.z-10
 narasi.tv##.mb-4.bg-\[\#e3e3e3\]
 inibaru.id##.mb-4.bg-grey.text-center
 insertlive.com##.mb-6.lg\:top-\[76px\].sm\:top-\[90px\].sticky > center
@@ -1026,8 +1023,6 @@ mydramalist.com##.vip-info
 bacasaja.id##.w-100.gbrNews
 marketeers.com##.w-\[300px\]
 kompas.id##.w-full.hidden.lg\:flex.bg-grey-10.justify-center.py-3
-kompas.id##.w-full.relative.z-0.flex.flex-1.flex-col.items-stretch.max-w-\[300px\].min-h-\[250px\]
-kompas.id##.w-full.relative.z-0.flex.flex-1.flex-col.items-stretch.max-w-\[320px\].min-h-\[100px\]
 sindonews.com##.warp-ads-paralax
 teknologi.inilah.com##.wb-300x250
 medcom.id##.widebanner.banner

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202608081435
+! Version: 202608091303
 ! Title: ABPindo - Annoyances
 ! Description: Suplemen EasyList Annoyances — elemen UI lokal Indonesia/Malaysia yang mengganggu seperti popup/overlay non iklan atau pemutar video otomatis.
-! Last modified: 08 Aug 2026 14:35 UTC
+! Last modified: 09 Aug 2026 13:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -40,7 +40,6 @@ bloombergtechnoz.com##.centering
 republika.co.id##.container.row
 borneotrend.com##.cookie-consent
 theasianparent.com##.cookie-widget
-sasa.co.id##.cookie_consent
 yummy.co.id##.css-15k19pw.chakra-button
 popmama.com##.css-1rywi60
 yummy.co.id##.css-1yxywc5
@@ -93,7 +92,6 @@ suara.com##.tap-banner
 tribunnews.com##.tapp-banner
 quran.nu.or.id##.w-full.relative
 inews.id##.widgetNewsTV__news24Jam
-kompas.id##.z-20.w-full.bottom-0.fixed
 timetoday.id##body:style(overflow: auto !important;)
 kumparan.com##button[data-qa-id="close"]
 bloombergtechnoz.com##div:nth-of-type(5)

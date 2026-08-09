@@ -26,7 +26,6 @@ bloombergtechnoz.com##.centering
 republika.co.id##.container.row
 borneotrend.com##.cookie-consent
 theasianparent.com##.cookie-widget
-sasa.co.id##.cookie_consent
 yummy.co.id##.css-15k19pw.chakra-button
 popmama.com##.css-1rywi60
 yummy.co.id##.css-1yxywc5
@@ -79,7 +78,6 @@ suara.com##.tap-banner
 tribunnews.com##.tapp-banner
 quran.nu.or.id##.w-full.relative
 inews.id##.widgetNewsTV__news24Jam
-kompas.id##.z-20.w-full.bottom-0.fixed
 timetoday.id##body:style(overflow: auto !important;)
 kumparan.com##button[data-qa-id="close"]
 bloombergtechnoz.com##div:nth-of-type(5)
