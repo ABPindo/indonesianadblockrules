@@ -197,3 +197,7 @@ csnbiru.blog###ext-link-btn
 csnbiru.blog##.video-wrapper iframe:style(display: block !important;)
 csnbiru.blog##.ad-banner
 
+
+# ayojatim.com - adsbygoogle (AdSense)
+ayojatim.com##.adsbygoogle
+ayojatim.com##div[class*="adsbygoogle"]
