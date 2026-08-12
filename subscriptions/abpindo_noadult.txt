@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202608091330
+! Version: 202608121240
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 09 Aug 2026 13:30 UTC
+! Last modified: 12 Aug 2026 12:40 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -465,6 +465,7 @@ lk21semi.*##+js(acs, chp_ads_blocker_detector)
 kuyhaa.me##+js(acs, document.addEventListener, window.open)
 doroni.me##+js(acs, getComputedStyle, , cpm)
 info.vebma.com##+js(aeld, click, linkOpened)
+websitebokep.com##+js(aeld, click, player.seeking)
 komikdewasa.art##+js(aeld, click, tampilkanUrl)
 moutogami.com##+js(aeld, load, /adblock/i)
 juraganfilm.ink##+js(aopr, $.magnificPopup.open)
@@ -1005,7 +1006,7 @@ suara.com##.cstm_promo_aside
 bolatimes.com,guideku.com,matamata.com##.detail-content > div
 hitekno.com##.footer-ads__container
 harianesia.com##.gmr-banner-stickyright
-bekasisatu.com,dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com,rilpolitik.com##.gmr-floatbanner
+ayojatim.com,bekasisatu.com,dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com,rilpolitik.com##.gmr-floatbanner
 dteksinews.co.id,harianesia.com,rilpolitik.com##.gmr-topbanner
 delik.tv##.gpt-ad-inner
 suara.com##.mgidwidget
