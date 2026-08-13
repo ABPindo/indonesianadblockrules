@@ -117,3 +117,6 @@
 ||villainoussession.com^$popup
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
+
+||a.magsrv.com^$third-party
+||poweredby.jads.co^$third-party

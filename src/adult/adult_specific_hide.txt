@@ -213,3 +213,8 @@ pemersatufun.com##[data-age-adblock-link]
 kebokepanku.com##div[id^="floatads"]
 kebokepanku.com###close-floatadsbawah
 kebokepanku.com##a[id="tracking-url"][target="_blank"]
+
+! video.pemersatu.org - anti-adblock ad-gate (Monetag/magsrv + jads.co)
+video.pemersatu.org##.pmt-ad-gate
+video.pemersatu.org##[class*="pmt-ad-gate"]
+video.pemersatu.org##.adsbygoogle
