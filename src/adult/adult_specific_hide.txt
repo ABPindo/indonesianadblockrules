@@ -201,3 +201,10 @@ csnbiru.blog##.ad-banner
 # ayojatim.com - adsbygoogle (AdSense)
 ayojatim.com##.adsbygoogle
 ayojatim.com##div[class*="adsbygoogle"]
+
+# pemersatufun.com - anti-adblock age gate (Monetag/magsrv)
+pemersatufun.com##.age-gate-ad-status
+pemersatufun.com##[data-age-accept]
+pemersatufun.com##[class*="age-gate"]
+pemersatufun.com##[class*="age-gate-adblock"]
+pemersatufun.com##[data-age-adblock-link]
