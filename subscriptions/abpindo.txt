@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202608121240
+! Version: 202608131252
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 12 Aug 2026 12:40 UTC
+! Last modified: 13 Aug 2026 12:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9793,6 +9793,7 @@ terviral.cam###lin-floating-ad
 rumahparaperjaka.*###modal
 bokep.pemersatu.top,pemersatufun.*###myDiv
 minioppai.org###overplay
+#pemersatufun.com-anti-adblockagegate(Monetag/magsrv)
 iyottube.co,iyottube.com###playerOverlay
 javbabe.net,nekopoi.*###popup
 asiasizzle.com,flickerlust.com,indoxxihot.com,markasfilmhot.com###popup-banner-overlay
@@ -9822,6 +9823,7 @@ videocrot.*##.ads-720
 ayojatim.com##.adsbygoogle
 nekopoi.care##.adsgen
 lkprd.fun,lkprd.site##.adshu
+pemersatufun.com##.age-gate-ad-status
 pascol.*,sintube.*##.ays-pb-modals
 i-jav.space##.banner
 podjav.tv##.banner-ads
@@ -9894,6 +9896,10 @@ csnbiru.blog##.video-wrapper iframe:style(display: block !important;)
 semprot.com##.warning_iklan
 bokepvir.*##.widget_block.widget
 komikdewasa.art##.wp-image-80765.size-full.alignnone
+pemersatufun.com##[class*="age-gate"]
+pemersatufun.com##[class*="age-gate-adblock"]
+pemersatufun.com##[data-age-accept]
+pemersatufun.com##[data-age-adblock-link]
 kingbokep.*##[data-dgazzbdbfcbzagfz]
 i-jav.space##[href*="situsdepe4d"]
 i-jav.space##[href*="t.ly/depe4d"]
