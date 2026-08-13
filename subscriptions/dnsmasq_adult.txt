@@ -1,7 +1,7 @@
-# Version: 202608131252
+# Version: 202608131324
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Aug 2026 12:52 UTC
+# Last modified: 13 Aug 2026 13:24 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -179,6 +179,7 @@ address=/ufo777link.com/0.0.0.0
 address=/vm.ydstinkle.com/0.0.0.0
 address=/wg87vip.bet/0.0.0.0
 # *** abpindo:src/adult/adult_thirdparty.txt ***
+#putarvid.com/kebokepanku.com-popMagic/ExoClickpopup/popunderdomains
 address=/32redpoker.com/0.0.0.0
 address=/4vbbb.com/0.0.0.0
 address=/88togel.com/0.0.0.0
@@ -202,6 +203,7 @@ address=/astonwin.org/0.0.0.0
 address=/auredzetw.com/0.0.0.0
 address=/autocst.site/0.0.0.0
 address=/axes88.org/0.0.0.0
+address=/badylenicesist.com/0.0.0.0
 address=/bandarjuditogel.com/0.0.0.0
 address=/baron777premium.com/0.0.0.0
 address=/bbm88.org/0.0.0.0
@@ -244,6 +246,10 @@ address=/dwagg.me/0.0.0.0
 address=/emputogel.com/0.0.0.0
 address=/europoker.com/0.0.0.0
 address=/everypoker.com/0.0.0.0
+address=/exacdn.com/0.0.0.0
+address=/exdynsrv.com/0.0.0.0
+address=/exoclick.com/0.0.0.0
+address=/exosrv.com/0.0.0.0
 address=/feltpoker.com/0.0.0.0
 address=/file-assist.xuzor.com/0.0.0.0
 address=/gembul.xyz/0.0.0.0
@@ -251,6 +257,7 @@ address=/gentingpoker.com/0.0.0.0
 address=/goldentigerpoker.com/0.0.0.0
 address=/goldentoto.com/0.0.0.0
 address=/goldtoto.com/0.0.0.0
+address=/histats.com/0.0.0.0
 address=/hokijudi99.com/0.0.0.0
 address=/hokitogel.com/0.0.0.0
 address=/homepokergames.com/0.0.0.0
@@ -274,6 +281,7 @@ address=/kedaijudi.com/0.0.0.0
 address=/kingtogel.com/0.0.0.0
 address=/launchpoker.com/0.0.0.0
 address=/lazacasino.com/0.0.0.0
+address=/letterrecoveryunplanted.com/0.0.0.0
 address=/linkjalur.vip/0.0.0.0
 address=/lockerimage.com/0.0.0.0
 address=/login.ashk7.com/0.0.0.0
@@ -307,8 +315,10 @@ address=/offwardscraps.com/0.0.0.0
 address=/online5poker.com/0.0.0.0
 address=/onlineactionpoker.com/0.0.0.0
 address=/onlinepoker66.com/0.0.0.0
+address=/opoxv.com/0.0.0.0
 address=/pacificpoker.com/0.0.0.0
 address=/pandujudionline.com/0.0.0.0
+address=/pemsrv.com/0.0.0.0
 address=/pkr-88.com/0.0.0.0
 address=/planettoto.com/0.0.0.0
 address=/playpokeronline.com/0.0.0.0
@@ -422,6 +432,7 @@ address=/websitejudi.com/0.0.0.0
 address=/whelmlegge.com/0.0.0.0
 address=/wigobet.com/0.0.0.0
 address=/win25keren.store/0.0.0.0
+address=/wpadmngr.com/0.0.0.0
 address=/wprediscache.com/0.0.0.0
 address=/xjudi.com/0.0.0.0
 address=/yourpokercash.com/0.0.0.0

@@ -1,7 +1,7 @@
-# Version: 202608131252
+# Version: 202608131324
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Aug 2026 12:52 UTC
+# Last modified: 13 Aug 2026 13:24 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -179,6 +179,7 @@
 ||vm.ydstinkle.com^
 ||wg87vip.bet^
 # *** abpindo:src/adult/adult_thirdparty.txt ***
+#putarvid.com/kebokepanku.com-popMagic/ExoClickpopup/popunderdomains
 ||32redpoker.com^
 ||4vbbb.com^
 ||88togel.com^
@@ -202,6 +203,7 @@
 ||auredzetw.com^
 ||autocst.site^
 ||axes88.org^
+||badylenicesist.com^
 ||bandarjuditogel.com^
 ||baron777premium.com^
 ||bbm88.org^
@@ -244,6 +246,10 @@
 ||emputogel.com^
 ||europoker.com^
 ||everypoker.com^
+||exacdn.com^
+||exdynsrv.com^
+||exoclick.com^
+||exosrv.com^
 ||feltpoker.com^
 ||file-assist.xuzor.com^
 ||gembul.xyz^
@@ -251,6 +257,7 @@
 ||goldentigerpoker.com^
 ||goldentoto.com^
 ||goldtoto.com^
+||histats.com^
 ||hokijudi99.com^
 ||hokitogel.com^
 ||homepokergames.com^
@@ -274,6 +281,7 @@
 ||kingtogel.com^
 ||launchpoker.com^
 ||lazacasino.com^
+||letterrecoveryunplanted.com^
 ||linkjalur.vip^
 ||lockerimage.com^
 ||login.ashk7.com^
@@ -307,8 +315,10 @@
 ||online5poker.com^
 ||onlineactionpoker.com^
 ||onlinepoker66.com^
+||opoxv.com^
 ||pacificpoker.com^
 ||pandujudionline.com^
+||pemsrv.com^
 ||pkr-88.com^
 ||planettoto.com^
 ||playpokeronline.com^
@@ -422,6 +432,7 @@
 ||whelmlegge.com^
 ||wigobet.com^
 ||win25keren.store^
+||wpadmngr.com^
 ||wprediscache.com^
 ||xjudi.com^
 ||yourpokercash.com^

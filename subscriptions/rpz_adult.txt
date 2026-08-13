@@ -1,7 +1,7 @@
-# Version: 202608131252
+# Version: 202608131324
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Aug 2026 12:52 UTC
+# Last modified: 13 Aug 2026 13:24 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -179,6 +179,7 @@ ufo777link.com CNAME .
 vm.ydstinkle.com CNAME .
 wg87vip.bet CNAME .
 # *** abpindo:src/adult/adult_thirdparty.txt ***
+#putarvid.com/kebokepanku.com-popMagic/ExoClickpopup/popunderdomains
 32redpoker.com CNAME .
 4vbbb.com CNAME .
 88togel.com CNAME .
@@ -202,6 +203,7 @@ astonwin.org CNAME .
 auredzetw.com CNAME .
 autocst.site CNAME .
 axes88.org CNAME .
+badylenicesist.com CNAME .
 bandarjuditogel.com CNAME .
 baron777premium.com CNAME .
 bbm88.org CNAME .
@@ -244,6 +246,10 @@ dwagg.me CNAME .
 emputogel.com CNAME .
 europoker.com CNAME .
 everypoker.com CNAME .
+exacdn.com CNAME .
+exdynsrv.com CNAME .
+exoclick.com CNAME .
+exosrv.com CNAME .
 feltpoker.com CNAME .
 file-assist.xuzor.com CNAME .
 gembul.xyz CNAME .
@@ -251,6 +257,7 @@ gentingpoker.com CNAME .
 goldentigerpoker.com CNAME .
 goldentoto.com CNAME .
 goldtoto.com CNAME .
+histats.com CNAME .
 hokijudi99.com CNAME .
 hokitogel.com CNAME .
 homepokergames.com CNAME .
@@ -274,6 +281,7 @@ kedaijudi.com CNAME .
 kingtogel.com CNAME .
 launchpoker.com CNAME .
 lazacasino.com CNAME .
+letterrecoveryunplanted.com CNAME .
 linkjalur.vip CNAME .
 lockerimage.com CNAME .
 login.ashk7.com CNAME .
@@ -307,8 +315,10 @@ offwardscraps.com CNAME .
 online5poker.com CNAME .
 onlineactionpoker.com CNAME .
 onlinepoker66.com CNAME .
+opoxv.com CNAME .
 pacificpoker.com CNAME .
 pandujudionline.com CNAME .
+pemsrv.com CNAME .
 pkr-88.com CNAME .
 planettoto.com CNAME .
 playpokeronline.com CNAME .
@@ -422,6 +432,7 @@ websitejudi.com CNAME .
 whelmlegge.com CNAME .
 wigobet.com CNAME .
 win25keren.store CNAME .
+wpadmngr.com CNAME .
 wprediscache.com CNAME .
 xjudi.com CNAME .
 yourpokercash.com CNAME .

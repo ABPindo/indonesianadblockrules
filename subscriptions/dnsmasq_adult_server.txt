@@ -1,7 +1,7 @@
-# Version: 202608131252
+# Version: 202608131324
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Aug 2026 12:52 UTC
+# Last modified: 13 Aug 2026 13:24 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -179,6 +179,7 @@ server=/ufo777link.com/
 server=/vm.ydstinkle.com/
 server=/wg87vip.bet/
 # *** abpindo:src/adult/adult_thirdparty.txt ***
+#putarvid.com/kebokepanku.com-popMagic/ExoClickpopup/popunderdomains
 server=/32redpoker.com/
 server=/4vbbb.com/
 server=/88togel.com/
@@ -202,6 +203,7 @@ server=/astonwin.org/
 server=/auredzetw.com/
 server=/autocst.site/
 server=/axes88.org/
+server=/badylenicesist.com/
 server=/bandarjuditogel.com/
 server=/baron777premium.com/
 server=/bbm88.org/
@@ -244,6 +246,10 @@ server=/dwagg.me/
 server=/emputogel.com/
 server=/europoker.com/
 server=/everypoker.com/
+server=/exacdn.com/
+server=/exdynsrv.com/
+server=/exoclick.com/
+server=/exosrv.com/
 server=/feltpoker.com/
 server=/file-assist.xuzor.com/
 server=/gembul.xyz/
@@ -251,6 +257,7 @@ server=/gentingpoker.com/
 server=/goldentigerpoker.com/
 server=/goldentoto.com/
 server=/goldtoto.com/
+server=/histats.com/
 server=/hokijudi99.com/
 server=/hokitogel.com/
 server=/homepokergames.com/
@@ -274,6 +281,7 @@ server=/kedaijudi.com/
 server=/kingtogel.com/
 server=/launchpoker.com/
 server=/lazacasino.com/
+server=/letterrecoveryunplanted.com/
 server=/linkjalur.vip/
 server=/lockerimage.com/
 server=/login.ashk7.com/
@@ -307,8 +315,10 @@ server=/offwardscraps.com/
 server=/online5poker.com/
 server=/onlineactionpoker.com/
 server=/onlinepoker66.com/
+server=/opoxv.com/
 server=/pacificpoker.com/
 server=/pandujudionline.com/
+server=/pemsrv.com/
 server=/pkr-88.com/
 server=/planettoto.com/
 server=/playpokeronline.com/
@@ -422,6 +432,7 @@ server=/websitejudi.com/
 server=/whelmlegge.com/
 server=/wigobet.com/
 server=/win25keren.store/
+server=/wpadmngr.com/
 server=/wprediscache.com/
 server=/xjudi.com/
 server=/yourpokercash.com/
