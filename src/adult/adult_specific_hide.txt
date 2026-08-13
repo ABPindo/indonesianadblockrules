@@ -208,3 +208,8 @@ pemersatufun.com##[data-age-accept]
 pemersatufun.com##[class*="age-gate"]
 pemersatufun.com##[class*="age-gate-adblock"]
 pemersatufun.com##[data-age-adblock-link]
+
+# kebokepanku.com - floating ad banner at bottom of video player
+kebokepanku.com##div[id^="floatads"]
+kebokepanku.com###close-floatadsbawah
+kebokepanku.com##a[id="tracking-url"][target="_blank"]

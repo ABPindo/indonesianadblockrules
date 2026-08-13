@@ -258,3 +258,15 @@
 ||autocst.site^$third-party
 ||movd21.com^$third-party
 
+# putarvid.com / kebokepanku.com - popMagic/ExoClick popup/popunder domains
+||exdynsrv.com^$third-party
+||exosrv.com^$third-party
+||exoclick.com^$third-party
+||opoxv.com^$third-party
+||exacdn.com^$third-party
+||pemsrv.com^$third-party
+||wpadmngr.com^$third-party
+||histats.com^$third-party
+||badylenicesist.com^$third-party
+||letterrecoveryunplanted.com^$third-party
+
