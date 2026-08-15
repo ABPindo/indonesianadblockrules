@@ -51,7 +51,6 @@
 ||eramuslim.com/banners
 ||fansubupdate.com/res/img/sampleads/
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
-||gets.kadal.club/js/getlinkz.js$script,domain=alex71.com
 ||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com|manhwaindo.id
 ||gudangmovies21.*/wp-content/uploads/*.gif$image
 ||harakah.net.my/images/stories/iklan/
@@ -107,7 +106,6 @@
 ||musisi.com/musifile/images_banner/
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
-||nanime.biz^$third-party
 ||nimeindo.*/wp-content/themes/*/btn_close.gif$image
 ||nimeindo.*/wp-content/uploads/*.gif$image
 ||nobartv.com/adsLoader/$xmlhttprequest
@@ -151,7 +149,7 @@
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! Miscellaneous popups
-$popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
+$popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|wrt.my.id
 ||bk21.net/*.gif$image$domain=juragan.film
 ||img.gm21.download/$image
 ||kawanfilm21.co/wp-content/uploads/*judi$image
