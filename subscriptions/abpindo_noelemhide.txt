@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202608131400
+! Version: 202608150246
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 13 Aug 2026 14:00 UTC
+! Last modified: 15 Aug 2026 02:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -14,14 +14,11 @@
 ! ---------------------- advert blocking filters ----------------------!
 ! *** abpindo:src/advert/adservers.txt ***
 ! Confirmed ad servers
-||188affiliates.com^$third-party
 ||accesstrade.co.id^$third-party
 ||ad-loupe.com^$third-party
 ||addesigner.com^$third-party
 ||adeumssp.com^$third-party
 ||admarketplace.net^$popup,third-party
-||adnety.com^$popup,third-party
-||adpop-1.com^$third-party
 ||adreach.co^$third-party
 ||ads.d21.media^$third-party
 ||ads.indosatooredoo.com^$third-party
@@ -62,10 +59,8 @@
 ||iklantelevisi.com^$third-party
 ||iklantext.com^$third-party
 ||iklanumum.com^$third-party
-||indobanner.com^$third-party
 ||istanaimpian1.com^$popup,third-party
 ||istanaimpian2.com^$popup,third-party
-||istanaimpian3.com^$popup,third-party
 ||jagopromo.com^$third-party
 ||jasaiklan.com^$third-party
 ||klikajadeh.com^$third-party
@@ -73,7 +68,6 @@
 ||mesiniklan.andipublisher.com^$third-party
 ||offdeck.telkomsel.com^$third-party
 ||openadserving.com^$third-party
-||padssup.com^$third-party
 ||paidforfree.com^$third-party
 ||pasangiklan.com^$third-party
 ||paypopup.com^$third-party
@@ -101,16 +95,13 @@
 ||webiklan.com^$third-party
 ||yesads.com^$third-party
 ! Potential ad servers
-||64p3am9x95ct.com^$popup,third-party
 ||9eb10b7a3d04a.com^$popup,third-party
 ||a.magsrv.com^$third-party
 ||adplus.co.id^$third-party
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup,third-party
-||baliadv.com^$third-party
 ||bondeddarkenedswerve.com^$popup
 ||brand.ad^$third-party
-||caribanner.bid^$third-party
 ||dairouzy.net^$popup,third-party
 ||doathair.com^$third-party
 ||edomz.com^$third-party
@@ -125,12 +116,8 @@
 ||mousheen.net^$third-party
 ||octafx.com^$popup,third-party
 ||poweredby.jads.co^$third-party
-||promobagus.com^$third-party
-||pusatiklan.com^$third-party
 ||realwap.net^$third-party
 ||sebar.idblognetwork.com^$third-party
-||shqbsdjatunl.com^$popup,third-party
-||sumberiklan.com^$third-party
 ||villainoussession.com^$popup
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
@@ -153,7 +140,6 @@
 ||kegz.site^$third-party
 ||klik.zeus.fun^$all
 ||klik4.me^$all
-||luxury111.bio^$third-party
 ||menujupenta.site^$third-party
 ||moneyfree.co^$third-party
 ||nf.diamberproetid.com^$third-party
@@ -347,7 +333,6 @@ _iklan_|$image
 ||eramuslim.com/banners
 ||fansubupdate.com/res/img/sampleads/
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
-||gets.kadal.club/js/getlinkz.js$script,domain=alex71.com
 ||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com|manhwaindo.id
 ||gudangmovies21.*/wp-content/uploads/*.gif$image
 ||harakah.net.my/images/stories/iklan/
@@ -403,7 +388,6 @@ _iklan_|$image
 ||musisi.com/musifile/images_banner/
 ||mydramalist.com/assets/img/blank_spnsr.jpg$image
 ||mydramalist.com/assets/img/blank_spnsr300x250.png$image
-||nanime.biz^$third-party
 ||nimeindo.*/wp-content/themes/*/btn_close.gif$image
 ||nimeindo.*/wp-content/uploads/*.gif$image
 ||nobartv.com/adsLoader/$xmlhttprequest
@@ -447,7 +431,7 @@ _iklan_|$image
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ! Miscellaneous popups
-$popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|mangakita.net|wrt.my.id
+$popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|wrt.my.id
 ||bk21.net/*.gif$image$domain=juragan.film
 ||img.gm21.download/$image
 ||kawanfilm21.co/wp-content/uploads/*judi$image
@@ -466,6 +450,7 @@ kingbokep.*##+js(acis, checkAdsStatus)
 lk21semi.*##+js(acs, chp_ads_blocker_detector)
 kuyhaa.me##+js(acs, document.addEventListener, window.open)
 doroni.me##+js(acs, getComputedStyle, , cpm)
+01ntn.top,bokepindo24.com,luciferdonghua.in##+js(aeld)
 info.vebma.com##+js(aeld, click, linkOpened)
 websitebokep.com##+js(aeld, click, player.seeking)
 komikdewasa.art##+js(aeld, click, tampilkanUrl)
@@ -481,7 +466,7 @@ thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
 moenime.com##+js(no-fetch-if, trafficbass.com)
 jurnalistekno.id,tutwuri.id##+js(no-xhr-if, googlesyndication)
-asalunik.com,bokepgemoy.com##+js(nobab)
+asalunik.com##+js(nobab)
 193.142.147.230,5.253.86.213,ainzscans.net,jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 moviekhhd.biz##+js(nostif, location.href, 3000)
@@ -538,7 +523,6 @@ pemersatu.*##+js(aopw, document.body.innerHTML)
 @@||mivo.com^$generichide
 @@||novelgo.id^$generichide
 @@||pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=kompas.com
-@@||sanjayaops.com^$generichide
 @@||tokusatsuindo.com^$generichide
 ! Allowlist for Element Hiding Filters
 garuda.tv#@#.ads-banner
@@ -546,7 +530,7 @@ eramuslim.com#@#.adsbygoogle
 flashbackrecorder.com#@#.elementor-popup-modal
 adikanime.com#@#.idmuvi-banner-aftercontent
 juragan.film#@#.idmuvi-topbanner
-103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*,layardrama21.beauty,layardrama21.club#@#.idmuvi-topbanner-aftermenu
+103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*,layardrama21.beauty#@#.idmuvi-topbanner-aftermenu
 tokosatu.com#@#.popupflyin-clicks-area
 ! ---------------------------- adult ---------------------------------!
 ! *** abpindo:src/adult/adult_general_block.txt ***
@@ -3171,7 +3155,6 @@ totojitu.gif|$image
 ||menangqq.$image,third-party
 ||menangqq.$popup
 ||menubola.$popup
-||mestresdopoker.com^$third-party
 ||mewahbet.$image,third-party
 ||mgmcash88.$image,third-party
 ||mgmcash88.$popup
@@ -3821,7 +3804,6 @@ totojitu.gif|$image
 ||taruhanjudisbobet.$image,third-party
 ||taruhanjuditerbaik.$image,third-party
 ||taruhanjuditerpercaya.$image,third-party
-||taruhanolahraga.com^$third-party
 ||taruhanonline338a.$image,third-party
 ||taruhanonlinebola.$image,third-party
 ||taruhanonlinecasino.$image,third-party
@@ -4110,10 +4092,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||ads.save21.site^$image,third-party
 ||afapoker.com^$popup
 ||afapoker.com^$third-party
-||agenjudibolabet.com^$third-party
-||agenjudiresmi.com^$third-party
-||agenjuditerbesar.com^$third-party
-||agentogel4d.com^$third-party
 ||ajar-poet.com^$popup
 ||allvegaspoker.com^$third-party
 ||anaktogel.com^$popup
@@ -4129,7 +4107,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||axes88.org^$third-party
 ||badylenicesist.com^$third-party
 ||bandarjuditogel.com^$third-party
-||baron777premium.com^$popup
 ||bbm88.org^$third-party
 ||bebasjudi.com^$popup
 ||belitogel.com^$third-party
@@ -4137,13 +4114,11 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||bio.wgauhh.xyz^$third-party
 ||biotogel.com^$third-party
 ||blindbetpoker.com^$third-party
-||blogjudi.com^$third-party
 ||bojo.rajatravel.online^$third-party
 ||bokep.work/*.gif
 ||bolakami-banner-tracker.bolakami.workers.dev^$third-party
 ||breedsmuteexams.com^$third-party
 ||bursajudibola.com^$third-party
-||caramenangtaruhanbola.com^$third-party
 ||caramenangtogel.com^$third-party
 ||casinoclubpoker.com^$third-party
 ||cdn.assetcsn.site^$third-party
@@ -4156,7 +4131,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||dafapoker.com^$third-party
 ||daftar.situsngacir.com^$third-party
 ||daftarjudibola.com^$third-party
-||daftarjudicasino.com^$third-party
 ||daftarpokeronline.com^$third-party
 ||daspoker.com^$third-party
 ||data.masbulo.com^$third-party
@@ -4213,7 +4187,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||login.ashk7.com^$third-party
 ||lolhello.com^
 ||lotospoker.com^$third-party
-||luckyriverpoker.com^$third-party
 ||macory.com^
 ||mansionpoker.com^$third-party
 ||markastogel.com^$third-party
@@ -4227,7 +4200,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||mitrapoker.com^$third-party
 ||mobilepokerclub.com^$third-party
 ||movd21.com^$third-party
-||muchospoker.com^$third-party
 ||nag303.xyz^$third-party
 ||naga-poker.com^$third-party
 ||nagapoker.biz^$third-party
@@ -4239,11 +4211,9 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||obobet.net^$popup
 ||offwardscraps.com^$third-party
 ||online5poker.com^$third-party
-||onlineactionpoker.com^$third-party
 ||onlinepoker66.com^$third-party
 ||opoxv.com^$third-party
 ||pacificpoker.com^$third-party
-||pandujudionline.com^$third-party
 ||pemsrv.com^$third-party
 ||pkr-88.com^$third-party
 ||planettoto.com^$third-party
@@ -4275,7 +4245,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||pondokpoker.com^$third-party
 ||pondoktogel.com^$third-party
 ||powderencouraged.com^$third-party
-||prediksitoptogel.com^$third-party
 ||promosi.bwnn7.com^$third-party
 ||promosi.ctrr7.com^$third-party
 ||promosi.hkwn7.com^$third-party
@@ -4285,10 +4254,8 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||promosi.wfgg7.com^$third-party
 ||pub-ee3a5bccda2d49c7bbc62bd60d648707.r2.dev^$third-party
 ||pusatjudibola.com^$third-party
-||pusattaruhan.com^$third-party
 ||pvpmetavip.com^$third-party
 ||rajapoker88.com^$third-party
-||rajatogel.biz^$third-party
 ||rajatogel.com^$third-party
 ||rajatoto.com^$third-party
 ||rarelypunenhancements.com^$third-party
@@ -4303,13 +4270,11 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||serverx16.online^$third-party
 ||sharkpokertour.com^$third-party
 ||shopnoit.com^$popup
-||situsagenjudi.com^$third-party
 ||situsdepe4d.site^$third-party
 ||situsdepe4d.space^$third-party
 ||situstogelonline.com^$third-party
 ||socialprooff.com^$third-party
 ||speedcount.co^$third-party
-||streaming.desakemuning.online^$third-party
 ||sunpoker.com^$third-party
 ||surgajudi.com^$third-party
 ||suvtub.id^$third-party
