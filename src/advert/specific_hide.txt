@@ -710,6 +710,7 @@ cosmicscans.*##.floating-ad__inner
 cosmicscans.*##.floating-ad__script
 kuramanime.*##.floating__footer
 nontonanimeid.*##.floating_footer
+v7.kiryuu.to##.floating-ads
 okezone.com##.flying_ads
 katadata.co.id,kompas.com,optika.id##.flying_carpet_div
 bisnis.com,tek.id##.flying_carpet_show
