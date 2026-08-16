@@ -11,3 +11,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||pic.desu.xxx/content/banner/*$image
 ||sebokep.vip/api/crossfeed$xmlhttprequest
 ||sebokep.vip/crossfeed.js$script
+||anichin.cafe/wp-content/uploads/*hp-*777*$image
+||1a-1791.com/video/$media,redirect=noopmp4-1s,domain=anichin.*
+||1a-1791.com/video/*$media,rewrite=abp-resource:blank-mp4,domain=anichin.*

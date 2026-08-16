@@ -1291,3 +1291,8 @@ olx.co.id##[data-aut-id="staticBannerSrpList"]
 
 metrotvnews.com###popup-ads
 bekesah.co,berita.news,beritamimika.com,citakaltara.com,fajar.co.id,medianews.co.id,mensobsession.com###banner
+
+galeripapua.com##.ad-middle
+galeripapua.com###sidebar-banner-160x600-kanan
+galeripapua.com###sidebar-banner-160x600-kiri
+galeripapua.com###sidebar-banner-bawah
