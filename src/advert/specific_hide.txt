@@ -1327,4 +1327,9 @@ pojoksatu.id##.ads__stick--left
 pojoksatu.id##.ads__stick--right
 pojoksatu.id##.ads__stick__fluid
 pojoksatu.id##.ads__top
+
+! seputarforex.org
+seputarforex.com,seputarforex.org##.siklmax
+seputarforex.com##img[width="1200"][height="280"]
+kilasnusantara.id,seputarforex.com##img[width="729"][height="90"]
 pojoksatu.id###1548268_PojokSatu_Interstitial
