@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202608160056
+! Version: 202608160058
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 16 Aug 2026 00:56 UTC
+! Last modified: 16 Aug 2026 00:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -764,6 +764,21 @@ tokosatu.com#@#.popupflyin-clicks-area
 ##.gambar-iklan1
 ##.gambarbanner
 ##.gap-iklan-desktop
+##.gmr-banner-aftercontent
+##.gmr-banner-aftermodulehome
+##.gmr-banner-afterrelpost
+##.gmr-banner-beforecontent
+##.gmr-banner-insidecontent
+##.gmr-banner-stickyright
+##.gmr-bannerpopup
+##.gmr-between-post-banner
+##.gmr-floatbanner
+##.gmr-floatbanner-left
+##.gmr-floatbanner-right
+##.gmr-footerbanner
+##.gmr-masonry-banner
+##.gmr-topbanner
+##.gmr-verytopbanner
 ##.header_kabar_ads
 ##.idblog-center-ads
 ##.idblog-center-banner
@@ -1713,6 +1728,9 @@ bandungberita.com,jendelakaba.com##.gmr-banner-logo
 lk21semi.*,spucweb.com##.gmr-bannerpopup
 bandungberita.com##.gmr-floatbanner
 jendelakaba.com##.gmr-footerbanner
+gosulut.id##.gmr-in-popup
+gosulut.id##.gmr-modalbg
+gosulut.id##.gmr-share-popup
 jendelakaba.com##.gmr-topbanner
 jendelakaba.com##.gmr-verytopbanner
 vnn.co.id##.googlepublisherads
@@ -1744,6 +1762,8 @@ juragan.film##.idmuvi-afterplayer
 bioskopkeren.*##.idmuvi-floatbanner
 juragan.film##.idmuvi-floatbanner-footer
 juragan.film##.idmuvi-topplayer
+gosulut.id##.idt-rellax-bannerwrap
+gosulut.id##.idt-textinsidepost
 juragan.film##.iklan-container
 koran-jakarta.com##.iklan-for-mobile
 blog.arizman.com##.iklan-kiri-postingan
