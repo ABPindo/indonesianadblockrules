@@ -1,7 +1,7 @@
-# Version: 202608131400
+# Version: 202608150246
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 13 Aug 2026 14:00 UTC
+# Last modified: 15 Aug 2026 02:46 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -12,14 +12,11 @@
 #
 # *** abpindo:src/advert/adservers.txt ***
 # Confirmed ad servers
-0.0.0.0 188affiliates.com
 0.0.0.0 accesstrade.co.id
 0.0.0.0 ad-loupe.com
 0.0.0.0 addesigner.com
 0.0.0.0 adeumssp.com
 0.0.0.0 admarketplace.net
-0.0.0.0 adnety.com
-0.0.0.0 adpop-1.com
 0.0.0.0 adreach.co
 0.0.0.0 ads.d21.media
 0.0.0.0 ads.indosatooredoo.com
@@ -60,10 +57,8 @@
 0.0.0.0 iklantelevisi.com
 0.0.0.0 iklantext.com
 0.0.0.0 iklanumum.com
-0.0.0.0 indobanner.com
 0.0.0.0 istanaimpian1.com
 0.0.0.0 istanaimpian2.com
-0.0.0.0 istanaimpian3.com
 0.0.0.0 jagopromo.com
 0.0.0.0 jasaiklan.com
 0.0.0.0 klikajadeh.com
@@ -71,7 +66,6 @@
 0.0.0.0 mesiniklan.andipublisher.com
 0.0.0.0 offdeck.telkomsel.com
 0.0.0.0 openadserving.com
-0.0.0.0 padssup.com
 0.0.0.0 paidforfree.com
 0.0.0.0 pasangiklan.com
 0.0.0.0 paypopup.com
@@ -99,16 +93,13 @@
 0.0.0.0 webiklan.com
 0.0.0.0 yesads.com
 # Potential ad servers
-0.0.0.0 64p3am9x95ct.com
 0.0.0.0 9eb10b7a3d04a.com
 0.0.0.0 a.magsrv.com
 0.0.0.0 adplus.co.id
 0.0.0.0 afbcashidr.com
 0.0.0.0 auredzeon.com
-0.0.0.0 baliadv.com
 0.0.0.0 bondeddarkenedswerve.com
 0.0.0.0 brand.ad
-0.0.0.0 caribanner.bid
 0.0.0.0 dairouzy.net
 0.0.0.0 doathair.com
 0.0.0.0 edomz.com
@@ -123,12 +114,8 @@
 0.0.0.0 mousheen.net
 0.0.0.0 octafx.com
 0.0.0.0 poweredby.jads.co
-0.0.0.0 promobagus.com
-0.0.0.0 pusatiklan.com
 0.0.0.0 realwap.net
 0.0.0.0 sebar.idblognetwork.com
-0.0.0.0 shqbsdjatunl.com
-0.0.0.0 sumberiklan.com
 0.0.0.0 villainoussession.com
 0.0.0.0 vkwaeo.com
 0.0.0.0 yllix.com
@@ -151,7 +138,6 @@
 0.0.0.0 kegz.site
 0.0.0.0 klik.zeus.fun
 0.0.0.0 klik4.me
-0.0.0.0 luxury111.bio
 0.0.0.0 menujupenta.site
 0.0.0.0 moneyfree.co
 0.0.0.0 nf.diamberproetid.com

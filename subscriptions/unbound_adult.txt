@@ -1,7 +1,7 @@
-# Version: 202608131400
+# Version: 202608150246
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Aug 2026 14:00 UTC
+# Last modified: 15 Aug 2026 02:46 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -12,14 +12,11 @@
 #
 # *** abpindo:src/advert/adservers.txt ***
 # Confirmed ad servers
-local-zone: "188affiliates.com" always_nxdomain
 local-zone: "accesstrade.co.id" always_nxdomain
 local-zone: "ad-loupe.com" always_nxdomain
 local-zone: "addesigner.com" always_nxdomain
 local-zone: "adeumssp.com" always_nxdomain
 local-zone: "admarketplace.net" always_nxdomain
-local-zone: "adnety.com" always_nxdomain
-local-zone: "adpop-1.com" always_nxdomain
 local-zone: "adreach.co" always_nxdomain
 local-zone: "ads.d21.media" always_nxdomain
 local-zone: "ads.indosatooredoo.com" always_nxdomain
@@ -60,10 +57,8 @@ local-zone: "iklanoke.com" always_nxdomain
 local-zone: "iklantelevisi.com" always_nxdomain
 local-zone: "iklantext.com" always_nxdomain
 local-zone: "iklanumum.com" always_nxdomain
-local-zone: "indobanner.com" always_nxdomain
 local-zone: "istanaimpian1.com" always_nxdomain
 local-zone: "istanaimpian2.com" always_nxdomain
-local-zone: "istanaimpian3.com" always_nxdomain
 local-zone: "jagopromo.com" always_nxdomain
 local-zone: "jasaiklan.com" always_nxdomain
 local-zone: "klikajadeh.com" always_nxdomain
@@ -71,7 +66,6 @@ local-zone: "luckyads.com" always_nxdomain
 local-zone: "mesiniklan.andipublisher.com" always_nxdomain
 local-zone: "offdeck.telkomsel.com" always_nxdomain
 local-zone: "openadserving.com" always_nxdomain
-local-zone: "padssup.com" always_nxdomain
 local-zone: "paidforfree.com" always_nxdomain
 local-zone: "pasangiklan.com" always_nxdomain
 local-zone: "paypopup.com" always_nxdomain
@@ -99,16 +93,13 @@ local-zone: "useads.com" always_nxdomain
 local-zone: "webiklan.com" always_nxdomain
 local-zone: "yesads.com" always_nxdomain
 # Potential ad servers
-local-zone: "64p3am9x95ct.com" always_nxdomain
 local-zone: "9eb10b7a3d04a.com" always_nxdomain
 local-zone: "a.magsrv.com" always_nxdomain
 local-zone: "adplus.co.id" always_nxdomain
 local-zone: "afbcashidr.com" always_nxdomain
 local-zone: "auredzeon.com" always_nxdomain
-local-zone: "baliadv.com" always_nxdomain
 local-zone: "bondeddarkenedswerve.com" always_nxdomain
 local-zone: "brand.ad" always_nxdomain
-local-zone: "caribanner.bid" always_nxdomain
 local-zone: "dairouzy.net" always_nxdomain
 local-zone: "doathair.com" always_nxdomain
 local-zone: "edomz.com" always_nxdomain
@@ -123,12 +114,8 @@ local-zone: "lokeriklan.com" always_nxdomain
 local-zone: "mousheen.net" always_nxdomain
 local-zone: "octafx.com" always_nxdomain
 local-zone: "poweredby.jads.co" always_nxdomain
-local-zone: "promobagus.com" always_nxdomain
-local-zone: "pusatiklan.com" always_nxdomain
 local-zone: "realwap.net" always_nxdomain
 local-zone: "sebar.idblognetwork.com" always_nxdomain
-local-zone: "shqbsdjatunl.com" always_nxdomain
-local-zone: "sumberiklan.com" always_nxdomain
 local-zone: "villainoussession.com" always_nxdomain
 local-zone: "vkwaeo.com" always_nxdomain
 local-zone: "yllix.com" always_nxdomain
@@ -151,7 +138,6 @@ local-zone: "inshorturl.com" always_nxdomain
 local-zone: "kegz.site" always_nxdomain
 local-zone: "klik.zeus.fun" always_nxdomain
 local-zone: "klik4.me" always_nxdomain
-local-zone: "luxury111.bio" always_nxdomain
 local-zone: "menujupenta.site" always_nxdomain
 local-zone: "moneyfree.co" always_nxdomain
 local-zone: "nf.diamberproetid.com" always_nxdomain
@@ -189,10 +175,6 @@ local-zone: "actionpoker.com" always_nxdomain
 local-zone: "adroitdeceitcongestion.com" always_nxdomain
 local-zone: "ads.save21.site" always_nxdomain
 local-zone: "afapoker.com" always_nxdomain
-local-zone: "agenjudibolabet.com" always_nxdomain
-local-zone: "agenjudiresmi.com" always_nxdomain
-local-zone: "agenjuditerbesar.com" always_nxdomain
-local-zone: "agentogel4d.com" always_nxdomain
 local-zone: "ajar-poet.com" always_nxdomain
 local-zone: "allvegaspoker.com" always_nxdomain
 local-zone: "anaktogel.com" always_nxdomain
@@ -207,7 +189,6 @@ local-zone: "autocst.site" always_nxdomain
 local-zone: "axes88.org" always_nxdomain
 local-zone: "badylenicesist.com" always_nxdomain
 local-zone: "bandarjuditogel.com" always_nxdomain
-local-zone: "baron777premium.com" always_nxdomain
 local-zone: "bbm88.org" always_nxdomain
 local-zone: "bebasjudi.com" always_nxdomain
 local-zone: "belitogel.com" always_nxdomain
@@ -215,12 +196,10 @@ local-zone: "beritaagenjudi.com" always_nxdomain
 local-zone: "bio.wgauhh.xyz" always_nxdomain
 local-zone: "biotogel.com" always_nxdomain
 local-zone: "blindbetpoker.com" always_nxdomain
-local-zone: "blogjudi.com" always_nxdomain
 local-zone: "bojo.rajatravel.online" always_nxdomain
 local-zone: "bolakami-banner-tracker.bolakami.workers.dev" always_nxdomain
 local-zone: "breedsmuteexams.com" always_nxdomain
 local-zone: "bursajudibola.com" always_nxdomain
-local-zone: "caramenangtaruhanbola.com" always_nxdomain
 local-zone: "caramenangtogel.com" always_nxdomain
 local-zone: "casinoclubpoker.com" always_nxdomain
 local-zone: "cdn.assetcsn.site" always_nxdomain
@@ -233,7 +212,6 @@ local-zone: "cutlink.now" always_nxdomain
 local-zone: "dafapoker.com" always_nxdomain
 local-zone: "daftar.situsngacir.com" always_nxdomain
 local-zone: "daftarjudibola.com" always_nxdomain
-local-zone: "daftarjudicasino.com" always_nxdomain
 local-zone: "daftarpokeronline.com" always_nxdomain
 local-zone: "daspoker.com" always_nxdomain
 local-zone: "data.masbulo.com" always_nxdomain
@@ -289,7 +267,6 @@ local-zone: "lockerimage.com" always_nxdomain
 local-zone: "login.ashk7.com" always_nxdomain
 local-zone: "lolhello.com" always_nxdomain
 local-zone: "lotospoker.com" always_nxdomain
-local-zone: "luckyriverpoker.com" always_nxdomain
 local-zone: "macory.com" always_nxdomain
 local-zone: "mansionpoker.com" always_nxdomain
 local-zone: "markastogel.com" always_nxdomain
@@ -303,7 +280,6 @@ local-zone: "mistertogel.com" always_nxdomain
 local-zone: "mitrapoker.com" always_nxdomain
 local-zone: "mobilepokerclub.com" always_nxdomain
 local-zone: "movd21.com" always_nxdomain
-local-zone: "muchospoker.com" always_nxdomain
 local-zone: "nag303.xyz" always_nxdomain
 local-zone: "naga-poker.com" always_nxdomain
 local-zone: "nagapoker.biz" always_nxdomain
@@ -315,11 +291,9 @@ local-zone: "nztoto.com" always_nxdomain
 local-zone: "obobet.net" always_nxdomain
 local-zone: "offwardscraps.com" always_nxdomain
 local-zone: "online5poker.com" always_nxdomain
-local-zone: "onlineactionpoker.com" always_nxdomain
 local-zone: "onlinepoker66.com" always_nxdomain
 local-zone: "opoxv.com" always_nxdomain
 local-zone: "pacificpoker.com" always_nxdomain
-local-zone: "pandujudionline.com" always_nxdomain
 local-zone: "pemsrv.com" always_nxdomain
 local-zone: "pkr-88.com" always_nxdomain
 local-zone: "planettoto.com" always_nxdomain
@@ -351,7 +325,6 @@ local-zone: "pokervip.com" always_nxdomain
 local-zone: "pondokpoker.com" always_nxdomain
 local-zone: "pondoktogel.com" always_nxdomain
 local-zone: "powderencouraged.com" always_nxdomain
-local-zone: "prediksitoptogel.com" always_nxdomain
 local-zone: "promosi.bwnn7.com" always_nxdomain
 local-zone: "promosi.ctrr7.com" always_nxdomain
 local-zone: "promosi.hkwn7.com" always_nxdomain
@@ -361,10 +334,8 @@ local-zone: "promosi.snsa7.com" always_nxdomain
 local-zone: "promosi.wfgg7.com" always_nxdomain
 local-zone: "pub-ee3a5bccda2d49c7bbc62bd60d648707.r2.dev" always_nxdomain
 local-zone: "pusatjudibola.com" always_nxdomain
-local-zone: "pusattaruhan.com" always_nxdomain
 local-zone: "pvpmetavip.com" always_nxdomain
 local-zone: "rajapoker88.com" always_nxdomain
-local-zone: "rajatogel.biz" always_nxdomain
 local-zone: "rajatogel.com" always_nxdomain
 local-zone: "rajatoto.com" always_nxdomain
 local-zone: "rarelypunenhancements.com" always_nxdomain
@@ -379,13 +350,11 @@ local-zone: "semarangtogel.com" always_nxdomain
 local-zone: "serverx16.online" always_nxdomain
 local-zone: "sharkpokertour.com" always_nxdomain
 local-zone: "shopnoit.com" always_nxdomain
-local-zone: "situsagenjudi.com" always_nxdomain
 local-zone: "situsdepe4d.site" always_nxdomain
 local-zone: "situsdepe4d.space" always_nxdomain
 local-zone: "situstogelonline.com" always_nxdomain
 local-zone: "socialprooff.com" always_nxdomain
 local-zone: "speedcount.co" always_nxdomain
-local-zone: "streaming.desakemuning.online" always_nxdomain
 local-zone: "sunpoker.com" always_nxdomain
 local-zone: "surgajudi.com" always_nxdomain
 local-zone: "suvtub.id" always_nxdomain

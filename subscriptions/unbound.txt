@@ -1,7 +1,7 @@
-# Version: 202608131400
+# Version: 202608150246
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 13 Aug 2026 14:00 UTC
+# Last modified: 15 Aug 2026 02:46 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -12,14 +12,11 @@
 #
 # *** abpindo:src/advert/adservers.txt ***
 # Confirmed ad servers
-local-zone: "188affiliates.com" always_nxdomain
 local-zone: "accesstrade.co.id" always_nxdomain
 local-zone: "ad-loupe.com" always_nxdomain
 local-zone: "addesigner.com" always_nxdomain
 local-zone: "adeumssp.com" always_nxdomain
 local-zone: "admarketplace.net" always_nxdomain
-local-zone: "adnety.com" always_nxdomain
-local-zone: "adpop-1.com" always_nxdomain
 local-zone: "adreach.co" always_nxdomain
 local-zone: "ads.d21.media" always_nxdomain
 local-zone: "ads.indosatooredoo.com" always_nxdomain
@@ -60,10 +57,8 @@ local-zone: "iklanoke.com" always_nxdomain
 local-zone: "iklantelevisi.com" always_nxdomain
 local-zone: "iklantext.com" always_nxdomain
 local-zone: "iklanumum.com" always_nxdomain
-local-zone: "indobanner.com" always_nxdomain
 local-zone: "istanaimpian1.com" always_nxdomain
 local-zone: "istanaimpian2.com" always_nxdomain
-local-zone: "istanaimpian3.com" always_nxdomain
 local-zone: "jagopromo.com" always_nxdomain
 local-zone: "jasaiklan.com" always_nxdomain
 local-zone: "klikajadeh.com" always_nxdomain
@@ -71,7 +66,6 @@ local-zone: "luckyads.com" always_nxdomain
 local-zone: "mesiniklan.andipublisher.com" always_nxdomain
 local-zone: "offdeck.telkomsel.com" always_nxdomain
 local-zone: "openadserving.com" always_nxdomain
-local-zone: "padssup.com" always_nxdomain
 local-zone: "paidforfree.com" always_nxdomain
 local-zone: "pasangiklan.com" always_nxdomain
 local-zone: "paypopup.com" always_nxdomain
@@ -99,16 +93,13 @@ local-zone: "useads.com" always_nxdomain
 local-zone: "webiklan.com" always_nxdomain
 local-zone: "yesads.com" always_nxdomain
 # Potential ad servers
-local-zone: "64p3am9x95ct.com" always_nxdomain
 local-zone: "9eb10b7a3d04a.com" always_nxdomain
 local-zone: "a.magsrv.com" always_nxdomain
 local-zone: "adplus.co.id" always_nxdomain
 local-zone: "afbcashidr.com" always_nxdomain
 local-zone: "auredzeon.com" always_nxdomain
-local-zone: "baliadv.com" always_nxdomain
 local-zone: "bondeddarkenedswerve.com" always_nxdomain
 local-zone: "brand.ad" always_nxdomain
-local-zone: "caribanner.bid" always_nxdomain
 local-zone: "dairouzy.net" always_nxdomain
 local-zone: "doathair.com" always_nxdomain
 local-zone: "edomz.com" always_nxdomain
@@ -123,12 +114,8 @@ local-zone: "lokeriklan.com" always_nxdomain
 local-zone: "mousheen.net" always_nxdomain
 local-zone: "octafx.com" always_nxdomain
 local-zone: "poweredby.jads.co" always_nxdomain
-local-zone: "promobagus.com" always_nxdomain
-local-zone: "pusatiklan.com" always_nxdomain
 local-zone: "realwap.net" always_nxdomain
 local-zone: "sebar.idblognetwork.com" always_nxdomain
-local-zone: "shqbsdjatunl.com" always_nxdomain
-local-zone: "sumberiklan.com" always_nxdomain
 local-zone: "villainoussession.com" always_nxdomain
 local-zone: "vkwaeo.com" always_nxdomain
 local-zone: "yllix.com" always_nxdomain
@@ -151,7 +138,6 @@ local-zone: "inshorturl.com" always_nxdomain
 local-zone: "kegz.site" always_nxdomain
 local-zone: "klik.zeus.fun" always_nxdomain
 local-zone: "klik4.me" always_nxdomain
-local-zone: "luxury111.bio" always_nxdomain
 local-zone: "menujupenta.site" always_nxdomain
 local-zone: "moneyfree.co" always_nxdomain
 local-zone: "nf.diamberproetid.com" always_nxdomain
