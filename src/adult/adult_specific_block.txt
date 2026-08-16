@@ -14,3 +14,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||anichin.cafe/wp-content/uploads/*hp-*777*$image
 ||1a-1791.com/video/$media,redirect=noopmp4-1s,domain=anichin.*
 ||1a-1791.com/video/*$media,rewrite=abp-resource:blank-mp4,domain=anichin.*
+||fans.91selfie.com^$third-party
+||h25109.com^$third-party
+||sp2026.com^$third-party
+||kk6140.shop^$third-party
