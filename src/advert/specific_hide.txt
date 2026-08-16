@@ -1311,3 +1311,15 @@ goaceh.id##.sticky-ads-right
 goaceh.id##.article-adv
 goaceh.id##.textwidget.custom-html-widget
 infoampera.com##.header-promotion
+
+! pojoksatu.id
+pojoksatu.id###gpt-passback-p5
+pojoksatu.id##.flying_carpet_div
+pojoksatu.id##.sticky_bottom
+pojoksatu.id##.ads__sticky__bottom
+pojoksatu.id##.ads__sticky__bottom__wrapper
+pojoksatu.id##.ads__stick--left
+pojoksatu.id##.ads__stick--right
+pojoksatu.id##.ads__stick__fluid
+pojoksatu.id##.ads__top
+pojoksatu.id###1548268_PojokSatu_Interstitial
