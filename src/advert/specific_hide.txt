@@ -197,6 +197,14 @@ olx.co.id###baxter-ads-results-top
 jalantikus.com###beforeDaftarIsimobilead300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphFirstad300container00div-gpt-ad-1569380311053-0
 jalantikus.com###betweenParagraphNewmobilead300container00div-gpt-ad-1569380311053-0
+
+jmnews.id##.ads
+jmnews.id##.ads__stick
+jmnews.id##.ads__stick--left
+jmnews.id##.ads__stick--right
+jmnews.id##.ads__top
+jmnews.id##.ads__box
+
 beritasatu.com,cnnindonesia.com,detik.com###billboard
 bioskop78.com,cnbcindonesia.com,detik.com###billboard_banner
 tirto.id###bkgOverlay
@@ -1296,3 +1304,10 @@ galeripapua.com##.ad-middle
 galeripapua.com###sidebar-banner-160x600-kanan
 galeripapua.com###sidebar-banner-160x600-kiri
 galeripapua.com###sidebar-banner-bawah
+
+goaceh.id##.billboard
+goaceh.id##.sticky-ads-left
+goaceh.id##.sticky-ads-right
+goaceh.id##.article-adv
+goaceh.id##.textwidget.custom-html-widget
+infoampera.com##.header-promotion
