@@ -1,7 +1,7 @@
-# Version: 202608192146
+# Version: 202608201115
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 19 Aug 2026 21:46 UTC
+# Last modified: 20 Aug 2026 11:15 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -129,6 +129,7 @@ address=/bisnis4d.bio/0.0.0.0
 address=/c-stat.eu/0.0.0.0
 address=/cdnfgo.xyz/0.0.0.0
 address=/code.global.giraff.io/0.0.0.0
+address=/embed.dugout.com/0.0.0.0
 address=/enakslot.bio/0.0.0.0
 address=/gaza-88.com/0.0.0.0
 address=/goid.space/0.0.0.0
@@ -151,6 +152,7 @@ address=/refpa3665.com/0.0.0.0
 address=/rts.gdn/0.0.0.0
 address=/safelinkearn.com/0.0.0.0
 address=/sbobet.host/0.0.0.0
+address=/scripts.jixie.media/0.0.0.0
 address=/shortbioo.com/0.0.0.0
 address=/statics1.tceru134gsur.ru/0.0.0.0
 address=/sv.sleeklyyallaer.com/0.0.0.0
