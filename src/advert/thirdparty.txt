@@ -45,3 +45,7 @@
 ||shortbioo.com^$all
 ||klik.zeus.fun^$all
 ||code.global.giraff.io^$third-party
+
+||embed.dugout.com^$third-party
+||scripts.jixie.media^$third-party
+||gamma.cachefly.net/js/ad-exchange.js$third-party
