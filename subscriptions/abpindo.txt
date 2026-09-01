@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202609012216
+! Version: 202609012220
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 01 Sep 2026 22:16 UTC
+! Last modified: 01 Sep 2026 22:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9804,7 +9804,9 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||anichin.cafe/wp-content/uploads/*hp-*777$image
 ||blogger.googleusercontent.com/img/$image,domain=igodesu.tv
 ||cdn.teknolur.eu.org^$image,domain=kingbokep.media
+||cdn.tsyndicate.com^,domain=kurakura21.net
 ||ceritanakal.com/wp-content/uploads/2025/06/GIF-*.gif$image
+||chaseherbalpasty.com^,domain=kurakura21.net
 ||ci.putsaggies.com^,domain=boscinema21.bar
 ||ci.putsaggies.com^,domain=bosku21.help
 ||driverhugoverblown.com^
@@ -9813,6 +9815,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||imgur.com/*.gif$image,domain=gocrot.*
 ||jepangbasah.com/ads/$image
 ||jepangmaniak.com/ads/$image
+||juicyads.com^,domain=kurakura21.net
 ||kayatan.vip/api/crossfeed$xmlhttprequest
 ||kayatan.vip/crossfeed.js$script
 ||m.teknolur.eu.org^$popup,domain=kingbokep.media
@@ -9820,6 +9823,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||pic.desu.xxx/content/banner/$image
 ||play.simplepaste.site/embed$script,domain=kingbokep.media|simontok.vu
 ||poweredby.jads.co^,domain=bokepbox.cc
+||poweredby.jads.co^,domain=kurakura21.net
 ||sebokep.vip/api/crossfeed$xmlhttprequest
 ||sebokep.vip/crossfeed.js$script
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
