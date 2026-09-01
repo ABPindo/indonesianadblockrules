@@ -1,39 +1,55 @@
-kompas.id##.items-center.justify-center.flex.relative.w-full.lg\:min-h-\[132px\].min-h-\[92px\]
+pemersatufun.com##.age-gate-ad-status
     redundant with:
-    kompas.id##.flex.items-center.justify-center.w-full.relative
+    pemersatufun.com##[class*="age-gate"]
 
-kompas.id##.w-full.relative.z-0.flex.flex-1.flex-col.items-stretch.max-w-\[300px\].min-h-\[250px\]
+pemersatufun.com##[class*="age-gate-adblock"]
     redundant with:
-    kompas.id##.items-stretch.flex-col.flex-1.flex.z-0.relative.w-full
+    pemersatufun.com##[class*="age-gate"]
 
-kompas.id##.w-full.relative.z-0.flex.flex-1.flex-col.items-stretch.max-w-\[320px\].min-h-\[100px\]
+video.pemersatu.org##.pmt-ad-gate
     redundant with:
-    kompas.id##.items-stretch.flex-col.flex-1.flex.z-0.relative.w-full
+    video.pemersatu.org##[class*="pmt-ad-gate"]
 
-kumparan.com#?#[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
+||a.magsrv.com^$third-party
     redundant with:
-    kumparan.com##[data-qa-id^="desktop-article-page-inline-"]:has(span:has-text(/ADVERTISEMENT/i))
+    ||magsrv.com^
 
-narasi.tv##.max-xl\:hidden.top-24.left-0.fixed.z-10
+||exacdn.com^$third-party
     redundant with:
-    narasi.tv##.max-xl\:hidden.top-24.fixed.z-10
+    ||exacdn.com^
 
-||glamorous-gate.com^$third-party
+||exdynsrv.com^$third-party
     redundant with:
-    ||glamorous-gate.com^
+    ||exdynsrv.com^
 
-||googlesyndication.com/pagead/js/adsbygoogle.js$redirect-rule=noop.js,script,domain=nekopoi.care
+||exoclick.com^$third-party
     redundant with:
-    ||googlesyndication.com/pagead/
+    ||exoclick.com^
 
-||googlesyndication.com/pagead/js/adsbygoogle.js$rewrite=abp-resource:blank-js,script,domain=nekopoi.care
+||exosrv.com^$third-party
     redundant with:
-    ||googlesyndication.com/pagead/
+    ||exosrv.com^
 
-||mayzaent.com^$third-party
+||fj.fatsoeslandmil.com^$script
     redundant with:
-    ||mayzaent.com^
+    ||fatsoeslandmil.com^
 
-||teeming-comfortable.com^$third-party
+||letterrecoveryunplanted.com^$third-party
     redundant with:
-    ||teeming-comfortable.com^
+    ||letterrecoveryunplanted.com^
+
+||opoxv.com^$third-party
+    redundant with:
+    ||opoxv.com^
+
+||pemsrv.com^$third-party
+    redundant with:
+    ||pemsrv.com^
+
+||poweredby.jads.co^$third-party
+    redundant with:
+    ||jads.co^
+
+||wpadmngr.com^$third-party
+    redundant with:
+    ||wpadmngr.com^
