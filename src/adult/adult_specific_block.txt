@@ -20,6 +20,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||poweredby.jads.co^,domain=bokepbox.cc
 ||ci.putsaggies.com^,domain=boscinema21.bar
 ||ci.putsaggies.com^,domain=bosku21.help
-||jepangbasah.com/ads/*
-||jepangmaniak.com/ads/*
-||goshort.info^,domain=jepangbasah.com
+||jepangbasah.com/ads/*$image
+||jepangmaniak.com/ads/*$image
+||goshort.info^$all,domain=jepangbasah.com
