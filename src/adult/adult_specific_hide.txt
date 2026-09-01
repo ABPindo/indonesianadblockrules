@@ -46,11 +46,11 @@ artisbokep.site###top-floating-banner-inner
 sange.link##.Dvr-B
 sange.link##.DvrCn
 artisbokep.*,artisbokep.online,artisbokep.site##.ab-top-video-banners
-sangetods.net##.active.adde_modal-overlay
+sangetods.net,bosku21.help##.active.adde_modal-overlay
 pemersatu.top##.ad
 asiasizzle.com##.ad-banner
 pemersatu.*##.ad-container
-sangetods.net##.adde_modal_detector-show.adde_modal_detector
+sangetods.net,bosku21.help##.adde_modal_detector-show.adde_modal_detector
 mediahiburan.my##.adplaceholder-mrec
 komikindo.*##.ads a[href]
 komikindo.*##.ads iframe
