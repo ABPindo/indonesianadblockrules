@@ -15,3 +15,5 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||1a-1791.com/video/$media,redirect=noopmp4-1s,domain=anichin.*
 ||1a-1791.com/video/*$media,rewrite=abp-resource:blank-mp4,domain=anichin.*
 ||play.simplepaste.site/embed$script,domain=kingbokep.media|simontok.vu
+||earmuffpostnasalrisotto.com^
+||driverhugoverblown.com^
