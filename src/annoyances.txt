@@ -139,8 +139,6 @@ indonesiabusinesspost.com##body:style(overflow: auto !important;)
 kompas.com###kgmModal-onetap
 kompas.com##+js(aopr, triggerOneTapWall)
 kompas.com##+js(rc, -locked, body)
-
 ! kurakura21.net - anti-adblock popup (CHP Ads Block Detector plugin)
-kurakura21.net##.ekvqyzjqymzltkxnkwyufmgxttzcneuodyxse_rkixstlhqwphwtdhrhjshdubuivwuxrfvpqjsw
-kurakura21.net##.ckivhfxowvtsktlckthzinwdmrzoeuwtfvuj_yqlkwtezxwuwdzodfpinnszvoqlrkuwslova
+kurakura21.net##.tgrxectpstyxyufnyvkvvuivnky_umtosnnhzdutgvqyztwjdbvbswt
 kurakura21.net##img[src*="chp-ads-block-detector"]
