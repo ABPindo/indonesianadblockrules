@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202609041027
+! Version: 202609041042
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 04 Sep 2026 10:27 UTC
+! Last modified: 04 Sep 2026 10:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9818,6 +9818,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||imgur.com/*.gif$image,domain=gocrot.*
 ||jepangbasah.com/ads/$image
 ||jepangmaniak.com/ads/$image
+||juicyads.com^,domain=bokepi.com
 ||juicyads.com^,domain=kurakura21.net
 ||kayatan.vip/api/crossfeed$xmlhttprequest
 ||kayatan.vip/crossfeed.js$script
@@ -10024,6 +10025,7 @@ kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
 video.pemersatu.org##.adsbygoogle
 pemersatu.top##.age-ad-card
 pemersatu.top##.age-gate-ad-mode
+pemersatu.top##.gate-backdrop
 video.pemersatu.org##.pmt-ad-gate
 video.pemersatu.org##[class*="pmt-ad-gate"]
 jepangkawai.com,jepangmaniak.com,jepangmantap.com##a.group.block.relative.w-full.aspect-\[8\/1\].rounded-xl.overflow-hidden.shadow-sm.border.border-slate-200.hover:border-brandgreen.transition.bg-slate-900
