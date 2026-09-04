@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202609012231
+! Version: 202609041027
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 01 Sep 2026 22:31 UTC
+! Last modified: 04 Sep 2026 10:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -4098,7 +4098,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||earmuffpostnasalrisotto.com^
 ||earmuffpostnasalrisotto.com^,domain=bokepbrut.in
 ||endlesshandbaglinked.com^,domain=bokepbrut.in
-||goshort.info^$all,domain=jepangbasah.com
+||goshort.info^$all,domain=jepangbasah.com|jepangkawai.com|jepangmaniak.com|jepangmantap.com
 ||imgur.com/*.gif$image,domain=gocrot.*
 ||jepangbasah.com/ads/$image
 ||jepangmaniak.com/ads/$image
