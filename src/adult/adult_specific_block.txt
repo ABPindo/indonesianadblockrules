@@ -22,7 +22,7 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||ci.putsaggies.com^,domain=bosku21.help
 ||jepangbasah.com/ads/*$image
 ||jepangmaniak.com/ads/*$image
-||goshort.info^$all,domain=jepangbasah.com
+||goshort.info^$all,domain=jepangbasah.com|jepangmaniak.com|jepangkawai.com|jepangmantap.com
 ||juicyads.com^,domain=kurakura21.net
 ||poweredby.jads.co^,domain=kurakura21.net
 ||chaseherbalpasty.com^,domain=kurakura21.net

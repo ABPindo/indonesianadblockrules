@@ -219,3 +219,6 @@ video.pemersatu.org##[class*="pmt-ad-gate"]
 video.pemersatu.org##.adsbygoogle
 pemersatu.top##.age-gate-ad-mode
 pemersatu.top##.age-ad-card
+jepangkawai.com##a.group.block.relative.w-full.aspect-\[8\/1\].rounded-xl.overflow-hidden.shadow-sm.border.border-slate-200.hover:border-brandGreen.transition.bg-slate-900
+jepangmantap.com##a.group.block.relative.w-full.aspect-\[8\/1\].rounded-xl.overflow-hidden.shadow-sm.border.border-slate-200.hover:border-brandGreen.transition.bg-slate-900
+jepangmaniak.com##a.group.block.relative.w-full.aspect-\[8\/1\].rounded-xl.overflow-hidden.shadow-sm.border.border-slate-200.hover:border-brandGreen.transition.bg-slate-900
