@@ -1343,3 +1343,6 @@ indonesians.id##.ads__stick--right
 indonesians.id##.ads__top
 indonesians.id##.ads__box
 playcdn.de,videonode.de##body > a[target="_blank"]
+
+idlix.co##[alt*="content-banner-"]
+idlixku.com##.nb-sponsor-pair
