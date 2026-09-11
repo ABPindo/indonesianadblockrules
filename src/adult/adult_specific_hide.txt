@@ -148,12 +148,12 @@ nekopoi.care##div[class^="mobileads"]
 tantecentil.fans##div[style*="z-index: 999999"]
 indobokepin.com##iframe[src*="dooods.pro/ads_banner"]
 semprot.com##img[data-ad]
-kingbokep.*##img[src*=".gif"]:not(div[class*="video"] > img)
-kingbokep.*##img[src*=".webp"]:not(div[class*="video"] > img)
+kingbokep.media##img[src*=".gif"]:not(div[class*="video"] > img)
+kingbokep.media##img[src*=".webp"]:not(div[class*="video"] > img)
 igo.desu.xxx##overplay
 semprot.com##semprotnenenmontok_f
 igo.desu.xxx##uads_300x250
-kingbokep.*##video[src*=".webm"]:not(div[class*="video"] > img)
+kingbokep.media##video[src*=".webm"]:not(div[class*="video"] > img)
 kumapoi.info###teaser3
 kumapoi.info##.kln
 
