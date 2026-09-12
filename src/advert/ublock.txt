@@ -71,3 +71,5 @@ brobokep.org##+js(nowoif)
 pemersatu.link##+js(rmnt, script, __PEX__)
 
 idlixku.com##a[target*="blank"]:has(> img)
+
+okepindo.com##+js(aeld)

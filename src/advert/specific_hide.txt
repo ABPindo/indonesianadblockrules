@@ -56,6 +56,9 @@ matamata.com##.wrap-ads-r
 suara.com##[id^="berita-terkait-"]
 suara.com##[id^="desktop-native-"]
 kompasiana.com##div.ads-inf-box
+kompasiana.com##.adsReservebox
+kompasiana.com##.adsRail
+kompasiana.com##.adsHorad
 suara.com##div.placeholder_pariwara
 beritasatu.com##div.pt-0.mt-0.mb-3
 zalora.co.id##div.wp-block-image
