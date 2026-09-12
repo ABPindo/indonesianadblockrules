@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202609110924
+! Version: 202609122310
 ! Title: ABPindo (hosts + adult)
 ! Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-! Last modified: 11 Sep 2026 09:24 UTC
+! Last modified: 12 Sep 2026 23:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -231,6 +231,7 @@
 ||dwabt.pro^$third-party
 ||dwagg.me^$third-party
 ||emputogel.com^$third-party
+||eu.kinggroup.buzz^$third-party
 ||europoker.com^$third-party
 ||everypoker.com^$third-party
 ||exacdn.com^$third-party
@@ -372,6 +373,7 @@
 ||taruhanbetting.com^$third-party
 ||taruhancasino.com^$third-party
 ||taruhanku.com^$third-party
+||te.domineehexer.com^$third-party
 ||temannonton.store^$third-party
 ||texaspokercc.com^$third-party
 ||theedgepoker.com^$third-party

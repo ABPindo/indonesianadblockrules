@@ -1,7 +1,7 @@
-# Version: 202609110924
+# Version: 202609122310
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 11 Sep 2026 09:24 UTC
+# Last modified: 12 Sep 2026 23:10 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -226,6 +226,7 @@ local-zone: "dutatoto.com" always_nxdomain
 local-zone: "dwabt.pro" always_nxdomain
 local-zone: "dwagg.me" always_nxdomain
 local-zone: "emputogel.com" always_nxdomain
+local-zone: "eu.kinggroup.buzz" always_nxdomain
 local-zone: "europoker.com" always_nxdomain
 local-zone: "everypoker.com" always_nxdomain
 local-zone: "exacdn.com" always_nxdomain
@@ -366,6 +367,7 @@ local-zone: "tangkas99.com" always_nxdomain
 local-zone: "taruhanbetting.com" always_nxdomain
 local-zone: "taruhancasino.com" always_nxdomain
 local-zone: "taruhanku.com" always_nxdomain
+local-zone: "te.domineehexer.com" always_nxdomain
 local-zone: "temannonton.store" always_nxdomain
 local-zone: "texaspokercc.com" always_nxdomain
 local-zone: "theedgepoker.com" always_nxdomain
