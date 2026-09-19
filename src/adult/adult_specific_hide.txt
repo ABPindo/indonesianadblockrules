@@ -135,6 +135,10 @@ nokephub.com##a[href^="https://genec77.space/"]
 anoboy.*,manhwadesu.im,manhwadesu.org##a[href^="https://klik.gg/"]
 slurr.my.id##a[href^="https://scratchy-trick.com/"]
 18subindo.com##a[href^="https://tinyurl.com/"]
+18subindo.com##.banner-float
+18subindo.com##.banner-float-left
+18subindo.com##.banner-float-right
+18subindo.com##.banner-rotate-wrap
 animekompi.*,artisbokep.*,komikdewasa.art,nekopoi.*,republikbokep.*,sebokep.vip,simontokx.tv,xbokepin.*##a[target*="blank"]:has(> img)
 kayatan.vip##aside > div > .mt-4
 komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !important;)
