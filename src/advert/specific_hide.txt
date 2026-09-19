@@ -1348,3 +1348,13 @@ playcdn.de,videonode.de##body > a[target="_blank"]
 
 idlix.co##[alt*="content-banner-"]
 idlixku.com##.nb-sponsor-pair
+
+journalarta.com##.ja-ad-below-article
+journalarta.com##.ja-ad-hanging-right
+journalarta.com##.ja-ad-leaderboard
+journalarta.com##.ja-ad-matched
+journalarta.com##.ja-ad-sidebar-left
+journalarta.com##.ja-ad-sidebar-single
+journalarta.com##.ja-ad-slot
+journalarta.com##.ja-sidebar-hanging-lane
+journalarta.com##.ja-wpush-show
