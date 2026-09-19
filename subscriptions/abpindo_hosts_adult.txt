@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202609122310
+! Version: 202609190945
 ! Title: ABPindo (hosts + adult)
 ! Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-! Last modified: 12 Sep 2026 23:10 UTC
+! Last modified: 19 Sep 2026 09:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -96,7 +96,6 @@
 ! Potential ad servers
 ||9eb10b7a3d04a.com^$popup,third-party
 ||a.magsrv.com^$third-party
-||adplus.co.id^$third-party
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup,third-party
 ||bondeddarkenedswerve.com^$popup
@@ -107,7 +106,6 @@
 ||filebanner.com^$third-party
 ||fj.fatsoeslandmil.com^$script
 ||flexterkita.com^$third-party
-||fnasmpygwa.com^$third-party
 ||gaslah.my.id^$third-party
 ||iwtserve.com^$popup,third-party
 ||jagoiklan.com^$third-party
@@ -165,7 +163,6 @@
 ||track.zerofriend.com^$popup,third-party
 ||tracker.lazada.co.id^$third-party
 ||trackingclick.net^$third-party
-||traffic-monetizer.com^$third-party
 ||trafficfactory.biz^$popup,third-party
 ||ufo777link.com^$third-party
 ||vm.ydstinkle.com^$third-party
@@ -177,7 +174,6 @@
 ||88togel.com^$third-party
 ||actionpoker.com^$third-party
 ||adroitdeceitcongestion.com^$third-party
-||ads.save21.site^$image,third-party
 ||afapoker.com^$popup
 ||afapoker.com^$third-party
 ||ajar-poet.com^$popup

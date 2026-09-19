@@ -1,7 +1,7 @@
-# Version: 202609122310
+# Version: 202609190945
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 12 Sep 2026 23:10 UTC
+# Last modified: 19 Sep 2026 09:45 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -95,7 +95,6 @@ address=/yesads.com/0.0.0.0
 # Potential ad servers
 address=/9eb10b7a3d04a.com/0.0.0.0
 address=/a.magsrv.com/0.0.0.0
-address=/adplus.co.id/0.0.0.0
 address=/afbcashidr.com/0.0.0.0
 address=/auredzeon.com/0.0.0.0
 address=/bondeddarkenedswerve.com/0.0.0.0
@@ -106,7 +105,6 @@ address=/edomz.com/0.0.0.0
 address=/filebanner.com/0.0.0.0
 address=/fj.fatsoeslandmil.com/0.0.0.0
 address=/flexterkita.com/0.0.0.0
-address=/fnasmpygwa.com/0.0.0.0
 address=/gaslah.my.id/0.0.0.0
 address=/iwtserve.com/0.0.0.0
 address=/jagoiklan.com/0.0.0.0
@@ -163,7 +161,6 @@ address=/track.aptitudemedia.co/0.0.0.0
 address=/track.zerofriend.com/0.0.0.0
 address=/tracker.lazada.co.id/0.0.0.0
 address=/trackingclick.net/0.0.0.0
-address=/traffic-monetizer.com/0.0.0.0
 address=/trafficfactory.biz/0.0.0.0
 address=/ufo777link.com/0.0.0.0
 address=/vm.ydstinkle.com/0.0.0.0
@@ -175,7 +172,6 @@ address=/4vbbb.com/0.0.0.0
 address=/88togel.com/0.0.0.0
 address=/actionpoker.com/0.0.0.0
 address=/adroitdeceitcongestion.com/0.0.0.0
-address=/ads.save21.site/0.0.0.0
 address=/afapoker.com/0.0.0.0
 address=/ajar-poet.com/0.0.0.0
 address=/allvegaspoker.com/0.0.0.0

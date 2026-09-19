@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202609122310
+! Version: 202609190945
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 12 Sep 2026 23:10 UTC
+! Last modified: 19 Sep 2026 09:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -97,7 +97,6 @@
 ! Potential ad servers
 ||9eb10b7a3d04a.com^$popup,third-party
 ||a.magsrv.com^$third-party
-||adplus.co.id^$third-party
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup,third-party
 ||bondeddarkenedswerve.com^$popup
@@ -108,7 +107,6 @@
 ||filebanner.com^$third-party
 ||fj.fatsoeslandmil.com^$script
 ||flexterkita.com^$third-party
-||fnasmpygwa.com^$third-party
 ||gaslah.my.id^$third-party
 ||iwtserve.com^$popup,third-party
 ||jagoiklan.com^$third-party
@@ -166,7 +164,6 @@
 ||track.zerofriend.com^$popup,third-party
 ||tracker.lazada.co.id^$third-party
 ||trackingclick.net^$third-party
-||traffic-monetizer.com^$third-party
 ||trafficfactory.biz^$popup,third-party
 ||ufo777link.com^$third-party
 ||vm.ydstinkle.com^$third-party
@@ -302,7 +299,6 @@ _iklan_|$image
 ||awsubs.*/wp-content/uploads/*.gif$image
 ||bacasaja.id/assets/img/ad_banner.webp$image
 ||beritabaru.news/sc/detect-click.js
-||bioskopkeren.xyz/images/*.gif$image
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
@@ -463,7 +459,6 @@ moutogami.com##+js(aeld, load, /adblock/i)
 juraganfilm.ink##+js(aopr, $.magnificPopup.open)
 3gpterbaru.com##+js(aopr, LieDetector)
 gudangmovies21.chat##+js(aopr, SGPB_POPUP_PARAMS)
-sk21.sob4t.xyz##+js(aopr, popup_custom_data)
 simontokx.tv##+js(aopr, ujiPopups)
 bahasteknologi.com,jenismac.com##+js(nano-sib)
 mudah.my##+js(no-fetch-if, ads.google.com)
@@ -4083,7 +4078,6 @@ totojitu.gif|$image
 ||zynga365.$image,third-party
 ||zyngaqq.$image,third-party
 ! *** abpindo:src/adult/adult_specific_block.txt ***
-$popup,domain=skripsitesisdisertasi.biz.id
 ||143flix.com/matomo.js$script,domain=kayatan.vip|sebokep.vip
 ||1a-1791.com/video/$media,redirect=noopmp4-1s,domain=anichin.*
 ||1a-1791.com/video/$media,rewrite=abp-resource:blank-mp4,domain=anichin.*
@@ -4124,7 +4118,6 @@ $popup,domain=skripsitesisdisertasi.biz.id
 ||88togel.com^$third-party
 ||actionpoker.com^$third-party
 ||adroitdeceitcongestion.com^$third-party
-||ads.save21.site^$image,third-party
 ||afapoker.com^$popup
 ||afapoker.com^$third-party
 ||ajar-poet.com^$popup

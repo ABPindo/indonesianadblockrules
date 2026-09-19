@@ -1,7 +1,7 @@
-# Version: 202609122310
+# Version: 202609190945
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 12 Sep 2026 23:10 UTC
+# Last modified: 19 Sep 2026 09:45 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -95,7 +95,6 @@
 # Potential ad servers
 ||9eb10b7a3d04a.com^
 ||a.magsrv.com^
-||adplus.co.id^
 ||afbcashidr.com^
 ||auredzeon.com^
 ||bondeddarkenedswerve.com^
@@ -106,7 +105,6 @@
 ||filebanner.com^
 ||fj.fatsoeslandmil.com^
 ||flexterkita.com^
-||fnasmpygwa.com^
 ||gaslah.my.id^
 ||iwtserve.com^
 ||jagoiklan.com^
@@ -163,7 +161,6 @@
 ||track.zerofriend.com^
 ||tracker.lazada.co.id^
 ||trackingclick.net^
-||traffic-monetizer.com^
 ||trafficfactory.biz^
 ||ufo777link.com^
 ||vm.ydstinkle.com^
