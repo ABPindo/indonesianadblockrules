@@ -424,13 +424,12 @@
 ##img[data-ai-hint="advertisement banner"]
 ! International ads
 ###ad-link.visible
+###ad_box
 ###adblock-modal
 ###ouibounce-modal
+###sidebar-header img[style="max-width: 100%; height: auto;"]
 ##.ays-pb-modals
+##.newsfeed-satu-container, .newsfeed-dua-container, .newsfeed-tiga-container
 ##.sgpb-popup-dialog-main-div-wrapper
 ##.sgpb-popup-overlay
-##.newsfeed-satu-container, .newsfeed-dua-container, .newsfeed-tiga-container
-###sidebar-header img[style="max-width: 100%; height: auto;"]
-
-###ad_box
 ##div[class*="ads-header"]

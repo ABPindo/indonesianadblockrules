@@ -1,55 +1,28 @@
 pemersatufun.com##.age-gate-ad-status
-    redundant with:
-    pemersatufun.com##[class*="age-gate"]
-
-pemersatufun.com##[class*="age-gate-adblock"]
-    redundant with:
-    pemersatufun.com##[class*="age-gate"]
-
 video.pemersatu.org##.pmt-ad-gate
-    redundant with:
-    video.pemersatu.org##[class*="pmt-ad-gate"]
-
+pemersatufun.com##[class*="age-gate"]
+pemersatufun.com##[class*="age-gate-adblock"]
+video.pemersatu.org##[class*="pmt-ad-gate"]
+redundantwith:
 ||a.magsrv.com^$third-party
-    redundant with:
-    ||magsrv.com^
-
+||exacdn.com^
 ||exacdn.com^$third-party
-    redundant with:
-    ||exacdn.com^
-
+||exdynsrv.com^
 ||exdynsrv.com^$third-party
-    redundant with:
-    ||exdynsrv.com^
-
+||exoclick.com^
 ||exoclick.com^$third-party
-    redundant with:
-    ||exoclick.com^
-
+||exosrv.com^
 ||exosrv.com^$third-party
-    redundant with:
-    ||exosrv.com^
-
+||fatsoeslandmil.com^
 ||fj.fatsoeslandmil.com^$script
-    redundant with:
-    ||fatsoeslandmil.com^
-
+||jads.co^
+||letterrecoveryunplanted.com^
 ||letterrecoveryunplanted.com^$third-party
-    redundant with:
-    ||letterrecoveryunplanted.com^
-
+||magsrv.com^
+||opoxv.com^
 ||opoxv.com^$third-party
-    redundant with:
-    ||opoxv.com^
-
+||pemsrv.com^
 ||pemsrv.com^$third-party
-    redundant with:
-    ||pemsrv.com^
-
 ||poweredby.jads.co^$third-party
-    redundant with:
-    ||jads.co^
-
+||wpadmngr.com^
 ||wpadmngr.com^$third-party
-    redundant with:
-    ||wpadmngr.com^

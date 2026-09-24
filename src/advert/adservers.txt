@@ -81,6 +81,7 @@
 ||yesads.com^$third-party
 ! Potential ad servers
 ||9eb10b7a3d04a.com^$popup,third-party
+||a.magsrv.com^$third-party
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup,third-party
 ||bondeddarkenedswerve.com^$popup
@@ -97,11 +98,9 @@
 ||lokeriklan.com^$third-party
 ||mousheen.net^$third-party
 ||octafx.com^$popup,third-party
+||poweredby.jads.co^$third-party
 ||realwap.net^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||villainoussession.com^$popup
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
-
-||a.magsrv.com^$third-party
-||poweredby.jads.co^$third-party
