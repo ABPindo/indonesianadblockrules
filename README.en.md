@@ -33,18 +33,20 @@ The syntax follows [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-wr
 - **Faster** — Shorter page load times without ad overhead
 
 ## Getting Started
+1. Install the extension that fits your browser: [uBlock Origin](https://github.com/gorhill/uBlock#installation) for Firefox/Firefox-based (best performance and the broadest syntax support), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) for Chrome/Chromium (most up-to-date filters, setup guide [here](https://github.com/ABPindo/indonesianadblockrules/blob/master/wiki/chrome-adguard-setup.md)). Alternatives are [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) and [Adblock Plus](https://adblockplus.org/en/).
 
-1. Install one of the following extensions: [uBlock Origin](https://github.com/gorhill/uBlock#installation) · [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) · [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) · [Adblock Plus](https://adblockplus.org/en/)
-2. Click **[▶ Subscribe ABPindo (GitHub)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)** or **[▶ Subscribe ABPindo (jsDelivr)](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/ABPindo/indonesianadblockrules@master/subscriptions/abpindo.txt&title=ABPindo)** to activate the filter. Alternately, copy the **RAW File** link from the table below and add it manually via your extension's filter settings.
+2. Enable ABPindo by clicking **[▶ Subscribe ABPindo (GitHub)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)** or **[▶ Subscribe ABPindo (jsDelivr)](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/ABPindo/indonesianadblockrules@master/subscriptions/abpindo.txt&title=ABPindo)**. If the subscribe buttons don't work, copy the **RAW File** link from the *Filter Variants* table and add it in your extension's filter settings.
 
-> **Recommendations:** Firefox/Firefox-based → uBlock Origin (best performance and syntax support); Chrome/Chromium → AdGuard (most up-to-date filters, setup guide [here](https://github.com/ABPindo/indonesianadblockrules/blob/master/wiki/chrome-adguard-setup.md)).
+3. Make sure these filters are active in your extension:
 
-| Extension | Base filters | Notes |
-|---|---|---|
-| uBlock Origin | EasyList + EasyPrivacy + uBlock filters + **ABPindo** | Full support for all syntax |
-| AdGuard | AdGuard Base + AdGuard Tracking Protection + **ABPindo** | Use AdGuard Annoyances as supplement |
-| Adblock Plus | EasyList + EasyPrivacy + ABP filters + **ABPindo** | Use EasyList Annoyances as supplement |
-| Brave | Brave Filters + **ABPindo** | Built-in filters already active |
+   | Extension | Active filters | Notes |
+   |---|---|---|
+   | uBlock Origin | EasyList + EasyPrivacy + uBlock filters + **ABPindo** | Full support for all syntax |
+   | AdGuard | AdGuard Base + AdGuard Tracking Protection + **ABPindo** | Use AdGuard Annoyances as supplement |
+   | Adblock Plus | EasyList + EasyPrivacy + ABP filters + **ABPindo** | Use EasyList Annoyances as supplement |
+   | Brave | Brave Filters + **ABPindo** | Built-in filters already active |
+
+**Additional settings:**
 
 > **Note for uBlock Origin Lite users:** Set *default filtering mode* to **Complete** so all ad elements are blocked. See [the full guide here](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/wiki/assets/setup-browser-extension/fig1.png).
 

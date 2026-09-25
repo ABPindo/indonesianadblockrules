@@ -33,17 +33,19 @@ Sintaksnya mengikuti [Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-
 - **Lebih Cepat** — Waktu membuka halaman web lebih singkat tanpa beban iklan
 
 ## Cara Menggunakan
+1. Pasang ekstensi yang sesuai dengan browser Anda: [uBlock Origin](https://github.com/gorhill/uBlock#installation) untuk Firefox/Firefox-based (performa terbaik dan dukungan sintaks paling lengkap), [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) untuk Chrome/Chromium (filter paling up-to-date, panduan setup [di sini](https://github.com/ABPindo/indonesianadblockrules/blob/master/wiki/chrome-adguard-setup.md)). Alternatifnya [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) dan [Adblock Plus](https://adblockplus.org/en/).
 
-1. Pasang salah satu ekstensi: [uBlock Origin](https://github.com/gorhill/uBlock#installation) · [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) · [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) · [Adblock Plus](https://adblockplus.org/en/)
-2. Klik **[▶ Subscribe ABPindo (GitHub)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)** atau **[▶ Subscribe ABPindo (jsDelivr)](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/ABPindo/indonesianadblockrules@master/subscriptions/abpindo.txt&title=ABPindo)** untuk langsung mengaktifkan filter. Alternatifnya, salin tautan **RAW** dari tabel *Variasi Filter* dan tambahkan lewat pengaturan filter di ekstensi Anda.
+2. Aktifkan ABPindo dengan mengklik **[▶ Subscribe ABPindo (GitHub)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo)** atau **[▶ Subscribe ABPindo (jsDelivr)](https://subscribe.adblockplus.org/?location=https://cdn.jsdelivr.net/gh/ABPindo/indonesianadblockrules@master/subscriptions/abpindo.txt&title=ABPindo)**. Kalau tombol subscribe tidak bisa dipakai, salin tautan **RAW** dari tabel *Variasi Filter* dan tambahkan lewat pengaturan filter ekstensi Anda.
 
-> **Rekomendasi:** Firefox/Firefox-based → uBlock Origin (performa & dukungan sintaks terbaik); Chrome/Chromium → AdGuard (filter paling up-to-date, panduan [di sini](https://github.com/ABPindo/indonesianadblockrules/blob/master/wiki/chrome-adguard-setup.md)).
+3. Pastikan filter berikut aktif di ekstensi Anda:
 
-| Ekstensi | Filter dasar yang harus aktif |
-|---|---|
-| uBlock Origin | EasyList + EasyPrivacy + uBlock filters + **ABPindo** |
-| AdGuard | AdGuard Base + AdGuard Tracking Protection + **ABPindo** |
-| Adblock Plus | EasyList + EasyPrivacy + ABP filters + **ABPindo** |
+   | Ekstensi | Filter yang harus aktif |
+   |---|---|
+   | uBlock Origin | EasyList + EasyPrivacy + uBlock filters + **ABPindo** |
+   | AdGuard | AdGuard Base + AdGuard Tracking Protection + **ABPindo** |
+   | Adblock Plus | EasyList + EasyPrivacy + ABP filters + **ABPindo** |
+
+**Setelan tambahan:**
 
 > **Catatan untuk pengguna uBlock Origin Lite:** Setel *default filtering mode* ke **Complete** agar semua elemen iklan terblokir. Lihat [panduan lengkapnya di sini](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/wiki/assets/setup-browser-extension/fig1.png).
 
