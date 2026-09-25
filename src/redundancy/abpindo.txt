@@ -1,9 +1,9 @@
 pemersatufun.com##.age-gate-ad-status
-video.pemersatu.org##.pmt-ad-gate
 pemersatufun.com##[class*="age-gate"]
 pemersatufun.com##[class*="age-gate-adblock"]
-video.pemersatu.org##[class*="pmt-ad-gate"]
 redundantwith:
+video.pemersatu.org##.pmt-ad-gate
+video.pemersatu.org##[class*="pmt-ad-gate"]
 ||a.magsrv.com^$third-party
 ||exacdn.com^
 ||exacdn.com^$third-party
