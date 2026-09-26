@@ -198,3 +198,6 @@ pemersatu.top##.gate-backdrop
 video.pemersatu.org##.pmt-ad-gate
 video.pemersatu.org##[class*="pmt-ad-gate"]
 jepangkawai.com,jepangmaniak.com,jepangmantap.com##a.group.block.relative.w-full.aspect-\[8\/1\].rounded-xl.overflow-hidden.shadow-sm.border.border-slate-200.hover:border-brandgreen.transition.bg-slate-900
+zonaplus.space###popup-banner-overlay
+zonaplus.space##div.popup-banner-content
+zonaplus.space##div.popup-banner-grid
