@@ -1,7 +1,7 @@
-# Version: 202609251036
+# Version: 202609260417
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 25 Sep 2026 10:36 UTC
+# Last modified: 26 Sep 2026 04:17 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
