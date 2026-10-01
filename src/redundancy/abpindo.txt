@@ -1,28 +1,107 @@
 pemersatufun.com##.age-gate-ad-status
-pemersatufun.com##[class*="age-gate"]
+    redundant with:
+    pemersatufun.com##[class*="age-gate"]
+
 pemersatufun.com##[class*="age-gate-adblock"]
-redundantwith:
+    redundant with:
+    pemersatufun.com##[class*="age-gate"]
+
 video.pemersatu.org##.pmt-ad-gate
-video.pemersatu.org##[class*="pmt-ad-gate"]
+    redundant with:
+    video.pemersatu.org##[class*="pmt-ad-gate"]
+
 ||a.magsrv.com^$third-party
-||exacdn.com^
+    redundant with:
+    ||magsrv.com^
+
+||cdn.tsyndicate.com^,domain=kurakura21.net
+    redundant with:
+    ||tsyndicate.com^
+
+||chaseherbalpasty.com^,domain=kurakura21.net
+    redundant with:
+    ||chaseherbalpasty.com^
+
+||ci.putsaggies.com^,domain=boscinema21.bar
+    redundant with:
+    ||putsaggies.com^
+
+||ci.putsaggies.com^,domain=bosku21.help
+    redundant with:
+    ||putsaggies.com^
+
+||deductgreedyheadroom.com^,domain=bokepbrut.in
+    redundant with:
+    ||deductgreedyheadroom.com^
+
+||earmuffpostnasalrisotto.com^,domain=bokepbrut.in
+    redundant with:
+    ||earmuffpostnasalrisotto.com^
+
+||endlesshandbaglinked.com^,domain=bokepbrut.in
+    redundant with:
+    ||endlesshandbaglinked.com^
+
 ||exacdn.com^$third-party
-||exdynsrv.com^
+    redundant with:
+    ||exacdn.com^
+
 ||exdynsrv.com^$third-party
-||exoclick.com^
+    redundant with:
+    ||exdynsrv.com^
+
 ||exoclick.com^$third-party
-||exosrv.com^
+    redundant with:
+    ||exoclick.com^
+
 ||exosrv.com^$third-party
-||fatsoeslandmil.com^
+    redundant with:
+    ||exosrv.com^
+
 ||fj.fatsoeslandmil.com^$script
-||jads.co^
-||letterrecoveryunplanted.com^
+    redundant with:
+    ||fatsoeslandmil.com^
+
+||karxklgspgv.com^$third-party
+    redundant with:
+    ||karxklgspgv.com^
+
 ||letterrecoveryunplanted.com^$third-party
-||magsrv.com^
-||opoxv.com^
+    redundant with:
+    ||letterrecoveryunplanted.com^
+
 ||opoxv.com^$third-party
-||pemsrv.com^
+    redundant with:
+    ||opoxv.com^
+
 ||pemsrv.com^$third-party
+    redundant with:
+    ||pemsrv.com^
+
 ||poweredby.jads.co^$third-party
-||wpadmngr.com^
+    redundant with:
+    ||jads.co^
+
+||poweredby.jads.co^,domain=bokep.pemersatu.top
+    redundant with:
+    ||jads.co^
+
+||poweredby.jads.co^,domain=bokepbox.cc
+    redundant with:
+    ||jads.co^
+
+||poweredby.jads.co^,domain=kurakura21.net
+    redundant with:
+    ||jads.co^
+
+||te.domineehexer.com^$third-party
+    redundant with:
+    ||domineehexer.com^
+
+||wirzflrmlcvbyh.com^$third-party
+    redundant with:
+    ||wirzflrmlcvbyh.com^
+
 ||wpadmngr.com^$third-party
+    redundant with:
+    ||wpadmngr.com^
