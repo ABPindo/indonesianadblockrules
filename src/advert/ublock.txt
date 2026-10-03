@@ -44,6 +44,7 @@ carisinyal.com##+js(rmnt, script, showModal)
 vicek.id##+js(set, VK_DIRECT_AD, undefined)
 sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
+video.pemersatu.org##+js(rc, ad, div, stay)
 ! --- network rules with redirect/redirect-rule/to --------------------------- !
 indoporntube.com##+js(acis, document.querySelector, adsbygoogle)
 02.cosmicscans.to,91porn.com,okepindo.com##+js(aeld)

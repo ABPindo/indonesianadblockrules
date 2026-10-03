@@ -198,3 +198,5 @@ jepangkawai.com,jepangmaniak.com,jepangmantap.com##a.group.block.relative.w-full
 zonaplus.space###popup-banner-overlay
 zonaplus.space##div.popup-banner-content
 zonaplus.space##div.popup-banner-grid
+video.pemersatu.org##.pvs-ad
+video.pemersatu.org##.widget_custom_html:has(> .custom-html-widget > ins[id])
