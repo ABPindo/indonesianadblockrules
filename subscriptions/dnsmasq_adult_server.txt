@@ -1,7 +1,7 @@
-# Version: 202609260417
+# Version: 202610030001
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 26 Sep 2026 04:17 UTC
+# Last modified: 03 Oct 2026 00:01 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -94,7 +94,6 @@ server=/webiklan.com/
 server=/yesads.com/
 # Potential ad servers
 server=/9eb10b7a3d04a.com/
-server=/a.magsrv.com/
 server=/afbcashidr.com/
 server=/auredzeon.com/
 server=/bondeddarkenedswerve.com/
@@ -103,22 +102,18 @@ server=/dairouzy.net/
 server=/doathair.com/
 server=/edomz.com/
 server=/filebanner.com/
-server=/fj.fatsoeslandmil.com/
 server=/flexterkita.com/
 server=/gaslah.my.id/
 server=/iwtserve.com/
 server=/jagoiklan.com/
-server=/karxklgspgv.com/
 server=/lokeriklan.com/
 server=/mousheen.net/
 server=/octafx.com/
-server=/poweredby.jads.co/
 server=/premiumproven.com/
 server=/realwap.net/
 server=/sebar.idblognetwork.com/
 server=/villainoussession.com/
 server=/vkwaeo.com/
-server=/wirzflrmlcvbyh.com/
 server=/yllix.com/
 # *** abpindo:src/advert/thirdparty.txt ***
 server=/388hero.bio/
@@ -228,10 +223,6 @@ server=/emputogel.com/
 server=/eu.kinggroup.buzz/
 server=/europoker.com/
 server=/everypoker.com/
-server=/exacdn.com/
-server=/exdynsrv.com/
-server=/exoclick.com/
-server=/exosrv.com/
 server=/feltpoker.com/
 server=/file-assist.xuzor.com/
 server=/gembul.xyz/
@@ -263,7 +254,6 @@ server=/kedaijudi.com/
 server=/kingtogel.com/
 server=/launchpoker.com/
 server=/lazacasino.com/
-server=/letterrecoveryunplanted.com/
 server=/linkjalur.vip/
 server=/lockerimage.com/
 server=/login.ashk7.com/
@@ -294,9 +284,7 @@ server=/obobet.net/
 server=/offwardscraps.com/
 server=/online5poker.com/
 server=/onlinepoker66.com/
-server=/opoxv.com/
 server=/pacificpoker.com/
-server=/pemsrv.com/
 server=/pkr-88.com/
 server=/planettoto.com/
 server=/playpokeronline.com/
@@ -366,7 +354,6 @@ server=/tangkas99.com/
 server=/taruhanbetting.com/
 server=/taruhancasino.com/
 server=/taruhanku.com/
-server=/te.domineehexer.com/
 server=/temannonton.store/
 server=/texaspokercc.com/
 server=/theedgepoker.com/
@@ -406,7 +393,6 @@ server=/websitejudi.com/
 server=/whelmlegge.com/
 server=/wigobet.com/
 server=/win25keren.store/
-server=/wpadmngr.com/
 server=/wprediscache.com/
 server=/xjudi.com/
 server=/yourpokercash.com/
