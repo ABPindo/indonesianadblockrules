@@ -1,4 +1,4 @@
-.gif$image,domain=anichin.watch|baladfilm.*|bgibola.com|bioskopkerenin.*|cosmicscans.*|kiryuu.*|kiryuu03.*|komikcast.*|kuramanime.*|mangakita.*|movieku.*|nontondrama.*|okestream.*|oploverz.*|shinigami09.com|winbu.*
+.gif$image,domain=anichin.watch|baladfilm.*|cosmicscans.*|kiryuu.*|kiryuu03.*|kuramanime.*|mangakita.*|movieku.*|nontondrama.*|okestream.*|oploverz.*|shinigami09.com|winbu.*|11\.shinigami\.asia|shinigami\.asia
 ||1cak.com/shopee
 ||adsafelink.com/js/webscript.js$script,third-party
 ||angel.exabytes.com.my/banners/
@@ -126,6 +126,10 @@
 ||senimovies.*/wp-content/uploads/*.gif$image
 ||serunonton.*/wp-content/uploads/*.gif$image
 ||shinigami.*/auto/$image
+||ads.shinigami.io$domain
+slider.shinigami.io##.ad-container
+||37c01eb7.shng.me$domain
+shinigamiscans.com##.ad-container
 ||shopee.co.id^$popup,domain=berkasdrive.*|nimegami.*
 ||shrinkads.com/js/xe.js$script
 ||snacklink.id/js/web-script.js$script,third-party
