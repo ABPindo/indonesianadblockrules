@@ -233,6 +233,8 @@ benfile.com,blifnews.com,mangacanblog.com,movieku.*,semuaberita.com###btm_banner
 mangacanblog.com###close
 downloadfilmbaru.*###close-ads-stack
 ayobandung.com,ayojakarta.com,hops.id,jawapos.com,pikiran-rakyat.com,resepkoki.id###cont-megabillboard
+jawapos.com##[id^="home-ad-"]
+jawapos.com##div.relative.rt-r-min-h.rt-r-w.rt-Box
 kompas.com###credential_picker_container
 dailypost.id###custom_html-136
 tirto.id###delayedPopup
