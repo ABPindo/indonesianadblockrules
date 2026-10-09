@@ -126,8 +126,8 @@
 ||senimovies.*/wp-content/uploads/*.gif$image
 ||serunonton.*/wp-content/uploads/*.gif$image
 ||shinigami.*/auto/$image
-||ads.shinigami.io$domain
-||37c01eb7.shng.me$domain
+||ads.shinigami.io^
+||37c01eb7.shng.me^
 ||shopee.co.id^$popup,domain=berkasdrive.*|nimegami.*
 ||shrinkads.com/js/xe.js$script
 ||snacklink.id/js/web-script.js$script,third-party
