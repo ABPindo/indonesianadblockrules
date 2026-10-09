@@ -1,4 +1,3 @@
-!
 wisatabkpindo.*###Floating-footer-banner
 igo-bokep.bond###GLOBAL-ADS-CLOSE
 igo-bokep.bond,igobokep.*###GLOBAL-ADS-FLOAT
@@ -9,7 +8,6 @@ krucil.com###KD_adpB
 avtubhub.*,urlkontolin.click###adblock-modal
 cctvbokep.bet,dutasex.*,dutasex.bio,dutasex.com,inibokep.bet,perawanbokep.*###ads
 pemersatufun.com###advertisement
-#ayojatim.com-adsbygoogle(AdSense)
 bintangmawar.net###bmpop_adpB
 pemersatufun.*###btasd
 kebokepanku.com###close-floatadsbawah
@@ -30,12 +28,10 @@ matapria.cam###floating-top-banner
 kayatan.vip###floatingBanner
 ruangbokep.*,ruangbokep.com,streamingbokeponline.*###floating_bot
 tempatbokep.com###global-promo-wrapper
-#kebokepanku.com-floatingadbanneratbottomofvideoplayer
 terviral.cam###lin-floating-ad
 rumahparaperjaka.*###modal
 bokep.pemersatu.top,pemersatufun.*###myDiv
 minioppai.org###overplay
-#pemersatufun.com-anti-adblockagegate(Monetag/magsrv)
 iyottube.co,iyottube.com###playerOverlay
 javbabe.net,nekopoi.*###popup
 asiasizzle.com,flickerlust.com,indoxxihot.com,markasfilmhot.com###popup-banner-overlay
@@ -62,7 +58,6 @@ mediahiburan.my##.adplaceholder-mrec
 komikindo.*##.ads a[href]
 komikindo.*##.ads iframe
 videocrot.*##.ads-720
-ayojatim.com##.adsbygoogle
 nekopoi.care##.adsgen
 lkprd.fun,lkprd.site##.adshu
 pascol.*,sintube.*##.ays-pb-modals
@@ -188,7 +183,6 @@ semprot.com##semprotnenenmontok_f
 indoporntube.com##svg.lucide-shield-alert
 igo.desu.xxx##uads_300x250
 kingbokep.media##video[src*=".webm"]:not(div[class*="video"] > img)
-! video.pemersatu.org - anti-adblock ad-gate (Monetag/magsrv + jads.co)
 video.pemersatu.org##.adsbygoogle
 pemersatu.top##.age-ad-card
 pemersatu.top##.age-gate-ad-mode
