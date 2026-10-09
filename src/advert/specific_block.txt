@@ -1,4 +1,4 @@
-.gif$image,domain=anichin.watch|baladfilm.*|cosmicscans.*|kiryuu.*|kiryuu03.*|kuramanime.*|mangakita.*|movieku.*|nontondrama.*|okestream.*|oploverz.*|shinigami09.com|winbu.*|11\.shinigami\.asia|shinigami\.asia
+.gif$image,domain=anichin.watch|baladfilm.*|cosmicscans.*|kiryuu.*|kiryuu03.*|kuramanime.*|mangakita.*|movieku.*|nontondrama.*|okestream.*|oploverz.*|shinigami09.com|winbu.*|shinigami.*
 ||1cak.com/shopee
 ||adsafelink.com/js/webscript.js$script,third-party
 ||angel.exabytes.com.my/banners/
@@ -127,9 +127,7 @@
 ||serunonton.*/wp-content/uploads/*.gif$image
 ||shinigami.*/auto/$image
 ||ads.shinigami.io$domain
-slider.shinigami.io##.ad-container
 ||37c01eb7.shng.me$domain
-shinigamiscans.com##.ad-container
 ||shopee.co.id^$popup,domain=berkasdrive.*|nimegami.*
 ||shrinkads.com/js/xe.js$script
 ||snacklink.id/js/web-script.js$script,third-party
@@ -151,7 +149,6 @@ shinigamiscans.com##.ad-container
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-! Miscellaneous popups
 $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|wrt.my.id
 ||bk21.net/*.gif$image$domain=juragan.film
 ||img.gm21.download/$image
@@ -159,14 +156,5 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 ||kawanfilm21.co/wp-content/uploads/*tambakbet$image
 ||s1.bk21.net/777/$image
 ||seputarforex.com^*/banner-$image
-|||seputarforex.org^*/banner_
-! --- v7.voratoon.com ad domains ---
-||aksesin.top^$third-party
-||cek.to^$third-party
-||gacor.vin^$third-party
-||gacor.zone^$third-party
-||i.88cdn.cloud^$third-party
-||klik.top^$third-party
-||menujupenta.site^$third-party
-||tajir.la^$third-party
-||kegz.site^$third-party
+||seputarforex.org^*/banner_
+
