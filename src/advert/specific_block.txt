@@ -159,4 +159,14 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 ||kawanfilm21.co/wp-content/uploads/*tambakbet$image
 ||s1.bk21.net/777/$image
 ||seputarforex.com^*/banner-$image
-||seputarforex.org^*/banner_
+|||seputarforex.org^*/banner_
+! --- v7.voratoon.com ad domains ---
+||aksesin.top^$third-party
+||cek.to^$third-party
+||gacor.vin^$third-party
+||gacor.zone^$third-party
+||i.88cdn.cloud^$third-party
+||klik.top^$third-party
+||menujupenta.site^$third-party
+||tajir.la^$third-party
+||kegz.site^$third-party

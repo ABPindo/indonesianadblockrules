@@ -45,17 +45,17 @@ vicek.id##+js(set, VK_DIRECT_AD, undefined)
 sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
 video.pemersatu.org##+js(rc, ad, div, stay)
-! --- network rules with redirect/redirect-rule/to --------------------------- !
 indoporntube.com##+js(acis, document.querySelector, adsbygoogle)
 02.cosmicscans.to,91porn.com,okepindo.com##+js(aeld)
 i-jav.space,pemersatu.*##+js(aopw, document.body.innerHTML)
 brobokep.org,indoporntube.com,streamget.win##+js(nowoif)
 pemersatu.link##+js(rmnt, script, __PEX__)
-/wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
 anichin.cafe,anichin.watch##a:has(img[src$=".gif"])
 anichin.cafe,anichin.co,idlixku.com##a[target*="blank"]:has(> img)
+! --- network rules with redirect/redirect-rule/to --------------------------- !
 ||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
 ||bk21.net/*.mp4$media,redirect=noopmp4-1s,domain=juragan.film
 ||digitaloceanspaces.com/nokephub/$media,redirect=noopmp4-1s
 ||r2.dev/*.mp4$media,redirect=noopmp4-1s,domain=nokephub.*
 ||serverx16.online/hls/$media,redirect=noopmp4-1s
+/wp-content/uploads/*$media,redirect=noopmp4-1s,domain=nokephub.*
