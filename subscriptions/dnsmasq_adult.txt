@@ -1,7 +1,7 @@
-# Version: 202610081229
+# Version: 202610091405
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 08 Oct 2026 12:29 UTC
+# Last modified: 09 Oct 2026 14:05 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -116,8 +116,7 @@ address=/villainoussession.com/0.0.0.0
 address=/vkwaeo.com/0.0.0.0
 address=/yllix.com/0.0.0.0
 # *** abpindo:src/advert/thirdparty.txt ***
-address=/388hero.bio/0.0.0.0
-address=/akseskaiko.cam/0.0.0.0
+address=/access.kaiko.cam/0.0.0.0
 address=/archivehub.com.ng/0.0.0.0
 address=/bandarxl.bio/0.0.0.0
 address=/bergurukecina.fun/0.0.0.0
@@ -132,10 +131,8 @@ address=/goid.space/0.0.0.0
 address=/goratu.site/0.0.0.0
 address=/injd.site/0.0.0.0
 address=/inshorturl.com/0.0.0.0
-address=/kegz.site/0.0.0.0
 address=/klik.zeus.fun/0.0.0.0
 address=/klik4.me/0.0.0.0
-address=/menujupenta.site/0.0.0.0
 address=/moneyfree.co/0.0.0.0
 address=/nf.diamberproetid.com/0.0.0.0
 address=/orangarab.fun/0.0.0.0
@@ -164,7 +161,6 @@ address=/ufo777link.com/0.0.0.0
 address=/vm.ydstinkle.com/0.0.0.0
 address=/wg87vip.bet/0.0.0.0
 # *** abpindo:src/adult/adult_thirdparty.txt ***
-#putarvid.com/kebokepanku.com-popMagic/ExoClickpopup/popunderdomains
 address=/32redpoker.com/0.0.0.0
 address=/4vbbb.com/0.0.0.0
 address=/88togel.com/0.0.0.0
@@ -172,6 +168,7 @@ address=/actionpoker.com/0.0.0.0
 address=/adroitdeceitcongestion.com/0.0.0.0
 address=/afapoker.com/0.0.0.0
 address=/ajar-poet.com/0.0.0.0
+address=/aksesin.top/0.0.0.0
 address=/allvegaspoker.com/0.0.0.0
 address=/anaktogel.com/0.0.0.0
 address=/aosbobet.com/0.0.0.0
@@ -200,6 +197,7 @@ address=/caramenangtogel.com/0.0.0.0
 address=/casinoclubpoker.com/0.0.0.0
 address=/cdn.assetcsn.site/0.0.0.0
 address=/cdpoker.com/0.0.0.0
+address=/cek.to/0.0.0.0
 address=/celebpoker.com/0.0.0.0
 address=/chilipoker.com/0.0.0.0
 address=/clickadu.com/0.0.0.0
@@ -215,7 +213,6 @@ address=/delapantogel.com/0.0.0.0
 address=/deltatoto.com/0.0.0.0
 address=/dewijudi.com/0.0.0.0
 address=/dewitogel.com/0.0.0.0
-address=/dooods.pro/0.0.0.0
 address=/dutatoto.com/0.0.0.0
 address=/dwabt.pro/0.0.0.0
 address=/dwagg.me/0.0.0.0
@@ -225,12 +222,13 @@ address=/europoker.com/0.0.0.0
 address=/everypoker.com/0.0.0.0
 address=/feltpoker.com/0.0.0.0
 address=/file-assist.xuzor.com/0.0.0.0
+address=/gacor.vin/0.0.0.0
+address=/gacor.zone/0.0.0.0
 address=/gembul.xyz/0.0.0.0
 address=/gentingpoker.com/0.0.0.0
 address=/goldentigerpoker.com/0.0.0.0
 address=/goldentoto.com/0.0.0.0
 address=/goldtoto.com/0.0.0.0
-address=/histats.com/0.0.0.0
 address=/hokijudi99.com/0.0.0.0
 address=/hokitogel.com/0.0.0.0
 address=/homepokergames.com/0.0.0.0
@@ -251,7 +249,9 @@ address=/judionlinepoker.com/0.0.0.0
 address=/juicyads.com/0.0.0.0
 address=/k7poker.com/0.0.0.0
 address=/kedaijudi.com/0.0.0.0
+address=/kegz.site/0.0.0.0
 address=/kingtogel.com/0.0.0.0
+address=/klik.top/0.0.0.0
 address=/launchpoker.com/0.0.0.0
 address=/lazacasino.com/0.0.0.0
 address=/linkjalur.vip/0.0.0.0
@@ -265,6 +265,7 @@ address=/markastogel.com/0.0.0.0
 address=/masterjudi.blog.com/0.0.0.0
 address=/masterjudi.com/0.0.0.0
 address=/maxbetqq.net/0.0.0.0
+address=/menujupenta.site/0.0.0.0
 address=/mickeypoker.com/0.0.0.0
 address=/mintedpoker.com/0.0.0.0
 address=/misterindo.net/0.0.0.0
@@ -350,6 +351,7 @@ address=/surgajudi.com/0.0.0.0
 address=/suvtub.id/0.0.0.0
 address=/switchpoker.com/0.0.0.0
 address=/t2m.io/0.0.0.0
+address=/tajir.la/0.0.0.0
 address=/tangkas99.com/0.0.0.0
 address=/taruhanbetting.com/0.0.0.0
 address=/taruhancasino.com/0.0.0.0
