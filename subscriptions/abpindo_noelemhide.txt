@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202609191414
+! Version: 202610081229
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 19 Sep 2026 14:14 UTC
+! Last modified: 08 Oct 2026 12:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -96,7 +96,6 @@
 ||yesads.com^$third-party
 ! Potential ad servers
 ||9eb10b7a3d04a.com^$popup,third-party
-||a.magsrv.com^$third-party
 ||afbcashidr.com^$popup,third-party
 ||auredzeon.com^$popup,third-party
 ||bondeddarkenedswerve.com^$popup
@@ -105,7 +104,6 @@
 ||doathair.com^$third-party
 ||edomz.com^$third-party
 ||filebanner.com^$third-party
-||fj.fatsoeslandmil.com^$script
 ||flexterkita.com^$third-party
 ||gaslah.my.id^$third-party
 ||iwtserve.com^$popup,third-party
@@ -113,7 +111,7 @@
 ||lokeriklan.com^$third-party
 ||mousheen.net^$third-party
 ||octafx.com^$popup,third-party
-||poweredby.jads.co^$third-party
+||premiumproven.com^$third-party
 ||realwap.net^$third-party
 ||sebar.idblognetwork.com^$third-party
 ||villainoussession.com^$popup
@@ -486,20 +484,14 @@ vicek.id##+js(set, VK_DIRECT_AD, undefined)
 sukasex.tv##.responsive-player > iframe + div[style*="z-index"]
 3gpterbaru.com,duniaseksi.com##^script:has-text(/decodeURIComponent\(escape|fairAdblock/)
 ! --- network rules with redirect/redirect-rule/to --------------------------- !
-/wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
-02.cosmicscans.to##+js(aeld)
-91porn.com##+js(aeld)
-anichin.cafe,anichin.co##a[target*="blank"]:has(> img)
-anichin.cafe,anichin.watch##a:has(img[src$=".gif"])
-brobokep.org##+js(nowoif)
-i-jav.space##+js(aopw, document.body.innerHTML)
-idlixku.com##a[target*="blank"]:has(> img)
 indoporntube.com##+js(acis, document.querySelector, adsbygoogle)
-indoporntube.com##+js(nowoif)
-okepindo.com##+js(aeld)
-pemersatu.*##+js(aopw, document.body.innerHTML)
+02.cosmicscans.to,91porn.com,okepindo.com##+js(aeld)
+i-jav.space,pemersatu.*##+js(aopw, document.body.innerHTML)
+brobokep.org,indoporntube.com,streamget.win##+js(nowoif)
 pemersatu.link##+js(rmnt, script, __PEX__)
-streamget.win##+js(nowoif)
+/wp-content/uploads/*$media,redirect=noopmp4-1s,to=nokephub.*
+anichin.cafe,anichin.watch##a:has(img[src$=".gif"])
+anichin.cafe,anichin.co,idlixku.com##a[target*="blank"]:has(> img)
 ||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
 ||bk21.net/*.mp4$media,redirect=noopmp4-1s,domain=juragan.film
 ||digitaloceanspaces.com/nokephub/$media,redirect=noopmp4-1s
@@ -4084,16 +4076,9 @@ totojitu.gif|$image
 ||anichin.cafe/wp-content/uploads/*hp-*777$image
 ||blogger.googleusercontent.com/img/$image,domain=igodesu.tv
 ||cdn.teknolur.eu.org^$image,domain=kingbokep.media
-||cdn.tsyndicate.com^,domain=kurakura21.net
 ||ceritanakal.com/wp-content/uploads/2025/06/GIF-*.gif$image
-||chaseherbalpasty.com^,domain=kurakura21.net
-||ci.putsaggies.com^,domain=boscinema21.bar
-||ci.putsaggies.com^,domain=bosku21.help
-||deductgreedyheadroom.com^,domain=bokepbrut.in
 ||driverhugoverblown.com^
 ||earmuffpostnasalrisotto.com^
-||earmuffpostnasalrisotto.com^,domain=bokepbrut.in
-||endlesshandbaglinked.com^,domain=bokepbrut.in
 ||goshort.info^$all,domain=jepangbasah.com|jepangkawai.com|jepangmaniak.com|jepangmantap.com
 ||imgur.com/*.gif$image,domain=gocrot.*
 ||jepangbasah.com/ads/$image
@@ -4106,9 +4091,6 @@ totojitu.gif|$image
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||pic.desu.xxx/content/banner/$image
 ||play.simplepaste.site/embed$script,domain=kingbokep.media|simontok.vu
-||poweredby.jads.co^,domain=bokep.pemersatu.top
-||poweredby.jads.co^,domain=bokepbox.cc
-||poweredby.jads.co^,domain=kurakura21.net
 ||sebokep.vip/api/crossfeed$xmlhttprequest
 ||sebokep.vip/crossfeed.js$script
 ! *** abpindo:src/adult/adult_thirdparty.txt ***
@@ -4174,10 +4156,6 @@ totojitu.gif|$image
 ||eu.kinggroup.buzz^$third-party
 ||europoker.com^$third-party
 ||everypoker.com^$third-party
-||exacdn.com^$third-party
-||exdynsrv.com^$third-party
-||exoclick.com^$third-party
-||exosrv.com^$third-party
 ||feltpoker.com^$third-party
 ||file-assist.xuzor.com^$third-party
 ||gembul.xyz^$third-party
@@ -4210,7 +4188,6 @@ totojitu.gif|$image
 ||launchpoker.com^$third-party
 ||lazacasino.com^$image,third-party
 ||lazacasino.com^$popup
-||letterrecoveryunplanted.com^$third-party
 ||linkjalur.vip^$third-party
 ||lockerimage.com^$all
 ||login.ashk7.com^$third-party
@@ -4241,9 +4218,7 @@ totojitu.gif|$image
 ||offwardscraps.com^$third-party
 ||online5poker.com^$third-party
 ||onlinepoker66.com^$third-party
-||opoxv.com^$third-party
 ||pacificpoker.com^$third-party
-||pemsrv.com^$third-party
 ||pkr-88.com^$third-party
 ||planettoto.com^$third-party
 ||playpokeronline.com^$third-party
@@ -4313,7 +4288,6 @@ totojitu.gif|$image
 ||taruhanbetting.com^$third-party
 ||taruhancasino.com^$third-party
 ||taruhanku.com^$third-party
-||te.domineehexer.com^$third-party
 ||temannonton.store^$third-party
 ||texaspokercc.com^$third-party
 ||theedgepoker.com^$third-party
@@ -4353,7 +4327,6 @@ totojitu.gif|$image
 ||whelmlegge.com^$third-party
 ||wigobet.com^$third-party
 ||win25keren.store^$third-party
-||wpadmngr.com^$third-party
 ||wprediscache.com^$third-party
 ||xjudi.com^$third-party
 ||yourpokercash.com^$third-party
