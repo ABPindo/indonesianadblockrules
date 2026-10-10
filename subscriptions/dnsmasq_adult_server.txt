@@ -1,7 +1,7 @@
-# Version: 202610081229
+# Version: 202610091405
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 08 Oct 2026 12:29 UTC
+# Last modified: 09 Oct 2026 14:05 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -116,8 +116,7 @@ server=/villainoussession.com/
 server=/vkwaeo.com/
 server=/yllix.com/
 # *** abpindo:src/advert/thirdparty.txt ***
-server=/388hero.bio/
-server=/akseskaiko.cam/
+server=/access.kaiko.cam/
 server=/archivehub.com.ng/
 server=/bandarxl.bio/
 server=/bergurukecina.fun/
@@ -132,10 +131,8 @@ server=/goid.space/
 server=/goratu.site/
 server=/injd.site/
 server=/inshorturl.com/
-server=/kegz.site/
 server=/klik.zeus.fun/
 server=/klik4.me/
-server=/menujupenta.site/
 server=/moneyfree.co/
 server=/nf.diamberproetid.com/
 server=/orangarab.fun/
@@ -164,7 +161,6 @@ server=/ufo777link.com/
 server=/vm.ydstinkle.com/
 server=/wg87vip.bet/
 # *** abpindo:src/adult/adult_thirdparty.txt ***
-#putarvid.com/kebokepanku.com-popMagic/ExoClickpopup/popunderdomains
 server=/32redpoker.com/
 server=/4vbbb.com/
 server=/88togel.com/
@@ -172,6 +168,7 @@ server=/actionpoker.com/
 server=/adroitdeceitcongestion.com/
 server=/afapoker.com/
 server=/ajar-poet.com/
+server=/aksesin.top/
 server=/allvegaspoker.com/
 server=/anaktogel.com/
 server=/aosbobet.com/
@@ -200,6 +197,7 @@ server=/caramenangtogel.com/
 server=/casinoclubpoker.com/
 server=/cdn.assetcsn.site/
 server=/cdpoker.com/
+server=/cek.to/
 server=/celebpoker.com/
 server=/chilipoker.com/
 server=/clickadu.com/
@@ -215,7 +213,6 @@ server=/delapantogel.com/
 server=/deltatoto.com/
 server=/dewijudi.com/
 server=/dewitogel.com/
-server=/dooods.pro/
 server=/dutatoto.com/
 server=/dwabt.pro/
 server=/dwagg.me/
@@ -225,12 +222,13 @@ server=/europoker.com/
 server=/everypoker.com/
 server=/feltpoker.com/
 server=/file-assist.xuzor.com/
+server=/gacor.vin/
+server=/gacor.zone/
 server=/gembul.xyz/
 server=/gentingpoker.com/
 server=/goldentigerpoker.com/
 server=/goldentoto.com/
 server=/goldtoto.com/
-server=/histats.com/
 server=/hokijudi99.com/
 server=/hokitogel.com/
 server=/homepokergames.com/
@@ -251,7 +249,9 @@ server=/judionlinepoker.com/
 server=/juicyads.com/
 server=/k7poker.com/
 server=/kedaijudi.com/
+server=/kegz.site/
 server=/kingtogel.com/
+server=/klik.top/
 server=/launchpoker.com/
 server=/lazacasino.com/
 server=/linkjalur.vip/
@@ -265,6 +265,7 @@ server=/markastogel.com/
 server=/masterjudi.blog.com/
 server=/masterjudi.com/
 server=/maxbetqq.net/
+server=/menujupenta.site/
 server=/mickeypoker.com/
 server=/mintedpoker.com/
 server=/misterindo.net/
@@ -350,6 +351,7 @@ server=/surgajudi.com/
 server=/suvtub.id/
 server=/switchpoker.com/
 server=/t2m.io/
+server=/tajir.la/
 server=/tangkas99.com/
 server=/taruhanbetting.com/
 server=/taruhancasino.com/

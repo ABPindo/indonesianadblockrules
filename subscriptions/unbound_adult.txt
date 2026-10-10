@@ -1,7 +1,7 @@
-# Version: 202610081229
+# Version: 202610091405
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 08 Oct 2026 12:29 UTC
+# Last modified: 09 Oct 2026 14:05 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -116,8 +116,7 @@ local-zone: "villainoussession.com" always_nxdomain
 local-zone: "vkwaeo.com" always_nxdomain
 local-zone: "yllix.com" always_nxdomain
 # *** abpindo:src/advert/thirdparty.txt ***
-local-zone: "388hero.bio" always_nxdomain
-local-zone: "akseskaiko.cam" always_nxdomain
+local-zone: "access.kaiko.cam" always_nxdomain
 local-zone: "archivehub.com.ng" always_nxdomain
 local-zone: "bandarxl.bio" always_nxdomain
 local-zone: "bergurukecina.fun" always_nxdomain
@@ -132,10 +131,8 @@ local-zone: "goid.space" always_nxdomain
 local-zone: "goratu.site" always_nxdomain
 local-zone: "injd.site" always_nxdomain
 local-zone: "inshorturl.com" always_nxdomain
-local-zone: "kegz.site" always_nxdomain
 local-zone: "klik.zeus.fun" always_nxdomain
 local-zone: "klik4.me" always_nxdomain
-local-zone: "menujupenta.site" always_nxdomain
 local-zone: "moneyfree.co" always_nxdomain
 local-zone: "nf.diamberproetid.com" always_nxdomain
 local-zone: "orangarab.fun" always_nxdomain
@@ -164,7 +161,6 @@ local-zone: "ufo777link.com" always_nxdomain
 local-zone: "vm.ydstinkle.com" always_nxdomain
 local-zone: "wg87vip.bet" always_nxdomain
 # *** abpindo:src/adult/adult_thirdparty.txt ***
-#putarvid.com/kebokepanku.com-popMagic/ExoClickpopup/popunderdomains
 local-zone: "32redpoker.com" always_nxdomain
 local-zone: "4vbbb.com" always_nxdomain
 local-zone: "88togel.com" always_nxdomain
@@ -172,6 +168,7 @@ local-zone: "actionpoker.com" always_nxdomain
 local-zone: "adroitdeceitcongestion.com" always_nxdomain
 local-zone: "afapoker.com" always_nxdomain
 local-zone: "ajar-poet.com" always_nxdomain
+local-zone: "aksesin.top" always_nxdomain
 local-zone: "allvegaspoker.com" always_nxdomain
 local-zone: "anaktogel.com" always_nxdomain
 local-zone: "aosbobet.com" always_nxdomain
@@ -200,6 +197,7 @@ local-zone: "caramenangtogel.com" always_nxdomain
 local-zone: "casinoclubpoker.com" always_nxdomain
 local-zone: "cdn.assetcsn.site" always_nxdomain
 local-zone: "cdpoker.com" always_nxdomain
+local-zone: "cek.to" always_nxdomain
 local-zone: "celebpoker.com" always_nxdomain
 local-zone: "chilipoker.com" always_nxdomain
 local-zone: "clickadu.com" always_nxdomain
@@ -215,7 +213,6 @@ local-zone: "delapantogel.com" always_nxdomain
 local-zone: "deltatoto.com" always_nxdomain
 local-zone: "dewijudi.com" always_nxdomain
 local-zone: "dewitogel.com" always_nxdomain
-local-zone: "dooods.pro" always_nxdomain
 local-zone: "dutatoto.com" always_nxdomain
 local-zone: "dwabt.pro" always_nxdomain
 local-zone: "dwagg.me" always_nxdomain
@@ -225,12 +222,13 @@ local-zone: "europoker.com" always_nxdomain
 local-zone: "everypoker.com" always_nxdomain
 local-zone: "feltpoker.com" always_nxdomain
 local-zone: "file-assist.xuzor.com" always_nxdomain
+local-zone: "gacor.vin" always_nxdomain
+local-zone: "gacor.zone" always_nxdomain
 local-zone: "gembul.xyz" always_nxdomain
 local-zone: "gentingpoker.com" always_nxdomain
 local-zone: "goldentigerpoker.com" always_nxdomain
 local-zone: "goldentoto.com" always_nxdomain
 local-zone: "goldtoto.com" always_nxdomain
-local-zone: "histats.com" always_nxdomain
 local-zone: "hokijudi99.com" always_nxdomain
 local-zone: "hokitogel.com" always_nxdomain
 local-zone: "homepokergames.com" always_nxdomain
@@ -251,7 +249,9 @@ local-zone: "judionlinepoker.com" always_nxdomain
 local-zone: "juicyads.com" always_nxdomain
 local-zone: "k7poker.com" always_nxdomain
 local-zone: "kedaijudi.com" always_nxdomain
+local-zone: "kegz.site" always_nxdomain
 local-zone: "kingtogel.com" always_nxdomain
+local-zone: "klik.top" always_nxdomain
 local-zone: "launchpoker.com" always_nxdomain
 local-zone: "lazacasino.com" always_nxdomain
 local-zone: "linkjalur.vip" always_nxdomain
@@ -265,6 +265,7 @@ local-zone: "markastogel.com" always_nxdomain
 local-zone: "masterjudi.blog.com" always_nxdomain
 local-zone: "masterjudi.com" always_nxdomain
 local-zone: "maxbetqq.net" always_nxdomain
+local-zone: "menujupenta.site" always_nxdomain
 local-zone: "mickeypoker.com" always_nxdomain
 local-zone: "mintedpoker.com" always_nxdomain
 local-zone: "misterindo.net" always_nxdomain
@@ -350,6 +351,7 @@ local-zone: "surgajudi.com" always_nxdomain
 local-zone: "suvtub.id" always_nxdomain
 local-zone: "switchpoker.com" always_nxdomain
 local-zone: "t2m.io" always_nxdomain
+local-zone: "tajir.la" always_nxdomain
 local-zone: "tangkas99.com" always_nxdomain
 local-zone: "taruhanbetting.com" always_nxdomain
 local-zone: "taruhancasino.com" always_nxdomain

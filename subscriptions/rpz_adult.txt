@@ -1,7 +1,7 @@
-# Version: 202610081229
+# Version: 202610091405
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 08 Oct 2026 12:29 UTC
+# Last modified: 09 Oct 2026 14:05 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -116,8 +116,7 @@ villainoussession.com CNAME .
 vkwaeo.com CNAME .
 yllix.com CNAME .
 # *** abpindo:src/advert/thirdparty.txt ***
-388hero.bio CNAME .
-akseskaiko.cam CNAME .
+access.kaiko.cam CNAME .
 archivehub.com.ng CNAME .
 bandarxl.bio CNAME .
 bergurukecina.fun CNAME .
@@ -132,10 +131,8 @@ goid.space CNAME .
 goratu.site CNAME .
 injd.site CNAME .
 inshorturl.com CNAME .
-kegz.site CNAME .
 klik.zeus.fun CNAME .
 klik4.me CNAME .
-menujupenta.site CNAME .
 moneyfree.co CNAME .
 nf.diamberproetid.com CNAME .
 orangarab.fun CNAME .
@@ -164,7 +161,6 @@ ufo777link.com CNAME .
 vm.ydstinkle.com CNAME .
 wg87vip.bet CNAME .
 # *** abpindo:src/adult/adult_thirdparty.txt ***
-#putarvid.com/kebokepanku.com-popMagic/ExoClickpopup/popunderdomains
 32redpoker.com CNAME .
 4vbbb.com CNAME .
 88togel.com CNAME .
@@ -172,6 +168,7 @@ actionpoker.com CNAME .
 adroitdeceitcongestion.com CNAME .
 afapoker.com CNAME .
 ajar-poet.com CNAME .
+aksesin.top CNAME .
 allvegaspoker.com CNAME .
 anaktogel.com CNAME .
 aosbobet.com CNAME .
@@ -200,6 +197,7 @@ caramenangtogel.com CNAME .
 casinoclubpoker.com CNAME .
 cdn.assetcsn.site CNAME .
 cdpoker.com CNAME .
+cek.to CNAME .
 celebpoker.com CNAME .
 chilipoker.com CNAME .
 clickadu.com CNAME .
@@ -215,7 +213,6 @@ delapantogel.com CNAME .
 deltatoto.com CNAME .
 dewijudi.com CNAME .
 dewitogel.com CNAME .
-dooods.pro CNAME .
 dutatoto.com CNAME .
 dwabt.pro CNAME .
 dwagg.me CNAME .
@@ -225,12 +222,13 @@ europoker.com CNAME .
 everypoker.com CNAME .
 feltpoker.com CNAME .
 file-assist.xuzor.com CNAME .
+gacor.vin CNAME .
+gacor.zone CNAME .
 gembul.xyz CNAME .
 gentingpoker.com CNAME .
 goldentigerpoker.com CNAME .
 goldentoto.com CNAME .
 goldtoto.com CNAME .
-histats.com CNAME .
 hokijudi99.com CNAME .
 hokitogel.com CNAME .
 homepokergames.com CNAME .
@@ -251,7 +249,9 @@ judionlinepoker.com CNAME .
 juicyads.com CNAME .
 k7poker.com CNAME .
 kedaijudi.com CNAME .
+kegz.site CNAME .
 kingtogel.com CNAME .
+klik.top CNAME .
 launchpoker.com CNAME .
 lazacasino.com CNAME .
 linkjalur.vip CNAME .
@@ -265,6 +265,7 @@ markastogel.com CNAME .
 masterjudi.blog.com CNAME .
 masterjudi.com CNAME .
 maxbetqq.net CNAME .
+menujupenta.site CNAME .
 mickeypoker.com CNAME .
 mintedpoker.com CNAME .
 misterindo.net CNAME .
@@ -350,6 +351,7 @@ surgajudi.com CNAME .
 suvtub.id CNAME .
 switchpoker.com CNAME .
 t2m.io CNAME .
+tajir.la CNAME .
 tangkas99.com CNAME .
 taruhanbetting.com CNAME .
 taruhancasino.com CNAME .
