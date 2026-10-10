@@ -1324,3 +1324,5 @@ playcdn.de,videonode.de##body > a[target="_blank"]
 shinigamiscans.com##.ad-container
 slider.shinigami.io##.ad-container
 ayojatim.com##.adsbygoogle
+voratoon.com##div[class^="ranking-promo-popup"]
+voratoon.com##div[class^="ad-slot"]
