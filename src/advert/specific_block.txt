@@ -1,4 +1,5 @@
 .gif$image,domain=anichin.watch|baladfilm.*|cosmicscans.*|kiryuu.*|kiryuu03.*|kuramanime.*|mangakita.*|movieku.*|nontondrama.*|okestream.*|oploverz.*|shinigami09.com|winbu.*|shinigami.*
+$popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.my.id
 ||1cak.com/shopee
 ||adsafelink.com/js/webscript.js$script,third-party
 ||angel.exabytes.com.my/banners/
@@ -127,7 +128,6 @@
 ||serunonton.*/wp-content/uploads/*.gif$image
 ||shinigami.*/auto/$image
 ||ads.shinigami.io^
-||37c01eb7.shng.me^
 ||shopee.co.id^$popup,domain=berkasdrive.*|nimegami.*
 ||shrinkads.com/js/xe.js$script
 ||snacklink.id/js/web-script.js$script,third-party
@@ -149,7 +149,6 @@
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
-$popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|mangakita.id|wrt.my.id
 ||bk21.net/*.gif$image$domain=juragan.film
 ||img.gm21.download/$image
 ||kawanfilm21.co/wp-content/uploads/*judi$image
@@ -157,4 +156,5 @@ $popup,domain=animekompi.*|kiryuu.id|kiryuu.org|kiryuu03.*|komikstation.co|manga
 ||s1.bk21.net/777/$image
 ||seputarforex.com^*/banner-$image
 ||seputarforex.org^*/banner_
+||gamma.cachefly.net/js/ad-exchange.js$third-party
 

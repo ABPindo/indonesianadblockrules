@@ -8,14 +8,13 @@
 ||code.global.giraff.io^$third-party
 ||embed.dugout.com^$third-party
 ||enakslot.bio^$third-party
-||gamma.cachefly.net/js/ad-exchange.js$third-party
 ||gaza-88.com^$third-party
 ||goid.space^$third-party
 ||goratu.site^$third-party
 ||injd.site^$third-party
 ||inshorturl.com^$third-party
-||klik.zeus.fun^$all
-||klik4.me^$all
+||klik.zeus.fun^$third-party
+||klik4.me^$third-party
 ||moneyfree.co^$third-party
 ||nf.diamberproetid.com^$third-party
 ||orangarab.fun^$third-party
@@ -29,7 +28,6 @@
 ||safelinkearn.com^$third-party
 ||sbobet.host^$third-party
 ||scripts.jixie.media^$third-party
-||shortbioo.com^$all
 ||statics1.tceru134gsur.ru^$third-party
 ||sv.sleeklyyallaer.com^$third-party
 ||tambakbet.vip^$third-party
