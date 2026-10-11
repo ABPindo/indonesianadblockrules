@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202610110045
+! Version: 202610110054
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 11 Oct 2026 00:45 UTC
+! Last modified: 11 Oct 2026 00:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1284,6 +1284,7 @@ moenime.com###w-node-b77
 komikpoi.com###wp-iklan-overlay
 bioskop78.com###wrap > center
 gooto.com###zone_3
+shinigami.asia##+js(set-session-storage-item, showAds, -32767)
 marketeers.com##.-mx-\[24px\]
 doroni.me##.Content__banner-image
 sokuja.uk##.NhdeCy
@@ -1653,6 +1654,7 @@ indonesiana.id##.fix-bottom
 dapurpacu.com##.fixed-ads-atas
 miyanime.site##.fixed-lside
 miyanime.site##.fixed-rside
+shinigami.asia##.flex-col.flex.mx-auto.container.false > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
 kompas.id##.flex.justify-center.lg\\:px-8.my-6
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
@@ -1678,6 +1680,7 @@ manganime.id##.ftadss
 beritasatu.com##.gam-ads
 techinasia.com##.gam-ads-banner
 komikindo.id,komikindo.pro,komikindo.tv##.gambar_pemanis
+shinigami.asia##.gap-24.flex-col.flex > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
 gridoto.com##.geniee-box
 tigoals213.com##.gg-txt-bonus
 tigoals213.com##.gg-txt-discount
@@ -1814,6 +1817,8 @@ inibaru.id##.mb-4.bg-grey.text-center
 insertlive.com##.mb-6.lg\:top-\[76px\].sm\:top-\[90px\].sticky > center
 tempo.co##.mb-6.m-auto.right-0.left-0.max-w-\[470px\].relative.h-\[250px\].w-full
 parapuan.co##.mb3.gpt-ad-head-wrapper.widget
+shinigami.asia##.md\:px-24.px-4.pt-4.md\:pt-24 > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
+shinigami.asia##.md\:px-24.px-4.py-12 > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
 cnbcindonesia.com,cnnindonesia.com,detik.com,haibunda.com,mamikos.com##.megabillboard
 popbela.com##.megabillboard-container
 playeriframe.*##.message-box
@@ -1885,6 +1890,7 @@ beritasiber.com##.parallaxads
 beritasiber.com##.parallaxads-box
 cnnindonesia.com,detik.com,haibunda.com##.parallaxindetail
 infotangerang.co.id,tribunrakyat.com##.parallxads
+shinigami.asia##.pb-16 > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
 narasi.tv##.pb-6.billboard
 insertlive.com##.pb-8 > .md\:px-4\.5.md\:max-w-7xl.mx-auto.relative.w-full
 bgibola.com##.pc-only.inline-banner
@@ -2051,6 +2057,7 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com,yummy.co.id##.wrappe
 idntimes.com##.wrapper-billboard
 idntimes.com##.wrapper-leaderboard
 idntimes.com##.wrapper-megabillboard
+shinigami.asia##.z-\[207\].relative.lg\:pb-12.pb-12.w-full.mx-auto.max-w-800
 idlix.co##[alt*="content-banner-"]
 mamikos.com##[class$="-item__room"]:has(.rc-photo__icon--promo)
 jawapos.com##[class$="__disclaimer"]
@@ -2160,6 +2167,7 @@ smartphoneku.com##div.ad-before
 herworld.co.id##div.ads-belt
 bolasport.com,grid.id,gridoto.com,juara.net,kompasiana.com##div.ads-inf-box
 nextren.grid.id##div.banner-r
+shinigami.asia##div.col-span-2.md\:col-span-4.lg\:col-span-6 > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
 indoxx1.*##div.content-kuss
 bolasport.com##div.content_footer--list:nth-of-type(2)
 komikcast.*##div.fixed.z-50.-translate-x-1\/2
