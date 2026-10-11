@@ -1,7 +1,7 @@
-# Version: 202610111127
+# Version: 202610111421
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 11 Oct 2026 11:27 UTC
+# Last modified: 11 Oct 2026 14:21 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -118,6 +118,7 @@ address=/yllix.com/0.0.0.0
 # *** abpindo:src/advert/thirdparty.txt ***
 address=/access.kaiko.cam/0.0.0.0
 address=/archivehub.com.ng/0.0.0.0
+address=/atgroup-link.id/0.0.0.0
 address=/bandarxl.bio/0.0.0.0
 address=/bergurukecina.fun/0.0.0.0
 address=/bisnis4d.bio/0.0.0.0
@@ -129,10 +130,12 @@ address=/enakslot.bio/0.0.0.0
 address=/gaza-88.com/0.0.0.0
 address=/goid.space/0.0.0.0
 address=/goratu.site/0.0.0.0
+address=/huntfishbrag.store/0.0.0.0
 address=/injd.site/0.0.0.0
 address=/inshorturl.com/0.0.0.0
 address=/klik.zeus.fun/0.0.0.0
 address=/klik4.me/0.0.0.0
+address=/layarotaku.id/0.0.0.0
 address=/moneyfree.co/0.0.0.0
 address=/nf.diamberproetid.com/0.0.0.0
 address=/orangarab.fun/0.0.0.0
@@ -189,7 +192,6 @@ address=/bio.wgauhh.xyz/0.0.0.0
 address=/biotogel.com/0.0.0.0
 address=/blindbetpoker.com/0.0.0.0
 address=/bojo.rajatravel.online/0.0.0.0
-address=/bolakami-banner-tracker.bolakami.workers.dev/0.0.0.0
 address=/breedsmuteexams.com/0.0.0.0
 address=/bursajudibola.com/0.0.0.0
 address=/caramenangtogel.com/0.0.0.0
@@ -322,7 +324,6 @@ address=/promosi.mul7.com/0.0.0.0
 address=/promosi.mwn7.com/0.0.0.0
 address=/promosi.snsa7.com/0.0.0.0
 address=/promosi.wfgg7.com/0.0.0.0
-address=/pub-ee3a5bccda2d49c7bbc62bd60d648707.r2.dev/0.0.0.0
 address=/pusatjudibola.com/0.0.0.0
 address=/pvpmetavip.com/0.0.0.0
 address=/rajapoker88.com/0.0.0.0

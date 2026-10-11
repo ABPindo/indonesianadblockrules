@@ -1,7 +1,7 @@
-# Version: 202610111127
+# Version: 202610111421
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 11 Oct 2026 11:27 UTC
+# Last modified: 11 Oct 2026 14:21 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -118,6 +118,7 @@ server=/yllix.com/
 # *** abpindo:src/advert/thirdparty.txt ***
 server=/access.kaiko.cam/
 server=/archivehub.com.ng/
+server=/atgroup-link.id/
 server=/bandarxl.bio/
 server=/bergurukecina.fun/
 server=/bisnis4d.bio/
@@ -129,10 +130,12 @@ server=/enakslot.bio/
 server=/gaza-88.com/
 server=/goid.space/
 server=/goratu.site/
+server=/huntfishbrag.store/
 server=/injd.site/
 server=/inshorturl.com/
 server=/klik.zeus.fun/
 server=/klik4.me/
+server=/layarotaku.id/
 server=/moneyfree.co/
 server=/nf.diamberproetid.com/
 server=/orangarab.fun/
@@ -189,7 +192,6 @@ server=/bio.wgauhh.xyz/
 server=/biotogel.com/
 server=/blindbetpoker.com/
 server=/bojo.rajatravel.online/
-server=/bolakami-banner-tracker.bolakami.workers.dev/
 server=/breedsmuteexams.com/
 server=/bursajudibola.com/
 server=/caramenangtogel.com/
@@ -322,7 +324,6 @@ server=/promosi.mul7.com/
 server=/promosi.mwn7.com/
 server=/promosi.snsa7.com/
 server=/promosi.wfgg7.com/
-server=/pub-ee3a5bccda2d49c7bbc62bd60d648707.r2.dev/
 server=/pusatjudibola.com/
 server=/pvpmetavip.com/
 server=/rajapoker88.com/
