@@ -1325,3 +1325,5 @@ shinigami.asia##.z-\[207\].relative.lg\:pb-12.pb-12.w-full.mx-auto.max-w-800
 shinigami.asia##.pb-16 > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
 shinigami.asia##+js(set-session-storage-item, showAds, -32767)
 reborn.layarwibu.com##a[rel~="sponsored"]
+timesindonesia.co.id##.my-4.overflow-hidden:has(.relative.z-10.w-full.h-full.flex.items-center.justify-center)
+sumselindependen.com##.my-4.overflow-hidden:has(.relative.z-10.w-full.h-full.flex.items-center.justify-center)
