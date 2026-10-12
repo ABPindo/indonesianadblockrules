@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202610121341
+! Version: 202610122131
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 12 Oct 2026 13:41 UTC
+! Last modified: 12 Oct 2026 21:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9914,6 +9914,7 @@ semprot.com##.jual_tetek
 bokep.pemersatu.top,pemersatufun.*##.kamucurang-fader:style(display: none !important;)
 bokep.pemersatu.top,pemersatufun.*##.kamucurang:style(height: auto !important; overflow: visible !important; background-color: transparent !important;)
 manhwaindo.*,manhwaindo.cfd,manhwaindo.com##.klan-float-bottom
+manhwaindo.*,manhwaindo.cfd,manhwaindo.com##.klan-top
 filmjepang.it.com,filmjepangku.net,filmjepangku.online,heppinn.id,javsubid.sx,klipjepang.shop,komik18.*,komikdewasa.*,komikremaja.*,kumapoi.info,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.baby,manhwaland.land,manhwaland.mom,manhwalist.com,pascol.*,pascol.com,skandalpedia.*,starjepang.*##.kln
 areakomik.com##.komik-card.native-ad-slot
 krucil.com##.krucil_ads
@@ -10265,4 +10266,5 @@ kingbokep.media##video[src*=".webm"]:not(div[class*="video"] > img)
 pemersatu.top,pemersatudotfun.com,pemersatufun.*,pemersatufun.site#@##adright
 semprot.com#@#.adUnit
 semprot.com#@#.adunit:not(.text-ad)
+@@||pemersatu.top^$elemhide
 @@||poweredby.jads.co^$script,subdocument,domain=video.pemersatu.org
