@@ -71,6 +71,7 @@ bokepi.com##div:has(> a[href^="https://tuanmuda88baja.com/"]):style(display: non
 videocrot.*##.ads-720
 videocrot.*##.video-page-banner-slot
 nekopoi.care##.adsgen
+nekopoi.care##.custom-html-widget > div[style*="position: fixed"]
 lkprd.fun,lkprd.site##.adshu
 pascol.*,sintube.*##.ays-pb-modals
 i-jav.space##.banner
