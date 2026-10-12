@@ -1327,3 +1327,7 @@ shinigami.asia##+js(set-session-storage-item, showAds, -32767)
 reborn.layarwibu.com##a[rel~="sponsored"]
 timesindonesia.co.id##.my-4.overflow-hidden:has(.relative.z-10.w-full.h-full.flex.items-center.justify-center)
 sumselindependen.com##.my-4.overflow-hidden:has(.relative.z-10.w-full.h-full.flex.items-center.justify-center)
+tribunnewswiki.com##.box__reserved
+tribunnewswiki.com##.nativeads
+tribunnewswiki.com###div-Bottom-Scroll
+tribunnewswiki.com###div-Top-Leaderboard
