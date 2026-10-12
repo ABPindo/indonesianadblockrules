@@ -200,8 +200,9 @@ indoporntube.com##svg.lucide-shield-alert
 igo.desu.xxx##uads_300x250
 kingbokep.media##video[src*=".webm"]:not(div[class*="video"] > img)
 video.pemersatu.org##.adsbygoogle
-pemersatu.top##.age-ad-card
-pemersatu.top##.age-gate-ad-mode
+pemersatu.*##.age-ad-card
+pemersatu.*##.age-gate-ad-mode
+pemersatu.*##.gate-backdrop
 pemersatu.top##.gate-backdrop
 video.pemersatu.org##[class*="pmt-ad-gate"]
 jepangkawai.com,jepangmaniak.com,jepangmantap.com##a.group.block.relative.w-full.aspect-\[8\/1\].rounded-xl.overflow-hidden.shadow-sm.border.border-slate-200.hover:border-brandgreen.transition.bg-slate-900
