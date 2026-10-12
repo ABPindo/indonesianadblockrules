@@ -8,6 +8,9 @@ krucil.com###KD_adpB
 avtubhub.*,urlkontolin.click###adblock-modal
 cctvbokep.bet,dutasex.*,dutasex.bio,dutasex.com,inibokep.bet,perawanbokep.*###ads
 pemersatufun.com###advertisement
+pemersatufun.com##.age-gate
+pemersatufun.com##html.gate-open,body.gate-open:style(overflow: auto !important;overscroll-behavior: auto !important;pointer-events: auto !important;)
+pemersatufun.com##body.gate-open > :not(.age-gate):style(pointer-events: auto !important;)
 bintangmawar.net###bmpop_adpB
 pemersatufun.*###btasd
 kebokepanku.com###close-floatadsbawah
@@ -135,7 +138,6 @@ csnbiru.blog##.video-wrapper iframe:style(display: block !important;)
 semprot.com##.warning_iklan
 bokepvir.*##.widget_block.widget
 komikdewasa.art##.wp-image-80765.size-full.alignnone
-pemersatufun.com##[class*="age-gate"]
 pemersatufun.com##[data-age-accept]
 pemersatufun.com##[data-age-adblock-link]
 kingbokep.*##[data-dgazzbdbfcbzagfz]
