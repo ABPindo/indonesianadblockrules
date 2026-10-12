@@ -160,6 +160,7 @@ doujin.desu.xxx,igo.desu.xxx##[href^="https://klik.top/"]
 doujin.desu.xxx##.partner-slot-frame
 nekopoi.*##[href^="https://monetag.com/"]
 igo.desu.xxx##[href^="https://tinig22.com/"]
+igo.desu.xxx##main > div:has(a[href^="https://bergurukecina.fun/"]),main > div:has(a[href^="https://dw.zeus.fun/"]),main > div:has(a[href^="https://goid.space/"]),main > div:has(a[href^="https://goratu.site/"]),main > div:has(a[href^="https://kegz.site/"]),main > div:has(a[href^="https://klik.best/"]),main > div:has(a[href^="https://menujupenta.site/"])
 pemersatu.*##[role="advertisement"]
 kingbokep.*##[style^="height:"]:has(> img)
 bokep360.*##a[href*="gamdom"]
