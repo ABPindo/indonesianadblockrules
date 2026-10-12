@@ -10,9 +10,6 @@
   },
   "license": "GPL-3.0-or-later",
   "overrides": {
-    "minimatch": {
-      "brace-expansion": "2.1.4"
-    },
     "zod": "3.24.4"
   },
   "devDependencies": {
