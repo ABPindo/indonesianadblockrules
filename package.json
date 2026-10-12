@@ -13,7 +13,7 @@
     "zod": "3.24.4"
   },
   "devDependencies": {
-    "@adguard/aglint": "^3.0.0",
+    "@adguard/aglint": "^3.0.3",
     "@adguard/dead-domains-linter": "latest"
   },
   "scripts": {
