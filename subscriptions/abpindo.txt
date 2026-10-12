@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202610121225
+! Version: 202610121312
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 12 Oct 2026 12:25 UTC
+! Last modified: 12 Oct 2026 13:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -10010,7 +10010,7 @@ kingbokep.media##img[src*=".gif"]:not(div[class*="video"] > img)
 kingbokep.media##img[src*=".webp"]:not(div[class*="video"] > img)
 becekku.com##img[src*="blogger.googleusercontent.com"][src$=".gif"]
 doujin.desu.xxx,igo.desu.xxx##img[src*="pic.desu.xxx/content/banner/"]
-igo.desu.xxx##main > div:has(a[href^="https://bergurukecina.fun/"]),main > div:has(a[href^="https://dw.zeus.fun/"]),main > div:has(a[href^="https://goid.space/"]),main > div:has(a[href^="https://goratu.site/"]),main > div:has(a[href^="https://kegz.site/"]),main > div:has(a[href^="https://klik.best/"]),main > div:has(a[href^="https://menujupenta.site/"])
+igo.desu.xxx##main div.my-2:has(a[target="_blank"][rel*="nofollow"])
 igo.desu.xxx##overplay
 semprot.com##semprotnenenmontok_f
 indoporntube.com##svg.lucide-shield-alert
