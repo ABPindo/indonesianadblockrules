@@ -187,6 +187,7 @@ nekopoi.care##div[class^="mobileads"]
 kebokepanku.com##div[id^="floatads"]
 kampungbokep.*##div[id^="wp5hpr_"][id$="_overlay"]
 kampungbokep.*##.happy-player-beside
+kampungbokep.*##.widget_media_image
 tantecentil.fans##div[style*="z-index: 999999"]
 indobokepin.com##iframe[src*="dooods.pro/ads_banner"]
 semprot.com##img[data-ad]
