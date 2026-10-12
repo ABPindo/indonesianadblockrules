@@ -34,6 +34,11 @@ tempatbokep.com###global-promo-wrapper
 terviral.cam###lin-floating-ad
 rumahparaperjaka.*###modal
 bokep.pemersatu.top,pemersatufun.*###myDiv
+bokep.pemersatu.top##.age-gate
+bokep.pemersatu.top##.kamucurang:style(height: auto !important; overflow: visible !important; background-color: transparent !important;)
+bokep.pemersatu.top##.kamucurang-fader:style(display: none !important;)
+bokep.pemersatu.top##.siapakita:style(display: none !important;)
+bokep.pemersatu.top##body.age-gate-open:style(overflow: auto !important;)
 minioppai.org###overplay
 iyottube.co,iyottube.com###playerOverlay
 javbabe.net,nekopoi.*###popup
