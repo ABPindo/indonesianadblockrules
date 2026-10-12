@@ -69,6 +69,7 @@ komikindo.*##.ads a[href]
 komikindo.*##.ads iframe
 bokepi.com##div:has(> a[href^="https://tuanmuda88baja.com/"]):style(display: none !important;)
 videocrot.*##.ads-720
+videocrot.*##.video-page-banner-slot
 nekopoi.care##.adsgen
 lkprd.fun,lkprd.site##.adshu
 pascol.*,sintube.*##.ays-pb-modals
