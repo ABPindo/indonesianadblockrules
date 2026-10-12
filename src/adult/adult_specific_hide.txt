@@ -67,6 +67,7 @@ bosku21.help,sangetods.net##.adde_modal_detector-show.adde_modal_detector
 mediahiburan.my##.adplaceholder-mrec
 komikindo.*##.ads a[href]
 komikindo.*##.ads iframe
+bokepi.com##div:has(> a[href^="https://tuanmuda88baja.com/"]):style(display: none !important;)
 videocrot.*##.ads-720
 nekopoi.care##.adsgen
 lkprd.fun,lkprd.site##.adshu
