@@ -8,6 +8,7 @@ krucil.com###KD_adpB
 avtubhub.*,urlkontolin.click###adblock-modal
 cctvbokep.bet,dutasex.*,dutasex.bio,dutasex.com,inibokep.bet,perawanbokep.*###ads
 pemersatufun.com###advertisement
+pemersatufun.com##.ad-native-card
 pemersatufun.com##.age-gate
 pemersatufun.com##html.gate-open,body.gate-open:style(overflow: auto !important;overscroll-behavior: auto !important;pointer-events: auto !important;)
 pemersatufun.com##body.gate-open > :not(.age-gate):style(pointer-events: auto !important;)
