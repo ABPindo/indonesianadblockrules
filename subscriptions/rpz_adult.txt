@@ -1,7 +1,7 @@
-# Version: 202610131248
+# Version: 202610131308
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Oct 2026 12:48 UTC
+# Last modified: 13 Oct 2026 13:08 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -26,7 +26,6 @@ adsimg.kompas.com CNAME .
 adskom.com CNAME .
 adslop.com CNAME .
 adstarsmedia.co.id CNAME .
-alertpay.com CNAME .
 ampclicks.com CNAME .
 bellaads.com CNAME .
 berangkasilmu.com CNAME .
@@ -77,7 +76,6 @@ sanglah.com CNAME .
 sarapbeh.com CNAME .
 see-work.info CNAME .
 serbada.com CNAME .
-shiokambing2.com CNAME .
 sitti.co.id CNAME .
 tadex.id CNAME .
 teliad.com CNAME .
@@ -95,9 +93,9 @@ yesads.com CNAME .
 # Potential ad servers
 9eb10b7a3d04a.com CNAME .
 afbcashidr.com CNAME .
-auredzeon.com CNAME .
 bondeddarkenedswerve.com CNAME .
 brand.ad CNAME .
+clickadu.com CNAME .
 dairouzy.net CNAME .
 doathair.com CNAME .
 edomz.com CNAME .
@@ -108,7 +106,6 @@ iwtserve.com CNAME .
 jagoiklan.com CNAME .
 lokeriklan.com CNAME .
 mousheen.net CNAME .
-octafx.com CNAME .
 premiumproven.com CNAME .
 realwap.net CNAME .
 sebar.idblognetwork.com CNAME .
@@ -119,49 +116,32 @@ yllix.com CNAME .
 access.kaiko.cam CNAME .
 archivehub.com.ng CNAME .
 atgroup-link.id CNAME .
-bandarxl.bio CNAME .
 bergurukecina.fun CNAME .
-bisnis4d.bio CNAME .
 c-stat.eu CNAME .
 cdnfgo.xyz CNAME .
 code.global.giraff.io CNAME .
 embed.dugout.com CNAME .
-enakslot.bio CNAME .
-gaza-88.com CNAME .
 goid.space CNAME .
 goratu.site CNAME .
 huntfishbrag.store CNAME .
 injd.site CNAME .
 inshorturl.com CNAME .
-klik.zeus.fun CNAME .
 klik4.me CNAME .
 layarotaku.id CNAME .
 moneyfree.co CNAME .
 nf.diamberproetid.com CNAME .
-orangarab.fun CNAME .
-ransplay-io.com CNAME .
-ratu89.news CNAME .
-redirect388herosafest.com CNAME .
-redirectbandarxlsafest.com CNAME .
-redirectbisnis4dsafest.com CNAME .
-refpa3665.com CNAME .
 rts.gdn CNAME .
 safelinkearn.com CNAME .
-sbobet.host CNAME .
 scripts.jixie.media CNAME .
 statics1.tceru134gsur.ru CNAME .
 sv.sleeklyyallaer.com CNAME .
-tambakbet.vip CNAME .
-tantegacor88.link CNAME .
 terbit21.gdn CNAME .
 track.aptitudemedia.co CNAME .
 track.zerofriend.com CNAME .
 tracker.lazada.co.id CNAME .
 trackingclick.net CNAME .
 trafficfactory.biz CNAME .
-ufo777link.com CNAME .
 vm.ydstinkle.com CNAME .
-wg87vip.bet CNAME .
 # *** abpindo:src/adult/adult_thirdparty.txt ***
 32redpoker.com CNAME .
 4vbbb.com CNAME .
@@ -179,17 +159,20 @@ areataruhan.com CNAME .
 arenajudi.com CNAME .
 asiapoker777.com CNAME .
 astonwin.org CNAME .
+auredzeon.com CNAME .
 auredzetw.com CNAME .
 autocst.site CNAME .
 axes88.org CNAME .
 badylenicesist.com CNAME .
 bandarjuditogel.com CNAME .
+bandarxl.bio CNAME .
 bbm88.org CNAME .
 bebasjudi.com CNAME .
 belitogel.com CNAME .
 beritaagenjudi.com CNAME .
 bio.wgauhh.xyz CNAME .
 biotogel.com CNAME .
+bisnis4d.bio CNAME .
 blindbetpoker.com CNAME .
 bojo.rajatravel.online CNAME .
 breedsmuteexams.com CNAME .
@@ -201,9 +184,7 @@ cdpoker.com CNAME .
 cek.to CNAME .
 celebpoker.com CNAME .
 chilipoker.com CNAME .
-clickadu.com CNAME .
 coolhandpoker.com CNAME .
-cutlink.now CNAME .
 dafapoker.com CNAME .
 daftar.situsngacir.com CNAME .
 daftarjudibola.com CNAME .
@@ -218,6 +199,7 @@ dutatoto.com CNAME .
 dwabt.pro CNAME .
 dwagg.me CNAME .
 emputogel.com CNAME .
+enakslot.bio CNAME .
 eu.kinggroup.buzz CNAME .
 europoker.com CNAME .
 everypoker.com CNAME .
@@ -225,6 +207,7 @@ feltpoker.com CNAME .
 file-assist.xuzor.com CNAME .
 gacor.vin CNAME .
 gacor.zone CNAME .
+gaza-88.com CNAME .
 gembul.xyz CNAME .
 gentingpoker.com CNAME .
 goldentigerpoker.com CNAME .
@@ -253,6 +236,7 @@ kedaijudi.com CNAME .
 kegz.site CNAME .
 kingtogel.com CNAME .
 klik.top CNAME .
+klik.zeus.fun CNAME .
 launchpoker.com CNAME .
 lazacasino.com CNAME .
 linkjalur.vip CNAME .
@@ -287,6 +271,7 @@ obobet.net CNAME .
 offwardscraps.com CNAME .
 online5poker.com CNAME .
 onlinepoker66.com CNAME .
+orangarab.fun CNAME .
 pacificpoker.com CNAME .
 pkr-88.com CNAME .
 planettoto.com CNAME .
@@ -330,17 +315,25 @@ pvpmetavip.com CNAME .
 rajapoker88.com CNAME .
 rajatogel.com CNAME .
 rajatoto.com CNAME .
+ransplay-io.com CNAME .
 rarelypunenhancements.com CNAME .
+ratu89.news CNAME .
 recentpoker.com CNAME .
+redirect388herosafest.com CNAME .
+redirectbandarxlsafest.com CNAME .
+redirectbisnis4dsafest.com CNAME .
 redstarpoker.com CNAME .
+refpa3665.com CNAME .
 rgobet.com CNAME .
 rivapoker.com CNAME .
 rumah-judi.com CNAME .
 rumahtaruhan88.com CNAME .
 sakti.club CNAME .
+sbobet.host CNAME .
 semarangtogel.com CNAME .
 serverx16.online CNAME .
 sharkpokertour.com CNAME .
+shiokambing2.com CNAME .
 shopnoit.com CNAME .
 situsdepe4d.site CNAME .
 situsdepe4d.space CNAME .
@@ -353,7 +346,9 @@ suvtub.id CNAME .
 switchpoker.com CNAME .
 t2m.io CNAME .
 tajir.la CNAME .
+tambakbet.vip CNAME .
 tangkas99.com CNAME .
+tantegacor88.link CNAME .
 taruhanbetting.com CNAME .
 taruhancasino.com CNAME .
 taruhanku.com CNAME .
@@ -385,6 +380,7 @@ totomaster.com CNAME .
 truepoker.com CNAME .
 tuanmuda88baja.com CNAME .
 tzetzessmoking.com CNAME .
+ufo777link.com CNAME .
 undiantogel.com CNAME .
 videopoker.com CNAME .
 vm.beeteam368.net CNAME .
@@ -393,10 +389,10 @@ warungpoker.com CNAME .
 webjudionline.com CNAME .
 webjuditerpercaya.com CNAME .
 websitejudi.com CNAME .
+wg87vip.bet CNAME .
 whelmlegge.com CNAME .
 wigobet.com CNAME .
 win25keren.store CNAME .
-wprediscache.com CNAME .
 xjudi.com CNAME .
 yourpokercash.com CNAME .
 yu.befitkersey.com CNAME .
