@@ -1,7 +1,7 @@
-# Version: 202610131248
+# Version: 202610131308
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 13 Oct 2026 12:48 UTC
+# Last modified: 13 Oct 2026 13:08 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -26,7 +26,6 @@ local-zone: "adsimg.kompas.com" always_nxdomain
 local-zone: "adskom.com" always_nxdomain
 local-zone: "adslop.com" always_nxdomain
 local-zone: "adstarsmedia.co.id" always_nxdomain
-local-zone: "alertpay.com" always_nxdomain
 local-zone: "ampclicks.com" always_nxdomain
 local-zone: "bellaads.com" always_nxdomain
 local-zone: "berangkasilmu.com" always_nxdomain
@@ -77,7 +76,6 @@ local-zone: "sanglah.com" always_nxdomain
 local-zone: "sarapbeh.com" always_nxdomain
 local-zone: "see-work.info" always_nxdomain
 local-zone: "serbada.com" always_nxdomain
-local-zone: "shiokambing2.com" always_nxdomain
 local-zone: "sitti.co.id" always_nxdomain
 local-zone: "tadex.id" always_nxdomain
 local-zone: "teliad.com" always_nxdomain
@@ -95,9 +93,9 @@ local-zone: "yesads.com" always_nxdomain
 # Potential ad servers
 local-zone: "9eb10b7a3d04a.com" always_nxdomain
 local-zone: "afbcashidr.com" always_nxdomain
-local-zone: "auredzeon.com" always_nxdomain
 local-zone: "bondeddarkenedswerve.com" always_nxdomain
 local-zone: "brand.ad" always_nxdomain
+local-zone: "clickadu.com" always_nxdomain
 local-zone: "dairouzy.net" always_nxdomain
 local-zone: "doathair.com" always_nxdomain
 local-zone: "edomz.com" always_nxdomain
@@ -108,7 +106,6 @@ local-zone: "iwtserve.com" always_nxdomain
 local-zone: "jagoiklan.com" always_nxdomain
 local-zone: "lokeriklan.com" always_nxdomain
 local-zone: "mousheen.net" always_nxdomain
-local-zone: "octafx.com" always_nxdomain
 local-zone: "premiumproven.com" always_nxdomain
 local-zone: "realwap.net" always_nxdomain
 local-zone: "sebar.idblognetwork.com" always_nxdomain
@@ -119,46 +116,29 @@ local-zone: "yllix.com" always_nxdomain
 local-zone: "access.kaiko.cam" always_nxdomain
 local-zone: "archivehub.com.ng" always_nxdomain
 local-zone: "atgroup-link.id" always_nxdomain
-local-zone: "bandarxl.bio" always_nxdomain
 local-zone: "bergurukecina.fun" always_nxdomain
-local-zone: "bisnis4d.bio" always_nxdomain
 local-zone: "c-stat.eu" always_nxdomain
 local-zone: "cdnfgo.xyz" always_nxdomain
 local-zone: "code.global.giraff.io" always_nxdomain
 local-zone: "embed.dugout.com" always_nxdomain
-local-zone: "enakslot.bio" always_nxdomain
-local-zone: "gaza-88.com" always_nxdomain
 local-zone: "goid.space" always_nxdomain
 local-zone: "goratu.site" always_nxdomain
 local-zone: "huntfishbrag.store" always_nxdomain
 local-zone: "injd.site" always_nxdomain
 local-zone: "inshorturl.com" always_nxdomain
-local-zone: "klik.zeus.fun" always_nxdomain
 local-zone: "klik4.me" always_nxdomain
 local-zone: "layarotaku.id" always_nxdomain
 local-zone: "moneyfree.co" always_nxdomain
 local-zone: "nf.diamberproetid.com" always_nxdomain
-local-zone: "orangarab.fun" always_nxdomain
-local-zone: "ransplay-io.com" always_nxdomain
-local-zone: "ratu89.news" always_nxdomain
-local-zone: "redirect388herosafest.com" always_nxdomain
-local-zone: "redirectbandarxlsafest.com" always_nxdomain
-local-zone: "redirectbisnis4dsafest.com" always_nxdomain
-local-zone: "refpa3665.com" always_nxdomain
 local-zone: "rts.gdn" always_nxdomain
 local-zone: "safelinkearn.com" always_nxdomain
-local-zone: "sbobet.host" always_nxdomain
 local-zone: "scripts.jixie.media" always_nxdomain
 local-zone: "statics1.tceru134gsur.ru" always_nxdomain
 local-zone: "sv.sleeklyyallaer.com" always_nxdomain
-local-zone: "tambakbet.vip" always_nxdomain
-local-zone: "tantegacor88.link" always_nxdomain
 local-zone: "terbit21.gdn" always_nxdomain
 local-zone: "track.aptitudemedia.co" always_nxdomain
 local-zone: "track.zerofriend.com" always_nxdomain
 local-zone: "tracker.lazada.co.id" always_nxdomain
 local-zone: "trackingclick.net" always_nxdomain
 local-zone: "trafficfactory.biz" always_nxdomain
-local-zone: "ufo777link.com" always_nxdomain
 local-zone: "vm.ydstinkle.com" always_nxdomain
-local-zone: "wg87vip.bet" always_nxdomain

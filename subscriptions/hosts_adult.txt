@@ -1,7 +1,7 @@
-# Version: 202610131248
+# Version: 202610131308
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Oct 2026 12:48 UTC
+# Last modified: 13 Oct 2026 13:08 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -26,7 +26,6 @@
 0.0.0.0 adskom.com
 0.0.0.0 adslop.com
 0.0.0.0 adstarsmedia.co.id
-0.0.0.0 alertpay.com
 0.0.0.0 ampclicks.com
 0.0.0.0 bellaads.com
 0.0.0.0 berangkasilmu.com
@@ -77,7 +76,6 @@
 0.0.0.0 sarapbeh.com
 0.0.0.0 see-work.info
 0.0.0.0 serbada.com
-0.0.0.0 shiokambing2.com
 0.0.0.0 sitti.co.id
 0.0.0.0 tadex.id
 0.0.0.0 teliad.com
@@ -95,9 +93,9 @@
 # Potential ad servers
 0.0.0.0 9eb10b7a3d04a.com
 0.0.0.0 afbcashidr.com
-0.0.0.0 auredzeon.com
 0.0.0.0 bondeddarkenedswerve.com
 0.0.0.0 brand.ad
+0.0.0.0 clickadu.com
 0.0.0.0 dairouzy.net
 0.0.0.0 doathair.com
 0.0.0.0 edomz.com
@@ -108,7 +106,6 @@
 0.0.0.0 jagoiklan.com
 0.0.0.0 lokeriklan.com
 0.0.0.0 mousheen.net
-0.0.0.0 octafx.com
 0.0.0.0 premiumproven.com
 0.0.0.0 realwap.net
 0.0.0.0 sebar.idblognetwork.com
@@ -119,49 +116,32 @@
 0.0.0.0 access.kaiko.cam
 0.0.0.0 archivehub.com.ng
 0.0.0.0 atgroup-link.id
-0.0.0.0 bandarxl.bio
 0.0.0.0 bergurukecina.fun
-0.0.0.0 bisnis4d.bio
 0.0.0.0 c-stat.eu
 0.0.0.0 cdnfgo.xyz
 0.0.0.0 code.global.giraff.io
 0.0.0.0 embed.dugout.com
-0.0.0.0 enakslot.bio
-0.0.0.0 gaza-88.com
 0.0.0.0 goid.space
 0.0.0.0 goratu.site
 0.0.0.0 huntfishbrag.store
 0.0.0.0 injd.site
 0.0.0.0 inshorturl.com
-0.0.0.0 klik.zeus.fun
 0.0.0.0 klik4.me
 0.0.0.0 layarotaku.id
 0.0.0.0 moneyfree.co
 0.0.0.0 nf.diamberproetid.com
-0.0.0.0 orangarab.fun
-0.0.0.0 ransplay-io.com
-0.0.0.0 ratu89.news
-0.0.0.0 redirect388herosafest.com
-0.0.0.0 redirectbandarxlsafest.com
-0.0.0.0 redirectbisnis4dsafest.com
-0.0.0.0 refpa3665.com
 0.0.0.0 rts.gdn
 0.0.0.0 safelinkearn.com
-0.0.0.0 sbobet.host
 0.0.0.0 scripts.jixie.media
 0.0.0.0 statics1.tceru134gsur.ru
 0.0.0.0 sv.sleeklyyallaer.com
-0.0.0.0 tambakbet.vip
-0.0.0.0 tantegacor88.link
 0.0.0.0 terbit21.gdn
 0.0.0.0 track.aptitudemedia.co
 0.0.0.0 track.zerofriend.com
 0.0.0.0 tracker.lazada.co.id
 0.0.0.0 trackingclick.net
 0.0.0.0 trafficfactory.biz
-0.0.0.0 ufo777link.com
 0.0.0.0 vm.ydstinkle.com
-0.0.0.0 wg87vip.bet
 # *** abpindo:src/adult/adult_thirdparty.txt ***
 0.0.0.0 32redpoker.com
 0.0.0.0 4vbbb.com
@@ -179,17 +159,20 @@
 0.0.0.0 arenajudi.com
 0.0.0.0 asiapoker777.com
 0.0.0.0 astonwin.org
+0.0.0.0 auredzeon.com
 0.0.0.0 auredzetw.com
 0.0.0.0 autocst.site
 0.0.0.0 axes88.org
 0.0.0.0 badylenicesist.com
 0.0.0.0 bandarjuditogel.com
+0.0.0.0 bandarxl.bio
 0.0.0.0 bbm88.org
 0.0.0.0 bebasjudi.com
 0.0.0.0 belitogel.com
 0.0.0.0 beritaagenjudi.com
 0.0.0.0 bio.wgauhh.xyz
 0.0.0.0 biotogel.com
+0.0.0.0 bisnis4d.bio
 0.0.0.0 blindbetpoker.com
 0.0.0.0 bojo.rajatravel.online
 0.0.0.0 breedsmuteexams.com
@@ -201,9 +184,7 @@
 0.0.0.0 cek.to
 0.0.0.0 celebpoker.com
 0.0.0.0 chilipoker.com
-0.0.0.0 clickadu.com
 0.0.0.0 coolhandpoker.com
-0.0.0.0 cutlink.now
 0.0.0.0 dafapoker.com
 0.0.0.0 daftar.situsngacir.com
 0.0.0.0 daftarjudibola.com
@@ -218,6 +199,7 @@
 0.0.0.0 dwabt.pro
 0.0.0.0 dwagg.me
 0.0.0.0 emputogel.com
+0.0.0.0 enakslot.bio
 0.0.0.0 eu.kinggroup.buzz
 0.0.0.0 europoker.com
 0.0.0.0 everypoker.com
@@ -225,6 +207,7 @@
 0.0.0.0 file-assist.xuzor.com
 0.0.0.0 gacor.vin
 0.0.0.0 gacor.zone
+0.0.0.0 gaza-88.com
 0.0.0.0 gembul.xyz
 0.0.0.0 gentingpoker.com
 0.0.0.0 goldentigerpoker.com
@@ -253,6 +236,7 @@
 0.0.0.0 kegz.site
 0.0.0.0 kingtogel.com
 0.0.0.0 klik.top
+0.0.0.0 klik.zeus.fun
 0.0.0.0 launchpoker.com
 0.0.0.0 lazacasino.com
 0.0.0.0 linkjalur.vip
@@ -287,6 +271,7 @@
 0.0.0.0 offwardscraps.com
 0.0.0.0 online5poker.com
 0.0.0.0 onlinepoker66.com
+0.0.0.0 orangarab.fun
 0.0.0.0 pacificpoker.com
 0.0.0.0 pkr-88.com
 0.0.0.0 planettoto.com
@@ -330,17 +315,25 @@
 0.0.0.0 rajapoker88.com
 0.0.0.0 rajatogel.com
 0.0.0.0 rajatoto.com
+0.0.0.0 ransplay-io.com
 0.0.0.0 rarelypunenhancements.com
+0.0.0.0 ratu89.news
 0.0.0.0 recentpoker.com
+0.0.0.0 redirect388herosafest.com
+0.0.0.0 redirectbandarxlsafest.com
+0.0.0.0 redirectbisnis4dsafest.com
 0.0.0.0 redstarpoker.com
+0.0.0.0 refpa3665.com
 0.0.0.0 rgobet.com
 0.0.0.0 rivapoker.com
 0.0.0.0 rumah-judi.com
 0.0.0.0 rumahtaruhan88.com
 0.0.0.0 sakti.club
+0.0.0.0 sbobet.host
 0.0.0.0 semarangtogel.com
 0.0.0.0 serverx16.online
 0.0.0.0 sharkpokertour.com
+0.0.0.0 shiokambing2.com
 0.0.0.0 shopnoit.com
 0.0.0.0 situsdepe4d.site
 0.0.0.0 situsdepe4d.space
@@ -353,7 +346,9 @@
 0.0.0.0 switchpoker.com
 0.0.0.0 t2m.io
 0.0.0.0 tajir.la
+0.0.0.0 tambakbet.vip
 0.0.0.0 tangkas99.com
+0.0.0.0 tantegacor88.link
 0.0.0.0 taruhanbetting.com
 0.0.0.0 taruhancasino.com
 0.0.0.0 taruhanku.com
@@ -385,6 +380,7 @@
 0.0.0.0 truepoker.com
 0.0.0.0 tuanmuda88baja.com
 0.0.0.0 tzetzessmoking.com
+0.0.0.0 ufo777link.com
 0.0.0.0 undiantogel.com
 0.0.0.0 videopoker.com
 0.0.0.0 vm.beeteam368.net
@@ -393,10 +389,10 @@
 0.0.0.0 webjudionline.com
 0.0.0.0 webjuditerpercaya.com
 0.0.0.0 websitejudi.com
+0.0.0.0 wg87vip.bet
 0.0.0.0 whelmlegge.com
 0.0.0.0 wigobet.com
 0.0.0.0 win25keren.store
-0.0.0.0 wprediscache.com
 0.0.0.0 xjudi.com
 0.0.0.0 yourpokercash.com
 0.0.0.0 yu.befitkersey.com

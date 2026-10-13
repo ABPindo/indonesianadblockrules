@@ -1,7 +1,7 @@
-# Version: 202610131248
+# Version: 202610131308
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 13 Oct 2026 12:48 UTC
+# Last modified: 13 Oct 2026 13:08 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -26,7 +26,6 @@ server=/adsimg.kompas.com/
 server=/adskom.com/
 server=/adslop.com/
 server=/adstarsmedia.co.id/
-server=/alertpay.com/
 server=/ampclicks.com/
 server=/bellaads.com/
 server=/berangkasilmu.com/
@@ -77,7 +76,6 @@ server=/sanglah.com/
 server=/sarapbeh.com/
 server=/see-work.info/
 server=/serbada.com/
-server=/shiokambing2.com/
 server=/sitti.co.id/
 server=/tadex.id/
 server=/teliad.com/
@@ -95,9 +93,9 @@ server=/yesads.com/
 # Potential ad servers
 server=/9eb10b7a3d04a.com/
 server=/afbcashidr.com/
-server=/auredzeon.com/
 server=/bondeddarkenedswerve.com/
 server=/brand.ad/
+server=/clickadu.com/
 server=/dairouzy.net/
 server=/doathair.com/
 server=/edomz.com/
@@ -108,7 +106,6 @@ server=/iwtserve.com/
 server=/jagoiklan.com/
 server=/lokeriklan.com/
 server=/mousheen.net/
-server=/octafx.com/
 server=/premiumproven.com/
 server=/realwap.net/
 server=/sebar.idblognetwork.com/
@@ -119,46 +116,29 @@ server=/yllix.com/
 server=/access.kaiko.cam/
 server=/archivehub.com.ng/
 server=/atgroup-link.id/
-server=/bandarxl.bio/
 server=/bergurukecina.fun/
-server=/bisnis4d.bio/
 server=/c-stat.eu/
 server=/cdnfgo.xyz/
 server=/code.global.giraff.io/
 server=/embed.dugout.com/
-server=/enakslot.bio/
-server=/gaza-88.com/
 server=/goid.space/
 server=/goratu.site/
 server=/huntfishbrag.store/
 server=/injd.site/
 server=/inshorturl.com/
-server=/klik.zeus.fun/
 server=/klik4.me/
 server=/layarotaku.id/
 server=/moneyfree.co/
 server=/nf.diamberproetid.com/
-server=/orangarab.fun/
-server=/ransplay-io.com/
-server=/ratu89.news/
-server=/redirect388herosafest.com/
-server=/redirectbandarxlsafest.com/
-server=/redirectbisnis4dsafest.com/
-server=/refpa3665.com/
 server=/rts.gdn/
 server=/safelinkearn.com/
-server=/sbobet.host/
 server=/scripts.jixie.media/
 server=/statics1.tceru134gsur.ru/
 server=/sv.sleeklyyallaer.com/
-server=/tambakbet.vip/
-server=/tantegacor88.link/
 server=/terbit21.gdn/
 server=/track.aptitudemedia.co/
 server=/track.zerofriend.com/
 server=/tracker.lazada.co.id/
 server=/trackingclick.net/
 server=/trafficfactory.biz/
-server=/ufo777link.com/
 server=/vm.ydstinkle.com/
-server=/wg87vip.bet/
