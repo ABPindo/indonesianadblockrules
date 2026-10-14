@@ -1,7 +1,7 @@
-# Version: 202610131354
+# Version: 202610141235
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 13 Oct 2026 13:54 UTC
+# Last modified: 14 Oct 2026 12:35 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -146,6 +146,7 @@ address=/vm.ydstinkle.com/0.0.0.0
 address=/32redpoker.com/0.0.0.0
 address=/4vbbb.com/0.0.0.0
 address=/88togel.com/0.0.0.0
+address=/acrossexterminatorfoggy.com/0.0.0.0
 address=/actionpoker.com/0.0.0.0
 address=/adroitdeceitcongestion.com/0.0.0.0
 address=/afapoker.com/0.0.0.0
@@ -174,12 +175,14 @@ address=/bio.wgauhh.xyz/0.0.0.0
 address=/biotogel.com/0.0.0.0
 address=/bisnis4d.bio/0.0.0.0
 address=/blindbetpoker.com/0.0.0.0
+address=/boingbroggle.qpon/0.0.0.0
 address=/bojo.rajatravel.online/0.0.0.0
 address=/breedsmuteexams.com/0.0.0.0
 address=/bursajudibola.com/0.0.0.0
 address=/caramenangtogel.com/0.0.0.0
 address=/casinoclubpoker.com/0.0.0.0
 address=/cdn.assetcsn.site/0.0.0.0
+address=/cdn4ads.com/0.0.0.0
 address=/cdpoker.com/0.0.0.0
 address=/cek.to/0.0.0.0
 address=/celebpoker.com/0.0.0.0
@@ -195,6 +198,7 @@ address=/delapantogel.com/0.0.0.0
 address=/deltatoto.com/0.0.0.0
 address=/dewijudi.com/0.0.0.0
 address=/dewitogel.com/0.0.0.0
+address=/directyp.org/0.0.0.0
 address=/dutatoto.com/0.0.0.0
 address=/dwabt.pro/0.0.0.0
 address=/dwagg.me/0.0.0.0
