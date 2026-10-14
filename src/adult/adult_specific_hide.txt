@@ -78,6 +78,8 @@ nekopoi.care##.custom-html-widget > div[style*="position: fixed"]
 lkprd.fun,lkprd.site##.adshu
 pascol.*,sintube.*##.ays-pb-modals
 i-jav.space##.banner
+i-jav.space###ab-wall:style(display: none !important;)
+i-jav.space##body:style(overflow: auto !important;)
 podjav.tv##.banner-ads
 podjav.tv##.banner-card
 podjav.tv##.banner-card-inner
