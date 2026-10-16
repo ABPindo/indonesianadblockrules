@@ -59,3 +59,4 @@ anichin.cafe,anichin.co,idlixku.com##a[target*="blank"]:has(> img)
 ||r2.dev/*.mp4$media,redirect=noopmp4-1s,domain=nokephub.*
 ||serverx16.online/hls/$media,redirect=noopmp4-1s
 /wp-content/uploads/*$media,redirect=noopmp4-1s,domain=nokephub.*
+info-menarik.net##+js(aopw, ai_front)
