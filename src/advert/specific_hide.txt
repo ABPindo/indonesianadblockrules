@@ -1327,3 +1327,5 @@ ayojatim.com##.adsbygoogle
 jagosatu.com##div[data-ad-slot="mgid_under_article"]
 jagosatu.com##div[data-ad-slot="recreative_under_article"]
 jagosatu.com##[id^="div-gpt-ad"]
+ceposonline.com##[id^="home-ad-"]
+ceposonline.com##div[data-ad-slot]
