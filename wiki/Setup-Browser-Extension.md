@@ -4,7 +4,7 @@ Panduan ini menjelaskan cara mengaktifkan ABPindo di berbagai browser dan eksten
 
 ---
 
-## Brave Browser (Native — Tanpa Ekstensi)
+## Brave Browser (native, tanpa ekstensi)
 
 Brave mendukung custom filter list secara native melalui mesin pemblokir bawaannya. ABPindo dapat ditambahkan langsung tanpa ekstensi tambahan.
 
@@ -86,7 +86,7 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 - Klik **Update now** di dashboard untuk memperbarui daftar filter.
 
 **Masih ada iklan yang lolos:**
-- Pastikan filter lain seperti EasyList dan EasyPrivacy juga aktif — ABPindo dirancang sebagai pelengkap, bukan pengganti.
+- Pastikan filter lain seperti EasyList dan EasyPrivacy juga aktif; ABPindo dirancang sebagai pelengkap, bukan pengganti.
 - Laporkan melalui [GitHub Issues](https://github.com/ABPindo/indonesianadblockrules/issues) dengan menyertakan URL halaman dan tangkapan layar.
 
 **Fitur situs rusak / gambar hilang:**

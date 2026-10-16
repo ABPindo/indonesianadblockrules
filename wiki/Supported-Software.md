@@ -19,7 +19,7 @@ Ekstensi yang menggunakan sintaks **Adblock Plus**:
 
 
 #### Rekomendasi
-- Untuk Chrome/Chromium, AdGuard memberikan filter paling up-to-date, dukungan sintaks yang lebih luas, dan custom filter. lihat instruksinya [disini](https://github.com/https://github.com/ABPindo/indonesianadblockrules/blob/master/wiki/chrome-adguard-setup.md)
+- Untuk Chrome/Chromium, AdGuard memberikan filter paling up-to-date, dukungan sintaks yang lebih luas, dan custom filter. lihat instruksinya [disini](https://github.com/ABPindo/indonesianadblockrules/blob/master/wiki/chrome-adguard-setup.md)
 - Untuk Firefox/Firefox-based, uBlock Origin memberikan performa terbaik dan dukungan sintaks filter paling lengkap
 
 ---
@@ -28,10 +28,10 @@ Ekstensi yang menggunakan sintaks **Adblock Plus**:
 
 | Peramban | Dukungan ABPindo | Cara | Tautan |
 |---|---|---|---|
-| [Brave](https://brave.com) | ✅ Native | Tambah via `brave://adblock` — lihat [panduan lengkap](Setup-Browser-Extension#brave-browser-native--tanpa-ekstensi)| [Unduh](https://brave.com) |
+| [Brave](https://brave.com) | ✅ Native | Tambah via `brave://adblock`, lihat [panduan lengkap](Setup-Browser-Extension#brave-browser-native-tanpa-ekstensi) | [Unduh](https://brave.com) |
 | [Adblock Browser](https://adblockbrowser.org/) | ✅ Bawaan | ABPindo aktif otomatis saat bahasa Indonesia/Malaysia | [Unduh](https://adblockbrowser.org/) |
-| [Opera](https://www.opera.com) | ⚠️ Terbatas | Hanya format EasyList basic; scriptlet ABPindo tidak didukung — gunakan ekstensi uBlock Origin | [Unduh](https://www.opera.com) |
-| [Vivaldi](https://vivaldi.com) | ⚠️ Terbatas | Sama seperti Opera — gunakan ekstensi uBlock Origin untuk hasil terbaik | [Unduh](https://vivaldi.com) |
+| [Opera](https://www.opera.com) | ⚠️ Terbatas | Hanya format EasyList basic; scriptlet ABPindo tidak didukung, gunakan ekstensi uBlock Origin | [Unduh](https://www.opera.com) |
+| [Vivaldi](https://vivaldi.com) | ⚠️ Terbatas | Sama seperti Opera, gunakan ekstensi uBlock Origin untuk hasil terbaik | [Unduh](https://vivaldi.com) |
 
 ---
 
@@ -56,7 +56,7 @@ Perangkat lunak berbasis hosts file, DNS, atau VPN lokal untuk Android:
 
 | Perangkat Lunak | Platform | Format | Keterangan | Tautan |
 |---|---|---|---|---|
-| [AdGuard](https://adguard.com) | Android, iOS | Adblocker-syntax | Pilihan terlengkap — blokir di level jaringan tanpa root | [Situs](https://adguard.com) |
+| [AdGuard](https://adguard.com) | Android, iOS | Adblocker-syntax | Pilihan terlengkap: blokir di level jaringan tanpa root | [Situs](https://adguard.com) |
 | [AdAway](https://adaway.org) | Android (root) | Hosts | Klasik dan ringan, butuh akses root | [Situs](https://adaway.org) |
 | [Blokada](https://blokada.org) | Android | Domain | Tanpa root, bekerja via VPN lokal | [Situs](https://blokada.org) |
 | [DNS66](https://f-droid.org/packages/org.jak_linux.dns66/) | Android | Domain | Sumber terbuka, tersedia di F-Droid | [F-Droid](https://f-droid.org/packages/org.jak_linux.dns66/) |

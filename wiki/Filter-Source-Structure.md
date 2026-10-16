@@ -13,12 +13,11 @@ indonesianadblockrules/
 │   └── adult/              # Filter konten dewasa & judi
 ├── subscriptions/          # File filter hasil build (jangan diedit langsung)
 ├── tools/                  # Script build dan utilitas
-├── .github/                # Issue templates dan GitHub Actions
-├── build.sh                # Script untuk generate subscriptions/ dari src/
+│   └── build.sh            # Script untuk generate subscriptions/ dari src/
 └── *.template              # Template untuk setiap variasi filter output
 ```
 
-> **Penting:** File di folder `subscriptions/` di-generate otomatis dari `src/` menggunakan `build.sh`. Jangan edit file di `subscriptions/` secara langsung — perubahan akan hilang saat build berikutnya.
+> **Penting:** File di folder `subscriptions/` di-generate otomatis dari `src/` menggunakan `tools/build.sh` (jalankan dengan `npm run build`). Jangan edit file di `subscriptions/` secara langsung, karena perubahan akan hilang saat build berikutnya.
 
 ---
 
@@ -30,11 +29,11 @@ Filter iklan utama, digunakan di semua variasi ABPindo.
 |---|---|---|
 | `adservers.txt` | Domain server iklan pihak ketiga yang murni khusus iklan | `domainiklan.id^$thirdparty` |
 | `thirdparty.txt` | Domain penyedia iklan yang bukan murni ad server (bisa juga domain CDN ganda) | `domaingambar.id^$thirdparty` |
-| `general_block.txt` | Filter blokir berdasarkan pola URL umum — **gunakan dengan hati-hati** untuk menghindari false positive | `.id/iklan/` |
-| `general_hide.txt` | Element hiding berdasarkan pola class/ID umum — **gunakan dengan hati-hati** | `##.iklan` |
+| `general_block.txt` | Filter blokir berdasarkan pola URL umum, **gunakan dengan hati-hati** untuk menghindari false positive | `.id/iklan/` |
+| `general_hide.txt` | Element hiding berdasarkan pola class/ID umum, **gunakan dengan hati-hati** | `##.iklan` |
 | `specific_block.txt` | Blokir spesifik per domain termasuk ekstensi file yang tepat | `domainiklan.id/banner.jpg` |
 | `specific_hide.txt` | Element hiding spesifik per domain dengan class yang tepat | `situs.com##.banner-iklan` |
-| `scriptlet_ublock.txt` | Filter sintaks khusus uBlock Origin (scriptlet, extended syntax) | `situs.com##+js(set-constant, adblock, false)` |
+| `ublock.txt` | Filter sintaks khusus uBlock Origin (scriptlet, extended syntax) | `situs.com##+js(set-constant, adblock, false)` |
 | `allowlist.txt` | Memperbaiki false positive agar fitur/elemen situs tetap berfungsi normal | `@@ikonlegitim.jpg` |
 
 ---
@@ -55,7 +54,7 @@ Filter konten dewasa, judi, dan sejenisnya. Hanya masuk ke variasi `abpindo.txt`
 
 ---
 
-## Template Files
+## File template
 
 File `*.template` di root repositori mendefinisikan **komposisi** setiap variasi filter output:
 
@@ -99,7 +98,7 @@ Filter baru
 ├── Apakah filter SPESIFIK untuk satu situs?
 │   ├── Blokir URL  → src/advert/specific_block.txt
 │   ├── Hide elemen → src/advert/specific_hide.txt
-│   └── uBlock-only → src/advert/scriptlet_ublock.txt
+│   └── uBlock-only → src/advert/ublock.txt
 │
 ├── Apakah memperbaiki false positive?
 │   └── → src/advert/allowlist.txt
