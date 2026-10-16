@@ -1324,3 +1324,6 @@ playcdn.de,videonode.de##body > a[target="_blank"]
 shinigamiscans.com##.ad-container
 slider.shinigami.io##.ad-container
 ayojatim.com##.adsbygoogle
+jagosatu.com##div[data-ad-slot="mgid_under_article"]
+jagosatu.com##div[data-ad-slot="recreative_under_article"]
+jagosatu.com##[id^="div-gpt-ad"]
