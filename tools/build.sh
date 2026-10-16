@@ -5,9 +5,8 @@
 #   bash tools/build.sh abp      # ABP subscriptions only
 #   bash tools/build.sh dns      # DNS filters only (requires ABP hosts files)
 #
-# Prerequisites: python-abp (flrender), python 3.11+, Node.js (for npm scripts)
-# For CI, this is called by: npm run build
-# For local dev, run: npm run build
+# Prerequisites: fop, flrender (python-abp), python 3.11+ (override with PYTHON=...).
+# Single source of truth for building: used by CI (autobuild.yml) and local dev (npm run build).
 
 set -euo pipefail
 
@@ -15,15 +14,23 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 SUBS="$REPO_ROOT/subscriptions"
 SRC="$REPO_ROOT/src"
-SUBS="$(cygpath -m "$SUBS")"
-SRC="$(cygpath -m "$SRC")"
+SUBS="$(cygpath -m "$SUBS" 2>/dev/null || echo "$SUBS")"
+SRC="$(cygpath -m "$SRC" 2>/dev/null || echo "$SRC")"
 
+PYTHON="${PYTHON:-python3}"
 MODE="${1:-all}"
+
+for dep in fop flrender "$PYTHON"; do
+    command -v "$dep" >/dev/null 2>&1 || { echo "ERROR: missing dependency: $dep" >&2; exit 1; }
+done
 
 mkdir -p "$SUBS"
 
 # ─── ABP subscriptions (via flrender) ───────────────────────────────
 build_abp() {
+    echo "==> Running FOP..."
+    fop -n "$SRC"
+
     echo "==> Building ABP subscriptions..."
     cd "$REPO_ROOT"
 
@@ -43,37 +50,30 @@ build_dns() {
     echo "==> Building DNS filters..."
     cd "$REPO_ROOT"
 
-    DC="python tools/dns_converter.py"
+    # Each job: "format input output" -- later jobs may consume earlier outputs.
+    DNS_JOBS=(
+        "hosts           abpindo_hosts.txt       hosts.txt"
+        "hosts           abpindo_hosts_adult.txt hosts_adult.txt"
+        "plain           abpindo_hosts.txt       domain.txt"
+        "plain           abpindo_hosts_adult.txt domain_adult.txt"
+        "dnsmasq_address hosts.txt               dnsmasq.txt"
+        "dnsmasq_address hosts_adult.txt         dnsmasq_adult.txt"
+        "dnsmasq_server  hosts.txt               dnsmasq_server.txt"
+        "dnsmasq_server  hosts_adult.txt         dnsmasq_adult_server.txt"
+        "rpz             hosts.txt               rpz.txt"
+        "rpz             hosts_adult.txt         rpz_adult.txt"
+        "aghome          hosts.txt               aghome.txt"
+        "aghome          hosts_adult.txt         aghome_adult.txt"
+        "unbound         hosts.txt               unbound.txt"
+        "unbound         hosts_adult.txt         unbound_adult.txt"
+    )
 
-    # hosts format
-    $DC --format hosts "$SUBS/abpindo_hosts.txt"       "$SUBS/hosts.txt"
-    $DC --format hosts "$SUBS/abpindo_hosts_adult.txt" "$SUBS/hosts_adult.txt"
+    for job in "${DNS_JOBS[@]}"; do
+        read -r fmt in out <<<"$job"
+        "$PYTHON" tools/dns_converter.py --format "$fmt" "$SUBS/$in" "$SUBS/$out"
+    done
 
-    # plain domain list
-    $DC --format plain "$SUBS/abpindo_hosts.txt"       "$SUBS/domain.txt"
-    $DC --format plain "$SUBS/abpindo_hosts_adult.txt" "$SUBS/domain_adult.txt"
-
-    # dnsmasq address
-    $DC --format dnsmasq_address "$SUBS/hosts.txt"       "$SUBS/dnsmasq.txt"
-    $DC --format dnsmasq_address "$SUBS/hosts_adult.txt" "$SUBS/dnsmasq_adult.txt"
-
-    # dnsmasq server
-    $DC --format dnsmasq_server "$SUBS/hosts.txt"       "$SUBS/dnsmasq_server.txt"
-    $DC --format dnsmasq_server "$SUBS/hosts_adult.txt" "$SUBS/dnsmasq_adult_server.txt"
-
-    # RPZ
-    $DC --format rpz "$SUBS/hosts.txt"       "$SUBS/rpz.txt"
-    $DC --format rpz "$SUBS/hosts_adult.txt" "$SUBS/rpz_adult.txt"
-
-    # AdGuard Home
-    $DC --format aghome "$SUBS/hosts.txt"       "$SUBS/aghome.txt"
-    $DC --format aghome "$SUBS/hosts_adult.txt" "$SUBS/aghome_adult.txt"
-
-    # Unbound
-    $DC --format unbound "$SUBS/hosts.txt"       "$SUBS/unbound.txt"
-    $DC --format unbound "$SUBS/hosts_adult.txt" "$SUBS/unbound_adult.txt"
-
-    echo "    Built 14 DNS subscription files."
+    echo "    Built ${#DNS_JOBS[@]} DNS subscription files."
 }
 
 # ─── Main ───────────────────────────────────────────────────────────

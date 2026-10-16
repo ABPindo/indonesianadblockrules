@@ -23,41 +23,11 @@ jobs:
           python: 'true'
           node-packages: 'fop-cli,@adguard/aglint'
 
-      - name: Run FOP
-        run: fop -n src/
-
       - name: Run AGLint
         run: bash tools/lint.sh
 
-      - name: Build ABP subscriptions
-        run: |
-          mkdir -p subscriptions
-          flrender -i abpindo=. abpindo.template             subscriptions/abpindo.txt
-          flrender -i abpindo=. abpindo_noadult.template     subscriptions/abpindo_noadult.txt
-          flrender -i abpindo=. abpindo_noelemhide.template  subscriptions/abpindo_noelemhide.txt
-          flrender -i abpindo=. abpindo_annoyances.template  subscriptions/abpindo_annoyances.txt
-          flrender -i abpindo=. abpindo_extended.template    subscriptions/abpindo_extended.txt
-          flrender -i abpindo=. abpindo_hosts.template       subscriptions/abpindo_hosts.txt
-          flrender -i abpindo=. abpindo_hosts_adult.template subscriptions/abpindo_hosts_adult.txt
-
-      - name: Build DNS filters
-        run: |
-          python tools/dns_converter.py --format hosts subscriptions/abpindo_hosts.txt       subscriptions/hosts.txt
-          python tools/dns_converter.py --format hosts subscriptions/abpindo_hosts_adult.txt subscriptions/hosts_adult.txt
-
-          python tools/dns_converter.py --format plain subscriptions/abpindo_hosts.txt       subscriptions/domain.txt
-          python tools/dns_converter.py --format plain subscriptions/abpindo_hosts_adult.txt subscriptions/domain_adult.txt
-
-          python tools/dns_converter.py --format dnsmasq_address subscriptions/hosts.txt       subscriptions/dnsmasq.txt
-          python tools/dns_converter.py --format dnsmasq_address subscriptions/hosts_adult.txt subscriptions/dnsmasq_adult.txt
-          python tools/dns_converter.py --format dnsmasq_server  subscriptions/hosts.txt       subscriptions/dnsmasq_server.txt
-          python tools/dns_converter.py --format dnsmasq_server  subscriptions/hosts_adult.txt subscriptions/dnsmasq_adult_server.txt
-          python tools/dns_converter.py --format rpz             subscriptions/hosts.txt       subscriptions/rpz.txt
-          python tools/dns_converter.py --format rpz             subscriptions/hosts_adult.txt subscriptions/rpz_adult.txt
-          python tools/dns_converter.py --format aghome          subscriptions/hosts.txt       subscriptions/aghome.txt
-          python tools/dns_converter.py --format aghome          subscriptions/hosts_adult.txt subscriptions/aghome_adult.txt
-          python tools/dns_converter.py --format unbound         subscriptions/hosts.txt       subscriptions/unbound.txt
-          python tools/dns_converter.py --format unbound         subscriptions/hosts_adult.txt subscriptions/unbound_adult.txt
+      - name: Build subscriptions
+        run: bash tools/build.sh all
 
       - name: Commit and push
         run: |
@@ -66,6 +36,7 @@ jobs:
           git add subscriptions/
           git diff --staged --quiet && echo "No changes to commit." && exit 0
           git commit -m "chore: auto-build subscriptions [skip ci]"
+          git pull --rebase
           git push
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

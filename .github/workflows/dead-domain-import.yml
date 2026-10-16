@@ -80,6 +80,7 @@ jobs:
           
           TOTAL=$(( ${{ steps.check.outputs.advert_lines }} + ${{ steps.check.outputs.adult_lines }} ))
           git commit -m "chore: auto-import $TOTAL dead domains [skip ci]"
+          git pull --rebase
           git push
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
