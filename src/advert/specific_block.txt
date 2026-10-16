@@ -61,8 +61,6 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||id.techinasia.com/OneSignalSDKWorker.js
 ||idbioskop.com/wp-content/uploads/*/*/300-x-250.png
 ||idbioskop.com/wp-content/uploads/*/*/ad-150x300-website.jpg
-||idblognetwork.com/images/banner468x60/
-||idblognetwork.com/images/banner728x90/
 ||idfl.*/assets/js/adst.js$script,~third-party
 ||idxxi.*/wp-content/uploads/*.gif$image
 ||img.koran-jakarta.com/images/ads/
