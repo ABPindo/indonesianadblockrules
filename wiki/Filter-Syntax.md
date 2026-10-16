@@ -9,13 +9,13 @@ ABPindo mendukung beberapa format sintaks filter tergantung pada software yang d
 Digunakan untuk ekstensi browser seperti uBlock Origin, AdGuard, dan Adblock Plus. Ini adalah format utama ABPindo.
 
 Referensi resmi:
-- [How to Write Filters — Adblock Plus](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
+- [How to Write Filters (Adblock Plus)](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
 - [uBlock Static Filter Syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 
 ### Contoh dasar
 
 ```adblock
-! Komentar — baris yang diawali tanda seru diabaikan
+! Komentar: baris yang diawali tanda seru diabaikan
 
 ! Blokir domain iklan pihak ketiga
 domainiklam.id^$thirdparty
@@ -30,7 +30,7 @@ situs.com##div[class*="iklan"]
 ! Filter khusus uBlock Origin (scriptlet)
 situs.com##+js(set-constant, adblock, false)
 
-! Allowlist — putihkan elemen yang terblokir keliru
+! Allowlist: putihkan elemen yang terblokir keliru
 @@ikonbagus.jpg
 @@situs.com^$document
 ```

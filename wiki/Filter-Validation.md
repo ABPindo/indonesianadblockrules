@@ -8,11 +8,11 @@ ABPindo menggunakan [AGLint](https://github.com/AdguardTeam/AGLint) untuk valida
 
 AGLint memeriksa:
 
-- **Modifier tidak valid** — opsi filter yang tidak dikenal atau salah posisi
-- **Sintaks CSS tidak valid** — selector element hiding yang salah format
-- **Domain tidak valid** — pola domain yang salah dalam aturan
-- **Modifier duplikat** — modifier yang digunakan lebih dari sekali
-- **Direktif preprocessor tidak valid** — penggunaan `!#if`, `!#endif` yang salah
+- **Modifier tidak valid**: opsi filter yang tidak dikenal atau salah posisi
+- **Sintaks CSS tidak valid**: selector element hiding yang salah format
+- **Domain tidak valid**: pola domain yang salah dalam aturan
+- **Modifier duplikat**: modifier yang digunakan lebih dari sekali
+- **Direktif preprocessor tidak valid**: penggunaan `!#if`, `!#endif` yang salah
 
 ---
 
@@ -51,8 +51,8 @@ npm run check:duplicates
 
 Validasi berjalan otomatis:
 
-- **Saat PR** — Memvalidasi semua file filter, gagal jika ada error
-- **Saat push ke master** — Memvalidasi sebelum build
+- **Saat PR**: memvalidasi semua file filter, gagal jika ada error
+- **Saat push ke master**: memvalidasi sebelum build
 
 ---
 
@@ -65,7 +65,7 @@ root: true
 extends:
   - aglint:recommended
 syntax:
-  - AdblockPlus
+  - Common
 rules:
   invalid-modifiers: error
   no-invalid-css-syntax: error

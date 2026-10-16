@@ -1,6 +1,6 @@
 # Beranda Wiki ABPindo
 
-Wiki ini berisi panduan lengkap penggunaan dan pengembangan ABPindo — daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia.
+Wiki ini berisi panduan penggunaan dan pengembangan ABPindo, daftar penapis iklan untuk situs berbahasa Indonesia dan Malaysia.
 
 ---
 

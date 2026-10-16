@@ -27,7 +27,7 @@ Unduh salah satu dari Google Play Store:
 **Untuk Adblock Plus / AdBlock:**
 1. Buka aplikasi Adblock Plus atau AdBlock.
 2. Masuk ke **Ad blocking options > Language**.
-3. Aktifkan **Bahasa Indonesia** — ABPindo akan aktif secara otomatis.
+3. Aktifkan **Bahasa Indonesia** agar ABPindo aktif secara otomatis.
 
 **Untuk AdGuard Content Blocker:**
 1. Buka aplikasi AdGuard Content Blocker.
