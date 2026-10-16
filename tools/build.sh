@@ -15,6 +15,8 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 SUBS="$REPO_ROOT/subscriptions"
 SRC="$REPO_ROOT/src"
+SUBS="$(cygpath -m "$SUBS")"
+SRC="$(cygpath -m "$SRC")"
 
 MODE="${1:-all}"
 

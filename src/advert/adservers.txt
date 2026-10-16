@@ -5,7 +5,6 @@
 ||adeumssp.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||adreach.co^$third-party
-||ads.d21.media^$third-party
 ||ads.indosatooredoo.com^$third-party
 ||ads.telkomsel.com^$third-party
 ||adsbingo.com^$third-party
@@ -13,7 +12,6 @@
 ||adskom.com^$third-party
 ||adslop.com^$third-party
 ||adstarsmedia.co.id^$third-party
-||alertpay.com^$third-party
 ||ampclicks.com^$popup,third-party
 ||bellaads.com^$third-party
 ||berangkasilmu.com^$third-party
@@ -64,7 +62,6 @@
 ||sarapbeh.com^$third-party
 ||see-work.info^$popup,third-party
 ||serbada.com^$image,third-party
-||shiokambing2.com^$popup,third-party
 ||sitti.co.id^$third-party
 ||tadex.id^$third-party
 ||teliad.com^$third-party
@@ -82,7 +79,6 @@
 ! Potential ad servers
 ||9eb10b7a3d04a.com^$popup,third-party
 ||afbcashidr.com^$popup,third-party
-||auredzeon.com^$popup,third-party
 ||bondeddarkenedswerve.com^$popup
 ||brand.ad^$third-party
 ||dairouzy.net^$popup,third-party
@@ -93,12 +89,10 @@
 ||gaslah.my.id^$third-party
 ||iwtserve.com^$popup,third-party
 ||jagoiklan.com^$third-party
-||lokeriklan.com^$third-party
 ||mousheen.net^$third-party
-||octafx.com^$popup,third-party
 ||realwap.net^$third-party
-||sebar.idblognetwork.com^$third-party
 ||villainoussession.com^$popup
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
-||premiumproven.com^$third-party
+||clickadu.com^$popup
+||ads.mssb.cloud^$third-party

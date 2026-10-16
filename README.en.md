@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ABPindo/indonesianadblockrules/raw/master/src/ABPindo%202.png" width="200" alt="ABPindo Logo">
+  <img src="https://github.com/ABPindo/indonesianadblockrules/raw/master/wiki/assets/abpindo-logo.png" width="200" alt="ABPindo Logo">
 </p>
 
 <h1 align="center">ABPindo</h1>
