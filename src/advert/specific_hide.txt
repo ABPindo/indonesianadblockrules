@@ -1316,6 +1316,11 @@ playcdn.de,videonode.de##body > a[target="_blank"]
 shinigamiscans.com##.ad-container
 slider.shinigami.io##.ad-container
 ayojatim.com##.adsbygoogle
+jagosatu.com##div[data-ad-slot="mgid_under_article"]
+jagosatu.com##div[data-ad-slot="recreative_under_article"]
+jagosatu.com##[id^="div-gpt-ad"]
+ceposonline.com##[id^="home-ad-"]
+ceposonline.com##div[data-ad-slot]
 voratoon.*##div[class^="ranking-promo-popup"]
 voratoon.*##div[class^="ad-slot"]
 shinigami.asia##.md\:px-24.px-4.pt-4.md\:pt-24 > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
