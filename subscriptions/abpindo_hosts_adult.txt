@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202610141429
+! Version: 202610161033
 ! Title: ABPindo (hosts + adult)
 ! Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-! Last modified: 14 Oct 2026 14:29 UTC
+! Last modified: 16 Oct 2026 10:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -19,7 +19,6 @@
 ||adeumssp.com^$third-party
 ||admarketplace.net^$popup,third-party
 ||adreach.co^$third-party
-||ads.d21.media^$third-party
 ||ads.indosatooredoo.com^$third-party
 ||ads.telkomsel.com^$third-party
 ||adsbingo.com^$third-party
@@ -106,11 +105,8 @@
 ||gaslah.my.id^$third-party
 ||iwtserve.com^$popup,third-party
 ||jagoiklan.com^$third-party
-||lokeriklan.com^$third-party
 ||mousheen.net^$third-party
-||premiumproven.com^$third-party
 ||realwap.net^$third-party
-||sebar.idblognetwork.com^$third-party
 ||villainoussession.com^$popup
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
@@ -253,7 +249,6 @@
 ||linkol.xyz^$third-party
 ||lockerimage.com^$all
 ||login.ashk7.com^$third-party
-||lolhello.com^
 ||lotospoker.com^$third-party
 ||macory.com^
 ||mansionpoker.com^$third-party
