@@ -82,7 +82,7 @@ indonesianadblockrules/
 │   │   ├── autobuild.yml         # Auto-build on push to master
 │   │   ├── no-generated-edits.yml # Block PRs touching subscriptions/
 │   │   ├── redundancy-check.yml  # Monthly redundancy report (ABPVN engine)
-│   │   ├── performance-benchmark.yml # Filter matching benchmark
+│   │   ├── filter-metrics.yml    # Filter count/size metrics
 │   │   ├── dead-domain-*.yml     # Dead domain detection
 │   │   └── dependabot-automerge.yml
 │   ├── actions/setup-tools/      # Composite action for Python + Node setup

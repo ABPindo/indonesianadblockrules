@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: autobuild-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -37,5 +41,3 @@ jobs:
           git diff --staged --quiet && echo "No changes to commit." && exit 0
           git commit -m "chore: auto-build subscriptions [skip ci]"
           git push
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

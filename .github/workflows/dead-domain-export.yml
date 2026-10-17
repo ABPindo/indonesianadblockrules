@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: monthly-maintenance-dead-domain-export
+  cancel-in-progress: true
+
 jobs:
   export:
     runs-on: ubuntu-latest
@@ -59,5 +63,3 @@ jobs:
           git commit -m "chore: export dead domains [skip ci]"
           git pull --rebase
           git push
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
