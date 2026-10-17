@@ -26,6 +26,11 @@ jobs:
       - name: Run AGLint
         run: bash tools/lint.sh
 
+      # pull before the build: build tools dirty the tree (fop rewrites src/,
+      # CRLF normalization phantoms), which makes pull --rebase fail afterwards
+      - name: Pull latest
+        run: git pull --rebase
+
       - name: Build subscriptions
         run: bash tools/build.sh all
 
@@ -36,11 +41,6 @@ jobs:
           git add subscriptions/
           git diff --staged --quiet && echo "No changes to commit." && exit 0
           git commit -m "chore: auto-build subscriptions [skip ci]"
-          # build tools rewrite files in place and checkout@v7 leaves CRLF
-          # normalization phantoms (src/.gitattributes); the artifacts are
-          # worthless here, so discard everything unstaged before rebasing
-          git reset --hard
-          git pull --rebase
           git push
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
