@@ -36,9 +36,11 @@ jobs:
           git add subscriptions/
           git diff --staged --quiet && echo "No changes to commit." && exit 0
           git commit -m "chore: auto-build subscriptions [skip ci]"
-          # build tools rewrite files in place (fop rewrites src/, etc.);
-          # --autostash drops those build artifacts around the rebase
-          git pull --rebase --autostash
+          # build tools rewrite files in place and checkout@v7 leaves CRLF
+          # normalization phantoms (src/.gitattributes); the artifacts are
+          # worthless here, so discard everything unstaged before rebasing
+          git reset --hard
+          git pull --rebase
           git push
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
