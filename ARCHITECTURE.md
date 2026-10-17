@@ -447,7 +447,7 @@ Current build takes ~30-60 seconds in CI:
 
 - [flrender (python-abp)](https://github.com/adblockplus/python-abp) — ABP subscription renderer
 - [AGLint](https://github.com/AdguardTeam/AGLint) — Filter list linter
-- [FOP (Filter Orderer and Prettifier)](https://github.com/realodix/AdBlockFilterTools) — Filter formatter
+- [FOP (Filter Orderer and Prettifier)](https://github.com/ryanbr/fop-rs) — Filter formatter
 - [uBlock Origin filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 - [Adblock Plus filter syntax](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
 
