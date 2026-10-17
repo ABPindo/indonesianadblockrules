@@ -26,11 +26,6 @@ jobs:
       - name: Run AGLint
         run: bash tools/lint.sh
 
-      # pull before the build: build tools dirty the tree (fop rewrites src/,
-      # CRLF normalization phantoms), which makes pull --rebase fail afterwards
-      - name: Pull latest
-        run: git pull --rebase
-
       - name: Build subscriptions
         run: bash tools/build.sh all
 
