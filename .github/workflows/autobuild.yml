@@ -36,10 +36,9 @@ jobs:
           git add subscriptions/
           git diff --staged --quiet && echo "No changes to commit." && exit 0
           git commit -m "chore: auto-build subscriptions [skip ci]"
-          # fop rewrites src/ in place during the build; reset it so pull --rebase
-          # doesn't fail on unstaged changes
-          git checkout -- src/
-          git pull --rebase
+          # build tools rewrite files in place (fop rewrites src/, etc.);
+          # --autostash drops those build artifacts around the rebase
+          git pull --rebase --autostash
           git push
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
