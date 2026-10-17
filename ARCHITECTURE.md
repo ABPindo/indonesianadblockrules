@@ -39,7 +39,7 @@ indonesianadblockrules/
 │   │   ├── general_hide.txt      # Generic cosmetic filters (##)
 │   │   ├── specific_block.txt    # Site-specific network blocks
 │   │   ├── specific_hide.txt     # Site-specific cosmetic + extended CSS
-│   │   ├── scriptlet_ublock.txt  # uBO-only scriptlet injections (##+js)
+│   │   ├── ublock.txt            # uBO-only scriptlet injections (##+js)
 │   │   └── allowlist.txt         # Exception rules (@@, #@#)
 │   ├── adult/                    # Adult/gambling domain blocks
 │   │   ├── adult_general_block.txt
@@ -72,12 +72,17 @@ indonesianadblockrules/
 │   ├── lint.sh / lint.ps1        # AGLint runner
 │   ├── dns_converter.py          # ABP → DNS format converter
 │   ├── find_duplicates.py        # Cross-file duplicate detector
-│   └── install_tools.sh          # Dependency installer
+│   ├── install_tools.sh          # Dependency installer
+│   ├── run-redundancy-check.js   # Redundancy checker (ABPVN engine runner)
+│   └── abpvn-redundant.js        # ABPVN redundancy engine (vendored)
 │
 ├── .github/                      # CI/CD and GitHub config
 │   ├── workflows/
 │   │   ├── validate-filters.yml  # PR validation (lint + duplicates)
 │   │   ├── autobuild.yml         # Auto-build on push to master
+│   │   ├── no-generated-edits.yml # Block PRs touching subscriptions/
+│   │   ├── redundancy-check.yml  # Monthly redundancy report (ABPVN engine)
+│   │   ├── performance-benchmark.yml # Filter matching benchmark
 │   │   ├── dead-domain-*.yml     # Dead domain detection
 │   │   └── dependabot-automerge.yml
 │   ├── actions/setup-tools/      # Composite action for Python + Node setup
@@ -278,7 +283,7 @@ Example: create `abpindo_lite.template` for mobile users (network blocks only, n
    %include abpindo:src/advert/thirdparty.txt%
    %include abpindo:src/advert/general_block.txt%
    %include abpindo:src/advert/specific_block.txt%
-   %include abpindo:src/advert/scriptlet_ublock.txt%
+   %include abpindo:src/advert/ublock.txt%
    %include abpindo:src/advert/allowlist.txt%
    ```
 
