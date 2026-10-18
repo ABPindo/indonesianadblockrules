@@ -1,50 +1,87 @@
-pemersatufun.com##.age-gate-ad-status
-pemersatufun.com##[class*="age-gate"]
-pemersatufun.com##[class*="age-gate-adblock"]
-redundantwith:
-video.pemersatu.org##.pmt-ad-gate
-video.pemersatu.org##[class*="pmt-ad-gate"]
-||a.magsrv.com^$third-party
-||cdn.tsyndicate.com^,domain=kurakura21.net
-||chaseherbalpasty.com^
-||chaseherbalpasty.com^,domain=kurakura21.net
-||ci.putsaggies.com^,domain=boscinema21.bar
-||ci.putsaggies.com^,domain=bosku21.help
-||deductgreedyheadroom.com^
-||deductgreedyheadroom.com^,domain=bokepbrut.in
-||domineehexer.com^
-||earmuffpostnasalrisotto.com^
-||earmuffpostnasalrisotto.com^,domain=bokepbrut.in
-||endlesshandbaglinked.com^
-||endlesshandbaglinked.com^,domain=bokepbrut.in
-||exacdn.com^
-||exacdn.com^$third-party
-||exdynsrv.com^
-||exdynsrv.com^$third-party
-||exoclick.com^
-||exoclick.com^$third-party
-||exosrv.com^
-||exosrv.com^$third-party
-||fatsoeslandmil.com^
-||fj.fatsoeslandmil.com^$script
-||jads.co^
-||karxklgspgv.com^
-||karxklgspgv.com^$third-party
-||letterrecoveryunplanted.com^
-||letterrecoveryunplanted.com^$third-party
-||magsrv.com^
-||opoxv.com^
-||opoxv.com^$third-party
-||pemsrv.com^
-||pemsrv.com^$third-party
-||poweredby.jads.co^$third-party
-||poweredby.jads.co^,domain=bokep.pemersatu.top
-||poweredby.jads.co^,domain=bokepbox.cc
-||poweredby.jads.co^,domain=kurakura21.net
-||putsaggies.com^
-||te.domineehexer.com^$third-party
-||tsyndicate.com^
-||wirzflrmlcvbyh.com^
-||wirzflrmlcvbyh.com^$third-party
-||wpadmngr.com^
-||wpadmngr.com^$third-party
+/1xbet250.gif|$image
+    redundant with:
+    /1xbet250.gif$image
+
+/1xbetnew.gif|$image
+    redundant with:
+    /1xbetnew.gif$image
+
+/Suroso88-720.webp$image
+    redundant with:
+    /suroso88-
+
+/doiqq.gif|$image
+    redundant with:
+    /doiqq.gif$image
+
+/fairqq.jpg|$image
+    redundant with:
+    /fairqq.jpg$image
+
+/iklan_slot_$image
+    redundant with:
+    /iklan_slot_
+
+/imcpkrn.gif|$image
+    redundant with:
+    /imcpkrn.gif$image
+
+/kartu-online.gif|$image
+    redundant with:
+    /kartu-online.gif$image
+
+/macau442.gif|$image
+    redundant with:
+    /macau442.gif$image
+
+/maniaslot.gif|$image
+    redundant with:
+    /maniaslot.gif$image
+
+/nagaikan.gif|$image
+    redundant with:
+    /nagaikan.gif$image
+
+hitekno.com##div.placeholder_read_body:nth-of-type(2)
+    redundant with:
+    hitekno.com##div.placeholder_read_body
+
+hitekno.com##div.placeholder_read_body:nth-of-type(3)
+    redundant with:
+    hitekno.com##div.placeholder_read_body
+
+hitekno.com##div.placeholder_read_body:nth-of-type(4)
+    redundant with:
+    hitekno.com##div.placeholder_read_body
+
+hitekno.com##div.placeholder_read_body:nth-of-type(5)
+    redundant with:
+    hitekno.com##div.placeholder_read_body
+
+manhwaindo.*,manhwaindo.com##.klan-float-bottom
+    redundant with:
+    manhwaindo.*,manhwaindo.com##.klan
+
+manhwaindo.*,manhwaindo.com##.klan-top
+    redundant with:
+    manhwaindo.*,manhwaindo.com##.klan
+
+||acrossexterminatorfoggy.com^$third-party
+    redundant with:
+    ||acrossexterminatorfoggy.com^
+
+||boingbroggle.qpon^$third-party
+    redundant with:
+    ||boingbroggle.qpon^
+
+||cdn4ads.com^$third-party
+    redundant with:
+    ||cdn4ads.com^
+
+||directyp.org^$third-party
+    redundant with:
+    ||directyp.org^
+
+||suaramerdeka.com/v1/images/iklan_ffi.$image
+    redundant with:
+    /images/iklan_
