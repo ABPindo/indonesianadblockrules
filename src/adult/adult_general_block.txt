@@ -128,8 +128,6 @@
 /1cbet-banners/*$image
 /1Poker-$image
 /1xbet.$image
-/1xbet250.gif|$image
-/1xbetnew.gif|$image
 /1xliga.$image,third-party
 /233bet.$image,third-party
 /28bet.$image
@@ -414,7 +412,6 @@
 /dewiqq-$image
 /dewiqq.$image,third-party
 /diskonqq.$image,third-party
-/doiqq.gif|$image
 /domino168.$image,third-party
 /domino365.$image,third-party
 /domino757.$image,third-party
@@ -457,7 +454,6 @@
 /eze99.$image
 /ezebet-$image
 /ezebet.$image,third-party
-/fairqq.jpg|$image
 /fewstivalqq.gif$image
 /fifaqq-$image
 /fifaqq.$image,third-party
@@ -550,7 +546,6 @@
 /idx-promo-$image
 /igamble247_$image
 /IGAMBLE_$image
-/iklan_slot_$image
 /iklanqq.$image,third-party
 /iklanratu.$image
 /iklanx.$image,third-party
@@ -560,7 +555,6 @@
 /ilucky88.webp$image
 /images/idxbet/*$image
 /imcpkr.$image,third-party
-/imcpkrn.gif|$image
 /imcpoker-$image
 /imcpoker.$image,third-party
 /imcqq-$image
@@ -645,7 +639,6 @@
 /Kaikoslot.webp|$image
 /kampusbet.$image,third-party
 /kaptenpoker.$image
-/kartu-online.gif|$image
 /kartudomino.$image,third-party
 /kartuhoki-$image
 /kartuhokky.$image,third-party
@@ -735,7 +728,6 @@
 /m88domino.$image,third-party
 /mabesqq.$image,third-party
 /MacanTogle-$image
-/macau442.gif|$image
 /MACAU442NET.gif$image
 /macaubet-$image
 /macaubet.$image,third-party
@@ -758,7 +750,6 @@
 /mandalatoto.gif|$image
 /maniaqq-$image
 /maniaqq.$image,third-party
-/maniaslot.gif|$image
 /mansion77ku.$image,third-party
 /mansion77ku.gif|$image
 /mantapkiu.$image
@@ -815,7 +806,6 @@
 /muvibet.$image,third-party
 /Naga-567x80-$image
 /naga303_$image
-/nagaikan.gif|$image
 /nagalaut-new.$image,third-party
 /nagalaut.$image,third-party
 /nagapoker-$image
@@ -1091,7 +1081,6 @@
 /superdomino.$image,third-party
 /superitcbet-$image
 /surgabola.$image,third-party
-/Suroso88-720.webp$image
 /surya4d.$image,third-party
 /tahunqq.$image,third-party
 /tangan-emas-slot-$image

@@ -139,7 +139,6 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||snacklink.id/js/web-script.js$script,third-party
 ||solopos.com/banner/
 ||statically.io/*.ttgambar.xyz/*.jpg$popup
-||suaramerdeka.com/v1/images/iklan_ffi.$image
 ||sukanonton.*/wp-content/uploads/*.gif$image
 ||t.co^$popup,domain=berkasdrive.*|nimegami.*
 ||tajir.la/komikcast$popup
