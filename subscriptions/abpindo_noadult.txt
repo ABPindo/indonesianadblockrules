@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202610180100
+! Version: 202610181150
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 18 Oct 2026 01:00 UTC
+! Last modified: 18 Oct 2026 11:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -97,7 +97,6 @@
 ||afbcashidr.com^$popup,third-party
 ||bondeddarkenedswerve.com^$popup
 ||brand.ad^$third-party
-||clickadu.com^$popup
 ||dairouzy.net^$popup,third-party
 ||doathair.com^$third-party
 ||edomz.com^$third-party
@@ -142,7 +141,6 @@
 ||trafficfactory.biz^$popup,third-party
 ||vm.ydstinkle.com^$third-party
 ! *** abpindo:src/advert/general_block.txt ***
-! Image-based ad path patterns
 -diskon-besar|$image
 -diskon-lebaran|$image
 -diskon-spesial|$image
@@ -150,6 +148,7 @@
 -iklan-art-|$image
 -iklan-atas|$image
 -iklan-banner-|$image
+-iklan-bawah_
 -iklan-bawah|$image
 -iklan-big-|$image
 -iklan-bottom|$image
@@ -157,6 +156,7 @@
 -iklan-boxes-|$image
 -iklan-diskon|$image
 -iklan-frame-|$image
+-iklan-gif-
 -iklan-homepage|$image
 -iklan-home|$image
 -iklan-horizontal|$image
@@ -179,6 +179,7 @@
 -iklan-spesial|$image
 -iklan-sponsor-|$image
 -iklan-square|$image
+-iklan-tengah_
 -iklan-tengah|$image
 -iklan-title|$image
 -iklan-topbanner|$image
@@ -187,6 +188,9 @@
 -iklan-view|$image
 -iklan.gif|$image
 -iklan.jpg|$image
+-iklan.js|$script
+-iklan1.
+-iklan2.
 -iklan789-|$image
 -iklan[0-9]-|$image,script
 -iklan[0-9].|$image,script
@@ -200,50 +204,8 @@
 -slot-iklan-$image
 -slot-iklan|$image
 -sponsor-iklan-|$image
-! Script patterns
--iklan.js|$script
-! Path patterns — image only
-.com/iklan/$image,domain=~persis.or.id
-/ads/iklan.$image
-/ads/iklan/*$image
-/adv/iklan.$image
-/adv/iklan/*$image
-/assets/iklan/*$image
-/banner_iklan/*$image
-/diskon_iklan/*$image
-/foto_iklan/*$image
-/gambar_iklan/*$image
-/iklan_ads/*$image
-/iklan_banner/*$image
-/iklan_banner_$image
-/iklan_data/*$image
-/iklan_images/*$image
-/iklan_lib/*$image
-/iklan_media/*$image
-/iklan_modules/*$image
-/iklan_upload/*$image
-/iklancpm.$image
-/IklanGIF/*$image
-/images/iklan/*$image
-/img_iklan/*$image
-/imgiklan/*$image
-/materi_iklan/*$image
-/promo_iklan/*$image
-/promosi-diskon-$image
-/SkinADkanan.$image
-/SkinADkiri.$image
-/snacklinkbanner.png|$image
-/uploads/iklan/*$image
-/usaha-berhasil.gif|$image
-/usahaberhasil.gif|$image
-/Waralabakan-Banner-$image
-/xbanner_iklan|$image
-_iklan-|$image
-_iklan_|$image
-! Path patterns — script only
-/smartfren/ads.$script
-! Path patterns — image and stylesheet (skin ads)
 .biz/iklan/$image,stylesheet
+.com/iklan/$image,domain=~persis.or.id
 .id/ads/$image,stylesheet,xmlhttprequest
 .id/adv/$image,stylesheet
 .id/iklan/$image,stylesheet
@@ -252,6 +214,109 @@ _iklan_|$image
 .my/iklan/$image,stylesheet
 .net/iklan/$image,stylesheet
 .tv/iklan/$image,stylesheet
+/0iklan-$image
+/1iklan-
+/ads/iklan.$image
+/ads/iklan/*$image
+/adv/iklan.$image
+/adv/iklan/*$image
+/assets/iklan/*$image
+/banner-iklan-
+/banner-kotak-
+/banner/iklan-
+/banner/iklan_
+/banner_iklan.
+/banner_iklan/*$image
+/banner_iklan1.
+/banner_iklan2.
+/banner_kanan_
+/diskon_iklan/*$image
+/foto_iklan/*$image
+/gambar_iklan/*$image
+/iklan-assets/*
+/iklan-banner-
+/iklan-banner/*
+/iklan-box-
+/iklan-boxes-
+/iklan-home-
+/iklan-images/*
+/iklan-overlay-
+/iklan-position-
+/iklan-scroll.
+/iklan-skin-
+/iklan-topbanner-
+/iklan1-
+/iklan1.
+/iklan1_
+/iklan2-
+/iklan2.
+/iklan2_
+/iklan3-
+/iklan3.
+/iklan3_
+/iklan4-
+/iklan4.
+/iklan4_
+/iklan5-
+/iklan5.
+/iklan5_
+/iklan6-
+/iklan6.
+/iklan6_
+/iklan_ads/*$image
+/iklan_banner/*$image
+/iklan_banner_$image
+/iklan_bawah_
+/iklan_big_
+/iklan_box_
+/iklan_data/*$image
+/iklan_home_
+/iklan_homepage_
+/iklan_horizontal.
+/iklan_image.
+/iklan_image2.
+/iklan_images/*$image
+/iklan_left_
+/iklan_lib/*$image
+/iklan_media/*$image
+/iklan_medium_
+/iklan_mini_
+/iklan_modules/*$image
+/iklan_skin_
+/iklan_slot_
+/iklan_square_
+/iklan_upload/*$image
+/iklancpm.$image
+/IklanGIF/*$image
+/iklanmpdigital.
+/ikldesktop.
+/images/iklan/*$image
+/images/iklan_
+/img_iklan/*$image
+/imgiklan/*$image
+/imgiklan_
+/large/iklan-
+/materi_iklan/*$image
+/promo_iklan/*$image
+/promosi-diskon-$image
+/SkinADkanan.$image
+/SkinADkiri.$image
+/smartfren/ads.$script
+/snacklinkbanner.png|$image
+/sponsor-iklan.
+/uploads/iklan/*$image
+/usaha-berhasil.gif|$image
+/usahaberhasil.gif|$image
+/Waralabakan-Banner-$image
+/xbanner_iklan|$image
+_iklan-|$image
+_iklan_|$image
+_iklanatas/
+_iklanfixed/
+_iklanheader/
+_iklansidebar_
+_iklantengah/
+_iklantengah_
 ! *** abpindo:src/advert/specific_block.txt ***
 $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.my.id
 .gif$image,domain=anichin.watch|baladfilm.*|cosmicscans.*|kiryuu.*|kiryuu03.*|kuramanime.*|mangakita.*|movieku.*|nontondrama.*|okestream.*|oploverz.*|shinigami.*|shinigami09.com|winbu.*
