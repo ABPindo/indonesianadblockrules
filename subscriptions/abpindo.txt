@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202610180001
+! Version: 202610180030
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 18 Oct 2026 00:01 UTC
+! Last modified: 18 Oct 2026 00:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -8513,6 +8513,7 @@ totojitu.gif|$image
 ##[title^="agen taruhan bola" i]
 ##[title^="agentoto88" i]
 ##[title^="akanhoki" i]
+##[title^="albaslot" i]
 ##[title^="apitogel" i]
 ##[title^="asiaforbet" i]
 ##[title^="badoQQ" i]
@@ -8530,6 +8531,7 @@ totojitu.gif|$image
 ##[title^="bandarxl" i]
 ##[title^="banner sidebar" i]
 ##[title^="betting togel online" i]
+##[title^="birutoto" i]
 ##[title^="blatogel" i]
 ##[title^="bola tangkas online" i]
 ##[title^="bolatogel" i]
@@ -8562,6 +8564,7 @@ totojitu.gif|$image
 ##[title^="hokidewa" i]
 ##[title^="hokisport" i]
 ##[title^="hoyajackpot" i]
+##[title^="idngoal" i]
 ##[title^="idrbet" i]
 ##[title^="iklan qqangpao" i]
 ##[title^="iklan ratu" i]
@@ -8610,6 +8613,7 @@ totojitu.gif|$image
 ##[title^="mewahbet" i]
 ##[title^="mpojackpot" i]
 ##[title^="mustikapoker" i]
+##[title^="naga588" i]
 ##[title^="nikmatqq" i]
 ##[title^="nonton video bokep" i]
 ##[title^="novapoker" i]
@@ -9513,6 +9517,7 @@ totojitu.gif|$image
 ##img[alt^="bannertengah" i]
 ##img[alt^="bataratoto" i]
 ##img[alt^="bayarjitu" i]
+##img[alt^="bengkulutoto" i]
 ##img[alt^="bet365" i]
 ##img[alt^="betcoin" i]
 ##img[alt^="betting togel online" i]
@@ -9530,6 +9535,7 @@ totojitu.gif|$image
 ##img[alt^="cara daftar sbobet" i]
 ##img[alt^="ceme judi" i]
 ##img[alt^="cikabet" i]
+##img[alt^="damaibet" i]
 ##img[alt^="densustoto" i]
 ##img[alt^="dewa poker" i]
 ##img[alt^="dewacuan" i]
@@ -9537,6 +9543,7 @@ totojitu.gif|$image
 ##img[alt^="dewapoker" i]
 ##img[alt^="dewascore" i]
 ##img[alt^="dewaslot99" i]
+##img[alt^="dewatangkas" i]
 ##img[alt^="dewavegas" i]
 ##img[alt^="diskon togel" i]
 ##img[alt^="diva4d" i]
@@ -9560,6 +9567,7 @@ totojitu.gif|$image
 ##img[alt^="hoyajackpot" i]
 ##img[alt^="hydro88" i]
 ##img[alt^="i58bet" i]
+##img[alt^="igamble247" i]
 ##img[alt^="iklan JadwalBola" i]
 ##img[alt^="iklan qqangpao" i]
 ##img[alt^="iklan ratu" i]
@@ -9648,8 +9656,10 @@ totojitu.gif|$image
 ##img[alt^="qq1x2" i]
 ##img[alt^="qq808" i]
 ##img[alt^="qqmegah" i]
+##img[alt^="qqsawer" i]
 ##img[alt^="qqturbo" i]
 ##img[alt^="rajaremi" i]
+##img[alt^="ratu89" i]
 ##img[alt^="ratucapsa" i]
 ##img[alt^="ratuqq" i]
 ##img[alt^="rimbatoto" i]
@@ -9667,6 +9677,7 @@ totojitu.gif|$image
 ##img[alt^="sexysloto" i]
 ##img[alt^="shiotogel4d" i]
 ##img[alt^="sifujudi" i]
+##img[alt^="sigacor88" i]
 ##img[alt^="situs agen domino" i]
 ##img[alt^="situs agen poker" i]
 ##img[alt^="situs judi bola" i]
@@ -9692,6 +9703,7 @@ totojitu.gif|$image
 ##img[alt^="streaming video bokep" i]
 ##img[alt^="superdomino" i]
 ##img[alt^="superitslot" i]
+##img[alt^="suroso88" i]
 ##img[alt^="tajirQQ" i]
 ##img[alt^="taruhan bola online" i]
 ##img[alt^="taruhan bola" i]
