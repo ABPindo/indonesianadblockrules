@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202610201250
+! Version: 202610201256
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 20 Oct 2026 12:50 UTC
+! Last modified: 20 Oct 2026 12:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1359,6 +1359,7 @@ theasianparent.com##.adcore-height-50
 file.rocks##.add
 bolatimes.com,guideku.com,hitekno.com,matamata.com,suara.com##.adds-top.add
 serialmovieislami.com##.adore-adver
+mediahiburan.my##.adplaceholder-mrec
 akurat.co,arahpandang.com,aspirasiku.id,ayobandung.com,ayobogor.com,ayojakarta.com,bandunginsider.com,cosmicscans.*,dapurpacu.com,download-lagu-mp3.com,duniafilm21.com,embed.dramanices.com,filmapik.*,gridoto.com,harianjogja.com,hops.id,industry.co.id,inidata.id,jatimnetwork.com,jawapos.com,jmnews.id,juara.net,k-vid.net,katadata.co.id,kilat.com,kompas.com,koran-jakarta.com,masagipedia.com,metrotvnews.com,miyanime.site,muslimterkini.id,okezone.com,otakuindo.net,pikiran-rakyat.com,rejogja.co.id,republika.co.id,samehadaku.*,sapos.co.id,smallencode.com,tempo.co,terasjakarta.id,thesmartlocal.my,timenews.co.id,unews.id,www.melintas.id,zonajakarta.com##.ads
 arahpandang.com##.ads--stick-parent
 arahpandang.com##.ads--stick-parent-250px
@@ -1583,6 +1584,7 @@ kabarbursa.com##.bottom-0.fixed
 harianjogja.com,solopos.com##.bottom-fix
 kabar24.com##.bottom-frame-banner-close-btn
 kabar24.com##.bottom-leaderboard-cont
+theasianparent.com##.bottom-sticky-ad
 nova.grid.id##.bottom_banner
 grid.id##.bottom_banner-wrapper.relative
 cnnindonesia.com,detik.com##.bottom_banner_bar
@@ -1847,6 +1849,7 @@ haibunda.com##.m-r2:has([id^="div-gpt-ad"])
 idbioskop.com##.mag-adver-part
 industry.co.id##.main-content > div.idt-textinsidepost
 infosawit.com##.majalahpro-core-topbanner
+manadobaswara.com##.manado-widget
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
@@ -2242,6 +2245,7 @@ katadata.co.id##div:has( > [id^="div-gpt-ad"][class^="paralax"])
 blokbojonegoro.com##div:has( > img[alt="Space Iklan"])
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com,yummy.co.id##div:has(> [id^="IDN_"]:only-child)
 beritasatu.com,investor.id,jakartaglobe.id##div:matches-css(text-align: center):has-text(/adv/i)
+ayojatim.com##div[class*="adsbygoogle"]
 samehadaku.*##div[class*="player-iklan"]
 voratoon.*##div[class^="ad-slot"]
 nontonanimeid.*##div[class^="adspost"]
