@@ -1340,3 +1340,5 @@ tribunnewswiki.com###div-Bottom-Scroll
 tribunnewswiki.com###div-Top-Leaderboard
 pedulirakyat.co.id##.parallax.billboard
 rajawalinews.id##.parallax-area
+idntimes.com##div:has(> [id^="IDN_"]:only-child)
+idntimes.com##[id^="wrapper-ads-"]
