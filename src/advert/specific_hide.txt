@@ -192,7 +192,6 @@ lensaindonesia.com###idcomright1.com-300x250
 lensaindonesia.com###idcomright2.com-300x250
 lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
-layardrama21.*###idmuvi-popup
 yummy.co.id###idn_ads_bottom_sticky
 jpnn.com###iftop + div
 lihat.co.id###iklan-dalam-postingan-300
@@ -276,8 +275,6 @@ suara.com###recWidgetRecommendation
 utusan.com.my###rec_ad4
 sokuja.uk###sadar
 animeindo.net###sct_banner_top
-galeripapua.com###sidebar-banner-160x600-kanan
-galeripapua.com###sidebar-banner-160x600-kiri
 bangsaku.co,galeripapua.com###sidebar-banner-bawah
 zonabola.com###simplemodal-container
 zonabola.com###simplemodal-overlay
@@ -334,7 +331,6 @@ fintechnews.sg##.ad-banner-a
 fintechnews.sg##.ad-banner-a-mobile
 arieffservicecenter.com##.ad-bottom-wrapper
 investor.id##.ad-box-wrappr
-shinigamiscans.com,slider.shinigami.io##.ad-container
 berita.mediacorp.sg##.ad-entity-container
 wartaekonomi.co.id##.ad-inventory-wrapper
 cosmicscans.*##.ad-markup
@@ -393,7 +389,6 @@ cantika.com##.ads-side-250
 cantika.com##.ads-side-600
 beautynesia.id,cnnindonesia.com,detik.com,disway.id,haibunda.com##.ads-slot
 theasianparent.com##.ads-slot-wrapper
-infotangerang.co.id##.ads-sticky-bottom
 inibaru.id##.ads-sticky-left
 inibaru.id##.ads-sticky-right
 infotangerang.id##.ads-sticky.ads-sticky-left
@@ -462,7 +457,6 @@ serialmovieislami.com##.alignnormal
 bolatimes.com,guideku.com,matamata.com##.anchor_banner
 autonetmagz.com##.anm__flying--ads-holder
 jpnn.com##.ans-300x250
-goaceh.id##.article-adv
 hellosehat.com##.article-bottom-ad
 hellosehat.com##.article-desktop-ad
 goodnewsfromindonesia.id##.article-photos-ads
@@ -470,7 +464,6 @@ tirto.id##.article-sidebar
 cantika.com##.artikel-rekomendasi-blue
 inews.id##.asideAds
 myasiantv.se##.av-content-full
-animekompi.sbs##.ays-pb-modals
 detik.com##.balloon
 detik.com##.balloon_adskiri
 detik.com##.balloon_close
@@ -722,19 +715,10 @@ jagodangdut.com,viva.co.id##.giant-banner
 tvonenews.com##.giant-banner-container
 grid.id,gridpop.id##.giant_1-wrapper.relative
 grid.id,gridpop.id##.giant_2-wrapper.relative
-intip24news.com##.gmr-banner-aftercontent
-intip24news.com,jendelakaba.com##.gmr-banner-afterrelpost
-industry.co.id,intip24news.com##.gmr-banner-insidecontent
 bandungberita.com,jendelakaba.com##.gmr-banner-logo
-harianesia.com##.gmr-banner-stickyright
-lk21semi.*,spucweb.com##.gmr-bannerpopup
-ayojatim.com,bandungberita.com,bekasisatu.com,dteksinews.co.id,haluanntt.com,harianesia.com,harianhalmahera.com,rilpolitik.com##.gmr-floatbanner
-jendelakaba.com##.gmr-footerbanner
 gosulut.id##.gmr-in-popup
 gosulut.id##.gmr-modalbg
 gosulut.id##.gmr-share-popup
-dteksinews.co.id,harianesia.com,jendelakaba.com,rilpolitik.com##.gmr-topbanner
-jendelakaba.com##.gmr-verytopbanner
 vnn.co.id##.googlepublisherads
 delik.tv,realitakita.com##.gpt-ad-inner
 kompas.com##.gramedia__gate
@@ -760,20 +744,14 @@ tafsirweb.com##.hot_deals_green
 sokuja.uk##.iDd0s-4dgu4rd
 inibaru.id##.ib_ads_square
 inibaru.id##.ib_ads_sticky
-juragan.film##.idmuvi-afterplayer
-bioskopkeren.*##.idmuvi-floatbanner
-juragan.film##.idmuvi-floatbanner-footer
-juragan.film##.idmuvi-topplayer
 gosulut.id##.idt-rellax-bannerwrap
 gosulut.id##.idt-textinsidepost
-juragan.film##.iklan-container
 koran-jakarta.com##.iklan-for-mobile
 blog.arizman.com##.iklan-kiri-postingan
 suki48.web.id##.iklanSUKI
 cantika.com##.ikln
 animeindo.video##.in_up_ad-area
 cantika.com##.inner-ads-content-1
-infodesanews.com##.inner-floatbanner-bottom
 ulasan.co##.inner-floatleft
 ulasan.co##.inner-floatright
 elshinta.com##.inside-post-ad
@@ -1025,8 +1003,6 @@ detik.com##.staticdetail_container:has(.staticdetail_ads)
 bharian.com.my,hmetro.com.my##.stick-leaderboard-wrapper
 beritasiber.com##.sticky-ads-bottom
 kompas.com##.sticky-ads-close
-goaceh.id##.sticky-ads-left
-goaceh.id##.sticky-ads-right
 100kpj.com,indosport.com##.sticky-bottom
 inews.id##.stickyAds
 jpnn.com,medcom.id,pojoksatu.id##.sticky_bottom
