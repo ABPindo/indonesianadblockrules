@@ -6,7 +6,6 @@ nekopoi.*###HTML1
 nekopoi.*###HTML9
 krucil.com###KD_adpB
 i-jav.space###ab-wall:style(display: none !important;)
-avtubhub.*,urlkontolin.click###adblock-modal
 cctvbokep.bet,dutasex.*,dutasex.com,inibokep.bet,perawanbokep.*###ads
 pemersatufun.com###advertisement
 bintangmawar.net###bmpop_adpB
@@ -53,7 +52,6 @@ bosku21.help,sangetods.net##.active.adde_modal-overlay
 pemersatu.top##.ad
 asiasizzle.com,csnbiru.blog,flickerlust.com,indoxxihot.com,markasfilmhot.com##.ad-banner
 csnbiru.blog##.ad-click-area
-pemersatu.*##.ad-container
 pemersatufun.com##.ad-native-card
 bosku21.help,sangetods.net##.adde_modal_detector-show.adde_modal_detector
 mediahiburan.my##.adplaceholder-mrec
@@ -67,7 +65,6 @@ manhwaindo.*,manhwaindo.com##.agc-ad-slot
 pemersatu.*##.age-ad-card
 bokep.pemersatu.top,pemersatufun.com##.age-gate
 pemersatu.*##.age-gate-ad-mode
-pascol.*,sintube.*##.ays-pb-modals
 i-jav.space##.banner
 podjav.tv##.banner-ads
 podjav.tv##.banner-card
@@ -80,7 +77,6 @@ bokepvir.*##.banner-place-footer
 bokepvir.*##.banner-place-top
 18subindo.com##.banner-rotate-wrap
 artisbokep.*,artisbokep.online,artisbokep.site##.banner-slide
-igo.desu.xxx##.blox.mlb.kln
 theasianparent.com##.bottom-sticky-ad
 dicrotin.fun##.bulletinwp-bulletin-item
 simontokx.tv##.close-text
@@ -135,8 +131,6 @@ video.pemersatu.org##.pvs-ad
 xbokepin.*##.rbdb-overlay
 18subindo.com##.request-warning-bubble
 sebokep.com,sebokep.vip##.sg-popup-builder-content
-dicrotin.*,nokephub.*##.sgpb-popup-dialog-main-div-wrapper
-dicrotin.*,nokephub.*##.sgpb-popup-overlay
 nomat.site##.show.popup
 bokep.pemersatu.top,pemersatufun.*##.siapakita:style(display: none !important;)
 javsubid.sx##.sidebar-ads
@@ -150,7 +144,6 @@ dicrotin.fun##.video-block-happy-absolute
 realthaisluts.com##.video-list-ads
 videocrot.*##.video-page-banner-slot
 csnbiru.blog##.video-wrapper iframe:style(display: block !important;)
-semprot.com##.warning_iklan
 bokepvir.*##.widget_block.widget
 video.pemersatu.org##.widget_custom_html:has(> .custom-html-widget > ins[id])
 kampungbokep.*##.widget_media_image
