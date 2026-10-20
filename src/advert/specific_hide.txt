@@ -1343,3 +1343,4 @@ rajawalinews.id##.parallax-area
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com,yummy.co.id##div:has(> [id^="IDN_"]:only-child)
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com,yummy.co.id##[id^="wrapper-ads-"]
 kuyhaa.id##.ad-link-buttons
+idlixmovie.com##.slot-wrap
