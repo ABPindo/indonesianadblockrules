@@ -433,3 +433,4 @@
 ##.sgpb-popup-dialog-main-div-wrapper
 ##.sgpb-popup-overlay
 ##div[class*="ads-header"]
+##a[href^="https://source.com.ng/r/?t="]
