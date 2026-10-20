@@ -1301,3 +1301,7 @@ olx.co.id##li[data-test-id="native-ad-results-middle"]
 herworld.co.id##p:nth-of-type(2)
 jpnn.com##section.leaderboard
 jakartaglobe.id##style + .mt-2
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com,yummy.co.id##div:has(> [id^="IDN_"]:only-child)
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com,yummy.co.id##[id^="wrapper-ads-"]
+kuyhaa.id##.ad-link-buttons
+idlixmovie.com##.slot-wrap

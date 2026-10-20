@@ -143,3 +143,4 @@ kompas.com##+js(rc, -locked, body)
 kurakura21.net##.eczkflmfhstvfztsumhrirexbn_hcsktyuvtuthdvvprdbwzjvrod
 kurakura21.net##.uyvbutnyjubgiylpathdhjwr_lehjtnhznybscgcbtbhelfdz
 kurakura21.net##img[src*="chp-ads-block-detector"]
+fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div:has(> div > a[href^="https://www.idn.app"] > div > h2)
