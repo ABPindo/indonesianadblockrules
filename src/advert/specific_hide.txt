@@ -1305,3 +1305,7 @@ fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com,yummy.co.id##div:has
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com,yummy.co.id##[id^="wrapper-ads-"]
 kuyhaa.id##.ad-link-buttons
 idlixmovie.com##.slot-wrap
+ayojatim.com##div[class*="adsbygoogle"]
+manadobaswara.com##.manado-widget
+mediahiburan.my##.adplaceholder-mrec
+theasianparent.com##.bottom-sticky-ad
