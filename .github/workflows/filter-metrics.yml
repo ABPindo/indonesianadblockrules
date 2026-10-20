@@ -1,4 +1,4 @@
-name: performance-benchmark
+name: filter-metrics
 
 on:
   workflow_dispatch:
@@ -128,59 +128,20 @@ jobs:
           echo "| Category | Files | Rules | Size (KB) |" >> metrics.md
           echo "|----------|-------|-------|-----------|" >> metrics.md
           
-          # Advert category
-          advert_rules=0
-          advert_size=0
-          advert_files=0
-          for file in src/advert/*.txt; do
-            if [ -f "$file" ]; then
-              rules=$(grep -v '^[[:space:]]*$' "$file" | grep -v '^[[:space:]]*!' | wc -l)
-              size=$(du -k "$file" | cut -f1)
-              advert_rules=$((advert_rules + rules))
-              advert_size=$((advert_size + size))
-              advert_files=$((advert_files + 1))
-            fi
-          done
-          echo "| Advert | $advert_files | $advert_rules | $advert_size |" >> metrics.md
-          
-          # Adult category
-          adult_rules=0
-          adult_size=0
-          adult_files=0
-          for file in src/adult/*.txt; do
-            if [ -f "$file" ]; then
-              rules=$(grep -v '^[[:space:]]*$' "$file" | grep -v '^[[:space:]]*!' | wc -l)
-              size=$(du -k "$file" | cut -f1)
-              adult_rules=$((adult_rules + rules))
-              adult_size=$((adult_size + size))
-              adult_files=$((adult_files + 1))
-            fi
-          done
-          echo "| Adult | $adult_files | $adult_rules | $adult_size |" >> metrics.md
-          
-          # Annoyances
-          if [ -f "src/annoyances.txt" ]; then
-            ann_rules=$(grep -v '^[[:space:]]*$' "src/annoyances.txt" | grep -v '^[[:space:]]*!' | wc -l)
-            ann_size=$(du -k "src/annoyances.txt" | cut -f1)
-            echo "| Annoyances | 1 | $ann_rules | $ann_size |" >> metrics.md
-          fi
-          
-          # Extended
-          ext_rules=0
-          ext_size=0
-          if [ -f "src/advert_extended.txt" ]; then
-            r=$(grep -v '^[[:space:]]*$' "src/advert_extended.txt" | grep -v '^[[:space:]]*!' | wc -l)
-            s=$(du -k "src/advert_extended.txt" | cut -f1)
-            ext_rules=$((ext_rules + r))
-            ext_size=$((ext_size + s))
-          fi
-          if [ -f "src/adult_extended.txt" ]; then
-            r=$(grep -v '^[[:space:]]*$' "src/adult_extended.txt" | grep -v '^[[:space:]]*!' | wc -l)
-            s=$(du -k "src/adult_extended.txt" | cut -f1)
-            ext_rules=$((ext_rules + r))
-            ext_size=$((ext_size + s))
-          fi
-          echo "| Extended | 2 | $ext_rules | $ext_size |" >> metrics.md
+          # One row per directory under src/, derived from the filesystem — no hard-coded names
+                    for dir in $(find src -type d | sort); do
+                      cat=$(basename "$dir")
+                      files=0; rules=0; size=0
+                      for file in "$dir"/*.txt; do
+                        [ -f "$file" ] || continue
+                        files=$((files + 1))
+                        rules=$((rules + $(grep -v '^[[:space:]]*$' "$file" | grep -vc '^[[:space:]]*!')))
+                        size=$((size + $(du -k "$file" | cut -f1)))
+                      done
+                      [ "$files" -gt 0 ] || continue
+                      echo "| $cat | $files | $rules | $size |" >> metrics.md
+                    done
+                    echo "| (top-level) | $(find src -maxdepth 1 -name '*.txt' | wc -l) | $(grep -vh '^[[:space:]]*$' src/*.txt 2>/dev/null | grep -vc '^[[:space:]]*!') | $(du -k src/*.txt 2>/dev/null | awk '{s+=$1} END{print s+0}') |" >> metrics.md
 
       - name: Rule type analysis
         run: |

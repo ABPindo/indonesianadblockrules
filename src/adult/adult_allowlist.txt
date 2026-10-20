@@ -1,8 +1,8 @@
 ! Allowlist for element hiding filters
+@@||exoclick.com^$domain=pemersatufun.site
+@@||magsrv.com^$domain=pemersatufun.site
+@@||pemersatu.top/video/^$elemhide
+@@||poweredby.jads.co^$script,subdocument,domain=video.pemersatu.org
 pemersatu.top,pemersatudotfun.com,pemersatufun.*,pemersatufun.site#@##adright
 semprot.com#@#.adUnit
 semprot.com#@#.adunit:not(.text-ad)
-@@||poweredby.jads.co^$script,frame,domain=video.pemersatu.org
-@@||pemersatu.top/video/^$elemhide
-@@||magsrv.com^$domain=pemersatufun.site
-@@||exoclick.com^$domain=pemersatufun.site

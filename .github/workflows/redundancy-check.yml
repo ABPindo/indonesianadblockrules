@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: monthly-maintenance-redundancy-check
+  cancel-in-progress: true
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -84,9 +88,8 @@ jobs:
           git diff --staged --quiet && echo "No changes." && exit 0
 
           git commit -m "chore: monthly redundancy check [skip ci]"
+          git pull --rebase
           git push
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate report
         if: always()

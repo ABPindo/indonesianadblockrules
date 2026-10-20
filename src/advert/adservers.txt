@@ -78,6 +78,7 @@
 ||yesads.com^$third-party
 ! Potential ad servers
 ||9eb10b7a3d04a.com^$popup,third-party
+||ads.mssb.cloud^$third-party
 ||afbcashidr.com^$popup,third-party
 ||bondeddarkenedswerve.com^$popup
 ||brand.ad^$third-party
@@ -94,5 +95,3 @@
 ||villainoussession.com^$popup
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
-||clickadu.com^$popup
-||ads.mssb.cloud^$third-party

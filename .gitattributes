@@ -1,6 +1,9 @@
 *.template linguist-language=AdBlock linguist-detectable
 
-# Enforce LF line endings for config and shell files
+# Enforce LF line endings for config and shell files.
+# Matches at any depth on purpose, so nested config files are normalized too.
+# Keep these blobs LF. A CRLF blob here reports as permanently modified and
+# breaks pull --rebase with "unstaged changes" (this broke autobuild CI once).
 .gitignore       text eol=lf
 .gitattributes   text eol=lf
 .editorconfig    text eol=lf

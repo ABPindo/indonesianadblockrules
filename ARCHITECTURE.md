@@ -1,32 +1,33 @@
 # ABPindo Architecture
 
-This document describes the technical architecture, build pipeline, and design decisions behind ABPindo.
+This document describes how ABPindo works: the build pipeline, the CI workflows, and the reasoning behind the design decisions.
 
 ---
 
-## Table of Contents
+## Table of contents
 
 - [Overview](#overview)
-- [Repository Structure](#repository-structure)
-- [Build Pipeline](#build-pipeline)
-- [CI/CD Workflows](#cicd-workflows)
-- [Design Decisions](#design-decisions)
-- [Adding New Components](#adding-new-components)
+- [Repository structure](#repository-structure)
+- [Build pipeline](#build-pipeline)
+- [CI/CD workflows](#cicd-workflows)
+- [Design decisions](#design-decisions)
+- [Adding new components](#adding-new-components)
 
 ---
 
 ## Overview
 
-ABPindo is a filter list project that converts source filter rules into multiple distribution formats for different ad-blocking platforms. The architecture is designed for:
+ABPindo takes hand-edited filter rules and renders them into 21 subscription variants (7 ABP formats plus 14 DNS formats) for different ad-blocking platforms.
 
-- **Simplicity**: Plain text source files, minimal build tooling
-- **Portability**: ABP syntax first, uBO extended when needed
-- **Automation**: CI/CD handles validation, building, and publishing
-- **Multi-format**: Single source → 21 output formats (ABP + DNS variants)
+Three choices shape the architecture:
+
+- Source files are plain text with minimal build tooling
+- ABP syntax comes first; uBO extended syntax only when ABP can't express a rule
+- CI/CD handles validation, building, and publishing
 
 ---
 
-## Repository Structure
+## Repository structure
 
 ```
 indonesianadblockrules/
@@ -38,7 +39,7 @@ indonesianadblockrules/
 │   │   ├── general_hide.txt      # Generic cosmetic filters (##)
 │   │   ├── specific_block.txt    # Site-specific network blocks
 │   │   ├── specific_hide.txt     # Site-specific cosmetic + extended CSS
-│   │   ├── scriptlet_ublock.txt  # uBO-only scriptlet injections (##+js)
+│   │   ├── ublock.txt            # uBO-only scriptlet injections (##+js)
 │   │   └── allowlist.txt         # Exception rules (@@, #@#)
 │   ├── adult/                    # Adult/gambling domain blocks
 │   │   ├── adult_general_block.txt
@@ -71,12 +72,17 @@ indonesianadblockrules/
 │   ├── lint.sh / lint.ps1        # AGLint runner
 │   ├── dns_converter.py          # ABP → DNS format converter
 │   ├── find_duplicates.py        # Cross-file duplicate detector
-│   └── install_tools.sh          # Dependency installer
+│   ├── install_tools.sh          # Dependency installer
+│   ├── run-redundancy-check.js   # Redundancy checker (ABPVN engine runner)
+│   └── abpvn-redundant.js        # ABPVN redundancy engine (vendored)
 │
 ├── .github/                      # CI/CD and GitHub config
 │   ├── workflows/
 │   │   ├── validate-filters.yml  # PR validation (lint + duplicates)
 │   │   ├── autobuild.yml         # Auto-build on push to master
+│   │   ├── no-generated-edits.yml # Block PRs touching subscriptions/
+│   │   ├── redundancy-check.yml  # Monthly redundancy report (ABPVN engine)
+│   │   ├── filter-metrics.yml    # Filter count/size metrics
 │   │   ├── dead-domain-*.yml     # Dead domain detection
 │   │   └── dependabot-automerge.yml
 │   ├── actions/setup-tools/      # Composite action for Python + Node setup
@@ -91,9 +97,9 @@ indonesianadblockrules/
 
 ---
 
-## Build Pipeline
+## Build pipeline
 
-The build pipeline transforms source filters into multiple distribution formats:
+The pipeline turns source filters into distribution formats:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -143,7 +149,7 @@ The build pipeline transforms source filters into multiple distribution formats:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Local Development Workflow
+### Local development workflow
 
 ```bash
 # 1. Edit source filters
@@ -169,30 +175,26 @@ git push
 
 ---
 
-## CI/CD Workflows
+## CI/CD workflows
 
 ### 1. `validate-filters.yml`
-**Trigger**: PR to master, push to master (src/ changes only)  
-**Purpose**: Validate filter syntax and detect duplicates before merge
 
-**Steps**:
+Runs on PRs to master and on pushes to master that touch `src/`. It validates filter syntax and detects duplicates before merge.
+
 1. Checkout code
 2. Setup tools (Python 3.x, Node 22.x, AGLint)
 3. Run `bash tools/lint.sh` (AGLint on all src/**/*.txt)
 4. Run `python tools/find_duplicates.py --strict` (exit 1 if duplicates found)
 5. Generate report summary
 
-**Exit conditions**:
-- ❌ Fail: AGLint errors, duplicates found
-- ✅ Pass: All checks green
+It fails on AGLint errors or duplicates found, and passes when all checks are green.
 
 ---
 
 ### 2. `autobuild.yml`
-**Trigger**: Push to master (src/ changes only), manual dispatch  
-**Purpose**: Build all subscription files and commit them back to master
 
-**Steps**:
+Runs on push to master (src/ changes only) and manual dispatch. It builds all subscription files and commits them back to master.
+
 1. Checkout code
 2. Setup tools (Python 3.x, Node 22.x, fop-cli, AGLint, python-abp)
 3. Run FOP (auto-format src/)
@@ -202,97 +204,75 @@ git push
 7. Commit subscriptions/ back to master with `[skip ci]` flag
 8. Push to origin/master
 
-**Exit conditions**:
-- ❌ Fail: Build errors, flrender errors, python errors
-- ✅ Pass: Subscriptions committed successfully
+It fails on build errors, flrender errors, or Python errors. On success the subscriptions are committed.
 
 ---
 
 ### 3. `dead-domain-export.yml` & `dead-domain-import.yml`
-**Trigger**: Manual dispatch (weekly cron suggested)  
-**Purpose**: Detect and remove dead domains to keep filters lean
 
-**Flow**:
-1. Export: Extract domains from ABP hosts files → dead_domains.txt
+Manual dispatch (weekly cron suggested). Detects and removes dead domains to keep the filters lean.
+
+1. Export: extract domains from ABP hosts files → dead_domains.txt
 2. External process (PyFunceble or AdGuard DeadDomainsLinter) checks liveness
-3. Import: Read dead_domains.txt, move dead rules to `advert_extended.txt`
+3. Import: read dead_domains.txt, move dead rules to `advert_extended.txt`
 
-**Note**: Currently manual — can be automated with cron.
+Currently manual — can be automated with cron.
 
 ---
 
 ### 4. `dependabot-automerge.yml`
-**Trigger**: Dependabot PR created  
-**Purpose**: Auto-merge dependency updates after checks pass
+
+Auto-merges Dependabot dependency updates after checks pass.
 
 ---
 
-## Design Decisions
+## Design decisions
 
-### Why ABP Syntax First, uBO Extended Second?
+### Why ABP syntax first, uBO extended second?
 
-**Decision**: Use Adblock Plus simple syntax as the default. Use uBlock Origin extended syntax (`##+js()`, `##^`, `:upward()`, etc.) only when ABP cannot express the rule.
+Adblock Plus simple syntax is the default. uBlock Origin extended syntax (`##+js()`, `##^`, `:upward()`, etc.) is used only when ABP cannot express the rule.
 
-**Rationale**:
-- **Portability**: ABP syntax works in ABP, uBO, AdGuard, Brave, etc. — widest compatibility
-- **Simplicity**: Simpler rules are easier to debug and maintain
-- **Avoid vendor lock-in**: uBO-only scriptlets reduce portability to AdGuard users
+ABP syntax works in ABP, uBO, AdGuard, Brave, and most other blockers, so it gives the widest compatibility. Simpler rules are also easier to debug and maintain. uBO-only scriptlets lock out AdGuard users, so we avoid them.
 
-**Never use**:
+Never use:
+
 - ❌ AdGuard scriptlets (`#%#//scriptlet(...)`) — AdGuard-only
 - ❌ ABP snippet syntax (`#%#//snippet(...)`) — limited adoption
 
-**Implementation**:
-- uBO-only rules go in `src/advert/ublock.txt`
-- ABP users see them as comments (safe to ignore)
-- uBO users get full scriptlet support
+In practice, uBO-only rules go in `src/advert/ublock.txt`. ABP users see them as comments (safe to ignore); uBO users get full scriptlet support.
 
 ---
 
-### Why Commit Built Subscriptions to Git?
+### Why commit built subscriptions to git?
 
-**Decision**: `subscriptions/` is committed and tracked in git, not gitignored.
+`subscriptions/` is committed and tracked in git, not gitignored.
 
-**Rationale**:
-- **Zero-dependency distribution**: Users subscribe to raw GitHub URLs, no CDN/build server needed
-- **Atomic history**: Every source change has corresponding subscription snapshot
-- **Rollback safety**: Easy to revert bad builds
-- **GitLab mirror works**: GitLab CI doesn't need to rebuild, just mirrors
+Users subscribe to raw GitHub URLs, so no CDN or build server is needed. Every source change gets a corresponding subscription snapshot in history, which makes bad builds easy to revert. The GitLab mirror also works without rebuilding.
 
-**Tradeoff**: Larger repo size (21 subscriptions × history), but manageable (<100MB total).
+The tradeoff is repo size (21 subscriptions × history), but it stays under 100MB total.
 
 ---
 
-### Why Multiple DNS Formats?
+### Why multiple DNS formats?
 
-**Decision**: Support 8 DNS blocker formats (hosts, plain, dnsmasq, RPZ, etc.) from single source.
-
-**Rationale**:
-- **User diversity**: Pi-Hole uses hosts, AdGuard Home uses adblock syntax, Unbound uses RPZ
-- **Zero maintenance**: `dns_converter.py` auto-generates from ABP hosts files
-- **Single source of truth**: `src/advert/adservers.txt` → all DNS formats stay in sync
+Eight DNS blocker formats (hosts, plain, dnsmasq, RPZ, etc.) are generated from a single source, because users run Pi-Hole, AdGuard Home, unbound, and other blockers that each expect a different syntax. `dns_converter.py` generates all of them automatically, and `src/advert/adservers.txt` remains the single source of truth, so every DNS format stays in sync.
 
 ---
 
-### Why Split `src/advert/` into Multiple Files?
+### Why split `src/advert/` into multiple files?
 
-**Decision**: 8 files (`adservers.txt`, `thirdparty.txt`, `general_block.txt`, etc.) instead of one monolithic file.
+Eight files (`adservers.txt`, `thirdparty.txt`, `general_block.txt`, etc.) instead of one monolithic file.
 
-**Rationale**:
-- **Clarity**: Clear placement rules (see `adblock-filter-dev` skill)
-- **Selective inclusion**: Templates can include/exclude categories (e.g., `noelemhide` skips `*_hide.txt`)
-- **Merge conflict reduction**: Contributors work on different files
-- **Performance**: AGLint runs faster on smaller files
+Each file has clear placement rules (see [Filter source structure](https://github.com/ABPindo/indonesianadblockrules/wiki/Filter-Source-Structure)). Templates can include or exclude categories, e.g. `noelemhide` skips `*_hide.txt`. Contributors working on different files get fewer merge conflicts, and AGLint runs faster on smaller files.
 
 ---
 
-## Adding New Components
+## Adding new components
 
-### Adding a New Subscription Variant
+### Adding a new subscription variant
 
-**Example**: Create `abpindo_lite.template` for mobile users (network blocks only, no cosmetic).
+Example: create `abpindo_lite.template` for mobile users (network blocks only, no cosmetic).
 
-**Steps**:
 1. Create `abpindo_lite.template` in repo root:
    ```
    [Adblock Plus 2.0]
@@ -303,7 +283,7 @@ git push
    %include abpindo:src/advert/thirdparty.txt%
    %include abpindo:src/advert/general_block.txt%
    %include abpindo:src/advert/specific_block.txt%
-   %include abpindo:src/advert/scriptlet_ublock.txt%
+   %include abpindo:src/advert/ublock.txt%
    %include abpindo:src/advert/allowlist.txt%
    ```
 
@@ -325,11 +305,10 @@ git push
 
 ---
 
-### Adding a New DNS Format
+### Adding a new DNS format
 
-**Example**: Add DNSCrypt blocklist format.
+Example: add DNSCrypt blocklist format.
 
-**Steps**:
 1. Edit `tools/dns_converter.py`, add format to `FORMATS` dict:
    ```python
    FORMATS = {
@@ -356,11 +335,10 @@ git push
 
 ---
 
-### Adding a New Source Filter File
+### Adding a new source filter file
 
-**Example**: Add `src/advert/chinese_ads.txt` for Indonesian sites serving Chinese ads.
+Example: add `src/advert/chinese_ads.txt` for Indonesian sites serving Chinese ads.
 
-**Steps**:
 1. Create `src/advert/chinese_ads.txt` with rules
 
 2. Edit relevant templates to include it:
@@ -376,31 +354,30 @@ git push
 
 ---
 
-## Performance Considerations
+## Performance
 
-### Filter Count vs Execution Speed
+### Filter count vs execution speed
 
-- **Network rules** are fast (O(1) hash lookups in most engines)
-- **Cosmetic filters** (`##`) are moderate (DOM query on page load)
-- **Procedural cosmetic filters** (`#?#`, `:has()`, `:upward()`) are slow (run on every DOM mutation)
+- Network rules are fast (O(1) hash lookups in most engines)
+- Cosmetic filters (`##`) are moderate (DOM query on page load)
+- Procedural cosmetic filters (`#?#`, `:has()`, `:upward()`) are slow (run on every DOM mutation)
 
-**Guidelines**:
+Guidelines:
+
 - Prefer network blocks over cosmetic filters when possible
 - Prefer simple `##` selectors over procedural `#?#`
 - Use procedural filters only when static CSS selectors can't express the rule
 - Limit per-site procedural filters to <10 (performance impact on slow devices)
 
-### Build Time
+### Build time
 
-Current build takes ~30-60 seconds in CI:
+The build takes ~30-60 seconds in CI:
 - AGLint: ~5s (18 files, 10k rules)
 - flrender: ~10s (7 ABP variants)
 - dns_converter.py: ~15s (14 DNS variants)
 - Commit + push: ~10s
 
-**Optimization opportunities**:
-- Cache `node_modules/` in CI (already done via setup-tools action)
-- Parallelize DNS conversions (currently sequential)
+`node_modules/` is already cached in CI via the setup-tools action. DNS conversions could be parallelized (currently sequential).
 
 ---
 
@@ -408,9 +385,8 @@ Current build takes ~30-60 seconds in CI:
 
 ### "AGLint errors on valid rules"
 
-**Symptom**: PR fails validation, but rules look correct.
+A PR fails validation but the rules look correct.
 
-**Solution**:
 1. Check `.aglintrc.yaml` syntax setting (should be `AdblockPlus`)
 2. Verify rule is valid ABP or uBO syntax (not AdGuard-specific)
 3. Check for hidden characters (BOM, CRLF on Windows)
@@ -420,9 +396,8 @@ Current build takes ~30-60 seconds in CI:
 
 ### "Build succeeds but filters don't work"
 
-**Symptom**: CI green, but ads not blocked in browser.
+CI is green but ads aren't blocked in the browser.
 
-**Solution**:
 1. Check filter is in correct source file (network vs cosmetic)
 2. Verify template includes that source file
 3. Clear browser's filter cache and force update
@@ -433,10 +408,9 @@ Current build takes ~30-60 seconds in CI:
 
 ### "Merge conflicts in subscriptions/"
 
-**Symptom**: PR has conflicts in generated `subscriptions/*.txt` files.
+A PR has conflicts in generated `subscriptions/*.txt` files.
 
-**Solution**:
-1. **Never manually resolve conflicts in subscriptions/**.
+1. Never resolve conflicts in subscriptions/ by hand
 2. Rebase your branch on latest master: `git rebase origin/master`
 3. Resolve conflicts in `src/` only
 4. Let CI regenerate `subscriptions/` cleanly
@@ -447,7 +421,7 @@ Current build takes ~30-60 seconds in CI:
 
 - [flrender (python-abp)](https://github.com/adblockplus/python-abp) — ABP subscription renderer
 - [AGLint](https://github.com/AdguardTeam/AGLint) — Filter list linter
-- [FOP (Filter Orderer and Prettifier)](https://github.com/realodix/AdBlockFilterTools) — Filter formatter
+- [FOP (Filter Orderer and Prettifier)](https://github.com/ryanbr/fop-rs) — Filter formatter
 - [uBlock Origin filter syntax](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 - [Adblock Plus filter syntax](https://help.eyeo.com/en/adblockplus/how-to-write-filters)
 
