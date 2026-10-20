@@ -56,3 +56,5 @@ info-menarik.net##+js(aopw, ai_front)
 ||digitaloceanspaces.com/nokephub/$media,redirect=noopmp4-1s
 ||r2.dev/*.mp4$media,redirect=noopmp4-1s,domain=nokephub.*
 ||serverx16.online/hls/$media,redirect=noopmp4-1s
+dodz.pro##+js(set-constant, bait_b3j4hu231, true)
+dodz.pro##+js(nowoif)
