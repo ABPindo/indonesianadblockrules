@@ -160,7 +160,7 @@ bioskopkeren.*,terbit21.*###float-bottom-banner
 anixverseone.com###floatads1
 komikstation.com###floatbanner
 samehadaku.*###floatbottom
-ainzscans.net,anichin.*,animexin.xyz,bgibola.com,cosmic345.co,cosmicscans.*,isekaisubs.web.id,kiryuu02.*,komiksin.*,komiku.*,nekokun.my.id,nobartv.*,samehadaku.*,tvbersama.*,tvbersama.cc###floatcenter
+ainzscans.net,anichin.*,animexin.xyz,bgibola.com,cosmic345.co,cosmicscans.*,isekaisubs.web.id,kiryuu02.*,komiksin.*,komiku.*,nekokun.my.id,nobartv.*,samehadaku.*,tvbersama.*###floatcenter
 rebahin21.*###floating-banner
 northridgeautospa.com###floating_banner_bot2
 bioskop.*,bioskop21.*###floating_banner_bottom
@@ -180,8 +180,8 @@ nusantaratv.com###google_ads_2
 kuyhaa.id###gp-download-wrapper
 pojoksatu.id###gpt-passback-p5
 kontan.co.id###halfpage-ads
-layarkaca21.*,layarkaca21.com,lk21.org###hbanner
-bioskopkeren.*,bioskopkeren.sbs###headads
+layarkaca21.*,lk21.org###hbanner
+bioskopkeren.*###headads
 sindonews.com#@##header-ads
 kuramanime.*###headerBannerSection
 indosiar.com###headerbanner
@@ -722,7 +722,7 @@ gosulut.id##.gmr-share-popup
 vnn.co.id##.googlepublisherads
 delik.tv,realitakita.com##.gpt-ad-inner
 kompas.com##.gramedia__gate
-komikcast.*,komikcast01.*,komikcast02.*,komikindo.*,komikindo.tv,komikindo1.*,komikindo3.*,komikindo4.*##.gulai_asam_manis
+komikcast.*,komikcast01.*,komikcast02.*,komikindo.*,komikindo1.*,komikindo3.*,komikindo4.*##.gulai_asam_manis
 marketeers.com##.h-\[110px\]
 cubmu.com##.h-\[250px\].w-\[300px\]
 marketeers.com##.h-\[260px\]
@@ -797,7 +797,7 @@ kompas.com##.kgnw-modal-ads
 kompas.com##.kgnw-modal-adswrap
 kontan.co.id##.kiri-det-desk
 apk.miuiku.com,lewat.club##.klikdisini
-ainzscans.net,alqanime.*,anichin.*,animekompi.*,awsubs.*,cosmic345.co,cosmicscans.*,ikiru.one,ikiru.world,isekaisubs.web.id,kazefuri.*,kiryuu01.com,kiryuu02.*,komikcast.*,komikcast01.*,komikcast02.*,komikcast02.com,komikcast03.*,komikindo.*,komikindo.co,komikindo.me,komikindo1.*,komikindo3.*,komikindo4.*,komikremaja.club,komikstation.co,komiktap.info,komiku.*,kuronime.*,mangakita.id,movieku.*,nimeindo.*,oploverz.*,samehadaku.*##.kln
+ainzscans.net,alqanime.*,anichin.*,animekompi.*,awsubs.*,cosmic345.co,cosmicscans.*,ikiru.one,ikiru.world,isekaisubs.web.id,kazefuri.*,kiryuu01.com,kiryuu02.*,komikcast.*,komikcast01.*,komikcast02.*,komikcast03.*,komikindo.*,komikindo1.*,komikindo3.*,komikindo4.*,komikremaja.club,komikstation.co,komiktap.info,komiku.*,kuronime.*,mangakita.id,movieku.*,nimeindo.*,oploverz.*,samehadaku.*##.kln
 mangakita.me,soulscans.my.id##.kln.blox
 faktabali.com##.ktzsingle-bannerright
 kontan.co.id##.kus
