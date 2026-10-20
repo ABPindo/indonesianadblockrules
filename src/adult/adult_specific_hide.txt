@@ -6,7 +6,7 @@ nekopoi.*###HTML1
 nekopoi.*###HTML9
 krucil.com###KD_adpB
 i-jav.space###ab-wall:style(display: none !important;)
-cctvbokep.bet,dutasex.*,dutasex.com,inibokep.bet,perawanbokep.*###ads
+cctvbokep.bet,dutasex.*,inibokep.bet,perawanbokep.*###ads
 pemersatufun.com###advertisement
 bintangmawar.net###bmpop_adpB
 pemersatufun.*###btasd
@@ -26,7 +26,7 @@ asupan.tokyo,bokepking.*,kingbokep.*,simontok.vu###floating-bottom
 asupan.tokyo,bokepking.*,kingbokep.*,simontok.vu###floating-top
 matapria.cam###floating-top-banner
 kayatan.vip###floatingBanner
-ruangbokep.*,ruangbokep.com,streamingbokeponline.*###floating_bot
+ruangbokep.*,streamingbokeponline.*###floating_bot
 tempatbokep.com###global-promo-wrapper
 terviral.cam###lin-floating-ad
 rumahparaperjaka.*###modal
@@ -36,18 +36,18 @@ iyottube.co,iyottube.com###playerOverlay
 javbabe.net,nekopoi.*###popup
 asiasizzle.com,flickerlust.com,indoxxihot.com,markasfilmhot.com,zonaplus.space###popup-banner-overlay
 mlyuk.pro###popupBanner
-artisbokep.*,artisbokep.site,republikbokep.*,xbokepin.*###popupBannerOverlay
+artisbokep.*,republikbokep.*,xbokepin.*###popupBannerOverlay
 kelasmalam.net###promo-after-lapor
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_3
 46.166.167.16,semprot.com,semprotku.com###semprotpokemon_4
 bokepvir.*###sticky-banner
-heppinn.id,komikcast02.com,komikdewasa.*,komikdewasa.art,komikdewasa.com,komikdewasa.me,komikremaja.*,kumapoi.info,kumapoi.me,manhwaindo.*,manhwaindo.com,pemersatu.*###teaser3
+heppinn.id,komikcast02.com,komikdewasa.*,komikremaja.*,kumapoi.info,kumapoi.me,manhwaindo.*,pemersatu.*###teaser3
 komikcast02.com###teaser4
 hencop.com###teaser7
 artisbokep.site###top-floating-banner-inner
 sange.link##.Dvr-B
 sange.link##.DvrCn
-artisbokep.*,artisbokep.online,artisbokep.site##.ab-top-video-banners
+artisbokep.*##.ab-top-video-banners
 bosku21.help,sangetods.net##.active.adde_modal-overlay
 pemersatu.top##.ad
 asiasizzle.com,csnbiru.blog,flickerlust.com,indoxxihot.com,markasfilmhot.com##.ad-banner
@@ -60,7 +60,7 @@ videocrot.*##.ads-720
 video.pemersatu.org##.adsbygoogle
 nekopoi.care##.adsgen
 lkprd.fun,lkprd.site##.adshu
-manhwaindo.*,manhwaindo.com##.agc-ad-slot
+manhwaindo.*##.agc-ad-slot
 pemersatu.*##.age-ad-card
 bokep.pemersatu.top,pemersatufun.com##.age-gate
 pemersatu.*##.age-gate-ad-mode
@@ -75,7 +75,7 @@ ceritaseksindo.org##.banner-float-bottom
 bokepvir.*##.banner-place-footer
 bokepvir.*##.banner-place-top
 18subindo.com##.banner-rotate-wrap
-artisbokep.*,artisbokep.online,artisbokep.site##.banner-slide
+artisbokep.*##.banner-slide
 dicrotin.fun##.bulletinwp-bulletin-item
 simontokx.tv##.close-text
 kayatan.vip,sebokep.vip##.crossfeed-card
@@ -86,7 +86,7 @@ rumahparaperjaka.*,rumahperjaka.*##.elementor-popup-modal
 semprot.com,semprotku.com##.f_floating_div_row.f_floating_div
 pinayflex.net##.floating-banner
 indoporn.pro##.full-brkas-container
-pemersatu.*,pemersatu.top##.gate-backdrop
+pemersatu.*##.gate-backdrop
 becekku.com,dewaporn.*,lendirqu.*,video.pejuanglendir.site##.happy-header
 dewaporn.*##.happy-header > [href] > .loading
 becekku.com,video.pejuanglendir.site##.happy-header-mobile
@@ -99,8 +99,8 @@ viexx.com##.info-banner
 semprot.com##.jual_tetek
 bokep.pemersatu.top,pemersatufun.*##.kamucurang-fader:style(display: none !important;)
 bokep.pemersatu.top,pemersatufun.*##.kamucurang:style(height: auto !important; overflow: visible !important; background-color: transparent !important;)
-manhwaindo.*,manhwaindo.com##.klan
-filmjepang.it.com,filmjepangku.net,filmjepangku.online,heppinn.id,javsubid.sx,klipjepang.shop,komik18.*,komikdewasa.*,komikremaja.*,kumapoi.info,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.baby,manhwaland.land,manhwaland.mom,manhwalist.com,pascol.*,pascol.com,skandalpedia.*,starjepang.*##.kln
+manhwaindo.*##.klan
+filmjepang.it.com,filmjepangku.net,filmjepangku.online,heppinn.id,javsubid.sx,klipjepang.shop,komik18.*,komikdewasa.*,komikremaja.*,kumapoi.info,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.baby,manhwaland.land,manhwaland.mom,manhwalist.com,pascol.*,skandalpedia.*,starjepang.*##.kln
 areakomik.com##.komik-card.native-ad-slot
 krucil.com##.krucil_ads
 krx18.com##.krx-banners
@@ -133,9 +133,9 @@ bokep.pemersatu.top,pemersatufun.*##.siapakita:style(display: none !important;)
 javsubid.sx##.sidebar-ads
 podjav.tv##.sidebar-box:has(> div[data-banner-id])
 csnbiru.blog##.skip-ad-btn
-lendirpedia.*,pascol.*,pascol.com##.teaser3
+lendirpedia.*,pascol.*##.teaser3
 komikdewasa.*##.teaser4
-artisbokep.*,artisbokep.online,artisbokep.site##.top-banner
+artisbokep.*##.top-banner
 dicrotin.fun##.video-block-happy
 dicrotin.fun##.video-block-happy-absolute
 realthaisluts.com##.video-list-ads
