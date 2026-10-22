@@ -1,7 +1,7 @@
-# Version: 202610221233
+# Version: 202610221309
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 22 Oct 2026 12:33 UTC
+# Last modified: 22 Oct 2026 13:09 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -272,6 +272,7 @@ server=/offwardscraps.com/
 server=/online5poker.com/
 server=/onlinepoker66.com/
 server=/orangarab.fun/
+server=/ozlinedsp.com/
 server=/pacificpoker.com/
 server=/pkr-88.com/
 server=/planettoto.com/
@@ -394,6 +395,7 @@ server=/whelmlegge.com/
 server=/wigobet.com/
 server=/win25keren.store/
 server=/xjudi.com/
+server=/yetansd.com/
 server=/yourpokercash.com/
 server=/yu.befitkersey.com/
 server=/zonaportal.org/

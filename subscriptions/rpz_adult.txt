@@ -1,7 +1,7 @@
-# Version: 202610221233
+# Version: 202610221309
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 22 Oct 2026 12:33 UTC
+# Last modified: 22 Oct 2026 13:09 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -272,6 +272,7 @@ offwardscraps.com CNAME .
 online5poker.com CNAME .
 onlinepoker66.com CNAME .
 orangarab.fun CNAME .
+ozlinedsp.com CNAME .
 pacificpoker.com CNAME .
 pkr-88.com CNAME .
 planettoto.com CNAME .
@@ -394,6 +395,7 @@ whelmlegge.com CNAME .
 wigobet.com CNAME .
 win25keren.store CNAME .
 xjudi.com CNAME .
+yetansd.com CNAME .
 yourpokercash.com CNAME .
 yu.befitkersey.com CNAME .
 zonaportal.org CNAME .
