@@ -45,6 +45,7 @@
 ||cek.to^$third-party
 ||celebpoker.com^$third-party
 ||chilipoker.com^$third-party
+||clickadu.com^$popup
 ||coolhandpoker.com^$third-party
 ||dafapoker.com^$third-party
 ||daftar.situsngacir.com^$third-party
@@ -57,6 +58,7 @@
 ||dewijudi.com^$third-party
 ||dewitogel.com^$third-party
 ||directyp.org^$third-party
+||dtscout.com^$third-party
 ||dutatoto.com^$third-party
 ||dwabt.pro^$third-party
 ||dwagg.me^$third-party
@@ -75,6 +77,7 @@
 ||goldentigerpoker.com^$third-party
 ||goldentoto.com^$third-party
 ||goldtoto.com^$third-party
+||histats.com^$third-party
 ||hokijudi99.com^$third-party
 ||hokitogel.com^$third-party
 ||homepokergames.com^$third-party
@@ -257,8 +260,7 @@
 ||wigobet.com^$third-party
 ||win25keren.store^$third-party
 ||xjudi.com^$third-party
-||yourpokercash.com^$third-party
 ||yetansd.com^$third-party
+||yourpokercash.com^$third-party
 ||yu.befitkersey.com^$third-party
 ||zonaportal.org^$third-party
-||clickadu.com^$popup
