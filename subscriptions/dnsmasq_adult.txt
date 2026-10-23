@@ -1,7 +1,7 @@
-# Version: 202610232151
+# Version: 202610232221
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 23 Oct 2026 21:51 UTC
+# Last modified: 23 Oct 2026 22:21 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -197,6 +197,7 @@ address=/deltatoto.com/0.0.0.0
 address=/dewijudi.com/0.0.0.0
 address=/dewitogel.com/0.0.0.0
 address=/directyp.org/0.0.0.0
+address=/dtscout.com/0.0.0.0
 address=/dutatoto.com/0.0.0.0
 address=/dwabt.pro/0.0.0.0
 address=/dwagg.me/0.0.0.0
@@ -215,6 +216,7 @@ address=/gentingpoker.com/0.0.0.0
 address=/goldentigerpoker.com/0.0.0.0
 address=/goldentoto.com/0.0.0.0
 address=/goldtoto.com/0.0.0.0
+address=/histats.com/0.0.0.0
 address=/hokijudi99.com/0.0.0.0
 address=/hokitogel.com/0.0.0.0
 address=/homepokergames.com/0.0.0.0
