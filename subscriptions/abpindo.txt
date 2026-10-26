@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202610232221
+! Version: 202610261133
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 23 Oct 2026 22:21 UTC
+! Last modified: 26 Oct 2026 11:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -328,6 +328,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||anibatch.*/wp-content/uploads/*.gif$image
 ||animeindo.*/wp-content/uploads/*.gif$image
 ||animeinweb.com/api/proxy/data/ads/show$~third-party,xmlhttprequest
+||animekompi.sbs/api/ads/$image
 ||animeku.*/public/vid/huskypres.mp4$media
 ||animexin.*/wp-content/uploads/*.gif$image,~third-party
 ||anoboy.watch/img/*.gif$image,domain=anoboy.watch
@@ -375,6 +376,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||fansubupdate.com/res/img/sampleads/
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
 ||gamma.cachefly.net/js/ad-exchange.js$third-party
+||gbr.animekompi.link/wp-content/uploads/$image,domain=animekompi.sbs
 ||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com|manhwaindo.id
 ||gudangmovies21.*/wp-content/uploads/*.gif$image
 ||harakah.net.my/images/stories/iklan/
@@ -1166,6 +1168,7 @@ bahasteknologi.com###fkdl[href]
 bioskopkeren.*###float-b-1
 terbit21.*,terbit21official.*###float-banner
 bioskopkeren.*,terbit21.*###float-bottom-banner
+animekompi.*###floatAdOverlay
 anixverseone.com###floatads1
 komikstation.com###floatbanner
 samehadaku.*###floatbottom
@@ -1695,6 +1698,7 @@ miyanime.site##.fixed-lside
 miyanime.site##.fixed-rside
 shinigami.asia##.flex-col.flex.mx-auto.container.false > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
 kompas.id##.flex.justify-center.lg\\:px-8.my-6
+animekompi.*##.float-ad-overlay
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
@@ -1943,6 +1947,7 @@ pikiran-rakyat.com##.prads
 kompas.com##.premium_div
 blibli.com##.product__card:has(.product__tag__ads)
 cna.id##.programtic-ads
+animekompi.*##.promo-grid
 bolasport.com,grid.id,gridoto.com,kompas.com,kompasiana.com,sonora.id,tribunnews.com##.pushdown-banner
 fimela.com##.py-4.banner
 beautyjournal.id##.r-1mi0q7o.r-sax9pr.r-14lw9ot.css-175oi2r
@@ -6012,6 +6017,7 @@ totojitu.gif|$image
 ##[href="https://klik.gg/anichin"]
 ##[href="https://klik.top/anichinh"]
 ##[href="https://klik.top/anichinid"]
+##[href="https://t.ly/anime-gacorrun"]
 ##[href="https://tinyurl.com/anichin36"]
 ##[href="https://tinyurl.com/anichinhoki"]
 ##[href^="http://1001win.fun"]
@@ -10028,6 +10034,7 @@ kingbokep.media##video[src*=".webm"]:not(div[class*="video"] > img)
 ||afapoker.com^$third-party
 ||ajar-poet.com^$popup
 ||aksesin.top^$third-party
+||akseskaiko.cam^$third-party
 ||allvegaspoker.com^$third-party
 ||anaktogel.com^$popup
 ||aosbobet.com^$popup
@@ -10144,6 +10151,7 @@ kingbokep.media##video[src*=".webm"]:not(div[class*="video"] > img)
 ||mitrapoker.com^$third-party
 ||mobilepokerclub.com^$third-party
 ||movd21.com^$third-party
+||mso303.monster^$third-party
 ||nag303.xyz^$third-party
 ||naga-poker.com^$third-party
 ||nagapoker.biz^$third-party
@@ -10239,6 +10247,7 @@ kingbokep.media##video[src*=".webm"]:not(div[class*="video"] > img)
 ||taruhancasino.com^$third-party
 ||taruhanku.com^$third-party
 ||temannonton.store^$third-party
+||terbangrusia.site^$third-party
 ||texaspokercc.com^$third-party
 ||theedgepoker.com^$third-party
 ||togel2.xtgem.com^$third-party

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202610232221
+! Version: 202610261133
 ! Title: ABPindo (hosts + adult)
 ! Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-! Last modified: 23 Oct 2026 22:21 UTC
+! Last modified: 26 Oct 2026 11:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -151,6 +151,7 @@
 ||afapoker.com^$third-party
 ||ajar-poet.com^$popup
 ||aksesin.top^$third-party
+||akseskaiko.cam^$third-party
 ||allvegaspoker.com^$third-party
 ||anaktogel.com^$popup
 ||aosbobet.com^$popup
@@ -267,6 +268,7 @@
 ||mitrapoker.com^$third-party
 ||mobilepokerclub.com^$third-party
 ||movd21.com^$third-party
+||mso303.monster^$third-party
 ||nag303.xyz^$third-party
 ||naga-poker.com^$third-party
 ||nagapoker.biz^$third-party
@@ -362,6 +364,7 @@
 ||taruhancasino.com^$third-party
 ||taruhanku.com^$third-party
 ||temannonton.store^$third-party
+||terbangrusia.site^$third-party
 ||texaspokercc.com^$third-party
 ||theedgepoker.com^$third-party
 ||togel2.xtgem.com^$third-party

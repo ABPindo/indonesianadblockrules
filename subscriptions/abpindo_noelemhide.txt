@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202610232221
+! Version: 202610261133
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 23 Oct 2026 22:21 UTC
+! Last modified: 26 Oct 2026 11:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -328,6 +328,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||anibatch.*/wp-content/uploads/*.gif$image
 ||animeindo.*/wp-content/uploads/*.gif$image
 ||animeinweb.com/api/proxy/data/ads/show$~third-party,xmlhttprequest
+||animekompi.sbs/api/ads/$image
 ||animeku.*/public/vid/huskypres.mp4$media
 ||animexin.*/wp-content/uploads/*.gif$image,~third-party
 ||anoboy.watch/img/*.gif$image,domain=anoboy.watch
@@ -375,6 +376,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||fansubupdate.com/res/img/sampleads/
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
 ||gamma.cachefly.net/js/ad-exchange.js$third-party
+||gbr.animekompi.link/wp-content/uploads/$image,domain=animekompi.sbs
 ||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com|manhwaindo.id
 ||gudangmovies21.*/wp-content/uploads/*.gif$image
 ||harakah.net.my/images/stories/iklan/
@@ -4150,6 +4152,7 @@ totojitu.gif|$image
 ||afapoker.com^$third-party
 ||ajar-poet.com^$popup
 ||aksesin.top^$third-party
+||akseskaiko.cam^$third-party
 ||allvegaspoker.com^$third-party
 ||anaktogel.com^$popup
 ||aosbobet.com^$popup
@@ -4266,6 +4269,7 @@ totojitu.gif|$image
 ||mitrapoker.com^$third-party
 ||mobilepokerclub.com^$third-party
 ||movd21.com^$third-party
+||mso303.monster^$third-party
 ||nag303.xyz^$third-party
 ||naga-poker.com^$third-party
 ||nagapoker.biz^$third-party
@@ -4361,6 +4365,7 @@ totojitu.gif|$image
 ||taruhancasino.com^$third-party
 ||taruhanku.com^$third-party
 ||temannonton.store^$third-party
+||terbangrusia.site^$third-party
 ||texaspokercc.com^$third-party
 ||theedgepoker.com^$third-party
 ||togel2.xtgem.com^$third-party

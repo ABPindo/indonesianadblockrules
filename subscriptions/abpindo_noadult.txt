@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202610232221
+! Version: 202610261133
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 23 Oct 2026 22:21 UTC
+! Last modified: 26 Oct 2026 11:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -328,6 +328,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||anibatch.*/wp-content/uploads/*.gif$image
 ||animeindo.*/wp-content/uploads/*.gif$image
 ||animeinweb.com/api/proxy/data/ads/show$~third-party,xmlhttprequest
+||animekompi.sbs/api/ads/$image
 ||animeku.*/public/vid/huskypres.mp4$media
 ||animexin.*/wp-content/uploads/*.gif$image,~third-party
 ||anoboy.watch/img/*.gif$image,domain=anoboy.watch
@@ -375,6 +376,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||fansubupdate.com/res/img/sampleads/
 ||filmbioskop21.*/wp-content/uploads/*.gif$image
 ||gamma.cachefly.net/js/ad-exchange.js$third-party
+||gbr.animekompi.link/wp-content/uploads/$image,domain=animekompi.sbs
 ||google.co.id/search?q=$popup,domain=komikav.com|komikcast.com|manhwaindo.id
 ||gudangmovies21.*/wp-content/uploads/*.gif$image
 ||harakah.net.my/images/stories/iklan/
@@ -1166,6 +1168,7 @@ bahasteknologi.com###fkdl[href]
 bioskopkeren.*###float-b-1
 terbit21.*,terbit21official.*###float-banner
 bioskopkeren.*,terbit21.*###float-bottom-banner
+animekompi.*###floatAdOverlay
 anixverseone.com###floatads1
 komikstation.com###floatbanner
 samehadaku.*###floatbottom
@@ -1695,6 +1698,7 @@ miyanime.site##.fixed-lside
 miyanime.site##.fixed-rside
 shinigami.asia##.flex-col.flex.mx-auto.container.false > .mx-auto.container > .gap-4.md\:gap-4.md\:grid-cols-2.grid-cols-1.grid
 kompas.id##.flex.justify-center.lg\\:px-8.my-6
+animekompi.*##.float-ad-overlay
 bolasport.com,gridoto.com##.float-ads
 readwebtoons.com##.float-ck
 manganime.in##.float_tengah
@@ -1943,6 +1947,7 @@ pikiran-rakyat.com##.prads
 kompas.com##.premium_div
 blibli.com##.product__card:has(.product__tag__ads)
 cna.id##.programtic-ads
+animekompi.*##.promo-grid
 bolasport.com,grid.id,gridoto.com,kompas.com,kompasiana.com,sonora.id,tribunnews.com##.pushdown-banner
 fimela.com##.py-4.banner
 beautyjournal.id##.r-1mi0q7o.r-sax9pr.r-14lw9ot.css-175oi2r
