@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202610261133
+! Version: 202610261202
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 26 Oct 2026 11:33 UTC
+! Last modified: 26 Oct 2026 12:02 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -9936,6 +9936,8 @@ drbokep.*##.loaded.ads-50
 vivamaxstream.com##.movie-top-ads
 javdesu.tv##.overflow-hidden.w-full.aspect-\[728\/90\].relative
 doujin.desu.xxx##.partner-slot-frame
+hentaisubindo.net##.pf-ad
+hentaisubindo.net##.pf-adblock-wall:style(display: none !important;)
 podjav.tv##.player-banner-ads-top
 videyindo.space##.playeroverlay
 agenbokep.*##.popbox
@@ -9996,10 +9998,11 @@ animekompi.*,artisbokep.*,komikdewasa.art,nekopoi.*,republikbokep.*,sebokep.vip,
 kayatan.vip##aside > div > .mt-4
 bokep.pemersatu.top##body.age-gate-open:style(overflow: auto !important;)
 pemersatufun.com##body.gate-open > :not(.age-gate):style(pointer-events: auto !important;)
-i-jav.space,komikpoi.com,rumahparaperjaka.*##body:style(overflow: auto !important;)
+hentaisubindo.net,i-jav.space,komikpoi.com,rumahparaperjaka.*##body:style(overflow: auto !important;)
 komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !important;)
 pemersatu.*##div.ad iframe
 pemersatu.*##div.ad ins
+hentaisubindo.net##div.pf-ad-bait:style(display: block !important; height: 1px !important;)
 asiasizzle.com,zonaplus.space##div.popup-banner-content
 asiasizzle.com,zonaplus.space##div.popup-banner-grid
 bokepi.com##div:has(> a[href^="https://tuanmuda88baja.com/"]):style(display: none !important;)
@@ -10037,6 +10040,7 @@ kingbokep.media##video[src*=".webm"]:not(div[class*="video"] > img)
 ||akseskaiko.cam^$third-party
 ||allvegaspoker.com^$third-party
 ||anaktogel.com^$popup
+||analytics.xxcontent.cfd^$third-party
 ||aosbobet.com^$popup
 ||aosbobet.com^$third-party
 ||areaslt.net^$third-party
