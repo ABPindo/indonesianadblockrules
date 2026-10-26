@@ -209,3 +209,7 @@ vivamaxstream.com##.movie-top-ads
 vivamaxstream.com###ad-slot-3
 vivamaxstream.com###ad-slot-5
 vivamaxstream.com###ad-slot-13
+hentaisubindo.net##.pf-ad
+hentaisubindo.net##div.pf-ad-bait:style(display: block !important; height: 1px !important;)
+hentaisubindo.net##.pf-adblock-wall:style(display: none !important;)
+hentaisubindo.net##body:style(overflow: auto !important;)
