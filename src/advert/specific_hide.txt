@@ -1285,3 +1285,6 @@ ayojatim.com##div[class*="adsbygoogle"]
 manadobaswara.com##.manado-widget
 mediahiburan.my##.adplaceholder-mrec
 theasianparent.com##.bottom-sticky-ad
+animekompi.*###floatAdOverlay
+animekompi.*##.float-ad-overlay
+animekompi.*##.promo-grid
