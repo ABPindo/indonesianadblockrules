@@ -1,71 +1,3 @@
-/1xbet250.gif|$image
-    redundant with:
-    /1xbet250.gif$image
-
-/1xbetnew.gif|$image
-    redundant with:
-    /1xbetnew.gif$image
-
-/Suroso88-720.webp$image
-    redundant with:
-    /suroso88-
-
-/doiqq.gif|$image
-    redundant with:
-    /doiqq.gif$image
-
-/fairqq.jpg|$image
-    redundant with:
-    /fairqq.jpg$image
-
-/iklan_slot_$image
-    redundant with:
-    /iklan_slot_
-
-/imcpkrn.gif|$image
-    redundant with:
-    /imcpkrn.gif$image
-
-/kartu-online.gif|$image
-    redundant with:
-    /kartu-online.gif$image
-
-/macau442.gif|$image
-    redundant with:
-    /macau442.gif$image
-
-/maniaslot.gif|$image
-    redundant with:
-    /maniaslot.gif$image
-
-/nagaikan.gif|$image
-    redundant with:
-    /nagaikan.gif$image
-
-hitekno.com##div.placeholder_read_body:nth-of-type(2)
-    redundant with:
-    hitekno.com##div.placeholder_read_body
-
-hitekno.com##div.placeholder_read_body:nth-of-type(3)
-    redundant with:
-    hitekno.com##div.placeholder_read_body
-
-hitekno.com##div.placeholder_read_body:nth-of-type(4)
-    redundant with:
-    hitekno.com##div.placeholder_read_body
-
-hitekno.com##div.placeholder_read_body:nth-of-type(5)
-    redundant with:
-    hitekno.com##div.placeholder_read_body
-
-manhwaindo.*,manhwaindo.com##.klan-float-bottom
-    redundant with:
-    manhwaindo.*,manhwaindo.com##.klan
-
-manhwaindo.*,manhwaindo.com##.klan-top
-    redundant with:
-    manhwaindo.*,manhwaindo.com##.klan
-
 ||acrossexterminatorfoggy.com^$third-party
     redundant with:
     ||acrossexterminatorfoggy.com^
@@ -82,6 +14,6 @@ manhwaindo.*,manhwaindo.com##.klan-top
     redundant with:
     ||directyp.org^
 
-||suaramerdeka.com/v1/images/iklan_ffi.$image
+||dtscout.com^$third-party
     redundant with:
-    /images/iklan_
+    ||dtscout.com^
