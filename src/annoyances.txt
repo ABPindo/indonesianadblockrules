@@ -140,7 +140,5 @@ kompas.com###kgmModal-onetap
 kompas.com##+js(aopr, triggerOneTapWall)
 kompas.com##+js(rc, -locked, body)
 ! kurakura21.net - anti-adblock popup (CHP Ads Block Detector plugin)
-kurakura21.net##.eczkflmfhstvfztsumhrirexbn_hcsktyuvtuthdvvprdbwzjvrod
-kurakura21.net##.uyvbutnyjubgiylpathdhjwr_lehjtnhznybscgcbtbhelfdz
-kurakura21.net##img[src*="chp-ads-block-detector"]
+kurakura21.net##body > div:has(a[href^="https://chpadblock.com"], img[src*="chp-ads-block-detector"])
 fortuneidn.com,ggwp.id,idntimes.com,popbela.com,popmama.com##div:has(> div > a[href^="https://www.idn.app"] > div > h2)
