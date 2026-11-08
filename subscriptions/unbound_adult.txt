@@ -1,7 +1,7 @@
-# Version: 202611062234
+# Version: 202611082206
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 06 Nov 2026 22:34 UTC
+# Last modified: 08 Nov 2026 22:06 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -169,6 +169,7 @@ local-zone: "bandarxl.bio" always_nxdomain
 local-zone: "bbm88.org" always_nxdomain
 local-zone: "bebasjudi.com" always_nxdomain
 local-zone: "belitogel.com" always_nxdomain
+local-zone: "bellsgirdles.com" always_nxdomain
 local-zone: "beritaagenjudi.com" always_nxdomain
 local-zone: "bio.wgauhh.xyz" always_nxdomain
 local-zone: "biotogel.com" always_nxdomain
@@ -210,6 +211,7 @@ local-zone: "europoker.com" always_nxdomain
 local-zone: "everypoker.com" always_nxdomain
 local-zone: "feltpoker.com" always_nxdomain
 local-zone: "file-assist.xuzor.com" always_nxdomain
+local-zone: "fulahunslack.com" always_nxdomain
 local-zone: "gacor.vin" always_nxdomain
 local-zone: "gacor.zone" always_nxdomain
 local-zone: "gaza-88.com" always_nxdomain
@@ -271,6 +273,7 @@ local-zone: "nagapoker.biz" always_nxdomain
 local-zone: "nagapoker.com" always_nxdomain
 local-zone: "nagapoker88.com" always_nxdomain
 local-zone: "nagatogel.com" always_nxdomain
+local-zone: "newshinyd.com" always_nxdomain
 local-zone: "noemisnakier.com" always_nxdomain
 local-zone: "nztoto.com" always_nxdomain
 local-zone: "obobet.net" always_nxdomain

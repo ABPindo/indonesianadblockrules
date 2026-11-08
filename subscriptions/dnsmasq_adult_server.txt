@@ -1,7 +1,7 @@
-# Version: 202611062234
+# Version: 202611082206
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 06 Nov 2026 22:34 UTC
+# Last modified: 08 Nov 2026 22:06 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -169,6 +169,7 @@ server=/bandarxl.bio/
 server=/bbm88.org/
 server=/bebasjudi.com/
 server=/belitogel.com/
+server=/bellsgirdles.com/
 server=/beritaagenjudi.com/
 server=/bio.wgauhh.xyz/
 server=/biotogel.com/
@@ -210,6 +211,7 @@ server=/europoker.com/
 server=/everypoker.com/
 server=/feltpoker.com/
 server=/file-assist.xuzor.com/
+server=/fulahunslack.com/
 server=/gacor.vin/
 server=/gacor.zone/
 server=/gaza-88.com/
@@ -271,6 +273,7 @@ server=/nagapoker.biz/
 server=/nagapoker.com/
 server=/nagapoker88.com/
 server=/nagatogel.com/
+server=/newshinyd.com/
 server=/noemisnakier.com/
 server=/nztoto.com/
 server=/obobet.net/

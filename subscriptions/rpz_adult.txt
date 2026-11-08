@@ -1,7 +1,7 @@
-# Version: 202611062234
+# Version: 202611082206
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 06 Nov 2026 22:34 UTC
+# Last modified: 08 Nov 2026 22:06 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -169,6 +169,7 @@ bandarxl.bio CNAME .
 bbm88.org CNAME .
 bebasjudi.com CNAME .
 belitogel.com CNAME .
+bellsgirdles.com CNAME .
 beritaagenjudi.com CNAME .
 bio.wgauhh.xyz CNAME .
 biotogel.com CNAME .
@@ -210,6 +211,7 @@ europoker.com CNAME .
 everypoker.com CNAME .
 feltpoker.com CNAME .
 file-assist.xuzor.com CNAME .
+fulahunslack.com CNAME .
 gacor.vin CNAME .
 gacor.zone CNAME .
 gaza-88.com CNAME .
@@ -271,6 +273,7 @@ nagapoker.biz CNAME .
 nagapoker.com CNAME .
 nagapoker88.com CNAME .
 nagatogel.com CNAME .
+newshinyd.com CNAME .
 noemisnakier.com CNAME .
 nztoto.com CNAME .
 obobet.net CNAME .
