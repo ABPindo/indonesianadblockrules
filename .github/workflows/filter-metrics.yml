@@ -135,13 +135,13 @@ jobs:
                       for file in "$dir"/*.txt; do
                         [ -f "$file" ] || continue
                         files=$((files + 1))
-                        rules=$((rules + $(grep -v '^[[:space:]]*$' "$file" | grep -vc '^[[:space:]]*!')))
+                        rules=$((rules + $(grep -v '^[[:space:]]*$' "$file" | grep -vc '^[[:space:]]*!' || true)))
                         size=$((size + $(du -k "$file" | cut -f1)))
                       done
                       [ "$files" -gt 0 ] || continue
                       echo "| $cat | $files | $rules | $size |" >> metrics.md
                     done
-                    echo "| (top-level) | $(find src -maxdepth 1 -name '*.txt' | wc -l) | $(grep -vh '^[[:space:]]*$' src/*.txt 2>/dev/null | grep -vc '^[[:space:]]*!') | $(du -k src/*.txt 2>/dev/null | awk '{s+=$1} END{print s+0}') |" >> metrics.md
+                    echo "| (top-level) | $(find src -maxdepth 1 -name '*.txt' | wc -l) | $(grep -vh '^[[:space:]]*$' src/*.txt 2>/dev/null | grep -vc '^[[:space:]]*!' || true) | $(du -k src/*.txt 2>/dev/null | awk '{s+=$1} END{print s+0}' || true) |" >> metrics.md
 
       - name: Rule type analysis
         run: |
