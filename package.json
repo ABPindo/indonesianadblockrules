@@ -10,7 +10,8 @@
   },
   "license": "GPL-3.0-or-later",
   "overrides": {
-    "zod": "3.24.4"
+    "zod": "3.24.4",
+    "glob": "14.0.4"
   },
   "devDependencies": {
     "@adguard/aglint": "^3.0.3",
