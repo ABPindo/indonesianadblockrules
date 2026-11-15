@@ -1,7 +1,6 @@
 ||143flix.com/matomo.js$script,domain=kayatan.vip|sebokep.vip
 ||1a-1791.com/video/$media,redirect=noopmp4-1s,domain=anichin.*
 ||1a-1791.com/video/$media,rewrite=abp-resource:blank-mp4,domain=anichin.*
-||anichin.cafe/wp-content/uploads/*hp-*777$image
 ||blogger.googleusercontent.com/img/$image,domain=igodesu.tv
 ||cdn.teknolur.eu.org^$image,domain=kingbokep.media
 ||ceritanakal.com/wp-content/uploads/2025/06/GIF-*.gif$image
