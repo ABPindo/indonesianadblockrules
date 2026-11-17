@@ -1,7 +1,7 @@
-# Version: 202611082206
+# Version: 202611172135
 # Title: ABPindo (hosts)
 # Description: ABPindo hosts file — blocks ad domains for Indonesian and Malaysian sites.
-# Last modified: 08 Nov 2026 22:06 UTC
+# Last modified: 17 Nov 2026 21:35 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -26,7 +26,6 @@ local-zone: "adskom.com" always_nxdomain
 local-zone: "adslop.com" always_nxdomain
 local-zone: "adstarsmedia.co.id" always_nxdomain
 local-zone: "ampclicks.com" always_nxdomain
-local-zone: "bellaads.com" always_nxdomain
 local-zone: "berangkasilmu.com" always_nxdomain
 local-zone: "cdnasiaclub.com" always_nxdomain
 local-zone: "cfs.uzone.id" always_nxdomain
@@ -100,7 +99,6 @@ local-zone: "dairouzy.net" always_nxdomain
 local-zone: "doathair.com" always_nxdomain
 local-zone: "edomz.com" always_nxdomain
 local-zone: "filebanner.com" always_nxdomain
-local-zone: "flexterkita.com" always_nxdomain
 local-zone: "gaslah.my.id" always_nxdomain
 local-zone: "iwtserve.com" always_nxdomain
 local-zone: "jagoiklan.com" always_nxdomain
@@ -110,7 +108,6 @@ local-zone: "villainoussession.com" always_nxdomain
 local-zone: "vkwaeo.com" always_nxdomain
 local-zone: "yllix.com" always_nxdomain
 # *** abpindo:src/advert/thirdparty.txt ***
-local-zone: "access.kaiko.cam" always_nxdomain
 local-zone: "archivehub.com.ng" always_nxdomain
 local-zone: "atgroup-link.id" always_nxdomain
 local-zone: "bergurukecina.fun" always_nxdomain

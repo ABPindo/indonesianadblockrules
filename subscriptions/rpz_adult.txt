@@ -1,7 +1,7 @@
-# Version: 202611082206
+# Version: 202611172135
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 08 Nov 2026 22:06 UTC
+# Last modified: 17 Nov 2026 21:35 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -26,7 +26,6 @@ adskom.com CNAME .
 adslop.com CNAME .
 adstarsmedia.co.id CNAME .
 ampclicks.com CNAME .
-bellaads.com CNAME .
 berangkasilmu.com CNAME .
 cdnasiaclub.com CNAME .
 cfs.uzone.id CNAME .
@@ -100,7 +99,6 @@ dairouzy.net CNAME .
 doathair.com CNAME .
 edomz.com CNAME .
 filebanner.com CNAME .
-flexterkita.com CNAME .
 gaslah.my.id CNAME .
 iwtserve.com CNAME .
 jagoiklan.com CNAME .
@@ -110,7 +108,6 @@ villainoussession.com CNAME .
 vkwaeo.com CNAME .
 yllix.com CNAME .
 # *** abpindo:src/advert/thirdparty.txt ***
-access.kaiko.cam CNAME .
 archivehub.com.ng CNAME .
 atgroup-link.id CNAME .
 bergurukecina.fun CNAME .
