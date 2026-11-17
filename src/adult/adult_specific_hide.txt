@@ -212,3 +212,4 @@ igo.desu.xxx##uads_300x250
 kingbokep.media##video[src*=".webm"]:not(div[class*="video"] > img)
 cableav.video##.global-top-banner
 cableav.video##.player-banner-stack
+rou.video##div[id^="ts_ad_native"]
