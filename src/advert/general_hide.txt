@@ -431,3 +431,5 @@
 ##[href^="https://promosi."]
 ##div[aria-label="Iklan"]
 ##img[data-ai-hint="advertisement banner"]
+##[class*="google-anno"]:style(display: none !important;)
+##[id*="google-anno"]:style(display: none !important;)
