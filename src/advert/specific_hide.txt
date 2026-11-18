@@ -1291,3 +1291,5 @@ ceknricek.com##.vignette-backdrop-wrap
 ceknricek.com##.ceknr-target
 jakartakita.com##[data-type="_mgwidget"]
 mistar.id##a[rel~="sponsored"]:has(img[src*="advertisement"])
+republika.co.id##[class^="widget-ads-"]
+republika.co.id##.rp-ad
