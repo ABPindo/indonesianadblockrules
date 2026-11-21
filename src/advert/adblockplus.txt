@@ -10,3 +10,4 @@
 ||serverx16.online/hls/$media,rewrite=abp-resource:blank-mp4,domain=simontokx.tv
 ||dicrotin.sbs/*.mp4$media,domain=dicrotin.*,rewrite=abp-resource:blank-mp4
 ||asia9sports.com/wp-content/uploads/$third-party,media,domain=idlixku.*,rewrite=abp-resource:blank-mp4
+||lockerimage.com^*.mp4$third-party,media,domain=kampungbokep.*,rewrite=abp-resource:blank-mp4
