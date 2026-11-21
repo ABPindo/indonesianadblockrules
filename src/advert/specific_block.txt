@@ -156,3 +156,4 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||animekompi.sbs/api/ads/$image
 ||gbr.animekompi.link/wp-content/uploads/$image,domain=animekompi.sbs
 ||ds3.aws-ec2.com/static/ads/$image
+||berbagi.app/assets/devtools-detector.$third-party
