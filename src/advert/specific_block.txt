@@ -164,3 +164,4 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||bloggerhub.id/wp-content/uploads/$third-party
 ||iklans.jatimtimes.com/data/dbimg/
 ||cloudhost.id^*/privat-ads/$third-party,domain=~idcloudhost.co.id|~idcloudhost.com
+||cloudhost.id^*/iklan_$third-party,domain=~idcloudhost.co.id|~idcloudhost.com
