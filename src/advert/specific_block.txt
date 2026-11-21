@@ -159,3 +159,4 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||berbagi.app/assets/devtools-detector.$third-party
 ||supabase.co^*/sidebar-banners/$third-party,image
 ||wp.com/*.photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
+||iuxmarket.com/api/v2/affiliate/$image,domain=~iux.com|~iuxmarket.com
