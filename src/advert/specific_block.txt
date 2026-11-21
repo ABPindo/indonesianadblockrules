@@ -166,3 +166,4 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||cloudhost.id^*/privat-ads/$third-party,domain=~idcloudhost.co.id|~idcloudhost.com
 ||cloudhost.id^*/iklan_$third-party,domain=~idcloudhost.co.id|~idcloudhost.com
 ||revmedia.my^*/banner-$third-party
+||sorot.site^*/ads/
