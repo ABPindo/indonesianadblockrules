@@ -12,3 +12,4 @@
 ||asia9sports.com/wp-content/uploads/$third-party,media,domain=idlixku.*,rewrite=abp-resource:blank-mp4
 ||lockerimage.com^*.mp4$third-party,media,domain=kampungbokep.*,rewrite=abp-resource:blank-mp4
 ||animeku.org/public/vid/$media,domain=kuronime.*,rewrite=abp-resource:blank-mp4
+||safelinku.com/ad_home.js$domain=tutwuri.id,rewrite=abp-resource:blank-js
