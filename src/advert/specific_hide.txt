@@ -1303,3 +1303,5 @@ juragan.film##a[target*="blank"]:has(> img)
 kiryuu.to##.ads-chapter-0
 kiryuu.to##.ads-header-1
 kuronime.sbs###aiklantengah
+manhwaindo.my##.agc-ad-slot
+manhwaindo.my##.klan
