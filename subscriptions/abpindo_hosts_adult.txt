@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202611212235
+! Version: 202611212358
 ! Title: ABPindo (hosts + adult)
 ! Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-! Last modified: 21 Nov 2026 22:35 UTC
+! Last modified: 21 Nov 2026 23:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -94,17 +94,23 @@
 ||9eb10b7a3d04a.com^$popup,third-party
 ||ads.mssb.cloud^$third-party
 ||afbcashidr.com^$popup,third-party
+||aurum.tirto.id^
 ||bondeddarkenedswerve.com^$popup
 ||brand.ad^$third-party
 ||dairouzy.net^$popup,third-party
+||decafeligiblyhad.com^$popup
 ||doathair.com^$third-party
 ||edomz.com^$third-party
 ||filebanner.com^$third-party
+||gajukogyxywahu.com^$popup
 ||gaslah.my.id^$third-party
 ||iwtserve.com^$popup,third-party
 ||jagoiklan.com^$third-party
 ||mousheen.net^$third-party
+||push.cnnindonesia.com^
 ||realwap.net^$third-party
+||rfesgftfefdesrfewsterwtfgewtfe.store^$popup
+||theme-sphere.com^$image,third-party
 ||villainoussession.com^$popup
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
@@ -141,6 +147,8 @@
 ||32redpoker.com^$third-party
 ||4vbbb.com^$third-party
 ||88togel.com^$third-party
+||acquaintjokinglyscoring.com^
+||acquaintjokinglyscoring.com^$popup
 ||acrossexterminatorfoggy.com^$third-party
 ||actionpoker.com^$third-party
 ||adroitdeceitcongestion.com^$third-party
@@ -154,11 +162,13 @@
 ||analytics.xxcontent.cfd^$third-party
 ||aosbobet.com^$popup
 ||aosbobet.com^$third-party
+||aqcaphatjoxv.com^
 ||areaslt.net^$third-party
 ||areataruhan.com^$third-party
 ||arenajudi.com^$third-party
 ||asiapoker777.com^$third-party
 ||astonwin.org^$popup
+||asukabeh.my.id^$popup
 ||auredzeon.com^$popup,third-party
 ||auredzetw.com^$third-party
 ||autocst.site^$third-party
@@ -166,6 +176,7 @@
 ||badylenicesist.com^$third-party
 ||bandarjuditogel.com^$third-party
 ||bandarxl.bio^$third-party
+||battueskink.com^$popup
 ||bbm88.org^$third-party
 ||bebasjudi.com^$popup
 ||belitogel.com^$third-party
@@ -179,6 +190,7 @@
 ||bojo.rajatravel.online^$third-party
 ||bokep.work/*.gif
 ||breedsmuteexams.com^$third-party
+||buffermotivatorsuffice.com^$popup
 ||bursajudibola.com^$third-party
 ||caramenangtogel.com^$third-party
 ||casinoclubpoker.com^$third-party
@@ -189,6 +201,7 @@
 ||celebpoker.com^$third-party
 ||chilipoker.com^$third-party
 ||clickadu.com^$popup
+||colorfulculture.click^
 ||coolhandpoker.com^$third-party
 ||dafapoker.com^$third-party
 ||daftar.situsngacir.com^$third-party
@@ -205,11 +218,13 @@
 ||dutatoto.com^$third-party
 ||dwabt.pro^$third-party
 ||dwagg.me^$third-party
+||eccentricsterilizevastness.com^$popup
 ||emputogel.com^$third-party
 ||enakslot.bio^$third-party
 ||eu.kinggroup.buzz^$third-party
 ||europoker.com^$third-party
 ||everypoker.com^$third-party
+||farflung-permission.com^
 ||feltpoker.com^$third-party
 ||file-assist.xuzor.com^$third-party
 ||fozekikikiminu.com^$third-party
@@ -219,6 +234,7 @@
 ||gaza-88.com^$third-party
 ||gembul.xyz^$third-party
 ||gentingpoker.com^$third-party
+||getandplay.web.id^$popup
 ||goldentigerpoker.com^$third-party
 ||goldentoto.com^$third-party
 ||goldtoto.com^$third-party
@@ -228,6 +244,8 @@
 ||homepokergames.com^$third-party
 ||hotpokerbonus.com^$third-party
 ||houseoftoto.com^$third-party
+||hubapi.my.id^$third-party
+||hungry-exit.com^
 ||infamous-maximum.com^$third-party
 ||infopojokbet.store^$third-party
 ||inipoker.com^$third-party
@@ -365,10 +383,12 @@
 ||taruhanbetting.com^$third-party
 ||taruhancasino.com^$third-party
 ||taruhanku.com^$third-party
+||team-168.com^$popup
 ||temannonton.store^$third-party
 ||terbangrusia.site^$third-party
 ||texaspokercc.com^$third-party
 ||theedgepoker.com^$third-party
+||thoroughgear.com^$popup
 ||togel2.xtgem.com^$third-party
 ||togel22.com^$third-party
 ||togel2d.com^$third-party
@@ -385,6 +405,7 @@
 ||togeltogel.com^$third-party
 ||togelwin.com^$third-party
 ||tokojudi.com^$third-party
+||tokoviral.online^$popup
 ||toptogel.com^$third-party
 ||totalpoker.com^$third-party
 ||toto13.com^$third-party
@@ -408,8 +429,11 @@
 ||whelmlegge.com^$third-party
 ||wigobet.com^$third-party
 ||win25keren.store^$third-party
+||wonderfulyesterday.com^
+||wonderfulyesterday.com^$popup
 ||xjudi.com^$third-party
 ||yetansd.com^$third-party
 ||yourpokercash.com^$third-party
 ||yu.befitkersey.com^$third-party
 ||zonaportal.org^$third-party
+||zzuolmapj.com^$popup

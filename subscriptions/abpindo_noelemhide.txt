@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202611212235
+! Version: 202611212358
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 21 Nov 2026 22:35 UTC
+! Last modified: 21 Nov 2026 23:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -95,17 +95,23 @@
 ||9eb10b7a3d04a.com^$popup,third-party
 ||ads.mssb.cloud^$third-party
 ||afbcashidr.com^$popup,third-party
+||aurum.tirto.id^
 ||bondeddarkenedswerve.com^$popup
 ||brand.ad^$third-party
 ||dairouzy.net^$popup,third-party
+||decafeligiblyhad.com^$popup
 ||doathair.com^$third-party
 ||edomz.com^$third-party
 ||filebanner.com^$third-party
+||gajukogyxywahu.com^$popup
 ||gaslah.my.id^$third-party
 ||iwtserve.com^$popup,third-party
 ||jagoiklan.com^$third-party
 ||mousheen.net^$third-party
+||push.cnnindonesia.com^
 ||realwap.net^$third-party
+||rfesgftfefdesrfewsterwtfgewtfe.store^$popup
+||theme-sphere.com^$image,third-party
 ||villainoussession.com^$popup
 ||vkwaeo.com^$third-party
 ||yllix.com^$popup,third-party
@@ -333,18 +339,24 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||api.winnetnews.com/api/*/banner/
 ||armylookfashion.com/728.swf
 ||asset.kompas.com/data/2025/02/27/sso/js/popup_manager.min.js$script
+||awscdnstatic.detik.net.id/live/_assets/cnbc/banner/
 ||awsubs.*/wp-content/themes/*/btn_close.gif$image
 ||awsubs.*/wp-content/uploads/*.gif$image
 ||bacasaja.id/assets/img/ad_banner.webp$image
+||berbagi.app/assets/devtools-detector.$third-party
 ||beritabaru.news/sc/detect-click.js
 ||bioskopxxi.*/wp-content/uploads/*.gif$image
 ||bk21.net/*.gif$image$domain=juragan.film
+||bloggerhub.id/wp-content/uploads/$third-party
+||brtnetwork.id/wp-content/uploads/$third-party
 ||budiarto.id/bausastra/assets/img/*.jpg
 ||budiarto.id/bausastra/assets/img/banner
 ||cakrawalanews.co.id/images/banner/$image
 ||cararegistrasi.com/img/download_1.png$image
 ||cdn.detik.net.id/detik2/mobile/js/it.mobile.js$script
 ||cdn.kaskus.com/img/skin/*.gif$image
+||cloudhost.id^*/iklan_$third-party,domain=~idcloudhost.co.id|~idcloudhost.com
+||cloudhost.id^*/privat-ads/$third-party,domain=~idcloudhost.co.id|~idcloudhost.com
 ||comotin.com/wp-content/uploads/*.gif$image
 ||conan.id/wp-content/uploads/2018/*.gif$image
 ||desustream.me/banner/$image
@@ -365,6 +377,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||doodcdn.com/ads/ad.js
 ||doroni.me/images/promo/
 ||dramaday.net/soundtrack.js$script
+||ds3.aws-ec2.com/static/ads/$image
 ||dwanonton.*/static/banner/*.gif$image
 ||ebsoft.web.id/wp-content/banners/
 ||emitennews.com/uploads/ads/ads_
@@ -385,6 +398,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||idbioskop.com/wp-content/uploads/*/*/ad-150x300-website.jpg
 ||idfl.*/assets/js/adst.js$script,~third-party
 ||idxxi.*/wp-content/uploads/*.gif$image
+||iklans.jatimtimes.com/data/dbimg/
 ||img.gm21.download/$image
 ||img.koran-jakarta.com/images/ads/
 ||img.koran-jakarta.com/images/advertisement/
@@ -397,6 +411,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||indotelko.com/images/banner/
 ||indotelko.com/inc/banner.css
 ||indotelko.com/inc/c_banner.js
+||iuxmarket.com/api/v2/affiliate/$image,domain=~iux.com|~iuxmarket.com
 ||jagatreview.com/wp-content/uploads/*-SKIN-
 ||jeniusplay.com/cdn/vastads/$xmlhttprequest
 ||juragan21.*/wp-content/uploads/*.gif$image
@@ -445,6 +460,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||pages.dev^$script,domain=atlantaelectronics.co.id
 ||playwebgame.com/banner/$third-party
 ||primbon.com/banner/ilmugendam.gif
+||revmedia.my^*/banner-$third-party
 ||riau24.com/portal/adv/$image
 ||s1.bk21.net/777/$image
 ||semuaberita.com/banner/
@@ -457,8 +473,10 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||shrinkads.com/js/xe.js$script
 ||snacklink.id/js/web-script.js$script,third-party
 ||solopos.com/banner/
+||sorot.site^*/ads/
 ||statically.io/*.ttgambar.xyz/*.jpg$popup
 ||sukanonton.*/wp-content/uploads/*.gif$image
+||supabase.co^*/sidebar-banners/$image,third-party
 ||t.co^$popup,domain=berkasdrive.*|nimegami.*
 ||tajir.la/komikcast$popup
 ||tamuvip.*^$popup
@@ -469,6 +487,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||ttgambar.xyz$popup
 ||tvkabel.net/prom/*.gif$image
 ||utusan.com.my/utusan/iklan/
+||wp.com/*.photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
 ||wsmwidget.mediaprimalabs.com^$domain=bharian.com.my|hmetro.com.my
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
@@ -526,10 +545,14 @@ anichin.watch##a:has(img[src$=".gif"])
 anichin.co,idlixku.com##a[target*="blank"]:has(> img)
 ! --- network rules with redirect/redirect-rule/to --------------------------- !
 /wp-content/uploads/*$media,redirect=noopmp4-1s,domain=nokephub.*
+bokepindo69.live##+js(nowoif)
 crotpedia.net##+js(noeval-if, ads)
 dodz.pro##+js(nowoif)
 dodz.pro##+js(set-constant, bait_b3j4hu231, true)
 info-menarik.net##+js(aopw, ai_front)
+kimcilonly.de##+js(nowoif)
+videyindo.space##+js(aeld, click, popMagic)
+videyindo.space##+js(nowoif)
 ||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
 ||bk21.net/*.mp4$media,redirect=noopmp4-1s,domain=juragan.film
 ||digitaloceanspaces.com/nokephub/$media,redirect=noopmp4-1s
@@ -542,9 +565,14 @@ info-menarik.net##+js(aopw, ai_front)
 ! These are excluded from main filter files to keep AGLint strict on common syntax.
 ! --------------------------------------------------------------------------- !
 ||animekompi.sbs/wp-content/uploads/$media,rewrite=abp-resource:blank-mp4,domain=animekompi.sbs
+||animeku.org/public/vid/$media,rewrite=abp-resource:blank-mp4,domain=kuronime.*
+||asia9sports.com/wp-content/uploads/$media,rewrite=abp-resource:blank-mp4,third-party,domain=idlixku.*
+||dicrotin.sbs/*.mp4$media,rewrite=abp-resource:blank-mp4,domain=dicrotin.*
 ||digitaloceanspaces.com/nokephub/$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
+||lockerimage.com^*.mp4$media,rewrite=abp-resource:blank-mp4,third-party,domain=kampungbokep.*
 ||nokephub.tv/wp-content/uploads/$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
 ||r2.dev/*.mp4$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
+||safelinku.com/ad_home.js$rewrite=abp-resource:blank-js,domain=tutwuri.id
 ||serverx16.online/hls/$media,rewrite=abp-resource:blank-mp4,domain=simontokx.tv
 ! *** abpindo:src/advert/allowlist.txt ***
 ! General Allowlist for Network Filters
@@ -570,6 +598,7 @@ adikanime.com#@#.idmuvi-banner-aftercontent
 juragan.film#@#.idmuvi-topbanner
 103.70.114.35,109.234.34.246,193.142.147.230,layardrama21.*#@#.idmuvi-topbanner-aftermenu
 tokosatu.com#@#.popupflyin-clicks-area
+@@||p.jwpcdn.com/player/plugins/vast/$domain=juragan.*|juraganfilm.info
 ! ---------------------------- adult ---------------------------------!
 ! *** abpindo:src/adult/adult_general_block.txt ***
 -668poker.$image
@@ -954,6 +983,7 @@ tokosatu.com#@#.popupflyin-clicks-area
 /dewaboya.$image,third-party
 /dewacash-$image
 /dewacash.gif$image
+/dewacuan%
 /DewaCuan-$image
 /dewacuan.gif|$image
 /dewacuki-$image
@@ -4121,6 +4151,7 @@ totojitu.gif|$image
 ||cableav.video/static/js/global-popunder.js
 ||cdn.teknolur.eu.org^$image,domain=kingbokep.media
 ||ceritanakal.com/wp-content/uploads/2025/06/GIF-*.gif$image
+||desu.xxx/content/banner/
 ||driverhugoverblown.com^
 ||earmuffpostnasalrisotto.com^
 ||goshort.info^$all,domain=jepangbasah.com|jepangkawai.com|jepangmaniak.com|jepangmantap.com
@@ -4131,6 +4162,8 @@ totojitu.gif|$image
 ||juicyads.com^,domain=kurakura21.net
 ||kayatan.vip/api/crossfeed$xmlhttprequest
 ||kayatan.vip/crossfeed.js$script
+||linksaya.com/storage/*/iklan_
+||lockerimage.com^*/banner-$third-party
 ||m.teknolur.eu.org^$popup,domain=kingbokep.media
 ||nekopoi.care/wp-content/uploads/*.gif$image,~third-party
 ||pic.desu.xxx/content/banner/$image
@@ -4144,6 +4177,8 @@ totojitu.gif|$image
 ||32redpoker.com^$third-party
 ||4vbbb.com^$third-party
 ||88togel.com^$third-party
+||acquaintjokinglyscoring.com^
+||acquaintjokinglyscoring.com^$popup
 ||acrossexterminatorfoggy.com^$third-party
 ||actionpoker.com^$third-party
 ||adroitdeceitcongestion.com^$third-party
@@ -4157,11 +4192,13 @@ totojitu.gif|$image
 ||analytics.xxcontent.cfd^$third-party
 ||aosbobet.com^$popup
 ||aosbobet.com^$third-party
+||aqcaphatjoxv.com^
 ||areaslt.net^$third-party
 ||areataruhan.com^$third-party
 ||arenajudi.com^$third-party
 ||asiapoker777.com^$third-party
 ||astonwin.org^$popup
+||asukabeh.my.id^$popup
 ||auredzeon.com^$popup,third-party
 ||auredzetw.com^$third-party
 ||autocst.site^$third-party
@@ -4169,6 +4206,7 @@ totojitu.gif|$image
 ||badylenicesist.com^$third-party
 ||bandarjuditogel.com^$third-party
 ||bandarxl.bio^$third-party
+||battueskink.com^$popup
 ||bbm88.org^$third-party
 ||bebasjudi.com^$popup
 ||belitogel.com^$third-party
@@ -4182,6 +4220,7 @@ totojitu.gif|$image
 ||bojo.rajatravel.online^$third-party
 ||bokep.work/*.gif
 ||breedsmuteexams.com^$third-party
+||buffermotivatorsuffice.com^$popup
 ||bursajudibola.com^$third-party
 ||caramenangtogel.com^$third-party
 ||casinoclubpoker.com^$third-party
@@ -4192,6 +4231,7 @@ totojitu.gif|$image
 ||celebpoker.com^$third-party
 ||chilipoker.com^$third-party
 ||clickadu.com^$popup
+||colorfulculture.click^
 ||coolhandpoker.com^$third-party
 ||dafapoker.com^$third-party
 ||daftar.situsngacir.com^$third-party
@@ -4208,11 +4248,13 @@ totojitu.gif|$image
 ||dutatoto.com^$third-party
 ||dwabt.pro^$third-party
 ||dwagg.me^$third-party
+||eccentricsterilizevastness.com^$popup
 ||emputogel.com^$third-party
 ||enakslot.bio^$third-party
 ||eu.kinggroup.buzz^$third-party
 ||europoker.com^$third-party
 ||everypoker.com^$third-party
+||farflung-permission.com^
 ||feltpoker.com^$third-party
 ||file-assist.xuzor.com^$third-party
 ||fozekikikiminu.com^$third-party
@@ -4222,6 +4264,7 @@ totojitu.gif|$image
 ||gaza-88.com^$third-party
 ||gembul.xyz^$third-party
 ||gentingpoker.com^$third-party
+||getandplay.web.id^$popup
 ||goldentigerpoker.com^$third-party
 ||goldentoto.com^$third-party
 ||goldtoto.com^$third-party
@@ -4231,6 +4274,8 @@ totojitu.gif|$image
 ||homepokergames.com^$third-party
 ||hotpokerbonus.com^$third-party
 ||houseoftoto.com^$third-party
+||hubapi.my.id^$third-party
+||hungry-exit.com^
 ||infamous-maximum.com^$third-party
 ||infopojokbet.store^$third-party
 ||inipoker.com^$third-party
@@ -4368,10 +4413,12 @@ totojitu.gif|$image
 ||taruhanbetting.com^$third-party
 ||taruhancasino.com^$third-party
 ||taruhanku.com^$third-party
+||team-168.com^$popup
 ||temannonton.store^$third-party
 ||terbangrusia.site^$third-party
 ||texaspokercc.com^$third-party
 ||theedgepoker.com^$third-party
+||thoroughgear.com^$popup
 ||togel2.xtgem.com^$third-party
 ||togel22.com^$third-party
 ||togel2d.com^$third-party
@@ -4388,6 +4435,7 @@ totojitu.gif|$image
 ||togeltogel.com^$third-party
 ||togelwin.com^$third-party
 ||tokojudi.com^$third-party
+||tokoviral.online^$popup
 ||toptogel.com^$third-party
 ||totalpoker.com^$third-party
 ||toto13.com^$third-party
@@ -4411,11 +4459,14 @@ totojitu.gif|$image
 ||whelmlegge.com^$third-party
 ||wigobet.com^$third-party
 ||win25keren.store^$third-party
+||wonderfulyesterday.com^
+||wonderfulyesterday.com^$popup
 ||xjudi.com^$third-party
 ||yetansd.com^$third-party
 ||yourpokercash.com^$third-party
 ||yu.befitkersey.com^$third-party
 ||zonaportal.org^$third-party
+||zzuolmapj.com^$popup
 ! *** abpindo:src/adult/adult_allowlist.txt ***
 ! Allowlist for element hiding filters
 @@||exoclick.com^$domain=pemersatufun.site
