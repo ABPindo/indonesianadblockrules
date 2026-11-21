@@ -221,3 +221,5 @@ komikmu.top##.kln
 komikmu.top###u6b1ogsk
 artisbokep.online##a[target*="blank"]:has(> img)
 bokepbox.co##a[target*="blank"]:has(img)
+filmnikmat.bar###fadeinbox
+filmnikmat.bar##a[target*="blank"]:has(> img)
