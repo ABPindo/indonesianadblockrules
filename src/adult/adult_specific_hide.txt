@@ -223,3 +223,4 @@ artisbokep.online##a[target*="blank"]:has(> img)
 bokepbox.co##a[target*="blank"]:has(img)
 filmnikmat.bar###fadeinbox
 filmnikmat.bar##a[target*="blank"]:has(> img)
+pukihot.surf##a[target*="blank"]:has(img)
