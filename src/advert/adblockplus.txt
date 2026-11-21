@@ -8,3 +8,4 @@
 ||nokephub.tv/wp-content/uploads/$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
 ||r2.dev/*.mp4$media,rewrite=abp-resource:blank-mp4,domain=nokephub.tv
 ||serverx16.online/hls/$media,rewrite=abp-resource:blank-mp4,domain=simontokx.tv
+||dicrotin.sbs/*.mp4$media,domain=dicrotin.*,rewrite=abp-resource:blank-mp4
