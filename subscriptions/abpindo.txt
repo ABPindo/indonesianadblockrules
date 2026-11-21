@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202611182203
+! Version: 202611212235
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 18 Nov 2026 22:03 UTC
+! Last modified: 21 Nov 2026 22:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -526,6 +526,7 @@ anichin.watch##a:has(img[src$=".gif"])
 anichin.co,idlixku.com##a[target*="blank"]:has(> img)
 ! --- network rules with redirect/redirect-rule/to --------------------------- !
 /wp-content/uploads/*$media,redirect=noopmp4-1s,domain=nokephub.*
+crotpedia.net##+js(noeval-if, ads)
 dodz.pro##+js(nowoif)
 dodz.pro##+js(set-constant, bait_b3j4hu231, true)
 info-menarik.net##+js(aopw, ai_front)
@@ -1576,6 +1577,7 @@ bharian.com.my##.block-bh-googledfp
 gudangpemain.com##.blocker-notice
 gudangpemain.com##.blocker-overlay
 kazefuri.net##.blox
+bacamanga.io##.bm-ad
 cosmogirl.co.id##.bnr
 beritasatu.com##.body-content.b1-article > .mt-3
 kabarbursa.com##.bottom-0.fixed
@@ -9870,6 +9872,7 @@ heppinn.id,komikcast02.com,komikdewasa.*,komikremaja.*,kumapoi.info,kumapoi.me,m
 komikcast02.com###teaser4
 hencop.com###teaser7
 artisbokep.site###top-floating-banner-inner
+komikmu.top###u6b1ogsk
 sange.link##.Dvr-B
 sange.link##.DvrCn
 artisbokep.*##.ab-top-video-banners
@@ -9879,6 +9882,7 @@ asiasizzle.com,csnbiru.blog,flickerlust.com,indoxxihot.com,markasfilmhot.com##.a
 csnbiru.blog##.ad-click-area
 pemersatufun.com##.ad-native-card
 bosku21.help,sangetods.net##.adde_modal_detector-show.adde_modal_detector
+crotpedia.net,shirodoujin.com##.ads
 komikindo.*##.ads a[href]
 komikindo.*##.ads iframe
 videocrot.*##.ads-720
@@ -9928,7 +9932,7 @@ bokep234.*##.jwp-ad-video
 pemersatu.top,pemersatudotfun.com,pemersatufun.*##.kamucurang-fader:style(display: none !important;)
 pemersatu.top,pemersatudotfun.com,pemersatufun.*##.kamucurang:style(height: auto !important; overflow: visible !important; background-color: transparent !important;)
 manhwaindo.*##.klan
-filmjepang.it.com,filmjepangku.net,filmjepangku.online,heppinn.id,javsubid.sx,klipjepang.shop,komik18.*,komikdewasa.*,komikremaja.*,kumapoi.info,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.baby,manhwaland.land,manhwaland.mom,manhwalist.com,pascol.*,skandalpedia.*,starjepang.*##.kln
+filmjepang.it.com,filmjepangku.net,filmjepangku.online,heppinn.id,javsubid.sx,klipjepang.shop,komik18.*,komikdewasa.*,komikmu.top,komikremaja.*,kumapoi.info,lendirpedia.*,mangasusuku.com,manhwaindo.*,manhwaland.baby,manhwaland.land,manhwaland.mom,manhwalist.com,pascol.*,skandalpedia.*,starjepang.*##.kln
 areakomik.com##.komik-card.native-ad-slot
 krucil.com##.krucil_ads
 krx18.com##.krx-banners
@@ -9960,12 +9964,14 @@ video.pemersatu.org##.pvs-ad
 xbokepin.*##.rbdb-overlay
 18subindo.com##.request-warning-bubble
 sebokep.com,sebokep.vip##.sg-popup-builder-content
+shirodoujin.com##.shirotheme-ad-modal
 nomat.site##.show.popup
 pemersatu.top,pemersatudotfun.com,pemersatufun.*##.siapakita:style(display: none !important;)
 javsubid.sx##.sidebar-ads
 podjav.tv##.sidebar-box:has(> div[data-banner-id])
 bokepinaja.com##.simple-banner
 csnbiru.blog##.skip-ad-btn
+crotpedia.net##.sticky-ad
 lendirpedia.*,pascol.*##.teaser3
 komikdewasa.*##.teaser4
 artisbokep.*##.top-banner
@@ -10007,6 +10013,7 @@ bokep.pemersatu.top##body.age-gate-open:style(overflow: auto !important;)
 pemersatufun.com##body.gate-open > :not(.age-gate):style(pointer-events: auto !important;)
 hentaisubindo.net,i-jav.space,komikpoi.com,rumahparaperjaka.*##body:style(overflow: auto !important;)
 komikdewasa.art##body:style(padding-top: 0 !important; padding-bottom: 0 !important;)
+shirodoujin.com##div#shirotheme-ad-bait:style(display: block !important; visibility: visible !important; opacity: 1 !important;)
 pemersatu.*##div.ad iframe
 pemersatu.*##div.ad ins
 hentaisubindo.net##div.pf-ad-bait:style(display: block !important; height: 1px !important;)
@@ -10290,6 +10297,7 @@ kingbokep.media##video[src*=".webm"]:not(div[class*="video"] > img)
 ||totomaster.com^$third-party
 ||truepoker.com^$third-party
 ||tuanmuda88baja.com^$third-party
+||tyliontentful.com^$third-party
 ||tzetzessmoking.com^$third-party
 ||ufo777link.com^$third-party
 ||undiantogel.com^$third-party
