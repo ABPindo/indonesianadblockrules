@@ -1294,3 +1294,5 @@ mistar.id##a[rel~="sponsored"]:has(img[src*="advertisement"])
 republika.co.id##[class^="widget-ads-"]
 republika.co.id##.rp-ad
 bacamanga.io##.bm-ad
+animekompi.sbs###teaser3[style="width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103; "]
+animekompi.sbs##img[alt="bengkulutoto" i]
