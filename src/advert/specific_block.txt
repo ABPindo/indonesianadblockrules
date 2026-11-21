@@ -155,3 +155,4 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||animekompi.sbs/api/ads/$image
 ||gbr.animekompi.link/wp-content/uploads/$image,domain=animekompi.sbs
+||ds3.aws-ec2.com/static/ads/$image
