@@ -220,3 +220,4 @@ crotpedia.net##.sticky-ad
 komikmu.top##.kln
 komikmu.top###u6b1ogsk
 artisbokep.online##a[target*="blank"]:has(> img)
+bokepbox.co##a[target*="blank"]:has(img)
