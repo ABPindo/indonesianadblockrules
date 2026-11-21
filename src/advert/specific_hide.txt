@@ -1294,3 +1294,16 @@ mistar.id##a[rel~="sponsored"]:has(img[src*="advertisement"])
 republika.co.id##[class^="widget-ads-"]
 republika.co.id##.rp-ad
 bacamanga.io##.bm-ad
+animekompi.sbs###teaser3[style="width: 100%;text-align: center;display: scroll;position:fixed;bottom: 0;margin: 0 auto;z-index: 103; "]
+animekompi.sbs##img[alt="bengkulutoto" i]
+anoboy.gg##html > div[style="position: fixed; inset: 0px; z-index: 2147483647; pointer-events: auto;"]
+juragan.film##.idmuvi-afterplayer
+juragan.film##.idmuvi-topplayer
+juragan.film##a[target*="blank"]:has(> img)
+kiryuu.to##.ads-chapter-0
+kiryuu.to##.ads-header-1
+kuronime.sbs###aiklantengah
+manhwaindo.my##.agc-ad-slot
+manhwaindo.my##.klan
+movieku.website##img[width="640px"][height="79px"]
+videyindo.space###customPopupOverlay

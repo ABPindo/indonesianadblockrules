@@ -219,3 +219,10 @@ shirodoujin.com##.shirotheme-ad-modal
 crotpedia.net##.sticky-ad
 komikmu.top##.kln
 komikmu.top###u6b1ogsk
+artisbokep.online##a[target*="blank"]:has(> img)
+bokepbox.co##a[target*="blank"]:has(img)
+filmnikmat.bar###fadeinbox
+filmnikmat.bar##a[target*="blank"]:has(> img)
+pukihot.surf##a[target*="blank"]:has(img)
+semikeren.bar###fadeinbox
+semikeren.bar##a[target*="blank"]:has(> img)

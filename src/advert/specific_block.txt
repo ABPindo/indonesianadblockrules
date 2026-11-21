@@ -155,3 +155,16 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
 ||animekompi.sbs/api/ads/$image
 ||gbr.animekompi.link/wp-content/uploads/$image,domain=animekompi.sbs
+||ds3.aws-ec2.com/static/ads/$image
+||berbagi.app/assets/devtools-detector.$third-party
+||supabase.co^*/sidebar-banners/$third-party,image
+||wp.com/*.photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
+||iuxmarket.com/api/v2/affiliate/$image,domain=~iux.com|~iuxmarket.com
+||awscdnstatic.detik.net.id/live/_assets/cnbc/banner/
+||bloggerhub.id/wp-content/uploads/$third-party
+||iklans.jatimtimes.com/data/dbimg/
+||cloudhost.id^*/privat-ads/$third-party,domain=~idcloudhost.co.id|~idcloudhost.com
+||cloudhost.id^*/iklan_$third-party,domain=~idcloudhost.co.id|~idcloudhost.com
+||revmedia.my^*/banner-$third-party
+||sorot.site^*/ads/
+||brtnetwork.id/wp-content/uploads/$third-party
