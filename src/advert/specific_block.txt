@@ -162,3 +162,4 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||iuxmarket.com/api/v2/affiliate/$image,domain=~iux.com|~iuxmarket.com
 ||awscdnstatic.detik.net.id/live/_assets/cnbc/banner/
 ||bloggerhub.id/wp-content/uploads/$third-party
+||iklans.jatimtimes.com/data/dbimg/
