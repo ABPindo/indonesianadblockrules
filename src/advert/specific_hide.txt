@@ -1313,3 +1313,5 @@ streambola.group###popupklan
 streambola.group###popupklanfooter
 streambola.group##.banner__item
 streambola.group##.inline-banner
+videye.pro###welcome-message
+videye.pro##[style^="position: fixed;"]
