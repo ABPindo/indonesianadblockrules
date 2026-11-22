@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202611212358
+! Version: 202611220201
 ! Title: ABPindo - No Adult
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa filter adult.
-! Last modified: 21 Nov 2026 23:58 UTC
+! Last modified: 22 Nov 2026 02:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -220,6 +220,7 @@
 .tv/iklan/$image,stylesheet
 /0iklan-$image
 /1iklan-
+/^https:\/\/[0-9a-z]{6,12}\.in(?:\/[a-z]{2,10}){1,3}$/$match-case,script,third-party
 /ads/iklan.$image
 /ads/iklan/*$image
 /adv/iklan.$image
@@ -234,6 +235,7 @@
 /banner_iklan1.
 /banner_iklan2.
 /banner_kanan_
+/disable-devtool.min.js
 /diskon_iklan/*$image
 /foto_iklan/*$image
 /gambar_iklan/*$image
@@ -489,6 +491,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||utusan.com.my/utusan/iklan/
 ||wp.com/*.photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
 ||wsmwidget.mediaprimalabs.com^$domain=bharian.com.my|hmetro.com.my
+||xys*-jadwal.pages.dev/adblock.js
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
@@ -546,11 +549,14 @@ anichin.co,idlixku.com##a[target*="blank"]:has(> img)
 ! --- network rules with redirect/redirect-rule/to --------------------------- !
 /wp-content/uploads/*$media,redirect=noopmp4-1s,domain=nokephub.*
 bokepindo69.live##+js(nowoif)
+bokeptod.in##+js(nowoif)
 crotpedia.net##+js(noeval-if, ads)
 dodz.pro##+js(nowoif)
 dodz.pro##+js(set-constant, bait_b3j4hu231, true)
+doujin.desu.xxx##+js(aeld, contextmenu)
 info-menarik.net##+js(aopw, ai_front)
 kimcilonly.de##+js(nowoif)
+kingbokep.media##+js(nowoif)
 videyindo.space##+js(aeld, click, popMagic)
 videyindo.space##+js(nowoif)
 ||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
@@ -1211,6 +1217,7 @@ blogspot.com###floating_banner_bottom2
 bioskop78.com###floating_banner_bottoms
 bioskop90.com###floating_banner_left
 bioskop90.com###floating_banner_right
+streambola.group###floating_banner_top
 baladfilm.*,northridgeautospa.com,spucweb.com###floating_banner_top1
 bioskop78.com,nonton33.com###floating_banner_tops
 indosport.com###flyingcarpet-ad
@@ -1307,6 +1314,8 @@ kuramanime.*###playerOverplay
 metrotvnews.com###popup-ads
 bioskopkeren.*,dunia21official.*,terbit21.*###popup-banner
 anoboy.*###popup_box
+streambola.group###popupklan
+streambola.group###popupklanfooter
 tirto.id###premium
 pikiran-rakyat.com###prmn__megabillboard
 tafsirweb.com###promo-after
@@ -1355,6 +1364,7 @@ indotelko.com###vertical_top_kanal
 layanfilem.*,lk21official.*###videoAd
 animeindo.net###videoad1
 moenime.com###w-node-b77
+videye.pro###welcome-message
 komikpoi.com###wp-iklan-overlay
 bioskop78.com###wrap > center
 gooto.com###zone_3
@@ -1557,6 +1567,7 @@ kompas.com##.bannerR3A
 indonesiasatu.kompas.com##.bannerTop1
 kompas.com##.bannerTopOut
 sonora.id##.banner__giant
+streambola.group##.banner__item
 sonora.id##.banner__left
 sonora.id##.banner__right
 sonora.id##.banner__top
@@ -1804,6 +1815,7 @@ blog.arizman.com##.iklan-kiri-postingan
 suki48.web.id##.iklanSUKI
 cantika.com##.ikln
 animeindo.video##.in_up_ad-area
+streambola.group##.inline-banner
 cantika.com##.inner-ads-content-1
 ulasan.co##.inner-floatleft
 ulasan.co##.inner-floatright
@@ -2199,10 +2211,12 @@ iberita.com##[style="float:right; margin:7px 0 10px 10px;"] > small
 katadata.co.id##[style="height:0; min-height:180px;"]
 jawapos.com##[style^="height"][style$="align-items: center;"]
 insertlive.com##[style^="padding-top:16px;margin-bottom:24px;"]
+videye.pro##[style^="position: fixed;"]
 yasir252.com##a#download-link[rel]
 idxx1.*##a.bnner
 semarangkota.com##a.thirstylink
 yasir252.com##a.tombol-link[href][target][rel]
+movieku.website##a:has(img[src$=".gif"])
 tokopedia.com##a[data-testid="lnkProductContainer"]:has(img[alt^="topads"])
 westmanga.info##a[href="https://klik.fun/Kp7S5"]
 mypt3.com##a[href][target="_blank"] > img

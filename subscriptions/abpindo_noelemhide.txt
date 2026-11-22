@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202611212358
+! Version: 202611220201
 ! Title: ABPindo - No Element Hiding
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia, tanpa element hiding. Termasuk filter adult.
-! Last modified: 21 Nov 2026 23:58 UTC
+! Last modified: 22 Nov 2026 02:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -220,6 +220,7 @@
 .tv/iklan/$image,stylesheet
 /0iklan-$image
 /1iklan-
+/^https:\/\/[0-9a-z]{6,12}\.in(?:\/[a-z]{2,10}){1,3}$/$match-case,script,third-party
 /ads/iklan.$image
 /ads/iklan/*$image
 /adv/iklan.$image
@@ -234,6 +235,7 @@
 /banner_iklan1.
 /banner_iklan2.
 /banner_kanan_
+/disable-devtool.min.js
 /diskon_iklan/*$image
 /foto_iklan/*$image
 /gambar_iklan/*$image
@@ -489,6 +491,7 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||utusan.com.my/utusan/iklan/
 ||wp.com/*.photobucket.com/*/Blogger%20Perempuan/banner-$domain=~bloggerperempuan.com
 ||wsmwidget.mediaprimalabs.com^$domain=bharian.com.my|hmetro.com.my
+||xys*-jadwal.pages.dev/adblock.js
 ||yourjavascript.com/0653544211/lompatin.js
 ||yourjavascript.com/1411253239/itu-domino-popup-script.js
 ||yourjavascript.com/9422241923/iklan-popweb-goalcoid.js
@@ -546,11 +549,14 @@ anichin.co,idlixku.com##a[target*="blank"]:has(> img)
 ! --- network rules with redirect/redirect-rule/to --------------------------- !
 /wp-content/uploads/*$media,redirect=noopmp4-1s,domain=nokephub.*
 bokepindo69.live##+js(nowoif)
+bokeptod.in##+js(nowoif)
 crotpedia.net##+js(noeval-if, ads)
 dodz.pro##+js(nowoif)
 dodz.pro##+js(set-constant, bait_b3j4hu231, true)
+doujin.desu.xxx##+js(aeld, contextmenu)
 info-menarik.net##+js(aopw, ai_front)
 kimcilonly.de##+js(nowoif)
+kingbokep.media##+js(nowoif)
 videyindo.space##+js(aeld, click, popMagic)
 videyindo.space##+js(nowoif)
 ||animekompi.sbs/wp-content/uploads/$media,redirect=noopmp4-1s
@@ -4203,6 +4209,7 @@ totojitu.gif|$image
 ||auredzetw.com^$third-party
 ||autocst.site^$third-party
 ||axes88.org^$third-party
+||badnessgimmickposted.com^$popup
 ||badylenicesist.com^$third-party
 ||bandarjuditogel.com^$third-party
 ||bandarxl.bio^$third-party

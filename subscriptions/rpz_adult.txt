@@ -1,7 +1,7 @@
-# Version: 202611212358
+# Version: 202611220201
 # Title: ABPindo (hosts + adult)
 # Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-# Last modified: 21 Nov 2026 23:58 UTC
+# Last modified: 22 Nov 2026 02:01 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://github.com/ABPindo/indonesianadblockrules/
 # License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -169,6 +169,7 @@ auredzeon.com CNAME .
 auredzetw.com CNAME .
 autocst.site CNAME .
 axes88.org CNAME .
+badnessgimmickposted.com CNAME .
 badylenicesist.com CNAME .
 bandarjuditogel.com CNAME .
 bandarxl.bio CNAME .
