@@ -1307,3 +1307,4 @@ manhwaindo.my##.agc-ad-slot
 manhwaindo.my##.klan
 movieku.website##img[width="640px"][height="79px"]
 videyindo.space###customPopupOverlay
+movieku.website##a:has(img[src$=".gif"])
