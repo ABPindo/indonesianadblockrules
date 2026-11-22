@@ -168,3 +168,4 @@ $popup,domain=animekompi.*|kiryuu.*|kiryuu03.*|komikstation.co|mangakita.id|wrt.
 ||revmedia.my^*/banner-$third-party
 ||sorot.site^*/ads/
 ||brtnetwork.id/wp-content/uploads/$third-party
+||xys*-jadwal.pages.dev/adblock.js
