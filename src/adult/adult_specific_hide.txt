@@ -226,3 +226,5 @@ filmnikmat.bar##a[target*="blank"]:has(> img)
 pukihot.surf##a[target*="blank"]:has(img)
 semikeren.bar###fadeinbox
 semikeren.bar##a[target*="blank"]:has(> img)
+doujin.desu.xxx##a[target*="blank"]:has(> img)
+doujin.desu.xxx##a[target*="blank"]:has(> img):not(.btn-link)
