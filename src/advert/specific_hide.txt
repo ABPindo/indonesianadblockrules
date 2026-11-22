@@ -1308,3 +1308,8 @@ manhwaindo.my##.klan
 movieku.website##img[width="640px"][height="79px"]
 videyindo.space###customPopupOverlay
 movieku.website##a:has(img[src$=".gif"])
+streambola.group###floating_banner_top
+streambola.group###popupklan
+streambola.group###popupklanfooter
+streambola.group##.banner__item
+streambola.group##.inline-banner
