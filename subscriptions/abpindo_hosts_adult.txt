@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202611220201
+! Version: 202611241411
 ! Title: ABPindo (hosts + adult)
 ! Description: ABPindo hosts file — blocks ad domains and adult/gambling domains for Indonesian and Malaysian sites.
-! Last modified: 22 Nov 2026 02:01 UTC
+! Last modified: 24 Nov 2026 14:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! License: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -102,11 +102,13 @@
 ||doathair.com^$third-party
 ||edomz.com^$third-party
 ||filebanner.com^$third-party
-||gajukogyxywahu.com^$popup
+||gajukogyxywahu.com^
 ||gaslah.my.id^$third-party
 ||iwtserve.com^$popup,third-party
 ||jagoiklan.com^$third-party
+||motionless-bus.com^
 ||mousheen.net^$third-party
+||prizefamily.com^
 ||push.cnnindonesia.com^
 ||realwap.net^$third-party
 ||rfesgftfefdesrfewsterwtfgewtfe.store^$popup
@@ -146,6 +148,7 @@
 ! *** abpindo:src/adult/adult_thirdparty.txt ***
 ||32redpoker.com^$third-party
 ||4vbbb.com^$third-party
+||4veee.com^$third-party
 ||88togel.com^$third-party
 ||acquaintjokinglyscoring.com^
 ||acquaintjokinglyscoring.com^$popup
@@ -168,7 +171,7 @@
 ||arenajudi.com^$third-party
 ||asiapoker777.com^$third-party
 ||astonwin.org^$popup
-||asukabeh.my.id^$popup
+||asukabeh.my.id^
 ||auredzeon.com^$popup,third-party
 ||auredzetw.com^$third-party
 ||autocst.site^$third-party
@@ -177,7 +180,7 @@
 ||badylenicesist.com^$third-party
 ||bandarjuditogel.com^$third-party
 ||bandarxl.bio^$third-party
-||battueskink.com^$popup
+||battueskink.com^
 ||bbm88.org^$third-party
 ||bebasjudi.com^$popup
 ||belitogel.com^$third-party
@@ -215,6 +218,7 @@
 ||dewijudi.com^$third-party
 ||dewitogel.com^$third-party
 ||directyp.org^$third-party
+||displayendpointstarring.com^
 ||dtscout.com^$third-party
 ||dutatoto.com^$third-party
 ||dwabt.pro^$third-party
