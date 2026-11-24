@@ -1315,3 +1315,7 @@ streambola.group##.banner__item
 streambola.group##.inline-banner
 videye.pro###welcome-message
 videye.pro##[style^="position: fixed;"]
+tabloidsenayan.com##.ts-ad-slot
+tabloidsenayan.com##.ts-managed-ad
+tabloidsenayan.com##.ts-netad
+tabloidsenayan.com##.sidebar-item-ads
